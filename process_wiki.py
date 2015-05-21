@@ -20,7 +20,7 @@ def process_files(files):
 			process(in_file, out_file)
 
 def process(in_file, out_file):
-    subprocess.call(['lynx', '-dump', '-nolist', in_file], stdout=out_file)
+	subprocess.call(['lynx', '-dump', '-nolist', in_file], stdout=out_file)
 
 def scrub(min_lines=5):
 	remove = []
@@ -56,5 +56,5 @@ if __name__ == "__main__":
 		os.mkdir("output")
 
 	process_files(find_files(sys.argv[1]))
-	scrub()
+	# scrub()
 

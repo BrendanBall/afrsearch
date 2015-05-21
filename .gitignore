@@ -4,10 +4,6 @@ __pycache__/
 
 # C extensions
 *.so
-<<<<<<< HEAD
-=======
-*~
->>>>>>> af7cb9fa70651631578d8ac17a6964e25aa61913
 
 # Distribution / packaging
 .Python

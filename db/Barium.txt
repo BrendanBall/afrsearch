@@ -1,0 +1,78 @@
+Barium
+
+
+
+   56                        sesium ← barium → lantaan
+   Sr
+   ↑
+   Ba
+   ↓
+   Ra
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal barium, Ba, 56
+                                         Chemiese reeks alkalie-aardmetale
+                                              Groep, Periode, Blok 2, 6, s
+                                                     Voorkoms silwerig wit
+                                              Atoommassa 137.327 (7) g/mol
+                                            Elektronkonfigurasie [Xe] 6s^2
+                                     Elektrone per skil 2, 8, 18, 18, 8, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 3.51 g/cm³
+                                 Vloeistof digtheid teen s.p. 3.338 g/cm³
+                                                          Smeltpunt 1000 K
+                                                                 (727 °C)
+                                                           Kookpunt 2170 K
+                                                                (1897 °C)
+                                               Smeltingswarmte 7.12 kJ/mol
+                                            Verdampingswarmte 140.3 kJ/mol
+                                Warmtekapasiteit (25 °C) 28.07 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                      P/Pa    1   10  100  1 k  10 k 100 k
+                                    teen T/K 911 1038 1185 1388 1686 2170
+
+                                                           Atoomeienskappe
+                               Kristalstruktuur kubies liggaamsgesentreerd
+                                                      Oksidasietoestande 2
+                                                    (sterk basiese oksied)
+                              Elektronegatiwiteit 0.89 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 502.9 kJ/mol
+                                                         2de: 965.2 kJ/mol
+                                                         3rde: 3600 kJ/mol
+                                                        Atoomradius 215 pm
+                                                 Atoomradius (ber.) 253 pm
+                                                   Kovalente radius 198 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking paramagneties
+                                  Elektriese weerstand (20 °C) 332 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 18.4 W/(m·K)
+                              Termiese uitsetting (25 °C) 20.6 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 1620 m/s
+                                                   Young se modulus 13 GPa
+                                                      Skuifmodulus 4.9 GPa
+                                                      Massamodulus 9.6 GPa
+                                                     Mohs se hardheid 1.25
+                                              CAS-registernommer 7440-39-3
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Barium
+
+                               iso     NV   halfleeftyd VM VE (MeV)   VP
+                              ^130Ba 0.106% Ba is stabiel met 74 neutrone
+                              ^132Ba 0.101% Ba is stabiel met 76 neutrone
+                              ^133Ba sin    10.51 j     e  0.517    ^133Cs
+                              ^134Ba 2.417% Ba is stabiel met 78 neutrone
+                              ^135Ba 6.592% Ba is stabiel met 79 neutrone
+                              ^136Ba 7.854% Ba is stabiel met 80 neutrone
+                              ^137Ba 11.23% Ba is stabiel met 81 neutrone
+                              ^138Ba 71.7%  Ba is stabiel met 82 neutrone
+
+                                                                Verwysings
+
+   Kategorie: Chemiese elemente
+

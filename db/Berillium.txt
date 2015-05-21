@@ -1,0 +1,283 @@
+Berillium
+
+
+
+                        litium – berillium – boor
+
+            Be
+            Mg
+
+
+              Kliek hier vir 'n beskrywing
+
+                                                 Volledige tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal Berillium, Be, 4
+                                                  Reeks Alkali-aard metale
+                                        Groep, Periode, Blok 2 (IIA), 2, s
+                                       Digtheid, Hardheid 1848 kg/m^3, 5.5
+                                                  Voorkoms wit-grys metaal
+                                                          Atoom eienskappe
+                                                    Atoommassa 9.01218 ame
+                                                       Atoom radius 112 pm
+                                                    Kovalente radius 90 pm
+                                             van der Waals radius onbekend
+                                     Elektron konfigurasie [He]2Orbitale^2
+                                               e^- e per energie vlak 2, 2
+                                 Oksidasietoestand (Oksied) 2 (amfoteries)
+                                             Kristal struktuur Heksagonaal
+                                                        Fisiese eienskappe
+                             Toestand van materie vastestof (diamagneties)
+                                                       Smeltpunt 1551.15 K
+                                                        Kookpunt 3243.15 K
+                                       Molêre volume 4.85 ×10^-6 m^3/mol
+                                           Verdampingswarmte 292.40 kJ/mol
+                                              Smeltingswarmte 12.20 kJ/mol
+                                                          Dampdruk 4180 Pa
+                                                 Spoed van klank 13000 m/s
+                                                                   Diverse
+                                    Electronegativity 1.57 (Pauling skaal)
+                                   Specifieke warmtekapasiteit 1825 J/kg*K
+                           Elektriese geleidingsvermoë 31.3 10^6/(m·ohm)
+                                      Termiese geleidingsvermoë 201 W/m*K
+                                   1^ste ionisasie potensiaal 899.5 kJ/mol
+                                   2^de ionisasie potensiaal 1757.1 kJ/mol
+                                  3^de ionisasie potensiaal 14848.7 kJ/mol
+                                                     Mees stabiele isotope
+
+                               iso    NV   halfleeftyd   VM    VE MeV  VP
+                              ^7Be  {syn.} 53.12 days  epsilon 0.862  ^7Li
+                              ^9Be  100%   Be is stabiel met 5 neutrone
+                              ^10Be spoor  1.51×10^6j  beta^-  0.556  ^10B
+
+                SI eenhede & STD word gebruik behalwe waar anders vermeld.
+
+   Berillium is die chemiese element in die periodieke tabel met die
+   simbool Be en atoomgetal van 4.
+
+   Dis 'n giftige bivalente element, 'n alkali-aardmetaal met 'n staalgrys
+   kleur, en is sterk met 'n lae gewig, dog baie bros. Berillium word
+   hoofsaaklik benut as verhardingsmiddel in allooie (mees algemeen,
+   berillium koper legerings).
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Gesondheidsuitwerking
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Berillium het een van die hoogste smeltpunte van die ligte metale. Die
+   elastisiteitsmodulus van berillium is ongeveer 'n derde groter as die
+   van staal. Dit het 'n uitstekende termiese geleidingsvermoë, is
+   nie-magneties en weerstaan gekonsentreerde salpetersuur. Dit is hoogs
+   deurlaatbaar vir X-strale en neutrone word vrygestel wanneer dit deur
+   alfa partikels getref word, soos vanaf radium of polonium (omtrent 30
+   neutrone/miljoen alfa partikels). By standaard temperatuur en druk
+   weerstaan berillium oksidasie wanneer dit aan lig blootgestel word (die
+   vermoë van berillium om glas te krap spruit egter waarskynlik toe te
+   skryf aan 'n dun lagie oksied wat op die oppervlak vorm.
+
+[wysig] Toepassings
+
+     * Berllium is vir 'n lang tyd gebruik as 'n legeringsmiddel vir die
+       produksie van berillium koper. (Be het die vermoë om groot
+       hoeveelhede hitte te absorbeer.) Berillium-koper allooie word in 'n
+       wye verskeidenheid toepassings benut as gevolg van hulle
+       elektriese, termiese en nie-magnetiese eienskappe, asook vir hulle
+       hoë sterkte, hardheid, goeie korrosiebestandheid en swigweerstand
+       (Engels: fatigue resistance). Hierdie toepassings sluit in die maak
+       van: stiksweis elektrodes, Vere, vonkwerende gereedskap en
+       elektriese kontakte.
+
+     * Vanweë hulle stewigheid, ligte gewig en dimensionele stabiliteit
+       oor 'n wye reeks temperature, word berillium-koper allooie ook
+       ingespan in militêre, lug- en ruimtevaart industrieë as 'n liggewig
+       strukturele materiaal in hoë snelheid vliegtuie, missiele, ruimte
+       vaartuie en kommunikasie satelliete.
+
+     * Dun velle berillium foelie word gebruik in die X-straal waarneming
+       diagnostiek om sigbare lig uit te filter en slegs X-strale waar te
+       neem.
+
+     * In die veld van X-straal litografie word berillium gebruik vir die
+       reproduksie van mikroskopiese geïntegreerde stroombane.
+
+     * Omdat dit 'n lae termiese neutron absorbsie deursneë het gebruik
+       die kernkrag industrie die metaal in kern reaktore as 'n neutron
+       reflektor en moderator.
+
+     * Berillium word ook gebruik vir die maak van giroskope, verskeie
+       rekenaartoerusting, horlosievere en instrumente waar ligte gewig,
+       onbuigsaamheid en dimensionele stabiliteit belangrik is.
+
+     * Berillium oksied is nuttig in baie aanwendings wat 'n uitstekende
+       geleier van warmte verg met 'n hoë sterkte en hardheid en 'n baie
+       hoë smeltpunt en wat as 'n elektriese isoleerder kan dien.
+
+     * Berillium verbindings was eens gebruik vir fluoreserende ligbuise,
+       maar die gebruik is gestaak weens die voorkoms van berilliose in
+       die werkers wat die buise vervaardig het (sien hieronder).
+
+     * Dit word verwag dat die James Webb Space Telescope 'n
+       berilliumspieël sal hê. As gevolg van die feit dat die JWST aan
+       temperature van so laag as -240 grade Celsius (30 Kelvin)
+
+   blootgestel gaan word sal die spieël van berillium gemaak word wat die
+   uiterste koue beter kan hanteer as glas. Berilium krimp heelwat minder
+   en vervorm minder as glas — en bly dus meer eenvormig — by sulke
+   temperature.
+
+[wysig] Geskiedenis
+
+   Die naam berillium kom van die Griekse woord beryllos vir beril. Eens
+   was berillium ook glucinium (van Griekse woord glykys vir soet) vanweë
+   die soet smaak van sy soute.
+
+   Die element is in 1798 ontdek in die oksiedvorm in beril en in smarag
+   deur Louis Vauquelin. Friedrich Wöhler en A.A.Bussy het die metaal
+   onafhanklik van mekaar geïsoleer in 1828 deur kalium met Berillium
+   chloried te reageer.
+
+[wysig] Voorkoms
+
+   Berillium word gevind in 30 verskillende minerale, die belangrikste
+   waaronder bertrandiet, beril, chrysoberil en phenasiet tel.
+   Edelgesteentes van beril is akwamaryn en smarag. Die belangrikste
+   kommersiële bronne van van berillium en sy verbindings is beril en
+   bertrandiet. Huidiglik word die grootste hoeveelheid van die metaal
+   geproduseer deur berillium fluoried te reduseer met magnesium.
+   Berillium metaal het eers teen 1957 geredelik beskikbaar geword.
+
+   Isolering
+
+          \mbox{BeF}_2 + \mbox{Mg} \rightarrow \mbox{MgF}_2 + \mbox{Be}
+
+[wysig] Isotope
+
+   Berillium het slegs een stabiele isotoop, Be-9. Kosmogenies word
+   berillium (Be-10) geskep in die aarde se atmosfeer deur splitsing van
+   suurstof en stikstof deur kosmiese strale. Aangesien berillium geneig
+   is om op te los by pH vlakke van ongeveer 5.5 (reënwater se pH is
+   tipies minder as 5), sal dit na die aarde se oppervlak gevoer word deur
+   die reënwater. Aangesien die water vinnig alkalies word wanneer oor die
+   oppervlak vloei, presipiteer dit vinnig uit die oplossing. Kosmogeniese
+   Be-10 akkumuleer sodoende op die grond oppervlak, waar sy relatiewe
+   lang halfleeftyd (1.5 miljoen jaar]] 'n lang retensietyd verseker
+   alvorens dit na B-10 (Boor verval. Be-10 en mede-produkte is al gebruik
+   om gronderosie, grond formasie en rotsvorming te bestudeer. 'n Prentjie
+   van kan ook gevorm word van die sonvlek aktiwiteit in die verlede asook
+   van die ouderdom van yskerne.
+
+   Die feit dat Be-7 en Be-8 onstabiel is het verreikende kosmologiese
+   gevolge aangesien dit beteken dat elemente swaarder as berillium nie
+   geproduseer kon word deur kernfusie tydens die Groot knal nie. Verder
+   is die kern energie vlakke van berillium-8 sodanig dat koolstof
+   geproduseer kan word binne in sterre wat lewe moontlik maak. (Sien
+   trippel-alfa proses en groot knal nukleoonsintese.
+
+[wysig] Voorsorgmaatreëls
+
+   Berillium erts
+   Berillium erts
+
+   Berillium en sy soute is giftige verbindings en is potensieël
+   karsinogenies. Kroniese berilliose is 'n long- en sistemiese
+   granulomasiekte wat veroorsaak word deur blootstelling aan berillium.
+   Akute berilliumsiektes in die vorm van chemiese longontsteking is die
+   eerste keer in 1933 in Europa waargeneem en in die Verenigde State in
+   1943. Gevalle van kroniese berilliose is vir die eerste keer omvattend
+   beskryf in 1946 toe werkers in 'n aanleg wat fluoreserende lampe in
+   Massachusetts vervaardig het daarmee gediagnoseer is. Kroniese
+   berilliose se simptome is baie soortgelyk aan sarkoidose en dit is dus
+   moeilik om te onderskei tussen die twee kwale.
+
+   Ten spyte van die feit dat berilliumverbindings in fluoroserende
+   ligbuise gestaak is in 1949, bestaan die risiko van blootstelling aan
+   berillium nog steeds in die kern en lug- en ruimtevaart industrieë
+   asook tydens die raffinering van berillium metaal en die smelt van
+   berillium bevattende legerings, die vervaardiging van elektroniese
+   toestelle en die hantering van ander berillium bevattende materiale.
+
+   Vroeëre navorsers het berillium en sy verskeie verbindings geproe vir
+   soetheid om die teenwoordigheid daarvan te bevestig. Moderne analitiese
+   toerustig maak dit onnodig om hierdie onveilige te gebruik en daar moet
+   geensins gepoog word om die stof in te neem nie. Berillium en sy
+   verbindings moet met groot sorg gehanteer word wanneer aktiwiteite
+   onderneem word wat tot die vorming van berillium stof kan lei
+   (longkanker is 'n moontlike gevolg van langdurige blootstelling aan
+   berillium belaaide stof).
+
+   Die stof kan veilig gehanteer word solank as sekere prosedures gevolg
+   word. Geen poging moet aangewend word om met berillium te werk alvorens
+   daar vereenselwig is met die hanteringsprosedures nie.
+
+[wysig] Gesondheidsuitwerking
+
+   Berillium kan skadelik wees wanneer dit ingeasem word. Die uitwerking
+   daarvan hang af van die tydperk van blootstelling. As berilliumvlakke
+   in die lug hoog genoeg is (> 1000 μg/m³), kan 'n akute toestand
+   ontwikkel genaamd akute berillium siekte, wat baie ooreenkoms toon met
+   longontsteking. Bedryfs- en gemeenskapstandaarde vir lugkwaliteit is
+   effektief in die voorkoming van akute longskade.
+
+   Sommige mense (1-15%) raak sensitief vir berilium. Hierdie individue
+   mag ook ontstekings reaksies ontwikkel in die asemhalingstelsel. Die
+   toestand word kroniese berillium siekte genoem en kan eers baie jare na
+   blootstelling aan hoër as normale vlakke berillium (groter as 0.2
+   μg/m³) voorkom. Die siekte veroorsaak moegheid, swakheid en swaar
+   asemhaling. Dit kan lei tot anoreksie, gewigsverlies en mag ook lei tot
+   die vergroting van die regterkant van die hart in gevorderde gevalle.
+   Sommige mense wat gesensiteer is vir berillium mag nie die simptome
+   toon nie. Dit is onwaarskynlik dat die algemene bevolking akute of
+   kroniese berillium siekte sal ontwikkel aangesien berillium vlakke in
+   die lug normaalweg baie laag is (0.00003-0.0002 μg/m³).
+
+   Die insluk van berillium het nog geen uitwerking getoon op mense nie
+   aangesien baie min berillium vanuit die maag en ingewande geabsorbeer
+   word. Maagswere is waargeneem in honde met 'n berillium bevattende
+   dieet. Berilliumkontak met vel wat skraap- of snymerke het mag 'n
+   uitslag of swere tot gevolg hê.
+
+   Langtermyn blootstelling aan berillium vergroot die risiko om
+   longkanker te ontwikkel. Die Verenigde State se Department of Health
+   and Human Services (DHHS) en die Internasionale Agentskap vir
+   kankernavorsing (IARC) het bepaal dat berillium 'n karsinogeniese stof
+   is. Die Verenigde State se Environmental Protection Agency (EPA) het
+   bepaal dat berillium 'n moontlike menslike karsinogeen is. Volgens die
+   EPA kan 'n leeftydlange blootstelling van 0.04 μg/m³ berillium lei tot
+   'n een in duisend kans om longkanker te ontwikkel.
+
+   Daar is geen studies om die gesondheidsuitwerking op kinders wat aan
+   berillium blootgestel is, gedoen nie. Dit is waarskynlik dat die
+   uitwerking soortgelyk sal wees as dié op volwassenes.
+
+   Berillium kan gemeet word in die urine en bloed. Die hoeveelheid
+   berillium in bloed of urine kan aandui hoe lank en hoeveel die
+   blootstelling was. Berilliumvlakke kan ook gemeet word in long- en
+   velmonsters.
+
+   Vlakke waartoe industrieë tipies toegelaat word om in die lug te laat
+   is tipies in die orde van 0.01 μg/m³, oor 'n gemiddeld van 'n 30-dae
+   periode, of 2 μg/m&sup3 in 'n werkskamer vir 'n agt ure skof periode.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Beryllium
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Beryllium
+     * EnvironmentalChemistry.com – Beryllium
+     * It's Elemental – Beryllium
+
+   Kategorie: Chemiese elemente
+

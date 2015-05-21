@@ -1,0 +1,45 @@
+Omtrek
+
+
+   Die omtrek is die afstand om 'n gegewe twee-dimensionele voorwerp.
+
+[wysig] Formules
+
+[wysig] Veelhoek
+
+   As 'n algemene reël kan die omtrek van 'n veelhoek altyd verkry word
+   deur die lengtes van al die sye bymekaar te tel.
+
+   Dus is die omtrek vir 'n driehoek as volg:
+
+          P = a + b + c
+
+   Die veranderlikes a, b en c verteenwoordig die driehoek se drie sye.
+
+   Vir vierhoeke is die vergelyking dus:
+
+          P = a + b + c + d
+
+   Wanneer 'n veelhoek se sy almal ewe lank is, word die omtrek verkry
+   deur die formule P = na, met n as die hoeveelheid sye en a as die
+   sylengte.
+
+[wysig] Sirkels
+
+   For sirkels is die vergelyking as volg:
+
+          O = 2 \cdot \pi \cdot r
+
+   or
+
+          O = d \cdot \pi
+
+     * O staan vir omtrek,
+     * r staan vir radius,
+     * π is die wiskundige konstante pi (π = 3.14159265...) en
+     * d staan vir die sirkel se deursnee (twee keer die radius van die
+       sirkel)
+
+   (Die punt \cdot beteken dat daar vermenigvuldig moet word.)
+   Kategorie: Meetkunde
+

@@ -1,0 +1,178 @@
+Dolfyn
+
+
+                        Dolfyn
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Streepdolfyn
+   Streepdolfyn
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Cetacea
+      Suborde:     Odontoceti
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Delphinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   'n Dolfyn is 'n waterlewende soogdier, verwant aan die walvis en
+   tornyn. Die naam ontspring van die ou-Griekse delphis wat beteken met
+   'n baarmoeder, met ander woorde 'n vis met 'n baarmoeder. 'n Groep
+   dolfyne word 'n skool genoem.
+
+   Die woord dolfyn kan verskeie gegewe impliseer:
+    1. Enige lid van die familie Delphinidae (seedolfyne),
+    2. Enige lid van die families Delphinidae en Platanistoidea (see- en
+       rivierdolfyne),
+    3. Enige lid van die suborde Odontoceti (tandwalvisse wat bogenoemde
+       families en sommige ander insluit),
+    4. Dit kan ook gewoon gebruik word as 'n sinoniem vir die Indiese
+       oseean-stompneusdolfyn, die mees algemene en bekende spesie dolfyn.
+
+   Hierdie artikel verwys na die tweede betekenis.
+
+   Tornyne (die suborde Odontoceti, familie Phocoenidae) is dus nie
+   dolfyne in hierdie betekenis nie. Aan die ander kant behoort die
+   moordvis wel aan die familie en word hulle beskou as dolfyne, terwyl
+   hulle gewoonlik as 'n soort walvis in die spreekstaal beskou word.
+
+   Daar bestaan 32 spesies in 17 genera, by verre die grootste familie van
+   setaseë. In Suider-Afrika is daar 19 spesies opgeteken.
+
+   Inhoud
+
+        * 1 Fisiese voorkoms
+        * 2 Ontstaansgeskiedenis van dolfyne
+        * 3 Gedrag
+        * 4 Sintuie
+        * 5 Kos
+        * 6 Bronne
+        * 7 Eksterne skakels
+
+[wysig] Fisiese voorkoms
+
+   Die dolfyne is klein tot gemiddelde grootte setaseë, en wissel vanaf
+   omtrent 1,5m in lengte en 50kg in gewig, tot amper tien meter en
+   7000kg. Die mannetjies is gewoonlik groter as die wyfies.
+
+   Die dolfyn het 'n baie karakteristieke kopvorm; dit lyk asof die
+   voorkop uitdruk bo-oor die bekagtige snawel, weens die teenwoordigheid
+   van 'n lensvormige vetlaag daar. Die dolfynliggaam is gewoonlik glad en
+   gestroomlyn. Die meeste het wel dorsale vinne. Sommige spesies het baie
+   treffende kleurpatrone oor hul liggame. Die dolfynkaak het baie tande
+   (tot soveel as 250 in sommige spesies). Die dolfynbrein is groot en het
+   'n hoogsontwikkelde korteks. Hulle is waarskynlik baie intelligent.
+
+[wysig] Ontstaansgeskiedenis van dolfyne
+
+   Dolfyne is afstammelinge van landbewoners, waarskynlik die orde
+   Artiodactyla (die gelyktonige hoefdier). Hedendaagse dolfyngeraamtes
+   het twee klein staafvormige bekkenbene wat waarskynlik die oorblyfsels
+   van agterpote is. Dit word beraam dat hulle teruggekeer het na die
+   water ongeveer 50 miljoen jaar gelede.
+
+[wysig] Gedrag
+
+   Dolfyne lewe gewoonlik in vlak water, of bly naby aan die oppervlakte
+   van die water. Hulle is vinnige swemmers en jag veral vis en seekat.
+   Die moordvis is die enigste dolfynsoort wat ook warmbloedige diere jag.
+   Hulle maak gebruik van eggo-lokalisering om hul prooi op te spoor. Dit
+   begin te blyk asof hulle selfs hoë-intensiteit ultrasoniese klank
+   gebruik om hulle prooi te verdwaas.
+
+   Hulle is baie sosiale diere en kan in groepe tot so groot as 100,000
+   individue lewe. Die gewone grootte van die skool is meestal ongeveer
+   12. Die individue van 'n groep werk saam, soos wanneer hulle haaie
+   aanval en dood; of wanneer hulle 'n dier wat siek is of beseerd,
+   bystaan. Groepe dolfyne volg dikwels skepe, en ry in die brander
+   veroorsaak deur die skeepsboeg. Hulle kan indrukwekkend hoog uit die
+   water spring, en doen dit soms gesamentlik. Spel is 'n belangrike deel
+   van hulle lewe. Hulle word opgemerk waar hulle speels met mekaar veg,
+   of met seewier; en pla ander diere ook op 'n manier wat net aspris lyk,
+   soos seevoëls en waterskilpaaie.
+   Dolfyne ry branders by Snapper Rocks, Queensland, Australië.
+   Dolfyne ry branders by Snapper Rocks, Queensland, Australië.
+
+   Dolfyne kommunikeer met mekaar deur 'n wye verskeidenheid van kliek-,
+   fluit- en ander geluide. (Sien ook die artikel Walvisgesang.)
+
+   In Mei 2005, het navorsers in Australië ontdek dat Atlantiese
+   oseean-stompneusdolfynmoeders (van die spesie Tursiops aduncus) hulle
+   kinders leer om gereedskap te gebruik. Die dolfyne breek kegelvormige
+   sponse af (wat maklik oor hulle snawel pas, en nie afval nie) en
+   beskerm so hulle bek teen besering as hulle jag vir vis op die
+   seebodem. Dit is die eerste keer in die geskiedenis dat sulke gedrag in
+   'n seedier bemerk word, iets wat tevore nog net onder die primate en 'n
+   paar voëlsoorte bemerk is. (Die verwysing: Dolphins teach their
+   children to use sponges)
+
+[wysig] Sintuie
+
+   Dolfyne hoor en sien uiters goed. Onderwaterse gehoor word aangehelp
+   deurdat die kakebeen die klanktrillings gelei na die middeloor. Hulle
+   tassintuig is ook goed ontwikkel, asook hul smaaksintuig. Hulle kan nie
+   ruik nie.
+
+[wysig] Kos
+
+   Dolfyne is roofdiere, en vang hulle prooi terwyl hulle vinnig aan't
+   swem is. Die prooi word gewoonlik heel ingesluk. Die moordvis jag ook
+   seesoogdiere, insluitende groot walvisse.
+
+[wysig] Bronne
+
+     * Animal Diversity Web.
+     * Veldgids tot die soogdiere van Suider-Afrika. Chris en Tilde
+       Stuart. Eerste uitgawe, 1988.
+
+[wysig] Eksterne skakels
+
+     * Cetacea.org webwerf
+     * Feite en inligting omtrent dolfyne
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Dolfyne
+

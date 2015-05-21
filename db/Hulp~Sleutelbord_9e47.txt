@@ -1,0 +1,29 @@
+Hulp:Sleutelbord
+
+
+   In Suid-Afrika is Amerikaanse (en soms Britse) sleutelborde algemeen in
+   gebruik, en maak geen spesifieke voorsiening vir die tik van
+   diakritiese tekens van Afrikaans (of ander Suid-Afrikaanse tale nie).
+   Alhoewel mens met 'n karakterkieser of "Alt-kodes" die karakters
+   uiteindelik kan verkry, stel 'n goeie sleutelborduitleg mens in staat
+   om volspoed te tik sonder om die hande te verskuif, of van 'n ander
+   program gebruik te maak. 'n Sleutelborduitleg werk ook in alle
+   programme (in teenstelling met program-spesifieke kortpaaie).
+
+[wysig] Internasionale VSA-uitleg
+
+   Meeste bedryfstelsels het 'n sleutelborduitleg genaamd "USA
+   International" of iets soortgelyks. Dit stel mens in staat om 'n
+   VSA-sleutelbord te gebruik met "dooie karakters". Dus sal sekere
+   knoppies nie dadelik reageer nie (dood wees) totdat die daaropvolgende
+   knoppie dit duidelik maak wat gedoen moet word. Dus vir 'ê' tik mens
+   '^e', vir 'ë' tik mens '"e', ens.
+
+[wysig] Suid-Afrikaanse sleutelborduitleg
+
+   Lees die bladsy by Translate.org.za. Hierdie uitleg is daar beskikbaar
+   om te installeer op Windows, en kom standaard op enige Linux-tipe
+   stelsel van die afgelope paar jaar. Daar is ook mooi dokumentasie oor
+   hoe om die opstelling te verander, wat selfs gedeeltelik van toepassing
+   is vir die opstelling van die Internasionale VSA-uitleg.
+

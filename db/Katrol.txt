@@ -1,0 +1,87 @@
+Katrol
+
+
+   Katrolle wat op 'n skip gebruik word. Die katrolle word hier saamgestel
+   om 'n takelblok te maak.
+   Katrolle wat op 'n skip gebruik word. Die katrolle word hier saamgestel
+   om 'n takelblok te maak.
+
+   'n Katrol is 'n wiel met 'n groef of gleuf aan sy kant om 'n tou, 'n
+   kabel of 'n band daarom te kan span. Katrolle word gewoonlik saam in
+   stelle gebruik om die hoeveelheid krag wat benodig word om 'n gewig op
+   te tel te verminder. Dieselfde hoeveelheid werk word egter vereis om 'n
+   vrag dieselfde hoogte op te lig as wat it sou vereis het sonder die
+   katrolle. Die grootte van die krag word wel verminder maar die krag
+   moet oor 'n groter afstand toegepas word. Die krag wat benodig word om
+   'n gewig op te tel kan rofweg bereken word deur die gewig van die las
+   gedeel deur die aantal katrolle. Hoe meer katrolle daar is hoe minder
+   doeltreffend word die stelsel as gevolg van wrywing tussen die tou en
+   die katrolle. Katrolle is een van die ses eenvoudige masjiene.
+
+   Daar is nie opgeteken presies wanneer die katrol eerste ontwikkel is
+   nie, maar daar word geglo dat Archimedes die eerste takelblok
+   katrolstelsel ontwikkel het na aanleiding van geskrifte deur
+   Plutarchus.
+
+[wysig] Soorte katrolle
+
+   Vaste katrol
+   Vaste katrol
+   Bewegende katrol
+   Bewegende katrol
+     * Vaste katrolle met 'n vaste as. 'n Vaste katrol word gebruik om die
+       krag in 'n tou of band se rigting te verander. 'n Vaste katrol het
+       'n meganiese voordeel van 1.
+     * Bewegende katrolle het 'n vrybewegende as. 'n Bewegende katrol word
+       gebruik om kragte om te skakel. 'n Bewegende katrol het 'n
+       meganiese voordeel van 2. Dit wil sê as een kant van die tou
+       geanker word dat die krag wat op die voorwerp wat aan die bewegende
+       katrol verbind is dubbel die krag sal ervaar wat op die ander kant
+       van die tou toegepas word.
+     * Saamgestelde katrolle is 'n kombinasie van vaste en bewegende
+       katrolle.
+          + Takelblokke is 'n soort saamgestelde katrolstelsel waar
+            verskeie katrolle op elke as gemonteer word om die meganiese
+            voordeel sodoende verder te vermeerder. Plutarchus het vertel
+            hoe Archimedes 'n oorlogskip volgelaai met manskappe op eie
+            houtjie geskuif het deur van saamgestelde katrolle gebruik te
+            maak.
+
+[wysig] Teoretiese werking
+
+   Diagram 1 - 'n Basiese vergelyking vir 'n katrol: In ewewig is die krag
+   F op die katrol se as gelyk en teenoorgestelde aan die som van die
+   spanning in elke tou wat die katrol verlaat en die spannings is gelyk
+   aan mekaar.
+
+   Diagram 2 - 'n Eenvoudige katrolstelsel - 'n enkele bewegende katrol
+   wat 'n eenheidsmassa oplig. Die spanning in elke lyn is die helfte van
+   die eenheidsmassa se gewig, wat 'n voordeel van 2 lewer.
+
+   Diagram 2a - 'n Ander eenvoudige katrolstelsel soortgelyk aan diagram
+   2, maar waar die krag na onder uitgeoefen word.
+
+   'n Praktiese saamgestelde katrol wat ooreenstem met diagram 2a.
+
+   Die vereenvoudigde vorm van die teorie maak die aanname dat die
+   katrolle en toue gewigloos is en dat daar geen energieverlies is as
+   gevolg van wrywing nie. Daar word ook aangeneem dat die toue nie rek
+   nie. Met hierdie aannames volg dit dat die netto krag op die katrol in
+   ewewig nul moet wees. Dit beteken dat die krag op die as van 'n katrol
+   gedeel word deur die twee toue wat oor die katrol gespan word. Die
+   situasie word skematies in diagram 1 uitgebeeld. In die geval waar die
+   toue nie parallel is nie, is die spanning in elke tou steeds gelyk
+   aanmekaar maar nou sal die vektorsom van die kragte nul wees. 'n Tweede
+   basiese vergelyking vir die katrol volg uit die wet van energiebehoud:
+   Die produk van die gewig wat opgetel word en die afstand waarmee dit
+   gelig word moet gelyk wees aan die produk van die krag wat uitgeoefen
+   word om die gewig op te tel en die afstand waardeur die tou beweeg
+   word. Die gewig wat opgetel word gedeel deur die uitgeoefende krag word
+   gedefinieer as die voordeel van die katrolstelsel.
+
+   Dit is belangrik om daarop te let dat die hoeveelheid werk wat deur 'n
+   ideale katrolstelsel uitgeoefen word altyd dieselfde is. Die werk word
+   bereken deur die krag te vermenigvuldig met die afstand beweeg. Die
+   katrol ruil dus eenvoudig krag vir afstand.
+   Kategorie: Meganika
+

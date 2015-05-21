@@ -1,0 +1,95 @@
+Witkopaasvoël
+
+
+                    Witkopaasvoël
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Accipitriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Trigonoceps
+                   Lesson, 1842
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. occipitalis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+               Trigonoceps occipitalis
+   (Burchell, 1824)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Witkopaasvoël is 'n aasvoël wat endemies (inheems) aan Afrika is.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+
+[wysig] Identifikasie
+
+   Die witkopaasvoël het 'n pienk bek, 'n wi kroon op sy kop en die
+   veerlose kante van sy kop is bleek. Die voël het 'n donkerbruin bolyf
+   en 'n swart stert. Die vere op sy onderlyf en bene is wit. Die
+   vlerkspan van die witkopaasvoël is 'n gemiddelde 2 meter.
+
+[wysig] Habitat
+
+   Die witkopaasvoël oornag snags in lang bome wat naby water te vinde is.
+
+[wysig] Verspreiding
+
+   Witkopaasvoëls is eksklusief inheems aan Afrika.
+
+[wysig] Ander name
+
+     * Engels: White-headed Vulture
+     * Wetenskaplike naam: Trigonoceps occipitalis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

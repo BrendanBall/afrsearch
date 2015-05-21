@@ -1,0 +1,249 @@
+MediaWikibespreking:Common.js
+
+
+   Kan 'n administrateur asseblief onderstaande teks in die boodskapbladsy
+   plaas? Aangesien die common.js in die kasgeheue gestoor word, sal dit
+   nie die laaityd vir enige gebruiker verleng nie. Ek plaas my
+   handtekening hier om verwarring te voorkom. — Adriaan (S★B) 18:59, 1
+   September 2007 (UTC)
+
+          Wat is die doel hiervan? Ekstra knoppies by langs die "Beeld"-,
+          "Handtekening"-, ens.-knoppies? Anrie 13:08, 3 September 2007
+          (UTC)
+
+                Ja, bo-aan die wysigingsblokkie. Vir 'n voorbeeld, sien
+                hoe dit hier lyk. Die kode is egter nie voldoende nie, kyk
+                by q:MediaWiki:Common.js om te sien hoe die kode moet lyk.
+                Ek sal dit hier ook post, vir ingeval ek mense verwar. Die
+                kode by Wikiquote verskaf ook 'n klein sleutelbordjie in
+                die "soek"-vorm, sodat mense nie die heeltyd met
+                ALT-karakters gepla hoef te word nie. Sien
+                q:Spesiaal:Search. — Adriaan (S★B) 13:13, 3 September 2007
+                (UTC)
+
+                      Die ander kode is sodat mens die "undo"-knoppie kan
+                      druk en dan nie vir 'n wysigingsopsomming gepor word
+                      nie. By my por dit vir wysigingsopsommings wanneer
+                      ek die "undo"-knoppie gedruk het. — Adriaan (S★B)
+                      13:16, 3 September 2007 (UTC)
+
+Teks verwyder, sien q:MediaWiki:Common.js vir die kode. — Adriaan (S★B) 13:16, 3
+ September 2007 (UTC)
+
+                            Vreemd. Ek kan daardie ekstra blokkies by
+                            Wikiquote slegs sien as ek nié ingeteken is
+                            nie. As ek ingeteken is het ek minder knoppies
+                            tot my beskikking. Ek sal bietjie kyk en dit
+                            dan byvoeg
+
+                                  Dit is vreemd, want ek kan dit wel sien
+                                  as ek ingeteken is. Dalk het ek iets by
+                                  my monobook verander wat veroorsaak dat
+                                  net ek dit sien, so ek sal daar gaan
+                                  kyk. — Adriaan (S★B) 13:34, 3 September
+                                  2007 (UTC)
+
+                                        Anrie, ek het my monobook (wat wel
+                                        ook die kodes vir die knoppies
+                                        bevat het) verwyder, my kasgeheue
+                                        leeggemaak, en ek sien steeds die
+                                        ekstra knoppies. Ek kan nou nie
+                                        begryp waar die fout lê nie, maar
+                                        ek sal kyk of ek die fout kan
+                                        vind. — Adriaan (S★B) 13:44, 3
+                                        September 2007 (UTC)
+
+                            Die sleutelbordjie is miskien 'n goeie idee
+                            vir die lui tieners onder ons ;) .
+                            Waarvan praat jy oor die "undo"-knoppie? Die
+                            wysigingsopsomming word dan reeds outomaties
+                            ingevul wanneer mens "undo" gebruik? Anrie
+                            13:28, 3 September 2007 (UTC)
+
+                                  Dit is juis die probleem; omdat die
+                                  opsomming outomaties ingevul word, is
+                                  dit nie veronderstel om mens te por vir
+                                  'n opsomming nie. My stellings is so
+                                  ingestel dat, indien ek nie 'n opsomming
+                                  verskaf nie, dit nie die bladsy stoor
+                                  nie. Hierdie skrip maak net hierdie bug
+                                  reg. — Adriaan (S★B) 13:34, 3 September
+                                  2007 (UTC)
+
+                                        Ek verstaan wat jy bedoel, maar ek
+                                        voel weer dis 'n goeie ding om vir
+                                        'n wysigingsopsomming te vra. Dis
+                                        bitter min (lees:wanneer ek lui
+                                        is) wat ek slegs die
+                                        reeds-verskafde wysigingsopsomming
+                                        gebruik. Ek voel dat dit nodig is
+                                        om by te voeg hoekom mens die
+                                        wysiging terug rol, bv.
+                                        vandalisme, spam-link,
+                                        npov-bydrae, ens. Anrie 13:39, 3
+                                        September 2007 (UTC)
+
+   Dalk is dit dan nie 'n bug nie, dalk het hulle dit met opset so gemaak
+   sodat mense verduidelikings verskaf. Ek dink nou eers hieraan.
+   Hmm. — Adriaan (S★B) 13:41, 3 September 2007 (UTC) Ek het die goed nou
+   bygevoeg, maar ek sien nie 'n verskil nie, al het ek 'n hard reload
+   gedoen. Cache lag miskien? Anrie 21:24, 5 September 2007 (UTC)
+
+          Volgens 'n persoon op die #MediaWiki-kanaal moet die volgende
+          boodskap eers heel bo-aan die bladsy gevoeg word vir die ander
+          goeters om te werk:—Die voorafgaande anonieme kommentaar is deur
+          Adriaan_1 gelewer (Bespreking • Bydraes) .
+
+                Bygevoeg, maar steeds niks nie. Sal ek dit maar los vir
+                vanaand en kyk of dit môre werk. Dieselfde gebeur soms met
+                sjablone ens. Kan dit hier ook gebeur, miskien? Anrie
+                21:35, 5 September 2007 (UTC)
+
+                      Ja, dit kan dalk moontlik wees, maar ek is nie seker
+                      nie. Dalk moet ons dit so bietjie kans
+                      gee. — Adriaan (S★B) 21:37, 5 September 2007 (UTC)
+
+                            Goed so. Ek gaan nou slaap - sal môre oggend
+                            vroeg kyk om seker te maak alles is nog reg.
+                            Anrie 21:42, 5 September 2007 (UTC)
+
+   Ek kan dit nog nie sien nie... :(  — Adriaan (S★B) 04:51, 6 September
+   2007 (UTC)
+
+function returnObjById( id )
+{
+    if (document.getElementById)
+        var returnVar = document.getElementById(id);
+    else if (document.all)
+        var returnVar = document.all[id];
+    else if (document.layers)
+        var returnVar = document.layers[id];
+    return returnVar;
+}
+
+function insertTagsTo_(tagOpen, tagClose, sampleText, outputid) {
+        var txtarea = document.getElementById(outputid);
+        if (!txtarea)
+                return
+        ;
+
+        // IE
+        if (document.selection  && !is_gecko) {
+                var theSelection = document.selection.createRange().text;
+                if (!theSelection)
+                        theSelection=sampleText;
+                txtarea.focus();
+                if (theSelection.charAt(theSelection.length - 1) == " ") { // ex
+clude ending space char, if any
+                        theSelection = theSelection.substring(0, theSelection.le
+ngth - 1);
+                        document.selection.createRange().text = tagOpen + theSel
+ection + tagClose + " ";
+                } else {
+                        document.selection.createRange().text = tagOpen + theSel
+ection + tagClose;
+                }
+
+        // Mozilla
+        } else if(txtarea.selectionStart || txtarea.selectionStart == '0') {
+                var replaced = false;
+                var startPos = txtarea.selectionStart;
+                var endPos = txtarea.selectionEnd;
+                if (endPos-startPos)
+                        replaced = true;
+                var scrollTop = txtarea.scrollTop;
+                var myText = (txtarea.value).substring(startPos, endPos);
+                if (!myText)
+                        myText=sampleText;
+                if (myText.charAt(myText.length - 1) == " ") { // exclude ending
+ space char, if any
+                        subst = tagOpen + myText.substring(0, (myText.length - 1
+)) + tagClose + " ";
+                } else {
+                        subst = tagOpen + myText + tagClose;
+                }
+                txtarea.value = txtarea.value.substring(0, startPos) + subst +
+                        txtarea.value.substring(endPos, txtarea.value.length);
+                txtarea.focus();
+                //set new selection
+                if (replaced) {
+                        var cPos = startPos+(tagOpen.length+myText.length+tagClo
+se.length);
+                        txtarea.selectionStart = cPos;
+                        txtarea.selectionEnd = cPos;
+                } else {
+                        txtarea.selectionStart = startPos+tagOpen.length;
+                        txtarea.selectionEnd = startPos+tagOpen.length+myText.le
+ngth;
+                }
+                txtarea.scrollTop = scrollTop;
+        }
+        // reposition cursor if possible
+        if (txtarea.createTextRange)
+                txtarea.caretPos = document.selection.createRange().duplicate();
+}
+
+   Ek kan steeds nie die verskil sien nie... Kyk by q:MediaWiki:Common.js
+   of daar nie dalk 'n brokkie kode is wat vermis word nie. Ek is jammer,
+   maar ek moet nou gaan slaap. Ek sal so gou as moontlik terugkeer om te
+   kyk wat hier aangaan. Dalk kan mens die kode verwyder totdat mens dit
+   bv. op Wikiquote eers perfek reggekry het en dit dan eers hier
+   voeg. — Adriaan (S★B) 21:36, 5 September 2007 (UTC)
+
+[wysig] Voorbladartikelsterretjies
+
+   Ek stel voor dat die volgende kode bygevoeg word. Blykbaar verander dit
+   die koeël langsaan die interwiki na 'n gele ster om aan te dui dat dit
+   in daardie spesifieke taal 'n "Featured article" is. Die sjabloon
+   Sjabloon:Link FA werk daarmee saam. Vir verdere inligting, sien die
+   Engelse commons.js. Die frase "Hierdie artikel geniet
+   voorbladartikelstatus in 'n ander taal." kan natuurlik verander word.
+   Die kode: — Adriaan (S★B) 12:59, 12 September 2007 (UTC)
+ /** Interwiki links to featured articles **************************************
+*
+  *
+  *  Description: Highlights interwiki links to featured articles (or
+  *               equivalents) by changing the bullet before the interwiki link
+  *               into a star.
+  *  Maintainers: [[User:R. Koot]]
+  */
+
+ function LinkFA()
+ {
+     if ( document.getElementById( "p-lang" ) ) {
+         var InterwikiLinks = document.getElementById( "p-lang" ).getElementsByT
+agName( "li" );
+
+         for ( var i = 0; i < InterwikiLinks.length; i++ ) {
+             if ( document.getElementById( InterwikiLinks[i].className + "-fa" )
+ ) {
+                 InterwikiLinks[i].className += " FA"
+                 InterwikiLinks[i].title = "Hierdie artikel geniet voorbladartik
+elstatus in 'n ander taal.";
+             }
+         }
+     }
+ }
+
+ addOnloadHook( LinkFA );
+
+          Bygevoeg. Anrie 13:31, 24 September 2007 (UTC)
+
+                Hmmm.. dis nou gelaai, maar die sterretjies wys nie (die
+                teks wel). Sal later probeer uitvind wat fout is. Anrie
+                13:37, 24 September 2007 (UTC)
+
+                      Ek het gesien wat fout is. sal dit gou probeer
+                      regstel. Anrie 13:40, 24 September 2007 (UTC)
+                      Ok dankie Anrie :) — Adriaan (S★B) 16:06, 24
+                      September 2007 (UTC)
+
+                            Ek sien steeds nie die sterretjies
+                            nie :/ — Adriaan (S★B) 11:29, 7 Oktober 2007
+                            (UTC)
+
+                                  Die sterretjies wys nou wel. Ek het die
+                                  kode van javascript verwyder en dit by
+                                  CSS gesit. — Adriaan (S★B) 19:30, 10
+                                  Oktober 2007 (UTC)
+

@@ -1,0 +1,52 @@
+Lineêre programmering
+
+
+   Lineêre programmering (LP) is 'n studieveld in operasionele navorsing.
+
+   Die studieveld fokus op 'n wiskundige probleem wat bestaan uit 'n
+   lineêre funksie wat gemaksimeer (of geminimeer) moet word onderhewig
+   aan 'n aantal lineêre ongelykhede. Die funksie heet "die doelfunksie"
+   en die ongelykhede word "die beperkings" genoem. In die algemene
+   probleem is daar ook "tekenvereistes" wat vereis dat die veranderlikes
+   almal nienegatief moet wees.
+
+   Lineêre programmering is die breinkind van George Dantzig wat gedurende
+   die Tweede Wêreldoorlog sekere logistiese probleme uitgedruk het as 'n
+   lineêre funksie (die doelfunksie) wat geoptimeer moet word onderhewig
+   aan 'n aantal lineêre beperkings. Hy was skynbaar foutiewelik onder die
+   indruk dat die meerdimensionele ruimte wat deur die beperkings geskep
+   word 'n meetkundige figuur bekend as 'n simpleks vorm en het sy
+   oplossingsprosedure daarna vernoem; die simpleksmetode.
+
+   Lineêre programmering is een van die eerste misleidende benamings wat
+   sederdien gereeld in die tegnologie gesien word. By die eerste
+   oogopslag dink mense dat lineêre programmering (LP) 'n vorm van (of
+   soort) rekenaarprogrammering is. In werklikheid verwys die woord
+   programmering na die proses om 'n program van aksie te vind. Die
+   simpleksmetode het niks met simplekse te doen nie en LP het niks met
+   rekenaarprogrammering uit te waai nie. Alles vreeslik verwarrend!
+
+   Die simpleksmetode en uitbreidings en verbeterings daarop was vir baie
+   jare die enigste oplossingsbenadering tot LP-probleme. Die
+   klassifisering van probleme volgens hulle oplossingsmoeilikheidsgraad
+   of kompleksiteit en die opvolgende klassifisering van LP-probleme as
+   behorende tot die moeilikste groep, het die aansporing tot nuwe
+   benaderings verskaf. In 1979(?) het die Rus Khachiyan die eerste
+   werklik nuwe benadering voorgestel wat dan ook LP uit die moeilikste
+   kategorie uitgehaal het deur aan te toon dat LP-probleme opgelos kan
+   word in polinoomtyd. In 1984 het Karmarkar 'n meer doeltreffende metode
+   gevind.
+
+[wysig] Toepassings
+
+   Die toepassingsgebiede binne operasionele navorsing is legio en wissel
+   van skedulering tot hulpbrontoewysing, van portefeuljeoptimering tot
+   voorraadprobleme. Die grootte van probleme wat suksesvol opgelos word
+   terwille van praktiese toepassing (dws van tyd tot tyd op roetinebasis
+   opgelos word) het saam met die krag van rekenaars toegeneem en nog
+   vinniger ook omdat daar ook voortdurende verbeterings plaasvind in
+   programmatuur wat in die handel beskikbaar is. Probleme met 70 000
+   beperkings en 'n paar honderd duisend veranderlikes val binne hierdie
+   groep.
+   Kategorie: Wiskunde
+

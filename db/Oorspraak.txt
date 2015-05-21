@@ -1,0 +1,40 @@
+Oorspraak
+
+
+   In elektronika, verwys die begrip oorspraak na een van die volgende
+   verskynsels:
+     * Die ongewenste kapasitiewe-, induktiewe- of konduktiewe koppeling
+       van een stroombaan, deel van 'n stroombaan of kanaal tot 'n ander.
+     * Enige verskynsel waardeur 'n sein wat in een stroombaan of kanaal
+       versend word 'n ongewenste effek in 'n ander stroombaan of kanaal
+       veroorsaak.
+     * Met betrekking tot opnames, verwys die begrip oorspraak na die
+       lekkasie van klank van een instrument na 'n ander mikrofoon wat
+       voor 'n ander instrument of sanger geplaas is. 'n Algemene
+       voorbeeld van hierdie lekkasie is die hoë-frekwensie,
+       swaarversterkte klank van die hoofkitaar in die mikrofone van ander
+       instrumente.
+
+   In telekommunikasie kan oorspraak gewoonlik herken word as spraak of
+   seintone wat vanaf ander persone se verbindings uitlek. As die
+   verbinding 'n analoë verbinding is kan gedraaide draadpaarkabels help
+   om oorspraak te verminder. Alternatiewelik kan die omskakeling na 'n
+   digitale vorm ook bydrae om die sein minder vatbaar te maak vir
+   oorspraak.
+
+[wysig] Verwysings
+
+     * Federal Standard 1037C en MIL-STD-188.
+
+[wysig] Sien ook
+
+     * Klankstelsel
+     * Sein integriteit
+
+[wysig] Eksterne verwysings
+
+     * 'n Intel opvoedkundige skyfievertoning oor kapasitiewe en
+       induktiewe oorspraak
+
+   Kategorie: Elektronika
+

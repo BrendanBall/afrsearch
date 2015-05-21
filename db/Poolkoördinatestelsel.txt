@@ -1,0 +1,676 @@
+Poolkoördinatestelsel
+
+
+   'n Punt M met poolkoördinate r en θ
+   'n Punt M met poolkoördinate r en θ
+   'n Polêre rooster met die koördinaatlyne wat bestaan uit konsentriese
+   sirkels in rooi waar r = konstant en strale in blou waar θ = konstant
+   is. In hierdie geval is θ 'n veelvoud van 30°.
+   'n Polêre rooster met die koördinaatlyne wat bestaan uit konsentriese
+   sirkels in rooi waar r = konstant en strale in blou waar θ = konstant
+   is. In hierdie geval is θ 'n veelvoud van 30°.
+
+   In wiskunde is die poolkoördinatestelsel, of poolkoördinaatstelsel, 'n
+   twee-dimensionele koördinatestelsel waarin punte aangegee word deur 'n
+   hoek en 'n afstand. Die poolkoördinatestelsel word in baie velde
+   gebruik insluitend wiskunde, fisika, ingenieurswese, navigasie en
+   robotika. Dit is veral nuttig in omstandighede waar die verhouding
+   tussen twee punte geredelik in terme van hoeke en afstande bepaal kan
+   word; in die Cartesiese koördinatestelsel kan sulke verhoudings slegs
+   deur trigonometriese formules gevind word. Vir baie soorte krommes is
+   'n poolvergelyking die eenvoudigste wyse van voorstelling; en vir
+   sommige die enigste.
+
+   Aangesien die koördinatestelsel tweedimensioneel is word elke punt deur
+   twee polêre koördinate bepaal: die radiale-koördinaat en die
+   hoekkoördinaat. Die radiale-koördinaat (gewoonlik voorgestel deur r of
+   ρ) dui die punt se afstand vanaf 'n sentrale punt wat as die pool
+   (ekwivalent aan die oorsprong in die Cartesiese stelsel) bekendstaan.
+   Die hoekkoördinaat (wat ook bekendstaan as die poolhoek of die
+   asimuthoek, gewoonlik deur θ, φ of t voorgestel) dui die positiewe of
+   antikloksgewyse hoek tussen die punt en die 0° straal of poolas (wat
+   ekwivalent is aan die positiewe x-as in die Cartesiese koördinaatvlak
+   is) aan.^[1] In die poolkoördinatestelsel is die koördinaatlyne dus
+   konsentriese sirkels (r = konstant) en strale (θ = konstant) eerder as
+   die reghoekige roosterpatroon wat by die Cartesiese koördinatestelsel
+   ontstaan. Die poolkoördinatestelsel is dan ook ortogonaal aangesien die
+   koördinaatlyne mekaar teen regtehoeke sny.^[2]^[3]
+
+   Die poolkoördinatestelsel kan op twee maniere na 'n driedimensionele
+   stelsel uitgebrei word. In die silindriese koördinatestelsel word 'n
+   derde koördinaat bygevoeg wat die hoogte van enige punt bo die vlak
+   aandui, soortgelyk aan die manier waarop die Cartesiese
+   koördinatestelsel na drie dimensies uitgebrei word. In die sferiese
+   koördinatestelsel word 'n punt afgestip deur die koördinate deur twee
+   hoeke en die afstand van die oorsprong gespesifiseer.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Uitstip van punte met poolkoördinate
+             + 2.1 Gebruik van radiaalmeting
+             + 2.2 Omskakeling tussen pool- en Cartesiese koördinate
+        * 3 Poolvergelykings
+             + 3.1 Sirkel
+             + 3.2 Lyn
+             + 3.3 Poolroos
+             + 3.4 Archimedesspiraal
+             + 3.5 Keëlsnitte
+             + 3.6 Ander krommes
+        * 4 Komplekse getalle
+        * 5 Analise
+             + 5.1 Differensiasie
+             + 5.2 Intergraalanalise
+                  o 5.2.1 Veralgemening
+             + 5.3 Vektoranalise
+        * 6 Drie dimensies
+             + 6.1 Silindriese koördinate
+             + 6.2 Sferiese koördinate
+        * 7 Toepassings
+             + 7.1 Posisie en navigasie
+             + 7.2 Modellering
+             + 7.3 Kepler se wette van planetêre beweging
+        * 8 Verwysings
+
+[wysig] Geskiedenis
+
+   Bonaventura Cavalieri
+   Bonaventura Cavalieri
+   Sir Isaac Newton
+   Sir Isaac Newton
+
+   Dit is bekend dat die Grieke die konsepte van hoek en radius gebruik
+   het. Die sterrekundige Hipparchus (190-120 v.C.) het 'n tabel van
+   koordfunksies opgestel wat die lengte van elke koord vir elke hoek gee
+   en daar is verwysings na sy gebruik van poolkoördinate in die bepaling
+   van sterposisies.^[4] In Oor Spirale, beskryf Archimedes sy beroemde
+   spiraal, 'n funksie waarvan die radius afhang van die hoek. Die Griekse
+   werk het egter nie sover as 'n volle koördinatestelsel gestrek nie.
+
+   Daar is verskeie bewerings oor wie poolkoördinate vir die eerste keer
+   as deel van 'n formele koördinatestelsel gebruik het. Die verhaal van
+   die onderwerp word volledig vertel in Harvard professor Julian Lowell
+   Coolidge se Origin of Polar Coordinates.^[5]^[6] Gréggoire de
+   Saint-Vincent en Bonaventura Cavalieri het die konsepte onafhanklik op
+   omtrent dieselfde tyd ingevoer. Saint-Vincent het privaat daaroor
+   geskryf in 1625 en dit in 1647 gepubliseer, terwyl Cavalieri dit in
+   1635 gepubliseer het met 'n gekorrigeerde weergawe wat in 1653 uitgekom
+   het. Poolkoördinate is aanvanklik vir spesiale doeleindes gebruik vir
+   die studie van sekere krommes voor dit as 'n algemene meetkundige stuk
+   gereedskap aangeneem is. Cavalieri het poolkoördinate vir die eerste
+   keer gebruik om 'n probleem oor die oppervlak binne 'n
+   Archimedesspiraal op te los. Blaise Pascal het poolkoördinate
+   vervolgens gebruik om die lengte van paraboliese boë te bereken. Die
+   probleem is wel te vore deur Roberval opgelos, maar sy oplossing is nie
+   universeel as geldig aanvaar nie. James Gregory het 'n transformasie
+   soortgelyk aan dié van Cavalieri tussen twee individuele krommes waar
+   die oppervlaktes verwant was gebruik en Pierre Varignon het 'n effens
+   aangepaste transformasie gebruik vir die studie van spirale.^[5]
+
+   In Method of Fluxions (geskryf in 1671, gepubliseer in 1736) was Sir
+   Isaac Newton die eerste wat poolkoördinate oorweeg het as 'n algemene
+   metode om enige punt in 'n vlak te bepaal. Newton het in Method of
+   Fluxions agt nuwe koördinaatstelesels voorgestel wat bestaan het uit
+   verskillende kombinasies pare van afstande wat radiaal van 'n gegewe
+   punt, of sywaarts teenoor gegewe reguitlyne of kromlynig langs boë of
+   sirkels gemeet is. Een van die nuwe stelsels, waarna Newton verwys het
+   as Seventh Manner; For Spirals, is in wese wat vandag as die
+   hedendaagse poolkoördinatestelsel bekendstaan.^[7] In Acta eruditorum
+   (1691) het Jacob Bernoulli 'n stelsel met 'n punt op 'n lyn,
+   onderskeidelik genaamd die pool en poolas, gebruik. Koördinate is deur
+   die afstand van die pool en die hoek van die poolas gegee. Bernoulli se
+   werk het gestrek tot bepaling van die buigingsradius van krommes wat in
+   die koördinate uitgedruk is. In 1729, twee jaa ná Newton se dood, het
+   Jacob Hermann poolkoördinate vir die eerste keer as 'n behoorlike
+   element van beskrywende meetkunde gebruik in sy studie oor lokusse.
+   Hermann het sy vergelyking nie in die moderne vorm uitgedruk nie, maar
+   drie veranderlikes z, m, en n gebruik, waar z die radius was en m en n
+   sinus en kosinus van die poolhoek. Waar sy voorgangers poolkoördinate
+   vir die studie van spirale gebruik het het hy dit uitsluitlik vir
+   algebraïese krommes gebruik.^[7]
+
+   Die term coordinate polari, Italiaans vir poolkoördinate, word aan
+   Gregorio Fontana toegeskryf en is deur 18de eeuse Italiaanse skrywers
+   gebruik. Die term is vir die eerste keer in Engels gebruik in George
+   Peacock se 1816 vertaling van Lacroix se Differensiaal- en
+   Integraalanalise.^[8]^[9]^[10]
+
+   Alexis Clairaut was die eerste om die uitbreiding van poolkoördinate na
+   drie dimensies oorweeg^[11], terwyl Leonhard Euler dit ontwikkel het.
+
+[wysig] Uitstip van punte met poolkoördinate
+
+   Die punte (3,60°) en (4,210°)
+   Die punte (3,60°) en (4,210°)
+
+   Soos in ander tweedimensionele koördinatestelsels is daar twee
+   poolkoördinate: r (die radiale koördinaat) en θ (die hoekkoördinaat,
+   poolhoek of asimuthoek, soms voorgestel deur φ of t). Die r-koördinaat
+   verteenwoordig die radiale afstand van die pool af, en die θ-koördinaat
+   die antiklokgewyse (linksom) hoek van die 0° straal (soms die poolas
+   genoem), wat as die positiewe x-as op die Cartesiese koördinaatvlak
+   bekend staan.^[1]
+
+   Byvoorbeeld, die poolkoördinate (3,60°) sal afgestip word as 'n punt 3
+   eenhede van die pool op die 60° straal. Die koördinate (−3,240°) sal
+   ook as die punt afgestip word omdat die negatiewe radiale afstand as 'n
+   positiewe afstand op die oorstaande straal gemeet word
+   (240° ; 180° = 60°).
+
+   Een belangrike aspek van die poolkoördinatestelsel wat nie in die
+   Cartesiese koördinatestelsel is nie is die vermoeë om 'n enkele punt
+   met oneindig verkillende koördinate uit te druk. In die algemeen kan
+   die punt (r, θ) uitgedruk word as (r, θ ± n×360°) of
+   (r,  θ (2n + 1)180°), waar n enige heelgetal is.^[12] 'n Ander
+   interessante feit oor die afstip van punte in poolkoördinate is dat
+   indien die r-koördinaat van 'n punt 0 is, sal die punt by die pool
+   geleë wees, ongeag van die θ-koördinaat.
+
+[wysig] Gebruik van radiaalmeting
+
+   Hoeke in poolnotasie word gewoonlik in of grade of radiale uitgedruk
+   waar 2 rad = 360°. Die keuse hang hoofsaaklik van die konteks af.
+   Navigasietoepassings gebruik grade terwyl sommige fisikatoepassings
+   (spesifiek rotasie-meganika) radiaalmetings gebruik, gegrond op die
+   verhouding van die radius van 'n sirkel tot die omtrek daarvan.^[13]
+
+[wysig] Omskakeling tussen pool- en Cartesiese koördinate
+
+   Diagram wat die verhouding tussen Cartesiese en poolkoördinate aandui
+   Diagram wat die verhouding tussen Cartesiese en poolkoördinate aandui
+
+   Die twee poolkoördinate r en θ kan na Cartesiese koördinate x en y
+   omgeskakel word deur die trigonometriese funksies:
+
+          x = r \cos \theta \,
+          y = r \sin \theta \,
+
+   terwyl die twee Cartesiese koördinate x en y na die poolkoördinate r
+   omgeskakel kan word deur
+
+          r = \sqrt{x^2 + y^2} \, (deur eenvoudig Pythagoras se stelling
+          toe te pas).
+
+   om die hoek koördinaat θ te bepaal moet die volgende twee gedagtes
+   oorweeg word:
+     * Vir r = 0, kan θ gestel word na enige reële waarde.
+     * Vir r ≠ 0, om 'n unieke voorstelling vir θ te verkry, moet dit
+       beperk word tot 'n interval met grootte 2π. Konvensionele keuses
+       vir so 'n interval is [0, 2π) en (−π, π].
+
+   Om θ in die interval [0, 2π) te verkry word die volgende gebruik
+   (arctan of boogtan dui die inverse van die tangens funksie aan):
+
+          \theta = \begin{cases} \arctan(\frac{y}{x}) & \mbox{as } x > 0
+          \mbox{ en } y \ge 0\\ \arctan(\frac{y}{x}) + 2\pi & \mbox{as } x
+          > 0 \mbox{ en } y < 0\\ \arctan(\frac{y}{x}) + \pi & \mbox{as }
+          x < 0\\ \frac{\pi}{2} & \mbox{as } x = 0 \mbox{ en } y > 0\\
+          \frac{3\pi}{2} & \mbox{as } x = 0 \mbox{ en } y < 0 \end{cases}
+
+   Om θ in die interval (−π, π] te verkry kan die volgende gebruik
+   word:^[14]
+
+          \theta = \begin{cases} \arctan(\frac{y}{x}) & \mbox{as } x > 0\\
+          \arctan(\frac{y}{x}) + \pi & \mbox{as } x < 0 \mbox{ en } y \ge
+          0\\ \arctan(\frac{y}{x}) - \pi & \mbox{as } x < 0 \mbox{ en } y
+          < 0\\ \frac{\pi}{2} & \mbox{as } x = 0 \mbox{ en } y > 0\\
+          -\frac{\pi}{2} & \mbox{as } x = 0 \mbox{ en } y < 0 \end{cases}
+
+   'n Mens kan dit vermy om tred te hou met teller en noemer deur die
+   atan2 funksie te gebruik wat aparte argumente vir die teller en noemer
+   is.
+
+[wysig] Poolvergelykings
+
+   Die vergelyking van 'n algebraïese kromme uitgedruk in poolkoördinate
+   staan bekend as 'n poolvergelyking, en word gewoonlik geskryf met r as
+   'n funksie van θ.
+
+   Poolvergelykings kan verskillende grade van simmetrie vertoon. As
+   r(-θ) = r(θ) sal die kurwe simmetries om die horisontale (0°/180°)
+   straal wees; as r(π−θ) = r(θ) sal dit simmetries om die vertikale
+   (90°/270°) straal wees; as r(θ−α) = r(θ) sal dit rotasioneel simmetries
+   α° antikloksgewys om die pool wees.
+
+[wysig] Sirkel
+
+   'n Sirkel met die vergelyking r(θ) = 1.
+   'n Sirkel met die vergelyking r(θ) = 1.
+
+   Die algemene vergelyking vir enige sirkel met 'n middelpunt by (r[0], )
+   en radius a is
+
+          r^2 - 2 r r_0 \cos(\theta - \varphi) + r_0^2 = a^2
+
+   Dit kan op verskeie maniere vereenvoudig word om ooreen te kom met meer
+   spesifieke gevalle, soos die vergelyking
+
+          r(\theta)=a \,
+
+   vir 'n sirkel met 'n middelpunt by die pool en 'n radius a.^[15]
+
+[wysig] Lyn
+
+   Radiale lyne (die wat deur die pool loop) word voorgestel deur die
+   vergelyking
+
+          \theta = \varphi \, ,
+
+   waar φ die hoogtehoek (elevasiehoek) van die lyn is; dit wil sê \varphi
+   = \arctan(m) met m die helling van die lyn in die Cartesiese
+   koördinatestelsel.
+
+   Enige lyn wat nie deur die pool gaan nie is reghoekig tot 'n radiale
+   lyn.^[16] Die lyn wat die lyn θ = φ reghoekig kruis by die punt (r[0],φ
+   ) het die vergelyking
+
+          r(\theta) = {r_0}\sec(\theta-\varphi) \, .
+
+[wysig] Poolroos
+
+   'n Poolroos met vergelyking r(θ) = 2 sin 4θ .
+   'n Poolroos met vergelyking r(θ) = 2 sin 4θ .
+
+   'n Poolroos is 'n beroemde wiskundige kromme wat soos 'n blom met
+   kroonblare lyk, en wat slegs as 'n poolvergelyking uitgedruk kan word.
+   Dit word beskryf deur die vergelykings
+
+          r(\theta) = a \cos(k\theta) \, of
+          r(\theta) = a \sin(k\theta) \,
+
+   As k 'n heelgetal is sal die vergelykings 'n k-blaar roos produseer as
+   k onewe is, of 'n 2k-blaar roos as k ewe is. As k nie 'n heelgetal is
+   nie word 'n skyf gevorm, aangesien die aantal blare ook nie 'n
+   heelgetal is nie. Let daarop dat dit met die vergelykings onmoontlik is
+   om 'n roos te maak met 2 meer as 'n veelvoud van 4 (2, 6, 10, ens.)
+   blare. Die veranderlike a verteenwoordig die lengte van die blare van
+   die roos.
+
+[wysig] Archimedesspiraal
+
+   Een arm van die Archimedesspiraal met die vergelyking r(θ) = θ vir
+   0 < θ < 6.
+   Een arm van die Archimedesspiraal met die vergelyking r(θ) = θ vir
+   0 < θ < 6.
+
+   Die Archimedesspiraal is 'n beroemde spriraal wat deur Archimedes
+   ontdek is wat ook slegs deur 'n poolvergelyking uitgedruk kan word. Dit
+   word uitgedruk deur die vergelyking:
+
+          r(\theta) = a+b\theta \, .
+
+   Verandering van die parameter a sal die spiraal draai, terwyl b die
+   afstand tussen die arms beheer, wat altyd konstant is. Die
+   Archimedesspiraal het twee arms, een vir θ > 0 en een vir θ < 0. Die
+   twee arms is glad verbind by die pool. Die spieëlbeeld van een arm oor
+   die 90°/270°-lyn sal die ander arm lewer.
+
+[wysig] Keëlsnitte
+
+   Ellips, wat die semi-latus rectum vertoon
+   Ellips, wat die semi-latus rectum vertoon
+
+   Keëlsnitte word uitgedruk deur die vergelyking
+
+          r = {l\over (1 + e \cos \theta)}
+
+   waar l die semi-latus rectum is en e die eksentrisiteit is.
+
+   As e < 1 definieer die vergelyking 'n ellips, as e = 1 definieer dit 'n
+   parabool en as e > 1 definieer 'n hiperbool.
+
+[wysig] Ander krommes
+
+   As gevolg van die sirkulêre basis van die koördinatestelsel is dit baie
+   eenvoudiger om sekere krommes deur 'n vergelyking in poolkoördinate
+   eerder as in Cartesiese vorm uit te druk. Onder die krommes tel
+   lemniskaat, limaçons, en kardioïde.
+
+[wysig] Komplekse getalle
+
+   'n Illustrasie van 'n komplekse getal z afgeteken op die komplekse vlak
+   'n Illustrasie van 'n komplekse getal z afgeteken op die komplekse vlak
+   'n Illustrasie van 'n komplekse getal afgeteken op die komplekse vlak
+   deur van Euler se formule gebruik te maak
+   'n Illustrasie van 'n komplekse getal afgeteken op die komplekse vlak
+   deur van Euler se formule gebruik te maak
+
+   Komplekse getalle, geskryf in reghoekige vorm as a + bi, kan ook op
+   twee verskillende maniere in poolvorm uitgedruk word:
+    1. r(\cos\theta+i\sin\theta) \, , afgekort r \mbox{ cis } \theta \,
+    2. r e^{i\theta} \,
+
+   wat beide ekwivalent is volgens Euler se formule.^[17] Om tussen
+   reghoekige en poolkomplekse getalle om te skakel word die volgende
+   omskakelingsformules gebruik:
+
+          a = r \cos \theta \,
+          b = r \sin \theta \,
+          en daarom r = \sqrt{a^2 + b^2} \,
+
+   Vermenigvuldiging, deling, en magsverheffing, en die bepaling van
+   wortels van komplekse getalle is dit baie makliker om poolkomplekse
+   getalle te gebruik as reghoekige komplekse getalle. In afgekorte vorm:
+     * Vermenigvuldiging:
+
+                (r \mbox{ cis } \theta) * (R \mbox{ cis } \varphi) = rR
+                \mbox{ cis } (\theta+\varphi) \,
+
+     * Deling:
+
+                \frac{r \mbox{ cis } \theta}{R \mbox{ cis } \varphi} =
+                \frac{r}{R} \mbox{ cis } (\theta-\varphi) \,
+
+     * Magsverheffing (De Moivre se formule):
+
+                (r \mbox{ cis } \theta)^n = r^n \mbox{ cis } (n\theta) \,
+
+[wysig] Analise
+
+   Analise kan op vergelykings wat in poolkoördinate uitgedruk is toegepas
+   word.^[18]^[19]
+
+   Die hoekkoördinaat θ word in hierdie afdeling deurgans in radiale
+   uitgedruk.
+
+[wysig] Differensiasie
+
+   Ons het die volgende formules:
+
+          r \tfrac{\partial}{\partial r}= x \tfrac{\partial}{\partial x} +
+          y \tfrac{\partial}{\partial y} \,
+          \tfrac{\partial}{\partial \theta} = -y \tfrac{\partial}{\partial
+          x} + x \tfrac{\partial}{\partial y} .
+
+   Om die Cartesiese helling van die raaklyn aan die poolkromme r(θ) by
+   enige gewe punt te verkry word die punt eers as 'n stel parametriese
+   vergelykings geskryf.
+
+          x=r(\theta)\cos\theta \,
+
+          y=r(\theta)\sin\theta \,
+
+   Differensiasie van beide vergelykings met betrekking tot θ lewer
+
+          \frac{dx}{d\theta}=r'(\theta)\cos\theta-r(\theta)\sin\theta \,
+
+          \frac{dy}{d\theta}=r'(\theta)\sin\theta+r(\theta)\cos\theta \,
+
+   Deur die tweede vergelyking deur die eerste te deel word die Cartesiese
+   helling van die raaklyn tot die kromme by punt (r, r(θ)) verkry:
+
+          \frac{dy}{dx}=\frac{r'(\theta)\sin\theta+r(\theta)\cos\theta}{r'
+          (\theta)\cos\theta-r(\theta)\sin\theta}
+
+[wysig] Intergraalanalise
+
+   Die integrasie oor gebied R word begrens deur die kromme r(θ) en die
+   strale θ = a en θ = b.
+   Die integrasie oor gebied R word begrens deur die kromme r(θ) en die
+   strale θ = a en θ = b.
+
+   Laat R die gebied aandui ingesluit deur r(θ) en die strale θ = a en θ =
+   b, waar 0 < b − a < 2π. Dan is die oppervlak van R
+
+          \frac12\int_a^b r(\theta)^2\, d\theta.
+
+   Die gebied R word benader deur n sektore (hier, n = 5).
+   Die gebied R word benader deur n sektore (hier, n = 5).
+
+   Hierdie resultaat kan as volg gevind word. Eers word die interval
+   [a, b] verdeel in n subintervalle, waar n 'n arbitrêre positiewe
+   heelgetal is. Dus Δθ, die lengte van elke subinterval, is gelyk aan
+   b − a (die totale lengte van die interval), gedeel deur n, die aantal
+   subintervalle. Vir elke subinterval i = 1, 2, …, n, laat θ[i] die
+   middelpunt van die subinterval wees, en konstrueer 'n sektor met die
+   middelpunt by die pool, radius r(θ[i]), sentrale hoek Δθ en booglengte
+   r(\theta_i)\Delta\theta\, . Die oppervlak van elke gekonstrueerde
+   sektor is dus gelyk aan \tfrac12r(\theta_i)^2\Delta\theta . Gevolglik
+   is die totale oppervlak van al die sektore
+
+          \sum_{i=1}^n \tfrac12r(\theta_i)^2\,\Delta\theta.
+
+   Soos die aantal subintervalle n vermeerder word, word die benadering
+   van die oppervlak al hoe beter. In die limiet soos n → ∞, word die som
+   die Riemann som vir die bostaande integraal.
+
+[wysig] Veralgemening
+
+   Deur Cartesiese koördinate te gebruik kan 'n infinitesimale oppervlak
+   element bereken word as dA = dx dy. Die substitusie reël vir
+   vermenigvuldiging stel dat, wanneer ander koördinate gebruik word, die
+   Jacobiaanse determinant van die koördinateomskakelingformule oorweeg
+   moet word:
+
+          J = \det\frac{\partial(x,y)}{\partial(r,\theta)}
+          =\begin{vmatrix} \frac{\partial x}{\partial r} & \frac{\partial
+          x}{\partial \theta} \\ \frac{\partial y}{\partial r} &
+          \frac{\partial y}{\partial \theta} \end{vmatrix}
+          =\begin{vmatrix} \cos\theta & -r\sin\theta \\ \sin\theta &
+          r\cos\theta \end{vmatrix} =r\cos^2\theta + r\sin^2\theta = r.
+
+   Gevolglik kan 'n oppervlak element in poolkördinate geskryf word as
+
+          dA = J\,dr\,d\theta = r\,dr\,d\theta.
+
+   Nou, 'n funksie wat in poolkoördinate gegee word kan as volg
+   geïntegreer word:
+
+          \iint_R f(r,\theta) \, dA = \int_a^b \int_0^{r(\theta)}
+          f(r,\theta)\,r\,dr\,d\theta.
+
+   Hier is R dieselfde gebied as hier bo, naamlik, die gebied ingesluit
+   deur 'n kromme r(θ) en die strale θ = a en θ = b.
+
+   Die formule vir die oppervlak van R word verkry deur f identies gelyk
+   aan 1 te neem. 'n Meer verrassende toepassing van hierdie resultaat gee
+   die Gauss integraal
+
+          \int_{-\infty}^\infty e^{-x^2} \, dx = \sqrt\pi.
+
+[wysig] Vektoranalise
+
+   Analise kan toegepas word op uitdrukkings in poolkoördinate. Laat
+   \mathbf{r} die posisievektor (r\cos(\theta),r\sin(\theta))\, wees, met
+   r en θ wat afhang van tyd t, laat \hat{\mathbf{r}} 'n eenheidsvektor in
+   die regting \mathbf{r} wees en \hat{\boldsymbol\theta} 'n
+   eenheidsvektor reghoekig tot \mathbf{r} . Die eerste een tweede
+   afgeleides van posisie is
+
+          \frac{d\mathbf{r}}{dt} = \dot r\hat{\mathbf{r}} +
+          r\dot\theta\hat{\boldsymbol\theta}, .
+          \frac{d^2\mathbf{r}}{dt^2} = (\ddot r -
+          r\dot\theta^2)\hat{\mathbf{r}} + (r\ddot\theta + 2\dot r
+          \dot\theta)\hat{\boldsymbol\theta}.
+
+   Laat \mathbf{A} die oppervlakte wees gevee deur 'n lyn wat die fokus
+   met 'n punt op die kromme verbind. In die limiet is d\mathbf{A} helfte
+   van die oppervlak van die parallelogram gevorm deur \mathbf{r} en
+   d\mathbf{r} ,
+
+          dA = \begin{matrix}\frac{1}{2}\end{matrix} |\mathbf{r} \times
+          d\mathbf{r}| ,
+
+   en die totale oppervlak sal die integraal van d\mathbf{A} met
+   betrekking tot tyd wees.
+
+[wysig] Drie dimensies
+
+   Die poolkoördinatestelsel word deur twee verskillende
+   koördinatestelsels na drie dimensies uitgebrei, die silindriese en
+   sferiese koördinatestelsels.
+
+[wysig] Silindriese koördinate
+
+   'n Punt afgestip met silindriese koördinate
+   'n Punt afgestip met silindriese koördinate
+
+   Die silindriese koördinatestelsel is 'n koördinatestelsel wat die
+   tweedimensionele poolkoördinatestelsel uitbrei na drie dimensies deur
+   'n derde koördinaat by te voeg wat die hoogte van enige punt bo die
+   vlak aandui, soortgelyk aan die manier waarop die Cartesiese
+   koördinatestelsel na drie dimensies uitgebrei word. Die derde dimensie
+   word gewoonlik deur h voorgestel wat die drie koördinate (r, θ, h)
+   lewer.
+
+   Die drie silindriese koördinate kan na Cartesiese koördinate omgeskakel
+   word deur
+
+          {x}={r} \,\cos\theta
+          {y}={r} \, \sin\theta
+          {z}={h} \,
+
+[wysig] Sferiese koördinate
+
+   'n Punt afgestip deur middel van sferiese koördinate
+   'n Punt afgestip deur middel van sferiese koördinate
+
+   Poolkoördinate kan ook na drie dimensies uitgebrei word deur die
+   sferiese koördinatestelsel. In die koördinatestelsel word 'n punt
+   afgestip deur die koördinate (ρ, φ, θ) waar ρ afstand van die pool is,
+   φ die hoek van die z-as (bekend as die die Engels: colatitude of zenith
+   en gemeet van 0 tot 180°) en θ die hoek van die x-s (soos in die
+   poolkoördinatestelsel). Die sferiese koördinatestelsel soortgelyk aan
+   die breedtegraad en lengtegraad stelsel wat op die aarde gebruik word,
+   met die breedtegraaddie komplement van φ, wat bepaal word deur δ = 90°
+   − φ, en die lengtegraad gemeet word deur l = θ − 180°. ^[20]
+
+   Die drie sferiese koördinate word omgekakels na Cartesiese koördinate
+   deur
+
+          x =\rho \, \sin\phi \, \cos\theta
+          y =\rho \, \sin\phi \, \sin\theta
+          z =\rho \, \cos\phi
+
+[wysig] Toepassings
+
+   Poolkoördinate is tweedimensioneel en kan dus slegs gebruik word waar
+   punte op 'n enkele tweedimensionele vlak lê. Poolkoördinate is veral
+   geskik in gevalle waar die verskynsel wat beskryf word inherent verband
+   hou met die lengte en rigting van 'n sentrale punt. Elementêre
+   poolkoördinaatvergelyking kan by voorbeeld krommes soos die
+   Archimedesspiraal beskryf terwyl die ekwivalente vergelyking in
+   Cartesiese koördinate heelwat meer ingewikkeld sou wees. Verder word
+   baie fisiese verskynsels, soos die wat bemoei is met liggame wat om 'n
+   sentrale punt beweeg of waar verskynsels hulle oorsprong by 'n sentrale
+   punt het, kan baie eenvoudiger en op meer intuïtiewe wyse gemodelleer
+   wanneer poolkoördinate gebruik word. Die aanvanklike rede vir die
+   invoer van die poolkoördinatestelsel was om die studie van sirkulêre en
+   orbitale beweging moontlik te maak
+
+[wysig] Posisie en navigasie
+
+   Poolkoördinate word baiekeer in navigasie gebruik aangesien die
+   bestemming en bewegingsrigting as 'n hoek en die afstand van voorwerp
+   wat beskou word gegee kan word. Vliegtuie gebruik byvoorbeeld 'n effens
+   aangepaste weergawe van die poolkoördinatestelsel vir navigasie. In die
+   stelsel, wat gewoonlik vir enige vorm van navigasie gebruik word, word
+   die 0° straal gewoonlik 360 genoem, en word die hoek in kloksgewyse
+   rigting gemeet eerder as in die teenkloksgewyse rigting wat in die
+   wiskundige stelsel gebruik word. 360 kom ooreen met Noord, terwyl 90,
+   180, en 270 onderskeidelik met Oos, Suid, en Wes, ooreenkom.^[21] Dus
+   sal 'n vliegtuig wat teen 5 seemyl oosvlieg teen 5 eenhede in rigting
+   90 (lees niner-zero lugverkeerbeheer) wees.^[22]
+
+[wysig] Modellering
+
+   Stelsel wat radiale simmetrie vertoon vorm 'n natuurlike
+   toepassingsveld vir die poolkoördinatestelsel, met die middelpunt wat
+   as die pool dien. 'n Goeie voorbeeld van die gebruik is die
+   grondwatervloeivergelyking wanneer toegepas op radiaal simmetriese
+   putte. Stelsels met 'n radiale krag is ook goeie kandidate vir die
+   gebruik van die poolkoördinatestelsel. Dit sluit in gravitasievelde,
+   wat die omgekeerde-vierkantwet gehoorsaam, sowel as stelsels met
+   puntbronne soos radio antennes.
+
+   Radiaal asimmetriese stelsels kan ook met poolkoördinate gemodelleer.
+   'n Mikrofoon se opvangspatroon illustreer byvoorbeeld die eweredige
+   reaksie tot 'n inkomende klank uit enige gegewe rigting, en die patrone
+   kan voorgestel word as polêre krommes. Die kromme van 'n standaard
+   kardioïedmikrofoon, die mees algemene eenrigtingmikrofoon, kan
+   voorgestel word as r = .5 + .5 sin θ.^[23]
+
+[wysig] Kepler se wette van planetêre beweging
+
+   Kepler se tweede wet
+   Kepler se tweede wet
+
+   Poolkoördinate is 'n natuurlike omgewing vir die uitdruk van Kepler se
+   wette van planetêre beweging. Kepler se eerste wet stel dat die
+   wentelbaan van 'n planeet om 'n ster 'n ellips vorm met een fokus by
+   die middelpunt van die massamiddelpunt van die stelsel. Bogenoemde
+   vergelyking kan gebruik word om die ellips voor te stel. Kepler se
+   tweede wet, die wet van gelyke oppervlaktes stel dat 'n lyn wat 'n
+   planeet en sy ster verbind gelyke oppervlaktes vee tydens die gelyke
+   tydintervalle, dit wil sê d\mathbf{A}\over dt is konstant. Die
+   vergelykings kan afgelei word van Newton se wette van beweging.
+
+[wysig] Verwysings
+
+    1. ^ ^1,0 ^1,1 Brown, Richard G. (1997). Andrew M. Gleason: Advanced
+       Mathematics: Precalculus with Discrete Mathematics and Data
+       Analysis. Evanston, Illinois: McDougal Littell. ISBN
+       0-395-77114-5.
+    2. ^ Encyclopaedia of Mathematics, Polar coordinates, besoek op 24
+       Februarie 2008
+    3. ^ Encyclopaedia of Mathematics, Orthogonal system, besoek op 24
+       Februarie 2008
+    4. ^ Friendly, Michael. "Milestones in the History of Thematic
+       Cartography, Statistical Graphics, and Data Visualization." URL
+       besoek op 2006-09-10.
+    5. ^ ^5,0 ^5,1 The MacTutor History of Mathematics archive: Coolidge's
+       Origin of Polar Coordinates
+    6. ^ Coolidge, Julian (1952). "The Origin of Polar Coordinates".
+       American Mathematical Monthly 59: 78-85.
+    7. ^ ^7,0 ^7,1 CB Boyer, Newton as an Originator of Polar Coördinates,
+       The American Mathematical Monthly, Vol. 56, No. 2 (Feb., 1949), pp.
+       73-78
+    8. ^ Klaasen, Daniel. Historical Topics for the Mathematical
+       Classroom.
+    9. ^ Miller, Jeff. "Earliest Known Uses of Some of the Words of
+       Mathematics." URL besoek op 2006-09-10.
+   10. ^ Smith, David Eugene (1925). History of Mathematics, Vol II.
+       Boston: Ginn and Co., 324.
+   11. ^ Coolidge haal hom as volg aan: "A l'égard des courbes á double
+       courbure, dont les coordonnes partent d'un point, ou dont les
+       coordonnées représentent des lignes courbes, elles demandent une
+       méthode particuliere, et peuvent fournier le sujet d'un autre
+       Traité que je compte donner au public." (Wat betref 'n kromme met
+       dubbele kromming, waarvan die koördinate die kromminglyne
+       verteenwoordig, dit vereis 'n spesifieke metode, en kan die
+       onderwerp van 'n ander verhandeling wees wat ek beplan om openbaar
+       te maak). Die aanhaling is uit Clairaut, Recherches sur les courbes
+       B double courbure, Parys, 1731, laaste bladsy van die Inleiding. Hy
+       het egter sover bekend nooit voortgegaan met die openbaar maak van
+       die gedagte nie.
+   12. ^ "Polar Coordinates and Graphing." (PDF) 2006-04-13. URL besoek op
+       2006-09-22.
+   13. ^ (2005) Principles of Physics. Brooks/ColeThomson Learning. ISBN
+       0-534-49143-X.
+   14. ^ Torrence, Bruce Follett; Eve Torrence (1999). The Student's
+       Introduction to Mathematica®. Cambridge University Press. ISBN
+       0521594618.
+   15. ^ "Polar coordinates." URL besoek op 2006-05-25.
+   16. ^ Ward, Robert L.. "Analytic Geometry: Polar Coordinates." URL
+       besoek op 2006-05-25.
+   17. ^ Smith, Julius O. (2003). “Euler's Identity”, Mathematics of the
+       Discrete Fourier Transform (DFT). W3K Publishing. ISBN
+       0-9745607-0-7. Besoek op 2006-09-22.
+   18. ^ Husch, Lawrence S.. "Areas Bounded by Polar Curves." URL besoek
+       op 2006-11-25.
+   19. ^ Lawrence S. Husch. "Tangent Lines to Polar Graphs." URL besoek op
+       2006-11-25.
+   20. ^ Wattenberg, Frank (1997). "Spherical Coordinates." URL besoek op
+       2006-09-16.
+   21. ^ Santhi, Sumrit. "Aircraft Navigation System." URL besoek op
+       2006-11-26.
+   22. ^ "Emergency Procedures." URL besoek op 2007-01-15.
+   23. ^ Eargle, John (2005). Handbook of Recording Engineering, Fourth
+       Edition, Springer. ISBN 0387284702.
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+
+   Kategorie: Koördinatestelsels
+

@@ -1,0 +1,161 @@
+Serie-poort
+
+
+   'n Manklike DE-9 serie-poort op die agterste paneel van 'n Persoonlike
+   rekenaar.
+   'n Manklike DE-9 serie-poort op die agterste paneel van 'n Persoonlike
+   rekenaar.
+   'n Manlike serie-poort op 'n skootrekenaar.
+   'n Manlike serie-poort op 'n skootrekenaar.
+
+   In die rekenaarwese is 'n serie-poort 'n fisiese koppelvlak waardeur
+   inligting een bis op 'n slag oorgedra word (in teenstelling met 'n
+   parallelle poort). Sedert die ontstaan van persoonlike rekenaars is
+   data deur serie-poorte oorgedra na toestelle soos rekenaarterminale of
+   modems. Muise, sleutelborde en ander randtoestelle is ook op die manier
+   verbind.
+
+   Inhoud
+
+        * 1 Hardeware
+        * 2 Verstellings
+             + 2.1 Spoed
+             + 2.2 Pariteit
+             + 2.3 Stopbisse
+             + 2.4 Konvensionele notasie
+             + 2.5 Vloeibeheer
+        * 3 Eksterne skakels
+
+[wysig] Hardeware
+
+   Sommige rekenaars, soos die IBM Persoonlike rekenaar, gebruik 'n
+   geïntegreerde stroombaan wat 'n UART genoem word wat karakters na (en
+   vanaf) asinkrone serievorm omskakel en ook outomaties omsien na die
+   tydsberekening en raam van data. Baie lae kostestelsels soos sommige
+   vroeë tuisrekenaars het die SVE gebruik vir die doeleinde.
+
+   Die RS-232 standaard het aanvanklik 'n 25-pen D-tipe hegstuk
+   gespesifiseer, maar baie ontwerpers van persoonlike rekenaars het
+   verkies om slegs 'n gedeelte van die volle standaard te implementeer en
+   het versoenbaarheid met die standaard prysgegee ter wille van laer
+   kostes en meer kompakte hegstukke (in besonder die DE-9 weergawe wat
+   deur die IBM AT Persoonlike rekenaar). Die teenwoordigheid van 'n
+   D-subminiatuur hegstuk is egter nie altyd die enigste aanduiding dat 'n
+   serie-poort gebruik word nie. Baie Apple Macintosh rekenaars het die
+   verwante RS-422 standaard gebruik met die Duitse DIN hegstukke.
+
+   In die afgelope paar jaar het gevorderde elektronika vinniger en
+   ekonomiese seriekommunikasie moontlik gemaak wat meebring dat nuwe
+   seriekommunikasiestandaarde soos USB en Firewire begin om die RS-232
+   standaard te vervang. Dit is tans moontlik om toestelle met seriepoorte
+   te verbind wat nie voorheen bevredigend oor stadige serieverbindings
+   sou kon werk nie soos stoor-, klank en videotoestelle.
+
+   Bedryfstelsels gebruik gewoonlik 'n simboliese naam om na die
+   seriepoorte van 'n rekenaar te verwys. Unix-tipe bedryfstelsels ken
+   gewoonlik 'n naam aan serie-poorttoestelle in die vorm /dev/ttyS* toe
+   waar die * 'n getal verteenwoordig beginnende by 0. Die Microsoft
+   MS-DOS en Windows omgewing verwys na serie-poorte as COM1, COM2
+   ensovoorts (meer spesifiek die RS-232 serie-poorte).
+
+[wysig] Verstellings
+
+   Programmatuur kan gebruik word om baie van die verstellings van
+   serie-verbindings te beheer veral in die besonder die spoed, pariteit,
+   en stopbisse. Een van die vereenvoudigings wat gemaak is in ander
+   serie-bus standaarde soos Ethernet, Firewire en USB is dat baie van die
+   parameters vasgestelde waardes het sodat gebruikers hulle nie kan of
+   hoef te verander nie; die spoed word óf konstant gehou of outomaties
+   vasgestel.
+
+[wysig] Spoed
+
+   Serie-poorte gebruik tweevlak (binêre) seine dus is die datasnelheid in
+   bisse per sekonde gelyk aan die simboolsnelheid in baud. Algemene
+   bistempos per sekonde vir asinkrone begin/stop kommunikasie is 300,
+   1200, 2400, 9600, 19200 baud ensovoorts. Die poortspoed en toestel se
+   spoed moet ooreenstem, baie toestelle kan egter die serie-poortsnelheid
+   outomaties vasstel. Alhoewel die RS 232 standaard formeel beperk is tot
+   20 000 bisse per sekonde, laat serie-poorte op gewilde persoonlike
+   rekenaars verstellings van 115 200 bisse per sekonde. Nie alle
+   bistempos is egter moontlik met alle serie-poorte nie.
+
+   Die spoedmeting sluit bisse vir die raam van data (stopbisse, pariteit
+   ensovoorts) in en daarom is die effektiewe datasnelheid laer as die
+   bisoordragtempo. Vir 'n 8-N-1 enkodering byvoorbeeld is slegs 80% van
+   die bisse beskikbaar vir data (vir elke agt bisse data word twee of
+   meer raambisse gestuur).
+
+[wysig] Pariteit
+
+   Pariteit is 'n tegniek vir die vasstel van foute in data-oordrag. Waar
+   pariteit gebruik word in 'n serie-poort, word 'n ekstra bis saam met
+   elke datakarakter gestuur wat so gerangskik word dat die getal 1 bisse
+   in elke karakter, insluitende die pariteitsbis altyd ewe of onewe is.
+   As 'n greep ontvang word met die verkeerde aantal 1 bisse, beteken dit
+   dat die data is foutief oorgedra. As die pariteit korrek is, was daar
+   moontlik geen foute nie of 'n ewe-getal foute het voorgekom. 'n Enkele
+   pariteitsbis maak dit nie moontlik om foutregstelling op elke karakter
+   te doen nie en daarom het kommunikasieprotokolle wat oor
+   serie-verbindings werk, hoër vlak algoritmes om te verseker dat data
+   geldig is en herversending van data te versoek wat foutiewelik gestuur
+   is.
+
+   Die pariteit van die serie-protokol kan behalwe geen, onewe en ewe ook
+   na spasie en merk gestel word. Merkpariteit beteken dat die
+   pariteitsbis altyd gestel word om die seintoestand (logiese 1) te stel
+   en op soortgelyke wyse stuur 'n spasiepariteit altyd die pariteitsbis
+   in die spasiesein toestand. Behalwe vir ongewone toepassings wat die
+   9^de pariteitsbis vir adresering of spesiale seine gebruik word die
+   spasie of merkpariteit nooit gebruik nie.
+
+[wysig] Stopbisse
+
+   Stopbisse word aan die einde van elke greep gestuur om die
+   ontvangstoestel toe te laat om te hersinkroniseer. Elektroniese
+   toestelle gebruik gewoonlik een stopbis.
+
+[wysig] Konvensionele notasie
+
+   Die D/P/S notasie spesifiseer die dataraam van 'n serie-verbinding. Die
+   mees algemene gebruik op mikrorekenaars is 8/N/1 (8N1). Hiervolgens
+   word 8 databisse, een pariteitsbis en een stopbis gespesifiseer. Die
+   aantal databisse kan 7,8 of soms 9 wees. Pariteit word aangedui as geen
+   (N), onewe (O) of gelyk (E) met sommige stelsels wat die merk (M) of
+   spasie (S) ondersteun om 'n konstante 1 of 0 bis vir pariteit aan te
+   dui.
+
+   Volgens die notasie word die pariteitsbis nie by die databisse
+   ingesluit nie. 7/E/1 (7E1) Beteken dat 'n ewe pariteitsbis by die sewe
+   databisse gevoeg word om 'n totaal van agt bisse tussen die begin- en
+   stopbis te gee.
+
+[wysig] Vloeibeheer
+
+   'n Serie-poort kan seine in die koppelvlak gebruik die versending van
+   data te onderbreek en weer te hervat. 'n Stadige drukker mag
+   byvoorbeeld eers 'n ooreenkoms (handskud) met die serie-poort bereik
+   dat dataversending onderbreek moet word terwyl die meganisme na 'n nuwe
+   lyn skuif. Algemene hardeware handskudseine maak gebruik van die RS 232
+   RTS/CTS, DTR/DSR seinstroombane. (Sien versending vloeibeheer).
+
+   'n Ander metode van vloeibeheer kan spesiale karakters soos XON/XOFF
+   gebruik om die vloei van data te beheer. Die XON/XOFF karakters word
+   deur die ontvanger na die sender gestuur om te beheer wanneer die
+   sender die data gaan stuur, met ander woorde die hierdie karakters word
+   in die teenoorgestelde rigting van die data gestuur. Die XON karakter
+   laat weet die sender dat die ontvanger gereed is om meer data te
+   ontvang. Die XOFF karakter laat weet die sender om op te hou met die
+   stuur van karakters totdat die ontvanger weer gereed is. As die
+   beheerkarakters deel is van die datastroom moet hulle met spesiale
+   karakters gemerk word (escape sequence) om te verhoed dat hulle as
+   beheerkarakters geīnterpreteer word. Aangesien geen ekstra
+   seinstroombane vereis word nie, XON/XOFF vloeibeheer kan gedoen word
+   oor 'n koppelvlak met drie drade.
+
+[wysig] Eksterne skakels
+
+     * Serie-koppelvlakke van moderne en ou rekenaars
+
+   Kategorie: Rekenaar
+

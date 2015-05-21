@@ -1,0 +1,55 @@
+Eksentrisiteit (sterrekunde)
+
+
+   Voorbeelde van wentelbane met verskillende eksentrisiteite.
+   Voorbeelde van wentelbane met verskillende eksentrisiteite.
+
+   Eksentrisiteit is 'n term wat gebruik word om te verwys na die
+   wentelbaan van 'n hemelliggaam wat afwyk van 'n sirkelvorm, die
+   wentelbaan is dus eksentries.
+
+   Die eksentrisiteit van die wentelbaan is 'n belangrike parameter wat
+   die vorm van die baan definiëer en kan gesien word as die mate waarin
+   die wentelbaan van 'n sirkel afwyk.
+
+   Die eksentrisiteit ( e\,\! ) word baie presies gedefiniëeer vir alle
+   sirkelvormige, elliptiese, paraboliese en hiperboliese bane en kan die
+   volgende waardes hê:
+     * Vir sirkelvormige wentelbane: e=0\,\! ,
+     * Vir elliptiese wentelbane: 0<e<1\,\! ,
+     * Vir paraboliese wentelbane: e=1\,\! ,
+     * Vir hiperboliese wentelbane: e>1\,\! .
+
+[wysig] Formule
+
+   Die eksentrisiteit van 'n wentelbaan kan bereken word as die grootte an
+   die eksentrisiteitsvektor:
+
+          e= \left | \mathbf{e} \right |
+
+   waar:
+     * \mathbf{e}\,\! die eksentrisiteitsvektor is.
+     __________________________________________________________________
+
+   Vir elliptiese wentelbane kan die eksentrisiteit ook bereken word uit
+   die afstand vanaf die omwentelde liggaam tot die periapsis en apoapsis:
+
+          e={{d_a-d_p}\over{d_a+d_p}}=1-\frac{2}{\frac{d_a}{d_p}+1}=\frac{
+          2}{\frac{d_p}{d_a}+1}-1
+
+   waar:
+     * d_p\,\! die afstand tot die periapsis is,
+     * d_a\,\! die afstand tot die apoapsis is.
+
+[wysig] Voorbeelde
+
+   Die eksentrisiteit van die aarde se wentelbaan is tans 0,0167. Pluto se
+   eksentrisiteit is 0,2488 (die grootste waarde onder die planete in ons
+   sonnestelsel), Mercurius: 0,2056, die maan 0,0554.
+
+[wysig] Eksterne skakels
+
+     * World of Physics: Eccentricity
+
+   Kategorie: Sterrekunde
+

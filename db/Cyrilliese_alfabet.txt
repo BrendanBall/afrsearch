@@ -1,0 +1,88 @@
+Cyrilliese alfabet
+
+
+   Die Cyrilliese alfabet ook Siriliese alfabet is die alfabet wat gebruik
+   word om ses Slawiese tale te skryf: Russies, Oekraïens, Witrussies,
+   Serwies, Masedonies en Bulgaars, asook ander tale van die voormalige
+   Sowjetunie. Tot en met 1859 is Roemeens ook in die Cyrilliese alfabet
+   geskryf. Ander name: Russiese alfabet, Asboeka, Азбука.
+
+   Die Cyrilliese alfabet is afgelei van die Glagolitiese alfabet uit die
+   negende eeu wat toegeskryf word aan die broers Cyrillus en Methodius
+   wat albei monnike was. Die oorsprong van die Cyrilliese alfabet self is
+   egter minder seker.
+
+[wysig] Transliterasie
+
+                                     groot klein naam klank transliterasie
+                                         ISO 9 Afrikaans Nederlands Engels
+                                                       А а A /a/ a a a a
+                                                      Б б Be /b/ b b b b
+                                          В в We /v/ v w of f ^[1] v/w v
+                                                      Г г Ge /g/ g g g g
+                                                      Д д De /d/ d d d d
+                                               Е е Je /jE/ e e/je e/je e
+                                        Ё ё Jo /jO/ ë o/jo o/jo/e/je ë
+                                                 Ж ж Zje /Z/ ž zj zj zh
+                                                      З з Ze /z/ z z z z
+                                                       И и I /i/ i i i i
+                                         Й й kort I /j/ j i/j^[2] j/- ĭ
+                                                      К к Ka /k/ k k k k
+                                                      Л л El /l/ l l l l
+                                                      М м Em /m/ m m m m
+                                                      Н н En /n/ n n n n
+                                                       О о O /o/ o o o o
+                                                      П п Pe /p/ p p p p
+                                                      Р р Er /r/ r r r r
+                                                      С с Es /s/ s s s s
+                                                      Т т Te /t/ t t t t
+                                                    У у Oe /u/ u oe oe u
+                                                      Ф ф Ef /f/ f f f f
+                                                  Х х Cha /x/ x ch ch kh
+                                                 Ц ц Tse /ts/ c ts ts ts
+                                             Ч ч Tsje /tS/ č tsj tsj ch
+                                                 Ш ш Sja /S/ š sj sj sh
+                                  Щ щ Sjtsja /S^j/ šč sjtsj sjtsj shch
+                              Ъ ъ Harde teken geen palatalisasie " - - "
+                                                    Ы ы Jeri /y/ y i y y
+            Ь ь Sagte teken /^j/ -- palatalisasie ' ? Soms ', soms j - '
+                                                     Э э E /E/ ė e e é
+                                              Ю ю Joe /ju/ ju joe joe yu
+                                                 Я я Ja /ja/ ja ja ja ya
+
+   Om Slawiese name (byvoorbeeld) in 'n taal weer te gee wat 'n ander
+   alfabet gebruik, is 'n vorm van transliterasie nodig om die omskakeling
+   na 'n ander skryfstelsel te doen. Verskeie stelsels bestaan vir
+   verskeie bron- en teikentale. Party Slawiese tale word in beide die
+   Cyrilliese alfabet en die Latynse alfabet geskryf en het dus 'n
+   natuurlike manier van transliterasie.
+
+   ISO-9 is 'n transliterasiesisteem van die Internasionale
+   Standaardeorganisasie (ISO) wat omkeerbare transliterasie moontlik
+   maak. Dit wil sê, die transliterasie kan sonder dubbelsinnigheid of
+   verlies aan inligting weer omgekeer word na Cyrillies. Dit word gedoen
+   deur gebruik te maak van diakritiese tekens.
+
+   Die Afrikaanse woordelys en spelreëls (AWS) beskryf die transliterasie
+   wat gebruik word om na Afrikaans te translitereer. Dit verskil van die
+   maniere wat bestaan vir ander tale soos Engels om die resultate meer
+   konsekwent te maak met die Afrikaanse speltradisie. Die gebruik van die
+   letter "g" om die klank [g] (soos in die Afrikaanse woord "gholf") voor
+   te stel is wel effens inkonsekwent met Afrikaanse speltradisie.
+
+   Verskeie stelsels vir transliterasie bestaan vir Engels.^[3]
+
+   Regs is 'n vergelyking met transliterasie soos gebruik word Engelse en
+   Nederlandse transliterasietabelle:
+
+[wysig] Notas
+
+    1. ^ f word gebruik aan die einde van lettergrepe of voor stemlose
+       konsonante.
+    2. ^ Die gebruik van i teenoor j kan rofweg aangegee word as dat j
+       gebruik word aan die begin van 'n woord of lettergreep, of tussen
+       'n konsonant en 'n vokaal. Gebruik i andersins.
+    3. ^ Sien gerus die inskrywing daaroor by die Engelse Wikipedia.
+
+   Kategorie: Skryfstelsels
+

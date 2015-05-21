@@ -1,0 +1,133 @@
+Kleinrietreier
+
+
+                    Kleinrietreier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   'n Onvolwasse kleinrietreier
+   'n Onvolwasse kleinrietreier
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ixobrychus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     I. minutus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Ixobrychus minutus
+   (Linnaeus, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kleinrietreier of woudapie is 'n skaars standvoël en besoeker. Dit
+   is 'n klein spesie met 'n kort nek en lang snawel.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+        * 8 Bronnelys
+
+[wysig] Identifikasie
+
+   Die mannetjie se opvallende kleurpatroon is onmiskenbaar. Die vlerke is
+   swart met 'n groot wit kol op elke vlerk. Die wyfie word aan haar
+   vaalgeel nek, bruiner rug, ligbruin vlerkkol en swart mussie uitgeken.
+   Jonges verskil van die gatto s'n weens hul valer, ligte rooibruin
+   onderkante en olyfkleurige pote (nie oranjegeel nie), en van die
+   Groenrugreier s'n weens hul gevoude vlerke wat geelbruin is (nie donker
+   nie). Word nie maklik opgejaag nie; gaan staan regop met die snawel
+   boontoe en word maklik misgekyk.
+
+   Lengte is 33-38 cm met 'n 49-58 cm vlerkspan.
+
+[wysig] Habitat
+
+   Die broeigebied is in riete en hulle maak nes op platvorms van riete en
+   ander plantmateriaal en lê 4 tot 8 eiers wat moeilik is om raak te
+   sien.
+
+   Kom een-een in rietplate of watergras voor. Daglewend. Nomadies. Hulle
+   vreet insekte, vis, amfibiese diertjies ens.
+
+[wysig] Verspreiding
+
+   Broeigebiede is in die gematigde dele van Europa en die westelike Asië.
+   Hulle is trekvoëls wat in Afrika oorwinter, en word selde noord van hul
+   broeigebiede gesien.
+
+[wysig] Geluid
+
+   'n Kort blaf-geluid "rao".
+
+[wysig] Ander name
+
+     * Engelse naam: Little Bittern
+     * Wetenskaplike naam: Ixobrychus minutus
+     * Ander Afrikaanse name: Woudapie
+     * Nederlandse name: Woudaapje, Wouwaapje
+
+[wysig] Galery
+
+   'n Onvolwasse voël, gekamoufleer in sy riet-habitat.
+
+   'n Onvolwasse voël in die ope, maar steeds in die water.
+
+[wysig] Sien ook
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Ixobrychus minutus
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Reiers
+

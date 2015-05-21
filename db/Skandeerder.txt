@@ -1,0 +1,156 @@
+Skandeerder
+
+
+   'n Platbed-Skandeerder met oop deksel, reg om te skandeer.
+   'n Platbed-Skandeerder met oop deksel, reg om te skandeer.
+   Twee platbedskandeerders
+   Twee platbedskandeerders
+
+   'n Skandeerder of aftaster word gebruik om tweedimensionele voorwerpe
+   soos fotos, grafieke en teksmateriaal in te skandeer en in 'n digitale
+   formaat om te sit. Dokumente kan in swart en wit, grys en volkleur
+   geskandeer word.
+   Met 'n LGT skandeerder is dit selfs moontlik om driedimensionele
+   voorwerpe in te skandeer, soos ornamente vanaf bierbekers ens.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Klassifikasie van skandeerders
+             + 2.1 Handskandeerders
+             + 2.2 Dromskandeerders
+             + 2.3 Platbedskandeerders
+                  o 2.3.1 Transperantkoppelstuk
+        * 3 Tegniese verskille
+             + 3.1 LGT (lading-gekoppelde toestel)
+             + 3.2 LUD (Lig uitstralende diodes)
+        * 4 Skandeerwenke
+             + 4.1 Kwaliteit
+
+[wysig] Geskiedenis
+
+   Skandeerders is vroër met 'n parallel-koppelvlak aan die rekenaar
+   gekoppel en die drukker is dan aan die skandeerder gekoppel. Hierdie
+   metode het voor en nadele gehad.
+
+[wysig] Klassifikasie van skandeerders
+
+[wysig] Handskandeerders
+
+   Handskandeerders was vroeër die goedkoopste beskikbare skandeerder,
+   maar word nie tans nie meer in gebruik nie, omdat vervaardigingskostes
+   en dus die pryse van meer gevorderde skandeerders skerp geval het. Dit
+   moet per hand oor die oppervlak geskuif word - soos 'n muis. Daardeur
+   was dit ook nie eintlik moontlik om 'n hoë kwaliteit resultaat te
+   verkry nie. Indien 'n mens nie parallel ingeskandeer het nie was die
+   resultaat verwring en skeef en moes die proses dikwels herhaal word
+   voor 'n geskikte resultaat verkry is. Die meeste skandeerders het ook
+   maar slegs 'n oplossing van 200 dpi - 600 dpi opgelewer. Ander kon tot
+   1200 dpi en selfs 2400 dpi, met interpolasie bereik.
+     * Voordeel: Dit kon gebruik word om selfs prente uit boeke in te
+       skandeer, of groter dokumente wat nie in 'n dromskandeerder gepas
+       het nie.
+     * Nadeel: Lae resolusie, beperkte skandeer breedte van sowat 9 cm -
+       20.5 cm as ook die lae kwaliteit - wat meestal saam gegaan het met
+       'n geskuifde skandering, indien 'n mens die skandeerder nie
+       versigtig genoeg oor die dokument geskuif het nie. Dit het baie
+       oefening en geduld benodig. Die skerp daling van die prys van ander
+       skandeerders, het hierdie tegniek basies uitgefaseer.
+
+   Sien ook: Laserskandeerder, Strepieskodeleser (Bar Code Scanner / Bar
+   Code Reader)
+
+[wysig] Dromskandeerders
+
+   Hierdie is 'n goedkoop maar effektiewe tegniek wat veral by
+   faksmasjiene gebruiklik was.
+
+[wysig] Platbedskandeerders
+
+   'n Platbedskandeerder lyk heelwat soos die boonste gedeelte van 'n
+   fotostaatmasjien. Onder sie deksel wat die glasplaat beskerm is die
+   skandeermeganisme, wat die voorwerp wat op die glasplaat lê gaan inlees
+   wanneer, dit vanaf die eenkant na die anderkant beweeg. Die sensor het
+   'n hele ry met ligsensitiewe elemente wat regoor haarks is met die
+   beweegrigting van die skandeermeganisme. 'n ingeboude ligbron (meestal
+   'n buislig) is ook op die sensor aangebring om genoeg lig te voorsien
+   om die voorwerp lyn vir lyn te kan inlees. Die kleinste eenheid wat die
+   skandeerder kan lees is die maksimum optiese oplossing wat huidiglik
+   sowat 2400 dpi beloop, en amper as 'n standaard aangeneem kan word.
+   Hoêr oplossings is moontlik van sowat 3200 dpi tot 4800 dpi en selfs al
+   6400 dpi vir die top skandeerders.
+
+[wysig] Transperantkoppelstuk
+
+   Sommige skandeerders het ook 'n transperantkoppelstuk (engels:
+   transparency adapter, TA), dit is 'n ekstra lig in die deksel, wat dit
+   moontlik maak om ook skyfies en filmnegatiewe te kan inskandeer.
+   Daarmee saam kom 'n raam wat op die glasplaat geplaas kan word waarin
+   die skyfies geplaas kan word of filmstrookies ingesit kan word
+   (positief of negatief). Deur die skandeersagteware, kan ingestel word
+   wat ingelees moet word, bv. moet die skandeerder weet wanneer daar 'n
+   skyfie ingelees moet word en dit nodig is om die lig in die deksel aan
+   te skakel om die lig wat deur die skyfie skyn te kan inlees. Vêrder is
+   dit ook nodig vir die skandeerder om te weet wanneer daar 'n negatief
+   ingelees moet word, omdat die sagteware dan 'n spesiale verwerking moet
+   toepas om die kleure vanaf die negatief in die korrekte positiewe beeld
+   om te sit, sodat die kleure korrek vertoon word, soos op 'n foto.
+
+[wysig] Tegniese verskille
+
+   Daar is twee tipes skandeerders op die mark vandag:
+
+[wysig] LGT (lading-gekoppelde toestel)
+
+   'n Driedimensioneele voorwerp, 'n niersteenrenoster, wat met 'n
+   LGT-skandeerder ingeskandeer is.
+   'n Driedimensioneele voorwerp, 'n niersteenrenoster, wat met 'n
+   LGT-skandeerder ingeskandeer is.
+
+   LGT's, ook bekend onder hulle Engelse naam, CCD ("Charge Coupled
+   Device") gebruik gewoonlik 'n neonlig as ligbron. Dit neem 'n rukkie
+   voor die neonlig sy werkstemperatuur bereik, dus moet die skandeerder
+   wag totdat die buislig 'n rukkie aangeskakel was. Indien enige
+   skandeerwerk voor die tyd gedoen word kan dit tot kleurverskuiwings op
+   die geskandeerde beeld lei. Die optimale kleur word ingestel op die
+   skandeerder sagteware.
+
+[wysig] LUD (Lig uitstralende diodes)
+
+   Hierdie skandeerder se ligbron word deur wit LUD's voorsien. Hierdie is
+   'n koue lig afkomstig van 'n halfgeleier, wat ook onmiddelik die volle
+   werkstemperatuur bereik en 'n stabiele ligbron het.
+
+[wysig] Skandeerwenke
+
+   Die kwaliteit van die skandeerde uitset is direk afhanklik van die
+   kwaliteit van die oorspronklike inset, die kwaliteit van die
+   skandeerder en die vaardigheid van die sagteware asook die van die
+   bediener. Let daarop dat 'n skandeerde foto van 300 dpi nou redlik
+   standaard is, maar vir vergrootings graag 600 dpi en hoër gebruik word.
+   Die verskil is egter nie die dubbel aan data maar 'n viervoudige
+   toename, omdat die prent se lengte en breedte met 'n hoer oplossing
+   (dpi) geskandeer word.
+
+[wysig] Kwaliteit
+
+   Die resolusie van die skandeerwerk is direk afhanklik van die doel
+   waarvoor dit gebruik word.
+     * Drukwerk (gewoonweg 300dpi of 600dpi, gebruiklik is ook 1200dpi -
+       2400dpi, vir titelblaaie van glanstydskrifte)
+     * CD of DVD (96dpi soos vanaf digitale kameras vooraf ingestel,
+       gebruiklik is ook alles wat mense wil stoor vir latere gebruik) -
+       Groot foto's (6MP (Megapixel) neem heelwat langer om gelees te word
+       as kleiner fotos (VGA = 800x640 beeldelemente), dit kan 'n
+       skyfievertoning vertraag.
+     * Faks (200x100dpi 'standaard', of 200x200dpi 'fyn', gewoonweg swart
+       en wit (1 bpp, (bit per pixel = bis per beeldelement, wat in
+       AFRIKAANS eintlik beteken swart en wit - of in engels artline)
+       daarna kan ook gekyk word na foto- en kleurtransmissies, wat die
+       hoeveelheid data wat oorgedra word heelwat opstoot).
+     * Internet-webwerf (gewoonweg 96dpi, of 100dpi - 200dpi afhangende
+       van die gebruik en selfs hoër indien die weergawe meer presies moet
+       wees).
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,1951 @@
+Wikipedia:Babel
+
+
+   Om jou taalvaardigheid deur middel van gebruikerbokse aan te dui, plaas
+   die volgende kode op jou gebruikersblad: {{Babel | taal | taal | taal |
+   taal | ... | taal }}. 'n Voorbeeld van só 'n sjabloon op 'n gebruiker
+   se gebruikerblad sal dus wees: {{Babel | af-4 | en-3 | nl-2 | de-1 |
+   xh-1 }}. Vir meer inligting, en om te sien hoe die gebruikersbokse lyk,
+   sien die sjabloonbeskrywing by {{babel}}.
+
+   Inhoud
+
+        * 1 Suid-Afrikaanse tale
+        * 2 Tale verwant aan Afrikaans
+        * 3 A-I
+             + 3.1 aa - Afar (Affar)
+             + 3.2 ab - Аҧсуа (Abkhaz)
+             + 3.3 af - Afrikaans (Afrikaans)
+             + 3.4 ak - Akana (Akan)
+             + 3.5 als - Alemannisch (Alemaanse Duits)
+             + 3.6 am - አማርኛ (Amharies)
+             + 3.7 an - Aragonés (Aragonies)
+             + 3.8 ang - Englisc (Oud Engels / Anglo-saksies)
+             + 3.9 ar - العربية (Arabies)
+             + 3.10 arc - ܕܥܒܪܸܝܛ (Aramees)
+             + 3.11 as - অসমীয়া (Assamees)
+             + 3.12 ast - Asturianu (Asturiaans)
+             + 3.13 av - Авар (Afar)
+             + 3.14 ay - Aymar (Aymara)
+             + 3.15 az - Azərbaycan (Aserbajani)
+             + 3.16 ba - Башқорт (Basjkiries)
+             + 3.17 be - Беларуская (Belarussies)
+             + 3.18 bg - Български (Bulgaars)
+             + 3.19 bh - भोजपुरी (Bhojpuri)
+             + 3.20 bi - Bislama (Bislama)
+             + 3.21 bm - Bamanankan (Bambara)
+             + 3.22 bn - বাংলা / Bānglā (Bengali)
+             + 3.23 bo - བོད་ཡིག (Tibeties)
+             + 3.24 br - Brezhoneg (Breton)
+             + 3.25 bs - Bosanski (Bosnies)
+             + 3.26 ca - Català (Katalanies)
+             + 3.27 ce - Нохчийн (Tjetjies)
+             + 3.28 ch - Chamoru (Chamorro)
+             + 3.29 cho - Choctaw (Choctaw)
+             + 3.30 chr - ᏣᎳᎩ (Cherokee)
+             + 3.31 chy - Tsetsêhestâhese (Cheyenne)
+             + 3.32 co - Corsu (Corsies)
+             + 3.33 cr - Nehiyaw (Cree)
+             + 3.34 cs - Čeština (Tjegies)
+             + 3.35 csb - Kaszëbsczi (Kasjubies)
+             + 3.36 cv - Чӑваш (Tjoevasj)
+             + 3.37 cy - Cymraeg (Wallies)
+             + 3.38 da - Dansk (Deens)
+             + 3.39 de - Deutsch (Duits)
+             + 3.40 dv - Dhivehi (Dhivehi)
+             + 3.41 dz - རྫོང་ཁ (Dzongkha)
+             + 3.42 ee - Ɛʋɛ (Ewe)
+             + 3.43 el - Ελληνικά (Grieks)
+             + 3.44 en - English (Engels)
+             + 3.45 eo - Esperanto (Esperanto)
+             + 3.46 es - Español (Spaans)
+             + 3.47 et - Eesti (Estonies)
+             + 3.48 eu - Euskara (Baskies)
+             + 3.49 fa - فارسی (Persies)
+             + 3.50 ff - Fulfulde (Fula)
+             + 3.51 fi - Suomi (Fins)
+             + 3.52 fj - Na vosa vaka-Viti (Fijies)
+             + 3.53 fo - Føroyskt (Faroies)
+             + 3.54 fr - Français (Frans)
+             + 3.55 fur - Furlan (Frioelies)
+             + 3.56 fy - Frysk (Frisies)
+             + 3.57 ga - Gaeilge (Iers)
+             + 3.58 gd - Gàidhlig (Gallies / Skots)
+             + 3.59 gl - Galego (Galisies)
+             + 3.60 gn - Avañe'ẽ (Guaraní)
+             + 3.61 got - 𐌲𐌿𐍄𐌹𐍃𐌺 (Goties)
+             + 3.62 gu - ગુજરાતી (Gujarati)
+             + 3.63 gv - Gaelg (Manawies)
+             + 3.64 ha - Hausa (Hausa)
+             + 3.65 haw - Hawai`i (Hawaiies)
+             + 3.66 he - עברית (Hebreeus)
+             + 3.67 hess - Hessisch (Hessies)
+             + 3.68 hi - हिन्दी (Hindi)
+             + 3.69 ho - Hiri Motu (Hiri Motu)
+             + 3.70 hr - Hrvatski (Kroasies)
+             + 3.71 ht - Krèyol ayisyen (Kreool / Haïties))
+             + 3.72 hu - Magyar (Hungarian language)
+             + 3.73 hy - Հայերեն (Armenies)
+             + 3.74 ia - Interlingua (Interlingua)
+             + 3.75 id - Bahasa Indonesia (Indonesies)
+             + 3.76 ie - Interlingue (Occidentaal)
+             + 3.77 ig - Igbo (Igbo)
+             + 3.78 ii - ꆇꉙ (Yi)
+             + 3.79 ik - Iñupiak (Inupiak)
+             + 3.80 io - Ido (Ido)
+             + 3.81 is - Íslenska (Yslands)
+             + 3.82 it - Italiano (Italiaans)
+             + 3.83 iu - ᐃᓄᒃᑎᑐᑦ (Inuktitoet)
+        * 4 J-R
+             + 4.1 ja - 日本語 (Japanees)
+             + 4.2 jbo - Lojban (Lojbaan)
+             + 4.3 jv - Basa Jawa/Basa Jawi (Javanees)
+             + 4.4 ka - ქართული / Kartuli (Georgies)
+             + 4.5 kg - Kikong (Kikongo)
+             + 4.6 ki - Gĩkũyũ (Kikoejoe)
+             + 4.7 kj - Kuanyama (Kuanyama)
+             + 4.8 kk - қазақша (Kasak)
+             + 4.9 kl - Kalaallisut (Kalaallisoet)
+             + 4.10 km - ភាសាខ្មែរ (Khmer)
+             + 4.11 kn - ಕನ್ನಡ (Kannada)
+             + 4.12 ko - 한국어 (Koreaans)
+             + 4.13 kr - Kanuri (Kanoeri)
+             + 4.14 ks - कश्मीरी / كشميري (Kashmiri)
+             + 4.15 ksh - Ripoarisch (Ripoaries)
+             + 4.16 ku - Kurdî / كوردی (Koerdies)
+             + 4.17 kv - Коми (Komi)
+             + 4.18 kw - Kernewek (Kernewies / Kornies)
+             + 4.19 ky - Кыргызча (Kirgisies)
+             + 4.20 la - Latina (Latyns)
+             + 4.21 lb - Lëtzebuergesch (Luxemburgs)
+             + 4.22 lg - Luganda (Luganda)
+             + 4.23 li - Lèmburgs (Limburgs)
+             + 4.24 ln - Lingála (Lingala)
+             + 4.25 lo - ພາສາລາວ (Laosies)
+             + 4.26 lt - Lietuvių (Lituanies)
+             + 4.27 lv - Latviešu (Latvies)
+             + 4.28 mg - Malagasy (Malagasies)
+             + 4.29 mh - Ebon (Marshallies)
+             + 4.30 mi - Māori (Maori)
+             + 4.31 mk - Македонски (Makedonies)
+             + 4.32 ml - മലയാളം (Malajalam)
+             + 4.33 mn - Монгол (Mongools)
+             + 4.34 mnl - Middelnederlands (Middelnederlands)
+             + 4.35 mo - Moldovenească (Moldavies)
+             + 4.36 mr - मराठी (Marathi)
+             + 4.37 ms - Bahasa Melayu (Malei)
+             + 4.38 mt - bil-Malti (Maltees)
+             + 4.39 mus - Mvskoke (Muskokee)
+             + 4.40 my - ဗမာစာ (Burmees)
+             + 4.41 na - Ekakairũ Naoero (Naoeries)
+             + 4.42 nah - Nawatl (Nawatl)
+             + 4.43 nb - Bokmål (Bokmål Noors)
+             + 4.44 nds - Plattdüütsch (Platduits)
+             + 4.45 nds-nl - Nedersaksisch (Nedersaksies)
+             + 4.46 ne - नेपाली (Nepali)
+             + 4.47 ng - Oshiwambo (Ndonga / Osjiwambo)
+             + 4.48 nl - Nederlands (Nederlands)
+             + 4.49 nn - Nynorsk (Nynorsk Noors)
+             + 4.50 no - Norsk (Noors)
+             + 4.51 nv - Diné bizaad (Navajo)
+             + 4.52 ny - Chi Chewa (Tjitjewa)
+             + 4.53 oc - Langue d'Oc (Occitaans)
+             + 4.54 om - ??? (Oromo)
+             + 4.55 or - ଓଡ଼ିଆ (Oriya)
+             + 4.56 os - Ирон æвзаг (Osseties)
+             + 4.57 pa - ਪੰਜਾਬੀ (Punjabi)
+             + 4.58 pap - Papiamento (Papiaments)
+             + 4.59 pi - pāli (Pali)
+             + 4.60 pl - Polski (Pools)
+             + 4.61 ps - پښتو (Pasjtoe)
+             + 4.62 pt - Português (Portugeesg)
+             + 4.63 qu - Runa Simi (Kwetjoea)
+             + 4.64 rm - Rumantsch (Romanies)
+             + 4.65 rn - Kirundi (Kirundi)
+             + 4.66 ro - Română (Romanees)
+             + 4.67 ru - Русский (Russies)
+             + 4.68 rup - Armâneaşti (Aramees)
+             + 4.69 rw - Kinyarwandi (Kinjarwanda)
+        * 5 S-Z
+             + 5.1 sa - संस्कृतम् (Sanskrit)
+             + 5.2 sc - Sardu (Sardinies)
+             + 5.3 scn - Sicilianu (Sisilies)
+             + 5.4 sco - Scots (Albanies)
+             + 5.5 sd - सिनधि (Sindhi)
+             + 5.6 se - Sámegiella (Noordelike Sami)
+             + 5.7 sg - Sängö (Sango)
+             + 5.8 si - සිංහල (Sinhala)
+             + 5.9 sk - Slovenčina (Slovakies)
+             + 5.10 sl - Slovenščina (Slovenies)
+             + 5.11 sm - Gagana Samoa (Samoaans)
+             + 5.12 sn - chiShona (Shona)
+             + 5.13 so - Soomaaliga (Somalies)
+             + 5.14 sq - Shqip (Albanies)
+             + 5.15 sr - Српски (Serbies)
+             + 5.16 ss - SiSwati (Swati)
+             + 5.17 st - seSotho (Sotho)
+             + 5.18 su - Basa Sunda (Soendanees)
+             + 5.19 sv - Svenska (Sweeds)
+             + 5.20 sw - Kiswahili (Swahili)
+             + 5.21 ta - தமிழ் (Tamil)
+             + 5.22 te - తెలుగు (Teloegoe)
+             + 5.23 tg - Тоҷикӣ (Tajikies)
+             + 5.24 th - ภาษาไทย (Thai)
+             + 5.25 ti - ??? (Tigrignies)
+             + 5.26 tk - Türkmençe (Turkmenies)
+             + 5.27 tl - Tagalog (Tagalog)
+             + 5.28 tlh - tlhIngan Hol (Klingon)
+             + 5.29 tn - Setswana (Tswana)
+             + 5.30 to - Faka Tonga (Tongaans)
+             + 5.31 tokipona - toki pona (Tokipona)
+             + 5.32 tpi - Tok Pisin (Tok Pisin)
+             + 5.33 tr - Türkçe (Turks)
+             + 5.34 ts - Xitsonga (Tsonga)
+             + 5.35 tt - Tatarça (Tatar)
+             + 5.36 tum - chiTumbuka (Toemboeka)
+             + 5.37 tw - Twi (Twi)
+             + 5.38 ty - Reo Mā`ohi (Tahities)
+             + 5.39 ug - Uyghur (Uyghur)
+             + 5.40 uk - Українська (Oekraïens)
+             + 5.41 ur - اردو (Oerdoe)
+             + 5.42 uz - Ўзбек (Oesbekies)
+             + 5.43 ve - Venda (Venda)
+             + 5.44 vi - Tiếng Việt (Viëtnamees)
+             + 5.45 vls - West-Vlams (Wesvlaams)
+             + 5.46 vo - Volapük (Volapoek)
+             + 5.47 wa - Walon (Waals)
+             + 5.48 wo - Wolof (Wollof)
+             + 5.49 xh - isiXhosa (Khosa)
+             + 5.50 yi - ייִדיש (Jiddies)
+             + 5.51 yo - Yorùbá (Joruba)
+             + 5.52 za - Cuengh (Tsjoeang)
+             + 5.53 zea - Zeêuws (Zeeuws)
+             + 5.54 zh - 中文 (Sjinees, generies)
+             + 5.55 zh-min-nan - Bân-lâm-gú (Min Nan Sjinees)
+             + 5.56 zu - isiZulu (Zoeloe)
+
+[wysig] Suid-Afrikaanse tale
+
+     * #af - Afrikaans (Afrikaans)
+     * #en - English (Engels)
+     * nbl - Ndebele (Ndebele)
+     * nso - Sesotho sa Leboa (Noord-Sotho / Pedi)
+     * #xh - isiXhosa (Xhosa)
+     * #st - Sesotho (Suid-Sotho)
+     * #tn - Setswana (Tswana)
+     * #ss - Siswati (Swazi)
+     * #ve - Tshivenda (Venda)
+     * #ts - Xitsonga (Tsonga)
+     * #zu - isiZulu (Zoeloe)
+
+[wysig] Tale verwant aan Afrikaans
+
+     * #af - Afrikaans (Afrikaans)
+     * #nl - Nederlands (Nederlands)
+     * #fy - Frysk (Frisies)
+     * #li - Lèmburgs (Limburgs)
+     * #nds-nl - Nedersaksisch (Nedersaksies)
+     * #nds - Plattdüütsch (Platduits)
+     * #ksh - Ripoarisch (Ripoaries)
+     * #vls - Wes-Vlaams (Wesvlaams)
+     * #zea - Zeêuws (Zeêuws)
+
+[wysig] A-I
+
+[wysig] aa - Afar (Affar)
+
+   Kategorie: Gebruiker aa
+     * {{Gebruiker aa-1}} — basic
+     * {{Gebruiker aa-2}} — intermediate
+     * {{Gebruiker aa-3}} — advanced
+     * {{Gebruiker aa}} — native
+
+[wysig] ab - Аҧсуа (Abkhaz)
+
+   Kategorie: Gebruiker ab
+     * {{Gebruiker ab-1}} — basic
+     * {{Gebruiker ab-2}} — intermediate
+     * {{Gebruiker ab-3}} — advanced
+     * {{Gebruiker ab}} — native
+
+[wysig] af - Afrikaans (Afrikaans)
+
+   Kategorie: Gebruiker af
+     * {{Gebruiker af-0}} — ineffective
+     * {{Gebruiker af-1}} — basic
+     * {{Gebruiker af-2}} — intermediate
+     * {{Gebruiker af-3}} — advanced
+     * {{Gebruiker af-4}} — near native
+     * {{Gebruiker af}} — native
+     * {{User af-0}} — cannot contribute in Afrikaans
+
+[wysig] ak - Akana (Akan)
+
+   Kategorie: Gebruiker ak
+     * {{Gebruiker ak-1}} — basic
+     * {{Gebruiker ak-2}} — intermediate
+     * {{Gebruiker ak-3}} — advanced
+     * {{Gebruiker ak}} — native
+
+[wysig] als - Alemannisch (Alemaanse Duits)
+
+   Kategorie: Gebruiker als
+     * {{Gebruiker als-1}} — basic
+     * {{Gebruiker als-2}} — intermediate
+     * {{Gebruiker als-3}} — advanced
+     * {{Gebruiker als}} — native
+
+[wysig] am - አማርኛ (Amharies)
+
+   Kategorie: Gebruiker am
+     * {{Gebruiker am-1}} — basic
+     * {{Gebruiker am-2}} — intermediate
+     * {{Gebruiker am-3}} — advanced
+     * {{Gebruiker am}} — native
+
+[wysig] an - Aragonés (Aragonies)
+
+   Kategorie: Gebruiker an
+     * {{Gebruiker an-1}} — basic
+     * {{Gebruiker an-2}} — intermediate
+     * {{Gebruiker an-3}} — advanced
+     * {{Gebruiker an}} — native
+
+[wysig] ang - Englisc (Oud Engels / Anglo-saksies)
+
+   Kategorie: Gebruiker ang
+     * {{Gebruiker ang-1}} — basic
+     * {{Gebruiker ang-2}} — intermediate
+     * {{Gebruiker ang-3}} — advanced
+     * {{Gebruiker ang}} — native
+
+[wysig] ar - العربية (Arabies)
+
+   Kategorie: Gebruiker ar
+     * {{Gebruiker ar-1}} — basic
+     * {{Gebruiker ar-2}} — intermediate
+     * {{Gebruiker ar-3}} — advanced
+     * {{Gebruiker ar}} — native
+
+[wysig] arc - ܕܥܒܪܸܝܛ (Aramees)
+
+   Kategorie: Gebruiker arc
+     * {{Gebruiker arc-1}} — basic
+     * {{Gebruiker arc-2}} — intermediate
+     * {{Gebruiker arc-3}} — advanced
+     * {{Gebruiker arc}} — native
+
+[wysig] as - অসমীয়া (Assamees)
+
+   Kategorie: Gebruiker as
+     * {{Gebruiker as-1}} — basic
+     * {{Gebruiker as-2}} — intermediate
+     * {{Gebruiker as-3}} — advanced
+     * {{Gebruiker as}} — native
+
+[wysig] ast - Asturianu (Asturiaans)
+
+   Kategorie: Gebruiker ast
+     * {{Gebruiker ast-1}} — basic
+     * {{Gebruiker ast-2}} — intermediate
+     * {{Gebruiker ast-3}} — advanced
+     * {{Gebruiker ast}} — native
+
+[wysig] av - Авар (Afar)
+
+   Kategorie: Gebruiker av
+     * {{Gebruiker av-1}} — basic
+     * {{Gebruiker av-2}} — intermediate
+     * {{Gebruiker av-3}} — advanced
+     * {{Gebruiker av}} — native
+
+[wysig] ay - Aymar (Aymara)
+
+   Kategorie: Gebruiker ay
+     * {{Gebruiker ay-1}} — basic
+     * {{Gebruiker ay-2}} — intermediate
+     * {{Gebruiker ay-3}} — advanced
+     * {{Gebruiker ay}} — native
+
+[wysig] az - Azərbaycan (Aserbajani)
+
+   Kategorie: Gebruiker az
+     * {{Gebruiker az-1}} — basic
+     * {{Gebruiker az-2}} — intermediate
+     * {{Gebruiker az-3}} — advanced
+     * {{Gebruiker az}} — native
+
+[wysig] ba - Башқорт (Basjkiries)
+
+   Kategorie: Gebruiker ba
+     * {{Gebruiker ba-1}} — basic
+     * {{Gebruiker ba-2}} — intermediate
+     * {{Gebruiker ba-3}} — advanced
+     * {{Gebruiker ba}} — native
+
+[wysig] be - Беларуская (Belarussies)
+
+   Kategorie: Gebruiker be
+     * {{Gebruiker be-1}} — basic
+     * {{Gebruiker be-2}} — intermediate
+     * {{Gebruiker be-3}} — advanced
+     * {{Gebruiker be}} — native
+
+[wysig] bg - Български (Bulgaars)
+
+   Kategorie: Gebruiker bg
+     * {{Gebruiker bg-1}} — basic
+     * {{Gebruiker bg-2}} — intermediate
+     * {{Gebruiker bg-3}} — advanced
+     * {{Gebruiker bg}} — native
+
+[wysig] bh - भोजपुरी (Bhojpuri)
+
+   Kategorie: Gebruiker bh
+     * {{Gebruiker bh-1}} — basic
+     * {{Gebruiker bh-2}} — intermediate
+     * {{Gebruiker bh-3}} — advanced
+     * {{Gebruiker bh}} — native
+
+[wysig] bi - Bislama (Bislama)
+
+   Kategorie: Gebruiker bi
+     * {{Gebruiker bi-1}} — basic
+     * {{Gebruiker bi-2}} — intermediate
+     * {{Gebruiker bi-3}} — advanced
+     * {{Gebruiker bi}} — native
+
+[wysig] bm - Bamanankan (Bambara)
+
+   Kategorie: Gebruiker bm
+     * {{Gebruiker bm-1}} — basic
+     * {{Gebruiker bm-2}} — intermediate
+     * {{Gebruiker bm-3}} — advanced
+     * {{Gebruiker bm}} — native
+
+[wysig] bn - বাংলা / Bānglā (Bengali)
+
+   Kategorie: Gebruiker bn
+     * {{Gebruiker bn-1}} — basic
+     * {{Gebruiker bn-2}} — intermediate
+     * {{Gebruiker bn-3}} — advanced
+     * {{Gebruiker bn}} — native
+
+[wysig] bo - བོད་ཡིག (Tibeties)
+
+   Kategorie: Gebruiker bo
+     * {{Gebruiker bo-1}} — basic
+     * {{Gebruiker bo-2}} — intermediate
+     * {{Gebruiker bo-3}} — advanced
+     * {{Gebruiker bo}} — native
+
+[wysig] br - Brezhoneg (Breton)
+
+   Kategorie: Gebruiker br
+     * {{Gebruiker br-1}} — basic
+     * {{Gebruiker br-2}} — intermediate
+     * {{Gebruiker br-3}} — advanced
+     * {{Gebruiker br}} — native
+
+[wysig] bs - Bosanski (Bosnies)
+
+   Kategorie: Gebruiker bs
+     * {{Gebruiker bs-1}} — basic
+     * {{Gebruiker bs-2}} — intermediate
+     * {{Gebruiker bs-3}} — advanced
+     * {{Gebruiker bs}} — native
+
+[wysig] ca - Català (Katalanies)
+
+   Kategorie: Gebruiker ca
+     * {{Gebruiker ca-1}} — basic
+     * {{Gebruiker ca-2}} — intermediate
+     * {{Gebruiker ca-3}} — advanced
+     * {{Gebruiker ca}} — native
+
+[wysig] ce - Нохчийн (Tjetjies)
+
+   Kategorie: Gebruiker ce
+     * {{Gebruiker ce-1}} — basic
+     * {{Gebruiker ce-2}} — intermediate
+     * {{Gebruiker ce-3}} — advanced
+     * {{Gebruiker ce}} — native
+
+[wysig] ch - Chamoru (Chamorro)
+
+   Kategorie: Gebruiker ch
+     * {{Gebruiker ch-1}} — basic
+     * {{Gebruiker ch-2}} — intermediate
+     * {{Gebruiker ch-3}} — advanced
+     * {{Gebruiker ch}} — native
+
+[wysig] cho - Choctaw (Choctaw)
+
+   Kategorie: Gebruiker cho
+     * {{Gebruiker cho-1}} — basic
+     * {{Gebruiker cho-2}} — intermediate
+     * {{Gebruiker cho-3}} — advanced
+     * {{Gebruiker cho}} — native
+
+[wysig] chr - ᏣᎳᎩ (Cherokee)
+
+   Kategorie: Gebruiker chr
+     * {{Gebruiker chr-1}} — basic
+     * {{Gebruiker chr-2}} — intermediate
+     * {{Gebruiker chr-3}} — advanced
+     * {{Gebruiker chr}} — native
+
+[wysig] chy - Tsetsêhestâhese (Cheyenne)
+
+   Kategorie: Gebruiker chy
+     * {{Gebruiker chy-1}} — basic
+     * {{Gebruiker chy-2}} — intermediate
+     * {{Gebruiker chy-3}} — advanced
+     * {{Gebruiker chy}} — native
+
+[wysig] co - Corsu (Corsies)
+
+   Kategorie: Gebruiker co
+     * {{Gebruiker co-1}} — basic
+     * {{Gebruiker co-2}} — intermediate
+     * {{Gebruiker co-3}} — advanced
+     * {{Gebruiker co}} — native
+
+[wysig] cr - Nehiyaw (Cree)
+
+   Kategorie: Gebruiker cr
+     * {{Gebruiker cr-1}} — basic
+     * {{Gebruiker cr-2}} — intermediate
+     * {{Gebruiker cr-3}} — advanced
+     * {{Gebruiker cr}} — native
+
+[wysig] cs - Čeština (Tjegies)
+
+   Kategorie: Gebruiker cs
+     * {{Gebruiker cs-1}} — basic
+     * {{Gebruiker cs-2}} — intermediate
+     * {{Gebruiker cs-3}} — advanced
+     * {{Gebruiker cs}} — native
+
+[wysig] csb - Kaszëbsczi (Kasjubies)
+
+   Kategorie: Gebruiker csb
+     * {{Gebruiker csb-1}} — basic
+     * {{Gebruiker csb-2}} — intermediate
+     * {{Gebruiker csb-3}} — advanced
+     * {{Gebruiker csb}} — native
+
+[wysig] cv - Чӑваш (Tjoevasj)
+
+   Kategorie: Gebruiker cv
+     * {{Gebruiker cv-1}} — basic
+     * {{Gebruiker cv-2}} — intermediate
+     * {{Gebruiker cv-3}} — advanced
+     * {{Gebruiker cv}} — native
+
+[wysig] cy - Cymraeg (Wallies)
+
+   Kategorie: Gebruiker cy
+     * {{Gebruiker cy-1}} — basic
+     * {{Gebruiker cy-2}} — intermediate
+     * {{Gebruiker cy-3}} — advanced
+     * {{Gebruiker cy}} — native
+
+[wysig] da - Dansk (Deens)
+
+   Kategorie: Gebruiker da
+     * {{Gebruiker da-1}} — basic
+     * {{Gebruiker da-2}} — intermediate
+     * {{Gebruiker da-3}} — advanced
+     * {{Gebruiker da}} — native
+
+[wysig] de - Deutsch (Duits)
+
+   Kategorie: Gebruiker de
+     * {{Gebruiker de-0}} — ineffective
+     * {{Gebruiker de-1}} — basic
+     * {{Gebruiker de-2}} — intermediate
+     * {{Gebruiker de-3}} — advanced
+     * {{Gebruiker de-4}} — near native
+     * {{Gebruiker de}} — native
+
+[wysig] dv - Dhivehi (Dhivehi)
+
+   Kategorie: Gebruiker dv
+     * {{Gebruiker dv-1}} — basic
+     * {{Gebruiker dv-2}} — intermediate
+     * {{Gebruiker dv-3}} — advanced
+     * {{Gebruiker dv}} — native
+
+[wysig] dz - རྫོང་ཁ (Dzongkha)
+
+   Kategorie: Gebruiker dz
+     * {{Gebruiker dz-1}} — basic
+     * {{Gebruiker dz-2}} — intermediate
+     * {{Gebruiker dz-3}} — advanced
+     * {{Gebruiker dz}} — native
+
+[wysig] ee - Ɛʋɛ (Ewe)
+
+   Kategorie: Gebruiker ee
+     * {{Gebruiker ee-1}} — basic
+     * {{Gebruiker ee-2}} — intermediate
+     * {{Gebruiker ee-3}} — advanced
+     * {{Gebruiker ee}} — native
+
+[wysig] el - Ελληνικά (Grieks)
+
+   Kategorie: Gebruiker el
+     * {{Gebruiker el-1}} — basic
+     * {{Gebruiker el-2}} — intermediate
+     * {{Gebruiker el-3}} — advanced
+     * {{Gebruiker el}} — native
+
+[wysig] en - English (Engels)
+
+   Kategorie: Gebruiker en
+     * {{Gebruiker en-0}} — ineffective
+     * {{Gebruiker en-1}} — basic
+     * {{Gebruiker en-2}} — intermediate
+     * {{Gebruiker en-3}} — advanced
+     * {{Gebruiker en-4}} — near native
+     * {{Gebruiker en}} — native
+
+[wysig] eo - Esperanto (Esperanto)
+
+   Kategorie: Gebruiker eo
+     * {{Gebruiker eo-1}} — basic
+     * {{Gebruiker eo-2}} — intermediate
+     * {{Gebruiker eo-3}} — advanced
+     * {{Gebruiker eo}} — native
+
+[wysig] es - Español (Spaans)
+
+   Kategorie: Gebruiker es
+     * {{Gebruiker es-0}} — ineffective
+     * {{Gebruiker es-1}} — basic
+     * {{Gebruiker es-2}} — intermediate
+     * {{Gebruiker es-3}} — advanced
+     * {{Gebruiker es-4}} — near native
+     * {{Gebruiker es}} — native
+
+[wysig] et - Eesti (Estonies)
+
+   Kategorie: Gebruiker et
+     * {{Gebruiker et-1}} — basic
+     * {{Gebruiker et-2}} — intermediate
+     * {{Gebruiker et-3}} — advanced
+     * {{Gebruiker et}} — native
+
+[wysig] eu - Euskara (Baskies)
+
+   Kategorie: Gebruiker eu
+     * {{Gebruiker eu-1}} — basic
+     * {{Gebruiker eu-2}} — intermediate
+     * {{Gebruiker eu-3}} — advanced
+     * {{Gebruiker eu}} — native
+
+[wysig] fa - فارسی (Persies)
+
+   Kategorie: Gebruiker fa
+     * {{Gebruiker fa-1}} — basic
+     * {{Gebruiker fa-2}} — intermediate
+     * {{Gebruiker fa-3}} — advanced
+     * {{Gebruiker fa}} — native
+
+[wysig] ff - Fulfulde (Fula)
+
+   Kategorie: Gebruiker ff
+     * {{Gebruiker ff-1}} — basic
+     * {{Gebruiker ff-2}} — intermediate
+     * {{Gebruiker ff-3}} — advanced
+     * {{Gebruiker ff}} — native
+
+[wysig] fi - Suomi (Fins)
+
+   Kategorie: Gebruiker fi
+     * {{Gebruiker fi-1}} — basic
+     * {{Gebruiker fi-2}} — intermediate
+     * {{Gebruiker fi-3}} — advanced
+     * {{Gebruiker fi}} — native
+
+[wysig] fj - Na vosa vaka-Viti (Fijies)
+
+   Kategorie: Gebruiker fj
+     * {{Gebruiker fj-1}} — basic
+     * {{Gebruiker fj-2}} — intermediate
+     * {{Gebruiker fj-3}} — advanced
+     * {{Gebruiker fj}} — native
+
+[wysig] fo - Føroyskt (Faroies)
+
+   Kategorie: Gebruiker fo
+     * {{Gebruiker fo-1}} — basic
+     * {{Gebruiker fo-2}} — intermediate
+     * {{Gebruiker fo-3}} — advanced
+     * {{Gebruiker fo}} — native
+
+[wysig] fr - Français (Frans)
+
+   Kategorie: Gebruiker fr
+     * {{Gebruiker fr-0}} — ineffective
+     * {{Gebruiker fr-1}} — basic
+     * {{Gebruiker fr-2}} — intermediate
+     * {{Gebruiker fr-3}} — advanced
+     * {{Gebruiker fr-4}} — near native
+     * {{Gebruiker fr}} — native
+
+[wysig] fur - Furlan (Frioelies)
+
+   Kategorie: Gebruiker fur
+     * {{Gebruiker fur-1}} — basic
+     * {{Gebruiker fur-2}} — intermediate
+     * {{Gebruiker fur-3}} — advanced
+     * {{Gebruiker fur}} — native
+
+[wysig] fy - Frysk (Frisies)
+
+   Kategorie: Gebruiker fy
+     * {{Gebruiker fy-1}} — basic
+     * {{Gebruiker fy-2}} — intermediate
+     * {{Gebruiker fy-3}} — advanced
+     * {{Gebruiker fy}} — native
+
+[wysig] ga - Gaeilge (Iers)
+
+   Kategorie: Gebruiker ga
+     * {{Gebruiker ga-1}} — basic
+     * {{Gebruiker ga-2}} — intermediate
+     * {{Gebruiker ga-3}} — advanced
+     * {{Gebruiker ga}} — native
+
+[wysig] gd - Gàidhlig (Gallies / Skots)
+
+   Kategorie: Gebruiker gd
+     * {{Gebruiker gd-1}} — basic
+     * {{Gebruiker gd-2}} — intermediate
+     * {{Gebruiker gd-3}} — advanced
+     * {{Gebruiker gd}} — native
+
+[wysig] gl - Galego (Galisies)
+
+   Kategorie: Gebruiker gl
+     * {{Gebruiker gl-1}} — basic
+     * {{Gebruiker gl-2}} — intermediate
+     * {{Gebruiker gl-3}} — advanced
+     * {{Gebruiker gl}} — native
+
+[wysig] gn - Avañe'ẽ (Guaraní)
+
+   Kategorie: Gebruiker gn
+     * {{Gebruiker gn-1}} — basic
+     * {{Gebruiker gn-2}} — intermediate
+     * {{Gebruiker gn-3}} — advanced
+     * {{Gebruiker gn}} — native
+
+[wysig] got - 𐌲𐌿𐍄𐌹𐍃𐌺 (Goties)
+
+   Kategorie: Gebruiker got
+     * {{Gebruiker got-1}} — basic
+     * {{Gebruiker got-2}} — intermediate
+     * {{Gebruiker got-3}} — advanced
+     * {{Gebruiker got}} — native
+
+[wysig] gu - ગુજરાતી (Gujarati)
+
+   Kategorie: Gebruiker gu
+     * {{Gebruiker gu-1}} — basic
+     * {{Gebruiker gu-2}} — intermediate
+     * {{Gebruiker gu-3}} — advanced
+     * {{Gebruiker gu}} — native
+
+[wysig] gv - Gaelg (Manawies)
+
+   Kategorie: Gebruiker gv
+     * {{Gebruiker gv-1}} — basic
+     * {{Gebruiker gv-2}} — intermediate
+     * {{Gebruiker gv-3}} — advanced
+     * {{Gebruiker gv}} — native
+
+[wysig] ha - Hausa (Hausa)
+
+   Kategorie: Gebruiker ha
+     * {{Gebruiker ha-1}} — basic
+     * {{Gebruiker ha-2}} — intermediate
+     * {{Gebruiker ha-3}} — advanced
+     * {{Gebruiker ha}} — native
+
+[wysig] haw - Hawai`i (Hawaiies)
+
+   Kategorie: Gebruiker haw
+     * {{Gebruiker haw-1}} — basic
+     * {{Gebruiker haw-2}} — intermediate
+     * {{Gebruiker haw-3}} — advanced
+     * {{Gebruiker haw}} — native
+
+[wysig] he - עברית (Hebreeus)
+
+   Kategorie: Gebruiker he
+     * {{Gebruiker he-1}} — basic
+     * {{Gebruiker he-2}} — intermediate
+     * {{Gebruiker he-3}} — advanced
+     * {{Gebruiker he}} — native
+
+[wysig] hess - Hessisch (Hessies)
+
+   Kategorie: Gebruiker hess
+     * {{Gebruiker hess-1}} — basic
+     * {{Gebruiker hess-2}} — intermediate
+     * {{Gebruiker hess-3}} — advanced
+     * {{Gebruiker hess}} — native
+
+[wysig] hi - हिन्दी (Hindi)
+
+   Kategorie: Gebruiker hi
+     * {{Gebruiker hi-1}} — basic
+     * {{Gebruiker hi-2}} — intermediate
+     * {{Gebruiker hi-3}} — advanced
+     * {{Gebruiker hi}} — native
+
+[wysig] ho - Hiri Motu (Hiri Motu)
+
+   Kategorie: Gebruiker ho
+     * {{Gebruiker ho-1}} — basic
+     * {{Gebruiker ho-2}} — intermediate
+     * {{Gebruiker ho-3}} — advanced
+     * {{Gebruiker ho}} — native
+
+[wysig] hr - Hrvatski (Kroasies)
+
+   Kategorie: Gebruiker hr
+     * {{Gebruiker hr-1}} — basic
+     * {{Gebruiker hr-2}} — intermediate
+     * {{Gebruiker hr-3}} — advanced
+     * {{Gebruiker hr}} — native
+
+[wysig] ht - Krèyol ayisyen (Kreool / Haïties))
+
+   Kategorie: Gebruiker ht
+     * {{Gebruiker ht-0}} — ineffective
+     * {{Gebruiker ht-1}} — basic
+     * {{Gebruiker ht-2}} — intermediate
+     * {{Gebruiker ht-3}} — advanced
+     * {{Gebruiker ht-4}} — near native
+     * {{Gebruiker ht}} — native
+
+[wysig] hu - Magyar (Hungarian language)
+
+   Kategorie: Gebruiker hu
+     * {{Gebruiker hu-0}} — ineffective
+     * {{Gebruiker hu-1}} — basic
+     * {{Gebruiker hu-2}} — intermediate
+     * {{Gebruiker hu-3}} — advanced
+     * {{Gebruiker hu-4}} — near native
+     * {{Gebruiker hu}} — native
+
+[wysig] hy - Հայերեն (Armenies)
+
+   Kategorie: Gebruiker hy
+     * {{Gebruiker hy-1}} — basic
+     * {{Gebruiker hy-2}} — intermediate
+     * {{Gebruiker hy-3}} — advanced
+     * {{Gebruiker hy}} — native
+
+[wysig] ia - Interlingua (Interlingua)
+
+   Kategorie: Gebruiker ia
+     * {{Gebruiker ia-0}} — ineffective
+     * {{Gebruiker ia-1}} — basic
+     * {{Gebruiker ia-2}} — intermediate
+     * {{Gebruiker ia-3}} — advanced
+     * {{Gebruiker ia-4}} — near native
+     * {{Gebruiker ia}} — native
+
+[wysig] id - Bahasa Indonesia (Indonesies)
+
+   Kategorie: Gebruiker id
+     * {{Gebruiker id-1}} — basic
+     * {{Gebruiker id-2}} — intermediate
+     * {{Gebruiker id-3}} — advanced
+     * {{Gebruiker id}} — native
+
+[wysig] ie - Interlingue (Occidentaal)
+
+   Kategorie: Gebruiker ie
+     * {{Gebruiker ie-1}} — basic
+     * {{Gebruiker ie-2}} — intermediate
+     * {{Gebruiker ie-3}} — advanced
+     * {{Gebruiker ie}} — native
+
+[wysig] ig - Igbo (Igbo)
+
+   Kategorie: Gebruiker ig
+     * {{Gebruiker ig-1}} — basic
+     * {{Gebruiker ig-2}} — intermediate
+     * {{Gebruiker ig-3}} — advanced
+     * {{Gebruiker ig}} — native
+
+[wysig] ii - ꆇꉙ (Yi)
+
+   Kategorie: Gebruiker ii
+     * {{Gebruiker ii-1}} — basic
+     * {{Gebruiker ii-2}} — intermediate
+     * {{Gebruiker ii-3}} — advanced
+     * {{Gebruiker ii}} — native
+
+[wysig] ik - Iñupiak (Inupiak)
+
+   Kategorie: Gebruiker ik
+     * {{Gebruiker ik-1}} — basic
+     * {{Gebruiker ik-2}} — intermediate
+     * {{Gebruiker ik-3}} — advanced
+     * {{Gebruiker ik}} — native
+
+[wysig] io - Ido (Ido)
+
+   Kategorie: Gebruiker io
+     * {{Gebruiker io-0}} — ineffective
+     * {{Gebruiker io-1}} — basic
+     * {{Gebruiker io-2}} — intermediate
+     * {{Gebruiker io-3}} — advanced
+     * {{Gebruiker io-4}} — near native
+     * {{Gebruiker io}} — native
+
+[wysig] is - Íslenska (Yslands)
+
+   Kategorie: Gebruiker is
+     * {{Gebruiker is-1}} — basic
+     * {{Gebruiker is-2}} — intermediate
+     * {{Gebruiker is-3}} — advanced
+     * {{Gebruiker is}} — native
+
+[wysig] it - Italiano (Italiaans)
+
+   Kategorie: Gebruiker it
+     * {{Gebruiker it-1}} — basic
+     * {{Gebruiker it-2}} — intermediate
+     * {{Gebruiker it-3}} — advanced
+     * {{Gebruiker it}} — native
+
+[wysig] iu - ᐃᓄᒃᑎᑐᑦ (Inuktitoet)
+
+   Kategorie: Gebruiker iu
+     * {{Gebruiker iu-1}} — basic
+     * {{Gebruiker iu-2}} — intermediate
+     * {{Gebruiker iu-3}} — advanced
+     * {{Gebruiker iu}} — native
+
+[wysig] J-R
+
+[wysig] ja - 日本語 (Japanees)
+
+   Kategorie: Gebruiker ja
+     * {{Gebruiker ja-0}} — ineffective
+     * {{Gebruiker ja-1}} — basic
+     * {{Gebruiker ja-2}} — intermediate
+     * {{Gebruiker ja-3}} — advanced
+     * {{Gebruiker ja-4}} — near native
+     * {{Gebruiker ja}} — native
+
+[wysig] jbo - Lojban (Lojbaan)
+
+   Kategorie: Gebruiker jbo
+     * {{Gebruiker jbo-0}} — ineffective
+     * {{Gebruiker jbo-1}} — basic
+     * {{Gebruiker jbo-2}} — intermediate
+     * {{Gebruiker jbo-3}} — advanced
+     * {{Gebruiker jbo-4}} — near native
+     * {{Gebruiker jbo}} — native
+
+[wysig] jv - Basa Jawa/Basa Jawi (Javanees)
+
+   Kategorie: Gebruiker jv
+     * {{Gebruiker jv-1}} — basic
+     * {{Gebruiker jv-2}} — intermediate
+     * {{Gebruiker jv-3}} — advanced
+     * {{Gebruiker jv}} — native
+
+[wysig] ka - ქართული / Kartuli (Georgies)
+
+   Kategorie: Gebruiker ka
+     * {{Gebruiker ka-1}} — basic
+     * {{Gebruiker ka-2}} — intermediate
+     * {{Gebruiker ka-3}} — advanced
+     * {{Gebruiker ka}} — native
+
+[wysig] kg - Kikong (Kikongo)
+
+   Kategorie: Gebruiker kg
+     * {{Gebruiker kg-1}} — basic
+     * {{Gebruiker kg-2}} — intermediate
+     * {{Gebruiker kg-3}} — advanced
+     * {{Gebruiker kg}} — native
+
+[wysig] ki - Gĩkũyũ (Kikoejoe)
+
+   Kategorie: Gebruiker ki
+     * {{Gebruiker ki-1}} — basic
+     * {{Gebruiker ki-2}} — intermediate
+     * {{Gebruiker ki-3}} — advanced
+     * {{Gebruiker ki}} — native
+
+[wysig] kj - Kuanyama (Kuanyama)
+
+   Kategorie: Gebruiker kj
+     * {{Gebruiker kj-1}} — basic
+     * {{Gebruiker kj-2}} — intermediate
+     * {{Gebruiker kj-3}} — advanced
+     * {{Gebruiker kj}} — native
+
+[wysig] kk - қазақша (Kasak)
+
+   Kategorie: Gebruiker kk
+     * {{Gebruiker kk-1}} — basic
+     * {{Gebruiker kk-2}} — intermediate
+     * {{Gebruiker kk-3}} — advanced
+     * {{Gebruiker kk}} — native
+
+[wysig] kl - Kalaallisut (Kalaallisoet)
+
+   Kategorie: Gebruiker kl
+     * {{Gebruiker kl-1}} — basic
+     * {{Gebruiker kl-2}} — intermediate
+     * {{Gebruiker kl-3}} — advanced
+     * {{Gebruiker kl}} — native
+
+[wysig] km - ភាសាខ្មែរ (Khmer)
+
+   Kategorie: Gebruiker km
+     * {{Gebruiker km-1}} — basic
+     * {{Gebruiker km-2}} — intermediate
+     * {{Gebruiker km-3}} — advanced
+     * {{Gebruiker km}} — native
+
+[wysig] kn - ಕನ್ನಡ (Kannada)
+
+   Kategorie: Gebruiker kn
+     * {{Gebruiker kn-1}} — basic
+     * {{Gebruiker kn-2}} — intermediate
+     * {{Gebruiker kn-3}} — advanced
+     * {{Gebruiker kn}} — native
+
+[wysig] ko - 한국어 (Koreaans)
+
+   Kategorie: Gebruiker ko
+     * {{Gebruiker ko-0}} — ineffective
+     * {{Gebruiker ko-1}} — basic
+     * {{Gebruiker ko-2}} — intermediate
+     * {{Gebruiker ko-3}} — advanced
+     * {{Gebruiker ko-4}} — near native
+     * {{Gebruiker ko}} — native
+
+[wysig] kr - Kanuri (Kanoeri)
+
+   Kategorie: Gebruiker kr
+     * {{Gebruiker kr-1}} — basic
+     * {{Gebruiker kr-2}} — intermediate
+     * {{Gebruiker kr-3}} — advanced
+     * {{Gebruiker kr}} — native
+
+[wysig] ks - कश्मीरी / كشميري (Kashmiri)
+
+   Kategorie: Gebruiker ks
+     * {{Gebruiker ks-1}} — basic
+     * {{Gebruiker ks-2}} — intermediate
+     * {{Gebruiker ks-3}} — advanced
+     * {{Gebruiker ks}} — native
+
+[wysig] ksh - Ripoarisch (Ripoaries)
+
+   Kategorie: Gebruiker ksh
+     * {{Gebruiker ksh-1}} — basic
+     * {{Gebruiker ksh-2}} — intermediate
+     * {{Gebruiker ksh-3}} — advanced
+     * {{Gebruiker ksh}} — native
+
+[wysig] ku - Kurdî / كوردی (Koerdies)
+
+   Kategorie: Gebruiker ku
+     * {{Gebruiker ku-1}} — basic
+     * {{Gebruiker ku-2}} — intermediate
+     * {{Gebruiker ku-3}} — advanced
+     * {{Gebruiker ku}} — native
+
+[wysig] kv - Коми (Komi)
+
+   Kategorie: Gebruiker kv
+     * {{Gebruiker kv-1}} — basic
+     * {{Gebruiker kv-2}} — intermediate
+     * {{Gebruiker kv-3}} — advanced
+     * {{Gebruiker kv}} — native
+
+[wysig] kw - Kernewek (Kernewies / Kornies)
+
+   Kategorie: Gebruiker kw
+     * {{Gebruiker kw-1}} — basic
+     * {{Gebruiker kw-2}} — intermediate
+     * {{Gebruiker kw-3}} — advanced
+     * {{Gebruiker kw}} — native
+
+[wysig] ky - Кыргызча (Kirgisies)
+
+   Kategorie: Gebruiker ky
+     * {{Gebruiker ky-1}} — basic
+     * {{Gebruiker ky-2}} — intermediate
+     * {{Gebruiker ky-3}} — advanced
+     * {{Gebruiker ky}} — native
+
+[wysig] la - Latina (Latyns)
+
+   Kategorie: Gebruiker la
+     * {{Gebruiker la-1}} — basic
+     * {{Gebruiker la-2}} — intermediate
+     * {{Gebruiker la-3}} — advanced
+     * {{Gebruiker la}} — native
+
+[wysig] lb - Lëtzebuergesch (Luxemburgs)
+
+   Kategorie: Gebruiker lb
+     * {{Gebruiker lb-1}} — basic
+     * {{Gebruiker lb-2}} — intermediate
+     * {{Gebruiker lb-3}} — advanced
+     * {{Gebruiker lb}} — native
+
+[wysig] lg - Luganda (Luganda)
+
+   Kategorie: Gebruiker lg
+     * {{Gebruiker lg-1}} — basic
+     * {{Gebruiker lg-2}} — intermediate
+     * {{Gebruiker lg-3}} — advanced
+     * {{Gebruiker lg}} — native
+
+[wysig] li - Lèmburgs (Limburgs)
+
+   Kategorie: Gebruiker li
+     * {{Gebruiker li-1}} — basic
+     * {{Gebruiker li-2}} — intermediate
+     * {{Gebruiker li-3}} — advanced
+     * {{Gebruiker li}} — native
+
+[wysig] ln - Lingála (Lingala)
+
+   Kategorie: Gebruiker ln
+     * {{Gebruiker ln-1}} — basic
+     * {{Gebruiker ln-2}} — intermediate
+     * {{Gebruiker ln-3}} — advanced
+     * {{Gebruiker ln}} — native
+
+[wysig] lo - ພາສາລາວ (Laosies)
+
+   Kategorie: Gebruiker lo
+     * {{Gebruiker lo-1}} — basic
+     * {{Gebruiker lo-2}} — intermediate
+     * {{Gebruiker lo-3}} — advanced
+     * {{Gebruiker lo}} — native
+
+[wysig] lt - Lietuvių (Lituanies)
+
+   Kategorie: Gebruiker lt
+     * {{Gebruiker lt-1}} — basic
+     * {{Gebruiker lt-2}} — intermediate
+     * {{Gebruiker lt-3}} — advanced
+     * {{Gebruiker lt}} — native
+
+[wysig] lv - Latviešu (Latvies)
+
+   Kategorie: Gebruiker lv
+     * {{Gebruiker lv-1}} — basic
+     * {{Gebruiker lv-2}} — intermediate
+     * {{Gebruiker lv-3}} — advanced
+     * {{Gebruiker lv}} — native
+
+[wysig] mg - Malagasy (Malagasies)
+
+   Kategorie: Gebruiker mg
+     * {{Gebruiker mg-1}} — basic
+     * {{Gebruiker mg-2}} — intermediate
+     * {{Gebruiker mg-3}} — advanced
+     * {{Gebruiker mg}} — native
+
+[wysig] mh - Ebon (Marshallies)
+
+   Kategorie: Gebruiker mh
+     * {{Gebruiker mh-1}} — basic
+     * {{Gebruiker mh-2}} — intermediate
+     * {{Gebruiker mh-3}} — advanced
+     * {{Gebruiker mh}} — native
+
+[wysig] mi - Māori (Maori)
+
+   Kategorie: Gebruiker mi
+     * {{Gebruiker mi-1}} — basic
+     * {{Gebruiker mi-2}} — intermediate
+     * {{Gebruiker mi-3}} — advanced
+     * {{Gebruiker mi}} — native
+
+[wysig] mk - Македонски (Makedonies)
+
+   Kategorie: Gebruiker mk
+     * {{Gebruiker mk-1}} — basic
+     * {{Gebruiker mk-2}} — intermediate
+     * {{Gebruiker mk-3}} — advanced
+     * {{Gebruiker mk}} — native
+
+[wysig] ml - മലയാളം (Malajalam)
+
+   Kategorie: Gebruiker ml
+     * {{Gebruiker ml-1}} — basic
+     * {{Gebruiker ml-2}} — intermediate
+     * {{Gebruiker ml-3}} — advanced
+     * {{Gebruiker ml}} — native
+
+[wysig] mn - Монгол (Mongools)
+
+   Kategorie: Gebruiker mn
+     * {{Gebruiker mn-1}} — basic
+     * {{Gebruiker mn-2}} — intermediate
+     * {{Gebruiker mn-3}} — advanced
+     * {{Gebruiker mn}} — native
+
+[wysig] mnl - Middelnederlands (Middelnederlands)
+
+   Kategorie: Gebruiker mnl
+     * {{Gebruiker mnl-1}} — basic
+     * {{Gebruiker mnl-2}} — intermediate
+     * {{Gebruiker mnl-3}} — advanced
+     * {{Gebruiker mnl}} — native
+
+[wysig] mo - Moldovenească (Moldavies)
+
+   Kategorie: Gebruiker mo
+     * {{Gebruiker mo-1}} — basic
+     * {{Gebruiker mo-2}} — intermediate
+     * {{Gebruiker mo-3}} — advanced
+     * {{Gebruiker mo}} — native
+
+[wysig] mr - मराठी (Marathi)
+
+   Kategorie: Gebruiker mr
+     * {{Gebruiker mr-1}} — basic
+     * {{Gebruiker mr-2}} — intermediate
+     * {{Gebruiker mr-3}} — advanced
+     * {{Gebruiker mr}} — native
+
+[wysig] ms - Bahasa Melayu (Malei)
+
+   Kategorie: Gebruiker ms
+     * {{Gebruiker ms-1}} — basic
+     * {{Gebruiker ms-2}} — intermediate
+     * {{Gebruiker ms-3}} — advanced
+     * {{Gebruiker ms}} — native
+
+[wysig] mt - bil-Malti (Maltees)
+
+   Kategorie: Gebruiker mt
+     * {{Gebruiker mt-1}} — basic
+     * {{Gebruiker mt-2}} — intermediate
+     * {{Gebruiker mt-3}} — advanced
+     * {{Gebruiker mt}} — native
+
+[wysig] mus - Mvskoke (Muskokee)
+
+   Kategorie: Gebruiker mus
+     * {{Gebruiker mus-1}} — basic
+     * {{Gebruiker mus-2}} — intermediate
+     * {{Gebruiker mus-3}} — advanced
+     * {{Gebruiker mus}} — native
+
+[wysig] my - ဗမာစာ (Burmees)
+
+   Kategorie: Gebruiker my
+     * {{Gebruiker my-1}} — basic
+     * {{Gebruiker my-2}} — intermediate
+     * {{Gebruiker my-3}} — advanced
+     * {{Gebruiker my}} — native
+
+[wysig] na - Ekakairũ Naoero (Naoeries)
+
+   Kategorie: Gebruiker na
+     * {{Gebruiker na-1}} — basic
+     * {{Gebruiker na-2}} — intermediate
+     * {{Gebruiker na-3}} — advanced
+     * {{Gebruiker na}} — native
+
+[wysig] nah - Nawatl (Nawatl)
+
+   Kategorie: Gebruiker nah
+     * {{Gebruiker nah-1}} — basic
+     * {{Gebruiker nah-2}} — intermediate
+     * {{Gebruiker nah-3}} — advanced
+     * {{Gebruiker nah}} — native
+
+[wysig] nb - Bokmål (Bokmål Noors)
+
+   Kategorie: Gebruiker nb
+     * {{Gebruiker nb-1}} — basic
+     * {{Gebruiker nb-2}} — intermediate
+     * {{Gebruiker nb-3}} — advanced
+     * {{Gebruiker nb}} — native
+
+[wysig] nds - Plattdüütsch (Platduits)
+
+   Kategorie: Gebruiker nds
+     * {{Gebruiker nds-1}} — basic
+     * {{Gebruiker nds-2}} — intermediate
+     * {{Gebruiker nds-3}} — advanced
+     * {{Gebruiker nds}} — native
+
+[wysig] nds-nl - Nedersaksisch (Nedersaksies)
+
+   Kategorie: Gebruiker nds-nl
+     * {{Gebruiker nds-nl-1}} — basic
+     * {{Gebruiker nds-nl-2}} — intermediate
+     * {{Gebruiker nds-nl-3}} — advanced
+     * {{Gebruiker nds-nl}} — native
+
+[wysig] ne - नेपाली (Nepali)
+
+   Kategorie: Gebruiker ne
+     * {{Gebruiker ne-1}} — basic
+     * {{Gebruiker ne-2}} — intermediate
+     * {{Gebruiker ne-3}} — advanced
+     * {{Gebruiker ne}} — native
+
+[wysig] ng - Oshiwambo (Ndonga / Osjiwambo)
+
+   Kategorie: Gebruiker ng
+     * {{Gebruiker ng-1}} — basic
+     * {{Gebruiker ng-2}} — intermediate
+     * {{Gebruiker ng-3}} — advanced
+     * {{Gebruiker ng}} — native
+
+[wysig] nl - Nederlands (Nederlands)
+
+   Kategorie: Gebruiker nl
+     * {{Gebruiker nl-1}} — basic
+     * {{Gebruiker nl-2}} — intermediate
+     * {{Gebruiker nl-3}} — advanced
+     * {{Gebruiker nl}} — native
+
+[wysig] nn - Nynorsk (Nynorsk Noors)
+
+   Kategorie: Gebruiker nn
+     * {{Gebruiker nn-1}} — basic
+     * {{Gebruiker nn-2}} — intermediate
+     * {{Gebruiker nn-3}} — advanced
+     * {{Gebruiker nn}} — native
+
+[wysig] no - Norsk (Noors)
+
+   Kategorie: Gebruiker no
+     * {{Gebruiker no-1}} — basic
+     * {{Gebruiker no-2}} — intermediate
+     * {{Gebruiker no-3}} — advanced
+     * {{Gebruiker no}} — native
+
+[wysig] nv - Diné bizaad (Navajo)
+
+   Kategorie: Gebruiker nv
+     * {{Gebruiker nv-1}} — basic
+     * {{Gebruiker nv-2}} — intermediate
+     * {{Gebruiker nv-3}} — advanced
+     * {{Gebruiker nv}} — native
+
+[wysig] ny - Chi Chewa (Tjitjewa)
+
+   Kategorie: Gebruiker ny
+     * {{Gebruiker ny-1}} — basic
+     * {{Gebruiker ny-2}} — intermediate
+     * {{Gebruiker ny-3}} — advanced
+     * {{Gebruiker ny}} — native
+
+[wysig] oc - Langue d'Oc (Occitaans)
+
+   Kategorie: Gebruiker oc
+     * {{Gebruiker oc-1}} — basic
+     * {{Gebruiker oc-2}} — intermediate
+     * {{Gebruiker oc-3}} — advanced
+     * {{Gebruiker oc}} — native
+
+[wysig] om - ??? (Oromo)
+
+   Kategorie: Gebruiker om
+     * {{Gebruiker om-1}} — basic
+     * {{Gebruiker om-2}} — intermediate
+     * {{Gebruiker om-3}} — advanced
+     * {{Gebruiker om}} — native
+
+[wysig] or - ଓଡ଼ିଆ (Oriya)
+
+   Kategorie: Gebruiker or
+     * {{Gebruiker or-1}} — basic
+     * {{Gebruiker or-2}} — intermediate
+     * {{Gebruiker or-3}} — advanced
+     * {{Gebruiker or}} — native
+
+[wysig] os - Ирон æвзаг (Osseties)
+
+   Kategorie: Gebruiker os
+     * {{Gebruiker os-1}} — basic
+     * {{Gebruiker os-2}} — intermediate
+     * {{Gebruiker os-3}} — advanced
+     * {{Gebruiker os}} — native
+
+[wysig] pa - ਪੰਜਾਬੀ (Punjabi)
+
+   Kategorie: Gebruiker pa
+     * {{Gebruiker pa-1}} — basic
+     * {{Gebruiker pa-2}} — intermediate
+     * {{Gebruiker pa-3}} — advanced
+     * {{Gebruiker pa}} — native
+
+[wysig] pap - Papiamento (Papiaments)
+
+   Kategorie: Gebruiker pap
+     * {{Gebruiker pap-1}} — basic
+     * {{Gebruiker pap-2}} — intermediate
+     * {{Gebruiker pap-3}} — advanced
+     * {{Gebruiker pap}} — native
+
+[wysig] pi - pāli (Pali)
+
+   Kategorie: Gebruiker pi
+     * {{Gebruiker pi-1}} — basic
+     * {{Gebruiker pi-2}} — intermediate
+     * {{Gebruiker pi-3}} — advanced
+     * {{Gebruiker pi}} — native
+
+[wysig] pl - Polski (Pools)
+
+   Kategorie: Gebruiker pl
+     * {{Gebruiker pl-1}} — basic
+     * {{Gebruiker pl-2}} — intermediate
+     * {{Gebruiker pl-3}} — advanced
+     * {{Gebruiker pl}} — native
+
+[wysig] ps - پښتو (Pasjtoe)
+
+   Kategorie: Gebruiker ps
+     * {{Gebruiker ps-1}} — basic
+     * {{Gebruiker ps-2}} — intermediate
+     * {{Gebruiker ps-3}} — advanced
+     * {{Gebruiker ps}} — native
+
+[wysig] pt - Português (Portugeesg)
+
+   Kategorie: Gebruiker pt
+     * {{Gebruiker pt-1}} — basic
+     * {{Gebruiker pt-2}} — intermediate
+     * {{Gebruiker pt-3}} — advanced
+     * {{Gebruiker pt}} — native
+
+[wysig] qu - Runa Simi (Kwetjoea)
+
+   Kategorie: Gebruiker qu
+     * {{Gebruiker qu-1}} — basic
+     * {{Gebruiker qu-2}} — intermediate
+     * {{Gebruiker qu-3}} — advanced
+     * {{Gebruiker qu}} — native
+
+[wysig] rm - Rumantsch (Romanies)
+
+   Kategorie: Gebruiker rm
+     * {{Gebruiker rm-1}} — basic
+     * {{Gebruiker rm-2}} — intermediate
+     * {{Gebruiker rm-3}} — advanced
+     * {{Gebruiker rm}} — native
+
+[wysig] rn - Kirundi (Kirundi)
+
+   Kategorie: Gebruiker rn
+     * {{Gebruiker rn-1}} — basic
+     * {{Gebruiker rn-2}} — intermediate
+     * {{Gebruiker rn-3}} — advanced
+     * {{Gebruiker rn}} — native
+
+[wysig] ro - Română (Romanees)
+
+   Kategorie: Gebruiker ro
+     * {{Gebruiker ro-1}} — basic
+     * {{Gebruiker ro-2}} — intermediate
+     * {{Gebruiker ro-3}} — advanced
+     * {{Gebruiker ro}} — native
+
+[wysig] ru - Русский (Russies)
+
+   Kategorie: Gebruiker ru
+     * {{Gebruiker ru-1}} — basic
+     * {{Gebruiker ru-2}} — intermediate
+     * {{Gebruiker ru-3}} — advanced
+     * {{Gebruiker ru}} — native
+
+[wysig] rup - Armâneaşti (Aramees)
+
+   Kategorie: Gebruiker rup
+     * {{Gebruiker rup-1}} — basic
+     * {{Gebruiker rup-2}} — intermediate
+     * {{Gebruiker rup-3}} — advanced
+     * {{Gebruiker rup}} — native
+
+[wysig] rw - Kinyarwandi (Kinjarwanda)
+
+   Kategorie: Gebruiker rw
+     * {{Gebruiker rw-1}} — basic
+     * {{Gebruiker rw-2}} — intermediate
+     * {{Gebruiker rw-3}} — advanced
+     * {{Gebruiker rw}} — native
+
+[wysig] S-Z
+
+[wysig] sa - संस्कृतम् (Sanskrit)
+
+   Kategorie: Gebruiker sa
+     * {{Gebruiker sa-1}} — basic
+     * {{Gebruiker sa-2}} — intermediate
+     * {{Gebruiker sa-3}} — advanced
+     * {{Gebruiker sa}} — native
+
+[wysig] sc - Sardu (Sardinies)
+
+   Kategorie: Gebruiker sc
+     * {{Gebruiker sc-1}} — basic
+     * {{Gebruiker sc-2}} — intermediate
+     * {{Gebruiker sc-3}} — advanced
+     * {{Gebruiker sc}} — native
+
+[wysig] scn - Sicilianu (Sisilies)
+
+   Kategorie: Gebruiker scn
+     * {{Gebruiker scn-1}} — basic
+     * {{Gebruiker scn-2}} — intermediate
+     * {{Gebruiker scn-3}} — advanced
+     * {{Gebruiker scn}} — native
+
+[wysig] sco - Scots (Albanies)
+
+   Kategorie: Gebruiker sco
+     * {{Gebruiker sco-1}} — basic
+     * {{Gebruiker sco-2}} — intermediate
+     * {{Gebruiker sco-3}} — advanced
+     * {{Gebruiker sco}} — native
+
+[wysig] sd - सिनधि (Sindhi)
+
+   Kategorie: Gebruiker sd
+     * {{Gebruiker sd-1}} — basic
+     * {{Gebruiker sd-2}} — intermediate
+     * {{Gebruiker sd-3}} — advanced
+     * {{Gebruiker sd}} — native
+
+[wysig] se - Sámegiella (Noordelike Sami)
+
+   Kategorie: Gebruiker se
+     * {{Gebruiker se-1}} — basic
+     * {{Gebruiker se-2}} — intermediate
+     * {{Gebruiker se-3}} — advanced
+     * {{Gebruiker se}} — native
+
+[wysig] sg - Sängö (Sango)
+
+   Kategorie: Gebruiker sg
+     * {{Gebruiker sg-1}} — basic
+     * {{Gebruiker sg-2}} — intermediate
+     * {{Gebruiker sg-3}} — advanced
+     * {{Gebruiker sg}} — native
+
+[wysig] si - සිංහල (Sinhala)
+
+   Kategorie: Gebruiker si
+     * {{Gebruiker si-1}} — basic
+     * {{Gebruiker si-2}} — intermediate
+     * {{Gebruiker si-3}} — advanced
+     * {{Gebruiker si}} — native
+
+[wysig] sk - Slovenčina (Slovakies)
+
+   Kategorie: Gebruiker sk
+     * {{Gebruiker sk-1}} — basic
+     * {{Gebruiker sk-2}} — intermediate
+     * {{Gebruiker sk-3}} — advanced
+     * {{Gebruiker sk}} — native
+
+[wysig] sl - Slovenščina (Slovenies)
+
+   Kategorie: Gebruiker sl
+     * {{Gebruiker sl-1}} — basic
+     * {{Gebruiker sl-2}} — intermediate
+     * {{Gebruiker sl-3}} — advanced
+     * {{Gebruiker sl}} — native
+
+[wysig] sm - Gagana Samoa (Samoaans)
+
+   Kategorie: Gebruiker sm
+     * {{Gebruiker sm-1}} — basic
+     * {{Gebruiker sm-2}} — intermediate
+     * {{Gebruiker sm-3}} — advanced
+     * {{Gebruiker sm}} — native
+
+[wysig] sn - chiShona (Shona)
+
+   Kategorie: Gebruiker sn
+     * {{Gebruiker sn-1}} — basic
+     * {{Gebruiker sn-2}} — intermediate
+     * {{Gebruiker sn-3}} — advanced
+     * {{Gebruiker sn}} — native
+
+[wysig] so - Soomaaliga (Somalies)
+
+   Kategorie: Gebruiker so
+     * {{Gebruiker so-1}} — basic
+     * {{Gebruiker so-2}} — intermediate
+     * {{Gebruiker so-3}} — advanced
+     * {{Gebruiker so}} — native
+
+[wysig] sq - Shqip (Albanies)
+
+   Kategorie: Gebruiker sq
+     * {{Gebruiker sq-1}} — basic
+     * {{Gebruiker sq-2}} — intermediate
+     * {{Gebruiker sq-3}} — advanced
+     * {{Gebruiker sq}} — native
+
+[wysig] sr - Српски (Serbies)
+
+   Kategorie: Gebruiker sr
+     * {{Gebruiker sr-1}} — basic
+     * {{Gebruiker sr-2}} — intermediate
+     * {{Gebruiker sr-3}} — advanced
+     * {{Gebruiker sr}} — native
+
+[wysig] ss - SiSwati (Swati)
+
+   Kategorie: Gebruiker ss
+     * {{Gebruiker ss-1}} — basic
+     * {{Gebruiker ss-2}} — intermediate
+     * {{Gebruiker ss-3}} — advanced
+     * {{Gebruiker ss}} — native
+
+[wysig] st - seSotho (Sotho)
+
+   Kategorie: Gebruiker st
+     * {{Gebruiker st-1}} — basic
+     * {{Gebruiker st-2}} — intermediate
+     * {{Gebruiker st-3}} — advanced
+     * {{Gebruiker st}} — native
+
+[wysig] su - Basa Sunda (Soendanees)
+
+   Kategorie: Gebruiker su
+     * {{Gebruiker su-1}} — basic
+     * {{Gebruiker su-2}} — intermediate
+     * {{Gebruiker su-3}} — advanced
+     * {{Gebruiker su}} — native
+
+[wysig] sv - Svenska (Sweeds)
+
+   Kategorie: Gebruiker sv
+     * {{Gebruiker sv-1}} — basic
+     * {{Gebruiker sv-2}} — intermediate
+     * {{Gebruiker sv-3}} — advanced
+     * {{Gebruiker sv}} — native
+
+[wysig] sw - Kiswahili (Swahili)
+
+   Kategorie: Gebruiker sw
+     * {{Gebruiker sw-1}} — basic
+     * {{Gebruiker sw-2}} — intermediate
+     * {{Gebruiker sw-3}} — advanced
+     * {{Gebruiker sw}} — native
+
+[wysig] ta - தமிழ் (Tamil)
+
+   Kategorie: Gebruiker ta
+     * {{Gebruiker ta-1}} — basic
+     * {{Gebruiker ta-2}} — intermediate
+     * {{Gebruiker ta-3}} — advanced
+     * {{Gebruiker ta}} — native
+
+[wysig] te - తెలుగు (Teloegoe)
+
+   Kategorie: Gebruiker te
+     * {{Gebruiker te-1}} — basic
+     * {{Gebruiker te-2}} — intermediate
+     * {{Gebruiker te-3}} — advanced
+     * {{Gebruiker te}} — native
+
+[wysig] tg - Тоҷикӣ (Tajikies)
+
+   Kategorie: Gebruiker tg
+     * {{Gebruiker tg-1}} — basic
+     * {{Gebruiker tg-2}} — intermediate
+     * {{Gebruiker tg-3}} — advanced
+     * {{Gebruiker tg}} — native
+
+[wysig] th - ภาษาไทย (Thai)
+
+   Kategorie: Gebruiker th
+     * {{Gebruiker th-1}} — basic
+     * {{Gebruiker th-2}} — intermediate
+     * {{Gebruiker th-3}} — advanced
+     * {{Gebruiker th}} — native
+
+[wysig] ti - ??? (Tigrignies)
+
+   Kategorie: Gebruiker ti
+     * {{Gebruiker ti-1}} — basic
+     * {{Gebruiker ti-2}} — intermediate
+     * {{Gebruiker ti-3}} — advanced
+     * {{Gebruiker ti}} — native
+
+[wysig] tk - Türkmençe (Turkmenies)
+
+   Kategorie: Gebruiker tk
+     * {{Gebruiker tk-1}} — basic
+     * {{Gebruiker tk-2}} — intermediate
+     * {{Gebruiker tk-3}} — advanced
+     * {{Gebruiker tk}} — native
+
+[wysig] tl - Tagalog (Tagalog)
+
+   Kategorie: Gebruiker tl
+     * {{Gebruiker tl-1}} — basic
+     * {{Gebruiker tl-2}} — intermediate
+     * {{Gebruiker tl-3}} — advanced
+     * {{Gebruiker tl}} — native
+
+[wysig] tlh - tlhIngan Hol (Klingon)
+
+   Kategorie: Gebruiker tlh
+     * {{Gebruiker tlh-1}} — basic
+     * {{Gebruiker tlh-2}} — intermediate
+     * {{Gebruiker tlh-3}} — advanced
+     * {{Gebruiker tlh}} — native
+
+[wysig] tn - Setswana (Tswana)
+
+   Kategorie: Gebruiker tn
+     * {{Gebruiker tn-1}} — basic
+     * {{Gebruiker tn-2}} — intermediate
+     * {{Gebruiker tn-3}} — advanced
+     * {{Gebruiker tn}} — native
+
+[wysig] to - Faka Tonga (Tongaans)
+
+   Kategorie: Gebruiker to
+     * {{Gebruiker to-1}} — basic
+     * {{Gebruiker to-2}} — intermediate
+     * {{Gebruiker to-3}} — advanced
+     * {{Gebruiker to}} — native
+
+[wysig] tokipona - toki pona (Tokipona)
+
+   Kategorie: Gebruiker tokipona
+     * {{Gebruiker tokipona-0}} — ineffective
+     * {{Gebruiker tokipona-1}} — basic
+     * {{Gebruiker tokipona-2}} — intermediate
+     * {{Gebruiker tokipona-3}} — advanced
+     * {{Gebruiker tokipona-4}} — near native
+     * {{Gebruiker tokipona}} — native
+
+[wysig] tpi - Tok Pisin (Tok Pisin)
+
+   Kategorie: Gebruiker tpi
+     * {{Gebruiker tpi-0}} — ineffective
+     * {{Gebruiker tpi-1}} — basic
+     * {{Gebruiker tpi-2}} — intermediate
+     * {{Gebruiker tpi-3}} — advanced
+     * {{Gebruiker tpi-4}} — near native
+     * {{Gebruiker tpi}} — native
+
+[wysig] tr - Türkçe (Turks)
+
+   Kategorie: Gebruiker tr
+     * {{Gebruiker tr-1}} — basic
+     * {{Gebruiker tr-2}} — intermediate
+     * {{Gebruiker tr-3}} — advanced
+     * {{Gebruiker tr}} — native
+
+[wysig] ts - Xitsonga (Tsonga)
+
+   Kategorie: Gebruiker ts
+     * {{Gebruiker ts-1}} — basic
+     * {{Gebruiker ts-2}} — intermediate
+     * {{Gebruiker ts-3}} — advanced
+     * {{Gebruiker ts}} — native
+
+[wysig] tt - Tatarça (Tatar)
+
+   Kategorie: Gebruiker tt
+     * {{Gebruiker tt-1}} — basic
+     * {{Gebruiker tt-2}} — intermediate
+     * {{Gebruiker tt-3}} — advanced
+     * {{Gebruiker tt}} — native
+
+[wysig] tum - chiTumbuka (Toemboeka)
+
+   Kategorie: Gebruiker tum
+     * {{Gebruiker tum-1}} — basic
+     * {{Gebruiker tum-2}} — intermediate
+     * {{Gebruiker tum-3}} — advanced
+     * {{Gebruiker tum}} — native
+
+[wysig] tw - Twi (Twi)
+
+   Kategorie: Gebruiker tw
+     * {{Gebruiker tw-1}} — basic
+     * {{Gebruiker tw-2}} — intermediate
+     * {{Gebruiker tw-3}} — advanced
+     * {{Gebruiker tw}} — native
+
+[wysig] ty - Reo Mā`ohi (Tahities)
+
+   Kategorie: Gebruiker ty
+     * {{Gebruiker ty-1}} — basic
+     * {{Gebruiker ty-2}} — intermediate
+     * {{Gebruiker ty-3}} — advanced
+     * {{Gebruiker ty}} — native
+
+[wysig] ug - Uyghur (Uyghur)
+
+   Kategorie: Gebruiker ug
+     * {{Gebruiker ug-1}} — basic
+     * {{Gebruiker ug-2}} — intermediate
+     * {{Gebruiker ug-3}} — advanced
+     * {{Gebruiker ug}} — native
+
+[wysig] uk - Українська (Oekraïens)
+
+   Kategorie: Gebruiker uk
+     * {{Gebruiker uk-1}} — basic
+     * {{Gebruiker uk-2}} — intermediate
+     * {{Gebruiker uk-3}} — advanced
+     * {{Gebruiker uk}} — native
+
+[wysig] ur - اردو (Oerdoe)
+
+   Kategorie: Gebruiker ur
+     * {{Gebruiker ur-1}} — basic
+     * {{Gebruiker ur-2}} — intermediate
+     * {{Gebruiker ur-3}} — advanced
+     * {{Gebruiker ur}} — native
+
+[wysig] uz - Ўзбек (Oesbekies)
+
+   Kategorie: Gebruiker uz
+     * {{Gebruiker uz-1}} — basic
+     * {{Gebruiker uz-2}} — intermediate
+     * {{Gebruiker uz-3}} — advanced
+     * {{Gebruiker uz}} — native
+
+[wysig] ve - Venda (Venda)
+
+   Kategorie: Gebruiker ve
+     * {{Gebruiker ve-1}} — basic
+     * {{Gebruiker ve-2}} — intermediate
+     * {{Gebruiker ve-3}} — advanced
+     * {{Gebruiker ve}} — native
+
+[wysig] vi - Tiếng Việt (Viëtnamees)
+
+   Kategorie: Gebruiker vi
+     * {{Gebruiker vi-1}} — basic
+     * {{Gebruiker vi-2}} — intermediate
+     * {{Gebruiker vi-3}} — advanced
+     * {{Gebruiker vi}} — native
+
+[wysig] vls - West-Vlams (Wesvlaams)
+
+   Kategorie: Gebruiker vls
+     * {{Gebruiker vls-1}} — basic
+     * {{Gebruiker vls-2}} — intermediate
+     * {{Gebruiker vls-3}} — advanced
+     * {{Gebruiker vls}} — native
+
+[wysig] vo - Volapük (Volapoek)
+
+   Kategorie: Gebruiker vo
+     * {{Gebruiker vo-1}} — basic
+     * {{Gebruiker vo-2}} — intermediate
+     * {{Gebruiker vo-3}} — advanced
+     * {{Gebruiker vo}} — native
+
+[wysig] wa - Walon (Waals)
+
+   Kategorie: Gebruiker wa
+     * {{Gebruiker wa-1}} — basic
+     * {{Gebruiker wa-2}} — intermediate
+     * {{Gebruiker wa-3}} — advanced
+     * {{Gebruiker wa}} — native
+
+[wysig] wo - Wolof (Wollof)
+
+   Kategorie: Gebruiker wo
+     * {{Gebruiker wo-1}} — basic
+     * {{Gebruiker wo-2}} — intermediate
+     * {{Gebruiker wo-3}} — advanced
+     * {{Gebruiker wo}} — native
+
+[wysig] xh - isiXhosa (Khosa)
+
+   Kategorie: Gebruiker xh
+     * {{Gebruiker xh-1}} — basic
+     * {{Gebruiker xh-2}} — intermediate
+     * {{Gebruiker xh-3}} — advanced
+     * {{Gebruiker xh}} — native
+
+[wysig] yi - ייִדיש (Jiddies)
+
+   Kategorie: Gebruiker yi
+     * {{Gebruiker yi-1}} — basic
+     * {{Gebruiker yi-2}} — intermediate
+     * {{Gebruiker yi-3}} — advanced
+     * {{Gebruiker yi}} — native
+
+[wysig] yo - Yorùbá (Joruba)
+
+   Kategorie: Gebruiker yo
+     * {{Gebruiker yo-1}} — basic
+     * {{Gebruiker yo-2}} — intermediate
+     * {{Gebruiker yo-3}} — advanced
+     * {{Gebruiker yo}} — native
+
+[wysig] za - Cuengh (Tsjoeang)
+
+   Kategorie: Gebruiker za
+     * {{Gebruiker za-1}} — basic
+     * {{Gebruiker za-2}} — intermediate
+     * {{Gebruiker za-3}} — advanced
+     * {{Gebruiker za}} — native
+
+[wysig] zea - Zeêuws (Zeeuws)
+
+   Kategorie: Gebruiker zea
+     * {{Gebruiker zea-1}} — basic
+     * {{Gebruiker zea-2}} — intermediate
+     * {{Gebruiker zea-3}} — advanced
+     * {{Gebruiker zea}} — native
+
+[wysig] zh - 中文 (Sjinees, generies)
+
+   Kategorie: Gebruiker zh
+     * {{Gebruiker zh-1}} — basic
+     * {{Gebruiker zh-2}} — intermediate
+     * {{Gebruiker zh-3}} — advanced
+     * {{Gebruiker zh}} — native
+
+[wysig] zh-min-nan - Bân-lâm-gú (Min Nan Sjinees)
+
+   Kategorie: Gebruiker zh-min-nan
+     * {{Gebruiker zh-min-nan-1}} — basic
+     * {{Gebruiker zh-min-nan-2}} — intermediate
+     * {{Gebruiker zh-min-nan-3}} — advanced
+     * {{Gebruiker zh-min-nan}} — native
+
+[wysig] zu - isiZulu (Zoeloe)
+
+   Kategorie: Gebruiker zu
+     * {{Gebruiker zu-1}} — basic
+     * {{Gebruiker zu-2}} — intermediate
+     * {{Gebruiker zu-3}} — advanced
+     * {{Gebruiker zu}} — native
+

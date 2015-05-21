@@ -1,0 +1,177 @@
+Klokversnelling
+
+
+   AMD Athlon XP BIOS-opstelling op 'n ABIT NF7-S om die rekenaar te se
+   klok te versnel. Voorkantbusfrekwensie (Eksterne klok) is verhoog na
+   133 MHz na 148 MHz en die klokvermenigvuldigingsfaktor is verhoog vanaf
+   13.5 na 16.5
+   AMD Athlon XP BIOS-opstelling op 'n ABIT NF7-S om die rekenaar te se
+   klok te versnel. Voorkantbusfrekwensie (Eksterne klok) is verhoog na
+   133 MHz na 148 MHz en die klokvermenigvuldigingsfaktor is verhoog vanaf
+   13.5 na 16.5
+
+   Klokversnelling is die proses waar 'n rekenaarkomponent gedwing word om
+   teen 'n hoër kloksnelheid te werk as waarvoor dit deur die vervaardiger
+   ontwerp of aanbeveel word. Dit word gewoonlik gedoen deur
+   rekenaargeesdriftiges om die werkverrigting van hulle rekenaars te
+   verhoog. Sommige van dié mense koop goedkoper rekenaars en verhoog die
+   kloksnelhed om hoër snelhede te verkry of koop duur komponente en
+   versnel dan die klok om selfs beter werkverrigting te verkry as wat die
+   komponente gewoonlik toe in staat is. Ander mense gebruik
+   klokversnelling van komponente om te verseker dat hulle ouer stelsels
+   steeds aan stelselvereistes voldoen eerder as om nuwe hardeware aan te
+   skaf soos voorgeskryf deur sagteware handelaars.^[1]
+
+   Gebruikers wat hulle komponente se kloksnelheid verhoog, fokus
+   gewoonlik hulle aandag op die Sentrale verwerkingseenheid, videokaarte,
+   die moederbord se geïntegreerde stroombane en RAM. Dit word gedoen deur
+   die SVE-klokvermenigvuldiger te manipuleer en die moederbord se
+   voorkantbus totdat 'n maksimum stabiele bedryfsfrekwensie bereik word.
+   Die idee is eenvoudig, maar die variasies in die elektriese en fisiese
+   eienskappe van rekenaarstelsels maak die proses ingewikkelder.
+   SVE-vermenigvuldigers, busverdelers, elektriese potensiaalverskille,
+   termiese ladings,verkoelingstegnieke en verskeie ander faktore kan dit
+   beïnvloed.^[2]
+
+   Inhoud
+
+        * 1 Oorwegings
+             + 1.1 Verkoeling
+             + 1.2 Stabiliteit en funksionele korrektheid
+             + 1.3 Faktore wat klokversnelling moontlik maak
+        * 2 Verwysings
+
+[wysig] Oorwegings
+
+   Daar is verskeie kwessies wat oorweeg moet word wanneer daar oorweeg
+   word om die kloksnelhede te verhoog. Die eerste oorweging is om te
+   verseker dat daar voldoende krag is om teen die nuwe spoed te bedryf.
+   Omdat fyn toleransies vereis word vir verhoogde kloksnelhede sal slegs
+   baie duur moederborde met ingeboude klokverstellings, wat
+   rekenaarentoesiaste sal gebruik, toegerus wees. Moederborde met minder
+   verstellings soos wat tipies op oorspronklike vervaardigerstelsels
+   ingebou word, beskik gewoonlik nie oor sulke verstellingsmoontlikhede
+   nie om die moontlikheid van verkeerde verstellings te vermy en die
+   gevolglike ondersteunings- en waarborgkostes van die vervaardiger te
+   vermy.
+
+[wysig] Verkoeling
+
+   Hoë kwaliteit koelplate word dikwels uit koper vervaardig (Zalman
+   verkoeler in beeld).
+   Hoë kwaliteit koelplate word dikwels uit koper vervaardig (Zalman
+   verkoeler in beeld).
+
+   Alle elektroniese stroombane wek hitte op as gevolg van die beweging
+   van elektrone. Soos die klokfrekwensies in digitale stroombane verhoog
+   word, sal die hitte wat opgewek word deur komponente ook verhoog.
+   Vanweë die verhoogde warmte-opwekking deur komponente met verhoogde
+   kloksnelhede, word 'n doeltreffende verkoelingstelsel benodig om te
+   verhoed dat die hardeware beskadig word.
+
+   Verder is digitale stroombane geneig om stadiger te werk by hoë
+   temperature as gevolg van veranderinge in die eienskappe van
+   MOSFET-toestelle. Omdat die meeste standaard verkoelingstelsels ontwerp
+   word vir die hoeveelheid warmte wat opgewek word met die klok in
+   onversnelde toestand, moet daar tipies van meer doeltreffende
+   verkoelingstelsels gebruik gemaak word, soos kragtige waaiers of groter
+   koelplate. Grootte, vorm en materiaal beïnvloed almal die vermoë van 'n
+   koelplaat om warmte te verwyder. Doeltreffende koelplate word dikwels
+   geheel en al uit termies geleidende koper vervaardig, maar hulle is
+   gewoonlik baie duur.^[3]
+
+   Aluminium word meer dikwels vir koelplate gebruik aangesien dit
+   goedkoper is as koper. Gietyster is die goedkoopste maar het 'n baie
+   lae termiese geleidingsvermoë.
+
+   Waterverkoeling wat ooreenkomste toon met 'n motor se
+   enjinverkoelingstelsel is meer doeltreffend as koelplaat en
+   waaierkombinasies as dit reg geïnstalleer word.
+
+   Termo-elektriese verkoelingstoestelle wat ook bekend staan as
+   Peltier-toestelle het onlangs baie gewild geword vir gebruik met
+   verwerkers wat baie warmte vrystel. Termo-elektriese
+   verkoelingstoestelle skep temperatuurverskille tussen twee plate deur
+   'n elektriese stroom deur die plate te laat vloei. Die metode is baie
+   doeltreffend op die punt waar verkoeling benodig word maar het die
+   probleem dat daar meer afvalhitte opgewek word wat uit die rekenaarkas
+   verwyder moet word. Om hierdie rede is dit dikwels nodig om
+   termo-elektriese verkoelingstoestelle met konveksie gebaseerde
+   koelplate of waterverkoelingstelsels aan te vul.
+   Vloeibare stikstof kan ook gebruik word om 'n klokversnelde stelsel af
+   te koel as uiterste maatreëls nodig is.
+   Vloeibare stikstof kan ook gebruik word om 'n klokversnelde stelsel af
+   te koel as uiterste maatreëls nodig is.
+
+   Ander verkoelingsmetodes wat gebruik kan word is meganiese konveksie-
+   en faseveranderingstelsels (soos wat in yskaste gebruik word).
+   Vloeibare stikstof, -helium en ook droë ys kan gebruik word as
+   verkoelingsmiddels in uiterste gevalle,^[4] soos wanneer pogings
+   opgestel word om rekords op te stel of wanneer daar geëksperimenteer
+   word, maar is nie prakties vir daaglikse gebruik nie aangesien die
+   houers hervul moet word soos die verkoelingsmiddel verdamp en verder
+   vorm kondensasie op rekenaarkomponente wat kan lei tot
+   kortsluitings.^[4] Teen temperature laer as -173 °C sal
+   silikongebaseerde spervlak veld-effek transistors (JFET) se werking
+   vertraag word en teen - 233 °C sal die toestelle geheel en al ophou
+   funksioneer.^[5]
+
+   Verkoeling kan ook bewerkstellig word deur die rekenaarkomponente direk
+   in 'n verkoelde vloeistof te plaas soos in die geval van die Cray-2
+   superrekenaar. So 'n vloeistof moet 'n voldoende lae elektriese
+   geleidingsvermoë hê en termiese geleidend wees. Die voordeel van
+   hierdie tegniek is dat geen kondensasie op komponente kan vorm nie.^[6]
+
+[wysig] Stabiliteit en funksionele korrektheid
+
+   Aangesien 'n klokversnelde komponent buite die vervaardiger se
+   aanbevole bedryfstoestande werk, mag dit moontlik foutiewelik
+   funksioneer en lei tot onstabiliteite in die stelsel. Ander risikos wat
+   hiermee verband hou is dat die data korrup kan word en nie onmiddelik
+   opgespoor word nie. Daar bestaan verskeie sagtewarehulpmiddele om te
+   help met die opspoor van foute en stabiliteit. Dit bly egter moeilik om
+   vas te stel of die komponente foutloos onder alle omstandighede sal
+   werk in die versnelde toestand. Gewoonlik word komponente aan
+   strestoetse onderwerp om vas te stel of die werking van die komponent
+   onder versnelde toestande bevredigend is.
+
+[wysig] Faktore wat klokversnelling moontlik maak
+
+   Die vermoë om klokversnelling toe te pas volg gedeeltelik uit die
+   ekonomie van die vervaardigingsproses van SVE's. In die meeste gevalle
+   sal SVE's met verskillende aangeslane kloksnelhede in presies dieselfde
+   vervaardigingsproses gemaak word. Die klokspoed waarvoor die SVE
+   aangeslaan word is by of onder die spoed waarvoor die SVE die
+   vervaardiger se funksionele toetse geslaag het. Vervaardigers moet ook
+   gewoonlik 'n marge laat vir waarborgdoeleindes. Soms sal vervaardigers
+   'n oormaat hoë werkverrigting SVE's teen laer pryse en ander
+   handelsname verkoop om van die produkte ontslae te raak sonder om die
+   vlagskip produkte se beeld aan te tas.
+
+   Soms kan dit voorkom asof daar 'n oortollige marge bestaan wat in
+   werklikheid noodsaaklik is vir die verwerker om korrek te werk tydens
+   sy leeftyd. Halfgeleiertoestelle kan verouder en daar bestaan verskeie
+   faktore wat die stroombaan se werkverrigting kan verswak.
+
+[wysig] Verwysings
+
+    1. ^ The Book of Overclocking, Scott Wainner, Robert Richmond, bladsye
+       1-2, isbn = 188641176X, No Starch Press, 2003
+    2. ^ The Book of Overclocking, Scott Wainner, Robert Richmond, bl. 29,
+       isbn = 188641176X, No Starch Press, 2003
+    3. ^ The Book of Overclocking, Scott Wainner, Robert Richmond, bl. 38,
+       isbn = 188641176X, No Starch Press, 2003
+    4. ^ ^4,0 ^4,1 The Book of Overclocking, Scott Wainner, Robert
+       Richmond, bl. 44, isbn = 188641176X, No Starch Press, 2003
+    5. ^ {Extreme-Temperature Electronics: Tutorial - Part 3,
+       http://www.extremetemperatureelectronics.com/tutorial3.html, 2003,
+       2007-11-04
+    6. ^ 'n Goeie vloeistof vir onderdompeling is Fluorinert wat deur 3M
+       vervaardig word, wat duur is en ook permitte vereis om aan te koop.
+       'n Ander opsie is om minerale olie te gebruik maar enige
+       onsuiwerhede soos water of reukweerders kan veroorsaak dat dit
+       elektrisiteit gelei. - The Book of Overclocking, Scott Wainner,
+       Robert Richmond, bl. 48, isbn = 188641176X, No Starch Press, 2003
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,35 @@
+Hiposikloïed
+
+
+   In meetkunde, is 'n hiposikloïed 'n spesiale vlakkromme, 'n roulette,
+   afgetrek deur 'n punt op 'n sirkel wat binne 'n groter sirkel rol. Dit
+   is vergelykbaar met 'n sikloïed maar in plaas daarvan dat dit langs 'n
+   lyn rol, rol dit binne 'n sirkel.
+
+   Die verhouding van die radius van die groter sirkel tot die radius van
+   die kleiner sirkel bepaal die aantal punte van die kurwe. Byvoorbeeld
+   as die verhouding 3:1 is, sal die kurwe drie punte hê en sal dit 'n
+   deltoïed wees.
+
+   Sulke kurwes kan met die Spirograph speelgoed geteken word.
+
+   'n Hiposikloïed met n + 1 punte kan gedefineer word deur die volgende
+   paar parametriese vergelykings:
+
+          x(\theta) = \cos \theta + {1 \over n} \cos n \theta,
+          y(\theta) = \sin \theta - {1 \over n} \sin n \theta.
+
+   Die hiposikloïed is 'n spesiale soort Hipotrogoïed.
+
+   'n Hiposikloïed en sy evoluut is soortgelyk.[1]
+
+   'n Hiposikloïedkurwe met vier punte staan bekend as 'n astroïed.
+
+   Die Pittsburgh Steelers se kenteken sluit drie astroïedes
+   (hiposikloïedes met vier punte) in. In sy weeklikse NFL.com rubriek
+   Tuesday Morning Quarterback, verwys Gregg Easterbrook gereeld na die
+   Steelers as die Hiposikloïedes.
+
+   Kyk ook: sikloïed, episikloïed.
+   Kategorie: Krommes
+

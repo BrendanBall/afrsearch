@@ -1,0 +1,119 @@
+Fedora
+
+
+   Fedora (voorheen bekend as Fedora Core) is 'n RPM-gebaseerde Linux
+   verspreiding wat deur die gemeenskapsondersteunde Fedora-projek
+   ontwikkel is en deur Red Hat geborg word. Dit beoog om 'n volledige,
+   veeldoelige bedryfstelsel te wees wat slegs vrye sagteware en oopbron
+   sagteware bevat.^[1]^[2] Fedora is 'n ontwikkeling vanaf die
+   oorspronklike Red Hat Linux-verspreiding en is bedoel om die
+   gebruikersweergawes van Red Hat Linux te vervang. Fedora word
+   ondersteun deur die breër ontwikkelaarsgemeenskap; hoewel baie van die
+   ontwikkelaars in Red Hat se diens staan verskaf Red Hat nie amptelike
+   gebruikersondersteuning vir die verspreiding nie. Nuwe weergawes van
+   Fedora word elke ses tot agt maande vrygestel.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Programmatuurversamelings
+             + 2.1 Fedora Core
+             + 2.2 Fedora Extras
+        * 3 Benaming
+        * 4 Oorsig
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Die Fedora-projek is laat in 2003 geskep toe die Red Hat hul Red Hat
+   Linux ontwikkeling gestaak het. Red Hat het aanbeveel dat hul
+   kommersiële gebruikers oorskakel na Red Hat Enterprise Linux (RHEL),
+   wat tans Red Hat se enigste amptelik ondersteunde Linux-verspreiding
+   is, terwyl Fedora voorsiening maak vir die meer informele gebruikers.
+   RHEL vertak van hulle vrystellings vanaf Fedora weergawes wat party
+   kritikuste laat beweer dat Fedora gebruikers dan in der waarheid
+   beta-toetsers is vir RHEL.
+
+   Red Hat se vrystelling van Fedora het 'n gewilde neiging onder
+   kommersiële Linux-verspreiders laat posvat waar 'n
+   gemeenskapsverspreiding geskep word met 'n noue verbintenis aan 'n
+   kommersiële verspreiding. Die gemeenskapsverspreiding dien dan as 'n
+   ope ontwikkelingslaboratorium vir die kommersiële verspreiding.
+
+[wysig] Programmatuurversamelings
+
+   Fedora het twee hoofversamelings van programmatuur; Fedora Core vir die
+   basiese pakkette en Fedora Extras vir pakkette wat nie as deel van die
+   kern versprei word nie.
+
+[wysig] Fedora Core
+
+   Die Fedora Core versameling van programmatuur bevat die basiese
+   pakkette wat benodig word om Fedora te maak werk.
+
+[wysig] Fedora Extras
+
+   Die Fedora Extras versameling is vir pakkette wat nie versprei word
+   saam met Fedora Core verspreiding nie. Pakkette uit die versameling kan
+   gewoonlik aanlyn verkry word en kan afgelaai word met yum of ander
+   pakketbestuursagteware. Fedora Extras is slegs beskikbaar vir Fedora
+   Core 3 en latere weergawes. Daar word beoog om vanaf Fedora 7, die
+   Extras versameling saam met Core in 'n enkele versameling saam te
+   smelt.
+
+[wysig] Benaming
+
+   Die naam is afkomstig vanaf Fedora Linux, 'n vrywilligersprojek wat
+   ekstra programmatuur vir die Red Hat Linux verspreiding geskep het en
+   hul naam afgelei het vanaf die engelse benaming van die kenmerkende
+   vilthoed wat op Red Hat se "Shadowman" kenteken verskyn. Fedora Linux
+   is uiteindelik deur die Fedora-projek oorgeneem.^[3] Red Hat was vir
+   lank in 'n dispuut gewikkel met die skeppers van Fedora oor die naam
+   waarop Red Hat gepoog het om handelsnaamregte te verkry het.^[4] Daar
+   word dikwels na Fedora verwys as Fedora Linux, maar dit is egter nie
+   die amptelike naam vir die verspreiding nie. Die woord "Core" onderskei
+   die hoofpakkette van Fedora van die Fedora Extras projekte, wat
+   aanvullende sagteware vir Fedora Core skep. Die verskil tussen hierdie
+   pakkette is dat Red Hat die Core versameling in stand hou en dat Extras
+   deur 'n groep vrywilligers in stand gehou word. Na Fedora Core 6 se
+   vrystelling is daar 'n besluit geneem om die twee versamelings saam te
+   smelt^[5] wat meebring dat die volgende weergawe bloot as Fedora 7
+   vrygestel gaan word.
+
+[wysig] Oorsig
+
+   Fedora word op 'n stel van vyf CD's versprei of op 'n enkele DVD; slegs
+   die eerste twee CD's word benodig vir 'n basiese installasie.
+   Netwerk-installasies oor HTTP, FTP en NFS word ook ondersteun. GNOME is
+   Fedora se standaard grafiese koppelvlak terwyl KDE ook ingesluit is op
+   die CD's en DVD's. GNU GRUB is die standaard selflaaier.
+
+   Fedora is ontwerp om maklik te installeer en op te stel, en sluit 'n
+   suite eenvoudige grafiese installasie- en opstellingshulpmiddele in.
+   Die standaard lêerstelsel is ext3 oor LVM en die pakketbestuurstelsel
+   is RPM. Fedora Extras bevat soveel as 7 000 pakkette. Daar bestaan ook
+   'n aantal nie-amptelike versamelings wat nie by Extras ingesluit is nie
+   vanweë moontlike kopiereg- of patentregkwessies.
+
+   Die bestuur van programpakkette word gehanteer deur die
+   yum-nutsprogram; grafiese koppelvlakke vir yum naamlik "pirut" en "pup"
+   word ook verskaf.
+
+[wysig] Verwysings
+
+    1. ^ Fedora Projekdoelwitte, 2007-02-12
+    2. ^ Artikel deur Fedora Projekleier Max Spevack, 2006-12-17
+    3. ^ Fedora Network Proposal, 2006-07-28
+    4. ^ Red Hat Inc.'s Use of The Fedora Name, 2006-07-28
+    5. ^ Fedora 7, 2007-01-17
+
+[wysig] Eksterne skakels
+
+     * Die Fedora-projek se Tuisblad
+     * FedoraNEWS
+     * FedoraForum.org Amptelike Fedora ondersteuningsforum sedert 4 Mei
+       2005
+
+   Kategorie: Linux verspreidings
+

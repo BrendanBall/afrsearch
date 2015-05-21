@@ -1,0 +1,35 @@
+Spanningsverdeler
+
+
+   'n Spanningsverdeler is 'n eenvoudige weerstand-netwerk om die spanning
+   vanaf 'n bron te verdeel na laer spannings.
+
+   Die eenvoudigste voorbeeld is 'n spanningsverdeler soos getoon in
+   figuur 1.
+   Figuur 1
+   Figuur 1
+
+   waar
+
+   V_{UIT}=V_{IN}( \frac {R_2} {R_1+R_2} ) \qquad \qquad \qquad (1)
+
+   Dus kan gesien word as R1 = R2 dan sal die intreespanning gehalveer
+   word na die uittreespanning.
+
+   Figuur 2 wys 'n meer komplekse verdeler.
+   Figuur 2
+   Figuur 2
+
+   waar
+
+   V_1=V_{IN}( \frac {R_2+R_3} {R_1+R_2+R_3} ) \qquad \qquad \qquad (2)
+
+   en
+
+   V_2=V_{IN}( \frac {R_3} {R_1+R_2+R_3} ) \qquad \qquad \qquad (3)
+
+   In albei gevalle word die aanname gemaak dat daar noemenswaardig min
+   stroom by die uittrees uitvloei sodat die vergelykings (1),(2) en (3)
+   bly geld.
+   Kategorie: Elektronika
+

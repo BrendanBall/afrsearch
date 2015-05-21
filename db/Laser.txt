@@ -1,0 +1,242 @@
+Laser
+
+
+   Eksperiment wat 'n (waarskynlik argon-) laser gebruik
+   Eksperiment wat 'n (waarskynlik argon-) laser gebruik
+   Lasers wissel in grootte van mikroskopies diodelasers (bo) met talle
+   toepassings, tot rugbyveld groot neodymium glas lasers (onder) wat
+   gebruik word vir inertial confinement fusion, kernwapennavorsing en
+   ander hoë energiedigtheid fisika eksperimente.
+   Lasers wissel in grootte van mikroskopies diodelasers (bo) met talle
+   toepassings, tot rugbyveld groot neodymium glas lasers (onder) wat
+   gebruik word vir inertial confinement fusion, kernwapennavorsing en
+   ander hoë energiedigtheid fisika eksperimente.
+   'n Dye laser wat by die Starfire Optical Range vir LIDAR en laser guide
+   star eksperimente gebruik word is ingestem tot die Natrium D lyn en
+   word gebruik om Natrium atome in die natriumlaag van die atmosfeer op
+   te wek.
+   'n Dye laser wat by die Starfire Optical Range vir LIDAR en laser guide
+   star eksperimente gebruik word is ingestem tot die Natrium D lyn en
+   word gebruik om Natrium atome in die natriumlaag van die atmosfeer op
+   te wek.
+
+   Laser is 'n afkorting in engels wat staan vir (light amplification by
+   stimulated emission of radiation) wat in afrikaans vertaal
+   "ligversterking deur die gestimuleerde emissie van straling" beteken.
+   'n Laser is 'n toestel wat 'n kwantummeganiese effek naamlik
+   gestimuleerde emissie, benut om 'n koherente straal lig te lewer.
+   (D.w.s. golwe is in fase en geen interferensie vind plaas nie.) Lig van
+   'n laser is dikwels parralel en monochromaties, maar dit is nie waar
+   vir alle tipe lasers nie.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Beginsel
+        * 3 Geskiedenis
+        * 4 Laserveiligheid
+        * 5 Soorte Lasers
+        * 6 Sien ook
+        * 7 Eksterne Skakels
+
+[wysig] Oorsig
+
+   Algemene ligbronne soos die elektriese gloeilamp straal fotone in alle
+   rigtings uit, gewoonlik oor 'n wye spektrum golflengtes. Die meeste
+   ligbronne is ook nie koherent nie, d.w.s. die golwe is uit fase en dus
+   vind daar interferensie tussen die golwe plaas.
+
+   In kontras straal 'n laser, fotone in 'n noue, goed gedefinieerde band
+   uit om 'n ligstraal te vorm. Die lig is dikwels baie na aan
+   monochromaties, wat uit 'n enkele golflengte of kleur bestaan, en is
+   hoogs koherent en dikwels gepolariseer.
+
+   Sommige tipe lasers, soos die kleurstoflasers en vibroniese
+   vastetoestandlasers kan lig produseer oor 'n wye reeks golflengtes; Die
+   eienskap maak hulle geskik vir die opwekking van uiters kort ligpulse
+   in die orde van 'n femtosekonde (10^-15 sekonde).
+
+   Laserlig kan ook 'n hoë intensiteit bereik; sodanig so dat dit staal en
+   ander metale kan sny. Die ligbundel wat deur 'n laser uitgestraal word
+   toon dikwels 'n baie klein mate van afwyking (d.w.s. die golwe bly
+   parallel selfs oor lang afstande). Golwe met perfekte paralelle bane
+   kan nie geskep word nie a.g.v. diffraksie, maar 'n laserstraal sal baie
+   minder versprei as lig vanaf enige ander ligbron. 'n Straal wat deur 'n
+   klein laboratorium laser opgewek word soos bv. die [[Helium-Neon
+   laser|helium-neon (HeNe) laser]] sal versprei tot 'n diameter van
+   ongeveer 1.6 kilometer indien dit vanaf die aarde tot op die die
+   oppervlak van die maan geskyn word. Sommige lasers, veral die
+   halfgeleier lasers wek strale op wat 'n baie wyer verspreiding toon,
+   hoofsaaklik a.g.v. hulle klein grootte. So 'n afwykende ligbundel kan
+   egter omskep word in 'n paralelle bundel deur gebruik te maak van 'n
+   optiese lens.
+
+   Ligbundels van nie-laser bronne kan egter nie op dié manier in 'n
+   paralelle bundel omskep word nie.
+
+   'n Laser kan ook funksioneer as 'n optiese versterker wanneer dit met
+   lig van 'n ander bron bestraal word. Die versterkte sein kan baie
+   soortgelyk wees aan die invoersein in terme van golflengte, fase en
+   polarisasie; die verskynsel het baie toepassings in optiese
+   kommunikasie.
+
+   Die uitset van 'n laser mag kontinu wees, 'n konstante amplitude hê, of
+   kan polsend wees.
+
+[wysig] Beginsel
+
+   Die laser berus op die eienskap waar opgewekte elektrone van 'n atoom
+   wat in 'n baan wentel met 'n hoër energie as normaal, terugval na 'n
+   laer baan en dan 'n foton in die proses uitstraal. Indien die foton 'n
+   ander atoom tref in dieselfde opgewekte toestand, sal die elektron in
+   die atoom ook terugval na die laer energietoestand en ook 'n foton
+   uitstraal wat in pas is (in fase is) met die eerste foton ensovoorts.
+   Indien dit 'n atoom tref met die elektron reeds in die laer baan, kan
+   die foton geabsorbeer word en die elektron opwek na die hoër baan en
+   dus hoër energietoestand. 'n Mens kan dus 'n versameling atome hê
+   waarin die meerderheid elektrone in die hoër energietoestand verkeer,
+   wat dit dan moontlik maak om die elektrone gelyktydig te laat terugval
+   na die grondtoestand met die gepaardgaande uitstraling van 'n sterk
+   ligpuls. Die fotone wat so opgewek word, is dan in fase en die
+   golflengte, wat ooreenstem met die energieverskil tussen die
+   elektronbane, is dieselfde (d.w.s monochromaties).
+
+   Die laserstraal word dus opgewek deur die lig heen en weer te laat
+   weerkaats in die laser medium met behulp van parralelle spieëls. Die
+   atome van die medium word dan almal na die hoër energietoestand opgewek
+   deur die toevoeging van eksterne energie by wyse van bestraling met 'n
+   ander kleur lig, elektriese stroom of deur middel van 'n chemiese
+   reaksie. Die resultaat is 'n versterkte ligbundel wat uit die
+   resonansie kamer onstsnap deurdat een van die spieëls deels
+   deurlaatbaar gemaak word. Die teorie van kwantummeganika kan toegepas
+   word op die laserverskynsel, alhoewel die meeste lasertipes eerder met
+   'n tref-en-trapmetodiek ontwikkel is.
+
+[wysig] Geskiedenis
+
+   Die eerste werkende laser is deur Theodore H. Maiman in 1960 by die
+   Hughes Research Laboratories in Malibu, Kalifornië gemaak.
+
+   Maiman het 'n robynkristal met flitslamp as energiebron gebruik om 'n
+   rooi laserlig teen 'n golflengte van 694 nanometer op te wek.
+
+[wysig] Laserveiligheid
+
+   Selfs lae sterkte lasers kan gevaarlik wees vir 'n mens se sig. Die
+   paralelle karakter en lae ligverspreiding beten dat dit deur die oog
+   tot 'n baie klein kolletjie op die retina gefokus kan word, wat lokale
+   verbranding en permanente skade binne sekondes tot gevolg kan hê.
+
+   Laserlig teen sekere golflengtes kan katarakte veroorsaak en selfs
+   veroorsaak dat die vloeistof in die oogbal begin kook. Infrarooi- en
+   ultravioletlasers is veral gevaarlik aangesien die liggaam se
+   "kniprefleks", wat die oog kan beskerm teen ongewone helder lig slegs
+   werk wanneer die lig sigbaar is. Klassifikasie vir
+   veiligheidsdoeleindes van lasers geskied volgens die golflengte en die
+   maksimum uitset-energie as volg:
+     * Klas I: inherent veilig; geen moontlikheid vir oogskade nie. Dit
+       kan wees a.g.v. 'n baie lae kraguitset (in welke geval oogskade
+       selfs na ure se blootstelling nie moontlik is nie), of as gevolg
+       van 'n omhulsel wat nie tydens normale bedryf oopgemaak kan word
+       sonder dat die laser automaties afskakel nie (soos tipies die geval
+       is met Kompak skywe/laserskywe).
+
+     * Klas II: Die kniprefleks van die menslike oog behoort oogskade te
+       verhoed. Die meeste laserbordwysers val in die kategorie, met
+       uistetenergieë laer as 1 tot 5 milliwatt.
+
+     * Klas IIIb: Kan oogskade veroorsaak as die bundel die oog direk
+       binnegaan of as die bundel direk in die oog in gereflekteer word.
+       Dit is algemeen van toepassing op lasers met uitsetenergieë van 5
+       milliwatt tot etlike honderde milliwatt.
+
+     * Klas IIIa: Soortgelyk ana klas IIIb, maar van toepassing op groot
+       bundeldiameters, sodanig so dat die pupil slegs 'klas-II'
+       hoeveelhede lig sal deurlaat. Lasers in dié klas is hoofsaaklik
+       gevaarlik in kombinasie met optiese instrumente wat die
+       bundeldiameter kan verander.
+
+     * Klas IV: Hoogs gevaarlik; selfs nie-direkte verspreiding van die
+       lig van die bundel kan lei tot oog- of velskade. Dit is hoofsaaklik
+       van toepassing op lasers met energieuitset van meer as 'n paar
+       milliwatt. Lasers in hierdie klas se energie uitset is gewoonlik in
+       die orde van etlike honderde milliwatt of selfs meer.
+
+   Die krag van die lasers hierbo genoem is slegs rowwe indikasies; die
+   klassifikasie is ook afhanklik van die golflengte en of die laser 'n
+   polsende of kontinue uitset het. Die gebruik van oogbeskerming wanneer
+   lasers in klas IIIb en IV gebruik word, word sterk aanbeveel en word
+   vereis deur die OSHA.
+
+[wysig] Soorte Lasers
+
+   'n Laserharp.
+   'n Laserharp.
+   Lasers word gebruik vir visuele effekte tydens 'n musiekopvoering. ('n
+   Laserligvertoning.)
+   Lasers word gebruik vir visuele effekte tydens 'n musiekopvoering. ('n
+   Laserligvertoning.)
+     * Gaslaser
+          + HeNe (543 nm and 633 nm)
+          + Argon(-Ioon) (458 nm, 488 nm or 514.5 nm)
+          + Koolstofdioksiedlasers - word industrieël gebruik vir sny en
+            sweis doeleindes, met energie uitset van tot 100 kW.
+          + Koolstofmonoksiedlasers - moet verkoel word, en is
+            buitengewoon kragtig, met uitsette van so hoog as 500 kW.
+     * Excimer gaslasers, produseer ultraviolet lig, word gebruik in
+       halfgeleiervervaardiging en vir LASIK oogsnykunde;
+          + 157 nm (F_2)
+          + 193 nm (ArF)
+          + 222 nm (KrCl)
+          + 248 nm (KrF)
+          + 308 nm (XeCl)
+          + 351 nm (XeF)
+     * Algemeen gebruikte lasertipes vir dermatologiese toepassings
+       insluitende verwydering van tattoeërmerke, geboorte merke, en vir
+       hare:
+          + Robyn (694 nm)
+          + Alexandriet (755 nm)
+          + Polsende diodematriks (810 nm)
+          + Nd:YAG (1064 nm)
+          + Ho:YAG (2090 nm)
+          + Er:YAG (2940 nm)
+     * Halfgeleier-laserdiodes,
+          + klein: gebruik vir laserbordwysers, laserdrukkers, en
+            CD/DVD-spelers;
+          + groter: groter industriële diodelasers is beskikbaar vir
+            industriële sny- en sweiswerk, met energie uitset tot so hoog
+            as 10 kW.
+     * Kleurstoflasers
+     * Kwantum kaskade lasers
+     * Neodium-gedoopte YAG lasers (Nd:YAG), 'n hoë sterkte infrarooilaser
+       wat gebruik word vir sny, sweis en merk van metale en ander
+       materiale.
+     * Erbium-gedoopte YAG, 1645 nm
+     * Thulium-gedoopte YAG, 2015 nm
+     * Holmium-gedoopte YAG, 2090 nm, 'n hoë sterkte infrarooilaser, dit
+       word plofbaar geabsorbeer deur waterbevattende weefsels in seksies
+       minder as 'n millimeter dik. Dit word gewoonlik in polserende modus
+       gebruik in optiese vesel snykundige apparate om gewrigte se
+       oppervlaktes te herstel, om verrotting van tande te verwyder, om
+       kankerweefsel te verdamp en om nier- en galstene te vernietig.
+     * Titaan-gedoopte saffier (Ti:saffier) lasers, 'n hoogs verstelbare
+       infrarooilaser wat in spektroskopie gebruik word;
+     * Erbium-gedoopte vesellasers, 'n tipe laser wat gevorm word vanuit
+       pasgemaakte optiese vesel, wat gebruik word as 'n versterker in
+       optiese kommunikasietoerusting.
+
+[wysig] Sien ook
+
+     * Laseraanwendings, Laserkonstruksie, Laserwetenskap, Lys van lasers,
+       aktiewe lasermedium, Ringlasergiroskoop
+
+[wysig] Eksterne Skakels
+
+     * Sam's Laser FAQ
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+
+   Kategorieë: Kwantummeganika • Lasers
+

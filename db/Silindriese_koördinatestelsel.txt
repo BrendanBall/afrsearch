@@ -1,0 +1,61 @@
+Silindriese koördinatestelsel
+
+
+   'n Punt afgestip met silindriese koördinate
+   'n Punt afgestip met silindriese koördinate
+
+   Die silindriese koördinatestelsel is 'n koördinatestelsel wat die
+   tweedimensionele poolkoördinatestelsel uitbrei na drie dimensies deur
+   'n derde koördinaat by te voeg wat die hoogte van enige punt bo die
+   vlak aandui, soortgelyk aan die manier waarop die Cartesiese
+   koördinatestelsel na drie dimensies uitgebrei word.
+
+   Die notasie vir die koördinatestelsel is nie eenvormig nie. Die
+   Standaard ISO 31-11 vestig dit egter as (\rho,\varphi,z) . Nogtans word
+   die asimut \varphi baie keer as θ uigedruk. Verder word die radiale
+   koördinaat ook r geneoem terwyl die vertikale koördinaat soms deur h
+   uigedruk.
+   Die koördinateoppervlaktes van die silindriese koördinate (ρ, φ, z).
+   Die rooi silinder vertoon die punte met ρ=2, die blou vlak die punte
+   met z=1, en die geel halwe-vlak vertoon die punte met φ=-60°. Die z-as
+   is vertikaal en die x-as is in groen gemerk. Die drie oppervlaktes sny
+   by die punt P (wat met 'n swart bal aangetoon word) met die Cartesiese
+   koördinate van P wat rofweg (1,0; -1,732; 1,0) is.
+   Die koördinateoppervlaktes van die silindriese koördinate (ρ, φ, z).
+   Die rooi silinder vertoon die punte met ρ=2, die blou vlak die punte
+   met z=1, en die geel halwe-vlak vertoon die punte met φ=-60°. Die z-as
+   is vertikaal en die x-as is in groen gemerk. Die drie oppervlaktes sny
+   by die punt P (wat met 'n swart bal aangetoon word) met die Cartesiese
+   koördinate van P wat rofweg (1,0; -1,732; 1,0) is.
+
+   'n Punt P word aangegee as (\rho, \varphi, z) . In terme van die
+   Cartesiese koördinatestelsel:
+     * ρ is die afstand van O na P', die ortogonale afbeelding van die
+       punt P op die XY-vlak. Dit is dieselfde as die afstand van P na die
+       z-as.
+     * \varphi is die hoek tussen die positiewe x-as en die lyn OP',
+       antikloksgewys gemeet.
+     * z is dieselfde as die Cartesiese koördinaat z.
+
+   Die omskakeling van die funksie f van silindriese koördinate na
+   Cartesiese koördinate is dus
+   f(x,y,z)=(\rho\cos\varphi,\rho\sin\varphi,z)\, . Die omskakleing van
+   funksie f van Cartesiese koördinate na silindriese koördinate is
+   f(\rho,\varphi,z)=(\sqrt{x^{2}+y^{2}},\operatorname{atan2}(y,x),z)\, .
+
+   Let daarop dat atan2() funksie wat hierbo gebruik word nie standaard is
+   nie: Dit lewer 'n waarde tussen 0 en 2π in plaas van tussen -π en π wat
+   die standaard atan2() funksie gee.
+
+   Silindriese koördinate is nuttig vir die analise van oppervlaktes wat
+   simmetries is om 'n as, met die z-as wat gekies word as die
+   simmetrieas. Die oneindig lange sirkulêre silinder met die Cartesiese
+   vergelyking \ x^2+y^2=c^2 het die baie eenvoudige vergelyking \ \rho =
+   c in silindriese koördinate. Daarvandaan die naam "silindriese"
+   koördinate.
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorie: Wiskunde saadjies
+

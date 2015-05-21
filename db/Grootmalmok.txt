@@ -1,0 +1,72 @@
+Grootmalmok
+
+
+                     Grootmalmok
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Procellariiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Diomedeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Diomedea
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     D. exulans
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Diomedea exulans
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die grootmalmok (Diomedea exulans), ook genoem die grootalbatros, is 'n
+   baie groot wit seevoël met 'n groot blekerige, pienk bek. Dit het ook
+   swart punte op sy vlerke. Dit vlieg baie swewend, sonder om vlerke veel
+   te klap. Die spesie broei op eilande in die subantartiek. Die
+   grootmalmok is 'n nie-teelende besoeker aan ope Suid-Afrikaanse diepsee
+   waters veral in wintertyd, strek van Namibie se waters tot Mosambiekse
+   waters.
+
+[wysig] Bronnelys
+
+     * IUCN 2006. 2006 IUCN Red List of Threatened Species.
+       <www.iucnredlist.org>. Besoek op 16 Julie 2007.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Albatrosse
+

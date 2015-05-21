@@ -1,0 +1,32 @@
+Grafeem
+
+
+   'n Grafeem of skryfteken dui die atomiese eenheid in 'n geskrewe taal
+   aan. Grafeme sluit letters, sjinese ideogramme, syfers, leestekens en
+   ander simbole in.
+
+   In 'n fonologiese ortografie stem 'n grafeem ooreen met een foneem. In
+   spelstelsels wat nie-foneties is; sulke spelstelsels word mees algemeen
+   gebruik vir geskrewe Engels — kan veelvuldige grafeme 'n enkele foneem
+   voorstel. Dit word digrawe (twee grafeme vir 'n enkele foneem) en
+   trigrawe (drie grafeme) genoem. Selfs in Afrikaans wat meer foneties is
+   as Engels, bevat die woord Sjina byvoorbeeld vyf grafeme (s, j, i, n en
+   a) maar slegs vier foneme, omdat sj is 'n digraaf is. 'n Voorbeeld van
+   'n trigraaf is die tsj in Tsjaad.
+
+   Verskillende gliewe kan dieselfde grafeem verteenwoordig, wat beteken
+   dat hulle allograwe is. Byvoorbeeld die kleinletter a kom in twee
+   variante voor, met 'n hak aan die bokant, en daarsonder. Nie alle
+   gliewe is grafeme nie; byvoorbeeld die logogram ampersand (&)
+   verteenwoordige die Latynse woord et (Afrikaans: en), wat twee foneme
+   bevat.
+
+[wysig] Kyk ook
+
+     * Digraaf (ortografie)
+     * Trigraaf (ortografie)
+     * Allograaf (ortografie)
+     * Tilde
+
+   Kategorieë: Lingustiek • Ortografie
+

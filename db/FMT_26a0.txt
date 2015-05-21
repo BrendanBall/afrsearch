@@ -1,0 +1,48 @@
+FMT
+
+
+   Hierdie artikel moet skoongemaak of andersins verbeter word.
+
+   Hierdie artikel voldoen nie tans aan die hoë standaarde van kwaliteit
+   waarna Wikipedia streef nie. Voel vry om self in te spring en
+   verbeterings te maak, en verwyder hierdie kennisgewing ná die tyd. Vir
+   meer hulp, sien die redigeringshulp. Daar is moontlik kommentaar in die
+   artikel of op die besprekingsblad wat verbeter moet word.
+
+   FMT (Engels: Fluorecent Multilayer Technology, Afrikaans:
+   Fluoreseerende Multilaag Tegnologie)
+
+[wysig] Werkingsbeginsel
+
+   Die induikings of holtes (engels: pits) in 'n FMD is gevul met
+   fluoreseer materiaal. Indien koherente lig vanaf die laser op die
+   induiking (engels: pit) val gloei die materiaal en gee 'n inkoherente
+   lig (met'n ander kleur), of 'n ander golflengte, af. FMDs is kleurloos,
+   die laserlig gebruik, kan dus baie lae deurdring. Die kleurlose skyf,
+   gekombineer met die moontlikheid om laserlig te kan uitfiltreer
+   (gebaseer op golflengte en koherensie), gee 'n baie grooter
+   sein-tot-geraas verhouding (engels: signal-to-noise ratio) teenoor die
+   reflektiewe media. Dit is wat dit toelaat dat FMDs so baie lae kan hê.
+   Die hoof limitasie op die aantal lae is die gesamentlike dikte (van
+   1.2mm maksimaal) wat die skyf mag oplewer. Teoreties sal dan sowat 25
+   GB per laag, 50 GB (by 2 lae), ±100 GB (by 4 lae), ±150 GB (by 6 lae)
+   en selfs ±250 GB (by 10 lae) - en meer - daarop gestoor kan word.
+   Hierdie tegnologie sal aangaan, waar die huidige HD-DVD en Blu-ray Disc
+   ophou.
+
+[wysig] Ander gebruike van FMT
+
+   FMK / FMC:
+   FMT word nie net in FMDs gebruik nie, maar kan ook op
+   kredietkaart-groote plastiekkaarte toegepas word. Hierdie kaarte staan
+   dan bekend as FMK (engels: FMC, Fluorescent Multilayer Card). Wie weet
+   - miskien sal ons kredietkaarte eendag daarmee toegerus word.
+
+[wysig] Sien ook:
+
+   FMD: Fluorecent Multilayer Technology (engels)
+
+   FMS: Fluoreseerende Multilaag Skuif (afrikaans)
+   Kategorieë: Wikipedia skoonmaak • Rekenaar • Tegnologie • Stoormedia •
+   Databerging
+

@@ -1,0 +1,164 @@
+MediaWikibespreking:Edittools
+
+
+   Ek het by Wikiquote hierdie MediaWiki-funksie so effens vertaal. Ek
+   plaas dit hieronder in die {{sjablooninfo}}-sjabloon sodat mens nie
+   deurmekaar raak nie:
+
+   Die sjabloonbeskrywing hieronder word nie afgebeeld wanneer die
+   sjabloon geplaas word nie.
+   Moet asseblief nie tekste van ander bronne kopieer tensy dit aan 'n
+   GFDL-lisensie onderhewig is nie. Inhoud wat outeursregte skend, sal
+   ongelukkig verwyder moet word.
+
+   Voeg in: – — … ° ≈ ≠ ≤ ≥ ± − × ÷ ← → · §  Handtekening: ~~~~
+     __________________________________________________________________
+
+   Wiki-funksies: {{}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]
+   <s></s>   <sup></sup>   <sub></sub>   <code></code>
+   <blockquote></blockquote>   <ref></ref>   {{Verwysings}}
+   <references/>   <includeonly></includeonly>   <noinclude></noinclude>
+   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->  <span
+   class="plainlinks"></span>  •  (templates)
+   Simbole: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ¹ ² ³ ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ∞   ‘ “ ’ ”
+     ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦
+   Karakters: Á á Ć ć É é Í í Ĺ ĺ Ń ń Ó ó Ŕ ŕ Ś ś Ú ú Ý ý Ź ź   À à È è Ì
+   ì Ò ò Ù ù   Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô Ŝ ŝ Û û Ŵ ŵ Ŷ ŷ   Ä ä Ë ë Ï
+   ï Ö ö Ü ü Ÿ ÿ   ß   Ã ã Ẽ ẽ Ĩ ĩ Ñ ñ Õ õ Ũ ũ Ỹ ỹ   Ç ç Ģ ģ Ķ ķ Ļ ļ Ņ ņ Ŗ
+   ŗ Ş ş Ţ ţ   Đ đ   Ů ů   Ǎ ǎ Č č Ď ď Ě ě Ǐ ǐ Ľ ľ Ň ň Ǒ ǒ Ř ř Š š Ť ť Ǔ ǔ
+   Ž ž   Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ Ǣ ǣ   ǖ ǘ ǚ ǜ   Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ
+   Ċ ċ Ė ė Ġ ġ İ ı Ż ż   Ą ą Ę ę Į į Ǫ ǫ Ų ų   Ḍ ḍ Ḥ ḥ Ḷ ḷ Ḹ ḹ Ṃ ṃ Ṇ ṇ Ṛ ṛ
+   Ṝ ṝ Ṣ ṣ Ṭ ṭ   Ł ł   Ő ő Ű ű   Ŀ ŀ   Ħ ħ   Ð ð Þ þ   Œ œ   Æ æ Ø ø Å å
+   Ə ə  •  {{Unicode|}}
+   Grieks: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ
+     Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω
+   ω  •  {{Polytonic|}}  •  (polytonic list)
+   Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ
+   И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с
+   Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю
+   Я я
+   IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ ʃ ʒ ɕ ʑ ʂ ʐ ʝ ɣ ʁ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ
+   ɹ ɻ ɰ   ʙ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ
+     ɪ ʏ ʊ   ɘ ɵ ɤ   ə ɚ   ɛ ɜ ɝ ɞ ʌ ɔ   ɐ ɶ ɑ ɒ   ʰ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ
+   ̪   •  {{IPA|}}
+
+   U wysigings sal onmiddellik verskyn.
+     * Om rond te speel of om te eksperimenteer, gebruik eerder die
+       sandput.
+     * Onderteken asseblief jou kommentaar op besprekingsbladsye deur vier
+       tildes (~~~~) agteraan te voeg.
+     __________________________________________________________________
+
+   Neem kennis:
+     * Wanneer jy inligting by Wikiquote voeg, erken jy outomaties om dit
+       onder die GNU Free Documentation License te plaas.
+     * Indien jy nie wil hê dat ander jou tekste links en regs moet wysig
+       nie, moet dit dan nie byvoeg nie.
+     * Only public domain resources can be copied without permission—this
+       does not include most web pages or images.
+     * See our policies and guidelines for more information on editing.
+
+    1. ^ GNU Free Documentation License, Version 1.2 or any later version
+       published by the Free Software Foundation; with no Invariant
+       Sections, with no Front-Cover Texts, and with no Back-Cover Texts.
+
+   Ek het net gewonder of iemand dalk hier dink mens kan dit by Wikipedia
+   ook gebruik? In daardie geval hoef mens net die "Wikiquote" orals met
+   "Wikipedia" te vervang. Wat dink julle? — Adriaan (S★B) 10:49, 9
+   Augustus 2007 (UTC)
+
+          Dit is hoe dit by Wikiquote lyk. — Adriaan (S★B) 10:50, 9
+          Augustus 2007 (UTC)
+
+                Ek het nie dadelike probleme hiermee nie. Kom ons wag en
+                hoor wat ander dink. Anrie 10:51, 9 Augustus 2007 (UTC)
+
+                      Oukei :P — Adriaan (S★B) 10:53, 9 Augustus 2007
+                      (UTC)
+
+   Óf niemand het hierdie gesprek raakgesien nie, óf hulle het geen
+   besware nie, óf hulle gee nie om nie.
+
+   Ek voel nie sterk dat die Cyrilliese, Griekse en IPA letters
+   noodsaaklik is nie, maar wens meer en meer dat die Wiki-funksies so
+   maklik beskikbaar is. Ek sou graag ten minste dit wil byvoeg. Adriaan,
+   is daar 'n spesifieke rede hoekom jy sommige van die ander letters, bv.
+   die Griekse letters wil beskikbaar hê? M.a.w. kan jy insien dat dit
+   moontlik van hulp tot die meerderheid gebruikers kan wees? Anrie 13:16,
+   18 Augustus 2007 (UTC)
+
+          Dit kom basies daarop neer dat ek geen rede sien hoekom dit níé
+          ingevoeg moet word nie... dit skep net 'n tipe van 'n indruk dat
+          dit 'n professionele webtuiste is en dat gebruikers aangemoedig
+          word om die korrekte letters te gebruik, asook om oor die
+          algemeen goeters meer perfek te doen. Ek weet nie, dis maar net
+          my opinie... ons kan mos maar besluit watter gedeeltes van die
+          edittools ons wil byvoeg en so. — Adriaan (S★B) 14:17, 18
+          Augustus 2007 (UTC)
+
+                Ek sien jou punt in en ek stem definitief saam dat ons
+                koppelvlak professioneel daarna moet uitsien. Die enigste
+                rede hoekom ek huiwer, is omdat ek nie weet hoeveel traer
+                die ekstra gereedskap 'n wysigingsblad sal laat laai nie.
+                As ek seker kan wees dat dit nie 'n drastiese impak op die
+                laaispoed van enige gebruikers wat van inbelverskaffers
+                gebruik maak gaan hê nie, dan sien ek ook geen rede hoekom
+                dit nie bygevoeg moet word nie. Anrie 13:16, 21 Augustus
+                2007 (UTC)
+
+                      Ek sal hierdie vanaand dan wysig soos voorgestel. Ek
+                      sal net graag die afdeling, "karakters" en "simbole"
+                      bo Wiki-funksies wil sit. Ek sal dit laterig doen,
+                      vir ingeval ek 'n gemors maak, dat ek so min
+                      moontlik gebruikers verontrief. Anrie 16:12, 23
+                      Augustus 2007 (UTC)
+
+                            Baie dankie, Anrie. Die q:MediaWiki:Edittools
+                            by Wikiquote sê die boksie neem 8 113 grepe
+                            op. Dit sal dus 'n lyn wat teen 56 kilogreep
+                            aflaai met een sewende vertraag wanneer 'n
+                            persoon 'n bladsy wil wysig... Ek hoop nie dis
+                            te problematies nie? — Adriaan (S★B) 20:50, 23
+                            Augustus 2007 (UTC)
+
+                                  Dis 'n plesier, Adriaan. Een sewende
+                                  klink darem nie erg nie. Ek moet egter
+                                  om verskoning vra - ek sit nou diep
+                                  onder die boeke (het môre nog 'n
+                                  eksamen) en weet nie of ek vanaand
+                                  daarby gaan uitkom nie. Ek sal dit
+                                  andersins wel definitief môre doen.
+                                  Anrie 21:07, 23 Augustus 2007 (UTC)
+
+                                        Sjoe! Goed so, kom ons kyk wat ek
+                                        nou gedoen het. Na ek die
+                                        inligting by die inhoudblad hier
+                                        bygevoeg het, het dit skielik twee
+                                        keer verskyn tydens 'n wysiging:
+                                        1x die oue en 1x die nuwe. Ek sien
+                                        toe dat die oorspronklike
+                                        inligting eintlik by
+                                        MediaWiki:Copyrightwarning was. Ek
+                                        laat my toe deur die name van die
+                                        bladsye lei en kopieer die
+                                        kopieregwaarskuwing na die
+                                        copyrightwarning-blad en laat die
+                                        edittools hier. Dit het egter
+                                        veroorsaak dat die edittools onder
+                                        die opsommingswysiging en "stoor",
+                                        "voorskou", ens. knoppe was.
+                                        Bietjie nutteloos, aangesien mens
+                                        dus nie eers meer die
+                                        wysigingsvenster kon sien as mens
+                                        die edittools besigtig nie. Ek het
+                                        dus die edittools by die
+                                        copyrightwarning-blad gevoeg (ek
+                                        vermoed dis ook hoekom dit in die
+                                        eerste plek daar was) en nou lyk
+                                        dinge piekfyn aan hierdie kant.
+                                        Anrie 11:13, 24 Augustus 2007
+                                        (UTC)
+
+   Wow, baie dankie Anrie! :P — Adriaan (S★B) 15:01, 24 Augustus 2007
+   (UTC)
+

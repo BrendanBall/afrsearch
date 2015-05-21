@@ -1,0 +1,96 @@
+Eaton se pylsterteend
+
+
+                Eaton se pylsterteend
+   Bedreigstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. eatoni
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Anas eatoni
+   (Sharpe, 1875)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Eaton se pylsterteend (Anas eatoni) is 'n eend van die genus Anas.
+
+   Die spesie is vernoem na die Engelse verkenner en naturalis Alfred
+   Edmund Eaton. Eaton se pylsterteend is verwant aan die gewone
+   pylsterteend en daar word gemeen dat dit daarvan afgesplinter en in
+   aparte spesies ontwikkel het. By Eaton se pylsterteend ontwikkel die
+   manlike voēls nie volle broeivere nie.
+
+   Dit kom in twee vorme op eilande in die Suidelike Indiese Oseaan voor:
+     * Anas eatoni eatoni op Kergueleneilande (5000-20 000 pare geskat in
+       1982)
+     * Anas eatoni drygalskyi op die Crozeteilande (600-700 pare geskat in
+       1982)
+
+   In die 1950's en 1960's is Anas eatoni eatoni na Amsterdameiland (soos
+   Kergueleneiland en Crozeteiland, deel van die Franse Suidelike Gebiede)
+   ingevoer, maar is sedert 1970 nie daar gesien nie en daar word
+   aangeneem dat dit weer uitgesterf het. Die inheemse Amsterdameilandeend
+   (Anas marecula) het in 1800 uitgesterf.
+
+   Die bevolking is aan die afneem en die getalle kan nou reeds heelwat
+   minder wees as hierbo vermeld. Die eende is vroeër deur onder andere
+   seeleeujagters gejag met 200 tot 300 wat elke jaar geskiet is na die
+   vestiging van 'n basis in 1950. Ingevoerde roofdiere is nou die
+   grootste bedreiging op Possession, Cochonseiland in Crozet en op die
+   Kergueleneilande. Die voëls wat op Amsterdameiland ingevoer is het
+   waarskynlik verwyn as gevolg van wilde huiskatte en bruin rotte. Konyne
+   is tuseen 1992 op van die Kergueleneiland met gif uitgeroei [1].
+
+   Eaton se pylsterteend is in 1983 op 'n 1,50 Franc en 1,80 Franc posseël
+   van die Franse Suidelike en Franse Antarktiese Gebiede (Frans: Terres
+   Australe et Antarctiques Francaises) afgebeeld [2].
+
+[wysig] Eksterne skakels
+
+     * BirdLife Species Factsheet
+
+   Kategorie: Eendvoëls
+

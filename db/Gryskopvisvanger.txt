@@ -1,0 +1,103 @@
+Gryskopvisvanger
+
+
+                   Gryskopvisvanger
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Jong mannetjie
+   'n Jong mannetjie
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Halcyonidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Halcyon
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. leucocephala
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Halcyon leucocephala
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Lengte 20cm. Die grys kop en kastaiingbruin pens is diagnosties.
+   Onderskei van Bruinkopvisvanger deur die afwesigheid van strepe op die
+   kop en sye. Die soortgelyke Mangliedvisvanger het 'n swaarder rooi
+   snawel en is sonder die bruin pens.
+
+[wysig] Habitat
+
+   Gemengde doringveld en miombo-boswêreld.
+
+[wysig] Verspreiding
+
+   Nie-algemeen somer besoeker aan die noordelike dele van die streek.
+
+[wysig] Geluid
+
+   'n Harde 'tjeeoo tjeeoo weetjo-trrrrr'.
+
+[wysig] Ander name
+
+     * Engelse naam: Grey-headed Kingfisher of Greyhooded Kingfisher
+     * Wetenskaplike naam: Halcyon leucocephala
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+   Ian Sinclair se Veldgids tot die VOëLS van Suider-Afrika. 2de Edisie.
+   Struik Uitgewers
+   Kategorie: Voëls
+

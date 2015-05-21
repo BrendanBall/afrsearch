@@ -1,0 +1,27 @@
+Apertium
+
+
+   Apertium is vrye sagteware wat outomatiese vertaling kan doen en word
+   onder terme van die GNU GPL lisensie versprei. Die Spaanse en
+   Katalaanse regerings finansier die Universiteit d'Alacant om aan die
+   projek te werk.
+
+   Apertium het ontstaan as een van die masjien-vertaal-enjins in projek
+   OpenTrad en was oorspronklik ontwerp om tussen naby verwante tale te
+   vertaal. Die sagteware is daarna uitgebrei en kan tans ook tussen
+   diverse taal-pare vertaal. 'n Nuwe vertalingstelsel kan geskep word
+   deur slegs die taalkundige data (woordeboeke en reëls) te definieer.
+
+   Verskeie taal-pare word ondersteun, insluitend:
+     * Engels-Afrikaans
+     * Nederlands-Afrikaans
+
+[wysig] Eksterne skakels
+
+     * Apertium se Afrikaanse Tuisblad
+     * Apertium web demonstrasies
+     * Apertium Wiki
+     * Die OpenTrad Projek
+
+   Kategorieë: Vrye sagteware • Outomatiese vertaling
+

@@ -1,0 +1,87 @@
+Tecophilaeaceae
+
+
+                   Tecophilaeaceae
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Conanthera bifolia
+   Conanthera bifolia
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magliophyta
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Liliopsida
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Asparagales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Tecophilaeaceae
+     Subfamilie:   Tecophilaeoideae, Cyanastroideae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      verskeie - sien teks
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+[wysig] Uitgesoekte spesies
+
+     * Conanthera Chili
+     * Cyanastrum C.cordifolium, C.goetzeanum, C.johnstonii
+       Sentraal-Afrika
+     * Cyanella C. alba, C. hyacinthioides, C. lutea, C. orchidiformis,
+       Suid-Afrika
+     * Kabuyea K.hostifolia Tanzanië, Mosambiek
+     * Lanaria L.lanata Kapokblom Overberg
+     * Odontostomum O.hartwegii ooste van Noord-Amerika, Kalifornië
+     * Tecophilaea T.cyanocrocus, T. violifolia (Zephyra) Chili
+     * Walleria W.nutans Namibia, W.mackenzii Malawi
+     * Zephyra Z.elegans Chili
+
+[wysig] Eksterne skakels
+
+     * Brummitt R. K., Banks H., Johnson MAT, Docherty KA, Jones, K, Chase
+       MW, & Rudall PJ. 1998. Taxonomy of Cyanastroideae
+       (Tecophilaeaceae): A multidisciplinary approach. Kew Bull. 53,
+       769—803
+     * Lanaria
+     * http://species.wikimedia.org/wiki/Lanariaceae
+     * Odontostomum
+     * Goldblatt P, & J C Manning 1989. Chromosome numbers in Walleria
+       Ann. Miss. Bot.Gardens 76, 925.
+     * wikispecies
+     * Simpson MG 1985. Pollen ultrastructure of the Tecophilaeaceae.
+       Grana 24: 77-92.
+
+   Kategorie: Plante
+

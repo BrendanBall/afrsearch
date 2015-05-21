@@ -1,0 +1,419 @@
+SI-stelsel
+
+
+   Die internasionale eenheidstelsel (genoem die SI-stelsel vanuit die
+   Franse frase, Système International d'Unités) is die mees gebruikte
+   stelsel van eenhede in die wêreld. Dit word in alledaagse handel
+   gebruik in byna elke land buiten die Verenigde State, Liberië en
+   Myanmar en word ook wêreldwyd gebruik vir wetenskaplike en
+   ingenieurswerk. In 1960, is SI gekies as die beste sub-stel van die
+   bestaande meter-kilogram-sekonde (MKS) stelsel van eenhede eerder as
+   die ouer centimeter-gram-sekonde (CGS) eenheidstelsel. Verskeie nuwe
+   eenhede is later bygevoeg. Daar word soms na die SI-stelsel verwys as
+   die metrieke stelsel (veral in die Verenigde State, wat dit nog nie
+   aangeneem het nie al het die gebruik daar begin toeneem). Die
+   internasionale eenheidstelsel verwys na 'n spesifieke groep mates wat
+   afgelei en uitgebrei is vanuit die metrieke stelsel; alle metrieke
+   eenhede word egter nie as SI-eenhede aanvaar nie.
+
+   Daar is sewe basiseenhede en verskeie afgeleide eenhede, saam met 'n
+   stel voorvoegsels. Eenhede wat nie SI-eenhede is nie kan omgeskakel
+   word na SI-eenhede (of omgekeerd) deur die omskakeling van eenhede.
+   Byna alle sulke eenhede is al geherdefinieer in terme van die
+   SI-eenhede.
+
+   Inhoud
+
+        * 1 Oorsprong
+        * 2 Basis
+        * 3 SI-skryfstyl
+        * 4 Eenhede
+             + 4.1 Basiseenhede
+             + 4.2 Dimensielose afgeleide eenhede
+             + 4.3 Afgeleide eenhede met spesiale name
+             + 4.4 Nie SI-eenhede wat aanvaar is vir gebruik saam met SI
+             + 4.5 SI-voorvoegsels
+             + 4.6 Verouderde SI-voorvoegsels
+        * 5 Sien ook
+        * 6 Eksterne skakels
+        * 7 Verdere leeswerk
+
+[wysig] Oorsprong
+
+   Daar word op die eenhede van die SI-stelsel deur 'n reeks
+   internasionale konferensies besluit wat deur die standaarde-organisasie
+   Bureau International des Poids et Mesures (Internasionale Buro van
+   Gewigte en Mates) gereël word. Die SI het eers sy naam in 1960 gekry en
+   die laaste byvoeging het in 1971 plaasgevind.
+
+   Die ware oorsprong van die SI of metrieke stelsel dateer terug na
+   ongeveer 1640. Dit is uitgevind deur Franse wetenskaplikes en het 'n
+   groot hupstoot gekry tydens die Franse Rewolusie van 1789. In 1795 het
+   die stelsel wettelik verpligtend geword, maar dit was onmoontlik om die
+   navolging daarvan af te dwing en daar was baie teenstanders. In 1812
+   het Napoleon die stelsel weer afgeskaf, maar die Verenigde Koninkryk
+   van die Nederlande (Nederland + België) het dit in 1820 weer ingestel.
+   Koning Willem I het sodoende gepoog om 'n bietjie eenheid in sy
+   koninkryk te skep. Langsamerhand is dit wêreldwyd in gebruik geneem.
+   Met ingang 2005 is dit nog net in die Verenigde State waar die stelsel
+   nie wetlik afgedwing word nie.
+
+   Die metrieke stelsel het gepoog om eenhede te kies wat nie arbitrêr
+   vasgestel is nie, wat dog steeds prakties sou wees, en wat mooi
+   ingeskakel het met die rewolusie se amptelike ideologie van suiwere
+   rede; dit is voorgestel as 'n noemenswaardige verbetering oor die
+   inkonsekwente eenhede wat voor dit in gebruik was en waarvan die waarde
+   dikwels afgehang het van die streek.
+
+   Die belangrikste eenheid is dié van lengte: een meter was bedoel om
+   gelyk aan 1/10 000 000^de van die afstand van die pole tot by die
+   ekwator langs die lengtelyn deur Parys af te wees. Die afstand is
+   ongeveer 10% langer as 'n jaart. Later is 'n platinumstaaf met 'n
+   onbuigsame deursnee in die vorm van 'n X vervaardig om as 'n maklik
+   bruikbare standaard te gebruik om 'n meter se lengte te bevestig.
+   Vanweë die feit dat dit moeilik was om die lengte van 'n
+   meridiaankwadrant in die 18de eeu te meet, was die eerste platinum
+   prototipe 0,2 millimeters te kort. Daar is toe later besluit om 'n
+   veelvoud van 'n spesifieke straling se golflengte te gebruik om die
+   (onveranderde) lengte op 'n abstrakte manier te definieer en
+   uiteindelik is daar besluit om die meter te definieer as die afstand
+   wat lig in 'n spesifieke typerk aflê in 'n vakuum.
+
+   Die oorsprongklike basiseenheid van massa in die metrieke stelsel was
+   die gram, maar dit is vinnig verander na kilogram, wat gedefinieer is
+   as die massa van suiwer gedistilleerde water by sy hoogste digtheid
+   (+3.98 grade Celsius) wat in 'n kubus waarvan die kante afmetings het
+   van 1/10^de van 'n meter. Een kilogram is ongeveer 2.2 pond. Die
+   kubiese ruimte is ook 'n liter genoem sodat die volumes van
+   verskillende vloeistowwe maklik daarmee vergelyk kon word. Teen 1799 is
+   'n platinumsilinder vervaardig om as die standaardgewig vir 'n kilogram
+   te dien, dus het geen watergebaseerde standaard ooit gedien as die
+   primêre standaard toe die metrieke stelsel elders in gebruik geneem is
+   nie. In 1890 is die silinder met 'n ander vervang wat uit 90%
+   platinum-, 10% iridiumlegering bestaan het en het sedertien as die
+   standaard bly dien en word in 'n kluis iewers in Parys bewaar.
+
+   Die kilogram is die enigste basiseenheid wat nie herdefinieer is in
+   terme van 'n onveranderende natuurlike verskynsel nie. Wetenskaplikes
+   het egter by die Royal Society in Londen 'n beroep gedoen dat die massa
+   van die standaard kilogram in Parys vervang moet word as die amptelike
+   definisie en dat dit vervang moet word deur 'n onveranderlike
+   natuur-eienskap (eerder as deur 'n fisiese voorwerp waarvan die massa
+   effens kan verander), maar 'n besluit oor die herdefiniëring kan eers
+   in 2007 geneem word.
+
+   Die eenheid van temperatuur het die centigraad of omgekeerde Celsius
+   graad geword, wat beteken dat die kwikskaal opgedeel word in 100 gelyke
+   dele tussen die temperatuur van 'n water-ys mengsel en die kookpunt van
+   suiwer, gedistilleerde water (by seevlak). So word die temperatuur van
+   kookwater dan 100 grade Celsius en die vriespunt van water, 0 grade
+   Celsius. 'n Honderd jaar later het wetenskaplikes die bestaan van 'n
+   absolute nul temperatuur vasgestel. Dit het toe die daarstel van 'n
+   nuwe temperatuurskaal genoodsaak, wat die absolute skaal of kelvinskaal
+   genoem word, wat die nulpunt verskuif maar nog steeds 'n 100 kelvin
+   tussen die vriespunt en kookpunt van water beslaan.
+
+   Die metrieke eenheid van tyd het die sekonde geword en is oorspronklik
+   as 1/86 400^ste van 'n gemiddelde Sondag gedefinieer. Die formele
+   definisie van die sekonde is verskeie kere verander vanweë gevorderde
+   wetenskaplike vereistes (sterrekundige waarnemings, stemvurkhorlosie,
+   kwartshorlosie en toe die sesium-atoomhorlosie) maar die gebruikers van
+   polshorlosies sou nie die verskil agterkom nie.
+
+   Die vinnige wêreldwye ingebruikneming van die metrieke stelsel vir
+   ekonomiese en alledaagse gebruik het plaasgevind hoofsaaklik omdat baie
+   lande nie hul eie gebruiklike stelsels gehad het om baie begrippe te
+   beskryf nie, of in ander lande om vinnige standardisasie teweeg te
+   bring tussen die verskeie streke se stelsels. Internasionale faktore
+   het ook die ingebruikneming van die metrieke stelsel beïnvloed, omdat
+   baie lande hulle handel sodoende kon verhoog. Wetenskaplike werk met
+   klein en groot hoeveelhede word ook makliker gemaak omdat dit so goed
+   inval by die desimale syferstelsel.
+
+[wysig] Basis
+
+   Die SI-stelsel is op sewe basiseenhede gebou, die kilogram, meter,
+   sekonde, ampère, kelvin, mol en kandela. Hierdie eenhede word gebruik
+   om die verskeie afgeleide eenhede te definieer.
+
+   Die SI-stelsel definieer ook 'n aantal SI-voorvoegsels om saam met die
+   eenhede te gebruik: wanneer enige van hierdie met 'n eenheidnaam
+   gebruik word, definieer dit die aantal onderverdelings of veelvoude van
+   die eenheid. Die voorvoegsel kilo stel veelvoude van 'n duisend voor,
+   dus is die kilometer 'n 1 000 meter, die kilogram 'n 1 000 gram
+   ensovoorts. Neem kennis dat 'n miljoenste van 'n kilogram 'n milligram
+   is en nie 'n mikrokilogram nie.
+
+[wysig] SI-skryfstyl
+
+     * Simbole word in kleinletters geskryf, behalwe vir die simbole wat
+       afgelei word van die naam van 'n persoon. Dit beteken dat die
+       simbool van die SI-eenheid vir druk, wat na Blaise Pascal vernoem
+       is, Pa is. Die amptelike SI-brosjure lys die simbool vir die liter
+       as 'n toegelate uitsondering op die hoofletter reël en kan dit met
+       of 'n hoof- of kleinletter geskryf word.
+     * Simbole word in enkelvoud geskryf, bv 25 kg (en nie "25 kge" nie).
+     * Simbole, anders as afkortings, het nie 'n punt (.) aan die einde
+       nie.
+     * Dit word verkies dat die simbool in 'n regop Romeinse letters
+       geskryf word (byvoorbeeld, m vir meter en K vir kelvin) om dit van
+       wiskundige en fisiese veranderlikes te onderskei. Liter word egter
+       met l (skuinsgedrukte kleinletter-l) aangedui om verwarring met die
+       syfer 1 te voorkom. (2002-AWS)
+     * 'n Spasie moet tussen die getalle en die simbole gelaat word:
+       2.21 kg, 7.3·10^2m^2. Daar is 'n uitsondering op hierdie reël. Die
+       simbole vir vlakke se hoeke in grade, minute en sekondes ( °, ′ en
+       ″) word direk na die getal geplaas met geen spasie tussenin nie.
+     * SI gebruik spasies om desimale syfers in stelle van drie te skei.
+       Bv. 1 000 000 of 342 142 (in teenstelling met die kommas en punte
+       van ander stelsels, bv. 1,000,000 of 1.000.000).
+     * SI het tot 1997 slegs die komma as skeiding vir desimale breuke
+       gebruik. Die getal vier en twintig en een en vyftig honderdes sou
+       toe nog as "24,51 geskryf gewees het. In 1997 het die CIPM besluit
+       dat die Britse punt as die desimale skeiding gebruik sou word in
+       teks waarvan die taal oorwegend Engels is ("24.51"); en sou die
+       komma die desimale skeiding vir al die ander tale bly. (In
+       Afrikaans word die desimale komma gebruik.)
+     * Simbole vir afgeleide eenhede wat gevorm word deur veelvoulde van
+       ander eenhede, word gelas deur 'n spasie of 'n punt op die middel
+       van die lyn (·), bv. N m of N·m.
+     * Simbole wat gevorm word deur die kwosiënt van twee eenhede word met
+       'n vorentoe skuinsstreep (/) geskei of as 'n negatiewe eksponent
+       aangetoon, bv. m/s, m s^-1, m·s^-1 of \frac{\mbox{m}}{\mbox{s}} .
+       'n Solidus (skuinsstreep) moet nie gebruik word as die resultaat
+       daarvan dubbelsinnig is nie bv. gebruik kg·m^-1·s^-2, en nie
+       "kg/m/s^2" nie.
+
+   Op 'n paar uitsonderings na (soos bierverkope in die Verenigde
+   Koninkryk) kan die stelsel wettig gebruik word in alle lande in die
+   wêreld en onderhou baie lande nie meer definies van ander eenhede nie.
+   Die lande wat nog steeds amptelike erkenning aan nie SI-eenhede verleen
+   (bv. Die V.S.A. en die VK) het moderne omskakelingsfaktore daarvoor
+   gedefinieer. Landmetingsafstande is egter nie in die V.S.A.
+   geherdefinieer nie vanweë die opgehoopte fout wat dit teweeg sou bring
+   en daarom bly die landmetervoet en landmeterduim daar aparte eenhede.
+   (In die Verenigde Koninkryk was dit nie 'n probleem nie want die
+   landmetingsopnames was reeds in metrieke eenhede voor die Tweede
+   Wêreldoorlog.
+
+[wysig] Eenhede
+
+[wysig] Basiseenhede
+
+   Die volgende eenhede is die fundamentele eenhede waaruit al die ander
+   afgelei is, hulle is dimensioneel onafhanklik. Die definisies hieronder
+   word algemeen aanvaar.
+   SI-Basiseenhede
+   Naam Simbool Grootheid Definisie
+   meter m Lengte Die eenheid van lengte is gelyk aan die afstand wat lig
+   aflê in 'n vakuum gedurende 'n tydsinterval wat gelykstaande is aan
+   1/299 792 459 van 'n sekonde (17de CGPM (1983) Resolusie 1, CR 97). Die
+   getal is eksak; die meter word gedefinieer op hierdie manier.
+   kilogram kg Massa Die eenheid van massa is gelyk aan die massa van die
+   internasionale prototipe kilogram ('n platinum-iridium silinder) wat
+   bewaar word by die Bureau International des Poids et Mesures (BIPM),
+   Sèvres, Parys (1ste CGPM (1889), CR 34-38). Neem kennis dat die
+   kilogram die enigste basis eenheid met 'n voorvoegsel is; die gram word
+   gedefinieer as 'n afgeleide eenheid, gelyk aan 1/1000 van 'n kilogram;
+   voorvoegsels soos mega- word toegepas op die gram en nie die kg nie;
+   bv. Gg, nie Mkg nie. Dit is ook die enigste eenheid wat steeds deur 'n
+   fisiese prototipe gedefinieer word eerder as 'n meetbare fisiese
+   verskynsel (sien die kilogram artikel vir moontlike alternatiewe
+   definisies).
+   sekonde s Tyd Die eenheid van tyd is die tydsverloop van presies
+   192 631 770 periodes van die straling wat ooreenstem met die oorgang
+   van twee hiperfyn vlakke van die grondtoestand van die sesium-133 atoom
+   teen 'n temperatuur van 0 K (13de CGPM (1967-1968) Resolusie 1, CR
+   103).
+   ampere A Elektriese stroom Die eenheid van elektriese stroom is die
+   konstante stroom wat, indien dit onderhou word in twee paralelle
+   geleiers, van oneindige lengte en nalaatbare deursnit, wat 1 meter van
+   mekaar af in 'n vakuum geplaas word, 'n krag tussen die twee geleiers
+   gelyk aan 2×10^−7 newton vir elke meter van lengte sou veroorsaak (9de
+   CGPM (1948) Resolusie 7, CR 70).
+   kelvin K Termodinamiese Temperatuur Die eenheid van termodinamiese
+   temperatuur (of absolute temperatuur) is die fraksie 1/273.16 (eksak)
+   van die termodinamiese temperatuur by die kritiese punt van water (13de
+   CGPM (1967) Resolusie 4, CR 104).
+   mol mol Hoeveelheid van 'n stof Die eenheid van hoeveelheid van 'n stof
+   is die hoeveelheid van 'n stof wat soveel elementêre deeltjies bevat as
+   wat daar atome in 0.012 kilogram van suiwer koolstof-12 is (14de CGPM
+   (1971) Resolusie 3, CR 78). (Elementêre deeltjies mag atome, molekules,
+   ione, elektrone of partikels wees) Dit is ongeveer gelyk aan
+   6.02214199×10^23 eenhede.
+   kandela cd Ligsterkte Die eenheid van ligsterkte is die ligsterkte, in
+   'n gegewe rigting, van 'n bron wat monochromatiese straling van 'n
+   frekwensie 540×10^12 hertz en wat 'n stralingsintensiteit in daardie
+   rigting van 1/683 watt per steradiaan het. (16de CGPM (1979) Resolusie
+   3, CR 100).
+
+[wysig] Dimensielose afgeleide eenhede
+
+   Die volgende SI eenhede word afgelei vanuit die basiseenhede en is
+   dimensieloos.
+   SI Dimensielose afgeleide eenhede
+   Naam Simbool Grootheid Definisie
+   radiaal rad straalhoek/straalboog Die eenheid van hoek is die hoek in
+   die middel van 'n sirkel wat deur 'n boog onderspan word met 'n omtrek
+   wat gelyk is aan die lengte van die radius van die sirkel. Daar is 2π
+   radiale in 'n sirkel.
+   sterradiaal sr Soliede hoek Die eenheid van soliede hoek is die soliede
+   hoek in die middel van 'n sfeer wat onderspan word deur 'n gedeelte van
+   die sfeer met 'n oppervlak gelyk aan r^2. Daar is 4π sterradiale in 'n
+   sfeer.
+
+[wysig] Afgeleide eenhede met spesiale name
+
+   Basiseenhede kan saamgevoeg word om eenhede af te lei vir die meet van
+   ander hoeveelhede. Sommiges het spesiale name gekry.
+   SI afgeleide eenhede met spesiale name
+   Naam Simbool Grootheid Uitgedruk in basiseenhede
+   hertz Hz Frekwensie s^-1
+   newton N Krag kg m s ^-2
+   joule J Energie N m = kg m^2 s^-2
+   watt W Krag J/s = kg m^2 s^-3
+   pascal Pa Druk N/m^2 = kg m ^-1 s^-2
+   lumen lm Stralingsvloedsterkte cd
+   lux lx Verligting cd m^-2
+   coulomb C Elektriese lading A s
+   volt V Elektriese potensiaalverskil J/C = kg m^2 A^-1 s^-3
+   ohm Ω Elektriese weerstand V/A = kg m^2 A^-2 s^-3
+   farad F Elektriese kapasitansie Ω^-1 s = A^2 s^4 kg^-1 m^-2
+   weber Wb Magnetiese vloedsterkte kg m^2 s^-2 A^-1
+   tesla T Magnetiese vloeddigtheid Wb/m^2 = kg s^-2 A^-1
+   henry H Induktansie Ω s = kg m^2 A^-2 s^-2
+   siemens S Elektriese geleidingsvermoë Ω^-1 = kg^-1 m^-2 A^2 s^3
+   becquerel Bq Radio-aktiwiteit (verval per tydeenheid) s^-1
+   gray Gy Geabsorbeerde dosis (van ioniserende straling) J/kg = m^2 s^-2
+   sievert Sv Ekwivalente dosis (van ioniserende straling) J/kg = m^2 s^-2
+   katal kat Katalitiese aktiwiteit mol/s = mol s^-1
+   grade Celsius °C termodinamiese temperatuur K - 273.15
+
+[wysig] Nie SI-eenhede wat aanvaar is vir gebruik saam met SI
+
+   Die volgende eenhede is nie SI-eenhede nie maar word aanvaar vir
+   gebruik saam met die SI stelsel.
+   Nie SI-eenhede wat aanvaar word vir gebruik saam met SI
+   Naam Simbool Grootheid Ekwivalente SI-eenheid
+   minuut min tyd 1 min = 60 s
+   uur h tyd 1 h = 60 min = 3600 s
+   dag d tyd 1 d = 24 h = 1440 min = 86400 s
+   graad van 'n hoek ° hoek 1° = (π/180) rad
+   minuut van 'n hoek ′ hoek 1′ = (1/60)° = (π/10800) rad
+   sekonde van 'n hoek ″ hoek 1″ = (1/60)′ = (1/3600)° = (π/648000) rad
+   liter l of L volume 0.001 m^3
+   ton t massa 1 t = 10^3 kg
+
+         Nie SI-eenhede wat nie formeel deur die CPGM aanvaar is nie
+   neper, veldhoeveelheid Np verhouding (dimensieloos) L[F] = ln(F/F[0])
+   Np
+   neper, kraghoeveelheid Np verhouding (dimensieloos) L[P] = ½ ln(P/P[0])
+   Np
+   bel, Veldhoeveelheid B verhouding (dimensieloos) L[F] = 2
+   log[10](F/F[0]) B
+   bel, kraghoeveelheid B verhouding(dimensieloos) L[P] = log[10](P/P[0])
+   B
+
+         Empiriese nie SI-eenhede wat aanvaar is vir gebruik met SI
+   elektronvolt eV energie 1eV = 1.60217733 (49) × 10^-19 J
+   atoom massa eenhede u massa 1u = 1.6605402 (10) × 10^-27 kg
+   astronomiese eenheid au lengte 1au = 1.49597870691 (30) × 10^11 m
+
+        Ander nie SI-eenhede wat tans aanvaar word vir gebruik met SI
+   seemyl seemyl lengte 1 seemyl = 1852 m
+   knope knoop spoed 1 knoop = 1 seemyl per uur = (1852/3600) m/s
+   aar a oppervlakte 1a = 1dam^2 = 100 m^2
+   hektaar ha oppervlakte 1ha = 100a = 10000 m^2
+   bar bar druk 1 bar = 10^5Pa
+   ångström, angstrom Å lengte 1 Å = 0.1 nm = 10^-10 m
+   barn b oppervlakte 1b = 10^-28 m^2
+
+[wysig] SI-voorvoegsels
+
+   Die volgene SI-voorvoegsels kan gebruik word by enige van bostaande
+   eenhede om 'n veelvoud of verdeling van die oorspronklike eenheid aan
+   te dui.
+
+                          CAPTION: SI-voorvoegsels
+
+    10^n Voorvoegsel Simbool Kortskaal Langskaal Naam Desimale Ekwivalent
+   10^24 yotta Y Septiljoen Kwadriljoen 1 000 000 000 000 000 000 000 000
+   10^21 zetta Z Sekstiljoen Triljard (duisend triljoen) 1 000 000 000 000
+                                 000 000 000
+         10^18 exa E Kwintiljoen Triljoen 1 000 000 000 000 000 000
+    10^15 peta P Kwadriljoen Biljard (duisend biljoen) 1 000 000 000 000
+                                     000
+               10^12 tera T Triljoen Biljoen 1 000 000 000 000
+         10^9 giga G Biljoen Miljard (duisend miljoen) 1 000 000 000
+                        10^6 mega M Miljoen 1 000 000
+                          10^3 kilo k Duisend 1 000
+                          10^2 hekto h Honderd 100
+                             10^1 deka D Tien 10
+                           10^0    (eenheid) Een 1
+                          10^−1 desi d Tiende 0.1
+                       10^−2 senti c Honderdste 0.01
+                      10^−3 milli m Duisendste 0.001
+                    10^−6 mikro µ Miljoenste 0.000 001
+             10^−9 nano n Biljoenste Miljardste 0.000 000 001
+          10^−12 piko p Triljoenste Biljoenste 0.000 000 000 001
+      10^−15 femto f Kwadriljoenste Biljardste 0.000 000 000 000 001
+    10^−18 atto a Kwintiljoenste Triljoenste 0.000 000 000 000 000 001
+  10^−21 zepto z Sekstiljoenste Triljardste 0.000 000 000 000 000 000 001
+   10^−24 yokto y Septiljoenste Kwadriljoenste 0.000 000 000 000 000 000
+                                   000 001
+
+[wysig] Verouderde SI-voorvoegsels
+
+   Die volgende SI-voorvoegsels word nie meer gebruik nie.
+
+                     CAPTION: Verouderde SI-voorvoegsels
+
+   10^n  Voorvoegsel Simbool          Getalnaam           Desimale ekwivalent
+   10^4     miria      ma       Miriade (tien duisend)          10 000
+   10^−4    mirio      mo    Mirioodste (tien duisendste)       0.000 1
+      Ook in onbruik is die dubelle voorvoegsels, soos dié wat voorheen
+    gebruik is in mikromikrofarad, hektokilometers, mikromillimeters, ens.
+
+[wysig] Sien ook
+
+     * Mates en gewigte
+     * CODATA
+     * Metrologie
+     * UTC (Coordinated Universal Time)
+     * Binêre voorvoegsels – om groot hoeveelhede rekenaardata te
+       kwantifiseer.
+     * Ordegrootte
+     * ISO 31
+
+[wysig] Eksterne skakels
+
+   Amptelik
+     * BIPM (SI-agentskap vir stelselonderhoud) (tuisblad)
+     * BIPM reference (SI-verwysings)
+     * ISO 1000:1992 SI-eenhede en aanbevelings vir die gebruik van hulle
+       veelvoude
+
+   Inligting
+     * US NIST reference on SI
+          + chart
+     * SI – Die geskiedenis en gebruik daarvan in wetenskap en die
+       nywerheid
+     * 'n Woordeboek vir eenhede van mates
+     * Cyrillic transcription of SI symbols
+     * Judson, Lewis B., Weights and Measures Standards of the United
+       States: A brief history, NBS Special Publication 447, orig. iss.
+       October 1963, updated March 1976 (46 page PDF file)
+
+   Pro-metrieke-stelsel drukgroepe
+     * Die Canadian Metric Association
+     * Die UK Metric Association
+     * Die U.S. Metric Association (USMA)
+
+[wysig] Verdere leeswerk
+
+     * I. Mills, Tomislav Cvitas, Klaus Homann, Nikola Kallay, IUPAC:
+       Quantities, Units and Symbols in Physical Chemistry, 2de uitgawe,
+       Blackwell Science Inc 1993, ISBN 0632035838.
+
+   Kategorieë: Eenhede • Internasionale standaarde
+

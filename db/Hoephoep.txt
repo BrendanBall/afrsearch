@@ -1,0 +1,109 @@
+Hoephoep
+
+
+                         Hoopoe
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+              Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Upupidae
+                   Leach, 1820
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Upupa
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     U. epops
+     Subspesie:    {{{subspecies}}}
+        [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                     Binomiale naam
+                      Upupa epops
+   Linnaeus, 1758
+                    Trinomiale naam
+                    {{{trinomial}}}
+                      Tipe Spesies
+                   {{{type_species}}}
+                {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die hoephoep in Suider-Afrika
+   Die verspreiding van die hoephoep in Suider-Afrika
+                       Sinonieme
+   {{{synonyms}}}
+
+   Die hoephoep is 'n medium tot groter grootte (lengte 25-27cm) voël met
+   kenmerkende roesbruin kleur en duidelike verekroon. Dit is 'n algemene
+   gesig in parke en tuine. Die voël is so uniek dat hy sy eie genus
+   (Upupa) en familie (Upupidae) verteenwoordig.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Kop, rug en onderdele helder roesbruin kleur (mannetjie) en wyfie
+   bietjie dowwer roesbruin kleur. Stert hoofsaaklik swart, wit by basis.
+
+[wysig] Habitat
+
+   Savanna, oop bosveld, tuine en parke. In droër streke beperk tot
+   rivieroewerbos.
+
+[wysig] Verspreiding
+
+   Kom voor in hele suidelike Afrika.
+
+[wysig] Geluid
+
+   Dromerige hoep hoep 'n paar keer herhaal.
+
+[wysig] Ander name
+
+     * Engels: African Hoopoe
+     * Duits: Wiedehopf
+     * Wetenskaplike naam: Upupa africana
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa. Sesde uitgawe. ISBN 0620175834
+
+   Kategorie: Hoephoepe
+

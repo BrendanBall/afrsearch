@@ -1,0 +1,380 @@
+Skakelaar
+
+
+   Elektriese skakelaars. Bo, v.l.n.r: klinkskakelaar/stroombreker,
+   kwikskakelaar, skyfskakelaar, Dubbelinlynpakketskakelaar,
+   oppervlakgemonteerde skakelaar, rietskakelaar, Onder, v.l.n.r:
+   Muurskakelaar, klein wisselskakelaar, inlynskakelaar,
+   drukknopskakelaar, wiegskakelaar, mikroskakelaar
+   Elektriese skakelaars. Bo, v.l.n.r: klinkskakelaar/stroombreker,
+   kwikskakelaar, skyfskakelaar, Dubbelinlynpakketskakelaar,
+   oppervlakgemonteerde skakelaar, rietskakelaar, Onder, v.l.n.r:
+   Muurskakelaar, klein wisselskakelaar, inlynskakelaar,
+   drukknopskakelaar, wiegskakelaar, mikroskakelaar
+
+   'n Elektriese skakelaar is 'n toestel wat daarop gemik is om twee
+   geleiers aan mekaar te verbind of die verbinding tussen twee elektriese
+   geleiers te onderbreek. Die bekendste skakelaars is dié wat in gewone
+   huishoudelike toepassings gebruik word om 'n ligte of ander toestelle
+   aan of af te skakel. Skakelaars word ook dikwels in die elektronika
+   gebruik, in rekenaars en in telekommunikasie. Hierde toepassings benut
+   gewoonlik elektroniese skakelaars, hierdie artikel konsentreer egter
+   meer op skakelaars wat tipies in swaarstroom toepassings soos wat
+   tipies in huishoudelike toepassings, kantore en fabrieke gebruik word.
+
+   Inhoud
+
+        * 1 Bou van 'n skakelaar
+        * 2 Saamgestelde skakelaars
+             + 2.1 Maak-voor-breek, breek-voor-maak
+        * 3 Sydige skakelaars
+        * 4 Spesiale soorte
+        * 5 Intermediêre skakelaar
+        * 6 Veelrigtingskakeling
+             + 6.1 Twee liggings
+             + 6.2 Meer as twee liggings
+        * 7 Swaarstroomskakelaars
+        * 8 Kontakbons
+             + 8.1 Tydsgebaseerde tegnieke
+                  o 8.1.1 Resistor/Kapasitor
+                  o 8.1.2 Toestandsmasjiene en programmatuur
+             + 8.2 Histerese
+                  o 8.2.1 Oorskakelaar
+                  o 8.2.2 Veranderlike weerstand
+        * 9 Sien ook
+        * 10 Eksterne skakels
+        * 11 Verwysings
+
+[wysig] Bou van 'n skakelaar
+
+   'n Skakelaar bestaan tipies uit twee metaalkontakte. Hierdie metaal is
+   gewoonlik 'n korrosiebestande metaal omdat ander metale geneig is om 'n
+   nie-geleidende oksidasielaag te vorm wat sal verhoed dat die skakelaar
+   werk. Ander eienskappe waarop die metaal gekies word is elektriese
+   geleidingsvermoë, hardheid (weerstand teen verwering), metaalsterkte,
+   lae koste en giftigheid. Soms word die kontakte met edelmetale
+   geplateer. 'n Skakelaar kan ook so ontwerp word dat die twee
+   kontakoppervlakke oormekaar skuur tydens werking sodat die oppervlakke
+   skoongevee word^[1].
+
+   'n Skakelaar vereis ook 'n aandrywer (die bewegende dele wat die
+   kontakte teenmekaar vasdruk) wat gebruik word om die skakelaar se
+   posisie te verander. Die aandrywer kan die vorm aanneem van 'n wissel,
+   'n wieg of 'n drukknop of enige ander soort meganiese verbinding.
+
+[wysig] Saamgestelde skakelaars
+
+   Skakelaars verander nie altyd slegs tussen een van twee toestande nie
+   maar kan ook ontwerp word om meer as een skakeling te doen tydens 'n
+   oorskakeling. Daar bestaan 'n verskeidenheid sulke skakelaars wat
+   aangedui word na aanleiding van die aantal skakelaksies wat uitgevoer
+   word en die aantal punte (pole) wat met mekaar verbind word. Sommige
+   skakelaars word ook benoem na aanleiding van hulle normale toestand,
+   d.w.s. hetsy hulle normaal toe of normaalweg oop is.
+
+   Afkorting Verduideliking van Afkorting Bedradingsnaam Beskrywing
+   Simbool IEC 60617
+   EPES Enkelpool, enkelskakeling Eenrigting 'n Eenvoudige aan-af
+   skakelaar: Die twee terminale is óf aanmekaar verbind of glad nie aan
+   enige punt verbind nie, soos in die geval van 'n gewone ligskakelaar.
+   Beeld:Symbol circuit breaker (one-pole).svg
+   EPDS Enkelpool, dubbele skakeling Tweerigting 'n Eenvoudige skakelaar
+   vir oorskakelings: C (Common) word verbind aan L1 af aan L2.
+   Beeld:Symbol change over switch.svg
+   EPO Enkelpool oorskakeling
+   of Enkelpool, middel af   Gelykstaande aan EPDS.
+   DPES Dubbelpool, enkelskakeling Dubbelpool Gelykstaande aan twee EPES
+   skakelaars wat deur 'n enkele meganisme beheer word Beeld:Symbol
+   circuit breaker (two-pole).svg
+   DPDS Dubbelpool, dubbele skakeling   Gelykstaande aan twee EPDS
+   skakelaars wat deur 'n enkele meganisme beheer word. Beeld:Symbol
+   change over switch (two-pole).svg
+   DPO Dubbelpool oorskakeling
+   of Dubbelpool, middel af   Gelykstaande aan DPDS.
+       Intermediêre skakelaar DPDS skakelaar wat intern bedraad is vir die
+   omkeer van polariteit: slegs vier eerder as ses drade word na buite die
+   skakelaaromhulsel gebring. Beeld:Symbol cross switch.svg
+
+[wysig] Maak-voor-breek, breek-voor-maak
+
+   In 'n skakelaar met multiskakelings is daar twee moontlike
+   oorgangstoestande soos daar van die een posisie na 'n ander beweeg
+   word. In sommige skakelaarontwerpe word die nuwe kontakte verbind
+   voordat die ou verbindings verbreek word. Dit staan bekend as 'n
+   maak-voor-breek tipe skakelaar en verseker dat die bewegende kontak
+   nooit 'n oop stroombaan veroorsaak nie (word ook soms na verwys as 'n
+   kortsluitskakelaar). Die alternatief is 'n breek-voor-maak tipe
+   skakelaar waar die ou kontakverbinding eers verbreek word voordat die
+   nuwe een verbind word. Dit verseker dat daar nooit 'n kortsluiting
+   tussen die kontakte plaasvind nie. Beide soorte ontwerpe word algemeen
+   gebruik vir verskillende toepassings.
+
+[wysig] Sydige skakelaars
+
+   'n Sydige skakelaar is een wat 'n (veer) bevat wat die aandrywer na 'n
+   sekere posisie laat terugkeer. So 'n skakelaar kan byvoorbeeld
+   aangeskakel word wanneer die aandrywer/knop gedruk word, maar weer
+   outomaties afskakel wanneer die knop gelos word. Sulke skakelaars word
+   tipies gebruik om te verseker dat 'n operateur wel teenwoordig/wakker
+   is tydens die werking van die toestel wat bedryf word.
+
+[wysig] Spesiale soorte
+
+   Skakelaars kan ook ontwerp word om te reageer op 'n meganiese stimulus:
+   soos byvoorbeeld, vibrasie, helling, lugdruk, vloeistofvlak, die draai
+   van 'n sleutel, linieêre- of draaibeweging of die teenwoordigheid van
+   'n magnetiese veld (rietskakelaar). Die kwikskakelaar bevat 'n druppel
+   kwik binne-in 'n glasbuis. Die twee kontakte steek binne die buis in en
+   word meganies aanmekaar verbind as die buis se helling sodanig verander
+   dat die kwik oor hulle rol. 'n Voordeel van hierdie soort skakelaar is
+   dat die vloeibare metaal rondom stofpartikels en ander vuiligheid sal
+   vloei wat andersins sou verhoed het dat die kontakte van 'n
+   konvensionele skakelaar toemaak.
+
+   Ander soorte skakelaars sluit in:
+     * Sentrifugale skakelaar
+     * DIP-skakelaar
+     * Hall-effek skakelaar
+     * Traagheidskakelaar
+     * Membraanskakelaar
+     * Wisselskakelaar
+     * Oorskakelaar
+     * Mindy skakelaar
+
+[wysig] Intermediêre skakelaar
+
+   'n DPDS skakelaar het ses verbindings, maar aangesien die omkeer van
+   polariteit 'n baie algemene gebruik van DPDS skakelaars is, word
+   sommige variante van DPDS skakelaar intern bedraad spesifiek vir
+   polariteitsomkering. Dus het hulle slegs vier terminale eerder as ses.
+   Twee van die terminale is toevoere en twee is afvoere. Intermediêre
+   skakelaars speel ook 'n belangrike rol by veelrigtingskakelaarstelsels
+   waar daar meer as twee skakelaars is (sien onderstaande bespreking).
+
+[wysig] Veelrigtingskakeling
+
+   Veelrigtingskakeling is 'n metode waarop skakelaars in groepe aanmekaar
+   verbind word sodat enige van die skakelaars gebruik kan word om 'n
+   lading aan die kragbron te koppel of te ontkoppel. Dit word dikwels
+   gedoen in die geval van beligtingstelsels om te verseker dat die
+   gebruiker nie deur 'n donker area hoef te beweeg om by die ligskakelaar
+   uit te kom nie.
+
+[wysig] Twee liggings
+
+   1. Eerste Metode2. Tweede metode3. Benoeming van terminale
+   1. Eerste Metode
+   2. Tweede metode
+   3. Benoeming van terminale
+
+   Die aanskakel van 'n lading (soos 'n lig aan beide kante van 'n stel
+   trappe) vereis twee EPDS skakelaars. Daar is twee basiese metodes om
+   dit reg te kry.
+
+   Met die eerste metode word die kragbron na die gemene terminaal van een
+   van die skakelaars gekoppel; hierdie skakelaars word dan deur L1 en L2
+   terminale verbind en dan word die kragvoer na die lig vanaf die gemene
+   terminaal van die tweede skakelaar afgevoer. A word aan B of C gekoppel
+   of D word aan B of C gekoppel; die lig sal dan brand as A aan D
+   gekoppel word, d.w.s. As A en D beide aan B of beide aan C gekoppel
+   word.
+
+   Die tweede metode behels die koppeling van die drie terminale van die
+   een skakelaar aan die ooreenstemmende drie terminale van die ander
+   skakelaar en dan die kragtoevoer en die afvoer na die lig aan die L1 en
+   L2 terminale onderskeidelik te koppel. Deur die een skakelaar word A
+   aan B of C verbind, deur die ander ook aan B of C; die lig is aan as B
+   aan C verbind word, d.w.s. as A aan B verbind is deur een skakelaar en
+   aan C verbind is deur die ander skakelaar.
+
+   Die bedrading wat benodig word vir die twee benodig kan as volg opgesom
+   word (beaarding is nie ingesluit nie):
+
+   Eerste metode:
+     * Twee drade tussen beide skakelaars
+     * 'n Enkele draad vanaf een skakelaar na die kragtoevoer
+       (Lewendig/Rooi draad)
+     * 'n Enkele draad vanaf die een skakelaar na die lading
+     * 'n Enkele draad vanaf die lading na die kragtoevoer (Neutraal/Swart
+       draad)
+
+   Tweede metode:
+     * Drie drade tussen beide skakelaars
+     * 'n Enkele draad vanaf enige posisie tussen die twee skakelaars na
+       die kragtoevoer (Lewendig/Rooi draad)
+     * 'n Enkele draad vanaf enige posisie tussen die twee skakelaars na
+       die lading
+     * 'n Enkele draad vanaf die lading na die kragtoevoer (Neutraal/swart
+       draad)
+
+[wysig] Meer as twee liggings
+
+   Drierigtingskakeling.1. Eerste metode2. Tweede metode3. Benaming van
+   skakelaarterminale
+   Drierigtingskakeling.
+   1. Eerste metode
+   2. Tweede metode
+   3. Benaming van skakelaarterminale
+
+   Vir meer as twee liggings moet die drade wat die L1 en L2 terminale van
+   die twee drierigtingskakelaars deur 'n intermediêre skakelaar gestuur
+   word sodat die verbindings oorgeskakel kan word. Enige aantal
+   intermediêre skakelaars (sien besrywing by saamgestelde skakelaars) kan
+   ingevoeg word wat enige aantal liggings vir die skakelaars moontlik
+   maak.
+
+   Die bedrading wat benodig word kan as volg opgesom word (aardlekasie
+   beskerming uitgesluit):
+
+   Eerste metode:
+     * Dubbele drade tussen die reeks skakelaars
+     * 'n Enkele draad vanaf die eerste skakelaar na die kragtoevoer (rooi
+       draad/lewendig)
+     * 'n Enkele draad vanaf die laaste skakelaar na die lading (gewoonlik
+       'n blou draad)
+     * 'n Enkele draad vanaf die lading na neutraal (die swart draad)
+
+   Tweede metode:
+     * Dubbele drade tussen die reeks skakelaars
+     * 'n Enkele draad vanaf die eerste skakelaar na die laaste skakelaar
+     * 'n Enkele draad vanaf enige punt tussen twee van die skakelaars na
+       die kragtoevoer (rooi draad/lewendig)
+     * 'n Enkele draad tussen dieselfde twee skakelaars en die lading
+     * 'n Enkele draad vanaf die lading na neutraal (swart draad)
+
+[wysig] Swaarstroomskakelaars
+
+   Wanneer 'n skakelaar ontwerp is om beduidende hoeveelhede stroom te
+   skakel, moet die oorgangstoestand van die skakelaar sowel as die vermoë
+   van die skakelaar om voortdurend die normale bedryfstroom te hanteer
+   oorweeg word. Wanneer 'n skakelaar aan is, is sy weerstand bykans nul
+   en word baie min krag oor die kontakte verloor; wanneer 'n skakelaar af
+   is, is sy weerstand baie hoog en word selfs minder krag verloor oor die
+   kontakte. As die skakelaar oorgeskakel word ontstaan 'n
+   oorgangstoestand waar bykans 'n kwart (of selfs meer as die lading nie
+   suiwer resistief van aard is nie) van die totale lading oor die
+   skakelaar verloor. Om hierdie rede bevat die meeste kragskakelaars (die
+   meeste ligskakelaars en bykans alle groter skakelaars) 'n veermeganisme
+   wat verseker dat die oorgangstydperk tussen die aan en af toestand so
+   kort moontlik is, onafhanklik van die spoed waarteen die gebruiker die
+   aandrywer/knop aktiveer.
+
+[wysig] Kontakbons
+
+   Kontakbons is ook 'n algemene probleem met meganiese skakelaars en
+   relê-skakelaars. Skakelaar- en relê-kontakte word gewoonlik van
+   veerkragtige metale gemaak wat deur 'n aandrywer gedwing word om kontak
+   te maak. Wanneer die kontakte mekaar tref, veroorsaak hulle momentum en
+   elastisiteit dat hulle van mekaar af wegbons. Die resultaat is 'n
+   vinnig pulsende elektriese stroom eerder as 'n skoon oorgang vanaf die
+   geen stroom- tot die volstroomtoestand nie. Die golfvorm word dan veder
+   verander deur die parasitiese induktansie en kapasitansie in die
+   skakelaar en bedrading wat lei tot 'n reeks gedempte sinusoïdale
+   ossilasies. Hierde verskynsel is gewoonlik nie merkbaar in gewone
+   wisselstroombane, waar die bons te vinnig gebeur om die meeste
+   toerusting te beïnvloed nie. Dit veroorsaak egter wel probleme in
+   analoë- en logiese stroombane wat nie ontwerp is om ossilerende
+   spannings te hanteer nie.
+
+   Sekwensiële digitale logiese stroombane is veral vatbaar vir
+   kontakbons. Die spanningsgolfvorm wat deur wat deurdie skakelaarbons
+   geskep word voldoen nie aan die amplitude- en tydsreëlingspesifikasies
+   vir die logiese stroombane nie. Die resultaat is dat die stroombaan mag
+   faal as gevolg van probleme soos metastabiliteit, resiestoestande,
+   uitskotpolse en wanfunksies.
+
+   Daar is 'n aantal tegnieke wat gebruik word om skakelaarbons te
+   verminder. Die tegnieke kan breedweg verdeel word in tydsgebaseerde
+   tegnieke en histerese gebaseerde tegnieke.
+
+[wysig] Tydsgebaseerde tegnieke
+
+   Tydsgebaseerde tegnieke maak staat op die byvoeging van voldoende
+   vertragings in die stelsel sodat die bons geïgnoreer kan word. Die
+   groot voordeel van sulke tegnieke vereis nie enige spesiale ontwerpe
+   aan die skakelaarkant nie en is daarom oor die algemeen goedkoper. Vir
+   goeie werkverrigting moet hulle ontwerp word om by die skakelaar aan te
+   pas (te veel vertraging en die stelsel is onnodig stadig en te min
+   vertraging sal die bons nie uitgeskakel word nie).
+
+[wysig] Resistor/Kapasitor
+
+   As 'n aan/af skakelaar gebruik word met 'n resistor in serie en met 'n
+   enkele kapasitor in parralel oor die skakelaar geplaas word en die
+   skakelaar word gesluit, sal die kapasitor bykans onmiddelik deur die
+   skakelaar ontlaai. As die skakelaar oopgemaak word, sal die kapasitor
+   'n tydjie neem om te herlaai. Om hierdie rede sal die kontakbons 'n
+   nalaatbare invloed hê op die afvoer. Die stadige rand van die golwe kan
+   met 'n Schmitt-sneller skoongemaak word indien nodig. Hierdie metode
+   het die voordeel van 'n vinnige reaksie op die aanvanklike druk van die
+   knop maar die stroomstuwings deur die skakelaar is nie altyd wenslik
+   nie. Ander RC gebaseerde stelsels is ook moontlik met verskeie reaksies
+   en sulke stelsels is waarskynlik die maklikste metode wanneer
+   eenvoudige logiese hekke en diskrete komponente gebruik word in die bou
+   daarvan.
+
+[wysig] Toestandsmasjiene en programmatuur
+
+   'n Eindige toestandsmasjien of program wat op 'n SVE loop kan ontwerp
+   word om 'n vasgestelde aantal kloksiklusse na enige oorgang te wag
+   alvorens 'n nuwe een geregistreer word. Dit maak 'n goedkoop opsie
+   beskikbaar vir die verwydering van bonseffekte as 'n mikroverwerker,
+   mikrobeheerder of hekrooster reeds in gebruik is, maar sal waarskynlik
+   nie die moeite werd wees as dit met enkele logiese hekke gebou word
+   nie.
+
+[wysig] Histerese
+
+   Dit is verder ook moontlik om histerese in te bou deur die posisie waar
+   die druk van die skakelaar waargeneem word op 'n ander punt voorkom
+   waar 'n los van die skakelaarknop waargeneem word. Solank as wat die
+   spronge klein genoeg is om nie die skakelaar tussen die twee posisies
+   te laat beweeg nie, behoort bonsprobleme opgelos te word. Histerese kan
+   meganies of elektronies (d.w.s. 'n Schmitt-sneller) van aard wees.
+
+[wysig] Oorskakelaar
+
+   'n Oorskakelaar verskaf twee onderskeibare gebeure, die sluit van die
+   kontakte en die breking van 'n ander. Hulle kan gebruik word vir die
+   voer van 'n flip-flop (wipkring) stroombaan. Op hierdie manier word die
+   druk van die skakelaar eers opgemerk wanneer die kontak gemaak word en
+   die breek van die skakelaar eers wanneer die kontak gebreek word.
+   Wanneer die skakelaar bons tussen hierdie twee toestande word geen
+   verandering waargeneem nie. Om 'n enkele logiese sein van so 'n
+   opstelling te verkry kan 'n eenvoudige SR houwipbaan gebruik word.
+
+[wysig] Veranderlike weerstand
+
+   Gewone skakelaars word ontwerp om 'n vaste aan-af te verskaf maar dit
+   is ook moontlik om een te ontwerp wat die oorgang meer geleidelik
+   verander tussen die aan-/af-toestande. Dit hou die veranderinge in
+   afvoer vanweë bons klein. Deur dan hierdie afvoer na 'n schmitt-sneller
+   te voer kan die uitwerking van die veranderinge wat die bons veroorsaak
+   geëlimineer word.
+
+[wysig] Sien ook
+
+     * Stroombreker
+     * Kontaktor
+     * Analoë skakelaar
+
+[wysig] Eksterne skakels
+
+     * Verskeie bedradingsmoontlikhede (met diagramme)
+     * Probleemsporing van bestaande 2/3/4-rigting skakelaars (VSA/Kanada,
+       met diagramme)
+     * Kort video wat verduidelik hoe om 'n drierigtingskakelaar te
+       installeer (met stap vir stap instruksies)
+     * Tutoriaal oor die verwyder van skakelaarbons Analoë en digitale
+       bonsverwydering word bespreek met skematiese tekeninge en
+       voorbeelde van bronkode.
+
+[wysig] Verwysings
+
+    1. ^ . Algemene Elektriese Kontakmateriale, Tanaka Precious Metals
+
+     * Walker, PMB, Chambers Science and Technology Dictionary, Edinburgh,
+       1988, ISBN 1852961503 (definition of contact bounce)
+
+   Kategorieë: Elektrisiteit • Elektronika
+

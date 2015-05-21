@@ -1,0 +1,150 @@
+Elektriese potensiaal
+
+
+   Die elektriese potensiaal van enige punt in 'n ruimte is die potensiële
+   energie per eenheid van 'n lading wat verband hou met 'n statiese
+   (onveranderlike) elektriese veld. Dit word tipies in volt gemeet en is
+   'n Lorentz skalare grootheid. Die verskil in elektriese potensiaal
+   tussen twee punte staan bekend as die potensiaalverskil of soms as die
+   spanning.
+
+   Inhoud
+
+        * 1 Verduideliking
+        * 2 Inleiding
+        * 3 Wiskundige inleiding
+        * 4 Toepassing in elektronika
+        * 5 Verwysings en bronne
+
+[wysig] Verduideliking
+
+   'n Mens kan aan elektriese potensiaal dink as 'n soort "elektriese
+   druk". Waar die "druk" eenvormig is sal geen stroom vloei nie en sal
+   niks gebeur nie. Net soos 'n mens nie normale atmosferiese druk kan
+   waarneem nie aangesien daar geen drukverskille binne die liggaam en
+   daarbuite is nie word dit nie waargeneem nie. Waar hierdie "elektriese
+   druk" verskil sal 'n elektriese veld bestaan wat die nodige krag kan
+   veroorsaak wat op gelaaide deeltjies uitgeoefen word.
+
+   Wiskundig gesien hou die potensiaal φ ('n skalaarveld) verband met die
+   konserwatiewe elektriese veld \mathbf{E} (
+   \mathbf{E}=-\mathbf{\nabla}\varphi ) wat voorkom wanneer die magnetiese
+   veld tydsonafhanklik is (sodat \mathbf{\nabla} \times \mathbf{E}=0
+   vanuit Faraday se wet).
+
+   Soos enige potensiaalfunksie, het slegs die potensiaalverskil
+   (spanning) tussen twee punte enige fisiese betekenis (as kwantum
+   Aharonov-Bohm effek buite rekening gelaat word), aangesien enige
+   konstante by φ getel kan word sonder om \mathbf{E} te beïnvloed.
+
+   Die elektriese potensiaal φ word daarom gemeet in eenhede van energie
+   per elektriese eenheidslading. In SI-eenhede is dit:
+
+          joule/coulomb = volt.
+
+   Die elektriese potensiaal kan ook veralgemeen word om situasies te
+   hanteer waar die potensiaalvelde tydafhanklik is, in welke geval die
+   elektriese veld nie konserwatief is nie en 'n potensiaalfunksie nie
+   oral in ruimte gedefinieer kan word nie. Daar word 'n effektiewe
+   potensiaalverskil ingesluit wat verband hou met die induktansie van die
+   stroombaan. Hierdie veralgemeende potensiaalverskil word ook die
+   elektromotoriese krag genoem.
+
+[wysig] Inleiding
+
+   Voorwerpe kan oor 'n eienskap beskik wat as 'n elektriese lading bekend
+   staan. 'n Elektriese veld oefen 'n krag op gelaaide voorwerpe uit en
+   versnel hulle in die rigting van die krag, hetsy in die rigting of
+   teenoorgestelde rigting van die veld. As die gelaaide voorwerp 'n
+   positiewe lading dra, sal die krag en versnelling in die rigting van
+   die veld wees. Hierdie krag het dieselfde rigting as die elektriese
+   veldvektor en die grootte daarvan word gegee deur die grootte van die
+   lading vermenigvuldig met die grootte van die elektriese veld.
+
+   Krag en potensiële energie hoe direk verband met mekaar. As 'n voorwerp
+   in die rigting van die krag beweeg wat dit versnel, word sy potensiële
+   energie verlaag. Die potensiële energie van 'n vallende voorwerp
+   verlaag byvoorbeeld soos dit die aarde nader en word omgeskakel in
+   kinetiese energie.
+
+   Vir sekere kragte is dit moontlik om 'n potensiaal van 'n veld te
+   definieer sodanig dat die potensiële energie van 'n voorwerp as gevolg
+   van 'n veld slegs afhanklik is van die posisie van daardie voorwerp ten
+   opsigte van die veld. Twee sulke kragte is swaartekrag en die
+   elektriese krag in die afwesigheid van tydsveranderlike magnetiese
+   velde. Die potensiaal van 'n elektriese veld word die elektriese
+   potensiaal genoem.
+
+   Die elektriese potensiaal en die magnetiese vektorpotensiaal vorm saam
+   'n viervektor sodat die twee soorte potensiale onder Lorentz
+   transformasies vermeng kan word.
+
+[wysig] Wiskundige inleiding
+
+   Die begrip elektriese potensiaal (aangedui deur: φ, φ[E] of V) het 'n
+   noue verband met die begrip potensiële energie, as volg:
+
+          U[E] = qφ
+
+   waar U[E] die elektriese potensiële energie is van 'n toetslading q as
+   gevolg van die elektriese veld. Neem kennis dat die potensiële energie
+   en dus ook die elektriese potensiaal slegs gedefinieer is ten opsigte
+   van 'n konstante waarde: 'n mens moet 'n arbitrêre posisie kies waar
+   die potensiële energie nul is.
+
+   Die korrekte definisie van elektriese potensiaal gebruik die elektriese
+   veld \mathbf{E} :
+
+          \phi_ \mathrm{E} = - \int_C \mathbf{E} \cdot \mathrm{d}
+          \mathbf{S}
+
+   waar E gelyk is aan die elektriese veld, ds 'n onbekende is en 'C' 'n
+   arbitrêre pad is wat die punt onder oorweging met die punt by nul
+   potensiaal verbind.
+
+   Wanneer \mathbf{\nabla} \times \mathbf{E} = 0 , is die lynintegraal
+   hierbo nie afhanklik van die spesifieke pad C nie maar slegs van die
+   eindpunte.
+
+   Op soortgelyke wyse sal die elektriese potensiaal die elektriese veld
+   bepaal volgens sy gradiënt:
+
+          \mathbf{E} = - \mathbf{\nabla} \phi_\mathrm{E}
+
+   en daarom, volgens Gauss se wet, bevredig die potensiaal Poisson se
+   vergelyking:
+
+          \mathbf{\nabla} \cdot \mathbf{E} = \mathbf{\nabla} \cdot \left
+          (- \mathbf{\nabla} \phi_\mathrm{E} \right ) = -\nabla^2
+          \phi_\mathrm{E} = \rho / \varepsilon_0
+
+   waar ρ die totale ladingsdigtheid is (insluitende die gebonde lading).
+
+   Let wel: hierdie vergelykings kan nie gebruik word as
+   \mathbf{\nabla}\times\mathbf{E} \ne 0 , d.w.s. in die geval van 'n
+   nie-konserwatiewe elektriese veld (wat veroorsaak word deur 'n
+   veranderende magnetiese veld; sien Maxwell se vergelykings).
+
+[wysig] Toepassing in elektronika
+
+   Elektriese potensiaal, tipies in volt gemeet, verskaf 'n eenvoudige
+   manier om elektroniese stroombane te analiseer sonder dat diepgaande
+   kennis oor die stroombaanvorm of die elektriese velde daarin benodig
+   word.
+
+   Die elektriese potensiaal verskaf 'n eenvoudige manier om elektriese
+   netwerke te analiseer met behulp van Kirchoff se wette, sonder dat die
+   gedetaïlleerde Maxwell vergelykings vir die velde van die stroombaan
+   opgelos hoef te word.
+
+[wysig] Verwysings en bronne
+
+     * Griffiths, David J. (1999). Introduction to Electrodynamics (3^de
+       uitgawe). Prentice Hall. ISBN 0-13-805326-X.
+     * Jackson, John David (1999). Classical Electrodynamics, 3rd ed., New
+       York: Wiley. ISBN 0-471-30932-X.
+     * Electromagnetic Fields (2^de Uitgawe), Roald K. Wangsness, Wiley,
+       1986. ISBN 0-471-81186-6.
+
+   Kategorie: Fisika
+

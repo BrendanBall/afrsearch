@@ -1,0 +1,338 @@
+Koolstof
+
+
+
+                                      boor – koolstof – stikstof
+
+                                       C
+                                      Si
+
+
+                                            Volledige tabel
+
+                                   Algemeen
+          Naam, Simbool, Getal                               Koolstof, C, 6
+                Chemiese reeks                                   Nie-metale
+          Groep, Periode, Blok                               14 (IVA), 2, p
+            Digtheid, Hardheid              2267 kg/m^3,
+                                                 0.5 (grafiet)
+                                                             10.0 (diamant)
+                      Voorkoms           swart (grafiet)
+                                                   kleurloos (diamant)
+                               Atoom eienskappe
+                    Atoommassa                                  12.0107 ame
+        Atoomradius (bereken.)                                    70 (67)pm
+              Kovalente radius                                        77 pm
+          van der Waals radius                                       170 pm
+         Elektron konfigurasie                                 [He]2e^22p^2
+          ^-e per energie vlak                                         2, 4
+   Oksidasietoestande (Oksied)                             4, 2 (effe suur)
+              Kristalstruktuur                                  Heksagonaal
+                              Fisiese eienskappe
+          Toestand van materie                      vastestof(diamagneties)
+                     Smeltpunt                         3773 K (3,499.85 °C)
+                      Kookpunt                         5100 K (4,826.85 °C)
+                 Molêre volume                          5.29 ×10^-6 m^3/mol
+             Verdampingswarmte                     355.8 kJ/mol (sublimeer)
+               Smeltingswarmte                              NVT (sublimeer)
+                      Dampdruk                                         0 Pa
+               Spoed van klank                                    18350 m/s
+                                Miscellaneous
+           Elektronegatiwiteit                         2.55 (Pauling skaal)
+   Spesifieke warmtekapasiteit                                 710 J/(kg*K)
+   Elektriese geleidingsvermoë                         0.061 × 10^6/(m·ohm)
+     Termiese geleidingsvermoë                                  129 W/(m*K)
+     1^st ionisasie potensiaal                                1086.5 kJ/mol
+     2^nd ionisasie potensiaal                                2352.6 kJ/mol
+     3^rd ionisasie potensiaal                                4620.5 kJ/mol
+     4^th ionisasie potensiaal                                6222.7 kJ/mol
+     5^th ionisasie potensiaal                                 37831 kJ/mol
+     6^th ionisasie potensiaal                               47277.0 kJ/mol
+                            Mees stabiele isotope
+
+
+   iso   NV   Halfleeftyd   VM   VE MeV  VP
+   ^12C 98.9% C is stabiel met 6 neutrone
+   ^13C 1.1%  C is stabiel met 7 neutrone
+   ^14C spoor 5730 j      beta^- 0.156  ^14N
+
+              SI units & STD word gebruik tensy anders vermeld.
+
+   Koolstof (Latyn: Carbogenum), is 'n chemiese element in die periodieke
+   tabel met die simbool C en atoomgetal van 6. Die nie-metaalagtige,
+   tetravalente element kom algemeen voor en het verskeie allotropiese
+   vorms:
+     * diamant (die hardste mineraal bekend). Verbindingstruktuur: 4
+       elektrone in sogenaamde 3-dimensionele sp3 orbitale.
+     * grafiet (een van die sagste stowwe). Verbindingstruktuur: 3
+       elektrone in 2-dimensionele sp2-orbitale en 1 elektron in 'n
+       s-orbitaal.
+     * Kovalent verbinde sp1 orbitale is van chemiese belang alleenlik.
+
+   Fullerene is nanometer-skaal molekules. In die eenvoudigste vorm
+   daarvan bestaan uit 60 koolstof atome in 'n grafietlaag wat gebuig is
+   om 'n driedimensionele struktuur te gee wat baie soos 'n sokkerbal lyk.
+
+   Lampswart bestaan uit klein grafietagtige areas. Die areas kom lukraak
+   verspreid voor dus is die hele struktuur isotropies.
+
+   Sogenaamde 'glasagtige koolstof' is isotropies en net so sterk soos
+   glas. Anders as in normale grafiet, is die grafietagtige lae nie
+   gerangskik soos in die bladsye van 'n boek nie maar is gevrommel soos
+   wanneer 'n mens papier vrommel.
+
+   Koolstofvesels is soortgelyk aan glasagtige koolstof. Onder spesiale
+   behandeling (rek van organiese vesels en verkoling daarvan) is dit
+   moontlik om die grafietvlakke in die rigting van die vesel te rangskik.
+   Daar is dan geen koolstofvlakke wat loodreg tot die as van die vesel
+   gerangskik is nie. Die resultaat is vesels met 'n baie hoër spesifieke
+   breeksterkte as die van staal!
+
+   Koolstof kom voor in alle organiese lewe en vorm die basis van
+   organiese chemie. Hierdie nie-metaal het ook die interessante eienskap
+   dat dit met atome van sy eie soort kan verbindings vorm asook met 'n
+   groot verskeidenheid ander elemente, soveel so dat daar bykans 10
+   miljoen bekende verbindings van koolstof bestaan. Wanneer dit met
+   suurstof verbind vorm dit koolstofdioksied, 'n molekuul wat absoluut
+   noodsaaklik is vir plante om te groei. Wanneer dit met waterstof
+   verbind, vorm dit verskeie verbindings bekend as koolwaterstowwe wat
+   weer uiters noodsaaklik is vir die nywerheid in die vorm van
+   fossielbrandstowwe. Wanneer dit met beide suurstof en waterstof verbind
+   kan dit baie groepe verbindings vorm insluitend vetsure wat noodsaaklik
+   is vir lewe en esters wat die geur aan baie vrugte verleen. Die
+   istotoop koolstof-14 word algemeen gebruik in radioaktiewe datering.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+             + 2.1 Ander gebruike
+        * 3 Geskiedenis
+        * 4 Allotrope
+        * 5 Voorkoms
+        * 6 Anorganies verbindings
+        * 7 Koolstofkettings
+        * 8 Koolstofkringloop
+        * 9 Isotopes
+        * 10 Voorsorgmaatreëls
+        * 11 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Koolstof is vir baie redes 'n merkwaardige element. Sy verskillende
+   vorme sluit een van die sagste (grafiet) en een van die hardste
+   (diamant) stowwe aan die mens bekend in. Meerendeels het dit 'n sterk
+   neiging om verbingings te vorm met ander klein atome, insluitende ander
+   koolstof atome en sy klein grootte maak dit vir die element moontlik om
+   veelvuldige verbindings te maak. As gevolg van hierdie eienskappe is
+   dit bekend dat koolstof byna tien miljoen bekende chemiese stowwe kan
+   vorm. Koolstof verbindings vorm die basis van alle lewe op aarde en die
+   koolstof-stikstof siklus verskaf van die energie wat deur die son en
+   ander sterre uitgestraal word.
+
+   Koolstof is nie in die grootknal geskep nie as gevolg van die feit dat
+   dit 'n driedubbele botsings van alfa partikels (helium kerne) vereis om
+   geproduseer te kan word. Die heelal het aanvanklik uitgesit en ook te
+   vinnig afgekoel vir dit om te gebeur. Dit word egter in die binnekant
+   van sterre gevorm omdat die botsingsproses skynbaar daar moontlik is.
+
+[wysig] Aanwendings
+
+   Koolstof is 'n noodsaaklike komponent van alle lewende stelsels en
+   sonder dit sou lewe soos ons dit ken nie kon bestaan nie.
+
+   Die hoof ekonomiese gebruik van koolstof is in die vorm van
+   koolwaterstowwe, waarvan die fossielbrandstowwe, metaangas en ru-olie,
+   die vernaamste bronne is. Ru-olie word deur die petrochemiese nywerheid
+   gebruik om onder andere petrol, diesel en keroseen deur middel van
+   distillasieprosesse in raffinaderye te vervaardig. Ru-olie is die
+   rou-materiaal vir vele sintetiese stowwe waaronder die plastieke ook
+   tel.
+
+[wysig] Ander gebruike
+
+     * Die isotoop ^14C, wat op 27 Februarie 1940 ontdek is, word gebruik
+       om radiokoolstof datering te doen.
+     * Sommige rookverklikkers gebruik klein hoeveelhede radioaktiewe
+       koolstof isotoop as bron van ioniserende bestraling (Die meeste
+       rookverklikkers van die tipe gebruik egter 'n isotoop van
+       Amerikium).
+     * Grafiet word gekombineer met kleie om die 'lood' te maak wat in
+       potlode gebruik word.
+     * Diamant word vir versieringsdoeleindes gebruik en ook om boorpunte
+       en vir ander eienskappe waar van sy hoë hardheid gebruik gemaak
+       word.
+     * Koolstof word by yster gevoeg om staal te maak.
+     * Koolstof word ook gebruik vir die beheerstawe in kernreaktore.
+     * Grafiet koolstof in 'n verpoeierde, koek vorm word gebruik as
+       houtskool om mee te kook, vir kunswerk en ander gebruike.
+     * Houtskool word gebruik in pil of poeier vorm om toksiese stowwe of
+       giwwe in die spysverteringskanaal te adsorbeer.
+     * Die chemiese en strukturele eienskappe van fullerene, in die vorm
+       van koolstof nanobuise het belowende potensiële gebruike in die
+       ontluikende veld van nanotegnologie.
+
+[wysig] Geskiedenis
+
+   Koolstof is reeds in die voorgeskiedenis ontdek en was al bekend aan
+   die antieke mens, wat dit vervaardig het deur die verbranding van
+   organiese materiaal met onvoldoende hoeveelhede suurstof (houtskool).
+   Diamante is ook lank bekend as edelgesteente al was mense nie bewus van
+   die verbintenis met houtskool nie. Die mees onlangste allotroop wat
+   ontdek is fullerene is ontdek as 'n neweproduk van molekulêre bundel
+   eksperimente van die 1980's.
+
+[wysig] Allotrope
+
+   Vier allotrope van koolstof is bekend: amorfe, grafiet, diamant en
+   fullerene. Die ontdekking van 'n vyfde vorm is onlangs op 22 Maart 2004
+   bekend gemaak.
+
+   In sy amorfe vorm is koolstof eintlik basies grafiet maar word nie
+   saamgebind in 'n kristallyne makrostruktuur nie. Dit kom eerder voor as
+   'n poeier wat die hoofbestandeel is van stowwe soos houtskool en
+   lampswart (roet).
+
+   Teen normale drukke neem koolstof die vorm van grafiet aan, waar elke
+   atoom gebonde is aan drie ander 'n vlak wat bestaan uit versmelte
+   heksagonale ringe, soortgelyk aan diè in aromatiese koolwaterstowwe.
+   Die twee bekende vorms van grafiet, alfa (heksagonaal) en beta
+   ([[rombohedron|rombies), het beide identiese fisiese eienskappe behalwe
+   vir hul kristalstruktuur. Grafiet wat natuurlik voorkom bevat tipies
+   tot 30% van die beta vorm, terwyl sinteties vervaardigde grafiet slegs
+   die alfa vorm bevat. Die alfa vorm kan na die beta vorm omgeskakel word
+   deur meganiese behandeling en die beta vorm skakel terug na de alfa
+   vorm wanneer dit bo 1000°C verhit word.
+
+   Grafiet gelei elektrisiteit vanweë die delokalisering van die pi-wolk.
+   Die materiaal is sag en die blaadjies van die lae word slegs deur Van
+   der Waalskragte aanmekaar gehou wat beteken dat hulle maklik oormekaar
+   gly.
+
+   Teen baie hoë drukke het koolstof 'n allotroop wat diamant genoem word
+   waar elke atoom verbind is aan vier ander koolstof atome. Diamant het
+   dieselfde kubiese struktuur as silikon en germanium en danksy die
+   sterkte van die koolstof-koolstof binding is dit saam met die
+   iso-elektroniese boornitried (BN) die hardste stof bekend gedefinieer
+   as sy weerstand teen krapmerke. Die oorgang na grafiet is by
+   kamertemperatuur so stadig dat dit onopmerklik is. Onder sekere
+   toestande kan koolstof kristalliseer tot Lonsdaliet, 'n vorm soortgelyk
+   aan diamant maar heksagonaal.
+
+   Fullerene het 'n grafietagtige struktuur, maar in plaas van 'n suiwer
+   heksagonale pakking bevat dit ook pentagone (of moontlik heptagone) van
+   koolstof atome wat gebuig is om sfere, ellipse of silinders te vorm.
+   Die eienskappe van fullerene (ook bekend in Engels as "buckyballs" en
+   "buckytubes") is nog nie ten volle ontleed nie. Die name van die
+   fullerene word ontleen aan die naam van die ontwerper van die
+   geodesiese koepel wat 'n soortgelyke struktuur het as die van die
+   "buckyballs".
+
+   'n ferromagnetiese nanoskuim allotroop is ook onlangs ontdek.
+
+[wysig] Voorkoms
+
+   Daar bestaan byna tien miljoen koolstof verbindings wat bekend is aan
+   die wetenskap en baie duisende van hierdie verbindings is noodsaaklik
+   tot lewensprosesse en baie van die organies-gebaseerde reaksies is
+   ekonomies belangrik. Hierdie element kom in groot hoeveelhede in die
+   son, sterre, komete en in die atmosfeer van baie planete.
+
+   Sommige meteoriete bevat mikroskopies klein diamante wat gevorm is toe
+   die sonnestelsel slegs 'n protoplanetêre skyf was. Koolstof kan 'n
+   samestelling met ander elemente in die aarde se atmosfeer gevind word
+   asook opgelos in water.
+
+   Met klein hoeveelhede kalsium, magnesium en yster is dit 'n groot
+   komponent van baie groot rotsformasies karbonaatrots (kalksteen,
+   dolomiet, marmer ens.). wanneer koolstof met waterstof verbind word
+   vorm dit steenkool, petroleum en natuurlike gas wat koolwaterstowwe
+   genoem word.
+
+   Grafiet word in groot hoeveelhede in New York en Texas in die V.S.A;
+   Rusland; Mexiko; Groenland; en Indië aangetref.
+
+   Natuurlike diamante kom voor in die mineraal kimberliet wat gevind kan
+   word in antieke vulkaniese nekke en pype. Die grootste neerslae van
+   diamante kom in Afrika en spesifiek in Suid-Afrika, Namibië, Botswana,
+   die Republiek van die Kongo en Sierra Leone voor. Daar is ook neerslae
+   in Kanada, die Russiese Noordpoolstreek, Brasilië en in Noord- en
+   Wes-Australië.
+
+[wysig] Anorganies verbindings
+
+   (Sien ook organiese chemie.)
+
+   Die mees prominente oksied van koolstof is koolstofdioksied, CO[2]. Dit
+   vorm 'n mindere komponent van die Aarde se atmosfeer, word geproduseer
+   en verbruik deur lewende wesens. In water vorm dit spoorhoeveelhede
+   koolsuurgas, H[2]CO[3]. Karbonaat ione word ook gevorm deur die reaksie
+   van die koolsuurgas met ander elemente om karbonaatsoute of minerale te
+   vorm soos kalsiet.
+
+   Die ander oksiede is koolstof monoksied, CO, en die seldsame koolstof
+   suboksied, C[3]O[2]. Koolstofmonoksied word gevorm deur onvolledige
+   verbranding en is 'n kleurlose en reuklose gas. Die molekules bevat
+   elkeen 'n driedubbele verbinding en is nogal polêr, wat dit 'n neiging
+   gee om permanent aan hemoglobien molekules te bind en dit dus 'n hoogs
+   giftige gas maak. Sianied, CN, het 'n soortgelyke struktuur en tree
+   baie soos 'n halied-ioon op; die nitried Sianogeen, (CN)[2], is
+   verwant.
+
+   Met sterk metale vorm koolstof of karbiede, C^-, of aseteliede,
+   C[2]^2-; Koolstof met elektronegatiwiteite van 2 en 5 verkies om
+   kovalente verbindings te vorm. 'n Paar karbiede het kovalente
+   roosterstrukture wat baie soos die van diamant lyk.
+
+[wysig] Koolstofkettings
+
+   Koolstofkettings is die atomiese struktuur van koolwaterstowwe wat 'n
+   reeks koolstofatome in 'n ketting vorm met die oorblywende verbindings
+   wat met waterstof versadig word. Vlugtige olies het tipies korter
+   kettings en vette nog langer kettings. Wasse (soos kerswas) het uiters
+   lang kettings.
+
+[wysig] Koolstofkringloop
+
+          Sien koolstofkringloop.
+
+   Die koolstofkringloop is die voortdurende proses van verbinding en
+   vrystelling van koolstof en suurstof met die daarmee gepaardgaande
+   stoor en vrystelling van energie. Katabolisme + anabolisme =
+   metabolisme.
+
+[wysig] Isotopes
+
+   In 1961 het die Internasionale Unie van Suiwer en Toegepaste Chemie die
+   koolstof-12 isotoop aanvaar as die basis vir die bepaling van
+   atoomgewigte.
+     * Koolstof-14 is 'n radio-isotoop met 'n halfleeftyd van 5715 jaar en
+       is baie gebruik vir die radiokoolstof datering van hout en ander
+       monsters vanaf argeologiese terreine.
+
+   Koolstof het twee stabiele isotope wat natuurlik voorkom: C-12 (98.89%)
+   en C-13(1.11%).
+
+[wysig] Voorsorgmaatreëls
+
+   Verbindings van koolstof het 'n wye verskeidenheid toksiese werkinge.
+   Koolstof monoksied (CO), wat teenwoordig is in die uitlaatgasse van
+   motorvoertuigenjins, en Sianied (CN^-) wat gebruik word in die
+   mynboubedryf is uitermate giftig vir soogdiere. Baie ander
+   koolstofverbindings is nie-giftig en is om die waarheid te sê
+   noodsaaklik vir die bestaan van lewe. Organiese gasse soos eteen
+   (CH[2]=CH[2]) (ook etileen genoem), etyn (HCCH) (ook asetileen genoem)
+   en metaan (CH[4]) is hoogs vlambaar en selfs plofbaar wanneer dit met
+   lug gemeng word. Suiwer koolstof is egter nie giftig nie.
+
+[wysig] Eksterne skakels
+
+     * Los Alamos Nasionale Laboratorium in die V.S.A – Koolstof
+     * [1][2]
+     * WebElements.com – Koolstof
+     * EnvironmentalChemistry.com – Kooltsof
+     * It's Elemental – Koolstof
+     * – Koolstof Fullerene en ander Allotrope modelle deur Vincent Herr
+
+   Kategorie: Chemiese elemente
+

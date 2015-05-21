@@ -1,0 +1,114 @@
+Ralreier
+
+
+                       Ralreier
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ardeola
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. ralloides
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Ardeola ralloides
+   (Scopoli, 1769)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die ralreier is 'n redelik tot baie algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Hierdie is 'n bonkige reier met 'n kort nek, kort bek en 'n bruin rug.
+   In die somer het volwassenes lang nekvere. Sy nie-broeidrag verskil
+   soos volg van die Malgassiese Ralreier s'n: Sy rugkant is valer en
+   steek minder by sy vlerke af en sy gelerige snawel het 'n swart
+   snawelnok. In die broeityd verkleur sy bleekgeel pote 'n paar dae lank
+   tot pienkrooi. In vlug vertoon hy spierwit, tensy sy rugkant sigbaar
+   is. Hy is tussen 40 en 49 cm lank, met 'n algemene lengte van 43 cm.
+
+[wysig] Habitat
+
+   Hou een-een by strandmere, vleie, riooldamme en strome. Hulle vreet
+   insekte, vis en amfibiese diertjies.
+
+   Hulle broeigebiede moerasagtige vleilande in die warm lande. Hulle
+   broei in klein kolonies, dikwels saam met ander watervoëls, gewoonlik
+   op platvorms van stokke in bome of ander struike. Hulle lê 3-4 eiers.
+
+[wysig] Verspreiding
+
+   Dit broei in Suid-Europa en die Midde-Ooste, en is 'n migrasievoël wat
+   in Afrika oorwinter. Hulle word selde verder noord as hulle
+   broeigebiede gesien.
+
+   In Suidelike Afrika kom hulle vanaf Augrabies al langs die Gariep voor,
+   en die gebied strek verder oor die hele Vrystaat, KwaZulu-Natal,
+   Mpumalanga, Limpopo Provinsie, Noord-Wes Provinsie, die grootste deel
+   van Namibië en Botswana, asook die hele Zimbabwe en Mosambiek.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Ardeola ralloides
+     * Engelse naam: Squacco Heron
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Reiers
+

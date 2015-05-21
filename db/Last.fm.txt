@@ -1,0 +1,451 @@
+Last.fm
+
+
+                            Last.fm
+         URL       http://www.last.fm/
+    Kommersieel?   Ja
+    Soort webwerf  Radio, Musiek, Statistieke en Gemeenskap
+     Registrasie   Gratis, of subskripsie teen €2,50 per maand
+   Beskikbare tale veeltalig (12 tale)
+       Eienaar     CBS Interactive
+     Geskep deur   Gemeenskap
+
+   Last.fm is 'n internetradio- en musiek-gemeenskapswebwerf wat in die
+   Verenigde Koninkryk gevestig is en in 2002 gestig is. Dit is die wêreld
+   se grootste sosiale musiekplatform met meer as 20 miljoen aktiewe
+   gebruikers in meer as 232 lande. CBS Interactive het Last.fm op 30 Mei
+   2007 vir ₤140 miljoen gekoop — die grootste Web 2.0-transaksie wat
+   Europa tot nog toe gesien het.
+
+   Last.fm stel 'n gedetaileerde profiel saam van elke gebruiker se
+   musieksmaak deur rekord te hou van al die liedjies waarna die gebruiker
+   op Last.fm se internetradio of op sy eie rekenaar/iPod luister. Hierdie
+   musiekaanbevelingsstelsel word Audioscrobbler genoem. Hierdie inligting
+   word na Last.fm se databasis gestuur (of "gescrobble") deur middel van
+   Last.fm se program wat die inligting vanaf die inprop in die
+   musiekprogram na die webtuiste voer. Hierdie data word dan op 'n
+   gebruiker se persoonlike webbladsy geplaas in die vorm van statistieke
+   en ranglyste. Die werf bied verskeie sosiale netwerknutsgoed wat
+   persone toelaat om liedjies aan ander aan te beveel en om kunstenaars
+   soortgelyk aan die gebruiker se smaak aan die gebruiker bekend te maak.
+
+   Gebruikers kan ook hul eie radiostasies en afspeellyste maak bestaande
+   uit enige van die snitte wat in Last.fm se musiekbiblioteek is.
+   Gebruikers kan egter nie na individuele snitte op versoek luister nie;
+   tensy die kopiereghouer dit regstreeks-afspeelbaar of aflaaibaar gestel
+   het. Registrasie word slegs benodig om 'n persoonlike profiel te bekom;
+   enige deel van die webwerf kan bekyk word en enige radiostasie kan
+   beluister word sonder om 'n rekening te skep.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Fondse en personeel
+        * 3 Kenmerke
+             + 3.1 Gebruikersrekeninge
+                  o 3.1.1 Profiel
+                  o 3.1.2 Aanbevelings
+                  o 3.1.3 Groepe
+                  o 3.1.4 Konserte
+             + 3.2 Subskripsierekeninge
+        * 4 Kunstenaarbladsye
+        * 5 Musiekversameling
+             + 5.1 Onafhanklike kunstenaars en uitgewers
+             + 5.2 Voorklanke en gratis aflaaie
+        * 6 Etikette
+        * 7 Sien ook
+        * 8 Verwysings
+        * 9 Verdere leesstof
+             + 9.1 Pers
+        * 10 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Daar was aanvanklik twee verskillende dienste, naamlik Audioscrobbler
+   en Last.fm. Audioscrobbler is in 2005 met Last.fm versmelt om sodoende
+   die hedendaagse Last.fm te vorm.
+
+   Audioscrobbler is aanvanklik deur Richard Jones begin as 'n
+   rekenaarwetenskapprojek terwyl hy nog die University of Southampton
+   School of Electronics and Computer Science in die Verenigde Koninkryk
+   bygewoon het. Jones het die eerste inproppe ontwikkel, en waarna hy 'n
+   API aan die gemeenskap oopgemaak het, wat ondersteuning vir vele
+   musiekspelers op verskeie bedryfstelsels gebied het. Audioscrobbler kon
+   slegs 'n opname maak van die musiek wat 'n geregistreerde gebruiker
+   afgespeel het op 'n geregistreerde rekenaar, waarvan grafieke en
+   samewerkende filtrering moontlik gemaak is.
+
+   Last.fm is in 2002 deur Felix Miller, Martin Stiksel, Michael
+   Breidenbruecker en Thomas Willomitzer (almal van Oostenryk en
+   Duitsland) gestig. Dit is begin as 'n internetradiostasie en
+   musiekgemeenskap wat eenderse musiekprofiele gebruik het om dinamiese
+   afspeellyste te genereer. Die knoppies "love" en "ban" het gebruikers
+   in staat gestel om langsamerhand hul profiele te verpersoonlik. Last.fm
+   het in 2002 die Europrix-toekenning gewen en is ook genomineer vir die
+   Prix Ars Electronica-toekenning in 2003.^[1]
+
+   Die Audioscrobbler- en Last.fm-spanne het naderhand meer en meer saam
+   begin werk. Hulle het later in dieselfde kantore in Whitechapel,
+   Londen, inbeweeg, en teen 2003 is Last.fm ten volle met alle
+   Audioscrobbled-profiele geïntegreer. Teen daardie tyd kon data-invoere
+   deur middel van 'n Audioscrobbler of 'n Last.fm-stasie geskied. Die
+   webwerwe het ook vele gemeenskapsforums gedeel; tog is daar sommiges
+   wat uniek aan iedere webwerf gebly het.
+
+   Op 9 Augustus 2005 is die ou Audioscrobbler-webwerf by die
+   audioscrobbler.com domeinnaam ten volle met die nuwe Last.fm-webwerf
+   versmelt. Op 5 September 2005 is audioscrobbler.net gelanseer om 'n
+   ontwikkelingsgeoriënteerde funksie te vervul.
+
+   Op 14 Julie 2006 is die webwerf se voorkoms vernuwe en opgedateer.
+   Hierdie opdatering het nuwe sagteware ingesluit wat die afspeel van
+   Last.fm se radiostrome moontlik gemaak het. Dit het verder ook die
+   opname van liedjies gespeel in ander musiekspelers beskikbaar gestel.
+   Ander veranderinge het ingesluit: 'n verbetering van die vriendestelsel
+   en 'n opdatering daaraan om slegs tweerigtingvriendskappe te aanvaar;
+   die byvoeging van Last.fm se "Dashboard", waar gebruikers relevante
+   inligting met betrekking tot hul profiele kan besigtig; uitgebreide
+   moontlikhede om die aanskaffing van musiek by aanlynwinkels moontlik te
+   maak; en 'n nuwe visuele ontwerp vir die webtuiste wat ook 'n opsionele
+   swart kleurskema ingesluit het.
+
+   Die vernuwings het gemengde reaksies vanuit die gemeenskap gelok.
+   Opinies is verdeel tussen die persone wat die inwerkingstelling van
+   meer sosiale kenmerke verwelkom het, en dié wat geargumenteer het dat
+   tegniese kwessies (soos 'n erge onverenigbaarheid met Internet Explorer
+   7 en andere bekende bugs) 'n hoër prioriteit moes geniet. Met meer as
+   10 miljoen liedjies se inligting wat daagliks aan die webwerf gevoer
+   word, ondervind die webwerf op spitstye soms onderbrekings wat die
+   opdatering van persoonlike statistieke en ander data vertraag.
+
+   'n Japannese weergawe van die webwerf is op 15 Julie 2006 van stapel
+   laat loop. Die webwerf is tans in verskeie ander tale beskikbaar,
+   insluitende Duits, Spaans, Frans, Italiaans, Japannees, Pools,
+   Portugees, Sweeds, Russies, Turks, Koreaans, en Gesimplifiseerde
+   Sjinees.
+
+   Sedert Desember 2006 werk Last.fm saam met EMI op die sogenaamde
+   Tuneglue-Audiomap.^[2]
+
+   Die webwerf het in Oktober 2006 die Best Community Music
+   Site-toekenning by die BT Digital Music Awards gewen, en dit is ook in
+   Januarie 2007 genomineer vir die Best Website-toekenning in die
+   NME-toekennings.
+
+   Aan die einde van April 2007 het gerugte die ronde gedoen dat Viacom en
+   Last.fm in onderhandelinge verkeer sodat Viacom Last.fm vir sowat
+   ₤225 miljoen wou oorkoop.^[3]
+
+   In Mei 2007 is daar aangekondig dat Channel 4 Radio 'n weeklikse
+   program sal uitsaai wat die Worldwide Chart genoem sou word en wat sou
+   reflekteer wat Last.fm-gebruikers van regoor die wêreld na luister.
+   Daar is ook planne in die pyp om 'n video-afdeling by te voeg, wat
+   gebruikers in staat sal stel om hul eie verpersoonlikde videokanale te
+   skep.
+
+   Daar is op 30 Mei 2007 aangekondig dat Last.fm deur CBS vir
+   £140 miljoen oorgekoop is, waarvolgens Last.fm se huidige bestuurspan
+   onveranderd sal bly.^[4]
+
+[wysig] Fondse en personeel
+
+   Last.fm Bpk. word befonds deur die verkope van aanlyn
+   advertensiespasies, maandelikse gebruikersubskripsies en donasies. In
+   2004 het die maatskappy hul eerste rondte donasies van Peter Gardner
+   gekry. Gardner is 'n beleggingsbestuurder wat die stigters reeds sedert
+   2002 ken. 'n Tweede rondte is deur Stefan Glaenzer (gevolg deur Joi Ito
+   en Reid Hoffman) gelei. Hulle het almal in Breidenbrueckers se aandele
+   belê. In 2006 het die maatskappy hul eerste rondte kapitaalbefondsing
+   van European Investors Index Ventures gekry. European Investors Index
+   Ventures se algemene lede Neil Rimer en Danny Rimer het beide by
+   Last.fm se direkteure aangesluit, wat uit Felix Miller, Martin Stiksel
+   en Stefan Glaenzer bestaan.^[5]
+
+   Daar is tans sestig personeellede. Hulle is almal tans in Oos-Londen
+   gebaseer, behalwe vir Edouard Brière, wat in Swede woon.
+
+[wysig] Kenmerke
+
+[wysig] Gebruikersrekeninge
+
+   Die gratis gebruikersrekening sluit toegang tot al die hoofkenmerke wat
+   hieronder gelys word, in. Geregistreerde gebruikers kan ook in Last.fm
+   se forums skryf, private boodskappe stuur en ontvang, en Last.fm se
+   kliënt musiekspeler gebruik.
+
+[wysig] Profiel
+
+   'n Last.fm gebruiker kan 'n musikale profiel opbou deur van enige van
+   verskeie metodes gebruik te maak: deur na hul persoonlike
+   musiekversamelings op 'n musiekspeler op 'n rekenaar of op 'n iPod met
+   'n Audioscrobbler-inprop te luister; deur na Last.fm se
+   internetradiodiens te luister, óf deur die Last.fm-kliënt, of deur die
+   ingeboude flash speler. Alle liedjies wat gespeel word, word in 'n log
+   op die webwerf boek van gehou, waarvandaan persoonlike top kunstenaar-
+   en top liedjieskolomgrafieke bereken en saamgestel word. Hierdie
+   outomatiese liedjie-opname word na verwys as "scrobbling".
+
+   Last.fm genereer outomaties 'n profielbladsy vir elke gebruiker.
+   Hierdie bladsy sluit basiese inligting soos hul gebruikernaam, avatar,
+   datum van registrase en totale aantal liedjies afgespeel, in. Hierdie
+   kan verpersoonlik word met bykomende inligting of foto's — die uitleg
+   van die bladsy kan egter nie verander word nie. Daar is ook 'n
+   sogenaamde shoutbox vir kitsboodskappe. Profielbladsye kan deur enige
+   persoon (hetsy ingeteken of nie) besigtig word, tesame met 'n lys van
+   die top kunstenaars en liedjies, en die tien mees onlangs afgespeelde
+   liedjies. Iedere gebruiker se profiel het 'n "Taste-o-Meter", wat jou
+   eie musieksmaak met die besigtigde profiel s'n vergelyk.
+
+   Profielbladsye kan ook lyste van vriende, weeklikse musikale bure,
+   gunsteling etikette, groepe en konserte insluit. 'n Opsionele
+   verpersoonlikbare afspeellys kan ook bygevoeg word, met liedjies wat
+   die gebruiker graag wil deel of adverteer. Ander kenmerke sluit in die
+   moontlikheid om liedjies van persoonlike lyste te verwyder binne twee
+   weke nadat dit gespeel is, en 'n lys van individuele gebruikers se
+   gunsteling albums.
+
+   'n Verpersoonlikbare uitstalling van onlangsafgespeelde liedjies is nou
+   deur middel van webdienste beskikbaar, wat gebruikers in staat stel om
+   dit op webjoernale en MySpace te plaas, of om dit as forumhandtekeninge
+   te hê.
+
+[wysig] Aanbevelings
+
+   Die mees onlangse uitgebreidie diens op Last.fm is die nuutoorgemaakte
+   persoonlike aanbevelingsbladsy, wat as "The Dashboard" bekend staan.
+   Hierdie bladsy is slegs tot die ingetekende gebruiker besigtigbaar. Dit
+   lys aanbevole nuwe musiek, konserte, joernaalinskrywings en ander
+   persone met verenigbare musieksmake. Die gebruiker kan sy eie voorkeure
+   stel om hierdie aanbevelings na sy sin te wysig.
+
+   Aanbevelings word bereken deur gebruik te maak van 'n samewerkende
+   filtreringsalgoritme sodat gebruikers na voorklanke kan luister van
+   kunstenaars wat nog nie op hul eie profiele verskyn nie, maar wél op
+   dié van ander gebruikers met ooreenkomstige musieksmake. Die bladsy lys
+   ook musiek wat direk deur 'n ander gebruiker aan hom aanbeveel is,
+   groepe waaraan die gebruiker behoort, joernale geskryf oor die
+   kunstenaars waarna die gebruiker luister, en ander gebruikers wat
+   onlangs na eenderse musiek as die gebruiker se eie geluister het. Daar
+   is ook 'n aanbevelingsradiostasie wat musiek speel wat spesifiek
+   eenderse musiek speel as die musiek wat in die laaste week deur die
+   gebruiker gespeel is. Last.fm laat gebruikers ook toe om handmatig
+   spesifieke kunstenaars, liedjies of albums aan ander gebruikers in hul
+   vriendelyste of aan groepe waaraan hulle behoort aan te beveel. Al wat
+   nodig is, is dat die aanbeveling aan hande in Last.fm se databasis is.
+
+[wysig] Groepe
+
+   Die vorming van groepe tussen gebruikers met iets in gemeen (soos
+   aanhangers van 'n sekere kunstenaar of genre, of lidmaatskap aan 'n
+   ander Internetforum) is miskien die mees gebruikte gemeenskapskenmerk
+   van Last.fm. Groepe kan aan kunstenaars of lande verbind word. Enige
+   gebruiker mag 'n groep begin en aansoek doen op by 'n groep aan te
+   sluit. Die meeste groepe is oop vir iedereen, en sal op versoek die
+   gebruiker outomaties daarby laat aansluit. Sommige groepe verg egter 'n
+   goedkeuring van die groepleier, administrateurs of ander lede vir
+   gebruikers om aan te kan sluit. Last.fm genereer 'n groepsprofiel
+   eenders aan gebruikersprofiele. Dit wys gevolglik 'n saamgestelde stel
+   data soos die demografie van die groep, en ook die groep se eie
+   musiekstatistieke. Individuele groepe het hul eie besprekingsforums en
+   joernaalspasies, en 'n groepradiostasie, gebaseer op die musiekprofiele
+   van die lidmate van die groep, word outomaties gegenereer sodra die
+   groep die benodigde aantal lede bereik. Groepslede is ook in staat om
+   aanbevelings van kunstenaars of liedjies aan ander lede van die groep
+   te stuur.
+
+[wysig] Konserte
+
+   Met die opdatering van Oktober 2006 is 'n konsertfunksionaliteit
+   bygevoeg, wat gebruikers in staat stel om 'n plek en 'n radius om die
+   plek te spesifiseer, waarvolgens die webwerf konserte of feeste
+   voorstel van die gebruiker dalk in daardie area wil bywoon. Gebruikers
+   kan ook aandui watter konserte hulle sal bywoon.
+
+   Enige geregistreerde gebruiker kan 'n nuwe plek of konsert byvoeg, wat
+   dan op die kunstenaar se hoofbladsy getoon sal word, tesame met ander
+   details (indien enige). Daar is ook 'n fasiliteit om resensies en
+   foto's van verlede konserte in te dien.
+
+[wysig] Subskripsierekeninge
+
+   Last.fm bied rekeninge waarvoor betaal moet word. Dit kos £1,50, €2,50,
+   $3 of ¥350 per maand. Sommige bykomende kenmerke wat aan
+   subskripsierekeninge gebied word, is:
+     * Geen advertensies.
+     * Meer radiokeur (verpersoonlikde radiostasies vir 'n gebruiker en
+       stasie van geliefde musiek).
+     * Die moontlikheid om te sien watter gebruikers jou profiel onlangs
+       besoek het.
+     * Die toetsing van betageriewe by beta.last.fm.
+     * Die gebruiker se ikoon verander kleur van grys na blou, en meld
+       "Subscriber".
+
+[wysig] Kunstenaarbladsye
+
+   Sodra daar een of meer liedjies deur 'n kunstenaar "gescrobble" word
+   (deur minstens een gebruiker), maak Last.fm outomaties 'n hoofbladsy
+   vir die kunstenaar, al is daar geen musiek op die profiel beskikbaar om
+   op een van Last.fm se Internetradiostasies gespeel te kan word nie.
+   Hierdie bladsy wys hoeveel keer daar na die kunstenaar geluister is,
+   hoeveel mense daarna in die laaste week geluister het, die gewildste
+   weeklikse en algehele liedjies, die weeklikse top luisteraars, groepe
+   en joernale wat na die kunstenaar skakel, 'n lys van soortgelyke
+   kunstenaars, gewildste etikette, en 'n shoutbox vir kitsboodskappe.
+   Daar is ook skakels na konserte, addisionele album- en liedjiebladsye,
+   en 'n radiostasie vir soortgelyke kunstenaars. Indien die kunstenaar
+   musiek beskikbaar gestel het vir die Internetradio of vir aflaai, sal
+   'n ingeboude flash-speler ook verskyn met voorklanke van die gewildste
+   liedjies.
+
+   Daar is 'n wiki op elke kunstenaar se bladsy waar gebruikers relevante
+   inligting kan voeg; op dieselfde manier as met Wikipedia. Wysigings
+   word gereeld nagegaan om vandalisme te voorkom. Foto's van die
+   kunstenaar kan ook deur gebruikers opgelaai. As meer as een foto
+   opgelaai word, wat meestal die geval is, word die gewildste een gekies
+   deur middel van 'n stemming. Elke nou en dan roteer 'n administrateur
+   die foto's vir verskeidenheid. Inhoud wat deur gebruikers ingevoer
+   word, is onderhewig aan die GNU Free Documentation License.
+
+   Daar is tans geen manier om tussen kunstenaars met dieselfde name te
+   differensieer nie, omdat al die data op dieselfde kunstenaarbladsy
+   gestoor word. Dit kan ernstige misverstande veroorsaak wanneer die
+   kunstenaars in heeltemal verskillende genres musiek maak. Scientific
+   American is 'n voorbeeld waar 'n podgooi en 'n indie rock kunstenaar se
+   data op dieselfde bladsy geplaas word.
+
+[wysig] Musiekversameling
+
+   Last.fm se musiekbiblioteek bevat honderdeduisende individuele liedjies
+   en ou sowel as nuwe albums van kunstenaars van groot en klein
+   uitgewers. Gebruikers word nie toegelaat om klanklêers op te laai
+   indien dit onderhewig aan kopiereg is nie, maar Last.fm se personeel
+   voeg gereeld albums by wat kommersieel beskikbaar is. Die meeste
+   kunstenaars wat tans gewild is of wyd beroemd is, het liedjies op hul
+   kunstenaarbladsye beskikbaar wat ook op die radio geluister kan word.
+   Daar is egter ook groot gapings in die dekking van bekende kunstenaars,
+   en nuwe uitgawes word nie altyd dadelik bygevoeg nie. Die
+   musiekversameling sluit 'n wye vareïteit van genres in, soos klassieke
+   musiek, opera en musiekblyspele, asook minder bekende en spesiale
+   opnames wat nie meer in die algemeen beskikbaar is nie.
+
+   Warner Music, die wêreld se vierde grootste musiekmaatskappy, het in
+   Februarie 2007 aangekondig dat dit 'n ooreenkoms met Last.fm bereik het
+   sodat hul hele musiekversameling op Last.fm se radio beskikbaar gestel
+   gaan word.^[6] Warner se musiek sal binnekort via Last.fm se diens in
+   Europa en Noord-Amerika beskikbaar gestel word. Die webwerf se
+   medestigter, Martin Stiksel, het gesê dat hulle ook in samesprekinge
+   met die ander drie grootste uitgewers en ander inhoudsbehouers verkeer.
+
+   Op 9 Julie 2007 is daar aangekondig dat Last.fm 'n ooreenkoms met die
+   Sony BMG-uitgewer onderteken het. Hierdie ooreenkoms sal tot gevolg hê
+   dat Last.fm se gebruikers toegang tot Sony se totale musiekversameling
+   sal kry.
+
+[wysig] Onafhanklike kunstenaars en uitgewers
+
+   Onafhanklike uitgewers en kunstenaars sonder uitgewers word aangemoedig
+   om hul musiek op Last.fm te bemark, want die filtrering- en
+   aanbevelingsfunksies veroorsaak dat gebruikers wat van soortgelyke
+   musiek hou, ook hierdie onafhanklike musiek op die radio sal hoor.
+   Uitgewers en kunstenaars kan hul eie musiek oplaai sodat dit oor die
+   radio gespeel kan word. Last.fm bied dan ook funksies om die weeklikse
+   lugtydstatistieke na te gaan, met fasiliteite om individuele
+   kunstenaars of liedjies te bemark. Uitgewers en kunstenaars kan verder
+   ook besluit of hulle hul musiek slegs vir radio beskikbaar wil stel, en
+   of hulle dit ook vir aanskaffing of gratis aflaai beskikbaar wil stel.
+
+[wysig] Voorklanke en gratis aflaaie
+
+   Voorklanke van dertig sekondes lank van enige liedjie wat vir radio
+   beskikbaar gestel is, kan op aandrang regstreeks geluister word, vanaf
+   enige plek op die webwerf, deur op die blou pyltjie langsaan die naam
+   van die liedjie of kunstenaar te klik. Sommige liedjies kan ook
+   volledig as voorklank beluister word, indien die uitgewer of kunstenaar
+   dit spesifiek so gestel het; hierdie liedjies word deur goue pyltjies
+   aangedui. Alle liedjies word egter volledig bespeel indien 'n gebruiker
+   na 'n radiostasie deur die Last.fm-kliënt luister. Last.fm se
+   radiostasies is dus gelyksoortig aan normale terrestriale radiostasies,
+   behalwe dat Last.fm nie onderbrekings tussen die liedjies het nie.
+
+   In Oktober 2006 het Last.fm sy gratis aflaaidiens heringestel, wat
+   gebruikers in staat gestel het om gekeurde liedjies af te laai indien
+   dit deur die kunstenaar of uitgewer vir hierdie doel beskikbaar gestel
+   is. Die diens sluit grotendeels slegs onafhanklike uitgewers of
+   kunstenaars in wat hul eie materiaal oplaai. Sommige kunstenaars wat
+   egter in die tussentyd na groter uitgewers oorgeloop het, het steeds
+   hul gratis liedjies vir aflaai beskikbaar gehou. Voorbeelde van hierdie
+   kunstenaars is Coheed and Cambria (Last.fm-profiel) en My Chemical
+   Romance (Last.fm-profiel). Daar is meer as 100 000 liedjies wat
+   huidiglik aflaaibaar is,^[7] en daar is 'n aparte ranglys vir musiek in
+   hierdie kategorie wat weekliks opgedateer word en wat die 200 gewildste
+   aflaaibare liedjies wys.
+
+[wysig] Etikette
+
+   Sedert Last.fm in Augustus 2005 weer op dreef gesit is, is gebruikers
+   in staat gestel om etikette aan kunstenaars, albums, en liedjies te
+   heg. Gebruikers kan deur die etikette blaai, maar die belangrikste
+   voordeel is die etiketradio (Engels: tag radio), wat gebruikers toelaat
+   om musiek te luister waaraan 'n sekere etiket geheg is. Hierdie
+   etikette kan na genres verwys, soos by rock, of dit kan na gemoedsbui
+   verwys, soos by chill. Dit kan selfs na 'n kenmerk van die kunstenaar
+   verwys, byvoorbeeld baritone, asook enige ander gebruikersgedefinieerde
+   etiket, byvoorbeeld seen live (Afrikaans: regstreeks gesien of konsert
+   bygewoon). Omdat die etikette nie deur administrateurs gemodereer word
+   nie, word dit soms deur die gebruikers gemanipuleer, wat veroorsaak dat
+   mense oor genres baklei, of dat sommiges sekere kunstenaars hoër op
+   sekere etiketstatistieke stoot. 'n Voorbeeld van laasgenoemde is Paris
+   Hilton, wat tot bo-aan die lys van die brutal death metal-etiket
+   gestoot is.
+
+   Subskripsiegebruikers kan ook persoonlike etiketradiostasies skep, wat
+   slegs die liedjies bevat wat hulle self geëtiketteer het. Enige
+   etiketradiostasie (insluitende subskripsiegebruikers se etiketstasies)
+   kan deur enige gebruiker afgespeel word, insluitende die
+   nie-subskripsiegebruikers.
+
+[wysig] Sien ook
+
+     * Lys van aanlyn musiekdatabasisse
+     * Lys van sosiale netwerk-webwerwe
+     * Lys van Internetradiostasies
+
+[wysig] Verwysings
+
+    1. ^ "EUROPRIX Student Award Winners 2002." EUROPRIX. URL besoek op
+       2006-09-03.
+    2. ^ http://www.stereogum.com/archives/004170.html
+    3. ^ http://mashable.com/2007/04/27/lastfm-viacom/
+    4. ^ http://news.bbc.co.uk/1/hi/technology/6701863.stm
+    5. ^ http://www.prnewswire.co.uk/cgi/news/release?id=170159
+    6. ^ Warner Music announces Last.fm content dealRetrieved February 13,
+       2007.
+    7. ^ Last.fm October '06 Update. Retrieved on 2007-01-04.
+
+[wysig] Verdere leesstof
+
+[wysig] Pers
+
+     * Tiny webcaster Last.fm causes major online splash, Rockbites, 22
+       July 2003
+     * Last.fm: Music to Listeners' Ears, Wired, July 7, 2003
+     * Website offers new view of music, on Audioscrobbler, BBC News
+       online, 27 March 2003
+     * The Musical Myware, Audio presentation by CEO Felix Miller, IT
+       Conversations, March 7, 2006
+     * Last.fm interview, Interview with Last.fm co-founder, Martin
+       Stiksel, small WORLD Podcast, October 18, 2006
+     * Guardian Unlimited Interview, Guardian Unlimited Interview with
+       Last.fm co-founder, Martin Stiksel, Guardian Unlimited, November 4,
+       2006
+     * Music site Last.fm bought by CBS, BBC News on CBS takeover of
+       Last.fm
+
+[wysig] Eksterne skakels
+
+     * Last.fm se tuisbladsy
+     * Last.fm se webjoernaal
+     * Audioscrobbler se ontwikkelingswebwerf
+
+   Kategorieë: Internetradio • Musiekwebwerwe
+

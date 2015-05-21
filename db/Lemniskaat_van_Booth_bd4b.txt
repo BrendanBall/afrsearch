@@ -1,0 +1,24 @@
+Lemniskaat van Booth
+
+
+   Lemniskaat van Booth met c = 0.25, 0.5, 0.75, en 1
+   Lemniskaat van Booth met c = 0.25, 0.5, 0.75, en 1
+
+   In algebraïese meetkunde is die Lemniskaat van Booth, ook bekend as die
+   Hippopede van Proclus, 'n algebraïese vlakkromme van graad vier en
+   genus nul, met die vergelylking
+
+          (x^2 + y^2)^2 + 4y^2 = 4c(x^2 + y^2).
+
+   Dit het 'n gewone dubbelpunt by die oorsprong en twee ander op die lyn
+   by oneindigheid in die kompleks afgebeelde vlak. As c>1, bevat dit 'n
+   enekele regte ovaal en as when 0<c<1 vorm dit 'n lemniskaat of agtvorm.
+   As c=1 word dit geredusseer na twee raaksirkels, en as c < 0 het dit
+   geen reële punte nie.
+
+[wysig] Eksterne Skakels
+
+     * Hippopede op die National curve bank
+
+   Kategorie: Krommes
+

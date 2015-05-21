@@ -1,0 +1,195 @@
+Niobium
+
+
+
+   41                     sirkonium ← niobium → molibdeen
+    V
+   ↑
+   Nb
+   ↓
+   Ta
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal niobium, Nb, 41
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 5, 5, d
+                                                       Voorkoms metaalgrys
+                                             Atoommassa 92.90638 (2) g/mol
+                                       Elektronkonfigurasie [Kr] 4d^4 5s^1
+                                        Elektrone per skil 2, 8, 18, 12, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 8.57 g/cm³
+                                                          Smeltpunt 2750 K
+                                                                (2477 °C)
+                                                           Kookpunt 5017 K
+                                                                (4744 °C)
+                                                 Smeltingswarmte 30 kJ/mol
+                                            Verdampingswarmte 689.9 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.60 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2942 3207 3524 3910 4393 5013
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                   Oksidasietoestande 5, 3
+                                                      (effens suur oksied)
+                               Elektronegatiwiteit 1.6 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 652.1 kJ/mol
+                                                          2de: 1380 kJ/mol
+                                                         3rde: 2416 kJ/mol
+                                                        Atoomradius 145 pm
+                                                 Atoomradius (ber.) 198 pm
+                                                   Kovalente radius 137 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 152 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 53.7 W/(m·K)
+                               Termiese uitsetting (25 °C) 7.3 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3480 m/s
+                                                  Young se modulus 105 GPa
+                                                       Skuifmodulus 38 GPa
+                                                      Massamodulus 170 GPa
+                                                    Poissonverhouding 0.40
+                                                      Mohs se hardheid 6.0
+                                                 Vickers hardheid 1320 MPa
+                                                  Brinell hardheid 736 MPa
+                                              CAS-registernommer 7440-03-1
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Niobium
+
+                             iso    NV  halfleeftyd VM    VE (MeV)    VP
+                            ^91Nb  sin  6.8×10^2 y  e   -            ^91Zr
+                            ^91mNb sin  60.86 d     IO  0.104e       ^91Nb
+                            ^92Nb  sin  10.15 d     e   -            ^92Zr
+                                                    ?   0.934        -
+                            ^92Nb  sin  3.47×10^7y  e   -            ^92Zr
+                                                    ?   0.561, 0.934 -
+                            ^93Nb  100% Nb is stabiel met 52 neutrone
+                            ^93mNb sin  16.13 y     IO  0.031e       ^93Nb
+                            ^94Nb  sin  2.03×10^4 y ß^- 0.471        ^94Mo
+                                                    ?   0.702, 0.871 -
+                            ^95Nb  sin  34.991 d    ß^- 0.159        ^95Mo
+                                                    ?   0.765        -
+                            ^95mNb sin  3.61 d      IO  0.235        ^95Nb
+
+                                                                Verwysings
+
+   Niobium is 'n chemiese element in die periodieke tabel met die simbool
+   Nb en atoomgetal van 41. Niobium is 'n seldsame sagte, grys, pletbare
+   oorgangsmetaal wat in die mineraal niobiet aangetref word en word
+   gebruik in verskeie legerings. Die bekendste legerings word gebruik om
+   spesiale staalsoorte en sterk sweislaste te vervaardig. Niobium is
+   ontdek in verskeie minerale ontdek wat aanvanklik as kolumbiete bekend
+   gestaan het, nou niobiet genoem.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+
+[wysig] Kenmerkende eienskappe
+
+   Niobiem is 'n blink grys, pletbare metaal wat 'n blouerige tint verkry
+   wanneer dit by kamertemperatuur vir 'n verlengde periode aan lug
+   blootgestel word. Niobium se chemiese eienskappe is bykans identies aan
+   dié van tantaal, wat reg onder niobium op die periodieke tabel voorkom.
+
+   Wanneer dit verwerk word moet niobium onder 'n beskermende atmosfeer
+   geplaas word selfs by lae temperature. Die metaal begin om in lug by
+   200 °C te oksideer; met mees algemene oksidasietoestande van +3 en +5.
+   Ander toestande is wel ook bekend.
+
+[wysig] Gebruike
+
+   Niobium het 'n aantal gebruike: dit is 'n bestandeel van sommige
+   vlekvrye staalsoorte en in sommige nie-yster metaallegerings. Hierdie
+   legerings is baie sterk en word dikwels gebruik in die konstruksie van
+   pyplyne. Ander gebruike sluit in:
+     * Die metaal het 'n lae vangsdeursnee vir termiese neutrone en word
+       dus in die kernnywerheid gebruik;
+     * Dit word ook in stawe vir boogsweiswerk van gestabiliseerde
+       vlekvrye staalsoorte gebruik.
+     * Betekenisvolle hoeveelhede niobium in die vorm van hoë-suiwerheid
+       ferronobium en nikkel-niobium word in nikkel-, kobalt- en
+       ystergebaseerde superlegerings ingesluit wat op hul beurt gebruik
+       word vir toepassings soos straalenjinonderdele, vuurpylonderdele en
+       in hittebestande en verbrandingstoerusting.
+     * Niobium word ondersoek as 'n alternatief vir die gebruik van
+       tantaal in kapasitore.
+     * Omdat niobium-metaal en sommige van sy legerings fisiologies inert
+       (en dus hipoallergenies) is, word hulle gebruik in juwele en in
+       mediese toestelle soos pasaangeërs. Niobium metaal wat behandel
+       word met natriumhidroksied vorm 'n poreuse laag wat osseintegrasie
+       aanhelp.^[1]
+     * Saam met titaan, tantaal en aluminium kan Niobium ook elektries
+       verhit en geanodiseer word na 'n wye verskeidenheid kleure deur van
+       'n proses gebruik te maak wat bekend staan as reaktiewe
+       metaalanodisering. Dit maak die metaal aantreklik vir gebruik in
+       juweliersware.
+     * Niobium kan ook by glas gevoeg word om 'n hoër refraksie-indeks te
+       verkry, 'n eienskap wat belangrik is in die optiese nywerheid om
+       dunner brilglase moontlik te maak.
+     * In 2005 het Sierra-Leone 'n muntstuk gemaak ter ere van Pous
+       Johannes Paulus die Tweede wat bestaan het uit 24-karaat goud
+       omring met 'n purper getinte Niobiumring.
+
+   Niobium word 'n supergeleier by kriogeniese temperature. By
+   atmosferiese druk het dit die hoogste kritieke temperatuur van die
+   suiwer element supergeleiers: 9.3 K. Niobium het ook die grootste
+   magnetiese penetrasie-diepte van enige element. Verder is dit een van
+   slegs drie suiwer element supergeleiers (vanadium en tegnesium is die
+   ander twee) wat Tipe II supergeleiers is, wat beteken dat dit 'n
+   supergeleier bly wanneer dit blootgestel word aan sterk magnetiese
+   velde. Niobium-tin en niobium-titaanlegerings word gebruik vir drade in
+   supergeleiermagnete wat in staat is om buitengewoon sterk magnetiese
+   velde te produseer. Niobium word ook in die suiwer vorm gebruik om
+   supergeleidende komponente vir partikelversnellers te vervaardig.
+
+[wysig] Geskiedenis
+
+   Niobium se naam is afkomstig uit Griekse mitologie en is vernoem na
+   Niobe, die dogter van Tantalus. Die element is in 1801 deur Charles
+   Hatchett ontdek. Hatchett het niobium in kolumbiet-erts ontdek wat in
+   die 1750's deur John Winthrop, die eerste goewerneur van Connecticut na
+   Engeland gestuur is. Daar het baie verwarring ontstaan oor die verskil
+   tussen die nou-verwante niobium en tantaal en die probleem is eers in
+   1846 opgelos deur Heinrich Rose en Jean Charles Galissard wat die
+   element toe herontdek het. Omdat Rose nie bewus was van Hatchett se
+   werk nie, het hy die element 'n ander naam, Niobium gegee. In 1864 was
+   Christian Blomstrand die eerste gewees om die suiwer metaal voor te
+   berei deur niobiumchloried in 'n waterstof atmosfeer te reduseer.
+
+   Kolumbium (simbool Cb) was die aanvanklike naam wat Hatchett aan die
+   element gegee het, maar Internasionale Vereniging van Suiwer en
+   Toegepaste Chemie (IUPAC) het "niobium" as die amptelike naam vir
+   element 41 in 1950 aanvaar meer as 'n 100 jaar na die omstredenheid
+   ontstaan het.
+
+[wysig] Verspreiding
+
+   Niobium metaal
+   Niobium metaal
+
+   Die element word nooit in sy suiwer vorm in die natuur aangetref nie,
+   maar kom wel voor in die minerale kolumbiet ((Fe,Mn)(Nb,Ta)[2]O[6]),
+   kolumbiet-tantaliet oftewel koltan ((Fe,Mn)(Ta,Nb)[2]O[6]), pirochlore
+   ((Na,Ca)[2]Nb[2]O[6]OH,F) en eukseniet
+   ((Y,Ca,Ce,U,Th)(Nb,Ta,Ti)[2]O[6]).
+
+   Niobium bevattende minerale bevat ook dikwels tantaal. Groot neerslae
+   niobxium is gevind saam met karbonatiet (koolstof-silikaat vulkaniese
+   rotse) en ook as 'n bestandeel van pirochlore. Brisilië en Kanada is
+   die hoofvervaardigers van niobium mineraalkonsentraat en groot reserwes
+   bestaan ook in Nigerië, Kongo en in Rusland.
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,93 @@
+Morabaraba
+
+
+   Morabaraba is 'n tradisionele twee-speler strategie bordspel. Dit staan
+   ook as Mlabalaba, Mefuvha, Tsoro, Mbau en Mhele bekend en word oral in
+   Afrika gespeel. Morabaraba is soortgelyk aan die Europese bordspel Nine
+   Men's Morris, met die byvoeging van diagonale en meer stukke.
+
+   Inhoud
+
+        * 1 Reëls en speelwyse
+             + 1.1 Plaas van die koeie
+             + 1.2 Skuif van die koeie
+             + 1.3 Vlieg van die koeie
+             + 1.4 Eindspel
+        * 2 Kyk ook
+        * 3 Eksterne skakels
+
+[wysig] Reëls en speelwyse
+
+   Morabaraba is toeganklik, maklik om te leer en spelle kan vinnig
+   gespeel word – maar die spel behels diepgaande strategiese en taktiese
+   aspekte. Alhoewel Morabaraba op spesiaal vervaardigde borde (of op
+   rekenaars) gespeel kan word is dit eenvoudig genoeg dat 'n bord maklik
+   op 'n rots of in die sand gekrap kan word en muntstukke of klippies kan
+   as stukke gebruik word. Die spel word as volg gespeel:
+
+[wysig] Plaas van die koeie
+
+     * Wanneer die spel begin het elke speler 12 koeie (stukke); een
+       speler het swart koeie en die ander wit koeie. Die bord is
+       aanvanklik leeg.
+     * Die speler wat wit-speel skuif eerste.
+     * Eleke beurt bestaan daaruit om 'n koei op die bord te plaas. Die
+       koeie word op die kruising van die rooi lyne in die bostaande
+       diagram geplaas. koeie kan net op leë plakke geplaas word.
+     * Die doel is om 'n "mill" van koeie te skep – drie koeie wat in 'n
+       reguit lyn verbind is. Mills kan horisontaal, vertikaal of
+       diagonaal wees.
+     * As 'n speler 'n mill vorm kan hy een van die opponent se koeie
+       skiet. Die koei wat geskiet is word van die bord verwyder en nie
+       weer gebruik nie. 'n Koei wat in 'n mill is mag nie geskiet word
+       nie, behalwe as al die opponent se koeie in mills is - in welke
+       geval eneige koei gekis kan word.
+
+   Selfs al word meer as een mill in een skuif voltooi kan slegs een koei
+   geskiet word in 'n enkele skuif.
+
+[wysig] Skuif van die koeie
+
+     * Nadat al die koeie op die bord geplaas is, bestaan elke beurt uit
+       die skuif van 'n koei na 'n oop spasie. Die koeie skuif langs die
+       rooi lyne na 'n spasie wat regs langs hulle begin punt is.
+     * Soos te vore laat die voltooiing van 'n mill 'n speler toe om een
+       van die ander speler se koeie te skiet. Soos te vore moet dit 'n
+       koei wees wat nie in 'n mill is nie, behalwe as al die opponent se
+       koeie in mills is.
+     * Spelers kan hulle eie mills breek – of om koeie te herposisioneer ,
+       of om nuwe mills te maak.
+     * 'n Mill kan herhaaldelik gebreek en weer gemaak word deur een van
+       die koeie heen en weer te skuif. Elke keer as die mill weer gemaak
+       word, word een van die opponent se koeie geskiet. Uit die aard van
+       die saak stel die speler sy koeie bloot deur die mill te breek
+       terwyl koeie in 'n mill geen risiko het om geskiet te word nie.
+
+[wysig] Vlieg van die koeie
+
+     * As'n speler slegs drie koeie oor het, is meer darstiese maatstawwe
+       nodig. So'n speler se koeie word toegelaat om na eneige leë spasie
+       te vlieg sonder om haar oor rooi lyne tye bekommer.
+     * As een speler drie koeie het en die ander speler meer as drie koeie
+       het, kan *slegs* die speler met drie koeie vlieg.
+
+[wysig] Eindspel
+
+     * 'n Speler wen as die speler se opponent nie op sy beurt geen skuif
+       kan maak nie
+     * 'n Speler wen as sy opponent slegs twee koeie oor het
+     * As eleke speler slegs drei koeie oor het en nie een speler slaag
+       daarin om binne tien beurte 'n koei te skiet nie eindig die spel
+       gelykop.
+
+[wysig] Kyk ook
+
+     * Nine Men's Morris
+
+[wysig] Eksterne skakels
+
+     * Adam se Morabaraba Bladsy (insluitend 'n rekenaar weergawe)
+     * Mind Sports South Africa
+
+   Kategorie: Bordspeletjies
+

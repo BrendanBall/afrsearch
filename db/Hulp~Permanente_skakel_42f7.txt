@@ -1,0 +1,60 @@
+Hulp:Permanente skakel
+
+
+      Wikipedia Hulpbladsy vir die skepping en verbetering van artikels
+                          Image:Evolution-tasks.png
+    Hierdie bladsy mag diegene help wat van plan is om Wikipedia-artikels
+   te skep of te verbeter. Vir verdere hulp, besoek Wikipedia:Redigeer, en
+                               Wikipedia:Help.
+
+   Hier op Wikipedia wil ons graag die bron van enige artikel akkuraat
+   aandui. Indien die bron vir die artikel (sê nou maar dit is die skakel
+   [[:en:Cow]]) vanuit 'n anderstalige Wikipedia kom, kan dit gebeur dat
+   'n mens se verwysing na dié artikel kan dateer, en as 'n medewerker in
+   die toekoms op die skakel wat na daardie artikel verwys sou druk, bring
+   dit dan die persoon uit op die bladsy (Cow) soos wat dit op daardie
+   oomblik lyk, en verwys dit nie meer na die oorspronklike bron nie.
+   Siende dat Wikipedia so 'n aktiewe en ontwikkelende projek is, kan dit
+   maklik gebeur dat die oorspronklike bronartikel nie eers meer
+   herkenbaar is nie. Dit bemoeilik dan die taak van die medewerker wat,
+   sê maar, die bron wou naslaan om 'n verbetering aan die vertaling aan
+   te bring, of 'n feit wat in die vertaalde artikel genoem is, in die
+   bronartikel wou nagaan.
+
+   Gelukkig is daar 'n maklike manier om die probleem te oorkom.
+
+   Kom ons demonstreer dit:
+    1. 'n Mens besluit om die artikel Die_avonture_van_Kuifie te gebruik
+       as die bronartikel.
+    2. Kliek op die skakel, en die betrokke artikelbladsy maak oop.
+    3. Die webadres van hierdie artikel vertoon as 'n gewone adres --
+       ''[http://af.wikipedia.org/wiki/Die_avonture_van_Kuifie]''. As 'n
+       mens hierdie adres as verwysing in die nuutvertaalde artikel sou
+       plak, sal daardie skakel 'n mens altyd na die heel nuutste weergawe
+       van daardie artikel terugbring, en nie na die oorspronklike
+       bronartikel nie.
+    4. In plaas daarvan dat 'n mens die webadres van dié artikel kopieer,
+       gaan eers na "gereedskap".
+    5. "Gereedskap" is te vinde onder die eponieme hofie -- in swart druk
+       geskryf -- aan die linkerkant van die standaard-Wikipediabladsy,
+       waaronder 'n skakel -- in blou druk geskryf -- voorkom, genaamd
+       "permanente skakel". (Op anderstalige Wikipedia's sal dit die
+       ekwivalente woord en frase vir "gereedskap" en "permanente skakel",
+       onderskeidelik, in daardie taal wees).
+    6. Druk op hierdie "permanente skakel". (Linkerkliek daarop met jou
+       muis).
+    7. 'n Nuwe bladsy laai wat oënskynlik na presies dieselfde bladsy lyk,
+       behalwe dat die skakel "permanente skakel" nou grys vertoon, en nie
+       meer gedruk kan word nie; en dat die webadres van die artikel
+       verander het na
+       [http://af.wikipedia.org/w/index.php?title=Die_avonture_van_Kuifie&
+       oldid=86899]. Hierdie nuwe, lang, lelike adres is die huidige
+       weergawe van die bronartikel, en as 'n mens dit kopieer en in 'n
+       mens se nuwe artikel plak as die bronverwysing, sal die aktivering
+       van daardie bronverwysingskakel die leser altyd weer na die
+       oorspronklike bron waarmee 'n mens nou net gewerk het, terugbring.
+
+   Kyk ook na die beeld hieronder wat dit opsommend illustreer:
+
+   Grafiese voorstelling van hulp met die permanente skakelfunksie
+

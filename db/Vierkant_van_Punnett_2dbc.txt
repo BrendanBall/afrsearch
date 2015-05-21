@@ -1,0 +1,39 @@
+Vierkant van Punnett
+
+
+   Die vierkant van Punnett is 'n hulpmiddel uit die populasie-genetika.
+   Met die 'vierkant van Punnett' kan jy 'n paring van twee heterosigote
+   (AaxAa) visueel voorstel, en die frekwensie van die moontlike fenotipe
+   by die nageslagte bereken.
+
+   Stelvoor dat jy het 2 allele:
+
+   A en a van 'n geen en die ouers is beide heterosigoot:
+
+   Wyfie (Aa) en Mannetjie (Aa)
+
+   Moontlike gamete A en a
+
+   Die moontlike fenotipes uit die paring is dus:
+
+   AA Aa (2x) aa
+
+   Afhanklik van die aard van die allele, sal die fenotipes verskil:
+
+   Dominant:
+
+   3x dominante fenotipe
+
+   1x resessiewe fenotipe
+
+   kodominant of intermeditêre:
+
+   1x een homosigoot fenotipe
+
+   2x heterosygote mengvorm
+
+   1x andere homosigoot fenotipe
+
+   Die selfde kan jy nou gaan doen vir meer allele.
+   Kategorie: Genetika
+

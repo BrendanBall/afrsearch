@@ -1,0 +1,28 @@
+Epitrogoïed
+
+
+   Epitrogoïed in blou met a = 300, b = 150 en h = 100. Die geel sirkel
+   rol sonder om te gly om die pienk sirkel en trek die blou Epitrogoïed
+   af op die punt van die groen straal uit die middelpunt van die geel
+   sirkel
+   Epitrogoïed in blou met a = 300, b = 150 en h = 100. Die geel sirkel
+   rol sonder om te gly om die pienk sirkel en trek die blou Epitrogoïed
+   af op die punt van die groen straal uit die middelpunt van die geel
+   sirkel
+
+   'n Epitrogoïed is 'n roulette afgetrek deur 'n punt op 'n sirkel met
+   radius b wat om die buitekant van 'n stilstaande sirkel met radius a
+   rol, waar die punt 'n afstand h van die middelpunt van die buitenste
+   sirkel is.
+
+   Die parametriese vergelykings vir 'n Epitrogoïd is:
+
+          x = (a + b)\cos\theta - h\cos\left({a + b \over b}\theta\right)
+          y = (a + b)\sin\theta - h\sin\left({a + b \over b}\theta\right)
+
+   Spesiale gevalle sluit die limaçon in waar a = b en die episikloïed
+   waar h = b
+
+   Kyk ook: hipotrogoïed
+   Kategorie: Krommes
+

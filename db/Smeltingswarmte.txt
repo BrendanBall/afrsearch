@@ -1,0 +1,75 @@
+Smeltingswarmte
+
+
+   Die smeltingswarmte (ook latente smeltingswarmte genoem) is die
+   hoeveelheid warmte-energie wat 'n materiaal moet absorbeer om 'n
+   bepaalde hoeveelheid massa van die stof van 'n vastestof tot 'n
+   vloeistof en omgekeerd te verander. Die temperatuur waarteen hierdie
+   omskakeling van toestand plaasvind word die smeltpunt genoem. Die
+   warmte-energie wat afgegee word om die teenoorgestelde
+   toestandsverandering te bewerkstellig is gewoonlik ewe veel en daar kan
+   daarna verwys word as die stollingswarmte.
+
+   Wanneer 'n mens termiese energie van 'n vloeistof of 'n vastestof
+   onttrek, val die temperatuur. Wanneer warmte-energie bygevoeg word styg
+   die temperatuur. Wanneer die oorgangspunt tussen die vastestof- en
+   vloeistoffases egter bereik word (die smeltpunt), bly die temperatuur
+   vir 'n suiwer stof konstant met verdere toevoeging of onttrekking van
+   energie totdat die toestandverandering voltooi is, voordat daar weer 'n
+   verdere styging of daling respektiewelik in die temperatuur sal
+   plaasvind. Dit is dan ook die rede waarom daar na die latente
+   smeltingswarmte verwys word, aangesien die addisionele toegevoegde
+   energie se impak "weggesteek" is in soverre dit die temperatuur betref.
+   Om van 'n vloeistof- na 'n vastestoftoestand te verander moet die
+   molekules van die stof meer georden raak en moet addisionele hitte
+   verwyder word. In die teenoorgestelde rigting moet daar 'n groter
+   wanorde tussen die molekules wees en moet hitte bygevoeg word.
+
+   Die eenhede waarin smeltingswarmte gewoonlik uitgedruk word is:
+
+          joule per mol (die SI-eenheid)
+
+   of
+
+          kalorieë per gram (ou metriese eenheid wat tans min gebruik
+          word)
+
+   of
+
+          Britse termiese eenheid per pond (British Thermal Unit) of Btu
+          per pond-mol (Nog in algemene gebruik in sekere Amerikaanse
+          publikasies).
+
+[wysig] Smeltingswarmte van bekende stowwe
+
+   Die smeltingswarmte van water is
+
+          334.5 kilojoule per kilogram
+
+   Die smeltingswarmte van 'n paar ander algemene stowwe is:
+        Stof      Smeltingswarmte
+                  (kJ/kg)
+   metaan:        58.41
+   etaan:         95.10
+   propaan:       79.96
+   metanol:       99.16
+   etanol:        108.99
+   gliserol:      200.62
+   mieresuur:     276.35
+   asynsuur:      192.09
+   asetoon:       97.99
+   benseen:       127.40
+   myristic acid: 198.70
+   palmitiensuur: 163.93
+   steariensuur:  198.91
+
+   Hierdie waardes is afkomstig van die CRC Press se Handbook of Chemistry
+   and Physics, die 62^ste uitgawe.
+
+[wysig] Sien ook
+
+     * Verdampingswarmte
+     * Warmtekapasiteit
+
+   Kategorieë: Chemiese eienskappe • Fisiese groothede
+

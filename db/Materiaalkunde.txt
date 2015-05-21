@@ -1,0 +1,68 @@
+Materiaalkunde
+
+
+   Materiaalkunde sluit die dele van chemie en fisika in wat te doen het
+   met die eienskappe van materiale. Materiaalkunde omvat vier klasse
+   materiale, waarvan elkeen as 'n afsonderlike studieveld beskou kan
+   word:
+    1. metale
+    2. keramieke
+    3. polimere
+    4. saamgestelde materiale
+
+   Daar word dikwels na materiaalkunde verwys as materiaalkunde en
+   ingenieurswese omdat dit vele toepassings het. Industriële toepassings
+   van materiaalkunde sluit in prosesseringstegnieke (gietwerk, walswerk,
+   sweiswerk, ioonimplantering, kristalgroei, dunne filmneerslag,
+   sintering, glasblaas ens.), analitiese tegnieke (elektronmikroskopie,
+   x-straalafbuiging, kalorimetrie, kernmikroskopie ens.),
+   materiaalontwerp en koste/voordeel kompromieë in die industriële
+   vervaardiging van materiale.
+
+[wysig] Vertakkinge van materiaalkunde
+
+     * Nanotegnologie - die vervaardiging en studie van molekulêr gevormde
+       materiale (nanomateriale) materiale met strukture waarvan die skaal
+       in nanometers gemeet kan word.
+     * Kristallografie - die studie van die fisika van kristalle wat
+       insluit:
+          + defekte in kristalle, soos korrelgrense en verskuiwings en hul
+            effek op die fisiese eienskappe;
+          + diffraksietegnieke, soos x-straalkristallografie, wat gebruik
+            word vir die identifikasie van die fase waarin die materiaal
+            verkeer.
+     * Metallurgie - die studie van metale
+     * Keramieke, wat insluit halfgeleiers en ander elektroniese materiale
+     * Biomateriale - materiale wat in die menslike liggaam aangewend kan
+       word
+     * Tribologie - die studie van die verwering van materiale weens
+       wrywing en ander faktore
+
+   Neem kennis dat sommige mense in die praktyk reologie as 'n
+   ondervertakking van materiaalkunde beskou aangesien dit enige vloeiende
+   materiaal dek. 'n Tipiese verhandeling oor reologie sluit egter ook
+   nie-Newtoniese vloeidimamika in, dus word dit as 'n vertakking van
+   Kontinuummeganika gesien.
+
+[wysig] Onderwerpe wat die grondslag vorm vir Materiaalkunde
+
+     * Termodinamika, vir fase stabiliteit, fase veranderinge en fase
+       diagramme.
+     * Kinetika, het te doen met die tempo van veranderinge en diffusie.
+     * Vastestofchemie - die studie van die chemie wat in vastestowwe
+       plaasvind
+     * Vastestoffisika - word gewoonlik beskou as die studie van die
+       kwantum-meganiese effekte in vastestowwe, soos halfgeleiers of
+       supergeleiers.
+     * Kontinuummeganika - die studie van vastestowwe en vloeistowwe, met
+       die aanname dat hulle bestaan uit kontinue materiale (eerder as
+       afsonderlike atome)
+
+[wysig] Ander onderwerpe
+
+     * Kronologie van materiaalkunde
+     * Bio-gebaseerde materiale
+     * Vloeibare kristalle
+
+   Kategorie: Materiaalkunde
+

@@ -1,0 +1,111 @@
+Bedryfstelselkern
+
+
+   Die bedryfstelselkern in rekenaarwetenskap verwys na die sentrale
+   komponent van die meeste rekenaarbedryfstelsels. Die kern is
+   verantwoordelik die bestuur van die stelsel se hulpbronne (die
+   kommunikasie tussen die hardeware- en sagtewarekomponente). Die kern as
+   basiese komponent van 'n bedryfstelsel verskaf die laagste vlak
+   abstraksielaag vir die hulpbronne (veral ewetoeganklike geheue, SVE's
+   en Toevoer/afvoertoestelle) wat toepassingsagteware moet beheer om hul
+   funksies te verrig. Dit maak tipies hierdie fasiliteite beskikbaar aan
+   toepassingsagteware se prosesse deur middel van interproseskommunikasie
+   meganismes en stelselroepe.
+
+   Hierdie take word verskillend aangepak deur verskillende
+   bedryfstelselkerne, afhangende van hul ontwerp en implementering.
+   Terwyl monolitiese kerne probeer om hierdie doelwitte te bereik deur al
+   die kode in dieselfde adresruimte uit te voer om die werkverrigting van
+   die stelsel te probeer verbeter, mikrokerne hardloop die meeste van
+   hulle dienste in die gebruikersruimte, met die mikpunt om die
+   onderhoubaarheid en modulariteit van die kodebasis te verbeter. 'n
+   Reeks van moontlikhede bestaan tussen hierdie twee uiterste
+   benaderings.
+
+[wysig] Oorsig
+
+   Volgens Jochen Liedtke is die bedryfstelselkern al daardie dele wat
+   deel maak van die bedryfstelsel en wat noodsaaklik is en deur alle
+   ander sagteware benodig word.
+
+   Die meeste bedryfstelsels maak staat op die begrip van 'n
+   bedryfstelselkern. Die bestaan van 'n kern is 'n natuurlike gevolg van
+   'n ontwerpsbenadering waar die rekenaarstelsel gesien word as 'n reeks
+   abstraksielae wat elk staat maak op die funksies en lae daaronder. Die
+   kern, gesien uit dié oogpunt, is eenvoudig die naam wat gegee word aan
+   die laagste vlak van abstraksie wat deur sagteware geïmplementeer word.
+
+   In die meeste gevalle sal die selflaaier (en: Boot Loader) die kern
+   begin uitvoer in beheermodus. Die hoogste voorregvlak het verskeie name
+   afhangende van die argitektuur (beheermodus (supervisor mode),
+   kernmodus (kernel mode), CPLO, DPLO, Ring O ensovoorts). Die kern
+   inisialiseer homself en begin dan die eerste proses. Hierna sal die
+   kern tipies nie direk loop nie maar slegs in reaksie op eksterne
+   gebeure (d.w.s deur stelselroepe van toepassingsprogramme om dienste te
+   versoek vanaf die kern of deur onderbrekingsversoeke wat deur die
+   hardeware gebruik word om die kern van gebeure te verwittig). Verder
+   verskaf die kern tipies 'n lus wat uitgevoer word wanneer daar geen
+   prosesse beskikbaar is om uit te voer nie; dit word dikwels na verwys
+   as die vrylooptyd.
+
+   Die ontwikkeling van die bedryfstelselkern word beskou as een van die
+   mees komplekse en moeilike programeertake.^[1] Die sentrale posisie van
+   die kern in 'n bedryfstelsel maak goeie werkverrigting noodsaaklik en
+   beteken dat die kern 'n kritiese sagtewarekomponent is. Om verskeie
+   redes is dit dikwels nie moontlik om die abstraksiemeganismes te
+   gebruik wat aan ander sagteware verskaf word nie.
+
+   'n Kern sal gewoonlik laevlak skeduleringkenmerke verskaf^[2] vir
+   prosesse.
+
+[wysig] Basiese kerndienste
+
+   Die kern se hoofdoel is om die rekenaar se hulpbronne te bestuur en
+   ander programme daartoe in staat te stel om hierdie hulpbronne te
+   hardloop en te gebruik. Hierdie hulpbronne bestaan tipies uit:
+     * Die Sentrale verwerkingseenheid (SVE). Dit is die mees sentrale
+       deel van 'n rekenaarstelsel wat daarvoor verantwoordelik is om
+       programme uit te voer. Die kern is daarvoor verantwoordelik om te
+       besluit op watter tydstip elkeen van die baie programme aan die SVE
+       of SVE's toegeken moet word (elke SVE kan tipies slegs een program
+       op 'n tyd uitvoer)
+     * Die rekenaar se geheue. Die geheue word gebruik om beide
+       programinstruksies en data te stoor. Tipies moet beidie teenwoordig
+       wees vir 'n program om uitgevoer te kan word. Dikwels sal baie
+       programme toegang tot die geheue wil verkry en dikwels sal meer
+       geheue aangevra word as wat die rekenaar beskikbaar het. Dit is die
+       bedryfstelselkern se verantwoordelikheid om te besluit watter
+       geheue elke proses kan gebruik en om te besluit wat om te doen as
+       daar te min geheue beskikbaar is.
+     * Enige toevoer/afvoer-toestelle teenwoordig in die rekenaar, soos
+       die sleutelbord, muis, hardeskywe, drukkers en skerms. Die kern ken
+       die versoeke vanaf programme om toevoer/afvoerbewerkinge te doen
+       aan die geskikte toestel toe en verskaf gerieflike metodes om die
+       toestel te kan gebruik (tipies is die abstraksie op so 'n vlak dat
+       die program nie die besonderhede van 'n spesifieke toestel se
+       werking hoef te verstaan nie).
+
+   Sleuteloorwegings in die bestuur van hulpbronne is die definisie van 'n
+   uitvoerdomein (adresruimte) en die beskermingsmeganismes wat gebruik
+   word om die toegang tot hulpbronne binne-in 'n domein te beheer.
+
+   Bedryfstelselkerne verskaf ook gewoonlik die metodes vir die
+   sinkronisasie en kommunikasie tussen prosesse.
+
+   'n Bedryfstelselkern kan ook die kenmerke self implementeer of op van
+   die prosesse wat dit uitvoer staatmaa om die fasiliteite te verskaf aan
+   ander prosesse in welke geval dit 'n interproseskommunikasie-meganisme
+   daar moet stel om die prosesse toe te laat om die fasiliteite by mekaar
+   onderling te kan verkry. Die kern moet dan die programme wat loop van
+   'n metode voorsien om versoeke te rig om toegang tot hierdie
+   fasiliteite te verkry.
+
+[wysig] Verwysings
+
+    1. ^ Bona Fide OS Development - 'n Gids tot die ontwikkeling van
+       Bedryfstelselkerne, deur Brandon Friesen
+    2. ^ vir meer oor laevlakskedulering sien Deitel 82, hfst.10
+       pp.249-268
+
+   Kategorie: Sagteware
+

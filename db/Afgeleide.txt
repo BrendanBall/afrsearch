@@ -1,0 +1,176 @@
+Afgeleide
+
+
+   In die wiskunde is die afgeleide van 'n funksie by 'n punt die helling
+   van die raaklyn aan die grafiek van die funksie op die punt. Die woord
+   'afgeleide' is hier om die waarheid te sê 'n afgekorte term vir die
+   begrip 'afgeleide waarde'. Dit is 'n waarde wat afgelei is uit die
+   oorspronklike funksie. Bepaling van die afgeleide van 'n funksie word
+   differensieer genoem.
+
+   As die afgeleide van 'n funksie f vir alle punte in die domein van f
+   gedefinieer is, word die daardeur bepaalde funksie die afgeleide
+   funksie of kortweg die afgeleide genoem. Die afgeleide van 'n funksie f
+   wordt dikwels genoteer as f' ("f-aksent") of as
+   \frac{\mathrm{d}f}{\mathrm{d}x} . Die konsep van 'n afgeleide is in die
+   17e eeu byna tegelykertyd deur Isaac Newton en Gottfried Leibniz
+   uitgevind.
+
+   Inhoud
+
+        * 1 Voorbeeld
+        * 2 Definisie
+        * 3 Afgeleide van funksie
+             + 3.1 Teoretiese afleiding
+             + 3.2 Verwante afgeleides
+        * 4 Hoërorde afgeleides
+        * 5 Toepassings
+
+[wysig] Voorbeeld
+
+   'n Fietsryer ry langs 'n reguit pad. Die afstand wat hy afgelê het in
+   die tyd t sedert hy begin ry het, noem ons s(t). Hoe vinnig het hy op
+   die tydstip t[0] gery? Ons kan sy snelheid bepaal deur te kyk watter
+   afstand hyafgelê het in die tyd Δt na die tydstip t[0]. Hierdie afstand
+   is:
+
+          \Delta s = s(t_0+\Delta t)-s(t_0)\!
+
+   Sy gemiddelde snelheid in hierdie periode was dus:
+
+          \bar{v}=\frac{\Delta s}{\Delta t} .
+
+   Hoe kleiner ons die periode Δt neem, hoe meer benader die gemiddelde
+   snelheid die snelheid v(t[0]) op het tydstip t[0]. Die snelheid is die
+   limiet vir Δt na 0 en word die afgeleide van s(t) naar t genoem:
+
+          v(t_0)=s'(t_0)=\frac{ds}{dt}(t_0)=\lim_{\Delta t\to
+          0}\frac{\Delta s}{\Delta t} .
+
+[wysig] Definisie
+
+   Laat f: R→R 'n kontinue funksie wees. Ons beskou 'n lyn deur twee vlak
+   by mekaar liggende punte op die Grafiek van f: die punt (x, f(x)) en
+   die punt (x + Δx, f(x + Δx)). Die verskil tussen die x-koördinate van
+   hierdie punte is Δx en die verskil tussen hun y-koördinate is Δf = Δy =
+   f(x + Δx) - f(x). Die helling van die lyn deur hierdie twee punte is
+
+          \frac{\Delta f}{\Delta x}=\frac{f(x+\Delta x)-f(x)}{\Delta x}.
+
+   As die limiet van hierdie uitdrukking vir Δx→0 bestaan, is die
+   afgeleide van f in x gedefinieer as hierdie limiet:
+
+          f'(x)=\frac{\mathrm{d}f}{\mathrm{d}x}=\lim_{\Delta x\to
+          0}\frac{f(x+\Delta x)-f(x)}{\Delta x}.
+
+   As hierdie limiet bestaan, noem ons f differensieerbaar in x.
+
+   'n gelykwaardige definisie, wat eenvoudiger veralgemeen kan word na
+   funksies van meer veraderlikes, is die volgende: Laat x[0] 'n reëel
+   getal wees. As daar 'n reële getal a en 'n funksie h bestaan sodat vir
+   alle x geld
+
+          f(x)=f(x_0)+a\cdot(x-x_0)+h(x-x_0)
+
+   en bowendien h(x) / x naar 0 gaan as x→0, dan is a die afgeleide van f
+   in x[0].
+
+[wysig] Afgeleide van funksie
+
+[wysig] Teoretiese afleiding
+
+     * afgeleide van f(x) = x^2
+
+   f'(x)=\lim_{\Delta x\to 0}\frac{f(x+\Delta x)-f(x)}{\Delta
+   x}=\lim_{\Delta x\to 0}\frac{(x+\Delta x)^2-(x^2)}{\Delta
+   x}=\lim_{\Delta x\to 0}\frac{x^2+2 x \Delta x +(\Delta x)^2-x^2}{\Delta
+   x}=\lim_{\Delta x\to 0}\frac{2 x \Delta x +(\Delta x)^2}{\Delta x}
+   =\lim_{\Delta x\to 0}(2 x +\Delta x)=2x
+
+     * afgeleide van f(x) = x^n
+
+   Ons kan x^n skryf as xx^n − 1, en daar die produkreël toepas: f'(x) =
+   x^n − 1 + x(n − 1)x^n − 2 = nx^n − 1. Verder weet ons dat f'(x^2) = 2x
+   (basisstap).
+
+   Op hierdie manier kan ons met behulp van induksie aflei dat die
+   afgeleide nx^n − 1 is
+     * afgeleide van f(x) = exp(x)
+
+   f'(x)=\lim_{\Delta x\to 0}\frac{\exp(x+\Delta x)-\exp(x)}{\Delta
+   x}=\lim_{\Delta x\to 0}\frac{\exp(x) \exp(\Delta x)-\exp(x)}{\Delta
+   x}=\exp(x) \lim_{\Delta x\to 0}\frac{ \exp(\Delta x)-1}{\Delta
+   x}=\exp(x) ,
+
+   want \lim_{\Delta x\to 0}\frac{\exp(\Delta x)-1}{\Delta x}=1 , uit die
+   somdefinisie van exp(x).
+
+[wysig] Verwante afgeleides
+
+   Ons stip vooraleers die nuttige formules in verband met afleides aan:
+     * Kettingreël: asf(x) = g(h(x)), dan \frac{}{}f'(x) = g'(h(x)) h'(x)
+     * Produkreël: as \,\!(fg)'=f'g+fg'
+     * Kwotiëntreël: as f(x) = \frac{g(x)}{h(x)} , dan
+       f'(x)=\frac{g'(x)h(x) - g(x)h'(x)}{h(x)^2}
+
+     * afgeleide van f(x)=sin(x)
+          + uit sin(x)=cos(π-x)
+
+   sin(x) = cos(π − x), uit die Kettingreël volg dan: (sin(x))' = − (cos(π
+   − x))' = sin(π − x) = cos(x)
+     *
+          + uit cos(x)^2 + sin(x)^2 = 1
+
+   \sin(x)=\sqrt(1-\cos(x)^2) ...
+
+     * afgeleide van f(x)=tan(x)
+
+   \tan(x)=\frac{\sin(x)}{\cos(x)} , uit die quotiëntregel volgt dan
+   f'(x)=\frac{\sin'(x) \cos(x)-\sin(x)
+   \cos'(x)}{\cos(x)^2}=\frac{cos(x)^2+sin(x)^2}{\cos(x)^2}=\frac{1}{\cos(
+   x)^2}
+
+     * afgeleide van ln(x)
+
+   Ons kan dit aantoon met behulp van die kettingreël:
+
+   \frac{}{}(\exp(\ln(x))' = \exp'(\ln(x)) \ln'(x)= \exp(\ln(x)) \ln'(x)
+   =x \ln'(x) , want exp(x) = exp'(x).
+
+   Eintlik is exp(ln(x)) gelyk aan x (uit die definisie van logaritme), en
+   is die afgeleide aldus gelyk aan 1. Uiteraard bly die kettingreël
+   geldig: \frac{}{}(\exp(\ln(x))' =x \ln'(x)=1 , of die afgeleide van
+   ln(x) is \frac{1}{x}
+     * afgeleide van cosh(x)) en sinh(x)
+
+   Net soos by die cosinus, kan ons gebruik maak van die someiëskap van
+   die cosinus hyperbolicus: cosh(a + b) = cosh(a)cosh(b) +
+   sinh(a)sinh(b); of ons gebruik die eiëskap \cosh(x)=\cos(\imath x) .
+
+   Beide resulteer in: cosh'(x) = sinh'(x), en omgekeer: sinh'(x) =
+   cosh'(x)
+
+[wysig] Hoërorde afgeleides
+
+   As f' ook differensieerbaar is, dan is dit moontlik om hiervan die
+   afgeleide f'' te bepaal. Dié word dan die tweede orde afgeleide genoem,
+   of kortweg tweede afgeleide van f. Selfs hoërorde afgeleides kom voor.
+   Die n^e afgeleide word dikwels aangeduid met f ^(n).
+
+[wysig] Toepassings
+
+   Die afgeleide het veelvuldige belangrike toepassings in die wiskunde.
+   So kan 'n maksimum of minimum van 'n funksie gevind word deur die
+   afgeleide te bepaal. Indien 'n funksie in 'n bepaalde punt 'n (lokaal)
+   maksimum of 'n (lokaal) minimum bereik, is die afgeleide van die
+   funksie in die punt gelyk aan nul (indien die afgeleide bestaan). Om 'n
+   grafiek van 'n funksie met die hand te teken is dit daarom sinvol om
+   eers die uiteindelike maksima en minima te bepaal. Om te bepaal of die
+   punte waarin die afgeleide gelyk is aan nul maksima or minima is, word
+   soms gebruik gemaak van die Hessiaan.
+
+   Baie toepassings het die afgeleide ook in die natuurkunde. So is
+   byvoorbeel snelheid die afgeleide volgens die tyd van die plek
+   (posisie). Versnelling is dan weer die afgeleide van snelheid.
+   Kategorie: Wiskunde
+

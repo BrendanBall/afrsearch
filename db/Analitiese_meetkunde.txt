@@ -1,0 +1,62 @@
+Analitiese meetkunde
+
+
+   Cartesiese koördinate.
+   Cartesiese koördinate.
+
+   Analitiese meetkunde is die studie van meetkunde deur van algebraïse
+   beginsels gebruik te maak. Die gebruik van reële getalle om resultate
+   oor kontinue lineêre meetkunde te lewer is afhanklik van
+   Cantor-Dedekind se aksioma. Gewoonlik word die cartesiese
+   koördinatestelsel toegepas om vergelykings vir vlakke, lyne, reguit
+   lyne en vierkante te manipuleer en soms ook in drie dimensies van
+   mates. 'n Vereenvoudige definisie wat dikwels is skoolhandboeke
+   weergegee word lui: dit is gemoeid met die definisie van meetkundige
+   vorms in 'n numeriese wyse en die ontrekking van numeriese inligting
+   vanuit daardie voorstelling. Die numeriese uitset kan egter ook 'n
+   vektor of 'n meetkundige vorm wees. Sommige mense beskou analitiese
+   meetkunde as die oorsprong van moderne wiskunde.
+
+[wysig] Geskiedenis
+
+   Die Griekse wiskundige Menaechmus het probleme opgelos en teoremas
+   bewys deur gebruik te maak van 'n metode wat 'n sterk ooreenkoms getoon
+   het met die gebruik van koördinate en daar word soms beweer dat hy
+   analitiese meetkunde gebruik het.^[1] Apollonius het in sy boek "De
+   Sectione Determinata probleme bespreek wat betrekking gehad het op wat
+   as 'n analitiese meetkunde in een dimensie beskryf kan word; die
+   probleme het basies te doen gehad met die vind van 'n punt op 'n lyn
+   wat in 'n sekere verhouding tot ander punte gestaan het.^[2] Apollonius
+   het sy werk later verder uitgebrei om 'n metode te ontwikkel wat soveel
+   ooreenkomste toon met analitiese meetkunde dat sy werk soms beskou word
+   as sou dit Descartes se werk met bykans 1800 voorafgegaan het. Sy
+   toepassing van verwysingslyne, 'n diameter en 'n raaklyn verskil in
+   wese niks met ons moderne gebruik van die koördinaatraam nie, waar
+   afstande wat gemeet word langs 'n diameter vanaf die raakpunt af, die
+   absissa is; en die segmente parallel tot die raaklyn en wat tussen die
+   asse en die kromme gekruis word die ordinate is. Hy het verder
+   verwantskappe vasgestel tussen die absissa en die ooreenstemmende
+   ordinate wat ekwivalent is aan die retoriese vergelyking van krommes.
+
+[wysig] Verwysings en voetnotas
+
+    1. ^ Carl B. Boyer, A History of Mathematics, Second Edition, John
+       Wiley & Sons, Inc., 1991, isbn 0471543977, The Age of Plato and
+       Aristotle, bl'e =94-95,
+       Menaechmus het klaarblyklik hierdie eienskappe afgelei vanaf die
+       koniese en ander snitte. Aangesien hierdie materiaal 'n sterk
+       ooreenkoms toon met die gebruik van koördinate, soos hierbo getoon,
+       word daar soms beweer dat Menaechmus analitiese meetkunde gebruik
+       het. So 'n gevolgtrekking is egter net deels geregverdig, aangesien
+       Menaechmus beslis onbewus was van enige vergelyking met twee
+       onbekende hoeveelhede wat 'n kromme kon beskryf. Die algemene
+       begrip van 'n vergelyking met onbekende hoeveelhede was
+       inderwaarheid 'n vreemde begrip in Griekse leer van daardie tyd.
+       Dit was die gebrek an algebraïse notasie wat daarteen gewerk het
+       dat die Grieke 'n volledige koördinaatstelsel kon ontwikkel.
+    2. ^ Carl B. Boyer,A History of Mathematics, Tweede Uitgawe, John
+       Wiley & Sons, Inc., 1991, isbn 0471543977, Apollonius of Perga, bl
+       142
+
+   Kategorie: Wiskunde
+

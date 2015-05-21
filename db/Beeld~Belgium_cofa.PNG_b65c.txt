@@ -1,0 +1,67 @@
+Beeld:Belgium cofa.PNG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+
+   Beeld:Belgium cofa.PNG
+   Geen hoëre resolusie beskikbaar nie.
+   Belgium_cofa.PNG (225 × 274 pixel, file size: 25 KG, MIME type:
+   image/png)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   This image supersedes Image:Belgium coa.gif, which was originally
+   uploaded by Westermarck (talk • contribs) at 14:16, 8 April 2006 and
+   later edited by at 18:11, 25 March 2006.
+     * Description: Great Coat of Arms of the Kingdom of Belgium; for the
+       Great Seal, please see Image:COA of Government of Belgium.svg
+
+     * Source: from Vector-Images.com
+
+   Public domain?
+   Warning sign
+   This tag is obsoleted. Don't use this template without parameter -
+   please use instead:
+     * {{Vector-Images.com|PD-ineligible}},
+       {{Vector-Images.com|PD-RU-exempt}}, {{Vector-Images.com|PD-USGov}},
+       {{Vector-Images.com|PD-Coa-Germany}},
+       {{Vector-Images.com|PD-Coa-Hungary}},
+       {{Vector-Images.com|PD-UA-exempt}} and etc. (if image is suitable
+       for respective license tag)
+     * {{Vector-Images.com|copyvio}} (in other cases).
+
+   For more information about retagging - please see Commons:Deletion
+   requests/Template:Vector-Images.com (2nd request)#Third. Copyright
+   status
+   This coat of arms image should be recreated using vector graphics as an
+   SVG file. This has several advantages; see Commons:Media for cleanup
+   for more information. If an SVG form of this image is already
+   available, please upload it. After uploading an SVG, replace this
+   template with template {{Vector version available|new image name.svg}}
+   in this image.
+     __________________________________________________________________
+
+   العربية | Български | Català | Česky | Dansk | Deutsch | English |
+   Esperanto | Español | Français | 한국어 | Italiano | Magyar | Nederlands |
+   日本語 | Polski | Português | Română | Русский | Suomi | Svenska |
+   Türkçe | Українська | Tiếng Việt | ‪中文(繁體)‬ | ‪中文(简体)‬ | +/-
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 00:30, 4 Oktober 2007 225×274 (25 KG) Alekjds (<div
+   class="toccolours" style="text-align:center; margin: 0 2.5%; padding:
+   0;>'''This image supersedes Image:Belgium coa.gif, which was originally
+   uploaded by {{User|Westermarck}} at 14:16, 8 April 2006 and later
+   edited by {{User:George McFinnigan}} )
+
+Prentskakels
+
+   Daar is geen bladsye wat hierdie prent gebruik nie.
+

@@ -1,0 +1,115 @@
+Tunguska-M1
+
+
+   Die "Toenghoeska" lugverdedigingstelsel. Foto van Field Artillery
+   Magazine.
+   Die "Toenghoeska" lugverdedigingstelsel. Foto van Field Artillery
+   Magazine.
+
+   Die 2K22M Tunguska-M1 (Russiese 2K22 "Тунгуска" - Toenghoeska Rivier)
+   is 'n van Russiese afkomst, ruspbande alles-in-één Lug-tot-grond
+   artillerie/missiel sisteem. Dit moet vliegtuie, helikopters, en bomme
+   kan neerskiet ongeag die weersomstandighede, dag of nag. Die hoofdoel
+   van ervan is om infanterie(voertuie) en konvooie te beskerm. Die geheel
+   wordt uitgeken aan sy GRAU nommer 2K22M, maar die vervoermiddel self is
+   'n 2S6M. Die Toenghoeska-sisteem bestaan uit 'n 30mm-dubbelloop
+   lugafweer artillerie plus 4 of 8 kortafstand missiele. Die NAVO-gelyke
+   is die Duitse Gepard lugafweer artillerie met 'n verskil dat die Gepard
+   met geen missile toegerus is.
+
+   'n Enkele Toenghoeska-sisteem kos ongeveer 8 miljoen USD.
+
+   Inhoud
+
+        * 1 Ontwikkeling
+        * 2 Beskrywing
+        * 3 In gebruik deur
+        * 4 Kenmerke
+        * 5 Informasie webwerf
+        * 6 Naslagwerk
+
+[wysig] Ontwikkeling
+
+     * Die sisteemontwikkeling is in 1970 begin met die bedoeling om die
+       ZSU-23-4 te vervang. Die eerste Toenghoeska's had eers 4 missiele
+       maar is later uitgebreid om 8 missiele te huisves.
+
+   Die Toenghoeska is ontwikkeld om helikopterverassingsaanvalle, soos
+   wanneer 'n Rooivalk agter 'n koppie verskuil en plotseling 'n missiel
+   afvuur, bliksemsnel te kan teen te werk.
+
+   In 1982 was die Toenghoeska-sisteem operasioneel gereed verklaard maar
+   pas in 1986 was dit operasioneel ontplooid.
+
+[wysig] Beskrywing
+
+   Die voertuigromp word ook gebruik op die Buk-1M (NAVO:SA-11 Gadfly) en
+   [[SA-15|Tor-M1 (NAVO:SA-15)]]. 'n Toenghoeska word bediend deur 'n
+   3-koppig bemanning: gesagvoerder, radarbediening/kannonier en drywer.
+   Agter op die geskutskoepel is 'n J-band 1RL144M volgradar(NAVO:Hot
+   Shot) met 'n ontvangssterkte van 18km. Dit kan doele opvang wat op 15m
+   vlieg. Die radar is toegerust met 'n C/D-band IFF met die GRAU-code
+   1RL138.
+
+   Die sisteem kan bewegend skietend maar om missiele te skiet moet die
+   sisteem staties wees. Die sisteem kan volledig autonoom doele aanval,
+   semi autonoom met die radar wat informasie beskikbaar maak aan die
+   kannonier, of 'n optiese metode, die radar voorsien dan die
+   afstandsinformasie.
+
+   Die 9M311 (NATO: SA-19/SA-N-11)missiele van die sisteem is dieselfde as
+   die CIWS Kashtan, dit word in opties gelanseerd maar die radar stuur
+   die missiele aan.
+
+[wysig] In gebruik deur
+
+     * Indië - 50 sisteme
+     * Rusland
+     * Oekraine
+     * Belarus (Wit Rusland)
+     * Sjabloon:BLR
+     * Armenie
+     * Peru [1]
+     * Algerye
+     * Myanmar - 24 sisteme
+
+[wysig] Kenmerke
+
+     * Gevaargebied
+          + Missiel: 2.4 tot 8.0 km (10 km met 'n 9M311-1M missile)
+          + Kannon: 0.2 tot 4.0 km
+     * Gevaargebied op hoogtes
+          + Missiel: 150 tot 3500 m
+          + Kannon: 0 to 4000 m
+     * Gewaarwording en reaksietyd 8 sekonde
+     * Maksimale teikenspoed: 500 m/s
+     * Voertuig gewig: 34,000 kg
+     * Lengte: 7.93 m
+     * Breedte: 3.24 m
+     * Hoogte:
+          + Radar in gebruikt: 4.01 m
+          + Radar slaapstand: 3.36 m
+     * Road speed: 65 km/h
+     * Motore: V-46-4 780 hp met turboaangejaagde V-12 waterverkoeling van
+       'n 4 tak diesel.
+     * Bemanning: 4
+     * Kannon ammunisie: 2 x 2 x 30 mm 2A38M (1904 rondes)
+          + Skietsnelheid: 4,800 rpm
+          + Beweeglikheid: +87 tot -10 grade
+     * Missiele: 8 x 9M311 SAM (Geleidingsisteem semi-outomaties, radio
+       gestuurd, met optiese sigveld.
+
+[wysig] Informasie webwerf
+
+     * Youtube video
+     * KBP - Tunguska-M1 Air Defense Missile/Gun System
+     * Federation of American Scientists
+
+[wysig] Naslagwerk
+
+     * Jane's Land Based Air Defence 2005-2006.
+     * www.new-factoria.ru Russiestalige web.
+     * i.pvo.guns.ru Russiestalig.
+
+   Kategorie: Wapens
+

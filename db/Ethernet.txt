@@ -1,0 +1,20 @@
+Ethernet
+
+
+   Ethernet is 'n raamgebaseerde rekenaarnetwerktegnologie vir plaaslike
+   netwerke (PN'e) (Engels: Local Area Networks of LAN). Dit definieer
+   bedrading en die seine van die fisiese vlak, asook raamformate en
+   protokolle vir mediatoegangsbeheer (media access control, MAC). Daar is
+   verskillende standaarde vir Ethernet, met bus- en stertopologie wat
+   moontlik is, en spoed vanaf 10 Megabis per sekonde tot 1 Gigabis per
+   sekonde. Dit het die 1990's die gewildste netwerktegnologie geword.
+   'n Ethernet-netwerkkaart van die 1990's. Hierdie oorgangskaarte
+   ondersteun beide die standaarde vir koaksiale kabel (10BASE2) en
+   koeksisterpaarkabels (10BASE-T).
+   'n Ethernet-netwerkkaart van die 1990's. Hierdie oorgangskaarte
+   ondersteun beide die standaarde vir koaksiale kabel (10BASE2) en
+   koeksisterpaarkabels (10BASE-T).
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Rekenaarnetwerke
+

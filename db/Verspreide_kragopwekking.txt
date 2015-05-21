@@ -1,0 +1,89 @@
+Verspreide kragopwekking
+
+
+   Verspreide kragopwekking verwys na die opwekking van elektrisiteit
+   vanuit baie kleiner verspreide energiebronne. Nywerheidslande wek tans
+   die meeste van hulle krag op vanaf groot gesentraliseerde aanlegte soos
+   steenkool-kragsentrales, kernkragsentrales, hidro-kragsentrale of
+   gesamentlike opwekkingsentrales.
+
+   Hierdie aanlegte geniet uitstekende skaalvoordele maar versprei
+   elektrisiteit oor baie groot afstande. Steenkoolsentrales is dikwels
+   ver buite stede geleë om besoedeling daar te verminder. Kernreaktore
+   word ook nie veilig genoeg geag om naby stede te bou nie. Damme word
+   ook nie as veilig genoeg beskou om naby stede te bou nie en word ook
+   dikwels ver van stede af gebou. Die steenkool- en kernaanlegte word
+   daarom ook dikwels te ver vanaf bewoonde gebiede gebou dat hulle
+   reswarmte vir die verhitting van geboue benut kan word.
+
+   Lae besoedeling is 'n kritiese voordeel van gesamentlike
+   opwekkingsaanlegte wat natuurlike gas as energiebron benut. Die lae
+   besoedeling maak dit moontlik om die aanlegte naby genoeg aan stede te
+   bou sodat reswarmte benut kan word vir doeltreffende warmteverspreiding
+   en verkoeling.
+
+   Verspreide kragopwekking is 'n alternatiewe benadering. Dit verminder
+   die hoeveelheid energie wat verlore gaan as gevolg van verspreiding
+   omdat die elektrisiteit baie na aan die verbruikspunt opgewek word,
+   dikwels selfs in dieselfde gebou. Dit verminder ook die omvang en
+   aantal kraglyne wat gelê moet word.
+
+   Tipiese verspreide kragbronne in sulke skemas verg min onderhoud, het
+   lae besoedelingsvlakke tot gevolg en is baie doeltreffend. Tegnologiese
+   vooruitgang ten opsigte van outomatisering en skoner brandstowwe soos
+   sonlig, wind en natuurlike gas maak dit moontlik om bostaande doelwitte
+   selfs op 'n winsgewende en kleiner skaal te verkry.
+
+[wysig] Verspreide energiebronne
+
+   Verspreide energiebronstelsels is kleiner skaal
+   kragopwekkingstegnologieë (dikwels in die bestek van 3 kW tot 10 000
+   kW) wat ingespan word as 'n alternatiewe of bykomstige bron tot
+   tradisionele elektriese kragnetwerke.
+
+   Die probleem met verspreide kragopwekkers is gewoonlik hulle hoë
+   kostes.
+
+   Die een uitsondering is waarskynlik klein hidrokragopwekkers. 'n Goed
+   ontwerpte aanleg kan byna geen onderhoudskoste per kWh verg en kan baie
+   jare lank bruikbare krag lewer.
+
+   Een gewilde bron is sonpanele op die dakke van geboue. Die koste/W kan
+   is vergelykbaar met die van steenkoolkragsentrales.^[1]^[2]^[3] terwyl
+   dié van Kernkragsentrales hoër is.^[4] Daar is egter ook probleme met
+   die wegdoen van gebruikte sonpanele aangesien hulle swaarmetale (CdTe
+   en CIGS) bevat en moet eerder herwin word. Die pluspunt is dat daar
+   geen brandstofkostes daaraan verbonde is nie met gevolglik geen
+   besoedeling, mynbou- of bedryfsveiligheidsprobleme nie.
+
+   'n Ander gewilde bron is klein windturbines. Hierdie masjiene vereis
+   min onderhoud en veroorsaak min besoedeling. Boukostes per watt is hoër
+   as groot kragsentrales behalwe in baie winderige gebiede.
+   Windkragopwekkers dra gewoonlik hoë versekeringskostes vanweë die
+   risiko van windskade, maar bedryfsveiligheid is baie goed. Wind is ook
+   'n goeie aanvulling tot sonkrag; op dae waarop die son gewoonlik nie
+   skyn nie neig dit om meer winderig te wees en omgekeerd.
+
+   Verspreide gesamentlike opwekkingsbronne gebruik natuurlike
+   gasaangedrewe mikroturbines of suierenjins om generators te draai. Die
+   warm uitlaatgas word dan gebruik vir ruimte- of waterverhitting, of
+   soms om absorpsie-verkoelers^[5] aan te dryf vir
+   lugverkoelingsdoeleindes. Dié skoon brandstof het ook lae
+   besoedelingsvlakke tot gevolg.
+
+   Gesamentlike opwekking is ook duurder per watt as sentrale
+   kragopwekking. Die grootste voordeel van hierdie stelsels is die groter
+   benutting van die hittewaarde van die brandstof.
+
+[wysig] Verwysings
+
+    1. ^ Artikel oor die opwekkingskostes van sonpanele
+    2. ^ Osti 1979
+    3. ^ Artikel wat Steenkoolkragsentrales se toekoms bespreek
+    4. ^ Artikel by die Nuclear Engineering International se webwerf wat
+       die kapitaalkoste van Kernkragsentrales bespreek
+    5. ^ Duitstalige artikel oor gesamentlike krag- en warmte-opwekking
+       met absorpsieverkoeler
+
+   Kategorie: Energie-omsetting
+

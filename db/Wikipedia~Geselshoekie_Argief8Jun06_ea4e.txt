@@ -1,0 +1,1273 @@
+Wikipedia:Geselshoekie/Argief8Jun06
+
+
+   < Wikipedia:Geselshoekie
+  Argief Hierdie bladsy dien as 'n argief van ou besprekings. Moenie die
+         inhoud van hierdie bladsy wysig nie. Indien u 'n nuwe bespreking wil
+         begin, of by een van die oues hieronder wil aansluit, doen asseblief so
+         voort op die huidige besprekingsblad.
+
+   Inhoud
+
+        * 1 Bladsye_vir_verwydering
+        * 2 Die jare en eeue
+        * 3 Kategorisering
+        * 4 Hoe kan ek dit regmaak
+        * 5 Bot
+        * 6 Massive spam bot from korea
+        * 7 BENODIG HULP
+        * 8 Wikinuus
+        * 9 Vertaal
+        * 10 Robots
+        * 11 heildronk op n bruilof
+        * 12 Antartika & Artika
+        * 13 Outomatiese vertaling
+        * 14 Vertaling van die Week
+        * 15 Administrateur
+        * 16 Spieëlwerf
+        * 17 Kaarte by commons
+        * 18 Lys van statistiekterme
+        * 19 Statistiek
+        * 20 Confirm
+        * 21 IRC
+        * 22 Twee l'e
+        * 23 iMac
+        * 24 5000 artikels
+        * 25 Onsinnige Enkelsin artikels
+        * 26 Lukrake bladsy
+        * 27 Nummero 5000
+        * 28 5000
+        * 29 Brokkies op voorblad
+        * 30 Oos-Kaaps
+        * 31 Wikipediadag
+        * 32 Meer oor Afrikaner geskiedenis?
+        * 33 Engelse skakels
+        * 34 Wikipedia terugrol funksie
+        * 35 Naamswijziging
+        * 36 Kritiek en samewerking
+        * 37 WikiProjekt Gesproke Wikipedia
+        * 38 Inligting vir AWS-artikel
+        * 39 Erkenning aan kopiereghouers
+        * 40 Wikimedia Conferentie Nederland
+        * 41 Voorbladartikels
+             + 41.1 Week 20 & 21
+        * 42 Interessante skakels
+        * 43 Verwysings
+        * 44 Mej Suid Afrika
+        * 45 Presidente van Suid Afrika
+        * 46 Beleg van Mafikeng op Engelse voorblad
+        * 47 Inschrijving leden voor VWN
+
+Bladsye_vir_verwydering
+
+   Kan een van die adminstrateurs dalk bietjie na die
+   Bladsye_vir_verwydering kyk? Daar is goed wat darem nou al lank gelys
+   is - ons moet of besluit dis OK en die nota afhaal of die goed uitvee.
+   Laurens 22:22, 30 Desember 2005 (UTC)
+
+          Ja. As dit nie is by Wikipedia:Bladsyverwydering nie, mis ek dit
+          maklik. Die idee was natuurlik altyd dat daar iets bespreek kan
+          word. Ek het 'n kennisgewing oor die kategorie daar gesit sodat
+          mense kan gaan kyk. Ek het die velgoeters nou hopelik goed
+          genoeg hanteer, die outeurs neem ek aan onsmoet eenvoudig alles
+          uitvee. Verder is daar darem nie goeters wat te lank al wag nie,
+          dink ek. --Alias 09:42, 1 Januarie 2006 (UTC)
+
+Die jare en eeue
+
+   Ek het net nou opgemerk dat die eeu-aanduidings op baie jaarbladsye nie
+   goed is nie. Byv. 1475 staan onder 14de eeu, dit moet 15de wees. Ek het
+   Jcb gevra of hy met 'n robot dit kan wysig. Jcwf 15:18, 2 Januarie 2006
+   (UTC)
+
+Kategorisering
+
+   Dit het tot my aandag gekom dat ons sal moet konsekwentheid en
+   eenstemmigheid kry oor hoe ons gaan kategorieseer. Ek neem aan dat ons
+   uiteindelik iets by Wikipedia:Kategorisering sal hê, maar ek het nie
+   reg nou tyd nie. Miskien kan ons begin bespreek by
+   Wikipediabespreking:Kategorisering. Ek noem solank 'n paar punte daar
+   as 'n begin. --Alias 10:28, 10 Januarie 2006 (UTC)
+
+          Ja ek het ook al baie daaroor gaan nadink. Ons moet net in ag
+          neem dat ons wiki veel kleiner as die Engelse wiki is en dat ons
+          dalk eerder slegs by 'n hoë vlak moet begin kategoriseer voordat
+          ons begin om die sub-kategorieë te bou. Dit sal dan ook help om
+          'n meer logiese hiërargie vir kategorieë te bou. --RM 01:33, 12
+          Januarie 2006 (UTC)
+
+                Ek het ook gedink dat ons ons grootte in ag moet neem,
+                maar het intussen begin dink dat ons nie te klein moet
+                dink nie. Al ons politici is so ruk terug onder
+                Kategorie:Mense gesit, maar nou het ons al 'n kategorie
+                Kategorie:Politieke figure van Suid-Afrika. Ek sal
+                persoonlik nie veel omgee om deur een of twee ekstra
+                kategorieë te werk al bevat hulle bietjie minder nie. Dit
+                gee mens reeds bietjie meer konteks. Dit stel mens ook in
+                staad om 'n kategorie fyner te kategoriseer, byvoorbeeld
+                Kategorie:Geskiedenis van Suid-Afrika kan nou onder
+                kategorie:Geskiedenis en kategorie:Suid-Afrika kom.
+                --Alias 10:11, 12 Januarie 2006 (UTC)
+
+Hoe kan ek dit regmaak
+
+   Elke keer as ek 'n verandering aan my gebruikersnaam maak, verander dit
+   ook die Wiki artikel met die selfde woord.
+
+   Hoe kan ek die twee skei?
+
+   Boerseun is die artikel
+
+   Dankie --boerseun 22:20, 12 Januarie 2006 (UTC)
+
+          Gats, dit kan nogal verwarring veroorsaak :-) Boerseun is die
+          artikel, Gebruiker:Boerseun is jou bladsy. Jy behoort hom vinnig
+          te kan bereik deur regbo op die skerm, langs die mensikoon
+          (langs "my besprekings") te klik - tensy jy 'n ander tema as
+          Monobook in jou opstelling gekies het. --Alias 07:03, 13
+          Januarie 2006 (UTC)
+
+          Gebruiker:Boerseun is een doorverwijzing naar Boerseun. Om een
+          wijziging aan Gebruiker:Boerseun te maken:
+
+          + Ga naar Gebruiker:Boerseun.
+          + De tekst "Aangestuur vanaf Gebruiker:Boerseun" verschijnt.
+          + Klik hier op.
+          + Klik op "Wysig hierdie bladsy".
+          + Verwijder de #REDIRECT , en plaats je eigen tekst.
+
+          Danielm 14:09, 13 Januarie 2006 (UTC)
+
+   Baie Dankie Danielm. Ek kon dit regmaak. Ek leer maar nog. --boerseun
+   16:14, 13 Januarie 2006 (UTC)
+
+Bot
+
+   en: I have been running a interlanguage (Interwiki) bot in several
+   Wikipedias, including this. The bot uses standard pywikipedia code and
+   I am keeping it updated with CVS. Bot contributions can be seen here.
+
+   If there is no objection, I am asking for bot status at meta. Thank
+   you.
+
+   — Chlewey 16:56, 16 Januarie 2006 (UTC)
+
+          Hi Chlewey, what exactly will your bot be doing that the
+          gazillion others aren't doing already. I'd prefer to trust one
+          bot, rather than the 20 or so that are already all apparently
+          doing the same thing. Sorry, just a bit tired, we will probably
+          approve, but I don't understand why we can't just have _one_ bot
+          for all projects doing interwikis. Can anybody explain? Kan
+          iemand dalk verduidelik? --Alias 06:43, 17 Januarie 2006 (UTC)
+
+                Well, I will answer your second question first: bots can
+                either run automatically or supervised. One or a few bots
+                doing all the task will surely run automatically which
+                gives limitations as some times the bot cannot decide or
+                can run into mistakes, so we also need a few supervised
+                bots. Now the first question: mine is not doing anything
+                special. Chlewbot is just one other supervised bot that
+                runs throught guided scripts from Spanish Language
+                Wikipedia or from other minor language Wikipedias.
+                — Chlewey 13:01, 17 Januarie 2006 (UTC)
+
+                      I apologize Chlewey, my reply should have been more
+                      measured. Especially for supervised bots I don't
+                      really have a problem. It is just frustrating that
+                      we sometimes seem to have more bots than Afrikaans
+                      editors :-) Something like four bots today already.
+                      (And the spambot, of course:-) --Alias 14:22, 17
+                      Januarie 2006 (UTC)
+
+                            Nothing to apologize. I saw your question as a
+                            legitimate question. (And I hope my answer was
+                            a mood-neutral answer.) — Chlewey 14:46, 17
+                            Januarie 2006 (UTC)
+
+Massive spam bot from korea
+
+   There was a massive spam bot from korea active today on some other
+   wikis, and i have applied an pre-emptive ip-block for 6 months on their
+   21-ip-adresses.
+
+   TeunSpaans 19:36, 16 Januarie 2006 (UTC)
+
+BENODIG HULP
+
+   EK KORT HELP MET N WISKUNDE WEB ADRES -- en spelling en web-etiket :-)
+
+          Dit sal help om hier 'n bietjie meer inligting te weergee.
+          Watter tipe web adres? Waaroor moet dit handel? Dankie. Mr.
+          Anonymous 14:28, 20 Januarie 2006 (UTC)
+
+                As jy Engels verstaan probeer http://planetmath.org/ of
+                http://mathworld.wolfram.com/
+                Ek is nie tans bewus van 'n oplossing in Afrikaans nie.
+                Laurens 14:34, 20 Januarie 2006 (UTC)
+
+Wikinuus
+
+   Die inhoud van hierdie onder-afdeling is geskuif na die Wikinuus
+   bespreking.
+
+Vertaal
+
+   Ek het 'n program PLAKKER wat teks vertaal, dis nie volmaak nie maar
+   gerieflik te kry op http://interpret.co.za/ vir die wat belang stel.
+JuniorHP 14:57, 20 Januarie 2006 (UTC)
+
+Robots
+
+   Ek stel vir die internationale robots Zwobot en RoboDick 'n botflag te
+   geef. Die virdeel van internationale multilogon robots is dat die slegs
+   eenmaal kyk en daarmee tegelyk meerdere wiki's bewerk. Daarmee is die
+   belasting vir die server lager as by normale interwiki robots. Als er
+   geen beswaar is dan gaan ek vir die robots 'n botflag aanvraag op meta.
+   Jcb 11:58, 29 Januarie 2006 (UTC)
+
+          Ek het die botflaggen aangevraag op meta. Jcb 21:30, 5 Februarie
+          2006 (UTC)
+
+                Is toegeken. Jcb 17:58, 7 Februarie 2006 (UTC)
+
+heildronk op n bruilof
+
+   is dit verkeerd om n heildronk in te stel op n bruilof en dan shampanje
+   drink daarop Waar kan ek in die bybel verwys na
+
+Antartika & Artika
+
+   Wat is die verskil tussen Antartika & Artika Antarktika verwys na die
+   vasteland rondom die Suid-Pool. Streng gesproke is daar nie so iets
+   soos Arktika in Afrikaans nie maar die Arktiese Oseaan verwys na die
+   see gebied (met ys bedek) om die Noord-Pool. Laurens 06:32, 2 Februarie
+   2006 (UTC)
+
+          Noordelike & Suidelike Yssee bestaan ook in Afrikaans as ek
+          Google mag geloof. Beide benaminge het 'n probleem; die
+          Noordelike Yssee is feitelijk gesien 'n see, dus Arktiese Oseaan
+          is nie geheel juist nie, terwyl die Suidelike Yssee 'n Oseaan
+          is, dus Suidelike Yssee is nie geheel juist nie. Danielm 08:49,
+          2 Februarie 2006 (UTC)
+
+Outomatiese vertaling
+
+   Dankie dat van julle die outomatiese vertaling gemerk het. Ek sukkel om
+   hierdie eksperiment wat op hierdie skaal uitgevoer is as iets anders as
+   vandalisme te sien. Enigeen wat enigiets van enigiets weet, weet dat
+   hierdie nie goeie Afrikaans kan lewer nie, en dit op so 'n skaal ook
+   nie 'n kans staan om gekorrigeer te word nie. As meeste Afrikaanse
+   Wikipediabesoekers glad nie 'n ander taal kon lees of skryf nie, sou
+   outomatiese vertaling darem toegang kon gee. Nou gee dit ons 'n klomp
+   werk om dit alles te verwyder. Dus nou hier sodat dit nie vergete word
+   nie: Die wysigings van 196.207.45.254 moet waarskynlik alles uitgevee
+   word. Boesman het reeds bestaan, en daar was nog ekstra vandalisme voor
+   die tyd. Alles sal moontlik met die hand nagegaan moet word. 'n Reuse
+   gemors. Ek stel voor dat as iemand betyds so-iets weer teekom, 'n
+   antwoord op hulle besprekingsblad geëis word, en indien dit voortgaan,
+   'n klein, tydelike blok toegepas word. As dit deur iemand ontdek word
+   wat nie adminregte het nie, kan hulle die administrateurs epos, of by
+   meta (m:Vandalism reports of IRC (sien m:IRC) dringend iemand kry wat
+   kan help. Ongelukkig het hierdie ons getref terwyl niemand aktief was
+   nie. Ek hoop dat ons hierdie vinnige uit die weg kan ruim. Ek hoor
+   graag as iemand dink my oordeel is te swaar. --Alias 05:53, 6 Februarie
+   2006 (UTC)
+
+          Nee ek dink jy is in die kol. Ons probeer jare met baie sweet 'n
+          gemeenskap en 'n goeie produk bou en dan doen iemand anoniem
+          eksperimente. Dit is nie goed vir die wiki of vir
+          masjienvertaling nie. Ek stel voor een van die administrateurs
+          vee die bladsye summier uit. Laurens 06:57, 6 Februarie 2006
+          (UTC)
+
+                Ek is ook ten gunste van besliste optrede in die geval. Ek
+                reken omsigtigheid met die uitvee van artikels is slegs
+                belangrik wanneer dit gaan oor meningsverskille oor inhoud
+                of iets dergeliks, m.a.w. waar die bydraer enigsens omgee
+                oor die kwaliteit van die gelewerde produk. Dis uiters
+                frustrerend om iemand te kry wat die werklas op ons reeds
+                klein gemeenskap van vrywilligers so onnodiglik verder
+                vermeerder. --RM 11:18, 6 Februarie 2006 (UTC)
+
+          Ja, die versigtigheid waarna ek verwys is in gevalle soos
+          boesman waar daar reeds 'n artikel was. Net sodat ons nie dit
+          wat reeds daar was verloor nie. --Alias 12:30, 6 Februarie 2006
+          (UTC)
+
+   As ek 'n masjienvertaling teenkom op NL.wiki, dan nomineer ek die vir
+   verwydering. Myn Afrikaans is nie goe genoeg nie om te beoordeel of
+   iets 'n masjienvertaling is of nie, maar ek het geen probleem met
+   direct uitvee ervan. Jcb 21:42, 6 Februarie 2006 (UTC)
+
+          Dit is wel heel bar. Selfs ek kan duidlik sien dat die bladsye
+          slegte masjienvertalings syn. Wanneer er geen beswaar komt, dan
+          denk ek dat ek straks alle bladsye ga uitvee met alleen bydraes
+          van die IP. Jcb 21:49, 6 Februarie 2006 (UTC)
+
+                Alles uigeveeg. Jcb 00:18, 7 Februarie 2006 (UTC)
+
+Vertaling van die Week
+
+   Die Wikipedia:Bladsye_vir_vertaling#Vertaling_van_die_week afdeling het
+   erg, erg agter geraak. Terwyl my nuweling-entusiasme my nog beet het
+   sal ek dié week s'n aanpak:. Dit voel vir my dat as af.wikipedia 'n
+   gesonde projek wil bly hoort ons hieraan deel te neem - ek neem aan dit
+   het 'n agteros geword soos die admins hier oorlaai word deur baie werk
+   en min bydraers. --Marinus 05:17, 8 Februarie 2006 (UTC)
+
+          My klein bydrae: France_Prešeren --Marinus 06:43, 8 Februarie
+          2006 (UTC)
+
+          Dankie, Marinus. Persoonlik ag ek nie die vertaling van die week
+          as so belangrik nie. Dit veroorsaak dat mense soos ons werk aan
+          artikels oor obskure goeters, of dalk buite mens se
+          belangstellingsveld. Elkeen kan werk waaraan hy/sy wil, maar ek
+          dink daar is belangriker goeters om te doen. As dit is wat jy
+          wil doen, doen dit gerus. --Alias 11:02, 8 Februarie 2006 (UTC)
+
+                Persoonlik glo ek 'n projek om die groot vakgebiede se
+                oorsigtelike/oorhoofse artikels volledig gedek te kry
+                behoort voorrang te geniet. --RM 13:37, 8 Februarie 2006
+                (UTC)
+
+                      Ja ons leer met die tyd wat werk. Ek vermoed die
+                      vertaling van die week was en is nog steeds te
+                      ambisues vir ons gebruikersgetalle. Ek stem met
+                      Alias en Renier hierbo saam. My jongste strategiese
+                      idee is dat ons in 'n paar onderwerpe die beste
+                      inhoud van al die tale moet hê. Daar is ooglopende
+                      kandidate soos Apartheid, Boere oorlog, Afrika ens.
+                      Ek het self bietjie begin om Afrika uit te bou deur
+                      die lande artikels op standaard te begin bring.
+                      Meeste kaarte in Afrika is nou vertaal en ek het van
+                      die gemors begin opruim - 'n kort netjiese artikel
+                      is vir my beter as een met 'n gebreekte
+                      nie-standaard landtabel en hope hofies met niks in
+                      nie - kyk Mayotte bv. Maar mens word moeg vir een
+                      ding dan doen ek wiskunde, algoritmes of taal
+                      verwante goed. Laurens 16:34, 8 Februarie 2006 (UTC)
+
+                      Ek kan insien hoekom julle so glo. Die ding is, die
+                      vertalings is doodeenvoudig net vertalings. Ek voel
+                      nie ingelig genoeg en het nie die verwysings nie om
+                      groot werk te doen aan iets soos Thabo Mbeki of Piet
+                      Retief - ek het my menings, natuurlik, maar Wiki is
+                      nie 'n plek vir menings nie. Miskien kan ek artikels
+                      insit in my veld - elektroniese/rekenaar
+                      ingenieurswese - maar dit voel vir my dat iets soos
+                      Vertaling van die Week geskep is vir projekte soos
+                      af.wikipedia, en dat ons een artikel 'n week kan
+                      afstaan aan so iets. Solank ek daarin glo sal ek dit
+                      self doen - dis mos hoe projekte soos Wiki werk.
+                      Huidiglik is meeste van wat ek hier doen om 'rooi
+                      skakels' uit te wis - soos met Mitologie en Bertrand
+                      Russell. In sulke gevalle vertaal ek die
+                      inleidende/opsommende paragrawe van groter artikels
+                      dat daar darem iets noemenswaardig hier is en 'n
+                      skakel na die belaglik-indiepte Engelse artikels.
+                      Soos ek gesê het, ek voel nie gekwalifiseer om dit
+                      wat in diepte in Afrikaans hoort gedoen te word aan
+                      te pak nie --Marinus 21:21, 8 Februarie 2006 (UTC)
+
+          Marinus, jy kan dit gerus doen. Daar is baie wat mens kan doen
+          wat alles die projek help. Jy sal sien dat ek byvoorbeeld selde
+          nuwe artikels skep, maar meer met administratiewe sake en taal
+          help. Ek glo dit is alles belangrik. Wat almal hier sê is dat
+          ons ons pogins probeer rig in die rigting van die meeste impak.
+          As jy dus besluit op Vertaling van die week of niks, dan is
+          Vertaling van die week die rigting met die meeste impak :-)
+          Ander strategieë is dinge soos 'n vertaling van die
+          voorbladartikel by die Engelse/Nederlandse Wikipedia, of iets
+          wat in die nuus is, 'n gesogte artikel of so-iets. Doen gerus
+          waarvan jy hou en waarin jy belangstel. Dit is soos Laurens sê,
+          mens doen maar sodat dit lekker bly! (O ja, ek dink ons gaan
+          dalk deurmekaarraak met die verwarring van Marinus vs Good
+          intentions. Ek hoop dit werk uit!) --Alias 06:58, 9 Februarie
+          2006 (UTC)
+
+Administrateur
+
+   Ek het Gebruiker:Laurens genomineer as administrateur en sou bietjie
+   meer terugvoer hieroor (positief of negatief) waardeer. Ek het ook
+   intussen aangeneem dat Gebruiker:Servien se aansoek nie goedgekeur moet
+   word nie, maar ek is die enigste een wat kommentaar gelewer het. Dié
+   was ook sederdien redelik onaktief gewees. --Alias 15:14, 19 Februarie
+   2006 (UTC)
+
+Spieëlwerf
+
+   Ek't lekker gelag : http://avobe.com/af/wikipedia/t/tu/tuisblad.html
+   Kopiereg 2005, alle regte voorbehou en onderhewig aan die GFDL. (Hoe
+   hulle dit ookal regkry.) Dit moet 'n redelike ou kopie wees. Tog het
+   hulle 300000 Afrikaanse bladsye ;-) --Alias 19:23, 19 Februarie 2006
+   (UTC)
+
+Kaarte by commons
+
+   Vir diegene wat werk aan kaarte en provinsies, ens. sal die kategorie
+   Category:Maps of South Africa by commons dalk interessant wees. --Alias
+   09:17, 20 Februarie 2006 (UTC)
+
+Lys van statistiekterme
+
+   Ek is nie seker waar die mees gepaste plek is om 'n permanente
+   verwysing na die lys te plaas nie, maar het gedink dat die
+   INTERNATIONAL STATISTICAL INSTITUTE se lys van Afrikaanse terme in die
+   statistiek nogal nuttig kan wees. Dit is 'n tipe van veeltalige
+   woordeboek want as jy op 'n term kliek kan jy ook sien hoe ander tale
+   die term hanteer. Laurens 15:46, 20 Februarie 2006 (UTC)
+
+          Wikipedia:Terminologie. --Alias 20:28, 20 Februarie 2006 (UTC)
+
+Statistiek
+
+   www.world-gazetteer.com het die jongste statistiek van dorpe, stede,
+   provinsies, state en landewêreldwyd vir enigeen wat artikels oor
+   geografiese plekke skryf of wil bywerk. --Morne 22:22, 27 Februarie
+   2006 (UTC)
+
+Confirm
+
+   As I understood, wiki's have to add a sitenotice like "
+   Wegens een aanpassing aan de wiki werkt uw "E-mail gebruiker"-functie
+   niet meer zonder een bevestiging van uw e-mailadres
+
+   ", because if users won't confirm their emailaddress, it won't work
+   anymore. Can some sysop put this in Af: in the sitenotice maybe?
+   Thanks. Effeietsanders 12:43, 4 Maart 2006 (UTC)
+
+IRC
+
+   Ek wou sommer vinnige meningsopname maak - ek wonder hoeveel van die
+   mense hier stel belang in IRC - kletskamer vir die Afrikaanse
+   Wikipedia. Ek het vandag sommer irc://irc.freenode.net/#wikipedia-af en
+   irc://irc.freenode.net/#af.wikipedia probeer, maar daar is natuurlik
+   niemand daar nie. Vir vinnige interaksie is dit baie lekkerder, maar
+   daar is ook die gevaar dat mense uitgesluit kan word as mens nie ten
+   minste besluite ens. op die wiki dupliseer nie. Enigiemand wat
+   belangstel? Net sekere tye? Wil sommer vinnig 'n idee kry of ek altyd
+   alleen gaan wees :-) --Alias 15:33, 4 Maart 2006 (UTC)
+
+          Ek sou belangstel in so 'n gespreksforum. As ons kan ooreenkom
+          om weekliks so 'n geselsie te hê wat ons vir 'n uurtjie
+          skeduleer. --RM 18:11, 5 Maart 2006 (UTC)
+
+                Ons hantaaf soms nogal erg uiteenlopende ure. Ek sal
+                probeer om van nou af so gereëld moontlik by
+                irc://irc.freenode.net/#wikipedia-af te wees vir ingeval
+                iemand wil langs kom. Besprekingsblaaie werk steeds goed
+                vir baie dinge. Hierdie kan dus net ons kommunikasie
+                aanvul. Ek het begin om die onlangse wysigings met IRC te
+                ontvang - dit maak vinnige optrede teen vandalisme en vrae
+                bietjie makliker. Robotte se wysigings kom egter ook daar,
+                wat goed of sleg kan wees. --Alias
+
+                      Ek vermoed dit sal net werk as ons dit spesifiek
+                      skedulleer. Dalk om spesisfieke sake te bespreek? As
+                      van ons gelyk aan lyn is kan dit dalk soms 'n
+                      vinniger manier wees om van die goed te bespreek.
+                      Laurens 20:29, 5 Maart 2006 (UTC)
+
+          Eerste notas ens. hier. --Alias 21:16, 5 Maart 2006 (UTC)
+
+Twee l'e
+
+   Wil iemand nie asseblief die tweede "l" in "onmiddellik' op die
+   wysigingsblad aanbring nie.--Morne 00:17, 5 Maart 2006 (UTC)
+
+          Gedoen, dankie. --Alias 09:20, 5 Maart 2006 (UTC)
+
+iMac
+
+   Ek het pas my Windows-rekenaar prysgegee vir 'n iMac met MacOS 9.2.
+   Dalk is ek net nog onkundig, maar ek kry nie 'n manier om woorde
+   kursief of vetgedruk te maak nie. Kan iemand dalk help? Morne 23:13, 10
+   Maart 2006 (UTC)
+
+          Sien gerus Wikipedia:Redigeer en die skakels van daar af verder
+          (van dit skakel na Engelse bladsye). Dit is moontlik dat die
+          knoppies bo-aan die redigeerboksie nie werk op ouer blaaiers
+          nie. Dus moet mens die enkelaanhalingstekens self intik. Twee
+          vir kursief, drie vir vetdruk. --Alias 06:25, 11 Maart 2006
+          (UTC)
+
+   Die boodskap bo-aan die redigeerboksie is "Your browser is not unicode
+   compliant." En die knoppies bo-aan verskyn glad nie, maar om een of
+   ander rede werk dit nou gelukkig as ek die enkelaanhalingstekens self
+   intik. Dankie nietemin. Morne 09:57, 11 Maart 2006 (UTC)
+
+          O. As dit die geval is, gaan ons dalk probleme optel. Alles hier
+          werk met unicode. Ek weet nie of hierdie noodwendig probleme sal
+          veroorsaak nie, maar kyk asb altyd na die verskil tussen die
+          twee weergawes. Die probleem sal waarskynlik manifesteer by
+          interwikiskakels en diakritiese tekens (kappies, deeltekens,
+          ens.) Hopelik werk dit tog. Watter blaaier is dit? --Alias
+          06:55, 13 Maart 2006 (UTC)
+
+5000 artikels
+
+   Ons kruip nou vinnig nader aan die 5000 artikel merk. Destyds met die
+   4000 artikel merk het ons gepraat van 'n persverklaring en so aan. Hoe
+   lyk dit, gaan ons dit die keer doen?
+
+   Wil iemand 'n voorspelling waag vir die dag waarop die teiken bereik
+   sal word.Laurens 11:38, 15 Maart 2006 (UTC)
+
+          Ek dink beslis ons moet deurdruk met die verklaring en dit aan
+          die groot sowel as klein plaaslike koerante deurstuur. Miskien
+          moet ons ook 'n klein byeenkomsie reël om dit te vier. --RM
+          12:22, 15 Maart 2006 (UTC)
+
+          Ek is bietjie negatief na my vorige pogings. Miskien moet ons
+          eerder dit stuur vir plekke soos mieliestronk, vriende vir
+          Afrikaans, die stigting vir die bemagtiging deur Afrikaans, die
+          ATKV. Bymekaarkoms: Ek het ook iets in gedagte gehad. Miskien
+          iets soos 1/8 April? Wikipediadag. Bring rekenaars en vriende en
+          ons sit 'n groot poging in en kuier lekker. --Alias 12:44, 15
+          Maart 2006 (UTC)
+
+                Hi Alias, wat is te vore probeer in terme van
+                persverklarings en wat het fout gegaan? Dalk kan ons goed
+                anders benader maar ek sou graag eers wou weet wat
+                voorheen probeer is. 'n Mens kan dalk selfs 'n storie
+                skryf wat amper greed is vir publikasie en ook die Engelse
+                miljoental noem. Laurens 16:40, 19 Maart 2006 (UTC)
+                Dit was met Wikipedi:1Miljoen - ek het aan die grootste
+                koerante en radiostasies gestuur en _niks_ gehoor nie. Ek
+                wonder of 5000 groot genoeg is, as mens in gedagte hou dat
+                so omtrent 2000 daarvan nie werklik iets in het nie, maar
+                miskien is ek bietjie negatief. Mense wat ons (hopelik)
+                dophou, soos die wat ek bo genoem het, sal dalk beter
+                verstaan hoekom dit vir ons 'n lekker mylpaal is. --Alias
+                21:21, 20 Maart 2006 (UTC)
+
+                      Die ervaring op nl: is dat veral die
+                      rekenaargerelateerde pers die persverklaringe oppik;
+                      persberigte van nl: verskyn reëlmatig op byvoorbeeld
+                      Tweakers.net en Zdnet.nl. Rekenaartydskrifte geef
+                      ook af en toe aandag, maar al minder dan die on-line
+                      pers.
+
+   As die reguliere pers aandag aan Wikipedia geef is dit op willekeurige
+   momente. Ek dink dit is nog altyd nuttig om persberigte hierheen te
+   stuur omdat dit die bekendheid van Wikipedia hier vergroot.
+
+   Wat my betref kan ons sowel die Afrikaans- as Engelstalige pers van
+   spam voorsien. Danielm 08:44, 24 Maart 2006 (UTC)
+
+Onsinnige Enkelsin artikels
+
+   Ek wil graag net die kwessie van hierdie onsinnige enkelsin artikels
+   bespreek. Is dit werklik nodig om 'n stemming te hou oor sulke
+   artikels. Ek reken die administrateurs is bevoeg genoeg om self in
+   sulke gevalle te besluit wanneer 'n artikel geen sinvolle inligting
+   bevat nie en afbreek doen aan die kwaliteit van die wikipedia waaraan
+   die mense so hard werk. Ek kan byvoorbeeld in 'n oogwink 'n paar
+   honderd sulke artikels uitdink - dit verg geen moeite nie (bv. Margaret
+   Thatcher was 'n politikus) As die Artikel ten minste noem dat sy
+   premier was van die Verenigde Koninkryk tussen só en só 'n datum en lid
+   was van die konserwatiewe party kan 'n mens dit ten minste as 'n
+   saadjie merk. Daar is dan ten minste inligting waarop 'n volgende
+   skrywer kan bou. My gevoel is dat die stemproses net daar moet wees om
+   te verhoed dat 'n artikel waaraan 'n bydraer dalk moeite mee gedoen het
+   en waar dit om die een of ander rede nie aan al die standaarde voldoen
+   nie, sommer goedsmoeds uitgevee word nie. As 'n bydraer egter nie eers
+   die geringste moeite gedoen het nie kan hy nie kla dat sy "werk"
+   ongedaan gemaak word nie. --198.54.202.195 02:17, 20 Maart 2006 (UTC)
+
+          Ek sou dit ondersteun as ons dit as beleid kan aanvaar. Ek het
+          gister maar 'n klomp van die soort goed - Benoni is 'n Dorp in
+          Suid Afrika tipe artikels gemerk vir uitvee. As ons kan
+          ooreenkom dat iets wat net uit 'n sin of twee ooglopende feite
+          bestaan uigevee moet word kan ons in die toekoms dit sumier
+          uitvee.
+
+          Kan ons dieselfde reling tref vir lyste wat net so uit Engels
+          oorgebring word en nie een blou skakel het nie?
+
+          Laurens 11:11, 20 Maart 2006 (UTC)
+
+                Vraag - weet iemand hoe om maklik baie kort artikels te
+                vind? Laurens 11:12, 20 Maart 2006 (UTC)
+
+                      Opgelos - gebruik Spesiaal:Shortpages Laurens 11:40,
+                      20 Maart 2006 (UTC)
+
+          Die probleem hiermee is dat mense se opinie van wat nuttig is
+          gaan verskil. Ek kyk nou vinnig na van die goeters wat onlangs
+          uitgevee is en ek dink dat dit dalk vir my sou lekker wees om
+          daarop af te kom. Ja, miskien kan ek daardie feit binne sekondes
+          verifieer, maar ek sou nie andersins daarop afgekom het nie, en
+          dit is dus nou vir 'n leser verlore. In enkele gevalle het ek al
+          goeters nie vir verwydering voorgestel nie omdat dit moontlik
+          later kan help met terminologie - 'n probleem wat ons van tyd
+          tot tyd het. Die lyste van siektes is een so 'n voorbeeld. 'n
+          Klomp eensinartikels is natuurlik nie lekker nie, maar in sekere
+          onderwerpe is dit volgens my 'n aanvaarbare begin. Dit is vir my
+          meer belangrik om vir vandalisme te kyk en te sorg dat wat daar
+          is, wel goed, met bronne en goeie taalgebruik is, al is dit
+          kort. Daar was vandalisme aan Italië sedert vanoggend wat tussen
+          al die uitveëry nie opgemerk is nie - as voorbeeld van my punt.
+          --Alias 20:59, 20 Maart 2006 (UTC)
+
+                Jammer oor Italië vandalisme wat ons gemis het. Ek het
+                darem in die soeke na eensin artikels op 'n paar
+                voorbeelde van ou vandalisme wat nooit opgemerk is ook
+                afgekom. Ek weet darem nie of iets soos Stad in provinsie
+                in land nuttig kan wees nie - waarskynlik sal mens net
+                daarop afkom as jy oor die provinsie lees en dan weet mens
+                mos reeds wat aan gaan en vertel die artikel jou eintlik
+                niks nie. Stem gerus teen die voorstelle vir verwyderiung
+                - waar dit nie so duidelik gemors was nie het ek dit net
+                gemerk vir verwydering. Dalk is ek bietjie strenger met
+                die oog op die naderende 5000 merk en hopelik moedig dit
+                mense vir wie 'n popgroep of stad belangrik is aan om iets
+                meer te doen as net een sin daaroor te skryf. Laurens
+                22:37, 20 Maart 2006 (UTC)
+
+Lukrake bladsy
+
+   Weet iemand of mens dalk die lukrake bladsy funksie kan beïnvloed om
+   nie na van ons meer sinnelose bladsye te gaan nie?
+
+   Ek het nou bietjie daarmee gespeel en in 20 probeersale het dit omtrent
+   80% van die kere na 'n blad soos 405 gegaan. Die bladsye moet seker
+   bestaan, maar as 'n nuwe gebruiker bietjie wil rondkyk wat ons hier het
+   gaan sy gou teleurgesteld wees. As mens bv 'n miminumgrootte drempel
+   kan stel sal dit baie help.
+
+   Laurens 11:27, 20 Maart 2006 (UTC)
+
+          Ja. Ek ou ook dié funksie dop as 'n tipe van kwaliteitmeting.
+          Dit het al aansienlik verbeter. Mens moet egter besef dat elke
+          saadjie of subsaadjie wat bygevoeg word, die kwaliteit van dié
+          funksie degradeer. Ek is nie bewus van 'n parameter nie. Ek dink
+          die drempel is redelik laag (iets soos minimum 50 karakters en
+          een skakel, of so iets). Ek dink dit is dieselfde kriteria wat
+          gebruik word vir die amptelike aantal artikels. Mens kan dus
+          verstaan dat ons sowat 2500 datumverwante bladsye min of meer
+          helfte van die tyd in die resultate gaan verskyn. Dit strook min
+          of meer met my ervaring (ongelukkig). --Alias 20:46, 20 Maart
+          2006 (UTC)
+
+                Hi Alias - ek het toe bietjie gaan rondlees, dit lyk my
+                dit is slegs Redirects wat nie in die funksie getref word
+                nie. Ons moet dus onnodige saadjies en subsaadjies vermy.
+                Saadjies moet na my mening eintlik net gebruik word as
+                daar te min inligting is om 'n volledige artikel te skryf
+                en nie omdat mens nie tyd of lus het vir 'n volwaardige
+                artikel nie. Saadjies lei omtrent nooit na die skryf van
+                langer artikels nie - 'n lee skakel het daar dink ek 'n
+                beter kans, ek vermoed meeste mense hou maar daarvan as
+                die Aantal Artikel telling opgaan as hulle aan iets begin
+                werk - sien my en Faresh se besprekings oor die
+                Voëlartikels.
+
+                Ek is nie teen goeie kort artikels nie - partymaal gaan
+                die Engelse wikipedia bietjie lank aan oor onderwerpe wat
+                dit nie ientlik regverdig nie - selfs trasiionele
+                ensiklopdeide het maar kort artikel ook - dit moet net pas
+                by die onderwerp.
+
+                Laurens 22:30, 20 Maart 2006 (UTC)
+
+                      Die probleem is nie die korte artikels nie, ook 'n
+                      korte artikel kan 'n onderwerp beskryf. Wat my stoor
+                      is artikels wat geen nuttige inligtinge bevat nie,
+                      soos "x is 'n stad in y", wat iedereen weet. Dan is
+                      daar die jaartalartikels, dit het duidelik te vroeg
+                      begin hier. 'n Versaamling van datums is nie 'n
+                      basisvereiste van 'n ensiklopedie, en dit kos 'n
+                      kleine Wikipedia dan ook hande vol werk wat anders
+                      aan die opbou van die daadwerkelike artikels besteed
+                      kan word. Danielm 08:26, 24 Maart 2006 (UTC)
+
+Nummero 5000
+
+   Ek sien ons is naby die 5000e artikel. Ons kan miskien dit artikel 'n
+   bietje spesiaal maak, byvoorbeeld 'n mooie artikel van ons eie hande in
+   plaas van 'n willekeurige vertaling uit die andere Wikipedia's. Danielm
+   08:26, 24 Maart 2006 (UTC)
+
+          Ja dit sou gaaf gewees het - dis toe ongelukkig een van die leē
+          voēl artikels wat die eer toekom. Ons moet nou maar kyk of ons
+          die saak kan beredder deur die artikel te vebter - ek het solan
+          begin werk aan Pylsterteend maar dit gaan nog hande verg om iets
+          besonder te lewer. Laurens 09:14, 25 Maart 2006 (UTC)
+
+                Ek dog dit is Gevlekte eend. Verskil ons oor watter ene
+                dit was? --Alias 10:09, 25 Maart 2006 (UTC)
+
+                      Ons is nou op 5003 - so as ek terugwerk kom ek by
+                      Pylsterteend uit:
+
+     * Nommer 5003 - Doofheid
+     * Nommer 5002 - Brocéliande
+     * Nommer 5001 - Teeleend
+     * Nommer 5000 - Pylsterteend
+     * Nommer 4999 - Gevlekte eend
+
+   Die volgorde het natuurlik verander toe ek pretbederwer na die
+   wikipedia naamruimte verskuif het. Laurens 10:36, 25 Maart 2006 (UTC)
+
+          Ok. Dit is dus geskuif nadat ek Wikipedia:Nuus geskryf het. As
+          ons nou goeters uitvee, verander dit natuurlik weer. Mmm.
+          --Alias 11:06, 25 Maart 2006 (UTC)
+
+5000
+
+   Help, 't is vandaag al :) Gefeliciteerd allemaal met het 5000e artikel!
+   Ek gaan probeer die artikel wat uit te brei, maar dit is nie 'n
+   onderwerp waaroor ek baie kan vind nie :/
+
+   Ons moet nu vinnig besluit of ons 'n persberig wil rondstuur.
+
+   Danielm 22:34, 24 Maart 2006 (UTC)
+
+          Baie geluk met hierdie 5000 artikels :-) Flyingbird 25 mar 2006
+          09:43 (CET)
+
+                Gefeliciteer!!! Jcb 19:54, 25 Maart 2006 (UTC)
+
+Brokkies op voorblad
+
+   Ek het die afgelope ruk gesorg vir die (hopelik) interessante brokkies
+   op die voorblad. Die voorbereiding geskied by Wikipedia:Interessante
+   brokkies en dit verskyn op die voorblad d.m.v. Sjabloon:Het u geweet.
+   Ek sal dit waardeer as mense kan brokkies bydra sodat ek maklik kan
+   kies. Verder ook as mense my brokkies vir foute kan nagaan. Hierdie
+   verskyn immers op die voorblad. Tensy daar beswaar is, gaan ek vir eers
+   voort hiermee. --Alias 16:01, 25 Maart 2006 (UTC)
+
+          Dis goeie werk - hou gerus aan, ek sal ook op 'n stadium iets
+          bydra. Laurens 20:49, 25 Maart 2006 (UTC)
+
+Oos-Kaaps
+
+   Ek het 'n boodskappie geskryf op:
+   Bespreking:Tuisblad#Oos-Kaaps_Afrikaans, dalk kan iemand daarna kyk.
+   Servien (nie aangemeld nie)
+
+          Ek verstaan nie wat dit met die voorblad te doen het nie, maar
+          om te antword, ek weet niks van Oos-Kaapse Afrikaans nie, en ek
+          weet nie hoe mens die uitspraak van iets soos "nuus" kan aflei
+          uit geskrewe teks nie. Ek dink dus nie mens gaan veel wys word
+          nie want almal skryf "nuus" maar spreek tog heel versillend uit.
+          Die gebruik van "niet" dink ek nie is meer standaard in
+          Afrikaans vir die afgelope eeu nie - maar soos ek sê ek weet
+          maar min hiervan af. Nou wat het dit nou eintlik met die
+          voorblad te doen? --Alias 17:18, 31 Maart 2006 (UTC)
+
+                Eh niks, ek het'i geweet'i waar om 'it te plaas'i, 'skies!
+                Ek sal 'it voortaan in'i geselshoekie plaas (A) Servien
+                20:24, 31 Maart 2006 (UTC) (nie aangemeld'i)
+
+Wikipediadag
+
+   Sien gerus Wikipedia:Wiki-skryfmarathon/Herfs 2006. --Alias 20:06, 31
+   Maart 2006 (UTC)
+
+Meer oor Afrikaner geskiedenis?
+
+   Ek voel Afrikaners se geskiedenis word onregverdig uitgebeeld op die
+   werf, veral op die Engelse weergawe. Ek het gister en vandag hulpeloos
+   gepoog om ŉ meer korrekte en konsekwente weergawe te lewer van ons
+   geskiedenis, meer spesifiek die sogenaamde “wrede nalatingskap” van
+   Apartheid. Die huidige artikel beeld ons uit as sondaars, as mense wat
+   ŉ “Crime against humanity” gepleeg het en dan ook as “White
+   supremacists”.
+
+   Al die bogenoemde “feite” berus op stellings deur kwasi-filosowe,
+   liberale en navorsing wat gedoen is deur persone wat nie so onafhanklik
+   is as wat voorgegee word nie. Dit lei dan tot tale logiese foute,
+   insluitende ad nauseam en ad logicam, die lys gaan egter aan-en-aan.
+
+   Sien, my IP-adres is geblok. Hoe weet ek nie omrede dit die eerste keur
+   is dat ek probeer deelneem aan Wiki. Dit lei daartoe dat ek begin glo
+   dat sekere opinies sal nie geduld word nie al is dit geldig, logies,
+   rasioneel en feitlik korrek.
+
+          Uw ip-adres op de Engelse Wikipedia is geblokkeerd vanwege
+          vandalisme, niet vanwege een probleem met uw wijzigingen. Zie
+          bijvoorbeeld: [1]. Ik kan geen voorbeeld vinden waar uw
+          wijzigingen zijn teruggedraaid. Kunt u misschien een voorbeeld
+          waar dit gebeurd is? Danielm 08:34, 2 April 2006 (UTC)
+
+          Hallo (naam?). So paar gedagtes:
+
+     * Ek dink darem nie daar is 'n spesfieke sameswering teen Afrikaners
+       of Afrikaansprekendes op die Engelse of enige ander wikipedia nie.
+       Wikipedia gebruikers is meestal verbete ondersteuners van die
+       neutrale standpunt beleid. Teks wat nie hieraan voldoen nie word
+       gewoonlik gou reg gesien.
+     * Die Engelse wikipedia gaan swaar gebuk onder vandalisme van mense
+       wat onwettig Viagra verkoop, pronograwe of mense wat sommer net
+       moeilikheid wil saai. Hulle gebruik dus redelik dratiese maatreels
+       om te vehoed dat veral anonieme gebruikers nie droogmaak nie. Dit
+       sluit in dat hele blokke IP-nommers geblok word. Waarskynlik val
+       jou IP nommer ongelukkig in die groep. Ek het self so probleem wat
+       nie eers weg gaan as ek my gebruikernaam gebruik nie.
+     * Die Afrikaanse wikipedia skiet beslis tans te kort in treme van
+       Afrikaner geskiedenis. Die manier om dit reg te maak is nie om die
+       trant van die artikels wat bestaaan te verander om meer
+       proafrikaner te wees nie. Dit moet gedoen word deur feitlik
+       artikels te skryf wat die apartheidmisdade in konteks stel - ja
+       daar het misdade voorgekom en op die manier waat Apartheid op die
+       ou einde toegepas is het dit baie leed versoorsaak en juis gelei
+       daartoe dat Afrikaans en Afrikaners in sekere kringe tot vandag toe
+       nog in 'n negatiewe lig beskou word.
+     * Ons kan baie leer by ander mense wat al van “Crime(s) against
+       humanity” beskulidig is of uitgebeeld is dat hulle “White
+       supremacists” is. Ek verwys spesiefiek na Duitsers Vandag dink ons
+       nie aan alle Duitser as jodehaters nie - ons assosieer Duitsland
+       met verdraagsaamheid, voortuitgang, tegnologie, kultuur ens. Dit
+       het nie gebeur omdat hulle ontken het wat gebeur het nie, maar
+       eerder omdat hulle eerlik na hulle verlede gekyk het, probeer
+       vertaan het hoe 'n hele nasie deur 'n mal man mislei kon word en
+       ernstig berou getoon het en reperasies gemaak het. Wat is die
+       ekwivelent in ons geval? Ek stel nie Aprtheid gelyk met die
+       Nazigruwel dade nie - maar ons kan daaruit leer.
+
+   My voorstel - registreer, begin bydra op onkontoversiele manier en bou
+   'n reputassie as iemand wat die wikipedia wil uitbou. As jy spesifieke
+   sake kan uitwys waaar jy voel die neutrale standpunt nie nagevolg word
+   nie sal ons help - hier of op die Engelse wikipedia. Ek weet nie hoe
+   goed jou Frans is nie maar op die Artikel oor Suid-Afrika is daar weer
+   onjuisthede in die ander rigting - of daar was ten minste toe ek laas
+   gekyk het (derde taalstryd en so aan). Groete Laurens 08:37, 2 April
+   2006 (UTC)
+
+   _____________________ Eerstens, daar is nie 'n manier op hierdie groen
+   aarde dat jy die Nazi's en Afrikaners met mekaar kan vergelyk nie, nie
+   net wag ons nou nog vir die sg. massa grafte nie maar daar was ook
+   sisteme in plek gesit waar alle volke "Apart" kon ontwikkel het. Nou
+   goed, dit daar gelaat.
+
+          Hmmm Hallo - het jy eers die moeite gedoen om te lees wat ek
+          geskryf het? Laurens 19:55, 2 April 2006 (UTC)
+
+   Het iemand al ooit oorweeg om ‘n lys te maak waar Apartheid se goeie
+   punte teen sy slegte punte opgeweeg word? Het bevraagteken nie die feit
+   dat daar wel slegte dinge was nie maar indien Apartheid nie daar was
+   nie sou ons net soos enige ander Afrika land gelyk het.
+
+          Jy kan dit maar aanhou glo as jy wil. Opgrond waarvan sê jy dit
+          - het jy regtig al bietjie gedink wat sou gebeur het as Smuts
+          die verkiesing in 1948 gewen het en dinge anders uitgewerk het?
+          Hoe lyk die res van Afrika dan - gaan lees bietjie Senegal voor
+          jy sulke nonsens kwyt raak. Laurens 19:55, 2 April 2006 (UTC)
+
+                Daar is verseker 'n tekort op die internet van die
+                Afrikaner geskiedenis. Die feit dat apartheid in geen
+                ander lig as negatief gesien kan word nie, beteken nie dat
+                ons nie moet moeite doen om wat gebeur het neer te le nie.
+                Al is dit net sodat ons nageslagte kan leer uit die foute
+                wat begaan is. Die Afrikaners se volksidentiteit is
+                (ongelukkig) in die Apartheidsjare gevestig, en daarom mag
+                ons as Afrikaners dit nie vergeet nie. Skuus dat ek nou
+                patrioties raak, maar deur te onthou waar ons vandaan kom,
+                kan ons ook werk na iets nuuts, iets beters. Ons moet,
+                soos wat Laurens se, soos die duitsers leer uit ons foute,
+                en voort gaan. Om dit te probeer verberg of regpraat gaan
+                nie help nie. My punt is, om 'n gebalanseerde artikel oor
+                apartheid te skryf, moet jy die goeie en die slegte punte
+                neerskryf, anders hel dit oor na of pro- of antiapartheid.
+                My bydrae vir een van die goeie punte is natuurlik die
+                feit dat ons as volk saam gebring is (As ek dit kon staaf
+                met feite sou ek dit neersit, maar dit is vir eers 'n
+                opinie :)
+
+   Jrgns 13:37, 3 April 2006 (UTC)
+
+          Ek het op http://en.wikipedia.org/wiki/Afrikaner gekyk en myns
+          insiens word die geskiedenis heel neutraal vertel. Ek is trouens
+          van mening dat die Engelse weergawe te veel klink na 'n
+          geskiedenis van die Transvaalse/Vrystaatse Afrikaner en te min
+          sê oor die Oos- en Wes-Kaapse Afrikaner (maar dis net my
+          opinie).Leuce 15:31, 18 April 2006 (UTC)
+
+   _____________________
+
+Engelse skakels
+
+   http://af.wikipedia.org/wiki/Tuisblad bevat "Cite this article" onder
+   gereedskap. Kan iemand dit asseblief regmaak? jgb / 2006-04-05
+
+          Ja. Ek wil al daardies nog vertaal. Die teikenblad van daardie
+          skakel is ongelukkig baie werk. Gee gerus voorstelle op hulle
+          besprekingsblaaie (soos MediaWikibespreking:Cite article link,
+          in hierdie geval). Dit maak dit makliker vir wanneer iemand
+          later daarby uitkom. (Sien gerus Spesiaal:Allmessages). --Alias
+          22:37, 4 April 2006 (UTC)
+
+Wikipedia terugrol funksie
+
+   Ek stoei met die terugrol funksie in Wikipedia. Die artikel oor
+   wikipedia is byvoorbeeld verskeie kere gevandaliseer maar dit wil
+   voorkom asof dit nie eenvoudig 'n kwessie is van die laaste korrekte
+   weergawe te kies en dan eenvoudig terug te rol nie. Doen ek iets
+   verkeerd of laat mediawiki jou nie toe om 'n klomp veranderinge op 'n
+   slag terug te rol nie? --RM 15:42, 10 April 2006 (UTC)
+
+          Soos ek dit verstaan kan 'n wysiging teruggerol word, eerder as
+          wat daar teruggerol word na 'n spesifieke weergawe. Dit is nou
+          net 'n woordspeletjie, maar help dalk om die volgende te sê:
+          Slegs die laaste wysiging (of wysigings as dit alles deur een
+          gebruiker is) kan met die vinnige terugrol hanteer word. In die
+          geval van wikipedia is die probleem dat die robot aan die
+          artikel verander het ná die vandalisme. Toe rol jy die robot se
+          wysiging terug na die weergawe net voor hom, namelik dié van die
+          vandaal. Mens gaan ongelukkig die interwiki's van die robot moet
+          kopieer, en dit in 'n ou weergawe plak en dan dit gewoonweg
+          stoor. Vandalisme. Ek wou eintlik al lankal nie meer 'n
+          brandweerman word nie. Dit voel nou al vir my gevaarlik naby.
+          --Alias 16:04, 10 April 2006 (UTC)
+
+          As dit die geval is, is wikipedia meer vatbaar vir vandalisme as
+          wat ek aanvanklik gereken het! --198.54.202.82 18:29, 10 April
+          2006 (UTC)
+
+                Eh, ja en nee. Je kunt maar net de pech hebben dat er een
+                robot overheen komt, en dan moet je alsnog met de hand
+                gaan herstellen. Maar de rollbackfunctie draait wel alle
+                wijzigingen van één gebruiker of IP-nummer om, dus als een
+                vandaal denkt er met twee keer vandaliseren vanaf te komen
+                heeft hij het mis. Blêrkas 14:13, 12 April 2006 (UTC)
+
+Naamswijziging
+
+   Allereerst: sorry voor het Nederlands, ik neem aan dat ik beter met
+   Hollands dan met gebroken Afrikaans kan komen.
+
+   Ik zou mijn vreemde gebruikersnaam graag willen laten veranderen in
+   Steinbach. Ik heb alles bij elkaar veel te veel verschillende
+   gebruikersnamen op verschillende Wikipedia's, daar wil ik paal en perk
+   aan stellen. Ik heb hier nog maar weinig edits, dus het zou niet al te
+   moeilijk moeten zijn. Kan een bureaucrat deze wijziging even
+   doorvoeren?
+
+   Alvast bedankt, Blêrkas (f.t. Steinbach), 14:10, 12 April 2006 (UTC)
+
+          Ek sal dit doen - ek moet net eers bietjie lees oor hoe en wat
+          die gevolge is, ens. Vergewe dus asseblief as dit 'n dag of wat
+          neem. --Alias 15:00, 12 April 2006 (UTC)
+          Gedoen. Ek het Gebruiker:Blêrkas en Gebruikerbespreking:Blerkas
+          ook geskuif. As jy idetiteitsbedrog wil keer, skep weer Blêrkas,
+          en vra dat iemand dit permanenet blok. --Alias 20:00, 13 April
+          2006 (UTC)
+
+                Dankjewel. Ik heb nu ook het andere account weer
+                aangemaakt. Permanent blokkeren hoeft niet, mag natuurlijk
+                wel. Steinbach 11:53, 16 April 2006 (UTC)
+
+Kritiek en samewerking
+
+   Susters en broers!
+
+   Ek het nou 'n vreeslike behoefte om almal mooi te vra om versigtig met
+   jul woorde van kritiek om te gaan. Omdat die geskrewe woord noodwendig
+   reduksionisties is, en dit die komplekse aard van byvoorbeeld: gesels
+   met mekaar voor 'n kaggelvuur, glasie versterking in die hand, glinster
+   in die oog, geamuseerde stemtoon en ontspanne toonhoogte ensovoorts,
+   gewoon stroop na inhoud, gáán daar misverstande oor bedoeling wees.
+   Weet dit, en daarom, wees spesiaal sorgvuldig om ander samewerkers wat
+   die projek net so lief het soos jy in gedagte hou wanneer iets
+   gekritiseer word. Laat ek nou moeite doen (want niemand sien my in die
+   totaliteit van die konteks van hierdie boodskap nie: ernstig en
+   welmenend aan die pik met twee vingers op my sleutelbord in my kantoor
+   met die mooiste uitsig oor die stad en die speelgrond van 'n laerskool)
+   om te sê ek bedoel nie dat ons nié moet kritiseer nie, ek bedoel
+   kritiseer tog asseblief met die oog daarop of jy daarvan sal hou om só
+   gekritiseer te word soos jy dit nou skryf...
+
+   Ek dink beswaard hieroor noudat die debat oor Potgooi begin lyf en
+   hitte kry. Hoe meer van ons hier aankom en hier bly, hoe beter, of wat
+   praat ek? --Nomdeplume 15:43, 12 April 2006 (UTC)
+
+WikiProjekt Gesproke Wikipedia
+
+   Ek het 'n nuwe projekt begin: Wikipedia:WikiProjekt_Gesproke_Wikipedia
+   kan 'n regte Afrikaner die bladsy vertaal naar eg Afrikaans? Jcb 10:28,
+   15 April 2006 (UTC)
+
+          Ek neem aan dit sal "Gesproke Wikipedia" wees in Afrikaans.
+          Dankie vir die inisiatief, Jcb. Ek dink dit is belangrik dat
+          hierdie deur Afrikaanse persone voorgelees word. Ek wou al
+          lankal hiermee begin, maar hierdie gaan waarskynlik nie nou al
+          uitwerk nie. Internettoegang is duur in Suid-Afrika, en hier is
+          nog maar min deelnemers. Net soos met die geskrewe artikels,
+          voel ek dat kwaliteit van kardinale belang is. --Alias 17:00, 18
+          April 2006 (UTC)
+
+                Ek ga die titel verander in Gesproke Wikipedia. Ek hoop
+                dat iemand 'n paar artikels voor kan lees, sodat wy
+                Nederlanders kunnen hoor hoe die Afrikaans egt klink. Al
+                die artikels inspreek is onbegonne werk. Jcb 15:35, 28
+                April 2006 (UTC)
+
+          Miskien moet ons net eers 'n bietjie besluit hoe om dit alles te
+          doen en wat ons dit wil noem. Ek sien alles is gou hernoem, maar
+          "projekt" in Afrikaans is "projek" (byvoorbeeld). "WikiProjek
+          Gesproke Wikipedia" klink self maar bietjie snaaks. Ons sal nog
+          bietjie moet besin oor die voor- en nateks wat ons gaan gebruik
+          en of ons dalk eerder moet mik vir kleiner lêers ter wille van
+          die mense wat nie vinnige Internetverbindings het nie (meeste
+          Afrikaanssprekendes). --Alias 21:46, 29 April 2006 (UTC)
+
+Inligting vir AWS-artikel
+
+   Hallo almal! Enige iemand wat aan die AWS-artikel wil timmer is meer as
+   welkom om inligting op my AWS-webwerf te steel. Ja, ek besef dat sulke
+   inligting dan GnuFDL sal wees. Ek het ook 'n nota gelos op die
+   AWS-bladsy se besprekingsbladsy:
+   http://af.wikipedia.org/wiki/Bespreking:Afrikaanse_woordelys_en_spelreë
+   ls Leuce 15:21, 18 April 2006 (UTC)
+
+   .
+
+Erkenning aan kopiereghouers
+
+   Dit lyk my ek het nou gebruiker:Profero kwaad gemaak deur sy heraalde
+   byvoeging van sy naam by die foto van R. D. Laing te verwyder. Ons gee
+   tog nooit erkenning in die artikel self vir al die bydraers nie, of
+   hoe? Daar is tog 'n hele blad Beeld:Ronald D. Laing.jpg waar
+   kopiereginligting, ens. geplaas kan word. Hy het dit self by commons
+   opgelaai by commons:Image:Ronald D. Laing.jpg en die kopiereginligting
+   en sy naam daar bygesit. Is dit regtig 'n vereiste dat elke bydraer tot
+   elke beeld in elke plek erkenning kry? Ons gee tog erkenning, 'n hele
+   bladsy kan daaraan gewy word. Ek hoor graag opinies. --Alias 06:52, 20
+   April 2006 (UTC)
+
+          Erkenning op de beeldbladzijde lijkt mij afdoende; de
+          beeldnaamruimte is gewoon onderdeel van Wikipedia en vermelding
+          daarin voldoet dus aan de eisen van de GFDL. Danielm 07:52, 20
+          April 2006 (UTC)
+
+          Ek stem met Alias en Danielm. --Nomdeplume 17:47, 22 April 2006
+          (UTC)
+
+Wikimedia Conferentie Nederland
+
+   Deze boodschap is in het Nederlands geschreven omdat deze gebruiker
+   geen Afrikaans kan schrijven. Het zou zeer op prijs worden gesteld als
+   deze boodschap zou worden vertaald.
+
+   Hallo allemaal,
+
+   Vereniging Wikimedia Nederland organiseert op 2 september 2006 de
+   (grotendeels Nederlandstalige) Wikimedia Conferentie Nederland
+   (vooralsnog alleen een werknaam). Deze bijeenkomst zal gedeeltelijk
+   bestaan uit lezingen en workshops, maar ook uit discussiegroepen rondom
+   de thema's:
+     * Feedback uit Boston
+     * Wiki-projecten
+     * Techniek
+     * Gemeenschap
+     * Leer elkaar wat
+
+   Iedereen wordt van harte uitgenodigd om een voorstel voor een lezing,
+   discussiegroep, workshop of een andere presentatievorm in te dienen.
+   Meer informatie hierover vindt u op de Wiki van Wikimedia Nederland. Er
+   zijn sprekers nodig, meld u dus aan! Naast het feit dat u er hopelijk
+   veel zult opsteken en mensen zult ontmoeten, zal het er ook heel
+   gezellig worden! Ik hoop van harte u terug te zien op de lijst met
+   voorstellen.
+
+   Met vriendelijke groeten, Effeietsanders 21:45, 20 April 2006 (UTC)
+
+Voorbladartikels
+
+   Ter ondersteuning van die kwaliteit van Voorbladartikels het ek die
+   voorbladartikels vir die volgende paar weke vooruit aangedui. Die idee
+   is dat dit ons meer tyd sal gee om die opkomende artikels te verbeter.
+   Ek sal graag wil sien of dit werk. Die voorbladartikels vir die
+   volgende paar weke is:
+     * Berlyn 24 April tot 30 April
+     * Bretagne 1 Mei tot 7 Mei
+     * Albert Einstein 8 Mei tot 14 Mei
+     * Patent 15 Mei tot 21 Mei
+     * Tegnesium 22 Mei tot 28 Mei
+
+   Onthou om deel te neem aan die nominasie en besluit proses by
+   Wikipedia:Kandidaatartikels_vir_voorblad
+
+   Laurens 17:56, 23 April 2006 (UTC)
+
+Week 20 & 21
+
+   Ek het week 20, wat Patent sou wees, verander na België nadat probleme
+   met patent aan my uitgewys is. Ons het nou tyd om patent op standaard
+   te kry. Maar, ons moet nou op 'n nuwe artikel vir week 21 besluit -
+   help gerus by Wikipedia:Kandidaatartikels_vir_voorblad. Dit sal ook
+   gaaf wees as ons aan van die rooi skakel in België kan werk. Laurens
+   19:42, 14 Mei 2006 (UTC)
+
+Interessante skakels
+
+   'n Paar interessante skakels teëgekom:
+     * en:Wikipedia:Wikipedia articles per population
+     * http://www.wikipedia.co.za - ek besluit nog hoe kwaad ek is
+     * http://wikizine.org - Onafhanklike interne nuusbrief (in Engels)
+       vir die lede van die Wikimediagemeenskap.
+
+   --Alias 12:23, 28 April 2006 (UTC)
+
+          Die eerste artikel besvestig my vermoede dat ons maar min
+          artikels per spreker het - dit is seker 'n weer spieëling van
+          die swak Internet penetrasie, lae bewustheid van Intenet sake en
+          goeie weer... Kyk hoe goed doen die Swede, Finne en Estlanders -
+          almal met koue weer en goeie Internetverbindings.
+
+          Dis nie duidelik wat met die wikipedia.co.za poging beoog word
+          nie - behoort die wikipedia naam nie aan die wikipediastigting
+          nie - lyk bietjie na kuberplakkery?
+
+          Laurens 13:26, 28 April 2006 (UTC)
+
+                Vir my interessant van die artikels/sprekers is dat dit
+                nie ver van Engels af is nie :-) Dit tel natuurlik
+                tweedetaalsprekers by. My eerste 10 lukrake bladsye by Ido
+                (eerste op die lys) was óf jaartalle, of Amerikaanse dorpe
+                wat seker outomaties gegenereer is.
+                wp.co.za - dit is seker nie sleg bedoel nie, maar ek voel
+                ons verdien 'n veel beter posisie op so 'n blad. --Alias
+                13:30, 28 April 2006 (UTC)
+
+                Wikipedia.org.za is nog niet in gebruik en in handen van
+                één of andere "Shuttleworth Foundation". Het is natuurlijk
+                niet moeilijk te raden dat hier banden met Ubuntu zijn; en
+                dit dus goedaardig is. Misschien kan na een gesprek met de
+                juiste mensen een portaal voor heel Zuid-Afrika op gezet
+                worden naar voorbeeld van www.wikipedia.be en
+                www.wikipedia.nl? Danielm 20:08, 28 April 2006 (UTC)
+
+                      Het logo van Wikipedia is auteursrechtelijk
+                      beschermd; misschien dat iemand de Foundation kan
+                      inlichten? http://www.wikipedia.co.za/ lijkt me toch
+                      echt fout te zitten. NielsF 01:48, 4 Mei 2006 (UTC)
+
+Verwysings
+
+   Vir die afgelope paar maande word die saak van verwysings herhaaldelik
+   uitgewys as iets wat geheel en al onontbeerlik is by ons werk. Elke
+   keer as daar 'n dispuut is, kan slegs verwysings as beginpunt dien vir
+   bespreking daarvan. Dit is lekker om uit eie ondervinding/onthou/raai
+   te skryf - ons het dit al almal seker met tye gedoen (veral toe ons
+   begin het en jy skryf "jou" artikel oor "jou veld"). Ek weet daar was
+   al by ander tale sprake van dat geen bydraes meer aanvaar moet word
+   sonder verwysings en bronne nie. Ek weet nie of mens regtig al so ver
+   kan gaan nie. Ek wil graag mense se opinies hoor, maar ek dink ons gaan
+   'n beleid ten opsigte hiervan begin instel. Wikipedia:Haal bronne aan
+   het 'n skakel onder elke redigeerarea, maar ek weet nie of iemand dit
+   al gelees het nie. Ek weet nie hoeveel dit sou help as iemand dit lees
+   nie (baie rooi skakels, oud, ens.) By Bespreking:Stellenbosch het
+   hierdie sake pas weer opgeduik (geensins die eerste voorbeeld nie, en
+   hierdie is nie 'n bespreking van die Stellenbosch-saak nie) en mens
+   besef dat enige bespreking hiervan sonder verwysings na 'n publikasie
+   waar mens die feite kan lees waarskynlik nutteloos is. Baie nuwe
+   artikels wat vertaal word, word vertaal met die vewysings daarby -
+   hopelik is dit goed en word dit nagegaan met vertaling, ens. 'n Klomp
+   saadjies kan geskryf word uit eie kennis, maar nou wil ek almal se
+   idees hoor: Hoe kan ons die standaard van verwysing verhoog en hoe en
+   hoeveel kan/moet ons die gebruik daarvan afdwing? --Alias 13:23, 4 Mei
+   2006 (UTC)
+
+          Ek dink ons moet probeer om gesaghebbende bronne op te lys wat
+          die inhoud van ons artikels uitvoeriger kan behandel -
+          belangstellende lesers sal 'n bibliografie by elke ingewikkelde
+          onderwerp dalk nuttig vind. "Gesaghebbendheid" is egter steeds
+          'n betwisbare punt - is die Bybel of Koraan gesaghebbend? Na
+          watter wetenskaplike en historiese feite kan die skrywers van
+          hierdie werke verwys? Moet artikels oor godsdienstige onderwerpe
+          vanweë hulle spekulatiewe karakter nie konsekwent uit 'n
+          wetenskaplike ensiklopedie verban word nie (ek neem graag die
+          Franse ensiklopedie van die sogenaamde "ensiklopediste" as 'n
+          voorbeeld waar hierdie beleid konsekwent toegepas is)? Daar sal
+          ook 'n aantaal onversoenbare "gesaghebbende" teorieë en
+          leerstellings by wetenskaplike, politieke, historiese en ander
+          onderwerpe wees - verwysings en bronne sê niks oor die
+          betroubaarheid van die stellings nie. --Voyageur 17:32, 4 Mei
+          2006 (UTC)
+
+          Belangryk is die kwaliteit van die bronne. Op en: bestaan 'n
+          sterke druk vir bronvermelding, ek het daar reëlmatig artikels
+          gesien waar persoonlike meninge van skrywers as bron is gesien.
+
+          Aan die andere kan is 'n bron nie noodwendig noodsaaklik vir 'n
+          goeie artikel nie. Ek het byvoorbeeld 'n weëns my opleiding 'n
+          grote op rekenaargebied. Die gevolg is dat ek 'n artikel as
+          Rijndael kan skryf, sonder hier 'n direkte bron te gebruik: die
+          grootste deel van die artikel het ek uit die losse pols geskryf:
+          alleen vir die details het ek 'n boek geopen.
+
+          My is mening is daarom dat bronvermelding 'n middel is om die
+          betrouwbaarheid van artikels te vergroot. Dit is egter nie 'n
+          doel nie en kan daarom nooit 'n vereiste wees. As daar 'n bron
+          vir bepaalde teks is, kan die inhoud getoets word en daardeur
+          word die betrouwbaarheid van die artikel geverifieer. Daar is
+          egter ook andere maniere om tot betroubare artikels te kom,
+          waaronder artikels wat deur eksperts geskryf is. Danielm 19:08,
+          4 Mei 2006 (UTC)
+
+                Ek dink ons moet maar pragmaties wees oor die saak. Soms
+                is van die feite eintlik ooglopend as mens die gebied ken
+                en dan voel dit na baie moeite om vir alles wat mens sê 'n
+                verwysing te gee - dalk net 'n bronnelys aan die einde.
+                Waar mens dinge skryf wat dalk meer aanvegbaar is is dit
+                dalk wel goed om spesifieke verwysings te gee. Die Jacob
+                Zuma artikel het byvoorbeeld heelwat spesifieke verwysings
+                want dit maak spesifieke stellings wat ek nie dink mens
+                kan maak sonder om na baie spesifieke bronne te verwys
+                nie. Soos ons meer gesofistikeerd raak kan ons ook die
+                verwysings begin beoordeel - soos ons reeds taal, styl en
+                so aan resenseer - dit behoort dan na al hoe beter
+                verwysings ook te lei. Natuurlik is 'n gesaghebbende bron
+                wat reeds baie ander verwysing het (maklik vasstelbaar op
+                GoogleScholar) 'n veiliger bron om te gbruik as een og
+                ander ou se blog oor een of ander voorwerp. 'n Mens gaan
+                ook meer waarde heg aan iets wat in Nature of Science
+                verskyn het as in Die Son... Laurens 20:48, 5 Mei 2006
+                (UTC)
+
+Mej Suid Afrika
+
+   Ek is op soek na enige fotos of videos van voormalige Mej Suid Afrikas.
+   Ek werk aan die argiewe en versamel enige fotos. Enige kontak met
+   voormalige finaliste sal ook waardeer word
+
+   Dankie
+
+   Louis Fourie louis@nrf.ac.za
+
+Presidente van Suid Afrika
+
+   Hoekom is daar geen inligting oor die Ou Staatspresidente van Suid
+   Afrika beskikbaar in Afrikaans nie
+
+          Staatspresident van Suid-Afrika --Alias 09:37, 11 Mei 2006 (UTC)
+
+Beleg van Mafikeng op Engelse voorblad
+
+   Die Beleg van Mafikeng word op die Engelse voorblad genoem vandag en ek
+   het dit ook nou op ons s'n gesit. Dit kan dalk bietjie positiewe aandag
+   trek, maar ons het nie die artikel gehad nie. Ek het begin, maar dit is
+   net 'n begin. Miskien kan ons 'n groot poging insit met die vertaling
+   van EN en FR wat reeds bestaan, en die eksterne skakels. Ek het nie nou
+   tyd om dit klaar te maak nie. --Alias 08:02, 17 Mei 2006 (UTC)
+
+Inschrijving leden voor VWN
+
+   (This message is in Dutch. If you want it to be in your language, plese
+   be bold, and translate it into your language and place it under mine.)
+
+   Beste Wikianen,
+
+   Mensen die lid willen worden van Vereniging Wikimedia Nederland, kunnen
+   zich nu als zodanig aanmelden. Op nl.wikimedia.org kunt u meer
+   informatie vinden over de inschrijfprocedure en de te volgen stappen.
+   Ik hoop dat wij vele leden mogen verwelkomen.
+
+   Met vriendelijke groet, Lodewijk Gelauff aka Effeietsanders 21:07, 17
+   Mei 2006 (UTC)
+   Kategorie: Wikipediabesprekingargiewe
+

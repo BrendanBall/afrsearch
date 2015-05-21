@@ -1,0 +1,28 @@
+Sferiese koördinatestelsel
+
+
+   'n Punt afgestip deur middel van sferiese koördinate
+   'n Punt afgestip deur middel van sferiese koördinate
+
+   Die sferiese koördinatestelsel is 'n uitbreiding van die poolkoördinate
+   na drie dimensies. In dié koördinatestelsel word 'n punt afgestip deur
+   die koördinate (ρ, φ, θ) waar ρ afstand van die pool is, φ die hoek van
+   die z-as (bekend as die die Engels: colatitude of zenith en gemeet van
+   0 tot 180°) en θ die hoek van die x-s (soos in die
+   poolkoördinatestelsel). Die sferiese koördinatestelsel soortgelyk aan
+   die breedtegraad en lengtegraad stelsel wat op die aarde gebruik word,
+   met die breedtegraaddie komplement van φ, wat bepaal word deur δ = 90°
+   − φ, en die lengtegraad gemeet word deur l = θ − 180°. ^[1]
+
+   Die drie sferiese koördinate word omgekakels na Cartesiese koördinate
+   deur
+
+          x =\rho \, \sin\phi \, \cos\theta
+          y =\rho \, \sin\phi \, \sin\theta
+          z =\rho \, \cos\phi
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorie: Wiskunde saadjies
+

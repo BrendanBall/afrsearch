@@ -1,0 +1,120 @@
+Sluitweer-remstelsel
+
+
+   'n Sluitweer-remstelsel (algemeen bekend as ABS vanaf Duitse
+   Antiblockiersystem) is 'n stelsel op motorvoertuie wat voorkom dat die
+   wiel sluit wanneer daar gerem word. 'n Sluitweer-remstelsel stel die
+   bestuurder daartoe in staat om beheer te hou oor die voertuig wanneer
+   daar hard gerem word deur te verhoed dat die wiele gly en te verseker
+   dat die wiele aanhou vorentoe rol. Sodoende bly sywaartse beheer oor
+   die voertuig behoue onder leiding van die bestuurder se insette op die
+   stuurwiel. Verder en dalk selfs belangriker is die verkorting van
+   remafstande.
+
+   Sedert ABS in algemene gebruik in produksievoertuie geneem is, het
+   ABS-stelsels beduidende voortuitgang gemaak. Weergawes wat onlangs
+   vrygestel is hanteer nie net die ABS funksies nie maar onder andere ook
+   wieltolbeheer, rembystand en elektroniese stabiliteitsbeheer. Die
+   stelsel weeg tans minder as 1.5 kilogram, wat baie minder is as die 6.3
+   kg wat dit in 1978 geweeg het.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Werking
+        * 3 Doeltreffendheid
+        * 4 Voetnotas en Verwysings
+
+[wysig] Geskiedenis
+
+   Sluitweer-remstelsels is eers vir vliegtuie in 1929 ontwikkel deur die
+   Franse voertuig- en lugvaartpionier, Gabriel Voisin. 'n Stelsel is ook
+   deur Dunlop in die vroeë 1950's bekendgestel (die Maxaret-stelsel) en
+   word steeds op sommige vliegtuigmodelle gebruik.
+
+   'n Ten volle meganiese stelsel met beperkte sukses is in die 1960's in
+   die Ferguson P99 renmotor, die Jensen FF en die eksperimentele
+   vierwielaangedrewe Ford Zodiac gebruik. Die stelsel was baie duur en
+   baie onbetroubaar. 'n Stelsel met beperkte sluitweerfunksies is ook in
+   die 1964 Austin 1800 model ingebou.
+   Sluitweerremme op 'n BMW motorfiets
+   Sluitweerremme op 'n BMW motorfiets
+
+   Chrysler en Bendix het ook in 1971 'n ru Sluitweer-remstelsel bekend
+   gestel in hul 1971 Imperial model. Die stelsel was etlike jare lank
+   beskikbaar en die betroubaarheid en werkverrigting was bevredigend.
+   Ford het ook sluitweerremme in die Lincoln Continental Mark III en die
+   Ford LTD stasiewa ingebou. Die duitse firmas Bosch en Mercedes-Benz het
+   saamgewerk aan die ontwikkeling van sluitweer-remstelsels sedert die
+   1930's en die eerste volledig elektroniese vierwiel multikanaal
+   sluitweer-remstelsel in vragmotors en die Mercedes-Benz S-Klas modelle
+   ingebou in 1978. Sluitweerremme wat op hierdie moderne Mercedes ontwerp
+   gegrond is, is later in ander voertuie en motorfietse bekend gestel.
+
+[wysig] Werking
+
+   'n Tipiese sluitweer-remstelsel bestaan uit 'n sentrale elektroniese
+   eenheid, vier snelheidsensors (een vir elke wiel) en twee of meer
+   hidrouliese kleppe op die remstelsel. Die elektroniese eenheid monitor
+   deurlopend die draaisnelheid van elke wiel. Wanneer dit waarneem dat
+   enige van die wiele beduidend stadiger draai ('n toestand wat die remme
+   sal laat sluit^[1]), beweeg dit die kleppe om die druk op die
+   remstelsel te verlig en sodoende die remkrag op daardie wiel. Die wiel
+   sal dan vinniger draai totdat dit te vinnig begin draai, wanneer die
+   wiel weer gerem word. Die proses word voortdurend herhaal wat
+   verantwoordelik is vir die kenmerkende polsende gevoel op die
+   rempedaal. 'n Tipiese sluitweer-remstelsel kan remdruk 20 keer per
+   sekonde wissel.
+
+   Die sensors kan bevuil raak met metaalstof en nie die wielglip bespeur
+   nie; 'n toestand wat nie altyd deur die interne beheerder se
+   diagnostieke program opgespoor word nie. 'n Stappie verder as
+   sluitweerremme is die moderne Elektroniese stabiliteitsbeheerstelsels
+   (ESB). Hier word twee meer sensors bygevoeg: 'n stuurwielhoeksensor en
+   'n giroskoopsensor. Die teorie van werking is eenvoudig: wanneer die
+   giroskoopsensor waarneem dat die rigting van die voertuig nie
+   ooreenstem met die rigting deur die stuurwiel aangedui nie, sal die ESB
+   sagteware die nodige wiel(e) rem (in gesofistikeerde stelsels kan tot
+   drie wiele gerem word) sodat die motor in die rigting beweeg wat die
+   bestuurder wil hê dit moet beweeg. Die wielsensor help ook met die
+   werking van die rembeheer om draaie aangesien dit die
+   sluitweer-remstelsel sal beveel om die wiele aan die buitekant te rem
+   en hoeveel.
+
+[wysig] Doeltreffendheid
+
+   'n 2003 Australiese studie^[2] by die Monash Sentrum vir
+   Ongeluknavorsing het aangetoon dat sluitweer-remme:
+     * Die risiko van kettingbotsings met 18 persent verlaag.
+     * Die risiko van ongelukke waar die voertuig die pad verlaat met 35
+       persent verminder.
+
+   Op oppervlakke met hoë klouvermoë soos bitumen en beton sal voertuie
+   wat met sluitweerremme gewoonlik korter remafstande moontlik maak as
+   wat moontlik sou wees sonder so 'n stelsel. Sluitweer-remstelsels
+   verminder die risiko va 'n botsig en/of die impak van 'n botsing.
+
+   Op gruis- en sneeubedekte paaie is sluitweerremstelsels soms geneig om
+   remafstande te verhoog.^[3] Die rede hiervoor is dat remme wat gesluit
+   het geneig is om in te grawe en daarom kom die voertuig vinniger tot
+   stilstand. Die hoof voordeel van sluitweerremme op sulke oppervlakke is
+   dat dit die bestuurder help om beheer oor die voertuig te behou eerder
+   as om te gly.
+
+[wysig] Voetnotas en Verwysings
+
+    1. ^ Die elektroniese eenheid moet die bepaal wanneer sommige van die
+       wiele beduidend stadiger as die ander draai omdat die binneste
+       wiele outomaties stadiger draai as die buitenste wiele, dis dan ook
+       die rede waarom 'n ewenaars in die meeste kommersiële voertuie
+       ingebou word.
+    2. ^
+       http://www.monash.edu.au/muarc/reports/Other/RACV%20ABS%20braking%2
+       0system%20effectiveness.pdf
+    3. ^
+       http://www.nhtsa.dot.gov/staticfiles/DOT/NHTSA/NRD/Multimedia/PDFs/
+       VRTC/ca/capubs/NHTSAabsT4FinalRpt.pdf- Studie oor impak van
+       sluitweerremme op verskeie oppervlakke.
+
+   Kategorie: Voertuigtegnologie
+

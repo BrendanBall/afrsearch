@@ -1,0 +1,50 @@
+pH
+
+
+       Sure en basisse:
+   Suur-basis reaksieteorië
+   pH
+   Self-ionisering van water
+   Bufferoplossings
+   Stelselmatige benaming
+   Redoksreaksies
+   Elektrochemie
+   Sure:
+     * Sterk sure
+     * Swak sure
+
+   Basisse:
+     * Sterk basisse
+     * Swak basisse
+
+   pH is 'n maatstaf van die aktiwiteit van waterstof-ione (H^+) in 'n
+   oplossing en dus van hoe suur of alkalies dit is. In waterige stelsels
+   word die waterstofioon aktiwiteit bepaal deur die dissosiasiekonstante
+   van water (K[w]) = 1,011 × 10^−14 by 25 °C) en interaksies met ander
+   ione in oplossing. As gevolg van hierdie dissosiasiekonstante het 'n
+   neutrale oplossing (waterstofioon-aktiwiteit gelyk aan hidroksiedioon
+   aktiwiteit) 'n pH van ongeveer 7. Waterige oplossings met pH-waardes
+   laer as 7 word as suur beskou terwyl pH waardes hoër as 7 as alkalies
+   beskou word.
+
+   Die begrip is in 1909 deur S.P.L. Sørensen bekendgestel. Die p staan
+   vir die Duits Potenz, wat krag of potensie beteken, en die H vir
+   waterstofioon (H^+). Soms word in Latyn daarna verwys as pondus
+   hydrogenii.
+
+[wysig] Definisie
+
+   Alhoewel 'n pH-waarde geen eenheid het nie, is dit nie 'n arbitrêre
+   skaal nie; die getal spruit voort uit 'n definisie wat gebaseer is op
+   die aktiwiteit van die waterstofione in die oplossing.
+
+   Die formule om 'n pH-waarde te bereken is:
+
+          \mbox{pH} = -\log_{10} \left[ \mbox{H}^+ \right]
+
+   [H^+] dui die aktiwiteit van H^+-ione aan (of meer akkuraat, [H[3]O^+],
+   die ekwivalente hidronium-ione), gemeet in mol per liter (ook bekend as
+   molariteit). In verdunde oplossings (soos rivier- of kraanwater) is die
+   aktiwiteit ongeveer gelyk aan die konsentrasie H^+-ione.
+   Kategorie: Chemie
+

@@ -1,0 +1,88 @@
+Stinkmuishond
+
+
+                    Stinkmuishond
+   Bedreigingstatus: veilig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Mustelidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ictonyx
+                   Kaup, 1835
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     I. striatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Ictonyx striatus
+   (Perry, 1810)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die stinkmuishond (Ictonyx striatus) is 'n soogdier en 'n karnivoor wat
+   in die grasvlaktes en oop velde van Suider- en Wes-Afrika voorkom. Die
+   dier se naam is afgelei van die stinkende vloeistof wat dit afskei om
+   vyande mee af te weer.
+
+   'n Stinkmuishond is hoofsaaklik swart, maar het prominente wit strepe
+   wat van sy kop tot die punt van sy stert strek. 'n Gemiddelde volwasse
+   stinkmuishond is tussen 50 en 60 cm, insluitende 'n 20 cm stert.
+   Behalwe vir sy onwelriekende geur, kan die stinkmuishond sy vyande ook
+   vermy deur voor te gee asof dit dood is of deur bome te klim.
+
+   Stinkmuishonde is alleenlopers, maar sal kontak met ander
+   stinkmuishonde tydens die paarseisoen duld. Die wyfie is vir ses weke
+   dragtig en gee tussen September en Desember gebore aan een tot drie
+   kleintjies. Stinkmuishonde het 'n leeftyd van tussen 13 en 15 jaar.
+
+[wysig] Bronnelys
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+     * Larivière, Serge (2002). Ictonyx striatus". Mammalian Species
+       (698):1–5.
+     * Nowak, Ronald M. (2005). Walker's Carnivores of the World.
+       Baltimore: Johns Hopkins Press. ISBN 0-8018-8032-7
+     * Mustelid Specialist Group (1996): Ictonyx striatus by die IUCN se
+       Red List vir bedreigde spesies.
+
+   Kategorie: Marteragtiges
+

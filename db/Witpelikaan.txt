@@ -1,0 +1,114 @@
+Witpelikaan
+
+
+                     Witpelikaan
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Pelecaniformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Pelecanidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pelecanus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. onocrotalus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Pelecanus onocrotalus
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Witpelikaan is 'n voël in die pelikaanfamilie. Dit broei in
+   moerasse en vlak mere. Die boomnes is 'n rowwe hoop van plantmateriaal.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Die Witpelikaan is 'n algemene, gelokaliseerde standvoël. In
+   nie-broeidrag word volwassenes aan hul spierwit voorkoms en grootte van
+   Kleinpelikaan, (Pelecanus rufescens), onderskei; die snawel is liggeel
+   en pienk; díe keelsak en pote is geel. In vlug is die vlerke wit van
+   onder, wat by die swart vlugvere afsteek. In broeidrag toon volwassenes
+   'n pienk blos oor die liggaam, met 'n geel vlek op die bo-bors; die
+   bo-mandibel is steeds pienk en grys en díe keelsak is geel; die pote is
+   pienk. 'n Onvolwassene se kop en nek is donkerig (en word al hoe
+   ligter), sy stert en vlerke is donker-bruin en sy onderkant is gelerig.
+   Ongeveer 1,6m tot 1,8m lank, met 'n vlerkspan van ongeveer 2,8m.
+   Onvolwasse voëls is grys met donker vlugvere. Meer as 50% van die voëls
+   broei in die Donau-delta. Hulle migreer oor kort afstande en oorwinter
+   in Noordoos-Afrika. In vlug is dit 'n grasieuse voël wat sy nek
+   agtertoe hou, soos dié van 'n reier.
+
+[wysig] Habitat
+
+   Boer in swerms op eilande langs die kus (insluitend mensgemaakte
+   guano-eilande), by riviermondings, baaie, strandmere en soms by groot
+   damme en moerasse. Die boom-nes bestaan uit 'n slordige hoop blare.
+
+[wysig] Verspreiding
+
+   Kom voor vanaf Suidoos-Europa en Asië, asook plek-plek algemeen in die
+   omgewing van Kaapstad, by Walvisbaai en Swakopmund in Namibië en in
+   Noord-Botswana, St. Lucia-meer en Mosambiek.
+
+[wysig] Ander name
+
+     * Engels: White Pelican
+     * Wetenskaplike naam: Pelecanus onocrotalus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika,ISBN 1868729826
+
+   Kategorie: Pelikane
+

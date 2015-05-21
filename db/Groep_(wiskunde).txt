@@ -1,0 +1,435 @@
+Groep (wiskunde)
+
+
+   Die prent illustreer hoe die ure op 'n horlosie 'n groep vorm.
+   Die prent illustreer hoe die ure op 'n horlosie 'n groep vorm.
+
+   In abstrakte algebra is 'n groep 'n versameling met 'n binêre operasie
+   wat seker aksiomas, hieronder uiteen geset, bevredig. Die versameling
+   heelgetalle met optelling is byvoorbeeld 'n groep. Die tak van wiskunde
+   wat groepe bestudeer staan bekend as groepteorie.
+
+   Dit blyk dat baie strukture wat in wiskunde ondersoek word groepe is.
+   Dit sluit die bekende getallestelsels soos die heelgetallle, die
+   rasionale getalle, die reële gestalle, en die komplekse getalle onder
+   optelling, so wel as die nie-nul rasionale-, reële-, en komplekse
+   getalle, onder vermenigvuldiging in. Ander belangrike voorbeelde is die
+   groep nie-singuliere matrikse onder vermenigvuldiging en die groep
+   omkeerbare funksies onder komposisie. Groepteorie maak die studie van
+   die eienskappe van sulke struktuere in die algemeen moontlik.
+
+   Groepteorie word op groot skaal in wiskunde, wetenskap, en
+   ingenieurswese toegepas. Baie algebraïese strukture soos velde en
+   vektor ruimtes kan bondig in terme van groepe gedefinieer word, en
+   groepteorie verskaf belangrike gereedskap vir die studie van simmetrie,
+   aangesien die simmetrië van enige voorwerp 'n groep vorm. Groepe is dus
+   noodsaaklike abstraksies in takke van fisika wat op simmetriebeginsels
+   berus soos relatiwiteit, kwantum meganika, en deeltjie-fisika. Verder
+   word hulle vermoeë om meetkundige transformasies voor te stel in
+   chemie, rekenaargrafika en ander velde toegepas.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Definisies
+        * 3 Basiese konsepte in groepteorie
+             + 3.1 Orde van groepe en elemente
+             + 3.2 Subgroepe
+             + 3.3 Abelse groepe
+             + 3.4 Sikliese groepe
+        * 4 Notasie vir groepe
+        * 5 Voorbeelde van Groepe
+             + 5.1 'n Abelse groep: die heelgetalle onder optelling
+             + 5.2 Nie 'n groep nie: die heelgetalle onder vermenigvuldiging
+             + 5.3 'n Abelse groep: die nie-nul rasionale getalle onder
+               vermenigvuldiging
+             + 5.4 'n Eindige nie-albse groep: permutasies van 'n versameling
+        * 6 Eenvoudige stellings
+        * 7 Opbou van nuwe groepe uit bestaande groepe
+        * 8 Om te bewys dat 'n versameling 'n groep is
+        * 9 Veralgemenings
+
+[wysig] Geskiedenis
+
+[wysig] Definisies
+
+   'n Groep (G, *) is 'n versameling G met 'n binêre operasie * : G × G →
+   G (een wat aan elke ordered pair (a,b) in G 'n element in G aangedui
+   deur a*b toeken) wat die volgende drie aksiomas bevredig:
+     * Assosiatiewiteit: Vir alle a, b en c in G, (a * b) * c = a * (b *
+       c).
+     * Identiteitselement: Daar is 'n element e in G sodat vir alle a in
+       G, e * a = a * e = a.
+     * Inverse element: Vir elke a in G, is daar 'n element b in G sodat a
+       * b = b * a = e, waar e die Identiteitselement is.
+
+   Deur die definisie van 'n binêre operasie is die groep geslote onder
+   die operasie daarvan (dit wil sê, vir enige a en b in G, is die produk
+   a * b ook in G).
+
+   Daar kan maklik aangetoon word dat elke groep slegs presies een
+   identiteitselement het.
+
+   Daar kan ook aangetoon word dat die inverse van 'n element uniek is, en
+   dat die linker- en regter-inverses van 'n element dieselfde is. Sommige
+   definisies is dus effens bondiger, deur die vervanging van die tweede
+   en derde aksiomas met die konsep van 'n "linker- (of regter-)
+   identiteitselement" en 'n "linker- (of regter-) inverse element."
+
+   Let ook daarop dat 'n groep (G,*) baie keer ook eenvoudig deur G
+   aangedui word waar daar geen dubbelsinnigheid is aangaande wat die
+   operasie is nie.
+
+[wysig] Basiese konsepte in groepteorie
+
+[wysig] Orde van groepe en elemente
+
+   Die orde van 'n groep G, aangedui met |G |, is die aantal elemente in
+   die versameling G. As die orde nie eindig is nie, dan is die groep 'n
+   oneindige groep, aangedui deur |G | = ∞.
+
+   Die orde van 'n element a in 'n groep G is die mins-negetiewe heelgetal
+   n sodat a^n=e, waar a^n n keer met dit self vermenigvuldig word.
+
+[wysig] Subgroepe
+
+   'n Versameling H is 'n deelgroep van 'n groep G as dit 'n
+   deelversameling is van G en dit 'n groep is wat die operasie waarmee G
+   gedefinieer is gebruik. Met ander woorde, H is 'n deelgroep van (G, *)
+   as die beperking van * op H 'n groep operasie op H is.
+
+   As G is 'n eindige groep is, dan is H ook een. Verder deel die orde van
+   H die orde van G.
+
+[wysig] Abelse groepe
+
+   'n Groep G is 'n abelse groep (of kommutatiewe groep) as die operasie
+   kommutatief is, dit wil sê, vir alle a, b in G, a * b = b * a. 'n
+   Nie-abelse groep is 'n groep wat nie abels is nie. Die term "abels" is
+   vernoem na die wiskundige Niels Abel.
+
+[wysig] Sikliese groepe
+
+   'n Sikliese groep is 'n groep waarvan al die elemente gegenereer kan
+   word deur opeenvolgende komposisie van 'n operasie wat die groep
+   definieer toe te pas op 'n enkele element van die groep. Byvoorbeeld,
+   in die geval van 'n sikliese vermenigvuldigende groep word al die
+   elemente van die groep deur die versameling van alle heelgetal magte
+   van 'n primitiewe element van die groep gedefinieer, G = < a > = { a^n
+   | n \scriptstyle \in Z mod m | m \scriptstyle \in Z}. Indien
+   opeenvolgende komposisie van die operasie wat die groep definieer op 'n
+   nie-primitiewe element van die groep toegepas word, word 'n sikliese
+   deelgroep gegenereer waarvan die orde die orde van die groep verdeel.
+   Dus indien die orde van 'n groep 'n priem getal is, is al die elemente
+   daarvan, behalwe identiteit, primitiewe elemente van die groep. Dit is
+   belangrik om daarop te let dat 'n groep al die sikliese deelgroepe wat
+   deur elk van die elemente van G genereer word bevat. 'n Groep wat
+   opgestel word van sikliese deelgroepe is nie self noodwendig 'n
+   sikliese deelgroep nie, b.v., 'n Kleingroep is nie 'n sikliese groep
+   nie selfs al word dit opgestel uit twee kopië van die sikliese groep
+   van orde 2.
+
+[wysig] Notasie vir groepe
+
+   Groepe kan verskillende notasies gebruik afhangende van die konteks en
+   die groep-operasie.
+     * Additiewe groepe gebruik + om optelling aan te dui en die minus
+       teken - om inverses aan te dui. Byvoorbeeld, a + (-a) = 0 in Z.
+     * Vermenigvuldigende groepe gebruik * om vermenigvuldiging aan te
+       dui, en die boskrif ^-1 om inverses aan te dui. Byvoorbeeld, a *
+       a^-1 = 1. Dit is baie algemeen om die * weg te laat en in plaas
+       daarvan aa^-1 te skryf.
+     * Funksie groepe gebruik • om funksie komposisie aan te dui, en die
+       boskrif ^-1 om inverses aan te dui. Byvoorbeeld, g • g^-1 = e. Dit
+       is baie algemeen om die • weg te laat en in plaas daarvan net gg^-1
+       te skryf.
+
+   Die weglaat van 'n simbool vir 'n operasie is in die algemeen
+   aanvaarbaar en dit word dan aan die leser gelaat om te weet wat die
+   konteks van die groep-operasie is.
+
+   Wanneer groepe gedefinieer word is dit standaard notasie om hakkies te
+   gebruik om die groep en die groep se operasie te definieer.
+   Byvoorbeeld, (H,+) dui aan dat die versameling H 'n groep onder
+   optelling is. Vir groepe soos (Z[n],+) en (F[n]*, *) is dit normaal om
+   die hakkies en die operasie weg te laat, b.v. Z[n] en F[n]*. Dit is ook
+   korrek om na 'n groep te verwys deur die versameling identifiseerder
+   b.v. H of Z te gebruik.
+
+   Die identiteitselement e is staan soms bekend as die "neutrale
+   element," en word soms aangedui deur 'n ander simbool afhangende van
+   die groep:
+     * In vermenigvuldigende groepe kan die identiteitselement met 1
+       aangedui word.
+     * In invertible matriks groepe word die identiteitselement gewoonlik
+       deur I aangedui.
+     * In additiewe groepe, kan die identiteitselement deur 0 aangedui
+       word.
+     * In funksie-groepe word die identiteitselement gewoonlik aangedui
+       deur f[0].
+
+   Indien S 'n deelgroep is van G en x 'n element is van G, dan, in
+   vermenigvuldigende notasie, is xS die versameling van alle produkte
+   {xs : s in S}; op soortgelyke wyse word die notasie Sx = {sx : s in S}
+   gebruik; en vir twee deelversamelings S en T van G, word ST vir {st : s
+   in S, t in T} geskryf. In additiewe notasie word x + S, S + x, en S + T
+   vir die onderskeie versamelings geskryf (kyk cosets).
+
+[wysig] Voorbeelde van Groepe
+
+[wysig] 'n Abelse groep: die heelgetalle onder optelling
+
+   'n Bekende groep is die heelgetalle onder optelling. Laat Z die
+   versameling heelgetalle, {..., −4, −3, −2, −1, 0, 1, 2, 3, 4, ...},
+   wees en laat die simbool "+" die optel operasie wees. Dan is (Z,+) 'n
+   groep.
+
+   Bewys:
+     * Geslotenheid: Indien a en b heelgetalle is dan is a + b 'n
+       heelgetal.
+     * Assosiativiteit: Indien a, b, en c heelgetalle is, dan is (a + b) +
+       c = a + (b + c).
+     * Identiteitselement: 0 is 'n heelgetal en vir enige heelgetal is a,
+       0 + a = a + 0 = a.
+     * Inverse elemente: Indien a 'n heelgetal is, dan bevredig die
+       heelgetal −a die inverse reëls: a + b = b + a = 0.
+
+   Die groep is ook abels omdat a + b = b + a.
+
+   As die voorbeeld verder uitgebrei word deur die heelgetalle te beskou
+   met beide optelling en vermenigvuldiging, wat 'n meer ingewikkelde
+   algebraïese struktuur genaamd 'n ring vorm. (Let egter daarop dat die
+   heelgetalle met vermenigvuldiging nie 'n groepe is nie)
+
+[wysig] Nie 'n groep nie: die heelgetalle onder vermenigvuldiging
+
+   In teenstelling met bogenoemde geval is die heelgetalle vet die
+   vermedigvuldiging operasie, (Z,·), nie 'n groep nie. Dit bevredig
+   meeste van die aksiomas, maar dit faal in terme van inverses:
+     * Geslotenheid: indien a en b heelgetalle is dan is a · b 'n
+       heelgetal.
+     * Assosiatiwiteit: Indien a, b, en c heelgetalle is dan is (a · b) ·
+       c = a · (b · c).
+     * Identiteitslement: 1 is 'n heelgetal en vir enige heelgetal a, 1 ·
+       a = a · 1 = a.
+     * Dit is egter nie waar dat as a 'n heelgetal is, daar 'n heelgetal b
+       is sodat ab = ba = 1 nie. Byvoorbeeld, a = 2 is 'n heelgetal, maar
+       die enigste oplossing vir die vergelyking ab = 1 is b = 1/2. 1/2 is
+       egter nie 'n heelgetal nie. (Inverse element faal)
+
+   Aangesien nie elke element van (Z,·) 'n inverse het nie, is (Z,·) nie
+   'n groep nie. Dit is egter 'n kommutatiewe monoïed, wat 'n struktuur
+   soortgelyk aan 'n groep is maar wat nie inverse element benodig nie.
+
+[wysig] 'n Abelse groep: die nie-nul rasionale getalle onder
+vermenigvuldiging
+
+   Beskou die versameling rasionale getalle Q, die versameling breuke a/b,
+   waar a en b heelgetalle is en b is nie-nul, en die vermenigvuldiging
+   operasie, aangedui deur "·". Aangesien die rasionale getal 0 nie 'n
+   vermenigvuldigende inverse het nie, is (Q,·), soos (Z,·), nie 'n groep
+   nie.
+
+   Die versameling nie-nul rasionale getalle Q \ {0} vorm die abelse groep
+   (Q \ {0},·)
+     * Geslotenheid, Assosiatiwiteit, en Identiteitselement aksiomas kan
+       maklik nagegaan word en word bevredig as gevolg van die eienskappe
+       van heelgetalle.
+     * Inverse elemente: Die inverse van a/b is b/a wat die aksioma
+       bevredig.
+
+   Geslotenheid word nie ingeboet deur nul weg te laat nie, omdat die
+   produk van twee nie-nul rasionale getalle nooit nul is nie. Net soos
+   die heelgetalle 'n ring vorm, vorm die rasionale getalle die
+   algebraïese struktuur, die veld, wat die optelling, aftrekking,
+   vermenigvuldiging en deling toelaat.
+
+[wysig] 'n Eindige nie-albse groep: permutasies van 'n versameling
+
+   Vir 'n meer konkrete voorbeeld, beskou die drie gekleurde blokke (rooi,
+   groen, en blou), wat aanvanklik in die volgorde RGB geplaas word. Laat
+   a die aksie wees: "ruil die eerste blok en die tweede blok om", en laat
+   b die aksie wees: "ruild die tweede blok en die derde blok om".
+   Siklusdiagram vir S3. 'n Lus spesifiseer 'n reeks magte van enige
+   element verbind aan die identiteitselement (1). Byvoorbeeld, die
+   e-ba-ab lus reflekteer die feit dat (ba)2=ab en (ba)3=e, so wel as die
+   feit dat (ab)2=ba en (ab)3=e Die ander "lusse" is wortels van eenheid
+   sodat, byvoorbeeld a2=e.
+   Siklusdiagram vir S[3]. 'n Lus spesifiseer 'n reeks magte van enige
+   element verbind aan die identiteitselement (1). Byvoorbeeld, die
+   e-ba-ab lus reflekteer die feit dat (ba)^2=ab en (ba)^3=e, so wel as
+   die feit dat (ab)^2=ba en (ab)^3=e Die ander "lusse" is wortels van
+   eenheid sodat, byvoorbeeld a^2=e.
+
+   In vermenigvuldigende vorm, skryf ons tradisioneel xy vir die
+   gekombineerde aksie "doen eers y, en doen dan x"; sodat ab die aksie
+   RGB → RBG → BRG is, i.e., "neem die laaste blok en skuif dit na die
+   voorkant". As ons e skryf vir "laat die blokke soos hulle is" (die
+   identiteitsaksie), dan kan ons die ses permutasies van die versameling
+   van drie blokke as die volgende aksies skryf:
+     * e : RGB → RGB
+     * a : RGB → GRB
+     * b : RGB → RBG
+     * ab : RGB → BRG
+     * ba : RGB → GBR
+     * aba : RGB → BGR
+
+   Let daarop dat die aksie aa die effek het dat RGB → GRB → RGB, wat die
+   blokke los soos hulle voor die tyd was; ons kan dus skryf aa = e. Op
+   soortgelyke wyse:,
+     * bb = e,
+     * (aba)(aba) = e, en
+     * (ab)(ba) = (ba)(ab) = e;
+
+   dus het elk van die bostaande aksies 'n omgekeerde.
+
+   Deur inspeksie kan assosiatiwiteit en geslotenheid ook bepaal word;
+   merk byvoorbeeld op dat
+     * (ab)a = a(ba) = aba, en
+     * (ba)b = b(ab) = bab.
+
+   Hierdie groep word die simmetriese groep op 3 letters, of S[3]. Dit het
+   orde 6 (of 3 faktoriaal), en is nie-albs (aangesien, byvoorbeeld, ab ≠
+   ba). Aangesien S[3] opgebou word uit die basiese aksies a en b, sê ons
+   dat die versameling {a,b} dit genereer.
+
+   Meer algemeen kan 'n simmetriese groep van al die permutasies van N
+   voorwerpe gedefinieer word. Die groep word aangedui deur S[N] en het
+   orde N faktoriaal.
+
+   Een van die redes waarom permutasie groepe belangrik is, is omdat elke
+   eindige groep as 'n deelgroep van 'n simmetriese groyp S[N] uitgedruk
+   kan word; die resultaat is Cayley se teorema.
+
+[wysig] Eenvoudige stellings
+
+     * 'n Groep het presies een identiteitselement.
+
+     * Elke element het presies een inverse.
+
+          Bewys: Veronderstel beide b en c is inverses van x. Dan is
+          volgens die definisie van 'n inverse, xb = bx = e and xc = cx =
+          e. Maar dan:
+
+                xb = e = xc
+                xb = xc
+                bxb = bxc  (vermenigvuldig aan die linkerkant met b)
+                eb = ec    (deur bx = e te gebruik)
+                b = c      (neutrale element aksioma)
+
+          Dus is die inverse uniek.
+
+   Die eerste twee eienskappe volg eintlik uit assosiatiewe binêre
+   operasies op 'n versameling gedefinieer. Gegee 'n binêre operasie op 'n
+   versameling, is daar op die meeste een identiteitselement en op die
+   meeste een inverse vir enige element.
+     * Deling kan in groepe uitgevoer word; dit wil sê, gegee elemente a
+       en b van die groep G, is daar presies een oplossing x in G vir die
+       vergelyking x * a = b en presies een oplossing y in G vir die
+       vergelyking a * y = b.
+
+[wysig] Opbou van nuwe groepe uit bestaande groepe
+
+   Van die maniere waarop nuwe groepe uit 'n versameling bestaande groepe
+   saamgestel kan word:
+     * Deelgroepe: 'n Deelgroep H van 'n groep G is 'n groep.
+     * Kwosiënt groep: Gegee 'n groep G en 'n normale deelgroep N, die
+       kwosiënt groep is die versameling cosette van G/N saam met die
+       operasie (gN)(hN)=ghN.
+     * Direkte produk: Indien (G,*) en (H,•) groepe is, dan is die
+       versameling G×H saam met die operasie (g[1],h[1])(g[2],h[2]) =
+       (g[1]*g[2],h[1]•h[2]). Die direkte produk kan ook gedefinieer word
+       met enige aantal terme, eindige of oneindig, deur gebruik te maak
+       van die cartesiese produk en die operasie koördinaat-gewys te
+       definieer.
+     * Semidirekte produk: Indien N en H groepe is en φ : H → Aut(N) 'n
+       groep homomorphism is, dan is die semidirekte produk van N en H ten
+       opsigte van φ is die groep (N × H, *), met * gedefinieer as
+
+                (n[1], h[1]) * (n[2], h[2]) = (n[1] φ(h[1]) (n[2]), h[1]
+                h[2])
+
+     * Direkte eksterne som: Die direkte eksterne som van 'n familie
+       groepe is die deelgroep van die produk saamgestel deur elemente wat
+       'n eindige aantal nie-identiteitskoördinate. Indien die familie
+       eindig is, is die produk ekwivalent.
+
+     * Die uitdrukking "a[1] * a[2] * ··· * a[n]" is ondubbelsinnig, omdat
+       die resultaat dieslfde sal wees ongeag van waar die hakkies geplaas
+       word.
+
+     * (Sokkies en skoene) Die inverse van 'n produk is die produk van die
+       inverses in die teenoorgestelde volgorde: (a * b)^−1 = b^−1 * a^−1.
+
+          Bewys: Ons sal aantoon dat (ab)(b^-1a^-1) = (b^-1a^-1)(ab) = e,
+          soos vereis deur die definisie van 'n inverse.
+
+          (ab)(b ^− 1a ^− 1) = a(bb ^− 1)a ^− 1 (assosiatiewiteit)
+                             = aea ^− 1         (definisie van inverse)
+                             = aa ^− 1          (definisie van neutrale element)
+                             = e                (definisie van inverse)
+
+          En soortgelyk vir die ander rigting.
+
+   Hierdie en ander basiese feite wat vir alle individuele groepe geld
+   vorm die elementêre-groepteorie.
+
+[wysig] Om te bewys dat 'n versameling 'n groep is
+
+   Daar is twee hoof metodes wat gebruik kan word om te bewys dat 'n
+   versameling 'n groep is:
+     * Bewys dat die versameling 'n deelgroep van 'n groep is;
+     * Bewys dat die versameling 'n groep is deur die definisie van 'n
+       groep te gebruik.
+
+   Die eerste metode word gewoonlik die "Deelgroeptoets" genoem en vereis
+   dat 'n mens die volgende bewys om te bewys dat H 'n deelgroep is:
+     * Die versameling H is 'n nie-leë-deelversameling van G (i.e. dit
+       bevat die identiteitselement)
+     * H is geslote onder dieselfde operasie as G. (ab is in H en a^-1 is
+       in H vir alle a,b in H)
+
+   Die tweede metode vereis dat mens al die aksiomas en aannames in die
+   definisie van 'n versameling G bewys:
+     * G is nie-leeg;
+     * G is geslote onder die binêre operasie;
+     * G is assosiatief;
+     * e is in G (volg gewoonlik van nie-leeg wees);
+     * G bestaan uit eenhede.
+
+   Vir eindige groepe hoef mens slegs te bewys dat 'n deelgroep nie-leeg
+   ne geslote is onder die omringende groep se operasie.
+
+[wysig] Veralgemenings
+
+   In abstrakte algebra is daar verwante strukture wat soortgelyk is aan
+   groepe deur sommige van die aksiomas bo te verslap.
+     * As die vereiste dat elke element 'n inverse moet hê opgehef word,
+       word 'n monoïed verkry.
+     * As die identiteit vereiste ook opgehef word word 'n semigroep
+       verkry.
+     * Alternatiewelik as die operasie assosiatief moet wees verslap word
+       terwyl lang deling steeds vereis word, word 'n lus verkry.
+     * As die identiteit vereiste ook opgehef word word 'n skyngroep
+       verkry.
+     * As daar geen aksiomas vir die binêre operasie geplaas word nie,
+       word 'n magma verkry.
+
+   Groupoïedes, wat soortgelyk is aan groepe behalwe dat die komposisie a
+   * b nie vir alle a en b gedefinieer hoef te wees nie, kom voor in die
+   studie van meer ingewikkelde soorte simmetrië, baie keer in topologies
+   en analitiese strukture. Hulle is spesiale tipes kategorië.
+
+   Supergroepe en Hopf algebras is ander veralgemenings.
+
+   Lie-groepe, algebraïese groepe en topologiese groepe is voorbeelde van
+   groepvoorwerpe: groepagtige strukture in 'n ander kategorie die gewone
+   kategorie van versamelings.
+
+   Abelse groepe vorm die prototipe vir die konsep van 'n abelse
+   kategorie, wat toepassings in onder andere vektorruimtes het.
+
+   Formele groep wette is sekere formele magsreekse wat eienskappe het
+   baie soortgelyk aan groep operasies.
+   Kategorie: Wiskunde
+

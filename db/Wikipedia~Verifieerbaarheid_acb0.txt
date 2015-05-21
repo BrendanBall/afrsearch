@@ -1,0 +1,143 @@
+Wikipedia:Verifieerbaarheid
+
+
+   Die belangrikste faktor in 'n artikel se toevoeging tot Wikipedia is
+   verifieerbaarheid, nie die waarheid nie. "Verifieerbaarheid" in hierdie
+   geval beteken dat enige leser behoort na te kan gaan dat die inhoud van
+   Wikipedia reeds in 'n betroubare bron gepubliseer is. Redigeerders
+   behoort 'n betroubare bron vir aanhalings of enige ander materiaal wat
+   bevraagteken word (of bevraagteken kan word) te verskaf. Sulke
+   materiaal wat nie na 'n betroubare bron verwys nie kan verwyder word.
+
+   Wikipedia:Verifieerbaarheid is 'n kernbeleid by Wikipedia. Die ander
+   sluit in Wikipedia:Geen oorspronklike navorsing en Wikipedia:Neutrale
+   standpunt. Die beleide bepaal gesamentlik die tipe en kwaliteit van
+   materiaal wat aanvaarbaar in Wikipedia-artikels is. Hulle moet nie
+   afsonderlik van mekaar geïnterpreteer word nie en redigeerders behoort
+   te probeer om hulself met al drie vertroud te maak.
+
+   Inhoud
+
+        * 1 Bewyslas
+        * 2 Bronne
+             + 2.1 Twyfelagtige bronne
+             + 2.2 Selfgepubliseerde bronne (aanlyn en papier)
+             + 2.3 Selfgepubliseerde en twyfelagtige bronne in artikels oor
+               hulself
+        * 3 Anderstalige bronne
+        * 4 Verwysings
+        * 5 Verdere leesstof
+
+[wysig] Bewyslas
+
+          Vir hulp aangaande die korrekte aanhaling van bronne, sien gerus
+          Wikipedia:Haal bronne aan
+
+   Die bewyslas lê by die redigeerder wat inligting byvoeg of terugrol na
+   dit verwyder is. Materiaal wat bevraagteken word, of wat bevraagteken
+   kan word, benodig 'n betroubare bron. Die bron moet dan ook in die
+   artikel genoem word. Aanhalings moet toegeken word. As daar vir die
+   onderwerp van 'n artikel geen betroubare, derde-party bronne beskikbaar
+   is nie, behoort Wikipedia nie 'n artikel daaroor te hê nie.
+
+   Enige wysiging wat nie na sy bronne verwys nie mag verwyder word, maar
+   ander redigeerders mag beswaar daarteen hê indien hulle nie eers die
+   kans gegun word om bronne te verskaf nie. Die materiaal wat
+   bevraagteken word kan op die artikel se besprekingsblad gemeld word en
+   die sjabloon {{Sjabloon:Feit}} daarby gevoeg word.
+
+   Waak daarteen om redigeerders te ontstel deur onverifieerbare inligting
+   te lank in artikels te hou: sulke inligting verdien ook geen plek in
+   artikels oor lewendige persone nie. Jimmy Wales, die stigter van
+   Wikipedia, het die volgende te sê gehad: "I can NOT emphasize this
+   enough. There seems to be a terrible bias among some editors that some
+   sort of random speculative 'I heard it somewhere' pseudo information is
+   to be tagged with a 'needs a cite' tag. Wrong. It should be removed,
+   aggressively, unless it can be sourced. This is true of all
+   information, but it is particularly true of negative information about
+   living persons."^[1]
+
+[wysig] Bronne
+
+   Artikels moet gebaseer wees op betroubare, derde-party gepubliseerde
+   bronne met 'n reputasie vir akkuraatheid. Bronne moet van toepassing
+   wees op die bewerings wat gemaak word: uitsonderlike bewerings vereis
+   uitsonderlike bronne.
+
+   Ander Wikipedia-artikels, ook van anderstalige Wikipedias, geld nie as
+   'n betroubare bron nie. Indien 'n artikel vanaf 'n anderstalige
+   Wikipedia vertaal word, mag dit wel genoem word bo-aan die verwysings
+   of bronnelys, maar die oorspronklike bronne moet ook bygevoeg word.
+
+[wysig] Twyfelagtige bronne
+
+   Oor die algemeen is twyfelagtige bronne bronne wat self nie hulle eie
+   feite goed na gaan nie, glad nie na gaan nie, of gebruik maak van
+   onoplettende redigeerders.
+
+[wysig] Selfgepubliseerde bronne (aanlyn en papier)
+
+   Enige persoon kan 'n webwerf skep of betaal om 'n boek te publiseer en
+   dan beweer dat hy/sy 'n kenner in 'n sekere vakgebied is. As gevolg
+   hiervan is selfgepubliseerde boeke, persoonlike webwerwe en persoonlike
+   webjoernale ("blogs") oor die algemeen nie aanvaarbare bronne nie.^[2]
+
+   Selfgepubliseerde materiaal mag wel aanvaarbaar wees wanneer dit die
+   werk van 'n bekende, professionele navorser in 'n verwante vakgebied
+   is. Hulle werk is aanvaarbaar indien dit voorheen gepubliseer is deur
+   betroubare derdepartyse uitgewers. Wees egter bedagsaam: as die
+   betrokke inligting regtig die moeite werd is om te rapporteer, is daar
+   waarskynlik ook ander bronne wat inligting daaroor bevat.
+
+   Selfgepubliseerde bronne moet nooit gebruik word as derde-party bronne
+   vir artikels oor lewendige persone nie, selfs al is die outeur 'n
+   professionele navorser of skrywer. Sien Wikipedia:Biografieë van
+   lewendige persone.
+
+[wysig] Selfgepubliseerde en twyfelagtige bronne in artikels oor hulself
+
+   Materiaal van selfgepubliseerde bronne en twyfelagtige bronne mag
+   gebruik word in artikels oor die bronne self, so lank as:
+     * dit relevant is tot hul noemenswaardigheid;
+     * dit nie betwis word nie;
+     * dit nie bewerings aangaande die derde partye bevat nie;
+     * die nie bewerings aangaande gebeurtenisse bevat wat nie direk aan
+       die onderwerp verwant is nie;
+     * daar geen twyfel is rakende die oorspronklike skrywer daarvan nie.
+
+[wysig] Anderstalige bronne
+
+   Aangesien hierdie die Afrikaanse Wikipedia is, word daar, vir die
+   gemaklikheid van ons lesers, verkies dat Afrikaanse bronne aangehaal
+   word sodat die materiaal maklik deur ander gebruikers geverifieer kan
+   word.
+
+   Dit is egter nie altyd moontlik om van 'n Afrikaanse bron af te werk
+   nie en daar word vertrou dat redigeerders inligting korrek vertaal
+   waneer dit vanuit 'n anderstalige bron geneem word. Foute word egter
+   steeds gemaak, hetsy deur 'n redigeerder by Wikipedia of 'n
+   professionele, gepubliseerde vertaler. In prinsiep moet gebruikers die
+   kans gegun word om dus die oorspronklike materiaal na te gaan en seker
+   te maak dat dit korrek vertaal is.
+
+   Wanneer oorspronklike materiaal dus in 'n taal anders as Afrikaans:
+     * moet direkte aanhalings by die vertaalde weergawes gevoeg word.
+     * nie-Afrikaanse bronne moet duidelik weergegee word, sodat diegene
+       wat dit verlang, die vertaling kan na gaan.
+
+[wysig] Verwysings
+
+    1. ^ Jimmy Wales (2006-05-16). ""Zero information is preferred to
+       misleading or false information"." WikiEN-l electronic mailing list
+       archive. URL besoek op 2006-06-11.
+    2. ^ As 'n voorbeeld van so 'n artikel, sien gerus
+       en:Wikipedia:Articles_for_deletion/The_Game_(game)_(6th_nomination)
+       . In Engels.
+
+[wysig] Verdere leesstof
+
+     * Jimmy Wales. "WikiEN-l insist on sources", WikiEN-l mailing list.
+       19 Julie 2006.
+
+   Kategorie: Wikipedia beleide
+

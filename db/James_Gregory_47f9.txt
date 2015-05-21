@@ -1,0 +1,95 @@
+James Gregory
+
+
+   James Gregory
+   James Gregory
+
+   James Gregory (November 1638 – Oktober 1675), was 'n Skotse wiskundige
+   en sterrekundige. Hy is in Drumoak, Aberdeenshire gebore en het in
+   Edinburgh gesterf. Hy was opeenvolgend professor by die Universiteit
+   van Sint Andrews en die Universiteit van Edinburgh.
+
+   In 1663 het Gregory Optica Promota gepubliseer waarin hy die kompakte
+   weerkaatsende teleskoop, wat as die Gregory-teleskoop bekendstaan,
+   beskryf. Sy optikastelsel word ook in radioteleskope soos die Arecibo,
+   wat oor 'n "Gregory-koepel" beskik gebruik.^[1] Die teleskoop ontwerp
+   het die aandag verskeie mense in wetenskapkringe: die Oxfordse fisikus
+   Robert Hooke, Sir Robert Moray, stigterslid van die Royal Society en
+   Isaac Newton, wat aan 'n soortgelyke projek gewerk het. Die
+   Gregory-teleskoop was die eerste praktiese spieëlteleskoop en het vir
+   'n eeu en 'n half die standaard waarnemingsinstrument gebly.
+
+   In die Optica Promota het hy ook 'n metode beskryf waarin die Oorgang
+   van Venus gebruik word om die afstand van die Aarde na die Son te meet.
+   Die metode is later deur Edmund Halley aangemoedig en aangeneem as die
+   grondslag vir die eerste meting van die Astronomiese eenheid. Gregory,
+   wat 'n entoesiastiese ondersteuner van Newton was, het later
+   vriendskaplike korrespondensie met hom gevoer en sy idees in sy eie
+   dosering opgeneem; idees wat om daardie stadium omsterde en as heel
+   revolusionêr gesien is.
+
+   In 1667 het hy Vera Circuli et Hyperbolae Quadratura gepubliseer waarin
+   hy aangetoon het hoe die oppervlak van die sirkel en hiperbool in die
+   vorm van oneindige konvergente reekse verkry kan word. Hierdie werk
+   bevat 'n merkwaardige meetkundige stelling wat beweer dat die
+   verhouding van die oppervlak van enige arbitrêre sektor van 'n sirkel
+   tot dié van die omringde reguliere poligone nie uitdrukbaar is in 'n
+   eindige aantal terme nie. Hy het gevolglik die afleiding gemaak dat die
+   kwadratuur van die sirkel onmoontlik is. Dit is deur Montucla aanvaar,
+   maar dit is nie afdoende nie, aangesien dit denkbaar is dat een of
+   ander besondere sektor gekwadreer sou kon word, en dat hierdie
+   besondere sektor die hele sirkel mog wees. Nogtans was Gregory
+   effektief onder die eerste om te spekuleer oor die bestan van wat nou
+   transendentale getalle genoem word. Verder kan beide die eerste bewys
+   van die fundamentele teorema van analise en die ontdekking van die
+   Taylor-reeks beide aan hom toegeskryf word. Die boek bevat ook
+   reeks-uitbreidings van sin(x), cos(x), boogsin(x) en boogcos(x). (Die
+   vroegste formulering van die uitbreidings is gemaak deur Madhava in
+   Indië in die 14de eeu). Dit is in 1668 herdruk met 'n aanhangsel,
+   Geometriae Pars, waarin Gregory verduidelik hoe die volumes van
+   omwentelingsligaam bepaal kon word.
+
+   In 1671, of moontlik vroeër, het hy die teorema wat die 14de eeuse
+   Indiese wiskundige Madhava van Sangamagrama orosponklik ontdek het, die
+   boogtangens-reeks
+
+          \theta = \tan \theta - (1/3) \tan^3 \theta + (1/5) \tan^5 \theta
+          - \cdots,\,
+
+   vir θ tussen −π/4 en π/4.
+
+   Hierdie formule is eers deur Madhava en later in Europa gebruik om
+   diesyfers van π uit te werk.
+
+   James Gregory het diffraksie en die Diffraksietralie ontdek deur sonlig
+   deur 'n voël se veer te laat skyn en die diffraksiepartroon wat
+   geproduseer word te bestudeer. Hy het in besonder die verdeling van
+   sonlig in die komponentkleur waargeneem - dit het gebeur 'n jaar nadat
+   Newton dieselfde met 'n prisma gedoen het en die verskynsel steeds
+   uiters omstrede was.
+
+   'n Maankrater, Gregory (maankrater) is na hom vernoem. Die wiskundige
+   David Gregory was sy kleinneef.
+
+[wysig] Verwysings
+
+    1. ^ "Jim Cordes Big Dish." URL besoek op 2007-11-22.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   James Gregory
+     * O'Connor, John J; Edmund F. Robertson "James Gregory". MacTutor
+       History of Mathematics archive.
+
+     * Trinity College Dublin History of Mathematics
+     * James Gregory's Euclidean Proof of the Fundemental Theorem of
+       Calculus by Convergence
+
+    Hierdie artikel omtrent 'n Wiskundige is tans slegs 'n saadjie. Jy is
+   welkom om by te dra tot die Afrikaanse Wikipedia deur dit uit te brei.
+   Kategorieë: 17de eeuse wiskundiges • Skotse sterrekundiges • Skotse
+   uitvinders • Skotse wiskundiges • Wiskundige saadjies
+

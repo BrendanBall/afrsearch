@@ -1,0 +1,60 @@
+Wikipediabespreking:Sandput/Tuisblad
+
+
+   < Wikipediabespreking:Sandput
+
+   (vanaf Wikipediabespreking:Sandput)
+
+   Dis nou hier waar dinge baie moeilik raak. Maak asb. in die toekoms 'n
+   aparte blad vir sulke eksperimente. Die sandput moet ideaal gesproke
+   permanent beskikbaar wees vir nuwelinge om te kan eksperimenteer.
+
+   Hierdie wysinging is 'n bietjie snaaks: alfabeties gesorteer volgens
+   watter stelsel? Nou is "Ellenika" reg onder, saam met Belaruswatookal,
+   Oerdoe is reg bo, ens. Moet Bahasa Indonesia nie onder "I" en Bahasa
+   Melayu onder "M" kom nie? Dis moeilik omdat woorde uit verskillende
+   skrifstelsels en alfabetiseringskonvensies gemeng word. Ek glo die
+   interwiki-robotte het waarskynlik (hopelik) die beste volgorde reeds
+   ingeprogrammeer. --Alias 16:24, 7 Augustus 2007 (UTC)
+
+          Hmmm, ek het die sortering gedoen, nie volgens die letters in
+          die hakies nie, maar volgens die name van die tale wat op die
+          blad verskyn. Ek het maar net gedoen soos ek gedog het lyk die
+          beste. Wanneer die tale gemeng word omdat dit volgens die
+          letters tussen die [[]] gesorteer word, dan lyk dit vir my so
+          bietjie slordig. Maar ek weet nie, as dit nie werk nie kan dit
+          altyd teruggerol word of so iets. En enigiemand kan nog steeds
+          die sandput gebruik, ons verwys net weer na die permalinks van
+          ons wysigings. — Adriaan (S★B) 16:52, 7 Augustus 2007 (UTC)
+
+                Ek het 'n aparte blad nou geskep, hopelik is dit
+                voldoende. Die sandput is ideaal gesproke 'n blad wat
+                beskikbaar is vir enige gebruiker, nuut of oud, om te kan
+                eksperimenteer. Ek besef wel dat ons die blad moes opruim
+                na elke eksperiment en dat 'n aparte blad dus 'n goeie
+                idee is omdat dit nie hoef opgeruim te word nie.
+
+                Ek het die interwiki's vervang met dié wat op ons huidige
+                voorblad verskyn: iets wat ek eintlik van die begin af
+                moes doen.
+
+                Enige ander klagtes of kommentaar rakende die hersiende
+                weergawe? Anrie 10:10, 8 Augustus 2007 (UTC)
+
+                      Ek het die blad nou bietjie getoets in verskeie
+                      resolusies, blaaiers en stelselbeheerders, 600x800,
+                      1024x768 en 1680x1050 / Firefox, Internet Explorer
+                      en Konqueror / SUSE Linux, Ubuntu en WinXP. Die
+                      Konqueror een lyk maar sleg - maar hy sukkel ook
+                      lelik met ons huidige tuisblad. Die res lyk goed -
+                      dis slegs in die 600x800 resolusies dat die
+                      kategorieë regs bo nie mooi uitkom nie. Ek het
+                      "Diverse lyste" na "lyste" verander en "Alle
+                      kategorieë" na "Alles". Soos dit was, was die frases
+                      te lank en het dit oorgeloop na die volgende lyntjie
+                      wat baie swak gelyk het.
+
+                      Ek het ook gister Opera afgelaai en sal die blad
+                      daarin ook toets. Anrie 13:27, 13 Augustus 2007
+                      (UTC)
+

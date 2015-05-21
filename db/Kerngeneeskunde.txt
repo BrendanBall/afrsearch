@@ -1,0 +1,232 @@
+Kerngeneeskunde
+
+
+   Die beenflikkergram van 'n jong vrou.
+   Die beenflikkergram van 'n jong vrou.
+
+   Kerngeneeskunde is 'n tak van geneeskunde wat die kerneienskappe van
+   materie vir diagnose en terapie gebruik. Baie prosedures in
+   kerngeneeskunde gebruik farmaseutiese middels wat met radionukliede
+   gemerk is. In diagnose word radioaktiewe stowwe aan pasiënte toegedien
+   en die straling wat uitgestraal word gemeet. Die meeste van die
+   diagnostiese toetse behels die vorm van 'n beeld deur 'n gammakamera.
+   Die proses staan ook as flikkergrafie of sintografie bekend. Ander
+   diagnostiese toetse gebruik toetspenne om metings van liggaamsdele te
+   bekom, of tellers vir die metings van monsters wat van 'n pasiënt
+   afkomstig is. In terapie, word radionukliede toegedien om
+   siektetoestande te behandel of vir pynverligting. Toediening van
+   Jodium-131 word byvoorbeeld baie keer gebruik vir die behandeling van
+   hipertireose (oormatige skildklierwerking) en skildklierkanker.
+
+   Inhoud
+
+        * 1 Opsomming
+        * 2 Agtergrond
+        * 3 Wat is kerngeneeskunde?
+        * 4 Radionukliede in kerngeneeskunde gebruik
+        * 5 Beginsels en tegniek
+        * 6 Diagnostiese toepassings van kerngeneeskunde
+        * 7 Kerngeneeskunde en radiologie (X-strale)
+        * 8 Terapeutiese toepassings van kerngeneeskunde
+        * 9 Kerngeneeskunde in Suid-Afrika
+
+[wysig] Opsomming
+
+   Sedert die ontdekking daarvan in 1896 deur Henri Bequerel, word
+   radioaktiwiteit deur die meeste mense met agterdog bejeën en
+   geassosieer met kernbomme en die nadelige effekte van bestraling. Wat
+   dikwels uit die oog verloor word, is dat die vreedsame gebruik van
+   radioaktiwiteit tot groot voordeel van die mensdom ingespan kan word.
+
+[wysig] Agtergrond
+
+   Die Hongaarse chemikus, Charles de Hevesy, het gedurende die eerste
+   helfte van die twintigste eeu ontdek dat radioaktiewe isotope
+   (radionukliede) in die menslike liggaam as sogenaamde spoorders gebruik
+   kan word om fisiologiese prosesse in die liggaam na te speur. Hierdie
+   ontdekking, wat in 1934 aan De Hevesy die Nobel-prys besorg het, het
+   aanleiding gegee tot die geboorte van die vakgebied Kerngeneeskunde.
+
+[wysig] Wat is kerngeneeskunde?
+
+   Kerngeneeskunde is dié vertakking van die Geneeskunde waarin gebruik
+   gemaak word van radionukliede vir die diagnose en, in 'n mindere mate,
+   ook die behandeling van siektes. In teenstelling met radiologie
+   (X-strale), wat hoofsaaklik gemoeid is met die bestudering van die
+   struktuur van organe, toon kerngeneeskunde afwykings in orgaanfunksie
+   aan. Die ontwikkeling van kerngeneeskunde Behalwe vir die ontdekking
+   van radioaktiwiteit deur Henri Bequerel in 1896 was daar 'n aantal
+   ander belangrike mylpale wat tot die ontwikkeling van die vakgebied
+   gelei het, insluitend:
+     * Die eerste gebruik van die term radioaktiwiteit, asook die
+       ontdekking van die radionukliede radium en polonium deur Marie
+       Curie in die vroeë 1900's.
+     * Die beskrywing van isotope (elemente met dieselfde atoomgetal, maar
+       verskillende massagetalle) deur F Soddy in 1910.
+     * Die eerste gebruik van 'n radionuklied as 'n spoorder deur George
+       de Hevesy in 1911.
+     * Die eerste kliniese kerngeneeskundige studie in 1926, toe H
+       Blumgart bismut-214 gebruik het om die vloeitempo van bloed in die
+       omloopstelsel te bepaal.
+     * Die ontwikkeling van die siklotron ('n deeltjieversneller waarmee
+       radionukliede kunsmatig vervaardig kan word) deur Ernest Lawrence
+       in 1931.
+     * Die produksie van die eerste "mensgemaakte" radionuklied deur Irene
+       Curie (dogter van Marie) en Frederick Joliot in 1934.
+     * Die eerste terapeutiese toepassing van radionukliede (fosfor-32)
+       deur J Lawrence in 1936.
+     * Die vervaardiging van jodium-131 deur Seaborg en Livingood. Hierdie
+       radionuklied word vandag nog dikwels in kerngeneeskunde gebruik,
+       onder andere vir die behandeling van 'n ooraktiewe skildklier.
+     * Die vervaardiging van tegnesium-99m (Tc-99m) in 1938 deur Seaborg
+       en Segrè. Hierdie radionuklied het uitstekende chemiese en fisiese
+       eienskappe vir gebruik in kerngeneeskunde en word vandag vir die
+       meeste diagnostiese kerngeneeskundige studies gebruik.
+     * Die ontwikkeling van die kernreaktor deur Enrico Fermi in 1942.
+       Saam met die siklotron is die kernreaktor verantwoordelik vir die
+       produksie van alle radionukliede wat in Kerngeneeskunde gebruik
+       word.
+     * Die ontwikkeling van die gammakamera deur Hal O Anger in 1958.
+       Hierdie apparaat word in kerngeneeskunde gebruik om beelde te
+       verkry van die verspreiding van 'n radionuklied in die liggaam.
+
+[wysig] Radionukliede in kerngeneeskunde gebruik
+
+   'n Verskeidenheid radionukliede word in moderne kerngeneeskunde vir
+   diagnostiese toepassings gebruik. Hierdie radionukliede word óf deur 'n
+   kernreaktor (soos dié van die Kernenergie-korporasie van Suid-Afrika by
+   Pelindaba naby Pretoria) óf deur 'n deeltjieversneller (soos die
+   siklotron by Faure in die Kaap) vervaardig. Die radionuklied wat die
+   algemeenste in kerngeneeskunde gebruik word, is tegnesium-99m (Tc-99m).
+   Ander sluit in: jodium-123 (I-123), jodium-131 (I-131), gallium-67
+   (Ga-67), tallium-201 (Tl-201), kripton-81m (Kr-81m), xenon-133 (Xe-133)
+   en indium-111 (In-111). Al hierdie radionukliede straal gedurende die
+   radioaktiewe vervalproses gammastrale uit die kern uit.
+
+[wysig] Beginsels en tegniek
+
+   Die onderliggende beginsel van kerngeneeskunde behels die toediening
+   van 'n radionuklied aan 'n pasiënt om sodoende die opname daarvan in 'n
+   spesifieke orgaan of organe waar te neem deur waarneming van die
+   gammastrale wat deur die betrokke radionuklied vanuit die orgaan
+   uitgestraal word. Die opname in die orgaan is gewoonlik verwant aan die
+   funksie van die orgaan en 'n abnormale opname verteenwoordig 'n
+   afwyking in die funksie van die betrokke orgaan. Die eerste vereiste is
+   dus dat die radionuklied by die orgaan waarin ons belangstel, gekry
+   moet word. Om dit te bewerkstellig, moet die radionuklied gewoonlik aan
+   'n spesifieke nieradioaktiewe molekule gekoppel word, wat dit na die
+   betrokke orgaan sal vervoer. Hierdie verbinding van 'n radionuklied en
+   'n nieradioaktiewe stof word 'n radiofarmaseutikum genoem. 'n Groot
+   verskeidenheid radiofarmaseutika is vandag beskikbaar, wat die
+   bestudering van feitlik al die organe in die liggaam moontlik maak. So
+   kan ons byvoorbeeld Tc-99m koppel aan 'n fosfaatkompleks soos
+   metileendifosfonaat (MDP) wat beelding van die skelet moontlik maak.
+   Tc-99m, gekoppel aan klein albumien-mikrosfeertjies, stel ons in staat
+   om die bloedvloei na die longe te bepaal. Indien ons die Tc-99m aan 'n
+   imidodiasynsuur-verbinding koppel, stel dit ons in staat om die
+   galuitskeidingsfunksie van lewerselle te beoordeel. Ander
+   radiofarmaseutika maak dit moontlik om stoornisse in nier-, bynier-,
+   hart-, brein-, skildklier- en dermkanaalfunksie te diagnoseer. Sekere
+   radiofarmaseutika, byvoorbeeld Ga-67- en Tc-99m-gemerkte witbloedselle,
+   maak dit selfs moontlik om verskuilde kanker en infeksies op te spoor.
+   Die betrokke radiofarmaseutikum word gewoonlik deur 'n binneaarse
+   inspuiting aan die pasiënt toegedien. Die hoeveelheid radioaktiwiteit
+   word vooraf sorgvuldig afgemeet en slegs 'n baie geringe hoeveelheid
+   word toegedien. Die stralingsdosis wat die pasiënt ontvang, is in
+   feitlik alle gevalle net soveel of minder as wat met 'n gewone
+   X-straal-ondersoek verkry word. Die volgende stap is om die
+   verspreiding van die radiofarmaseutikum in die betrokke orgaan waar te
+   neem. Hiervoor word 'n instrument gebruik wat as 'n gammakamera bekend
+   staan. Hierdie apparaat neem die gammastrale waar wat vanuit die orgaan
+   uitgestraal word en verander dit in elektronpulse wat 'n X-straalfilm
+   belig om sodoende 'n beeld te verskaf van die verspreiding van die
+   radiofarmaseutikum in die orgaan. Hierdie beeld word 'n flikkergram
+   genoem en die tegniek staan as flikkergrafie bekend.
+
+[wysig] Diagnostiese toepassings van kerngeneeskunde
+
+   Enkele diagnostiese gebruike van kerngeneeskunde sluit die volgende in
+   (dit is geensins 'n volledige lys nie):
+     * Brein. Die diagnose van 'n verskeidenheid siektes wat slegs
+       stoornisse in breinfunksie veroorsaak en dus nie met ander tegnieke
+       opgespoor kan word nie (byvoorbeeld Alzheimer-siekte, sekere vorme
+       van epilepsie, en psigiatriese siektes soos depressie en
+       skisofrenie).
+     * Skildklier (tiroïed). Die diagnose van die oorsake van oormatige
+       funksie van die skildklier (hipertiroïdisme).
+     * Longe. Die diagnose van bloedklonte na die long (pulmonale
+       embolisme) en die lokalisering van longbloedings. Ander toepassings
+       sluit die diagnose van aktiewe tuberkulose, die komplikasies van
+       Vigs en longinfeksies in.
+     * Hart. Die tegniek stel geneeskundiges in staat om kroonaarsiekte en
+       stoornisse in hartfunksie te diagnoseer.
+     * Lewer. Kerngeneeskunde kan gebruik word om byvoorbeeld uitsaaiings
+       van kanker na die lewer en ontsteking van die galblaas akkuraat te
+       diagnoseer.
+     * Skelet. Skeletflikkergrafie bied die vermoë om kankeruitsaaiings,
+       infeksie, stresfrakture, ligamentbeserings, gewasse, ens vroegtydig
+       en akkuraat op te spoor.
+
+[wysig] Kerngeneeskunde en radiologie (X-strale)
+
+   Kerngeneeskunde is maar een van vele moderne diagnostiese
+   beeldingsmetodes. Die vraag kan met reg gevra word of daar vir elkeen
+   hiervan 'n plek is en op watter basis besluit word welke
+   ondersoekmetode die beste vir 'n spesifieke toestand is. Die
+   belangrikste verskil tussen kerngeneeskundige ondersoeke en die meeste
+   radiologiese ondersoeke, insluitend gewone X-strale, rekenaartomografie
+   (sogenaamde "CAT"-skanderings) en magnetiese resonansiebeelding (MRI),
+   en ultraklank (sonar) lê opgesluit in die kerngeneeskunde se vermoë om
+   stoornisse in orgaanfunksie eerder as struktuur waar te neem. In
+   hierdie opsig verskaf kerngeneeskundige en radiologiese ondersoeke
+   dikwels komplementêre inligting en mag beide nodig wees om die mees
+   akkurate diagnose moontlik te maak. 'n Goeie voorbeeld is die diagnose
+   van die hormoonproduserende gewas bekend as feochromositoom.
+   Rekenaartomografie is 'n uitstekende tegniek om die gewas waar te neem
+   en ook gedetailleerde anatomiese inligting daaroor te verskaf. Hierdie
+   inligting is essensieel vir die chirurg in die beplanning van die
+   operasie. Dit kan egter nie bevestig dat die tumor wel 'n hormoon
+   produseer nie. Die kerngeneeskundige ondersoek vir feochromositoom
+   berus egter juis op die gewas se vermoë om hormone te produseer en 'n
+   positiewe flikkergram lewer bewys daarvan. As algemene reël behoort
+   geneeshere, wanneer hulle 'n pasiënt vir enige diagnostiese ondersoek
+   verwys, hulself te vergewis van die mees koste-effektiewe gebruik van
+   sulke toetse. 'n Goeie voorbeeld sou die diagnose van 'n stresfraktuur
+   in 'n atleet wees. Gewone X-strale is gewoonlik nutteloos vir hierdie
+   diagnose, maar omdat dit so goedkoop is, en soms wel die antwoord kan
+   gee, word voorgestel dat dit altyd as eerste ondersoek uitgevoer word.
+   Indien negatief, is die baie akkurate beenflikkergram die volgende
+   voorkeurondersoek. MRI is net so akkuraat as die beenflikkergram vir
+   die diagnose van 'n stresfraktuur, maar dit is veel duurder en behoort
+   nooit die eerste ondersoek vir hierdie toestand te wees nie, maar
+   gereserveer te word vir daardie uitsonderlike gevalle waar selfs die
+   beenflikkergram negatief is.
+
+[wysig] Terapeutiese toepassings van kerngeneeskunde
+
+   Radionukliede kan ook gebruik word om 'n aantal goedaardige sowel as
+   kwaadaardige toestande te behandel. Een van die mees algemene
+   terapeutiese toepassings behels die mondelingse toediening van
+   radioaktiewe jodium-131 (gewoonlik in kapsule-vorm) vir die behandeling
+   van 'n ooraktiewe skildklier (hipertiroïdisme) - 'n baie
+   koste-effektiewe en doeltreffende behandelingstrategie. Verskeie
+   kankergewasse kan behandel word met behulp van radiofarmaseutika, wat
+   onder andere I-131 as radionuklied bevat. 'n Ander belangrike
+   terapeutiese toepassing behels die behandeling van beenpyn in pasiënte
+   met kankeruitsaaiings (metastases) na die skelet.
+
+[wysig] Kerngeneeskunde in Suid-Afrika
+
+   Die beoefening van die kerngeneeskunde is 'n ware spanpoging. Die lede
+   van die span sluit in: geneeshere, radiograwe, geneeskundige fisici,
+   radiofarmaseute en verpleegsters. Kerngeneeskunde word deur die
+   Professionele Raad vir Gesondheidsberoepe in Suid-Afrika erken as 'n
+   aparte spesialiteitsrigting vir geneeshere. Radiograwe volg 'n
+   driejaar-diploma of graadkursus, met moontlikhede vir nagraadse
+   opleiding. In Suid-Afrika bestaan die vakgebied reeds sedert die
+   1950's. Tans is daar Kerngeneeskunde-departemente by sewe van die
+   Universiteitshospitale en by twee nie-akademiese hospitale. Daar is ook
+   'n groot aantal privaatpraktyke in die land wat kerngeneeskunde
+   beoefen.
+   Kategorie: Geneeskunde
+

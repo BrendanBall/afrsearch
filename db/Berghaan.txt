@@ -1,0 +1,137 @@
+Berghaan
+
+
+                       Berghaan
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Onvolwasse bergaan
+   'n Onvolwasse bergaan
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Falconiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Terathopius
+                   Lesson, 1830
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. ecaudatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Terathopius ecaudatus
+   (Daudin, 1800)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Berghaan (Terathopius ecaudatus) is 'n medium-grootte arend in die
+   voëlfamilie Accipitridae. Dit is die enigste lid van die genus
+   Terathopius en moontlik die oorsprong van die "Zimbabwe-voël", die
+   nasionale embleem van Zimbabwe.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Voortplanting
+        * 4 Voeding
+        * 5 Geluid
+        * 6 Ander name
+        * 7 Galery
+        * 8 Sien ook
+        * 9 Bronnelys
+
+[wysig] Identifikasie
+
+   Die berghaan is 'n kleurvolle spesie met 'n baie kort stert (ecaudatus
+   is Latyn vir stertloos) wat die voël onmiskenbaar maak tydens vlug. Die
+   volwasse mannetjie is 60 tot 75 cm lank met 'n 175 cm vlerkspan. Hy het
+   swart vere behalwe vir sy bruin mantel en stert, grys skouers en rooi
+   gesigsvel, bek en bene.
+   'n Onvolwasse mak berghaan
+   'n Onvolwasse mak berghaan
+
+   Die wyfie is soortgelyk aan die mannetjie, maar waar die mannetjie
+   swart vere het, is hare grys. Onvolwasse voëls is bruin met wit
+   spikkels en het 'n groen-grys gesigsvel. Dit neem sewe tot agt jaar vir
+   'n berghaan om volwassenheid te bereik.
+
+[wysig] Habitat
+
+   Die berghaan is 'n algemene bewoner van die savanna grasvelde in
+   sub-Sahara Afrika. Die voël bou sy neste in bome.
+
+[wysig] Voortplanting
+
+   Die wyfie lê 'n enkele eier wat sy dan broei vir 42 tot 43 dae. Dit
+   neem 'n verder 90 tot 125 dae voor die voëltjies gereed is om te vlieg.
+   Berghane bly lewenslank met hul maats en aanhou om dieselfde nes vir 'n
+   aantal jare te gebruik. Voëls sonder maats (vermoedelik van 'n eerde
+   broeisel) sal somtyds by die nes help.
+
+[wysig] Voeding
+
+   Die berghaan se prooi is meestal ander voëls, soos duiwe, of klein
+   soogdiere. Berghane eet ook aas.
+
+[wysig] Geluid
+
+   Berghane is oor die algemeen stil voëls, maar nou en dan sal 'n voël 'n
+   verskeidenheid blaffe en krete gee.
+
+[wysig] Ander name
+
+     * Engelse naam: Bateleur
+     * Wetenskaplike naam: Terathopius ecaudatus
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Terathopius ecaudatus
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Barlow, Wacher en Disley. Birds of The Gambia. ISBN 1-873403-32-1.
+
+   Kategorie: Voëls
+

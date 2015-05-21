@@ -1,0 +1,71 @@
+ISO 4217
+
+
+   ISO 4217 is die internasionale standaard wat deur die Internasionale
+   Standaarde Organisasie (ISO) opgestel is om die drieletterkodes (ook
+   bekend as geldeenheidkodes) te definieer om die name van geldeenhede te
+   beskryf. Die ISO 4217 kodelys is wêreldwyd die gevestigde norm in die
+   bankwese en besighede vir die beskrywing van verskillende geldeenhede
+   en in baie lande is die kodes vir die meer algemene geldeenhede so wel
+   bekend dat die wisselkoerse in koerante gepubliseer word of in banke
+   vertoon word deur slegs van die kodes gebruik te maak, in plaas daarvan
+   om die vertaalde name vir die geldeenhede of die dubbelsinnige simbole
+   daarvoor te gebruik.
+
+   Die eerste twee letters van die kode is die twee letters van ISO 3166-1
+   alfa-2 landkodes (wat soortgelyk is aan die wat gebruik word vir die
+   nasionale topvlakdomeins op die Internet) en die derde is gewoonlik die
+   eerste letter van die geldeenheid se naam. So word Japan se
+   geldeenheidkode JPY —JP vir Japan en Y vir yen. Dit vermy die probleem
+   wat veroorsaak word deur name soos dollar, frank en Pond wat in dosyne
+   lande gebruik word, elkeen met sy eie waarde. As 'n geldeenheid
+   herwaardeer word, word die eenheid se laaste letter verander om dit van
+   die ouer eenheid te onderskei. In sommige gevalle, is die derde letter
+   die eerste letter in daardie land se tal om dit te onderskei van ouer
+   eenhede wat herwaardeer is. Ander veranderinge is egter al ook
+   aangebring soos die verandering van die Russiese roebel van RUR na RUB
+   waar die B afkomstig is van die b in roebel.
+
+   Daar word ook 'n driesyferkode aan elke geldeenheid toegeken op
+   dieselfde manier as wat 'n driesyferkode toegeken word aan elke land as
+   deel van die ISO 3166-standaard. Hierdie syferkode is gewoonlik dan ook
+   dieselfde as die ISO 3166 syferkode. Die V.S.A Dollar het byvoorbeeld
+   die kode 840 wat ook die numeriese kode vir die Verenigde State is.
+
+   Die standaard beskryf ook die verwantskap tussen die hoofeenheid en
+   enige kleiner eenhede. Dikwels het die kleiner eenhede waardes
+   gelykstaande aan 1/100 van die hoofeenheid, maar 1/10 of 1/1000 is ook
+   algemeen in gebruik. Sommige eenhede het glad nie 'n kleiner eenheid
+   nie. By andere het die hoofeenheid so 'n lae waarde dat die kleiner
+   eenhede nie meer gebruik word nie (bv. die Japannese sen, 1/100ste van
+   'n yen). Mauritanië gebruik nie 'n desimale verdeling van eenhede nie
+   en stel 1 ouguiya (UM) = 5 khoums en Madagaskar het 1 ariarie vir elke
+   5 iraimbilanja. Dit word in die standaard aangedui deur die
+   eenheidseksponent. Die VSA Dollar het 'n eksponent van 2 terwyl die JPY
+   'n eksponent van 0 het.
+
+   ISO 4217 sluit nie net kodes in vir geldeenhede nie, maar ook vir
+   edelmetale (goud, silwer, palladium en platinum; per definisie
+   uitgedruk per fyn ons in vergelyking met 1 VSA Dollar) en sekere
+   middele wat gebruik word in internasionale finansiering, bv Spesiale
+   Trekkingsregte. Daar is ook spesiale kodes wat toegeken word vir
+   toetsdoeleindes (XTS) en om geldtransaksies aan te dui (XXX). Hierde
+   kodes begin almal met die letter X. Die edelmetale gebruik die letter X
+   saam met die metaal se Chemiese simbool; silwer is byvoorbeeld XAG. ISO
+   3166 ken nooit landkodes toe wat met 'n X begin nie omdat hierdie kodes
+   toegeken word vir privaat doeleindes alleenlik (gereserveer, nooit vir
+   amptelike gebruik nie), dus kan ISO 4217 die X kodes gebruik vir
+   eenhede wat nie landspesifiek is nie sonder om die risiko te loop dat
+   dit met toekomstige landskodes sal bots.
+
+   Internasionale geldeenhede soos die Oos-karibiese dollar, die CFP
+   frank, die CFA frank BEAC en die CFA frank BCEAO word gewoonlik ook
+   verteenwoordig deur kodes wat met 'n X begin. Die euro word
+   verteenwoordig deur die kode EUR (EU is ingesluit by ISO 3166-1 se
+   gereserveerde kodelys om die Europese Unie te verteenwoordig). Die
+   voorganger van die Euro, die Europese geldeenheid, het die kode XEU
+   gehad.
+
+   .
+   Kategorieë: Geld • Internasionale standaarde
+

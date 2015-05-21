@@ -1,0 +1,76 @@
+Tim Berners-Lee
+
+
+   Vader van die wêreldwye web
+
+[wysig] Belangrikste prestasies
+
+   Timothy Berners-Lee, Britse rekenaarwetenskaplike, sagteware-ingenieur
+   en direkteur van die World Wide Web Consortium (W3C), het 'n groot
+   bydrae gelewer tot die ontploffing van die inligtingera deur sy
+   uitvinding van die netwerkinligtingstelsel bekend as die Wêreldwye Web.
+   Die Wêreldwye Web het 'n onmisbare hulpmiddel geword vir globale
+   inligtingdeling deurdat gebruikers gekoppelde dokumente op enige
+   netwerkrekenaar kan oopmaak deur bloot op 'n uitgeligte item op die
+   rekenaarmonitor te klik. In 1990 het Berners-Lee die sagteware vir die
+   eerste Webbediener en kliënt geskryf en die spesifikasies vir BA
+   (Bronadres), HTTP (Hiperteksoordragprotokol) en HTML
+   (hiperteksmarkeertaal) waarvan die Web afhang, gedefinieer. As
+   direkteur van die World Wide Web Consortium speel hy steeds 'n
+   belangrike rol in die ontwikkeling van sy skepping. Sy talle
+   toekennings sluit in die Kilby Foundation se Toekenning vir Jong
+   Nieuligter van die Jaar (1995), die Charles Babbage-toekenning (1998)
+   en die Pionierstoekenning van die Electronic Freedom Foundation (2000).
+   Hy het ook eregrade van verskeie universiteite ontvang en is 'n
+   distinguished fellow van die Britse Rekenaarvereniging, 'n ere-fellow
+   van die Instituut vir Elektriese Ingenieurs en 'n MacArthur fellow.
+
+[wysig] Lewensgeskiedenis
+
+   Timothy Berners-Lee is in 1955 in Londen gebore as seun van Conway en
+   Mary Berners-Lee. Hy het sy eerste rekenaar, 'n kartonreplika van
+   Britanje se eerste kommersiële rekenaar, The Ferranti Mark 1, gebou
+   terwyl hy nog 'n kind was. In 1973 het hy by Queen's Kollege, Oxford
+   Universiteit ingeskryf en drie jaar later 'n Baccalaureus Artium in
+   teoretiese fisika met lof behaal. Na graduering het hy as onafhanklike
+   rekenaarsagtewarekonsultant op verskeie sagtewareskryfprojekte gewerk.
+   In 1980 het hy ses maande spandeer by CERN, die Europese
+   Deeltjiefisikalaboratorium naby Geneva, Switserland en 'n program,
+   Enquire, vir sy eie privaat gebruik geskryf. Enquire het direkte
+   skakels tussen elektroniese lêers en inligting wat geberg moes word,
+   gemaak deur willekeurige assosiasie. Hierdie konsepte het uiteindelik
+   die basis gevorm vir die ontwikkeling van die Wêreldwye Web. Hy het
+   vier jaar later as 'n stelselingenieur na CERN teruggekeer en in 1989
+   'n 'globale hiperteksprojek' voorgestel, naamlik die Wêreldwye Web wat
+   navorsers in staat sou stel om mekaar se data te gebruik. Die stelsel
+   was gebaseer op die vindingryke integrasie van hiperteks met die
+   Internet. Deur kennis te kombineer in 'n globale hiperteksruimte waarin
+   enige netwerk-toeganklike inligting na verwys kon word met 'n enkele
+   Universele Dokumentidentifiseerder (UDI/URI), het Berners-Lee aan
+   navorsers toegang gegee tot hulle gemeenskaplike eksperimente ongeag
+   van waar hulle werk en watter rekenaars hulle gebruik. In 1990 het hy
+   begin om die sagteware vir die Webblaaier en sy onderliggende protokol
+   te skryf en dit het die volgende ingesluit:
+     * die hiperteksmarkeertaal, of HTML;
+     * die hiperteksoordragprotokol, die http:// wat meeste webadresse
+       vooraf gaan; en
+     * die bronadres, of BA's.
+
+   Die program WorldWideWeb is aanvanklik in Desember 1990 in CERN
+   beskikbaar gestel en in die somer van 1991 is die gratis Websagteware
+   op die Internet geplaas. Namate die aantal webkliënte toegeneem het van
+   omtrent 10 na 100 000 tussen 1991 en 1994, het Berners-Lee volgehou om
+   sy aanvanklike BA-, HTTP- en HTML-spesifikasies te verfyn. In 1994 het
+   hy aangesluit by die Laboratorium vir Rekenaarwetenskap by die
+   Massachusetts Instituut vir Tegnologie (MIT). Aangesien CERN nie
+   toegerus was om die vinnig groeiende onderneming te huisves nie, het
+   Berners-Lee die World Wide Web Consortium (W3C) in September 1994
+   gestig met sy basisse by Massachusetts Instituut vir Tegnologie (MIT),
+   by die Institut National de Recherche en Informatique et en Automatique
+   (INRIA) in Frankryk en by Keio Universiteit in Japan. W3C is 'n oop
+   forum van maatskappye en organisasies wat die Webontwikkeling
+   koördineer en dien as standaardeorganisasie vir die Web. As direkteur
+   van W3C dra Berners-Lee steeds by tot die ontwikkeling van die
+   Wêreldwye Web en verken die volle potensiaal daarvan.
+   Kategorie: Uitvinders
+

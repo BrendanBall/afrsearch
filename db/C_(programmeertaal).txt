@@ -1,0 +1,64 @@
+C (programmeertaal)
+
+
+   C is 'n hoëvlak programmeertaal ontwikkel deur Dennis Ritchie by Bell
+   Labs in die vroeë 1970's. Dit is oorspronklik gebruik vir
+   stelselprogrammering, maar het gou getoon dat dit kragtig en buigsaam
+   genoeg is vir ontwikkeling van 'n verskeindenheid van programmatuur.
+
+   Die eerste intensiewe program ontwikkel in C is die Unix-bedryfstelsel.
+   Dit word steeds grootliks geasossieer met hierdie bedryfstelsel.
+
+   Alhoewel dit 'n hoëvlak programeertaal is, is dit baie nader aan
+   laevlak programeertale.
+
+[wysig] "Hello, world!" Voorbeeld
+
+   Die volgende C kode is 'n eenvoudige program wat bloot die string
+   "Hello, world!" druk op die skerm:
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+
+    return 0;
+
+}
+
+#include <stdio.h>
+
+   Hierdie lyn veroorsaak die voorverwerker ('n program wat die kode
+   verwerk voordat dit vertaal word) om die inhoud van die stdio.h leêr in
+   die plek van hierdie lyn in te voeg. stdio.h vorm deel van die
+   standaard C biblioteek, en bevat definisies vir verskeie funksies om
+   I/O te behandel, soos printf.
+int main() {
+
+   Die volgende lyn verklaar die main funksie. In C programme dien die
+   main funksie as beginpunt vir die program deurdat dit die eerste
+   funksie is wat geroep word deur die bedryfstelsel wanneer die program
+   uitgevoer word. Die int spesifiseer dat die funksie 'n heelgetal waarde
+   as afvoer lewer. Die hakies aan die einde van main spesifiseer dat die
+   funksie geen argumente neem nie; dit kan ook as (void) geskryf word.
+   Die krulhakies dui die bestek van die funksie aan.
+    printf("Hello, world!\n");
+
+   Hierdie lyn roep die printf funksie met een argument (die string
+   "Hello, world!\n") om die boodskap te vertoon op die skerm. Die funksie
+   se implementasie word bevat in 'n sogenoemde biblioteek wat bekend
+   staan as die standaard C biblioteek, wat 'n groot hoeveelheid nuttige
+   funksies bevat.
+    return 0;
+
+}
+
+   Omdat main verklaar is met 'n int afvoer, moet die funksie spesifiseer
+   watter waarde terug gestuur gaan word na die funksie/omgewing wat dit
+   geroep het. In hierdie geval word 'n 0 terug gestuur. In UNIX stelsels
+   is die konvensie dat 'n afvoer van 0 van die program (in hierdie geval,
+   vanaf die main funksie) beteken dat die program suksesvol uitgevoer
+   het, terwyl enige ander waarde 'n fout aandui.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Programmeertale • Saadjies
+

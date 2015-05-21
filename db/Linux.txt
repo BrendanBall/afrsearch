@@ -1,0 +1,404 @@
+Linux
+
+
+   Tux die pikkewyn is die embleem en gelukbringer van Linux
+   Tux die pikkewyn is die embleem en gelukbringer van Linux
+   ubuntu
+   ubuntu
+
+   Linux is 'n vrye bedryfstelselkern vir 'n verskeidenheid van rekenaars.
+   Die naam "Linux" word ook baie gebruik om te verwys na volledige
+   bedryfstelsels wat van die Linux-kern gebruik maak. Linux is aanvanklik
+   deur Linus Torvalds geskryf omdat hy graag 'n UNIX-bedryfstelsel vir sy
+   Intelgebaseerde persoonlike rekenaar wou hê;^[1]^[2]. Sedertdien het
+   duisende mense oor die internet ingespring om dit te verbeter. Dit is
+   gebaseer op Unix maar die bronkode is vryelik beskikbaar.
+
+   'n Linux-verspreiding (Engels: distribution) is 'n UNIX-gebaseerde
+   bedryfstelsel vir persoonlike rekenaars of bedieners, en is die
+   algemene manier waarop 'n Linux-stelsel beskikbaar gestel word. Dit
+   verpak Linux saam met 'n klomp programme van die GNU- en ander
+   projekte. Sulke volledige bedryfstelsels word soms GNU/Linux-stelsels
+   genoem, alhoewel dit algemeen slegs "Linux" genoem word.
+
+   Linux is aanvanklik geskryf vir Intel 386-rekenaars en veral gewild
+   geword onder entoesiaste. Dit het daarna geleidelik gewild geword as
+   bedienerbedryfstelsel en geleidelik al hoe meer korporatiewe reuse se
+   aandag getrek, soos IBM, Hewlett-Packard en Novell. Nou word Linux ook
+   geleidelik meer op hoofstroom- persoonlike rekenaars gebruik. Linux
+   word egter ook op 'n groot verskeidenheid ander toestelle gebruik; van
+   klein draagbare toestelle en netwerktoerusting, tot superrekenaars.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Oordraagbaarheid
+             + 1.2 Kopiereg, lisensiëring en die Linux-handelsmerk
+             + 1.3 Uitspraak
+             + 1.4 Linux en die GNU-Projek
+             + 1.5 SCO-regsgeding
+             + 1.6 Grootte van ontwikkelingpogings
+        * 2 Toepassings
+             + 2.1 Verspreidings
+             + 2.2 Persoonlike gebruik
+        * 3 Installasie
+        * 4 Programmering op Linux
+        * 5 Ondersteuning
+        * 6 Verwysings
+
+[wysig] Geskiedenis
+
+   Linus Torvalds, skepper van die Linux-kern
+   Linus Torvalds, skepper van die Linux-kern
+   Geskiedenis van Unix-stelsels. Linux is 'n Unix-tipe stelsel maar die
+   kode daarvan stam nie van die oorspronklike Unix af nie.
+   Geskiedenis van Unix-stelsels. Linux is 'n Unix-tipe stelsel maar die
+   kode daarvan stam nie van die oorspronklike Unix af nie.
+
+   In 1983 het Richard Stallman die GNU-projek gestig met die doel om 'n
+   volledige Unix-agtige bedryfstelsel wat geheel en al uit vrye sagteware
+   bestaan, te skep. Teen die begin van die 1990's het GNU meeste van die
+   vereiste komponente van die stelsel geskryf of versamel — biblioteke,
+   vertalers, teksredigeerders, 'n Unix-agtige dop (shell) — behalwe vir
+   een belangrike komponent, die kern. Die GNU-projek het 'n kern begin
+   ontwikkel, die Hurd, in 1990, gebaseer op die Mach-mikrokern, maar die
+   ontwikkeling van die Mach-gebaseerde ontwerp blyk moeilik te wees en
+   dit vorder stadig.
+
+   Intussen word 'n ander kern in 1991 as 'n stokperdjie deur die Finse
+   student Linus Torvalds begin terwyl hy by die Universiteit van Helsinki
+   studeer. Torvalds gebruik aanvanklik Minix op sy eie rekenaar, 'n
+   vereenvoudigde Unix-agtige stelsel wat deur Andrew Tanenbaum geskryf is
+   vir die leer van bedryfstelselontwerp. Tanenbaum laat egter nie toe dat
+   ander mense sy bedryfstelsel uitbrei nie, wat daartoe lei dat Torvalds
+   'n plaasvervanger vir Minix skep.
+
+   Oorspronklik noem Torvalds sy kern "Freax" vir "free" en "freak" met
+   die gereeld gebruikte X in die name van Unix-agtige stelsels. Die naam
+   "Linux" is deur Ari Lemmke, 'n administrateur van 'n FTP-bediener wat
+   aan die Finse Universiteitsnetwerk behoort het, uitgedink; hy bedink
+   die naam Linux volgens die gids van waar Torvalds se projek vir die
+   eerste keer afgelaai kon word^[3].
+
+   Aanvanklik was 'n rekenaar wat Minix geloop het, nodig om Linux te
+   installeer en op te stel. Aanvanklike weergawes van Linux het ook 'n
+   ander bedryfstelsel nodig gehad om van 'n hardeskyf af te kan laai,
+   maar daar was gou aparte selflaaiers ('boot loaders) soos LILO
+   beskikbaar. Die Linux-stelsel het Minix gou verbygesteek wat
+   funksionaliteit betref; Torvalds en ander vroeë Linux-programmeerders
+   het hulle werk aangepas vir die GNU-komponente en gebruikerprogramme om
+   'n volledige, volfunksie- en vrye bedryfstelsel daar te stel.
+
+   Vandag lei Torvalds steeds die ontwikkeling van die kern, terwyl ander
+   subkomponente soos die GNU-komponente steeds afsonderlik ontwikkel word
+   (die programmering van die Linux-kern is nie deel van die GNU-projek
+   nie). Ander groepe en maatskappye kombineer en versprei die komponente
+   met addisionele toepassingprogrammatuur in die vorm van
+   Linux-verspreidings .
+
+[wysig] Oordraagbaarheid
+
+          Kyk ook: Linux kern
+
+   Die Linux kern is oorspronklik slegs vir die Intel 80386
+   mikroverwerkers ontwerp, maar ondersteun nou 'n wye verskeidenheid
+   rekenaarargitekture. Linux is nou een van die bedryfstelsels wat die
+   meeste na ander ontwerpe oorgedra word en loop op 'n reeks
+   bedryfstelsels van die ARM-gebaseerde iPAQ tot die IBM System
+   z9-hoofraam. Gespesialiseerde verspreidings bestaan vir minder
+   hoofstroomargitekture.
+
+[wysig] Kopiereg, lisensiëring en die Linux-handelsmerk
+
+   Kopielinks-kenteken: sekere regte voorbehou
+   Kopielinks-kenteken: sekere regte voorbehou
+
+   Die Linux-kern en meeste GNU-programmatuur is gelisensieer onder die
+   GNU Algemene Publieke Lisensie. Die GPL vereis dat alle bronkode en
+   afgeleide werke wat versprei word ook onder die GPL gelisensieer word.
+   Daar word soms daarna as 'n "share and share-alike"- of
+   "kopielinkslisensie" verwys. In 1997 het Linus Torvalds aangevoer dat,
+   "Om Linux onder die GPL te plaas beslis die beste ding is wat ek ooit
+   gedoen het." ^[4] Ander programmatuur kan ander lisensies gebruik; baie
+   biblioteke gebruik die GNU Lesser General Public License (LGPL), 'n
+   meer permissiewe variant van die GPL, en die X-Windowstelsel gebruik
+   die MIT-lisensie.
+
+   In die VSA is die naam "Linux" as 'n handelsmerk ^[5] in Linus Torvalds
+   se naam geregistreer. In 1997, nadat 'n ander persoon die handelsmerk
+   geregistreer het en tantieme van Linux-versprediders geëis het, het
+   Torvalds en sommige geaffekteerde organisasies hof toe gegaan om die
+   handelsmerk eerder aan Torvalds toegeken te kry. Die lisensiëring van
+   die handelsmerk word nou deur die Linux Mark Institute hanteer.
+   Torvalds het bevestig dat hy die naam slegs geregistreer het om te
+   verhoed dat iemand ander dit kan gebruik, maar is in 2005 volgens
+   Amerikaanse handelsregwette gedwing om aktiewe maatstawwe te onderneem
+   om die handelsmerk af te dwing. As gevolg hiervan het die LMI 'n aantal
+   briewe aan verspreidingshandelaars gestuur om hulle te versoek om 'n
+   fooi te betaal vir die gebruik van die naam en het 'n aantal
+   maatskappye ingewillig.^[verwysing benodig]
+
+[wysig] Uitspraak
+
+   In 1992 het Torvalds verduidelik hoe hy die woord Linux uitspreek:
+
+
+   Linux
+
+   'li' is pronounced with a short [ee] sound: compare prInt, mInImal etc.
+   'nux' is also short, non-diphthong, like in pUt {IPA /ʊ/}. It's partly
+    due to minix: linux was just my working name for the thing, and as I
+     wrote it to replace minix on my system, the result is what it is...
+                         linus' minix became linux."
+
+                                    ^[6]
+
+
+   Linux
+
+   'n Klanklêer waar Torvalds sê "Hello, this is Linus Torvalds, and I
+   pronounce Linux as Linux" is hier beskikbaar. In Engels word, "Linux"
+   en "Minix" gewoonlik met 'n kort i (IFA: /ɪ/) klank uitgespreek wat
+   verskil van Torvalds se Finland-Sweedse uitspraak van die woorde.
+
+   In Afrikaans: Die i in Linux word uitgespreek soos die ie in bier en
+   die u soos die u in virus. Linus Torvalds spreek Linux dus as Lienuks
+   uit, met die klem op Lie. Ander uitsprake, anders as Torvalds s'n, is
+   onder andere: Laainaks, Liniks, en Linieks.
+
+[wysig] Linux en die GNU-Projek
+
+   Richard Stallman, stigter van die GNU-projek vir 'n vrye bedryfstelsel.
+   Richard Stallman, stigter van die GNU-projek vir 'n vrye bedryfstelsel.
+
+   Omdat alle Linux-verspreidings steun op biblioteke en gereedskap uit
+   die GNU-projek, wat die Linux-kern voorafgegaan het, vra Richard
+   Stallman en die Stigting vir Vrye Sagteware dat die gesamentlike
+   stelsel eerder "GNU/Linux" of "'n Linux-gebaseerde GNU-stelsel" genoem
+   moet word. Linus Torvalds het gesê dat hy die noem van Linux in die
+   algemeen as GNU/Linux "eenvoudig belaglik" vind. Sommige verspreidings
+   gebruik wel die naam—vernaamlik Debian GNU/Linux—terwyl meeste mense
+   sommer net na die stelsel as Linux verwys. Die onderskeid tussen die
+   Linux kern en die hele stelsel wat daarop gegrond is, is 'n bron van
+   verwaring vir nuwe gebruikers en dit bly omstrede.
+
+[wysig] SCO-regsgeding
+
+   In Maart 2003 het die SCO Groep IBM gedagvaar. In die dagvaarding
+   beweer SCO dat IBM gedeeltes van kode waarop SCO kopiereg het tot die
+   Linux kern bygedra het in 'n skending van IBM se lisensie om Unix te
+   gebruik. Verder het SCO briewe gestuur aan 'n aantal maatskappye waarin
+   hulle waarsku dat hulle gebruik van Linux sonder 'n lisensie van SCO
+   tot vervolging kan lei, en in die pers beweer dat hulle individuele
+   Linux-gebruikers sou dagvaar. Die omstredenheid sluit in dagvaardings
+   deur SCO teen Novell, DaimlerChrysler (in 2004 verwerp), en AutoZone,
+   en deur Red Hat en andere teen SCO.
+
+   Tot op hede is geen bewys van SCO se bewerings van gekopieerde kode in
+   Linux verskaf nie en het SCO se bewerings baie gewissel.
+
+[wysig] Grootte van ontwikkelingpogings
+
+   Volgens More Than a Gigabuck: Estimating GNU/Linux's Size ^[7], 'n
+   studie van Red Hat Linux 7.1, is bevind dat dié besondere verspreiding
+   30 miljoen lyne bronkode bevat het. Deur die Constructive Cost Model
+   toe te pas bevind die studie dat die verspreiding omtrent agtduisend
+   man-jare ontwikkelingstyd geneem het. Volgens die studie sou die
+   programmatuur, as dit op gewone kommersiële wyse geskep is, 1,08
+   miljard dollar (jaar 2000, Amerikaanse dollar) sou kos om in die VSA te
+   ontwikkel.
+
+   Meeste van die kode (71%) is in die C-programmeertaal geskryf, maar
+   baie ander tale is gebruik, waar onder C++, Lisp, saamsteltaal, Perl,
+   Fortran, Python en verskeie skriptale. Effens meer as die helfte van al
+   kode is onder GPL gelisensieer. Die Linux-kern het 2,4 miljoen lyne
+   kode bevat, of omtrent 8% van die totaal.
+
+   In 'n studie wat daarna gedoen is, Counting potatoes: The size of
+   Debian 2.2 ^[8], is dieselfde analise op Debian GNU/Linux weergawe 2.2
+   gedoen. Die verspreiding het meer as vyf-en-vyftig miljoen lyne kode
+   bevat, en die studie beraam dat dit 1,9 miljard dollar sou kos om dit
+   op die konvensionele wyse te ontwikkel.
+
+[wysig] Toepassings
+
+   'n KDE-werkskerm op die SUSE-verspreiding.
+   'n KDE-werkskerm op die SUSE-verspreiding.
+
+   Linux is voorheen hoofsaaklik as 'n bedienerbedryfstelsel gebruik, maar
+   die lae koste, aanpasbaarheid, en Unix-agtergrond daarvan het dit vir
+   'n wye verskeidenheid toepassings geskik gemaak.
+
+   Linux is die hoeksteen van die LAMP-bedienerkombinasie (Linux, Apache,
+   MySQL, Perl/PHP/Python) wat 'n hoë mate van gewildheid onder
+   web-ontwikkelaars bereik het wat dit een van die algemeenste platforms
+   op die web gemaak het. 'n Vername voorbeeld in dié opsig is die gebruik
+   van dié kombinasie in die MediaWiki-stelsel — die programmatuur wat
+   hoofsaaklik vir Wikipedia geskryf is.
+
+   Ag gevolg van die stelsel se lae koste en hoogs plooibare
+   opstellingsmoontlikhede, word Linux baie keer in ingeboude stelsels
+   soos digitale televisieontvangers, selfone, en handtoestelle gebruik.
+   In selfone het Linux 'n belangrike mededinger geword vir die Symbian
+   OS-bedryfstelsel, wat in baie selfone gebruik word. In handtoestelle,
+   is dit 'n alternatief tot die dominante Windows CE en Palm OS
+   bedryfstelsels. Die gewilde TiVo digitale video-opnemer gebruik 'n
+   doelgemaakte weergawe van Linux. Verskeie outonome brandmuur- en
+   routeerderprodukte, waaronder verskeie van Linksys, gebruik Linux aan
+   die binnekant, waar die gevorderde brandmuur- en roetebepalende
+   vermoëns daarvan gebruik word.
+
+   Die Sony PlayStation 3-spelrekenaar wat in 2006 vrygestel is, sal uit
+   die staanspoor Linux loop. Sony het te vore 'n PS2 Linux kit vir hulle
+   PlayStation 2-spelrekenaar vrygestel. Ontwikkelaars van
+   rekenaarspeletjies soos Atari en id Software het speletjies vrygestel
+   wat op Linux-stelsels werk.
+
+   Linux is al hoe gewilder as 'n bedryfstelsel vir superrekenaars. In die
+   November 2005 TOP500-lys van superrekenaars het die twee vinnigste
+   superrekenaars ter wêreld Linux geloop. Van die 500 stelsels het 371
+   (74,2%) een of ander weergawe van Linux gebruik, insluitend sewe van
+   die top tien.
+
+[wysig] Verspreidings
+
+   Linux word oor die algemeen as deel van 'n Linux-verspreiding (in
+   Engels baie keer 'n "distro" genoem) gebruik. Die verspreidings word
+   deur individue, los spanne, en verskeie professionele organisasies
+   saamgestel. Dit bevat gewoonlik addisionele stelsel- en
+   Toepassingsagteware, 'n installeringstelsel om die aanvanklike
+   stelselopstelling te vereenvoudig, en geïntegreerde bestuur van die
+   programinstallasie en opgradering. Verspreidings word vir verskeie
+   doeleindes geskep, insluitend rekenaarargitektuurondersteuning,
+   lokalisering vir 'n spesifieke gebied of taal, intydse toepassings, en
+   ingeboude stelsels, en baie sluit doelbewus slegs vrye programmatuur
+   in. Tans word meer as driehonderd verspreidings aktief ontwikkel,
+   waarvan omtrent 'n dosyn verspreidings die gewildste is vir algemene
+   gebruik.^[9]
+
+   'n Tipiese algemene-gebruik verspreiding sluit die Linux-kern, van die
+   GNU-biblioteke en gereedskap, opdragreëldoppe, die grafiese X
+   Windowstelsel en meegaande werkskermomgewing soos KDE of GNOME, te same
+   met duisende toepassings van kantoorsuites tot programvertalers,
+   teksredigeerders, en wetenskaplike gereedskap.
+
+[wysig] Persoonlike gebruik
+
+   ' n GNOME-werkskerm wat van die GNOME LiveCD af loop.
+   ' n GNOME-werkskerm wat van die GNOME LiveCD af loop.
+
+          Kyk ook: Vergelyking tussen Windows en Linux
+
+   Die hoë mate waartoe toegang tot Linux se binnegoed verleen word het
+   tradisioneel daartoe gelei dat Linux-gebruikers oor die algemeen meer
+   tegnologies georiënteerd is as gebruikers van Microsoft Windows en Mac
+   OS en verlustig hulle self baie keer in die etikette "hacker" of
+   "geek". Linux en ander vrye projekte is in die verlede baie keer
+   gekritiseer dat dit nie ver genoeg gaan om gebruikersvriendelikheid te
+   verseker nie.
+
+   Daar is in die afgelope jare begin om die stereotipe te verdryf. Linux
+   kan nou met 'n gebruikerskoppelvlak gebruik word wat baie soortgelyk is
+   aan aan dié wat op baie ander bedryfstelsels loop. Gebruikers mag dalk
+   nodig hê om van toepassingsagteware te verwissel, en daar is in sommige
+   gevalle, soos rekenaarspeletjies, minder keuses. Daar is egter in
+   meeste gevalle 'n plaasvervanger van ten minste hoë genoeg kwaliteit en
+   hoë kwaliteit algemene toepassings soos woordverkerwerks,
+   grafikaprogramme, webblaaiers en e-posprogramme is vir Linux
+   beskikbaar. 'n Groeiende aantal verskaffers van eiendomsagteware
+   (nievrye sagteware) ondersteun Linux deur die beskikbaarstelling van
+   weergawes wat op die stelsel loop.^[10]
+
+   Linux se Unix oorsprong beteken dat terwyl daar grafiese gereedskap vir
+   baie stelselverstellings en dienste is, konfigurasielêers wat uit
+   gewone teks bestaan steeds algemeen gebruik word om die bedryfstelsel
+   op te stel en kan dit aan gebruikers blootgestel word. In die opdragdop
+   is daar steeds heelwat bruikbaarheidsorge uit die vroeë Unix dae soos
+   die onvermoë om baie verwerkings ongedaan te maak soos die uitvee van
+   lêers en teenstrydige koppelvlakke van baie ouer programme.
+
+   Die Berlyn-gebaseerde organisasie Relevantive het in 2003 tot die
+   gevolgtrekking gekom dat die bruikbaarheid van Linux vir persoonlike
+   gebruikstake "byna gelyk aan die van Windows XP is." ^[11] ^[12]
+   Sedetdien het talle onafhanklike studies en artikels verskyn ^[13] wat
+   aandui dat 'n moderne Linux-omgewing wat GNOME of KDE gebruik in 'n
+   sakeomgewing op dieselfde vlak as Microsoft Windows is.
+
+[wysig] Installasie
+
+   In die verlede was die moeilikheidsgraad van installasie 'n hindernis
+   tot wye aanvaarding van Linux-gebaseerde persoonlike rekenaars. Baie
+   verspreidings is nou ten minste net so maklik om te installeer as 'n
+   vergelykbare weergawe van Windows. Dit is nie nodig om lisensienommers
+   te berg en dit tydens installasie in te voer nie en dit is gewoonlik
+   nie nodig om drywers te installeer nadat Linux geïnstalleer is nie
+   aangesien meeste apparatuur uit die staanspoor ondersteun word.
+
+   Soos met bedieners is daar nou persoonlike rekenaars waarop Linux reeds
+   geïnstalleer is van rekenaarhandelaars soos Hewlett-Packard en Dell.
+
+   Die algemeenste metode vir die installasie van Linux op 'n persoonlike
+   rekenaar is om van die rekenaar vanaf 'n CD te begin wat die
+   installasieprogram bevat. So 'n CD kan van 'n afgelaaide ISO-lêer
+   gebrand word, teen lae koste aangekoop word, of gekoop word as deel van
+   'n verpakte stel wat handleidings of ander porgramme kan insluit.
+
+   Ander moontlikhede is die gebruik van slanke kliënte soos die gewilde
+   tuXlabs in Suid-Afrika, of om die stelsel direk vanaf 'n CD te laat
+   uitvoer sonder installasie. Op ingeboude toestelle word Linux tipies in
+   die toestel se firmware gehou en is dit moontlik nie
+   verbruikertoeganklik nie.
+
+[wysig] Programmering op Linux
+
+   Die GNU Compiler Collection is by verre die algemeenste vertalerfamilie
+   wat op Linux gebruik word. Dit veskaf voorkante vir ondermeer C, C++ en
+   Java. Maatskappye soos Intel, PathScale en die Portland Group verskaf
+   ook vertalers wat nie vry sagteware is nie. Daar bestaan 'n aantal
+   geïntegreerde ontwikkelingomgewings vir Linux insluitend KDevelop,
+   NetBeans, en Eclipse, met uitbreibare redigeerders soos Emacs en Vim
+   wat ook steeds gereeld gebruik word. Linux is so gepas tot skriptale
+   soos ander Unix variante en benewens dopprogrammering kom meeste
+   Linux-verspreidings ook met interpreteerders vir Perl, Python en
+   andere.
+
+[wysig] Ondersteuning
+
+   Tegniese ondersteuning word deur kommersiële verskaffers en deur ander
+   Linux-gebruikers verskaf, gewoonlik in die vorm van webforums,
+   nuusgroepe en e-poslyste. Linux-gebruikersgroepe word tradisioneel
+   gevorm deur entoesiaste om plaaslike ondersteuning vir Linux te
+   verskaf.
+
+   Die sakemodel van kommersiële verskaffers is gewoonlik afhanklik van
+   betaling vir ondersteuning, veral vir sakegebruikers. Sommige
+   maatskappye bied 'n spesiale sakeweergawe van hulle verspreiding aan
+   waarin addisionele eiendomsagteware en gereedskap aangebied word om
+   groter getalle installasies mee te administreer en om administratiewe
+   take makliker uit te voer.
+
+[wysig] Verwysings
+
+    1. ^ Linus Torvalds, David Diamond: Just for Fun, ISBN 1587991519
+    2. ^ "The father of Linux looks back."
+    3. ^ "Linux Anecdotes." URL besoek op 2006-04-01.
+    4. ^ "Linus Torvalds interview." URL besoek op 2006-05-08.
+    5. ^ "U.S. Reg No: 1916230." URL besoek op 2006-04-01.
+    6. ^ "Torvalds se verduideliking van die uitspraak van "Linux"." URL
+       besoek op 2006-04-01.
+    7. ^ David A. Wheeler (2002-07-29). "More Than a Gigabuck: Estimating
+       GNU/Linux's Size." URL besoek op 2006-05-11.
+    8. ^ Jesús M. González-Barahona, et. al (2002-01-03). "Counting
+       potatoes: The size of Debian 2.2." URL besoek op 2006-05-11.
+    9. ^ "The LWN.net Linux Distribution List." URL besoek op 2006-05-19.
+   10. ^ "The Global Desktop Project, Building Technology and
+       Communities." URL besoek op 2006-05-07.
+   11. ^ Blau, John, "Study: Linux nears Windows XP usability", IDG News
+       Service, 2003-08-04. URL besoek op 2006-04-03.
+   12. ^ "Relevantive Linux usability study." URL besoek op 2006-04-03.
+       (In PDF-formaat hier)
+   13. ^ "Desktop Linux: Ready for Prime Time?." URL besoek op 2006-04-01.
+
+   Kategorieë: Artikels met stellings waarvoor daar nie verwysings is nie
+   • Bedryfstelsels
+

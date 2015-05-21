@@ -1,0 +1,157 @@
+Wringkrag
+
+
+   Wringkrag aangewend deur 'n verstelbare moersleutel
+   Wringkrag aangewend deur 'n verstelbare moersleutel
+   Verwantskap tussen krag, wringkrag en draaimomentum vektore in 'n
+   roterende stelsel
+   Verwantskap tussen krag, wringkrag en draaimomentum vektore in 'n
+   roterende stelsel
+
+   In Fisika, kan wringkrag informeel gedefinieer word as 'n krag wat 'n
+   draaiende beweging tot gevolg het. Hierdie krag word gedefinieer as die
+   lineêre krag vermenigvuldig met 'n radius. Die SI-eenheid vir wringkrag
+   is die newton-meter (N m). Die simbool vir wringkrag is τ. Die begrip
+   wringkrag word ook moment in fisika genoem en vind sy oorsprong in
+   Archimedes se werk op hefbome.
+
+   Soortgelyk aan die lineêre begrippe van krag, massa en versnelling kry
+   'n mens die ooreenstemmende begrippe vir draaiende stelsels naamlik
+   wringkrag, draaimomentum en hoekversnelling respektiewelik. Die krag
+   wat op 'n hefboom aangewend word vermenigvuldig met die afstand vanaf
+   die hefboom se eindpunt staan bekend as die wringkrag. As 'n krag van
+   drie newton aangewend word op 'n afstand van twee meter vanaf 'n
+   hefboom se middelpunt word dieselfde wringkrag aangewend as wanneer 'n
+   krag van een newton ses meter vanaf 'n hefboom se middelpunt aangewend
+   word.
+
+   Die aanname hier is dat die krag loodreg op die hefboom aangewend word.
+   Wiskundig kan die wringkrag op 'n partikel (wat die posisie r in die
+   een of ander verwysingsraamwerk het) gedefinieer word as die
+   kruisproduk:
+
+          \boldsymbol{\tau} = \mathbf{r} \times \mathbf{F}
+
+   waar
+
+          r die partikel se posisievektor is
+          F die krag wat op die partikel uitgeoefen word is,
+
+   of, meer algemeen kan wringkrag gedefinieer word as die tempo waarteen
+   die hoeksnelheid verander,
+
+          \boldsymbol{\tau}=\frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t}
+
+   waar
+
+          L die hoekmomentumvektor is
+          t staan vir tyd.
+
+   Die gevolg van beide hierdie definisies is dat wringkrag 'n vektor is,
+   wat in die rigting van die as van die draaibeweging wat dit sal
+   veroorsaak.
+
+   Inhoud
+
+        * 1 Eenhede
+        * 2 Spesiale gevalle en ander feite
+             + 2.1 Moment-arm formule
+             + 2.2 Krag teen 'n hoek
+             + 2.3 Statiese ewewig
+             + 2.4 Wringkrag as 'n funksie van tyd
+
+[wysig] Eenhede
+
+   Wringkrag het dimensies van krag vermenigvuldig met afstand en die
+   SI-eenhede van wringkrag word geskryf as "newton meter" (N m of
+   N·m).^[1]
+
+   Die joule is die SI-eenheid vir energie of werk en kan ook uitgedruk
+   word as N·m, joule word egter nie gebruik om wringkrag uit te druk nie.
+   Aangesien 'n mens aan energie kan dink as die dotproduk van krag en
+   afstand is energie altyd 'n skalaar terwyl wringkrag die kruisproduk is
+   van krag en afstand en is 'n pseudovektor grootheid.
+
+   Die dimensionele gelykheid van hierdie eenhede is natuurlik nie blote
+   toeval nie; 'n wringkrag van 1 N·m wat deur 'n volle omwenteling
+   toegepas word sal presies 2π joule vereis. Wiskundig kan dit uitgedruk
+   word as,
+
+   waar
+
+          E die energie is
+          τ die wringkrag is
+          θ die hoek waardeur beweeg is, in radiale
+
+   Ander nie SI-eenhede van wringkrag sluit in "pondkrag-voet" of
+   "voet-pondkrag" of "onskrag-duime" of "meter-kilogramkrag".
+
+[wysig] Spesiale gevalle en ander feite
+
+[wysig] Moment-arm formule
+
+   Moment-arm diagram
+   Moment-arm diagram
+
+   'n Baie nuttige spesiale geval wat dikwels buite fisika as die
+   definisie van wringkrag gebruik word, is as volg:
+
+          \boldsymbol{\tau} = (\textrm{moment-arm}) \times \textrm{krag}
+
+   Die konstruksie van die "moment-arm" word in die beeld hieronder
+   verduidelik, saam met die vektore r en F hierbo genoem. Die probleem
+   met hierdie definisie is dat dit nie die rigting van die wringkrag
+   aandui nie maar slegs die grootte daarvan en is daarom moeilik om te
+   gebruik in driedimensionele gevalle. As die krag loodreg is ten opsigte
+   van die verplasingsvektor r, die moment-arm sal gelyk wees aan die
+   afstand na die middelpunt en die wringkrag sal die maksimum wees vir
+   die gegewe krag. Die vergelyking van wringkrag wat ontstaan as gevolg
+   van 'n loodregte krag:
+
+          \boldsymbol{T} = (\textrm{afstand\ na\ middelpunt}) \times
+          \textrm{krag}
+
+   As iemand byvoorbeeld 'n krag van 10 N op 'n moersleutel wat 0.5 meter
+   lank is, uitoefen, sal die wringkrag 5 N·m wees, met die aanname dat
+   die persoon wat die moersleutel trek die krag loodreg op die
+   moersleutel uitoefen.
+
+[wysig] Krag teen 'n hoek
+
+   As 'n krag van grootte F teen 'n hoek θ vanaf die verplasingsarm met 'n
+   lengte r uitgeoefen word (en op 'n vlak loodreg tot die draai-as), volg
+   uit die definisie van kruisproduk dat die grootte van die wringkrag wat
+   ontstaan as volg is:
+
+          \boldsymbol \tau=rF \sin \theta
+
+[wysig] Statiese ewewig
+
+   Vir 'n voorwerp om in statiese ewewig te verkeer, moet nie net die som
+   van alle kragte nul wees nie, maar ook die som van al die wringkragte
+   (momente) rondom enige punt. Vir 'n twee dimensionele situasie met
+   horisontale en vertikale kragte, lewer die som van kragte vereiste twee
+   vergelykings:ΣH = 0 and ΣV = 0 en die wringkrag 'n derde vergelyking:Στ
+   = 0. Drie vergelykings word dus benodig om 'n statiese bepaalde
+   ewewigsprobleem op te los.
+
+[wysig] Wringkrag as 'n funksie van tyd
+
+   Die wringkrag wat veroorsaak word deur twee teenoorgestelde kragte Fg
+   en -Fg veroorsaak 'n verandering in hoekmomentum L in die rigting van
+   daardie wringkarg.
+   Die wringkrag wat veroorsaak word deur twee teenoorgestelde kragte F[g]
+   en -F[g] veroorsaak 'n verandering in hoekmomentum L in die rigting van
+   daardie wringkarg.
+
+   Wringkrag is 'n tyd-afgeleide van hoekmomentum, net soos krag 'n
+   tyd-afgeleide is van linêere momentum is:
+
+          \boldsymbol{\tau} ={\mathrm{d}\mathbf{L} \over \mathrm{d}t} \,\!
+
+   waar
+
+          L die hoekmomentum is.
+
+   Kategorie: Fisika
+

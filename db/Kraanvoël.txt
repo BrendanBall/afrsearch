@@ -1,0 +1,126 @@
+Kraanvoël
+
+
+                     Kraanvoëls
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Gruzs antigone antigone
+   Gruzs antigone antigone
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gruiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gruidae
+                   Vigors, 1825
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Kraanvoëls is groot landvoëls van die familie Gruidae. Hulle het lang
+   pote en verskil van ooievaars deurdat hulle kort snawels het en
+   lawaaierig is. Hulle vlieg net soos ooievaars met die kop en nek
+   gestrek. Hulle voer merkwaardige danspassies uit as hulle pronk en soms
+   word meer as twee voëls daarby betrek. Die Suid-Afrikaanse bevolkings
+   van al drie kraanvoëlsoorte het in onlangse jare skerp gedaal.
+
+   Inhoud
+
+        * 1 Genera
+        * 2 Kraanvoëls wat in Suid-Afrika voorkom
+        * 3 Kraanvoëls wat in ander wêrelddele voorkom
+        * 4 Sien ook
+        * 5 Eksterne skakels
+        * 6 Bronnelys
+
+[wysig] Genera
+
+     * Grus
+     * Anthropoides
+     * Balearica
+     * Bugeranus
+
+[wysig] Kraanvoëls wat in Suid-Afrika voorkom
+
+     * Bloukraanvoël, Anthropoides paradiseus
+     * Lelkraanvoël, Bugeranus carunculatus
+     * Mahem, Balearica regulorum
+
+[wysig] Kraanvoëls wat in ander wêrelddele voorkom
+
+   Balearica regulorum
+   Balearica regulorum
+     * Grus grus
+     * Grus canadensis
+     * Grus americana
+     * Grus antigone
+     * Grus rubicunda
+     * Grus leucogeranus
+     * Grus vipio
+     * Grus monacha
+     * Grus nigricollis
+     * Grus japonensis
+     * Anthropoides virgo
+     * Balearica pavonina
+     * Balearica regulorum
+     * Lelkraanvoël, Bugeranus carunculatus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Eksterne skakels
+
+     * Saving Cranes website (ICF) (http://www.savingcranes.org/)
+     * Craneworld website
+       (http://home.nikocity.de/craneworld/index_en.htm)
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika ISBN 1868729826
+
+   Kategorie: Kraanvoëls
+

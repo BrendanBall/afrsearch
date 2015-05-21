@@ -1,0 +1,27 @@
+Hulp:Naamruimte
+
+
+[wysig] List of namespaces
+
+   Variables Alternate syntax Name, linked to list of all pages Nr. of
+   pages
+   {{ns:-2}} {{ns:Media}} "Media"
+   {{ns:-1}} {{ns:Special}} "Spesiaal"
+   {{ns:-0}} {{ns:Main}} main Sjabloon:PAGESINNS:0
+   {{ns:1}} {{ns:Talk}} Bespreking Sjabloon:PAGESINNS:1
+   {{ns:2}} {{ns:User}} Gebruiker Sjabloon:PAGESINNS:2
+   {{ns:3}} {{ns:User_talk}} Gebruikerbespreking Sjabloon:PAGESINNS:3
+   {{ns:4}} {{ns:Project}} Wikipedia Sjabloon:PAGESINNS:4
+   {{ns:5}} {{ns:Project_talk}} Wikipediabespreking Sjabloon:PAGESINNS:5
+   {{ns:6}} {{ns:Image}} Beeld Sjabloon:PAGESINNS:6
+   {{ns:7}} {{ns:Image_talk}} Beeldbespreking Sjabloon:PAGESINNS:7
+   {{ns:8}} {{ns:MediaWiki}} MediaWiki Sjabloon:PAGESINNS:8
+   {{ns:9}} {{ns:MediaWiki_talk}} MediaWikibespreking Sjabloon:PAGESINNS:9
+   {{ns:10}} {{ns:Template}} Sjabloon Sjabloon:PAGESINNS:10
+   {{ns:11}} {{ns:Template_talk}} Sjabloonbespreking Sjabloon:PAGESINNS:11
+   {{ns:12}} {{ns:Help}} Hulp Sjabloon:PAGESINNS:12
+   {{ns:13}} {{ns:Help_talk}} Hulpbespreking Sjabloon:PAGESINNS:13
+   {{ns:14}} {{ns:Category}} Kategorie Sjabloon:PAGESINNS:14
+   {{ns:15}} {{ns:Category_talk}} Kategoriebespreking
+   Sjabloon:PAGESINNS:15
+

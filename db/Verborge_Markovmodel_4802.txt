@@ -1,0 +1,163 @@
+Verborge Markovmodel
+
+
+   'n Verborge Markovmodel (VMM) (Engels: Hidden Markov model (HMM)) is 'n
+   statistiese model waar daar aangeneem word dat die stelsel wat
+   gemodelleer word 'n Markovproses met onbekende parameters is, en die
+   uitdaging is om die verborge parameters, uit waarneembare parameter
+   gegrond op aannames te bepaal, gegrond op die aannames. Die
+   modelparameters wat onttrek word kan gebruik word om verdere analise te
+   doen in byvoorbeeld patroonherkenningtoepassings.
+
+   In 'n gewone Markovmodel, is die toestand direk sigbaar aan die
+   waarnemer en is die toestand oorgangswaarskynlikhede die enigste
+   parameters. 'n Verborge Markovmodel voeg uitsette by: elke toestand het
+   'n waarskynlikheidverspreiding oor die moontlike uitset tekens. Daarom
+   dui die opeenvolging van tekens wat deur 'n VMM gegenereer word nie
+   direk die opeenvolging van toestand aan nie.
+
+   Inhoud
+
+        * 1 Toestandoorgange in 'n verborge Markovmodel
+        * 2 Evolusie van 'n Markovmodel
+        * 3 Gebruik van Markovmodelle
+             + 3.1 'n Konkrete voorbeeld
+             + 3.2 Toepassings van verborge Markovmodelle
+        * 4 Kyk ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Toestandoorgange in 'n verborge Markovmodel
+
+   Markovmodel Voorbeeld. - x — Toestande van die Markovmodel - a —
+   Oorgangswaarskynlikhede - b — Uitsetwaarksynlikhede - y — Waarneembare
+   uitsette
+   Markovmodel Voorbeeld.
+   - x — Toestande van die Markovmodel
+   - a — Oorgangswaarskynlikhede
+   - b — Uitsetwaarksynlikhede
+   - y — Waarneembare uitsette
+
+[wysig] Evolusie van 'n Markovmodel
+
+   Die voorafgaande diagram beklemtoon die toestandoorgange van 'n
+   verborge Markovmodel. Die is ook nutig om die evolusie van die model
+   oor tyd aan te dui, met die toestande op verskillende tye t[1] en t[2]
+   verteenwoordig deur verskillende veranderlikes, x(t[1]) en x(t[2]).
+
+   Temporale evolusie van 'n verborge Markovmodel
+
+   In hierdie diagram, word aangeneem dat die tydgleuwe (x(t), y(t))
+   uitbrei tot vorige en opvolgende tye soos nodig. Tipies is die vroegste
+   gleuf op tyd t=0 of tyd t=1.
+
+[wysig] Gebruik van Markovmodelle
+
+   Daar is 3 canonical probleme om op te los met betrekkings tot VMMs:
+     * Gegee die modelparameters, bereken die waarskynlikheid van 'n
+       besondere uiste opeenvolging. Opgelos deur die forward algorithm.
+     * Gegee die modelparameters, vind die mees waarskynlike opeenvolging
+       van (verborge) toestande wat 'n gegewe uitsetopeenvolging kon
+       genereer het. Opgelos deur die Viterbi algoritme.
+     * Gegee 'n uiset opeenvolging, vind die mees waarskynlike stel
+       toestandoorgange en uitsetwaarskynlikhede. Opgelos met die
+       Baum-Welch algoritme.
+
+[wysig] 'n Konkrete voorbeeld
+
+   Neem aan jy het 'n vriend wat ver weg bly en met wie jy elke dag praat
+   oor wat elkeen van julle die dag gedoen het. Jou vriend het net drie
+   dinge wat hom interesseer: in die park wandel, winkels toe gaan en sy
+   woonstel skoonmaak. Die keuse van wat om te doen word uitsluitlik
+   bepaal deur die weer op 'n gegewe dag. Jy het geen besliste inligting
+   oor die weer waar jou vriend woon nie, maar jy is bekend met die
+   algemene tendense. Gegrond op wat hy jou vertel hy elke dag doen,
+   probeer jy raai hoe die weer moes gewees het.
+
+   Jy glo dat die weer as 'n diskrete Markovketting optree. Daar is twee
+   toestande, "Reën" en "Mooiweer", maar jy kan dit nie direk waarneem
+   nie, met ander woorde, dit is van jou verborge. Elke dag is daar 'n
+   sekere waarskynlikheid dat jou vriend een van die volgende aktiwiteite
+   gaan uitvoer, afhangende van die weer: "wandel", "inkopies", of
+   "skoonmaak". Aangesien jou vriend jou vertel van sy aktiwiteite, is
+   hierdie waarnemings. Die hele stelsel is die van 'n verborge
+   Markovmodel (VMM). Jy ken die algemene weerpatrone in die omgewing en
+   jy weet wat jou vriend gemiddeld doen. Met ander woorde, die parameters
+   van die VMM is bekend. Om die waarheid te sê jy kan dit in
+   Pythonprogrammeertaal neerskryf:
+toestande = ('Reën', 'Mooiweer')
+
+waarnemings = ('wandel', 'inkopies', 'skoonmaak')
+
+begin_waarskynlikheid = {'Reën': 0.6, 'Mooiweer': 0.4}
+
+oorgang_waarskynlikheid = {
+   'Reën' : {'Reën': 0.7, 'Mooiweer': 0.3},
+   'Mooiweer' : {'Reën': 0.4, 'Mooiweer': 0.6},
+   }
+
+uitsending_waarskynlikhede = {
+   'Reën' : {'wandel': 0.1, 'inkopies': 0.4, 'skoonmaak': 0.5},
+   'Mooiweer' : {'wandel': 0.6, 'inkopies': 0.3, 'skoonmaak': 0.1},
+   }
+
+   In hierdie fragment verwys begin_waarskynlikheid na jou onsekerheid oor
+   die toestand waarin die VMM is wanneer jou vriend jou die eerste keer
+   skakel (al wat jy weet dat dit op die gemiddeld geneig is om te reën).
+   Die spesifieke waarskynlikheidsverspreiding wat hier gebruik word is
+   nie die ekwilibrium verspreiding nie, wat (gegee die
+   oorgangswaarskynlikhede) eintlik ongeveer {'Reën': 0.571, 'Mooiweer':
+   0.429} is. Die oorgang_waarskynlikheid verwys na die verandering in die
+   weer in die onderliggende Markovketting. In die voorbeeld is daar slegs
+   'n 30% kans dat dit môre mooiweer sal wees as dit vandag reën. Die
+   uitsending_waarskynlikhede dui aan hoe waarskynlik dit is dat jou
+   vriend 'n sekere aktiwiteit elke dag uit sal voer. As dit reën is daar
+   'n 50% kans dat hy sy woonstel sal skoonmaak; as dit mooiweer is, is
+   daar 'n 60% kans dat hy uit sal gaan vir 'n wandeling.
+
+   Hierdie voorbeeld word verder uitgebrei op die Viterbi algoritme
+   bladsy.
+
+[wysig] Toepassings van verborge Markovmodelle
+
+     * spraakherkenning of optiese karakterherkenning
+     * natuurlike-taal-verwerking
+     * bioinformatika en genomika
+          + voorspelling van proteïen-koderingsgebiede in genoom
+            rangskikkings
+          + modellering van families van verwante DNS of proteïen
+            rangskikkings
+          + voorspelling van sekondêre struktuur elemente op grond van
+            proteïen primêre rangskikkings
+     * en baie meer...
+
+[wysig] Kyk ook
+
+     * Andrey Markov
+     * Bayesafleiding
+     * Skattingteorie
+     * Viterbi algoritme
+     * Hierargiese verborge Markovmodel
+
+[wysig] Verwysings
+
+     * Lawrence Rabiner, 1989. A Tutorial on Hidden Markov Models and
+       Selected Applications in Speech Recognition.
+       http://www.caip.rutgers.edu/~lrr/Reprints/tutorial%20on%20hmm%20and
+       %20applications.pdf
+     * Kristie Seymore, Andrew McCallum, and Roni Rosenfeld. Learning
+       Hidden Markov Model Structure for Information Extraction. AAAI 99
+       Workshop on Machine Learning for Information Extraction, 1999.
+       (also at CiteSeer: [1])
+
+[wysig] Eksterne skakels
+
+     * Hidden Markov Model (HMM) Toolbox for Matlab (by Kevin Murphy)
+     * Hidden Markov Models (an exposition using basic mathematics)
+     * GHMM Library (home page of the GHMM Library project)
+     * Jahmm Java Library (Java library and associated graphical
+       application)
+     * A step-by-step tutorial on HMMs (University of Leeds)
+
+   Kategorieë: Statistiek • Masjienleer • Rekenaarvisie
+

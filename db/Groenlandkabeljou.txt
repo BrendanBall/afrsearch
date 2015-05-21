@@ -1,0 +1,70 @@
+Groenlandkabeljou
+
+
+                    Greenland Cod
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gadiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gadidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gadus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. ogac
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                      Gadus ogac
+   Richardson, 1836
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Groenlandkabeljou (Gadus ogac), een van drie soorte kabeljou, kom voor
+   van Port Barrow, Alaska tot by Wes-Groenland; suid langs die Kanadese
+   kus tot by die Miramichi, Golf van Sint-Laurens en Kaap Breton-eiland
+   met 'n afgesonderde bevolking in die Wit See. Groenlandkabeljou leef
+   gewoonlik naby die kus in water minder as 200 m diep en word selde in
+   die diep see ver van die kus aangetref. Visse van 5 tot 6 jaar bereik
+   lengtes van omtrent 50 cm. Groenlandkabeljou word selde ouer as 9 jaar
+   oud en word nie sommer langer as 60 cm nie.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Gadidae • Dierelewe van Europa • Dierelewe van
+   Groenland • Dierelewe van die Arktiese gebied
+

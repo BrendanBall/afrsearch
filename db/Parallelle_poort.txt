@@ -1,0 +1,116 @@
+Parallelle poort
+
+
+   In rekenaarwese is 'n parallelle poort 'n soort fisiese koppelvlak wat
+   saam met 'n kabel gebruik word om verskeie randtoerusting in 'n
+   rekenaarstelsel te verbind. Binêre inligting word op 'n parallelle
+   manier in 'n parallelle poort oorgedra: elke bis in 'n besondere waarde
+   word tergelykertyd saam met die ander bisse as 'n elektriese puls oor
+   'n afsonderlike draad versend in teenstelling met 'n serie-poort, waar
+   die databisse opeenvolgend oor 'n enkele draad gestuur word. Die aantal
+   drade en die soort hegstuk op parallelle poorte kan verskil.
+   'n Parallelle poort aan die agterkant van 'n Compaq N150 skootrekenaar.
+   'n Parallelle poort aan die agterkant van 'n Compaq N150 skootrekenaar.
+
+   Die USB koppelvlak het die parallelle poort grootliks vervang en
+   deesdae word die meeste drukkers met 'n USB verbinding gekoppel en word
+   soms nie eens met 'n parallelle poort voorsien nie. Op baie moderne
+   rekenaars word die parallelle poort ook uitgelaat om kostes te bespaar.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Verbindings
+        * 3 Poortadresse
+        * 4 Sien ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Gebruike
+
+   Parallelle poorte word dikwels gebruik deur mikroverwerkers om met
+   randtoestelle te kommunikeer. Die mees algemeenste soort parallelle
+   poort is 'n drukkerspoort soos die Centronics poort wat agt bisse op 'n
+   slag oordra. Hardeskywe word ook deur middel van spesiale tipe
+   parallelle poorte aan die rekenaar gekoppel, soos onder andere die SCSI
+   en ATA tegnologieë. Wanneer mense egter gewoonlik na 'n parallelle
+   poort verwys, word daar gewoonlik spesifiek die drukkerspoort op 'n IBM
+   versoenbare rekenaar bedoel.
+
+   Voordat USB poorte algemeen geword het om massaproduksie rekenaars, het
+   baie eksterne toestelle, soos draagbare hardeskywe vir Microsoft
+   Windows en MS-DOS stelsels, 'n verbindingstuk gebruik wat dit moontlik
+   gemaak het om 'n parallelle poort met 'n drukker te deel. Dit is gedoen
+   omdat baie Windows rekenaars vroeër nie 'n ekwivalente SCSI-poort gehad
+   het wat op ander stelsels beskikbaar was nie en was die enigste
+   gerieflike verbinding wat beskikbaar was dan gewoonlik die parallelle
+   poort. Die parallelle poort van 'n IBM versoenbare rekenaar is by verre
+   die mees algemene standaard rekenaarpoort wat die spannings van
+   standaard rekenaarlogika aan die buitewêreld blootstel deur 'n stel
+   penne en word daarom dikwels deur eksperimenteerders, ingenieurs en
+   mense wat bloot elektronika as 'n stokperdjie beoefen, gebruik om
+   goedkoop rekenaarbeheerde projekte te bou. Die standaard spannings is 5
+   volt Gelykstroom en bykans skadeloos. Aan die ander kant is die
+   parallelle poort se stroombane oor die algemeen baie broos en kan
+   maklik deur misbruik beskadig word.
+
+[wysig] Verbindings
+
+   Parallelle poort hegstukke bestaan gewoonlik uit 25 penne, waarvan die
+   meeste gebruik word en bring daarom mee dat die kabels nogal dik is.
+   Hierdie kabels se lengte is ook beperk tot 'n maksimum van 3-8 meter,
+   afhangende van die spesifieke poort- en kabeleienskappe. Al bestaan
+   verskeie standaarde vir parallelle poorte vandag, word daar nie altyd
+   hieraan voldoen nie (veral by die ouer toestelle), wat dit dikwels
+   moeilik maak om die regte kabel en aandrywerprogrammatuur in die hande
+   te kry.
+
+   Parallelle poorte het vier soorte penne:
+     * Data penne, gewoonlik 8, soms 16 en soms ook met 'n een vir 'n
+       pariteitsbis. Hulle kan óf slegs eenrigting (vanaf die rekenaar na
+       die drukker) of tweerigting wees.
+     * Beheerpenne, word gebruik om beheerseine soos STROBE te stuur om
+       aan te dui dat die data op die datapenne gereed is en R/W om aan te
+       dui of tweerigtingpoore besig is om data te lees of te skryf.
+     * Statuspenne, word gebruik om statusboodskappe soos BUSY te stuur om
+       aan te dui dat 'n toestel nie gereed is om data te ontvang nie en
+       ACK om die ontvangs van die simbool te erken.
+     * Aardpenne, wat die stroombane vanaf die ander penne voltooi.
+
+   Die Universele Seriebuspoorte (USB) word deesdae meer gewild as
+   parallelle poorte omdat USB dit makliker maak om meer as een toestel
+   aan die rekenaar te verbind.
+
+   Voorbeelde van Parallelle poortstandaarde is as volg:
+     * IEEE 1284 is die IEEE standaard vir die algemene Persoonlike
+       rekenaardrukkerspoort.
+     * 8255 vir Intel mikroverwerkers
+     * Z80PIO vir Zilog mikroverwerkers.
+
+[wysig] Poortadresse
+
+   Tradisioneel ken IBM PR stelsels hul eerste twee parallelle poorte
+   volgens die tabel hieronder toe.
+   POORTNAAM Onderbrekingslyn # Eerste I/O Laaste I/O
+   LPT1      IRQ 7              0x378      0x37f
+   LPT2      IRQ 5              0x278      0x27f
+
+[wysig] Sien ook
+
+     * LapLink kabel
+     * Serie-poort
+     * Rekenaarpoort
+     * IEEE 1284 - Beskryf die Enhanced Parallel Poort standaard
+
+[wysig] Verwysings
+
+   Axelson, Jan (2000). Parallel Port Complete. Lakeview Research. ISBN
+   0-9650819-1-5.
+
+[wysig] Eksterne skakels
+
+     * Parallel ports of modern and obsolete computers - pinouts and
+       signals
+
+   Kategorie: Rekenaar
+

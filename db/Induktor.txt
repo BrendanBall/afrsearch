@@ -1,0 +1,266 @@
+Induktor
+
+
+   'n Induktor is 'n passiewe elektriese komponent wat energie stoor in
+   die vorm van 'n magnetiese veld. Die induktor word in elektriese
+   stroombane gebruik vir die induktiewe eienskap van die induktor.
+   Induktors
+   Induktors
+
+   Inhoud
+
+        * 1 Fisika
+             + 1.1 Oorsig
+             + 1.2 Energie
+        * 2 Vervaardiging van induktors
+        * 3 In elektriese stroombane
+             + 3.1 Fasor stroombaananalise en impedansie
+             + 3.2 Laplace stroombaananalise (s-vlak)
+             + 3.3 Induktornetwerke
+        * 4 Q-faktor
+        * 5 Toepassings
+        * 6 Sien ook
+
+[wysig] Fisika
+
+[wysig] Oorsig
+
+   Induktansie, wat in henry gemeet word, is 'n effek van die magnetiese
+   veld wat om 'n stroomdraende geleier gevorm word. 'n Elektriese stroom
+   wat deur 'n geleier vloei veroorsaak 'n magnetiese veld om die geleier.
+   'n Verandering in die stroom veroorsaak 'n verandering in die
+   magnetiese veld. Hierdie verandering in die magnetiese veld veroorsaak
+   dat daar 'n elektromotoriese krag (emk) geskep word wat teen die stroom
+   verandering werk. Induktansie kwantifiseer die hoeveelheid emk wat
+   geskep word per eenheidsverandering in die elektriese stroom.
+   Byvoorbeeld, 'n induktor met 'n induktansie van 1 henry skep 'n emk van
+   1 volt as die stroom deur die induktor verander teen 1 ampère per
+   sekonde. Die induktansie van 'n geleier kan vermeerder word deur die
+   geleier in 'n spoel te draai sodat die magnetiese vloed ingeperk word
+   deur die spoel . Andersinds kan die spoel gedraai word om 'n materiaal
+   met 'n hoë permeabiliteit.
+
+[wysig] Energie
+
+   Die energie, wat in joules gemeet word, wat gestoor word in 'n induktor
+   word bereken deur die vergelyking:
+
+          E_\mathrm{gestoor} = {1 \over 2} L I^2
+
+                      waar
+
+                            L die induktansie van die induktor is, en
+                            I die stroom is wat deur die geleier vloei.
+
+[wysig] Vervaardiging van induktors
+
+   Induktors word gewoonlik vervaardig deur 'n geleidende materiaal,
+   gewoonlik koper in 'n spoel te draai. 'n Ferromagnetiese materiaal soos
+   Ferriet kan as kern gebruik word om die induktansie van die induktor te
+   verhoog. Sommige induktors se kern kan verstel word om 'n verstelbare
+   induktor te maak. Induktors kan ook op stroombaan borde geëts word deur
+   'n spiraal vormige spoor (trace) (gewoonlik vierkantig of reghoekig).
+   Induktors word op geïntegreerde stroombane vervaardig deur van
+   dieselfde prosesse gebruik te maak as die wat gebruik word om
+   mikroskywe te vervaardig. In die geval word aluminium gewoonlik gebruik
+   as geleier. Werklike induktors word nie gewoonlik gebruik in
+   geïntegreerde stroombane nie, aangesien hulle te groot is op so 'n
+   klein skaal. Vir praktiese doeleindes word 'n stroombaan wat 'n gyrator
+   genoem word gebruik. 'n Gyrator stroombaan gebruik operasionele
+   versterkers en 'n kapasitor om 'n stroombaan te skep wat eienskappe van
+   'n induktor het. Klein induktors by baie hoë frekwensies word
+   vervaardig deur 'n draad deur 'n ferriet silinder of kraaltjie te druk.
+
+[wysig] In elektriese stroombane
+
+   'n Induktor bied weerstand teen verandering in elektriese stroom. 'n
+   Ideale induktor bied geen weerstand teen gelykstroom nie, behalwe
+   wanneer die stroom aan- of afgeskakel word, in die geval is die stroom
+   verandering meer geleidelik. Regte induktors word van materiaal
+   vervaardig wat elektriese weerstand bied teen selfs gelykstroom en is
+   dus nie ideaal nie.
+
+   Die verhouding tussen 'n tydvariërende elektriese spanning v(t) oor 'n
+   induktor met induktansie en tydvariërende elektriese stroom i(t) deur
+   die induktor word in die algemeen beskryf deur die
+   differensiaalvergelyking
+
+          v(t) = L \frac{di(t)}{dt}
+
+   Hierdie verhouding staan bekend as Lenz se wet wat rondom 1833, as 'n
+   uitbreiding van Faraday se wet, deur Heinrich Lenz ontdek is.
+
+   Wanneer 'n sinusvormige wisselstroom deur die induktor vloei, word 'n
+   sinusvormige spanning geïnduseer. Die amplitude van die spanning het 'n
+   direkte verhouding met die amplitude van die stroom (I[P]) en die
+   frekwensie (f) van die sinusvormige stroom deur die volgende
+   verhouding.
+
+          i(t) = I_P sin(2 \pi f t)\,
+
+          \frac{di(t)}{dt} = 2 \pi f I_P cos(2 \pi f t)
+
+          v(t) = 2 \pi f L I_P cos(2 \pi f t)\,
+
+   Daar kan duidelik gesien word dat die fase van die stroom die spanning
+   met 90 grade volg.
+
+[wysig] Fasor stroombaananalise en impedansie
+
+   Deur van fasors gebruik te maak word die impedansie van 'n induktor
+   gegee deur die volgende vergelyking:
+
+          Z_L = V_l / I_l = j \omega L = j X_L \,
+
+                      waar
+
+                            X_L = \omega L \, die induktiewe reaktansie
+                            is,
+                            \omega = 2 \pi f \, die hoek frekwensie is,
+                            L die induktansie is,
+                            f die frekwensie is, en
+                            j die imaginêre eenheid is.
+
+[wysig] Laplace stroombaananalise (s-vlak)
+
+   Wanneer die Laplace transform in stroombaan analise gebruik word, word
+   die oordrag impedansie van 'n ideale induktor met nie-ideale stroom
+   voorgestel in die s-vlak deur die vergelyking:
+
+          Z(s) = s L\,
+
+                      waar
+
+                            L die induktansie is, en
+                            s die komplekse frekwensie is.
+
+   Wanneer daar 'n aanvanklike stroom deur die induktor vloei, word dit
+   voorgestel deur:
+     * 'n spanningsbron in serie met die induktor te plaas met die waarde:
+
+          L I_0 \,
+
+   (Let daarop dat die polariteit van die spanningsbron die aanvanklike
+   stroom teenstaan)
+     * 'n stroombron in parallel met die induktor te plaas met die waarde:
+
+          \frac{I_0}{s}
+
+                      waar
+
+                            L die induktansie van die induktor is, en
+                            I[0] die aanvanklike stroom in die induktor
+                            is.
+
+[wysig] Induktornetwerke
+
+   Die spanningsval oor die induktors in 'n parallelle konfigurasie is
+   dieselfde, maar die stroom deur elke induktor kan verskil. Die totale
+   stroom in die netwerk is die som van die strome in elke induktor. Die
+   ekwivalente totale induktansie (L[tot]) van die netwerk word bereken
+   deur:
+
+          'n Diagram van veelvuldige induktors in parallel gekoppel.
+
+          \frac{1}{L_\mathrm{tot}} = \frac{1}{L_1} + \frac{1}{L_2} +
+          \cdots + \frac{1}{L_n}
+
+   Die stroom deur die induktors in 'n serie-konfigurasie is dieselfde,
+   maar die spanningsval oor elke induktor kan verskil. Die totale
+   spanningsval oor die netwerk is die som van die spanningsval oor elke
+   induktor. Die ekwivalente totale induktansie (L[tot]) van die netwerk
+   word bereken deur:
+
+          'n Diagram van veelvuldige induktors in serie gekoppel.
+
+          L_\mathrm{tot} = L_1 + L_2 + \cdots + L_n \,\!
+
+   Hierdie eenvoudige verhoudings is slegs waar as daar geen
+   gemeenskaplike koppeling van magnetiese velde tussen individuele
+   induktors is nie.
+
+[wysig] Q-faktor
+
+   'n Ideale induktor het geen verliese ongeag die hoeveelheid stroom wat
+   deur die induktor vloei. Werklike induktors het wel 'n weerstand teen
+   die vloei van stroom aangesien die spoel van materiaal vervaardig word
+   wat weerstand bied. Aangesien die spoel weerstand in series met die
+   induktor is word dit die series weerstand van die induktor genoem. Die
+   series weerstand van 'n induktor skakel die elektriese stroom deur die
+   spoel om na hitte. Dit veroorsaak 'n verlies in die induktor se
+   kwaliteit. Hierdie kwaliteit word deur die kwaliteit faktor of Q-faktor
+   van die induktor gekwantifiseer. Die Q-faktor van 'n induktor is die
+   verhouding tussen die induktansie en series weerstand van die induktor
+   by 'n spesifieke frekwensie. Die induktor neig na 'n ideale induktor as
+   die Q-faktor groter word. Die Q-faktor van 'n induktor word bereken
+   deur die vergelyking:
+
+          Q = \frac{\omega{}L}{R} \,
+
+                      waar
+
+                            L die induktansie van die induktor is,
+                            R die series weerstand van die spoel materiaal
+                            is, en
+                            \omega = 2 \pi f \, die hoek frekwensie is.
+
+   Waneer 'n hoë stroom deur 'n induktor vloei wat 'n ferromagnetiese kern
+   het kan dit versadig. Dit veroorsaak dat die Q-faktor van die induktor
+   drasties verminder. Hierdie veskeinsel kan voorkom word deur van lug
+   kern induktor gebruik te maak. Die nadeel is dat lug kern induktor
+   grooter is as ferromagnetiese kern induktors.
+
+   Deur gebruik te maak van 'n supergeleier allooi spoel wat in vloeibare
+   helium of vloeibare stikstof gedompel word kan 'n amper ideale induktor
+   gemaak word (Q-faktor wat na oneindig neig). In hierdie super
+   afgekoelde spoel verdwyn die series weerstand. Aangesien hierdie
+   induktor virtueel geen verliese het nie kan energie effektief gestoor
+   word in die magneetveld wat om die induktor vorm.
+
+[wysig] Toepassings
+
+   Induktors is verwant aan elektromagnete in struktuur, maar word gebruik
+   met die doel om energie te stoor in die vorm van 'n magneetveld.
+
+   Induktors word gebruik in analoog stroombane en sein prosessering. Saam
+   met kapasitors en ander komponente word induktors gebruik om elektriese
+   filters te maak. 'n Elektriese filter kan 'n sein met spesifieke
+   frekwensie uit filter. Induktors wat bekend staan as smoorspoelle word
+   saam met kapasitors gebruik om die ruis van gelykstroom elektriese
+   toevoer uit te filter. Baie klein induktors was bestaan uit 'n ferriet
+   kraaltjie of torus wat om 'n elektriese kabel geplaas word verhoed dat
+   hoë frekwensie interferensie deur die kabel versprei word. Klein
+   induktor en kapasitor kombinasies word in resonante netwerke gebruik
+   vir radio-opvangs en uitsaai.
+
+   Twee of meer magneties gekoppelde induktors vorm 'n transformator wat
+   'n fundamentele komponent is in elektrisiteits voorsiening netwerke is.
+
+   'n Induktor kan gebruik word as 'n energie stoor toestel in 'n skakel
+   kragbron. Die induktor word gelaai vir 'n spesifieke fraksie van die
+   skakel kragbron reguleerder frekwensie en ontlaai vir die oorblywende
+   siklus. Die laai/ontlaai verhouding bepaal die uitset tot inset
+   spannings verhouding.
+
+   Induktors word ook gebruik in elektrisiteitsvoorsiening netwerke, om
+   stelsel spannings te onderdruk, of stroom te beperk. In die veld staan
+   induktors bekend as reaktors.
+
+   Aangesien induktors groot en swaar komponente is word hulle al hoe
+   minder in moderne elektriese toestelle gebruik. Half geleier skakel
+   kragbronne maak gebruik van kleiner transformators wat by hoër
+   frekwensies werk as lineêre kragbronne. Elektriese stroombane word
+   ontwerp om klein induktors te gebruik waar nodig, anders word groot
+   induktors vervang met 'n gyrator stroombaan.
+
+[wysig] Sien ook
+
+     * Kapasitor
+     * Resistor
+     * Elektrisiteit
+     * Elektronika
+     * Induktansie
+     * Transformator
+
+   Kategorie: Elektroniese komponente
+

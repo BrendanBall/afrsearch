@@ -1,0 +1,116 @@
+CYK-algoritme
+
+
+   Die Cocke-Younger-Kasami (CYK) algoritme (alternatiewelik CKY genoem)
+   bepaal of 'n string deur 'n gegewe konteksvrye grammatika genereer kan
+   word en indien wel hoe dit gegenereer kan word. Dit staan bekend as
+   sintaksontleding van die string. Die algoritme is 'n voorbeeld van
+   dinamiese programmering.
+
+   Die standaard weergawe van CYK herken tale gedefinieer deur konteksvrye
+   grammatikas in Chomsky-normaal-vorm (CNF). Aangesien enige konteksvrye
+   grammatika sonder veel moeite in CNF omskep kan word, kan CYK gebruik
+   word om enige konteksvrye grammatika taal te herken. Dit is ook
+   moontlik om die CYK algoritme uit te brei om sommige konteksvrye
+   grammatikas te hanteer wat nie in CNF geskryf is nie; dit kan gedoen
+   word om verrigting te verbeter maar met die nadeel dat dit die
+   algoritme moeiliker maak om te verstaan.
+
+   Die slegste asimptotiesetyd kompleksiteit van CYK is Θ(n^3), waar n die
+   lengte van die ontlede string is. Dit bring mee dat dit een van die
+   mees effektiewe (in daardie terme) algoritmes vir herkenning van enige
+   konteksvrye grammatika is. Daar is egter ander algoritmes wat beter
+   verrigting sal verskaf vir sekere konteksvrye tale.
+
+   Die CYK algoritme is teoreties belangrik aangesien dit gebruik kan word
+   om kontruktief te bewys dat die lidmaatskapprobleem vir konteksvrye
+   tale beslegbaar is.
+
+   Die CYK algoritme vir die lidmaatskap probleem is as volg:
+
+          Laat die inset string uit n letters bestaan, a[1] ... a[n].
+          Laat die grammatika r terminaal en nie-terminaal simbole bevat
+          R[1] ... R[r]. Hierdie grammatika bevat die deelversameling R[s]
+          wat die versameling begin simbole is.
+          Laat P[n,n,r] 'n boolse skikking wees. Inisialiseer al die
+          element van P na vals.
+          Vir elke i = 1 tot n
+
+                Vir elke eenheid produksie R[j] → a[i], stel P[i,1,j] =
+                waar.
+
+          Vir elke i = 2 to n -- Lengte van span
+
+                Vir elke j = 1 to n-i+1 – Begin van span
+
+                      Vir elke k = 1 to i-1 -- Verdeling van span
+
+                            Vir elke produksie R[A] -> R[B] R[C]
+
+                                  As P[j,k,B] en P[j+k,i-k,C] dan stel
+                                  P[j,i,A] = waar
+
+          As enige van P[1,n,x] waar is (x word herhaal oor die
+          versameling s, waar s al die indices vir R[s] is)
+
+                Dan is string 'n lid van die taal
+                Anders is string nie 'n lid van die taal nie
+
+   Informeel gestel, die algoritme oorweeg elke moontlike deelstring van
+   die string van letters en stel P[i,j,k] om waar te wees as die
+   deelstring van letters beginnende by i met lengte j genereer kan word
+   van R[k]. Nadat dit die deelstringe van lengte 1 oorweeg het gaan dit
+   aan na deelstringe van lengte 2, en so aan. Vir deelstringe met lengte
+   2 en groter oorweeg dit elke moontlike verdeling in twee helftes van
+   die deelstring en maak seker of daar 'n produksie P → Q R is sodat Q
+   ooreenkom met die eerste helfte en R met die tweede helfte. Indien wel,
+   it records P as ooreenkomstig met die hele deelstring. Wanneer die
+   proses voltooi is, is die sin herken deur die grammatika as die
+   deelstring wat die hele string bevat ooreenkom met die begin simbool.
+
+   CAPTION: CYK table
+
+   S
+       VP
+
+   S
+       VP              PP
+   S         NP             NP
+   NP  V, VP Det. N    P    Det N
+   she eats  a    fish with a   fork
+
+   Dit is maklik om die algoritme hierbo uit te brei om nie net te bepaal
+   of 'n sin in 'n taal is nie, maar om 'n ontledingsboom te bou deur
+   ontledingsboomnodes as elemente van die skikking te stoor, in plaas van
+   boolse waardes. Aangesien die grammatikas wat herken word dubbelsinnig
+   kan wees, is dit nodig om 'n lys van nodes te stoor (behalwe as mens
+   net een moontlike ontledingsboom wil kies); die eindresultaat is dan 'n
+   woud van moontlike ontledingsbome. 'n Alternatiewe formulering gebruik
+   'n tweede tabel B[n,n,r] van sogenaamde terugwysers.
+
+   Dit is ook moontlik om die CYK algoritme uit te brei om stringe te
+   ontleed deur geweegde en stochastiese konteksvrye grammatikas te
+   gebruik. Gewigte (waarskynlikhede) word dan in tabel P gestoor plaas
+   van boolse waardes, P[i,j,A] sal dan die minimum gewig (maksimum
+   waarskynlikheid) dat die deelstring van i na j afgelei kan word van A
+   wees. Verdere uitbreidings van die algoritme laat toe dat alle
+   ontledings van 'n string genommer kan word van laagste tot hoogste
+   gewig (hoogste tot laagste waarskynlikheid).
+
+[wysig] Verwysings
+
+     * John Cocke and Jacob T. Schwartz (1970). Programming languages and
+       their compilers: Preliminary notes. Technical report, Courant
+       Institute of Mathematical Sciences, New York University.
+     * T. Kasami (1965). An efficient recognition and syntax-analysis
+       algorithm for context-free languages. Scientific report
+       AFCRL-65-758, Air Force Cambridge Research Lab, Bedford, MA.
+     * Daniel H. Younger (1967). Recognition and parsing of context-free
+       languages in time n^3. Information and Control 10(2): 189–208.
+     * Víctor M. Jiménez and András Marzal (2000). Computation of the N
+       best parse trees for weighted and stochastic context-free grammars.
+       Proc. SSPR/SPR 2000, Lecture Notes in Computer Science 1876:
+       183–192.
+
+   Kategorie: Sintaksontledings algoritmes
+

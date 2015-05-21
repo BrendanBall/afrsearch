@@ -1,0 +1,283 @@
+Breedtegraad
+
+
+   Die breedtegraad (deur φ aangedui) is die geografiese koördinaat wat
+   die ligging gee van 'n plek op 'n hemelliggaam (meestal die Aarde)
+   Noord of Suid van die Ewenaar. 'n Streek se breedtegraadligging het 'n
+   groot effek op die klimaat een weer daar. Dit kan saam met die
+   lengtegraad gebruik word om 'n plek se geografiese ligging aan te dui.
+
+   Op Aarde, is die breedtegraad 'n hoekmeting wat strek vanaf 0° by die
+   Ewenaar tot 90° by die pole, met die byvoeging van noorderbreedte (in
+   die Noordelike halfrond) of suiderbreedte (in die Suidelike halfrond).
+   Ander belangrike breedtesirkels is die Kreefskeerkring by 23°27′ Noord,
+   die Steenbokskeerkring by 23°27′ Suid, die Arktiese Sirkel by 66°33′
+   Noord en die Antarktiese Sirkel by 66°33′ Suid. Slegs by liggings
+   tussen die twee keerkringe is dit moontlik vir die son om reg bo in die
+   lug te wees. Slegs Noord van die Arktiese Sirkel of Suid van die
+   Antarktiese Sirkel is die middernagson moontlik.
+
+   Alle liggings teen 'n gegewe breedtegraad word saam gegroepeer op 'n
+   breedtelyn of parallel, omdat hulle in dieselfde vlak lê en al hierdie
+   vlakke parallel aan die Ewenaar is. Breedtelyne buiten die Ewenaar is
+   naastenby klein sirkels op die oppervlak van die Aarde; hulle is nie
+   geodesieke nie, omdat die kortste pad tussen twee punte op dieselfde
+   breedtegraad weg van die Ewenaar moet buig.
+
+   Die breedtegraad bepaal rofweg die geneigdhede in klimaat, poolligte,
+   heersende winde en ander fisiese eienskappe van 'n geografiese ligging.
+
+   Elke breedtegraad is verder onderverdeel in 60 "boogminute". In
+   navigasie kan 'n minuut onderverdeel word in tiendes (of, voorheen,
+   boogsekondes). Daarom kan 'n volledige breedtegraad as 23°27.5′ S
+   voorgestel word.
+
+   'n Spesifieke breedteligging kan dan met 'n spesifieke lengteligging
+   gekombineer word om 'n presiese posisie op die Aarde se oppervlak aan
+   te dui.
+
+   Een boogminuut van breedte is omtrent een seemyl.
+
+   Ko-breedtegraad (Colatitude in Engels) is die komplement van 'n
+   breedtegraad.
+
+   Hoekerig eksentrisiteit (angular eccentricityin Engels):
+
+                      o\!\varepsilon=\arccos\left(\frac{b}{a}\right);\,\!
+
+   Die uitdrukkings wat hier volg neem aan dat die poolseksies ellipties
+   is met eksentrisiteit:
+   \scriptstyle{e=\sin(o\!\varepsilon)=\frac{\sqrt{a^2-b^2}}{a}}{\color{wh
+   ite}\Big|}\,\! , en dat alle seksies parallel aan die ewenaarsvlak en
+   sirkelvormig is. Geografiese breedteligging (tesame met lengteligging)
+   verskaf dan 'n Gauss-kaart.
+
+                n'(\theta)=\frac{1}{E'(\theta)}=\frac{1}{\sqrt{1-\big(\sin
+                (\theta)\sin(o\!\varepsilon)\big)^2}};\,\!
+
+   Inhoud
+
+        * 1 Regstellende breedteligging
+             + 1.1 Algemene gebruik "breedteligging"
+             + 1.2 Gereduseerde breedteligging
+             + 1.3 Authaliese breedteligging
+             + 1.4 Regstellende breedteligging
+             + 1.5 Konformele breedteligging
+             + 1.6 Geosentriese breedteligging
+        * 2 Breedteligging en rykdom
+        * 3 Verdere leesstof
+        * 4 Sien ook
+        * 5 Eksterne skakels
+        * 6 Bronne
+
+[wysig] Regstellende breedteligging
+
+[wysig] Algemene gebruik "breedteligging"
+
+     * In algemene gebruik verwys die breedteligging na geodetiese of
+       geografiese breedteligging, \phi\,\! , en is die hoek tussen 'n
+       loodlyn en die ewenaarsvlak — juis omdat dit oorspronklik die hoek
+       tussen die horison en die poolster was. Omdat die Aarde effens
+       uitdy weens sy rotasie, verwys kartograwe na 'n verskeidenheid
+       hulpbreedtegrade om sferiese projeksies aan te pas vir hul doel.
+
+[wysig] Gereduseerde breedteligging
+
+     * Gereduseerde of parametriese breedteligging, \beta\,\! , is die
+       breedteligging van dieselfde radius op die sfeer met dieselfde
+       ewenaar.
+
+                \beta=\arctan\Big(\cos(o\!\varepsilon)\tan(\phi)\Big);\,\!
+
+[wysig] Authaliese breedteligging
+
+     * Authaliese breedteligging, \xi\,\! , gee 'n oppervlakbehoudende
+       transform na 'n sfeer.
+
+                \widehat{S}(\phi)^2=\frac{1}{2}b^2\left(\sin(\phi)n'(\phi)
+                ^2+\frac{\ln\bigg(n'(\phi)\Big(1+\sin(\phi)\sin(o\!\vareps
+                ilon)\Big)\bigg)}{\sin(o\!\varepsilon)}\right);\,\!
+
+                \begin{align}\xi&=\arcsin\!\left(\frac{\widehat{S}(\phi)^2
+                }{\widehat{S}(90^\circ)^2}\right),\\
+                &=\arcsin\!\left(\frac{\sin(\phi)\sin(o\!\varepsilon)n'(\p
+                hi)^2+\ln\Big(n'(\phi)\big(1+\sin(\phi)\sin(o\!\varepsilon
+                )\big)\Big)}{\sin(o\!\varepsilon)\sec(o\!\varepsilon)^2+\l
+                n\Big(\sec(o\!\varepsilon)\big(1+\sin(o\!\varepsilon)\big)
+                \Big)}\right);\end{align}\,\!
+
+[wysig] Regstellende breedteligging
+
+     * Regstellende breedteligging (Rectifying in Engels), \mu\,\! , is
+       die oppervlaksafstand vanaf die ewenaar, geskaleer sodat die pool
+       by 90° lê. Ongelukkig is dit 'n onvoltooide elliptiese integraal:
+
+                M(\theta)=a\cos(o\!\varepsilon)^2n'(\theta)^3;\,\!
+
+
+                      \mu=\frac{\;\int_{0}^\phi\;M(\theta)\,d\theta}{\frac
+                      {2}{\pi}\int_{0}^{90^\circ}M(\phi)\,d\phi}
+                      =\frac{\pi}{2}\cdot\frac{\;\int_{0}^\phi\;n'(\theta)
+                      ^3\,d\theta}{\int_{0}^{90^\circ}n'(\phi)^3\,d\phi};\
+                      ,\!
+
+[wysig] Konformele breedteligging
+
+     * Konformele breedteligging, \chi\,\! , gee 'n hoek-behoudende
+       (konforme) transform na 'n sfeer.
+
+                \chi=2\cdot\arctan\left(\sqrt{\frac{1+\sin(\phi)}{1-\sin(\
+                phi)}\cdot\left(\frac{1-\sin(\phi)\sin(o\!\varepsilon)}{1+
+                \sin(\phi)\sin(o\!\varepsilon)}\right)^{\!\!\sin(o\!\varep
+                silon)}}^{\color{white}|}\;\right)-\frac{\pi}{2};\;\!
+
+[wysig] Geosentriese breedteligging
+
+     * Geosentriese breedteligging, \psi\,\! , is moontlik wat in die
+       algemeen aangeneem word aangedui is as breedteligging. Dit is die
+       hoek tussen die ewenaarsvlak en die radiale lyn:
+
+                \psi=\arctan\Big(\cos(o\!\varepsilon)^2\tan(\phi)\Big).\;\
+                !
+
+   Benarderde verskil van geografiese breedteligging
+   \phi\,\! gereduseer
+   \phi-\beta\,\! authalies
+   \phi-\xi\,\! regstellend
+   \phi-\mu\,\! konformeel
+   \phi-\chi\,\! geosentries
+   \phi-\psi\,\!
+   0° 0.00′ 0.00′ 0.00′ 0.00′ 0.00′
+   5° 1.01′ 1.35′ 1.52′ 2.02′ 2.02′
+   10° 1.99′ 2.66′ 2.99′ 3.98′ 3.98′
+   15° 2.91′ 3.89′ 4.37′ 5.82′ 5.82′
+   20° 3.75′ 5.00′ 5.62′ 7.48′ 7.48′
+   25° 4.47′ 5.96′ 6.70′ 8.92′ 8.92′
+   30° 5.05′ 6.73′ 7.57′ 10.09′ 10.09′
+   35° 5.48′ 7.31′ 8.22′ 10.95′ 10.96′
+   40° 5.75′ 7.66′ 8.62′ 11.48′ 11.49′
+   45° 5.84′ 7.78′ 8.76′ 11.67′ 11.67′
+   50° 5.75′ 7.67′ 8.63′ 11.50′ 11.50′
+   55° 5.49′ 7.32′ 8.23′ 10.97′ 10.98′
+   60° 5.06′ 6.75′ 7.59′ 10.12′ 10.13′
+   65° 4.48′ 5.97′ 6.72′ 8.95′ 8.96′
+   70° 3.76′ 5.01′ 5.64′ 7.52′ 7.52′
+   75° 2.92′ 3.90′ 4.39′ 5.85′ 5.85′
+   80° 2.00′ 2.67′ 3.00′ 4.00′ 4.01′
+   85° 1.02′ 1.35′ 1.52′ 2.03′ 2.03′
+   90° 0.00′ 0.00′ 0.00′ 0.00′ 0.00′
+
+[wysig] Breedteligging en rykdom
+
+   Daar word gereeld opgemerk dat daar 'n skerp korrelasie tussen
+   breedteligging en die rykdom van nasies bestaan: die kontinente langs
+   die ewenaar (Afrika, Suid-Amerika en Indonesië) is van die armste.
+   Selfs binne Afrika en Suid-Amerika kan dit gesien word dat die nasies
+   wat die verste van die Ewenaar is ook die rykste is: In Afrika is die
+   rykste nasies die drie aan die Suidelike (Suid-Afrika, Botswana en
+   Namibië) en Noordelike punte van die vasteland. Soortgelyk is
+   Argentinië, Chile en Uruguay lank reeds die rykste nasies in
+   Suid-Amerika. Die rykste nasies van die wêreld met die hoogste
+   standaard van lewe neig om in die Noordelike uiterstes van menslike
+   bewoning te wees, in Kanada en die Nordiese Lande. Tussen die ryk
+   vastelande, en selfs binne groot lande, neem rykdom toe saam met
+   afstand vanaf die Ewenaar: Suidelike Europa is lank reeds, nes die
+   Suidelike Verenigde State, armer as hulle Noordelike helftes.
+
+   Daar is 'n paar verduideliking vir hierdie verskynsel. Die eerste wat
+   dit beskryf en probeer verduidelik het was die Franse filosoof
+   Montesquieu, wat voorgestel het dat 'n koue winter minder bloed in die
+   uiterstes beteken, wat die vel minder soepel maak; dit gee die
+   noordeliker inwoners meer krag en kleiner vermoeë om te ontspan.
+   Hierdie beperking van bloed inwaarts, volgens Montesquieu, beteken ook
+   'n groter vloei deur die hart, wat goeie gesondheid aanhelp. Hierdie
+   bevindings is geheel-en-al deur moderne wetenskap afgeskiet.
+
+   Ook gediskrediteer, maar steeds lewendig binne sommige groepe, is 'n
+   rassige verduideliking. Dié wat naby die ewenaar woon neig om
+   donkervellig te wees en kan direkte sonlig beter hanteer. Party het
+   aangevoer dat 'n donkerder velkleur met verminderde intelligensie
+   verbind kan word, maar daar is geen stawing vir hierdie voorstel nie.
+
+   'n Ander verduideliking wat steeds wyd aanklank vind, is dat moderne
+   tegnologieë en institusies primêr in 'n klein area van noordwes-Europa
+   ontwerp is. Daarom is landboukundige tegnieke, masjiene en medisyne
+   ontwerp om by 'n gematigde klimaat te pas. Hierdie tegnologieë en
+   modelle het wyd versprei na areas met soortgelyke klimaat, soos
+   Noord-Amerika en Australië. Omdat hierdie areas ook sentrums vir
+   uitvinding geword het, is hierdie voordeel verder versterk. Veel minder
+   energie is dus spandeer op die verbetering van tropiese landbou teenoor
+   gematigde landbou, juis as gevolg van hierdie. Tegnologieë, vanaf
+   motorvoertuie tot kraglyne, word ontwerp vir kouer, droër streke, en
+   neig om veel slegter te werk in die tropiese gebiede.
+
+   Hierdie vorm 'n siklus van tegnologieë wat ontwerp word vir die rykes,
+   wat hulle ryker maak en nog tegnologiese ontwikkeling laat steun. Een
+   brokkie getuienis hiervoor is dat die verre noorde nie altyd die rykste
+   breedteligging was nie. Tot slegs 'n paar eeue gelede was die rykste
+   gebiede die strook deur Suidelike Europa, die Midde-Ooste, Noordelike
+   Indië en Suidelike Sjina. 'n Dramatiese verskuiwing in tegnologie,
+   beginnende met oseaanvarende skepe en beëindig deur die Industriële
+   Revolusie, het hierdie strook sien skuif na die Noorde, in Europa,
+   Sjina en die Amerikas. Noordelike Rusland het 'n supermoondheid geword,
+   terwyl Suidelike Indië arm en gekolonialiseer geraak het. Sulke
+   dramatiese veranderings stel voor dat die huidige verspreiding van
+   rykdom nie weens onveranderbare faktore soos klimaat of ras is nie.
+
+   Verbind aan hierdie verduideliking is dié van siekte. Die tropiese
+   gebiede is baie meer vatbaar vir verwoestende siektes, omdat hul
+   temperatuur lewe vergemaklik op vektore soos insekte en knaagdiere.
+   Daar is al lank 'n malariastrook wat die aardbol omgord; hierdie het
+   menslike lewe veel moeiliker gemaak, en verder het dit dit feitlik
+   onmoontlik gemaak vir meeste vorms van noordelike vee om te floreer.
+   Hierdie probleme is vererger deur die rykdom van die Noorde: veel meer
+   geld vir navorsing word spandeer om die siektes van Noordelikes op te
+   los.
+
+   Fisioloog Jared Diamond, in sy Pulitzer Prys-bekroonde werk Guns,
+   Germs, and Steel, het die punt gemaak dat die Europa-Asië-landmassa
+   spesifiek baie goed is vir die oorgang vir samelewings van
+   jagter-opgaarder na landbougemeenskappe. Die vasteland strek veel
+   verder langs dieselfde breedteliggings as enige van die ander
+   vastelande. Omdat dit veel makliker is om 'n mak spesie langs dieselfde
+   breedteligging te verskuif as om na 'n warmer of kouer klimaat te
+   skuif, kan enige spesie wat by 'n spesifieke breedteligging ontwikkel
+   is oor die hele vasteland versprei binne 'n relatief kort periode.
+   Daarom geniet die inwoners van hierdie vasteland 'n outomatiese
+   voordeel in terme van vroeër ontwikkeling van landbou, en het 'n groter
+   verskeidenheid plante en diere waaruit gekies kan word.
+
+   Hy het ook hierdie vooruitgang verbind aan die ontwikkeling van siektes
+   wat later die inwoners van ander vastelande sou bedreig. Die nabye
+   verbintenis tussen die mense en mak diere van Europa-Asië het 'n vektor
+   verskaf waardeur siektes vinnig voortgeplant kon word. Inwoners van
+   lande met min mak spesies was nooit blootgestel aan dieselfde wye reeks
+   siektes nie, en het, ten minste op die Amerikaanse vastelande, beswyk
+   aan siektes wat van Europa gebring is.
+
+[wysig] Verdere leesstof
+
+     * John P. Snyder, Map Projections: a working manual USGS
+
+[wysig] Sien ook
+
+     * lengtegraad
+     * lengte- en breedteligging
+     * navigasie
+
+[wysig] Eksterne skakels
+
+     * Vind 'n lengte- en breedtelingging
+     * Vind jou ligging
+     * Verander desimale grade na grade, minute en sekondes
+     * Afstandsberekening gebasseer op lengte- en breedteligging -
+       JavaScript weergawe
+     * Wêreldkaart met vergrotingsfunksie (PDF)
+
+[wysig] Bronne
+
+     * Latitude by die Engelse Wikipedia
+     * Breedtegraad by die Nederlandse Wikipedia
+
+   Kategorieë: Kartografie • Navigasie
+

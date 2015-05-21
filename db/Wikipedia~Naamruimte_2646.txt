@@ -1,0 +1,22 @@
+Wikipedia:Naamruimte
+
+
+   The 15 auxiliary namespaces (in fact 11, the 4 for Categories and Help
+   are not used) are the following (also the variables for them are
+   shown):
+   {{ns:1}}  Bespreking
+   {{ns:2}}  Gebruiker
+   {{ns:3}}  Gebruikerbespreking
+   {{ns:4}}  Wikipedia
+   {{ns:5}}  Wikipediabespreking
+   {{ns:6}}  Beeld
+   {{ns:7}}  Beeldbespreking
+   {{ns:8}}  MediaWiki Template:All system messages
+   {{ns:9}}  MediaWikibespreking
+   {{ns:10}} Sjabloon Wikipedia:Navigasietemplate
+   {{ns:11}} Sjabloonbespreking
+   {{ns:12}} Hulp
+   {{ns:13}} Hulpbespreking
+   {{ns:14}} Kategorie
+   {{ns:15}} Kategoriebespreking
+

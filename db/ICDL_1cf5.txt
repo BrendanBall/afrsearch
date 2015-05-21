@@ -1,0 +1,81 @@
+ICDL
+
+
+   ICDL kenteken
+   ICDL kenteken
+
+   Die International Computer Driving Licence in Europa bekend as die
+   European Computer Driving License is sertifikate wat deur die ECDL
+   Foundation, 'n organisasie sonder winsbejag, toegeken word. In
+   Sub-Sahara Afrika (Zimbabwe uitgesluit) word die ICDL-kwalifikasies
+   deur ICDL South Africa ook 'n organisasie sonder winsbejag bestuur wat
+   deur die CSSA in Suid-Afrika gestig is.
+
+   Die kursus behels eksamens in sleutelareas in die veld van
+   Inligtingstegnologie, soos bedryfstelsels, kantoorprogrammatuur soos
+   woordverwerkers, spreivelle, databasisse, kommunikasieprogramme en dies
+   meer.
+
+   Inhoud
+
+        * 1 ICDL Kursus-struktuur
+        * 2 Doelwit
+        * 3 Sien ook
+        * 4 Eksterne skakels
+
+[wysig] ICDL Kursus-struktuur
+
+   Die ICDL-kwalifikasie bestaan uit sewe modules wat as volg daaruit
+   sien:
+    1. Basiese begrippe: behels die terminologie, toepassings en gebruik
+       van rekenaars, IT en die samelewing en ander algemene gebruike.
+    2. Rekenaargebruik en die bestuur van lêers: behels hoofsaaklik die
+       gebruik van die bedryfstelsel.
+    3. Woordverwerking: Sluit al die gewone vaardighede in die verband in
+       asook gevorderde vaardighede soos die insluiting van epos in
+       dokumente en integrasie met spreivelle en grafika.
+    4. Spreivelle: Vereis 'n deeglike kennis van die gebruik van
+       spreivelle.
+    5. Databasisse
+    6. Aanbiedingshulpbronne: Vereis kennis in die gebruik van sodanige
+       programmatuur.
+    7. Inligting en kommunikasie: Behels die gebruik van epos
+       programmatuur en die verkryging van inligting oor die internet.
+
+   'n Slaagsyfer van 75% moet behaal word in elkeen van die modules om die
+   sertifikaat te bekom.
+
+[wysig] Doelwit
+
+   Die doel van die kursus is om die vlak van kennis oor
+   inligtingstegnologie te verhoog en die vlak van bekwaamheid in die
+   algemene gebruik van persoonlike rekenaars en algemene
+   rekenaarprogrammatuur te verhoog vir alle mense in die wêreld. Die
+   mikpunt is om inligting te versprei, om die program te bevorder en te
+   ontwikkel as 'n wêreldwyd erkende kwalifiseringsprogram vir
+   IT-vaardighede om alle mense toe te rus om deel te neem aan die
+   inligtingsamelewing.
+
+   Die ECDL-Foundation mik daarna om vennootskappe met professionele
+   rekenaarverenigings wêreldwyd te vorm wat die program kan bestuur in
+   hulle eie plaaslike gemeenskappe.
+
+   Die program is in 1997 van stapel gestuur en teen 2005 het soveel as 5
+   miljoen mense vanuit 138 lande al aan die program deelgeneem. Die
+   program is tans (2006) al in 32 tale vertaal.
+
+[wysig] Sien ook
+
+     * Rekenaargeletterdheid
+
+[wysig] Eksterne skakels
+
+     * ECDL se webwerf
+     * ICDL in Suider Afrika
+     * ICDL hulpbronne en inligting
+     * 'n Artikel wat die nut van die ICDL-kwalifikasie en die
+       moontlikheid van 'n soortgelyke kwalifikasie vir
+       oopbronprogrammatuur daar te stel
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,66 @@
+Logika
+
+
+[wysig] Opsomming
+
+   Logika is 'n vak wat die vorm van argumente in taal ondersoek om vas te
+   stel of hulle geldig, of ten minste aanneemlik, is. Die twee
+   belangrikste soorte logika is proposisionele logika, wat die rol van
+   woordjies soos "nie", "en", "of" en "as" in argumente nagaan, en
+   predikaatlogika, wat die rol van dinge, bewyse hul eienskappe en
+   verhoudings in argumente betrek. Rekenaarwetenskap en kunsmatige
+   intelligensie stimuleer nuwe vertakkings in dié meer as tweeduisend
+   jaar oue wetenskap.
+
+[wysig] Wat is Logika?
+
+   Wanneer ons sê "dit is logies", praat ons oor iets wat gesê of geskryf
+   is, dus 'n string sinne in taal, met 'n sekere soort samehang. Die
+   samehang is dat sommige van die sinne (aan die begin) redes gee om aan
+   te neem dat 'n ander sin (teen die einde) waar is. Kyk na 'n eenvoudige
+   voorbeeld van so 'n lys van sinne, wat ons 'n redenasie of argument
+   noem:
+     * (1) Andries of Bettie gaan.
+     * (2) Andries gaan nie.
+     * (3) Dus gaan Bettie.
+
+   Die verband tussen (1), (2) en (3) is dít: as (1) en (2) albei waar is,
+   dan moet (3) ook waar wees. Die sinne wat die redes of steun verskaf,
+   (1) en (2), noem ons die aannames of premisse van die argument. Die
+   sin, (3), wat geloofwaardig gemaak of ondersteun word, noem ons die
+   gevolgtrekking of konklusie van die argument.
+
+   Ons noem 'n argument geldig as die waarheid van die premisse absoluut
+   waarborg dat die konklusie dan ook waar sal wees: in enige denkbare
+   situasie waarin (1) en (2) waar is, sal (3) ook waar wees. By die
+   beoordeling van die geldigheid, al dan nie, van 'n argument, sê ons nie
+   dat die premisse waar is nie.
+
+   Ons hoef niks oor Andries en Bettie en hul ganery te weet om bostaande
+   argument se geldigheid vas te stel nie: as (1) en (2) waar is, dan is
+   (3) ook waar. Ons hoef trouens nie eens te weet waaroor die argument
+   presies gaan nie: "Andries" en "Bettie" mag na 'n man en 'n vrou
+   verwys, of dalk na twee wedvlugduiwe; "gaan" mag beteken "vertrek na
+   die Olimpiese Spele", of dalk "word ontslaan".
+
+   Die geldigheid van 'n argument hang dus nie soseer van sy spesifieke
+   inhoud af nie, maar wel van die logiese vorm van sy sinne.
+
+[wysig] Verlede en toekoms van die Logika
+
+   'n Onderdeel van die predikaatlogika, die sillogismelogika, is al deur
+   die antieke Griekse filosoof Aristoteles (384-322 vC) opgeteken, maar
+   die groot ontplooiing van die logika het in die negentiende en
+   twintigste eeue plaasgevind, toe die proposisie- en predikaatlogika en
+   hul verband met die wiskunde volledig ontwikkel is.
+
+   Die jongste ontwikkelinge in die logika hou sterk verband met die
+   ontstaan van die rekenaar, rekenaarwetenskap en kunsmatige
+   intelligensie sedert die middel van die twintigste eeu. Een van dié
+   ontwikkelinge bestudeer argumente waarin die premisse die konklusie wel
+   aanneemlik maak, sonder om dit absoluut te waarborg. Ander
+   ontwikkelinge bestudeer die logikas van moontlikheid en
+   noodsaaklikheid; van kennis en opvattings; of van tyd: verlede, hede en
+   toekoms.
+   Kategorie: Logika
+

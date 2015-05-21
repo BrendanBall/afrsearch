@@ -1,0 +1,78 @@
+Olifant
+
+
+                       Olifant
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    Vertebrata
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Proboscidea
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  Elephantoidea
+      Familie:     Elephantidae
+                   Gray, 1821
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die olifant is 'n soogdier wat behoort tot die familie Elephantidae,
+   wat twee spesies bevat: die Indiese olifant (Elephas maximus), wat
+   beperk is tot Indië en Suidoos-Asië, en die Afrika-olifant (Loxodonta
+   africana). Die twee spesies word onderskei deur beide algehele grootte
+   asook die grootte van hul ore - die Afrika-olifant is die groter een.
+   Die Indiese olifant word meer algemeen gebruik as pakdier en
+   vervoermiddel as die Afrika-olifant.
+
+   Olifante is die enigste slurpdiere van hierdie tydperk. Die reusagtige
+   behaarde mammoete en mastodonte is uitgesterf. Die soogdier wat in ons
+   era die nouste verwant is aan die slurpdiere is die in Suid-Afrika
+   inheemse dassie (in Engels ook bekend as hyrax; wetenskaplike naam
+   Procavia capensis).
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Elephant
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Vir woordeboekinligting, sien die bladsy olifant op WikiWoordeboek
+   Kategorieë: Saadjies • Olifante
+

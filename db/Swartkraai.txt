@@ -1,0 +1,107 @@
+Swartkraai
+
+
+                 Swartkraai
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Corvidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corvus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. capensis
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+               Corvus capensis
+   Lichtenstein, 1823
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die swartkraai
+   Verspreiding van die swartkraai
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die swartkraai is 'n algemene, wydverspreide standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+             + 6.1 Bronnelys
+
+[wysig] Identifikasie
+
+   Dit is geheel en al blinkswart.
+
+   48-53 cm
+
+[wysig] Habitat
+
+   Kom een-een, in pare of in swerms op landerye en in die oop veld voor.
+   Is minder algemeen as die Witborskraai. Sit dikwels op telefoonpale en
+   maak ook daar nes.
+
+[wysig] Verspreiding
+
+   Die Swartkraai kom in droër streke as die Witborskraai voor, nl. die
+   hele Suid-Afrika, [Namibië]], Botswanaen Zimbabwe.
+
+[wysig] Geluid
+
+   Uiter 'n hoë "kraa"-geluid.
+
+[wysig] Ander name
+
+     * Engelse naam: "Cape Crow" of "Black Crow".
+     * Wetenskaplike naam: Corvus capensis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Kraaiagtiges
+

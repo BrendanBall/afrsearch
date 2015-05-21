@@ -1,0 +1,98 @@
+Swartkolk
+
+
+   'n Swartkolk (ook swartgat, swaartekragput en gravitasiekolk) is 'n
+   konsentrasie van massa wat só groot is dat die swaartekrag alles
+   verhoed om te ontsnap, selfs ligstrale, derhalwe die naam "swart". Daar
+   is natuurlik nie werklik 'n gat in swartkolke in die gewone sin van die
+   woord nie, maar verwys eerder na 'n gebied in die ruimte waaruit niks
+   kan terugkeer nie.
+
+   Inhoud
+
+        * 1 Klassieke model
+        * 2 Kwantummodel
+        * 3 Stringmodel
+        * 4 Verwysings
+
+[wysig] Klassieke model
+
+   'n Fiktiewe afbeelding van 'n swartgat van sowat 10 sonmassa's, soos
+   gesien vanuit 'n afstand van 600 kilometer
+   'n Fiktiewe afbeelding van 'n swartgat van sowat 10 sonmassa's, soos
+   gesien vanuit 'n afstand van 600 kilometer
+
+   Albert Einstein se teorie van algemene relatiwiteit beskryf hoe
+   driedimensionele ruimte gekrom word in 'n vierde dimensie hoe groter
+   die massadigtheid. Indien die massadigtheid 'n sekere perk oorskrei,
+   word die ruimte soveel gekrom dat invallende materiaal (selfs ook
+   ligstrale) vir ewig binne die ruimte gebied sal rond reis en nooit weer
+   in ons driedimensionele ruimte 'n verskyning maak nie.
+
+   Om hierdie begrip te visualiseer, dink aan 'n plat vel papier wat uit
+   twee dimensies bestaan. Rol nou een sy van die papier in 'n klein
+   sirkel sodat die res van die papier nog plat bly en net een kant nou 'n
+   pyp vorm. Ons driedimensionele ruimte kan nou as die res van die papier
+   gesien word. Ligstrale kan op hierdie papier voorgestel word as reguit
+   lyne. Enige lyne wat op die plat gedeelte van die papier getrek word in
+   die rigting van die opgerolde sy sal mettertyd in die pyp ingaan en dan
+   vir ewig daarbinne rond en rond maal. In hierde voorstelling is die
+   opgerolde sy gekrom in 'n ekstra dimensie. Die wand van die pyp is 'n
+   analoog vir die begrip van gebeurehorison (event horizon) wat 'n
+   membraan is op 'n afstand rondom die massamiddelpunt van die swartgat.
+
+   Die teorie voorspel dat daar by die massamiddelpunt self moontlik 'n
+   oneindige digtheid bereik kan word. Dit staan bekend as 'n enkelheid
+   (Engels: singularity). Einstein self het nie hierdie voorspelling geglo
+   nie en was oortuig sy teorie was onvoltooid omdat sulke oneindighede
+   volgens hom nie in die natuur bestaan nie.
+
+   'n Ander voorspelling van Einstein is dat tyd al hoe stadiger verby
+   gaan hoe sterker die swaartekragveld. Dus, hoe nader 'n invallende
+   partikel aan die enkelheid beweeg, hoe stadiger beweeg dit. Geen
+   partikel kan dan ooit die massamiddelpunt bereik nie, want oneindig
+   baie tyd is nodig daarvoor.
+
+[wysig] Kwantummodel
+
+   Kwantummeganika sê egter dat pare van virtuele partikels gedurig orals
+   oor die heelal spontaan onstaan, en 'n kort rukkie later mekaar
+   vernietig. Só bly die netto energie van die heelal konstant, maar
+   fluksioneer steeds in die ultra-korttermyn. In 1974 het Stephen Hawking
+   wiskundig bewys dat van hierdie virtuele partikels spontaan sal
+   ontstaan só dat een binne die gebeurehorison is terwyl die ander een
+   buite die membraan is. As gevolg van die kromming van die ruimte, kan
+   die twee nou nooit bymekaar uitkom nie, en kan mekaar nie vernietig
+   nie. Dus eindig een partikel met positiewe energie in ons
+   driedimensionele ruimte en die ander een met negatiewe energie bly in
+   die swartgat, waar dit met 'n ander partikel sal bots en die twee
+   mekaar vernietig. So verloor die swart gat dan 'n partikel in die
+   proses. Na 'n lank genoeg tyd (en sover ons weet sal die heelal vir
+   ewig bestaan) sal al die partikels binne die swart gat so vernietig
+   word.
+
+   Daar is genoegsame astronomiese waarnemings van supernova's en
+   X-straaluitstraling uit kerns van sterrestelsels om geloofwaardigheid
+   te verleen aan die bestaan van swartgate.
+
+[wysig] Stringmodel
+
+   Die meer moderne Stringteorie voorspel egter dat die vibrerende stringe
+   van materie partikels wat binne die gebeurehorison inval sal kombineer
+   om langer stringe te vorm. Hoe langer die stringe, hoe meer kompleks
+   die vibrasies en vorms wat dit kan aanneem binne 'n gegewe ruimte. Een
+   afleiding hieruit is dat daar nie 'n enkelheid sal onstaan nie, maar
+   dat die massa en energie binne die gebeurehorison min of meer eweredig
+   verspreid sal wees.
+
+[wysig] Verwysings
+
+     * Hawking, Stephen (1998) A Brief History of Time, Bantam Books, Inc.
+       ISBN 0553380168
+     * Pickover, Clifford (1998) Black Holes: A Traveler's Guide, Wiley,
+       John & Sons, Inc. ISBN 0471197041
+     * Ferguson, Kitty (1991) Black Holes in Space-Time, Watts Franklin.
+       ISBN 0531125246
+
+   Kategorieë: Sterrekunde • Relatiwiteit
+

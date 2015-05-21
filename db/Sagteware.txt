@@ -1,0 +1,69 @@
+Sagteware
+
+
+   Sagteware (ook programmatuur genoem, teenoor "apparatuur" of
+   "hardeware") is 'n generiese begrip vir 'n georganiseerde groep(e) kode
+   wat instruksies verteenwoordig wat uitgevoer word deur 'n rekenaar.
+   Sagteware word gewoonlik eers geskryf as bronkode, en dan verwerk na
+   binêre formaat wat spesifiek is aan die verwerker of omgewing waarin
+   die kode uitgevoer word.
+
+   Sagteware word gewoonlik verdeel in twee hoofkategorieë:
+   stelselsagteware wat die basiese nie-taak-spesifieke funksies van die
+   rekenaar verskaf, en toepassingsagteware wat gebruik word om spesifieke
+   gebruiker-verwante take uit te voer.
+
+   Die begrip is die eerste keer in hierdie konteks gebruik deur John W.
+   Tukey in 1957.
+
+   Inhoud
+
+        * 1 Stelselsagteware
+        * 2 Toepassingsagteware
+        * 3 Sagtewareontwikkeling
+        * 4 Verwante artikels
+
+[wysig] Stelselsagteware
+
+   Stelselsagteware is verantwoordelik vir die beheer, integrasie en
+   bestuur van die individuele hardewarekomponente van 'n rekenaarstelsel
+   so dat ander sagteware en die gebruikers van die stelsel dit sien as 'n
+   funksionele eenheid sonder om besorgd hoef te wees oor die lae-vlak
+   details soos byvoorbeeld die verskuiwing van data vanaf die geheue na
+   die hardeskyf, of die vertoon daarvan op die skerm.
+
+   Stelselsagteware bestaan uit dinge soos 'n bedryfstelsel en 'n aantal
+   fundamentele nutsprogramme, soos programme wat lêers manipuleer,
+   stelseladministrasie verrig en wat hardeware- en netwerkkonfigurasie
+   doen.
+
+[wysig] Toepassingsagteware
+
+   Toepassingsagteware word gebruik om ander take, buiten die bestuur van
+   die rekenaarstelsel, uit te voer. Toepassingsagteware kan bestaan uit
+   'n enkele program, byvoorbeeld 'n teksredigeerder; 'n aantal programme
+   (gewoonlik genoem 'n sagteware pakket wat saam werk om 'n taak uit te
+   voer, byvoorbeeld 'n sigblad; 'n groter versameling (of suite) van
+   onafhanklike programme wat vir verwante take gebruik word soos
+   byvoorbeeld 'n kantoorproduktiwiteit-suite wat bestaan uit 'n
+   woordverwerker, sigblad, ens.
+
+[wysig] Sagtewareontwikkeling
+
+   Sagteware word amper altyd ontwikkel met behulp van een of meer
+   programeertale. Verskeie nutsprogramme word moontlik gebruik in die
+   proses:
+     * 'n teksredigeerder of 'n geïntegreerde ontwikkelingsomgewing
+     * vertalers of interpreteerders
+     * ontfoutingsprogramme
+
+[wysig] Verwante artikels
+
+     * Verwerking
+     * Rekenaarwetenskap
+     * Rekenaarprogrammering
+     * Sagteware ingenieurswese
+     * Algoritme
+
+   Kategorie: Rekenaar
+

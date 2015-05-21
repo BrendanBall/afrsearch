@@ -1,0 +1,57 @@
+Japan Standaardtyd
+
+
+   'n Keiserlike Ordinansie wat op 27 Desember Meiji 28 (1895) uigevaardig
+   is
+   'n Keiserlike Ordinansie wat op 27 Desember Meiji 28 (1895) uigevaardig
+   is
+
+   Japan Standaardtyd of JST (日本標準時 or 中央標準時) is die standaardtydsone van
+   Japan, en is 9 ure voor UTC; ie as dit middernag (00:00) is in UTC, is
+   dit 9 vm (09:00) in Japan Standaardtyd. Japan pas nie somertyd toe nie.
+   Die invoer van somertyd het egter reeds verskeie kere onder bespreking
+   gekom. Japan Standaardtyd is deiselfde as Korea Standaardtyd,
+   Indonesiese Oostelike Standaardtyd en Jakoetsktyd. gedurende die Tweede
+   Wêreldoorlog is dit baie keer in Westerse konteks Tokio Standaardtyd
+   (Engels: Tokyo Standard Time) genoem.
+
+   voor die Meiji era (1868–1912) het elke plaaslike gebied sy eie tydsone
+   gehad waarin middag gestel is na die tyd wanneer die son sy hoogste
+   punt bereik het. Soos moderne vervoermiddels soos treine aangeneem is
+   het die gebruik onprakties begin raak as gevolg van die verwarring wat
+   dit veroorsaak het. 'n Verskil van ongeveer 5 lengtegrade tussen Tokio
+   en Osaka lei tot 'n verskil van 20 minute tussen die stede. In 1886 is
+   Ordinansie 51 uitgevaardig om die probleem op te los. Hiervolgens is
+   standaardtyd (標準時, Hyōjunji^?) 9 ure voor GMT gestel (UTC was toe nog
+   nie gevestig nie.) In die ordinansie noem die eerste klousule GMT, die
+   tweede definieer oostelike lengtegraad en westelike lengtegraad en die
+   derde sê dat die tydsone van 1888 sou geld. Die stad Akashi in Hyōgo
+   Prefektuur is toevallig presies op 135 grade Oos geleë en het gevolglik
+   as Toki no machi (Dorp van Tyd) bekend geword.
+
+   Met die anneksasie van Taiwan in 1895 is Ordinansie 167 uitgevaardig
+   waarin die vorige standaardtyd na Sentrale Standaardtyd (中央標準時, Chūō
+   Hyōjunji^?) hernoem is en die nuwe Westelike Standaardtyd (西部標準時, Seibu
+   Hyōjunji^?) by 120° Oos gevestig is. Westelike Standaardtyd, wat in
+   Taiwan en dele van Okinawa gebruik is, is deur Ordinansie 529 in 1937
+   afgeskaf. gebiede wat tydens die tweede Wêreldoorlog deur japan beset
+   is, insluitend Singapoer en Maleië, het Japan Standaardtyd vir die duur
+   van die besetting aangeneem maar het na Japan se oorgawe hulle eie tye
+   heraangeneem.
+
+   In 1948–1951 het die besette Japan somertyd toegepas vanaf die eerste
+   Sondag in Mei teen 02:00 tot die tweede Saterdag in September teen
+   02:00, behalwe die 1949 lentevoorwaartsskuif wat op die eerste Sondag
+   in April geval het.^[1] meer onlangs is pogings aangewend om somertyd
+   weer in Japan in te voer maar tot dusver is dit nie deurgevoer nie^[2]
+
+[wysig] Verwysings
+
+    1. ^ Paul Eggert; Arthur David Olson (2007-03-13). "Sources for time
+       zone and daylight saving time data." URL besoek op 2007-03-23.
+    2. ^ "Outline of the report on the National Conference on the Global
+       Environment and Summer Time." The Energy Conservation Center,
+       Japan: 1998-09. URL besoek op 2007-04-14.
+
+   Kategorieë: Tydsones • Japan
+

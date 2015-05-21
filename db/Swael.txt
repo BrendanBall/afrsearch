@@ -1,0 +1,116 @@
+Swael
+
+
+                        Swael
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hirundinidae, Apodidae
+                   Vigors, 1825
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                Sien artikel
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+          Vir die chemiese element, sien swawel.
+
+   In Afrikaans sluit die groep voëls wat bekend staan as swaels 'n aantal
+   voëlsoorte in, onder andere Swallows (engels), Martins (engels) en
+   Swifts (engels).
+
+   Inhoud
+
+        * 1 Spesies
+             + 1.1 Swaels wat in Suid-Afrika voorkom
+        * 2 Galery
+        * 3 Sien ook
+        * 4 Bronnelys
+
+[wysig] Spesies
+
+[wysig] Swaels wat in Suid-Afrika voorkom
+
+     * Afrikaanse oewerswael
+     * Angolaswael
+     * Blouswael
+     * Draadstertswael
+     * Europese swael
+     * Europese oewerswael
+     * Familieswael
+     * Gebande oewerswael
+     * Gestreepte kransswael
+     * Grootstreepswael
+     * Gryskruisswael
+     * Huisswael
+     * Kleinstreepswael
+     * Kransswael
+     * Moskeeswael
+     * Palmwindswael
+     * Pêrelborsswael
+     * Rooiborsswael
+     * Rooinekswael
+     * Swart Saagvlerkswael
+     * Tropiese saagvlerkswael
+     * Witkeelswael
+     * Witkopsaagvlerkswael
+
+[wysig] Galery
+
+   Swael
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Swaels
+

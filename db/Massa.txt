@@ -1,0 +1,390 @@
+Massa
+
+
+   Massa, simbool:m, is 'n eienskap van fisiese voorwerpe wat rofweg
+   gesproke 'n maatstaf is van die hoeveelheid materie wat hulle bevat.
+   Dit is 'n sentrale begrip van klassieke meganika en verwante vakke.
+
+   Streng gesproke is daar twee verskillende hoeveelhede wat massa genoem
+   word:
+     * Traagheidsmassa van 'n voorwerp: die weerstand van 'n voorwerp om
+       sy bewegingstoestand te verander wanneer 'n krag daarop uitgeoefen
+       word. 'n Voorwerp met 'n klein traagheidsmassa verander meer
+       geredelik sy beweging en 'n voorwerp met 'n groot traagheidsmassa
+       doen dit minder geredelik.
+
+     * Passiewe swaartekragmassa is 'n maatstaf van die sterkte van 'n
+       voorwerp se interaksie met die swaartekragveld. Binne dieselfde
+       gravitasieveld word 'n kleiner krag op 'n voorwerp met 'n kleiner
+       passiewe swaartekragmassa uitgeoefen as een met 'n groter passiewe
+       swaartekragmassa. (Die krag word die gewig van 'n voorwerp genoem.
+       Informeel word gewig dikwels as sinoniem vir massa gebruik omdat
+       die sterkte van die swaartekragveld rofweg eweredig is oor die
+       oppervlak van die Aarde. In fisika is daar egter 'n duidelike
+       onderskeid tussen die terme: 'n voorwerp sal 'n groter gewig hê as
+       dit 'n 'n sterker swaartekragveld geplaas word, maar sy passiewe
+       swaartekragmassa bly onveranderd.)
+
+     * Aktiewe swaartekragmassa is 'n maatstaf van die sterkte van die
+       swaartekragveld van 'n spesifieke voorwerp. Die swaartekragveld wat
+       'n mens byvoorbeeld op die Maan ervaar is swakker as dié op die
+       Aarde omdat die maan 'n kleiner aktiewe swaartekragmassa het.
+
+   Alhoewel traagheidsmassa, passiewe swaartekragmassa en aktiewe
+   swaartekragmassa onderskeibare begrippe is, is geen eksperiment ooit
+   uitgevoer om onomwonde bewys te lewer dat hulle verskillende begrippe
+   is nie. Een van die gevolge van die gelykheid van traagheidsmassa en
+   passiewe massa is die feit, soos deur Galileo Galilei bewys is, dat
+   voorwerpe met verskillende massas teen dieselfde tempo val wanneer
+   ander faktore soos lugweerstand nalaatbaar is. Die algemene
+   relatiwiteitsteorie, die mees akkurate teorie oor swaartekrag tans
+   bekend aan fisici, berus op die aanname dat traagheidsmassa en passiewe
+   swaartekragmassa geheel en al dieselfde is. Dit staan bekend as die
+   swak gelykwaardigheidsbeginsel bekend. Standaard algemene relatiwiteit
+   aanvaar ook die gelykheid van traagheidsmassa en aktiewe
+   swaartekragmassa. Hierdie gelykheid word ook somtyds die sterk
+   gelykwaardigheidsbeginsel genoem.
+
+   Indien 'n mens traagheidsmassa m[i], passiewe swaartekragmassa m[p] en
+   aktiewe swaartekragmassa m[a] as afsonderlike begrippe sou hanteer dan
+   neem Newton se universele swaartekragwet die volgende vorm aanneem:
+
+          m_ia=\frac{Gm_pm_a}{r^2}.
+
+   Inhoud
+
+        * 1 Massa eenhede
+        * 2 Traagheidsmassa
+        * 3 Swaartekragmassa
+        * 4 Gelykheid van traagheids- en swaartekragmassas
+        * 5 Relatiwistiese verhouding tussen massa, energie en momentum
+        * 6 Verwysings
+        * 7 Sien ook
+        * 8 Eksterne skakels
+
+[wysig] Massa eenhede
+
+   In die SI stelsel van eenhede, word massa in kilogram (kg) gemeet. Baie
+   ander massa eenhede word ook gebruik, soos: gram (g), metrieke ton,
+   pond, ons, quintal, atoom massa eenheid, Planck massa, sonmassa en
+   eV/c^2.
+
+   Laasgenoemde eenheid is gebaseer op die elektronvolt (eV), wat
+   normaalweg gebruik word as 'n eenheid van energie. Omdat daar egter 'n
+   relatiwistiese verband tussen rusmassa en energie bestaan, E = mc^2
+   (sien hieronder), is dit moontlik om enige eenheid van energie te
+   gebruik as 'n massa eenheid. In partikel fisika waar massa en energie
+   dikwels uitgeruil word, is dit algemeen om nie net eV/c^2 te gebruik
+   nie maar selfs eenvoudig eV as 'n massa eenheid te gebruik (rofweg
+   gelykstaande aan 1.783 × 10^-36 kg).
+
+   Omdat die swaartekragversnelling op die oppervlak van die Aarde
+   ongeveer konstant bly, word 'n eenheid soos pond dikwels gebruik om
+   massa asook krag (bv. Gewig) te meet al word die pond amptelik as 'n
+   eenheid van massa gedefinieer.
+
+[wysig] Traagheidsmassa
+
+   Om te verstaan wat die traagheidsmassa van 'n voorwerp is, begin 'n
+   mens met klassieke meganika en Newton se bewegingswet. Later sal ons
+   sien hoe ons klassieke definisie van massa verander moet word om die
+   spesiale relatiwiteitsteorie in ag te neem, wat meer akkuraat is as
+   klassieke meganika. Die implikasies van spesiale relatiwiteit sal egter
+   nie die betekenis van massa op 'n betekenisvolle manier verander nie.
+
+   Volgens Newton se tweede wet, sê ons dat 'n liggaam 'n massa m het as
+   dit op enige tydstip die bewegingsvergelyking gehoorsaam
+
+          F = \frac{d}{dt} (mv)
+
+   waar F die krag is wat op 'n liggaam uitgeoefen word is en v sy
+   snelheid is. Ons sal voorlopig dan die vraag rondom wat 'n krag wat op
+   'n liggaam uitgeoefen word eintlik beteken.
+
+   Veronderstel nou dat die massa van die liggaam onder oorweging 'n
+   konstante is. Hierdie aanname wat bekend staan as die behoud van massa,
+   berus op die idees dat (i) massa 'n maatstaf is van die hoeveelheid
+   materie wat in 'n liggaam opgesluit is en (ii) dat materie nooit geskep
+   of vernietig kan word nie maar slegs geskei of weer saamgevoeg kan
+   word. Hierdie is redelike aannames vir alledaagse voorwerpe al word die
+   situasie meer ingewikkeld wanneer ons spesiale relatiwiteit in ag neem,
+   soos ons later sal sien. 'n Ander punt om van kennis te neem is dat
+   selfs in klassieke meganika dit somtyds nuttig is om die massa van 'n
+   voorwerp as 'n veranderlike oor tyd te beskou. Die massa van 'n vuurpyl
+   verminder byvoorbeeld soos die vuurpyl afgevuur word. Hierdie is egter
+   'n benadering deurdat die stukkies materie wat die stelsel verlaat
+   geïgnoreer word. Hierdie benadering word gebruik om berekeninge te
+   vergemaklik. In die geval van die vuurpyl stem hierdie stukkies ooreen
+   met die hoeveelheid uitgewerpte aandryfmiddel; as ons die totale massa
+   van die vuurpyl en aandryfmiddel sou meet, sou ons vind dat die massa
+   behoue gebly het.
+
+   Wanneer die massa van 'n liggaam konstant bly, word Newton se tweede
+   wet
+
+          F = m \frac{dv}{dt} = m a
+
+   waar a die versnelling van die liggaam verteenwoordig.
+
+   Hierdie vergelyking illustreer hoe die massa van 'n voorwerp verband
+   hou met die traagheid van 'n liggaam. Beskou twee voorwerpe met
+   verskillende massas. As ons 'n gelyke krag op elkeen uitoefen, sal die
+   voorwerp met die groter massa 'n kleiner versnelling ondergaan en die
+   voorwerp met die kleiner massa sal 'n groter versnelling ondergaan. Ons
+   kan dus sê dat die groter massa 'n groter weerstand uitoefen om sy
+   toestand van beweging te verander in reaksie tot die krag.
+
+   Hierdie gedagte van die aanwending van identiese kragte op verskillende
+   voorwerpe bring ons terug by die feit dat ons nog nie 'n krag
+   gedefinieer het nie. Ons kan dit slegs met moeite omseil met behulp van
+   Newton se derde wet, wat bepaal dat as een voorwerp 'n krag op 'n
+   tweede voorwerp uitoefen, dit 'n gelyke en teenoorgestelde krag sal
+   ervaar. Om presies te wees, veronderstel dat ons twee voorwerpe A en B
+   het met konstante traagheidsmassas m[A] en m[B]. Ons isoleer die twee
+   voorwerpe van alle ander fisiese invloede, sodat die enigste kragte
+   teenwoordig die kragte is wat op A deur B uitgeoefen word, wat ons kan
+   voorstel as F[AB] en die krag wat op B deur A uitgeoefen word stel ons
+   voor as F[BA]. Soos ons gesien het bepaal Newton se wet
+
+          F_{AB} = m_A a_A \, and F_{BA} = m_B a_B \,
+
+   waar a[A] en a[B] die versnellings van A en B respektiewelik is.
+   Veronderstel dat hierdie versnellings nie nul is nie, sodat die kragte
+   tussen die voorwerpe ook nie nul is nie. Dit vind plaas byvoorbeeld
+   wanneer twee voorwerpe in die proses van 'n botsing met mekaar verkeer.
+   Newton se derde wet bepaal dan dat
+
+          F_{AB} = - F_{BA} \,
+
+   Deur bogenoemde in die vorige vergelykings te vervang kry ons
+
+          m_A = - \frac{a_B}{a_A} \, m_B
+
+   Neem kennis dat ons vereiste dat a[A] nie nul is nie verseker dat die
+   verhouding goed gedefinieer is.
+
+   Dit is in beginsel dus hoe ons die traagheidsmassa van 'n voorwerp sal
+   meet. Ons kies 'n verwysingsvoorwerp en definieer sy massa m[B] as (sê)
+   1 kilogram. Dan kan ons die massa van enige ander voorwerp in die
+   heelal meet deur dit met die verwysingsvoorwerp te laat bots en die
+   versnellings te meet.
+
+[wysig] Swaartekragmassa
+
+   Die beginsel van swaartekragmassa berus op Newton se swaartekragwet.
+   Kom ons veronderstel dat ons twee voorwerpe A en B het wat 'n afstand
+   |r[AB]| van mekaar af is. Die wet van swaartekrag bepaal dat as A en B
+   swaartekragmassas M[A] en M[B] respektiewelik het, dat elke voorwerp 'n
+   swaartekrag op mekaar uitoefen met grootte
+
+          |F| = {G M_A M_B \over |r_{AB}|^2}
+
+   waar G die universele swaartekragkonstante is. Die bogenoemde stelling
+   kan geherformuleer word op die volgende manier: as g die versnelling
+   van 'n verwysingsmassa by 'n gegewe ligging in 'n swaartekragveld is,
+   dan is die swaartekrag op 'n voorwerp met swaartekragmassa M
+
+          F = Mg \,
+
+   Dit is die basis waarop massas bepaal word deur hulle te weeg. Op 'n
+   eenvoudige badkamerskaal is die krag F byvoorbeeld gelyk aan die
+   verplasing van die veer onder die weegpan (sien Hooke se wet) en die
+   skale word gekalibreer om g in ag te neem wat 'n mens toelaat om die
+   massa M te lees.
+
+[wysig] Gelykheid van traagheids- en swaartekragmassas
+
+   Die gelykheid van traagheids- en swaartekragmassas word somtyds na
+   verwys as die Galilese gelykwaardigheidsbeginsel of swak
+   gelykwaardigheidsbeginsel. Die belangrikste gevolg van hierdie
+   gelykwaardigheidsbeginsel het betrekking op vry vallende voorwerpe.
+   Veronderstel dat ons 'n voorwerp het met traagheids- en
+   swaartekragmassas van m en M respektiewelik. As die enigste krag wat op
+   die voorwerp uitgeoefen word vanaf die swaartekragveld g kom, dan vind
+   ons dat deur Newton se tweede wet en die swaartekragwet te kombineer
+   ons die volgende versnelling kry
+
+          a = \frac{M}{m} g
+
+   Dit impliseer dat die verhouding van die swaartekragmassa tot
+   traagheidsmassa van enige voorwerp gelyk is aan 'n konstant, sê K
+   is,slegs en slegs as alle voorwerpe teen dieselfde tempo val in 'n
+   gegewe swaartekragveld. Hierdie verskynsel word na verwys as universele
+   vryval. (As ons die eenhede korrek kies, kan die konstante K as gelyk
+   aan 1 gedefinieer word.)
+
+   Die eerste eksperimente om universele vryval te demonstreer is deur
+   Galileo uitgevoer. Dit word algemeen beweer dat Galileo sy resultate
+   verkry het deur voorwerpe vanuit die Leunende Toring van Pisa te laat
+   val, maar dit is waarskynlik nie waar nie; hy het in werklikheid sy
+   eksperimente uitgevoer deur balle teen 'n skuinsvlakke te laat afrol.
+   Toenemende presisie eksperimente is uitgevoer, soos die wat deur Roland
+   Eötvös uitgevoer is deur van die wringskaal slinger gebruik te maak in
+   1889. Tot op hede is geen afwyking van die universele aard gevind nie.
+   Meer presiese eksperimentele pogings word steeds uitgevoer.
+
+   Daar moet kennis geneem word dat die universele vryval beginsel slegs
+   van toepassing is op stelsels waar swaartekrag die enigste krag is wat
+   uitgeoefen word. Alle ander kragte, veral wrywing en lugweerstand moet
+   afwesig wees of ten minste nalaatbaar wees. As 'n hamer en 'n veer
+   byvoorbeeld vanaf dieselfde hoogte laat val word, weet ons almal dat
+   die veer baie langer gaan neem om die grond te bereik. Dit gebeur omdat
+   die veer nie werklik vryval nie: die krag van die lugweerstand is
+   omtrent net so groot soos die swaartekrag. Aan die ander kant as die
+   eksperiment in 'n vakuum uitgevoer word waar daar geen lugweerstand is
+   nie, sal die hamer en veer teen dieselfde tempo val en die grond op
+   dieselfde tyd bereik. Hierdie demonstrasie is in 1971 uitgevoer met die
+   Apollo 15 maanwandeling deur Kommandeur David Scott.
+
+   'n Sterker weergawe van die gelykwaardigheidsbeginsel, wat bekend staan
+   as die Einstein gelykwaardigheidsbeginsel of die sterk
+   gelykwaardigheidsbeginsel, lê aan die kern van die algemene
+   relatiwiteitsteorie. Einstein se gelykwaardigheidsbeginsel beweer dat
+   dit onmoontlik is om tussen reëlmatige versnelling en 'n reëlmatige
+   swaartekragveld te onderskei. Die teorie postuleer dus dat traagheids-
+   en swaartekragmassas fundamenteel dieselfde ding is. Al die
+   voorspellings van algemene relatiwiteit, soos die buiging van
+   ruimtetyd, is uiteindelik vanuit hierdie beginsel afgelei.
+
+[wysig] Relatiwistiese verhouding tussen massa, energie en momentum
+
+   Die klassieke beginsel van massa wat in die voorafgaande afdelings
+   ontwikkel is moet verander word as ons spesiale relatiwiteit in ag wil
+   neem. Dit is bekend dat spesiale relatiwiteit 'n meer akkurate
+   beskrywing van die natuur as klassieke meganika lewer. Dit slaag
+   spesifiek waar klassieke meganika sleg misluk om voorwerpe te beskryf
+   wat na aan die spoed van lig beweeg.
+
+   In relatiwistiese meganika word die verhouding van die massa (m) van 'n
+   vrye partiekel en sy energie (E) en momentum (p) gedefinieer deur die
+   vergelyking
+
+          \frac{E^2}{c^2} = m^2 c^2 + p^2 .
+
+   Waar c die spoed van lig is. Daar word soms na hierdie vergelyking as
+   die massa-energie-momentum vergelyking verwys.
+
+   Die eerste ding wat 'n mens opmerk oor die vergelyking is dat dit
+   geldig is vir voorwerpe met geen massa (m=0) nie, in welke geval dit
+   vereenvoudig na die vorm
+
+          E = pc \,
+
+   In klassieke meganika is massalose voorwerpe 'n swak gedefinieerde
+   beginsel aangesien die uitoefening van 'n krag op so 'n voorwerp
+   volgens Newton se tweede wet, 'n oneindig groot versnelling sal
+   meebring – wat 'n nikseggende resultaat is. In relatiwistiese meganika
+   is hulle voorwerpe wat altyd teen die spoed van lig beweeg; 'n
+   voorbeeld waarvan lig self een is in die vorm van fotone. Bostaande
+   vergelyking stel dat energie wat deur 'n massalose voorwerp gedra word
+   direk eweredig is aan sy momentum.
+
+   Kom ons beskou nou voorwerpe met massas groter as nul. Vir hierdie het
+   die hoeveelheid m 'n eenvoudige fisiese betekenis: dit is die
+   traagheidsmassa van die voorwerp soos gemeet in sy rustoestand, die
+   verwysingsraamwerk waarin sy snelheid nul is. (Nota: massalose
+   voorwerpe het nie 'n rustoestand nie; hulle beweeg teen die spoed van
+   lig in enige verwysingsraamwerk.) Die wyse waarop ons m sou meet is
+   presies dieselfde as in klassieke meganika, wat hierbo beskryf is
+   naamlik om dit te laat bots met 'n verwysingsvoorwerp en sy versnelling
+   te meet. Solank as wat die snelheid van elke voorwerp kleiner bly as
+   die spoed van lig tydens die prosedure sal relatiwistiese regstellings
+   tot klassieke meganika uiters klein wees.
+
+   In die rustoestand is die snelheid nul en dus is die momentum p ook
+   nul. Die massa-energie-momentum vergelyking vereenvoudig dus na
+
+          E = mc^2 \,
+
+   wat bepaal dat die energie van 'n voorwerp soos gemeet in sy
+   rustoestand of sy rusenergie – gelyk is aan sy massa maal die kwadraat
+   van die spoed van lig.
+
+   Baie boeke maak dan die gevolgtrekking dat massa en energie
+   gelykwaardig is, maar dit is uiters misleidend. Die massa van 'n
+   voorwerp, soos ons dit gedefinieer het, is 'n intrinsieke grootheid van
+   die voorwerp en onafhanklik van ons huidige verwysingsraamwerk. Die
+   energie E aan die ander kant, varieer afhangende van die
+   verwysingsraamwerk; as die raamwerk beweeg teen 'n hoë snelheid
+   relatief tot die voorwerp sal E baie groot wees, eenvoudig omdat die
+   voorwerp se kinetiese energie in daardie raamwerk hoog is. Dus is
+   E=mc^2 nie 'n goeie relatiwistiese stelling nie; dit is slegs waar in
+   die rustoestand in die raamwerk van die voorwerp.
+
+   'n Ander komplikasie is dat vroeë skrywes oor relatiwiteit 'n
+   verskillende definisie van massa gebruik het, naamlik relatiwistiese
+   massa, wat basies die grootheid E/c^2 is. Met hierdie definisie, is die
+   gelykwaardigheid van massa en energie waar volgens die definisie en is
+   nie een van die groothede onafhanklik van die verwysingsraamwerk nie!
+   Deesdae word die gebruik van die begrip, relatiwistiese massa, deur
+   fisici ontmoedig. Die redes daarvoor word in die artikel relatiwistiese
+   massa verduidelik. Volgens die moderne gebruik waar ons na die massa
+   van 'n voorwerp verwys in hierdie artikel, bedoel ons altyd die
+   rusmassa.
+
+   Noudat ons die massa van 'n voorwerp gedefinieer het, kom ons kyk na
+   hoe dit hom gedra wanneer dit nie in rus verkeer nie. Ons kan die
+   massa-energie-momentum vergelyking op die volgende manier rangskik:
+
+          E = mc^2 \sqrt{1 + \left( {p \over mc} \right)^2}
+
+   Wanneer die momentum p baie kleiner is as mc, kan ons 'n Taylor
+   uitbreiding van die vierkantswortel doen, met die volgende resultaat
+
+          E = mc^2 + {p^2 \over 2m} + \cdots
+
+   Die leidende term wat die grootste is, is natuurlik die rusenergie. Die
+   voorwerp het altyd hierdie minimum hoeveelheid energie, ongeag van wat
+   sy momentum is. Die tweede term is die klassieke uitdrukking van die
+   kinetiese energie van die partiekel en die hoër orde terme is basies
+   die relatiwistiese regstellings vir die kinetiese energie.
+
+   Onder normale omstandighede is die rusenergie van 'n voorwerp nie
+   toeganklik nie, in die sin dat ons dit nie kan gebruik om meganiese
+   werk te verrig nie. Wanneer die voorwerp iets tref, kan dit werk doen
+   deur sy momentum en dus sy kinetiese energie oor te dra. Die rusenergie
+   is egter slegs afhangklik van die massa van die voorwerp, wat nie
+   tydens botsings verander nie, dus kan dit nie saam met die kinetiese
+   energie oorgedra word nie.
+
+   Aan die ander kant is dit moontlik om die rusenergie te tap deur
+   prosesse te gebruik wat die partiekels kloof of te herkombineer. Die
+   rede daarvoor is dat massa, soos ons dit gedefinieer het, nie behoue
+   bly tydens sodanige prosesse nie. Die eenvoudigste voorbeeld is die
+   proses van elektron-positron vernietiging, waardeur 'n elektron en 'n
+   positron beide 'n nie-nul massa besit, maar die fotone is massaloos.
+   Ander voorbeelde sluit in kernfusie en kernfissie. Metabolisme,
+   verbranding en ander eksotermiese chemiese prosesse skakel ook massa na
+   energie om, die massa verandering is egter nalaatbaar min.
+
+   Energie, anders as massa, bly altyd behoue in spesiale relatiwiteit,
+   dus is alles wat tydens hierdie reaksies gebeur, rofweg gesproke, die
+   gevolg van die rusenergie van die reagense wat omgeskakel word na
+   kinetiese energie van die produkte van die reaksie. Die feit dat die
+   rusenergie op hierdie manier vrygestel kan word is een van die
+   belangrikste voorspellings van spesiale relatiwiteit.
+
+[wysig] Verwysings
+
+     * R.V. Eötvös et al, Ann. Phys. (Leipzig) 68 11 (1922)
+
+[wysig] Sien ook
+
+     * Digtheid
+     * Higgs boson
+     * Ordegrootte (massa)
+     * Planck eenhede
+     * Volume
+     * Gewig
+
+[wysig] Eksterne skakels
+
+     * Usenet Physics FAQ
+          + Does mass change with velocity?
+          + Does light have mass?
+     * Mass & energy
+     * Photons, Clocks, Gravity and the Concept of Mass by L.B.Okun
+     * The Apollo 15 Hammer-Feather Drop
+
+   Kategorie: Meganika
+

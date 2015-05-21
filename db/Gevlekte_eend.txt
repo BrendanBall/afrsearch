@@ -1,0 +1,96 @@
+Gevlekte eend
+
+
+                    Gevlekte eend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. hottentota
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Anas hottentota
+   (Eyton, 1838)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die gevlekte eend is die kleinste van die swemeende. Sy natuurlike
+   leefgebied is Oos-Afrika suidelik van die Sahara, van Soedan en Etiopië
+   omlaag na Suid-Afrika en Namibië. Ook op Madagaskar kom die voël voor.
+   Hiernaas is die voël 'n populêre tamme voël en word wêreldwyd gehou.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Ander name
+        * 3 Sien ook
+             + 3.1 Bronnelys
+
+[wysig] Identifikasie
+
+   Die gevlekte eend lyk soortgelyk aan die rooibekeend met 'n donker mus,
+   maar is 'n heelwat kleiner spesie (sowat 35 cm), en het 'n blou snawel.
+   Dit het nie kolle aan die agterkant van die lyf soos die rooibekeend
+   nie. Dit het 'n dowwe kol op vanaf die nek tot op die wang teenoor de
+   rooibekeend se volledig roomkleurige wange.
+
+[wysig] Ander name
+
+     * Engelse naam: Hottentot Teal
+     * Wetenskaplike naam: Anas hottentota
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klassifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika
+     * Sasol Voëls van Suider-Afrika. Struik Uitgewers: Eerste uitgawe.
+       1993
+
+   Kategorie: Eendvoëls
+

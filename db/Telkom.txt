@@ -1,0 +1,224 @@
+Telkom
+
+
+   Die neutraliteit van hierdie artikel (of dele daarvan) word tans
+               betwis. Sien gerus die besprekingsbladsy.
+
+   Telkom (SA) Bpk. is die telekommunikasie maatskappy wat Suid-Afrika van
+   vaste lyn telefoon- en Internet dienste verskaf. Telkom is ‘n deels
+   geprivatiseer, alhoewel die Staat steeds 39% van maatskappy besit, en
+   is gelys op die Johannesburgse aandelebeurs (JSE), asook die New Yorkse
+   (NYSE) aandelebeurs.
+   Telkom SA Hoofkantoor, gesien vanaf Kerkplein, Pretoria (Rigting: NNW)
+   Telkom SA Hoofkantoor, gesien vanaf Kerkplein, Pretoria (Rigting: NNW)
+
+   Inhoud
+
+        * 1 Telkom mark posisie en eienaarskap
+        * 2 Infrastruktuur
+        * 3 Breëband Internet in Suid-Afrika
+        * 4 Kompetisie
+        * 5 Kritiek
+        * 6 ADSL pryse en dienste - Suid-Afrika en die res van die wêreld
+             + 6.1 Suid-Afrika:
+             + 6.2 Duitsland:
+        * 7 Nommer Formaat
+        * 8 Verwysings
+        * 9 Sien ook
+        * 10 Eksterne Skakels
+
+[wysig] Telkom mark posisie en eienaarskap
+
+   Telkom het 'n monopolie op beide internasionale verbindings van en na
+   Suid-Afrika op die SAT3 & SAFE ruggraatlyne, en vastelyn kommunikasie
+   oor publieke paaie.
+
+   Telkom is tussen 1997 en 2004 deur SBC Communications, ‘n maatskappy
+   wat in die Verenigde State van Amerika gebaseer is, bestuur. Intussen
+   het SBC hul belange in die maatskappy verkoop.
+
+[wysig] Infrastruktuur
+
+   By tye van ‘n 2002 beraming was daar na aan vyf miljoen vastelyn
+   konneksies in gebruik in Suid-Afrika, waarvan almal tans deur Telkom
+   besit en bestuur word. Volgens die Wêreld Feiteboek, is Suid-Afrika se
+   telekommunikasie netwerk die “bes ontwikkelde en mees moderne in
+   Afrika”. Die netwerk bestaan uit koper, mikrogolf, optiese vesel en
+   draadlose konneksies.
+
+   Die eerste gebruik van telekommunikasie in die Unie van Suid-Afrika was
+   ‘n enkele telegraaf lyn wat Kaapstad en Simonstad verbind
+   het^[verwysing benodig]. Nadat Bell Laboratoriums die telefoon
+   ontwikkel het, is die eerste ondersese kabels geïnstalleer. Eers is
+   Durban verbind met Europa, en kort daarna, die res van die wêreld. Die
+   netwerk het op ‘n organies wyse uitgebrei in ‘n swaar gereguleerde
+   mark, soos wat tegnologie internasionaal beskikbaar geword het. Ten tye
+   van hierdie ontwikkelings was Telkom en die Suid-Afrikaanse Poskantoor
+   steeds dieselfde maatskappy.
+
+   In die 1960’s was Telkom reeds gekoppel aan 72 ander lande, met
+   jaarlikse uitgaande internasionale oproepe wat 28,800 oortref het.
+
+   Die roetering en betalings sisteme was teen die middel 1980’s amper
+   volledig digitaal, wat die pad geleë het vir vandag se ATM, SONET, ISDN
+   en ander tegnologieë. Telkom SA, Ltd. is gestig op die 1ste Oktober
+   1991.
+
+[wysig] Breëband Internet in Suid-Afrika
+
+   Alhoewel Telkom ADSL dienste aan inskrywers aanbied in binnestedelike
+   areas en woonbuurte in Pretoria, Johannesburg, Kaapstad en Durban is
+   breëband penetrasie ver agter die in soortgelyke ekonomië. Uitrol van
+   die dienste duur voort, en penetrasie in plattelandse areas en
+   laer-inkomste huishoudings verhoog jaarliks effens. As gevolg van
+   Telkom se bevooregte posisie as monopolie is dit tans die grootste
+   verskaffer van breëband Internet dienste in Suid-Afrika. Teen die einde
+   van 2005 was die totale aantal inskryweres 'n skamele 120 000 of minder
+   as 1% van die Suid-Afrikaanse bevolking.
+
+   Telkom se ADSL koste is die duurste ter wêreld[1], met pryse wat in
+   sommige gevalle tot 1000 keer van die in ander lande is[2]. Die koste
+   van ADSL dienste word verdeel in ‘n lyn huur fooi, ‘n konneksie fooi en
+   ‘n Internetdiensverskaffers fooi. Telkom het ‘n totale monopolie op die
+   eerste twee dienste, maar Internetdiensverskaffers kan die derde
+   saamstel soos dit hulle pas. ‘n Installasie fooi is ook betaalbaar
+   alvorens die diens kan gebruik word. Die verskillende snelheid Internet
+   konneksies (elk onderworpe aan ‘n ander konneksie fooi) tans beskikbaar
+   is 192/64, 384/128, 512/256 en 1024/256 kilobisse per sekonde bandwydte
+   vir aflaai/oplaai onderskeidelik. Totale verbruik word in ‘n kalender
+   maand beperk, afhangende van die Internetdiensverskaffer pakket wat
+   gekies word. Telkom se standaard pakket beperk mens tot drie gigagrepe
+   in ‘n kalender maand, met poort prioritisering en bandwydte
+   fatsoenering. Pakkette wat tot dertig gigagrepe beskikbaar stel kan
+   verkry word van ander diensverskaffers. Die gemiddelde ADSL inskrywer
+   in Suid-Afrika betaal ongeveer R670 per maand vir toegang, die
+   jaarlikse som waarvan ongeveer 11.8% van die Bruto Binnelandse Produk
+   (BBP) per capita uitmaak.
+
+[wysig] Kompetisie
+
+   Onlangse wetsontwerpe wat deur die Suid-Afrikaanse regering goedgekeur
+   is, het baie van die beperkings op maatskappye wat
+   telekommunikasiedienste in die Republiek wil verskaf, gelig.
+   Mededingers met die landlyn monopolie het gefloreer, met veral
+   draadlose breëband verskaffers wat groter geografiese penetrasie as
+   Telkom kan bereik weens die tegnologie wat hulle gebruik. Voorbeelde
+   van sulke verskaffers sluit in Sentech en iBurst.
+
+   Die drie selfoon netwerke in Suid-Afrika, gelys in volgorde van
+   hoeveelheid inskrywers, is Vodacom (waarin beide Telkom en die
+   Verenigde Koninkryk se Vodafone belange besit), MTN en Cell C. Daar is
+   ongeveer twee maal soveel selfoon inskrywers as vastelyn gebruikers in
+   Suid-Afrika, en aangesien hierdie maatskappye hul oproepe oor hul eie
+   netwerke roeteer, het hul ‘n groot deel van Telkom se besigheid
+   afgeneem.
+
+   Nog ‘n belowende tegnologie is Stem-oor-Internet Protokol (SoIP), wat
+   moontlik die hoeveelheid oproepe oor publieke telefoon netwerke in die
+   nabye toekoms kan voorhoog. verskaffers van SoIP se tariewe vir
+   internasionale oproepe is reeds veel goedkoper as die van Telkom.
+   Terwyl ‘n Telkom oproep na die VSA mens byvoorbeeld ongeveer R1.40 per
+   minuut sou uit die sak jaag, kan dieselfde koste deur Skype mens so man
+   as R0.14, of ‘n tiende van die koste, uitwerk.
+
+   Kompetisie op die breëband arena word erg gestrem weens die feit dat
+   Telkom al die internasionale lyne, waardeur die oorgrote meerderheid
+   van Suid-Afrika se bandwydte en telefoon oproepe geroeteer word, besit
+   en die feit dat dit steeds 'n monoplie op vastelandlyne het. Terwyl die
+   regering stappe probeer neem om die mark te probeer liberaliseer, is
+   wetgewing wat telekommunikasie aanbetref steeds baie inperkend
+   invergelyking met die VSA en ander ontwikkelde lande.
+
+   ‘n Voorbeeld van die inperkende wetgewing is die sogenaamde
+   “Convergence Bill”, wat geskryf is juis met die doel om vooruitgang in
+   tegnologieë soos die bogenoemde te beheer.
+
+[wysig] Kritiek
+
+   Telkom het onlangs swaar onder vuur gekom van die Onafhanklike
+   Kommunikasie Owerheid van Suid-Afrika (OKOSA), wat die maatskappy
+   daarvan beskuldig dat hy te veel vra vir die gebruik van sy ADSL
+   dienste. Die wins van R7 517 biljoen wat die maastkappy in 2005
+   verklaar het word ook as uiters omstrede beskou gegewe die
+   monopolistiese raamwerk waarin die maatskappy optree en die swak
+   prestasie in terme van telefoon penetrasie en hoë pryse van telefonie
+   in Suid-Afrika.
+
+   Die voortgesette monopolie van die maatskappy en die regering se groot
+   aandeel in hom, word ook nie gesien as iets wat in die beste belang van
+   die publiek is nie. Oproep kostes word as te hoog beskou, en die
+   reguleerder OKOSA word as tandloos gesien. Telkom het ‘n monopolie op
+   alle internasionale oproepe wat gemaak word in Suid-Afrika (uitsluitend
+   SoIP), en op alle verkeer op die SAT3 vesel kabel wat meeste van
+   Suid-Afrika se bandwydte verskaf. Besluiteloosheid oor die toekenning
+   van ‘n lisensie vir die tweede nasionale vastelynoperateur het ook
+   hewige kritiek ontlok.
+
+[wysig] ADSL pryse en dienste - Suid-Afrika en die res van die wêreld
+
+[wysig] Suid-Afrika:
+
+     * 384 kbps ADSL lyn: R 152 per maand
+     * 512 kbps ADSL lyn: R 326 per maand
+     * 1024 kbps ADSL lyn: R 413 per maand
+
+   Vinnigste spoed beskikbaar: 1 Mbps (1024 kbps) - Toetsfase tot 4 Mbps
+   (4096 kbps).
+   Addisioneel tot die maandelikse ADSL-lyn huurgeld kom nog die eintlike
+   ADSL-diensfooie van minstens R 70 per maand (per 1 GB oplaai/aflaai
+   bandbreedte).
+
+[wysig] Duitsland:
+
+   (Wisselkoers: 1 Euro = R 11.50)
+     * 2000 kbps ADSL lyn + Flat Rate (geen bandbreedte volume limiet): 15
+       Euro (±R 173)
+     * 16000 kbps ADSL lyn + Flat Rate (geen bandbreedte volume limiet):
+       30 Euro (±R 345) - Alice Fun met dubbel Flat Rate (ADSL + telefoon)
+       (Geen op/aflaai limiet en gratis telefoonoproepe na Duitse
+       landlyne.)
+
+   Vinnigste VDSL-spoed beskikbaar: 50 Mbps (51 392 kbps, T-Home
+   Entertainment Comfort VDSL, 75 Euro)^[1].
+
+[wysig] Nommer Formaat
+
+   +27 11 555 0112 (vanaf die buiteland), 011 555 0112 (plaaslik)
+
+   +27 - Land kode, 11 - Area Kode, 5550112 – 7 Syfer Telefoonnommer
+
+   Die land se nommer plan word deur OKOSA bestuur.
+
+   Area kodes wat met 1-5 begin word vir geografiese areas gehou
+   (byvoorbeeld 11 vir Johannesburg of 12 vir Pretoria) terwyl area kodes
+   vanaf 7-8 vir nie-geografiese areas beskikbaar gestel is, byvoorbeeld
+   selfoon nommers (71, 72, 73, 74, 76, 78, 82, 83, 84) en tolvrye nommers
+   (80).
+
+   In die middel van die 1980's was die nommer 81 vir motortelefone
+   (Engels: motorphone) opsy gesit. Die telefone was vas geïnstalleer in
+   'n voertuig en daar was ook draagbare eenhede - omtrent so groot en
+   swaar as drie bakstene.
+
+[wysig] Verwysings
+
+    1. ^ www.dsl-up.de: DSL-Nuus
+
+[wysig] Sien ook
+
+     * MyADSL
+     * Hellkom
+
+[wysig] Eksterne Skakels
+
+     * Telkom se amplelike Webwerf
+     * Maatskappy geskiedenis
+     * Hellkom
+     * hellopeter.com - Verbruikers webwerf om firmas en hulle goeie en
+       swak dienste bekend te stel (en ander verbruikers te kan waarsku)
+       ...
+     * Anti-Telkom aktiviste groep
+
+   Kategorieë: NPOV verskille • Artikels met stellings wat verwysings
+   ontbreek • Besighede in Suid-Afrika • Telekommunikasie
+

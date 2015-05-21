@@ -1,0 +1,98 @@
+Vloeikristalskerm
+
+
+   Die sliert-tekstuur van 'n vloeikristal se nematiese fase
+   Die sliert-tekstuur van 'n vloeikristal se nematiese fase
+   Die vloeikristalskerm van 'n digitale kamera
+   Die vloeikristalskerm van 'n digitale kamera
+
+   Die terme vloeikristalskerm of vloeikristalvertooneenheid (Engels:
+   liquid crystal display, LCD) verwys na skerms en vertooneenhede, wat
+   gebruik maak van spesiale vloeikristalle - organiese stowwe, wat onder
+   die invloed van elektriese spanning die rigting van die lig se
+   polarisasie kan beïnvloed. Vloeikristalskerms is geskik om letters,
+   syfers, simbole en beelde te vertoon.
+
+   Die skerms en vertooneenhede beskik oor pixels, tekensegmente of
+   simbole, waarin die vloeikristalle se oriëntasie deur middel van 'n
+   elektriese veld bestuur kan word. Danksy polarisasiefilters kan die
+   oriëntasie sigbaar gemaak word. Hierdie tegnologie word in
+   meetapparate, elektroniese toestelle, selfone, digitale horlosies,
+   sakrekenaars en gevorderde plat televisieskerms toegepas.
+
+   TFT (thin film transistor)-skerms, wat uit vloeikristalskerms ontwikkel
+   is, bevat 'n aktiewe matriks van dunlaagtransistors en is tans die
+   oorheersende tegnologie op die mark van plat skerms. Naas skerms word
+   ook talle videoprojektors met vloeikristal-modules toegerus.
+
+[wysig] Geskiedenis
+
+   Vloeikristalle is reeds in 1888 deur die Oostenrykse botanikus
+   Fredreich Rheinizer ontdek. Terwyl hy die smeltproses van sekere
+   organiese materiale in verband met cholesterol ondersoek het, het hy
+   opgemerk dat die materiale twee verskillende fases deurloop. Die
+   materiale het eers na 'n wolkerige vloeistof begin verander toe hulle
+   teen 145,5 °C verhit is, en daarna - teen 178,5 °C - na 'n helder,
+   deurskynende vloeistof. Hierdie waarnemings was die beginpunt in die
+   ontdekking van vloeikristalle.
+
+   Toe die Duitse natuurkundige Otto Lehmann (1855-1922) van hierdie
+   ontdekking gehoor het, het hy begin om self navorsing oor die materiaal
+   te doen en 'n aantal eksperimente deurgevoer. Uiteindelik het hy
+   opgemerk dat die vloeistof se struktuur duidelik van dié van ander
+   vloeistowwe verskil en dit vanweë sy kristalagtige voorkoms
+   "vloeikristal" genoem. Sy wetenskaplike hoofwerk "Vloeibare kristalle"
+   het in 1904 verskyn. Die struktuur en eienskappe is in 1911 deur
+   Charles Mauguin beskryf.
+
+   In 1936 is 'n patent vir die eerste praktiese toepassing van
+   vloeikristalle, die vloeikristal-ventiel aan die Amerikaanse Marconi
+   Wireless Telegraph Company toegestaan.
+
+   Die eerste beduidende Engelstalige publikasie oor die "Molekulêre
+   struktuur en die eienskappe van vloeikristalle" (Molecular Structure
+   and Properties of Liquid Crystals) is in 1962 deur Dr. George W. Gray
+   gepubliseer. In die laat sestigerjare het die Britse Radar Research
+   Establishment in Malvern (Worcestershire) pionierswerk op die gebied
+   van vloeikristalle gedoen. Hierdie span van navorsers het die
+   gevorderde navorsing van George W. Gray en sy span aan die Universiteit
+   van Hull in Kingston upon Hull (Engeland) ondersteun, en Gray het
+   uiteindelik die cyanobifeniel-vloeikristal ontdek, wat aan alle
+   vereistes ten opsigte van stabiliteit en temperatuurgedrag in
+   vertooneenhede voldoen het.
+
+   Die eerste funksionerende vloeikristalskerm het op die dinamiese
+   strooimodus (DSM, dynamic scattering mode) gebaseer en is deur 'n span
+   navorsers onder die leiding van George H. Heilmeier by die Amerikaanse
+   maatskappy Radio Corporation of America (RCA) bekend gestel. Heilmeier
+   het sy eie onderneming (Optel) gestig wat 'n aantal
+   DSM-vloeikristalskerms ontwikkel het.
+
+   Die eerste Switserse patent oor die "nematiese draaisel" (ook bekend as
+   TN- of Schadt-Helfrich-sel) is in Desember 1970 aan die navorsers
+   Martin Schadt en Wolfgang Helfrich toegeken, wat destyds by die
+   maatskappy Hoffmann-LaRoche se Central Research Laboratory werksaam
+   was.
+
+   In Februarie 1971 is 'n Amerikaanse patent oor die gedraaide nematiese
+   veldeffek (twisted nematic field effect) in vloeikristalle aan James
+   Fergason van die Kent State-universiteit toegeken. Sy onderneming
+   ILIXCO (tans LXD Inc.) het in dieselfde jaar die eerste
+   vloeikristalskerms met hierdie tegnologie vervaardig, wat die swakker
+   presterende DSM-tipes vinnig vervang het.
+
+[wysig] 'n Chronologiese oorsig oor vloeikristaltegnologieë en hulle
+toepassing
+
+   Jaar    Vloeikristaltegnologie                  Toepassing
+   1973    Segmentvertooneenheid            Elektroniese sakrekenaars
+   1975   Statiese vertooneenheid            Spelletjies, horlosies
+   1983   Grafiese vertooneenheid                Woordverwerkers
+   1987      TFT-TN-kleurskerm      Skootrekenaars, PDA's, digitale kamera's,
+                                    draagbare TV's, motornavigasiestelsels
+   1997 Reflektiewe / transflektiewe
+        vertooneenheid                      Kleurselfone, spelletjies
+   2004   Nuwemodus-vertooneenheid    Vloeikristalskerms, groot plat skerms
+    Bron:Special Report. Information Intelligence by Cleverdis, Maart 2007
+   Kategorieë: Tegnologie • Elektroniese verbruikersware
+

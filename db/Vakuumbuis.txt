@@ -1,0 +1,38 @@
+Vakuumbuis
+
+
+   Struktuur van 'n diode vakuumbuis
+   Struktuur van 'n diode vakuumbuis
+   Struktuur van 'n triode vakuumbuis
+   Struktuur van 'n triode vakuumbuis
+   'n Ou NEC vakuumbuis
+   'n Ou NEC vakuumbuis
+
+   'n Vakuumbuis is 'n toestel wat gebruik word om die beweging van
+   elektrone in 'n laëdruk area te beheer.
+
+   Inhoud
+
+        * 1 'n Kort geskiedenis van elektronika
+        * 2 Diode
+        * 3 Triode
+        * 4 Tetrode
+        * 5 Pentode
+        * 6 Mikrogolf buise
+
+[wysig] 'n Kort geskiedenis van elektronika
+
+[wysig] Diode
+
+[wysig] Triode
+
+[wysig] Tetrode
+
+[wysig] Pentode
+
+[wysig] Mikrogolf buise
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Elektroniese komponente
+

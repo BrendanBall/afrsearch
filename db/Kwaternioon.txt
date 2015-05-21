@@ -1,0 +1,112 @@
+Kwaternioon
+
+
+   'n Kwaternioon is 'n hiperkomplekse getal wat bestaan uit vier dele.
+   Dit is 'n uitbreiding van komplekse getalle sonder die eienskap van
+   kommutatiwiteit. Hulle is eerste beskryf in 1843 deur Sir William Rowan
+   Hamilton en toegepas in drie-dimensionele meganika. Aanvanklik is
+   kwaternione gesien as problematies aangesien dit nie voldoen het aan
+   die kommutatiewe wet nie, dit wil sê, ab \neq ba . Alhoewel hul gebruik
+   in meeste velde vervang is met vektore, word dit steeds gebruik in
+   teoretiese en toegepaste wiskunde, veral vir berekeninge wat rotasies
+   in drie-dimensionele ruimte bevat, soos byvoorbeeld in
+   drie-dimensionele rekenaargrafika.
+
+   Mens kan 'n kwaternioon beskou as 'n reële getal saam met drie
+   imaginêre getalle of as 'n paar van twee komplekse getalle. In die
+   eerste opvatting kan ons skryf:
+
+                q = a + b\mathbf{i} + c\mathbf{j} + d\mathbf{k}
+
+   Dit maak 'n kwaternioon 'n vier-dimensionale objek.
+
+   Die drie imaginêre eenhede i, j en k het 'n selfde kwadraat:
+   \mathbf{i}^2 = \mathbf{j}^2 = \mathbf{k}^2 = -1 .
+
+   Komplekse getalle kan beskou word as 'n spesiale geval van kwaternione
+   met twee van die konstante a,b of c gelyk nul. Die drie imaginêre
+   eenhede i, j en k word gereeld saamgevoeg in 'n vektor q, maar
+   kwaternione is ouer as vektore (die wiskunde van vektore is later
+   ontwikkel uit kwaternione) en die vektor q is 'n polêre, nie 'n aksiale
+   vektor nie.
+
+[wysig] Bewerkings
+
+   Die som of verskil van twee kwaternione is eenvoudig (en soortgelyk aan
+   vektore):
+
+          q_1 = a_1 + b_1\mathbf{i} + c_1\mathbf{j} + d_1\mathbf{k}
+          q_2 = a_2 + b_2\mathbf{i} + c_2\mathbf{j} + d_2\mathbf{k}
+          q_1 + q_2 = (a_1 + a_2) + (b_1 + b_2)\mathbf{i} + (c_1 +
+          c_2)\mathbf{j} + (d_1 + d_2)\mathbf{k}
+
+   Die volgende stel vergelykings is die fundamentele aspekte van
+   vermeningvuldigingsidentiteite vir kwaternione:
+
+          i^2 = j^2 = k^2 = i j k = -1 , \,\!
+
+   waar i, j, en k imaginêre getalle is. Die vermenigvuldiging van
+   basiskwaternione kan hieruit afgelei word:
+
+          \begin{matrix} ij & = & k, & & & & ji & = & -k, \\ jk & = & i, &
+          & & & kj & = & -i, \\ ki & = & j, & & & & ik & = & -j.
+          \end{matrix}
+
+   Byvoorbeeld, aangesien
+
+          - 1 = i j k, \,\!
+
+   deur altwee kante aan die regterkant met k te vermenigvuldig, gee
+
+          \begin{matrix} -k & = & i j k k, \\ & = & i j (-1), \\ k & = & i
+          j. \end{matrix} \,\!
+
+   Die gevolg is dat vermenigvuldiging nie kommuteer nie: q_1q_2 \neq
+   q_2q_1
+
+[wysig] Toepassing in rekenaargrafika
+
+   Kwaternione het lank baie onbekend gebly, maar is nou in gebruik in
+   programmatuur vir speletjies en vlugsimulasie. Draaiing in drie
+   dimensies kan gemaklik beskryf word met kwaternione sonder die probleem
+   wat Gimball lock genoem word. Dié probleem kan na vore kom as draaiing
+   beskryf word met Euler-hoeke en kan die programmatuur laat faal. As
+   mens met kwaternione 'n rotasie wil uitvoer moet eers die rotasie as
+   (hkl) ingevoer word in die vektordeel van 'n kwaternioon:
+
+          q_{rotasie} = 0 + h\mathbf{i} + k\mathbf{j} + l\mathbf{k}
+
+   Hierdie kwaternioon word genormaliseer deur te deel deur \sqrt{h^2 +
+   k^2 + l^2} .
+
+          q_{rotasie} = 0 + \mathbf{q} = 0 + \frac{h\mathbf{i} +
+          k\mathbf{j} + l\mathbf{k}}{\sqrt{h^2 + k^2 + l^2}}
+
+   Die rotasiehoek α word rond die as (hkl) ingevoer deur die sinus en
+   cosinus van die halwe hoek te neem en in te voeg in 'n uitdrukking wat
+   analoog is aan die Euler-uitdrukking vir komplekse getalle:
+
+          q_{rotasie^\alpha} = \cos \frac{\alpha}{2} + \sin
+          \frac{\alpha}{2}\mathbf{q}
+
+   Analoog aan komplekse getalle is daar 'n gekonjugeerde:
+
+          q^*_{rotasie^\alpha} = \cos \frac{\alpha}{2} - \sin
+          \frac{\alpha}{2}\mathbf{q}
+
+   'n Punt (xyz) in drie dimensies kan ook geskryf word as 'n ('suiwer')
+   kwaternioon:
+
+          q_{punt} = 0 = x\mathbf{i} + y\mathbf{j} + z\mathbf{k}
+
+   Die punt kan gedraai word deur die vermenigvuldiging:
+
+          q'_{punt} = q_{rotasie} \times q_{punt} \times q^*_{rotasie}
+
+   Die resultaat q'[punt] is 'n punt in drie en nie vier dimensies nie:
+   q'_{punt}= 0 + x'\mathbf{i} + y'\mathbf{j} + z\mathbf{k} en is ook 'n
+   suiwere kwaternioon met a=0 (of in 'n rekenaar 'n afrondingsgetal soos
+   10^-14). Mens kan die draaiing in drie dimensies sien as twee
+   spieëlinge wat die punt in en weer uit die vierde dimensie bring.
+   Kategorie: Komplekse getalle
+

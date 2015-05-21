@@ -1,0 +1,42 @@
+Free Pascal
+
+
+   Image:FPCLOGO.png   Free Pascal
+   Free Pascal soos gebruik van die bevellyn
+     __________________________________________________________________
+
+   Ontwikkelaar Florian Klämpfl & Vrywiligers
+   Mees onlangse weergawe {{{laaste_weergawe}}} /
+   {{{laaste_vrystellingsdatum}}}
+   Laaste betaweergawe {{{laaste_betaweergawe}}} /
+   {{{laaste_betavrystellingsdatum}}}
+   Bedryfstelsel Cross-platform
+   Kategorie Kompileerder
+   Lisensie GNU General Public License
+   Webtuiste www.freepascal.org
+   Die Free Pascal IDE vir Linux. Die rekenaar was opgestel om gebruik te
+   word in 2002 se Nasionale Olimpiade vir Informatika, China
+   Die Free Pascal IDE vir Linux. Die rekenaar was opgestel om gebruik te
+   word in 2002 se Nasionale Olimpiade vir Informatika, China
+
+   Free Pascal (of FPK Pascal of selfs FPC) is 'n gratis oopbron Pascal
+   kompileerder.
+
+[wysig] Inleiding
+
+   Free Pascal is 'n 32/64bit kompileerder wat verskillende argitekture
+   ondersteun. Die kompileerder is gebaseer op die Borland Pascal dialek,
+   Turbo Pascal en die Delphi programmerings taal.
+
+   Free Pascal was eers FPK Pascal genoem weens die voorletters van die
+   oorspronklike ontwikkelaar, Florian Paul Klämpfl. FPK Pascal het nooit
+   bekend gestaan as "Free Pascal Kompiler" nie. Om "Compiler" met 'n K te
+   skryf was ongewoon in Duitsland. So om verwarring te vermy was die naam
+   van die projek in 1997 verander na Free Pascal Compiler (FPC).
+
+[wysig] Verwysings
+
+   Hierdie artikel is aanvanklik saamgestel deur die Engelse weergawe van
+   Wikipedia te gebruik as 'n beginpunt.
+   Kategorieë: Rekenaar • Rekenaartale
+

@@ -1,0 +1,106 @@
+Nonnetjie-eend
+
+
+                    Nonnetjie-eend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Dendrocygna
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     D. viduata
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Dendrocygna viduata
+   (Linnaeus, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Nonnetjie-eend is 'n algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   43 - 48cm Hierdie spesie het 'n lang grys snawel, lang kop en langerige
+   bene. Hulle het 'n wit kop en kroon, met 'n swart agterkop. Die rug en
+   vlerke is donker bruin tot swart, en aan die onderkant swart hoewel die
+   flanke fyn wit lyne vertoon. Die nek kleur is bruin. Jong voëls se kop
+   en nek kleure is minder kontrasterend.
+
+[wysig] Habitat
+
+   Die habitat is varswater damme en reservoirs, met baie plante, waar die
+   eende sade en ander plant materiaal eet. Die eende spandeer baie tyd
+   buite die water.
+
+[wysig] Verspreiding
+
+   Die Nonnetjie-eend kom voor in die ooste van Suidelike-Afrika. Hulle
+   broei in Afrika suid van die Sahara sowel as Suid-Amerika.
+
+[wysig] Geluid
+
+   'n Drie-noot fluit waarvan die laaste twee note na aan mekaar is.
+
+[wysig] Ander name
+
+     * Engelse naam: White-faced (Whistling) Duck
+     * Wetenskaplike naam: Dendrocygna viduata
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

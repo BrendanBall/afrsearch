@@ -1,0 +1,92 @@
+Kelvin
+
+
+                          CAPTION: Kelvin temperatuur omskakelingsformules
+
+                      Omskakeling
+                              van               na                 Formule
+                           kelvin    grade Celsius         °C = K - 273,15
+                    grade Celsius           kelvin         K = °C + 273,15
+                           kelvin grade Fahrenheit   °F = K × 1,8 − 459,67
+                 grade Fahrenheit           kelvin K = (°F + 459,67) / 1,8
+                        Neem kennis dat vir temperatuurintervalle
+                                eerder as temperatuurlesings,
+                                1 K = 1 °C en 1 K = 1,8 °F
+                                Addisionele omskakelingsformules
+                               Omskakelingsprogram vir temperatuureenhede
+
+   Die kelvin (simbool: K) is die SI-eenheid van temperatuur en is een van
+   die sewe SI-basiseenhede. Dit word gedefinieer as 'n 1/273,16 fraksie
+   van die termodinamiese temperatuur van die trippelpunt van water. 'n
+   Temperatuur wat in kelvin sonder enige voorbehoud aangedui word, word
+   gemeet ten opsigte van absolute nul waar die molekulêre beweging ophou.
+   Dit is ook algemene praktyk om 'n temperatuur relatief tot 'n
+   verwysingstemperatuur van 273,15 K aan te dui, wat ongeveer ooreenstem
+   met die smeltpunt van water onder normale toestande; hierdie konvensie
+   is die Celsius-temperatuurskaal.
+
+   Die kelvin is vernoem na die Britse fisikus en ingenieur William
+   Thomson, wat later na hy tot die adelstand verhef is, as Lord Kelvin
+   bekend gestaan het.
+
+   Inhoud
+
+        * 1 Tipografiese konvensies
+        * 2 Omskakelingsfaktore
+             + 2.1 Kelvin en Celsius
+             + 2.2 Temperatuur en energie
+        * 3 Sien ook
+        * 4 Eksterne skakel
+
+[wysig] Tipografiese konvensies
+
+   Die woord kelvin as 'n SI-eenheid word met 'n kleinletter k geskryf
+   (tensy dit aan die begin van 'n sin voorkom), en word anders as
+   Fahrenheit of Celsius nooit voorafgegaan deur die woorde graad, grade
+   of die simbool ° nie. Die simbool vir kelvin is altyd die hoofletter K
+   en word nooit in skuinsskrif gedruk nie. Daar moet 'n spasie tussen die
+   nommer en die K kom soos met alle SI-eenhede.
+
+   Unicode sluit die "kelvin-teken" onder die kode U+212A in (in die
+   huidige skrif vertoon dit so: K teenoor die gewone alfabetletter: K).
+   Die kelvin-teken behoort bietjie langer te wees as die gewone K. Dit is
+   egter moontlik dat die karakter nie op alle rekenaars beskikbaar is
+   nie. Dit is dus beter om 'n gewone K tebruik ter wille van leesbaarheid
+   vir die grootste gehoor.
+
+[wysig] Omskakelingsfaktore
+
+[wysig] Kelvin en Celsius
+
+   Die Celsius temperatuurskaal word nou gedefinieer in terme van die
+   kelvin, met 0 °C wat ooreenstem met 273,15 kelvin.
+     * kelvin na grade Celsius
+
+                C = K − 273,15
+
+[wysig] Temperatuur en energie
+
+   Die energie wat deur partikels in 'n termodinamiese stelsel gedra word
+   is eweredig aan die absolute temperatuur, waar die
+   eweredigheidskonstante die Boltzmann konstante is. Dit is gevolglik
+   moontlik om die energie van partikels by 'n sekere temperatuur te
+   bereken of om andersom die temperatuur van partikels met 'n sekere
+   energie te bepaal.
+     * elektronvolt na kelvin
+
+          \mathrm{K} = \mathrm{eV} \times 11,\!605
+
+     * kelvin na elektronvolt
+
+          \mathrm{eV} = \frac{\mathrm{K}}{11,\!605}
+
+[wysig] Sien ook
+
+     * ITS-90 Internasionale Temperatuurskaal
+
+[wysig] Eksterne skakel
+
+     * BIPM brosjure oor die Kelvin
+
+   Kategorieë: SI basiseenhede • Temperatuur-eenhede
+

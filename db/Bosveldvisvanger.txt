@@ -1,0 +1,141 @@
+Bosveldvisvanger
+
+
+                   Bosveldvisvanger
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Halcyonidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Halcyon
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. senegalensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Halcyon senegalensis
+   (Linnaeus, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die bosveldvisvanger is 'n lid van die visvangergenus Halcyon wat in
+   Afrika voorkom. Bosveldvisvangers is uiters agressiewe verdedigers van
+   hul gebied en sal selfs mense aanval wat as 'n bedreiging voorkom.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Voortplanting
+        * 5 Voedsel
+        * 6 Geluid
+        * 7 Ander name
+        * 8 Sien ook
+        * 9 Bronne
+
+[wysig] Identifikasie
+
+   In vergelyking met die ander visvangervoëls is die bosveldvisvangers
+   van medium grootte en 20-23cm in lengte. Die volwassenes het 'n
+   helderblou rug, vlerkpaneel en stert. Hulle koppe, nekke en onderdele
+   is wit en hulle het swart skouers. Die vlug van die bosveldvisvangers
+   is vinnig en direk. Die groot snawel het 'n rooi bo-kaak en 'n swart
+   onderkaak en die bene is helderrooi. Sommige voëls het 'n gryserige
+   kop, wat verwarring met die manglietvisvanger veroorsaak.
+
+   Die gedeelte tussen die snawel en die oog is egter donker en skep 'n
+   donker streek deur die oog (die streep stop by die oog in die geval van
+   die manglietvisvanger). Die wit bors van die bosveldvisvanger is ook
+   anders as die gryser bors van die manglietvisvanger.
+
+   Daar is nie 'n verskil tussen die voorkoms van die mannetjies en wyfies
+   nie, maar die jonger voëls se kleure is nie so helder nie en hulle het
+   'n bruin snawel.
+
+[wysig] Habitat
+
+   Die bosveldvisvanger, soos sy naam aandui, is 'n algemende spesie in
+   die bosveld of ander bebosde en boomagtige gebiede, veral waar
+   Akasiabome voorkom. Alhoewel die voël 'n "visvanger" is, kom hy in
+   droeër habitatte voor en kan soms ver van water woon. Bosveldvisvangers
+   is alleenlopers, maar kan ook in klein groepe aangetref word.
+
+[wysig] Verspreiding
+
+   Bosveldvisvangers kom in die tropiese dele van Afrika voor: Suid van
+   die Sahara en Noord van Pretoria. Die voëls woon hoofsaaklik binne 8°
+   van die ewenaar, maar Noordelike en Suidelike bevolkings migreer wel na
+   die ewenaar tydens droë seisoene.
+
+[wysig] Voortplanting
+
+   Daar word tipies drie ronde, wit eiers gelê. Die nes word egter nie
+   self gebou nie, maar gate in bome (soos dié wat deur 'n houtkapper
+   gemaak word) word gebruik.
+
+[wysig] Voedsel
+
+   Die bosveldvisvanger jag van 'n oop tak af, of sal stil sit in
+   gedeeltelike skaduwee en na kos soek. Die prooi is meestal 'n wye
+   veskeidenheid insekte, maar ook spinnekoppe en ander geleedpotiges,
+   slange, visse en paddas.
+
+[wysig] Geluid
+
+   Die geluid van hierdie luidrugtige voël is 'n harde tril.
+
+[wysig] Ander name
+
+     * Engelse naam: Woodland Kingfisher
+     * Wetenskaplike naam: Halcyon senegalensis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronne
+
+     * Kingfishers, Bee-eaters and Rollers by Fry, Fry and Harris, ISBN
+       0-7136-8028-8
+
+   Kategorie: Voëls
+

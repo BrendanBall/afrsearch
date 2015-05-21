@@ -1,0 +1,65 @@
+Beweging
+
+
+   Beweging het verandering in posisie tot betrekking, soos in hierdie
+   perspektief waar Yongsanstasie snel verlaat word.
+   Beweging het verandering in posisie tot betrekking, soos in hierdie
+   perspektief waar Yongsanstasie snel verlaat word.
+
+   Beweging is die voortdurende verandering in die posisie van 'n
+   voorwerp. Die beweging van 'n voorwerp kan slegs waargeneem en gemeet
+   word indien daar 'n ander punt of liggaam is om na te verwys. Die
+   verwysingspunt waarvandaan 'n waarnemer die beweging van 'n voorwerp
+   sien, word dikwels die waarnemer se assekruis genoem. 'n
+   Werktuigkundige wat op 'n aanloopbaan staan, mag 'n vliegtuig in 'n
+   suidelike rigting sien vlieg. Die vlieënier van die vliegtuig sien die
+   werktuigkundige op die aanloopbaan in 'n noordelike rigting beweeg.
+   Elkeen, in sy eie assekruis, sien die beweging verskillend. 'n
+   Eenvoudige manier om vas te stel of 'n voorbeeld ten opsigte van 'n
+   ander voorwerp beweeg, is om die reguit lyn wat hulle verbind in
+   aanmerking te neem. Indien die reguit lyn tussen hulle in lengte of
+   rigting verander, beweeg die een voorwerp met betrekking tot die ander
+   een.
+
+   Inhoud
+
+        * 1 Spoed, snelheid en versnelling
+             + 1.1 Spoed
+             + 1.2 Snelheid
+        * 2 Kinematika
+
+[wysig] Spoed, snelheid en versnelling
+
+          Hoofartikels: spoed, snelheid, versnelling.
+
+   In die algemene spreektaal word die terme spoed en snelheid dikwels as
+   sinonieme gebruik, terwyl die wetenskaplike betekenisse in werklikheid
+   verskil. Ook versnelling het 'n baie meer presiese betekenis in die
+   wetenskap as wat in die algemene spreektal die geval is.
+
+[wysig] Spoed
+
+   Spoed is 'n aanduiding van hoe vinnig beweging plaasvind, dit wil sê
+   hoe ver 'n voorwerp in 'n bepaalde tyd beweeg. Die spoedmeter van 'n
+   motor meet byvoorbeeld hoe vinnig sy beweging plaasvind. Spoed is dus
+   die tempo waarteen afstand afgelê word. Die woord tempo impliseer dat
+   iets per tydeenheid, dit wil sê per uur of per sekonde, geskied. Die
+   spoedmeter gee egter geen aanduiding van die rigting waarin die
+   beweging plaasvind nie. Spoed is dus 'n skalaar.
+
+[wysig] Snelheid
+
+   Snelheid is die tempo van verandering van verplasing, omdat die afstand
+   wat in 'n gegewe rigting afgelê is die verplasing genoem word. Om die
+   posisie van 'n bewegende voorwerp na verloop van 'n gegewe tyd vas te
+   stel, moet sowel die spoed as die rigting van die beweging bekend wees.
+
+[wysig] Kinematika
+
+   Kinematika is die studie van beweging, en die fondament vir hierdie
+   studie is gelê deur die werk van die wetenskaplikes Galileo Galilei en
+   sir Isaac Newton.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Meganika
+

@@ -1,0 +1,65 @@
+Wetenskaplike notasie
+
+
+   Wetenskaplike notasie is ‘n drywende kommanotasie met grondtal 10. Dit
+   is ‘n manier om baie groot en klein getalle voor te stel as die aantal
+   heel magte van 10. Die getalle word weergegee in die vorm a\times10^b
+   waar die eksponent b ‘n heelgetal is en a enige reële getal is. Die
+   getal wat deur a verteenwoordig word, word die koëffisiënt genoem. Die
+   notasie maak dit maklik om twee getalle met dieselfde aantal syfers
+   voor die desimale punt met mekaar te vergelyk, aangesien die een met
+   die groter eksponent die groter getal is. In so ‘n geval word b die
+   getal se ordegrootte genoem. Wetenskaplike notasie is ‘n baie nuttig
+   hulpmiddel vir wetenskaplikes.
+
+   Positiewe eksponente verteenwoordig getalle groter as nul en negatiewe
+   eksponente verteenwoordig getalle kleiner as nul. Sodoende kan baie
+   groot getalle asook baie klein getalle maklik met die notasie
+   verteenwoordig word. ‘n Getal soos 123.456.789.012.345 word byvoorbeeld
+   weegegee as 1.23 × 10^14 en ‘n baie klein getal soos 0,000000000000345
+   kan geskryf word as 3.45 × 10^-13.
+
+   Die voordele van die wetenskaplike notasie is as volg:
+     * Baie groot of baie klein getalle kan by benadering met minder
+       syfers voorgestel word.
+     * Baie groot of baie klein getalle kan maklik met mekaar vergelyk
+       word deur bloot na die eksponent te kyk.
+     * Bewerkinge soos vermenigvuldiging, deel, optel en aftrek is
+       makliker om uit te voer.
+
+   Sakrekenaars en rekenaars gebruik dikwels wetenskaplike notasie maar
+   gebruik ‘n E om die 10 voor te stel, bv.1.234e-6. Let wel die e moet
+   nie verwar word met die wiskundige konstante, ‘’e’’ wat die grondtal
+   van die natuurlike logaritme is. Daar word dikwels na hierdie
+   skryfmetode verwys as eksponensiële notasie]].
+
+   Wanneer die eksponent ‘’b’’ beperk word tot veelvoude van 3 word dit
+   dikwels ingenieursnotasie genoem.
+
+[wysig] Voorbeelde
+
+     * ’n Elektron se massa is
+       0.00000000000000000000000000000091093826 kg. Dit word in
+       wetenskaplike notasie geskryf as 9.1093826×10^−31 kg.
+     * Die Aarde se massa is 5,973,600,000,000,000,000,000,000 kg. Dit
+       word in wetenskaplike notasie geskryf as 5.9736×10^24 kg.
+
+[wysig] Beduidende syfer
+
+   Wetenskaplike notasie is nuttig om die presiesheid waarmee ‘n
+   hoeveelheid gemeet word aan te dui. Deur slegs die beduidende syfers
+   (die syfers wat as betroubaar beskou kan word) in die koëffisiënt in te
+   sluit word die presiesheid implisiet weergegee. Enige fisiese grootheid
+   in wetenskaplike notasie word aanvaar as niks minder presies as die
+   aantal syfers wat aangehaal word nie. Wanneer presisie in metings
+   noodsaaklik is, moet meer gesofistikeerde uitdrukkings van meetfoute
+   gebruik word.
+
+[wysig] Eksterne skakels
+
+     * Wat is wetenskaplike notasie en hoe word dit gebruik?
+     * Alledaagse gebruike van Wetenskaplike Notasie
+     * ‘n Oefening in die omskakeling na en vanaf wetenskaplike notasie
+
+   Kategorieë: Wetenskap • Wiskunde
+

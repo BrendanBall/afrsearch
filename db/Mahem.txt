@@ -1,0 +1,144 @@
+Mahem
+
+
+                        Mahem
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gruiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gruidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Balearica
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. regulorum
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Balearica regulorum
+   Bennett, 1834
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die mahem is 'n redelik algemene standvoël. Hierdie spesie is die
+   enigste kraanvoëls wat in bome kan broei, want hulle kan met die
+   agterste toon om takke vasklou. Om hierdie rede, en 'n paar ander, word
+   geglo dat hierdie relatiewe klein Balearica kraanvoël die
+   verteenwoordigers is van hulle Gruidae voorouers.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+        * 8 Eksterne skakels
+
+[wysig] Identifikasie
+
+   Die mahem is 116 cm hoog en weeg 3,5 kg. Die lyf-vere is hoofsaaklik
+   grys. Die vlerke is ook oorwegend wit, maar bevat ook vere met 'n
+   verskeidenheid kleure.Die kop het 'n kroon van stywe goudkleurige vere.
+   Die wange is wit en dit het 'n helderrooi opblaasbare keelsak. Die bek
+   is relatief kort en die bene swart. Die geslagte lyk eenders, hoewel
+   sommige mannetjies effens groter as ander is. Jonges lyk bruiner en hul
+   kuiwe en lelle is swakker ontwikkel.
+
+   Die mahem se hofmakery in die broeiseisoen bestaan uit danse, spronge
+   en 'n gebuig, terwyl hy die rooi keelsak opblaas en 'n harde geroep
+   laat hoor. Dit maak ook 'n geluid wat baie verskil van die trompetter
+   van ander kraanvoëlspesies.
+
+[wysig] Habitat
+
+   Hou in swerms op grasveld, landerye en naby vleie en soortgelyke
+   gebiede in hoog-liggende streke asook langs die kus. Oornag op eilande
+   langs die kus, in riet-plate by riviermondings en in bome. Swerf rond
+   wanneer hulle nie nes maak nie. Soos alle kraanvoëls vreet hulle
+   insekte, reptiele en ander kleinerige diere.
+
+   Die nes bestaan uit 'n platform van gras en ander plantmateriaal in hoë
+   vleiland plantegroei. Die mahem lê 2 tot 5 eiers en albei geslagte maak
+   beurte om dit uit te broei. Die proses duur tussen 28 en 31 dae, en die
+   kleintjies verlaat die nes binne 56 tot 100 dae.
+
+   Hoewel die mahem steeds algemeen voorkom oor baie van sy gebiede, staar
+   dit bedreiging in die gesig, as gevolg van die uitwissing van sy
+   habitat deur die dreinering en oorbeweiding, asook gifbesoedeling.
+
+[wysig] Verspreiding
+
+   Die mahem kom voor in die droë savanna-streke in Afrika, suid van die
+   Sahara, hoewel hulle broei in ietwat natter habitats.
+
+   Daar is twee subspesies. Die Oos-Afrikaanse B. r. gibbericeps kom voor
+   in 'n gebied wat strek vanaf die oostelike Zair deur Uganda en Kenya na
+   die oostelike deel van Suid-Afrika. Dit het 'n groter kaal, rooi
+   gesigvel bokant die wit kol op die wang as die ander, B. r. regulorum ,
+   wat vanaf die suide van Angola tot in Suid-Afrika voorkom. Die mahem is
+   die nasionale voël van Uganda en word op die nasionale vlag uitgebeeld.
+
+[wysig] Geluid
+
+   Sy tweenoot-getrompetter klink soos "ma-hem", vandaar sy naam.
+
+[wysig] Ander name
+
+     * Engelse naam: "Grey-Crowned Crane"
+     * Wetenskaplike naam: Balearica regulorum
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+[wysig] Eksterne skakels
+
+     * International Crane Foundation Grey-crowned Crane page
+     * Saving Cranes website (ICF)
+     * Craneworld website
+
+   Kategorie: Kraanvoëls
+

@@ -1,0 +1,390 @@
+Ubuntu Linux
+
+
+   CAPTION: Ubuntu
+
+   Die Ubuntu Linux kenteken
+   Ubuntu 8.04 wat GNOME loop
+   Webwerf:                       www.ubuntu.com
+   Maatskappy/
+   ontwikkelaar:                  Canonical Ltd / Ubuntu Foundation
+   Bedryfstelsel-familie:         Linux
+   Bronkodemodel:                 Vrye en Oopbron Sagteware
+   Jongste stabiele uitgawe:      7.10 / 18 Oktober 2007
+   Platforms wat ondersteun word: i386, AMD64, Ultrasparc T1, PowerPC,
+                                  PlayStation 3, IA-64
+   Kerntipe:                      Monolitiese kernel
+   Verstek-gebruikerskoppelvlak:  GNOME Grafiese Gebruikerskoppelvlak
+   Lisensie:                      GPL en ander lisensies
+   Status:                        Tans aktief
+
+   Ubuntu, /ùbúntú/ (oe-boen-toe), is 'n hoofsaaklik tafelrekenaar
+   georiënteerde Linux verspreiding, gebaseer op Debian GNU/Linux. Dit
+   word geborg deur Canonical Ltd (wat deur Mark Shuttleworth besit word),
+   en die naam kom van die Suid-Afrikaanse konsep Ubuntu—rofweg,
+   "menslikheid teenoor andere". Dit verskil van Debian in die opsig dat
+   daar elke 6 maande 'n uitgawe is en dat ondersteuning vir ten minste 18
+   maande na die vrystelling van die uitgawe verskaf word^[1], en die
+   sterk klem wat op bruikbaarheid geplaas word.
+
+   Ubuntu uitgawe 6.06 LTS, met die kodenaam "Dapper Drake", is op 1 Junie
+   2006 vrygestel en sal vir 3 jaar op tafelrekenaars en 5 jaar op
+   bedieners ondersteun word, inplaas van die gewone 18 maande ^[2].
+   Ubuntu poog om slegs vrye sagteware te gebruik om 'n nuwerwetse dog
+   redelik stabiele bedryfstelsel vir die gemiddelde gebruiker te verskaf.
+   Ubuntu het 'n lewendige gebruiker- en steungemeenskap^[3]^[4].
+
+   Kubuntu en Xubuntu is amptelike subprojekte van die Ubuntu-projek om
+   die KDE en Xfce Werkskermomgewings onderskeidelik na die Ubuntu kern te
+   bring. Edubuntu is 'n amptelike subprojek wat "vir skool omgewings
+   ontwerp is, en wat ewe geskik behoort te wees vir kinders om tuis te
+   gebruik."
+
+   Inhoud
+
+        * 1 Geskiedenis en ontwikkelingsproses
+        * 2 Die verspredinding
+             + 2.1 Kenmerke
+             + 2.2 Pakket klassifikasie en ondersteuning
+             + 2.3 Beskikbaarheid van eiendom sagteware
+             + 2.4 Uitgawes
+             + 2.5 Ontwikkelings/Onstabiele Vertakking
+        * 3 Afgeleide projekte
+        * 4 Hoe is dit ontvang?
+        * 5 Verwysings
+             + 5.1 Aangehaalde verwysings en notas
+             + 5.2 Algemene verwysings
+             + 5.3 Verdere gedrukte leesstof
+        * 6 Eksterne skakels
+
+[wysig] Geskiedenis en ontwikkelingsproses
+
+   Ubuntu se eerste uitgawe is op 20 Oktober 2004 vrygestel as 'n tydelike
+   vertakking van die Debian Linux projek ^[5]. Dit is gedoen om 'n
+   uitgawe-elke-6-maande vrystellingsiklus te verskaf, wat 'n meer op
+   datum stelsel tot gevolg het. Ubuntu uitgawes sluit altyd die jongste
+   GNOME uitgawe in en dit word ongeveer 'n maand na GNOME vrygestel. In
+   teenstelling met vorige algemene gebruik vertakkings van Debian soos
+   MEPIS, Xandros, Linspire, Progeny, en Libranet, waarvan baie afhanklik
+   was van toekode byvoegings as deel van hulle besigheidsmodel, het
+   Ubuntu gebly by Debian se filosofie van die gebruik van Vrye sagteware
+   waar ook al moontlik.
+
+   Ubuntu pakkette is oor die algemeen gebaseer op pakkette van Debian se
+   onstabiele tak, en beide verspreidings gebruik Debian se deb-formaat en
+   APT/Synaptic om geïnstalleerde pakkette te bestuur. Ubuntu dra alle
+   veranderings direk en onmiddelik terug by tot Debian, eerder as om dit
+   slegs tydens vrystelling te doen^[5] (Debian en Ubuntu pakkette is
+   egter nie noodwendig 'binêr-aanpasbaar' met mekaar nie ^[6]). Baie
+   Ubuntu-ontwikkelaars is ook onderhouers van sleutel pakkette binne
+   Debian self. Ian Murdock, die stigter van Debian, het egter al kommer
+   uitgespreek dat oor nie-aanpasbaarhede tussen pakkette daarvan en die
+   van Debian en dat Ubuntu te ver van Debian Sarge divergeer het om
+   aanpasbaar te bly ^[7].
+
+   Ubuntu word tans deur Canonical Bpk. Bevonds. Op 8 Julie 2005 kondig
+   Mark Shuttleworth en Canonical Bpk die skep van die Ubuntu Stigting aan
+   en verskaf hy aanvanklike befondsing van $10 miljoen. Die doel van die
+   stigting is om ondersteuning en ontwikkeling van die projek vir alle
+   toekomstige uitgawes van Ubuntu te verseker maar teen 2006 is die
+   stigting steeds dormant. Mark Shuttleworth beskryf die stigting as 'n
+   noodfonds ingeval alles anders misluk.
+
+[wysig] Die verspredinding
+
+[wysig] Kenmerke
+
+   Ubuntu 5.04 wat Gnome 2.10, Firefox 1.0.7 en OpenOffice.org 1.1.3 loop
+   Ubuntu 5.04 wat Gnome 2.10, Firefox 1.0.7 en OpenOffice.org 1.1.3 loop
+   'n Skermkiekie van Ubuntu 6.06 LTS, wat die Dawn of Ubuntu muurpapier
+   vertoon, een van verskeie vooraf-geïnstalleerde keuses.
+   'n Skermkiekie van Ubuntu 6.06 LTS, wat die Dawn of Ubuntu muurpapier
+   vertoon, een van verskeie vooraf-geïnstalleerde keuses.
+
+   Ubuntu fokus op bruikbaarheid ^[8], insluitend wye gebruik van die
+   sudo-gereedskapstuk vir administratiewe take ^[9]^[10], en die Ubiquity
+   installeerder ^[11] (voorheen genaamd Espresso) wat in die LiveCD
+   weergawe van die "Dapper" uitgawe ingesluit is. Ubuntu lê verder klem
+   op toeganklikheid en internasionalisering om soveel as moontlik mense
+   te bereik. Van 5.04 af is UTF-8 die verstek karakter-enkodering. Die
+   Ubuntu tuisblad stel dat dit aan gebruikers in hulle moedertale verskaf
+   moet word.
+
+   Ubuntu bied 'n volledige stel kenmerke aan wat reg na 'n standaard
+   installering beskikbaar is, maar tog op 'n enkele CD in pas. 'n Live CD
+   en 'n tradisonele installasie CD is vir elke uitgawe beskikbaar gestel.
+   Die Live CD word deur baie mense gebruik om hardware aanpasbaarheid te
+   toets voor met installasie voort gegaan word. Alle uitgawes van Ubuntu
+   sal gratis verskaf word ^[12]. Ubuntu CD's word selfs gratis aan enige
+   iemand gestuur wat dit versoek ^[13], en CD images is vir aflaai
+   beskikbaar.
+
+   'n Nuwe installeerder naamlik Wubi maak dit moontlik om Ubuntu op 'n
+   Windows partisie op te stel sonder om 'n ISO-lêer te gebruik. Dit maak
+   ook van die Windows migrasiegereedskap gebruik wat gebruikers in staat
+   stel om hulle Windows konfigurasies na Ubuntu oor te dra. Wubi kan ook
+   op die nuutste Live CD gevind word.
+
+   Die huidige uitgawe se verstek voorkoms van die gebruikerskoppelvlak
+   word gekenmerk deur 'n oranje tema. Tot April 2005 het Ubuntu 'n
+   opsionele pakket genaamd ubuntu-calendar gehad wat elke maand 'n nuwe
+   werkskerm muurpapier, wat die bruin tema by gepas het, afgelaai het.
+   Die muurpapier het gedeeltelik naak mense vertoon en is gekritiseer as
+   onnodig riskant. Dit het daartoe gelei dat Ubuntu byname soos "Linuxxx"
+   ^[14] en "The Porn Distro" ^[15] gekry het.
+
+[wysig] Pakket klassifikasie en ondersteuning
+
+   Ubuntu verdeel alle sagteware in vier afdelings, genaamd
+   components,^[16] om tussen die verskille in lisensiëring en
+   ondersteuning wat beskikbaar is te onderskei. Pakkette word as volg aan
+   komponente toegeken:
+                  Vrye sagteware nie-vrye sagteware
+   ondersteun     Main           Restricted
+   nie-ondersteun Universe       Multiverse
+
+   "Vrye" sagteware sluit in die geval slegs die in wat voldoen aan Ubuntu
+   lisensie vereistes, dit wil sê, wat onder 'n GPL of GPL-aanpasbare
+   lisensie vrygestel is.
+
+   Nie-vrye sagteware word gewoonlik nie ondersteun nie (Multiverse), maar
+   'n paar uitsonderings (Restricted) word gemaak vir baie belangrike
+   nie-vrye sagteware, soos nie-vrye toestelaandrywers, wat as dit sou
+   ontbreek 'n gebruiker daarvan verhoed om Ubuntu op sy/haar stelsel te
+   loop – veral slegs-binêre grafikakaart toestelaandrywers. Die
+   ondersteuningsvlak is meer beperk as vir main, aangesien ontwikkelaars
+   moontlik nie toegang tot die bronkode het nie.
+
+   Die bedoeling is dat Main en Restricted al die sagteware moet bevat wat
+   nodig is vir 'n algemene-gebruik Linux-stelsel. Alternatiewe programme
+   vir die selfde take en programme vir gespesialiseerde toepassings word
+   in Universe en Multiverse geplaas.
+
+   Bo en behalwe die amptelike bronkode bewaarplekke is daar ook Ubuntu
+   Backports,^[17] wat 'n amptelik erkende projek is wat nuwer uitgawes
+   van sekere sagteware wat slegs in onstabiele uitgawes van Ubuntu
+   beskikbaar is te backport. Die bewaarplek is nie omvattend nie; dit
+   bestaan hoofsaaklik uit gebruiker-versoekte pakkette wat goedgekeur
+   word as hulle aan kwaliteitsstandaarde voldoen.
+
+[wysig] Beskikbaarheid van eiendom sagteware
+
+   Ubuntu het 'n sertifikasie stelsel ^[18] vir derde party sagteware.
+   Ubuntu gesertifiseerde eiendom sagteware behoort goed in Ubuntu te
+   werk. Baie programme waaraan gebruikers van nie-vrye bedryfstelsels
+   soos Microsoft Windows gewoond is, is nie aanpasbaar met en nie Ubuntu
+   gesertifiseer nie. Sommige eiendom sagteware wat nie verspreiding
+   beperk nie word in Ubuntu se multiverse komponent ingesluit.
+
+   'n Paar voorbeelde van sagteware wat nie deur Ubuntu versprei word nie:
+     * Sagteware wat die terugspeel van streeksuitgeslote video DVD's
+       moontlik maak, as gevolg van die twyfelagtige wetlike status van
+       die DeCSS oopbron DVD-dekodeer biblioteek in sommige dele van die
+       wêreld.
+     * Enkodeer- en dekodeerbiblioteke vir baie proprietary media formate
+       soos Windows Media.
+     * Sommige gewilde proprietary webblaaier inpropprogramme, soos
+       Macromedia se Flash en Shockwave-spelers.
+
+   Sommige spesifieke proprietary sagteware produkte is tans glad nie vir
+   Ubuntu besikbaar nie. Dit sluit baie gewilde rekenaarspeletjies in – in
+   die afgelope aantal jare het speletjie vervaardigers egter begin om
+   hulle sagteware vir Linux beskiklbaar te stel. Epic Games verkoop
+   byvoorbeeld 'n weergawe van hulle Unreal Tournament 2004 wat op Ubuntu
+   en ander Linux verspreidings geïnstalleer kan word. Die probleem word
+   ook aangespreek deur emulasie en API-vertalings projekte soos die Wine
+   en Cedega, wat dit moontlik maak om nie-Linux-gebaseerde sagteware op
+   Linux stelsels te loop, of deur 'n proprietary bedryfstelsel te emuleer
+   of deur die proprietary API roepe (e.g., calls to Microsoft's Win32 or
+   DirectX APIs) na inheemse Linux API roepe te vertaal.
+
+[wysig] Uitgawes
+
+   'n Nuwe uitgawe van Ubuntu word elke ses maande vrygestel, en elke
+   vrystellinghet beide 'n kodenaam en uitgawenommer. Die uitgawenommer is
+   gebaseer op die jaar en maand van die vrystelling. Die heel eerste
+   uitgawe van Ubuntu, 4.10, is byvoorbeeld in Oktober 2004
+   vrygestel^[19]. Onder volg 'n lys van vorige en beplande uitgawes.
+   Uitgawe  Vrystellingsdatum     Kodenaam
+   4.10     20 Oktober 2004    Warty Warthog
+   5.04     8 April 2005       Hoary Hedgehog
+   5.10     13 Oktober 2005    Breezy Badger
+   6.06 LTS 1 Junie 2006       Dapper Drake
+   6.10     26 Oktober 2006    Edgy Eft
+   7.04     19 April 2007^[20] Feisty Fawn
+   7.10     18 Oktober 2007    Gutsy Gibbon
+   8.04 LTS 24 April 2008      Hardy Heron
+
+   Ubuntu 6.06 en 8.04 is Langtermyn Ondersteunde uitgawes (Engels: Long
+   Term Support (LTS) release) ^[2].
+
+[wysig] Ontwikkelings/Onstabiele Vertakking
+
+   In die toekoms sal daar 'n vertakking met die kodenaam Grumpy Groundhog
+   wees. Dit sal 'n permanent onstabiele ontwikkeling- en toets vertakking
+   wees wat bronkode direk uit die hersieningsbeheerstelsel van die
+   verskillende programme en toepassings wat as deel van Ubuntu verskeep
+   word trek.
+
+[wysig] Afgeleide projekte
+
+   Ubuntu CD's
+   Ubuntu CD's
+
+   Verskeie afgeleide verspreidings word amptelik erken:
+     * Kubuntu, 'n verspreding wat KDE in plaas van GNOME gebruik
+     * Edubuntu, 'n verspreding wat vir die klaskamer ontwerp is
+     * Xubuntu, 'n "liggewig" verspreiding gebaseer die Xfce
+       werkskermomgewing
+
+   Verder onderskryf Mark Shuttleworth die skep van 'n Ubuntu-libre
+   verspreiding wat slegs FSF-goedgekeurde vrye sagteware gebruik.
+   ^[21]^[22]
+
+   Daar is ook verskeie nie-amptelike afleidings:
+     * nUbuntu, 'n verspreding wat baie sekuriteitgereedskap insluit.
+     * Ubuntu Lite, 'n vedrspreiding vir argaïese stelsels (ouer
+       rekenaars).
+     * zUbuntu, 'n vertaling van die Ubuntu verspreding na die zSeries
+       hoofraam van IBM.
+     * Ebuntu, 'n vertakking van Ubuntu met die Enlightenment 0.17
+       venstermaker.
+     * Daar was wydverspreide gerugte dat Google 'n Ubuntu afleiding
+       genaam Goobuntu sou ontwikkel en versprei. Google het bevestig dat
+       hulle 'n aangepaste uitgawe van Ubuntu ontwikkel het, maar het ook
+       aangedring dat hulle geen planne het om die uitgawe buite die
+       matskappy te versprei nie. ^[23] ^[24]
+
+[wysig] Hoe is dit ontvang?
+
+   Ubuntu word reeds vir meer as 'n jaar as die mees gewilde Linux
+   verspreding op Distrowatch aangedui ^[25], en het die Leserstoekenning
+   vir die beste Linux verspreiding ontvang by die 2005 Linux World
+   Conference & Expo in London ^[26]. Dit het ook gunstige resensies
+   ontvang in aanlyn en gedrukte publikasies ^[27] ^[28]. Baie Ubuntu
+   resensente wys daarop dat die hoof aspek van Ubuntu se sukses die feit
+   is dat dit 'n baie groot gemeenskap het ^[3]^[4], including Ubuntu
+   Forums ^[29].
+
+[wysig] Verwysings
+
+[wysig] Aangehaalde verwysings en notas
+
+    1. ^ "ubuntu/releases - Ubuntu." URL besoek op 2006-03-11.
+    2. ^ ^2,0 ^2,1 "Announcing Beta release of Ubuntu 6.06 LTS." URL
+       besoek op 2006-04-26.
+    3. ^ ^3,0 ^3,1 "community - Ubuntu." URL besoek op 2006-03-11.
+    4. ^ ^4,0 ^4,1 "XYZ computing article on kubuntu." URL besoek op
+       2006-03-11.
+    5. ^ ^5,0 ^5,1 "ubuntu/relationship "Debian is the rock upon which
+       Ubuntu is built"." URL besoek op 2006-05-25.
+    6. ^ "Mark Shuttleworth on binary compatibility." URL besoek op
+       2006-04-25.
+    7. ^ "internetnews.com Sarge vs. The Hoary Hedgehog?." URL besoek op
+       2006-04-25.
+    8. ^ "About Ubuntu Linux." URL besoek op 2006-04-25.
+    9. ^ "RootSudo - Ubuntu Wiki." URL besoek op 2006-04-25.
+   10. ^ Similar to Mac OS X.
+   11. ^ "Skermkiekies van Espresso/Ubiquity." URL besoek op 2006-05-03.
+   12. ^ "ubuntu/philosophy." URL besoek op 2006-04-25.
+   13. ^ "Shipit - free shipment of Ubuntu CDs." URL besoek op 2006-04-26.
+   14. ^ "Humorix: The Hottest New Distribution: LinuXXX." URL besoek op
+       2006-04-27.
+   15. ^ "Community MX: LinuXXX?." URL besoek op 2006-04-27.
+   16. ^ "ubuntu/components." URL besoek op 2006-03-16.
+   17. ^ "UbuntuBackports." URL besoek op 2006-03-16.
+   18. ^ "parters/certification/software." URL besoek op 2006-03-16.
+   19. ^ "Ubuntu 4.10 announcement." URL besoek op 2006-04-26.
+   20. ^ "ubuntu-devel-announce mailing list: Planning for Ubuntu 7.04 -
+       the "Feisty Fawn"." URL besoek op 2006-10-18.
+   21. ^ "Ubuntu-libre." URL besoek op 2006-04-25.
+   22. ^ "Mark Shuttleworth registers gnubuntu.org (Ubuntu mailing list)."
+       URL besoek op 2006-04-25.
+   23. ^ "The Register: Google at work on desktop Linux." URL besoek op
+       2006-04-25.
+   24. ^ "Slashdot: Google working on Desktop Linux." URL besoek op
+       2006-04-25.
+   25. ^ "DistroWatch: Linux Distribution Popularity." URL besoek op
+       2006-04-27.
+   26. ^ "LinuxWorld Expo UK 2005." (PDF) URL besoek op 2006-05-09.
+   27. ^ "Ubuntu - A New Approach to Desktop Linux." URL besoek op
+       2006-05-09.
+   28. ^ "Linux in Government: Linux Desktop Reviews, Part 6 - Ubuntu."
+       URL besoek op 2006-05-09.
+   29. ^ "Ubuntu Forums." URL besoek op 2006-04-25.
+
+[wysig] Algemene verwysings
+
+     * What is it About Ubuntu? - deur Sal Cangeloso, XYZ Computing,
+       Maandag, 05 Desember 2005, besoek op 21 Desember 2005
+     * Once I have installed Ubuntu, will I be able to upgrade to the next
+       release? deur Viktorija, 10 April 2005, besoek op 21 Desember 2005
+     * Ubuntu & You, Part 1: Trying Today's Most Popular Linux
+       Distribution deur Thomas Pletcher, CommunityMX, 15 August 2005,
+       besoek op 21 Desember 2005
+     * Restricted Formats laas op 2005-12-16 02:24:00 deur RichRudnick
+       geredigeer, Ubuntu Wiki, besoek op 21 Desember 2005
+     * Restricted Items Wiki laas op 2005-12-20 02:37:30 deur ChrisLennert
+       geredigeer, besoek op 21 Desember 2005
+
+[wysig] Verdere gedrukte leesstof
+
+   Tans beskikbaar
+
+   Thomas, K (2006). Beginning Ubuntu Linux. US: APress. ISBN 1590596277.
+
+   Beplan vir vrystelling laat in 2006
+
+     * The Official Ubuntu Book
+     * Moving to Ubuntu Linux
+     * Ubuntu Hacks (Parts of which are available in "Rough Cuts" online
+       PDF format)
+
+[wysig] Eksterne skakels
+
+   Amptelike Projekte
+
+     * Kubuntu Webwerf
+     * Edubuntu Webwerf
+     * Xubuntu Webwerf
+     * Ubuntu-Women Webwerf
+
+   Amptelike aanlyn hulpbronne
+
+     * Ubuntu Amptelike Webwerf
+     * Ubuntu Wiki
+     * Ubuntu Forums
+     * Ubuntu Help
+     * Ubuntu FAQ Gids
+
+   Nie-amptelike aanlyn hulpbronne
+
+     * Blog oor die gebruik van Ubuntu met praktiese wenke
+     * Onderhoud met Mark Shuttleworth oor Ubuntu
+     * Debuntu Debian en Ubuntu Stelsel- en Netwerkadministreur Wenke en
+       Truuks
+     * Adventures in Linux with Ubuntu – verskeie installasie notas
+     * Updated Unofficial Ubuntu Guide for Ubuntu 5.10 (insluitend
+       verstalings)
+     * EasyUbuntu - semi-outomatiese installasie van nuttige programme –
+       nie deur Ubuntu ondersteun nie
+     * Ubuntu Studio — 'n Gids oor hoe om Ubuntu te konfigureer as 'n
+       hoë-verrigting oudiowerkstasie wat vergelyk kan word met toegewyde
+       verspreidings soos PlanetCCRMA of DeMuDi.
+
+   Gebruikersgemeenskappe
+
+     * Ubuntu Forums
+     * Ubuntu IRC kanaal op freenode
+     * Ubuntu support community
+
+   Linux Linux verspreidings
+
+   Arch Linux | CentOS | Damn Small | Debian | Fedora | Gentoo | Knoppix |
+   Mandriva | MEPIS
+   PCLinuxOS | Red Hat Enterprise | Slackware | SUSE | Ubuntu | Xandros |
+   meer… | …wysig
+
+   Kategorieë: Debian-gebaseerde verspreidings • Linux verspreidings •
+   LiveCD • Ubuntu
+

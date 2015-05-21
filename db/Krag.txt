@@ -1,0 +1,29 @@
+Krag
+
+
+          Hierdie bladsy handel oor krag as 'n oorsaak om 'n ligaam in
+          beweging te bring, vir die artikel oor die tempo waarteen werk
+          verrig word, sien gerus Drywing.
+
+   Krag (in terme van fisika) word gedefiniëer as enige oorsaak wat 'n
+   ligaam van massa laat versnel. Die versnelling van die ligaam is in
+   direkte verhouding met die krag.
+
+   Dit word gedefinieer as:
+
+          \vec{F} = m \vec{a}
+
+   waar
+     * F krag is.
+     * m massa is.
+     * a versnelling is.
+
+[wysig] Sien ook
+
+     * Drywing
+     * Energie
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Meganika
+

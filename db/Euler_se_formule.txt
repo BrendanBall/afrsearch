@@ -1,0 +1,30 @@
+Euler se formule
+
+
+   Euler se formule stel dat, vir enige reële getal x,
+
+          e^{ix} = \cos(x) + i\sin(x) \!
+
+   waar e die basis van die natuurlike logaritme is, i is die imaginêre
+   eenheid, en cos en sin die trigonometriese funksies is (daar word hier
+   aangeneem dat waar sinus en cosinus bereken word, x in radiale gemeet
+   is eerder as in grade). Die formule is steeds geldig as x 'n komplekse
+   getal is, en daar word dus algemeen na die meer algemen komplekse
+   weergawe as Euler se formule verwys.^[1]
+
+   Richard Feynman het Euler se formule "ons juweel" en "die mees
+   merkwaardige formule in wiskunde" genoem.^[2]
+
+[wysig] Verwysings
+
+    1. ^ Moskowitz, Martin A. (2002). A Course in Complex Analysis in One
+       Variable. World Scientific Publishing Co., p. 7. ISBN
+       981-02-4780-X.
+    2. ^ Feynman, Richard P. (1977). The Feynman Lectures on Physics, vol.
+       I. Addison-Wesley, p. 22-10. ISBN 0-201-02010-6.
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorie: Wiskunde saadjies
+

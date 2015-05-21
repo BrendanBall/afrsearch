@@ -1,0 +1,95 @@
+Alan Turing
+
+
+   Alan Mathison Turing (23 Junie 1912 – 7 Junie 1954) was 'n Britse
+   wiskundige en informatikus (nog vóór die tyd dat die woord informatika
+   bestaan). Alan Turing behandel filosofiese vraagstukke soos die
+   moontlikheid dat 'n masjien kan dink, en dit was sy lewensideaal om
+   self 'n denkende rekenaar te skep. Vandag word hy algemeen beskou as
+   die vader van moderne rekenaarwetenskap, alhoewel dit nie die geval was
+   tydens sy eie leeftyd nie.
+
+   Inhoud
+
+        * 1 Vroeë lewensloop
+        * 2 Die Tweede Wêreldoorlog
+        * 3 Evaluasie van die bydrae van Turing
+        * 4 Bron
+
+[wysig] Vroeë lewensloop
+
+   Turing is op 23 Junie 1912 gebore in 'n middelklas familie in
+   Paddington, Londen. Hy is die seun van 'n Britse lid van die Indiese
+   Staatsdiens.
+
+   Turing begin in 1931 aan die King's College, Universiteit van Cambridge
+   studeer. Sy studierigting is wiskunde en hy gradueer in 1934. Hy
+   bestudeer daarna kwantummeganika aan dié universiteit. Daar maak hy
+   kennis met die sogenaamde beslisbaarheidsprobleem, en publiseer in 1936
+   sy artikel genaamd "On Computable Numbers, with an Application to the
+   Entscheidungsproblem". Die beslisbaarheidsprobleem omskryf hy as volg:
+   Bestaan daar 'n algoritme om te besluit of daar 'n waardetoekenning vir
+   veranderlikes in 'n wiskundige vergelyking is, sodat die vergelyking
+   bevredig word of nie?
+
+   Met die artikel as basis loods Turing die idee vir 'n "logiese
+   rekenaarmasjien". Die gedagte-eksperiment word later die Turingmasjien
+   genoem. Later in 1936 gaan Turing na die Universiteit van Princeton ten
+   einde vir 'n doktorsgraad in wiskundige logika onder Alonzo Church te
+   studeer. Hy voltooi sy studies 1938.
+
+[wysig] Die Tweede Wêreldoorlog
+
+   Tydens die Tweede Wêreldoorlog keer Turing terug na Engeland en werk in
+   die geheim by die "Government Code and Cypher School" by Bletchley
+   Park, Buckinghamshire. Dit was die Britse kryptoanalitiese diens, wat
+   ten doel gehad het om onderskepte berigte van die Duitsers te ontsyfer,
+   sodat die geallieerdes die Duitsers een stap voor kon wees. Turing maak
+   deel uit van 'n span wat kodes van die Duitse Enigma-masjien kon
+   ontsyfer. Die ontsyfering van die Enigma word algemeen aangehaal as een
+   van die grootste prestasies in Tweede Wêreldoorlog wat die alliansie
+   uiteindelike oorwinning besorg het.
+
+   Alan Turing en sy span maak gebruik van 'n verbeterde weergawe van 'n
+   dekoderingsapparaat wat uitgevind is deur die Poolse wiskundige Marian
+   Rejewski, Jerzy Rozycki en Henryk Zygalski. Die Pole was die eerstes
+   wat die Enigma-gekodeerde berigte kon lees. Aan die begin van Tweede
+   Wêreldoorlog was Pole die enigstee land wat dit kon doen. Die Duitsers
+   verbeter die apparaat daarna waarna ook die Pole die berigte nie meer
+   kon lees nie, maar die Engelse ontsyfering bou voort op die Poolse
+   pionierswerk. Teen vroeg 1942 het die Bletchley Park kriptoanaliste
+   ongeveer 39 000 onderskepte berigte elke maand gedekodeer wat daarna
+   gestyg het tot meer as 84 000 per maand. Teen die einde van die oorlog
+   was Turing aangestel as 'n offisier van die Orde van die Britse
+   Koningkryk vir by kodebreekaktiwiteite.
+
+   Na die oorlog werk Turing aan die Universiteit van Manchester waar hy
+   die adjunkdirekteur van die Rekenaarlabratoruim word. Hy bou die
+   Automatic Computing Engine (ACE). In 1950 publiseer Turing in die
+   tydskrif MIND 'n artikel genaamd "Computing Machinery and
+   Intelligence". Hierin beskryf hy sy Turing-toets.
+
+   In 1952 word Turing gearresteer weens sy homoseksualiteit (wat in die
+   tyd in Engeland strafbaar was, en waardeur hy deur die
+   intelligensiediens as 'n veiligheidsrisiko beskou is) en word
+   veroordeel tot 'n libido-verlagende hormonekuur, of gevangenisstraf.
+   Turing kies eesrgenoemde wat onder meer tot borsvorming lei. Op 7 Junie
+   1954 word Alan Turing in sy huis in Cheshire dood aangetref. In sy hand
+   hou hy 'n appel met giftige sianied. Sy ma het nie geglo dat dit
+   selfmoord was nie maar bloot ongeluk.
+
+[wysig] Evaluasie van die bydrae van Turing
+
+   Alan Turing het tydens sy lewe baie belangrike werk verrig. Die mees
+   belangrikste is sonder twyfel sy teoretiese vordering op die gebied van
+   die berekenbaarheid gewees, en die Turingmasjien. Die bekendste by die
+   breë publiek is die Turingtoets, en sy betrokkenheid by die breek van
+   die Enigmakode. Die Turingprys is gestig tot sy eer.
+
+[wysig] Bron
+
+     * http://www.turing.org.uk
+
+   Kategorieë: Engelse filosowe • Wiskundiges • Kriptograwe • Tweede
+   Wêreldoorlog
+

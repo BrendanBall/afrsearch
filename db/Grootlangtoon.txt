@@ -1,0 +1,108 @@
+Grootlangtoon
+
+
+                Grootlangtoon
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Charadriiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Jacanidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Actophilornis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. africanus
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+           Actophilornis africanus
+   (Gmelin, 1789)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die grootlangtoon.
+   Die verspreiding van die grootlangtoon.
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die Grootlangtoon (Actophilornis africanus) is 'n watervoël wat
+   identifiseerbaar is aan hulle lang bene en groot pote, wat dit vir
+   hulle moontlik maak om op drywende waterplante in waterleliepanne,
+   damme of stilvloeiende riviere te loop. Jonges het 'n swart streep deur
+   die oë en 'n swart kroon. Uiter 'n "kyoum"-geluid in vlug of op die
+   grond. Hou een-een of in verspreide groepies wat mekaar lawaaierig
+   rondjaag; vlieg laag oor kort afstande. 'n Algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   40cm in lengte.
+
+[wysig] Habitat
+
+   Vlak water-areas met drywende waterplante.
+
+[wysig] Verspreiding
+
+   Wêreld-wyd in tropiese gebiede.
+
+[wysig] Geluid
+
+   "kyoum"
+
+[wysig] Ander name
+
+     * Engelse naam: "African Jacana"
+     * Wetenskaplike naam: "Actophilornis africanus"
+     * Suitse naam: "Blaustirn-Blatthühnchen"
+
+[wysig] Sien ook
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Actophilornis africanus
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

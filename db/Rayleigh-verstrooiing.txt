@@ -1,0 +1,52 @@
+Rayleigh-verstrooiing
+
+
+   Rayleigh-verstrooiing veroorsaak die rooierige lug tydens
+   sonsondergang.
+   Rayleigh-verstrooiing veroorsaak die rooierige lug tydens
+   sonsondergang.
+
+   Rayleigh-verstrooiing is die verstrooiing van lig deur deeltjies wat
+   kleiner is as die golflengte van lig. Die verskynsel is vernoem na Lord
+   Rayleigh, wie dit oospronklik verklaar het. Rayleigh-verstrooiing vind
+   plaas wanneer lig deur 'n transpirante vloeistof of vastestof beweeg,
+   maar kan die beste waargeneem word in die teenwoordigheid van gasse.
+   Dit is ook as gevolg van Rayleigh-verstrooiing in die atmosfeer dat die
+   lug blou voorkom.
+
+   Die hoeveelheid Rayleigh-verstrooiing vir 'n ligstraal is afhanklik van
+   die grootte van die deeltjies en die golflengte van die lig. Die
+   golflente-afhanklikheid is besonder sterk: die hoeveelheid verstrooide
+   lig is omgekeerd eweredig aan die vierde mag van die golflengte (dus,
+   die golflengte^4). Die formule van die verstrooiingskoëffisiënt is:
+
+          k_s = \frac {2 \pi^6} {3} n \left( \frac {m^2 - 1} {m^2 + 2}
+          \right)^2 \frac {d^5} {\lambda^4}
+
+   Met n as die aantal deeltjies van die diameter, d; m is die
+   brekingsindeks; en λ is die golflengte van die straling.
+
+   Die sterk golflengte-afhanklikheid sorg ook daarvoor dat blou lig meer
+   verstrooid word as rooi lig: blou lig se golflengte is ongeveer twee
+   keer so kort as dié van rooilig en dus word blou lig sestien maal beter
+   verstrooid as rooi lig. Dit het tot gevolg dat mens in die atmosfeer 'n
+   klein deel blou lig van alle kante kan sien, terwyl die res van die
+   sonlig hoofsaaklik uit die rigting van die son kom blyk te kom.
+
+   'n Belangrike uitsondering kan waargeneem word tydens sonsopgang en
+   sonsondergang, wanneer die sonlig 'n groter afstand moet aflê deur die
+   atmosfeer voordat dit die grond bereik. Die ekstra afstand deur die
+   atmosfeer veroorsaak nog meer verstrooiing van blou lig en steeds
+   minder verstrooiing van rooi lig. Die gevolg is 'n duidelike rooi
+   skynsel in die hemel in die rigting van die son. In 'n verswakte vorm
+   van die effek veroorsaak die verswakking van blou lig vir 'n
+   geelkleurige son.
+
+   Wanneer die deeltjies groters is as die golflengte van lig, is die mate
+   van verstrooiing nie meer afhanklik van die golflengte nie. Sulke
+   verskynsels kan die lig dus nie in verskillende kleure skei nie. Dit
+   kan gesien word in 'n wolk (die waterdruppels is groter as die
+   golflengte van lig) wat in die dag wit voorkom. Ander voorbeelde sluit
+   in suiker, sout en melk.
+   Kategorie: Optika
+

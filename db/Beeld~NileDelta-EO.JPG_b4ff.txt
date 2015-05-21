@@ -1,0 +1,80 @@
+Beeld:NileDelta-EO.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+
+   Beeld:NileDelta-EO.JPG
+   Geen hoëre resolusie beskikbaar nie.
+   NileDelta-EO.JPG (496 × 565 pixel, file size: 54 KG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+
+[edit] Summary
+
+   English: NASA image of Nile Delta, taken by MISR satellite on January
+   30, 2001. Cropped.
+   Polski: Delta Nilu, zdjęcie NASA zrobione przez satelitę Terra przy
+   pomocy urządzenia MISR (ang. Multi-angle Imaging Spectro-Radiometer).
+
+[edit] Licensing
+
+   Public domain
+   This file is in the public domain because it was created by NASA. NASA
+   copyright policy states that "NASA material is not protected by
+   copyright unless noted". (NASA copyright policy page or JPL Image Use
+   Policy).
+     __________________________________________________________________
+
+   Deutsch | English | Español | Français | Nederlands | Português |
+   Русский | ‪中文(简体)‬ | ‪中文(繁體)‬ | +/-
+   Warning sign
+   Warnings:
+     * Use of NASA logos, insignia and emblems are restricted per US law
+       14 CFR 1221.
+     * The NASA website hosts a large number of images from the
+       Soviet/Russian space agency, and other non-American space agencies.
+       These are not necessarily in the public domain.
+     * Materials from the Hubble Space Telescope may be copyrighted if
+       they do not explicitly come from the STScI. [1]
+     * All materials created by the SOHO probe are copyrighted and require
+       permission for commercial non-educational use. [2]
+     * Images featured on the Astronomy Picture of the Day (APOD) web site
+       may be copyrighted. [3]
+
+[edit] History
+
+   date/time username edit summary
+   22:18, 12 June 2005 Bratsche ('sattelite' -> 'satellite'; -- <a
+   href="/wiki/User:Humanbot" title="User:Humanbot">Join and fix
+   more!</a>)
+   23:15, 28 May 2005 Pearle (Minor category, interwiki, or template style
+   cleanup; {{msg:foo}} -> {{foo}} conversion for MediaWiki 1.5+
+   compatibility)
+   12:31, 17 December 2004 Jpk (+fi)
+   04:56, 11 September 2004 Glenn (+da)
+   23:44, 13 March 2004 Seth Ilys ({{msg:PD}} NASA image of Nile Delta,
+   taken by <a href="/wiki/MISR" title="MISR">MISR</a> sattelite on
+   January 30, 2001. Cropped.)
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 08:59, 18 Oktober 2005 496×565 (54 KG) ChongDae (This image was
+   copied from wikipedia:en. The original description was: {{PD}} NASA
+   image of Nile Delta, taken by MISR satellite on January 30, 2001.
+   Cropped. da:Billede:Nilens delta.jpg fi:Kuva:Niilin suisto.JPG {|
+   border="1" ! date/time ||)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Rivierdelta
+

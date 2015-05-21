@@ -1,0 +1,112 @@
+MediaWikibespreking:LanguageAf.php
+
+
+   Is daar 'n rede hoekom die bronteks nie sigbaar is nie? By die
+   voorkeurefunksie is daar nog heelwat goed wat vertaal moet word, en ek
+   dink dit het met hierdie bladsy te doen. Goed was ek sou vertaal:
+     * "e-pos" sou ek deurgaans verander na "vonkpos" (dis meer eie aan
+       die taal)
+     * "Send me copies of emails I send to other users" => Stuur kopieë
+       van die vonkposte wat ek stuur na my eie vonkposadres (of iets in
+       daardie lyn)
+     * "Let wel: Na die voorkeure gestoor is, moet u blaaier se kasgeheue
+       verfris word om die veranderinge te sien: Mozilla: klik Reload (of
+       Ctrl-R), IE / Opera: Ctrl-F5, Safari: Cmd-R, Konqueror Ctrl-R." =>
+       Plaas 'n akkuut op die "na" (ná) wat die betekenis duideliker maak.
+     * Onder die "lêer"-afdeling:
+          + "Thumbnail size:" na iets anders.
+     * Onder die "wysiging"-afdeling:
+          + "Use external editor by default" => "Gebruik outomaties 'n
+            eksterne redigeerprogram"
+          + "Use external diff by default" => na iets anders
+          + "Let my daarop as ek nie 'n opsomming van my wysiging gee nie"
+            => "herinner my..."
+     * "Onlangse wysigings":
+          + "Days to show in recent changes:" => "Aantal dae om by
+            "onlangse wysigings" te wys"
+          + "Moenie klein wysigings in die nuwe wysigingslys wys nie." =>
+            verander "nuwe" na "onlangse"
+          + "Verbeterde nuwe wysigingslys (vir moderne blaaiers)." =>
+            verander "nuwe" na "onlangse"
+     * Dophoulys:
+          + "Hide minor edits from the watchlist" => "Versteek klein
+            wysigings van my dophoulys"
+          + "Add pages I move to my watchlist" => "Voeg die bladsye wat ek
+            skuif by my dophoulys"
+     * Allerlei:
+          + "Don't show page content below diffs" => na iets anders.
+
+   Ek hoop nie ek is lastig nie, ek wil maar net hê dit moet perfek wees!
+   Ek hoop regtigwaar ek is van hulp. Enige opinies/kommentaar? ► Adriaan
+   ( Spreek ★ Bydraes ) ♪♫ 17:24, 8 Junie 2007 (UTC)
+
+          Ek ken nie werklik die term "vonkpos" nie - die eerste keer wat
+          ek dit gehoor het was 'n week of twee terug toe Voyageur dit
+          genoem het. Is dit werklik meer eie aan Afrikaans of meer
+          korrek? Dit sal nie behulpsaam wees om daarna te verwys as dit
+          sommige gebruikers mag verwar nie (indien hulle slegs gewoonds
+          is aan "e-pos"). Ek mag verkeerd wees en hoop dat ander
+          gebruikers ook hulle menings sal lug.
+
+                Asb nie, nog nooit van vonkpos gehoor nie. Pendoring
+                20:26, 8 Junie 2007 (UTC)
+
+          Die "diffs" verwys natuurlik na "difference", wat op sy beurt
+          verwys na 'n... "diff" (of meer gewoonlik, die skakel na een).
+          Ek weet nie of ons al 'n korrekte, gepaste term hiervoor het by
+          die Afrikaanse Wikipedia nie: ek het nog nie self een teëgekom
+          nie. Ek gebruik maar gewoonlik die term "verskilskakel" of
+          moontlik 'n "wysigingsverskil" vir die bladsy self.
+
+          Die res van die idees is ek mee eens. Ek glo dat Alias, en ander
+          mense wat my meta werk, die ouens is wat hierdie goed kan
+          verander (ek weet nie hoe vêr 'n administrateur se toegang strek
+          nie), dus sal dit wel 'n rukkie neem tot sulke voorstelle
+          geïmplementeer kan word: Alias het op sy gebruikersblad genoem
+          dat hy tans maar beperkte Internet-toegang het en self ook druk
+          besig is, maar dat sy situasie hopelik later die jaar sal
+          verander. (M.a.w. dit sal nie sommer môre kan gebeur nie.)
+
+          Dankie vir jou voorstelle, Adriaan. Ek is ook iemand wat graag
+          wil sien dat hierdie dinge perfek moet wees: mense oordeel die
+          projek deur ons voorstelling van onsself en 'n 100% korrekte
+          Afrikaanse "interface" is dus belangrik. Anrie 19:41, 8 Junie
+          2007 (UTC)
+
+          Die koppelvlak word nie hier vertaal nie. Dis hoekom jy ook nie
+          die bron kan sien nie. Die boodskappe word vertaal elkeen op sy
+          eie bladsy in die MediaWiki-naamruimte. Sien gerus
+          Spesiaal:Allmessages. Los gerus voorstelle op die
+          besprekingsblad van elkeen van hierdies. ("iets anders" is
+          natuurlik nie 'n voorstel nie ;-) eks seker ons stem almal saam
+          dat ons al die Engels sal wil vertaal). Wat wel waar is, is dat
+          ons ideaalgesproke die LanguageAf.php-lêer moet vertaal wat deel
+          vorm van die MediaWiki-sagteware, sodat alle wiki's wat dit
+          gebruik ook mooi vertaald kan wees. Ek het nog ambisies vir
+          sulke dinge gehad, maar laas toe ek gekyk het, was dit nie 'n
+          vinnige takie gewees nie. RAM het ook heelwat ondervinding
+          hiermee as ek reg onthou. --Alias 19:53, 8 Junie 2007 (UTC)
+
+          Persoonlik dink egter ook dis belangrik dat ons mooi
+          prioritiseer - miskien is vertalings van die voorkeure nie die
+          belangrikste taak wat ons het om te doen nie. --Alias 19:55, 8
+          Junie 2007 (UTC)
+
+                Is "koppelvlak" die korrekte Afrikaans vir "interface"?
+                Anrie 20:02, 8 Junie 2007 (UTC)
+
+                      Ja, ek glo so. User interface -> gebruikerkoppelvlak
+                      --Alias 20:06, 8 Junie 2007 (UTC)
+
+   Dit blyk nou dat hierdie in elk geval nie die regte forum is nie, maar
+   ek soek al lank na die plek waar ek die teks (Verksil tussen weergawes)
+   na (Verskil tussen weergawes) kan verander. Dit verskyn bo-aan die
+   bladsy wanneer ek op 'n verskilskakel kliek. Pendoring 20:53, 8 Junie
+   2007 (UTC)
+
+          Ja, kyk gerus by Spesiaal:Allmessages waar die regte skarminkel
+          is. Ek moet sê, ek kan nie glo dat ek nog nooit daai fout
+          raakgesien het nie! Dankie dat jy uitgewys het. Ek het dit nou
+          reggemaak hier: MediaWiki:Difference --Alias 20:57, 8 Junie 2007
+          (UTC)
+

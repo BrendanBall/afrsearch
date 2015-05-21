@@ -1,0 +1,92 @@
+Wikipedia:Styl
+
+
+   Die styl van Wikipedia is juis om ensiklopedies van aard te wees. Dus
+   word vol sinne, keurige en formele taal gebruik vir artikels. Wat
+   spelling en skryfwyses betref, word die riglyne van die AWS gebruik
+   sover as moontlik.
+
+   Inhoud
+
+        * 1 Artikeluitleg
+        * 2 Syfers
+        * 3 Datums
+        * 4 Name
+        * 5 Skryfwyse los en vas
+        * 6 Sien ook
+
+[wysig] Artikeluitleg
+
+   Poog altyd om in die eerste sin (of twee, as dit moet) kortliks te sê
+   wat die kernsaak is van die woord, persoon, datum, of saak. Meer
+   oorsigtelike inhoud in die res van die inleiding is waarskynlik die
+   geskikste. Gebruik verkieslik die naam van die artikel in vetdruk in
+   die eerste sin. Gebruik altyd volsinne eerder as inskrywings wat soos
+   woordeboekinskywings lyk. Alhoewel die artikel se titel waarskynlik 'n
+   enkelvoudvorm aanneem, kan die titel gerus verbuig word om gemaklik in
+   die sin in te pas. Noem gerus ook alternatiewe spellings of skryfwyse
+   (hierdie is ook gepas in 'n ander alfabet, soos Arabies).
+
+   Gebruik afdelings om inligting te orden, waar dit moontlik en sinvol
+   is. 'n Geskiedenis-afdeling kan dalk eerder kom, met "Sien ook",
+   "Bronnelys" en "Eksterne skakels" gewoonlik aan die einde. Plaas die
+   kategorie-inligting en interwiki-skakels reg aan die einde van die
+   dokument.
+
+   Onthou om altyd u bronne aan te haal.
+
+[wysig] Syfers
+
+   Gebruik die desimale komma ",", duisende word gegroepeer met spasies "
+   ": "2 801,256", "-25 830,1". Om seker te maak dat 'n lynbreuk nie by só
+   'n duisende-breuk plaasvind nie, gebruik "&nbsp;" (sonder die
+   aanhalingstekens). Die "nbsp" staan vir non-breaking space (wat dit
+   dalk makliker maak om te onthou). Vir eerste bogenoemde voorbeeld tik
+   mens dus:
+2&nbsp;801,256
+
+   Hierdie karakter is ook beskikbaar in die lys van spesiale karakters
+   onder die redigeerarea. Deur daarop te klik behoort dit ook in die
+   redigeervenster te verskyn.
+
+[wysig] Datums
+
+   Alhoewel die RFC 3339-formaat (jjjj-MM-dd) algemeen in Suid-Afrika as
+   kort datumformaat gebruik word, is dit nie sinvol in
+   ensiklopediesgeskrewe teks nie. Ons gebruik dus voluitgeskrewe datums,
+   bv. 1 Junie 2001. Let wel, nie alle bladsye is al in hierdie formaat
+   nie. Daar is bladsye in twee ander formate wat nog in sekere gevalle
+   bygewerk moet word. Sien gerus Lys van historiese herdenkings. Die
+   jjjj-MM-dd-formaat kan moontlik geskik wees vir lang lyste datums, maar
+   elke geval sal apart oorweeg moet word.
+
+[wysig] Name
+
+     * Romeinse figure (byvoorbeeld keisers): gebruik die Latynse name
+       eerder as die Engelse name.
+     * Tale: gebruik "xxx" in plaas van "xxx taal" of "xxx (taal)" as
+       titel; dit maak dit moontlik om eenvoudige skakels van die vorm
+       "... word in [[Engels]] geskryf as ..." te maak, waarteenoor die
+       ander vorm meer lomp is: "[[Engelse (taal)|Engels]]".
+     * Alle titels word met 'n kleinletter geskryf, wat sir, lord, lady,
+       kolonel, generaal, mnr. en adv. insluit.
+
+[wysig] Skryfwyse los en vas
+
+     * Skryf 'n eienaam en soortnaam as volg:
+       Hoofletter+koppelteken+kleinletter, byvoorbeeld
+       Vredenburg-hospitaal, Strandfontein-oord, Gill-kollege, buiten waar
+       die vasgeskrewe vorm meer gebruiklik is, soos by die skryf van die
+       name van damme, riviere, watervalle, panne, vlaktes en ander name
+       van geografiese verskynsels.
+     * Die name van die drie dele van die voormalige Kaapland is Wes-Kaap,
+       Oos-Kaap, Noord-Kaap, NIE Weskaap, Noordkaap en Ooskaap nie.
+     * Die korrekte skryfwyse van die provinsie wat eers Natal was, is
+       KwaZulu-Natal (tot verder kennisgewing).
+     * Twee streke en rigtings word vas geskryf: Noordwes (provinsie),
+       suidwes (rigting), suidwestelike, noordweste ens.
+
+[wysig] Sien ook
+
+     * Wikipedia:Algemene spelfoute
+

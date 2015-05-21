@@ -1,0 +1,60 @@
+iTunes
+
+
+     iTunes
+   'n Skermkiekie van die iTunes-rekenaarprogram
+     __________________________________________________________________
+
+   Ontwikkelaar Apple Computer
+   Mees onlangse weergawe /
+   Laaste betaweergawe /
+   Bedryfstelsel Rekenaars: Microsoft Windows XP en Mac OS X 10.3.9 (of
+   hoër)
+   Kategorie Mediaspeler
+   Lisensie freeware
+   Webtuiste http://www.apple.com/itunes
+
+   iTunes is sagteware wat deur Apple vervaardig word waarop na musiek
+   geluister kan word en na videos gekyk kan word. Ander funksies sluit in
+   die blaai van die iTunes Store en die aflaai en beheer van podcasts.
+
+   iTunes gebruik verskeie maniere om musiek en videos in te voer:
+     * Musiek kan van CDs af gerip word.
+     * Musiek of videos kan in die iTunes Store aangeskaf word.
+     * Audio of video kan van iPods ingevoer word, hoewel dit nie
+       outomaties moontlik gemaak is nie ten einde kopieregskening te
+       beperk.
+
+   iTunes is gerig op die eenvoudigmaking van die beheer van 'n biblioteek
+   wat audio en video bevat. Dit bied ook verskeie maniere om vir items in
+   die versameling te soek. Só kan daar byvoorbeeld per titel, kunstenaar,
+   komponis, album en genre gesoek word. Verder is dit moontlik om die
+   inligting van CDs via die Internet in te voer sodat die gebruiker nie
+   ál die velde per hand hoef in te vul nie. Die CDs se omslagte kan ook
+   afgelaai en ingevoer word sodat iTunes 'n fisieke ry CDs kan simuleer.
+
+   Dit is ook moontlik om speellyste te maak. Hierdie speellyste kan op
+   iPods gebruik word, maak kan ook in die vorm van 'n iMix na die iTunes
+   Store gestuur word vir enigiemand om te besigtig.
+
+   iTunes kan 'n hele biblioteek outomaties met 'n iPod sinkroniseer.
+
+   iTunes gebruik Apple se multimediaprogram QuickTime vir die audio- en
+   video kodeks. Die iTunes-sagteware is gratis verkrygbaar vir Apple se
+   Macintosh-operateurstelsel en Microsoft Windows-rekenaars vanaf hul
+   tuisblad.
+
+   Die iTunes store is tans nie in Suid-Afrika beskikbaar nie, alhoewel
+   dit steeds geblaai kan word. Podcasts kan normaalweg gratis deur enige
+   gebruiker (ongeag van woonagtigheid) afgelaai word.
+
+   iTunes maak deel uit van Apple se iLife-sagtewarepakket.
+
+[wysig] Sien ook
+
+     * Mediaspeler
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Rekenaarmediaspelers
+

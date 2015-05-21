@@ -1,0 +1,117 @@
+DDR SDRAM
+
+
+   DDR geheue, met bo 512MB en onder 256MB.
+   DDR geheue, met bo 512MB en onder 256MB.
+
+   DDR SDRAM (vanuit Engels vir double-data-rate synchronous dynamic
+   random access memory) of dubbele datasnelheid sinkrone dinamiese
+   ewetoeganklike geheue is 'n soort geïntegreerde stroombaangeheue wat in
+   rekenaars gebruik word. Dit behaal 'n hoër bandwydte as gewone SDRAM
+   deur data oor te dra op die stygende asook vallende rande van die
+   kloksein. Dit verdubbel byna die oordragstempo sonder om die frekwensie
+   van die voorste bus te verhoog. Sodoende kan 'n 100 MHz DDR stelsel 'n
+   effektiewe kloktempo van 200 MHz hê in vergelyking met die ekwivalente
+   SDRAM.
+
+   Met data wat in 8 grepe op 'n slag oorgedra word gee DDR RAM 'n
+   data-oordragstempo van die (geheuebus kloktempo) × 2 (vir dubbelle
+   datasnelheid) × 8 (aantal grepe oorgedra). As die voorste busfrekwensie
+   dus 100 MHz is gee DDR-SDRAM 'n maksimum oordragstempo van
+   1600 MG/sekonde.
+
+   JEDEC het standaarde vir DDR SDRAM spoed in twee dele daargestel: Die
+   eerste spesifikasie is vir geheueskyfies en die tweede vir die
+   geheuemodules.
+
+   Inhoud
+
+        * 1 Skyfspesifikasie
+        * 2 Modulespesifikasie
+        * 3 Alternatiewe
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Skyfspesifikasie
+
+     * DDR-200: DDR-SDRAM geheuskyfies wat gespesifiseer is om teen
+       100 MHz te werk.
+     * DDR-266: DDR-SDRAM geheuskyfies wat gespesifiseer is om teen133 MHz
+       te werk.
+     * DDR-333: DDR-SDRAM geheuskyfies wat gespesifiseer is om teen
+       166 MHz te werk.
+     * DDR-400: DDR-SDRAM geheuskyfies wat gespesifiseer is om teen
+       200 MHz te werk.
+
+[wysig] Modulespesifikasie
+
+     * PC-1600: DDR-SDRAM geheuemodule wat gespesifiseer is om teen
+       100 MHz te werk met DDR-200 skywe en 'n bandwydte van 1.600 GB/s.
+     * PC-2100: DDR-SDRAM geheuemodule wat gespesifiseer is om teen
+       133 MHz te werk met DDR-266 skywe en 'n bandwydte van 2.133 GB/s.
+     * PC-2700: DDR-SDRAM geheuemodule wat gespesifiseer is om teen
+       166 MHz te werk met DDR-333 skywe en 'n bandwydte van 2.667 GB/s.
+     * PC-3200: DDR-SDRAM geheuemodule wat gespesifiseer is om teen
+       200 MHz te werk met DDR-400 skywe en 'n bandwydte van 3.200 GB/s.
+
+   Let wel: Alle RAM snelhede tussen die bogelyste spesifikasies voldoen
+   nie aan JEDEC spesifikasies nie. — dikwels is hierdie skywe bloot 'n
+   vervaardiger se eie optimisering deur gebruik te maak van hoër
+   toleransie skywe of skywe wat teen 'n hoër spanning bedryf word.
+
+   JEDEC standaarde bepaal ook die paketgroottes waarin DDR SDRAM
+   vervaardig word.
+
+   Daar is geen argitektuurverskille tussen die DDR SDRAM wat ontwerp is
+   vir verskillende klokfrekwensies nie, bv. PC-1600 (ontwerp om teen
+   100 MHz te werk) en PC-2100 (ontwerp om ten 133 MHz te werk). Die getal
+   dui eenvoudig die oordragstempo waarteen die skyf gewaarborg is om te
+   werk. Dit is dus moontlik om DDR SDRAM teen laer klokfrekwensies te
+   loop (klokvertraging/underclocking) as waarvoor dit vervaardig is of
+   soms selfs teen hoër klokfrekwensies (klokversnelling/overclocking).
+   Laasgenoemde hou egter risikos in en moet met omsigtigheid hanteer
+   word.
+
+   DDR SDRAM DIMMs het 184 penne (teenoor die 168 penne van SDRAM of 240
+   penne van DDR-2 RAM) en kan onderskei word van SDRAM DIMMs deur die
+   aantal kepies (DDR SDRAM het een, SDRAM het twee). DDR word bedryf by
+   'n spanning van 2.5 V, vergeleke met 3.3 V vir SDRAM. DDR bring dus ook
+   'n kragbesparing mee.
+
+   Baie nuwe skyfstelle gebruik hierdie geheuetipes in dubbelkanaal of
+   soms selfs vierkanaal konfigurasies, wat 'n verdubbeling of 'n
+   vervierdubbeling van die effektiewe bandwydte meebring.
+
+[wysig] Alternatiewe
+
+   DDR word tans met DDR2 SDRAM vervang, wat etlike modifikasies bevat om
+   'n hoër klokfrekwensie toe te laat maar steeds op dieselfde beginsel as
+   DDR werk. Rambus XDR-DRAM kompeteer tans met DDR2 tegnologie. Daar word
+   verwag dat DDR2 die nywerheidstandaard gaan word, aangesien QDR SDRAM
+   (Vierdubbele datatempo) te kompleks is om te implementeer terwyl XDR
+   min ondersteuning geniet. DDR se Prefetch buffer wydte is 2 bisse,
+   terwyl DDR2 4 bisse gebruik.
+
+   Vervaardigers van geheueskywe beweer dat dit nie prakties is om DDR1
+   geheue met kloksnelhede groter as 400 MHz op groot skaal te vervaardig
+   nie. RDRAM is 'n besondere duur alternatief tot DDR SDRAM en die meeste
+   vervaardigers het ondersteuning daarvoor in hul moederbord skyfstelle
+   gestaak.
+
+[wysig] Sien ook
+
+     * DDR2 SDRAM
+     * SDR SDRAM
+     * Dubbelkanaal
+     * Serial Presence Detect (SPD)
+
+[wysig] Eksterne skakels
+
+     * Amptelike werf van JEDEC
+     * http://www.ddrmemoryram.com/ddrsdram_and_sdram.html
+     * http://www.pcguide.com/ref/ram/tech_SDRAM.htm
+     * PCWorld artikel wat die bekendstelling van AMD se nuwe AM2-hegstuk
+       en DDR2 ondersteuning aankondig
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,23 @@
+Provinsies van Litaue
+
+
+
+          Provinsie         Hoofstad   Oppervlak
+                                       (km²)    Inwoners
+   Alytus (provinsie)      Alytus      5425     188 100
+   Kaunas (provinsie)      Kaunas      8090     703 200
+   Klaipėda (provinsie)    Klaipėda    5207     370 000
+   Marijampolė (provinsie) Marijampolė 4467     188 100
+   Panevėžys (provinsie)   Panevėžys   7881     301 800
+   Šiauliai (provinsie)    Šiauliai    8589     370 700
+   Tauragė (provinsie)     Tauragė     4411     134 500
+   Telšiai (provinsie)     Telšiai     4303     180 600
+   Utena (provinsie)       Utena       7206     186 100
+   Vilnius (provinsie)     Vilnius     9730     850 700
+
+[wysig] Sien ook
+
+     * Vlae van provinsies van Litaue
+
+   Kategorie: Litaue
+

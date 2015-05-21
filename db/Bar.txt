@@ -1,0 +1,26 @@
+Bar
+
+
+   Die bar is 'n eenheid van druk. Dit is nie 'n SI-eenheid nie maar word
+   aanvaar vir gebruik met die SI-eenhede. Die bar word steeds gereeld
+   gebruik om druk in uit te druk omdat dit byna gelyk is aan atmosferiese
+   druk.
+
+[wysig] Definisie
+
+   Die bar, desibar en millibar word as volg gedefinieer:
+     * 1 bar = 100 kPa (kilopascal)
+     * 1 dbar = 0.1 bar = 10 kPa
+     * 1 mbar = 0.001 bar = 0.1 kPa = 1 hPa
+
+   (Een pascal is een newton per vierkante meter)
+
+[wysig] Oorsprong
+
+   Die woord bar vind sy oorsprong in die Griekse woord βάρος (baros) wat
+   gewig beteken. Die amptelike simbool is bloot "bar".
+
+   Die bar en die millibar is deur Sir Napier Shaw in 1909 bekendgestel en
+   internasionaal in 1929 in gebruik geneem.
+   Kategorie: Eenhede
+

@@ -1,0 +1,169 @@
+Phobos (maan)
+
+
+                                                           CAPTION: Phobos
+
+   Phobos, gefotografeer deur die Mars Global Surveyor, 2003
+
+                                                                Ontdekking
+                                                    Ontdek deur Asaph Hall
+                                                Ontdek op 18 Augustus 1877
+                                             Wenteleienskappe (Epoch J2000
+                                                   Mediaanradius 9377,2 km
+                                                   Totale omtrek 59,918 km
+                                                      Perihelion 9235,6 km
+                                                        Aphelion 9518,8 km
+                                                     Eksentrisiteit 0,0151
+                                           Rewolusieperiode 7 uur 39,2 min
+                                      Inklinasie 1,093° (tov Marsewenaar)
+
+                                          0.046° (tov lokale Laplacevlak)
+
+                                                 26,04° (tov die sonneweg
+                                                  Is 'n satelliet van Mars
+                                                        Fisiese eienskappe
+                              Mediaandeursnit 22,2 km (26,8 × 21 × 18,4)
+
+                                                         (0,0021 × aarde)
+                              Oppervlakte 6,084 km^2 (11.9 × 10^-6 aarde)
+                               Massa 1,07 × 10^16 kg (1,8 × 10^-9 aarde)
+                                           Gemiddelde digtheid 3,34 g/cm^3
+                           Oppervlakaantrekkingskrag 0,0084 - 0,0019 m/s^2
+                                  Ontsnappingssnelheid 0,011 km/s (11 m/s)
+                                                   Rotasieperiode sinkroon
+                       Rotasiesnelheid 11,0 km/h (by die langste as punte)
+                                                       Aksiale neiging 0°
+                                                               Albedo 0,07
+                                                     Oppervlaktemp. ~313 K
+                                          Atmosferiese druk geen atmosfeer
+
+   Phobos is die groter en naaste van die twee mane van Mars. Dit is
+   vernoem na Phobos, seun van Ares (Mars) in die Griekse mitologie.
+   Phobos se wentelbaan is die naaste van enige ander maan van 'n planeet
+   in die sonnestelsel, minder as 6000 km bo die oppervlak van Mars. Dit
+   is ook een van die kleiner mane in die sonnestelsel.
+
+   Inhoud
+
+        * 1 Ontdekking
+        * 2 Wentelbaaneienskappe
+        * 3 Fisiese eienskappe
+        * 4 Verwysings
+        * 5 Sien ook
+        * 6 Eksterne skakels
+
+[wysig] Ontdekking
+
+   Die teleskoop gebruik om Phobos die eerste keer waar te neem.
+   Die teleskoop gebruik om Phobos die eerste keer waar te neem.
+
+   Phobos is die eerste keer waargeneem deur die Amerikaanse sterrekundige
+   Asaph Hall op 18 Augustus 1877 by die Amerikaanse marine-sterrewag in
+   Washington, D.C om 09:14 GMT. [1]. Asaph Hall het ook Deimos, Mars se
+   ander maan, ontdek.
+
+   Die name is voorgestel deur Henry Madan (1838–1901),
+   natuurwetenskapmeester by Eton, vanuit Boek XV van die Iliad, waar Ares
+   sy twee seuns (Phobos en Deimos) oproep.
+
+   Phobos is van naderby gefotografeer deur Mariner 9 in 1971, Viking 1 in
+   1977, Phobos 2 in 1988, Mars Global Surveyor in 1998 en 2003, en deur
+   die Mars Express in 2004.
+
+[wysig] Wentelbaaneienskappe
+
+   Phobos se wentelbaan is so naby aan Mars, dat dit vinniger beweeg as
+   Mars se eie rotasiespoed. Dus styg Phobos in die weste, beweeg in 4 uur
+   15 minute oor die lugruim van Mars en sak weer in die ooste. Hierdie
+   siklus word ongeveer twee keer per Marsdag (11 uur 6 minute) herhaal.
+   Dit is so naby aan die oppervlak van Mars, dat dit nie gesien kan word
+   van punte bo die 70,4'ste lentegraad van Mars nie.
+
+   Hierdie lae wentelbaan beteken dat Phobos uiteindelik vernietig sal
+   word. Getykragte is besig om die wentelbaan al verder te erodeer, op
+   die oomblik teen 1,8 meter per eeu, en binne die volgende 50 miljoen
+   jaar sal Phobos of op Mars val of, meer waarskynlik, opbreek om 'n ring
+   te vorm. Indien Phobos gemodelleer word as 'n puinhoop, volgens die
+   Mohr-Coulombteorie en gegewe die onreëlmatige vorm van Phobos, word dit
+   bereken dat dit tans stabiel is in terme van getykragte, maar dat dit
+   sal val binne sy Rochelimiet wanneer die wentelbaanradius val onder
+   8400 km. Dit sal waarskynlik in hierdie stadium, of kort daarna,
+   opbreek 1.
+   Phobos beweeg voor die Son, soos gesien vanaf die Mars Rover
+   Opportunity
+   Phobos beweeg voor die Son, soos gesien vanaf die Mars Rover
+   Opportunity
+
+   Gesien vanaf Phobos is Mars 6400 keer groter en 2500 keer meer helder
+   as die maan soos gesien vanaf die aarde. Dit neem 'n volle kwart van
+   die wydte van die lugruim op.
+
+   Gesien vanaf Mars se ewenaar is Phobos 'n derde van die hoekdeursnit
+   van 'n vol maan soos gesien vanaf die aarde. Waarnemers by hoër
+   lengtegrade (minder as 70,4°) sal 'n kleiner hoekdeursnit sien
+   aangesien hulle verder weg is vanaf Phobos. Hierdie verskil is
+   opmerkbaar as gevolg van Phobos se klein wentelbaan. Phobos se
+   waarneembare grootte sal verskil met tot 45%. Vir 'n waarnemer by die
+   ewenaar sal Phobos 'n hoekdeursnit het van 0,14° op die horison, terwyl
+   dit toeneem tot 0,20° by sy toppunt. Daarteenoor is die son se
+   hoekdeursnit vanaf Mars ongeveer 0,35°.
+
+[wysig] Fisiese eienskappe
+
+   'n Samestelling van drie beelde geneem deur Viking 1 op 19 Oktober
+   1978. Die groot krater linksbo is die Stickneykrater
+   'n Samestelling van drie beelde geneem deur Viking 1 op 19 Oktober
+   1978. Die groot krater linksbo is die Stickneykrater
+
+   Phobos is taamlik donker en die oppervlakmateriaal is klaarblyklik uit
+   C-tipe saamgestel. Dit is soortgelyk aan die C-tipe (swart) asteroïde
+   van die buitenste asteroïdegordel. Phobos se digtheid is egter te laag
+   om van soliede rots te wees. Dit is waarskynlik saamgestel uit 'n
+   mengsel van rots en ys. Die Sowjetruimtetuig Phobos 2 het 'n geringe
+   maar konstante gasstroom vanaf Phobos waargeneem. Die aard van hierdie
+   gas kon nie vasgestel word nie, maar dit is waarskynlik water. Onlangse
+   beelde vanaf die Mars Global Surveyor dui aan dat Phobos bedek is met
+   'n fyn laag stof, soortgelyk aan dié van die aarde se maan.
+
+   Phobos is uiters onbolvormig, met afmetings van 27 × 21,6 × 18,8 km.
+   Dit het verskeie kraters en die opmerklikste terreinvorm is die
+   Stickneykrater, genoem na Asaph Hall se vrou, Angeline Stickney
+   (nooiensvan). Soortgelyk aan die Herschalkrater op Mimas moes die impak
+   wat die Stickneykrater veroorsaak het, amper Phobos versplinter het.
+   Die groewe op Phobos se oppervlak, tipies 30 m diep, 100 – 200 m wyd en
+   tot 20 km lank, is waarskynlik ook tydens die Stickneyimpak gemaak.
+
+   Phobos en Deimos is rotsagtige, koolstofryke mane, en vanweë hierdie
+   eienskappe word daar algemeen geglo dat albei oorspronklik asteroïdes
+   was wat 'n lang tyd ná hul ontstaan in Mars se gravitasieveld vasgevang
+   is.^[1] Daar is ook sprake dat hulle van 'n verafgeleë deel van die
+   sonnestelsel kom en nie van die hoof-asteroïdegordel nie.
+
+[wysig] Verwysings
+
+    1. ^ MacDonald, Peter; Patrick Moore; Iain Nicholson (reds.): The
+       World of Science - The Nature of the Universe. Londen/New
+       York/Sydney/Toronto: Guild Publishing 1989, bl. 58
+
+   Eietydse verwysings na die eerste waarneming van Phobos en Deimos:
+     * The Observatory, 1 (1877) 181
+     * Astronomische Nachrichten, 91 (1878) 13/14
+     * Monthly Notices of the Royal Astronomical Society, 38 (1878) 205
+     * Astronomische Nachrichten, 92 (1878) 47/48
+     * Asaph Hall and the Moons of Mars
+
+[wysig] Sien ook
+
+     * Deimos, die ander maan van Mars
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Phobos
+     * Vlug rondom Phobos (geanimeerde video)
+     * Animasie van Phobos
+
+   Kategorie: Hemelliggame
+

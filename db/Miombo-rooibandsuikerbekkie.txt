@@ -1,0 +1,102 @@
+Miombo-rooibandsuikerbekkie
+
+
+             Miombo-rooibandsuikerbekkie
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Nectariniidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Cinnyris
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. manoensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Cinnyris manoensis
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Miombo-rooibandsuikerbekkie is 'n algemene standvoël in
+   Suidelike-Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   13cm. Helder glans-groen kop en bo-rug, met 'n blou streep onder groen
+   gedeelte gevolg deur 'n klein helder glans-rooi bors and onderkant. Die
+   res van die onderkant is bruin-grys met bruin vlerke. Hierdie spesie is
+   maklik verwisselbaar met die Kleinrooibandsuikerbekkie maar die gebiede
+   waar hulle voorkom verskil. Die vroulike suikerbekkie het 'n grys-bruin
+   bokant en grys-geel onderkant.
+
+[wysig] Habitat
+
+   Fynbos, immergroen bos en rande van woude.
+
+[wysig] Verspreiding
+
+   Kom voor in die meeste van Zimbabwe.
+
+[wysig] Geluid
+
+   'n Skerp Tjee-tjee geluid.
+
+[wysig] Ander name
+
+     * Engels: Miombo Double-collared Sunbird
+     * Wetenskaplike naam: Cinnyris manoensis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Suikerbekkies
+

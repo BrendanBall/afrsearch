@@ -1,0 +1,65 @@
+Swartoogtiptol
+
+
+                      Swartoogtiptol
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+               Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Pycnonotidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pycnonotus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. barbatus
+     Subspesie:    {{{subspecies}}}
+         [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                      Binomiale naam
+                   Pycnonotus barbatus
+   (Desfontaines, 1789)
+                     Trinomiale naam
+                     {{{trinomial}}}
+                       Tipe Spesies
+                    {{{type_species}}}
+                 {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die swartoogtiptol in Suider-Afrika
+   Verspreiding van die swartoogtiptol in Suider-Afrika
+                        Sinonieme
+   {{{synonyms}}}
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Tiptolle
+

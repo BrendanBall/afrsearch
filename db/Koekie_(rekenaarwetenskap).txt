@@ -1,0 +1,42 @@
+Koekie (rekenaarwetenskap)
+
+
+   In rekenaarwetenskap is 'n koekie 'n simbool of 'n klein datapakkie wat
+   tussen kommunikerende programme gestuur word. Die inhoud is onduidelik
+   of betekenisloos vir die ontvanger, maar word geïnterpreteer as dit
+   teruggestuur word aan die aanvanklike sender op 'n latere stadium. Die
+   koekie kan gebruik word as 'n kaartjie; om 'n spesifieke gebeurtenis of
+   transaksie te identifiseer.
+
+   Wanneer mens inkopiesakkies by 'n winkeltoonbank hou en 'n nommer in
+   ruil ontvang - sien mens in werklikheid 'n koekiestelsel in die fisiese
+   wêreld. Die nommer of kaartjie self is betekenisloos en nutteloos vir
+   die houer, maar stel die persoon by die toonbank in staat om die
+   korrekte sakkies weer terug te gee.
+
+[wysig] HTTP-koekies
+
+   Die algemeenste, en miskien mees omstrede gebruik van koekies is in die
+   wêreldwye web. Koekies word deur middel van die HTTP-protokol deur die
+   webbediener gestuur en deur die webblaaier tydelik of permanent
+   gestoor. Die inhoud van die koekie word weer aan die bediener gestuur
+   wanneer die selfde bediener weer besoek word. Só kan koekies gebruik
+   word om terugkerende besoekers te identifiseer of om voorkeure vir 'n
+   gebruiker te stoor. Dit kan egter ook gebruik word om profiele van
+   gebruikers saam te stel, wat gesien kan word as sensitiewe, persoonlike
+   inligting.
+
+   HTTP-koekies is al misverstaan as groot risiko's aangesien dit
+   verkeerdelik "programme" genoem is. Dit is in werklikheid bloot klein
+   stukkies data en kan geen aksie op die leser se rekenaar uitvoer nie.
+   Baie webwerwe maak vandag staat op koekies vir hulle werking en sal nie
+   korrek funksioneer daarsonder nie.
+
+[wysig] Bronne
+
+     * Magic cookie by die Engelse Wikipedia
+     * HTTP cookie by die Engelse Wikipedia
+     * Cookie (internet) by die Nederlandse Wikipedia
+
+   Kategorie: Rekenaarwetenskap
+

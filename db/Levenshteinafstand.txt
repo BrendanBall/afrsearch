@@ -1,0 +1,166 @@
+Levenshteinafstand
+
+
+   In inligtingsteorie word die Levenshteinafstand of redigeerafstand
+   tussen twee karakterstringe gegee deur die minimum aantal bewerkings
+   benodig om een string in 'n ander te transformeer, waar 'n bewerking 'n
+   invoeging, skrapping, of vervanging is. Dit is vernoem na Vladimir
+   Levenshtein, wat die afstand in 1965 oorweeg het. Dit is nuttig in
+   toepassings wat moet bepaal hoe soortgelyk twee stringe is, soos
+   speltoetsers en vertalingsgeheues.
+
+   Byvoorbeeld, die Levenshteinafstand tussen "kitten" en "sitting" is 3
+   omdat daar drie redigeerbewerkings nodig is om die een in die ander te
+   verander, en daar is geen manier om dit in minder as drie verwerkings
+   te doen nie:
+     * kitten
+
+    1. sitten (vervanging van 'k' met 's')
+    2. sittin (vervanging van 'e' met 'i')
+    3. sitting (byvoeg van 'g' aan die einde)
+
+   Dit kan as 'n veralgemening van die Hammingafstand gesien word wat vir
+   stringe van dieselfde lengte gebruik word en wat slegs
+   vervangingsbewerkings oorweeg. Daar is ook verdere veralgemenings van
+   die Levenshteinafstand wat byvoorbeeld omruiling van twee karakters as
+   'n enkele verwerking hanteer.
+
+   Inhoud
+
+        * 1 Die algoritme
+             + 1.1 Moontlike verbeteringe
+             + 1.2 Korrektheidsbewys
+             + 1.3 Implementasies
+        * 2 Bo- en onder-grense
+        * 3 Kyk ook
+        * 4 Eksterne skakels
+
+[wysig] Die algoritme
+
+   'n Algemene onder-na-bo dinamieseprogrammeringalgoritme vir die
+   berekening van die Levenshteinafstand behels die gebruik van 'n (n + 1)
+   × (m + 1) matriks, waar n en m die lengtes van die twee stringe is.
+   Hier is pseudokode vir 'n funksie Levenshteinafstand wat twee stringe
+   neem, strA met lengte lenStrA, en strB met lengte lenStrB, en die
+   Levenshteinafstand tussen hulle bereken:
+heelgetal Levenshteinafstand(karakter strA[1..lenStrA], karakter strB[1..lenStrB
+])
+   // d is 'n tabel met lenStrA+1 rye en lenStrB+1 kolomme
+   verklaar int d[0..lenStrA, 0..lenStrB]
+   // i en j word vir iterasie oor strA en strB gebruik
+   verklaar heelgetal i, j, koste
+
+   vir i vanaf 0 tot lenStrA
+       d[i, 0] := i
+   vir j vanaf 0 tot lenStrB
+       d[0, j] := j
+
+   vir i vanaf 1 tot lenStrA
+       vir j vanaf 1 tot lenStrB
+           as strA[i] = strB[j] dan koste := 0
+                                anders koste := 1
+           d[i, j] := minimum(
+                                d[i-1, j  ] + 1,     // skrapping
+                                d[i  , j-1] + 1,     // invoeging
+                                d[i-1, j-1] + koste   // vervanging
+                            )
+
+   raporteer d[lenStrA, lenStrB]
+
+   Die invariant wat deurgans in die algoritme behoue bly is dat ons die
+   aanvanklike segment str1[1..i] in str2[1..j] kan transformeer deur 'n
+   minimum van d[i,j] verwerkings te gebruik. Aan die einde bevat die
+   regter onderste element van die skikking die antwoord.
+
+[wysig] Moontlike verbeteringe
+
+   Moontlike verbeteringe aan die algoritme sluit in:
+     * Ons kan die algoritme aanpas om minder plek (geheue) te gebruik,
+       O(m) in plaas van O(mn), aangesien dit slegs vereis dat die vorige
+       ry en die huidige ry op enige gegewe tydstip gestoor word.
+     * Ons kan die aantal invoegings, skrappings en vervangings of selfs
+       die posisies waar hulle voorkom, wat altyd j is, afsonderlik stoor.
+     * Ons kan verskillende kostes aan invoeging, skrapping en vervanging
+       toeken.
+     * Die inisialisering van d[i,0] kan na binne die hoof buite lus
+       geskuif word.
+     * Hierdie algoritme paralleliseer nie goed nie, as gevolg van 'n
+       groot aantal data-afhanklikhede. Al die kostes, cost, kan egter in
+       parallel bereken word en die algoritme kan aangepas word om die
+       minimum funksie in fases uit te voer om afhanklikhede te elimineer.
+
+[wysig] Korrektheidsbewys
+
+   Soos vroeër genoem, is die invariant dat ons die aanvanklike segment
+   s[1..i] in t[1..j] kan transformeer deur 'n minimum d[i,j] verwerkings
+   te gebruik. Die invariant geld aangesien:
+     * Dit is aanvanklik waar is vir ry en kolom 0 omdat s[1..i] in die
+       leë string t[1..0] getransformeer kan word deur eenvoudig al i
+       karakters te laat gaan. Op soortgelyke manier kan ons s[1..0] na
+       t[1..j] , transformeer deur eenvoudig al j karakters op te tel.
+     * Die minimum word oor drie afstande geneem, elkeen waarvoor moontlik
+       is:
+          + As ons s[1..i] na t[1..j-1] in k verwerkings kan transformeer
+            dan kan ons t[j] na die tyd optel om t[1..j] in k+1
+            verwerkings te kry.
+          + As ons s[1..i-1] na t[1..j] in k verwerkings kan transformeer,
+            dan kan ons dieselfde verwerkings doen op s[1..i] en dan die
+            oorspronklike s[i] teen die einde in k+1 verwerkings verwyder.
+          + As ons s[1..i-1] na t[1..j-1] in k verwerkings kan
+            transformeer, kan ons dieselfde doen aan s[1..i] en dan 'n
+            vervanging van t[j] vir die oorspronklike s[i] teen die einde
+            indien nodig wat k+cost verwerkings benodig.
+     * Die verwerkings benodig om s[1..n] in t[1..m] te transformeer is
+       natuurlik die aantal benodig om al s in alle t te transformeer, en
+       dus d[n,m] geld ons resultaat.
+
+   Die bewys slaag nie daarin om te bevestig dat die getal geplaas in
+   d[i,j] inderdaad minimaal is nie; dit is moeiliker om aan te toon, en
+   behels 'n argument by contradiction waarin ons aanneem dat d[i,j]
+   kleiner is as die minimum van drie, en dit dan gebruik om te wys dat
+   een van die drie nie minimaal is nie.
+
+[wysig] Implementasies
+
+   Die bronkode vir voorbeeld implementasies in verskillende rekenaartale
+   kan gevind word by Wikisource.
+
+[wysig] Bo- en onder-grense
+
+   Die Levenshteinafstand het verskillende bo- en onder-grense wat nuttig
+   is in toepassings wat baie daarvan moet bereken en vergelyk. Dit sluit
+   in:
+     * Dit is altyd ten minste die verskil in grootte van die twee
+       stringe.
+     * Dit is op die meeste die lengte van die langste string.
+     * Dit is nul as en slegs as die stringe identies is.
+     * As die stringe dieselfde lengte het is die Hammingafstand 'n
+       bo-grens is vir die Levenshteinafstand.
+     * As die stringe s en t genoem word is die aantal karakters (sonder
+       om duplikate te tel) in s wat nie in in t gevind word nie 'n
+       onder-grens.
+
+[wysig] Kyk ook
+
+     * Bitap algoritme
+     * Levenshteinautomata
+     * Metric space
+
+[wysig] Eksterne skakels
+
+     * Levenshtein Distance, in Three Flavors, by Michael Gilleland
+     * NIST's Dictionary of Algorithms and Data Structures: Levenshtein
+       Distance
+     * CSE 590BI, Winter 1996 Algorithms in Molecular Biology The
+       algorithms from lectures 2, 3 and 4 are based on the Levenshtein
+       distance but implement a different scoring function. The Haskell
+       example was based on these notes.
+     * Levenshtein Distance - visualized
+     * Distance between strings - Levenshtein and Hamming
+     * Another Edit Distance Visualization (very fast)
+     * Wie funktioniert der Levenshtein-Algorithmus...?
+     * Continuous variants, spike train metrics, and applications to
+       neurophysiology
+
+   Kategorieë: Algoritmes op stringe • Diskrete wiskunde
+

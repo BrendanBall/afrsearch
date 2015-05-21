@@ -1,0 +1,115 @@
+Microsoft Word
+
+
+   Microsoft Word is 'n woordverwerkingsprogram van die firma Microsoft
+   vir die Windows- en Mac OS bedryfstelsels. Dit is deel van die
+   kantoorpakket Microsoft Office asook die op privaatgebruikers gerigte
+   programsuite Microsoft Works Suite en word ook los verkoop.
+
+   In 1983 word die eerste weergawe van Microsoft Word vir MS-DOS
+   uitgebring, in 1984 verskyn die Macintoshweergawe. Die DOS-weergawes
+   word tot 1995 verhandel. 'n Weergawe vir SCO Unix het ook bestaan.
+
+   Die funksionaliteit van Word kan deurmiddel van VBA (Win / Mac OS) en
+   AppleScript (net Mac OS) uitgebrei word.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Lêerformaat
+        * 3 Weergawes
+        * 4 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Word was die eerste populêre woordverwerkingsprogram vir die IBM-PC. In
+   kombinasie met 'n grafiese kaart wat 'n grafiese mode weer kon gee
+   (soos CGA of Hercules), was Word in staat om tekstonderkseidings as vet
+   of kursief direk weer te gee.
+
+[wysig] Lêerformaat
+
+   Die lêeruitbreiding vir Microsoft Word-dokumente heet .doc. Die
+   bybehorende lêerformaat is propiëtêr en dokumentasie hiervan is nie
+   kosteloos beskikbaar nie. Word kan egter met verskeie lêerformate
+   omgaan, daarenteen word geen van die vreemde formate volledig
+   ondersteun nie. Verder ontbreek lêerfilters vir die omskakeling van die
+   direkte mededingers soos OpenOffice.org of StarOffice.
+
+   Nuwere weergawes van Word ondersteun egter 'n XML-gebaseerde
+   lêerformaat, WordprocessingML. Hierdie XML-lêer kan makliker gelees en
+   geskryf word en is, nadat verskye regerings op grond van die propiëtêre
+   lêerformaat gedreig het om Microsoft Officepakket nie langer te gebruik
+   nie, aan die einde van Januarie 2005 vrygegee. Die dokumente in
+   XML-formaat is egter ietwat groter, aangesien XML 'n groter oorhoofse
+   koste het.
+
+   By digitale publikasie of inligtinguitruiling van dokumente in
+   Microsoft Wordformaat is versigtigheid nodig, aangesien die laaste
+   veranderings in die teks sigbaar gemaak kan word as die
+   snelstoorfunksie, weergawebeheerfunksie, of die wysigingsvolgfunksie
+   aktief is. Uit veiligheidstegniese oogpunt gesien is ook die
+   wagwoordbeveiliging in MS-Officedokumente nie betroubaar nie.[1]
+
+[wysig] Weergawes
+
+   Weergawes vir MS-DOS:
+     * November 1983 - Word 1
+     * 1985 - Word 2
+     * 1986 - Word 3
+     * 1987 - Word 4 ook "Microsoft Word 4.0 vir die PC" genoem
+     * 1989 - Word 5
+     * 1991 - Word 5.5
+
+   Weergawes vir Apple Macintosh:
+     * Januarie 1985 - Word 1 vir Macintosh
+     * 1987 - Word 3
+     * 1989 - Word 4
+     * 1991 - Word 5
+     * 1993 - Word 6
+     * 1998 - Word 98
+     * 2000 - Word 2001, die laatste versie wat met Mac OS 9 kompatibel is
+     * 2001 - Word v.X, die eerste versie vir Mac OS X
+     * 2004 - Word 2004
+
+   Weergawes vir 16-bis-Windows:
+     * November 1989 - Word vir Windows
+     * 1991 - Word 2 vir Windows
+     * 1993 - Word 6 vir Windows: Die versies 3, 4 en 5 is oorgeslaan
+       sodat die weergawenommer van die Mac- en Dosversies gelykgestel
+       word asook die weergawenommers van WordPerfect, wat destyds die
+       hoofmededinger van MS Word was. In Word 2 was daar reeds 'n
+       skripttaal "Word Basic", waarmee take geoutomatiseer kon word.
+
+   Weergawes vir 32-bis-Windows:
+     * 1995 - Word 7.0, ook "Word 95" genoem (o.a. bestanddeel van Office
+       95)
+     * 1997 - Word 8.0, ook "Word 97" genoem (o.a. bestanddeel van Office
+       97)
+     * 1999 - Word 9.0, ook "Word 2000" genoem (o.a. bestanddeel van
+       Office 2000)
+     * 2001 - Word 10.0, ook "Word 2002" of "Word XP" genoem (o.a.
+       bestanddeel van Office XP)
+     * 2003 - Word 11.0, ook "Word 2003" respektiewelik "Microsoft Office
+       Word 2003" genoem (o.a. bestanddeel van Office 2003). Die versie
+       11.6113.5703 kenmerk daarby die RTM-versie, na installasie van
+       Service Pack 1 het Word 2003 die versie 11.6359.6360.
+     * Word 12.0 - "Office 12", geplan vir eind 2006 en verskyn gelyk met
+       Windows Vista
+
+   Vanaf weergawe 7.0 word die weergawenommers gelyk met andere
+   Office-produkte soos Excel, Powerpoint, Access gevoer. Sedert hierdie
+   weergawe is ook VBA beskikbaar.
+
+   Weergawes vir SCO UNIX:
+     * Microsoft Word for UNIX Systems Release 5.1
+
+[wysig] Eksterne skakels
+
+     * Amptelike webwerf vir Word vir Windows
+     * Amptelike webwerf vir Word vir Macintosh
+     * 'n FAQ-webwerf vir Microsoft Word
+     * Inligting oor Office 12
+
+   Kategorie: Toepassingsagteware
+

@@ -1,0 +1,30 @@
+MediaWikibespreking:Upload.js
+
+
+   Dankie vir die moeite hier, Anrie. Ek weet ek klink nou dalk soos 'n
+   vark (nie die bedoeling nie), maar weet jy waarmee jy besig is? Sover
+   ek weet sal 'n nuutgeskepte bladsy soos hierdie nie outomaties
+   ingesluit word nie. Mens moet ook sorg dra met wat vertaal word en wat
+   om baie spesifieke redes nie verander kan word nie. Het jy dokumentasie
+   vir hierdie kode êrens gekry wat verduidelik hoe om dit te
+   installeer/aktiveer?--Alias 08:30, 4 Januarie 2008 (UTC)
+
+          Ek het dit (obviously) nog nie reggekry nie, maar ek het darem
+          so 'n gebruiker of twee by die Nederlandse Wikipedia wat hulp
+          verleen (dis ook waar ek die kode gekry het). Ongelukkig duur
+          dit telkens net 'n wyle tot ek weer terugvoering van hulle af
+          kry. Anrie 08:42, 4 Januarie 2008 (UTC)
+          Ek weet waarmee ek besig is, maar daar is wel nog goed wat ek
+          nie weet nie. Ek het bv. agtergekom dat hierdie blad blykbaar
+          nie outomaties ingesluit word nie en sal dus nou moet uitvind
+          wat om te doen sodat dit wel ingesluit word. Anrie 08:44, 4
+          Januarie 2008 (UTC)
+
+                Die "Wat om te vertaal" kan nogal tricky raak. ek het nou
+                die verwysing by die common.js gevoeg, maar ek sien dit
+                vertoon steeds nie. Al wat ek kan dink wat miskien vertaal
+                kan moet word, alhoewel ek nie kan dink dis nodig nie, is
+                die "loadAutoInformationTemplate", wat miskien
+                "loadAutoBeeldinligtingTemplate" moet wees, maar dit maak
+                nie 100% sin nie. Anrie 09:00, 4 Januarie 2008 (UTC)
+

@@ -1,0 +1,113 @@
+Kleinbyvreter
+
+
+                    Kleinbyvreter
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Meropidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Merops
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. pusillus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Merops pusillus
+   Statius Muller, 1776
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kleinbyvreter is 'n algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Word aan sy klein, slanke grootte en helder kleure, nl. geel keel,
+   oranjebruin onderkant en feitlik reghoekige stert uitgeken. Die vlerke
+   is groen en bruin met 'n swart bek. Die swart kraag ontbreek by die
+   jonges en hulle onderkante is liggroen. Dit is die kleinste byvreter,
+   ongeveer 15-17cm lank. Beide geslagte lyk eenders. Broei hoofsaaklik in
+   sandwalle naby water, maar soms ook in die openinge van erdvarkgate. Lê
+   gewoonlik 6-8 ronde wit eiers waarop albei geslagte om die beurt broei.
+   Lief om in rye op takke of draadheinings saam te sit.
+
+[wysig] Habitat
+
+   Hou in pare of swerms naby groot riviere of by oop kolle in boomveld of
+   bosveld. Sit meestal op 'n lae tak of draadheining vanwaar hulle
+   jagvlugte uitvoer. Vreet hoofsaaklik insekte, veral bye en perdebye, en
+   raak ontslae van die angels deur die insek herhaaldelik teen 'n harde
+   oppervlakte te slaan
+
+[wysig] Verspreiding
+
+   Kom meestal voor in Afrika, suid van die Sahara. Migrasie is beperk tot
+   seisoenale reënvalpatrone.
+
+[wysig] Geluid
+
+   Uiter 'n rustige "tjip,tjip trriee-trriee-trriee"
+
+[wysig] Ander name
+
+     * Engelse naam: "Little Bee-eater"
+     * Wetenskaplike naam: Merops pusillus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Byvreters
+

@@ -1,0 +1,130 @@
+Leeu
+
+
+                      Leeu
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+          Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Felidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Panthera
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. leo
+     Subspesie:    {{{subspecies}}}
+    [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                 Binomiale naam
+                  Panthera leo
+   (Linnaeus, 1758)
+                Trinomiale naam
+                {{{trinomial}}}
+                  Tipe Spesies
+               {{{type_species}}}
+            {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van leeus in Afrika
+   Verspreiding van leeus in Afrika
+                   Sinonieme
+
+                                  Felis leo
+                              (Linnaeus, 1758)
+
+   Die leeu (Panthera leo) is 'n soogdier van die familie Felidae en een
+   van die vier "groot katte" in die genus Panthera. Die leeu is die
+   tweede grootste katspesie naas die tier. Die manlike leeu kan maklik
+   herken word deur sy maanhare en weeg tussen 150–250 kg. Wyfies weeg
+   tussen 120–150 kg.^[1] In die wild word leeus tussen 10 en 14 jaar oud,
+   terwyl die in gevangenis tot oor die 20 jaar oud kan word. Alhowel
+   hulle op 'n tyd in Europa, Asië en Afrika te vinde was, bestaan die
+   leeu tans (in die wild) nog net in Afrika en Indië. Leeus geniet 'n
+   warm klimaat en jag in groepe.
+
+[wysig] Bevolking en verspreiding
+
+   In historiese tye het die leeu se habitat tot in die suidelike dele van
+   Eurasië gestrek, van Portugal tot Indië en die meeste van Afrika,
+   behalwe vir die sentrale reënwoudgebiede en die Sahara-woestyn. Aan die
+   begin van die huidige era het hulle in Wes-Europa uitgesterf en in
+   Griekeland teen 100 n.C. uitgesterf. In die Kaukasus, hulle laatste
+   Europese habitat, het leeus tot ongeveer die 10de eeu oorleef. Tussen
+   die laat 19de en vroeë 20ste eeu het hulle ook uitgesterf in
+   Noord-Afrika en die Middel-Ooste. Tans lewe die meeste leeus in
+   Oostelike en Suidelike Afrika en hulle getalle is besig om drasties te
+   daal. Huidige beramings van die Afrika leeu se bevolking is tussen
+   16,000 en 30,000 in die wild, 'n daling van die beraamde 100,000 in die
+   1990's; toenemende kontak met mense word as die hoofrede vir hierdie
+   afname beskou^[2] Die oorblywende bevolkings is reëlmatig van mekaar
+   geïsoleer, wat tot inteling kan lei en, as gevolg, 'n gebrek aan
+   genetiese diversiteit.
+   Die Gir-woud in die Gujarat staat, Indië, is die laaste natuurlike
+   habitat van ongeveer 300 wilde Asiatiese leeus. Daar word beplan om
+   sommige van hulle na die Palpur-Kuno Reservaat te neem in die naburige
+   staat Madhya Pradesh.
+   Die Gir-woud in die Gujarat staat, Indië, is die laaste natuurlike
+   habitat van ongeveer 300 wilde Asiatiese leeus. Daar word beplan om
+   sommige van hulle na die Palpur-Kuno Reservaat te neem in die naburige
+   staat Madhya Pradesh.
+
+   Die Asiatiese leeu (Panthera leo persica), wat in historiese tye van
+   Turkye tot by Indië en van die Kaukasus tot by Jemen verspreid was, was
+   in Palestinië uitgeroei teen due Middeleeue en van die meeste van die
+   res van Asië na die aankoms van maklik verkrygbare vuurwapens in die
+   18de eeu. Die laaste leeu in Iran was in 1942 geskiet. Die subspesie
+   oorleef tans slegs in en om die Gir-woud in Noordwestelike Indië.
+   Ongeveer 300 leeus lewe in dié 1412 km² reservaat in diee staat van
+   Gujarat, wat die meeste van die woud bevat. Hulle getalle is op die
+   oomblik stabiel.
+
+   Tot en met die laat Pleistoceen ('n geologiese tydvak ongeveer
+   1,808,000 tot 11,550 jaar gelede), het leeus ook in die Amerikas en in
+   die Noorde van Eurasië voorgekom. Die beroemdste van hierde subspesie
+   was die Grotleeu (Panthera leo spelaea) en die Amerikaanse leeu
+   (Panthera leo atrox) (wat nie met die poema, Puma concolor, ook bekend
+   as die bergleeu, verwar moet word nie).
+
+[wysig] Galery
+
+   'n Leeuwyfie in Namibië
+
+                           Twee leeus besig om aan 'n buffel te vreet.
+
+[wysig] Verwysings
+
+    1. ^ Science & Nature - Wildfacts - Lion. Laaste besoek 24 Oktober
+       2006.
+    2. ^ The Vanishing Lions by die PBS-webwerf. Laaste besoek 28 Maart,
+       2007.
+
+   nigger
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Katagtiges
+

@@ -1,0 +1,70 @@
+Pasifiese kabeljou
+
+
+                  Pasifiese kabeljou
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Pasifiese kabeljou, Gadus morhua
+   Pasifiese kabeljou, Gadus morhua
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gadiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gadidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gadus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. macrocephalus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Gadus macrocephalus
+   Tilesius, 1810
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Pasifiese kabeljou (Gadus macrocephalus), wat ook as "Ware Kabeljou"
+   bekendstaan, word noord van Oregon langs die hele weskus van Kanada in
+   die Stille Oseaan aangetref. Dit is soortgelyk aan Atlantiese kabeljou
+   en is bruin tot grys op die rug, ligter op die sye met 'n grys tot wit
+   buiken het die tipiese kenvoeldraad van ander kabeljoue. Die Pasifiese
+   kabeljou is tipies 60 cm lank en weeg tussen 2,5 en 3,6 kg.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Gadidae • Dierelewe van of Kanada • Dierelewe
+   van Sjina • Dierelewe van Rusland • Dierelewe van Korea • Dierelewe van
+   die VSA
+

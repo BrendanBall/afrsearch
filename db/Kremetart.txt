@@ -1,0 +1,93 @@
+Kremetart
+
+
+                      Kremetart
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Die kremetartboom
+   Die kremetartboom
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magnoliophyta
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Magnoliopsida
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Malvales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Malvaceae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Adansonia
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Kremetart (baobabs) (Adansonia), ook soms genoem "aap-brood bome",
+   is a genus van agt spesies van bome, inheems tot Madagaskar (met ses
+   spesies), en Afrika en Australië (een spesie in elk).
+
+[wysig] Spesies
+
+     * Adansonia digitata - Afrikaanse Kremetart (Noordoos, sentraal &
+       Suidelike Afrika)
+     * Adansonia grandidieri - Grandidier's Baobab (Madagaskar)
+     * Adansonia gregorii (syn. A. gibbosa) - Boab of Australiaanse
+       Kremetart(Baobab) (Noordwestelike Australië)
+     * Adansonia madagascariensis - Madagaskar Baobab (Madagaskar)
+     * Adansonia perrieri - Perrier's Baobab (Madagaskar)
+     * Adansonia rubrostipa (syn. A. fony) - Fony Baobab (Madagaskar)
+     * Adansonia suarezensis - Suarez Baobab (Madagaskar)
+     * Adansonia za - Za Baobab (Madagaskar)
+
+   Die naam Adansonia is ter ere van die Franse ontdekker Michel Adanson.
+
+[wysig] Kulturele verwysings
+
+   Die kremetart is die nasionale boom van Madagaskar.
+
+[wysig] Galery
+
+   'n Kremetartboom in Derby, Wes-Australië
+
+                                            Adansonia grandidieri in Madagaskar
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Adansonia digitata
+   Kategorie: Bome van Afrika
+

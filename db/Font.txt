@@ -1,0 +1,31 @@
+Font
+
+
+   In tipografie word 'n lettertipe (engels: font), tradisioneel
+   gedefinieer as 'n volledige letterstel van 'n enkele grote of 'n
+   spesifieke lettertipe. Byvoorbeeld, alle letters vir 9-punt Arial is 'n
+   font, en die 10-punt grotes sal 'n ander font wees.
+
+[wysig] Gebruiklike fonts
+
+   Gebruiklike fonts onder MS Windows is Arial, Arial Black, Courier New,
+   Times New Roman, Tahoma, Verdana, ens.
+
+[wysig] Lettertipes met vaste spasiëring
+
+   Lettertipes met vaste spasiëring Daar word ook onderskei tussen fonts
+   met vaste spasiëring (soos 'n tikmasjien, soos 'n tikmasjien, waar elke
+   letter dieselfde breedte het - 'n i gebruik hier dieselfde spasie as 'n
+   w). 'n Voorbeeld hiervan is: Courier New.
+
+[wysig] Lettertipes met veranderlike spasiëring
+
+   Lettertipes met veranderlike spasiëring Lettertipes met veranderlike
+   spasiëring (soos wat dit veral in die boekdruk gebruik word - waar die
+   letters onafhankike breedte het - 'n i gebruik dus minder spasie as 'n
+   w). Voorbeelde hiervan is: Arial, Arial Black, Times New Roman, Tahoma,
+   Verdana.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Tipografie • Saadjies
+

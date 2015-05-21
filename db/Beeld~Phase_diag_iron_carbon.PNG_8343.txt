@@ -1,0 +1,88 @@
+Beeld:Phase diag iron carbon.PNG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+
+   Beeld:Phase diag iron carbon.PNG
+   Geen hoëre resolusie beskikbaar nie.
+   Phase_diag_iron_carbon.PNG (409 × 379 pixel, file size: 3 KG, MIME
+   type: image/png)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   This image should be recreated using vector graphics as an SVG file.
+   This has several advantages; see Commons:Media for cleanup for more
+   information. If an SVG form of this image is already available, please
+   upload it. After uploading an SVG, replace this template with template
+   {{Vector version available|new image name.svg}} in this image.
+     __________________________________________________________________
+
+   العربية | Български | Català | Česky | Dansk | Deutsch | English |
+   Esperanto | Español | Français | 한국어 | Italiano | Magyar | Nederlands |
+   日本語 | Polski | Português | Română | Русский | Suomi | Svenska |
+   Türkçe | Українська | Tiếng Việt | ‪中文(繁體)‬ | ‪中文(简体)‬ | +/-
+
+   An English version of Diag phase fer carbone.png, with grey tones
+   cleaned up and some modification of text. Adaptation by Polyparadigm.
+   Description of original image follows:
+     __________________________________________________________________
+
+   Iron-carbon phase diagram under atmospheric pressure
+
+   This diagram is limited by pure iron on the left and by iron carbide on
+   the right. The mains phases are:
+     * α iron: ferrite, ferritic steel
+     * γ iron: austenite, austenitic steel
+     * iron carbide: cementite, Fe[3]C.
+
+   We can see an eutectic and an eutectoid; these phases crystallise as a
+   stacking of fine strips of pure phases (iron and cementite) in case of
+   the eutectoid, or a pure iron containing small balls of cementite for
+   the eutectic. Although it is heterogeneous, these phases behave like
+   homogeneous pure bodies.
+
+   Steel is between 0 and 2 mass percent of carbon. Cast iron is between
+   1,7 and 6,67%.
+
+   Author : Christophe Dang Ngoc Chan
+
+   GNU head Permission is granted to copy, distribute and/or modify this
+   document under the terms of the GNU Free Documentation license, Version
+   1.2 or any later version published by the Free Software Foundation;
+   with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+   Texts. A copy of the license is included in the section entitled "GNU
+   Free Documentation license".
+     __________________________________________________________________
+
+   Aragonés | العربية | Asturianu | Български | বাংলা | ইমার
+   ঠার/বিষ্ণুপ্রিয়া মণিপুরী | Brezhoneg | Bosanski | Català | Cebuano |
+   Česky | Dansk | Deutsch | Ελληνικά | English | Esperanto | Español |
+   Eesti | Euskara | فارسی | Suomi | Français | Gaeilge | Galego | עברית |
+   Hrvatski | Magyar | Bahasa Indonesia | Ido | Íslenska | Italiano |
+   日本語 | ქართული | ភាសាខ្មែរ | 한국어 | Kurdî / كوردی | Latina |
+   Lëtzebuergesch | Lietuvių | Bahasa Melayu | Nnapulitano | Nederlands |
+   ‪Norsk (nynorsk)‬ | ‪Norsk (bokmål)‬ | Occitan | Polski | Português |
+   Română | Русский | Slovenčina | Slovenščina | Shqip | Српски / Srpski |
+   Svenska | తెలుగు | ไทย | Türkçe | Українська | اردو | Tiếng Việt |
+   Volapük | Yorùbá | ‪中文(中国大陆)‬ | ‪中文(台灣)‬ | +/-
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 18:34, 9 Julie 2005 409×379 (3 KG) Polyparadigm (An English
+   version of Diag phase fer carbone.png, with grey tones cleaned up and
+   some modification of text. Adaptation by Polyparadigm. Description of
+   original image follows: ---- Iron-carbon phase diagram under
+   atmospheric pressure This diag)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Staal
+

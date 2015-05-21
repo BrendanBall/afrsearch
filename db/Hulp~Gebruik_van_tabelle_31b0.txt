@@ -1,0 +1,72 @@
+Hulp:Gebruik van tabelle
+
+
+   Tydens die skepping of redigering van 'n artikel is dit somtyds nodig
+   om 'n tabel te gebruik, sodat die inligting duideliker weergegee kan
+   word. Daar is verskeie manier om tabelle te werkstellig, maar hier volg
+   twee van die meer eenvoudiger maniere.
+
+   As u 'n vraag het oor die gebruik van tabelle, stel dit gerus op die
+   besprekingsblad.
+
+[wysig] Tabel 1:
+
+   Wat u intik:
+
+{|
+| A
+| B
+|-
+| C
+| D
+|}
+
+   of:
+
+{|
+| A || B
+|-
+| C || D
+|}
+
+   Hoe dit op u skerm verskyn:
+
+     A B
+     C D
+
+[wysig] Tabel 2
+
+   Wat u intik:
+
+{| class="wikitable" style="text-align:center"
+|+Maaltafels
+|-
+! &times; !! 1 !! 2 !! 3
+|-
+! 1
+| 1 || 2 || 3
+|-
+! 2
+| 2 || 4 || 6
+|-
+! 3
+| 3 || 6 || 9
+|-
+! 4
+| 4 || 8 || 12
+|-
+! 5
+| 5 || 10 || 15
+|}
+
+   Hoe dit op u skerm verskyn:
+
+   CAPTION: Maaltafels
+
+     × 1 2  3
+     1 1 2  3
+     2 2 4  6
+     3 3 6  9
+     4 4 8  12
+     5 5 10 15
+

@@ -1,0 +1,21 @@
+Druk
+
+
+   Druk is 'n intensiewe fisiese grootheid van termodinamiese stelsels.
+
+   Druk word gewoonlik uitgedruk as 'n krag wat oor 'n oppervlakte
+   uitgeoefen word en kan wiskundig as volg uitgedruk word:
+
+   p = \frac{F}{A}\ \mbox{of}\ p = \frac{dF}{dA}
+
+   waar:
+
+          p die druk is,
+          F die krag is,
+          A die oppervlakte is.
+
+   Die afgeleide SI-eenheid van druk is die Pascal.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Fisika
+

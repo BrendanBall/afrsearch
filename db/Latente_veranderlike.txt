@@ -1,0 +1,23 @@
+Latente veranderlike
+
+
+   Latente veranderlikes, in teenstelling met waarneembare veranderlikes,
+   is daardie veranderlikes wat nie direk waargeneem kan word nie, maar
+   wat eerder afgelei word van ander veranderlikes wat waargeneem en direk
+   gemeet kan word. Voorbeelde van latente veranderlikes sluit in
+   lewenskwaliteit, sakevertroue, moraal, gelukkigheid, konserwatisme.
+   Latente veranderlikes word ook verborge veranderlikes, modelparameters,
+   hipotetiese veranderlikes of hipotetiese konstrukte genoem. Die gebruik
+   van latente veranderlikes kom algemeen voor in die sosiale wetenskappe,
+   robotika, en tot 'n mate in ekonomie; maar die presiese definisie van
+   latente veranderlikes verskil in die verskillende velde.
+
+   Een voordeel van die gebruik van latente veranderlikes is dat dit die
+   dimensionaliteit van data verminder. 'n Groot hoeveelheid waarneembaar
+   veranderlikes kan saamgevoeg word om 'n onderliggende konsep voor te
+   stel wat dit vir mense makliker maak om te verstaan en die inligting te
+   assimileer. Ter selfde tyd is die latente veranderlikes die skakel
+   tussen waarneembare ("sub-simboliese") data in die werklike lewe, en
+   simboliese data in die gemodelleerde wêreld.
+   Kategorieë: Sosiale wetenskappe • Bayes-netwerk • Ekonomie • Dimensie
+

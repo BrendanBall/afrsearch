@@ -1,0 +1,30 @@
+Inligtingstegnologie
+
+
+   Inligtingstegnologie (IT) of inligtings- en kommunikasietegnologie
+   (IKT) (of in Engels: ICT) is die gebruik van tegnologiese komponente
+   wat nodig is om inligtingsverwerking moontlik te maak. In besonder is
+   dit die gebruik van elektroniese rekenaars en rekenaarsagteware om data
+   te stoor, herroep, verwerk, stuur, ontvang en beskerm vanaf enige plek
+   ter enige tyd.
+
+   Verwante onderwerpe:
+     * Ondernemingsargitektuur
+     * Rekenaarwetenskap
+     * Inligtingswetenskap
+     * Data sekuriteit
+     * Datavleg (Internet)
+     * Internet
+     * Patroonherkenning
+     * Databestuur
+          + Dataverwerking
+          + Metadata
+     * Stoor van data
+          + Databasisse
+          + Data netwerke
+     * Kriptografie
+     * Kunsmatige intelligensie
+     * en baie meer...
+
+   Kategorie: Rekenaarwetenskap
+

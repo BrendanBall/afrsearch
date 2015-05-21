@@ -1,0 +1,69 @@
+Erdvark
+
+
+                       Aardvark
+   LC
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Tubulidentata
+                   Huxley, 1872
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Orycteropodidae
+                   Gray, 1821
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Orycteropus
+                   G. Cuvier, 1798
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     O. afer
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Orycteropus afer
+   (Pallas, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die erdvark of aardvark (Orycteropus afer) is 'n soogdier. Daar is
+   slegs een spesie van hierdie soogdierorde in die wêreld. Die erdvark is
+   van die familie Orycteropodidae, orde Tubilidentata (buistandige), en
+   is die enigste oorlewende spesie in beide die orde en selfs die
+   familie. Hierdie dier is oorspronklik in dieselfde orde geplaas as die
+   miereter. In teenstelling met die miereterorde, het die erdvark wel
+   tande, 20 in totaal. Die tande het nie emalje nie, en word gebruik om
+   die termiete wat gevreet is te vergruis voordat hulle afgesluk word.
+   Kategorie: Erdvarke
+

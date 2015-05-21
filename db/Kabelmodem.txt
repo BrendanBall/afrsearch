@@ -1,0 +1,41 @@
+Kabelmodem
+
+
+   Motorola se Surfboard-kabelmodem
+   Motorola se Surfboard-kabelmodem
+
+   'n Kabelmodem is 'n modem wat toegang bied tot 'n datasein wat deur
+   middel van die kabeltelevisie-infrastruktuur gestuur word. Kabelmodems
+   word veral gebruik vir breëband-internetdienste en trek voordeel uit
+   die kabeltelevisie-netwerk se ongebruikte bandwydte.
+
+   Kabelmodems is tans nog die mees gebruiklike hardeware vir
+   breëbanddienste in die Verenigde State en Kanada, maar word ook in
+   Australië en Europa gebruik en dikwels as deel van triple play-pakette
+   bemark wat 'n gekombineerde toegang tot kabeltelevisie-, telefoon- en
+   internetdienste verskaf.
+
+   Kabeltelevisie pronk met baie hoë af- en oplaaispoede, waarby die
+   aflaaispoed vir kommersiële klante 50 megagrepe of meer per sekonde en
+   vir residensiële internet-toegange tussen 2 en 10 megagrepe per sekonde
+   kan beloop. Weens die hoë koste wat aan hierdie soort breëbanddienste
+   verbonde is, raak ADSL-toegange per telefoonlyn, die mees gebruiklike
+   breëband-tegnologie in Europese lande, nou ook in die VSA toenemend
+   gewild.
+
+   Streng gesproke moet kabelmodems eerder as 'n netwerkbrug gedefinieer
+   word. Internet-diensverskaffers bied soms kabelmodem-hardeware te koop
+   of te huur aan wat 'n brug met 'n netwerkspil of roeteerder kombineer.
+
+   In die 30 lidstate van die OECD is daar teen die einde van 2006 reeds
+   sowat 57 miljoen kabelmodems vir breëband-internettoegang ingespan,
+   waarvan sowat die helfte in die Verenigde State. Kabelmodems se
+   markaandeel het byna 30 persent beloop en was die tweede mees
+   gebruiklike tegnologie na ADSL.^[1]
+
+[wysig] Verwysings
+
+    1. ^ OECD-breëband-statistieke
+
+   Kategorie: Rekenaar
+

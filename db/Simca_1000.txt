@@ -1,0 +1,23 @@
+Simca 1000
+
+
+                                                               Simca 1000
+                                                             Spesifikasies
+
+
+                                Vervaardiger:      Simca
+                                 Produksie:      1961-1978
+                                    Klas:          Sedan
+                                   Enjin:     Simca S4, 944cm³
+                                Wielafstand:      2223 mm
+                                   Lengte:        3797 mm
+                                  Breedte:        1524 mm
+                                   Hoogte:        1255 mm
+                                   Gewig:          796 kg
+
+   Die Simca 1000 is 'n voertuig wat gebou is sedert 1961 deur die
+   Simca-maatskappy. Die Simca-1000 is gebaseer op die basis van die Fiat
+   850. Die motor het 'n 944 cm³ 5CV enjin gehad aanvanklik 32Pk
+   geproduseer het.
+   Kategorie: Motorvoertuie
+

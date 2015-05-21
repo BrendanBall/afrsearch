@@ -1,0 +1,392 @@
+Diode
+
+
+   Soorte diodes
+   Soorte diodes
+
+   'n Diode is 'n elektriese komponent wat die rigting van die beweeging
+   van elektriese lading beperk. 'n Diode laat die vloei van stroom toe in
+   een rigting deur die komponent maar nie in die teenoorgestelde rigting
+   nie. Elektriese stroombane wat nodig het dat stroom net in een rigting
+   vloei maak gebruik van diodes.
+
+   Ou diodes sluit "kat-snorbaard" kristalle en vakuumbuis toestelle in.
+   Moderne diodes word van halfgeleiers vervaardig soos silikon en
+   germanium.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Termiese- of gasdiodes
+        * 3 Halfgeleier diodes
+             + 3.1 Shockley diode vergelyking
+        * 4 Tipe halfgeleier diodes
+        * 5 Toepassing
+             + 5.1 Radio demodulasie
+             + 5.2 Kragomsitting
+             + 5.3 Oorspanningsbeveiliging
+             + 5.4 Logiese hekke
+             + 5.5 Temperatuur meting
+             + 5.6 Ladding gekoppelde toestelle
+        * 6 Bronnelys
+
+[wysig] Geskiedenis
+
+   Termiese diodes en halfgeleier diodes het in parrallel ontwikkel.
+   Fredrick Gurhrie het die prinsiep van termiese diodes beskruif in 1873.
+   Karl Ferdinand Braun het die prinsiep van kristal diodes beskruif in
+   1874.
+
+   Die termiese diode was herontdek deur Tomas Edison op Februarie 13,
+   1880. Hy het a pattent uitgeneem in 1883, maar het nie die idee verder
+   ontwikkel nie. Braun het 'n pattent op die kristal diode uitgeneem in
+   1899. Die eerste radio ontvangers was van 'n kristal diode gebruik
+   gemaak het is deur Greenleaf Whittier Pickard vervaardig in 1900. Die
+   eerste termiese diodes is in Britanje gepatenteer deur John Ambrose
+   Flemming op November 16, 1904. Pickard het die pattent vir die silikon
+   crystal diode ontvang op November 20, 1906.
+
+   Daardie tyd het sulke toestelle bekend gestaan as gelykrigters. In 1919
+   het William Henry Eccles die term diode geskep van die Griekse wortels
+   di, wat 'twee' beteken, en ode, wat 'pad' beteken.
+
+[wysig] Termiese- of gasdiodes
+
+   Die simbool van 'n vakuum diode. Van bo na onder: die anode, die
+   katode, die verhitter filament.
+   Die simbool van 'n vakuum diode. Van bo na onder: die anode, die
+   katode, die verhitter filament.
+
+   Termiesediodes is vakuumbuis toestelle, wat bestaan uit 'n aantal
+   elektrodes omhul in 'n glas vakuumbuis.
+
+   In vakuumbuis diodes vloei stroom deur die katode, 'n filament wat
+   behandel is met 'n mengsel van barium en strontium oksiedes. Die stroom
+   verhit die filament, wat termiese emissie van elektrone binne die
+   vakuumbuis veroorsaak. Tydens meevoorspanning is die metaal elektrode,
+   wat die anode genoem word, positief, dus word die elektrone aangetrek
+   na die anode. Waneer die spannings polariteit omgekeer word
+   (truvoorspanning), word elektrone nie maklik van die onverhitte anode
+   afgeskei nie, daar vloei dus net 'n baie klein lekstroom.
+
+   Vir die meeste van die 20ste eeu is vakuumbuis diodes gebruik vir
+   analoog toepassings en as geleikrigters in kragbronne. Vandag word
+   vakuumbuis diodes slegs in gespisialiseerde toepassing, soon
+   geleikrigters in buiskitaar en hotrostel versterkers, en
+   gespisialiseerde hoëspanning toestelle gebuik.
+
+[wysig] Halfgeleier diodes
+
+   Diode simbool. Stroom vloei van die anode na die katode, maar nie in
+   die ander rigting nie.
+   Diode simbool. Stroom vloei van die anode na die katode, maar nie in
+   die ander rigting nie.
+
+   Moderne diodes is gebaseer op die halfgeleier pn-voegvlak. In
+   pn-voegvlak diodes kan gewone stroom van die p-tipe kant (die anode) na
+   die n-tiepe kant (die katode), maar nie in die teenoorgestelde rigting
+   nie. Die Schottky diode word gevorm deur die kontak van 'n metaal en 'n
+   halfgeleier in plaas van 'n pn-voegvlak.
+
+   'n Halfgeleier diode stoom-spanning, of I-V, eienskap kurwe word
+   toegeskruif aan die sperlaag wat ontstaan by die pn-voegvlak tussen die
+   verskillende halfgeleiers. Waneer die halfgeleier die eerste keer
+   geskep word versprei die geleidendsband (mobile) elektrone van die
+   N-doteerde gebied na die P-doteerde gebied waar daar 'n groot aantal
+   'holtes' (plekke vir elektrone waar geen elektorn teenwoordig is nie)
+   is waarmee die elektrone herkombineer. Waneer 'n elektron met die
+   holtes herkombineer verdwyn die holte en is die elektron nie meer
+   mobiel nie. Die gebied om die pn-voegvlak word uitgeput van lading en
+   tree op as 'n isolator. Hierdie gebied staan bekend as die sperlaag.
+
+   Hierdie gebied kan nie oneiendig groei nie. Elke elektron-holte paar
+   wat herkombineer vorm 'n positief-gelaaide doteerde ioon in die
+   N-doteerde gebied en 'n negetief-gelaaide doteerde ioon in die
+   P-doteerde gebied. Soos herkombinasie plaasvind vorm meer ioone. Dit
+   veroorsaak 'n toename in die elektriese veld oor die spergebied wat
+   teen die herkombinasie van elekton-holte pare werk totdat 'n ewewig
+   bereik word en die sperlaar nie verder groei nie. Op hierdie punt is
+   daar 'n ingeboude spanningsverskil oor die sperlaag.
+
+   Waneer 'n eksterne spanning van dieselfe polariteit as die ingeboude
+   spanning oor die diode geplaas word sal die sperlaag aanhou optree as a
+   isolator was stroom vloei verhoed. Dit staan bekend as teenvoorspanning
+   van die diode. Waneer die eksterne spanning se polariteit die ingeboude
+   spanning teenstaan kan herkombinasie weer plaasvind wat veroorsaak dat
+   die stroom deur die diode drasties toeneem. Dit staan bekend as
+   meevoorspanning van die diode. Die ingeboude spanning vir silikon
+   diodes is ingeveer 0.6 V. Dus sal daar 'n spanningsval van ongeveer 0.6
+   V oor die diode wees waneer daar 'n eksterne stroom deur die diode
+   vloei.
+   I-V eienskap van 'n pn-voegvlak diode (nie volgens skaal).
+   I-V eienskap van 'n pn-voegvlak diode (nie volgens skaal).
+
+   Die diode se I-V eienskappe kan benader word deur te onderskei tussen
+   twee gebiede. Onder 'n sekere spannigsval oor die diode het die
+   sperlaag 'n bedydende wydte en kan die diode beskou word as 'n oopbaan
+   (nie-geleidende stroombaan). Soos die spanningsval groter word sal die
+   diode op 'n sekere spannigsval geleidend word en kan dit beskou word as
+   'n geleier met geen weerstand of baie klein weerstand. Die
+   oordagfunksie van die diode is in werklikheid logaritmies, maar so
+   sperk dat dit lyk soos 'n skerp hoek as die grafiek van ver af beskou
+   word.
+
+   Die spanningsval oor 'n geleidende diode binne die gespesifiseerde
+   stoom is ongeveer 0.6 tot 0.7 volt vir silikon diodes. Die waarde
+   verskil vir ander tiepe diodes. Schottky diodes se spanningsval kan so
+   laag as 0.2 V wees en lig-emissie diodes (LEDs) se spanningsval kan so
+   hoog as 1.4 V of meer wees. Blou LEDs se spanningsval kan selfs 4.0 V
+   wees.
+
+   In die teenvoorspanning gebied van die I-V eienskap grafiek is die
+   stroom deur die diode baie klein (in die µA omgewing) vir alle
+   voorspannings tot die deurslagspanning bereik word. Na hierdie punt
+   vind elektronestorting plaas wat veroorsaak dat die diode beskadig word
+   saam met 'n skielike toename in die stroom. Zener diodes en stortdiodes
+   word vervaardig om 'n opsetlikke deurslagspunt te hê na 'n
+   voorafbepaalde trustroom sodat die truspanning vasgepen word by 'n
+   bekende waarde. Hiedie toestelle het wel 'n maksimum limiet op die
+   stroom en drywing vermoë in die elektronestortings gebied.
+
+[wysig] Shockley diode vergelyking
+
+   Die Shockley ideale diode vergelyking (vernoem na William Bradford
+   Shockley), ook bekand as die diode wet, beskryf die I-V eienskap van 'n
+   ideale diode in beide meevoorspanning en teenvoorspanning (of geen
+   voorspanning). Die vergelyking is afgely met die aannames dat die
+   eenigste processe wat aanleiding gee tot stroom deur die diode
+   drifstroom, diffusiestroom en termiese herkombinasie-generasie is. Dit
+   word ook aangeneem dat die herkombinasie-generasie stroom in die
+   sperlaag niksbeduidend is. Dit beteken dat die verelyking
+   elektronestorting buite rekening laat. Die nie-ideale effek van interne
+   weerstand by hoë meevoorspanning word ook buite rekening gelaat, sowel
+   as afwyking van die ideale as gevolg van herkombinasie-generasie in die
+   sperlaag by lae meevoorspanning.
+
+          I=I_\mathrm{S} \left( e^{V_\mathrm{D}/(n V_\mathrm{T})}-1
+          \right),\,
+
+   waar
+
+          I die stroom deur die diode is,
+          I[S] die versadigingstroom is,
+          V[D] die spanningsval oor die diode is,
+          V[T] die termiese spanning is en
+          n die emissiekoëffisiënt is.
+
+   Die emissiekoëffisiënt n word bepaal deur die vervaardegingproses en
+   halfgeleiermateriaal van die diode en wissel tussen 1 en 2. In die
+   meeste gevalle is die waarde naby 1 en word dus weggelaat. Die termiese
+   spanning V[T] is ongeveel 25.2 mV teen kamertemperatuur (25^oC of 298K)
+   en is 'n bekende konstante waarde gedefineer deur:
+
+          V_\mathrm{T} = \frac{k T}{e},
+
+   waar
+
+          e die elementêrlading van 'n elektron (1.602 176 53 × 10^-19 C)
+          is,
+          k die Boltzmann konstante (1.380 6505 × 10^-23 J/K) is en
+          T die temperatuur van die pn-voegvlak is.
+
+[wysig] Tipe halfgeleier diodes
+
+           Diode      Zenerdiode Schottky-diode       Tonneldiode
+      Ligemissiediode Fotodiode     Varicap     Silikondiodegelykrigter
+
+   Daar is 'n verskeie tipe halfgeleier voegvlak diodes:
+
+   Normale (pn-voegvlak) diodes
+          Hierdie diode werk soos hierdo beskryf word. Die diode word
+          gewoonlik van gedoteerde silikon of germanium vervaardig.
+          Germanium diodes is bitter skaars.
+
+   Gouddoteerdediodes
+          As 'n doteermiddel reageer goud of platinum as 'n sentrum vir
+          herkombinasie wat minderheidsdraers vinniger laat herkombineer.
+          Dit laat die diode toe om teen hoë frekwensies te werk, teen die
+          koste van 'n hoër meevoorspanningval. 'n Tipiese voorbeeld is
+          die 1N914.
+
+   Zenerdiodes
+          Zenerdiodes gelei stroom van die katode na die andode wanneer
+          die deurslagspanning oorskryf word (diode is truvoorgespan). Dit
+          laat toe dat die diode as 'n spanningsverwysing gebruik kan
+          word. In praktiese spanningsverwysing stroombane word 'n
+          skakeldiode in series, maar teenoorgestelde rigting, met die
+          zenerdiode geplaas sodat die temperatuurkoëffisiënt gebalenseer
+          word naby zero. 'n Enkelpakkie waar twee Zenerdiodes in series,
+          maar teenoorgestelde rigting, geplaas is staan bekend as 'n
+          oorgangdemper (Engels transorb). Die Zenerdiode is vernoem na
+          die toestel se uitvinder Dr. Clarence Melvin Zener. Sommige
+          hoëspanning Zenerdiodes is in werklikheid Stortdiodes.
+
+   Stortdiodes
+          Net soos die Zennerdiode gelei stroom van die katode na die
+          andode wanneer die deurslagspanning oorskryf word in 'n
+          Stortdiode. Die proses wat die spanningsdeurbraak veroorsaak
+          verskil tussen Zener- en Stortdiodes. Nog 'n verskil tussen die
+          twee diodes is dat die temperatuurkoëffisiënt teenoorgesteld
+          tekens het.
+
+   Oorgangspanningdiodes
+          Oorgangspanningdiodes is stortdiodes wat ontwerp is om
+          halfgeleiertoestelle te beskerm teen hoë oorgangspannings. Die
+          pn-voegvlak deursnee-oppervlakte van die oorgangspanningdiode is
+          baie grotes as die van normale diodes wat toelaat dat hulle meer
+          stroom kan gelei sonder om beskadig te word.
+
+   Fotodiodes
+          Halfgeleiers is onderworpe aan optiese ladingdraer generasie en
+          word dus verpak in ligversperrings material. As die lig
+          toegelaat word om die halfgeleier te bereik kan die
+          fotosensitiwiteit gebruik word. Fotodiodes word gebruik vir
+          sonselle of fotometrie (ligmeting).
+
+   Ligemissiediodes (LEDs)
+          Waneer 'n diode gevorm word uit 'n
+          derektebandgappingshalfgeleier, soos galliumarsenied, word
+          fotone vrygestel waneer herkombinasie van ladingdraers
+          plaasvind. Die halgeleiermateriaal bepaal die golflength, en dus
+          kleur, van die foton. Ligemissiediodes wat strek tussen
+          infrarooi to beina ultraviolet kan vervaardig word. Die
+          voorspanning van ligemissiediodes word bepaal deur die
+          golflengte van die photone: 1.2 V vir rooi, 2.4 V vir violet.
+          Die eerste ligemissiediodes was rooi en geel. Hoëfrekwensie
+          diodes is intussen ontwikkel. Alle diodes is monochromaties
+          (eenkleurig). Wit ligemissiediodes is in werklikheid 'n
+          kombinasie van drie verskillende kleure, of 'n blou
+          ligemiessiediode met 'n geel bedekking. Ligemessiediodes word
+          saam met fotodiodes of fototransistors gebruik om
+          optiese-isolators te vorm.
+
+   Laserdiodes
+          'n Laserdiode word gevorm deur 'n ligemissiediode tiepe
+          structuur wat 'n optiese resonansieholte bevat. Die
+          resonansieholte word gevorm deur die parallelevlakke van die
+          laserdiode te poleer. Laserdiodes word gebruik in optiese
+          stoormedia en hoëspoed optiese kommunikasie.
+
+   Schottky-diodes
+          Schottky-diodes word gevorm deur 'n metaal na halfgeleir
+          voegvlak. Die meevoorspanningsval van 'n Schottky-diode is laer
+          as die van 'n pn-voegvlak diode. Die meevoorspanningsval van
+          Schottky-diodes by 'n heenstroom van ongeveer 1 mA is in die
+          omgewing van 0.15 V tot 0.45 V. Dit maak Schottky-diodes ideaal
+          vir gebruik in vaspenningstroombane en om transistor versadiging
+          te voorkom. Schottky-diodes word ook gebruik as laeverlies
+          geleikrigters hoewel die trulekstroom groter is as die van
+          pn-voegvlak diodes. Schottky-diodes is meerderheidsdraer
+          toestelle en ly dus nie aan die minderheidsdraer opbergruimte
+          probleme van die meeste normal diodes nie. Schottky-diodes se
+          voegvlapkapasitansie is ook laer as die van pn-voegvlak diodes
+          wat lei tot die vermoë van Schottky-diodes om teen hoër
+          frekwensies te kan skakel. Dit maak Schottky-diodes ideaal vir
+          gebruik in hoëspoed en radio frekwensie stroombane.
+
+   Kapdiode
+          Kapdiodes het die eienskap om baie vinnig te 'herstel' van 'n
+          sterk meevoorspanning na die deurslagspanning. Kapdiodes word
+          gebruik waar baie vinninge spannings oorgange benoding word.
+
+   Esaki of tonneldiodes
+          Hierdie diodes het 'n gebied van werking met negatiewe weerstand
+          wat veroorsaak word deur kwantumtonneling. Die diodes kan
+          gebruik word vir versteking sowel as in eenvoudige bistabiele
+          stroombane. Hierdie diodes is ook bestand teen kernstraling.
+
+   'Gunn-diodes'
+          Hiedie diode is vegelykbaar aan 'n tonneldiode in dat dit 'n
+          gebied met negatiewe differensiële weerstand het. Hierdie diodes
+          word gebruik in hoëfrekwensie ossillators.
+
+   Puntkontakdiodes
+          Hierdie diode werk net soos 'n voegvlakdiode, maar die
+          konstruksie is eenvoudiges. 'n Geleier uit die groep-3 metale
+          met 'n skerp punt word in kontak gebring met 'n n-tiepe
+          halfgeleier. Van die metaal migreer na die halfgeleier en vorm
+          'n klein p-tiepe gebied naby die kontak.
+
+   Katsnorbaard- of kristaldiodes
+          Hiedie diodes word gevorm deur 'n dun of skep metaal geleir in
+          kontak te bring met 'n halfgeleierkrital soos galeniet of
+          steenkool. Die geleier vorm die katode en die kristal die anode
+          van die diode.
+
+   'Varicap'
+          Hiedie diodes word as spannigsbeheerde kapasitors gebruik.
+          Hierdie diodes is belangrik in fase-sluit-lus en
+          frekwensie-sluit-lus stroombane wat instemstroombane toelaat om
+          vinnig te sluit. Hierdie diodes word ook gebruik as verstelbare
+          ossilators waar 'n goedkoop en stabiele kristalossilator gebruik
+          word as 'n verwysings frekwensie vir 'n spanningbeheerde
+          ossilator.
+
+   PIN-diodes
+          'n PIN-diode bestaan uit 'n nie-doteerde kern of intrinsieke
+          laag, was dus 'n p-tiepe / intrinsiek / n-tiepe struktuur vorm.
+          Hierdie diodes word as radiofrekwensie skakelaars gebruik net
+          soos die 'varicap', maar met 'n skielike verandering in
+          kapasietansie. Hierdie diodes word ook gebruik as
+          ionisasiestrallingsdetektor en photodetektors gebruik.
+          PIN-diodes word in drywingselektronika gebruik aangesien die
+          intrensieke laag bestand is teen hoëspannigs. Die PIN-diodes
+          struktuur word ook gevind in hoëspanninghalfgeleiers.
+
+[wysig] Toepassing
+
+[wysig] Radio demodulasie
+
+   Die eerste gebruik van diodes was in the demodulasie van amplitude
+   gemoduleerde (AM) radio uitsending.
+
+[wysig] Kragomsitting
+
+   Gelykrigters word saamgestel uit diodes waar hulle gebruik word om
+   wisselstroom elektrisiteit om te skakel na geleikstroom. Diodes word
+   ook gebruik in die Cockcroft-Walton spanningvermenigvuldiger om
+   wisselstroom om te skakel na hoëspanning gelyktroom.
+
+[wysig] Oorspanningsbeveiliging
+
+   Diodes word gebruik om hoëspanning en hoëstroom wat sensitiewe
+   elektriese kompenente kan beskadig te sink. Die diode is normaalweg
+   truvoorgespan totdat die spanning of stroom bo die bepaalde waarde
+   styg, dan word die diode meevoorgespan en sink die stroom. 'n Voorbeeld
+   is induktiewe laste soos relê stroombane waar die induktor vinnig
+   spanningloos gemaak word deur 'n diode sodat die stroombaan nie
+   beskadig word deur spannigspieke wat anders sou voorkom nie. Somige
+   geïntegreerde stroombane gebruik diodes om die pennetjies teen eksterne
+   spannings the beskerm.
+
+[wysig] Logiese hekke
+
+   Diodes kan saam met ander komponente gebruik word om logiese hekke te
+   vorm. Dit staan as diodelogika beekend.
+
+[wysig] Temperatuur meting
+
+   'n Diode kan gebruik word om temperatuur te meet aangesien die
+   meevoorspanningsval van die diode afhanklik is van temperatuur. Hierdie
+   temperatuur afhanklikheid kan gesien word in the Shockley ideale diode
+   vergelyking hierbo en is ongeveer 2.2mV per grade Celsius.
+
+[wysig] Ladding gekoppelde toestelle
+
+   Digitale kamaras en soortgelyke toestelle gebruik regimente van photo
+   diodes saam met 'n uitlees stroombaan.
+
+[wysig] Bronnelys
+
+          Hierdie artikel is groottendeels 'n vertaling van die Engelse
+          Wikipedia artikel "Diode".
+
+     * 1928 Nobelprys artikel oor die diode
+     * Historiese lese oor Karl Braun
+     * S. M. Sze, Modern Semiconductor Device Physics, Wiley Interscience,
+       ISBN 0-471-15237-4.
+     * Patentafskrif vir die elektriese indikator
+     * The Unusual Diode FAQ,
+
+   Kategorie: Elektroniese komponente
+

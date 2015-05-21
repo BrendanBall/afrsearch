@@ -1,0 +1,31 @@
+Coordinated Universal Time
+
+
+   Die afkorting UTC staan vir Universal Time Coordinated waarby die
+   eintlike afkorting UT is, met die toevoeging van die C omdat aan te dui
+   dat hierdie weergawe van die tyd afhanklik is van die koördinaat. Dit
+   word ook "Zulu time" genoem. Oor die algemeen word UTC na verwys as
+   "Coordinated Universal Time". Dit is byna gelyk aan wat vroeër bekend
+   was as GMT (Greenwich Mean Time), maar UTC is egter 'n atoomtyd, terwyl
+   GMT gebasseer was op astronomiese beginsels. Om die verskil uit te wis,
+   moet daar skrikkelsekondes gebruik word.
+
+   By toepassings op globale vlak (byvoorbeeld die internet) word
+   tydstippe gereeld in UTC en op 'n universele manier genoteer, o.a. met
+   die behulp van 'n 24 uur notasie, sonder punte, nm/vm ens. Die notasie
+   1315 UTC beteken dus kwart-oor-een die middag, volgens die
+   standaardkonvensie (op die nulmeridiaan).
+
+   In 'n groot deel van Wes-Europa, waaronder Nederland en België val,
+   geld UTC +1 in die winter en UTC +2 in die somer (1 en 2 uur later as
+   die wintertyd in die Verenigde Koninkryk). Suid-Afrika val dan ook
+   onder UTC +2.
+
+    Die oomblik waarop hierdie bladsy gelaai het, was dit 2008-06-7T02:12
+                                   in UTC
+                         (W3C Date and Time Formats)
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

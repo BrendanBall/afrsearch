@@ -1,0 +1,333 @@
+IPSec
+
+
+   IPSec (vir IP sekuriteit) is 'n gestandardiseerde raamwerk vir die
+   beveiliging van Internet Protokol (IP) kommunikasie deur middel van
+   enkripsie en bevestiging van elke IP-pakket in 'n datastroom.
+
+   IPsec kan in twee modusse (maniere) bedryf word: Transportmodus en
+   tonnelmodus.
+
+   In transportmodus word slegs die vrag (boodskap) van die IP-pakket
+   versluier (enkripteer). Dit is ook ten volle roetebepalend aangesien
+   die IP-hoof in plein teks gestuur word; dit kan egter nie oor
+   Netwerk-adresvertaler koppelvlakke gaan nie, aangesien dit die
+   hashwaarde sal ongeldig maak. Transportmodus word ook gebruik vir
+   gasheer-tot-gasheer kommunikasie oor 'n LAN.
+
+   In tonnelmodus word die IP-pakket in sy geheel versluier. Dit moet dan
+   in 'n nuwe IP-pakket ingesluit word om te kan werk. Tonnelmodus word
+   gebruik vir netwerk-tot-netwerk kommunikasie (veilige tonnels tussen
+   roetebeheerders) of gasheer-tot-netwerk en gasheer-tot-gasheer
+   kommunikasie oor die Internet.
+
+   IPSec word in werking gestel deur 'n stel kriptografiese protokolle vir
+   (1) die beveiliging van pakketvloeie en (2) Internet sleuteluitruiling
+   (en: Internet key exchange). Vir eersgenoemde bestaan daar twee:
+     * Bevestigingshoof (en: Authentication Header of AH) wat
+       bevestiging-, vrag- (boodskap) en IP-hoof boodskapintegriteit
+       verseker asook die verskaffing van nie-repudiëring d.m.v. 'n
+       kriptografiese algoritme, maar bied nie vertroulikheid nie; en
+
+     * Ingeslote Sekuriteitsvrag (en: Encapsulating Security Payload of
+       ESP), wat die vertroulikheid van data en die vrag- (boodskap) en
+       IP-hoof booskapintegriteit verseker en d.m.v. 'n kriptografiese
+       algoritme ook die bevestiging.
+
+   In sommige lande word die versluiering (enkripsie) van kommunikasie
+   deur die wet verbied en mag die ESP protokol nie gebruik word nie. In
+   hierdie geval bied die Bevestigingshoof (AH) die volledige IPSec
+   funksionaliteit (sonder vertroulikheid).
+
+   Oorspronklik was AH slegs gebruik vir integriteit en ESP slegs vir
+   dataversluiering; bevestigingsfunksies is eers later by ESP gevoeg.
+   Tans word slegs een sleuteluitruilingsprotokol gedefinieer, naamlik die
+   IKE-protokol.
+
+   IPsec prokolle bedryf op die netwerklaag, laag 3 van die OSI-model.
+   Ander Internetsekuriteitsprotokolle wat algemeen in gebruik is, soos
+   onder andere SSL en TLS bedryf op die transportlaag en boontoe (OSI-lae
+   4 - 7). Dit maak IPsec meer buigsaam, aangesien dit gebruik kan word
+   vir die beskerming van beide TCP en UDP-gebaseerde protokolle. Dit
+   verhoog egter die kompleksiteit en bewerkingslas omdat dit nie op TCP
+   (laag 4 van die OSI-model) kan staat maak om die betroubaarheid en
+   fragmentering te bestuur nie.
+
+   Inhoud
+
+        * 1 Teenswoordige status as 'n standaard
+        * 2 Ontwerpsdoelwit
+        * 3 Tegniese besonderhede
+             + 3.1 Bevestigingshoof (AH)
+             + 3.2 Ingeslote Sekuriteitsvrag (ESP)
+        * 4 Implementerings
+        * 5 Sien ook
+        * 6 Oorsig van IPsec verwante kommentaarversoeke
+        * 7 Eksterne skakels
+
+[wysig] Teenswoordige status as 'n standaard
+
+   IPsec is 'n vereiste deel van IPv6 en die gebruik daarvan saam met IPv4
+   is opsioneel. Al is die standaard ontwikkel om onafhanklik te wees van
+   die IP-weergawes, is die kennis en ervaring van die implementering en
+   gebruik daarvan grootliks beperk tot IPv4. IPsec-protokolle is
+   aanvanklik gedefinieer deur Kommentaarversoeke 1825–1829, wat in 1995
+   gepubliseer is. In 1998 is hierdie dokumente vervang met
+   Kommentaarversoeke 2401–2412. 2401–2412 is nie versoenbaar met
+   1825–1829 nie, al is die konsep daaragter identies. In Desember van
+   2005 is 'n derde generasie dokumente KV'e 4301–4309 geskep. Hulle is
+   grootliks 'n onderdeel van 2401–2412.
+
+   Dit is ongewoon om enige produk teë te kom wat KV1825–1829
+   ondersteuning bied. ESP verwys gewoonlik na 2406, terwyl ESPbis verwys
+   na 4303.
+
+[wysig] Ontwerpsdoelwit
+
+   IPsec is bedoel om óf in transportmodus: eindpunt-tot-eindpunt
+   sekuriteit van pakketverkeer te bied waar die eindbestemmingsrekenaars
+   die sekuriteitsverwerking doen, óf in tonnelmodus: portaal-tot-portaal
+   kommunikasiesekuriteit te verskaf waar die sekuriteit van pakketverkeer
+   verskaf word aan verskeie masjiene (selfs aan die hele LAN) deur 'n
+   enkele nodus.
+
+   IPsec kan gebruik word om Private Skynnetwerke (en: Virtual Private
+   Network of VPN) in beide modusse te skep. Neem egter kennis dat die
+   sekuriteitsimplikasies tussen die twee bedryfsmodusse báie verskil.
+
+   Eindpunt-tot-eindpunt kommunikasesekuriteit op 'n internetwye skaal het
+   stadiger ontwikkel as wat baie mense aanvanklik verwag het. Die rede
+   daarvoor is deels dat daar geen universele of universele vertroude
+   Openbare sleutel-infrastruktuur (en: Public Key Infrastructure of PKI)
+   ontwikkel het nie (DNSSEC is oorspronklik daarvoor beoog); andersyds
+   dat baie mense nie hul behoeftes of die beskikbare opsies goed genoeg
+   verstaan het om die insluiting daarvan in handelaars se produkte te
+   bevorder nie.
+
+   Aangesien die Internet Protokol nie inherent sekuriteitsvermoëns
+   insluit nie, is IPSec bekendgestel om sekuriteitsdienste te bied soos:
+    1. Verkeersversluiering (enkriptering - sodat die data nie gelees kan
+       word tydens versending nie)
+    2. Integriteitsbevestiging (Verseker dat verkeer in die versendingspad
+       nie verander is nie).
+    3. Bevestiging deur eweknieë (Beide kante maak seker dat hul met 'n
+       betroubare eenheid kommunikeer waarvoor die dataverkeer bedoel
+       was).
+    4. Anti-Herhaling (Beskerm teen herhalings van sessies)
+
+[wysig] Tegniese besonderhede
+
+[wysig] Bevestigingshoof (AH)
+
+   Die bevestigingshoof is daarop gemik om te verseker dat verbindinglose
+   integriteit asook en die bevestiging van die oorsprong van data in
+   IP-datagramme. Verder kan dit ook indien verlang word beskerm teen
+   herhalingsaanvalle deur gebruik te maak van die skuiwende venster
+   tegniek en die wegdoen van ou pakkette. AH probeer om al die velde van
+   die IP-datagram te beskerm. Slegs velde wat veranderlik is tydens die
+   oordrag van 'n IP-pakket word uitgesluit. AH werk direk bo-op IP deur
+   gebruik te maak van IP-protokol nommer 51.
+
+   'n AH-pakket diagram:
+   0               1               2               3
+   0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7
+   Volgende Hoof   Vraglengte      GERESERVEER
+   Sekuriteitsparametersindeks (SPI)
+   Volgnommer
+
+   Bevestigingsdata (veranderlik)
+
+   Veldbetekenisse:
+
+   Volgende Hoof
+          Identifiseer die protokol van die data oorgedra.
+
+   Vraglengte
+          Grootte van die AH-pakket.
+
+   GERESERVEER
+          Gereserveer vir toekomstige gebruik (almal nul tot dan).
+
+   Sekuriteitsparamatersindeks (SPI)
+          Identifiseer die sekuriteitsparameters in kombinasie met die
+          IP-adres.
+
+   Volgnommer
+          'n Monotoon toenemende getal, wat gebruik word om
+          herhalingsaanvalle te voorkom.
+
+   Bevestigingsdata
+          Bevat die data wat benodig word om die identiteit van die pakket
+          te bevestig.
+
+[wysig] Ingeslote Sekuriteitsvrag (ESP)
+
+   Die ingeslote sekuriteitsvrag (ESP) uitbredingshoof verskaf bevestiging
+   van oorsprong, integriteit en vertroulikheid van 'n pakket. Anders as
+   die bevestigingshoof, word daar nie voorsiening gemaak vir die
+   IP-pakethoof nie. ESP werk direk bo-op IP deur gebruik te maak van
+   IP-protokol nommer 50.
+
+   Diagram van 'n ESP-pakket
+   0               1               2               3
+   0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7
+   Sekuriteitsparametersindeks (SPI)
+   Volgnommer
+
+   Vrag * (veranderlik)
+                   Stopsel (0-255 bytes)
+                                   Stoplengte      Volgende Hoof
+
+   Bevestigingsdata (veranderlik)
+
+   Veld betekenisse:
+
+   Sekuriteitsparametrsindeks (SPI)
+          Identifiseer die sekuriteitsparameters in kombinasie met die
+          IP-adres.
+
+   Volgnommer
+          'n Monotoon toenemende getal, word gebruik om herhalingsaanvalle
+          te voorkom.
+
+   Vragdata
+          Die data wat oorgedra moet word.
+
+   Stopsel
+          Gebruik met sekere bloksyfers om die data op te vul om 'n
+          vollengte blok te lewer.
+
+   Stoplengte
+          Grootte van die stopsel in grepe.
+
+   Volgende Hoof
+          Identifiseer die protokol van die data oorgedra.
+
+   Bevestigingsdata
+          Bevat die data wat benodig word om die identiteit van die pakket
+          te bevestig.
+
+[wysig] Implementerings
+
+   IPsec ondersteuning word gewoonlik in die kernel ingebou saam met
+   sleutelbestuur en ISAKMP/IKE onderhandeling wat uitgevoer word vanaf
+   die gebruikerruimte. Bestaande IPsec implementerings neig om beide van
+   die funksionaliteite in te sluit. Dit is egter moontlik om die kern
+   IPsec-stapel te beheer deur van sleutelbestuurprogramme vanaf 'n ander
+   implementering gebruik te maak omdat daar 'n standaard koppelvlak vir
+   sleutelbestuur bestaan.
+
+   Om hierdie rede bestaan daar baie verwarring oor die oorsprong van die
+   IPsec implementering wat in die Linux kern ingebou is. Die FreeS/WAN
+   projek het die eerste volledige oopbron implementering van IPsec vir
+   Linux daargestel.
+
+   Dit bestaan uit 'n kern IPsec-stapel (KLIPS), asook 'n
+   agtergrondprogram (daemon) (pluto en ander bevelslynprogramme. Die
+   FreeS/WAN projek is in Maart van 2004 ontbind. Openswan en strongSwan
+   is projekte wat gemik is op die verdere ontwikkeling van FreeS/WAN. Die
+   KAME-projek het ook volledige IPsec ondersteuning vir NetBSD en FreeBSD
+   daargestel. Die agtergrondprogram vir sleutelbestuur hiervoor word
+   racoon genoem. OpenBSD het hul eie ISAKMP/IKE agtergrondprogram geskep,
+   wat eenvoudig isakmpd genoem word (dié program is ook uitgevoer na
+   ander stelsels, insluitend Linux).
+
+   Geeneen van die kern IPsec stapels is egter in die Linux kern ingebou
+   nie. Alexey Kuznetsov en David S. Miller het 'n kern IPSec
+   implementering van die grond af oorgeskryf vir die Linux kern aan die
+   einde van 2002. Hierdie stapel is daarna vrygestel as deel van Linux
+   2.6 en word na verwys as "NETKEY".
+
+   Daar bestaan 'n aantal implementerings van IPsec en ISAKMP/IKE
+   protokolle. Dit sluit in:
+     * NRL [1] IPsec, een van die oorspronklike bronne van IPsec-kode [2]
+     * OpenBSD, met sy eie kode wat afgelei is van NRL IPsec
+     * dieKAME stapel, wat ingesluit is in Mac OS X, NetBSD en FreeBSD
+     * "IPsec" in Cisco IOS Programmatuur [3]
+     * "IPsec" in Microsoft Windows, wat Windows XP[4], Windows 2000[5],
+       en Windows 2003[6] insluit
+     * SSH Sentinel [7] (nou deel van SafeNet [8]) wat verskeie
+       hulpmiddele insluit
+     * IPsec in Solaris [9]
+     * IBM AIX bedryfstelsel
+     * IBM z/OS
+     * IPsec en IKE in HP-UX (HP-UX IPSec)
+     * "IPsec en IKE" in VxWorks
+
+[wysig] Sien ook
+
+     * Beveiliging van inligting
+     * Laag 2 tonnelprotokol (L2TP)
+
+[wysig] Oorsig van IPsec verwante kommentaarversoeke
+
+   RFC 2367
+          PF_KEY koppelvlak
+
+   RFC 2401
+          Sekuriteitsargitektuur vir die Internet Protokol
+
+   RFC 2402
+          Bevestigingshoof
+
+   RFC 2403
+          Die gebruik van HMAC-MD5-96 in ESP en AH
+
+   RFC 2404
+          Die gebruik van HMAC-SHA-1-96 in ESP en AH
+
+   RFC 2405
+          Die ESP DES-CBC Versluieringsalgoritme met Explicit IV
+
+   RFC 2406
+          Ingeslote sekuriteitsvrag (ESP)
+
+   RFC 2407
+          IPsec Interpretasiedomein vir ISAKMP (IPsec DoI)
+
+   RFC 2408
+          Internet Sekuriteitassosiëring en Sleutelbestuurprotokol
+          (ISAKMP)
+
+   RFC 2409
+          Internet sleuteluitruiling (IKE)
+
+   RFC 2410
+          Die NULL versluieringsalgoritme en die gebruik daarvan met IPsec
+
+   RFC 2411
+          IP Sekuriteit Dokument padkaart vir ontwikkeling
+
+   RFC 2412
+          Die OAKLEY Sleutelbepalingsprotokol
+
+   RFC 2451
+          Die ESP CBC-Modus Versluieringsalgoritmes
+
+   RFC 2857
+          Die gebruik van HMAC-RIPEMD-160-96 in ESP en AH
+
+   RFC 3526
+          Modulêre Eksponensiële Diffie-Hellman groepe vir Internet
+          Sleuteluitruiling (IKE)
+
+[wysig] Eksterne skakels
+
+     * Kame-projek
+     * racoon en ipsec-hulpmiddele
+     * IETF IPsec WG is ontbind, argief van die blad kan hier gevind word
+     * IPsec WG bevat steeds belangrike aktiewe konsep-dokumente
+     * Alle IETF aktiewe sekuriteit WGs
+     * Die beveiliging van data tydens versending met IPsec
+     * Free S/WAN projek se tuisblad.
+     * Openswan-projek se tuisblad.
+     * strongSwan-projek se tuisblad.
+     * Die VPN Konsortium.
+     * 'n Geïllustreerde gids tot IPsec
+     * 'n Minimale IPsec-implementering vir ingeboude stelsels
+     * ipsec(4) man page vir OpenBSD
+     * IPsec in VoIP Netwerke
+     * Windows XP IPSec Gids
+
+   Kategorie: Rekenaarnetwerke
+

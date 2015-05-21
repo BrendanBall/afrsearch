@@ -1,0 +1,97 @@
+Skynprivaatnetwerk
+
+
+   'n Skynprivaatnetwerk (SPN) (Engels: Virtual Private Network) is 'n
+   private kommunikasienetwerk wat dikwels deur maatskappye of
+   organisasies benut word om vertroulik oor 'n openbare toeganklike
+   netwerk te kommunikeer. Die boodskapverkeer van 'n SPN kan oor die
+   openbare netwerkinfrastruktuur gedra word (bv. die Internet bo-oor
+   standaard protokolle, of 'n diensverskaffer se privaatnetwerk met 'n
+   bepaalde Dienspeil-ooreenkoms (DPO) tussen die SPN-kliënt en die SPN
+   diensverskaffer).
+
+   Inhoud
+
+        * 1 Meganisme om geldigheid vas te stel
+        * 2 Soorte SPN'e
+        * 3 Sien ook
+        * 4 Eksterne skakels
+
+[wysig] Meganisme om geldigheid vas te stel
+
+   'n SPN is 'n kostedoeltreffende en veilige manier waarop twee
+   ondernemings aan hulle gebruikers toegang kan verleen tot die
+   korporatiewe netwerk en afgeleë netwerke aan mekaar verbind kan word
+   oor die Internet. Veilige SPN'e is meer kostedoeltreffend as private
+   lyne. 'n SPN behels gewoonlik twee dele: die beskermde binneste netwerk
+   wat al die fisiese en administratiewe sekuriteit verskaf om die
+   versending te beskerm en 'n minder betroubare buitenste netwerk of
+   segment (gewoonlik oor die Internet). Oor die algemeen word 'n
+   brandmuur tussen die afgeleë gebruiker se werkstasie of kliënt en die
+   gasheernetwerk of bediener opgerig. Wanneer die gebruiker aanteken sal
+   sy rekenaar geldigheidsdata na 'n diensprogram binne in die netwerk
+   stuur. 'n Bekende betroubare persoon kan aangestel word met die nodige
+   sekuriteitsvoorregte om toegang te verkry tot hulpbronne wat nie vir
+   algemene gebruikers beskikbaar is nie (soms ook slegs as hy met 'n
+   betroubare toestel gebruik om toegang te verkry).
+
+[wysig] Soorte SPN'e
+
+   Beveiligde SPN gebruik kriptografiese tonnelprotokolle om die bedoelde
+   vertroulikheid te verseker (dit voorkom dus die meeluister deur van bv.
+   pakketsnuffelaars gebruik te maak). Die protokolle verseker ook die
+   geldigheid van verbindingsversoeke (keer identiteitsdiefstal) en
+   verseker die integriteit van boodskappe (verhoed dat met boodskappe
+   gepeuter word) om privaatheid te verseker. Sulke tegnieke verskaf
+   veilige kommunikasie oor onveilige netwerke.
+
+   Veilige SPN-protokolle sluit die volgende in:
+     * IPSec (IP sekuriteit) - gewoonlik gebruik oor Ipv4 en is ook 'n
+       verpligte onderdeel van IPv6.
+     * SSL/TLS word gebruik vir netwerktonnels deur die algehele
+       netwerkstapel soos in die geval van die OpenVPN-projek of vir die
+       beveiliging van 'n web-instaanbediener.
+     * SSL is 'n raamwerk wat meer dikwels verbind word met elektroniese
+       handel, maar sekere handelaars het daarop uitgebrei om SPN
+       vermoeëns daarby te voeg.
+     * PPTP (Punt-tot-punt tonnelprotokol) wat gesamentlik deur 'n aantal
+       maatskappye ontwikkel is, insluitende Microsoft.
+     * L2TP (Laag 2 Tonnelprotokol), wat werk deur Microsoft en Cisco
+       insluit.
+     * L2TPv3 (Laag 2 Tonnelprotokol weergawe 3), 'n nuwe weergawe van
+       bogenoemde
+
+   Sommige groot Internet diensverskaffers bied nou 'n bestuurde SPN-diens
+   aan vir besigheidskliënte wat die sekuriteit en gerief van 'n SPN
+   verlang maar nie self so 'n SPN-bediener wil bestuur nie.
+
+   Vertroude SPN'e gebruik nie kriptografiese tonnels nie maar maak staat
+   op die veiligheid van 'n enkele verskaffer se netwerk om die
+   dataverkeer te beskerm. In 'n mate is dit bloot 'n uitbreiding van die
+   tradisionele netwerk en die administrasie daarvan.
+     * MPLS word dikwels gebruik om Vertroude SPN'e te bou.
+     * L2F wat deur Cisco ontwikkel is kan ook hiervoor gebruik word.
+
+[wysig] Sien ook
+
+     * OpenVPN
+     * IPSec
+     * Hamachi
+     * Wippien
+     * SSL
+     * VNC
+
+[wysig] Eksterne skakels
+
+     * Virtual Private Network Consortium - handelsvereniging van SPN
+       handelaars
+     * RFC 2764 – 'n Raamwerk vir IP-gebasseerde SPN'e
+     * Tinc, 'n IPv4 en IPv6 SPN daemon
+     * VPN-Forum
+     * Microsoft TechNet - SPN Hulpbronne
+     * QSS, 'n bykomstige SPN-tegniek vir Microsoft ISA Bediener SPN'e
+     * SSL SPN'e en die gebruik van OpenVPN Darknet
+     * UltraVPN - 'n vrye implementering van OpenVPN
+
+   Kategorieë: Rekenaarnetwerke • Internet
+

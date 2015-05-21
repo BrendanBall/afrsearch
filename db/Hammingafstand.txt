@@ -1,0 +1,50 @@
+Hammingafstand
+
+
+   In inligtingteorie is die Hammingafstand, vernoem na Richard Hamming,
+   die aantal posisies in twee stringe van gelyke lengte waarvan die
+   ooreenstemmende elemente verskillend is. Op 'n ander manier gestel, dit
+   meet die aantal vervangings benodig om die een in die ander een te
+   verander.
+
+   Byvoorbeeld::
+     * Die Hammingafstand tussen 1011101 en 1001001 is 2.
+     * Die Hammingafstand tussen 2143896 en 2233796 is 3.
+     * Die Hammingafstand tussen "toned" en "roses" is 3.
+
+   Die Hamminggewig van 'n string is die Hammingafstand tussen die string
+   en 'n nul-string ('n string bestaande uit slegs nulle) van die selfde
+   lengte. Dit wil sê, dit is die aantal elemente in die string wat nie
+   nul is nie: vir 'n binêre string is dit eenvoudig die aantal 1'e, dus
+   is die Hamminggewig van 11101 byvoorbeeld 4.
+
+   Die Hammingafstand tussen twee woorde a en b, gesien as elemente van 'n
+   vektorruimte, kan dan gesien word as die Hamminggewig van a-b. As a en
+   b binêre stringe is, is dit ekwivalent aan a+b en aan a XOF b. Die
+   Hammingafstand is ook ekwivalent aan die Manhattanafstand tussen twee
+   hoekpunte in 'n n-dimensionele hiperkubus, waar n die lengte van die
+   woorde is.
+
+   Die Hammingafstand word in telekommunikasie gebruik om die aantal
+   omgekeerde bisse in 'n vaste-lengte binêre woord, as 'n foutskatting,
+   en word dus soms die seinafstand genoem. Hamminggewiganalise van bisse
+   word gebruik in verskeie vakgebiede insluitend inligtingsteorie,
+   koderingsteorie, en kriptografie. Om stringe van verskillende lengtes,
+   of stringe waar invoegings of skrappings verwag word, nie net
+   vervangings nie, te vergelyk is 'n meer gesofistikeerde maatstaf soos
+   die Levenshteinafstand meer gepas.
+
+   Vertaal uit Engelse weergawe wat deels aangepas is van Federale
+   Standaard 1037C.
+
+[wysig] Verwysings
+
+   Richard W. Hamming. Error-detecting and error-correcting codes, Bell
+   System Technical Journal 29(2):147-160, 1950.
+
+[wysig] Kyk ook
+
+     * Hamminggewig.
+
+   Kategorieë: Koderingsteorie • Diskrete wiskunde
+

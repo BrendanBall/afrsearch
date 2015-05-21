@@ -1,0 +1,41 @@
+Klotoïde
+
+
+   Grafioek van 'n Klotoïde
+   Grafioek van 'n Klotoïde
+
+   Die Klotoïde, (uit Grieks klôthô “spin”), Cornu-Spiraal (vernoem na
+   Marie Alfred Cornu) of Euler-Spriraal is 'n kromme wat 'n simmetriese
+   dubbelspiraal beskryf waarvan die kromming teoneem met toenemende
+   booglengte (afstand van die oorsprong langs die kromme). Die
+   krommingradius is omgekeerd eweredig aan die hoek gemeet van die
+   oorsprong^[1]. Dit staan ook as 'n Spinkromme bekend na aanleiding
+   daarvan dat die grafiek wat van een konfergensiepunt tot by die ander
+   loop soos 'n garingtol lyk wat omgespin.
+
+   Dit word as oorgangsboog gebruik in die ontwerp van paai en treinspore.
+   Die kromming daarvan neem lineêr toe en 'n voertuig wat teen konstante
+   spoed daarlangs beweeg sal dus 'n konstante rotasieversnelling
+   ondervind wat sywaartse kragte verminder. Teen hoër snelhede is daar
+   egter ander kgragte ter sprake en is dit dus nie die ideale vorm nie
+
+[wysig] Vergelykings
+
+   Die algemene formule vir 'n klotoïde in geparametriseerde vorm word
+   deur die volgende vergelyking wat as die Fresnel-integrale bekend staan
+   gegee:
+
+          x(t)=k\int_0^t \sin(u^2)du
+          y(t)=k\int_0^t \cos(u^2)du ,
+
+   met
+
+          k =A\, \sqrt{2} .
+
+   Vir die booglengte L geld:
+
+          L=k\,t .
+
+   Alle klotoïdes is dus deur die skaalparameter k met mekaar verbind.
+   Kategorie: Trigonometrie
+

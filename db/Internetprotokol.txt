@@ -1,0 +1,142 @@
+Internetprotokol
+
+
+   Die Internetprotokol (IP) is 'n datageoriēerde protokol wat gebruik
+   word vir datakommunikasie oor 'n pakketgeskakelde internetwerk.
+
+   IP is 'n netwerklaag protokol in die internetprotokolsuite en ingesluit
+   in 'n dataverbindingslaagprotokol (bv. Ethernet). As 'n protokol op die
+   onderste lae verskaf IP globaal unieke addresse vir rekenaars in 'n
+   netwerk. Dit bring mee dat die dataverbindingslaag nie die diens hoef
+   te verskaf nie. Ethernet verskaf wel globaal unieke addresse maar kan
+   nie oraloor gekommunikeer word nie d.w.s. twee Ethernet-toestelle sal
+   slegs met mekaar kan kommunikeer indien hulle op dieselfde bus is).
+
+   Inhoud
+
+        * 1 Pakketverdeling
+        * 2 Dienste verskaf deur die IP
+        * 3 Betroubaarheid
+        * 4 IP-adressering en roetebepaling
+        * 5 Weergawe geskiedenis
+        * 6 Sien ook
+        * 7 Eksterne skakels
+        * 8 Verwysings
+
+[wysig] Pakketverdeling
+
+   Insluiting van gebruikersdata in 'n UDP datagram binne 'n IP-pakket.
+   Insluiting van gebruikersdata in 'n UDP datagram binne 'n IP-pakket.
+   'n Voorbeeld van 'n IP-hoof soos onderskep deur ethereal.
+   'n Voorbeeld van 'n IP-hoof soos onderskep deur ethereal.
+
+   Data vanaf 'n boonste laag protokol word ingesluit binne een of meer
+   pakkette/datagramme (die begrippe is basies sinonieme in die IP). Geen
+   stroombaanopstelling word benodig voordat 'n gasheer probeer om
+   pakkette te stuur na 'n gasheer waarmee dit nie tevore gekommunikeer
+   het nie (dit is juis die doel van 'n pakketgeskakelde netwerk), dus is
+   IP 'n verbindinglose protokol. Dit maak dit baie anders as die Openbare
+   Skakeltelefoon-netwerk wat vereis dat 'n stroombaan opgestel word
+   voordat 'n oproep kan voortgaan ('n Verbindingsgeoriënteerde protokol).
+
+[wysig] Dienste verskaf deur die IP
+
+   Vanweë die abstraksie wat verskaf word deur insluiting, kan die IP
+   gebruik word oor 'n heterogene netwerk (d.w.s. 'n Netwerk wat rekenaars
+   verbind met 'n mengsel van Ethernet, ATM, FDDI, Wi-fi, Token-ring,
+   ensomeer) sonder dat dit 'n verskil maak aan die boonste laag
+   protokolle.
+
+   Al die dataverbindingslae kan hul eie stel adresseringskemas hê (of
+   selfs glad nie hê nie) en daarom bestaan daar 'n behoefte om IP-adresse
+   met dataverbindingsadresse te verbind. Hierdie verbinding van adresse
+   word deur die ARP-protokol gedoen.
+
+[wysig] Betroubaarheid
+
+   Die IP verskaf 'n onbetroubare diens (d.w.s. 'n beste poging
+   aflewering). Dit beteken dat die netwerk geen waarborge oor die pakket
+   maak nie en kan geen, sommige of al die volgende van toepassing wees:
+     * datakorrupsie
+     * uit volgorde pakkette (pakket A kan voor B versend word, maar B kan
+       voor A ontvang word)
+     * duplikate kan ontvang word
+     * verlore of weggedoende pakkette
+
+   In terme van betroubaarheid is die enigste ding wat die IP doen is om
+   te verseker dat die IP-pakket se hoof foutvry is deur die gebruik van
+   'n kontrolesom.
+
+   Dit het die newe-effek tot gevolg dat pakkette met beskadigde hoofde
+   weggegooi word met geen kennisgewingsvereistes aan beide kante nie ('n
+   ICMP-boodskap mag egter gestuur word).
+
+   Om enige van die betroubaarheidskwessies aan te spreek moet 'n boonste
+   laag protokol dit hanteer. Om byvoorbeeld die in volgorde aflewering te
+   verseker sal die laag hoër op die data moet stoor totdat dit in die
+   regte volgorde verder boontoe aangestuur kan word.
+
+   Die hoofrede vir hierdie gebrek aan betroubaarheid is om die
+   kompleksiteit van roetebeheerders te verminder. Dit gee die
+   roetebeheerders carte blanche om te maak met die pakkette soos hulle
+   wil. 'n Minder as beste poging sal egter die gebruikerservaring
+   negatief raak. Dus al word daar geen waarborge gemaak nie sal 'n beter
+   poging deur die netwerktoerusting, lei tot 'n verhoogde
+   gebruikerservaring.
+
+[wysig] IP-adressering en roetebepaling
+
+   Een van die ingewikkeldste aspekte van die IP is seker dié van
+   IP-adressering en roetebepaling. Adressering verwys na hoe die gasheer
+   op die eindbestemming 'n IP-adres verkry en hoe subnetwerke van IP
+   gasheeradresse verdel verdeel en saam gegroepeer word. IP-roetebepaling
+   word deur alle gashere uitgevoer, maar is veral belangrik by
+   internetwerk roetebeheerders, wat tipies van die IGP- of EGP-protokolle
+   gebruik maak om die aanstuurbesluite van IP-datagramme te maak oor
+   IP-verbinde netwerke.
+
+[wysig] Weergawe geskiedenis
+
+   IP is die gemene element in vandag se openbare Internet. Die
+   teenswoordige en mees gewilde netwerklaagprotokol in gebruik vandag is
+   IPv4. IPv4 is deur die Verenigde State se departement van verdediging
+   aangeneem in die standaard MIL-STD-1778.
+
+   IPv6 is die voorgestelde opvolger van IPv4. Die kenmerkendste
+   verandering sal in die adressering wees. IPv4 gebruik 32-bis adresse
+   (ongeveer 4 biljoen adresse) terwyl IPv6 128-bis adresse gebruik
+   (ongeveer 3.4×10^38 adresse). Al is die ingebruikneming van IPv6 stadig
+   gewees tot dusver sal dit waarskynlik versnel aangesien alle stelsels
+   in die Verenigde State dit sal moet ondersteun in 2008.^[1]
+
+   Weergawes 0 tot 3 is of gereserveer of nie gebruik nie; weergawe 5 was
+   gebruik vir 'n eksperimentele stroomprotokol. Ander weergawe nommers is
+   toegeken, gewoonlik vir eksperimentele protokolle, maar is nooit
+   algemeen gebruik nie.
+
+[wysig] Sien ook
+
+     * Verbindinglose protokol
+     * IANA - Die organisasie wat IP-adresse toeken
+     * Internetprotokolsuite
+     * IPv4
+     * IPv6
+     * IP-adres
+     * Pakket (netwerk)
+     * TCP en UDP poortnommers
+     * TCP
+
+[wysig] Eksterne skakels
+
+     * RFC 791
+     * U IP-adres
+     * The Law of Leaky Abstractions 'n Artikel in Engels deur Joel
+       Spolsky wat die abstraksie (en probleme) in TCP- en IP-protokolle
+       bespreek.
+
+[wysig] Verwysings
+
+    1. ^ http://www.gcn.com/print/25_16/41051-1.html
+
+   Kategorieë: Internet • Rekenaarnetwerke
+

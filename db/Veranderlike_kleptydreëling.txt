@@ -1,0 +1,228 @@
+Veranderlike kleptydreëling
+
+
+   Veranderlike kleptydreëling is 'n algemene term vir 'n
+   suiermotortegnologie. Veranderlike tydreëling maak dit moontlik om die
+   styglengte of tydsduur of beide van die in- of uitlaatkleppe te
+   verander terwyl die enjin nog in werking is. Tweeslag enjins gebruik 'n
+   kragklepstelsel om soortgelyke resultate te lewer.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Geskiedenis
+        * 3 Marktoepassings
+        * 4 Sien ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Oorsig
+
+   Die i-VTEC stelsel wat in Honda se K20Z3-enjin aangetref word.
+   Die i-VTEC stelsel wat in Honda se K20Z3-enjin aangetref word.
+
+   Suiermotors gebruik normaalweg 'n stootklep op die inlate en uitlate.
+   Hierdie kleppe word direk of indirek deur die nokke op die nokas. Die
+   nokke maak die kleppe oop vir 'n sekere tydsduur tydens elke inlaat- en
+   uitlaatslag. Die tydreëling van die klepopening en toemaak daarvan is
+   ook belangrik. Die nokas word deur die krukas aangedryf deur 'n band,
+   'n rat of 'n ketting.
+
+   Die profiel of posisie en vorm van die lobbe op die nokke word
+   geoptimiseer vir 'n sekere wentelspoed en die kompromis lei normaalweg
+   tot 'n beperkte laestrek wringkrag of hoëstrek kraglewering.
+
+   Teen hoë enjinsnelhede vereis 'n enjin groot hoeveelhede lug. Die
+   inlaatkleppe kan egter toemaak voordat voldoende lug in die silinder
+   ingevloei het wat 'n verlaagde verrigting tot gevolg het. Die probleem
+   kan opgelos word deur die inlaatkleppe vroeër oop te maak en die
+   uitlaatkleppe later toe te maak. Daar kom dus 'n oorvleueling in die
+   tydreëling van die inlaat- en uitlaatkleppe voor. 'n Renmotor se nokas
+   maak tipies voorsiening vir 'n groot mate van oorvleueling. By lae
+   enjinsnelhede lei die oorvleueling daartoe dat onverbrande brandstof
+   uit die silinder ontsnap en sal 'n renmotornok dus baie ondoeltreffend
+   wees en daarom word motors wat gereeld teen lae enjinsnelhede bedryf
+   (afleweringswa ens.) van nokaste voorsien wat minder oorvleueling
+   toelaat al word kraglewering by hoër snelhede ingeboet.
+
+   Veranderlike kleptydreëling maak dit moontlik om die nokprofiel te
+   verander wat 'n hoër doeltreffendheid en -kraglewering tot gevolg het.
+   Toenemende druk op motorvervaardigers om te voldoen aan
+   omgewingsteikens en brandstofdoeltreffendheid dwing baie vervaardigers
+   om veranderlike kleptydreëling te gebruik as 'n oplossing. Die meeste
+   eenvoudige veranderlike kleptydreëlingstelsels (soos Mazda se S-VT
+   stelsel) versnel of vertraag bloot die tydreëling van die oop en
+   toemaak van kleppe. Ander meer gevorderde stelsels (soos Honda se VTEC
+   stelsel) skakel tussen twee stelle nokke oor by 'n sekere
+   enjinsnelheid. Ander weer (soos BMW se Valvetronic stelsel) kan die
+   tydreëling en klepopening kontinu varieer, 'n stelsel wat bekend staan
+   as Kontinue veranderlike kleptydreëling.
+
+[wysig] Geskiedenis
+
+   Fiat was die eerste motorvervaardiger wat 'n patent geregistreer het op
+   'n werkende veranderlike tydreëlingstelsel wat ook 'n veranderlike
+   klepopening ingesluit het. Die stelsel wat deur Giovanni Torazza in die
+   laat sestigs ontwikkel is, het van hidroliese druk gebruik gemaak om
+   die steunpunt van die nokvolgers te wissel (V.S.A Patent 3 641 988).
+   Die hidroliese druk verander volgens die enjinspoed en inlaatdruk. Die
+   tipiese variasie in klepopening was om en by 37%.
+
+   In September van 1975 het General Motors 'n stelsel gepatenteer wat
+   bedoel was om die klepstyglengte te wissel. Die stelsel het egter
+   probleme gegee met kleiner klepopeninge en die projek is toe laat vaar.
+
+   Alfa Romeo was die eerste vervaardiger om veranderlike kleptydreëling
+   in produksiemotors te gebruik (V.S.A patent 4 231 330). Die Alfa Romeo
+   Spider 2.0 L het 'n meganiese tydreëlingstelsel in sekere van hulle
+   modelle gehad. Hierdie stelsel is toe ook later in die Alfetta 2.0
+   Quadrifoglio Oro modelle sowel as andere modelle ingebou.
+
+   In 1986 het Nissan hulle eie weergawe van veranderlike kleptydreëling
+   ontwikkel in die VG30DE-enjin vir hulle Mid-4 konsep. Nissan het
+   besluit om hulle NVCS-stelsel toe te spits op lae en medium spoed
+   wringkrag modelle. Die stelsel kan beide 'n gladde luiering en baie lae
+   en medium spoed wringkrag lewer. Terwyl dit so 'n bietjie gehelp het
+   teen hoë snelhede was dit hoofsaaklik gemik op die lae en mediumstrek
+   wringkrag. Die VG30DE-enjin is eers gebruik in die 300ZX (Z31) 300ZR
+   model in 1987 en was die eerste produksiemotor wat elektronies beheerde
+   veranderlike kleptydreëling gebruik het.
+
+   Die volgende stap is in 1989 deur Honda geneem met die VTEC-stelsel.
+   Honda het begin met die produksie van 'n stelsel wat die enjin die
+   vermoë gegee het om vanaf twee heeltemal verskillende nokprofiele te
+   werk en sodoende 'n groot kompromis in enjin-ontwerp uitgeskakel. Een
+   profiel is ontwerp om die kleppe aan te dryf teen lae enjinsnelhede om
+   lae brandstofverbruik en lae vlakke van uitlaatgasse te verseker. Die
+   tweede is 'n hoë klepstyglengte, langer tydsduur profiel en skop in
+   wanneer die enjin hoë snelhede bereik om verhoogde kraglewering te
+   verseker.
+
+   Die VTEC-stelsel is verder ontwikkel om funksies te verskaf wat
+   hoofsaaklik op laer brandstofverbruik gemik is. Die eerste VTEC-enjin
+   wat deur Honda vervaardig is was die B-reeks (B16A) wat in die Honda
+   Civic en ander modelle geïnstalleer is. VTEC kan as die eerste
+   nokskakelende stelsel beskou word en is maar een van slegs 'n paar
+   sulke enjins tans in nog vervaardig word.
+
+   In 1991 het navorsers by Clemson Universiteit die Clemson nokas
+   gepatenteer wat ontwerp is om 'n onafhanklike kontinue veranderlike
+   kleptydreëling vir beide die inlaat- en uitlaatkleppe te voorsien op 'n
+   enkele nokas samestelling. Hierdie vermoë maak dit geskik vir beidie
+   stootstang en oorhoofse nok enjintoepassings.^[1]
+
+   In 1992 het BMW die VANOS-stelsel bekendgestel. Soos Nissan se
+   NVCS-stelsel kon dit stapsgewys veranderlike tydreëling vir die
+   inlaatnok voorsien met 'n totaal van drie sulke stappe of fases. In
+   1998 is die Dubbele VANOS-stelsel bekendgestel wat uitlaatgasbeheer
+   heelwat verbeter het, die kraglewering en wringkrag verbeter het asook
+   verbeterde luier eienskappe en brandstofdoeltreffendheid voorsien het.
+
+   Die Dubbele VANOS-stelsel was die eerste stelsel wat elektronies
+   beheerde, kontinue veranderlike kleptydreëling op beide die inlaat en
+   uitlaatkleppe voorsien het. In 2001 het BMW die Valvetronic-stelsel
+   bekendgestel. Die Valvetronic-stelsel is uniek deurdat dit kontinu die
+   inlaatklep se styglengte kan verander asook die tydreëling van die
+   inlaat- en uitlaatkleppe. Die presiese beheer wat dié stelsel oor die
+   inlaatkleppe het maak dit moontlik om die inlaatbeheer geheel en al met
+   die inlaatkleppe te beheer en maak 'n smoorklep onnodig. Die verlaging
+   in pompverliese maak 'n 10% verhoging in kraglewering en
+   brandstofdoeltreffendheid moontlik.
+
+   Ford was die eerste vervaardiger wat veranderlike tydreëling in bakkies
+   ingebou het, met die Ford F-reeks in 2004.
+
+   In 2005 het General Motors die eerste veranderlike kleptydreëling vir
+   stootstang V6 enjins bekend gestel in hul LZE en LZ4 enjins.
+
+   In 2007 word DaimlerChrysler die eerste vervaardiger om nok-in-blok
+   enjins te vervaardig met onafhanklike beheer van die uitlaatnok en
+   inlaatnokke se tydreëlings. Die 2008 Dodge Viper gaan die Mechadyne
+   konsentriese nokas-samestelling gebruik om die kraglewering tot 560 kW
+   te verhoog.
+
+[wysig] Marktoepassings
+
+     * Na verkope modifikasies - Konvensionele hidroliese klepvolgers kan
+       gewysig word om vinnig te bloei om 'n verandering in klepopening en
+       die openingstyd te bewerkstellig.
+     * Alfa Romeo se Twin Spark enjin - is toegerus met veranderlike
+       kleptydreëling.
+     * BMW Valvetronic - Voorsien kontinue veranderlike tydreëling vir
+       beide inlaat en uitlaat nokasse asook kontinue veranderlike
+       styglengte (klepopening) vir die inlaatkleppe.
+     * BMW VANOS - Verander die inlaat en uitlaatkleptydreëling deur die
+       nokas te roteer relatief tot die rat.
+     * BMW se dubbele VANOS - Kontinue verandering van die tydreëling van
+       die inlaat en uitlaatkleppe word voorsien.
+     * Ford se veranderlike noktydreëling - Verander die tydreëling deur
+       die nok te roteer.
+     * General Motors se VVT - Verander die tydreëling kontinu regdeur die
+       bestek van enjinsnelhede van beide die inlaat- en uitlaatkleppe om
+       verhoogde werkverrigting in beide hul stootstang en oorhoofse nokas
+       enjins te voorsien. (Sien ook die Northstar Stelsel).
+     * General Motors se Dubbele Kontinue Veranderlike Nokfaseringstelsel
+       - Verander die tydreëling met 'n hidroliese stuwer tipe reëlaar.
+     * Honda VTEC - Verander die tydsduur, tydreëling en klepopening deur
+       tussen twee verskillende stelle noklobbe te skakel.
+     * Honda i-VTEC - In hoë lewering Oorhoofse nokas vier-silinder enjins
+       voorsien die i-VTEC stelsel kontinue inlaatkleptydreëling bykomend
+       tot die tradisionele VTEC-stelsel.
+     * Honda VTEC-E - Anders as die meeste VTEC-stelsels is die VTEC-E
+       stelsel nie 'n nokskakelende stelsel nie, maar gebruik die VTEC
+       meganisme om 'n armer inlaatlading te voorsien deur een van die
+       inlaatkleppe toe te maak onder sekere omstandighede.
+     * Hyundai MPI CVVT - Verander kraglewering, wringkrag, uitlaat en
+       enjinreaksie.
+     * Lexus VVT-iE - Kontinue verandering van die inlaatnokas se
+       tydreëling deur van 'n elektriese reëlaar gebruik te maak.
+     * Mazda S-VT - Verander tydreëling deur die nokas te roteer.
+     * Mitsubishi MIVEC - Verander kleptydreëling en -opening.
+     * Nissan N-VCT - verander slegs die rotasie van die nokas, het geen
+       invloed op die klepopening en tydsduur van die opening nie.
+     * Nissan VVL - Verander tydreëling, tydsduur en klepopening van die
+       inlaat- en uitlaatkleppe deur gebruik te maak van twee verskillende
+       stelle noklobbe.
+     * Porsche VarioCam - Verander inlaattydreëling deur die spanning op
+       'n nok-ketting te verstel.
+     * Porsche VarioCam Plus - Verander inlaattydreëling deur die nok te
+       roteer ten opsigte van die nokrat en ook die tydsduur, tydreëling
+       en klepopening van die inlaat en uitlaatkleppe deur tussen twee
+       stelle noklobbe oor te skakel.
+     * Proton Campro CPS - word steeds ontwikkel maar is skynbaar op Lotus
+       se tegnologie gebaseer wat Porsche se VarioCam verder ontwikkel
+       het.
+     * Peugeot en Citroën CVVT - Kontinue veranderlike kleptydreëling.
+     * Rover se VVC - Verander kleptydreëling met 'n eksentriese skyf.
+     * Suzuki - VVT
+     * Subaru AVCS - Verander tydreëling met hidroliese druk.
+     * Subaru i-Active - Verander klepopening met hidroliese druk.
+     * Toyota VVT-i - Kontinue verandering van die tydreëling van die
+       inlaatnokas of soms beidie die inlaat- en uitlaatnokasse deur
+       tussen twee stelle noklobbe oor te skakel.
+     * Volkswagen VVT - Eerste met die 1.8t enjin bekendgestel. Die
+       inlaattydreëling word doelbewus vervroeg en 'n vertragingspunt word
+       deur die elektroniese enjinbeheerstelsel bereken. 'n Hidroliese
+       spanningsreëlaar word gebruik om inlaattydreëling te vertraag.
+     * Volvo - VVT.
+
+[wysig] Sien ook
+
+     * Noklose enjintegnologie
+     * Kontinue veranderlike kleptydreëling
+     * Veranderlike lengte inlaatverdeelpyp
+
+[wysig] Verwysings
+
+     *
+
+    1. ^ American Society of Mechanical Engineers (1991-12-01), Clemson
+       Camshaft improves auto economy, Mechanical Engineering-CIME
+
+[wysig] Eksterne skakels
+
+     * Powre Haus Powre Valvz retrofit almost any engine
+     * Goeie artikel wat veranderlike kleptydreëling verduidelik
+
+   Kategorie: Voertuigtegnologie
+

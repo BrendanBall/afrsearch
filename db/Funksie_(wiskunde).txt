@@ -1,0 +1,39 @@
+Funksie (wiskunde)
+
+
+   Grafiek van voorbeeldfunksie,
+   Grafiek van voorbeeldfunksie,
+   \begin{align}&\scriptstyle f \colon [-1,1.5] \to [-1,1.5] \\
+   &\textstyle x \mapsto \frac{(4x^3-6x^2+1)\sqrt{x+1}}{3-x}\end{align}
+
+   In wiskunde is 'n funksie 'n begrip waarvolgens afhanklikheid tussen
+   twee hoeveelhede uitgedruk word, waarvan een die onafhanklike
+   veranderlike is, die argument of "inset" van die funksie, en die ander
+   geprusser word, die afhanklike veranderlike, waarde van die funksie of
+   "uitset". 'n Funksie assosieer 'n enkele uitset met elke inset element
+   afkomstig uit 'n vaste versameling, soos die reële getalle.
+
+   Daar is baie maniere waarvolgens 'n funksie aangegee kan word: deur 'n
+   formule, deur 'n grafiek of 'n algoritme wat dit bereken of deur 'n
+   beskrywing van die eienskappe daarvan. Soms word 'n funksie beskryf
+   deur die verhouding daarvan met ander funksies. In toegepaste
+   dissiplines word funksies baie keer gespesifiseer deur tabelle van
+   waardes of deur 'n formule. Nie alle soorte beskrywings kan vir elke
+   moontlike funksie gegee word nie en 'n mens moet 'n ferm onderskeid
+   tref tussen die funksie self en die talle maniere van voorstelling of
+   verbeelding.
+
+   'n Begrip wat van geweldige belang is in alle vertakings van wiskunde
+   is komposisie van funksies: as z 'n funksie van y is en y 'n funksie
+   van x is, dan is z 'n funksie van x. Ons kan dit informeel beskryf deur
+   te sê dat die saamgestelde funksie verkry word deur die uitset van die
+   eerste funksie as die inset van die tweede te gebruik. Hierdie eienskap
+   van funksies onderskei hulle van ander wiskundige konsepte soos getalle
+   of figure en verskaf die teorie van funksies met sy mees kragtige
+   struktuur.
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorie: Wiskunde saadjies
+

@@ -1,0 +1,248 @@
+Radon
+
+
+
+   86                        astatien ← radon → frankium
+   Xe
+   ↑
+   Rn
+   ↓
+   Uuo
+
+                                                              periodieke tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal radon, Rn, 86
+                                                  Chemiese reeks edelgasse
+                                             Groep, Periode, Blok 18, 6, p
+                                                        Voorkoms kleurloos
+                                                  Atoommassa 222 (2) g/mol
+                           Elektronkonfigurasie [Xe] 4f^14 5d^10 6s^2 6p^6
+                                    Elektrone per skil 2, 8, 18, 32, 18, 8
+                                                        Fisiese Eienskappe
+                                                              Toestand gas
+                                             Digtheid (0 °C, 101.325 kPa)
+                                                                  9.73 g/L
+                                                           Smeltpunt 202 K
+                                                              (-71.15 °C)
+                                                          Kookpunt 211.3 K
+                                                              (-61.85 °C)
+                                             Kritieke punt 377 K, 6.28 MPa
+                                              Smeltingswarmte 3.247 kJ/mol
+                                            Verdampingswarmte 18.10 kJ/mol
+                               Warmtekapasiteit (25 °C) 20.786 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 110 121 134 152 176   211
+
+                                             Verdampingswarmte 9.08 kJ/mol
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                      Oksidasietoestande 0
+                         Elektronegatiwiteit geen data (Skaal van Pauling)
+                                        ionisasie energieë 1ste: 1 kJ/mol
+                                                 Atoomradius (ber.) 120 pm
+                                                   Kovalente radius 145 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                         Termiese geleidingsvermoë (300 K) 3.61 mW/(m·K)
+                                             CAS-registernommer 10043-92-2
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van radon
+
+                            iso    NV  halfleeftyd   VM    VE (MeV)   VP
+                           ^211Rn sin  14,6 h      Epsilon 2.892    ^211At
+                                                   Alfa    5.965    ^207Po
+                           ^222Rn 100% 3.824 d     Alfa    5.590    ^218Po
+
+                                                                Verwysings
+
+   Radon (IFA: /ˈreɪdɒn/) is 'n chemiese element in die periodieke tabel
+   met die simbool Rn en atoomgetal 86. 'n radioaktiewe edelgas wat gevorm
+   word deur die disintegrasie van radium, radon is een van die swaarste
+   gasse en word as 'n gesondheidsgevaar beskou. Die mees stabiele isotoop
+   is ^222Rn wat 'n halfleeftyd van 3,8 dae het en in radioterapie gebruik
+   word. Radon gas kan in geboue en drinkwater opbou en longkanker
+   veroorsaak [1], waardeur dit moontlik elke jaar ongeveer 20 000
+   streftes in die Europese Unie en 'n verdere geskatte 20 000 sterftes
+   per jaar in die VSA veroorsaak. Radon is 'n beduidende smetstof wat
+   wêreldwyd impak maak op binnehuise lugkwaliteit. In Suid-Afrika
+   veroorsaak die verval van uraan in goudmynhope en slikdamme die
+   vrystelling van radongas.
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Toksisiteit en Epidemiologie
+
+[wysig] Merkbare eienskappe
+
+   Radon, wat so te sê chemies inert, maar radioaktief is, is die swaarste
+   edelgas en een van die swaarste gasse teen kamertemperatuur. (Die
+   swaarste bekende gas is Uraanhexafluoried, UF[6].) Teen standaard
+   temperatuur en druk is radon 'n kleurlose gas, maar as dit tot onder
+   die vriespunt (202K ; -71°C ; -96°F) daarvan verkoel word, vertoon dit
+   'n helder fosforessensie wat geel word soos die temperatuur verlaag
+   word, en wat oranje-rooi word teen die temperatuur waar lug in
+   vloeistof verander (onder 93K ; -180°C).
+
+   Natuurlike radon konsentrasies in die Aarde se atmosfeer is so laag dat
+   radon-ryk water wat in kontak is met die atmosfeer gedurig radon deur
+   vervlugtiging verloor. Gevolglik het grondwater hoër konsentrasies van
+   ^222Rn as oppervlakwater, omdat dit voortdurend deur radioaktiewe
+   verval van ^226Ra wat in rotse teenwoordig is vervaardig word. Netso
+   het die versadigde sone van grond baie keer 'n hoër radon inhoud as die
+   onversadigde sone as gevolg van verliese aan die atmosfeer.
+
+[wysig] Toepassings
+
+   In die VSA en Europa is daar 'n paar "radon spa's," waar mense vir
+   minute of ure in 'n hoë-radon atmosfeer sit in die geloof dat die
+   radonstraling hulle sal verkwik of energie gee. Dit geld ook vir die
+   warmwaterspa's van Misasa, Tottori, Japan, waar die water van nature
+   ryk is aan radium en radon uitasem. Daar is geen wetenskaplike bewyse
+   vir die geloof nie, en daar is geen bekende biologiese meganisme
+   waarvolgens so 'n verskynsel kan voorkom nie. Straling hormesis is 'n
+   bestrede teorie wat wel ondersteuning vir die effek sou gee.
+
+   As gevolg van radon se verlies aan die lug en betreklik snelle verval,
+   word radon gebruik in hidrologiese navorsing wat die interaksie tussen
+   grondwater, spruite en riviere bestudeer. Enige beduidende konsentrasie
+   van radon in 'n spruit of rivier is 'n goeie aanduiding dat daar
+   plaaslike insette van grondwater teenwoordig is.
+
+   Radon versamel in ondergrondse myne en grotte. Goeie ventilasie moet
+   daarom in myne gehandhaaf word, en in sommige lande word gidse in
+   toeristegrotte as "stralingswerkers", waarvan die blootstelling
+   gemonitor word, geklassifiseer. Besoek van grotte deur toeriste word
+   nie as 'n beduidende gevaar beskou nie as gevolg van die kort
+   blootstelling wat ondergaan word.
+
+   Sommige navorsers bestudeer verhoogde grond-gas radon konsentrasie, of
+   vinnige veranderings in grond-radon konsentrasies, as 'n voorspeller
+   van aardbewings. Resultate is sover in die algemeen onoortuigend maar
+   kan moontlik in die toekoms beperkte gebruik in spesifieke liggings hê.
+
+   Radon grond-konsentrasie is al gebruik in 'n eksperimentele metode om
+   vlak-ondergrondse geologiese foute te karteer, aangesien konsentrasies
+   oor die algemeen hoër is bokant foute. Netso word op beperkte wyse in
+   geotermiese prospektering gebruik.
+
+   Radon is 'n bekende smetstof wat deur geotermiese kragstasies vrygestel
+   word. Dit versprei egter vinnig en geen radiologiese gevaar is in
+   verskeie ondersoeke aangetoon nie. Die neiging in geotermiese aanlegte
+   is om al die vrystelling weer diep ondergronds in te pomp wat
+   waarskynlik sal bydra tot verdere vermindering van sulke radon gevare.
+
+   Radon vrystelling uit grond wissel volgens grondtipe en oppervlak uraan
+   inhoud. Buitemuurse radon konsentrasies kan dus tot 'n beperkte mate
+   gebruik word om lugmassas te volg. Die feit is al deur atmosferiese
+   wetenskaplikes gebruik.
+
+   Alhoewel sommige mediese dokters vroeër geglo het dat radon terapeuties
+   gebruik kon word, is daar geen bewyse vir die geloof nie en word radon
+   nie tans vir mediese doeleindes gebruik nie.
+
+   Radon ook al gebruik om gewasse te verwyder. 'n Kapsule word in die
+   pasiënt naby die gewas geplaas waar die straling dan die kankerselle
+   vernietig. Die omliggende selle is veilig as gevolg van die kort
+   halfleeftyd van radon.
+
+[wysig] Geskiedenis
+
+   Radon (wat na radium) vernoem is) is in 1900 deur Friedrich Ernst Dorn,
+   wat dit radium uitstraling genoem het, ontdek. In 1908 het William
+   Ramsay en Robert Whytlaw-Gray, wat dit niton (Latyn nitens wat skynend
+   beteken; simbool Nt), dit geïsoleer, die digtheid daarvan bepaal en
+   bepaal dat dit die swaarste bekende gas was. Dit word sedert 1923
+   “radon” genoem.
+
+   Die eerste groot ondersoeke na die gesoendheidssorge het in die konteks
+   van uraanmynbou plaasgevind, eers in die Joachimsthal omgewing van
+   Bohemië en toe in die Amerikaanse Suidweste tydens die begin van die
+   Koue Oorlog. Omdat radon 'n produk van uraan is, het uraan myne hoë
+   konsentrasies radon en die hoogs radioaktiewe dogterprodukte. Baie
+   Indiane , Mormone, en ander myners in die Four Corners gebied sou later
+   longkanker en ander siektes opdoen as gevolg van die hoë
+   blootstellingsvlakke aan radongas terwyl hulle uraan gemyn het in die
+   middel van die 1950's. Veiligheidstandaarde wat ingestel is sou
+   uitgebreide ventilasie vereis en is dus nie algemeen geïmplementeer of
+   gepolisiëer nie.
+
+   Die gevaar van radonbestraling in huise is in 1984 ontdek in die geval
+   van Stanley Watras, 'n werknemer by die Limerick kernkragsentrale in
+   Pennsylvania. Watras het vir verskeie weke die straling alarms laat
+   afgaan (kyk Geigerteller) op pad na werk terwyl die owerhede na die
+   bron van die besoedeling gesoek het. Tot die ondersoekspan se skok het
+   hulle ontdek dat verrassende hoë radonvlakke in sy huis se kelder
+   teenwoordig was en dat dit nie verband gehou het met die kernaanleg
+   nie. Die risiko geassosieer met in die huis leef is geskat as
+   ekwivalent daaraan om 135 pakkies sigarette elke dag te rook.[2] Na die
+   voorval, wat wye publisiteit ontvang het, is nasionale radon
+   veiligheidstandaarde in die VSA gestel en het radon deteksie en
+   ventilasie 'n standaard besorgdheid van huiseienaars geword.
+
+   Radon word aangedui as die belangrikste oorsaak van longkanker na
+   sigaretrook en daar word gemeen dat radon veroorsaakte longkanker die
+   6de grootste oorsaak van dood aan kanker in die algemeen is.
+
+[wysig] Voorkoms
+
+   Daar is gemiddeld een radonatoom in 1 x 10^21 lugmolekules. Radon kom
+   voor in sommige fonteinwaters en warmbronne. Die dorpe Misasa, Japan,
+   en Bad Kreuznach, Duitsland het radium-ryk fonteine wat radon vrystel.
+
+   Radon word op natuurlike wyse uit die grond vrygestel, veral in sekere
+   gebiede, in besonder (maar nie alleenlik nie) in gebiede met granitiese
+   grond. Nie alle granitiese gebiede het hoë radon vrystellings nie.
+   Afhangend van hoe huise gebou en geventilleer word kan radon in kelders
+   en huise opbou.
+
+   Daar is aangetoon dat radon wat uit die grond vrygestel word opbou in
+   toestande van meteorologiese inversie en windstilstand. Konsentrasies
+   kan wetlike riglyne vir kort tydperke oorskry. Dit is nie duidelik of
+   die effek daarvan op gesondheid epidemiologies waarneembaar is nie.
+
+[wysig] Verbindings
+
+   Sommige eksperimente dui aan dat fluorien met radon kan reageer om
+   radonfluoried te vorm. Radon clathrates is ook al waargeneem.
+
+[wysig] Isotope
+
+   Daar is twintig bekende isotope van radon. Die stabielste isotoop is
+   ^222Rn, wat 'n vervalproduk van ^226Ra is, met 'n halfleeftyd van 3,823
+   dae en wat alfadeeltjies uitstraal. ^220Rn is 'n natuurlike
+   vervalproduk van torium en word “thoron” genoem. Dit het 'n halfleeftyd
+   van 55,6 sekondes en straal ook alfastrale uit. ^219Rn word uit
+   actinium verkry en word “actinon” genoem, dit is 'n alfa-uitstraler en
+   het 'n halfleeftyd van 3,96 sekondes.
+
+   Die volle vervalreeks van ^238U wat natuurlike radon produseer is as
+   volg (met halfleeftye):
+   ^238U (4.5 x 10^9 yr), ^234Th (24.1 days), ^234Pa (1.18 min), ^234U
+   (250,000 yr), ^230Th (75,000 yr), ^226Ra (1,600 yr), ^222Rn (3.82
+   days), ^218Po (3.1 min), ^214Pb (26.8 min), ^214Bi (19.7 min), ^214Po
+   (164 µs), ^210Pb (22.3 yr), ^210Bi (5.01 days), ^210Po (138 days),
+   ^206Pb (stabiel).
+
+[wysig] Toksisiteit en Epidemiologie
+
+   Radon gas en die vastestof vervalprodukte van die gas is karsinogene.
+   Sommige van die vervalprodukte, veral polonium-218 en 214, van
+   radioaktiewe verval van radon verteenwoordig 'n radiologiese gevaar.
+   Afhangend van die grootte van die deeltjies, kan radon vervalprodukte
+   in die longe ingeasem word waar hulle dan verdere radioaktiewe verval
+   ondergaan en klein energieuitbarstings in die vorm van alfa-deeltjies
+   uitstraal wat dubbelle strand DNS breuke kan veroorsaak of vrye
+   radikale veroorsaak wat ook DNA kan beskadig.
+   Kategorie: Chemiese elemente
+

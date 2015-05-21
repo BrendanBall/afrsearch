@@ -1,0 +1,88 @@
+Ioonenjin
+
+
+   'n Ioonenjintoets.
+   'n Ioonenjintoets.
+
+   'n Ioonenjin (of ioniese aandrywer) is een van vele tipes ruimtetuig
+   aandrywers. Dit gebruik ioonstrale om 'n aandrywings krag te
+   veroorsaak. Die presiese metode waarop ioone versnel word kan verskil
+   van ontwerp tot ontwerp, maar alle ontwerpe maak staat op die
+   lading/massa verhouding van ioone om hulle tot baie hoë snelhede te
+   versnel met die gebruik van 'n hoë-spanning elektriese veld. Ioonenjins
+   kan om hierdie rede 'n baie hoë spesifieke impuls bereik, wat die
+   hoeveelheid benodigde reaksie massa verminder maar die hoeveelheid
+   benodigde krag vermeerder in vergelyking met chemiese vuurpyle.
+   Ioonenjins kan tien keer beter aandryfstof effektiwiteit as
+   tradisionele vloeistof brandstof vuurpyl enjins bied, maar is bedwing
+   tot baie lae versnellings deur die krag/gewig verhouding van beskikbare
+   kragstelsels. Kragvlakke wat deur die ioonenjins gebied word is maar op
+   die skaal van 50mN.
+
+   Die eerste ioonenjins, bekend as kaufman-tipe ioonenjins, was ontwikkel
+   deur Harold R. Kaufman wat in die 1960s vir NASA gewerk het en was
+   gebaseer op die Duoplasmatron.
+
+   Inhoud
+
+        * 1 Tipes ioonenjins
+        * 2 Basiese Ontwerp
+        * 3 Voordele
+        * 4 Nadele
+
+[wysig] Tipes ioonenjins
+
+   Daar is talle tipes ioonenjins tans in ontwikkeling; sommige word tans
+   gebruik, wyl ander nog nie op ruimtetuie geïnstalleer was nie. Sommige
+   van dié ioonenjins sluit in:
+     * Elektrostatiese ioonenjins.
+     * Field Emission Electric Propulsion.
+     * Hall-effek aandrywers.
+     * Helicon dubbellaag aandrywer.
+     * Elektrodelose plasma aandrywer.
+     * Pulsed inductive thruster.
+     * Magnetoplasmadinamiese aandrywer.
+
+[wysig] Basiese Ontwerp
+
+   In elektrostatiese ioonenjins word onreaktiewe elemente soos argon,
+   kwik of xenon geïoniseer deur hulle te bombardeer met elektrone wat
+   deur 'n katode filament uitgestraal word. In sommige ander ontwerpe
+   word die onreaktiewe elemente op ander maniere geïoniseer, soos bv.
+   deur mikrogolwe. Die katione word dan versnel deur 'n hoëspanning
+   elektriese veld met 'n katode rooster wat stroomaf geleë, die katione
+   versnel dan deur die gapings in die rooster waarna hul hoë momentum hul
+   toelaat om die katode se aantrekking te ontsnap en in 'n stroom die
+   enjin verlaat. Die elektrone wat vroeër van die katodes verwyder was
+   word dan stroomaf van die katode-rooster in die katioon-stroom
+   gesprooi, dit laat dan die enjin neutraal.
+
+   As gevolg van die versnelling van die massiewe ione word 'n
+   reaksie-krag gegenereer wat die enijin dan voerntoe laat versnel.
+
+[wysig] Voordele
+
+     * Die belangrikste voordeel van ioonenjins is hul lae aandryfstof
+       gebruik. Dit is as gevolg van die hoë lading/massa verhouding van
+       die atome wat die aandryfstof opmaak. Dié verhouding beteken dat
+       die katione teen baie hoë snelhede deur die katode-rooster by die
+       enjin uitgestraal word, daarom is die katione se momentum so hoog
+       dat min ione nodig is om die ruimtetuig ver te neem.
+     * Alhoewel die lae kragvlakke van die enjin oor die algemeen as 'n
+       nadeel beskou word hou dit wel ook 'n voordeel in. Die klein kragte
+       wat deur die enjin gebied word is perfek vir die presiese
+       veranderinge wat nodig is om sateliete in hul wentelbane te hou.
+
+[wysig] Nadele
+
+     * Die hoë effektiwiteit van die enjins laat dit toe om baie langer
+       afstande, goedkoper af te lê as tradisionele vuurpyle.
+     * Die lae kragvlakke wat ioonenjins bied beperk die afstand wat
+       ruimtetuie, berus met ioonenjins, prakties kan aflê ten spyte van
+       die uiters hoë effektiwiteit wat dit andersins sou toe laat om baie
+       lang afstande af te lê. Die lae kragvlakke maak dit ook onmooontlik
+       vir ioonenjins om ruimtetuie te lanseer, daar sal dus steeds op
+       duurder en onveiliger vuurpyle staatgemaak word vir lanserings.
+
+   Kategorie: Tegnologie
+

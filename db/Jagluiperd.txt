@@ -1,0 +1,104 @@
+Jagluiperd
+
+
+                     Jagluiperd
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+            Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Felidae
+     Subfamilie:   Felinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Acinonyx
+                   Brookes, 1828
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. jubatus
+     Subspesie:    {{{subspecies}}}
+      [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                   Binomiale naam
+                  Acinonyx jubatus
+   (Schreber, 1775)
+                  Trinomiale naam
+                  {{{trinomial}}}
+                    Tipe Spesies
+                  Acinonyx venator
+   Brookes, 1828 (= Felis jubata, Schreber, 1775)
+              {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die jagluiperd
+   Die verspreiding van die jagluiperd
+                     Sinonieme
+   {{{synonyms}}}
+
+   Die Jagluiperd (Acinonyx jubatus) is 'n soogdier in die katfamilie en
+   kom in 'n verskeidenheid van habitats voor, hoofsaaklik in Afrika. 'n
+   Klein groepering van 'n subspesie word in Iran aangetref.
+
+   Hulle verkies oop savannas, gras, of bosveld.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Voedsel
+        * 3 Voortplanting
+        * 4 Galery
+
+[wysig] Identifikasie
+
+   'n Volwasse jagluiperd kan tot 65 kg weeg, en staan tussen 70 tot 90 cm
+   hoog. As die vinnigste landdier kan 'n jagluiperd 'n spoed van ongeveer
+   112 kilometer per uur behaal.
+
+   Die jagluiperd word soms met die luiperd, 'n heel verskillende
+   katspesie, verwar weens die ooreenstemmende voorkoms ('n pels met
+   donker vlekke), alhoewel die jagluiperd aansienlik meer vaartbelyn van
+   bou is as die luiperd.
+
+[wysig] Voedsel
+
+   Hulle dieët bestaan hoofsaaklik uit knaagdiere, klein bokspesies,
+   somtyds zebras, en vlakvarke. Die jagluiperd jag in die dag.
+
+[wysig] Voortplanting
+
+   Na 'n draagtydperk van 3 maande word een of twee welpies gebore.
+
+[wysig] Galery
+
+   'n Jagluiperd in die Afrikase vlaktes.
+
+   'n Portret van 'n jagluiperd
+
+   'n Jagluiperd lê en rus in die Serengeti Nasional Park in Tanzanië.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Vir woordeboekinligting, sien die bladsy jagluiperd op WikiWoordeboek
+   Kategorieë: Saadjies • Katagtiges
+

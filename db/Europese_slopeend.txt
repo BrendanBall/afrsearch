@@ -1,0 +1,113 @@
+Europese slopeend
+
+
+                           Europese slopeend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   Mannetjie
+   Mannetjie
+   Vroutjie
+   Vroutjie
+                      Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. clypeata
+     Subspesie:    {{{subspecies}}}
+                [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                             Binomiale naam
+                             Anas clypeata
+   Linnaeus, 1758
+                            Trinomiale naam
+                            {{{trinomial}}}
+                              Tipe Spesies
+                           {{{type_species}}}
+                        {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding in Europa. Somer: lig groen. Winter: blou. Hele jaar:
+   Donker groen.
+   Verspreiding in Europa. Somer: lig groen. Winter: blou. Hele jaar:
+   Donker groen.
+                               Sinonieme
+   {{{synonyms}}}
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   Hierdie spesie in onverwisselbaar in die Noordelike halfrond as gevolg
+   van hulle groot plat snawel. Die broeiende manlike voël het 'n groen
+   kop, wit bors en bruin onderkant en flanke. In vlug kan vaal-blou
+   voor-vlerk vere gesien word wat geskei word van die res van die groen
+   vere deur 'n wit grens. Die vroulike eend is lig bruin en het grys
+   voor-vlerk vere.
+
+[wysig] Habitat
+
+   Hierdie eend verkies oop water-ryke areas soos grasvlaktes en vleie.
+
+[wysig] Verspreiding
+
+   Die Europese Slopeend broei in die noorde van Europa en Asië en in die
+   meeste van Noord Amerika.
+
+[wysig] Geluid
+
+   Hierdie eend-spesie is redelik stil.
+
+[wysig] Ander name
+
+     * Engelse naam: Northern (European) Shoveler / Shoveler / Northern
+       Shoveler
+     * Wetenskaplike naam: Anas clypeata
+
+[wysig] Galery
+
+   Europese Slopeend
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

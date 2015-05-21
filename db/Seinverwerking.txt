@@ -1,0 +1,20 @@
+Seinverwerking
+
+
+   Seinverwerking is die manipulasie, versterking en interpretasie van
+   intydse analoogseine deur middel van digitale metodes. Dit beteken dat
+   'n videosein, wat van 'n antenne op 'n huis se dak ontvang word,
+   verwerk moet word om op 'n digitale televisie gewys te word. Dit gebeur
+   deurgaans intyds; soos die analoogseine ontvang word, word dit
+   omgeskakel na digitale data, verwerk en op die skerm gewys. 'n Ander
+   voorbeeld is 'n digitale kamera. Die analoogsein, in hierdie geval die
+   lig van die voorwerp wat afgeneem word, word omgeskakel na 'n stroom
+   van digitale data wat verwerk word deur 'n video proseseerder en
+   gestoor word as binêre getalle.
+
+[wysig] Sien ook
+
+     * Elektroniese ingenieurswese
+
+   Kategorie: Elektronika
+

@@ -1,0 +1,66 @@
+802.11
+
+
+   Die mees algemene argitektuur- en protokolstandaarde wat toegepas word
+   om data oor te dra in ‘n draadlose netwerk is die IEEE
+   802.11-standaarde.
+
+   Die 802-komitee is verantwoordelik om standaarde te ontwikkel vir LAN’e
+   (lokale area netwerke) en WAN’e (wye area netwerke). Die komitee is in
+   werkgroepe opgedeel. Die 802.3-groep ontwikkel byvoorbeeld standaarde
+   vir Ethernet-gebaseerde bedrade netwerke, die 802.15-groep ontwikkel
+   standaarde vir persoonlike-area netwerke en die 802.11-groep ontwikkel
+   standaarde vir draadlose lokale area netwerke.
+
+   802.11 word verder onderverdeel, byvoorbeeld:
+
+   802.11b (ook bekend as Wi-Fi) is ‘n standaard vir draadlose LAN’e wat
+   bedryf word in die 2.4 to 2.5 GHz frekwensiespektrum met ‘n maksimum
+   data-oordragkoers van 11 megagrepe per sekonde. Dit voorsien 3
+   afsonderlike kanale en was vir ‘n geruime tyd die mees populêre
+   standaard.
+
+   802.11a is ‘n standaard vir draadlose LAN’e wat bedryf word in die 5.15
+   tot 5.875 GHz frekwensiespektrum met ‘n maksimum data-oordragkoers van
+   54 megagrepe per sekonde.
+
+   802.11g is ‘n standaard vir WLAN’e (draadlose LAN’e) wat bedryf word in
+   die 2.4 tot 2.5 GHz frekwensiespektrum met ‘n maksimum
+   data-oordragkoers van 54 megagrepe per sekonde.
+
+   802.11g Super G is ‘n standaard vir WLAN’e (draadlose LAN’e) wat bedryf
+   word in die 2.4 tot 2.5 GHz frekwensiespektrum met ‘n maksimum
+   data-oordragkoers van 108 megagrepe per sekonde.
+
+   802.11i is ‘n standaard vir verskerpte sekuriteit in die draadlose
+   netwerkomgewing en is aanvaar in 2004.
+
+   802.11n is ‘n standaard vir 'n spoed tot 300 Mbps (3x die spoed van
+   100Tbase 100Mbps LAN-konneksie) en is aanvaar in 2004. Dit is 'n
+   multikanaal transmissie en maak gebruik tussen 3 en 6 antennas, soms
+   ingebou soms op die TP (toegangspunt) (engels: AP = access point) of
+   ook met 'n eksterne antenna in die kamer of buitenshuis.
+   Vrystellings Datum Op. frekwensie Data spoed (tiep.) Data spoed (maks.)
+   Afstand (binneshuis)
+   Junie 2009 (?) 5 GHz en/of 2.4 GHz 74 Mbit/s 300 Mbit/s (2 streams) ~70
+   m
+
+   802.11n is 'n voorgestelde verandering wat die vorige 802.11 standarde
+   verbeter met byvoeging van multiple-input multiple-output (MIMO) -
+   veelvuldige-in veelvuldige-out (VIVU) en baie ander nuwe ekstras .
+
+   802.11x was aanvanklik ‘n konsepstandaard vir poortgebaseerde
+   toegangsbeheer (poort-gebaseerde toegangsbeheer gebruik die fisiese
+   kenmerke van die LAN infrastruktuur en wisselaars om bekragtiging by
+   elke LAN-poort te verskaf). Die naam het egter mettertyd na 802.11 in
+   die algemeen begin verwys en is vandag ‘n gereserveerde naam wat nooit
+   gebruik sal word nie.
+
+   802.11v is ‘n netwerkbestuurstandaard.
+
+[wysig] Eksterne skakels
+
+     * http://www.ieee802.org/11/
+
+   Kategorieë: Rekenaarnetwerke • Standaarde
+

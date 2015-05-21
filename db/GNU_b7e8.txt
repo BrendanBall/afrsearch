@@ -1,0 +1,41 @@
+GNU
+
+
+   GNU is 'n projek van die Stigting vir Vrye Sagteware wat poog om 'n
+   volledige bedryfstelsel te skep wat vrye sagteware is. "GNU" is 'n
+   rekursiewe akroniem vir "GNU's Not Unix". Die stigting is sedert 1983
+   besig met die GNU-projek.
+
+   Alhoewel die GNU-projek baie programme gelewer het, was dit vir jare
+   sonder 'n kern. Mense kon dus die GNU-programme loop op ander
+   bedryfstelsels, maar kon nie 'n volledig vrye bedryfstelsel daarstel
+   nie. Met die koms van Linux, 'n kern wat ook vrye sagteware is, maar
+   nie onder die vaandel van die stigting geskryf is nie, was dit
+   uiteindelik moontlik om 'n volledige bedryfstelsel van vrye sagteware
+   te loop. Hierdie kombinasie word GNU/Linux genoem, alhoewel baie mense
+   slegs van "Linux" praat. Linux is dus nie 'n bedryfstelsel nie, maar
+   slegs 'n bedryfstelselkern.
+
+   Die stigting het nie hulle planne vir 'n eie kern laat vaar nie, en is
+   steeds besig met die HURD-projek wat poog om 'n mikrokerngebaseerde
+   kern daar te stel vir die GNU-projek. Dit is egter steeds ver van
+   gereed vir algemene gebruik (in 2005).
+
+   Richard Stallman het die GNU projek begin in 1984 met sy program GNU
+   Emacs. Die doel van die projek is om sagteware en programme te skryf en
+   te versprei met die oorspronklikke programerings taal (source code).
+   Dit stel enige iemand instaad om die program te verander en herversprei
+   soos dit hom pas. Die enigste verystes is dat die oorspronklikke
+   skepper genoem moet word en dat die programering taal vrylik beskikbaar
+   is sodat ander dit weer kan verander as hulle will.
+
+[wysig] Sien ook
+
+     * Lys van vrye sagteware
+     * Vrye Sagteware
+     * GNU General Public License
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Sagteware
+

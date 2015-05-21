@@ -1,0 +1,180 @@
+Dokumentbestuurstelsel
+
+
+   'n Dokumentbestuurstelsel (DBS) is 'n rekenaarstelsel (of stel
+   rekenaarprogramme) wat gebruik word om tred te hou van elektroniese
+   dokumente en/of beeldmateriaal of papierdokumente. Die begrip oorvleuel
+   ietwat met ander begrippe soos inhoudsbestuurstelsels en word dikwels
+   beskou as 'n onderdeel van ondernemingsbestuurstelsels en hou ook
+   verband met digitale batebestuur, dokumentskandering en
+   werkvloeistelsels.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Geskiedenis
+        * 3 Onderdele
+        * 4 Eksterne skakels
+
+[wysig] Oorsig
+
+   'n Dokumentbestuurstelsel sal tipies sommige of al die volgende
+   kwessies aanspreek:
+   Ligging en Tyd
+   Opsporing Tipies word 'n ingeboude soekprogram gebruik. Sommiges laat
+   ook die opsporing van dokumente toe deur van metadata gebruik te maak
+   (soos datum, tyd, etikette, soort dokument ens.)
+   Liasering Organisasie? Strategie?
+   Sekuriteit Beskerming teen verlies, peuter met of vernietiging van
+   dokumente? Hoe om met sensitiewe inligting te werk te gaan?
+   Argief Leesbaarheid? Hoe om dokumente teen brande, vloede of
+   natuurrampe te beskerm?
+   Behoud Wat moet behou word? Hoe lank? Verwydering?
+   Verspreiding Mense? Koste van verspreiding?
+   Werkvloei As dokumente van een persoon na 'n ander aangestuur moet
+   word, wat is die reëls vir hoe hulle werk moet vloei?
+   Skepping Aantal mense wat daaraan werk en die logistiek van
+   samewerking?
+   Bevestiging/Goedkeuring Hoe word voorsiening gemaak vir die wetlike
+   vereistes van die regering, asook die vereistes die privaatnywerheid
+   ten opsigte van die bevestiging van die oorspronklikheid en egtheid van
+   dokumente?
+
+[wysig] Geskiedenis
+
+   Aan die begin van die 1980's het 'n aantal handelaars begin om stelsels
+   te ontwikkel om papiergebaseerde dokumente te bestuur. Aanvanklik is
+   dit hoofsaaklik ontwerp om die skandering van dokumente, die stoor,
+   indeksering en opsporing daarvan te vergemaklik maar het geleidelik
+   gegroei om elektroniese dokumentasie, saamwerkgereedskap, sekuriteit-
+   en ouditeringvermoëns in te sluit.
+
+[wysig] Onderdele
+
+   Dokumentbestuurstelsels verskaf tipies stoor-, weergawebeheer-,
+   metadata-, sekuriteit- asook indeksering- en opsporingsvermoëns.
+
+        Metadata
+
+   Metadata word tipies vir elke dokument gestoor. Metadata mag
+   byvoorbeeld die datum waarop die dokument gestoor is insluit asook die
+   identiteit van die gebruiker wat dit gestoor het. Die DBS kan ook
+   outomaties metadata uit die dokument onttrek of die gebruiker vra om
+   die metadata in te sleutel. Sommige stelsels gebruik ook programmatuur
+   om karakters in geskandeerde dokumente te herken of onttrek teks uit
+   elektroniese dokumente. Die gevolglike onttrekte teks kan gebruik word
+   om gebruikers te help in die opspoor van dokumente deur die
+   identifisering van moontlike sleutelwoorde of kan gebruik word om die
+   volle teks te deursoek of kan net so gebruik word. Die onttrekte teks
+   kan ook gestoor word as 'n deel van die metadata, saam met 'n beeld
+   gestoor word of afsonderlik as 'n bron vir gebruik in 'n soektog na
+   dokumentversamelings.
+
+        Integrasie
+
+   Baie dokumentbestuurstelsels poog om dokumentbestuur binne ander
+   programmatuur in te bou, sodat gebruikers bestaande dokumente direk
+   vanaf die bestuurstelsel se bergingsarea kan herwin, veranderinge kan
+   maak en die veranderde dokument as 'n nuwe weergawe in die bergingsarea
+   terug kan plaas, sonder om die program wat gebruik word te verlaat.
+   Sodanige integrasie word dikwels aangetref in kantoorprogramsuites en
+   e-pos of ander soortgelyke saamwerkprogrammatuur. Die integrasie maak
+   dikwels gebruik van oop standaarde soos ODMA, LDAP, WebDAV en SOAP om
+   integrasie met ander programmatuur in die hand te werk.
+
+        Vaslegging
+
+   Beelde van papierdokumente wat ingelees is deur 'n aftaster
+   (skandeerder) of multifunksie drukker word dikwels met behulp van
+   optiese karakterherkenningprogramme omgeskakel na masjienleesbare teks.
+   Sodanige programmatuur word dan soms ook geïntegreer in die
+   bestuurstelselprogrammatuur.
+
+        Indeksering
+
+   Om tred te hou van elektroniese dokumente. Indeksering kan so eenvoudig
+   wees soos die tredhou van 'n dokument deur die gebruik van unieke
+   identifikasienommers; maar neem dikwels 'n meer komplekse vorm aan en
+   maak voorsiening vir die klassifikasie van 'n dokument deur die
+   dokument se metadata of selfs deur woordindekse wat uit die dokument se
+   inhoud onttrek is. Indeksering is hoofsaaklik gemik op die herwinning
+   van dokumente. 'n Kwessie van kritieke belang vir vinnige herwinning is
+   die skep van 'n indekstopologie.
+
+        Berging
+
+   Die stoor van dokumente sluit dikwels die bestuur van daardie dokumente
+   in; waar hulle gestoor word, vir hoe lank, migrasie van dokumente van
+   een stoormedium na 'n ander en uiteindelike vernietiging.
+
+        Herwinning
+
+   Die opspoor en herwinning van dokumente wat gestoor is. Alhoewel die
+   herwinning van 'n spesifieke dokument na 'n eenvoudige beginsel klink,
+   kan die herwinning van dokumente in die elektroniese verband heel
+   komplek en kragtig wees. Eenvoudige herwinning van indiwiduele
+   dokumente kan ondersteun word deur die gebruiker toe te laat om 'n
+   unieke identifikasienommer aan 'n dokument toe te ken en die stelsel
+   dan toe te laat om die basiese indeks te gebruik om die dokument te
+   herwin.
+
+   Meer buigsame herwinningstelsels laat gebruikers toe om gedeeltelike
+   soekterme in te sleutel wat die dokument identifikasienommer en/of dele
+   van die verwagte metadata kan insluit. Die resultaat sal tipies 'n lys
+   dokumente lewer wat ooreenkom met die gebruiker se soekterme.
+
+        Verspreiding
+        Sekuriteit
+
+   Dokumentsekuriteit is 'n belangrike onderdeel van baie
+   dokumentbestuurstelselprogramme. Voldoeningsvereistes kan soms kompleks
+   wees afhangende van die soort dokument. Die hantering van sekere
+   mediese rekords word byvoorbeeld deur wetgewing beheer. Sommige
+   dokumentbestuurstelsels het 'n toegangsbeheerstelsel ingebou wat 'n
+   administrateur toelaat om toegang tot dokumente toe te ken na
+   aanleiding van die soort dokument sodat slegs sekere mense of groepe
+   mense toegang kan verkry.
+
+        Werkvloei
+
+   Werkvloei is 'n ingewikkelde kwessie en sommige dokumentbestuurstelsels
+   het 'n ingeboude werkvloeimodule om dit te vergemaklik. 'n Handmatige
+   werkvloei vereis van die gebruiker om die dokument te besigtig en dan
+   te besluit na wie dit gestuur moet word. Reëlgebaseerde werkvloei laat
+   die administrateur toe om 'n reël the skep wat bepaal hoe 'n dokument
+   deur 'n organisasie moet vloei: 'n faktuur kan byvoorbeeld deur 'n
+   goedkeuringsproses gestuur word en dan na die departement gestuur word
+   wat verantwoordelik is vir die betaal van rekeninge. Dinamiese reëls
+   laat toe vir die skep van vertakkinge in die werkvloeiproses. 'n
+   Eenvoudige voorbeeld sal wees waar 'n faktuurbedrag ingesleutel is wat
+   laer is as 'n sekere voorafbepaalde bedrag, dat die faktuur 'n
+   vereenvoudigde werkvloeiproses ondergaan op 'n verskillende roete deur
+   die organisasie.
+
+        Samewerking
+
+   Samewerkingsmoontlikhede behoort 'n inherente eienskap van elektroniese
+   dokumentbestuurstelsels te wees. Dokument moet herwin kan word deur 'n
+   goedgekeurde gebruiker wat dan daarop kan werk. Toegang tot die
+   dokument moet dan geweier word terwyl die gebruiker daaraan werk om te
+   verseker dat meer as een gebruiker nie gelyktydige veranderinge op 'n
+   dokument maak nie.
+
+        Weergawebeheer
+
+   Weergawebeheer is 'n proses wat vereis dat dokumente in die
+   bestuurstelsel in- en uitgeteken word, dit laat gebruikers toe om
+   vorige weergawes te herwin en dan werk voort te sit vanaf 'n
+   vertrekpunt van hul keuse. Weergawebeheer is nuttig vir dokumente wat
+   mettertyd verander en opdatering vereis en waar dit soms nodig is om
+   terug te keer na 'n vorige kopie.
+
+[wysig] Eksterne skakels
+
+     * The Paperless Office: Accepting Digitized data - 'n Verhandeling by
+       die Troy State Universiteit
+     * Voorbeeld van 'n Dokumentbestuurstelsel
+     * Dokumentbestuurstelselprogrammatuur - 'n Voorbeeld
+
+   Kategorie: Inligtingstegnologie
+

@@ -1,0 +1,53 @@
+Celsius
+
+
+   Grade Celsius (simbool: °C) is 'n SI-eenheid van temperatuur. Die
+   vriespunt van water word as 0 °C gedefinieer en die kookpunt teen
+   100 °C.
+
+   Inhoud
+
+        * 1 Definisie
+        * 2 Oorsprong
+        * 3 Omskakelings
+        * 4 Verduideliking
+
+[wysig] Definisie
+
+   1°C = 274,15 K, en absolute nul is -273,15 °C
+
+[wysig] Oorsprong
+
+   Die eenheid is vernoem na die Sweedse sterrekundige, Anders Celsius
+   (1701 - 1744) wat 'n soortgelyke stelsel vir die eerste keer in 1742
+   voorgestel het.
+
+[wysig] Omskakelings
+
+   Temperatuur omskakelings:
+     * °F = °C × 1.8 + 32
+     * °C = (°F – 32) / 1.8
+     * K = °C + 273.15
+     * °C = K – 273.15
+
+[wysig] Verduideliking
+
+   Die temperatuurskaal is uitgevind deur Anders Celsius en is
+   oorspronklik ontwerp op so 'n wyse dat daar 100 grade/indelings tussen
+   die vriespunt van water en die kookpunt van water by standaard
+   atmosferiese druk was.
+
+   Die stelsel het onder verskeie naam bekend gestaan tot en met 1948 toe
+   die stelsel se naam amptelik verander is na Celsius deur die Algemene
+   Konferensie oor Mates en Gewigte (CR 64). Terwyl die waardes vir die
+   vries- en kookpunte van water ongeveer korrek bly, is besluit dat die
+   oorspronklike definisie nie geskik was vir 'n formele standaard nie
+   aangesien dit afhang van die definisie van standaard atmosferiese druk
+   wat op sy beurt weer afhanklik is van die definisie van temperatuur.
+   Die huidige amptelike definisie van Celsius stel 0.01 °C as die
+   trippelpunt van water en 'n graad gelyk aan 1/273.16 van die verskil in
+   temperatuur van die trippelpunt van water en absolute nul. Hierdie
+   definisie is in 1954 aanvaar by die 10de algemene Konferensie oor Mates
+   en Gewigte, wat presies dieselfde is as die definisie van die kelvin.
+   Kategorieë: Afgeleide SI-eenhede • Temperatuur-eenhede • Wetenskap
+

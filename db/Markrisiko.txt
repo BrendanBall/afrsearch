@@ -1,0 +1,45 @@
+Markrisiko
+
+
+   Markrisiko is die risiko dat die waarde van jou belegging sal verander
+   as gevolg van veranderings in markfaktore. Die vier standaard
+   markrisikofaktore is:
+     * Aandelerisiko, of die risiko dat die prys van 'n aandeel sal
+       verander.
+     * Rentekoersrisiko, of die risiko dat rentekoerse verander.
+     * Wisselkoersrisiko, of die risiko dat wisselkoers sal verander.
+     * Kommoditeitsrisiko, of die risiko dat die prys van 'n kommoditeit
+       (bv. mielies, goud, ens.) verander.
+
+   Somtyds word daar verwys na 'n vyfde markrisikofaktor:
+     * Aandeelindeksrisiko, of die risiko dat 'n aandele-indeks of ander
+       indeks se waarde sal verander.
+
+[wysig] Meting van markrisiko
+
+   Markrisiko kan op verskeie maniere gemeet word. Dit word baie algemeen
+   gemeet deur 'n VaR syfer te bereken. VaR staan vir "Value-at-Risk" en
+   word vertolk as die verlies wat jy 99 uit 'n 100 keer nie sal oorskry
+   nie indien besigheid soos normaalweg sou voortgaan (dus geen
+   stresgebeure soos 9/11 nie) oor die volgende 10 dae.
+
+   Rentekoersrisiko word dikwels afsonderlik gemeet. Metingsmetodes
+   hiervoor sluit in "Gap"-verslae en "Earnings-at-Risk (EAR)".
+
+[wysig] Rapportering van markrisiko
+
+   Markrisiko moet deur banke gemeet word en hierdie syfers moet dan
+   weergegee word aan die sentrale bank (in Suid-Afrika is dit die
+   Suid-Afrikaanse Reserwebank). Hierdie proses is deel van 'n groter
+   proses wat bekend staan as regulatoriese verslagdoening.
+
+   Die G8-lande het 'n verdrag gesluit in Basel, Switserland, en
+   daarvolgens word hierdie lande se banke verplig om op sekere maniere
+   hulle blootstelling aan markrisiko (sowel as aan kredietrisiko en
+   operasionele risiko) te rapporteer. Alhoewel Suid-Afrika nie 'n G8-land
+   is nie, poog die meeste Suid-Afrikaanse banke om aan die Basel verdrag
+   se vereistes te voldoen. Indien enige internasionale bank nie aan die
+   Basel akkoord sou voldoen nie, sal hierdie bank dit besonder moeilik
+   vind om besigheid te doen en om befondsing te bekom.
+   Kategorie: Rekeningkunde
+

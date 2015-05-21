@@ -1,0 +1,44 @@
+Internet
+
+
+   In die algemene sin, is 'n internet (met 'n kleinletter "i", 'n
+   verkorte vorm van die oorspronklike inter-netwerk) 'n rekenaarnetwerk
+   wat verskeie netwerke verbind. As 'n eienaam, is die Internet die reuse
+   publieke beskikbare internasionale stelsel van rekenaars (asook die
+   inligting en dienste wat aan hulle gebruikers verskaf word) wat die
+   TCP/IP suite van protokolle gebruik. Die grootste internet word dus
+   gewoon "die" Internet genoem. In algemene omgangstaal, gebruik mense
+   gereeld Internet om te verwys na die Wêreldwye web, epos en
+   geselsdienste op die Internet.
+
+[wysig] Die begin van die Internet
+
+   Die kernnetwerke wat die Internet begin het in 1969, was deel van
+   ARPANET - 'n navorsingsprojek in verspreide netwerke. Op 1 Januarie
+   1983 het ARPANET die netwerkprotokol oorgeskakel van NCP na TCP/IP.
+   Hierdie merk die begin van die Internet soos wat ons dit vandag ken.
+
+[wysig] Sien ook
+
+     * Intranet
+     * Ekstranet
+
+[wysig] Eksterne skakels
+
+     * World of Ends, What the Internet Is and How to Stop Mistaking It
+       for Something Else deur Doc Searls en David Weinberger
+     * The Internet Society (ISOC)
+     * Internet Mapping Project
+     * RFC 801, planning the TCP/IP switchover
+     * peepo a graphic portal for people with low literacy
+     * Web content by language
+     * Access and usage statistics: [1], [2], [3], [4] (pdf)
+     * Access at home, by native language
+     * Internet Directory
+     * John Walker: The Digital Imprimatur
+     * addressingtheworld.info - website accompanying a book (ISBN
+       0742528103) on the history of DNS
+     * Show your IP address
+
+   Kategorie: Internet
+

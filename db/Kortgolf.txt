@@ -1,0 +1,210 @@
+Kortgolf
+
+
+   Kortgolfradio word uitgesaai in die frekwensieband tussen 3 MHz en 30
+   MHz (ook hoë frekwensie, HF, genoem). Die band se golflengtes strek van
+   10 tot 100 meter. Dit word HF genoem omdat die golflengtes in gebruik
+   in die begindae van radio korter was as wat destyds gebruiklik was.
+   Kortgolf word veral gebruik om baie lang afstande te oorbrug. Die
+   senders in die ultrakortgolfband waaraan ons nou gewoond is saai in
+   teenstelling in 'n reguit lyn uit. Omdat die aarde gekrom is, is die
+   bereik van so 'n sender, afhangend van sy hoogte en sterkte, gewoonlik
+   slegs so 50 tot 100 kilometer.
+   Prinsipe van de korte golf
+
+   As gevolg van hulle lang golflengte volg die golwe in die middel- en
+   langgolflengtes die aardoppervlak en kan redelike afstande daarmee
+   oorbrug word, middelgolf tot so 300km, langgolf so 1000km. Kortgolf het
+   daarenteen 'n spesiale eienskap; die ionosfeer van die aarde reflekteer
+   die seine terug na die aarde. Deur gebruik te maak van hierdie
+   weerkaatsing is dit moontlik om afstande van baie duisende kilometers
+   te oorbrug.
+
+   Vanweë hierdie eienskappe was die HF-bande by baie gebruikers populêr
+   gewees, sowel militêr as siviel, van omroepsenders tot
+   lang-afstandskommunikasie. Dit was daarom altyd 'n dig gepakte
+   frekwensiegebied gewees wat by elke nuwe vergadering van die WARC
+   (instansie wat radio-frekwensies verdeel) 'n groot geveg tussen die
+   belangegroepe veroorsaak het. As gevolg van die verskyning van
+   kommunikasiesatelliete in die '60'er jare en beskikbaarheid van
+   goedkoop toerusting vir hoër frekwensies het behoefte in die siviele
+   wêreld afgeneem. In die militêre wêreld het die band populêr gebly
+   vanweë die klaarblyklike kwesbaarheid van satelliete.
+
+   Tot die opkoms van die internet was 'n HF-verbinding een van die weinig
+   betaalbare moontlikhede vir besighede om onafgebroke inligting te
+   verwissel tussen die verskillende lande. Tot aan die einde van die 20e
+   eeu was internasionale telefoontariewe hoog en was 'n onafgebroke
+   verbinding tussen twee lande heeltemal onbetaalbaar.
+
+   Inhoud
+
+        * 1 Kortgolf beginsels
+        * 2 Nadele
+        * 3 Gebruik
+             + 3.1 Radio Kootwijk
+             + 3.2 Kortgolfradio vandag
+
+[wysig] Kortgolf beginsels
+
+   Die weerkaatsingsgedrag van kort golwe aan die onderkant van die
+   ionosfeer is afhanklik van die tyd van die dag, die seisoen, die
+   weerkaatsvermoë van die aardoppervlak en die bodemgesteldheid, die
+   voginhoud van die atmosfeer, die grondwaterspieël en die geologiese
+   struktuur van die aardoppervlak. Die hoofoorsaak vir die
+   weerkaatsvermoë van die ionosfeer is die elektromagnetiese golwe en
+   korpuskulêre straling van die son wat atome in die hoër lugstreke van
+   die aardatmosfeer (die sonneflux) ioniseer.
+   Dag/nag en seisoen invloede op ionosfeerlae
+   Dag/nag en seisoen invloede op ionosfeerlae
+
+   Die ionedigtheid is nie konstant op verskeie hoogtes bo die aarde nie.
+   Hulle vorm eerder lae wat wissel van hoë na lae konsentrasies vrye
+   elektrone. In die begin van die 20e eeu het Oliver Heavyside die eerste
+   keer so 'n laag ontdek wat vandag die E-laag genoem word. Edward Victor
+   Appleton het op 'n groter hoogte 'n aansienlik sterker geïoniseerde
+   laag ontdek wat vandag die F-laag genoem word en vir die weerkaatsing
+   van kortgolfseine van elementêre belang is. Die hoogte van hierdie laag
+   en die intensiteit van ionisering hang sowel van die jaargetye as van
+   die uur van die dag af.
+
+   Snags, as die sonstrale die aarde nie bereik nie en die ionisasiebron
+   dus ontbreek, word verskeie lae deur herkombinasie van ione en
+   elektrone tot ongelaaide atome afgebreek. Die D-laag herkombineer
+   vinnig na sonsondergang omdat hierdie laag die naaste aan die
+   aardoppervlak is en die lugdruk hier redelik hoog is. Die E-laag los 'n
+   paar ure na sonsondergang op. De F[1]- en F[2]-lae smelt snags saam met
+   die F-laag omdat ionisasie gedurende die nagure sterk afneem, maar nie
+   heeltemal stop nie.
+
+   Kortgolfseine moet bedags die D- en E-laag deurboor sodat hulle teen
+   die F[2]-laag kan weerkaats. Hulle ondergaan daar beperkte verstrooiing
+   en absorpsie van hulle energie; met ander woorde hulle word gedemp en
+   hulle seinsterkte word swakker. Snags, as die onderste ionosfeerlae
+   opgelos is neem hierdie demping nie plaas nie.
+
+   Die weerkaatsing van elektromagnetiese golwe in die F[2]-laag kan
+   verklaar word met die wet van Snellius. Volgens hierdie wet word 'n
+   elektromagnetiese golf afgebuig by oorgang na 'n opties digter medium.
+   Die normaal is daarby die loodlyn op die ionosfeerlaag wat as die
+   opties digter medium funksioneer. Die invallende straling word
+   opgebreek in 'n aantal klein hoeke sodat totale refleksie gebeur. Die
+   brekingsindeks van die elektromagnetiese straling is van frekwensie
+   afhanklik. Hoe laer die frekwensie, hoe sterker die breking. Vir
+   kortgolfontvangs beteken dit dat die laer frekwensies beter weerkaats
+   word as hoër frekwensies. Bedags, gedurende die sterk ionisasie in die
+   F[2]-laag word ook die hoër frekwensies goed weerkaats.
+
+   Op 'n hoogte van 90 tot 120 km verskyn die E[s]-laag (sporadicE) op
+   onvoorspelbare tye. In midde-Europa verskyn dit meestal oordag in die
+   somermaande en dit ontstaan as verskillende fisiese prosesse gelyk
+   optree. Daar word vermoed dat spore geïoniseerde gasse, wat meteore
+   veroorsaak wanneer hulle in die atmosfeer verbrand, bydra tot die
+   ontstaan van hierdie laag. As die ionisasie in die E[s]-laag te sterk
+   word dan kan die kort golwe nie meer by die F[2]-laag uitkom en daar
+   weerkaats word nie. Dit kan tydelik 'n volledige verstoring van seine
+   in die hele kortgolfband veroorsaak. Hierdie toestand, bekend as die
+   Mögel-Dellinger-Effek, word ook die dooie vierde uur genoem. In die
+   baiekortgolf (die FM-band) kan radioseine tydelik buiten hulle normale
+   bereik val omdat baie kort golwe deur die E[s]-laag weerkaats word.
+
+                     CAPTION: Opbou van die ionosfeerlae
+
+   Laag      Hoogte                           Opmerking
+    D    ca. 60 - 80 km      oordag aanwesig, ionisasie ooreenkomstig met
+                                              sonnestand
+    E   ca. 100 - 130 km     oordag aanwesig, ionisasie ooreenkomstig met
+                                              sonnestand
+   E[s]    ca. 100 km               tree sporadies in die somer op
+   F[1]    ca. 200 km    oordag aanwesig, versmelt 's snags met die F[2]-laag
+   F[2] ca. 250 - 400 km             oordag en 's snags aanwesig
+
+   In beginsel beteken 'n hoër energie-instraling beter refleksie.
+   Bowendien word die hoër frekwensies (byvoorbeeld groter as 10 MHz)
+   beter gereflekteer as die instraling verhoog word. Daarby dien hom 'n
+   maksimale grensfrekwensie op wat kontinu gemeet word kan (Maximum
+   Usable Frequency). Analoog hieraan is daar ook 'n minimale
+   grensfrekwensie waaronder kortgolwe nie meer deur die ionosfeer
+   gereflekteer word nie. Hierdie word die Lowest Usable Frequency genoem.
+   Op bepaalde momente kan in 'n area op die wêreld die LUF bo die MUF lê,
+   waardeur in hierdie area tydelik geen kortgolfontvangs moontlik is nie.
+   So is dit byvoorbeeld rond die middaguur in sentraal Europa nie
+   moontlik Suid-Amerikaanse zenders te ontvang nie.
+
+   Die plek waar die ionisasie maksimaal is beweeg hom vanweë die
+   aardrotasie van oos na wes oor die aardbol. Deur die stand van die
+   aardas kom hierby jaargetyde in beeld. By duisternis en in die nagure
+   swak die ionisasie langsaam weer af waarby ook de MUF sak. Verder het
+   de sonnevlekaktiwiteit wat in 'n elfjarensiklus varieer invloed op die
+   ionisasie. Bygevolg is daar ook meteoroloë wat sendweerberigte opstel.
+
+   Die refleksie is ook van die hoek waaronder die sender send afhanklik.
+   Sendantennes word daarom met inagneming van hierdie aspekte ontwerp en
+   gebou. Die kleinste opstraalhoek van 'n kortgolfantenne bedraag sirka 5
+   grade. Die F[2]-laag word op 'n afstand van sirka 1500 tot 2000
+   kilometer van die zender getref. Na die refleksie kan die signaal
+   vervolgens so'n 3000 tot 4000 kilometer van die sender op die
+   aardoppervlak ontvang word. As die afstand tussen sender en ontvanger
+   groter is dan is meer ionosfeerefleksies nodig.
+
+[wysig] Nadele
+
+   'n Probleem met kortgolf is onbetroubare ontvangs. Die ontvangs van
+   kortgolfuitsendings is afhanklik van toestande in die atmosfeer en die
+   aktiwiteit van die son. Beide verander in die loop van die dag. Die
+   radiogolwe kan ook as gevolg hiervan op ander plekke op aarde land as
+   wat bedoel is. Kortgolfstasies verander dus gedurende die loop van die
+   dag gereeld hulle antennes se rigting en verander ook van frekwensie om
+   ontvangs so goed as moontlik te maak.
+
+   'n Ander probleem is die beperkte klankkwaliteit van kortgolf. Die
+   klank is mono en beperk in frekwensiebereik. Dit is ook onderhewig aan
+   steuring soos deur weerlig omdat amplitudemodulasie gebruik word.
+   Kortgolf is nie baie geskik vir frekwensiemodulasie nie. Initiatiewe om
+   die probleem op te los deur die uitsendinge te digitaliseer is onderweg
+   (onder andere Digital Radio Mondiale), maar dit is nog onduidelik of
+   hierdie initiatiewe die analoogtegniek sal vervang.
+
+   Vanweë hierdie redes word daar tans baie via satelliet uitgesaai. Die
+   kortgolfbande bly daarenteen dig bevolk.
+
+[wysig] Gebruik
+
+[wysig] Radio Kootwijk
+
+   In die jare '20 van die 20e eeu werk Nederland aan radiogtelegrafiese
+   verbinding met Nederlands-Indië, Radio Kootwijk. Die sendvermoë van
+   hierdie radiosender was enorm en boesem ook vandag nog ontsag in. Die
+   antennestelsel het bestaan uit 'n sestal 212m hoë antennes en het 'n
+   sendvermoë van baie honderde kilowatts. Hulle het uitgesaai op 'n baie
+   lang golflengte van 17000m (VLF, 17,6 kHz) en kon hierdeur die enorme
+   afstand tussen Nederland en die kolonië oorbrug.
+
+   Tydens die ontwikkeling van Radio Kootwijk in 1925 het radioamateurs
+   ontdek dat dit moontlik was om radioseine oor lang afstande te stuur
+   deur op 'n destydse baie kortgolflengte, 16-60m, uit te saai. 'n
+   Ingenieur van die PTT, ir. N. Kooimans, bou 'n kortgolfsender en slaag
+   daarin om met 'n klein sendertjie op die dak van sy radiolaboratorium
+   in Den Haag radioverbinding met Nederlands-Indië tot stand te bring,
+   die eerste interkontinentale verbinding oor kortgolf.
+
+   Dit het nie lank geduur voordat die nuwe apparaat by Radio Kootwijk
+   geïnstalleer is en die radiostasie gegroei het tot 'n belangrike
+   wêreldwye radiosentrum. Vanweë die korter golflengte het dit moontlik
+   geword om in plaas van telegrafie ook gesprekke uit te saai en so vind
+   via Radio Kootwijk die eerste transatlantiese radiogtelefoon gesprekke
+   plaas.
+
+[wysig] Kortgolfradio vandag
+
+   Kortgolf word hedendaags steeds intensief gebruik. Belangrike
+   gebruikers is internasionale radiostasies soos Radio Nederland
+   Wereldomroep, Radio Vlaanderen Internationaal en die BBC World Service.
+   Baie lande bied hierdie uitsendings aan as diens aan hulle inwoners in
+   die buiteland. Hulle rig sommige uitsendings van onafhankelike
+   inligting na gebiede waar dit nie vanselfsprekend beskikbaar is nie, of
+   juis die omgekeerde, die verspreiding van propaganda. 'n Ander groot
+   groep gebruikers is radioamateurs. Ook in die militêre wêreld word
+   hierdie band nog baie gebruik.
+   Kategorieë: Radio • Radiotegniek
+

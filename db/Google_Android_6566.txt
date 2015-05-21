@@ -1,0 +1,22 @@
+Google Android
+
+
+   Android is 'n oopbron platform vir selfone van die Amerikaanse
+   maatskappy Google. Android is die geesteskind van Andy Rubin, eienaar
+   van die IT-maatskappy, Android, wat in 2005 deur Google uitgekoop is.
+
+   Die bedryfstelsel van Android is gebaseer op Linux en dit word
+   vrygestel onder die Apache-lisensie. Die eerste vervaardigers van
+   selfone wat Android gaan gebruik, is onder andere Motorola, HTC,
+   Samsung en LG.
+
+   Android was tot kort voor die openbare bekendstelling op 5 November
+   2007 bekend as die gPhone.
+
+[wysig] Eksterne skakels
+
+     * Android-tuisblad
+     * Android Wiki
+
+   Kategorie: Sagteware
+

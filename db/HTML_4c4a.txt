@@ -1,0 +1,200 @@
+HTML
+
+
+   Hypertext Markup Language (HTML) is 'n taal wat die uitleg van
+   dokumente spesifiseer. HTML word veral vir die vertoon van webblaaie op
+   die Wêreldwye Web gebruik.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 Geskiedenis van HTML
+        * 3 Genereer van HTML-dokumente
+        * 4 Die samestelling van 'n HTML-dokument
+        * 5 Verklaar 'n bladsy as Afrikaans
+        * 6 Sien ook
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Inleiding
+
+   In sy mees basiese vorm word HTML gebruik om tekste in te deel in
+   paragrawe, opskrifte en aan te dui watter teks benadruk moet word (deur
+   van vet letters, skuinsdruk of onderstreping gebruik te maak). 'n
+   Belangrike onderdeel van HTML is dat dit hiperteks moontlik maak, waar
+   daar in 'n dokument verwysings na ander dokumente ingebou kan word. So
+   'n verwysing word dan 'n skakel (Engels - hyperlink) genoem. HTML maak
+   dit ook moontlik om beeldmateriaal en ander multimedia in 'n dokument
+   op te neem.
+
+   Die formaat van teks asook die struktuur van die dokument word aangedui
+   deur middel van opmerktekens of etikette (Engels - tags). HTML word
+   meestal met 'n webblaaier besigtig. 'n Webblaaier is 'n program wat die
+   HTML-dokumente aanvra, die etikette interpreteer en dan 'n
+   geformatteerde dokument aan die gebruiker vertoon.
+
+   Met die verloop van jare het die verskillende aantal opmerktekens
+   (tags) wat in HTML gebruik is, baie uitgebrei. Om interpretasie
+   probleme te voorkom het die World Wide Web Consortium (W3C) 'n
+   standaard daargestel om te bepaal watter opmerktekens geldig is en hoe
+   hulle geïnterpreteer moet word. Die standaard is al verskeie kere op
+   datum gebring om vir nuwe ontwikkelings voorsiening te maak. Die
+   nuutste aanvaarde standaard HTML 4.01, dateer uit Desember 1999.
+
+   HTML as opmerktaal het geblyk onvoldoende te wees om in die behoeftes
+   van akkurate weergewing van dokumente en om interaktiwiteit te
+   voorsien. Dit het dan aanleiding gegee tot aanvullende standaarde om
+   die gebreke aan te spreek, onder andere Cascading Style Sheets (wat
+   veral bemoeid is om akkurate en konsekwente formatering van dokumente
+   te verseker) en Javascript (wat daarop gemik is om interaktiwiteit van
+   dokumente te verhoog).
+
+   Die mededinging tussen die skeppers van webblaaiers het 'n belangrike
+   rol gespeel in die ontwikkeling van HTML. Die skeppers van webblaaiers
+   het op eie houtjie nuwe etikette ontwikkel wat dikwels dan nie deur
+   ander webblaaiers gelees en geïnterpreteer kon word nie en verder het
+   elkeen ook hulle eie interpretasies gehad van stylesheets (opmerktekens
+   wat oorhoofse uitleg bepaal) asook van die javascript. Sommige van
+   hierdie HTML-etikette is later in die standaard opgeneem maar ander is
+   egter nie opgeneem nie. Tot op hede is daar nog steeds verskille te
+   vinde in hoe moderne blaaiers dieselfde dokumente vertoon.
+
+   Daar bestaan enkele variasies wat verwant is aan HTML:
+     * CHTML, 'n beperkte vorm van HTML, wat ontwikkel is vir gebruik op
+       PDA's en selfone.
+     * Dynamic HTML of DHTML. Dit is nie 'n amptelike spesifikasie nie,
+       maar 'n bemarkingsterm vir HTML wat gebruik is met die vrystelling
+       van weergawe 4 blaaiers. Die term dui die kombinasie van Javascript
+       en HTML aan, wat dit moontlik maak dat die inhoud gewysig kan word
+       deur die gebruiker se aksies.
+     * WML (Wireless Markup Language), wat ontwikkel is vir toestelle wat
+       WAP kan gebruik.
+     * XHTML, word allerweë as die opvolger van HTML beskou (al word beide
+       standaarde nog in parallel deur die W3C onderhou).
+
+[wysig] Geskiedenis van HTML
+
+   Die geskiedenis van HTML het in die eerste jare hand aan hand gegaan
+   met die ontwikkeling van die eerste webblaaiers. Die belangrikste
+   hiervan was die mededingende blaaiers van Netscape en Microsoft (sien
+   ook blaaieroorlog). Met die vrystelling van elke nuwe blaaier weergawe
+   is HTML uitgebrei of aangepas. Die W3C het probeer om standaarde vas te
+   stel maar die standaard het nie altyd tred gehou met ontwikkelinge nie
+   en was dikwels verouderd.
+
+   HTML is in 1991 uitgedink deur Tim Berners-Lee met die doel om
+   wetenskaplike dokumente van CERN in Genève makliker toeganklik te maak.
+   Hy ontwikkel dan ook die eerste webblaaier wat hy WorldWideWeb noem. In
+   1993 word die webblaaier Mosaic deur die NCSA ontwikkel, wat vir die
+   eerste keer ook grafiese elemente kon ondersteun. Dit dien dan ook as
+   basis vir die ontstaan van Netscape Navigator in 1994. Met die koms van
+   hierdie twee webblaaiers het die gewildheid van die wêreldwye web met
+   rasse skrede toegeneem. Beide blaaiers het elemente bygedra tot die
+   oorspronklike HTML. Kort daarna het Microsoft tot die stryd toegetree
+   met hulle eie webblaaier.
+
+   Die eerste amptelike HTML-spesifikasie van die W3C was HTML 2.0 en is
+   in September van 1995 aanvaar. Vroeër het hulle gewerk aan die
+   uitbreiding van die oorspronklike standaard onder die naam HTML+ (wat
+   in November 1993 gepubliseer is). Al voor die amptelike vrystelling van
+   HTML 2.0 is daar al gewerk aan die volgende spesifikasie (HTML 3.0).
+   Hierdie spesifikasie is gevolg deur die vrystelling van Netscape
+   weergawe 3 en is die konsepvoorstel reeds in September van 1995
+   vrygestel. Die werk is voortgesit met die vrystelling van HTML-weergawe
+   3.2 wat ook onder die naam "Wilbur" bekend gestaan het. Wilbur is in
+   Januarie van 1997 amptelik aanvaar. In Desember van 1997 word die HTML
+   4.0 spesifikasie amptelik aanvaar, waarna HTML 4.01 (Desember 1999) na
+   enkele klein regstellings aanvaar word.
+
+   Die HTML 4.01 spesifikasie is bedoel om die laaste HTML-spesifikasie te
+   wees. Verdere ontwikkeling van die standaard vind plaas as XHTML en met
+   die ontwikkeling van stylesheets en javascript. Die verskillende
+   spesifikasies ondersteun grotendeels die ouer weergawes en kan moderne
+   blaaiers dus ook nog ouer dokument goed weergee. 'n Aantal etikette wat
+   deur indiwiduele skeppers van webblaaiers bedink is, is egter nooit in
+   die spesifikasies opgeneem nie en word ook nie deur alle moderne
+   blaaiers ondersteun nie.
+
+[wysig] Genereer van HTML-dokumente
+
+   'n HTML dokument kan as 'n alleenstaande dokument gestoor word op 'n
+   stoormedium. Sulke dokumente dra gewoonlik die .htm of .html
+   uitbreiding. Op die Wêreldwye Web word (tydelike) HTML dokumente
+   dikwels op versoek van 'n blaaier gegenereer met behulp van
+   bedienerkant skripte of met CGI. Sulke bladsye het dikwels 'n URL
+   waarvan die uitbreiding verskil met die van HTML dokumente, byvoorbeeld
+   .asp vir Active Server Pages en .php vir dokumente wat geskep is met
+   PHP.
+
+   (X)HTML kan ook geskep word deur die transformasie van XML en XSL, waar
+   die inhoudelike gegewens in die XML-dokument staan en die vormgewende
+   (struktuur) inligting in die XSL-dokument opgeneem is. Die blaaiers van
+   Mozilla en Microsoft is in staat om hierdie transformasies uit te voer.
+   Ander blaaiers ondersteun dit nie. Die transformasie kan egter ook deur
+   die webbediener uitgevoer word.
+
+[wysig] Die samestelling van 'n HTML-dokument
+
+   Tegnies beskou is HTML 'n formele opmerktaal, wat op SGML gebaseer is.
+   XML is ook 'n onderdeel van SGML. XHTML bevat eienskappe van XML sowel
+   as HTML. 'n DOCTYPE verklaring aan die begin van die dokument gee
+   inligting rondom volgens watter HTML spesifikasie die dokument
+   geïnterpreteer moet word. Moderne webblaaiers kan HTML dokumente op
+   twee wyses weergee: die Standard compliance mode wat gebruik word vir
+   dokumente wat aan streng HTML spesifikasies voldoen en die Quirksmode
+   wat vir ouer spesifikasies gebruik word. Die keuse word gemaak na
+   aanleiding van die DOCTYPE verklaring.
+
+   'n Dokument met korrekte HTML bevat buiten hierdie verklaring uit 'n
+   html etiket, wat onderverdeel word met 'n header asook 'n body of 'n
+   frameset etiket. Die header bevat inligting oor die dokument soos die
+   titel en watter stylesheets, skripte en metatags gebruik word. Die body
+   bevat inligting wat in die dokument sigbaar sal wees. Deur van die
+   frameset etiket gebruik te maak word ander HTML-dokumente in raampies
+   op die skerm vertoon.
+
+   HTML het gegroei vanaf 'n opgemerkte teks met prentjies tot 'n
+   objekgeoriënteerde benadering tot die saamstel van 'n dokument. Ook
+   hiervoor het die W3C 'n standaard ontwikkel: die Document Object Model,
+   (afgekort tot DOM). Die DOM maak dit moontlik om met behulp van skripte
+   die elemente van 'n dokument afsonderlik te benader en aan te pas, ook
+   kan nuwe elemente dinamies toegevoeg of bestaande elemente verwyder
+   word.
+
+[wysig] Verklaar 'n bladsy as Afrikaans
+
+   'n HTML bladsy kan verklaar word as Afrikaans (of enige ander taal)
+   deur die volgende lyn in die bronkode te wysig:
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="af" lang="af" ... >
+
+   Indien dit nie gedoen word nie sal soekprogramme nie die bladsy as
+   Afrikaans kan identifiseer nie. Die bladsy sal dan as Engels of
+   Nederlands geindeks word.
+
+   Net sekere paragrawe kan ook as Afrikaans te merk word. Hier is 'n
+   voorbeeld:
+<p lang="af">Die paragraaf is in Afrikaans</p>
+<p lang="nl">Dutch pagina</p>
+<p lang="en">This paragraph is in English</p>
+
+[wysig] Sien ook
+
+     * Lys van HTML-etikette
+     * Lys van HTML-kleure
+
+[wysig] Verwysings
+
+   Ooreenstemmende artikel in die Nederlandstalige Wikipedia
+
+[wysig] Eksterne skakels
+
+     * Beskrywing van die HTML-formaat voor 1992 deur die W3C (Engels)
+     * HTML+ spesifikasie deur die W3C (Engels)
+     * Beskrywing van die HTML+ formaat deur die W3C (Engels)
+     * Die HTML 2.0-spesifikasie, Kommentaar versoek nr. 1866 (Engels)
+     * Ontwerp van HTML 3.0 (Engels)
+     * Die HTML 3.2-spesifikasie, genaamd "Wilbur" (Engels)
+     * Die HTML 4.01-spesifikasie (Engels)
+
+   Kategorieë: Markeertale • Standaarde
+

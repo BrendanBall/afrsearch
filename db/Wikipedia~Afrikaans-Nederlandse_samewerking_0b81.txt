@@ -1,0 +1,171 @@
+Wikipedia:Afrikaans-Nederlandse samewerking
+
+
+   (In Afrikaans:)
+
+   Hierdie bladsy is bedoel om enige inligting te versamel wat spesifiek
+   help met die samewerking tussen Afrikaans- en Nederlandstaliges. Ons is
+   baie dankbaar vir die hulp van die Nederlandstalige mense!
+
+   (In het Nederlands:)
+
+   Deze pagina is bedoeld om informatie te verzamelen die de samenwerking
+   tussen Nederlands- en Afrikaanstaligen helpt te bevorderen. De
+   bereidwilligheid van Afrikaanstaligen om taalkundige verbeteringen aan
+   te brengen wordt bijzonder op prijs gesteld!
+
+   Artikels wat vertaal moet word, word op Wikipedia:Bladsye vir vertaling
+   gelys. 'n Artikel wat nagegaan moet word op Wikipedia:Bladsye wat
+   nagegaan moet word
+
+   Inhoud
+
+        * 1 Notas oor Afrikaans en Suider-Afrika
+        * 2 Woordelys / frases
+        * 3 Gereedskap
+        * 4 Nederlandse IJ
+        * 5 Werkwoorde
+
+[wysig] Notas oor Afrikaans en Suider-Afrika
+
+   Nederlanders en Nederlandstaliges kan gerus die volgende in gedagte
+   hou:
+     * Suid-Afrika en Namibië (waar Afrikaans meeste gebruik word) is in
+       die suidelike halfrond - ons het ander seisoene as Europa.
+     * Party (=sommige) Afrikaanse Wikipediane is wel in die buiteland
+     * Afrikaans gebruik 'n dubbele ontkenning - pasop vir misverstande.
+     * Geen afstoot word bedoel met die woorde "Hollander" of "Hollands"
+       nie. Dit is hoe daar algemeen na Nederlanders en Nederlands verwys
+       word in Suid-Afrika. Selfs deur Suid-Afrikaners van Nederlandse
+       oorsprong.
+     * Afrikaans gebruik hoofletters vir maandname (bv Januarie)
+     * Die konsonantkombinasie "ch" word bittermin gebruik ("g" in
+       Afrikaans)
+     * Die konsonant "c" word bittermin gebruik ("s" of "k" - die
+       uitspraak help)
+     * Afrikaans gebruik 'n spasie om duisende van mekaar te skei en
+       spesifiek &nbsp; ('n spasie wat nie oor 'n reëleinde breek nie)
+     * Afrikaans gebruik 'n komma (,) as desimale teken
+
+[wysig] Woordelys / frases
+
+   Afrikaans Nederlands Engels/opmerking
+   analis(te) analist(en) analist(s)
+   amper, byna bijna * almost
+   as als as
+   bees koe, rund cattle
+   deur door through
+   die de/het (!!) the
+   dier beest, dier beast, animal, bug
+   een één one
+   effens een beetje, enigzins a little, somewhat
+   eksterne skakels externe links/externe koppelingen external links
+   het (!!) heb/hebt/heeft/hebben have/has
+   intussen/alreeds alvast * meanwhile/already
+   is (ik) ben / (jij) bent / (hij) is / (wij/ze) zijn (I) am / (you) are
+   / (he) is / (we/they) are
+   mekaar elkaar; mekaar (alleen spreektaal) each other
+   'n een, 'n a / an (Altyd kleinletter, aan begin van sin kry volgende
+   woord hoofletter)
+   naamlik namelijk Nederlandse ...lijk-vorme word konsekwent ...lik in
+   Afrikaans
+   net alleen, slechts only
+   net-net, amper amper hardly, almost not
+   nou nu; nou (alleen spreektaal) now
+   oë ogen Ook oorlogen -> oorloë
+   oor over about
+   party (telw.) sommige some
+   partykeer soms sometimes
+   soos zoals like
+   sê zeg say
+   spieël spiegel
+   staan sta stand
+   teëkom tegenkomen
+   teen tegen against
+   vir voor for
+   vrywel vrijwel
+   wees zijn, wezen sien hier (to be)
+
+[wysig] Gereedskap
+
+     * Afrikaanse speltoetsers vir OpenOffice.org en Mozilla Firefox
+     * Afrikaanse rekenaarterme
+     * Woordeboeke en Woordelyste:
+          + Afrikaans - Nederlands:
+            http://dictionaries.travlang.com/AfrikaansDutch/
+          + Afrikaans - Nederlands: Afrikaans-Nederlandse Woordelys
+          + Nederlands - Afrikaans:
+            http://dictionaries.travlang.com/DutchAfrikaans/
+          + Ook behulpsaam: Interglot (Engels, Nederlands, Zweeds, Duits,
+            Frans, Spaans) - Baie volledig. http://www.interglot.com
+     * Nederlandse beskrywende woordeboek :
+       http://www.vandale.nl/opzoeken/woordenboek/
+
+[wysig] Nederlandse IJ
+
+   Die Nederlandse IJ is 'n effens spesiale letter. Omdat die ij in
+   handskrif gelyk is aan i + j, word die ij ("lange ij" genoem) in die
+   Nederlandse taal in druktaal ook as i + j geskryf. Op die die
+   tipografiese vlak bly die ij een letter, maar nie op die
+   leksikografiese vlak nie. Byvoorbeeld, die woord "ys" word in
+   Nederlands geskryf als "ijs", maar in die Afrikaanse woordeboek vind 'n
+   mens dié woord tussen 'x' en 'z', en in die Nederlandse woordeboek kry
+   'n mens hom by 'i', tussen 'h' en 'j'. Vir 'n paar eeue is daar 'n
+   diskussie aan die gang omtrent die vraag of die ij dieselfde letter is
+   as die Griekse y (ypsilon). Omdat die Griekse y in Afrikaans gelos is
+   (bv. Egypte -> Egipte) het die Afrikaner die diskussie beëindig en word
+   die IJ geskryf as Y. In Nederlands bestaan die 'Griekse 'y', maar net
+   in (Griekse) leenwoorde en name soos 'etymologie', 'hyper-', Egypte' en
+   'Thrasymachos'.
+
+   Meer inligting: nl:IJ (letter)
+
+[wysig] Werkwoorde
+
+   Die werkwoordestelsels in Nederlands en Afrikaans verskil op twee
+   punte:
+     * Afrikaans het geen werkwoordvervoeging nie
+          + Voorbeeld:
+               o Ik loop <-> Ek loop
+               o Hij loopt <-> Hy loop
+               o Wij lopen <-> Ons loop
+     * Die onvoltooide verlede tyd bestaan nie (dus; daar is nie juis 'n
+       preteritumvorm in Afrikaans nie, behalwe vir vaste vorme soos
+       'wou', 'had', 'sou' en 'was')
+
+   Aangesien die onvoltooide verlede tyd 'n fundamentele verkil is tussen
+   Nederlands en Afrikaans sal ons daar 'n bietjie meer oor skryf om dit
+   te verduidelik.
+
+   Kortliks, jy hoef net te onthou dat daar in Nederlands 'n onderskeid
+   gemaak word tussen 'n voltooide verlede deelwoord (ons kan maar sê
+   soos: "ek het gereis" of Engels "I have travelled") en die onvoltooide
+   verlede tyd (Engels "I travelled").
+
+   Sê nou jy ontvang besoekers by die huis. Die besoeker sê:
+
+   "Onderweg regende het verschrikkelijk hard".
+
+   Die besoeker gebruik die onvoltooide verlede tyd (regende = regen + de)
+   omdat dit gereën het op pad na jou toe. Dus daar was 'n reënbui gewees.
+   Hy weet nie of dit nou weer gaan reën nie. Maar dit maak nou nie saak
+   of dit later weer sal reën nie. (Indien dit die heeltyd aanhou reën,
+   dan sou hy gesê het: "Het regent" of "Het is aan het regenen.", wat nie
+   verlede tydsvorme is nie)
+
+   Jy antwoord:
+
+   "Nou, het heeft hier ook geregend."
+
+   Omdat jy vir seker weet dat die reënbui verby is, gebruik jy die
+   voltooide verlede tyd. Die v.v.t. is die vorm wat ook in Afrikaans
+   voorkom.
+
+   Die o.v.t. is 'n bietjie vergelykbaar met die "simple past" in Engels,
+   maar nie dieselfde nie. Waar in Engels die "simple past" gebruik word,
+   kan in Nederlands die o.v.t. gebruik word, maar die omgekeerde is nie
+   noodwendig die geval nie! In veel gevalle het 'n Nederlandssprekende 'n
+   keuse tussen die o.v.t. en v.v.t.. In die meeste gevalle kies hy vir
+   die o.v.t.. Om 'n Nederlandse teks te vertaal sal in baie gevalle die
+   o.v.t. in die v.v.t. omgeskryf moet word.
+

@@ -1,0 +1,566 @@
+Biodiesel
+
+
+   Biodiesel is ‘n dieselbrandstof wat in die meeste bestaande
+   dieselenjins gebruik kan word sonder om die enjins te verander. Dié
+   diesel word gewoonlik uit plantaardige olies vervaardig. Hierdie
+   artikel bespreek hoofsaaklik sulke dieselbrandstowwe wat vanuit
+   plantaardige olies of dierevette deur middel van transesterifikasie
+   vervaardig word.
+
+   Biodiesel is bio-afbreekbaar en is nie giftig nie. Gewoonlik veroorsaak
+   biodiesel omtrent 60% minder koolstofdioksied by verbranding as ander
+   diesel wat van petroleum gemaak word. Dít is omdat biodiesel sélf van
+   atmosferiese koolstofdioksied gemaak word tydens die proses van
+   fotosintese in plante. Suiwer biodiesel is reeds by die meeste
+   vulstasies in Duitsland beskikbaar.
+
+   Sommige motorvervaardigers is positief oor die gebruik van biodiesel,
+   omdat dit die enjin minder beskadig as gewone brandstof.
+
+   Vandag se infrastruktuur maak dit moontlik om biodiesel wyd beskikbaar
+   te stel, en die verbruik en vervaardiging van hierdie brandstof is
+   besig om vinnig toe te neem. Vulstasies maak biodiesel ál hoe
+   geredeliker beskikbaar vir verbruikers, en ‘n toenemende aantal
+   vervoerstelsels gebruik reeds biodiesel as ‘n byvoeging tot hul
+   konvensionele diesel. Biodiesel is gewoonlik duurder as gewone
+   petroleumdiesel, maar daar word verwag dat dit veel goedkoper sal word
+   as gevolg van die stygende fossielbrandstofpryse en regeringsubsidies
+   en die ekonomie van skaal in die vervaardiging daarvan. In Duitsland is
+   biodiesel reeds goedkoper as gewone diesel by petrolstasies wat beide
+   brandstowwe verkoop.
+
+   Inhoud
+
+        * 1 Beskrywing
+        * 2 Geskiedenis
+        * 3 Tegniese standaarde
+        * 4 Gebruike
+             + 4.1 Gebruik
+             + 4.2 Besoedeling met water
+             + 4.3 Verhittingsdoeleindes
+        * 5 Beskikbaarheid en prys
+        * 6 Vervaardiging
+             + 6.1 Biodiesel voermateriale
+        * 7 Opbrengste van algemene gewasse
+             + 7.1 Ekonomiese lewensvatbaarheid
+             + 7.2 Termiese depolimerisasie
+        * 8 Verwysings
+             + 8.1 Voetnota verwysings
+             + 8.2 Ander verwysings
+        * 9 Sien ook
+
+[wysig] Beskrywing
+
+   Biodiesel is 'n vloeistof wat van kleur kan wissel (tussen goud en
+   donker bruin) na gelang van die voermateriaal wat gebruik is tydens
+   vervaardiging. Dit is so te sê onoplosbaar in water en het 'n hoë
+   kookpunt en lae dampdruk. Tipiese metielester biodiesel het 'n
+   flitspunt van ongeveer 150°C wat dit nie geredelik vlambaar maak nie.
+   Biodiesel het 'n digtheid van ongeveer 0.88 g/cm^2, wat laer is as dié
+   van water. Biodiesel wat nie met reagense besoedel is nie kan as
+   nie-giftig beskou word.
+
+   Biodiesel het 'n viskositeit (vloeibaarheid) soortgelyk aan dié van
+   petroleumdiesel. Dit kan gebruik word as 'n bymiddel in die formulering
+   van diesel om die smering van suiwer Ultra-lae Swael Diesel te
+   verbeter. In groot dele van die wêreld word die hoeveelheid biodiesel
+   in 'n mengsel aangedui deur 'n "B" faktor. 'n Brandstof wat 20%
+   biodiesel bevat sal as B20 aangedui word. 'n Suiwer biodiesel word na
+   verwys as B100. Biodiesel is 'n hernubare brandstof wat vervaardig kan
+   word vanuit alge, plantaardige olies of dierevette. Dit is 'n veilige,
+   biodegradeerbare brandstof wat lugbesoedeling kan verminder ten opsigte
+   van partikels, koolstofmonoksied en koolwaterstowwe.
+
+   'n 20% Snit van biodiesel met 80% petroleumdiesel (B20) kan gewoonlik
+   in onveranderde dieselenjins gebruik word. In suiwer vorm (B100) kan
+   dit ook gebruik word in onveranderde enjins maar daar word gewoonlik
+   aanbeveel dat verstellings gedoen word om onderhouds- en
+   werkverrigtingsprobleme te vermy.
+
+   Biodiesel het ongeveer 5-8% minder energiedigtheid. Die meer volledige
+   verbranding maak dat die energie-uitset slegs sowat 2% minder of sowat
+   35 MJ/L is.^[1]
+
+[wysig] Geskiedenis
+
+   Transesterifikasie van plantaardige olies is al so vroeg as 1853 deur
+   die wetenskaplikes E. Duffy en J. Patrick uitgevoer, baie jare voordat
+   die eerste dieselenjins uitgevind is. Die uitvinder van die
+   Dieselenjin, Rudolf Diesel het ook stellings gemaak wat aangedui het
+   dat hy geglo het dat plantaardige olies 'n groot rol sou speel as
+   brandstof vir die dieselenjin.^[2]
+
+   Tydens die 1920's het dieselenjinvervaardigers hul enjins aangepas om
+   die laer viskositeit van petroleumdiesel ('n fossielbrandstof) te benut
+   eerder as om plantaardige olies ('n biomassabrandstof) te brand. Dié
+   brandstof was baie goedkoper as biomassa alternatiewe. Ten spyte van
+   die wydverspreide gebruik en gewildheid van dieselbrandstowwe wat uit
+   ru-olie vervaardig is, was daar steeds heelwat belangstelling in
+   verskeie lande tydens die 1920's en die 1930's en later ook tydens die
+   Tweede Wêreldoorlog.
+
+   België, Frankryk, Italië, die Verenigde Koninkryk, Portugal, Duitsland,
+   Brasilië, Argentinië, Japan en Sjina het almal berig dat hulle toetse
+   op plantaardige olies as dieselbrandstof in die tydperk gedoen het.
+   Verskeie bedryfsprobleme is waargeneem wat hoofsaaklik te wyte was aan
+   die hoë viskositeit van plantaardige olies wat 'n lae atomisasie van
+   die brandstof tot gevolg gehad het met die gevolglike vorm van neerslae
+   op die inspuiters, verbrandingskamer en kleppe. Pogings om die probleme
+   te oorkom het die verhitting van die olie, vermenging met
+   petroleumdiesel of etanol, pirolise en die kraking van die olies,
+   ingesluit.
+
+   Op 31 Augustus 1937 is 'n patent aan G. Chavanne, wat verbonde was aan
+   die Universiteit van Brussels (België), toegeken vir 'n metode om
+   plantaardige olies om te skakel vir gebruik as brandstof (Belgiese
+   Patent 422 877). Die patent het die alkoholise (ook na verwys as
+   transesterifikasie) van plantaardige olies deur metanol en etanol te
+   gebruik om die vetsure van gliserol te skei deur die gliserol in die
+   verbinding met korter lineêre alkohole te vervang. Dit wil voorkom asof
+   dit die eerste aantekening was van wat deesdae algemeen as "biodiesel"
+   bekend staan.
+
+   Navorsing oor die gebruik van veresterde sonneblomolie en die
+   verwerking daarvan na dieselbrandstof is in 1979 in Suid-Afrika gedoen.
+   In 1983 is die proses vir die vervaardiging van brandstofgehalte,
+   enjingetoetste biodiesel voltooi en internasionaal gepubliseer.^[3] 'n
+   Oostenrykse maatskappy, genaamd Gaskoks, het die tegnologie van
+   Suid-Afrikaanse Landbou-ingenieurs verkry en 'n loodsaanleg in November
+   1987 opgerig en daarna 'n nywerheidskaal-aanleg in April van 1989 (met
+   'n kapasiteit van 30 000 ton raapsaad per jaar).
+
+   Tydens die 1990's is verskeie aanlegte in baie Europese lande (Die
+   Tseggiese Republiek, Duitsland en Swede) opgerig. Frankryk het ook die
+   plaaslike vervaardiging van biodiesel vanuit raapsaadolie geloods.
+   Renault, Peugeot en ander vervaardigers het sekere vragmotorenjins
+   gesertifiseer om petroleum/biodiesel mengsels te kan gebruik. Verskeie
+   lande in ander wêrelddele het ook plaaslike produksie van biodiesel in
+   die tydperk begin; die Oostenrykse Biobrandstofinstituut het 21 lande
+   geïdentifiseer met kommersiële biodiesel projekte. 100% Biodiesel is
+   ook nou by baie gewone vulstasies regoor Europa beskikbaar.
+
+   In September 2005 het Minnesota die eerste deelstaat in die V.S.A
+   geword om te vereis dat alle dieselbrandstof in die staat ten minste 2%
+   biodiesel moet bevat.^[4]
+
+[wysig] Tegniese standaarde
+
+   'n Biodiesel monster
+   'n Biodiesel monster
+
+   Die algemene internasionale standaard vir biodiesel is EN 14214. Daar
+   bestaan ook verdere nasionale spesifikasies. ASTM D 6751 is die mees
+   algemene standaard waarna in die V.S.A en Kanada verwys word. Daar
+   bestaan standaarde vir drie verskillende biodieselvariëteite na gelang
+   vanaf watter olies hulle vervaardig is.
+     * RME (raapsaad metielester, volgens DIN E 51606)
+     * PME (plantaardige metielester, vir suiwer plantaardige produkte,
+       volgens DIN E 51606)
+     * FME (vet metielester, vir plantaardige en diereprodukte, volgens
+       DIN V 51606)
+
+   Die standaarde verseker dat daar voldoen word aan die volgende
+   belangrike faktore in die vervaardigingsproses:
+     * Volledige reaksie
+     * Verwydering van gliserien
+     * Verwydering van katalis
+     * Verwydering van alkohol
+     * Afwesigheid van vetsure
+     * Lae swael-inhoud
+
+   Basiese toetse wat in die bedryf gedoen word om te bepaal of produkte
+   aan die standaarde voldoen sluit tipies gas-chromatografie in, 'n toets
+   wat slegs die belangrikste eienskappe hierbo bevestig. Meer volledige
+   toetse is baie duurder. Brandstof wat aan die kwaliteitsvereistes
+   voldoen het 'n baie lae giftiheid, met 'n giftigheidsaanslag van meer
+   as (LD[50]) 50 mL/kg.
+
+[wysig] Gebruike
+
+   Biediesel kan in suiwer vorm (B100) gebruik word of kan vermeng word
+   met petroleumdiesel teen enige konsentrasie in die meeste moderne
+   dieselenjins. Biodiesel sal natuurlike rubberpakstukke en -buise in
+   voertuie aanval. Die materiaal word egter selde in moderne motors
+   gebruik. Die onvolledige verwydering van metanol wat as katalisator van
+   die transesterifikasie proses gebruik word is waarskynlik
+   verantwoordelik vir die aanval op die rubber.
+
+   Biodiesel se hoër smeringsindeks vergeleke met petroleumdiesel is 'n
+   voordeel en kan bydrae tot verlengde lewensduurte van die
+   brandstofinspuiters. Biodiesel is 'n beter oplosmiddel as petrodiesel
+   en daar is gevalle aangeteken waar dit neerslae in brandstoflyne
+   afbreek in enjins wat voorheen met petroleumdiesel gewerk het.^[5] Die
+   gevolg is dat brandstoffilters en inspuiters verstop kan raak met
+   partikels as 'n oorskakeling gedoen word. Daar word dus gewoonlik
+   aanbeveel dat die brandstoffilters geruil word binne sowat 1000-1300 km
+   na die omskakeling.
+
+[wysig] Gebruik
+
+   Suiwer onversnitte biodiesel kan in enige dieselvoertuig se tenk
+   gebruik word. Tydens wintertyd word spesiale lae-temperatuur biodiesel
+   gewoonlik verkoop om vloebaarheidsprobleme te voorkom. Biodiesel word
+   deur miljoene motoreienaars in Europa gebruik (veral in Duitsland[5]).
+
+[wysig] Besoedeling met water
+
+   Biodiesel kan klein maar problematiese hoeveelhede water bevat.
+   Alhoewel dit hidrofobies is, kan dit 'n mate van water uit die
+   atmosfeer absorbeer.^[6] Verder kan daar ook oortollige water vanuit
+   die verwerking daarin oorbly of water vanaf kondensasie in stoortenke
+   kan ook kontaminasie veroorsaak. Water veroorsaak die volgende
+   probleme:
+     * Water verminder die verbrandingswarmte van die brandstof. Dit het
+       meer rook, moeilker aanskakeling en 'n laer kraglewering tot
+       gevolg.
+     * Water veroorsaak korrosie van belangrike
+       brandstofstelselkomponente: brandstofpompe, inspuiterpompe,
+       brandstoftoevoerlyne ensovoorts.
+     * Water vries en vorm yskristalle naby 0 °C. Hierdie kristalle
+       verskaf punte waar nukleasie en versnel gelvorming van die
+       brandstofreste.
+     * Water versnel die groei van mikrobe-kolonies, wat 'n
+       brandstofstelsel kan verstop. Biodiesel gebruikers met verhitte
+       brandstoftenke kan dus regdeur die jaar mikrobe probleme ondervind.
+
+[wysig] Verhittingsdoeleindes
+
+   Biodiesel kan ook gebruik word as verhittingsbrandstof in huishoudelike
+   en kommersiële ketels. Tegniese navorsing is al in die Verenigde
+   Koninkryk gedoen. Andrew Robertson het tydens die Biodiesel Expo in
+   2006 in die VK sy werk ten toon gestel en aangedui dat B20 biodiesel
+   die VK se huishoudelike CO[2] emissies met 1.5 miljoen ton per jaar kan
+   verminder en sou slegs sowat 330 000 hektaar vrugbare grond vereis om
+   die vereiste biodiesel vir die VK se verhittingsbrandstofsektor te
+   vervaardig. Sy navorsing het ook aangedui dat bestaande ketels maklik
+   en goedkoop omgeskakel kan word om biodiesel te gebruik as die B20
+   mengsel gebruik sou word.^[7]
+
+[wysig] Beskikbaarheid en prys
+
+   Wêreldwye biodiesel vervaardiging het 3.8 miljoen ton in 2005 beloop.
+   Ongeveer 85% biodiesel vervaardiging het in die Europese Unie
+   plaasgevind. Kleinhandelpryse in die V.S.A, wat federale en ander
+   staatsbelastings insluit is ongeveer 12 Amerikaanse sent laer as
+   petroleumdiesel en dié prys van B20 is ongeveer dieselfde as dié van
+   petroleumdiesel daar.^[8]
+
+[wysig] Vervaardiging
+
+   Veresterde biodiesel bestaan uit 'n mengsel van mono-alkielesters van
+   lang ketting vetsure. Die mees algemene vorm gebruik metanol om
+   metielesters aangesien dit die goedkoopste beskikbare alkohol is.
+   Etanol kan egter ook gebruik word om etielester biodiesel te vervaardig
+   en hoër alkohole soos isopropanol en butanol is ook al gebruik. Die
+   gebruik van alkohole met hoër molekulêre massas verbeter die koue vloei
+   eienskappe van die resulterende ester ten koste van 'n minder
+   doeltreffende transesterifikasie reaksie. 'n Lipied
+   transesterifikasieproses word gebruik om die basisolie na die verlangde
+   esters om te skakel.
+
+   Enige vrye vetsure in die basisolie word óf na seep omgeskakel en in
+   die proses verwyder óf hulle word verester (en lewer biodiesel) met
+   behulp van 'n suurkatalis. Na hierdie verwerking het biodiesel (anders
+   as gewone plantolie) verbrandingseienskappe wat baie ooreenstem met dié
+   van petroleumdiesel.
+
+   'n Byproduk van die veresteringsproses is die vervaardiging van
+   gliserol. Vir elke 1 ton biodiesel wat vervaardig word, word 100 kg
+   gliserol vervaardig. Oorspronklik was daar 'n waardevolle afsetmark vir
+   gliserol wat die ekonomie van die proses bevorder het. Met die toename
+   in wêreldwye biodiesel vervaardiging, het die markprys vir ru-gliserol
+   (wat 20% water en katalisreste bevat) skerp gedaal. Navorsing word
+   gedoen op die gebruik van gliserol as 'n chemiese bousteen. Een só 'n
+   poging is die VK se Gliserol Uitdaging.
+
+   Gewoonlik moet hierdie ru-gliserol verder gesuiwer word, tipies deur
+   vakuumdistillasie. Dit is 'n baie energie-intensiewe proses. Die
+   gesuiwerde gliserol (98%+) kan dan direk gebruik word of omgeskakel
+   word na ander produkte. Verskeie projekte is in die verband
+   aangekondig:
+     * Ashland Inc. en Cargill het 'n gesamentlike projek aangekondig om
+       propileenglikol in Europa te vervaardig vanuit gliserol^[9]
+     * Dow Chemical het soortgelyke planne aangekondig vir
+       Noord-Amerika.^[10] Dow beplan ook 'n aanleg in Sjina wat
+       epichloorhidrien vanuit gliserol gaan vervaardig.^[11]
+       Epichloorhidrien is 'n rou materiaal vir die vervaardiging van
+       epoksieharse.
+
+[wysig] Biodiesel voermateriale
+
+   Soyabone word gebruik as bron van biodiesel
+   Soyabone word gebruik as bron van biodiesel
+
+   'n Verskeidenheid olies kan gebruik word om biodiesel te vervaardig.
+   Dit sluit in onder andere:
+     * Plantaardige olies; raapsaad en soyaboonolies word die meeste
+       gebruik, soyaboonolie alleen maak ongeveer negentig persent van
+       alle brandstofvoermateriale uit; Dit kan ook verkry word van
+       Thlaspi arvense en Jatropha^[12]. Ander landbougewasse soos
+       mosterd, vlas, sonneblom, canola, palmolie, hemp en selfs alge toon
+       ook belofte.^[13]
+     * Gebruikte kookolie
+     * Dierevet^[12] en die byprodukte van die vervaardiging van Omega-3
+       vesture vanuit visolie.
+     * Riool. 'n Maatskappy in Nieu-Seeland het 'n suksesvolle stelsel
+       ontwikkel wat rioolafval gebruik as 'n substraat vir alge en die
+       daaropvolgende vervaardiging van biodiesel.^[14]
+
+   Wêreldwye vervaardiging van plantolie en dierevet is nie voldoende om
+   vloeibare fossielbrandstowwe te vervang nie. Omgewingsbewuste groepe
+   maak ook beswaar teen die grootskaalse boerderybedrywighede en die
+   gevolglike oorgebruik van kunsmis en pesdoders asook die omskakeling
+   van grond wat benodig gaan word om meer plantolies te vervaardig.
+
+   Baie mense stel voor dat gebruikte plantolies die beste bron van
+   biodiesel sal wees. Die beskikbare hoeveelhede is egter drasties minder
+   as die hoeveelheid petroleumbrandstowwe wat verbrand word vir vervoer
+   en huishoudelike verhitting in die wêreld. Dit is belangrik om kennis
+   te neem dat een liter afvalolie nie gelykstaande is aan 'n liter
+   biodiesel nie.
+
+   Die plante wat biodiesel kan lewer gebruik fotosintese om sonenergie na
+   chemiese energie om te skakel. Die gestoorde chemiese energie word
+   vrygestel wanneer die brandstof verbrand word en daarom kan plante 'n
+   hernubare bron van biodieselproduskie wees. Die meeste koolstofdioksied
+   wat vrygestel word se oorsprong is hoofsaaklik die gas wat deur die
+   plant uit die atmosfeer geabsorbeer is, dus behoort die vervaardiging
+   van kweekhuisgasse baie klein te wees. Sketpici beweer egter dat daar
+   baie fossielbrandstowwe gebruik word in die vervaardiging van misstowwe
+   en ander insette wat die prentjie minder rooskleurig laat lyk.
+
+   Voermateriale se opbrengs per hektaar het 'n invloed op die
+   lewensvatbaarheid van so 'n voermateriaal om betekenisvolle hoeveelhede
+   brandstof te lewer. Die voermateriaal met die hoogste voer opbrengs vir
+   biodiesel is alge, wat soveel as 250 keer die hoeveelheid olie per
+   hektaar as soyabone kan lewer.^[15]
+
+[wysig] Opbrengste van algemene gewasse
+
+   Gewas kg olie/ha liter olie/ha Gewas kg olie/ha liter olie/ha
+   mielies 145 172 kasjoeneut 148 176
+   hawer 183 217 lupien 195 232
+   kenaf 230 273 gousblom 256 305
+   katoen 273 325 hennep 305 363
+   sojaboon 375 446 koffie 386 459
+   lynsaad (vlas) 402 478 haselneute 405 482
+   melkbos 440 524 pampoensaad 449 534
+   koriander 450 536 mosterdsaad 481 572
+   camelina 490 583 sesam 585 696
+   saffloer 655 779 rys 696 828
+   tungolie 790 940 sonneblom 800 952
+   kakao 863 1 026 grondboon 890 1 059
+   Papawer 978 1 163 raapsaad 1 000 1 190
+   olywe 1 019 1 212 kasterboon 1 188 1 413
+   pekanneut 1 505 1 791 jojoba 1 528 1 818
+   jatropha 1 590 1 892 makadamianeute 1 887 2 246
+   Brasiliaanse neute 2 010 2 392 avokado 2 217 2 638
+   kokosneut 2 260 2 689 Palmolie 5 000 5 950
+   Triadica sebifera 5 500 6 545 Alge (werklike opbrengs)* 6 894 7 660
+   Alge (teoretiese opbrengs)** 39 916 47 500
+
+   * Die werklike biomassa alge opbrengs vanaf veldtoetse wat tydens die
+   NREL se akwatiese spesies program uitgevoer is, omgeskakel na die
+   werklike olie-inhoud van die algespesies wat gekweek is tydens die
+   spesifieke toetse^[16] ** |Geprojekteerde Alge-opbrengs gebaseer op
+   volhoubare gemiddelde biomassa opbrengste uit die NREL se akwatiese
+   spesie program en 'n aanvaarde olie-inhoud van 60%. Werklike
+   olie-inhoud was baie minder gewees.^[17]
+   - Neem kennis: Triadica Sebifera, of Sapium sebiferum staan ook in
+   engels as "Chinese tallow" of "Popcorn Tree" of Florida Aspen bekend.
+   Bron: Triadica Sebifera data, Mississippi State University
+   Bron: Gebruik met toestemming van The Global Petroleum Club
+
+   Tipiese olie-onttrekking vanuit 100 kg oliesaad
+     Gewas    Olie/100kg.     Gewas      Olie/100kg.
+   Kasterboon 50 kg       Kopra          62 kg
+   Katoensaad 13 kg       Grondboon kern 42 kg
+   Mosterd    35 kg       Palmkern       36 kg
+   Palmvrug   20 kg       Raapsaad       37 kg
+   Sesam      50 kg       Sojaboon       14 kg
+   Sonneblom  32 kg
+
+   Bron: Petroleum Club (met toestemming)
+   Die energie-inhoud van biodiesel is ongeveer 90% minder as dié van
+   petroleumdiesel.
+
+[wysig] Ekonomiese lewensvatbaarheid
+
+   'n Studie deur Drs. Dyne en Raymer van die "Tennessee Valley Authority"
+   toon dat die gemiddelde Amerikaanse plaas ongeveer 82 liter per hektaar
+   verbruik om 'n gewas te verbou. Die gemiddelde raapsaad oes se
+   gemiddelde olielewering is egter rondom 1 029 l/ha en hoë-opbrengs saad
+   kan soveel as 1 356 l/ha lewer. Die inset/uitsetverhouding in hierdie
+   gevalle is ongeveer 1:12.5 en 1:16.5. Die fotosinteseproses lê ongeveer
+   3-6% van die totale stralingsenergie vas.^[18] en as die totale massa
+   van die oes gebruik kan word vir energieproduksie sal die oorhoofse
+   doeltreffendheid van hierdie ketting ongeveer 1% wees. Dit vergelyk nie
+   gunstig met sonselle wat met 'n elektriese aandrywer gekoppel is nie,
+   dit ding egter wel mee met sonselle ten opsigte van koste en die gemak
+   waarmee dit uitgerol kan word aangesien sonselle steeds ongeveer $1000
+   (V.S.A) per vierkante meter kos. Hierdie statistieke is egter nie
+   voldoende om aan te dui of so 'n verandering ekonomies sin gaan maak
+   nie. Verdere faktore moet ook in ag geneem word soos: die
+   brandstofekwivalent van die energie wat vereis word om dit te verwerk,
+   die opbrengs van brandstof vanuit rou-olie, die opbrengs wat verkry kan
+   word uit voedselverbouing, die impak wat biodiesel op kospryse sal hê
+   en die relatiewe koste van biodiesel teenoor petroleumdiesel. 'n
+   Gesamentlike studie deur die Verenigde State se departemente van
+   energie en landbou het baie van die verskillende kostes betrokke by die
+   vervaardiging van biodiesel nagegaan en gevind dat dit 'n opbrengs van
+   3.2 eenhede brandstof lewer vir elke eenheid fossielbrandstof wat
+   verbruik word.^[19]
+
+   Daar word na hierdie mate verwys as die netto energiewins. 'n
+   Vergelyking van petroleumdiesel, petrol en bio-etanol wat gebruik maak
+   van die Verenigde State se Departement van Landbou kan op die Minnesota
+   se Departement van Landbou se webwerf verkry word.^[20]
+
+   Die debat oor die energiebalans van biodiesel woed egter steeds voort.
+   Die volledige oorgang na biobrandstowwe sal groot lappe grond verg as
+   tradisionele gewasse gebruik word. Die probleem sal veral kwaai wees
+   vir lande met baie groot ekonomieë, aangesien energieverbruik eweredig
+   is aan ekonomiese uitset.^[21]
+
+   As slegs tradisionele voedingsgewasse benut word sal die meeste lande
+   nie voldoende verboubare grond hê om biobrandstowwe vir hulle voertuie
+   te vervaardig nie. Lande met kleiner ekonomieë (en daarom 'n mindere
+   energieverbruik) en meer verboubare grond mag hulself dalk in 'n
+   gunstiger situasie bevind, al sou baie streke dit nie kan bekostig om
+   grond van voedselverbouing na brandstofproduksie om te skakel nie. Vir
+   derde wêreldlande, sal biodieselbronne wat marginale grond benut meer
+   sin maak.^[22]
+
+   Meer onlangse studies met 'n algespesie wat tot soveel as 50%
+   olie-inhoud het, het tot die slotsom gekom dat slegs 28 000 km^2 of
+   0.3% van die grondgebied van die V.S.A gebruik sou kon word om genoeg
+   biodiesel te vervaardig om die land se vervoerbrandstowwe geheel en al
+   te vervang.^[verwysing benodig] Verder kan andersins ongebruikte
+   woestynland (wat baie sonstraling ontvang) gebruik word om alge te
+   verbou en kan alge plaasafval en oortollige CO[2] vanaf fabrieke benut
+   om die groei van die alge te versnel.^[23]
+
+   In tropiese gebiede soos Maleisië en Indonesië word oliepalms baie
+   vinnig aangeplant om tred te hou met die groeiende aanvraag na
+   biodiesel in Europa en nader markte. Daar word beraam dat
+   palmolie-diesel in Duitsland slegs sowat 'n derde as raapsaad-diesel
+   kos.^[24]
+
+[wysig] Termiese depolimerisasie
+
+   Termiese depolarisasie is 'n belangrike nuwe proses vir die afbreek van
+   komplekse organiese materiale na ligter rou-olie. Hierdie materiale kan
+   nie oliegebaseerde afval produkte insluit soos byvoorbeeld ou bande,
+   hout en plastiek. Die proses maak die natuurlike geologiese prosesse na
+   wat soos vermoed word betrokke was by die vorming van
+   fossielbrandstowwe. Onder die werking van druk en hitte word
+   langkettingpolimere van waterstof, suurstof en koolstof ontbind na
+   korter ketting petroleum koolwaterstowwe.
+
+[wysig] Verwysings
+
+[wysig] Voetnota verwysings
+
+    1. ^ Artikel oor biodiesel vervaardiging vanuit alge
+    2. ^ Aanhaling van Diesel
+    3. ^ SAE Technical Paper series no. 831356. SAE International Off
+       Highway Meeting, Milwaukee, Wisconsin, USA, 1983
+    4. ^ [1] Minnesota regulasies ten opsigte van biodiesel inhoud
+    5. ^ Tyson K.S., McCormick R.L., 2006 Biodiesel Handling and Use Guide
+       Third Edition, [2], PDF, Laas nagegaan op 18-12-2006
+    6. ^ UFOP - Union zur Förderung von Oel, Biodiesel FlowerPower: Facts
+       * Arguments * Tips, [3], PDF, laas nagegaan op 13-06-2007
+    7. ^ Biodiesel Heating Oil: Sustainable Heating for the future, [4],
+       Andrew J. Robertson, Institute of Plumbing and Heating Engineering]
+    8. ^ http://www.eere.energy.gov/afdc/pdfs/afpr_jul_07.pdf
+    9. ^ Chemweek se Business Daily, Dinsdag 8 Mei, 2007
+   10. ^ http://www.dow.com/propyleneglycol/news/20070315b.htm, nagegaan
+       op 25 Junie, 2007
+   11. ^ http://epoxy.dow.com/epoxy/news/2007/20070326b.htm, nagegaan op
+       25 Junie, 2007
+   12. ^ ^12,0 ^12,1 Christopher Leonard, Chicken fat key biodiesel
+       ingredient,
+       http://www.delawareonline.com/apps/pbcs.dll/article?AID=/20070102/B
+       USINESS/70102017/-1/NLETTER02, Associated Press (herppbliseer deur
+       Delaware News Journal), 2 Januarie 2007, nagegaan op 02-01-2007
+   13. ^ Jack Sperbeck, Minnesota farmers would benefit from biodiesel
+       production,
+       http://www.extension.umn.edu/extensionnews/2001/MinnesotaFarmersWou
+       ldBenefit.html, University of Minnesota Extension Service, 12 Junie
+       2001, nagegaan op 02-01-2007
+   14. ^ Errol Kiong, NZ firm makes bio-diesel from sewage in world first,
+       http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=1038140
+       4, The New Zealand Herald, 12 Mei 2006, nagegaan op 10-01-2007
+   15. ^ Algae for Liquid Fuel Production, Oakhaven Permaculture Center,
+       Thomas F. Riesing, Ph.D., Lente 2006, nagegaan op 18-12-2006,
+       http://oakhavenpc.org/cultivating_algae.htm, Neem kennis:
+       Oorspronklik in uitgawe 59 van Permaculture Activist gepubliseer
+   16. ^ Biopact, An in-depth look at biofuels from algae, Biopact, 19
+       Januarie, 2007, 09-05-2007,
+       http://biopact.com/2007/01/in-depth-look-at-biofuels-from-algae.htm
+       l
+   17. ^ John Sheehan, Terri Dunahay, John Benemann, Paul Roessler, A look
+       back at the U.S. Department of Energy's Aquatic Species Program:
+       Biodiesel from Algae, Close-out Report, United States Department of
+       Energy, Julie 1998, nagegaan op 02-01-2007,
+       http://www.nrel.gov/docs/legosti/fy98/24190.pdf | formaat = PDF
+       (3.7 MG)
+   18. ^ Kazuhisa Miyamoto, Renewable biological systems for alternative
+       sustainable energy production (FAO Agricultural Services Bulletin -
+       128), Finale uitgawe, 1997, FAO - Food and Agriculture Organization
+       of the United Nations,
+       http://www.fao.org/docrep/w7241e/w7241e05.htm, nagegaan op
+       18-03-2007
+   19. ^ John Sheehan, Vince Camobreco, James Duffield, Michael Graboski,
+       Housein Shapouri, Life Cycle Inventory of Biodiesel and Petroleum
+       Diesel for Use in an Urban Bus, Finale Verslag, Mei 1998, United
+       States Department of Agriculture jointly with United States
+       Department of Energy,
+       http://www.nrel.gov/docs/legosti/fy98/24089.pdf, formaat = PDF (1.9
+       MG), nagegaan op 2007-01-02
+   20. ^ Minnesota se Departement van Landbou se Webwerf,
+       http://www.mda.state.mn.us/ethanol/balance.html, 24 Oktober, 2005
+   21. ^ Looking Forward: Energy and the Economy,
+       http://www.dallasfed.org/news/educate/2004/04ecsummit-brown.pdf,
+       formaat=PDF, nagegaan op 29 Augustus 2006
+   22. ^ Hands On: Power Pods - India,
+       http://www.tve.org/ho/doc.cfm?aid=1433&lang=English, nagegaan op 24
+       Oktober 2005
+   23. ^ http://www.unh.edu/p2/biodiesel/article_alge.html, Widescale
+       Biodiesel Production from Algae, Michael Briggs, Augustus
+       2004,nagegaan op 02-01-2007, UNH Biodiesel Groep (Universiteit van
+       New Hampshire)
+   24. ^ Palm Oil Based Biodiesel Has Higher Chances Of Survival,
+       http://www.bernama.com.my/bernama/v3/news_business.php?id=157856,
+       nagegaan op 20 Desember 2006
+
+[wysig] Ander verwysings
+
+     * An Overview of Biodiesel and Petroleum Diesel Lifecycles, Mei 1998,
+       Sheehan, et al. NREL (60bl pdf lêer)
+     * Business Management for Biodiesel Producers, Januarie 2004, Jon Von
+       Gerpen, Iowa State University under contract with the National
+       Renewable Energy Laboratory (NREL) (210bl pdf lêer)
+     * Energy balances in the growth of oilseed rape for biodiesel and of
+       wheat for bioethanol, Junie 2000, I.R. Richards
+     * Life Cycle Inventory of Biodiesel and Petroleum Diesel for Use in
+       an Urban Bus, 1998, Sheehan, et al. NREL (314bl pdf lêer)
+     * Algae - like a breath mint for smokestacks, 11 Januarie, 2006, Mark
+       Clayton, Christian Science Monitor
+     * Tyson K.S., McCormick R.L., "2006 Biodiesel Handling and Use Guide
+       Third Edition", [6]
+     * Biodiesel's Bright Future uit die Julie-Augustus uitgawe van THE
+       FUTURIST tydskrif.
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+
+[wysig] Sien ook
+
+     * Hernubare energie
+
+   Kategorieë: Artikels met stellings wat verwysings ontbreek • Energie
+

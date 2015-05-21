@@ -1,0 +1,133 @@
+Fibonacci
+
+
+   Leonardo van Pisa (geb. 1170 – † 1250), ook bekend as Leonardo Pisano,
+   Leonardo Bonacci, Leonardo Fibonacci, was 'n Italiaanse wiskundige wat
+   deur sommiges as die mees talentvolste wiskundige van die Middeleeue
+   beskou word.^[1]
+
+   Fibonacci is die veral bekend in die moderne tye vir:^[2]
+     * Die verspreiding van die Hindoe-Arabiese syferstelsel in Europa,
+       hoofsaaklik deur middel van die publikasie in die vroeë 13^de eeu
+       van sy boek, Liber Abaci.
+     * 'n Moderne reeks wat na hom vernoem is en bekend staan as die
+       Fibonacci reeks wat hy nie ontdek het nie maar gebruik is as
+       voorbeeld in die Liber Abaci.^[3]
+
+   Inhoud
+
+        * 1 Lewensloop
+        * 2 Belangrike publikasies
+        * 3 Liber Abaci
+        * 4 Verwysings
+        * 5 Bibliografie
+        * 6 Eksterne skakels
+
+[wysig] Lewensloop
+
+   Leonardo is gebore Pisa. Sy pa Guglielmo het die bynaam Bonaccio gedra
+   (wat "saggeaard" of "eenvoudig" beteken). Sy ma, Alessandra is oorlede
+   toe hy nege jaar oud was. Leonardo is eers na sy dood die bynaam
+   Fibonacci gegee (afkomstig van filius Bonacci, wat seun van Bonaccio
+   beteken).^[4]
+
+   Guglielmo het 'n handelspos bestuur (en volgens sekere bronne was hy
+   die konsultant vir Pisa) in Bugia, 'n hawedorp ten ooste van Algiers in
+   die Almohad dinastie se sultanaat in Noord-Afrika (nou Bejaia,
+   Algerië). As 'n jong seun het Leonardo daarheen gereis om sy pa
+   behulpsaam te wees. Dit is hier waar hy kennis gemaak het met die
+   Hindoe-Arabiese syferstelsel.
+   Standbeeld van Fibonacci. Camposanto, Pisa.
+   Standbeeld van Fibonacci. Camposanto, Pisa.
+
+   Nadat hy waargeneem het dat rekenkunde met Hindoesyfers eenvoudiger en
+   meer doeltreffend was as met die Romeinse syfers, het Fibonacci regdeur
+   die Middelandse see gebied gereis om onder leidende Arabiese
+   wiskundiges van daardie tyd te studeer. Leonardo het rondom 1200 van sy
+   reise teruggekeer. In 1202, op die ouderdom van 32 het hy dit wat hy
+   geleer het in die Liber Abaci gepubliseer en daarmee die
+   Hindoe-Arabiese syfers aan Europa bekendgestel.
+
+   Leonardo het 'n gas van die Keiser Frederik II van die Heilige Roomse
+   Ryk wat wiskunde en wetenskap geniet en ondersteun het. In 1240 het die
+   Republiek van Pisa Leonardo vereer deur 'n salaris aan hom toe te
+   staan.^[5]
+
+   In die 19^de eeu is 'n standbeeld ter ere van Fibonacci in Pisa
+   opgerig.^[6]
+
+[wysig] Belangrike publikasies
+
+     * Liber Abaci (1202), 'n boek oor berekeninge.
+     * Practica Geometriae (1220), 'n samestelling oor meetkunde en
+       driehoeksmeting.
+     * Flos (1225), oplossings tot probleme gestel deur Johannes van
+       Palermo
+     * Liber quadratorum, Boek van vierkante, opgedra aan Keiser Frederik
+       die Tweede.
+     * Di minor guisa (oor handelsrekene; verlore)
+     * Kommentaar op Boek X van Euclides se Elemente (verlore)
+
+[wysig] Liber Abaci
+
+   In hierdie werk stel Fibonacci die sogenaamde modus Indorum (metode van
+   die Indiërs) bekend, vandag bekend as Hindoe-Arabiese syfers (Sigler
+   2003; Grimm 1973). Die boek het die berekeninge met behulp van die 0-9
+   syfers en 'n plekwaarde voorgestaan. Die boek het die praktiese belang
+   van die nuwe syferstelsel aangetoon deur gebruik te maak van langdeling
+   en Egiptiese breuke en dit toe te pas op boekhou, die omskakeling van
+   gewigte en mates, die berekening van rente, die omskakel van geld en
+   ander toepassings. Die boek het baie aansien geniet in geleerde kringe
+   in Europa en 'n diepgaande invloed gehad op Europese gedagtestrominge
+   gehad.
+
+   Liber Abaci het ook verskeie probleme gestel en opgelos ten opsigte van
+   die groei van 'n hipotetiese haasbevolking gebaseer op geidealiseerde
+   aannames. Die oplossing, geslag na geslag, was 'n reeks getalle wat
+   later bekend sou staan as die Fibonacci reeks. Die getalle reeks was
+   ook aan Indiese wiskundiges bekend so vroeg as in die 6^de eeu, maar
+   dit was Fibonacci se Liber Abaci wat dit aan die Weste bekend gestel
+   het.
+
+[wysig] Verwysings
+
+    1. ^ Howard Eves. An Introduction to the History of Mathematics.
+       Brooks Cole, 1990: ISBN 0-03-029558-0 (6de uitgawe), bl. 261.
+    2. ^ Leonardo Pisano - bladsy 3: "Contributions to number theory".
+       Encyclopædia Britannica Online, 2006. Nagegaan 18 September 2006.
+    3. ^ Parmanand Singh. "Acharya Hemachandra and the (so called)
+       Fibonacci Numbers". Math. Ed. Siwan , 20(1):28-30, 1986. ISSN
+       0047-6269]
+    4. ^ Die openingsrede van die Liber Abaci: "Incipit liber Abaci
+       Compositus a leonardo filio Bonacij Pisano" , Afrikaans: "Hier
+       begin die boek van Berekening Geskryf deur Leonardo seun van
+       Bonaccio, van Pisa"
+    5. ^ Sources in Recreational Mathematics: An Annotated Bibliography
+       deur David Singmaster, 18 Maart 2004
+    6. ^ Fibonacci se Standbeeld in Pisa
+
+[wysig] Bibliografie
+
+     * Goetzmann, William N. and Rouwenhorst, K.Geert, The Origins of
+       Value: The Financial Innovations That Created Modern Capital
+       Markets (2005, Oxford University Press Inc, USA), ISBN 0195175719.
+     * Grimm, R. E., "The Autobiography of Leonardo Pisano", Fibonacci
+       Quarterly, Vol. 11, No. 1, Februarie 1973, bl'e. 99-104.
+     * A. F. Horadam, "Eight hundred years young," The Australian
+       Mathematics Teacher 31 (1975) 123-134.
+
+[wysig] Eksterne skakels
+
+     * Goetzmann, William N., Fibonacci and the Financial Revolution (23
+       Oktober 2003),Yale Bestuurskool se Internasionale Leerstoel vir
+       Finansies, Working Paper No. 03-28 [1]
+     * Charles Burnett, Leonard of Pisa (Fibonacci) and Arabic Arithmetic
+       - the Medieval background to Fibonacci's work
+     * Fibonacci at Convergence
+     * O'Connor, John J and Robertson, Edmund F. "Leonardo Pisano
+       Fibonacci – 1170 - 1250" in The MacTutor History of Mathematics
+       archive. Universiteit van St Andrews se webwerf, Skotland, 1998.
+     * Liber Abaci en sy Egiptiese breukmetodes
+
+   Kategorie: Wiskundiges
+

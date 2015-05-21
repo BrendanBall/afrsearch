@@ -1,0 +1,480 @@
+Eskom
+
+
+   Eskom is die nasionale elektrisiteitsverskaffer in Suid-Afrika. Dit het
+   in 1923 tot stand gekom as die Elektrisiteitsvoorsienings-kommissie,
+   afgekort as Evkom of EVK. (Engels: Electricity Supply Commission, Escom
+   of ESC). Die organisasie het in 1986 sy naam verander na Eskom, 'n
+   samesmelting van die Afrikaanse en Engelse afkortings en word nie
+   langer deur 'n kommissie beheer nie. Die staat is vandag die enigste
+   aandeelhouer.
+
+   Eskom is 'n vertikaal geïntegreerde nutmaatskappy wat elektrisiteit
+   opwek, dit deur middel van 'n landswye transmissiestelsel dwarsdeur
+   Suid-Afrika vervoer en dit dan verder versprei aan sowat vier miljoen
+   eindverbruikers. Eskom verskaf ook grootmaat toevoere aan sowat 180
+   munisipale verspreiders.
+
+   Aan die einde van 2007 het Eskom 'n netto kragopwekkingskapasiteit van
+   37 761 megawatt (MW), 'n landswye transmissie- en distribusiestelsel
+   wat oor 359 854 km strek en bykans 4 miljoen eindverbruikers gehad.
+   Eskom se bates het R144 miljard beloop, waarop dit 'n wins van R6,5
+   miljard getoon het deur die opwekking, verspreiding en verkoop van 218
+   120 gigawattuur (GWh) elektrisiteit. Eskom het 32 674 mense in diens
+   gehad en is tans besig met 'n uitbreidingsprogram wat ongeveer R150
+   miljard sal beloop oor die volgende agt jaar.^[1]
+
+   Inhoud
+
+        * 1 Lasafwerping
+             + 1.1 Energie foefie
+        * 2 2008 Tariefverhoging
+        * 3 Kragontwikkeling
+        * 4 Transmissie en distribusie
+             + 4.1 Transmissie
+             + 4.2 Beheersentrums
+             + 4.3 Transformators
+             + 4.4 Substasies
+             + 4.5 Distribusiestelsel
+             + 4.6 Transmissie en Distribusie toerusting
+        * 5 Verwysings
+
+[wysig] Lasafwerping
+
+   'n Kernmerk van kragvoorsiening in Suid-Afrika vanaf 2007 is periodieke
+   onderbrekings van toevoer (wat lei tot sogenaamde "beurtkrag") as
+   gevolg van doelbewuste lasafwerping. Oor 'n periode van ongeveer
+   twintig jaar sedert die mid-1980s het Eskom se
+   kragopwekkings-kapasiteit die spitsaanvraag aansienlik (met meer as 20%
+   in sommige jare) oorskry en Eskom het selfs sover gegaan as om groot
+   industriële verbruikers (onder andere Alusaf en Mozal) na suider-Afrika
+   te lok met aantreklike elektrisiteitspryse en langtermyn
+   voorsienings-kontrakte.
+
+   Met die beëindiging van Eskom se kragsentrale-uitbreidingsprogram in
+   2001 is dit veronderstel dat daar voldoende kapasiteit sou wees om in
+   die aanvraag na elektrisiteit te kan voorsien tot ongeveer 2007. Omdat
+   die aanlooptyp om 'n groot kragsentrale te bou vyf jaar of meer beloop,
+   het Eskom reeds in 2002 begin aansoek doen om meer kapasiteit op te
+   rig. Die regering het egter daarop aangedring dat (buitelandse)
+   privaatbeleggers genader moet word om tot die bedryf toe te tree.
+
+   Ondanks waarskuwings deur Eskom van 'n dreigende tekort aan kapasiteit
+   het die proses gesloer en uiteindelik in 2006 skipbreuk gelei toe die
+   laaste belangstellendes uit die proses onttrek het, oënskynlik vanweë
+   té lae elektrisiteits-tariewe en ander beperkende faktore. In 2007 het
+   President Thabo Mkebi verskoning namens die regering aangeteken vir die
+   kragtekorte. Mbeki het in Bloemfontein erken dat "Eskom reg en die
+   regering verkeerd was".^[2]
+
+   Ander belangrike faktore wat bygedra het tot die toenemende wanbalans
+   tussen aanvraag en aanbod was 'n hoër as verwagte aanvraag-groeikoers
+   en 'n afname in die beskikbaarheid van Eskom se opwekkingseenhede. Die
+   ekonomie het meer elektrisiteits-intensief begin word en moderne
+   geriewe soos lugversorging het 'n alledaagse verskynsel geword. Eskom
+   het ook 'n massiewe elektrifiseringsprogram in die 1990s begin wat
+   aanvraag vermeerder het en die lasprofiel verskuif het. Pogings om
+   aanvraag te beheer het nie die steun ontvang wat nodig was om dit
+   effektief te maak nie.
+
+   Die toestand het verder versleg vanweë die afname in beskikbaarheid van
+   groot krag-eenhede. In 2000 was die gemiddelde beskikbaarkeid 92%. Teen
+   2006 het dit gedaal tot 87%, wat dieselfde effek het as 'n 5%
+   permanente tekort aan kapasiteit. Die oorsaak hiervan was hoofsaaklik
+   swak of gebrekkige instandhouding, foute deur onervare personeel en 'n
+   tekort aan onderdele, brandstof en ander middele. Teen 2007 het
+   agterstand in instandhouding en onverwagte falings dit moeiliker gemaak
+   om voorsienings-kapaisiteit met volgehoue vertroue te kon voorspel.
+
+   Die koeël was toe reeds deur die kerk. In Desember 2006 het die eerste
+   grootskaalse lasafwerping in the Wes-kaap plaasgevind toe 'n eenheid by
+   Koeberg onverwags afgeskakel het. Aanvraag in die Wes-kaap het toevoer
+   oorskry omdat die transmissisie-stelsel nie die verskil kon aansuiwer
+   nie. Om te vermy dat die hele stelsel afgeskakel sou moes word, het
+   Eskom begin met selektiewe lasafwerping, dws. doelbewuste afsluitings
+   om die aanvraag te beperk. Groepe verbruikers is vir 'n paar ure op 'n
+   beurt afgeskakel totdat die balans tussen aanvraag en voorsiening weer
+   herstel is.
+
+   In die winter van 2007 het die eerste lasafwerpings in die res van die
+   land begin toe die ongewone koue weer Eskom se totale vermoeë onder
+   geweldige druk geplaas het en landswye lasafwerping in alle erns begin
+   het. Toe die winter verby was en verbruikers 'n bietjie asem kon skep,
+   het daar in Oktober en November weer 'n reeks lasafwerpings begin, die
+   keer omdat soveel eenhede buite werking was vanweë instandhouding,
+   onverwagte falings en bedryfsfoute dat daar op 'n stadium tot oor 'n
+   20% tekort in toevoer was.
+
+   Eskom het gewaarsku dat lasafwerpings sal voortduur vir vyf of ses
+   jaar, minstens tot dat die eerste eenheid van die nuwe Medupi
+   kragsentrale in 2012 in werking gestel behoort te word.
+
+[wysig] Energie foefie
+
+   Daar is eers in Januarie 2008 kontrakte tussen Eskom en Botswana as ook
+   met Mosambiek gesluit vir die verskaffing van ten minste 1040MW
+   elektriese krag. Daardie tyd moes hulle al geweet het van te korte,
+   omdat daar al kerstyd daarvan gepraat is.
+   Sien ook: "The energy HOAX"
+
+[wysig] 2008 Tariefverhoging
+
+   Op 20 Desember 2007 het die Nasionale Energie Reguleerder van
+   Suid-Afrika (NERSA) Eskom 'n gemiddelde tariefverhoging van 14,2% vir
+   2008 toegestaan. Dit het tekort geskiet aan die 18,7% waarvoor Eskom
+   aansoek gedoen het, maar was nogtans aansienlik meer as die 6,2%
+   verhoging waarvoor Eskom aanvanklik in 2005 aansoek gedoen het. Die
+   uitermatige verhoging het vir Eskom en NERSA die misnoë van verskeie
+   instansies op die hals gehaal, onder andere die Konfederasie van
+   Suid-Afrikaanse Vakunies (Kosavu), Busa (Business Unity SA) en die
+   Suid-Afrikaanse Reserwebank, wat vroeër 'n beroep op staatsinstansies
+   gemaak het om te help om inflasie te beperk tot die Bank se teiken van
+   tussen 3% en 6%.
+
+   Daar was ook kritiek dat die tariefverhoging Suid-Afrika minder
+   aantreklik sou maak vir buitelandse beleggers, aangesien goedkoop
+   elektrisiteit dikwels as 'n positiewe faktor vir SA beskryf word.
+
+   Eskom het laas verhogings van hierdie skaal in 1977 aangekondig, toe
+   dit ná die inflasie-periode van die sewentigerjare voor geweldige
+   uitbreidingskoste te staan gekom het.
+
+   NERSA het aangekondig dat Eskom se aansoek vir 'n verdere 17%-verhoging
+   vir 2009 in September 2008 oorweeg sal word wanneer die volgende
+   driejaarlikse prysverhoging vasgestel word. NERSA se publieke
+   konsultasiedokument het dit duidelik gestel dat Eskom se tariewe met
+   dubbelsyferverhogings aangepas sal moet word tot en met minstens 2019
+   om in die verwagte stygings in koste en die uitbreidingsprogam te kan
+   voldoen.
+
+   Eskom het te kenne gegee dat dit beswaar sal aanteken teen NERSA se
+   beslissing. In 2004 het Eskom en NERSA in 'n dispuut betrokke geraak
+   toe Eskom 'n verhoging van 2,5% toegestaan is nadat dit om 8,9% aansoek
+   gedoen het. Die geskil is besleg deur die destydse Minister van
+   Mineraal- en Ernergiesake, Me. Phumzile Mlambo-Ngcuka (nou
+   Adjunkpresident), wat Eskom se aansoek verwerp het.
+
+   Mnr. Collin Matjila, voorsitter van NERSA, het aangekondig dat die
+   verhoging Eskom se verkope van R44,3 tot R47,9 miljard per jaar sou
+   verhoog. Toe Eskom oorspronklik in 2005 vir 'n verhoging aansoek gedoen
+   het, was uitbreidingskoste van R84 miljard voorsien. Toe dit later
+   geblyk het dat dié bedrag vermeerder sou moes word tot R150 miljard,
+   was dit duidelik dat 'n 6,2%-verhoging onvoldoende sou wees om die
+   uitgawe te dek. Gevolglik is 14,2% goedgekeur. Matjila het verder gesê
+   dat die tariefverhoging daarop gemik was om die balans tussen Eskom se
+   voortbestaan en die bekostigbaarheid van elektrisiteit te handhaaf.
+   NERSA was van mening dat die langtermynoorwegings van hierdie besluit
+   die korttermynbesorgdhede vér oorskry.^[3]
+
+[wysig] Kragontwikkeling
+
+   Opsomming van die vermoë van Eskom se kragsentrales in 2007
+   Naam Jaar voltooi Aantal stelle Nominale vermoë per stel MW Bruto
+   totale vermoë MW Netto totale vermoë MW Stoomdruk Mpa Stoom temperatuur
+   °C
+   Steenkool
+   Arnot^3 1975 6 350 2100 1980 15.9 510
+   Camden^4 1969 8 200 1600 1520^2 10.3 538
+   Duhva^3 1984 6 600 3600 3450 16.1 535
+   Grootvlei^4 1977 6 200 1200 1130^2 10.3 538
+   Hendrina^3 1977 10 200 2000 1895^1 10.3 538
+   Kendal^3,5 1993 6 686 4116 3840 16.1 535
+   Komati^4 1966 5
+   4 100
+   125 500
+   500 891^2 8.4 510
+   Kriel^3 1979 6 500 3000 2850 16.0 510
+   Lethabo^3 1990 6 618 3708 3558 16.1 535
+   Majuba
+   2001 3
+   3 657
+   713 1971
+   2139
+   3843
+   Matimba^3,5 1991 6 665 3990 3690 16.1 535
+   Matla^3 1983 6 600 3600 3450 16.1 535
+   Tutuka^3 1990 6 609 3654 3510 16.1 535
+   Kernkrag
+   Koeberg^3 1985 2 965 1930 1800^1
+   Hidro
+   Gariep^7 1976 4 90 360 360
+   Vanderkloof^7 1977 2 120 240 240
+   Colly Wobbles 3 14 42 42
+   First Falls 2 3 6 6
+   Ncora 2
+   1 0.4
+   1.3 1
+   1
+   2
+   Second Falls 2 5.5 11 11
+   Pompopgaar^8
+   Drakensberg 1982 4 250 1000 1000
+   Palmiet 1988 2 200 400 400
+   Gasturbines^6
+   Acacia 1976 3 57 171 171
+   Port Rex 1976 3 57 171 171
+   Gourikwa 2007 3 150 450 438
+   Ankerlig 2007 4 150 600 588
+   Windkrag
+   Klipheuwel 2003 3 0.66-1.75 3.2 3.2 Eksperimenteel
+   In aanbou
+   Medupi 2012 6 800 4800 4560
+   Ingula 2012? 4 333 1330 1330 Pompopgaar
+   Beplan
+   Kernkrag 2  ?
+   Steenkool  ? 6 700 4200 3942
+   Gas1(Gourikwa) 2008 2 150 300 291
+   Gas1(Ankerlig) 2008 5 150 750 733
+
+   NOTAS:
+   1. Verskil tussen bruto en netto totale vermoë is te wyte aan
+   eieverbruik, ouderdom van die aanleg en/of steenkoolgehalte.
+   2. Uiteindelike vermoë na herinbedryfstelling.
+   3. Basislas kragsentrale (deurlopende bedryf).
+   4. Tans nog in langtermyn bewaring.
+   5. Droë verkoelde eenhede se lewering word beperk deur die ontwerp
+   uitlaatdruk en die omgewingstemperatuur.
+   6. Word slegs vir spitsaanvraag en noodgevalle gebruik.
+   7. Gebruik word beperk tot spitslas en hang af van die hoeveelheid
+   water beskikbaar in die Gariep en Vanderkloof opgaardamme.
+   8. Pompopgaar aanlegte is netto verbruikers van elektrisiteit. Water
+   word in nie-spitstye teen die berg uitgepomp sodat elektrisiteit tydens
+   spitstye opgewek kan word as die water weer afloop.
+   Vertaal en aangevul uit Eskom se 2006 jaarverslag en ander bronne^[4]
+
+[wysig] Transmissie en distribusie
+
+   Elektrisiteit word in in generators opgewek deur 'n groot magneet (die
+   rotor) wat binne in 'n koper klos (die stator) draai teen 3000
+   omwentelings per minuut. Dit lewer ‘n drie-fase wisselstroom met ‘n
+   frekwensie van 50 Herz (d.w.s. wisselings per sekonde) teen ongeveer
+   22000 volt (22 kV) op. Die spanning is te laag vir grootmaat vervoer
+   oor lang afstande en dit word dus eers deur middel van transformators
+   verhoog tot by ‘n transmissiespanning van 132 kV of meer. Meeste groot
+   kragsentrales (wat elk gewoonlik ses of meer generators het) stuur
+   elektrisieit teen 400 kV in ‘n landswye transmissienetwerk in.
+
+[wysig] Transmissie
+
+   Elektrisiteit word vanaf kragsentrales vervoer tot waar dit benodig
+   word deur middel van kraglyne. Groot hoeveelhede elektrisiteit word
+   teen hoë spanning vervoer om verliese oor lang afstande te verminder en
+   die hoeveelheid kraglyne te beperk. Die groot hoogspanningslyne wat
+   elektrisiteit tussen verafgeleë gebiede vervoer word transmissielyne
+   genoem. Dié werk teen hoë spannings van soveel as 765 kilovolt (765 000
+   volt of 765 kV), soos in die geval van die hooflyne tussen die Hoëveld
+   en die Kaap. Eskom is die eerste in die wêreld om 765 kV só hoog bo
+   seespieël te gebruik, waar die insulasievermoë van die dunner lug baie
+   minder is as by seevlak. Vir kleiner afstande en hoeveelhede word laer
+   spannings tot by 132 kV gebruik.
+
+   Transmisielyne bestaan uit hoë staaltorings wat aluminium
+   geleierbondels dra wat aan glas of keramiek insulators hang. Alumium is
+   lig en ‘n goeie geleier van elektrisiteit end daar is ‘n staaldraad
+   binne die aluminium geleiers om dit te versterk. Transmissielyne wat
+   ver oor die veld loop is ‘n bekende gesig feitlik orals in landelike
+   Suid-Afrika.
+
+   In opgeboude gebiede word dikwels van ondergronde kabels gebruik
+   gemaak. Dié is nie sigbaar nie en kan gebruik word waar daar nie genoeg
+   spasie vir maste of torings is nie, maar het die nadeel dat dit baie
+   duur is. Groot kabels wat hele stede of groot fabrieke kan voorsien is
+   dikwels met olie of gas gevul vir verkoeling en isolasie.
+
+   Die transmissienetwerk word somtyds ook die Nasionale Netwerk of
+   Tussenverbinde Stelsel genoem want alle elektrisiteit wat deur Eskom
+   opgewek word (behalwe eieverbruik in kragsentrales) word aan die
+   netwerk gelewer vir landswye verspreiding. Eskom voorsien nie alle
+   verbruikers in Suid-Afrika direk nie. Meer as 250 munisipaliteite koop
+   elektrisiteit grootmaat by Eskom vir distribusie en herverkoop aan
+   hulle eie verbruikers.
+
+[wysig] Beheersentrums
+
+   Elektrisiteit wat in kragsentrales opgewek word kan nie soos water in
+   ‘n dam opgegaar word nie. Dit moet onmiddelik gebruik word soos dit
+   opgewek word. Aanvraag en toevoer moet dus deurlopend gemeet en in ‘n
+   fyn balans gehandhaaf word. Vir klein veranderings pas alle generators
+   wat aan die stelsel gekoppel is, hulle uitset outomaties aan deur die
+   spoed van 3000 o.p.m. te handhaaf. As die vraag toeneem (soos
+   byvoorbeeld deur koue weer of die aanvang van ‘n populêre TV program),
+   begin alle generators ‘n bietjie spoed verloor. Die spoedreëlaar laat
+   dan meer stoom in die turbines in sodat die kraglewering effens
+   vermeerder en die spoed feitlik onmiddelik herstel tot 3000 o.p.m. Die
+   omgekeerde gebeur as die aanvraag daal.
+
+   Vir groter veranderings in aanvraag moet hele generators aan- of
+   afgesit word. Dit word deur die sentrale beheersentrum gedoen, wat
+   instruksies aan die kragsentrales gee om dit te doen. Nasionale Beheer
+   in Simmerpan, Germiston, moet ook sorg dat daar deurentyd voldoende
+   reserwe generators gereed is as een van lopende eenheded onklaar sou
+   raak. Daar is ook ses streeksbeheersentra wat op strategiese plekke
+   geleë is en wat die vloei van elektrisiteit deur die netwerk beheer
+   deur lyne en transformators in of uit te skakel.
+
+   Om die netwerk deurlopend te kan beheer maak die beheersentra gebruik
+   van spesiale meters wat oral in die stelsel aangebring is en data
+   oombliklik deurstuur. Meeste hoogspanningsskakelaars kan outomaties
+   vanuit ‘n verafgeleë beheersentrum geskakel word. Generators in
+   hidrokragsentrales en gasturbines word ook met afstandbeheer aan- of
+   afgesit.
+
+   Die transmissienetwerk word ook gebruik om elektrisiteit tussen lande
+   in Suider-Afrika uit te ruil. Elektrisiteit van Cahora Bassa in
+   Mosambiek word byvoorbeeld deur ‘n spesiale 1000 kilometer-lange
+   gelykstroomlyn vervoer teen ‘n spanning van 533 kV. Nadat dit in
+   wisselstroom omgesit is by die Apollo substasie (naby Pretoria) word
+   dit in die Eskom netwerk ingevoer teen 400 kV. Daar is wisselstroom
+   lyne van 400 en 275 kV wat tussenverbinding met Namibië, Zimbabwe,
+   Botswana, Zambië en selfs sover as Congo moontlik maak.
+
+[wysig] Transformators
+
+   Die spanning van elektrisiteit moet op verskeie plekke eers vermeerder
+   word (soos by ‘n kragstasie) en dan weer in stadiums verminder word
+   sodat klein verbruikers dit veilig kan gebruik. In Suid-Afrika is die
+   standaard huishoudelike spanning 220V (380V as drie fases gebruik
+   word). In fabrieke kan spannings van 11 kV dikwels aangetref word om
+   swaar masjienerie te dryf.
+
+   Die spanning van wisselstroom word deur middel van transformators
+   verhoog of verlaag. By kragsentrales word die spanning van 22 kV wat
+   die generators opwek verhoog tot soveel as 765 kV. In substasies wat
+   krag aan die distribusiestelsel lewer word die hoogspanning dan weer
+   verlaag, gewoonlik na 22 kV of 11 kV voordat dit na die einverbruiker
+   gestuur word.
+
+   ‘n Transformator werk heel eenvoudig en het geen bewegende dele nie.
+   Dit bestaan uit twee klosse geïsoleerde koperdraad wat dig maar tog
+   apart teen mekaar gewen is. Soos elektrisiteit deur die een klos
+   stroom, induseer dit ‘n stroom in die ander klos teen ‘n spanning wat
+   bepaal word deur die hoeveelheid draaie in elke klos. As die tweede of
+   sekondere klos meer draaie het as die eerste of primere klos sal die
+   spanning vermeerder, terwyl spanning sal daal in die teenoorgestelde
+   geval. Die klosse word in ‘n tenk gehou wat met olie gevul word vir
+   verkoeling en insulasie.
+
+[wysig] Substasies
+
+   Elektriese substasies is volstandige eenhede wat vanuit die streeks- of
+   nasionale beheersentra bedryf word. Inkomende lyne bring elektrisiteit
+   vanaf kragstasies en uitgaande lyne voer die elektrisiteit na
+   verbruikers of ander substasies. Substasies gebruik transformators om
+   die spanning van elektrisiteit op of af te verander en skakelaars om
+   lyne in of uit te skakel. Baie substasies is in afgeleë gebiede geleë
+   en is ontwerp om deurlopend sonder menslike toesig bedryf te word in
+   alle weersomstandighede. Die skakelaars in ‘n substasie kan ‘n groot
+   elektriese stroom oombliklik te onderbreek en sodoende probleme op die
+   netwerk isoleer voordat dit ander dele raak.
+
+   ‘n Substasie bevat ook hoogs gespesialiseerde beskermingstoerusting wat
+   foute kan identifiseer (soos byvoorbeeld ‘n lyn wat deur weerlig getref
+   is, of ‘n boom wat op ‘n lyn geval het) en boodskappe kan deurstuur of
+   ontvang van die beheersentra. Dit kan mense beskerm teen elektriese
+   foute en kan die toevoer ononderbroke na ‘n ander deel van die netwerk
+   oorgeskuif word.
+
+[wysig] Distribusiestelsel
+
+   Die transmissiestelsel vervoer groot hoeveelhede elektrisiteit oor lang
+   afstande vanaf kragsentrales tot by een van die talle substasies wat
+   oor die hele land versprei is. Hier word die spanning verlaag voordat
+   die elektrisiteit verder versprei word deur die distibusienetwerk met
+   die doel om dit so wyd moontlik na alle eindverbruikers te versprei.
+   Ekom se distribusienetwerk van amper 300 000 km bereik sowat vier
+   miljoen verbruikers oral in die land behalwe in die mees verafgeleë
+   gebiede.
+
+   Toevoere teen 22 of 11 kV word vanaf substasies na primere
+   verbruikerspunte soos stede en dorpe, industrieele gebiede, groepe
+   dorpies en plase geneem. Hier word dit trapsgewys verder getransformeer
+   na nog laer spannings tot uiteindelik by 380/220 volt vir verspreiding
+   na industrieë, woongebiede, winkelsentrums, openbare- en kantoorgeboue,
+   straatligte, ensovoorts. Groot verbruikers soos myne, fabrieke en
+   spoorweë neem dikwels toevoer teen ‘n hoër spanning. Daar is
+   byvoorbeeld laagspanningssubstaties al langs elektriese spoorlyne wat
+   elektrisiteit direk teen 25 kV of 50 kV voorsien.
+
+   Die verspreiding (distribusie) van elektrisiteit moet so geskied sodat
+   toevoer bykans nie onderbreek word as daar ‘n fout in die stelsel sou
+   onstaan nie. Daarom is daar gewoonlik meer as een toevoerpunt na ‘n
+   bepaalde area. Distribusielyne of kabels vorm dikwels ‘n ringtoevoer
+   sodat, sou die toevoer uit een rigting faal, dit uit die ander rigting
+   aangevul kan word.
+
+   In huise, kantore en ander geboue is daar gewoonlik ‘n distribusiebord
+   met veiligheidsskakelaars en aarlekkasiebeskerming sodat, sou daar iets
+   verkeerd gaan, die elektrisiteitstoevoer onmiddelik en veilg afgeskakel
+   word. Van hierdie distribusiebord loop daar drade na alle ligte,
+   muurproppe, stowe, geysers en ander elektriese apparaat. Dit is bykans
+   onmoontlik om ‘n moderne huishouding sonder elektrisiteit te bedryf.
+
+   Elektrisiteitsverbruik word voortdurend gemeet met ‘n spesiale
+   kilowatt-uur meter. Wanneer ‘n lig of enige elektriese apparaat
+   aangskakel word, laat die die toename in stroom ‘n skyf in die meter
+   draai. Hierdie beweging word oorgedra na ‘n drom met syfers wat die
+   verbruik dan aanwys. Hierdie meters word periodiek gelees en
+   daarvolgens word die klant ‘n rekening gestuur.
+
+   ‘n Ander soort meter, die sogename voorafbetaalmeter, word al hoe meer
+   gebruik. Soos die naam aandui, vereis hierdie meter vooraf betaling vir
+   elektrisiteitsverbuik wat by talle agente en ander instansies soos
+   winkels en vulstasies gemaak kan word. ‘n Spesiale kode of ‘n kaart
+   word dan gebruik om die meter te ‘laai’ met die hoeveelheid
+   elektrisiteit wat gekoop is, sodat die meter dit kan aanwys en die
+   verbruik daarteen kan aftrek.. Soos elektrisiteit gebruik word, hou die
+   meter tred met die verbruik en waarsku die verbruiker as bykans al die
+   krediet opgebruik is.
+
+   Verwysing: Eskom Factsheet on Transmission and Distribution. ^[5]
+
+[wysig] Transmissie en Distribusie toerusting
+
+   Opsomming van Eskom se transmissie- en distribusietoerusting soos op 31
+   Maart 2006
+   Kraglyne
+   Transmissielyne, km^1
+   765 kV                       1 153
+   533 kV GS^2                  1 035
+   400 kV                       15 691
+   275 kV                       7 245
+   220 kV                       1 336
+   132 kV                       946
+   Distribusielyne, km
+   165 - 132 kV                 22 142
+   88 - 33kV                    21 188
+   Retikulasie lyne, km
+   22 kV en laer                282 361
+   Kabels, km
+   165-132 kV                   156
+   22 kV en laer                7 875
+   Transformator kapasiteit, MVA
+   Transmissie, MVA^3           118 445
+   Distribusie en
+   retikulasie, MVA
+                                87 217
+   Transformator getalle
+   Transmissie, aantal          374
+   Distribusie en
+   retikulasie, aantal
+                                305 402
+
+   NOTAS:
+   1. Volgens die Geografiese Informasiestelsel (GIS)
+   2. Monopolêre gelykstroomlyn lyn tussen Cahora Bassa en Apollo
+   3. Transformators groter as 30 MVA met 'n primere spanning > 132 kV
+   Vertaal en aangevul uit Eskom se 2006 jaarverslag en ander bronne^[6]
+
+[wysig] Verwysings
+
+    1. ^ Jaarverslag 2007[1]
+    2. ^ Business Day, Mbeki's apology welcomed but Eskom still has much
+       to do, says IFP, 13 Des 2007
+    3. ^ Business Day, Eskom wins its bid for huge tariff hikes, 21 Des
+       2007
+    4. ^ [2]
+    5. ^ [3]
+    6. ^ [4]
+
+   Kategorieë: Suid-Afrika • Energieverskaffers
+

@@ -1,0 +1,240 @@
+Radiaal
+
+
+   'n Hoek van 1 radiaal onderspan 'n boog gelyk in lengte aan die radius
+   van die sirkel.
+   'n Hoek van 1 radiaal onderspan 'n boog gelyk in lengte aan die radius
+   van die sirkel.
+
+   Die radiaal, in wiskunde, is 'n eenheid van hoekmeting wat gelyk is aan
+   180/π grade, of ongeveer 57,2958 grade. Dit word voorgestel deur die
+   simbool "rad" of, minder algemeen, deur die boskrif c (vir "circular
+   measure"). 'n Hoek van 1,2 radiaal word geskryf as "1,2 rad" of
+   "1,2^c". Aangesien die radiaal die standaard eenheid vir hoekmeting in
+   wiskunde is word die simbool "rad" egter byna altyd weggelaat. In die
+   afwesigheid van enige simbool word radiale aangeneem en word die
+   simbool ° gebruik om aan te dui wanneer grade bedoel word.
+
+   Die radiaal was te vore 'n SI aanvullende eenheid, maar die kategorie
+   is in 1995 afgeskaf en dit word nou as 'n SI afgeleide eenheid beskou.
+   Die SI-eenheid vir 'n soliede hoekmeting is die steradiaal.
+
+   Inhoud
+
+        * 1 Definisie
+        * 2 Geskiedenis
+        * 3 Omskakelings
+             + 3.1 Omskakeling tussen radiale en grade
+             + 3.2 Omskakeling tussen radiale en desimale grade
+             + 3.3 Omskakelingstabel
+        * 4 Gebruik in Wiskunde en Fisika
+        * 5 Dimensionaliteit
+        * 6 Veelvoude van radiale
+        * 7 Verwysings
+
+[wysig] Definisie
+
+   Een radiaal is die hoek by die middelpunt van 'n sirkel onderspan deur
+   'n boog waarvan die lengte langs die omtrek gelyk is aan die lengte van
+   die radius van die sirkel.
+
+   Meer algemeen, die grootte in radiaal van enige hoek onderspan deur
+   twee strale, is gelyk aan die verhouding tussen die lengte van die
+   ingeslote boog tot die radius van die sirkel; dit wil sê, θ = s /r,
+   waar θ die onderspande boog in radiale is, s is die booglengte en r is
+   die radius. Omgekeer, die lengte van die ingeslote boog is gelyk aan
+   die radius vermenigvuldig met die grootte in radiale; dit wil sê, s =
+   rθ.
+
+   Dit volg dat die grootte in radiale van een algehele omwenteling (360
+   grade) die lengte van die hele omtrek gedeel deur die radius, of
+   2πr /r, of te wel 2π is. Dus is 2π radiale gelyk aan 360 grade, en een
+   radiaal is gelyk aan 180/π grade.
+
+[wysig] Geskiedenis
+
+   "n Paar algemene hoeke uitgedruk in radiale. Al die poligone is
+   reguliere poligone.
+   "n Paar algemene hoeke uitgedruk in radiale. Al die poligone is
+   reguliere poligone.
+
+   Die begrip van radiale meting, teenoor die grade van 'n hoek, behoort
+   waarskynlik aan Roger Cotes in 1714 toegeskryf word.^[1] Hy het die
+   begrip van die radiaal in alle opsigte behalwe vir die naam daarvan
+   ontwikkel en het die natuurlikheiod daarvan as 'n eenheid van
+   hoekmeting besef.
+
+   Die Engelse term radian het vir die eerste keer in gedrukte vorm
+   verskyn op 5 Junie 1873, in eksamen vrae wat deur James Thomson (broer
+   van Lord Kelvin) by Queen's College, Belfast. Hy het die term so vroeg
+   as 1871 gebruik terwyl Thomas Muir in 1869 toe by die Universiteit van
+   Sint Andrews, gewik en weeg of hy rad, radial of radian moes gebruik.
+   In 1874 het Muir na oorleg met James Thomson op radian
+   besluit.^[2]^[3]^[4]
+
+[wysig] Omskakelings
+
+[wysig] Omskakeling tussen radiale en grade
+
+   Soos te vore gestel is een radiaal gelyk aan 180/π grade. Dus, om van
+   radiale na grade om te skakel, verminigvuldig met 180/π. By voorbeeld:
+
+          1 \mbox{ rad} = 1 \cdot \frac {180^\circ} {\pi} \approx
+          57.2958^\circ
+          2.5 \mbox{ rad} = 2.5 \cdot \frac {180^\circ} {\pi} \approx
+          143.2394^\circ
+          \frac {\pi} {3} \mbox{ rad} = \frac {\pi} {3} \cdot \frac
+          {180^\circ} {\pi} = 60^\circ
+
+   Omgekeerd, om van grade na radiale om te skakel, vermenigvuldig met
+   π/180. Byvoorbeeld:
+
+          1^\circ = 1 \cdot \frac {\pi} {180^\circ} \approx 0.0175 \mbox{
+          rad}
+          23^\circ = 23 \cdot \frac {\pi} {180^\circ} \approx 0.4014
+          \mbox{ rad}
+
+   'n Mens kan ook radiale van omwentelings omskakel deur die radiaal
+   waarde deur 2π te deel.
+
+   Die onderstaande tabel vertoon die omskakeling van 'n aantal algemene
+   hoeke.
+   Grade   0° 30° 45° 60° 90° 180° 270° 360°
+   Radiale 0 \frac{\pi}{6} \frac{\pi}{4} \frac{\pi}{3} \frac{\pi}{2} \pi\,
+   \frac{3\pi}{2} 2\pi\,
+
+[wysig] Omskakeling tussen radiale en desimale grade
+
+   2π radiale is gelyk aan een hele omwenteling wat 400^g is. Dus, om van
+   radiale na desimale grade (gon) om te skakel, vermenigvuldig met 200/π,
+   en om van gon na radiale om te skakel, vermenigvuldig met π/200.
+   Byvoorbeeld:
+
+          1.2 \mbox{ rad} = 1.2 \cdot \frac {200^{\rm g}} {\pi} \approx
+          76.3944^{\rm g}
+          50^{\rm g} = 50 \cdot \frac {\pi} {200^{\rm g}} \approx 0.7854
+          \mbox{ rad}
+
+[wysig] Omskakelingstabel
+
+   Die onderstaande tabel vertoon die omskakeling tssen radiale, grade en
+   desimale grade van 'n aantal algemene hoeke.
+     Hoeknaam      Waarde in
+                radiaal              Waarde in
+                               desimale grade          Waarde in
+                                                      grade
+   nulhoek      0              0^g                    0°
+   milliradiaal 0,001          0^g 6^c 36^cc 61^ccc   0°3′26″15‴
+                \frac{\pi}{6}  33,3^g                 30°
+                \frac{\pi}{4}  50^g                   45°
+                \frac{\pi}{3}  66,6^g                 60°
+   radiaal      1              63^g 66^c 19^cc 77^ccc 57°17′44″48‴
+   regtehoek    \frac{\pi}{2}  100^g                  90°
+                \frac{3\pi}{4} 150^g                  135°
+   plathoek     π              200^g                  180°
+                \frac{5\pi}{4} 250^g                  225°
+                \frac{3\pi}{2} 300^g                  270°
+                \frac{7\pi}{4} 350^g                  315°
+   omwenteling  2\pi\,         400^g                  360°
+
+[wysig] Gebruik in Wiskunde en Fisika
+
+   In analise en meeste ander takke van wiskunde wat verder gaan as
+   praktiese meetkunde, word hoeke altyd in radiale uitgedruk. 'n
+   belangrike rede hiervoor is dat resultate in analise wat trigonometrie
+   funksies betrek eenvoudig en "natuurlik" is wanneer die funksie se
+   argumente in radiale is. Die gebruik van radiale lei byvoorbeeld tot
+   die eenvoudige limiet formule
+
+          \lim_{h\rightarrow 0}\frac{\sin h}{h}=1 ,
+
+   wat die grondslag is vir talle ander elegante identiteite in wiskunde,
+   insluitend
+
+          \frac{d}{dx} \sin x = \cos x
+          \frac{d^2}{dx^2} \sin x = -\sin x
+
+   As gevolg van hierdie en ander eienskappe,verskyn die trigonometriese
+   funksies in oplossings tot wiskundige probleme wat nie ooglopend
+   verwant is aan die funksie se meetkundige betekenis nie (byvoorbeeld
+   die oplossing van die differensiaalvergelyking d^2y/dx^2 = −y, die
+   evaluasie van die integraal ∫dx/(1 + x^2), en so aan). In alle sulke
+   gevalle word daar gevind dat die argumente van die funksies die
+   natuurlikste in die vorm geskryf wat, in meetkundige kontekste,
+   ooreenkom met die radiale meting van die hoeke.
+
+   Die trigonometriese funksies het ook eenvoudige en elegante reeks
+   uitbreidings wanneer radiale gebruik word; byvoorbeeld, die volgende
+   Taylor reeks vir sin x :
+
+          \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} +
+          \cdots .
+
+   As x in grade uitgedruk was, dan sou die reeks lastige faktore wat
+   magte van π/180 behels moes insluit: as x die aantal grade is, is die
+   radiale y = πx /180, so
+
+          \sin x\ (deg) = \sin y\ (rad) = \frac{\pi}{180} x -
+          (\frac{\pi}{180})^3\ \frac{x^3}{3!} + (\frac{\pi}{180})^5\
+          \frac{x^5}{5!} - (\frac{\pi}{180})^7\ \frac{x^7}{7!} + \cdots .
+
+   Wiskundig belangrike verhoudings tussen die sinus en cosinus funksies
+   en die eksponensiële funksie (sien byvoorbeeld Euler se formule) is
+   weereens elegant en "natuurlik" as die funksies se argumente in radiale
+   is.
+
+   Die rdaiaal word ook baie in fisika gebruik wanneer hoekmetings verlang
+   word. Hoeksnelheid word byvoorbeeld tipies in radiale per sekonde
+   (rad/s) gemeet. Een omwenteling per sekonde is gelyk aan 2π radiale per
+   sekonde. Op soortgelyke wyse word hoekversnelling baie keer in radiale
+   per sekonde per sekonde (rad/s^2) gemeet.
+
+[wysig] Dimensionaliteit
+
+   Alhoewel die radiaal 'n maateenheid is, is dit 'n dimensielose
+   hoeveelheid. Dit kan gesien word uit die definisie wat te vore gegee
+   is: die hoek onderspan by die middelpunt van 'n sirkel, gemeet in
+   radiale, is die verhouding van die lengthe van die ingeslote boog tot
+   die lengte van die sirkel se radius. Aangesien die metingseenhede
+   mekaar uit kanselleer is hierdie verhouding dimensieloos.
+
+   'n Ander manier waarop die dimensieloosheid van die radiaal gesien kan
+   word is in die reeks voorstellings van die trigonometriese funksies,
+   soos die Taylor reeks vir sin x wat te vore genoem is:
+
+          \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} +
+          \cdots .
+
+   As x eenhede gehad het, dan sou die som betekenisloos gewees het: die
+   lineêre term x kan nie opgetel of afgetrek word van kwadratiese term
+   x^3 / 3! of die term x^5 / 5! met vyfde magsverheffing, ens. Daarom
+   moet x dimensieloos wees.
+
+[wysig] Veelvoude van radiale
+
+   Metrieke voorvoegsel word op beperkte skaal saam met rdaiale gebruik en
+   nooit in wiskunde nie.
+
+   Die milliradiaal (0.001 rad, of 1 mrad) is word in artillerie en
+   skerpskutwerk gebruik aangesien dit ooreenkom met 'n fout van 1 meter
+   oor 'n afstand van 1000 m. Die divergensie van laserstrale word ook
+   milliradiaal gemeet.
+
+   Kleiner eenhede soos mikroradiale (μrads) en nanoradiale (nrads) word
+   in sterrekunde gebruik en kan ook gebruik word om die straalkwalitiet
+   van lasers met ultra-lae divergensie te meet.
+
+   Die groter voorvoegsel het geen ooglopende nut vir radiale nie
+   aangesien enige hoek groter as 2π radiaal weer dieselfde sirkel of
+   omwentelingsiklus begin.
+
+[wysig] Verwysings
+
+    1. ^ Biography of Roger Cotes, The MacTutor History of Mathematics
+    2. ^ Florian Cajori, 1929, History of Mathematical Notations, Vol. 2,
+       pp. 147–148
+    3. ^ Nature, 1910, Vol. 83, pp. 156, 217, and 459–460
+    4. ^ Earliest Known Uses of Some of the Words of Mathematics
+
+   Kategorieë: SI afgeleide eenhede • Trigonometrie • Hoekeenhede
+

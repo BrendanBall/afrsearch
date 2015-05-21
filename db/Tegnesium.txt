@@ -1,0 +1,503 @@
+Tegnesium
+
+
+
+                    molibdeen – tegnesium – rutenium
+           Mn
+           Tc
+           Re
+
+
+             Tegnesium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal Tegnesium, Tc, 43
+                                             Chemiese reeks Oorgangsmetale
+                                             Groep, Periode, Blok 7, 5 , d
+                          Digtheid, Hardheid 11500 kg/m^3 , Nie beskikbaar
+                                                       Voorkoms silwergrys
+                                                                 Tegnesium
+                                                           Atoomeienskappe
+                                                         Atoomgewig 98 ame
+                                           Atoomradius (ber.) 135 (183) pm
+                                                   Kovalente radius 156 pm
+                                               Vanderwaalsradius geen data
+                                       Elektronkonfigurasie [Kr] 4d^5 5s^2
+                                   e^− e per energievlak 2, 8, 18, 13, 2
+                      Oksidasietoestande (Oksied) 0,2,4,5,6,7 (sterk suur)
+                                              Kristalstruktuur Heksagonaal
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (paramagneties)
+                                               Smeltpunt 2430 K (2157 °C)
+                                       Kookpunt 5200 K (4927 °C) (geskat)
+                                       Molêre volume 8.63 ×10^-6 m^3/mol
+                                              Verdampingswarmte 660 kJ/mol
+                                                 Smeltingswarmte 24 kJ/mol
+                                            Dampdruk 0.0229 Pa teen 2473 K
+                                                 Spoed van klank geen data
+                                                                   Diverse
+                               Elektronegatiwiteit 1.9 (Skaal van Pauling)
+                                             Elektronaffiniteit -53 kJ/mol
+                                 Spesifieke warmtekapasiteit 210 J/(kg·K)
+                                     Elektriese geleidingsvermoë 6.7 MS/m
+                                  Termiese geleidingsvermoë 50.6 W/(m·K)
+                                      1^ste ionisasiepotensiaal 702 kJ/mol
+                                      2^de ionisasiepotensiaal 1470 kJ/mol
+                                      3^de ionisasiepotensiaal 2850 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso   NV  halfleeftyd  VM   VE MeV
+                                                            [nie SI]  VP
+                                ^97Tc sin. 2.6 x 10^6 j ε   0.320    ^97Mo
+                                ^98Tc sin. 4.2 x 10^6 j β^- 1.796    ^98Ru
+                                ^99Tc sin. 211,100 j    β^- 0.294    ^99Ru
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Tegnesium is 'n chemiese element in die periodieke tabel met die
+   simbool Tc en atoomgetal van 43. Die chemiese eienskappe van hierdie
+   silwergrys, radio-aktiewe, kristallyne oorgangsmetaal lê iewers tussen
+   renium en magnesium. Die isotoop met die kortste leeftyd, Tc-99m, word
+   gebruik in die kerngeneeskunde om sekere soorte kankers mee te
+   diagnoseer. Tc-99 word gebruik as 'n gammastraalvrye bron van
+   betastrale en sy pertegnaat-ioon kan moontlik gebruik word as
+   korrosieweerder in staal (hierdie gebruik word egter beperk vanweë
+   tegnesium se radio-aktiwiteit).
+
+   Dmitri Mendelejev het baie van die eienskappe van element 43, wat hy
+   ekamangaan genoem het, lank voor die ontdekking daarvan voorspel (sien
+   Elemente deur Mendelejev voorspel). In 1937 was die isotoop Tc-97 die
+   eerste element wat kunsmatige vervaardig word, vandaar die naam (vanuit
+   die Grieks technètos, wat kunsmatig beteken). Die meeste tegnesium wat
+   op aarde geproduseer word, is 'n neweproduk van die fisie van uraan-235
+   in kernreaktore en word onttrek vanuit die kernstawe. Geen isotoop van
+   tegnesium het 'n halfleeftyd van langer as 4.2 miljoen jaar (Tc-98)
+   nie, dus het die waarneming daarvan in rooi reuse in 1952 die teorie
+   ondersteun dat sterre ook swaarder elemente kan vervaardig. Op aarde
+   kom tegnesium slegs natuurlik in uraanerts as 'n produk van spontane
+   fisie voor; die hoeveelhede is uiters klein, maar die teenwoordigheid
+   is nogtans vasgestel.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+             + 2.1 Kerngeneeskunde
+             + 2.2 Nywerheid
+        * 3 Geskiedenis
+             + 3.1 Soektog voor die ontdekking
+             + 3.2 Betwisde ontdekking van 1925
+             + 3.3 Amptelike ontdekking en latere geskiedenis
+        * 4 Verspreiding
+             + 4.1 Vervaardiging
+             + 4.2 Deel van radio-aktiewe afval
+        * 5 Isotope
+             + 5.1 Stabiliteit van Tegnesium isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Tegnesium is 'n silwergrys radio-aktiewe metaal met 'n voorkoms
+   soortgelyk aan platinum. Dit word egter meestal as 'n grys poeier
+   voorberei. Dit kom tussen renium en mangaan op die periodieke tabel
+   voor en soos deur die periodieke wet voorspel, lê sy eienskappe tussen
+   die twee elemente. Die element is ongewoon onder die ligte elemente
+   aangesien dit geen stabiele isotope het nie en daarom op aarde uiters
+   skaars is.
+
+   Die metaalvorm van tegnesium verloor stadig sy glans in vogtige lug.
+   Die oksiede is TcO[2] en Tc[2]O[7]. Onder oksiderende toestande sal
+   tegnesium (VII) bestaan as die pertegnaat ioon, TcO[4]^-. Oksidasie
+   toestande van tegnesium sluit 0, +2, +4, +5, +6 en +7 in. Wanneer dit
+   in poeiervorm voorkom sal tegnesium in suurstof brand. Dit los op in
+   koningswater, salpetersuur en gekonsentreerde swaelsuur, maar los nie
+   in soutsuur op nie. Dit het kenmerkende spektraallyne by 363 nm, 403
+   nm, 410 nm, 426 nm, 430 nm en 485 nm.
+
+   Die metaalvorm is effe paramagneties wat beteken dat sy magnetiese
+   dipole met eksterne magnetiese velde oplyn, al is dit self nie
+   normaalweg magneties nie. Die kristalstruktuur van die metaal is
+   diggepak-heksagonaal. Suiwer metalliese enkelkristallyne tegnesium word
+   'n tipe II-supergeleier teen 7.46 K; onreëlmatige kristalle en
+   spoor-onsuiwerhede verhoog hierdie temperatuur tot 11.2 K vir 'n 99.9%
+   suiwerheid tegnesiumpoeier. Onder hierdie temperatuur het tegnesium 'n
+   baie hoë magnetiese penetrasiediepte, die hoogste van al die elemente
+   buiten niobium.
+
+[wysig] Aanwendings
+
+[wysig] Kerngeneeskunde
+
+   Tc-99m (die m dui aan dat dit 'n metastabiele kernisomeer is) word
+   gebruik in radio-aktiewe isotoop mediese toetse. Dit word byvoorbeeld
+   as 'n radio-aktiewe spoorder gebruik wat geneeskundige toerusting in
+   die liggaam kan waarneem. Dit is uiters geskik vir dié doeleinde omdat
+   dit geredelik waarneembare 140 keV gammastrale uitstraal, nie enige
+   betastrale uitstraal nie en 'n kort halfleeftyd van so kort as 6.01 ure
+   het (wat beteken dat dit byna geheel en al na Tc-99 binne bestek van 24
+   ure sal verval). In die boek Tegnesium deur Klaus Schwochau word 31
+   radiofarmaseutiese produkte wat op Tc-99m gebaseer is, gelys vir
+   verbeelding en ander funksionele studies van die brein, miokardium,
+   skildklier, longe, lewer, galblaas, niere, skelet, bloed en
+   kwaadaardige gewasse.
+
+   In Immunosintografie word Tc-99m in 'n monoklone teenliggaam ('n tipe
+   proteïn van die immuniteitstelsel) geïnkorporeer wat in staat is om aan
+   kankerselle te verbind. 'n Paar ure na inspuiting kan mediese
+   toerusting gebruik word om die gammastraling wat deur Tc-99m
+   uitgestraal word op te spoor. Daar waar die stralingsdigtheid hoër is,
+   is waar die kanker teenwoordig is. Hierdie tegniek is veral nuttig vir
+   kankers wat moeilik is om te vind, soos onder andere kanker wat die
+   ingewande aantas. Hierdie veranderde teenliggame word deur die Duitse
+   maatskappy Hoechst onder die handelsmerk Scintium verkoop.
+
+   Wanneer Tc-99m gekombineer word met 'n tinverbinding bind dit ook aan
+   rooibloedselle en word daarom gebruik om 'n prent te vorm oor die
+   afwykings in die bloedsomloopstelsel. 'n pirofosfaatioon met Tc-99m
+   verbind aan kalsium neerslae in beskadigde hartspiere, wat dit dus
+   nuttig maak om die omvang van die skade wat deur 'n hartaanval
+   veroorsaak is, vas te stel. Die swael-kolloïde van Tc-99m word deur die
+   milt geabsorbeer wat dit moontlik maak om 'n afbeelding van die
+   struktuur van dié orgaan te maak.
+
+   Blootstelling aan straling vanweë diagnostiese behandelings wat Tc-99m
+   bevat kan laag gehou word. Terwyl Tc-99m nogal hoogs radio-aktief is
+   (wat dit moontlik maak om klein hoeveelhede maklik op te spoor) het dit
+   'n kort halfleeftyd wat verval na die minder reaktiewe Tc-99. In die
+   vorm waarin dit tydens bogenoemde mediese toetse toegedien word
+   (gewoonlik pertegnaat) word beide hierdie isotope vinnig deur die
+   liggaam uitgeskei (gewoonlik binne 'n kwessie van 'n paar dae).
+
+[wysig] Nywerheid
+
+   Onder sekere omstandighede kan 'n klein konsentrasie (5×10^-5 M van die
+   pertegnaat ioon in water yster en staal teen korrosie beskerm.
+   CrO[4]^2- kan ook hierdie funksie verrig maar word in konsentrasies
+   vereis wat tien keer so hoog kan wees. In 'n eksperiment wat uitgevoer
+   is, het 'n monster wat in 'n waterige oplossing van pertegnaat vir 20
+   jaar lank laat staan is, heeltemal ongekorrodeer gebly. Die meganisme
+   waarop die pertegnaat ioon teen korrosie beskerm word nie goed verstaan
+   nie, maar dit wil voorkom asof dit iets met die omkeerbare vorming van
+   'n dun oppervlaklagie te doen het. Die effek verdwyn baie vinnig as die
+   konsentrasie van pertegnaat onder die minimum konsentrasie val of as
+   die konsentrasie van ander ione te hoog word. Die radio-aktiewe aard
+   van tegnesium ( 3 MBq per liter teen die vereiste konsentrasies) maak
+   die metode van korrosiebeskerming onprakties in die meeste gevalle.
+
+   Soos renium en palladium, kan tegnesium ook as 'n katalis dien. Vir
+   seker reaksies, byvoorbeeld die dehidrogenasie van isopropielalkohol,
+   is dit by verre 'n meer effektiewe katalis as renium of palladium.
+   Natuurlik is die radio-aktiwiteit daarvan 'n hindernis tot die veilige
+   benutting van hierdie eienskappe.
+
+   Tegnesium-99 verval bykans geheel en al deur beta-verval, met die
+   uitstraling van beta partikels met eenvormige lae energie en geen
+   gepaardgaande gammastrale nie. Meerendeels beteken sy baie lang
+   halfleeftyd dat die emissie baie stadig met tyd afneem. Dit kan ook in
+   hoë chemiese en isotopiese suiwerheid uit radio-aktiewe afval onttrek
+   word. Dis om hierdie rede dat dit 'n NIST standaard beta-emitter is vir
+   gebruik in die kalibrasie van toerusting.
+
+   Tc-95 met 'n halfleeftyd van 61 dae, word gebruik as 'n radio-aktiewe
+   spoorder om die beweging van tegnesium in plant- en dierestelsels in
+   die omgewing te bestudeer.
+
+[wysig] Geskiedenis
+
+[wysig] Soektog voor die ontdekking
+
+   Dmitri Mendelejev het tegnesium se eienskappe voorspel voordat dit
+   ontdek is.
+   Dmitri Mendelejev het tegnesium se eienskappe voorspel voordat dit
+   ontdek is.
+
+   'n Aantal jare lank het daar 'n gaping in die periodieke tabel tussen
+   molibdeen (element 42) en rutenium (element 44) bestaan. Baie vroeëre
+   navorsers was ywerig om eerste te wees om die ontbrekende element te
+   ontdek en te benoem; die ligging daarvan op die tabel het daarop gedui
+   dat dit makliker sou wees om die element te ontdek as wat die ander
+   onbekende elemente sou wees. Daar is eers gereken dat dit in
+   platinumerts in 1828 gevind is. Die ontdekking is polinium genoem maar
+   daar is later vasgestel dat dit slegs onsuiwer iridium is wat ontdek
+   is. Daarna is daar in 1846 beweer dat 'n nuwe element ilmenium ontdek
+   is, maar daar is toe later vasgestel dat die stof slegs onsuiwer
+   niobium was. Hierdie fout is in 1847 herhaal met die 'ontdekking' van
+   pelopium. Dmitri Mendelejev het voorspel dat hierdie vermiste element
+   chemiese eienskappe soortgelyk aan die van mangaan sou hê en dit
+   ekamangaan genoem (sien Elemente deur Mendelejev voorspel.
+
+   In 1877 het die Russiese chemikus Serge Kern die ontdekking van die
+   vermiste element in platinumerts gerapporteer. Kern het wat hy gedink
+   het die nuwe element was davyum genoem ter ere van die bekende Engelse
+   chemikus Sir Humphry Davy, maar daar is ook later vasgestel dat hierdie
+   stof 'n mengsel van iridium, rodium en yster was. 'n Ander kandidaat,
+   lucium, het in 1896 gevolg maar daar is toe vasgestel dat dit yttrium
+   was. Toe is daar in 1908 bewyse gevind deur die Japannese chemikus
+   Masataka Ogawa wat volgens hom gedui het op die teenwoordigheid van die
+   element in die mineraal thorianiet. Ogawa het toe die element nipponium
+   (van Nippon wat Japan in Japannees beteken). Latere ondersoeke het
+   egter aan die lig gebring dat dit renium (element 75) was en nie
+   element 43 nie.
+
+[wysig] Betwisde ontdekking van 1925
+
+   Die Duitse chemici Walter Noddack, Otto Berg en Ida Tacke (later Mev.
+   Noddack) het die ontdekking van element 43 in 1925 aangekondig en dit
+   masurium genoem. Die groep het columbiet met 'n elektrone bombardeer en
+   uit die X-straal diffraksie spektrogram afgelei dat die element daarin
+   teenwoordig was. Die golflengte van die X-strale wat ontstaan toon 'n
+   verband met die atoomgetal volgens 'n formule wat deur Henry Moseley
+   afgelei is. Die span het beweer dat hulle 'n flou X-straal sein bespeur
+   het wat deur element 43 veroorsaak is. Hul tydgenote kon egter nie die
+   eksperiment herhaal nie en is dit vir baie jare as 'n fout afgemaak.
+
+   Dis eers in 1998 dat die verwerping van hulle eis bevraagteken is. John
+   T. Armstrong van die National Institute of Standards and Technology in
+   die V.S.A het rekenaarsimulasies gedoen van die eksperimente en
+   resultate verkry wat noue ooreenstemming met die resultate van die 1925
+   span getoon het; David Curtis van die Los Alamos National Laboratory
+   het ook baie klein hoeveelhede tegnesium wat natuurlik voorkom, gemeet.
+   Die ontdekking word egter steeds betwis.
+
+[wysig] Amptelike ontdekking en latere geskiedenis
+
+   Emilio Segrè was 'n mede-ontdekker van tegnesium.
+   Emilio Segrè was 'n mede-ontdekker van tegnesium.
+
+   Die ontdekking van element 43 word tradisioneel toegeskryf aan 'n
+   eksperiment in 1937 in Sisilië wat deur Carlo Perrier en Emilio Segrè
+   uitgevoer is. Die navorsers van die Universiteit van Palermo het die
+   tegnesium-isotoop Tc-97 in 'n monster van molibdeen waargeneem, wat
+   Ernest Lawrence 'n jaar tevore aan Segrè gegee het. Die monster is
+   voorheen oor 'n tydperk van verskeie maande met deuteriumkerne
+   gebombardeer by die siklotron van die Universiteit van Kalifornië,
+   Berkeley. Die Universiteit van Palermo wou hê dat die element panormium
+   gedoop word, maar daar is toe uiteindelik besluit om die element
+   tegnesium te noem aangesien dit die eerste kunsmatig vervaardigde
+   element was.
+
+   In 1952 het die sterrekundige Paul Merril in Kalifornië die
+   spektraalafdruk van tegnesium in die lig van S-tipe rooi-reuse
+   waargeneem. Hierdie massiewe sterre naby aan die einde van hulle
+   lewensiklus was ryk in die element met sy kort lewensduur, wat beteken
+   dat kernreaksies in die sterre dit moes vervaardig het. Hierdie
+   waarneming is gebruik om die toe onbevestigde teorie dat sterre die
+   plek is waar swaar elemente vervaardig word, te versterk. Meer onlangs
+   het dit ook as bewys gedien dat elemente gevorm word deur die
+   neutronvangs in die s-proses.
+
+   Sedert die ontdekking daarvan was daar baie pogings om die element in
+   natuurlike aardse bronne op te spoor. In 1962 is tegnesium-99 in klein
+   hoeveelhede (ongeveer 0.2 ng/kg) geïsoleer en geïdentifiseer in
+   pikblende uit die Belgiese Kongo (hedendaagse DRK); dit ontstaan in
+   hierdie mineraal as 'n spontane fisie-produk van uraan-238. Hierdie
+   ontdekking is deur B.T. Kenna en P.K. Kuroda gemaak.
+
+[wysig] Verspreiding
+
+   Aangesien tegnesium onstabiel is, kom slegs spoorhoeveelhede natuurlik
+   in die aarde se kors voor as 'n vervalproduk van uraan. In 1999 het
+   David Curtis (sien hierbo) beraam dat 'n kilogram uraan minder as 1
+   nanogram (1×10^-9 g) tegnesium bevat.
+
+[wysig] Vervaardiging
+
+   In teenstelling met sy uiters beperkte natuurlike voorkoms, word
+   massahoeveelhede tegnesium-99 elke jaar vanuit uitgeputte
+   kernbrandstofstawe herwin. Die fisie van 'n gram uraan-235 in
+   kernreaktore lewer 27 mg Tc-99, wat aan tegnesium 'n
+   splitsingsrendement van 6.1% gee.
+
+   Daar is na raming tot en met 1994 ongeveer 49 000 TBq (78 metrieke ton)
+   tegnesium in kernreaktore vervaardig. Slegs 'n klein hoeveelheid
+   hiervan word kommersieel benut. Tegnesium is vanaf 2005 aan houers van
+   'n ORNL-permit teen 'n prys van $83/g beskikbaar (verpakkingskostes
+   uitgesluit).
+
+   Die produksieproses van tegnesium-99 vanuit uitgeputte kernstawe is 'n
+   omslagtige proses. Tydens die herverwerking van die kernbrandstof, kom
+   dit in die uitvloeisel voor, wat hoogs radio-aktief is. Wanneer dit vir
+   'n paar jaar laat staan word, val die radio-aktiwiteit tot so 'n mate
+   dat die onttrekking van die langlewende isotope, wat tegnesium-99
+   insluit, lewensvatbaar word.
+
+   Die metastabiele (waar die kern in 'n opgewekte toestand verkeer)
+   isotoop Tc-99m word as 'n byproduk van die splitsing van uraan in
+   kernreaktore vervaardig. Molibdeen (Mo) wat 'n groot hoeveelheid
+   Tc-99m, moederisotoop Mo-99 bevat, word vanuit die reaktor se
+   radio-aktiewe afval onttrek en aan hospitale verkoop. Molibdeen-99 het
+   'n halfleeftyd van 67 ure, dus word die kort leeftyd tegnesium-99m
+   (halfleeftyd: 6 ure), wat 'n vervalproduk is, voortdurend geproduseer.
+   Hospitale onttrek dan die tegnesium uit die oplossing deur van 'n
+   tegnesium-99m opwekker ("tegnesium koei") gebruik te maak.
+
+   Ander tegnesium isotope word nie in noemenswaardige hoeveelhede deur
+   splitsing vervaardig nie; indien hulle benodig word, word hulle
+   vervaardig deur die neutronbestraling van moederisotope (byvoorbeeld,
+   Tc-97 word gemaak deur die neutronbestraling van Ru-96).
+
+[wysig] Deel van radio-aktiewe afval
+
+   Aangesien tegnesium-99 'n hoofproduk is van kernfisie van beide
+   uraan-235 en plutonium-239, is dit teenwoordig in radio-aktiewe afval
+   van fisie reaktore en word vervaardig wanneer 'n fisie-bom ontplof. Die
+   hoeveelheid kunsmatig vervaardigde tegnesium in die omgewing oortref
+   die natuurlike bronne tot 'n groot mate. Dit is die gevolg van die
+   atmosferiese kerntoetse asook die wegdoen en prosessering van hoë-vlak
+   radio-aktiewe afval. Vanweë sy hoë splitsingsrendement en relatief hoë
+   halfleeftyd, maak tegnesium-99 'n groot deel van kernafval uit. Die
+   verval daarvan, gemeet in becquerel per hoeveelheid uitgeputte
+   brandstof, is nog hoog tot ongeveer 10^4 tot 10^6 jaar na die skep van
+   die kernafval.
+
+   Na raming is ongeveer 160 TBq (ongeveer 250 kg) tegnesium-99 in die
+   omgewing vrygestel tydens atmosferiese kerntoetse tot en met 1994. Die
+   hoeveelheid tegnesium-99 vanaf kernreaktore wat tot en met 1986 in die
+   omgewing vrygestel is word geraam op ongeveer 1000 Tbq (ongeveer 1600
+   kg), primêr as gevolg van die herprossesering van kernbrandstof; die
+   meeste hiervan het in die see beland. Die herprosesseringsmetodes het
+   in die afgelope paar jare verbeter en is uitvloeisels heelwat
+   verminder, maar in 2005 word daar steeds deur die Sellafield aanleg
+   uitvloeisel in die Ierse see gestort. Tussen 1995-1999 is soveel as 550
+   Tbq (ongeveer 900 kg) vrygestel en sedert 2000 word die jaarlikse
+   hoeveelheid deur regulasies beperk tot 90 Tbq (ongeveer 140 kg).
+
+   As gevolg van die herprosessering van kernafval, is tegnesium op
+   verskeie plekke reeds in die see gestort en bevat sommige seekosse
+   klein, maar meetbare hoeveelhede. Kreef uit Wes-Cumbria bevat
+   byvoorbeeld klein hoeveelhede tegnesium.
+
+   Die lang halfleeftyd van tegnesium-99 maak die langtermyn stoor van
+   hoëvlak radio-aktiewe afval 'n groot kopseer. Tans word dit in
+   geologies stabiele rotsformasies gestoor. Die primêre gevaar wat
+   hierdie metode inhou is dat die afval met grondwater in kontak kan kom,
+   waar die radio-aktiewe afval dan na die omgewing kan uitloog. Dit is om
+   hierdie rede dat die omgewingschemie van tegnesium 'n aktiewe
+   navorsingsveld is. 'n Alternatiewe verwyderingsmetode, transmutasie,
+   werk goed met tegnesium-99.
+
+[wysig] Isotope
+
+   Tegnesium is een van twee elemente in die eerste 83 wa geen stabiele
+   isotope het nie (die ander een is promethium. Die mees stabiele
+   radio-isotoop is Tc-98 met 'n halfleeftyd van 4.2 miljoen jaar, Tc-97
+   (halfleeftyd:2.6 miljoen jaar) en Tc-99 (halfleeftyd:211 100 jaar).
+
+   Twee en twintig ander radio-isotope met atoommassas wat wissel van
+   87.933 ame (Tc-88) tot en met 112.931 ame (Tc-113) is al geëien. Die
+   meeste hiervan het halfleeftye van minder as 'n uur; met uitsondering
+   van Tc-93 (2.75 uur), Tc-94 (293 minute), Tc-95 (20 uur) en Tc-96 (4.28
+   dae).
+
+   Tegnesium het ook verskeie meta-toestande. Tc-97m is die mees stabiele,
+   met 'n halfleeftyd van 90.1 dae (0.097 MeV). Dit word gevolg deur
+   Tc-95m (halfleeftyd: 61 dae, 0.038 MeV) en Tc-99m (halfleeftyd: 6.01
+   uur, 0.143 MeV). Tc-99m straal slegs gammastrale uit en verval na
+   Tc-99.
+
+   Vir isotope ligter as die mees stabiele isotoop, Tc-98, is die primêre
+   vervalmodus die van elektronvangs, met molibdeen as produk. Met die
+   swaarder isotope, is beta-emissie, met die produksie van rutenium die
+   hoofmodus, met die uitsondering van Tc-100 wat deur beide beta-emissie
+   en elektronvangs verval.
+
+   Tegnesium-99 is die mees geredelik beskikbare isotoop aangesien dit 'n
+   hoofproduk is van die splitsing van uraan-235. Een gram Tc-99
+   veroorsaak 6.2×10^8 disintegrasies 'n sekonde (d.w.s. 0.62 GBq/g).
+
+[wysig] Stabiliteit van Tegnesium isotope
+
+   Tegnesium en promethium is merkwaardig onder die ligte elemente in die
+   sin dat hulle geen stabiele isotope het nie. Die rede daarvoor is egter
+   ietwat kompleks.
+
+[wysig] Voorsorgmaatreëls
+
+   Alle isotope van tegnesium is radio-aktief maar die element en sy
+   verbindings is uiters skaars in die natuur. Tegnesium speel geen
+   belangrike biologiese rol nie en word normaalweg nie in die menslike
+   liggaam aangetref nie.
+
+   Tegnesium word in groot hoeveelhede deur kernsplitsing vervaardig en
+   versprei meer geredelik as enige ander radio-isotope. Ten spyte daarvan
+   dat dit belangrik is om die toksisiteit daarvan op mens en dier te
+   verstaan, bestaan daar bittermin inligting. Dit wil voorkom asof die
+   toksisiteit laag is.
+
+   Wanneer daarmee in die laboratorium gewerk word, moet alle isotope van
+   tegnesium met sorg hanteer word. Die mees algemene isotoop,
+   tegnesium-99, is 'n swak beta-emitter; hierdie straling word deur mure
+   en glas afgeskerm. Sagte X-strale word uitgestraal wanneer hierdie
+   beta-partikels gestop word, maar as die liggaam verder as 30 cm daarvan
+   weggehou word behoort dit nie 'n probleem te veroorsaak nie. Die
+   primêre gevaar wanneer daar met tegnesium gewerk word is die inaseming
+   van die stof; sodanige radio-aktiewe kontaminasie in die longe kan 'n
+   beduiende kankerrisiko inhou. Vir die meeste werk is versigtige
+   hantering in 'n dampkas voldoende; 'n handskoenkas word nie benodig
+   nie.
+
+[wysig] Verwysings
+
+     * The Encyclopedia of the Chemical Elements, redakteur Cifford A.
+       Hampel, "Technetium"-inskrywing deur S. J. Rimshaw (New York;
+       Reinhold Book Corporation; 1968; pp. 689-693) Library of Congress
+       Catalog Card Number: 68-29938
+     * Nature's Building Blocks: An A-Z Guide to the Elements, deur John
+       Emsley (New York; Oxford University Press; 2001; bladsye 422-425)
+       ISBN 0-19-850340-7
+     * Los Alamos National Laboratory – Technetium (besoek op 1 Desember
+       2002 en 22 April 2005)
+     * WebElements.com "Technetium" Uses (besoek op 1 Desember 2002 en 22
+       April 2005)
+     * EnvironmentalChemistry.com Nuclides / Isotopes (besoek op 1
+       Desember 2002 en 22 April 2005)
+     * Elentymolgy and Elements Multidict deur Peter van der Krogt,
+       "Technetium" (besoek op 30 April 2005; laas opgedateer op 10 April
+       2005 )
+     * History of the Origin of the Chemical Elements and Their
+       Discoverers deur Norman E. Holden (besoek op 30 April 2005 ; laas
+       opgedateer op 12 Maart 2004)
+     * Technetium as a Material for AC Superconductivity Applications
+       (PDF) der S. H. Autler, Proceedings of the 1968 Summer Study on
+       Superconducting Devices and Accelerators
+     * Technetium heart scan, Dr. Joseph F. Smith Medical library (besoek
+       op 23 April 2005)
+     * Gut transfer and doses from environmental technetium, J D Harrison
+       et al 2001 J. Radiol. Prot. 21 9-11, Redaksioneel (op uitnodiging)
+     * Ida Tacke and the warfare behind the discovery of fission, deur
+       Kevin A. Nies (besoek op 23 April 2005)
+     * TECHNETIUM deur John T. Armstrong (besoek op 23 Apr 2005)
+     * Technetium-99 Behaviour in the Terrestrial Environment - Field
+       Observations and Radiotracer Experiments, Keiko Tagami, Journal of
+       Nuclear and Radiochemical Sciences, Vol. 4, nr.1, pp. A1-A8, 2003
+     * Type 2 superconductors (besoek op 23 April 2005)
+     * The CRC Handbook of Chemistry and Physics, 85ste uitgawe,
+       2004-2005, CRC Press
+     * K. Yoshihara, "Technetium in the Environment" in "Topics in Current
+       Chemistry: Technetium and Rhenium", vol. 176, K. Yoshihara and T.
+       Omori (eds.), Springer-Verlag, Berlin Heidelberg, 1996.
+     * Schwochau, Klaus, Technetium, Wiley-VCH (2000), ISBN 3-527-29496-1
+     * RADIOCHEMISTRY and NUCLEAR CHEMISTRY, Gregory Choppin, Jan-Olov
+       Liljenzin, and Jan Rydberg, 3de uitgawe, 2002, *the chapter on
+       nuclear stability (PDF)
+
+   WebElements.com – Technetium, and EnvironmentalChemistry.com –
+   Technetium volgens die riglyne by Wikipedia's WikiProject Elements
+   (almal besoek op 1 Desember 2002)
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Technetium
+     * EnvironmentalChemistry.com – Technetium
+     * pubs.acs.org – ACS artikel oor die geldigheid van Noddack en Tacke
+       se ontdekking
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorieë: Chemiese elemente • Oorgangselemente
+

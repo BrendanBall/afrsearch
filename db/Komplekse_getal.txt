@@ -1,0 +1,45 @@
+Komplekse getal
+
+
+   'n komplekse getal kan visueel voorgestel word as 'n getalpaar wat 'n
+   vektor vorm op 'n diagram wat 'n Arganddiagram genoem word
+   'n komplekse getal kan visueel voorgestel word as 'n getalpaar wat 'n
+   vektor vorm op 'n diagram wat 'n Arganddiagram genoem word
+
+   In wiskunde is 'n komplekse getal 'n getal wat formeel gedefinieer kan
+   word as 'n 'n geordende paar reële getalle (a,b), wat baiekeer geskryf
+   word as:
+
+          a + bi \,
+
+   waar i^2 = −1.
+
+   Komplekse getalle het optelling, aftrekking, vermenigvuldiging en
+   deling bewerkings gedefinieer, met gedrag wat 'n streng superset van
+   reële getalle is en wat verder ander elegante en nuttige eienskappe
+   het. Noemenswaardig onder die eienskappe is dat negatiewe reële getalle
+   verkry kan word deur komplekse getalle te kwadreer.
+
+   Komplekse getalle is uitgevind toe daar ontdek is dat die oplos van
+   sommige kubiese vergelykings intermediêre berekeninge benodig het wat
+   die vierkantswortel van negatiewe getalle bevat het, selfs as die
+   finale oplossings reële getalle was. Verder, uit die fundamentele
+   stelling van algebra, beteken die gebruik van komplekse getalle as die
+   getalveld vir polinomiale algebraïese vergelykings dat oplossings altyd
+   bestaan. Die versameling komplekse getalle vorm 'n algebraïes geslote
+   veld, in kontras met die versameling reële getalle wat nie algebraïes
+   geslote is nie.
+
+   Komplekse getalle word in 'n eindelose aantal verskillende velde
+   gebruik, insluitend ingenieurswese, elektromagnetisme, kwantum fisika,
+   toegepaste wiskunde, en chaosteorie. Veral in wiskunde beteken die
+   byvoeglike naamwoord "kompleks" dat die onderliggende getal veld die
+   komplekse getalle is, byvoorbeeld komplekse analise, komplekse matriks,
+   komplekse polinomiaal en komplekse Lie algebra.
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorieë: Wiskunde saadjies • Komplekse getalle • Elementêre wiskunde
+   • Komplekse analise
+

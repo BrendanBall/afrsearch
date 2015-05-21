@@ -1,0 +1,57 @@
+Moore se wet
+
+
+   Groei in die transistortelling in Intel-mikroverwerkers vergeleke met
+   Moore se wet (vertikale skaal is logaritmies
+   Groei in die transistortelling in Intel-mikroverwerkers vergeleke met
+   Moore se wet (vertikale skaal is logaritmies
+
+   Moore se wet beskryf 'n belangrike neiging in die geskiedenis van
+   rekenaars: die aantal transistors wat ekonomies op 'n geïntegreerde
+   stroombaan geplaas kan word, vermeerder eksponensiëel met 'n
+   verdubbeling elke twee jaar.^[1]
+
+   Die waarneming is vir die eerste keer deur die medestigter van Intel,
+   Gordon Moore gemaak in 'n publikasie in 1965.^[2]^[3]^[4] Hierdie
+   neiging het voortgeduur vir meer as 'n halfeeu en daar word voorspel
+   dat dit sal voortduur vir ten minste nog 'n dekade indien nie langer
+   nie.^[5]
+
+   Byna alle maatstawwe van die vermoeëns van digitale elektroniese
+   toestelle hou verband met Moore se wet: verwerkingsnelheid,
+   geheuekapasiteit en selfs die resolusie van digitale kameras. Al
+   hierdie maatstawwe is ook besig om rofweg eksponensieël te verbeter.
+   Dit het meegebring dat nutswaarde van digitale elektronika dramaties
+   toegeneem het in bykans elke segment van die wêreldekonomie.^[6] Moore
+   se wet beskryf die dryfveer agter die tegnologiese- en sosiale
+   veranderinge wat in die laat 20^ste en 21^ste voorgekom het.
+
+[wysig] Verwysings
+
+    1. ^ Aanvanklik was die veronderstelling dat die verdubbeling elke
+       jaar plaasvind, [1] Moore het dit egter later herskryf as 'n twee
+       jaar periode.[2].
+    2. ^ Gordon E. Moore, 1965,
+       ftp://download.intel.com/museum/Moores_Law/Articles-Press_Releases/
+       Gordon_Moore_1965_Article.pdf, Cramming more components onto
+       integrated circuits, bladsy 4, Electronics Magazine, Nagegaan op 11
+       November 2006
+    3. ^ 2005,
+       ftp://download.intel.com/museum/Moores_Law/Video-Transcripts/Except
+       s_A_Conversation_with_Gordon_Moore.pdf, Uitreksels van 'n gesprek
+       met Gordon Moore oor Moore se Wet, bladsy 1, Intel Corporation,
+       nagegaan op 2 Mei 2006
+    4. ^
+       http://www.computerhistory.org/semiconductor/timeline/1965-Moore.ht
+       ml, 1965 - “Moore's Law” Predicts the Future of Integrated
+       Circuits, Computer History Museum, nagegaan in November 2007
+    5. ^ http://news.com.com/2100-1001-984051.html|title= Moore's law to
+       roll on for another decade, 10 Februarie 2003, Michael Kanellos,
+       cnet
+    6. ^ Jonathan Rauch,
+       http://www.theatlantic.com/issues/2001/01/rauch.htm, The New Old
+       Economy: Oil, Computers, and the Reinvention of the Earth, The
+       Atlantic Monthly, 1 Januarie 2001
+
+   Kategorie: Tegnologie
+

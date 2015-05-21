@@ -1,0 +1,186 @@
+Spoed van klank
+
+
+   Die spoed van klank varieer afhangende van die medium waardeur die
+   klankgolwe beweeg. Dit word gewoonlik aangehaal wanneer die eienskappe
+   van stowwe bespreek word (sien bv. artikel oor natrium).
+
+   Die meer algemene gebruik van die term verwys gewoonlik na die spoed
+   van klank in lug. Die spoed in lug varieer afhangende van die
+   atmosferiese toestande; waarvan temperatuur die belangrikste faktor is.
+   Die humiditeit (voggehalte) se effek op die spoed van klank is baie
+   min, terwyl die statiese klankdruk (lugdruk) geen invloed het nie.
+   Klank beweeg stadiger hoe hoër 'n mens in die atmosfeer opbeweeg,
+   hoofsaaklik vanweë die temperatuur en humiditeitsveranderinge. 'n
+   Benaderde spoed (in meter per sekonde) kan as volg bereken word:
+
+          c_{\mathrm{lug}} = (331{.}5 + (0{.}6 \cdot \theta)) \
+          \mathrm{m/s}\,
+
+   waar \theta\, (theta) die temperatuur in grade Celsius is.
+
+   'n Akkurater vergelyking is
+
+          c = \sqrt {\kappa \cdot R\cdot T}
+
+   waar
+
+          R (287.05 J/(kg·K) vir lug) die universele gaskonstante is. (In
+          hierdie geval, is die gaskonstante R, wat gewoonlik die eenhede
+          J/(mol·K) het, gedeel met die molêre massa van lug, 'n algemene
+          praktyk in aerodinamika)
+          κ (kappa) die adiabatiese indeks (1.402 vir lug) is.
+          T die absolute temperature in kelvin is.
+
+   In die standaard atmosfeer is die spoed van klank by:
+
+   T = 273.15 K (= 0 °C), gelyk aan 331.5 m/s (= 1193 km/h).
+   T = 293.15 K (= 20 °C), gelyk aan 343.4 m/s = 1236 km/h).
+   T = 298.15 K (= 25 °C), gelyk aan 346.3 m/s (= 1246 km/h).
+
+   waar T = temperatuur.
+
+   As die aanname van 'n ideale gas gemaak word, hang die spoed van klank
+   uitsluitlik af van die temperatuur af en nie van druk af nie. Lug is
+   byna 'n ideale gas. Die temperatuur van lug varieer met hoogte, wat die
+   volgende veranderinge in die spoed van klank meebring in 'n
+   standaardatmosfeer - werklike waarnemings kan dus effe verskil.
+
+   Hoogte                                       Temperatuur m/s km/h
+   Seevlak                                      15 °C       340 1225
+   11,000 m–20,000 m
+   (Hoogte waarteen kommersiële stralers vlieg) -57 °C      295 1062
+   29,000 m                                     -48 °C      301 1083
+
+   In 'n nie-verspreidende medium is die spoed van klank onafhanklik van
+   die frekwensie en daarom is die spoed waarteen energie en klank
+   oorgedra word dieselfde. Lug is 'n nie-verspreidende medium.
+
+   In 'n verspreidende medium is die spoed van klank afhanklik van die
+   frekwensie en daarom sal die ruimtelike- en tydsverspreiding van 'n
+   versteuring aanhoudend verander. Elke frekwensie word teen sy eie spoed
+   voortgeplant terwyl die energie van die versteuring teen die
+   groepsnelheid voortgeplant word. Water is 'n voorbeeld van so 'n
+   verspreidende medium.
+
+   In die algemeen word die spoed van klank gegee deur
+
+          c = \sqrt{\frac{C}{\rho}}
+
+   waar
+
+          C die styfheidskoëffisiënt is.
+          ρ die digtheid is.
+
+   Die spoed van klank neem dus toe soos die materiaal se styfheid toeneem
+   en neem af soos die digtheid toeneem.
+
+   In 'n vloeier bestaan die begrip styfheid slegs t.o.v. volumetriese
+   vervorming. ('n Vloeier kan nie skuifspanning weerstaan nie).
+
+   Daarom word die spoed van klank in 'n vloeier as volg bereken
+
+          c = \sqrt {\frac{K}{\rho}}
+
+   waar
+
+          K die adiabatiese massamodulus is.
+
+   Vir 'n gas is, K ongeveer gelyk aan
+
+          K=\kappa \cdot p
+
+   waar
+
+          κ die adiabatiese indeks is.
+          p die druk is.
+
+   Dus kan die spoed van klank vir 'n gas as volg bereken word:
+
+          c = \sqrt {{\kappa \cdot p}\over\rho}
+
+   wat vir 'n ideale gas vereenvoudig na:
+
+   c = \sqrt {\kappa \cdot R\cdot T}
+
+   In 'n vastestof is daar 'n styfheid groter as nul vir volumetriese
+   asook skuifvervormings. Dus is dit moontlik dat klankgolwe met
+   verskillende snelhede gegenereer kan word na aanleiding van die
+   vervormingsmetode.
+
+   In 'n soliede staaf (met 'n dikte wat kleiner is as die golflengte)
+   word die spoed van klank gegee deur:
+
+          c = \sqrt{\frac{E}{\rho}}
+
+   waar
+
+          E Young se modulus is
+          ρ (rho) die digtheid is.
+
+   So is die spoed van klank in staal dus ongeveer gelyk aan 5100 m/s.
+
+   In 'n vastestof met laterale afmetings wat veel groter is as die
+   golflengte, is die spoed van klank hoër. Die spoed word bereken deur
+   Young se modulus met die vlakgolfmodulus te vervang wat op sy beurt
+   uitgedruk kan word in terme van Young se modulus en Poisson se
+   verhouding as volg:
+
+          M = E \frac{1-\nu}{1-\nu-2\nu^2}
+
+   Die spoed van klank in water is van belang vir mense wat byvoorbeeld
+   die bodem van die oseaan karteer. In soutwater beweeg klank teen
+   ongeveer 1500 m/s en in varswater teen 1435 m/s. Hierdie snelhede
+   varieer na aanleiding van die druk, diepte, temperatuur, soutgehalte en
+   ander faktore.
+
+   Vir algemene toestandsvergelykings, as klassieke meganika ingespan
+   word, word die spoed van klank gegee deur:
+
+          c^2=\frac{\partial p}{\partial\rho}
+
+   waar daar met betrekking to die adiabatiese verandering gedifferensieër
+   word.
+
+   Indien relatiwistiese effekte belangrik is, word die spoed van klank S
+   gegee deur:
+
+          S^2=c^2 \left. \frac{\partial p}{\partial e} \right|_{\rm
+          adiabaties}
+
+   (Neem kennis dat e= \rho (c^2+e^C) \, die relatiwistiese interne
+   energiedigtheid is; sien ook relatiwistiese Euler vergelykings).
+
+   Die vergelyking verskil van die klassieke geval deurdat ρ vervang is
+   deur e/c^2 \, .
+
+   Tabel: - Spoed van klank in lug c, dighteid van lug ρ en akoestiese
+   impedansie Z teenoor temperatuur °C
+               Impak van temperatuur
+   \theta\, in °C c in m/s ρ in kg/m³ Z in N·s/m³
+    -10           325.4    1.341      436.5
+     -5           328.5    1.316      432.4
+      0           331.5    1.293      428.3
+     +5           334.5    1.269      424.5
+   +10            337.5    1.247      420.7
+   +15            340.5    1.225      417.0
+   +20            343.4    1.204      413.5
+   +25            346.3    1.184      410.0
+   +30            349.2    1.164      406.6
+
+   Die Mach-getal dui die verhouding van die voorwerp se spoed en die
+   spoed van klank in lug (medium) aan.
+
+[wysig] Kyk ook
+
+     * Klankgrens
+
+[wysig] Eksterne skakels
+
+     * Berekening: Spoed van klank in lug en die temperatuur (Engels)
+     * Die spoed van klank, die temperatuur en ... nie die lugdruk nie
+       (Engels)
+     * Properties Of The U.S. Standard Atmosphere 1976
+
+   Kategorieë: Chemiese eienskappe • Akoestiek
+

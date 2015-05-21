@@ -1,0 +1,108 @@
+Kwaliteitsbestuurstelsel
+
+
+   'n Kwaliteitsbestuurstelsel (KBS) kan gedefinieer word as 'n
+   versameling beleidsverklarings, prosesse en prosedures wat vereis word
+   in die beplanning en uitvoering van (Produksie/ Ontwikkeling / Diens)
+   in die kernaktiwiteit van 'n organisasie. Kwaliteitsbestuurstelsels
+   integreer die verskillende interne prosesse in 'n organisasie en poog
+   om 'n prosesbenadering daar te stel vir projekuitvoering. 'n KBS stel
+   organisasies daartoe in staat om die verskeie kernbesigheidsprosesse te
+   identifiseer, te meet, te beheer en te verbeter en is daarop gemik om
+   uiteindelik te lei tot verbeterde besigheidsprestasie.
+
+   Inhoud
+
+        * 1 Kwaliteitsbegrippe - 'n geskiedkundige agtergrond
+        * 2 Kwaliteitsbestuurorganisasies en toekennings
+        * 3 Verwysings
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Kwaliteitsbegrippe - 'n geskiedkundige agtergrond
+
+   Die begrip van kwaliteit soos ons deesdae daaraan dink het sy oorsprong
+   in die Nywerheidsomwenteling van die 19^de eeu. Voorheen is goedere van
+   begin tot einde deur dieselfde persoon of span mense vervaardig en is
+   handvaardighede gebruik om 'n produk aan te pas om aan
+   'kwaliteitskriteria' te voldoen. Massaproduksie het groot spanne mense
+   saamgebring wat saamgewerk het aan spesifieke stadia van produksies en
+   het dit al hoe minder gebeur dat een persoon 'n produk van begin to
+   einde voltooi het. In die laat 1800's het pioniers op die gebied soos
+   Frederick Winslow Taylor en Henry Ford die gebreke in massaproduksie
+   soos dit op daardie tydstip uitgevoer is en die gevolglike variasies in
+   produkkwaliteit wat dit meegebring het. Taylor het
+   kwaliteitdepartemente gestig oorsig uit te oefen op die kwaliteit van
+   produksie asook die regstel van foute en Ford het klem gelê op die
+   standaardisasie van ontwerp en komponentstandaarde om te verseker dat
+   'n standaardproduk gelewer word. Bestuur van kwaliteit was die
+   verantwoordelikheid van die kwaliteitdepartement en is geïmplementeer
+   deur gelewerde produk te inspekteer om foute te onderskep.
+
+   Die toepas van statistiese beheer is later ingevoer as 'n gevolg van
+   vervaardigingsmetodes tydens die Wêreldoorloë.
+   Kwaliteitsbestuurstelsels is 'n gevolg van die werk wat gedoen is deur
+   W. Edwards Deming, 'n statistikus waarna die Demingprys vir kwaliteit
+   vernoem is.
+
+   Kwaliteit as 'n beroep en die bestuursproses wat met die
+   kwaliteitsfunksie gepaard gaan is tydens die tweede helfte van die
+   20^ste eeu bekendgestel en het sedertien verder ontwikkel.
+
+   Die kwaliteitsberoep het ontwikkel vanaf eenvoudige beheer tot
+   ingenieurswese en vandaar tot stelselsingenieurswese.
+   Kwaliteitsbeheeraktiwiteite het die botoon gevoer in die 1940's, 1950's
+   en 1960's. In die 1970's het die era van kwaliteitsingenieurswese begin
+   en tydens die 1990's is kwaliteitstelsels as 'n nuwe studieveld begin
+   ontluik.
+
+[wysig] Kwaliteitsbestuurorganisasies en toekennings
+
+   Die Internasionale Organisasie vir Standaarde se ISO 9000:2000 reeks
+   beskryf standaarde vir 'n KBS en spreek die beginsels en prosesse aan
+   rakende die ontwerp, ontwikkeling en die lewering van 'n algemene
+   produk of diens. Organisasie kan deelneem aan 'n deurlopende
+   sertifiseringsproses tot ISO 9001:2000 om sodoende hulle voldoening aan
+   die vereistes van die standaard te demonstreer, wat dan ook die
+   vereiste insluit vir 'n deurlopende (d.w.s. beplande) verbetering van
+   die KBS. (ISO 9000:2000 verskaf riglyne oor kwaliteitsbeginsels en die
+   algemene taal wat deur kwaliteitskenners gebruik word. ISO 9004:2000
+   verskaf riglyne oor verbeteringsmetodes. Dit is dus duidelik dat nie
+   een van die twee standaarde gebruik kan word vir
+   sertifiseringsdoeleindes nie, aangesien hulle riglyne verskaf en nie
+   vereiste neerlê nie).
+
+   Die Malcolm Baldridge National Quality Award is 'n kompetisie in die
+   V.S.A wat daarop gemik is om maatskappye daar te identifiseer en
+   erkenning te gee vir top kwaliteit. Hierdie model spreek 'n breë basis
+   van kwaliteitskriteria aan, insluitende kommersiële sukses en
+   korporatiewe leierskap aan.
+
+   Die European Foundation for Quality Management se EFQM Excellence Model
+   ondersteun 'n soortgelyke toekenning vir Europese maatskappye.
+
+   In Kanada ken die National Quality Institute die 'Canada Awards for
+   Excellence' op 'n jaarlikse grondslag toe aan organisasies wat
+   uitstaande prestasies bereik het op die gebied van Kwaliteit en
+   Werksplek Welsyn en ook voldoen het aan die Instituut se kriteria met
+   goed gedokumenteerde prestasies en resultate.
+
+[wysig] Verwysings
+
+     * Pyzdek, T, "Quality Engineering Handbook", 2003, ISBN 0824746147
+     * Godfrey, A. B., "Juran's Quality Handbook", 1999, ISBN 007034003
+
+[wysig] Sien ook
+
+     * Kwaliteitsversekering
+     * Korrektiewe en Voorkomende Aksie
+     * Totale Kwaliteitsbestuur
+     * Kwaliteit
+
+[wysig] Eksterne skakels
+
+     * Baldrige National Quality Program webwerf
+     * ICH se webwerf
+
+   Kategorieë: Kwaliteit • Vervaardiging
+

@@ -1,0 +1,101 @@
+Europese byvreter
+
+
+              Europese byvreter
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Meropidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Merops
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. apiaster
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+               Merops apiaster
+   Linnaeus, 1758
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die Europese byvreter is 'n algemene somer besoeker.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   Word aan sy klein, slanke grootte en helder kleure, nl. geel keel, blou
+   bors en bruin bo-rug en geel-laer rug uitgeken. Die vlerke is groen,
+   blou en bruin met 'n swart bek. Die Europese Byvreter is ongeveer 26
+   tot 28 lank.
+
+[wysig] Habitat
+
+   Bosveld, doringbome en fynbosgebied.
+
+[wysig] Verspreiding
+
+   Kom voor in die meeste van Suidelike-Afrika.
+
+[wysig] Geluid
+
+   Uiter 'n "prrrup"-geluid.
+
+[wysig] Ander name
+
+     * Engels: European Bee-eater
+     * Wetenskaplike naam: Merops apiaster
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Byvreters
+

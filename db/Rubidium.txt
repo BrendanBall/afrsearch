@@ -1,0 +1,228 @@
+Rubidium
+
+
+
+   37                     kripton ← rubidium → strontium
+    K
+   ↑
+   Rb
+   ↓
+   Cs
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal rubidium, Rb, 37
+                                             Chemiese reeks alkalie-metale
+                                              Groep, Periode, Blok 1, 5, s
+                                                          Voorkoms gryswit
+                                              Atoommassa 85.4678 (3) g/mol
+                                            Elektronkonfigurasie [Kr] 5s^1
+                                         Elektrone per skil 2, 8, 18, 8, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 1.532 g/cm³
+                                  Vloeistof digtheid teen s.p. 1.46 g/cm³
+                                                        Smeltpunt 312.46 K
+                                                               (39.31 °C)
+                                                            Kookpunt 961 K
+                                                                 (688 °C)
+                                           Kritieke punt (geëkstrapoleer)
+                                                            2093 K, 16 MPa
+                                               Smeltingswarmte 2.19 kJ/mol
+                                            Verdampingswarmte 75.77 kJ/mol
+                               Warmtekapasiteit (25 °C) 31.060 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 434 486 552 641 769   958
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                      Oksidasietoestande 1
+                                                     (sterk basiese oksied
+                              Elektronegatiwiteit 0.82 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 403.0 kJ/mol
+                                                          2de: 2633 kJ/mol
+                                                         3rde: 3860 kJ/mol
+                                                        Atoomradius 235 pm
+                                                 Atoomradius (ber.) 265 pm
+                                                   Kovalente radius 211 pm
+                                               Van der Waals radius 244 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 128 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 58.2 W/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 1300 m/s
+                                                  Young se modulus 2.4 GPa
+                                                      Massamodulus 2.5 GPa
+                                                      Mohs se hardheid 0.3
+                                                Brinell hardheid 0.216 MPa
+                                              CAS-registernommer 7440-17-7
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van rubidium
+
+                           iso    NV    halfleeftyd  VM    VE (MeV)   VP
+                          ^83Rb sin     86.2 d       ε   -           ^83Kr
+                                                     γ   0.52, 0.53,
+                                                         0.55        -
+                          ^84Rb sin     32.9 d       ε   -           ^84Kr
+                                                     β^+ 1.66, 0.78  ^84Kr
+                                                     γ   0.881       -
+                                                     β^- 0.892       ^84Sr
+                          ^85Rb 72.168% Rb is stabiel met 48 neutrone
+                          ^86Rb sin     18.65 d      β^- 1.775       ^86Sr
+                                                     γ   1.0767      -
+                          ^87Rb 27.835% 4.88×10^10 j β^- 0.283       ^87Sr
+
+                                                                Verwysings
+
+   Rubidium is 'n chemiese element in die periodieke tabel met die simbool
+   Rb en atoomgetal 37. Rb is 'n sagte, silwerwitmetaal in die
+   alkalie-metaalgroep. Rb-87 is 'n isotoop wat natuurlik voorkom en is
+   effe radio-aktief. Rubidium is hoogs reaktief met eienskappe soortgelyk
+   aan die ander groep 1 elemente, soos dat dit spontaan in lug ontbrand.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Biologiese Uitwerking
+        * 8 Verwysings
+
+[wysig] Kenmerkende eienskappe
+
+   Rubidium is die tweede mees elektropositiewe element uit die stabiele
+   alkaliese elemente en kan as 'n vloeistof by kamertemperatuur voorkom.
+   Soos ander groep 1 elemente reageer hierdie metaal spontaan in lug en
+   heftig met water, met die vrystelling van waterstof wat soms ontbrand.
+   Soos ander alkaliemetale vorm dit amalgame met kwik en ook legerings
+   met goud, sesium, natrium en kalium. Die element straal 'n
+   rooierige-pers kleur in 'n vlam uit.
+
+[wysig] Gebruike
+
+   Potensiële of ander teenswoordige gebruike van Rubidium sluit in:
+     * 'n Werksvloeistof in dampturbienes.
+     * In vakuumbuise om oorblywende gasse te verwyder.
+     * As 'n bestandeel van fotoselle.
+     * As die resonante element in atoomhorlosies.
+     * 'n Bestandeel van spesiale glassoorte.
+     * Die vervaardiging van superoksied deur verbrading in suurstof.
+     * In die studie van kalium-ioonkanale in biologie.
+
+   Rubidium word maklik geïoniseer, dus is dit al oorweeg vir gebruik in
+   ioonenjins vir ruimtetuie (sesium en xenon is egter meer doeltreffend
+   vir dié doeleindes).
+
+   Rubidiumverbindings word soms in vuurwerk gebruik om 'n pers kleur
+   daaraan te verleen.
+
+   RbAg[4]I[5] het die hoogste geleidingsvermoë van enige bekende
+   ioonkristalle. Hierdie eienskap kan dalk nuttig wees in die
+   vervaardiging van dun filmbatterye en ander toepassings.
+
+   Dit is ook al oorweeg vir gebruik in 'n termo-elektriese generator wat
+   gebruik maak van die magnetohidrodinamiese beginsel, waar rubidium ione
+   gevorm word deur verhitting by hoë temperature en dan aan 'n magnetiese
+   veld blootgestel word. Hierdie ione gelei elektrisiteit en tree op soos
+   die windings van 'n generator en sodoende ontstaan 'n elektriese
+   stroom.
+
+   Rubidium, veral ^87Rb, in dampvorm is een van die mees gebruikte
+   atoomspesies vir laserverkoelingsdoeleindes en Bose-Einstein
+   kondensasie. Die kenmerke wat dit gewens maak vir hierdie toepassings
+   is die geredelike beskikbaarheid van goedkoop diode laserlig by die
+   relevante golflengte en die laer temperature wat vereis word om 'n
+   beduidende dampdruk te verkry.
+
+   Rubidium word ook gebruik vir die polarisering van ^3He. Gepolariseerde
+   Rb polariseer ^3He deur hiperfyn interaksie. Gepolariseerde ^3He selle
+   word al meer gewilder vir die polarisering van neutrone en ook vir
+   neutronpolarisasie metings.
+
+[wysig] Geskiedenis
+
+   Rubidium (L rubidus, dieprooi) is in 1861 deur Robert Bunsen en Gustav
+   Kirchoff in die mineraal lepidoliet ontdek deur van 'n spektroskoop
+   gebruik te maak. Die element het egter weinig nywerheidsgebruike gehad
+   tot en met die 1920s. Geskiedkundig was die belangrikste gebruik van
+   rubidium in navorsing en ontwikkeling gewees, hoofsaaklik in chemiese
+   en elektroniese toepassings.
+
+[wysig] Verspreiding
+
+   Hierdie element word gereken die 16de mees volopste element in die
+   aarde se kors te wees. Dit kom natuurlik in die minerale leusiet,
+   pollukiet en zinnwaldiet voor, wat almal spoorhoeveelhede tot soveel as
+   1% van die element se oksied bevat. Lepidoliet bevat 1.5% rubidium en
+   is ook dan die kommersiële bron van die element. Sommige
+   kalium-minerale en kaliumchloriedes bevat ook die element in
+   kommersieël betekenisvolle hoeveelhede. Noemenswaardige bronne is ook
+   die groot neerslae van pollukiet by die Bernic meer, Manitoba.
+
+   Rubidium-metaal kan onder andere vervaardig word deur die reduksie van
+   rubidiumchloried met kalsium. Rubidium vorm ten minste vier oksiede:
+   Rb[2]O, Rb[2]O, Rb[2]O[2], Rb[2]O[3], RbO[2].
+
+   In 1997 kon die metaal in klein hoeveelhede teen 'n prys van ongeveer
+   VS $ 25/gram aangekoop word.
+
+[wysig] Isotope
+
+   Daar bestaan 24 isotope van rubidium met slegs twee daarvan wat
+   natuurlik voorkom naamlik Rb-85 (72%) en die radio-aktiewe Rb-87
+   (27.8%). Normale rubidium mengsels is voldoende radio-aktief om
+   fotografiese film 'n mistige voorkoms te gee binne 'n tydperk van 30
+   tot 60 dae.
+
+   Rb-87 het 'n halfleeftyd van 48.8×10^9 jaar. Dit vervang kalium
+   geredelik in minerale en kom daarom betreklik wyd verspreid voor. Rb is
+   al dikwels gebruik in die ouderdomvastelling van rotse; Rb-87 verval na
+   stabiele strontium-87 deur die emissie van 'n negatiewe beta-partikel.
+
+   Tydens fraksionele kristallisasie, neig strontium om in plagioklase
+   gekonsentreer te raak, wat Rb in die vloeistoffase laat. Om hierdie
+   rede sal die Rb/Sr verhouding in magma met tyd verhoog wat ly tot 'n
+   verhoogde Rb/Sr verhouding met toenemende rotsdifferensiasie. Die
+   hoogste verhouding (10 of meer) kom in pegmatiete voor. As die
+   aanvanklike hoeveelheid Sr bekend of geëkstrapoleer kan word, kan die
+   ouderdom bepaal word deur die meting van die Rb en Sr konsentrasies
+   asook die Sr-87/Sr-86 verhouding. Hierdie datums dui die ware ouderdom
+   van die mineraal aan slegs as die rotse nie daarna weer aan verandering
+   blootgestel is nie.
+
+   Die mees algemene verbindings van Rubidium is RbCl, RbF en Rb[2]SO[4].
+
+[wysig] Voorsorgmaatreëls
+
+   Rubidium reageer heftig met water en kan brande veroorsaak. Om beide
+   veiligheid en suiwerheid te verseker moet die element onder 'n droë
+   minerale olie, in 'n vakuum of onder 'n inerte atmosfeer bewaar word.
+
+[wysig] Biologiese Uitwerking
+
+   Rubidium, net soos natrium en kalium, kom byna altyd in sy +1
+   oksidasietoestand voor. Die menslike liggaam neig om Rb^+-ione te
+   hanteer asof hulle kaliumione is en daarom konsentreer Rubidium in die
+   elektrolitiese vloeistowwe van die liggaam. Die ione is nie
+   buitengewoon giftig nie en kan betreklik maklik deur sweet en uriene
+   afgeskei word. Indien dit egter in oormaat ingeneem word kan dit
+   gevaarlik wees.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – se artikel oor Rubidium
+     * Die Engelstalige Wikipedia artikel oor Rubidium
+     * Louis Meites, Handbook of Analytical Chemistry (New York:
+       McGraw-Hill Book Company, 1963)
+
+   Kategorie: Chemiese elemente
+

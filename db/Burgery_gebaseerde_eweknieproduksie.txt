@@ -1,0 +1,94 @@
+Burgery gebaseerde eweknieproduksie
+
+
+   Burgery gebaseerde eweknieproduksie (Engels:Commons-based peer
+   production) is 'n term geskep deur Harvard Regsprofessor Yochai Benkler
+   met die doel om 'n nuwe model van ekonomiese produksie te beskryf
+   waarvolgens die kreatiewe energie van 'n groot groep individue
+   gekoordineer word (gewoonlik met behulp van die internet) in
+   omvangryke, betekenisvolle projekte, meestal sonder tradisionele
+   hiërargiese organisasies of finansiële vergoeding.
+
+   Inhoud
+
+        * 1 Omskrywing van konsep
+        * 2 Voorbeelde
+        * 3 Gevolge
+        * 4 Verwante konsepte
+        * 5 Eksterne skakel
+
+[wysig] Omskrywing van konsep
+
+   Die term word die eerste keer gebruik in Yochai Benkler se artikel
+   Coase’s Penguin.
+
+   Die redes vir individue se deelname word as volg deur hom beskryf:
+   "Mense neem deel in eweknieproduksie gemeenskappe vir 'n wye
+   verskydenheid van intrinsieke en selfbelange redes....basies, mense wat
+   deelneem in eweknieproduksie gemeenskappe hou daarvan. Hulle voel
+   passie oor hul spesifieke area van kundigheid en geniet die vooruitsig
+   om iets nuut of beter te skep."
+
+   Hy vergelyk dit met firmaproduksie (waar 'n gesentraliseerde
+   besluitnemingsproses besluit wat gedoen moet word en deur wie dit
+   gedoen moet word) en markgebaseerde produksie (wanneer verskillende
+   vergoedings van verskillende take dien as 'n aansporing vir enigeen wat
+   belangstel om die werk te doen).
+
+   In 2006 het Benkler ook sy boek The Wealth of Networks gepubliseer, 'n
+   boek wat voortbou op die konsep van burgery gebaseerde
+   eweknieproduksie.
+
+   'n Ander definisie, deur Aaron Krowne (Free Software Magazine) lui dat
+   burgery gebaseerde eweknieproduksie "verwys na enige gekoordineerde,
+   (hoofsaaklik) internet-gebaseerde poging waarvolgens vrywilligers bydra
+   tot 'n projek en waar daar 'n proses bestaan wat ten doel het om hul
+   werk saam te voeg in die produksie van ’n gesamentlike intellektuele
+   produk. Burgery gebaseerde eweknieproduksie sluit in verskillende tipes
+   van intellektuele uitsette van sagteware tot biblioteke van
+   kwantitatiewe data tot menslik leesbare dokumente (handboeke, boeke,
+   ensiklopedië, resensies, webjoenale, tydskrifte, en so meer)."
+
+[wysig] Voorbeelde
+
+   Voorbeelde van produkte geskep deur middel van burgery gebaseerde
+   eweknieproduksie sluit in Linux, 'n rekenaarbedryfstelsel, Slashdot, 'n
+   nuus en aankondiging webwerf; Kuro5hin, 'n besprekingswebwerf vir
+   tegnologie en kultuur; Wikipedia, 'n aanlynensiklopedie; en
+   Clickworkers, 'n gesamentlike wetenskaplike webwerf.
+
+[wysig] Gevolge
+
+   Verskeie onverwagte maar tog nie onvoorsiene gevolge sluit in:
+     * Na bestelling vervaardiging. Deur gebruik te maak van vry en
+       oopbronsagteware kan klein groepe 'n groot projek aanpas na
+       spesifieke behoeftes.
+
+     * Onsterflikheid. Wanneer 'n bronkode eers van kopiereg vrygestel
+       word kan dit nie weer ongedaan gemaak word nie.
+
+     * Kruisbestuiwing. Kenners op 'n veld kan aan meer as een projek werk
+       met geen negatiewe regsimplikasies nie.
+
+     * Tegnologiese opgradering. 'n Basis tegnologie gee aanleiding tot
+       nuwe implementering van bestaande projekte.
+
+     * Tegnologie samevoeging: 'n Groep produkte is geneig om saam te span
+       rondom 'n kern stel van tegnologie en by mekaar geintergreer te
+       word.
+
+[wysig] Verwante konsepte
+
+   Die gemak om deel te word en of 'n projek te verlaat is soortgelyk aan
+   ad hockrasies.
+
+   Die beginsel van burgery gebaseerde eweknieproduksie is soortgelyk aan
+   kollektiewe uitvinding, 'n model van oop inovasie in die ekonomie, 'n
+   term geskep deur Robert Allen.
+
+[wysig] Eksterne skakel
+
+   Coase's Penguin Yochai Benkler se artikel waarin die term verduidelik
+   word (Engels)
+   Kategorie: Ekonomie
+

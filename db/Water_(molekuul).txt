@@ -1,0 +1,374 @@
+Water (molekuul)
+
+
+   Hierdie artikel bespreek water vanuit 'n wetenskaplike en tegniese
+   oogpunt. Sien water vir 'n meer algemene bespreking van water en die
+   belangrikheid daarvan vir die mensdom
+
+                                      Water
+                     Atoomstruktuur van die water molekule
+                                    Algemeen
+       Sistematiese naam                                                  Water
+        Chemiese formule                                                  H[2]O
+            Molêre massa                                         18.01528 g/mol
+                Voorkoms                             deurskynend, byna
+                                                        kleurlose vloeistof met
+                                                       'n effense blou tint [1]
+              CAS nommer                                            [7732-18-5]
+                                   Eienskappe
+    Digtheid en toestand                                    1 g/cm^3, vloeistof
+               Smeltpunt                                         0°C (273.15 K)
+                Kookpunt                                       100°C (373.15 K)
+     Suurgehalte (pK[a])                                                  15.74
+      Basisiteit (pK[b])                                                  15.74
+             Viskositeit                                      1 mPa·s teen 20°C
+                                    Struktuur
+         Molekulêre vorm                                      nie-linieêr geboë
+        Kristalstruktuur                                                      ?
+            Dipoolmoment                                                 1.85 D
+                                     Gevare
+                    MVDS                                          Eksterne MVDS
+             Hoof gevare                                    Geen bekende gevare
+                NFPA 704 Beeld:nfpa_h0.png Beeld:nfpa_f0.png Beeld:nfpa_r0.png
+           R/S statement                                      R: - S: 36/37, 39
+            RTECS nommer                                              ZC0110000
+                               Bykomstige datablad
+            Struktuur en
+              eienskappe                                          n, ε[r], ens.
+          Termodinamiese
+                    data                                            Fase gedrag
+                                                      Vastestof, vloeistof, gas
+            Spektrumdata                                        UV, IR, NMR, MS
+                              Verwante verbindings
+   Verwante oplosmiddels                                                asetoon
+                                                                        metanol
+         Verwante stowwe                                                     ys
+                                                                     swaarwater
+               Buiten waar spesifieke vermeld, word alle data vir
+                   materiale gegee in hul standaardtoestand (by 25°C, 100 kPa)
+
+   Water het die chemiese formule H[2]O, wat beteken dat dit 'n
+   watermolekule uit twee waterstofatome en een suurstofatoom bestaan. By
+   kamertemperatuur, ongeveer 25 °C, is dit 'n bykans kleurlose- (met 'n
+   effense blou tint), smaaklose- en reuklose stof. Dit is die mees
+   algemene oplosmiddel en ook die enigste suiwer stof wat in al drie sy
+   toestande op aarde aangetref word.
+
+   Inhoud
+
+        * 1 Vorms van water
+        * 2 'n Algemene stof
+             + 2.1 Water in die Heelal
+             + 2.2 Water op Aarde
+             + 2.3 Water in nywerhede
+        * 3 Fisika en Chemie van Water
+             + 3.1 Digtheid van water en ys
+             + 3.2 Digtheid van soutwater en ys
+             + 3.3 Trippelpunt
+             + 3.4 Die Mpemba verskynsel
+             + 3.5 Oppervlakspanning
+             + 3.6 Elektriese eienskappe
+             + 3.7 Dipolêre aard van water
+             + 3.8 Water as 'n oplosmiddel
+             + 3.9 Die Amfoteriese aard van water
+             + 3.10 Suurgehalte in die natuur
+             + 3.11 Waterstofbinding in water
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Vorms van water
+
+   Water kan vele vorms aanneem. Die vastestof staan bekend as ys; die
+   gastoestand staan bekend as waterdamp (of stoom). Water kan egter ook
+   baie ander vorms aanneem soos onder andere glasys, wat 'n
+   nie-kristallyne vastetoestand van water is.
+
+   Bo 'n sekere kritiese temperatuur en druk (647 K en 22.064 MPa), neem
+   watermolekules 'n superkritiese toestand aan.
+
+   Swaarwater is water waarby die waterstofatome vervang word met die
+   swaarder isotoop, deuterium. Chemies gesproke is dit dieselfde as
+   gewone water. Swaarwater word tipies in die kern-nywerheid gebruik om
+   neutrone te vertraag.
+
+[wysig] 'n Algemene stof
+
+[wysig] Water in die Heelal
+
+   Water is bespeur in die intersterwolke in ons sterrestelsel, die
+   Melkweg. Daar word geglo dat water in oorvloed in ander sterrestelsels
+   ook bestaan omdat sy boustene, waterstof en suurstof onder die
+   oorvloedigste elemente in die heelal tel.
+
+   Intersterwolke versamel uiteindelik om sterrenewels en sterrestelsels
+   soos ons s'n te vorm. Hierdie oorspronklike water kan ook in komete,
+   planete en hul natuurlike satelliete gevind word. In ons sonnestelsel
+   is tekens van water dan ook gevind:
+     * op die Maan,
+     * op die planete Mercurius, Mars, Neptunus en Pluto,
+     * op die satelliete van planete, soos Triton en Europa.
+
+[wysig] Water op Aarde
+
+   Die watersiklus verwys na die voortdurene uitruiling van water binne
+   die hidrosfeer, tussen die atmosfeer, oppervlakwater, grondwater en
+   plante.
+
+   Daar is ongeveer 1 360 000 000 km³ water op aarde. Hierdie water is
+   rofweg as volg versprei:
+     * 1,320,000,000 km³ is in die oseane
+     * 25,000,000 km³ (1.8%) is in gletsers en die pole
+     * 13,000,000 km³ (0.9%) is grondwater.
+     * 250,000 km³ (0.02%) is varswater in mere, binnelandse seë, en
+       riviere.
+     * 13,000 km³ (0.001%) is atmosferiese waterdamp op enige gegewe
+       oomblik.
+
+   Vloeistofwater word in verskeie watermassas op aarde gevind soos
+   byvoorbeeld in oseane, seë, mere, riviere, strome, kanale of poele. Die
+   grootste hoeveelheid water op Aarde is seewater. Water is ook
+   teenwoordig in die atmosfeer in beide vloeistof- en dampfases. Dit
+   bestaan ook as grondwater in ondergrondse bronne. Water kook normaalweg
+   teen 100°C by seevlak maar in diepsee spuite kan superverhitte water
+   teen 400 °C aangetref word terwyl water teen die lae drukke op die berg
+   Everest teen 'n skamele 70 °C sou kook.
+
+[wysig] Water in nywerhede
+
+   Water word ook in vele nywerheidsprosesse en majinerie gebruik soos
+   stoomturbienes en hitteruilers, bowen die gebruik daarvan as chemiese
+   oplosmiddel. Die uitlaat van onbehandelde water vanaf nywerhede
+   veroorsaak besoedeling. Besoedeling kan opgeloste stowwe in die water
+   insluit (chemiese besoedeling) of verkoelingswater wat te warm is
+   (termiese besoedeling). Nywerhede vereis suiwer water vir baie
+   toepassings en maak van 'n verskeidenheid suiweringstegnieke gebruik.
+
+[wysig] Fisika en Chemie van Water
+
+[wysig] Digtheid van water en ys
+
+   By die meeste stowwe is die vastestofvorm van die stof digter as die
+   vloeistofvorm; dus sou 'n blok van daardie stof in daardie vloeistof
+   sink. 'n Blok ys sal egter bo op water dryf aangesien water in sy
+   vastestofvorm minder dig as vloeistofwater is. Dit is maar een van die
+   ongewone eienskappe van water. Teen kamertemperatuur sal water wat
+   afgekoel word soos die meeste ander stowwe al hoe digter word. Maar by
+   4°C, net so 'n bietjie bo vriespunt, bereik water egter sy maksimum
+   digtheid en soos dit dan verder verkoel word, word dit minder dig. Die
+   fisiese verklaring hiervoor hou verband met die kristalstruktuur van
+   gewone ys. Water, gallium en bismut is van die min materiale wat uitsit
+   wanneer dit vries; die meeste ander materiale krimp. As water nie die
+   eienskap gehad het nie sou die oseane byna almal gevries.
+
+   Hierdie ongewone uitsetting van water soos dit vanaf 4°C bo sy
+   vriespunt verkoel word bied varswaterdiere ook 'n belangrike voordeel
+   in die wintertyd. Water op die oppervlak wat verkoel word, word digter
+   en begin sink wat konveksiestrome veroorsaak wat die hele watermassa
+   laat afkoel, maar wanneer die temperatuur van 'n dam of mer 4°C bereik
+   sal die water op die oppervlak wat verder afkoel minder dig word en op
+   die oppervlak bly en uiteindelik ys bo-op vorm. Aangesien die konveksie
+   deur die laer digtheid verhoed word sal enige groot watermassa se
+   temperatuur op sy koudste by die oppervlak wees, terwyl die bodem teen
+   die uiterste koue beskerm word.
+
+[wysig] Digtheid van soutwater en ys
+
+   Die situasie is ietwat anders in die geval van soutwater. Ys dryf
+   steeds bo-op en verhoed dat die oseane vries, maar die soutinhoud van
+   die oseane verlaag die vriespunt van water met ongeveer 2°C en verlaag
+   ook die temperatuur waarteen die maksimum digtheid van water voorkom na
+   baie nader aan die vriespunt. Dus sal die afwaartse konveksiestrome van
+   koue water nie verhoed word in soutwater nie en sal die koue water
+   aanhou om al dieper te sink.
+
+   Wanneer die oppervlak van soutwater begin om te vries (teen -1.9 °C vir
+   seewater van normale soutgehalte) is die ys wat gevorm word bykans
+   soutloos met 'n digtheid naby aan die van varswaterys. Hierdie ys dryf
+   op die oppervlak en die sout wat sodoende uitgevries is, verhoog dus
+   die oorblywende water se soutgehalte. Die hoër soutgehalte het dan tot
+   gevolg dat die oorblywende water na die bodem sink, met die gevolg dat
+   die diepwater in oseane ook 'n temperatuur van &1.9deg;C behoort te hê.
+
+[wysig] Trippelpunt
+
+   Die temperatur en druk waarteen 'n vastestof-, vloeistof- en gasvormige
+   water saam in ewewig bestaan word die trippelpunt van water genoem.
+   Hierdie punt word gebruik om die eenhede van temperatuur (die kelvin en
+   indirek daardeur die graad Celsius). Die trippelpunt kom voor by 'n
+   temperatur van 273.16K (0.01 °C) volgens ooreenkoms en teen 'n druk van
+   611.2 Pa. Hierdie is 'n baie lae druk, ongeveer 150 keer laer as die
+   barometriese druk by seevlak van 101 300 Pa.
+
+[wysig] Die Mpemba verskynsel
+
+   Die Mpemba verskynsel is die verrassende verskynsel waar warm water
+   onder sekere omstandighede vinniger as koue water kan vries ten spyte
+   daarvan dat dit eers na die laer temperature verkoel moet word om te
+   kan vries. Hierdie verskynsel kan egter deeglik verklaar word aan die
+   hand van verdamping, konveksie, superverkoeling en die isolerende
+   werking van ryp.
+
+[wysig] Oppervlakspanning
+
+   Waterdruppels is stabiel danksy die hoë oppervlakspanning van water.
+   Dit kan gesien word wanneer klein hoeveelhede water op 'n onoplosbare
+   oppervlak geplaas word soos glas: Die water bly in druppels saamgebind.
+   Hierdie is 'n belangrike eienskap vir lewensvorme. Water word
+   byvoorbeeld deur die xileem in die stamme van plante na bo vervoer word
+   maak sterk staat op die sterk intermolekulêre kragte tussen
+   watermolekules.
+
+[wysig] Elektriese eienskappe
+
+   Suiwer water is eintlik 'n goeie isoleerder (swak geleier). Omdat water
+   egter so 'n goeie oplosmiddel is, kom dit byna altyd saam met opgeloste
+   stowwe daarin voor, dikwels in die vorm van 'n sout. Water met selfs 'n
+   klein hoeveelheid onsuiwerhede is 'n baie beter geleier van
+   elektriesiteit omdat die sout ontbind na vrye ione in waterige
+   oplossings wat dien as draers vir die elektriese stroom.
+
+   Water kan ontbind word na die bousteen-elemente, waterstof en suurstof,
+   deur 'n stroom daardeur te laat vloei. Die proses staan bekend as
+   elektrolise. Watermolekules ontbind natuurlik in H^+ en OH^- ione, wat
+   na die katode en anode respektiewelik aangetrek word. By die katode
+   neem twee H^+ ione elektrone op om H[2] gas te vorm. By die anode gee
+   vier OH^- ione, vier elektrone af en vorm sodoende 'n molekule O[2] gas
+   en twee molekules water. Die gasse borrel na die oppervlak waar hulle
+   dan versamel kan word. Dit is bekend dat die teoretiese maksimum
+   elektriese weerstand van water ongeveer 182 kilo-ohm-meter (of 18.2
+   MΩ·cm) teen 25 grade Celsius. Hierdie syfer kom goed ooreen met wat
+   tipies waargeneem word by tru-osmose, ultafiltreerde en
+   dionisasie-gesuiwerde ultrasuiwer water wat tipies in halfgeleier
+   aanlegte teëgekom word. 'n Sout of suurbesoedelingsvlak wat selfs net
+   100 dele per triljoen (dpt) in ultrasuiwer water sal 'n noemenswaardige
+   impak op die elektriese weerstand van water hê.
+
+[wysig] Dipolêre aard van water
+
+   'n Belangrike eienskap van water is sy polêre aard. Die watermolekule
+   vorm 'n hoek, met waterstofatome aan die punte en suurstof by die
+   hoekpunt. Aangesien suurstof 'n hoër elektronegatiwiteit as waterstof
+   het, sal die kant van die molekule waar die suurstofatoom geleë is 'n
+   effense negatiewe lading hê. 'n Molekule met so 'n ladingsverskil word
+   'n dipool genoem. Die ladingsverskille veroorsaak dat watermolekule s
+   na mekaar aangetrek word (die relatief positiewe kante na die relatief
+   negatiewe kante toe) en na ander molekules. Hierdie aantrekkingskrag
+   word waterstofbinding genoem en verklaar baie van water se fisiese
+   eienskappe.
+
+   Al is die aantrekkingskrag van die waterstofbindings relatief tot die
+   kovalente verbindings binne-in die watermolekule swak is dit tog
+   verantwoordelik vir baie van water se fisiese eienskappe. Een van die
+   eienskappe is sy relatief hoë smelt- en kookpunte; meer warmte-energie
+   word vereis om die waterstofbindings tussen die molekules te verbreek.
+   'n Verbinding met soortgelyke struktuur soos waterstofsulfied (H[2]S),
+   wat 'n baie swakker waterstofbinding het, is 'n gas by kamertemperatuur
+   al het dit dubbel die molekulêre massa van water. Die ekstra verbinding
+   tussen watermolekules gee aan watervloeistof 'n groot soortlike
+   warmtekapasiteit wat dit dan 'n goeie medium maak vir die stoor van
+   warmte-energie. Waterstofbinding gee aan water ook sy ongewone gedrag
+   wanneer dit vries. Wanneer dit tot naby sy vriespunt afgekoel word
+   veroorsaak dit dat die molekules herrangskik om die energie te
+   minimiseer en vorm sodoende die heksagonale kristalstruktuur van ys wat
+   'n laer digtheid het: en daarom dryf die vastestofvorm op water.
+
+   'n Belangwekkende gevolg van die feit dat die vastestof 'n laer
+   digtheid het as die vloeistof is dat ys sal smelt as 'n voldoende hoë
+   druk daarop uitgeoefen sou word. Met toenemende druk sal die smeltpunt
+   afneem totdat die temperatuur van die omgewing bereik is, waar die ys
+   dan sal smelt. Die druk moet egter noemenswaardig wees om die smeltpunt
+   betekenisvol te verlaag – die druk wat deur 'n ysskaatser uitgeoefen
+   word verminder die smeltpunt met ongeveer 0.09 °C.
+
+[wysig] Water as 'n oplosmiddel
+
+   Water is 'n baie goeie oplosmiddel vanweë sy polariteit. Wanneer 'n
+   ioniese of polêre verbinding in kontak met water kom kan die relatief
+   klein watermolekules die stof wat opgelos word heeltemal omring. Die
+   deels negatiewe dipoolgedeelte van die water word na die positief
+   gelaaide komponente van die stof wat opgelos word aangetrek en
+   teenoorgestelde vir die positiewe dipoolgedeeltes.
+
+   Oor die algemeen is ioniese en polêre stowwe soos sure, alkohole en
+   soute geredelik oplosbaar in water en nie-polêre stowwe soos vette en
+   olies nie. Nie-polêre molekules bly bymekaar in water aangesien die
+   waterstofbindings tussen die watermolekules sterker is as die van der
+   Waalskragte tussen Watermolekule s en die nie-polêre molekules.
+
+   'n Voorbeeld van ioniese oplosbare stowwe is tafelsout; die
+   natriumchloried, NaCl, ontbind na Na^+ katione en Cl^- anione waarna
+   beide spesies deur water omring word. Die ione word maklik vanaf hul
+   oorspronklike kristalraamwerk weggevoer na die oplossing toe. 'n
+   Voorbeeld van 'n nie-ioniese oplosbare stof is gewone suiker. Die
+   waterdipole vorm waterstofbindings met die polêre dele van die
+   suikermolekule (OH groepe) en laat toe dat dit in die oplossing in
+   weggevoer word.
+
+   Die oplosmiddel-eienskappe van water is van uiterste belang in
+   biologie, aangesien baie biochemiese reaksies in waterige oplossings
+   plaasvind (bv, reaksies in die selplasma en bloed).
+
+[wysig] Die Amfoteriese aard van water
+
+   Chemies gesproke is water amfoteries – d.w.s. dit kan as 'n suur of 'n
+   basis optree. By 'n pH van 7 (neutraal) is die konsentrasie
+   hidroksiedione (OH^-) gelyk aan die konsentrasie van die hidronium-
+   (H[3]O^+) of waterstofione (H^+). As die ewewig versteur word kan die
+   oplossing suur word (meer hidronium-ione) of basies word (meer
+   hidroksied-ione).
+
+   Water kan of as suur of basis aan reaksies deelneem. Volgens die
+   Brønsted-Lowrystelsel, word 'n suur gedefinieer as 'n spesie wat 'n
+   proton ('n H^+ ioon) in 'n reaksie skenk en 'n basis as een wat 'n
+   proton ontvang. Wanneer dit met 'n sterker suur reageer, tree water as
+   'n basis op; wanneer dit met 'n swakker suur reageer tree dit as 'n
+   suur op. Water ontvang byvoorbeeld 'n H^+ ioon in die HCl ewewig:
+
+          HCl + H[2]O ↔ H[3]O^+ + Cl^-
+
+   Hier tree water as 'n basis op deurdat dit 'n H^+ ioon ontvang. 'n Suur
+   skenk 'n H^+ ioon en water kan dit ook doen, soos in die reaksie met
+   ammoniak, NH[3]:
+
+          NH[3] + H[2]O ↔ NH[4]^+ + OH^-
+
+[wysig] Suurgehalte in die natuur
+
+   Teoreties behoort suiwer water 'n pH van 7 te hê. In die praktyk is dit
+   egter uiters moeilik om suiwer water te maak. Water wat aan lug
+   blootgestel word vir 'n gegewe tyd sal baie vinnig koolstofdioksied
+   absorbeer en koolsuur vorm, wat 'n pH van so laag as ongeveer 5.7 kan
+   hê. Met die vorming van wolkdruppels in die atmosfeer en met die val
+   van die reëndruppels deur die lug word klein hoeveelhede CO[2]
+   geabsorbeer en daarom is reën meestal effe suur. As groot hoeveelhede
+   stikstof- en swaeloksiede in die lug teenwoordig is, sal dit ook oplos
+   en ernstiger suur-reën probleme tot gevolg hê.
+
+[wysig] Waterstofbinding in water
+
+   Watermolekule s kan 'n maksimum van vier watertstofbindings vorm omdat
+   dit twee waterstofatome kan aanvaar en twee kan skenk. Ander molekules
+   soos fluorsuur, ammoniak, metanol vorm waterstofbindings maar toon nie
+   die afwykende termodinamiese, kinetiese of strukturele eienskappe van
+   water nie. Die verklaring vir hierdie skynbare verskil tussen water en
+   ander vloeistowwe wat waterstofbindings vorm is dat buiten water nie
+   een van die ander molekules vier waterstofbindings kan vorm nie hetsy
+   dit is as gevolg van die onvermoë om waterstowwe te kan skenk/aanvaar
+   of vanweë steriese effekte.
+
+[wysig] Sien ook
+
+     * swaarwater
+     * Die Mpemba verskynsel
+
+[wysig] Eksterne skakels
+
+     * Engelstalige werf oor Water se struktuur en gedrag
+     * 'n Humoristiese opstel in Engels oor die "gevare" van
+       diwaterstofmonoksied
+     * Stockholm Internasionale Waterinstituut (SIWI)
+     * 'n Werf waar die afwykende eienskappe van water verklaar word
+     * 'n Berekeningschemie Wiki (Engels)
+
+   Kategorie: Chemiese stowwe
+

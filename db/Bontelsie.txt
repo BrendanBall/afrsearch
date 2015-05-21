@@ -1,0 +1,106 @@
+Bontelsie
+
+
+                      Bontelsie
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Charadriiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Recurvirostridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Recurvirostra
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     R. avosetta
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Recurvirostra avosetta
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Bontelsie is 'n algemene standvoël in Suidelike Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   Volwasse voëls het wit vere behalwe vir 'n swart hoof en swart vlekke
+   op die vlerke en op die rug. Hulle het lang na bo-gekeerde snawels en
+   lang blouerige bene.
+
+[wysig] Habitat
+
+   Die habitat is hoofsaaklik vlak damme, mere en vleie. Hulle broei op
+   oop grond, soms in klein groepies. Die broeisel bestaan normaalweg uit
+   3 tot 5 eiers.
+
+[wysig] Verspreiding
+
+   Die Bontelsie broei in Europe and sentraal-Asië en oorwinter in Afrika
+   en Suid-Asië.
+
+[wysig] Geluid
+
+   Die Bontelsie uiter harde kloet-kloet-kloet geluid.
+
+[wysig] Ander name
+
+     * Engelse naam: Pied Avocet
+     * Wetenskaplike naam: Recurvirostra avosetta
+
+[wysig] Galery
+
+   Bontelsie
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

@@ -1,0 +1,35 @@
+Webblaaier
+
+
+   Voorbeeld van 'n webblaaier (Mozilla Firefox)
+   Voorbeeld van 'n webblaaier (Mozilla Firefox)
+
+   'n Webblaaier (ook bekend as 'n webbladleser) is 'n sagteware program
+   wat gebruikers toelaat om teks, prente en ander inligting op 'n
+   webbladsy te vertoon nadat dit vanaf 'n webwerf op die Wêreldwye Web of
+   'n lokale netwerk afgelaai is.
+
+   Teks en prente op 'n webbladsy kan skakels bevat na nader webblaaie op
+   dieselfde of 'n ander webwerf. Webblaaiers laat gebruikers toe om
+   inligting vinnig en maklik te bekom oor 'n verskeidenheid bladsye en
+   webwerwe deur die blaaie met skakels aan mekaar te verbind. Webblaaiers
+   formatteer HTML inligting voordat dit vertoon word, die voorkoms van 'n
+   bladsy kan dus verskil na gelang van die bladleser wat gebruik word.
+
+   Sommige van die weblaaiers wat beskikbaar is op persoonlike rekenaars
+   sluit in: Internet Explorer, Mozilla Firefox, Safari, Opera, en
+   Netscape.
+
+   Webblaaiers word tipies gebruik om bladsye op die Wêreld Wye Web te
+   besoek, kan dit ook gebruik word om inligting vanaf webbedieners op
+   private netwerke of 'n rekenaar se hardeskyf te beskou.
+
+[wysig] Taalkeuse
+
+   Meeste webbedieners kan opgestel word om dokumente in die gebruiker se
+   taalkeuse aan te stuur. Die taalvoorkeur van die gebruiker se bladleser
+   sal dan bepaal watter dokument gesien word. Byvoorbeeld, as 'n
+   Afrikaanse en Nederlandse bladsy beskikbaar is, maar die gebruiker
+   verkies Afrikaans, sal die Afrikaanse blad vertoon word.
+   Kategorieë: Internet • Toepassingsagteware
+

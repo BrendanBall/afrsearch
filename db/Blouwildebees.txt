@@ -1,0 +1,105 @@
+Blouwildebees
+
+
+                    Blouwildebees
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    Vertebrata
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bovidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Connochaetes
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. taurinus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Connochaetes taurinus
+   (Burchell, 1823)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Blouwildebees is 'n groot wildsbok wat aangetref word in die
+   Noordelike deel van Transvaal en ooswaarts tot teen die Swazilandgrens.
+   Noord-Natal in Zoeloeland.
+
+   Inhoud
+
+        * 1 Habitat
+        * 2 Gewoontes
+        * 3 Voedsel
+        * 4 Voortplanting
+
+[wysig] Habitat
+
+   Blouwildebeeste verkies 'n oop boomveld savanne met permanente oop
+   water. Binne hierdie gebied sal hulle voorkom in valleie en teen
+   berghange.
+
+[wysig] Gewoontes
+
+   Blouwildebeeste is groeplewend en kom in troppe van 20-30 voor. Tydens
+   periodes van voedselskaarste sal groot samedrommings vorm om te migreer
+   na beter weiveldtoestande.
+
+   Die sosiale struktuur bestaan uit territoriale bulle, koeitroppe en
+   bultroppe. Koeitroppe bestaan uit koeie met hul jongste kalwers.
+   Hierdie troppe beweeg deur territoriale bulle se territoriums en
+   gedurende die bronstyd sal die bulle met koeie in estrus paar. Die
+   gemiddelde teeltropgrootte in Oos-Afrika is 10 diere en die tuisgebied
+   is ongeveer 2500ha.
+
+   Bultroppe is losser versamelings van volwasse en jong bulle wat uit
+   koeitroppe verdryf is. Die diere bly op die rand van die woongebiede
+   van koeitroppe wat gewoonlik die swakste veld is.
+
+   Bouwildebeeste rol hul pels gereeld op sekere areas van hul habitat.
+
+[wysig] Voedsel
+
+   Blouwildebeeste is grasvreters en verkies groen, kort gras. Die diere
+   is lief om op pas gebrande veld te beweeg om groen grasspruite te
+   benut.
+
+[wysig] Voortplanting
+
+   Bronstyd is gedurende Maart tot Mei met 'n piek kalfseisoen van
+   November tot Desember. Die draagtyd is 1 250 dae, waarna 'n enkele kalf
+   gebore word.
+   Kategorie: Soogdiere
+

@@ -1,0 +1,84 @@
+Silwerjakkals
+
+
+                    Silwerjakkals
+   Bedreigingstatus: Veilig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Canidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Vulpes
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     V. chama
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Vulpes chama
+   (A Smith, 1833)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die silwerjakkals (Vulpes chama) is 'n klein soogdier wat in Suidelike
+   Afrika aangetref word, veral in oop grasvlaktes en halfwoestyne.
+
+   Silwerjakkalse is swart of silwergrys met liggeel strepe op hulle
+   flanke en hulle maag. Die punte van hulle sterte is swart. 'n
+   Gemiddelde volwasse silwerjakkels is tussen 45 en 61 cm lank en 'n
+   stert wat 'n verdere 30 tot 40 cm lank kan wees. Silwerjakkalse het 'n
+   gemiddelde hoogte van 30 cm en weeg tussen 3,6 en 5 kg.
+   Twee klein silwerjakkalsies.
+   Twee klein silwerjakkalsies.
+
+   Hulle is meestal snags aktief en eet hoofsaaklik goggas, muise,
+   dassies, hase en grondvoëls. Soms sal hulle ook aas vir voedsel.
+
+   Die wyfie is tussen 7 en 8 weke dragtig en skenk telkens aan 3 tot 5
+   kleintjies geboorte.
+
+[wysig] Bronnelys
+
+     * Stuart & Stuart (2004) Vulpes chama. IUCN se Rooi Lys van bedreigde
+       spesies.
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+   Kategorie: Hondagtiges
+

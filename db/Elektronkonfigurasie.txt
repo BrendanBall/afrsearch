@@ -1,0 +1,152 @@
+Elektronkonfigurasie
+
+
+   Atomiese en molekulêre elektronorbitale
+   Atomiese en molekulêre elektronorbitale
+
+   Elektronkonfigurasie is die rangskikking van elektrone in 'n atoom,
+   molekule of ander struktuur. Dit verwys spesifiek na die plasing van
+   elektrone in atoom-, molekulêre- en ander vorme van elektronorbitale.
+
+[wysig] Orbitale, toestande en golffunksies
+
+   Aangesien elektrone fermione is, is hulle onderhewig aan die
+   uitsluitingsbeginsel van Pauli, wat bepaal dat geen twee fermione
+   terselftertyd dieselfde kwantumtoestand kan beklee nie. Dit is die
+   fundamentele basis vir die konfigurasie van elektrone in 'n atoom:
+   wanneer 'n toestand deur 'n elektron beset word, moet die volgende
+   elektron 'n verskillende kwantummeganiese toestand beset.
+
+   In 'n atoom word daar na die gestadigde toestand van 'n elektron se
+   golffunksie Ψ (d.w.s. Die toestande wat die eigentoestande van die
+   vergelyking van Schrödinger HΨ = EΨ waar H die Hamiltonian is) verwys
+   as die (molekulêre) orbitale wat analoog is aan die klassieke beeld van
+   elektronpartikels wat rondom 'n kern wentel. In die algemeen
+   verteenwoordig 'n orbitaal die gebied waar daar verwag word 'n elektron
+   kan bestaan (met 'n ~90% waarskynlikheid). Hierdie toestand het vier
+   hoof kwantumgetalle: n, l,m[l] en m[s] en volgens die Pauli beginsel
+   mag geen twee elektrone dieselfde waardes deel vir al vier getalle nie.
+   Die belangrikste van hierdie getalle is n en l.
+
+[wysig] Hoekmomentum (l)
+
+   Die tweede kwantumgetal l stem ooreen met die hoekmomentum van die
+   toestand. Hierdie toestande neem die vorm van sferiese harmonieë aan en
+   word dus beskryf deur Legendrepolinome. Die verskeie toestande wat
+   ooreenstem met verskillende waardes van l word somtyds sub-skille
+   genoem en (hoofsaaklik vir geskiedkundige redes) na verwys deur 'n
+   letter as volg:
+   l waarde Letter Maksimum aantal elektrone in skil
+   0        s      2
+   1        p      6
+   2        d      10
+   3        f      14
+   4        g      18
+
+   Geskiedkundige nota: Die name 's', 'p', 'd' en 'f' het sy oorsprong in
+   die gediskrediteerde stelsel waar spektraallyne in engels
+   gekatogeriseer was as strong", "principal", "diffuse", of
+   "fundamental". Toe die eerste vier tipe orbitale beskryf is, is hulle
+   geassosieer met hierdie spektraallyn tipes, die opvolgende toekennings
+   is toe eenvoudig gedoen deur die alfabet te gebruik en daarom is hulle
+   'g' en 'h' onderskeidelik genoem.
+
+   Elkeen van die verskillende hoekmomentum-toestande kan 2(2l + 1)
+   elektrone opneem. Dit is so aangesien die derde kwantumgetal m[l] ('n
+   mens kan daaraan dink as 'n gekwantumifiseerde projeksie van die
+   hoekmomentum op die z-as, al is dit so effe verkeerd) vanaf −l tot l in
+   heelgetal eenhede loop en is daar dus 2l+1 moontlike toestande. Elke
+   afsonderlike nlm[l] toestand kan deur twee elektrone beset word met
+   teenoorgestelde spin (bepaal deur die kwantumgetal m[s]), wat 2(2l+1)
+   elektrone in totaal lewer. Toestande met 'n hoër l waarde as wat in die
+   tabel gegee word is heeltemal toelaatbaar volgens die teorie, maar
+   hierdie waardes dek al die grondtoestand atome wat tot dusver ontdek
+   is.
+
+   Vir 'n gegewe waarde van n kan die moontlike waardes van l wissel van 0
+   tot n −1; daarom bevat die skil waar n = 1 islegs 'n s sub-skil en kan
+   slegs 2 elektrone opneem, die n = 2 skil bevat 'n s en 'n p sub-skil en
+   kan 8 elektrone in totaal bevat, die n = 3 skil bevat s, p en d
+   sub-skille en kan 'n maksimum van 18 elektrone opneem ensovoorts
+   (Algemeen gesproke is die maksimum aantal elektrone op die nde
+   energievlak gelyk aan 2n^2). Die volgende berekening lewer die presiese
+   resultaat:
+
+          \sum_{l=0}^{n-1}2(2l+1) \ = \ 4\sum_{l=0}^{n-1}l +
+          2\sum_{l=0}^{n-1}1 \ = \ 4\frac{n}{2}(n-1) + 2n \ = \ 2 n^2 .
+
+   In die grondtoestand van 'n atoom word die toestande gevul in volgorde
+   van toenemende energie; d.w.s die eerste elektron gaan in die laagste
+   energietoestand in, die tweede in die volgende laagste ensovoorts. Die
+   feit dat die 3d toestand 'n hoër energie het as die 4s toestand, maar
+   laer as die 4p toestand is die rede vir die bestaan van die
+   oorgangsmetale. Die volgorde waarin die toestande opgevul word is as
+   volg:
+1s
+2s           2p
+3s           3p
+4s        3d 4p
+5s        4d 5p
+6s     4f 5d 6p
+7s     5f 6d 7p
+8s  5g 6f 7d 8p
+...
+
+   Dit lei direk tot die struktuur van die periodieke tabel. Die chemiese
+   eienskappe van 'n atoom word hoofsaaklik bepaal deur die rangskikking
+   van die elektrone in die buitenste (valensie) skil (alhoewel ander
+   faktore soos atoomradius, atoommassa en toenemende toeganklikheid van
+   addisionele elektroniese toestande ook bydra tot die chemie van die
+   elemente soos die atoom grootte toeneem).
+
+   Soos die gewig van die elemente toeneem, vind 'n mens ooreenkomste in
+   die rangskikking van die buitenste skil elektrone (die wat meer
+   geredelik toeganklik is om aan chemiese reaksies deel te neem) in
+   soverre hulle in dieselfde tipe orbitaal voorkom met 'n soortgelyke
+   vorm maar met toenemende hoër energie en gemiddelde afstand vanaf die
+   kern. Die buitenste skil (of valensie) elektrone van die eerste groep
+   wat deur waterstof vooruitgegaan word, het almal een elektron in 'n
+   s-orbitaal. In waterstof is daardie s-orbitaal in die laagste moontlike
+   energietoestand van enige atoom, die eerste skil orbitaal. In frankium,
+   die swaarste element van die groep, is die buitenste skil elektron in
+   die sewende skil orbitaal, betekenisvol verder weg van die kern as
+   daardie elektrone wat die skille met laer energie daaronder vul. So het
+   koolstof en lood dan ook beide vier elektrone in hulle buitenste skil
+   orbitale.
+
+   Vanweë die belangrikheid van die buitenste skil, word die verskillende
+   areas van die periodieke tabel somtyds na verwys as periodieke tabel
+   blokke, wat dan vernoem word na die sub-skil waarin die laaste
+   elektrone voorkom, bv. Die s-blok, die p-blok, die d-blok ens.
+
+   As voorbeeld van die notasie wat algemeen gebruik word om die
+   elektronkonfigurasie van 'n atoom aan te dui kan ons byvoorbeeld
+   silikon (atoomgetal 14) se konfigurasie as volg aandui: 1s^2 2s^2 2p^6
+   3s^2 3p^2 Die getalle is die skil nommer, n; die letter verwys na die
+   hoekmomentum-toestand, soos hierbo aangedui, en die getalle in die
+   boskrifte dui die aantal elektrone in daardie toestand van die atoom
+   waarop dit betrekking het, aan. 'n Selfs eenvoudiger metode is om
+   eenvoudig die getal elektrone in elke skil neer te skrywe, bv. (weer
+   vir Si): 2-8-4.
+
+   In molekules is die situasie meer ingewikkeld: sien molekulêre orbitale
+   vir besonderhede. Soortgelyke maar nie identiese argumente kan op die
+   protone en neutrone in die atoomkern toegepas word: sien die skilmodel
+   van kernfisika.
+
+   Daar is twee hoof maniere om die elektronkonfigurasie te skryf. Een is
+   om die hele konfigurasie uit te skryf, soos in die voorbeeld 1s^2 2s^2
+   2p^6 3s^2 3p^2. Die ander is 'n snelskrif metode wat van die edelgasse
+   gebruik maak as beginpunt (d.w.s alle elemente met atoomgetalle groter
+   as die edelgas aangedui het dieselfde elektronkonfigurasie tot en met
+   daardie edelgas). Argon se konfigurasie word dus aangedui as
+   [Ne]3s^23p^6 volgens hierdie notasie.
+
+[wysig] Sien ook
+
+     * HOMO/LUMO
+     * Periodieke tabel (elektronkonfigurasies)
+     * Atoom-orbitaal
+
+   Kategorie: Chemiese eienskappe
+

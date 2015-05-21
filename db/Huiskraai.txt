@@ -1,0 +1,109 @@
+Huiskraai
+
+
+                  Huiskraai
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Corvidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corvus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. splendens
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+              Corvus splendens
+   Vieillot, 1817
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die huiskraai
+   Verspreiding van die huiskraai
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die huiskraai is standvoël uit Asië wat na Afrika uitgevoer is en oor
+   die algemeen gelokaliseerd geraak het.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Dit het geen wit in sy veredrag nie. Kleiner as die Swartkraai, met 'n
+   grys agterkop, mantel en bors. Die voël het 'n gemiddelde lengte van 43
+   cm.
+
+[wysig] Habitat
+
+   Is geheel en al van die mens afhanklik.
+
+[wysig] Verspreiding
+
+   Oorspronklik te vinde in Indië, Pakistan, Sri Lanka, Maldive- en
+   Lakkadive-eilande, Suidwes Thailand, suidelike kusstreke van Iran.
+
+   Ook ingevoer na Oos-Afrika in die omgewing van Zanzibar, Port Sudan,
+   Maputo, Inhaca-eiland, Durban en Oos-Londen. Dit word ook in Kaapstad
+   en Rotterdam aangetref.
+
+[wysig] Geluid
+
+   Uiter 'n skril "kwaa, kwaa".
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Corvus splendens
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Kraaiagtiges
+

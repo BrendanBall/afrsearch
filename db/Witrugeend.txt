@@ -1,0 +1,114 @@
+Witrugeend
+
+
+                      Witrugeend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   Thalassorninae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Thalassornis
+                   Eyton, 1838
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. leuconotus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+               Thalassornis leuconotus
+   Eyton, 1838
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Subspesies
+
+                                 Sien teks.
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die witrugeend is 'n algemene standvoël in Suidelike Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Subspesies
+        * 6 Ander name
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   38-40cm. Gewig is ongeveer 625 tot 800 Gram. Die Witrugeend het 'n
+   gevlekte bruin rug en 'n relatief groot kop met 'n vaal vlek op die
+   basis van die snawel. In vlug kan die wit rug waargeneem word. Geen
+   onderskeid tussen manlik, vroulike en onvolwasse voëls nie.
+
+[wysig] Habitat
+
+   Die habitat is hoofsaaklik vars water damme en vleiland. Hierdie eende
+   is goed aangepas vir duik en duiktye tot 'n half minuut is al
+   waargeneem waarby soveel as 65 meter afgelê word. Die eende eet
+   hoofsaaklik plantmeteriaal, in besonder sade en blare, jong eende eet
+   ook ruspes en inseklarwes.
+
+[wysig] Verspreiding
+
+   Die witrugeend kom veral in die oostelike dele van Suider-Afrika voor.
+   Hierdie eende kom ook voor in Wes-Afrika tussen Senegal en Chad en in
+   Oos-Afrika vanaf Ethiopië tot in Suid-Afrika.
+
+[wysig] Geluid
+
+   Die eend uiter lae-noot fluit.
+
+[wysig] Subspesies
+
+     * T. l. leuconotus
+     * T. l. insularis
+
+[wysig] Ander name
+
+     * Engelse naam: White-backed Duck
+     * Wetenskaplike naam: Thalassornis leuconotus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

@@ -1,0 +1,71 @@
+Kaapse tiptol
+
+
+                Kaapse tiptol
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Pycnonotidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pycnonotus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. capensis
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+             Pycnonotus capensis
+   (Linnaeus, 1766)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die Kaapse tiptol
+   Die verspreiding van die Kaapse tiptol
+                  Sinonieme
+   {{{synonyms}}}
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Pycnonotus capensis
+     * Engelse naam: "Cape Bulbul"
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Tiptolle
+

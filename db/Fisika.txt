@@ -1,0 +1,364 @@
+Fisika
+
+
+   Fisika (vanaf Grieks, φυσικός (physikos), "Natuurlik", en φύσις
+   (physis), "Natuur") is die wetenskap van die Natuur in die breedste
+   sin. Fisici bestudeer die gedrag en eienskappe van materie in 'n wye
+   verskeidenheid verbande, wat wissel van die sub-mikroskopiese partikels
+   wat die boustene van alle gewone materie is (partikelfisika) tot die
+   gedrag van die materiële Heelal as 'n geheel (kosmologie).
+
+   Sommige van die eienskappe wat in fisika bestudeer word is geldig vir
+   “alle” materiële stelsels, soos byvoorbeeld die behoud van energie.
+   Sulke eienskappe word dikwels na verwys as die wette van fisika. Fisika
+   word somtyds 'n “fundamentele wetenskap” genoem, aangesien elkeen van
+   die ander natuurwetenskappe (biologie, chemie, geologie, ens.) te doen
+   het met sekere tipe materiële stelsels wat die wette van fisika
+   gehoorsaam. Chemie byvoorbeeld is die wetenskap van molekules en die
+   chemikalieë wat hulle vorm. Die eienskappe van 'n chemikalie word
+   bepaal deur die eienskappe van die onderliggende molekules wat akkuraat
+   beskryf kan word deur velde van die fisika soos kwantum meganika,
+   termodinamika en elektromagnetisme.
+
+   Fisika is ook nou verwant aan wiskunde. Fisiese teorieë word amper
+   altyd uitgedruk deur gebruik te maak van wiskundige vergelykings, en
+   die wiskunde betrokke is oor die algemeen meer ingewikkeld as in die
+   ander wetenskappe.
+
+   Die verskil tussen fisika en wiskunde is dat fisika hom primêr bemoei
+   met beskrywings van die materiële wêreld, waar wiskunde hoofsaaklik hom
+   bemoei met die abstrakte patrone wat nie noodwendig daarop van
+   toepassing is nie. Die onderskeid is egter nie altyd voor die hand
+   liggend nie. Daar is 'n breë navorsingsveld wat tussen fisika en
+   wetenskap wat bekend staan as wiskundige fisika wat hom toewy tot die
+   ontwikkeling van wiskundige strukture van fisiese teorieë.
+
+   Inhoud
+
+        * 1 Oorsig van fisika navorsing
+             + 1.1 Teoretiese en eksperimentele fisika
+             + 1.2 Sentrale teorieë van fisika
+             + 1.3 Hoofvelde van fisika
+             + 1.4 Verwante velde
+             + 1.5 Buitengewone teorieë
+        * 2 Geskiedenis
+             + 2.1 Toekomstige wendinge
+        * 3 Skakels en verwysings
+             + 3.1 Voorgestelde leeswerk
+             + 3.2 Eksterne skakels
+             + 3.3 Sien ook
+
+[wysig] Oorsig van fisika navorsing
+
+[wysig] Teoretiese en eksperimentele fisika
+
+   Die kultuur van fisika navorsing verskil van die ander wetenskappe ten
+   opsigte van die skeiding van teorie en eksperiment. Sedert die 20ste
+   eeu, het die meeste indiwiduele fisici gespesialiseer in of teoretiese
+   fisika of in eksperimentele fisika en weinig fisici was al suksesvol
+   gewees in beide navorsingsvorme. In teenstelling daarmee was amper al
+   die suksesvolle teoretici in biologie en chemie ook eksperimenteerders
+   gewees.
+
+   Rofweg gesproke is die doel van teoretici om teorieë te ontwikkel wat
+   die bestaande eksperimentele resultate verduidelik en om toekomstige
+   resultate te voorspel, terwyl eksperimenteerders eksperimente bedink en
+   uitvoer om die teoriese voorspellings te toets. Alhoewel teorie en
+   eksperiment apart ontwikkel word, is hulle sterk afhanklik van mekaar.
+   Vooruitgang in fisika geskied dikwels wanneer eksperimenteerders
+   ontdekkings maak wat nie deur die bestaande teorieë verduidelik kan
+   word nie, en dus die formulering van nuwe teorieë noodsaak. In die
+   afwesigheid van eksperimente, slaan teoretiese navorsing dikwels die
+   verkeerde koers in; dit is van die kritiek wat dikwels op die M-teorie,
+   'n gewilde teorie in hoë-energie fisika waarvoor nog geen praktiese
+   eksperimentele toets voor bedink is nie, gelewer word.
+
+[wysig] Sentrale teorieë van fisika
+
+   Terwyl fisika hom bemoei met 'n uiters wye verskeidenheid stelsels is
+   daar sekere teorieë wat van toepassing is op fisika in sy geheel en nie
+   beperk is tot 'n enkele veld nie. Elkeen van die teorieë word basies as
+   korrek aanvaar met 'n sekere domein waarvoor dit geldig is. Die teorie
+   van klassieke meganika beskryf byvoorbeeld die beweging van voorwerpe
+   akkuraat op voorwaarde dat hulle baie groter as atome is en teen 'n
+   snelheid baie laer as die spoed van lig beweeg. Hierdie teorieë bly nog
+   steeds velde waar aktiewe navorsing op gedoen word; 'n merkwaardige
+   aspek van klassieke meganika bekend as chaos is byvoorbeeld in die
+   20ste eeu ontdek, drie eeue na Isaac Newton dit geformuleer het. Weinig
+   fisici verwag egter dat enige van die teorieë fundamenteel misleidend
+   bewys gaan word en daarom word hulle as basis gebruik vir navorsing in
+   meer gespesialiseerde onderwerpe en word dit algemeen van enige huidige
+   fisikastudent ongeag sy spesialisgebied verwag om goed vertroud te wees
+   met al die teorieë.
+   Teorie Hoof vertakkinge Begrippe
+   Klassieke meganika Newton se wette van beweging Lagrange meganika
+   Hamiltoniese meganika Chaos teorie Vloeidinamika Kontinuum meganika
+   Dimensie Ruimte Tyd Beweging Lengte Snelheid Massa Momentum Krag
+   Energie Draaimomentum Wringkrag Behoudswet Harmoniese wisselaar Golf
+   Werk Drywing
+   Elektromagnetisme Elektrostatika Elektrisiteit Magnetisme Maxwell se
+   vergelykings Elektriese lading Stroom Elektriese veld Magnetiese veld
+   Elektromagnetiese veld Elektromagnetiese straling Magnetiese monopool
+   Termodinamika en Statistiese meganika Warmte enjin Kinetiese teorie
+   Boltzmann se konstante Entropie Vrye energie Warmte Verdelingsfunksie
+   Temperatuur
+   Kwantummeganika Padintegraal formulering Schrödingervergelyking
+   Kwantumveldteorie Hamiltoniese Identiese partikels Planck se konstante
+   Kwantumverstrikking Kwantum harmoniese wisselaar Golffunksie
+   Nulpuntenergie
+   Relatiwiteitsteorie Spesiale relatiwiteit Algemene relatiwiteit
+   Gelykwaardigheidsbeginsel Vier-momentum Verwysingsraam Ruimtetyd Spoed
+   van lig
+
+[wysig] Hoofvelde van fisika
+
+   Hedendaagse navorsing in fisika word verdeel in verskeie onderskeibare
+   velde wat verskillende aspekte van die materiële wêreld bestudeer.
+   Gekondenseerde materie fisika, deur die meeste ramings as die grootste
+   enkele veld van fisika beskou, is bemoei met die studie van hoe die
+   massale eienskappe van materie, soos die gewone vastestowwe en
+   vloeistowwe wat ons in die alledaagse lewe teëkom, teweeg gebring word
+   vanuit die eienskappe en interaksies van die atome waaruit dit opgebou
+   is. Die veld van atoom, molekulêre en optiese fisika het te doen met
+   die gedrag van indiwiduele atome en molekules en in die besondere wyses
+   waarop hulle lig absorbeer en uitstraal. Die veld van partikelfisika
+   ook bekend as "hoë-energie fisika" is bemoeid met die eienskappe van
+   submikroskopiese partikels wat baie kleiner as atome is en sluit die
+   elementêre partikels in waaruit alle ander onderdele van materie gebou
+   is. Laastens is daar die veld van astrofisika wat die wette van die
+   fisika toepas om sterrekundige verskynsels, wat wissel van die Son en
+   ander voorwerpe in die sonnestelsel tot die heelal in sy geheel, te
+   verklaar.
+   Velde Vertakkinge Vernaamste teorieë Begrippe
+   Astrofisika Kosmologie, Planetologie, Plasma fisika Grootknal Kosmiese
+   uitsetting Algemene relatiwiteit Universele Swaartekragwet Swartgat
+   Kosmiese agtergrondstraling Sterrestelsel Swaartekrag
+   Swaartekragstraling Planeet Sonnestelsel Ster
+   Atoom, molekulêre en optiese fisika Atoomfisika, Molekulêre fisika,
+   Optika, Fotonika Kwantum optika Diffraksie Elektromagnetiese straling
+   Laser Polarisering Spektraal lyn
+   Partikelfisika Versnellerfisika, Kernfisika Standaardmodel Groot
+   verenigde teorie Lus kwantumswaartekrag M-teorie Fundamentele krag
+   (swaartekrag, elektromagnetisme, swak interaksie, sterk interaksie)
+   Elementêre partikel Anti-materie Spin Spontane simmetrie verbreking
+   Teorie van alles Vakuumenergie
+   Gekondenseerde materie fisika Vastetoestand fisika, Materiaalfisika,
+   Polimeerfisika BCS teorie Bloch golf Fermi gas Fermi vloeistof
+   Vele-liggaam teorie Fases (gas, vloeistof, vastestof, Bose-Einstein
+   kondensaat, supergeleier, supervloeier) Electriese geleiding Magnetisme
+   Self-organisering Spin Spontane simmetrie verbreking
+
+[wysig] Verwante velde
+
+   Daar bestaan baie navorsingsgebiede waar fisika verweef is met ander
+   dissiplines. Die verreikende veld van biofisika is toegewy tot die rol
+   wat die fisiese beginsels speel in biologiese stelsels en die veld van
+   kwantum chemie bestudeer hoe die kwantum meganika teorie aanleiding gee
+   tot die chemiese gedrag van atome en molekules. Sommige van die
+   vakgebiede word hieronder gelys.
+
+   Akoestiek – Sterrekunde – Biofisika – Berekeningsfisika – Elektronika –
+   Ingenieurswese – Geofisika – Materiaalkunde – Wiskundige fisika –
+   Mediese fisika – Fisiese chemie – Fisika van berekening –
+   Voertuigdinamika
+
+[wysig] Buitengewone teorieë
+
+   Koue fusie – Dinamiese swaartekragteorie – Liggewende eter - Orgoon
+   energie – Gestadigde toestand teorie
+
+[wysig] Geskiedenis
+
+   Hoofartikel: Geskiedenis van fisika. Sien ook Beroemde fisici en
+   Nobelprys vir Fisika.
+
+   Sedert antieke tye het mense die gedrag van materie probeer verstaan:
+   Hoekom voorwerpe wat nie ondersteun word grond toe val, hoekem
+   verskillende materiale verskillende eienskappe het ensovoorts. Die aard
+   van die heelal was ook 'n raaisel, soos die vorm van die Aarde en die
+   gedrag van hemelliggame soos die Son en die Maan. Verskeie teorieë is
+   voorgestel waarvan die meeste verkeerd was. Hierdie teorieë was
+   grootliks filosofies gegrond en is nooit bevestig deur sistematies
+   eksperimentele toetsing soos wat vandag gewild is nie. Daar was
+   uitsonderings en daar bestaan anachronismes: die Griekse denker
+   Archimedes het byvoorbeeld baie kwantitiewe beskrywings van meganika en
+   hidrostatika korrek afgelei.
+
+   Gedurende die vroeë 17de eeu was Galileo 'n baanbreker in die gebruik
+   van eksperimente om fisiese teorieë te bevestig en wat die
+   sleutelgedagte is van die wetenskaplike metode. Galileo het verskeie
+   dinamika teorieë suksesvol geformuleer en getoets en in besonder die
+   Wet van Traagheid. In 1687 publiseer Newton die Principia Mathematica
+   waarin hy twee omvattende en suksesvolle teorieë uiteensit: Newton se
+   bewegingswet waaruit die klassieke meganika voortspruit en Newton se
+   swaartekragwet, wat die fundamentele krag beskryf. Beide teorieë het
+   goed ooreengestem met eksperimente. Die Principia het ook verskeie
+   teorieë oor vloeidinamika ingesluit. Klassieke meganika is uitvoerig
+   uitgebrei deur Lagrange, Hamilton en andere wat nuwe formulerings,
+   beginsels en resultate bedink het. Die swaartekragwet het die veld van
+   astrofisika , wat die sterrekundige verskynsels beskryf deur van
+   fisiese teorieëh gebruik te maak, begin.
+
+   Vanaf die 18de eeu is termodinamika deur Boyle, Young en vele ander
+   ontwikkel. In 1733 het Bernoulli statistiese argumente tesame met
+   klassieke meganika gebruik om termodinamiese resultate af te lei en het
+   sodoende die vakgebied van statistiese meganika begin. In 1798 het
+   Thompson die omsetting van meganiese werk na warmte gedemonstreer en in
+   1847 het Joule die wet oor die behoud van energie (in die vorm van
+   warmte asook meganiese energie) geformuleer.
+
+   Die gedrag van elektrisiteit en magnetisme is deur Faraday, Ohm, Ampère
+   en ander bestudeer. In 1855 het Maxwell die twee verskynsels verenig in
+   'n enkele teorie van elektromagnetisme soos beskryf deur Maxwell se
+   vergelykings. 'n Voorspelling van die teorie was dat lig 'n
+   elektromagnetiese golf is.
+
+   In 1895 het Roentgen X-strale ontdek wat later getoon het om 'n
+   hoë-frekwensie elekromagnetiese straling te wees. Radio-aktiwiteit is
+   ontdek in 1896 deur Henri Becquerel en verder bestudeer deur Marie
+   Curie, Pierre Curie en andere. Dit het die vakgebied van kernfisika
+   begin.
+
+   In 1897 het Thomson die elektron, die elementêre partikel wat
+   elektriese stroom in stroombane dra, ontdek. In 1904 het hy die eerste
+   model van die atoom, bekend as die pruimpoeding model, voorgestel. (Die
+   bestaan van die atoom is al in 1808 deur Dalton voorgestel.
+
+   In 1905 het Albert Einstein die teorie van spesiale relatiwiteit
+   geformuleer wat ruimte en tyd tot 'n enkele entiteit , ruimtetyd,
+   saamgesnoer het. Relatiwiteit skryf 'n anderse omskakeling tussen
+   verwysingsraamwerke voor as die klassieke meganika; dit het die
+   ontwikkelling van relatiwistiese meganika as vervanging vir klassieke
+   meganika genoodsaak.
+
+   In die bestek van (relatief) lae snelhede stem die twee teorieë ooreen.
+   In 1915 het Einstein spesiale relatiwiteit uitgebrei om swaartekrag met
+   die algemene relatiwiteitsteorie te verduidelik wat Newton se
+   swaartekragwet vervang. In die bestek van lae massas en energieë stem
+   die teorieë ooreen.
+
+   In 1911 het Rutherford vanuit verstrooingseksperimente afgelei dat daar
+   in atome 'n kompakte kern met positiewe gelaaide boustene genaamd
+   protone bestaan. Neutrone, die neutrale boustene van die kern is deur
+   Chadwick in 1932 ontdek.
+
+   Aan die begin van 1900 het Planck, Einstein, Bohr en ander
+   kwantumteorieë ontwikkel om verskeie afwykings in eksperimentele
+   resultate te verduidelik deur die bekendstelling van diskrete
+   energievlakke.
+
+   In 1925 het Heisenberg en Schrödinger en Dirac in 1926, kwantum
+   meganika geformuleer wat die voorafgaande kwantumteorieë verduidelik
+   het. In kwantum meganika is die resultaat van fisiese metings inherent
+   waarskynlikheidgebonde; die teorie beskryf die berekening van hierdie
+   waarskynlikhede. Dit beskryf ook die gedrag van materie vir klein
+   afstandskale.
+
+   Kwantum meganika het ook die teoretiese gereedskap verskaf vir
+   gekondenseerde materie fisika, wat die gedrag van vaste- en vloeistowwe
+   bestudeer, insluitende verskynsels soos kristalstrukture ,
+   halfgeleiding en supergeleiding. Die baanbrekers op die gebied van
+   gekondenseerde materie fisika sluit Bloch in wat die kwantum meganiese
+   beskrywing van die gedrag van elektrone in kristalstrukture in 1928
+   geskep het.
+
+   Gedurende die Tweede Wêreldoorlog is navorsing deur beide strydende
+   partye gedoen op kernfisika met die doel om 'n atoombom te maak. Die
+   Duitse poging, deur Heisenberg gelei, het nie geslaag nie, maar die
+   Geallieerdes se Manhattan Projek het die doelwit bereik. In 1942 in
+   Amerika het Fermi die eerste mensgemaakte kernkettingreaksie
+   veroorsaak, en in 1945 is die wêreld se eerste atoombom ontplof by die
+   Trinity terrein naby Alamogordo, Nieu-Meksiko.
+
+   Kwantum veldteorie is geformuleer om kwantum meganika uit te brei om
+   konsekwent te wees met spesiale relatiwiteit. Dit het sy moderne vorm
+   bereik in die laat 1940s met werk wat deur Feynman, Schwinger,
+   Tomonaga, en Dyson gedoen is. Hulle het die kwantum elektrodinamika
+   teorie geformuleer wat elektromagnetiese interaksie beskryf.
+
+   Kwantum veldteorie het die raamwerk daargestel vir moderne
+   partikelfisika, wat die fundamentele kragte en elementêre partikels
+   bestudeer. In 1954 het Yang en Mills 'n klas van ykingstoerieë
+   ontwikkel, wat die raamwerk vir die Standaardmodel daargestel het. Die
+   Standaardmodel wat in 1970 voltooi is beskryf amper al die elementêre
+   partikels tot hede waargeneem suksesvol.
+
+   Die Verenigde Volke het die jaar 2005 tot die Wêreld se Jaar van Fisika
+   verklaar[1].
+
+[wysig] Toekomstige wendinge
+
+   Hoofartikel: onopgeloste probleme in fisika.
+
+   Met ingang 2004 gaan navorsing in fisika op 'n wye front voort.
+
+   In gekondenseerde materie fisika, is die grootste teoretiese vraagstuk
+   die verduideliking van hoë-temperatuur supergeleiding. Sterk pogings,
+   hoofsaaklik eksperimenteel, word aangewend om werkbare spintronika en
+   kwantumrekenaars te maak.
+
+   In partkelfisika het die eerste bewysstukke begin verskyn dat daar
+   verskynsels is wat nie alleen deur die Standaardmodel verduidelik kan
+   word nie. Die voorste hiervan is die aanduidings dat neutrinos 'n massa
+   groter as nul het. Dit wil voorkom asof hierdie eksperimentele
+   resultate 'n ou vraagstuk, die neutrino van die son probleem, in
+   sonfisika oplos. Die fisika van neutrinos met massa is tans 'n gebied
+   waarop aktiewe teoretiese en eksperimentele navorsing gedoen word. In
+   die komende jare word verwag dat partkelversnellers sal begin om
+   energievlakke in die TeV te bereik, waarmee eksperimenteerders hoop om
+   bewyse te vind vir die higgs boson en supersimmetriese partikels.
+
+   Teoretiese pogings om kwantum meganika en algemene relatiwiteit te
+   verenig in 'n enkele teorie van kwantum swaartekrag, 'n poging wat al
+   meer as 'n halwe eeu duur, het nog geen vrugte afgewerp nie. Die
+   leidende kandidate is huidiglik die M-teorie en lus kwantumswaartekrag.
+
+   Baie sterrekundige verskynsels moet nog verklaar word, insluitende die
+   bestaan van ultra-hoë energie kosmiese straling en die afwykende
+   rotasietempo van sterrestelsels. Teorieë wat voorgestel is om hierdie
+   probleme op te los sluit in dubbele spesiale relatiwiteit, aangepaste
+   Newtoniese dinamika, en die bestaan van donker materie. Verder is baie
+   van die kosmologiese voorspellings van die laaste aantal dekades weerlê
+   deur bewyse dat die uitsetting van die heelal besig is om te versnel.
+
+   In hul haas om hoë-energie, kwantum en sterrekunndige fisika probleme
+   op te los is alledaagse fisika agterweë gelaat. Ingewikkelde probleme
+   wat wil voorkom asof hulle deur die slim toepassing van dinamika en
+   meganika opgelos kan word, bly nog steeds grootliks onaangespreek.
+   Voorbeelde hiervan is die vorming van sandhope, die vorm van
+   waterdruppels, die meganisme van oppervlakspanning katastrofes en die
+   self-sortering in heterogene versamelings wat geskud word.
+
+[wysig] Skakels en verwysings
+
+[wysig] Voorgestelde leeswerk
+
+     * Feynman, The Character of Physical Law, Random House (Modern
+       Library), 1994, hardcover, 192 pages, ISBN 0679601279
+     * Feynman, Leighton, Sands, The Feynman Lectures on Physics,
+       Addison-Wesley 1970, 3 volumes, paperback, ISBN 0201021153.
+       Hardeband gedenkuitgawe, 1989, ISBN 0201500647
+     * Landau, et. al., Course of Theoretical Physics,
+       Butterworth-Heinemann, 1976, 10 volumes, sagteband, ISBN 0750628960
+     * Walker, The Flying Circus of Physics, Wiley, 1977, sagteband, 312
+       pages, ISBN 047102984X
+
+[wysig] Eksterne skakels
+
+     * sci.physics Die Usenet algemene fisika nuusgroep.
+     * Usenet Fisika GV. 'n GV saamgestel deur sci.physics en ander fisika
+       nuusgroepe.
+     * World of Physics. 'n Aanlyn engelse ensiklopediese woordeboek van
+       fisika.
+     * HyperPhysics. 'n Aanlyn "ontdekkingsrys" vir fisika.
+     * Die Nobelprys vir Fisika 1901-2000. Webwerf vir die Nobelprys vir
+       Fisika.
+     * Physics.org. Webportaal deur die Institute of Physics bestuur.
+     * AIP.org Webwerf van die American Institute of Physics.
+
+[wysig] Sien ook
+
+     * Lys van fisika onderwerpe
+
+   Kategorie: Fisika
+

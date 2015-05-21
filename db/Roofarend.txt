@@ -1,0 +1,142 @@
+Roofarend
+
+
+                      Roofarend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Accipitriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Aquila
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. rapax
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Aquila rapax
+   (Temminck, 1828)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+
+                             Aquila rapax rapax
+
+   Die roofarend (Aquila rapax) is 'n groot roofvoël wat, nes alle ander
+   arende, tot die familie Accipitridae behoort. Dit was in die verlede
+   gedag dat die voël nou verwant was aan die Steppe-arend, Aquila
+   nipalensis, en die twee was voorheen as dieselfde spesie beskou. Daar
+   is egter later 'n skeiding gemaak gebaseer op duidelike verskille in
+   die twee arende se morfologie en anatomie (Clark, 1992; Olson, 1994;
+   Sangster et al., 2002).
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Voortplanting
+        * 5 Dieet
+        * 6 Geluid
+        * 7 Ander name
+        * 8 Sien ook
+        * 9 Bronnelys
+
+[wysig] Identifikasie
+
+   'n Roofarend is ongeveer 62-72cm in lengte en het 'n vlerkspan van
+   165-185cm. Dit is 'n groot arend met 'n geelbruin bolyf en donkerbruin
+   tot amper swart vere op sy vlerke en stert. Die laer-rug is bleek in
+   vergelyking met die res van die voël. Onvolwasse voëls het nie
+   dieselfde kontras in kleur as die volwassenes nie.
+
+[wysig] Habitat
+
+   Roofarende verkies 'n droë habitat, soos woestyne of savannas, waar
+   hulle hul neste meestal in bome bou, maar ook op steil rotse of op die
+   grond as dit moet.
+
+[wysig] Verspreiding
+
+   Die voël kom voor in die meeste van Afrika, beide Noord en Suid van die
+   Sahara-woestyn en ook in die tropiese gebiede van Suidwes-Asië tot en
+   met Indië.
+
+[wysig] Voortplanting
+
+   Die wyfie lê 1 tot 3 eiers in nes wat uit stokkies gebou is.
+
+[wysig] Dieet
+
+   'n Roofarend
+   'n Roofarend
+
+   Die roofarend se dieet bestaan hoofsaaklik uit enige soort vars aas.
+   Die roofvoël sal ook klein soogdiere vang (niks groter as 'n haas nie),
+   of klein reptiele of voëls (niks groter as 'n tarentaal nie). Die voëls
+   steel ook graag ander roofvoëls se kos.
+
+[wysig] Geluid
+
+   Alhoewel die roofarend oor die algemeen 'n stil voël is, is hy wel in
+   staat tot 'n kraai-agtige geblaf.
+
+[wysig] Ander name
+
+     * Engels: Tawny Eagle
+     * Wetenskaplike naam: Aquila rapax
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * IUCN Red List of Threatened Species, inskrywing vir Aquila rapax.
+     * Clark, W. S. (1992): The taxonomy of Steppe and Tawny Eagles, with
+       criteria for separation of museum specimens and live eagles.
+       Bulletin of the British Ornithologists' Club 112: 150–157.
+     * Olson, Storrs L. (1994): Cranial osteology of Tawny and Steppe
+       Eagles Aquila rapax and A. nipalensis. Bulletin of the British
+       Ornithologists' Club 114: 264–267.
+     * Sangster, George; Knox, Alan G.; Helbig, Andreas J. & Parkin, David
+       T. (2002): Taxonomic recommendations for European birds. Ibis
+       144(1): 153–159. Hier verkrygbaar in PDF-formaat
+
+   Kategorie: Voëls
+

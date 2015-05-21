@@ -1,0 +1,50 @@
+Roetetabel
+
+
+   In rekenaarnetwerke is 'n roetetabel 'n elektroniese tabel of databasis
+   wat gestoor word op 'n roeteerder of 'n netwerkrekenaar. Die roetetabel
+   stoor die roetes (en in sommige gevalle die voorkeurgewigte wat met
+   daardie roetes gepaardgaan). Hierdie inligting bevat die topologie van
+   die netwerk in die onmiddelike omgewing daarvan. Die saamstel van
+   roetetabelle is dei hoofdoel van roeteringsprotokolle en statiese
+   roetes.
+
+   Roetetabelle word gewoonlik nie direk gebruik vir pakket aansture in
+   moderne roetebepalerargitekture nie, maar word eerder gebruik om die
+   inligting vir 'n kleiner aanstuurtabel te verkry wat slegs die roetes
+   bevat wat deur die roeteringsalgoritme gekies is as die voorkeurroetes
+   vir pakket aansture, dikwels in 'n saamgeperste- of voorafsaamgestelde
+   formaat wat geoptimiseer is vir stoor- en opsoekdoeleindes op die
+   hardeware.
+
+[wysig] Inleiding
+
+   'n Roetetabel gebruik dieselfde begrip as die gebruik van 'n kaart vir
+   die aflewering van posstukke. Wanneer 'n nodus data moet versend na 'n
+   ander nodus op 'n netwerk, moet dit weet waarheen dit gestuur moet
+   word. As die toestel nie direk aan die bestemmingsnodus verbind is nie,
+   moet dit 'n ander manier vind om die pakket te stuur. Wanneer 'n nodus
+   nie weet hoe om die pakket aan te stuur nie, word die IP-pakket na 'n
+   deurgangspoort op die lokale area netwerk gestuur. Aangesien dit 'n
+   ingewikkelde taak is om die roete na die korrekte bestemming vir die
+   pakket te bepaal, moet die deurgangspoort tred hou van die manier
+   waarop die pakket afgelewer moet word. 'n Roetetabel is die manier
+   waarop hierdie data gestoor word, 'n soort kaart van die netwerk. Dit
+   is 'n databasis wat tred hou van die paaie wat gevolg kan word en
+   verskaf hierdie inligting aan die nodus wat die data versend.^[1]
+
+   Hop-vir-hop roetering werk deur alle direk bereikbare bestemmings se
+   adresse vanaf die gegewe roetebepaler te lys. Gegewe dat die roetetabel
+   se data konsekwent is, is 'n eenvoudige algoritme om pakkette aan te
+   stuur na die volgende hop op pad na die bestemming voldoende om enige
+   pakket by sy bestemming uit te kry. Hop-vir-hop roetering is 'n
+   grondliggende eienskap van die IP internetwerklaag.^[2]
+
+[wysig] Verwysings en voetnotas
+
+    1. ^ Forwarding and Control Element Separation (ForCES) Framework,L.
+       Yang et al., RFC3746,April 2004.
+    2. ^ Vereistes vir IPv4 Roetebepalers,F. Baker, RFC 1812, Junie 1995
+
+   Kategorie: Rekenaarnetwerke
+

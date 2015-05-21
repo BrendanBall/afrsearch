@@ -1,0 +1,25 @@
+Meter per sekonde
+
+
+   Meter per sekonde is 'n SI afgeleide eenheid van spoed (skalaar) en
+   snelheid (vektor), wat gedefinieer word deur die afstand in meter
+   gedeel deur die tyd in sekonde. Die simbool word algemeen as m·s^-1 of
+   m/s geskrywe. Meter per sekonde is 'n vektor.
+
+[wysig] Omskakelings
+
+   1 meter per sekonde is gelyk aan:
+     * 3,2808 voet per sekonde (afgerond)
+     * 2,2369 myl per uur (afgerond)
+     * 3,6 km/h (presies)
+
+     * 1 voet per sekonde = 0,3048 meter per sekonde (presies)
+     * 1 myl per uur = 0,4471 meter per sekonde (afgerond)
+     * 1 km/h = 0,2778 meter per sekonde (afgerond)
+
+[wysig] Sien ook
+
+     * kilometer per uur
+
+   Kategorie: Eenhede
+

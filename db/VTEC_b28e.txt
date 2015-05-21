@@ -1,0 +1,181 @@
+VTEC
+
+
+   VTEC (wat 'n afkorting is vir Veranderlike kleptydreëling en
+   elektroniese klepopeningbeheer in Engels) is 'n stelsel wat deur Honda
+   ontwikkel is om die doeltreffendheid van verbranding in die
+   binnebrandmotor te verhoog deur die volle bestek van omwentelinge. Dit
+   was die eerste stelsel van sy soort en het gelei tot die ontwikkeling
+   van soortgelyke stelsels deur ander vervaardigers (VVTL-i van Toyota,
+   VarioCam Plus deur Porsche en andere). Dit is uitgevind deur Kenichi
+   Nagahiro, Honda se hoof enjinontwerper.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 DOHC VTEC
+        * 3 SOHC VTEC
+        * 4 SOHC VTEC-E
+        * 5 3-stadium VTEC
+        * 6 i-VTEC
+        * 7 VTEC in motorfietse
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Inleiding
+
+   In die standaard vierslagsiklus voertuie, word die inlaat- en
+   uitlaatkleppe aangedryf deur lobbe op die nokas. Die vorm van die lobbe
+   bepaal die tydreëling, oplig en ooptyd van elke klep. Kleptydreëling
+   verwys na wanneer 'n klep oop- en toegemaak word tydens die
+   verbrandingsiklus. Die klepopening verwys na hoeveel die klep oopgemaak
+   word. Die ooptyd verwys na hoe lank die klep oop gehou word. Vanweë die
+   gedrag van die gasse (brandstof-lugmengsel) voor en na verbranding, die
+   beperkinge op die vloei daarvan asook die interaksie daarvan met die
+   ontstekervonk, is die optimale kleptydreëling, klepopening en ooptyd
+   onder lae omwentelinge baie anders as by hoë omwentelinge. 'n Optimale
+   klepverstelling by lae omwentelinge sal daartoe lei dat die lug- en
+   brandstoftoevoer onvoldoende sal wees by hoë omwentelinge wat dus die
+   enjin se werkverrigting grootliks sal beperk. Só ook sal die
+   teenoorgestelde optimale verstellings vir hoë omwentelinge lei tot 'n
+   baie rowwe lae omwenteling verrigting teen lae omwentelinge en probleme
+   wanneer die enjin luier. Die ideale enjin sal 'n volledig veranderlike
+   kleptydreëling, -opening en ooptyd hê om sodoende die kleppe altyd by
+   presies die regte verstelling op die regte tyd te hê vir die gegewe
+   omwentelingsnelheid.
+
+   In die praktyk is 'n enjin met volledig veranderlike kleptydreëling
+   moeilik om te ontwerp en te bou. Pogings is al gemaak met
+   klos-skakelaars om kleppe te beheer in plaas van die tipiese
+   veer-en-nokstelsel, maar hierdie ontwerpe het nooit aanklank gevind by
+   motorvervaardigers nie aangesien hulle geweldig ingewikkeld en duur
+   was.
+
+   Die teenoorgestelde benadering tot veranderlike kleptydreëling is om 'n
+   nokas te vervaardig wat meer geskik is vir werking teen hoë
+   omwentelinge. Hierdie benadering beteken ongelukkig dat die voertuig se
+   werkverrigting teen lae omwentelinge baie swak sal wees (waar die
+   meeste passasiersmotors gereeld werk) en baie beter sal wees by hoë
+   omwentelinge. VTEC is die resultaat van die poging om 'n goue middeweg
+   te vind tussen goeie werkverrigting teen hoë omwentelingsnelheid en lae
+   omwentelingstabiliteit.
+
+   Japan, het ook 'n belasting op enjinverplasing wat Japanese
+   motorvervaardigers noop om hoër werkverrigting enjins met 'n kleiner
+   verplasing te vervaardig. Dit word dikwels vermag deur gebruik te maak
+   van 'n turbo-aanjaer. Mazda gebruik die Wankelmotor om dit reg te kry.
+   VTEC is 'n ander manier om 'n baie hoë spesifieke werkverrigting uit 'n
+   klein verplasingsmotor te verkry.
+
+[wysig] DOHC VTEC
+
+   Honda se VTEC-stelsel is 'n eenvoudige metode wat die voorsiening van
+   veelvuldige nokasprofiele wat geoptimiseer word vir lae- en hoë
+   omwentelingsnelhede. In plaas daarvan dat slegs een nok gebruik word om
+   elke klep aan te dryf is daar twee - een wat geoptimiseer word vir lae
+   omwentelingwerking, stabiliteit en doeltreffende brandstofverbruik en
+   die ander wat ontwerp is om die kraglewering teen hoë omwentelsnelheid
+   te maksimeer. Die skakeling tussen die twee nokke word bepaal deur die
+   enjin se oliedruk, temperatuur, die voertuigsnelheid en die enjin se
+   omwentelsnelheid. Soos die enjin se omwentelinge verhoog word 'n
+   sluitpen deur die oliedruk geaktiveer om die klepaandrywer vir hoë
+   spoed werking aan die betrokke nok te verbind. Hierna word die klep oop
+   en toe gemaak volgens die hoë-snelheidsprofiel wat veroorsaak dat die
+   klep groter oopmaak en ook vir 'n langer tyd oopbly. Die DOHC
+   VTEC-stelsel het 'n hoë- en lae wentelspoed nokprofiel op beide die
+   inlaat en uitlaatkleppe se nokasse. Die VTEC-stelsel is oorspronklik
+   bekendgestel as 'n DOHC-stelsel (Dubbele oorhoofse nokas) in die 1989
+   Honda Integra wat in Japan verkoop is en 'n 118 kW weergawe van die
+   B16A enjin gebruik het.
+
+[wysig] SOHC VTEC
+
+   Die gewildheid en bemarkingswaarde van die VTEC-stelsel het gegroei en
+   daarom het Honda dieselde beginsel op hul enkel oorhoofse nokas enjins
+   ingebou (waar die inlaat- en uitlaatkleppe dieselfde nokas deel). Die
+   nadeel hiervan is dat die SOHC-enjins slegs baat vind by die
+   VTEC-meganisme op die inlaatkleppe. Die rede hiervoor is dat die
+   vonkprop teen 'n hoek ingeskroef moet word om uit die pad van die nokas
+   te bly en omdat die vonkpropbuise tussen die twee uitlaatkleppe geleë
+   is, is VTEC op die uitlaatkleppe onmoontlik.
+
+[wysig] SOHC VTEC-E
+
+   Honda se volgende VTEC-weergawe, die VTEC-E, is op 'n effens anderse
+   manier gebruik; in plaas daarvan om die enjin te optimiseer vir hoë
+   omwentelingsnelheid, is dit gebruik om die doeltreffendheid teen lae
+   wentelspoed te verhoog. Teen lae omwentelinge, word een of twee van die
+   inlaatkleppe toegelaat om slegs 'n baie klein hoeveelheid oop te maak,
+   wat die brandstof in die silinder in fyner druppels verdeel en sodoende
+   'n armer mengsel moontlik maak. Soos die omwentelinge verhoog word,
+   word beide kleppe gebruik om voldoende toevoer te verseker. 'n Sluitpen
+   wat deur oliedruk geaktiveer word, soos met die gewone VTEC, word
+   gebruik om beide kleppe aanmekaar te verbind om te verseker dat die
+   tweede klep ook ten volle oopgemaak word.
+
+[wysig] 3-stadium VTEC
+
+   Honda het ook die 3-stadium VTEC-stelsel in sekere markte vrygestel.
+   Die stelsel kombineer die eienskappe van beide die SOHC VTEC en die
+   SOHC VTEC-E stelsels. Teen lae omwentelinge word slegs een inlaatklep
+   gebruik. Teen medium omwentelinge word twee gebruik. Teen baie hoë
+   omwentelinge skakel die enjin oor na 'n hoë-spoed nokasprofiel soos met
+   die gewone VTEC. Sodoende word beide die lae- en hoë omwenteling
+   werkverrigting se brandstofdoeltreffendheid en kraglewering verbeter.
+
+[wysig] i-VTEC
+
+   i-VTEC het kontinue veranderlike nokasfasering op die inlaatnok van
+   DOHC VTEC enjins bekendgestel. Die tegnologie het vir die eerste keer
+   in Honda se K-reeks vier silinder enjinfamilie in 2001 verskyn. Die
+   klepopeninggrootte en -tydsduur is steeds beperk tot twee spesifieke
+   lae en hoë omwenteling profiele, maar die inlaatnokas kan met tussen 25
+   en 50 grade varieer tydens die werking van die enjin. Faseveranderinge
+   word deur 'n rekenaar beheer met 'n olie-aangedrewe veranderlike
+   nokrat. Fasering word bepaal deur 'n kombinasie van enjinlading en
+   omwentelinge, wat wissel van ten volle vertraagde reëling by luiering
+   tot ten volle vervroegde reëling met 'n vol oop smoorklep teen lae
+   omwentelinge. Die gevolg hiervan is verdere optimering van wringkrag,
+   veral teen lae- en medium omwentelinge.
+
+   Vir die K-reeks motors is daar twee verskillende soorte i-VTEC stelsels
+   geïmplementeer. Die eerste was vir hoë-werkverrigtingsmotors soos die
+   RSX tipe S of die TSX en die ander vir die ekonomiese voertuie soos
+   gevind kan word in die CR-V of Accord. Die hoë-werkverrigting i-VTEC
+   stelsel is basies dieselfde as die DOHC VTEC stelsel van die B16A's,
+   waar beide die inlaat en uitlaatnokasse 3 nokke per silinder het. Die
+   kleppe het egter die bykomende voordeel van rollers op die aandrywers
+   en kontinue veranderlike inlaatklepreëling. Die ekonomiese weergawe van
+   die i-VTEC is meer soos die SOHC VTEC-E in soverre die inlaatnokas
+   slegs twee nokke het, een baie kleine en 'n groter een, met geen VTEC
+   op die uitlaatkleppe.
+
+[wysig] VTEC in motorfietse
+
+   Die eerste wêreldwye implementering van VTEC-tegnologie in motorfietse
+   was met die bekendstelling van Honda se VFR800 sportfiets in 2002.
+   Soortgelyk aan die SOHC VTEC-E styl bly een inlaatklep toe totdat 'n
+   drumpel van 7000 opm oorskry word, dan maak die tweede klep oopgemaak
+   deur 'n oliedruk geaktiveerde pen.
+
+[wysig] Verwysings
+
+   Honda Motor Co., Ltd. (2004). Technology Close-up. Afgelaai 16
+   September 2004.
+
+   Honda Motor Co., Ltd. (2006). The VTEC Engine. Afgelaai 25 Julie 2006.
+
+[wysig] Eksterne skakels
+
+     * RacingWorks.com, Meer oor gewilde VTEC enjinruilings wat gedoen
+       word
+     * 'n Volledige stel bladsye met inligting oor die VTEC weergawes
+     * VFRworld - Everything about the Honda VF / VFR , Honda V-4's, en
+       die VFR800 Interceptor
+     * Artikel oor die basiese VTEC-meganisme
+     * Aanlyn forum oor VTEC
+     * Meer oor wat VTEC behels. Insluitende 3D kleurdiagramme van
+       VTEC-stelsels
+
+   Kategorie: Voertuigtegnologie
+

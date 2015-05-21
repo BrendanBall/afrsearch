@@ -1,0 +1,196 @@
+Rekenaardrukker
+
+
+   'n Rekenaardrukker of meer algemeen na verwys as 'n drukker is 'n
+   toestel wat 'n harde kopie skep (permanente menslik leesbare teks en/of
+   grafika vanaf dokumente in elektroniese vorm gewoonlik op fisiese media
+   soos papier of transpirante). Baie drukkers word hoofsaaklik gebruik as
+   randtoestelle vir rekenaars en word gewoonlik direk aan die rekenaar
+   verbind en dien as bron vir gedrukte dokumente vir die gebruiker
+   daarvan. Ander drukkers bekend as netwerkdrukkers het 'n ingeboude
+   netwerk-koppelvlak (tipies 'n Ethernet netwerk) en kan dien as 'n bron
+   van gedrukte dokumente vir al die gebruikers wat aan die netwerk
+   verbind is. Verder kan baie moderne drukkers direk verbind word met
+   elektroniese media soos geheuestokkies of geheuekaarte of aan
+   beeldopname toerusting soos digitale kameras en skandeerders, terwyl
+   ander drukkers gekombineer word met 'n skandeerders en/of 'n
+   faksmasjien om 'n enkele eenheid te vorm. 'n Drukker wat met 'n
+   skandeerder gekoppel is kan dan ook as 'n fotokopieërder dien.
+
+   Drukkers wat ontwerp word vir lae volume, korte duur drukwerk; vereis
+   bykans geen opsteltyd vir die maak van 'n gedrukte kopie van 'n gegewe
+   dokument nie. Drukkers is egter oor die algemeen stadige toestelle (10
+   bladsye per minuut word as vinnig beskou; en baie drukkers vir die
+   gewone gebruiker is selfs baie stadiger as dit) en die koste per bladsy
+   is relatief hoog. In teenstelling daarmee word 'n tipiese drukpers (wat
+   dieselfde funskie dien) ontwerp en geoptimiseer om hoë volume drukwerk
+   soos koerante te doen en is in staat om honderde bladsye per minuut te
+   druk en die drukkoste per eksemplaar is gewoonlik maar 'n fraksie van
+   'n gewone rekenaardrukker. Die drukpers bly dus daarom die mees
+   geskikte masjien vir hoë volume, proffesionele drukwerk.
+   Rekenaardrukkers se kwaliteit het egter die afgelope paar jaar met
+   rasse skrede verbeter en word baie drukwerk deesdae op lokale drukkers
+   gedoen wat voorheen slegs deur professionele drukkerye gedoen is.
+
+   Die wêreld se eerste rekenaardrukker was 'n negentiende eeuse meganies
+   aangedrewe toestel wat deur Charles Babbage ontwerp is vir sy
+   Difference Engine.
+   'n Epson inkstraaldrukker
+   'n Epson inkstraaldrukker
+
+   Inhoud
+
+        * 1 Drukkertegnologie
+             + 1.1 Moderne drukkertegnologie
+                  o 1.1.1 Inkpoeier gebaseerde drukkers
+                  o 1.1.2 Vloeibare inkdrukkers
+                  o 1.1.3 Termiese wasdrukkkers
+                  o 1.1.4 Inksublimasiedrukkers
+        * 2 Kolmatriksdrukkers
+        * 3 Termiese Drukkers
+        * 4 Pengebaseerde plotters
+        * 5 Eksterne skakels
+
+[wysig] Drukkertegnologie
+
+   Drukkers word gereeld geklassifiseer volgens die onderliggende
+   drukkertegnologie wat ingespan word en daar bestaan verskeie
+   tegnologieë wat oor die jare ontwikkel is. Die keuse van druktoestel
+   het 'n beduidende impak op die drukwerk waarvoor die drukker geskik is,
+   aangesien die verskeie tegnologieë verskil ten opsigte van die
+   kwaliteit, drukspoed, koste en geraasvlakke waartoe hulle in staat is.
+   Verskeie drukkers is byvoorbeeld ook ongeskik vir sekere fisiese media
+   (soos byvoorbeeld kladpapier of transpirante).
+
+[wysig] Moderne drukkertegnologie
+
+   Die volgende drukkertegnologieë word gereeld in moderne
+   rekenaardrukkers aangetref (met ingang Julie 2006):
+
+[wysig] Inkpoeier gebaseerde drukkers
+
+   Inkpoeier gebaseerde drukkers werk op dieselfde manier as baie
+   fotokopieërders deur die inkpoeier aan die medium te laat klou. Die
+   mees algemene drukker van hierdie soort is die laserdrukker wat 'n
+   laser gebruik om 'n inkbeeld op 'n fotosensitiewe drom vas te lê, wat
+   dan na die medium oorgedra kan word. Laserdrukkers is bekend vir hulle
+   hoë kwaliteit drukwerk, goeie drukspoed en lae koste per eksemplaar en
+   word dikwels gebruik vir algemene drukwerk in kantore. Hulle word egter
+   minder deur gebruikers aangekoop vanweë hul hoër aanvanklike koste.
+
+   Laserdrukkers is beskikbaar in beidie kleur- en monochroom variante.
+
+   'n Ander inkpoeier gebaseerde drukker is die LED-drukker wat 'n matriks
+   LEDs gebruik in plaas van 'n laser om die beeld op 'n fotosensitiewe
+   drom vas te lê.
+
+[wysig] Vloeibare inkdrukkers
+
+   Inkstraaldrukkers sproei baie klein, presiese hoeveelhede ink op die
+   media. Inkstraaldrukwerk is die mees algemene drukkers wat gewone
+   verbruikers gebruik aangesien hulle goedkoop is om te vervaardig. Byna
+   al die moderne inkstraaldrukkers kan kleurdrukwerk doen, terwyl
+   sommiges wat bekend staan as fotodrukkers ekstra pigmente bevat om die
+   beter kleurskakerings te lewer wat benodig word vir hoë kwaliteit
+   fotografiese drukwerk (en is ook daartoe in staat om op dukker
+   fotografiese karton te druk in plaas van gewone kantoorpapier).
+
+   Inkstraaldrukkers se werking berus op klein gaatjies wat baie klein
+   inkborrels kan vorm wat dan uiteindelik as klein druppels ink op die
+   papier gespuit word. Inkstraaldrukkers kan hoë kwaliteit teks- en
+   grafiese drukwerk verrig. Hulle werk ook oor die algemeen baie stil en
+   hulle aanvanklike koste is baie laer as laserdrukkers, met die nadeel
+   dat die uiteindelike koste per eksemplaar baie duurder is, aangesien
+   die ink gereeld vervang moet word. Verder volg die vervaardigers van
+   inkstraaldrukkers 'n besigheidsmodel soortgelyk aan dié wat deur die
+   vervaardigers van skeermesse gebruik word; waar die drukkers dikwels
+   teen minder as die vervaardigingskoste verkoop word en die ink daarvoor
+   wat dan teen 'n hoë winsgrens verkoop word. Verskeie wetlike en
+   tegnologiese middele word gebruik om gebruikers te forseer om slegs die
+   vervaardiger se ink aan te koop (wat dus lei tot
+   verskafferafhanklikheid); daar is egter 'n groeiende mark vir derde
+   party inkmodules (nuut of herwindes) asook hervulstelle.
+
+   Inkstraaldrukkers is ook baie stadiger as laserdrukkers.
+   Inkstraaldrukkers het ook die nadeel dat bladsye moet droogword
+   alvorens hulle hanteer kan word; te vroeë hantering kan daartoe lei dat
+   die ink oor die bladsy smeer.
+
+[wysig] Termiese wasdrukkkers
+
+   Termiese inkdrukkers wat ook soms as faseveranderingsdrukkers bekend
+   staan is 'n soort termiese drukker. Hulle gebruik soliede, gekleurde
+   was-stokkies wat op die medium gesmelt word. Hulle word algemeen
+   gebruik as kleurdrukkers in kantore en is uiters geskik vir drukwerk op
+   media wat nie poreus is nie, soos onder andere op transpirante. Die
+   kostes van hierdie drukkers is soortgelyk as dié van 'n laserdrukkers.
+   Die nadele van hierdie drukkers is dat hulle kragverbruik baie hoog is.
+   Verder is Xerox ook die enigste vervaardiger van hierdie soort drukker.
+
+[wysig] Inksublimasiedrukkers
+
+   'n Inksublimasiedrukker is 'n drukker wat hitte gebruik om die ink na
+   die medium oor te dra. Die proses word gewoonlik in stappe gedoen waar
+   kleure opeenvolgend op die medium neergelê word. Dié soort drukker is
+   hoofsaaklik geskik vir die druk van hoë kwaliteit grafiese drukwerk,
+   insluitend kleurfotos en is minder geskik vir teks.
+
+[wysig] Kolmatriksdrukkers
+
+   'n Tandy 1000 HX rekenaar saam met 'n Tandy DMP-133 kolmatriksdrukker.
+   'n Tandy 1000 HX rekenaar saam met 'n Tandy DMP-133 kolmatriksdrukker.
+
+   Baie drukkers maak oor die algemeen staat op 'n matriks van piksels of
+   kolle wat saam 'n groter beeld vorm. Die term kolmatriksdrukker word
+   egter gereserveer vir impakdrukkers wat 'n matriks pennetjies gebruik
+   om die kolle te vorm. Die voordeel van kolmatriksdrukkers bo ander
+   impakdrukkers is dat hulle grafiese beelde asook teks kan lewer.
+
+   Kolmatriksdrukkers kan breedweg in twee hoofkategorieë verdeel word:
+     * Ballistiese draaddrukkers (meer inligting hieroor in die
+       Kolmatriksdrukker artikel)
+     * Gestoorde energie drukkers
+
+   Kolmatriksdrukkers kan óf karakter- (soos 'n tikmasjien) óf
+   lyngebaseerd (d.w.s. 'n enkele reeks horisontale piksels oor die blad
+   se wydte) wees, na gelang van die manier waarop die drukkerkop
+   saamgestel is.
+
+   Eens op 'n tyd was kolmatriksdrukkers die mees algemene soort drukker
+   in algemene gebruik. Sulke drukkers het gewoonlik 9 of 24 penne op die
+   drukkerknop bevat. Die 24-pen drukkerkoppe kon 'n hoër kwaliteit
+   drukwerk lewer. Hierdie drukker is egter grootliks met
+   inkstraaldrukkers vir algemene gebruik vervang.
+
+   Sommige kolmatriksdrukkers, byvoorbeeld die NEC P6300, kan opgegradeer
+   word om in kleur te druk. Dit word bewerkstellig deur 'n vierkleur lint
+   wat op die eenheid aangebring kan word. Kolmatriksdrukkers word steeds
+   in lae koste, lae kwaliteitstoepassings benut (soos in kasregisters of
+   vir baie hoë volume drukwerk soos die druk van fakture).
+
+[wysig] Termiese Drukkers
+
+   Termiese drukkers se werking berus op die verhitting van sekere gebiede
+   op spesiale papier wat sensitief en ten opsigte van hitte. Hierdie
+   drukkers word beperk tot spesiale doeleindes soos kasregisters en
+   faksmasjiene.
+
+[wysig] Pengebaseerde plotters
+
+   'n Plotter is 'n vektor grafika druktoestel waarvan die werking berus
+   op die beweging van 'n pen oor die oppervlak van die papier. Plotters
+   was (en word steeds) gebruik vir toepassings soos rekenaargesteunde
+   ontwerp, maar word vinnig deur wye formaat konvensionele drukkers
+   vervang. Daar word dikwels na sulke wye formaat drukkers as plotters
+   verwys al is die gebruik van die term vir sulke drukkers tegnies
+   verkeerd.
+
+[wysig] Eksterne skakels
+
+     * Mobile Imaging and Printing Consortium, MIPC.
+     * Printer Forums Forum oor drukkers en probleme met drukkers.
+     * Repair4Printer - 'n Samestelling van doen-dit-self gidse oor die
+       herstel van rekenaardrukkers.
+
+   Kategorie: Rekenaar
+

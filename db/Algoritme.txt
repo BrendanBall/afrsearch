@@ -1,0 +1,27 @@
+Algoritme
+
+
+   'n Algoritme is 'n eindige stel instruksies wat 'n sekere taak uitvoer.
+   Die instruksies kan die toestand van 'n stelsel verander vanaf die
+   oorspronklike toestand, na 'n voorspelbare eindtoestand. Algoritmes kan
+   gewoonlik geïmplementeer word met 'n rekenaarprogram, en word dus
+   gereeld geassosieer met rekenaarwetenskap, alhoewel algoritmes ook
+   gebruik word om oplossings vir probleme te beskryf sonder dat rekenaars
+   betrokke is.
+
+   Belangrike konsepte by algoritmes is onder andere:
+     * Sekwensie (die opeenvolging van instruksies)
+     * Herhaling
+     * Keuse (voorwaardelike uitvoer van instruksies)
+
+   Algoritmes moet nie verwar word met rekenaarprogramme nie. 'n Algoritme
+   beskryf die oplossing vir 'n probleem, terwyl 'n rekenaarprogram die
+   implementasie van die oplossing is in een of ander programmeertaal.
+
+[wysig] Sien ook
+
+     * Vloeikaart
+     * Datastruktuur
+
+   Kategorie: Rekenaarwetenskap
+

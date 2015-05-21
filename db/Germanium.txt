@@ -1,0 +1,191 @@
+Germanium
+
+
+
+   79                      gallium ← germanium → arseen
+   Si
+   ↑
+   Ge
+   ↓
+   Sn
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal germanium, Ge, 79
+                                              Chemiese reeks metaalagtiges
+                                             Groep, Periode, Blok 14, 4, p
+                                                          Voorkoms gryswit
+                                                Atoommassa 72.64 (1) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^2
+                                            Elektrone per skil 2, 8, 18, 4
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 5.323 g/cm³
+                                  Vloeistof digtheid teen s.p. 5.60 g/cm³
+                                                       Smeltpunt 1211.40 K
+                                                              (938.25 °C)
+                                                           Kookpunt 3106 K
+                                                                (2833 °C)
+                                              Smeltingswarmte 36.94 kJ/mol
+                                              Verdampingswarmte 334 kJ/mol
+                               Warmtekapasiteit (25 °C) 23.222 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1644 1814 2023 2287 2633 3104
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                      Oksidasietoestande 4
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 2.01 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                   (meer) 1ste: 762 kJ/mol
+                                                        2de: 1537.5 kJ/mol
+                                                       3rde: 3302.1 kJ/mol
+                                                        Atoomradius 125 pm
+                                                 Atoomradius (ber.) 125 pm
+                                                   Kovalente radius 122 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                          Termiese geleidingsvermoë (300 K) 60.2 W/(m·K)
+                               Termiese uitsetting (25 °C) 6.0 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 5400 m/s
+                                                      Mohs se hardheid 6.0
+                                              CAS-registernommer 7440-56-4
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van germanium
+
+                                 iso    NV   halfleeftyd VM VE (MeV)  VP
+                                ^68Ge sin    270.8 d     ε  -        ^68Ga
+                                ^70Ge 21.23% Ge is stabiel met 38 neutrone
+                                ^71Ge sin    11.26 d     ε  -        ^71Ga
+                                ^72Ge 27.66% Ge is stabiel met 40 neutrone
+                                ^73Ge 7.73%  Ge is stabiel met 41 neutrone
+                                ^74Ge 35.94% Ge is stabiel met 42 neutrone
+                                ^76Ge 7.44%  Ge is stabiel met 44 neutrone
+
+                                                                Verwysings
+
+   Germanium is 'n chemiese element in die periodieke tabel met die
+   simbool Ge en atoomgetal van 32. Dit is 'n glansende, harde silwerwit
+   metaalagtige element met chemiese eienskappe soortgelyk aan tin.
+   Germanium vorm 'n groot aantal organometaalverbindings en is 'n
+   belangrike halfgeleiermateriaal wat in transistors gebruik word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Geskiedenis
+        * 3 Gebruike
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Germanium is 'n harde, gryswit element met 'n metaalglans en dieselfde
+   kristalstruktuur as diamant. Verder is dit belangrik om kennis te neem
+   dat germanium 'n halfgeleier is met elektriese eienskappe tussen die
+   van 'n metaal en 'n isoleerder. In sy suiwer toestand is hierdie
+   metaalagtige 'n bros kristallyne materiaal wat sy glans in lug by
+   kamertemperatuur behou. Soneraffineringstegnieke het dit moontlik
+   gemaak om kristallyne germanium vir halfgeleiers te vervaardig met 'n
+   onsuiwerheid so laag soos een deel per 10^10.
+
+[wysig] Geskiedenis
+
+   In 1871 was germanium (Latyn Germania) een van die elemente wat deur
+   Dmitri Mendelejev voorspel is as 'n vermiste element (ekasilikon) uit
+   die silikon-groep. Die bestaan van die element is deur Clemens Winkler
+   in 1886 bevestig. Die ontdekking was 'n belangrike bevestiging van
+   Mendeleyev se idee van die periodieke aard van die elemente.
+   Germanium bak
+   Germanium bak
+    Vergelyking van Mendelejev se voorspelling
+   en die werklike eienskappe.
+       Eienskap     Ekasilikon     Germanium
+   atoommassa       72         72.59
+   digtheid(g/cm^3) 5.5        5.35
+   smeltpunt (°C)   hoog       947
+   kleur            grys       grys
+
+   Die ontwikkeling van die germanium-transistor het die weg gebaan vir
+   ontelbare toepassings van vastetoestand elektronika. Vanaf 1950 tot die
+   vroeë sewentigs was hierdie 'n groeiende afsetmark vir germanium totdat
+   hoë suiwerheid silikon germanium in transistors, diodes en
+   gelykrigters. Silikon het meerderwaardige elektriese eienskappe maar
+   verg 'n baie hoër suiwerheid wat nie vroeër moontlik was om kommersieël
+   te vervaardig nie. Die vraag na Germanium vir gebruik in optiese vesel
+   kommunikasienetwerke, infrarooi nagsigtoerusting en
+   polimerisasiekataliste het intussen dramaties verhoog. Hierdie gebruike
+   het ongeveer 85% van die wêreldwye verbruik van germanium in die jaar
+   2000 verteenwoordig.
+
+[wysig] Gebruike
+
+   Anders as die meeste halfgeleiers het germanium 'n klein bandgaping,
+   wat dit toelaat om effektief op infrarooilig te reageer. Dit word
+   daarom gebruik in infrarooi spektroskope en ander optiese toerusting
+   wat uiters sensitiewe infrarooi detektors vereis. Die oksied van
+   germanium se brekingsindeks en verstrooiïngseienskappe maak germanium
+   nuttig vir gebruik in wyehoeklense in kameras en in mikroskope se
+   lense.
+
+   Die legering Silkongermanied (SiGe) is vinnig besig om 'n uiters
+   belangrike halfgeleiermateriaal vir gebruik in hoë-spoed geïntegreerde
+   stroombane te word. Stroombane wat die eienskappe van Si-SiGe brûe
+   benut is baie vinniger as dié wat slegs silikon gebruik.
+
+   Ander gebruike:
+     * Legerings;
+     * Fosfor in fluoresserende lampe
+     * As 'n katalis
+     * Hoë suiwerheid germaniumkristaldetektors kan gebruik word om die
+       presiese bron van straling vas te stel (bv. vir lugvaartveiligheid)
+
+   Sekere verbindings van germanium het 'n lae giftigheid tot soogdiere
+   maar is giftig vir sekere bakterieë. Dit maak germanium nuttig as 'n
+   chemoterapeutiese middel.
+
+[wysig] Verspreiding
+
+   Die metaal word gevind in argirodiet ('n sulfied van germanium en
+   silwer), steenkool, germaniet, sinkertse en ander minerale.
+
+   Germanium word kommersieël ontgin vanuit sinkerts deur die stof uit
+   smeltoonde te behandel en uit die verbrandingsprodukte van sekere
+   soorte steenkool.
+
+   Hierdie metaalagtige kan ontgin word vanuit ander metale deur
+   fraksionele distillasie van die vlugtige tetrachloried. Hierdie tegniek
+   maak die vervaardiging van ultra-hoë suiwerheid germanium moontlik.
+
+   In 1997 was die koste van germanium ongeveer $3 per gram (V.S.A). Die
+   sluitingsprys vir die jaar 2000 van germanium was $1 150 per kilogram
+   (of $1.15 per gram).
+
+[wysig] Verbindings
+
+     * Germanium tetrahidried (GeH[4]),
+     * Germanium tetrachloried (GeCl[4])
+     * Germanium dioksied (germania) (GeO[2])
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Germanium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Germanium
+     * WebElements.com – Artikel oor Germanium
+
+   Kategorieë: Chemiese elemente • Halfgeleiers
+

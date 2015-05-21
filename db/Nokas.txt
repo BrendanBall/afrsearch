@@ -1,0 +1,93 @@
+Nokas
+
+
+   Rekenaaranimasie van 'n nokas se werking
+   Rekenaaranimasie van 'n nokas se werking
+   Nokas van 'n 4 silinder enjin
+   Nokas van 'n 4 silinder enjin
+   Komponente van 'n tipiese, vierslagsiklus, Dubbel oorhoofse nokasenjin.
+   (E) Uitlaat nokas, (I) Inlaat nokas, (S) Vonkprop, (V) kleppe, (P)
+   Suier, (R) Verbindingstang, (C) Krukas, (W) Waterholtes vir
+   verkoelervloei.
+   Komponente van 'n tipiese, vierslagsiklus, Dubbel oorhoofse nokasenjin.
+   (E) Uitlaat nokas, (I) Inlaat nokas, (S) Vonkprop, (V) kleppe, (P)
+   Suier, (R) Verbindingstang, (C) Krukas, (W) Waterholtes vir
+   verkoelervloei.
+   Dubbele oorhoofse nokasse beheer die oop- en toemaak van 'n silinder se
+   kleppe
+   Dubbele oorhoofse nokasse beheer die oop- en toemaak van 'n silinder se
+   kleppe
+
+   Die nokas is 'n toestel wat in suierenjins gebruik word om die kleppe
+   te maak werk. Dit bestaan uit 'n silindriese stang wat teen die lengte
+   van die silinderbank afloop met 'n aantal lobbe of nokke wat daarop
+   gemonteer is, een vir elke klep. Die nokke dwing die kleppe oop deur op
+   hulle stange, of 'n tussenmeganisme te druk, wanneer hulle draai.
+
+   Die verwantskap tussen die omwenteling van die nokas en die omwenteling
+   van die krukas is van kritiese belang. Aangesien die kleppe die vloei
+   van die brandstof-lugmengsel asook die uitlaat beheer, moet hulle op
+   die regte tyd oop- en toegemaak word tydens die suierslag.
+
+   Om hierdie rede word die nokas óf direk aan die krukas deur middel van
+   'n ratmeganisme verbind óf indirek deur 'n band of ketting. In sommige
+   ontwerpe dryf die nokas ook die vonkverdeler asook die olie- en
+   brandstofpompe aan. Op van die ouer brandstofinspuitingstelsels, het
+   die nokke op die nokas die brandstofinspuiters aangedryf.
+
+   In 'n tweeslagsiklusenjin, wat van 'n nokas gebruik maak, word elke
+   klep eenkeer met elke omwenteling van die krukas oopgemaak; in hierdie
+   enjins draai die nokas teen dieselfde tempo as die krukas. In 'n
+   vierslagsiklusenjin maak die kleppe slegs eenkeer oop vir elke twee
+   omwentelinge van die krukas.
+
+   Afhangende van die ligging van die nokas, kan die nokke die kleppe
+   direk aandryf of indirek deur verbindingstange. Direkte aandrywing
+   behels 'n eenvoudiger meganisme met gevolglik minder bewegende dele wat
+   minder falings tot gevolg het, maar dit vereis dat die nokas aan die
+   bokant van die silinders gemonteer moet word. Die oorhoofse montering
+   van die nokas is deesdae 'n algemene verskynsel in moderne enjins.
+   Sommige enjins gebruik twee nokasse, een vir die inlaat- en een vir die
+   uitlaatkleppe. So 'n rangskikking staan bekend as 'n Dubbele oorhoofse
+   nokas {Engels: Dual overhead cam (DOHC)}. 'n V-enjin kan dus soveel as
+   vier nokasse hê.
+   Ratte vir kleptydreëling op 'n Ford V4 enjin - Die ratverhouding is
+   sodanig dat die nokas teen die helfte van die krukas se
+   omwentelingsnelheid draai
+   Ratte vir kleptydreëling op 'n Ford V4 enjin - Die ratverhouding is
+   sodanig dat die nokas teen die helfte van die krukas se
+   omwentelingsnelheid draai
+
+   Die tuimelaar of nokvolger sluit soms 'n meganisme in wat dit moontlik
+   maak om die klepspeling met die hand te verstel, die meeste moderne
+   enjins het egter hidroliese nokvolgers wat dit onnodig maak om die
+   klepspeling op 'n gereelde grondslag te hersien.
+
+   Die wrywing tussen die oppevlak van die nok en die nokvolger wat
+   daaroor beweeg is betekenisvol. Om die verwering by hierdie punt te
+   verminder, word die oppervlaktes van die nok en die nokvolger verhard
+   en moderne smeringsmiddel bevat bymiddels wat spesifiek daarop gemik is
+   om die glyweerstand te verminder. Die lobbe van die nokas is gewoonlik
+   effens taps gemaak, wat meebring dat die nokvolgers of klepopligters om
+   effens te draai elke keer as dit afgedruk word, wat help om die
+   verwering oor die onderdeel te versprei. Die oppervlaktes van die nok
+   en nokvolger is ontwerp om bymekaar "in te werk" en daarom moet albei
+   onderdele verkieslik vervang word as een van die komponente vervang
+   moet word om oormatige verwering te vermy. In sommige enjins is die
+   plat oppervlaktes met rollers vervang wat die glywrywing verminder maar
+   dit verhoog ongelukkig die massa van die klepstel.
+
+   Buiten die meganiese wrywing, word daar ook heelwat krag vereis om die
+   kleppe se vere, wat die kleppe toemaak, saam te pers. Die energie
+   benodig kan soveel wees as 25% van die enjin se kraglewering by
+   luierspoed en verminder die oorhoofse doeltreffendheid. Twee
+   benaderings is al probeer om die "vormorsde" energie te herwin maar
+   beide was moeilik om te implementeer:
+     * Veerlose kleppe, soos die desmodromic-stelsel wat deur Ducati
+       gebruik word.
+     * Noklose klepstelle wat solenoïed-skakelaars of magnetiese stelsels
+       gebruik is lank deur BMW ondersoek en verskyn in prototipes van
+       Valeo en Ricardo.
+
+   Kategorie: Voertuigtegnologie
+

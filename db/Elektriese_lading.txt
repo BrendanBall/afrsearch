@@ -1,0 +1,144 @@
+Elektriese lading
+
+
+   Elektriese lading is 'n fundamentele, behoue eienskap van sommige
+   subatomiese deeltjies wat hul elektromagnetiese interaksies bepaal.
+   Elektronies gelaaide materie word beïnvloed deur- en wek
+   elektromagnetiese velde op. Die interaksie tussen bewegende lading en
+   'n elektromagnetiese veld veroorsaak die elektromagnetiese krag wat een
+   van die vier fundamentele kragte is.
+
+   Elektriese lading is 'n eienskap van sommige subatomiese deeltjies, en
+   word gediskretiseer wanneer uitgedruk word as 'n veelvoud van die
+   sogenaamde elementêre lading e. Elektrone het volgens konvensie 'n
+   lading van -1, terwyl protone die teenoorgestelde lading van +1 het.
+   Kwarke het 'n breukdeel lading van -1/3 of +2/3. Die ekwivalente
+   antideeltjies het teenoorgestelde ladings. Daar is ook ander gelaaide
+   deeltjies.
+
+   In die algemeen stoot gelaaide deeltjies met dieselfde-teken lading
+   mekaar af, terwyl deeltjies met teenoorgestelde-teken ladings mekaar
+   aantrek. Hierdie effek word kwantitatief deur Coulomb se wet
+   uitgedruik, wat sê dat die grootte van die afstootkrag is eweredig aan
+   die produk van die twee ladings, en verswak eweredig tot die kwadraat
+   van die afstand tussen die ladings.
+
+   Die elektriese lading van 'n makroskopiese voorwerp is die som van die
+   elektriese ladings van die voorwerp se saamgestelde dele. Die netto
+   elektriese lading is gewoonlik nul, aangesien die natuurlike getal
+   elektrone in elke atoom gelyk is aan die getal protone, en die ladings
+   dus uitkanselleer. Die gevalle waar die netto lading nie nul is nie
+   word gereeld na verwys as statiese elektrisiteit. Verder, selfs al is
+   die netto lading nul, kan dit nie-univorm verprei wees (bv. a.g.v. 'n
+   eksterne elektriese veld), en die materiaal is dan gepolariseer, met
+   die lading verwant aan die polarisasie staan bekend as gebinde lading
+   (terwyl die oortollige lading van buite die materiaal bekend staan as
+   vrye lading). 'n Ge-ordende beweging van gelaaide deeltjies in 'n
+   spesifieke rigting (in metale is dit elektrone) staan bekend as
+   elektriese stroom. Die diskrete natuur van elektriese lading was deur
+   Michael Faraday voorgestel in sy elektroliese eksperimente, en direk
+   gedemonstreer deur Robert Millikan in sy oliedruppel eksperiment.
+
+   Die SI eenheid vir elektrisiteit kwantiteit of elektriese lading is die
+   coulomb, wat benaderd 6.24 × 10^18 elementêre ladings is(die lading is
+   'n enkele elektron of proton). Die coulomb word gedefinieer as die
+   hoeveelheid lading wat in een sekonde deur die deursnit van 'n
+   elektriese geleier, wat een ampeer dra, vloei. Die simbool Q word
+   gereeld gebruik om die hoeveelheid elektrisiteit of lading aan te toon.
+   Die hoeveelheid elektriese lading kan direk gemeet word met 'n
+   elektrometer, of indirek gemeet met 'n ballistiese galvanometer.
+
+   In formele terme moet die hoeveelheid lading as 'n veelvoud van die
+   elementêre lading e (lading is diskreet, maar dit is 'n gemiddelde ,
+   macroskopiese waarde, vele grotte ordes meer as 'n enkele elementêre
+   lading, kan dit effektiewelik enige reële waarde aanneem. Verder, in
+   sommige gevalle is dit meer betekenisvol om van breukdele van 'n lading
+   te praat; bv. tydens die laai van 'n kapasitor.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Eienskappe
+        * 3 Behoud van Lading
+        * 4 Verwysings
+
+[wysig] Geskiedenis
+
+   Coulomb's torsion balance
+   Coulomb's torsion balance
+
+   Soos gerapporteer deur die Antieke Griekse Filosoof Thales van Miletus
+   in ca 600vC, kan lading (of elektrisiteit bymekaar gemaak word deur
+   pels teen verskeie materiale te vryf, soos amber. Die Grieke het gemerk
+   dat die gelaaide amber knopies ligte voorwerpe soos hare kon aantrek.
+   Hulle het ook gemerk dat as hulle die amber vir lank genoeg vryf kon
+   hulle 'n vonk laat spring. Hierdie eienskap lei vanaf die
+   en:triboelectric effect.
+
+   In 1600 het die Engelse wetenskaplike William Gilbert teruggekeer na
+   die onderwerp in De Magnete, en het die Nieu-Latyn woord electricus
+   geskep van ηλεκτρον , die Griekse woord vir "amber", wat gelei het tot
+   die Engelse woorde "electric" en "electricity". Hy is in 1660 deur Otto
+   von Guericke gevolg, wat, moontlik die eerste, elektrostatiese
+   generator uitgevind het. Ander Europese pioniers was Robert Boyle, wat
+   in 1675 verklaar het dat elektriese aantrekking en afstoting oor 'n
+   vakuum uitgeoefen kan word; Stephen Gray, wat in 1729 materiale as
+   geleiers en isolators geklassifiseer het; en C.F. du Fay, wat in 1733
+   [1] voorgestel het dat elektrisiteit in twee tipes voorkom wat mekaar
+   uitkanselleer, en het dit uitgedruk in terme van 'n twee-vloeistof
+   teorie. Wanneer glas met sy gevryf is , het du Fay gesê dat die glas
+   met vitreous elektrisiteit gelaai is, en wanneer amber met pels gevryf
+   was, dat die amber gelaai is met resinous elektrisiteit. In 1839 het
+   Michael Faraday gewys dat die skynbare skeiding tussen statiese
+   elektrisiteit, stroom elektrisiteit en bioelektrisiteit verkeerrd was,
+   en dat almal die gevolg was van die optrede van 'n enkele tipe
+   elektrisiteit wat in teenoorgestelde polariteite te voorskyn kom. Dit
+   is arbitrêr watter polariteit positief genoem word. Positiewe lading
+   kan gedefinieer word as die oorblywende lading op 'n glas staaf nadat
+   dit met sy gevryf is. ^[1]
+
+[wysig] Eienskappe
+
+   Benwens die einskappe beskryf in artikels oor elektromagnetisme, is
+   lading 'n relatiwistiese invariant. Dit beteken dat wanneer 'n partikel
+   'n lading q het, ongeag van die snelheid waarteen dit beweeg, behou dit
+   die lading q. Hierdie eienskap is eksperimenteel bevestig deur te bewys
+   dat een helium kern (twee protone en twee neutrone saamgebind in 'n
+   kern en beweeg rond teen hoë spoed) is dieselfde as twee deuterium
+   kerne (een proton en een neutron saamgebind, maar wat baie stadiger
+   beweeg as wanneer hulle in 'n helium kern sou wees).
+
+[wysig] Behoud van Lading
+
+   Die totale elektriese lading van 'n geïsoleerde stelsel bly konstant
+   ongeag van veranderings binne die stelsel. Hierdie wet is inhirent deel
+   van alle prosesse bekend in die fisika en kan afgelei word in 'n lokale
+   vorm vanaf die guage invariance van die golfvergelyking. Die behoud van
+   lading veroorsaak die lading-stroom kontinuïteitsvergelyking. Meer
+   algemeen, die netto verandering in lading digtheid ρ binne 'n volume
+   van integrasie V is gelyk aan die area-integraal oor die stroom
+   digtheid J op die oppervlak van die area S, wat op sy beurt weer gelyk
+   is aan die netto stroom I:
+
+          - \frac{d}{dt} \int_V \rho\, \mathrm{d}V = \int_S \mathbf{J}
+          \cdot \mathrm{d}\mathbf{S} = \int J S \cos\theta = I.
+
+   Dus, die omskakeling van elektreise lading, soos deur die
+   kontinuïteitsvergelyking, gee die resultaat:
+
+          I = -\frac{dQ}{dt}
+
+   waar I die netto uitwaartse stroom deur 'n geslote opppervlak is, en Q
+   die elektriese lading is binne die volume gedefinieer deur die
+   oppervlak.
+   Die res van hierdie artikel moet vertaal word. Indien die artikel nie
+   vertaal of oorgeskryf word binne die volgende twee weke nie, sal dit
+   gelys word vir verwydering.
+
+[wysig] Verwysings
+
+    1. ^ Electromagnetic Fields (2nd Edition), Roald K. Wangsness, Wiley,
+       1986. ISBN 0-471-81186-6 (intermediêre vlak handboek)
+
+   Kategorie: Fisika
+

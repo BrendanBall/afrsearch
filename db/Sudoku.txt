@@ -1,0 +1,112 @@
+Sudoku
+
+
+   'n Sudoku-raaisel (beeld gekoppel aan oplossing).
+   'n Sudoku-raaisel (beeld gekoppel aan oplossing).
+
+   Sudoku (数独, uitgespreek sūdoku in Japannees) is a kopkrapper wat
+   gegrond is op 'n logiese plasing van syfers in 'n 9×9 rooster. Hierdie
+   rooster bestaan op sy beurt uit nege 3×3 roosters, en word afgeskop met
+   verskeie syfers wat in party selle voorsien is. In elke ry, kolom en
+   3×3 rooster mag enige syfer slegs een maal voorkom. Om die kopkrapper
+   te voltooi verg uithouvermoë en logiese vaardigheid. Alhoewel die
+   raaisel vir die eerste keer in 1895 in 'n Franse koerant gepubliseer
+   is, het dit gedurende 1986 in Japan 'n oplewing beleef, en het dit in
+   2005 internasionaal gewild geword.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 Die spel
+        * 3 Strategieë vir die oplossing
+             + 3.1 Rondsoek
+
+[wysig] Inleiding
+
+   Die naam "Sudoku" is die Japannese afkorting van 'n langer frase,
+   "Suuji wa dokushin ni kagiru" (数字は独身に限る), wat beteken "die syfers moet
+   enkel bly." Dit is 'n handelsmerk van Nikoli in Japan. In Japannees
+   word dit as [sɯːdokɯ] uitgespreek — sien Internasionale Fonetiese
+   Alfabet vir nadere inligting. Alternatiewelik word die titel as "Su
+   Doku" gespel.
+
+   Die syfers in Sudoku-raaisels word slegs vir gerief gebruik: die
+   wiskundige verhoudings tussen syfers is heeltemal oorbodig, en enige
+   stel simbole sal voldoen: letters, vorms of selfs kleure kan gebruik
+   word sonder om die reëls te verander. Vir eenvoud word daar in hierdie
+   artikel na syfers verwys.
+
+   Die aantrekkingskrag van hierdie raaisel is sy eenvoudige reëls,
+   alhoewel die redenasie wat tot voltooiing lei, kompleks kan wees.
+   Sudoku word deur sommige leerders aangeraai as 'n oefening in logiese
+   beredenering. Die moeilikheidsgraad van die raaisels kan gekies word om
+   by die gehoor te pas. Die raaisels is verder dikwels vryelik beskikbaar
+   in gepubliseerde bronne, maar kan ook nuut geskep word deur
+   rekenaarprogramme.
+
+[wysig] Die spel
+
+   In sy bekendste vorm word die spel in 'n 9×9 rooster aangebied, wat
+   verder uit nege 3×3 roosters bestaan, en kan na verwys word as
+   'streke', 'blokke' of selfs 'kwadrante'. Party selle bevat reeds
+   syfers, wat as leidrade optree. Die doel is om die leë selle te vul met
+   syfers, sodat elke kolom, ry en streek die syfers 1-9 slegs een maal
+   bevat. Elke syfer in die oplossing verskyn dus slegs een maal in elkeen
+   van die drie "rigtings".
+
+[wysig] Strategieë vir die oplossing
+
+   Om die raaisel op te los moet drie prosesse gevolg word: rondsoek, merk
+   en analise.
+   Die 3×3 streek regs bo moet 'n 5 bevat. Deur kolomme en rye uit te krap
+   wat elders 5'e bevat, kan alle ander posisies elimineer word. Dit laat
+   slegs een moontlike posisie vir die 5, wat in groen gemerk is.
+   Die 3×3 streek regs bo moet 'n 5 bevat. Deur kolomme en rye uit te krap
+   wat elders 5'e bevat, kan alle ander posisies elimineer word. Dit laat
+   slegs een moontlike posisie vir die 5, wat in groen gemerk is.
+
+[wysig] Rondsoek
+
+   Dit is die eerste stap, asook een wat dwarsdeur die oplossing gedoen
+   word. Daar hoef slegs gesoek te word tussen analise-stappe, en bestaan
+   uit twee basiese tegnieke:
+     * Uitkrap: Dit behels die deursoek van rye (of kolomme) om te bepaal
+       watter lyn in 'n spesifieke streek 'n gegewe syfer mag bevat, en
+       word deur 'n proses van eliminasie gevind. Die proses word dan
+       herhaal met kolomme (of rye). Vir die vinnigste resultate word
+       syfers uitgekrap volgens hulle frekwensie van verskyning. Dit is
+       belangrik om hierdie stap sistematies te doen, en al die syfers te
+       toets van 1 tot 9.
+     * Tel van 1-9 in streke, rye en kolomme om vermiste syfers te vind:
+       Deur vanaf die laaste ontdekte syfer te tel, kan jy die soektog
+       bespoedig. Dit is ook die geval — veral wanneer die raaisels
+       moeiliker raak — deur dit verkeerdom te benader: d.w.s., deur die
+       sel se streek, ry en kolom te deursoek vir syfers wat dit
+       onmoontlik kan wees om die oorblywende waardes te bepaal.
+
+   Kandidate vir elke leë sel is ingevul. Wanneer onmoontlike kandidate
+   verwyder word, het sommige selle slegs een kandidaat. In sommige
+   gevalle merk spelers met kolletjies in plaas van syfers, en gebruik
+   slegs die posisie van die kol in die sel om hulle te onderskei. (Kliek
+   op die beeld vir 'n groter weergawe)
+   Kandidate vir elke leë sel is ingevul. Wanneer onmoontlike kandidate
+   verwyder word, het sommige selle slegs een kandidaat. In sommige
+   gevalle merk spelers met kolletjies in plaas van syfers, en gebruik
+   slegs die posisie van die kol in die sel om hulle te onderskei. (Kliek
+   op die beeld vir 'n groter weergawe)
+   'n Metode om moontlike syfers in 'n enkele sel te merk deur
+   potloodkolletjies te gebruik. Om die getal kolletjies in elke sel te
+   beperk moet 'n volledige soektog eers voltooi word om alle onmoontlike
+   kandidate uit te skakel. Kolletjies kan ook uitgevee word wanneer hulle
+   ooreenstemmende syfers uitgeskakel word as kandidate.
+   'n Metode om moontlike syfers in 'n enkele sel te merk deur
+   potloodkolletjies te gebruik. Om die getal kolletjies in elke sel te
+   beperk moet 'n volledige soektog eers voltooi word om alle onmoontlike
+   kandidate uit te skakel. Kolletjies kan ook uitgevee word wanneer hulle
+   ooreenstemmende syfers uitgeskakel word as kandidate.
+
+   Die vertaling van die res van hierdie artikel is steeds onvoltooid.
+   Voel vry om self die res aan te pak, en verwyder dan hierdie
+   kennisgewing wanneer die werk voltooi is.
+   Kategorieë: Bladsye wat vertaal moet word • Speletjies • Sudoku
+

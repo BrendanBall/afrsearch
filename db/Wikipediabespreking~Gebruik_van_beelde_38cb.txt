@@ -1,0 +1,41 @@
+Wikipediabespreking:Gebruik van beelde
+
+
+[wysig] Beeldgrootte
+
+   Hier volg sommer 'n paar notas/opmerkings om die begin van riglyne vir
+   beeldgrootte te wees. --Alias 13:53, 2 Maart 2006 (UTC)
+     * Vir meeste artikels staan die teks sentraal en die uitleg moet
+       eerstens ter wille van die vloei van die teks geoptimeer word.
+     * In artikels met grafika, kan beelde wat te groot is in die artikel,
+       maak dat 'n artikel baie stadig laai.
+     * Solank as wat "thumb" gebruik word, sal 'n leser hopelik sien dat
+       hulle daarop kan klik om by die volgrootte weergawe te kom.
+
+   In grafika wat teks bevat (kaarte, diagramme, ens.) speel die
+   grootte/leesbaarheid van die teks ook 'n rol:
+     * In sommige gevalle (sien bv Afrika) is 'n kaart eenvoudig te groot
+       en sal waarskynlik nooit op leesbare grootte kan veroon nie.
+     * Leesbaarheid word beïnvloed deur 'n paar faktore:
+          + Die aantal beeldelemente (pixels) wat gebruik word vir die
+            teks
+          + Die skermresolusie van die leser (in elemente per duim) - teks
+            op 'n kaart sal noodwendig kleiner vertoon op 'n
+            hoëresolusieskerm
+          + Die gebruik van antialiasering om gladde teks in die beeld te
+            bewerkstellig
+          + Hoe goed die leser se oë is. Mense met swakker oë kan teks
+            vergroot, maar die teks in 'n kaart sal dieselfde grootte bly.
+            Dit is moontlik onrealisties dat teks altyd leesbaar sal wees
+            op enigiets behalwe die volgrootte weergawe.
+     * Aangesien party teks op kaarte in elkgeval baie klein is, sal dit
+       waarskynlik nie maklik leesbaar wees in 'n verkleinde weergawe nie.
+     * Moontlik is 'n verkleinde kaart se enigste doel om buitelyne of
+       groot formasies en grense aan te dui, met die hoëresolusieweergawe
+       wat al die detail sigbaar maak.
+
+   Ander dinge om te oorweeg:
+     * Hoe lyk 'n drukstuk van die artikel?
+     * Is die grafika steeds op sinvolle plekke met variërende uitleg op
+       verskillende skerms?
+

@@ -1,0 +1,30 @@
+Modem
+
+
+   'n Modem is 'n toestel wat 'n analoë draersein moduleer om digitale
+   inligting te enkodeer en demoduleer so 'n draersein om die versende
+   data te ontsyfer. Die doel hiervan is om 'n sein te produseer wat
+   maklik versend en ontsyfer kan word om weer die oorspronklike data te
+   verkry. Modems kan gebruik word in vele toepassings waar analoë seine
+   ingespan word om data te versend en wissel van aangedrewe diodes tot
+   radio. Eksperimente is al selfs uitgevoer met die gebruik van modems
+   tussen twee blikke wat met 'n draad verbind is! Die mees algemene
+   voorbeeld van 'n modem skakel die ene en nulle van 'n persoonlike
+   rekenaar om na klanke wat dan oor telefoonlyne versend word en wanneer
+   dit aan die ander kant ontvang word, word die inligting dan weer na ene
+   en nulle omgeskakel. Modems word oor die algemeen geklassifiseer
+   volgens die hoeveelheid data wat hulle in 'n gegewe tydperk kan oordra
+   en word normaalweg is bisse per sekonde of "bps" gemeet.
+
+   Veel meer eksotiese modems word deesdae daagliks deur
+   internetgebruikers ingespan, veral die kabelmodems en ADSL modems. In
+   telekommunikasie word "radiomodems" gebruik om herhaalde datarame teen
+   baie hoë tempo oor mikrogolfradioverbindings te versend. Sommige
+   mikrogolfmodems versend meer as 'n honderd miljoen bisse per sekonde.
+   Optiese modems kan data oor optiese vesels versend. Die meeste
+   interkontinentale dataverbindings gebruik deesdae optiese modems wat
+   data deur ondersese optiese veselkabels versend. Optiese modems het
+   dikwels dataversendingstempos wat 'n biljoen (1x10^9) bisse per sekonde
+   oorskry.
+   Kategorie: Rekenaar
+

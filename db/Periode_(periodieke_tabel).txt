@@ -1,0 +1,55 @@
+Periode (periodieke tabel)
+
+
+   In die periodieke tabel van die elemente is 'n periode 'n horisontale
+   ry van die tabel. Periodesingedelings wortd gedoen gegrond op die
+   elektronkonfigurasie van die elemente. Elke periode eindig aan die
+   regterkant van die periodieke tabel met 'n edelgas waarvan die
+   buitenste elektronskil heeltemal gevul is. Omdat die skille nie almal
+   eweveel elektrone bevat nie, is die periodes nie almal ewe lank nie.
+   Daar is 'n direkte verband tussen die periodenommers en die
+   hoofkwantumgetalle van die skil wat in die periode gevul word.
+
+   Die aantal elektronskille van 'n atoom bepaal aan watter periode dit
+   behoort. Elke skil word in verskillende subskille verdeel, wat met
+   toenemende atoomgetal rofweg in die onderstaande volgorde gevul word:
+1s
+2s           2p
+3s           3p
+4s        3d 4p
+5s        4d 5p
+6s     4f 5d 6p
+7s     5f 6d 7p
+8s  5g 6f 7d 8p
+...
+
+   Daarom die struktuur van die periodieke tabel. Aangesien die heel
+   buitenste elektrone chemiese eienskappe bepaal, is dit gewoonlik
+   soortgelyk binne periodieketabelgroepe.
+
+   Elemente langs mekaar binne 'n 'n groep het soortgelyke fisiese
+   eienskappe, ondanks die beduidende verskil in massa. Elemente langs
+   mekaar binne 'n periode het soortgelyke massa maar verskillende
+   eienskappe.
+
+   Daar is in totaal sewe periodes in die periodieke tabel wat van 1 tot 7
+   genommer is.
+
+   Ander groeperinge in die periodieke tabel is:
+     * groep
+     * blokke
+     * reekse
+
+   Kyk ook:
+     * Periode 1 element
+     * Periode 2 element
+     * Periode 3 element
+     * Periode 4 element
+     * Periode 5 element
+     * Periode 6 element
+     * Periode 7 element
+     * Periode 8 element
+     * Periode 9 element
+
+   Kategorie: Periodieke tabel
+

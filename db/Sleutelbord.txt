@@ -1,0 +1,31 @@
+Sleutelbord
+
+
+   Uitleg van 'n 104-sleutel QWERTY sleutelbord
+   Uitleg van 'n 104-sleutel QWERTY sleutelbord
+   Uitleg van 'n Dvorak-sleutelbord
+   Uitleg van 'n Dvorak-sleutelbord
+   'n Standaard Hebreeuse sleutelbord met Hebreeuse/ QWERTY sleutels.
+   'n Standaard Hebreeuse sleutelbord met Hebreeuse/ QWERTY sleutels.
+
+   'n Sleutelbord is 'n rekenaar toestel, soortgelyk aan 'n tikmasjien,
+   wat gebruik word om 'n rekenaar mee te beheer.
+
+   Fisies bestaan 'n sleutelbord uit 'n versameling reghoekige knoppies,
+   of sleutels. Sleutelborde het tipies karakters op die sleutels wat
+   aandui watter simbool geproduseer gaan word as die sleutel gedruk word.
+   Meeste sleutels produseer 'n enkele simbool, minder algemene simbole
+   kan geproduseer word deur sekere sleutels gelyktydig of in sekwensie te
+   druk.
+
+   Ongeveer 50% van alle sleutels produseer letters, nommers of tekens
+   (karakters). Ander sleutels kan aksies uitvoer wanneer hulle gedruk
+   word. Sekere aksies is beskikbaar deur een of meer aksie sleutels
+   gelyktydig te druk.
+
+[wysig] Eksterne skakels
+
+     * Afrikaanse sleutelbord
+
+   Kategorie: Rekenaar
+

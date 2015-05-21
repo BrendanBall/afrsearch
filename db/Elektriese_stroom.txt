@@ -1,0 +1,54 @@
+Elektriese stroom
+
+
+   Elektriese stroom is die vloei (beweging) van elektriese ladings. Die
+   SI-eenheid van elektriese stroom is die ampere (A), wat gelykstaande
+   aan 'n vloei van een coulomb se lading per sekonde.
+
+[wysig] Definisie
+
+   Die hoeveelheid elektriese stroom (gemeet in ampere) deur 'n sekere
+   oppervlak, bv. die deursnee van 'n kopergeleier, word gedefinieer as
+   die hoeveelheid elektriese lading (gemeet in coulomb) wat deur sodanige
+   oppervlak per eenheidstyd vloei. As Q die hoeveelheid lading is wat
+   deur die oppervlak vloei in 'n tyd T, dan is die gemiddelde stroom I
+   gelyk aan:
+
+          I = \frac{Q}{T}.
+
+   Deur 'n oneindig klein tydsinterval te gebruik kan die onmiddelike
+   stroom i(t) as volg uitgedruk word:
+
+          i(t) = \frac{dQ}{dt}.
+
+   Die ampere, die mate van elektriese stroom, is 'n SI-basiseenheid wat
+   beteken dat die mate van elektriese lading afgelei word vanaf die
+   definisie van die ampere.
+
+[wysig] Stroom in 'n metaaldraad
+
+   In 'n soliede geleidende metaal is daar 'n groot aantal mobiele vrye
+   elektrone. Hierdie elektrone is aan die metaalraamwerk verbind maar nie
+   tot enige indiwiduele atoom nie. Selfs sonder die toepassing van 'n
+   eksterne elektriese veld, beweeg hierdie elektrone willekeurig rond as
+   gevolg van termiese energie. Daar is egter geen netto stroom in die
+   metaal nie, omdat die aantal elektrone wat vloei van een kant van 'n
+   denkbeeldige vlak waardeur die draad loop na 'n ander kant daarvan in
+   enige tydsinterval gelyk is aan die aantal elektrone wat in die
+   teenoorgestelde rigting beweeg.
+   'n Tipiese metaaldraad wat gebruik word vir elektriese geleiding is die
+   gevlegde koperdraad.
+   'n Tipiese metaaldraad wat gebruik word vir elektriese geleiding is die
+   gevlegde koperdraad.
+
+   Wanneer 'n metaaldraad verbind word aan die twee terminale van 'n
+   gelykstroom spanningsbron soos 'n battery, veroorsaak die bron 'n
+   elektriese veld oor die geleier. Die oomblik wanneer kontak gemaak
+   word, word die vrye elektrone gedwing om na die positiewe terminaal te
+   beweeg onder die invloed van hierdie veld. Die vrye elektrone kan
+   daarom beskou word as die stroomdraer in 'n tipiese vastestofgeleier.
+   Vir 'n elektriese stroom van 1 ampere, beweeg 1 coulomb se elektriese
+   lading elke sekonde deur die denkbeeldige vlak waardeur die geleier
+   loop.
+   Kategorieë: Elektrisiteit • Elektronika
+

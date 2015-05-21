@@ -1,0 +1,32 @@
+Termiese lugskip
+
+
+   'n Warmlug lugskip deur Gefa-Flug vervaardig
+   'n Warmlug lugskip deur Gefa-Flug vervaardig
+
+   'n Termiese lugskip is 'n lugskip wat sy stygvermoë te danke het aan 'n
+   temperatuurverskil tussen die gas binne-in die vaartuig en die
+   omringende lug. Dit is in teenstelling met die algemene gebruik van
+   Helium as 'n ligter as lug gas om die stygvermoë te verkry. Die meeste
+   termiese lugskepe vandag gebruik warm lug net soos in die geval van
+   warmlugballonne.
+
+[wysig] Voordele en Nadele
+
+   Termiese lugskepe het die voordeel dat hulle goedkoper is as
+   helium-gebaseerde lugskepe. Hulle kan afgeblaas word na elke vlug en
+   maklik verpak en vervoer word.
+
+   Warmlugvaartuie se stygvermoë is egter laer per eenheidsvolume as
+   helium- of waterstofgevulde vaartuie (ongeveer 30%) afhangende van die
+   atmosferiese toestande). Dit maak ligter boumetodes noodsaaklik met
+   minder beheerelemente wat die hantering van sulke vaartuie moeiliker
+   maak en lei tot:
+     * Laer snelhede
+     * Moeilike hantering op die grond as die windsnelheid 5 knope
+       oorskry.
+     * Trae stuurkenmerke veral teen lae snelhede.
+     * Gebrekkige beheer oor die horisontale oriëntasie van die vaartuig.
+
+   Kategorie: Lugvaart
+

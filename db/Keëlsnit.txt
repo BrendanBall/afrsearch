@@ -1,0 +1,282 @@
+Keëlsnit
+
+
+   Tipes keëlsnitte
+   Tipes keëlsnitte
+
+   In wiskunde is 'n keëlsnit 'n kromme wat gevorm word deur die snyding
+   van 'n keël (meer nougeset 'n regsirkulêre keëloppervlak ) met 'n vlak.
+   Keëlsnitte sluit in sirkels, ellipse, parabole en hiperbole. Keëlsnitte
+   is solank terug as 200 v.C. bestudeer toe Apollonius van Perga 'n
+   stelselmatige studie oor hulle eienskappe onderneem het. Hoewel die
+   Grieke reeds van die optiese eienskappe van die krommes ontdek het word
+   dit egter eers teen die 16de eeu buite optika toegepas toe Johannes
+   Kepler ontdek het dat planete in elliptiese wentelbane om die son
+   beweeg en Galileo bewys het dat projektielbeweging parabolies is. Die
+   keëlsnitte het almal unieke weerkaatsingseienskappe waarvan veral die
+   van die parabool belangrik is vir satellietskottels, teleskope en by
+   beligting. Parabole, ellipse, sirkels en hiperbole word ook as gevolg
+   van estetiese en strukturele eienskappe algemeen in boukuns gebruik in
+   byvoorbeeld hiperboloïde water- en verkoeltorings of die paraboliese
+   boë van die Asphalt Green Aquacenter in New York.
+
+   Inhoud
+
+        * 1 Tipes keëlsnitte
+             + 1.1 Ontaarde gevalle
+        * 2 Wiskundige beskrywing van keëlsnitte
+             + 2.1 Keëlsnitte as puntlokusse
+             + 2.2 Eksentrisiteit
+             + 2.3 Kartesiese koördinate
+             + 2.4 Poolkoördinate
+             + 2.5 Dandelinsfere
+        * 3 Eienskappe, voorkoms en toepassings
+             + 3.1 Weerkaatsingseienskappe
+             + 3.2 Sterrekunde
+             + 3.3 Projektielbeweging
+             + 3.4 Argitektuur
+             + 3.5 Elipsvoorkoms en toepassings
+             + 3.6 Paraboolvoorkoms en toepassings
+             + 3.7 Hiperboolvoorkoms en toepassings
+             + 3.8 Gladheid
+
+[wysig] Tipes keëlsnitte
+
+   Verskillende krommes word gevorm afhangende van die hoek waarteen die
+   snyding plaasvind. Sirkels en ellipse is van die bekendste voorbeelde
+   van keëlsnitte en word gevorm wanneer die snydingshoek van 'n keël en
+   'n vlak sodanig is dat die vlak slegs deur een helfte van 'n dubbelkeël
+   gaan en dus 'n geslote kromme vorm. 'n Sirkel is 'n spesiale geval van
+   'n ellips waar die vlak reghoekig tot die keëlas is. As die vlak
+   parallel is aan 'n generator lyn van die keël word 'n parabool gevorm
+   wat 'n oop kromme is. 'n Hiperbool word gevorm as die snydingshoek
+   veroorsaak dat die vlak deur beide dele van 'n dubbekkeël gaan om 'n
+   twee oop krommes te vorm.
+
+[wysig] Ontaarde gevalle
+
+   Die ontaarde gevalle waar die vlak deur die toppunt van die keël gaan
+   of waar die keël self ontaard is word gewoonlik nie ingesluit by die
+   keëlsnitte nie.
+
+   In die geval waar die vlak deur die toppunt gaan word 'n punt, 'n
+   reguit lyn, of 'n paar kruisende lyne gevorm.
+
+   Die keël self kan ontaard wees as die hoek wat die keël genereer of 0°
+   of 90° is. As die hoek 90° is beslaan die binnekant van die keël alle
+   driedimensionele ruimte en is die buitekant van die keël die vlak wat
+   deur die toppunt van die keël gaan en reghoekig tot die keël se as is.
+   Dieselfde vlak kan die snydingsvlak wees wat dan die hele vlak as
+   snyding lewer. Alle ander snydings is 'n reguit lyn. As die keël se
+   generatorhoek daarteenoor 0° is, en die snydingsvlak is parallel aan
+   (maar nie op) die keëlas, is die snyding nul.
+
+[wysig] Wiskundige beskrywing van keëlsnitte
+
+[wysig] Keëlsnitte as puntlokusse
+
+   Elke tipe keëlsnit kan gedefinieer word as die lokus van alle punte P
+   met 'n sekere eienskap:
+     * Sirkel: dist(P,C) = r, waar C 'n vaste punt (die middelpunt) is, en
+       r 'n vaste konstante (die radius) is.
+     * Parabool: dist(P,F) = dist(P,L), waar F 'n vaste punt (die
+       brandpunt) is, en L 'n vaste lyn (die direktriks of riglyn) is wat
+       F nie bevat nie.
+     * Ellips: dist(P,A) + dist(P,B) = d, waar A,B verskillende vaste
+       punte (die brandpunte) is, en d > dist(A,B) 'n vaste konstante (die
+       hoof diameter) is.
+     * Hiperbool: | dist(P,A) − dist(P,B) | = d, waar A,B verskillende
+       vaste punte (die brandpunte) is, en d < dist(A,B) 'n vaste
+       konstante is.
+
+   In projeksiemeetkunde kan elkeen van die keëlsnitte gedefinieer word as
+   die lokus van alle punte ewe ver van 'n vaste punt (die brandpunt) en
+   'n vaste kromme (die direktriks). Alle keëlsnitte het identiese
+   eienskappe in projeksieruimte en elke stelling in projeksiemeetkunde
+   wat vir een keëlsnit waar is is waar vir alle ander.
+
+[wysig] Eksentrisiteit
+
+   Ellips (e=1/2), parabool (e=1) en hiperbool (e=2) met vaste brandpunt F
+   en direktriks.
+   Ellips (e=1/2), parabool (e=1) en hiperbool (e=2) met vaste brandpunt F
+   en direktriks.
+
+   Die vier bostaande voorwaardes kan in een voorwaarde gekombineer word
+   wat afhang van 'n vaste punt F (die brandpunt), 'n lyn L (die
+   direktriks) wat F nie bevat nie en 'n nie-negatiewe reële getal e (die
+   eksentrisiteit). Die ooreenstemmende keëlsnit bestaan uit alle punte
+   waarvan die afstand na F gelyk is aan e maal die afstand na L. Vir 0 <
+   e < 1 word 'n ellips verkry, vir e = 1 'n parabool, en vir e > 1 'n
+   hiperbool.
+
+   Vir 'n ellips en 'n hiperbool kan twee brandpunt-direktriks kombinasies
+   geneem word waar elkeen die selfde volle ellips of hiperbool verskaf.
+   Die afstand van die middelpunt na die direktriks is {a}\over{e} , waar
+   a die semi-hoofas van die ellipse is, of die afstand van die middelpunt
+   na die bopunte van die hiperbool. Die afstand van die middelpunt na 'n
+   brandpunt is ae.
+
+   In die geval van 'n sirkel is e = 0 en kan mens jou voorstel dat die
+   direktriks oneindig ver van die middelpunt is. Die stelling dat die
+   sirkel uit alle punte bestaan waarvan die afstand e maal die afstand na
+   L is, is nie nuttig nie aangesien dit nul keer oneindig lewer.
+
+   Die eksentrisiteit van 'n keëlsnit is dus 'n maatstaf van hoe ver dit
+   van 'n sirkelvorm afwyk.
+
+   Vir 'n gegewe a, hoe nader e is aan 1, hoe kleiner is die halfklein as.
+
+[wysig] Kartesiese koördinate
+
+   In die Kartesiese koördinaatstelsel is die grafiek van 'n kwadratiese
+   vergelyking met twee veranderlikes altyd 'n keëlsnit, en alle
+   keëlsnitte spruit hieruit voort. Die vergelyking sal die volgende vrom
+   hê
+
+          Ax^2 + Bxy + Cy^2 +Dx + Ey + F = 0\; met A, B, C nie almal nul
+          nie.
+
+   Grafiese uitbeelding van die keëlsnitte
+   Grafiese uitbeelding van die keëlsnitte
+
+   dan:
+     * as B^2 − 4AC < 0, verteenwoordig die vergelyking 'n ellips (behalwe
+       as die keël ontaard is, byvoorbeeld x^2 + y^2 + 10 = 0);
+          + as A = C en B = 0, verteenwoordig die vergelyking 'n sirkel;
+     * as B^2 − 4AC = 0, verteenwoordig die vergelyking 'n parabool;
+     * as B^2 − 4AC > 0, verteenwoordig die vergelyking 'n hiperbool;
+          + as A + B = 0 ook waar is, verteenwoordig die vergelyking 'n
+            reghoekige hiperbool.
+
+   polinoom Let daarop dat A en B slegs veeltermige koëffisiënte is en nie
+   die lengtes van half-hoof/klein as soos in die vorige afdelings
+   gedefinieer nie.
+
+   Deur verandering van koördinate kan die vergelykings in standaardvorms
+   geskryf word:
+     * Sirkel: x^2+y^2=a^2\,
+     * Ellips: {x^2\over a^2}+{y^2\over b^2}=1
+     * Parabool: y^2=4ax\,
+     * Hiperbool: {x^2\over a^2}-{y^2\over b^2}=1
+
+   Sulke vorms sal simmetries om die x-as, en vir die sirkel, ellips en
+   hiperbool ook simmetries om die y-as wees.
+
+   Die standaardvorme kan as parametriese vergelykings geskryf word,
+     * Sirkel: (a\cos\theta,a\sin\theta)\, ,
+     * Ellips: (a\cos\theta,b\sin\theta)\, ,
+     * Parabool: (a t^2,2 a t)\, ,
+     * Hiperbool: (a\sec\theta,b\tan\theta)\, of (\pm a\cosh u,b \sinh
+       u)\, .
+
+[wysig] Poolkoördinate
+
+   Semi-latus rectum in die geval van 'n ellips
+   Semi-latus rectum in die geval van 'n ellips
+
+   Die semi-latus rectum van 'n keëlsnit, gewoonlik met l aangedui, is die
+   afstand van die enkele brandpunt, of een van die twee brandpunte na die
+   keëlsnit self gemeet langs 'n lyn reghoekig tot die hoof-as. Dit is
+   verwant aan die halfhoof-as a, en die halfklein-as b, deur die formula
+   al = b^2, of l = a(1 − e^2).
+
+   In poolkoördinate word 'n keëlsnit met een brandpunt by die oorsprong
+   en, indien enige, die ander op die positiewe x-as, is gegee deur die
+   vergelyking
+
+          r = {l \over (1 - e \cos \theta) } .
+
+   Soos hierbo, vir e = 0, word 'n sirkel verkry, vir 0 < e < 1 'n
+   ellipse, vir e = 1 'n parabool, en vir e > 1 'n hiperbool.
+
+[wysig] Dandelinsfere
+
+   Deur gebruik te maak van Dandelinsfere kan 'n kort elementêre argument
+   gemaak word wat aantoon dat die karakterisering van die krommes as
+   snydings van 'n hoek met 'n keël ekwivalent is aan die karakterisering
+   in terme van brandpunte, of van 'n brandpunt en 'n direktriks.
+
+[wysig] Eienskappe, voorkoms en toepassings
+
+   Die Hiperboloïed Kobe Hawetoring, Kobe, Japan.
+   Die Hiperboloïed Kobe Hawetoring, Kobe, Japan.
+
+[wysig] Weerkaatsingseienskappe
+
+   Die keëlsnitte het almal spesifieke unieke weerkaatsings eienskappe:
+     * In 'n Ellips word enige lig of ander sein wat by een brandpunt
+       opgewek word na die ander brandpunt weerkaats. Die eienskap word
+       gebruik in 'n fluistergewelf om iemand wat by een brandpunt staan
+       toe te laat om 'n fluistergesprek met iemand by die ander brandpunt
+       te hou. Die mediese prosedure litotripsie maak gebruik van die
+       eienskap van ellipse om nierstene te behandel. In die prosedure
+       word die pasiënt in 'n elliptiese watertenk geplaas met die
+       niersteen by een brandpunt. Hoe-energie skokgolwe word dan by die
+       ander brandpunt, wat buite die pasiënt se liggaam lê, opgewek. Die
+       golwe word as gevolg van die ellips se weerkaatsings eienskappe op
+       die niersteen gefokus om dit te vernietig.
+     * In 'n Parabool het die vermoë om as 'n spieël of ander
+       weerkaatsings toestel lig of ander vorms van
+       elektromagnetiesestraling op 'n gemene brandpunt te fokus. Die
+       beginsel van 'n paraboliese weerkaatser is reeds in die 3de eeu
+       v.C. deur Archimedes ontdek. Volgens oorlewering ^[1] het hy
+       paraboliese spieëls gebruik om Syracuse teen die Romeinse vloot te
+       verdedig deur die son se strale te konsentreer om die Romeinse
+       skepe aan die brand te steek. Die beginsel is van die 17de eeu
+       toegepas in teleskope. vandag word paraboliese weerkaatsers
+       algemeen gebruik in mikrogolf antennas, satellietskottels ens. Dit
+       word ook omgekeerd in beligting gebruik om 'n punt bron soos 'n
+       gloeilamp se uitstraling in 'n nou bundel te fokus.
+     * In 'n Hiperbool word strale wat gerig is op die een brandpunt van
+       die hiperbool by die ander brandpunt van 'n hiperboliese spieël
+       weerkaats. As 'n mens dus byvoorbeeld 'n gloeilamp voor 'n
+       hiperboliese weerkaatser plaas sal dit lyk asof dit van die ander
+       brandpunt agter die weerkaatser skyn.
+
+[wysig] Sterrekunde
+
+   Keëlsnitte is belangrik in sterrekunde: die wentelbane van twee
+   massiewe voorwerpe wat volgens Newton se wet van universele gravitasie
+   met mekaar wisselwerk, is keëlsnitte as hulle gemene massamiddelpunt as
+   stilstaande beskou word. As hulle aan mekaar verbind is sal beide
+   ellipse aftrek; as hulle uit mekaar beweeg sal beide parabool- of
+   hiperboolbane volg.
+
+[wysig] Projektielbeweging
+
+   Een van die bekendste voorbeelde van die parabool in die natuur is die
+   trajek van 'n deeltjie of liggaam wat beweeg onder die invloed van 'n
+   eenvormige gravitasieveld sonder lugweerstand (byvoorbeeld, 'n
+   krieketbal wat deur die lug vleig waar lugweerstand weggelaat word).
+   Die paraboliese trajek van projektiele is eksperimenteel deur Galileo
+   vroeg in die 17de eeu ontdek toe hy eksperimkente uitgevoer het met
+   balle wat op hellende vlakke rol. Die paraboliese vorm van
+   projektielbeweging is later wiskundig deur Isaac Newton bewys.
+
+[wysig] Argitektuur
+
+   Benewens die voorkoms van ellipse in fluistergewelwe word benaderings
+   van parabole ook aangetref in die vorm van kabels van hangbrûe.
+   Vryhangende kabels wat op die oog af soos parabole lyk beskryf nie
+   parabole nie maar eerder kettinglyne. Onder die invloed van 'n
+   eenvormige lading (soos 'n brugdek byvoorbeeld), word dit egter tot 'n
+   parabool vervorm. Baie boë wat soos parabole lyk is eintlik eerder
+   onderstebo kettinglyne wat gebruik word as gevolg van die strukturele
+   voordele wat die vorm bied. Hiperbole kom veral in
+   hiperboloïedstrukture soos hiperboliese dakke en torings voor.
+
+[wysig] Elipsvoorkoms en toepassings
+
+[wysig] Paraboolvoorkoms en toepassings
+
+[wysig] Hiperboolvoorkoms en toepassings
+
+[wysig] Gladheid
+
+   Keëlsnitte is altyd "glad". Meer nougeset, hulle bevat nooit enige
+   infleksie punte nie. Dit is belangrik vir baie toepassings soos
+   aërodinamika, waar 'n gladde oppervlak nodig is om laminêre vloei te
+   verseker en om turbulensie te vermy.
+   Kategorieë: Meetkunde • Keëlsnitte
+

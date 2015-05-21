@@ -1,0 +1,38 @@
+Operasionele navorsing
+
+
+   Operasionele navorsing (ON) is 'n multi-dissiplinêre wiskundige
+   wetenskap wat nou verband hou met die statistiek wat hom uitgee
+   daarvoor dat hy oplossings soek vir komplekse probleme in die werklike
+   wêreld deur "die wetenskaplike metode" te gebruik. Vroeë definisies
+   dateer uit die Tweede Wêreldoorlog toe wetenskaplikes uit verskillende
+   dissiplines in meerdissiplinêre spanne saamgetrek is om "operasionele"
+   probleme te bestudeer en oplossings aan die hand te doen. By gebrek aan
+   bestaande metodes en tegnieke het hulle bloot die wetenskaplike
+   werkswyse waaraan almal gewoond was, toegepas.
+
+   Hierdie eerste definisies lê dan ook klem op meerdissiplinêre spanne en
+   die wetenskaplike metode. Hierbenewens word die gebruik van wiskundige
+   modelle genoem.
+
+   In die amper 60 jaar wat sederdien verloop het, het ON 'n eie
+   dissipline geword waarvan bekende velde dié van LP (lineêre
+   programmering), NLP (nie-lineêre programmering), beslissingsteorie,
+   stogastiese (of Monte Carlo) simulasie, en stogastiese prosesse is.
+   Onderliggend is die meeste van hierdie deelvelde van ON wiskundig van
+   aard maar danksy hulle kragtige toepassingsmoontlikhede het hulle al 'n
+   deel geword van kursusse in rekeningkunde en bedryfsekonomie. Hier word
+   losstaande tegnieke soos die gebruik van die ervaringskromme aangebied
+   onder titels soos "kwantitatiewe tegnieke". Die benadering is dan om
+   bloot die toepassingsmoontlikhede en die algoritmes oor te dra sonder
+   om klem op die wiskunde te lê.
+
+   ON word gekenmerk deur die gebruik van wiskundige modelle terwyl die
+   strewe na optimaliteit dikwels teenwoordig is.
+
+[wysig] Eksterne skakels
+
+     * INFORMS OR/MS Resource Collection
+
+   Kategorie: Wiskunde
+

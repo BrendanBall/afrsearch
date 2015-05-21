@@ -1,0 +1,243 @@
+Wikipedia:Rekenaarterme
+
+
+   Hierdie blad is vir rekenaarterme. Hou verkieslik die bespreking
+   daarvan op die besprekingsblad. Daar is baie terminologiepogings in
+   Afrikaans en nie almal werk altyd saam nie. Party programvertalers is
+   nie altyd bewus van taalkundige sake nie, en baie vertalers is nie
+   altyd ingelig oor watter terme reeds bestaan en gebruik word op skole
+   en universiteite nie. Konsekwentheid met terminologie in wiskunde,
+   taalkunde en ingenieurswese is natuurlik ook baie belangrik. Die
+   Afrikaanse Wikipedia kan dus nie eie rigting inslaan sonder om darem te
+   kyk wat ander reeds gedoen het nie. Blindelingse navolging is egter ook
+   nie altyd ideaal nie.
+
+   Die Tweetalige rekenaarwoordeboek, 1985, van Coetzee, Du Plooy en
+   Cluver, word deur baie gerespekteer, maar dit is natuurlik al oud en
+   baie hedendaagse terme kom nie daarin voor nie. Die nuwe
+   Kuberwoordeboek (H.C. Viljoen hoofredakteur) het in 2007 verskyn en sal
+   waarskynlik heelwat hulp gee. Dit bevat meer as 500 bladsye en het 'n
+   Afrikaans-Engelse en Engels-Afrikaanse deel.
+
+   Baie programme (veral Vrye Sagteware en ander Oopbronsagteware) is al
+   in Afrikaans vertaal. Die kwaliteit van die vertalings kan drasties
+   wissel. Sommige is deur professionele vertalers gedoen en moeite is
+   gedoen met kwaliteit. Ander is as 'n stokperdjie deur vrywilligers
+   gedoen wat nie meer in die RSA woon nie, nie meer Afrikaans praat nie,
+   nie betrokke is by plekke waar Afrikaans nog gebruik word nie, en nie
+   eens weet hoe om "lêer" te spel nie. Daar is selfs projekte wat van
+   outomatiese vertaling gebruik gemaak het, waarvan die Afrikaans
+   gewoonweg onverstaanbaar is (tensy mens dit woord vir woord eers
+   terugvertaal in Engels). Daar is dus reeds 'n klomp oulike idees vir
+   terme, en enige standardisasiepoging moet ook kyk na wat ander reeds
+   gedoen het, maar sorg moet gedra word.
+
+   Aangesien mense orals net Engels sien en hoor, vind party mense sommige
+   Afrikaanse terme aanvanklik vreemd, terwyl dié wat daagliks by
+   universiteite daarmee werk, gewoond is aan die terme wat hulle gebruik.
+   Hierdie sal hopelik ook verbeter. In April 2006 het Microsoft 'n
+   taalpak vir Zoeloe vrygestel, wat Windows (tot 'n mate?) in Zoeloe
+   beskikbaar maak. Tswana is vir Mei 2006 belowe, en Afrikaans vir Junie
+   2006. Dit is nie duidelik of Microsoft die bestaande, professionele,
+   vertaal- en terminologiekenners in die sagtewareveld gekontak of
+   gebruik het nie. Hierdie behoort egter te help dat mense bewus word van
+   die moontlikheid dat die wêreld dalk nie Engels is nie.
+
+   Inhoud
+
+        * 1 Wenke
+        * 2 Woordelys
+        * 3 Oor "-ture" (programmatuur, apparatuur)
+        * 4 Eksterne skakels
+
+[wysig] Wenke
+
+   In artikels oor vertaalde programme moet daar waarskynlik gepoog word
+   om die terminologie van daardie projek te gebruik, indien sinvol en
+   moontlik. Dit is sekerlik nie sinvol om swak vertalings net so oor te
+   gebruik nie. Dit gesê, wie besluit of dit goed is?
+
+   Vir Wikipedia-artikels, indien dit nie 'n algemene term is nie
+   ("netwerk" is darem seker algemeen), oorweeg om die Engelse woord in
+   hakkies te gebruik waar die Afrikaanse term die eerste keer gebruik
+   word.
+
+   Die AWS laat verskillende woordbou toe en hierdie kan ons kelder, veral
+   met die maak van skakels. Iets soos "Linux Distribution" kan
+   waarskynlik as "Linux-verspreiding", "Linuxverspreiding" , "Linux
+   Verspreiding" (en dalk nog ander) geskryf word. Kom ons probeer te bly
+   by koppelteken, vasaanmekaar met kleinletters tensy hoofletters
+   noodwendig nodig is (die eerste voorbeeld). Dit is baie keer in
+   elkgeval nodig om 'n koppelteken te gebruik ter wille van leesbaarheid
+   as die naam/term effens taalvreemd is en dus nie so maklik lees as dit
+   vasgeskryf is aan 'n Afrikaanse woord nie. Vir akronieme en afkortings
+   is die koppelteken reeds nodig, en in sommige gevalle sal dit
+   debateerbaar wees of iets nou 'n akroniem is of nie. Hierdie is wel net
+   'n voorstel, maar ons sal waarskynlik op een of ander skryfwyse moet
+   standardiseer.
+
+[wysig] Woordelys
+
+   Engels Afrikaans Kommentaar
+   at (@) by, aapstert (minder formeel)
+   assembler kyk na konteks: is dit die taal, of die program wat met die
+   taal werk?
+   assembler language / assembly language saamsteltaal
+   assembler program (assembly program, assembler language compiler)
+   saamsteller, saamstelprogram, moontlik: saamsteltaalvertaler
+   bandwidth bandwydte
+   bit bis
+   bus bus
+   Bullet Koeël
+   bookmark boekmerk
+   browse deurblaai
+   browser webblaaier, webbladleser, webleser
+   byte greep
+   central processing unit (CPU) sentrale verwerkingseenheid (SVE)
+   chat group kletsgroep
+   chip skyfie
+   click kli(e)k
+   client (soos in client/server) kliënt
+   clipart sketskuns
+   colour resolution kleurresolusie
+   command opdrag, taak
+   compact disk (CD) kompakskyf
+   compiler vertaler
+   computer rekenaar
+   computer-literate rekenaarvaardig
+   database databasis
+   default verstek
+   default value verstekwaarde, versuimwaarde
+   delete skrap, wis
+   desktop (workarea) werkskerm, werkarea
+   desktop computer lessenaarrekenaar
+   directory gids
+   disk space skyfspasie
+   download aflaai
+   E-mail E-pos
+   expandable uitbreibaar
+   file lêer
+   file manager lêerbestuurder
+   FLOSS (Free/Libre and Open source software) vrye en oopbronsagteware
+   (geen dubbelsinnigheid wat opgeklaar moet word in Afrikaans nie)
+   folder vouer, vakkie
+   Free Software Vrye Sagteware In Engels beteken Free beide Vry en
+   Gratis. In Afrikaans (soos in Frans) is daar 'n duidelike onderskeid -
+   Vrye sagteware verwys na vryheid en nie na koste nie. Sien ook "FLOSS".
+   As gevolg van die verwarring word die term Libre Software (van die
+   Franse "Logiciel Libre") ook in Engels gebruik wanneer na Vrye
+   programmatuur verwys word eerder as gratis. Natuurlike kan Vrye
+   Sagteware ook gratis wees...
+   free software gratis sagteware as dit bloot daaroor gaan dat dit nie
+   geld kos nie en as dit nié vrye sagteware is nie
+   graphic file grafikalêer
+   graphics card grafikakaart of skermkaart
+   hard drive hardeskyf
+   hardware hardeware, apparatuur (sien bespreking onder)
+   home page tuisblad
+   hypertext hiperteks
+   icon ikoon
+   input toevoer, invoer
+   input/output (I/O) toevoer/afvoer (T/A)
+   integrated geïntegreer
+   interactive interaktief
+   Internet Internet
+   Internet connection Internetaansluiting
+   intranet intranet
+
+   (operating system) kernel (bedryfstelsel)kern
+   keyboard sleutelbord, toetsbord
+   laptop skootrekenaar
+   laserprinter laserdrukker
+   line break reëlbreuk
+   link skakel, knoop
+   Linux distribution Linux-verspreiding AWS laat ander woordbou toe, maar
+   kom ons bly hierby
+   local area network plaaslike area netwerk
+   lurk uitkyk, skuil
+   mainframe hoofraam
+   memory geheue
+   menu kieslys, keuseskerm
+   minicomputer minirekenaar
+   monochrome monochroom
+   mouse muis
+   multimedia multimedia
+   network netwerk
+   network computer netwerkrekenaar
+   newsgroup nuusgroep
+   notebook computer skootrekenaar, notaboekrekenaar
+   open source ... oopbron... (geen spasie)
+   open source software oopbronsagteware
+   output afvoer
+   parallel port parallelle poort
+   parser ontleder
+   password wagwoord
+   peripherals randapparatuur
+   pop-up menu opspringkieslys
+   printer drukker
+   processor verwerker
+   proprietary ... moontlik: eiendom(s)... (geen spasie) (gebaseer op
+   Pharos)
+   proprietary software moontlik: eiendomsagteware
+   RAM (random access memory) ewetoeganklike geheue (ETG), lees-skryf
+   geheue (LSG)
+   read-only ... leesalleen... (geen spasie)
+   read-only memory leesalleengeheue (LAG)
+   redundancy oortolligheid redundancy check = oortolligheidstoets.
+   Oorweeg ook: rugsteunversekeringstoets.
+   release manager vrystellingsbestuurder
+   regular expression reguliere uitdrukking hier het Afrikaans juister
+   terme as die Engels
+   ROM (read-only memory) LAG (leesalleengeheue)
+   screenshot skermkiekie
+   script skrip skripte word soms gebruik
+   scripts skrips skripte word soms gebruik
+   serial port seriepoort
+   server bediener
+   service provider diensverskaffer
+   site ruimte, tuiste, werf
+   slash skuinsstreep
+   software sagteware sien bespreking onder
+   sound card klankkaart
+   spell-checker speltoetser
+   spreadsheet spreitabel, sigblad, ontledingstaat Afrikaans is "geseën"
+   met klomp terme :-/
+   terminal terminaal
+   Turing-complete Turingvolledig
+   undelete ontskrap
+   user gebruiker
+   user name gebruikersnaam
+   utility program nutsprogram
+   version weergawe, versie
+   version control weergawebeheer
+   web web
+   webcam webkamera
+   web browser webblaaier, webbladleser, webleser
+   web design webontwerp
+   web page webblad, webbladsy
+   website webwerf, webtuiste, webbestemming
+   webmaster webmeester
+   word woord gewoonlik gebruik in geheueadresering
+   wordprocessing woordverwerking
+   wordprocessor woordverwerker
+   workstation werkstasie
+   tab oortjie soos dié van 'n telefoonboekie, deesdae algemeen in gebruik
+   in programme soos Firefox, Konqueror, ens.
+
+[wysig] Oor "-ture" (programmatuur, apparatuur)
+
+   Aanvanklik is die woorde programmatuur en apparatuur gebruik vir
+   sagteware en hardeware, maar probleme het ontstaan toe hierdie terme
+   verder geneem word om soortgelyke Engelse woorde te vertaal. Wat doen
+   'n mens met die Engelse middleware en shareware? "Programmatuur" en
+   "apparatuur" is pragtige Afrikaanse woorde, maar aangesien die manier
+   van vertaling nie verder geneem is nie, verkies baie mense nou
+   "sagteware" en "hardeware". Dit is ook baie naby aan die Engels wat nie
+   net sleg is nie.
+
+[wysig] Eksterne skakels
+
+     * Samuel Murray se Engels - Afrikaans Internettermlys
+
+   Kategorieë: Afrikaans • Rekenaar
+

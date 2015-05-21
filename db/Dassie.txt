@@ -1,0 +1,140 @@
+Dassie
+
+
+                         Dassies
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+               Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    Eutheria
+     Superorde:    Afrotheria
+        Orde:      Hyracoidea
+                   Huxley, 1869
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Procaviidae
+                   Thomas, 1892
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+         [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                     Binomiale naam
+                     {{{binomial}}}
+                     Trinomiale naam
+                     {{{trinomial}}}
+                      Tipe Spesies
+                   {{{type_species}}}
+                         Genera
+
+                     Procavia, Heterohyrax, Dendrohyrax
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                        Sinonieme
+   {{{synonyms}}}
+
+   'n Dassie is enige van vier spesies klein, dikkerige, plantetende
+   soogdiere van die orde Hyracoidea. Dit kom in Afrika en die Middelooste
+   voor. Ten spyte daarvan dat die dassie nie baie indrukwekkend lyk nie,
+   het dit 'n baie lang stamlyn terug tot in die prehistoriese tye. Die
+   dassie is die naaste lewende familie van die olifant.
+
+   Inhoud
+
+        * 1 Fisiese eienskappe
+        * 2 Prehistoriese dassies
+        * 3 Moderne dassies
+        * 4 Sien ook
+
+[wysig] Fisiese eienskappe
+
+   'n Klipdassie op Tafelberg
+   'n Klipdassie op Tafelberg
+
+   Dassies het kort pote, dik pels en is rond, met 'n baie kort
+   stompiestert. Hulle is omtrent so groot soos 'n huiskat. Van ver af kan
+   hulle soos vetgevoerde konyne lyk: die vroeë ontdekkers vanaf Fenisië
+   het inderdaad die konyne van die Iberiese skiereiland vir dassies
+   aangesien (dassies word in Hebreeus Shaphan genoem); en het die area as
+   I-Shapan-im benoem. Dit beteken land van die dassies, wat toe in Latyn
+   opgeneem is as Hispania, die wortelwoord van Spanje se hedendaagse naam
+   España en ook van die Afrikaanse naam daarvoor.
+
+[wysig] Prehistoriese dassies
+
+   Alle nie-uitgewiste dassies is lede van die familie Procaviidae. In die
+   verlede was daar baie meer dassiesoorte. Die orde is die eerste keer in
+   die fossielrekord te vinde meer as 40 miljoen jaar gelede. Waarskynlik
+   was die dassie vir baie miljoene jare die belangrikste grasvreter in
+   Afrika. Die grootse spesies was omtrent so groot soos 'n hedendaagse
+   perd.
+
+   Soos wat die beesspesies ontwikkel het, het dié sterk kompetisie begin
+   gee, en die dassies begin uitskuif as 'n minder belangrike spesie. Die
+   afstammelingspesies het begin aanpas: sommige se grootte het verklein
+   en hulle word die voorsate vir die moderne dassie. Andere blyk in die
+   water begin woon het, en vanuit hierdie stamboom kom die
+   olifantfamilie, en dalk ook die orde Sirenia: die dugongs en
+   lamantyne). DNS-getuienis ondersteun hierdie teorie. Die hedendaagse
+   dassie deel baie eienskappe met die olifant, soos die toonnaels,
+   sensitiewe kussings op hul pote, die slagtande en die vorm van hulle
+   gebeendere.
+
+[wysig] Moderne dassies
+
+   Hulle het vandag nog steeds sekere kenmerke van die vroeë
+   soogdiere:hulle het veral nie goeie interne temperatuurkontrole nie
+   (wat die rede is daarvoor dat hulle in die son bak en bymekaar
+   saamdrom). Hulle het ook swakontwikkelde snytande, en moet dus hulle
+   kos afskeur deur die tande aan die kant van hul kake te gebruik. Hulle
+   herkou nie, maar het eerder gekompliseerde veelvuldige mae waarin
+   simbiotiese bakterieë die harde plantvesels verteer.
+
+   Slegs vier spesies dassies word vandag wetenskaplik erken, alhoewel
+   daar meer as 50 subspesies is. Die vier erkende spesies is:
+     * ORDE HYRACOIDEA
+          + Familie Procaviidae
+               o Genus Dendrohyrax
+                    # Boomdassie, Dendrohyrax arboreus
+                    # Westelike boomdassie, Dendrohyrax dorsalis
+               o Genus Heterohyrax
+                    # Geelkoldassie, Heterohyrax bruceii
+               o Genus Procavia
+                    # Klipdassie, Procavia capensis
+
+[wysig] Sien ook
+
+     * Suider-Afrikaanse soogdiere en hul ordes
+     * Lys van Suider-Afrikaanse soogdiername
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Dassies
+

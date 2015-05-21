@@ -1,0 +1,74 @@
+Anseriformes
+
+
+                     Anseriformes
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Ekstergans (Anseranas semipalmata)
+   Ekstergans (Anseranas semipalmata)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+                   Wagler, 1831
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Families
+
+                                Sien artikel
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Anseriformes bevat ongeveer 150 voëlspesies in drie families: die
+   Anhimidae (die screamers), Anseranatidae (die Ekstergans Engels:
+   Magpie-goose), en die Anatidae, wat meer as 140 spesies waterhoenders,
+   insluit waaronder die eende, ganse en swane. Twee ander families wat
+   ook tot hierde orde behoort, maar uitgestorwe is, is die Dromornithidae
+   en Presbyornithidae.
+
+   Al die spesies in die orde is hoogsaangepas tot 'n waterbestaan by die
+   wateroppervlak. Almal is webvoetig vir doeltreffende swem (al het
+   sommige intussen meestal grondbewoners geword).
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Voëls • Saadjies
+

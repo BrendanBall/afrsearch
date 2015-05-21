@@ -1,0 +1,63 @@
+Veranderlike
+
+
+   In rekenaarwetenskap en wiskunde is 'n veranderlike 'n simboliese
+   verteenwoordiging wat op 'n hoeveelheid of uitdrukking dui. In wiskunde
+   word 'n veranderlike dikwels gebruik om 'n "onbekende" hoeveelheid aan
+   te dui wat die vermoë het om te verander; in rekenaarwetenskap
+   verteenwoordig dit 'n plek war 'n waarde gestoor kan word.
+   Veranderlikes staan dikwels in teenstelling met konstantes wat bekende
+   waardes het en onveranderlik is.
+
+   Die begrip het 'n soortgelyke betekenis in die fisiese wetenskappe en
+   ingenieurswese: 'n veranderlike is 'n hoeveelheid waarvan die waarde
+   tydens die verloop van 'n eksperiment (insluitende simulasies) kan
+   verander, oor verskillende monsters of tydens die bedryf van 'n
+   stelsel. Veranderlikes word onderskei van parameters, alhoewel 'n
+   veranderlike in een konteks, as 'n parameter in 'n ander konteks gesien
+   kan word.
+
+   In toegepaste statistiek is 'n veranderlike 'n meetbare faktor,
+   eienskap of kenmerk van 'n indiwidu of 'n sntelsel—met ander woorde,
+   iets wat verwag kan word om te varieer oor tyd of tussen indiwidue.
+   Lukrake veranderlikes is 'n idealisering hiervan in wiskundige
+   statistiek, waar hulle gedefinieer word as meetbare funksies van 'n
+   waarskynlikheidsruimte na 'n meetbare ruimte.
+
+[wysig] Geskiedenis
+
+   x Verteenwoordig tipies 'n onbekende veranderlike. Al kan enige letter
+   gebruik word is x die algemene keuse. Hierdie gebruik kan teruggespoor
+   word na die Arabiese woord šay' شيء = “ding”, wat in algebra en
+   soortgelyk tekste in Ou Spaans opgeneem is met die uitspraak “šei”, en
+   geskryf is as xei en later per gewoonte afgekort is na x (Die Spaanse
+   uitspraak van “x” het sedertien verander. Ander bronne beweer dat die x
+   'n afkorting is van die Latynse causa wat 'n vertaling van die Arabiese
+   شيء was. Hoe dit ookal sy, dit het die gewoonte gevestig om letters te
+   gebruik om hoeveelhede in algebra te verteenwoordig. In wiskunde word
+   'n “skuinsdruk x” ( x\! ) dikwels gebruik om te verhoed dat dit met die
+   vermenigvuldigingsteken verwar word. Vanuit wiskunde het die gewoonte
+   in die alledaagse kultuur ook gespruit om “X” te gebruik as 'n
+   generiese plekhouer vir 'n veranderlike waarvan die waarde onbekend of
+   geheim is, soos in projek X of meneer X.
+
+[wysig] Algemene oorsig
+
+   Veranderlikes word in wiskundige vergelykings gebruik. In die
+   vergelyking x + 1 = 5, is x 'n veranderlike wat 'n onbekende getal
+   verteenwoordig. Veranderlikes word dikwels verteenwoordig deur letters
+   van die Romeinse alfabet, maar kan ook deur letters van ander
+   alfabette, soos die Griekse alfabet en ander simbole verteenwoordig
+   word. In hierdie sin word veranderlikes as 'n "plekhouer" gebruik in
+   baie vertakkinge van wiskunde.
+
+[wysig] Benamingskonvensies vir veranderlikes
+
+   In wiskunde in die algemeen is die letters wat die meeste gebruik word
+   om veranderlikes voor te stel "x", "y", "n", "a" en "b"— "x" en "y"
+   word die meeste gebruik omdat hulle dikwels ook gebruik word om die
+   twee asse van 'n tweedimensionele grafiek voor te stel, terwyl "a" en
+   "b" dikwels gebruik word om koëffisiënte van x en y in die algemene
+   vorm van 'n linêere vergelyking voor te stel.
+   Kategorieë: Rekenaarwetenskap • Wiskunde
+

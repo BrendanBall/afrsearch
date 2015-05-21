@@ -1,0 +1,51 @@
+Astroïed
+
+
+   Astroïed
+   Astroïed
+   Die konstruksie van 'n astroïed.
+   Die konstruksie van 'n astroïed.
+
+          Let wel dat astroïed nie verwar moet word met asteroïde nie
+
+   In wiskunde is 'n astroïed 'n hiposikloïed met vier punte. Dit is ook
+   'n superellips met n=2/3 en a=b.
+
+   Die moderne naam daarvan kom van die Griekse woord vir "ster". Die
+   kromme het voorheen 'n verskeidenheid name gehad insluitend tetracuspid
+   (steeds in gebruik), kubosikloïed, en parasiklus.
+
+   Die astroïed word afgetrek deur 'n punt op die omtrek 'n sirkel met
+   radius 1/4 wat binne 'n sirkel met radius 1 rol. 'n Lynsegment met
+   lengte 1 gly met een punt op die x-as en die ander op die y-as, sodat
+   dit 'n raaklyn met die astroïed is (wat dus 'n omhullingskromme is).
+   Die parametriese vergelyking is
+
+          x=\cos^3\theta,\qquad y=\sin^3\theta.
+
+   Die astroïed is 'n vlak algebraïese kromme van genus nul. Dit het die
+   vergelyking
+
+          (x^2 + y^2 − 1)^3 + 27x^2y^2 = 0.
+
+   Die astroïed is daarom van graad ses, en het vier punt sigulariteite in
+   die reële vlak, die punte van die ster. Dit het twee ander meer
+   komplekse puntsingulariteite by oneindigheid, en vier komplekse dubbele
+   punte, wat al te saam tien singulariteite gee.
+
+   Die dualis kromme tot die astroïëd is die kruisvormige kromme met
+   vergelyking \textstyle x^2 y^2 = x^2 + y^2. Die evoluut van 'n astroïed
+   is 'n astroïed twee keer so groot.
+
+   Die ou U.S. Steel kenteken het uit drie astroïëde in blou, geel en rooi
+   bestaan. Dit word tans gebruik as die kenteken van die Pittsburgh
+   Steelers.
+
+[wysig] Eksterne skakels
+
+     * Weisstein, Eric W., Astroid op MathWorld.
+     * Artikel op 2dcurves.com
+     * Stoner-Wohlfarth astroid applet (physics)
+
+   Kategorieë: Krommes • Algebraïese krommes
+

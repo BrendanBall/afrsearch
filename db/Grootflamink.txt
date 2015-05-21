@@ -1,0 +1,116 @@
+Grootflamink
+
+
+                     Grootflamink
+   Status: Onbedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Phoenicopteriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Phoenicopteridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Phoenicopterus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. roseus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Phoenicopterus roseus
+   Pallas, 1811
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   Phoenicopterus antiquorum
+
+   Die grootflamink is die mees wydververspreide spesie van die
+   flaminkfamilie, maar migreer slegs in sommige gevalle en dan slegs oor
+   kort afstande. Die voël is nou verwant aan die rooiflamink en die
+   Chileense flamink en daar word somtyds na die drie spesies verwys as
+   dieselfde spesie.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Verspreiding
+        * 3 Voorplanting
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Galery
+        * 7 Sien ook
+             + 7.1 Bronnelys
+
+[wysig] Identifikasie
+
+   Soos die naam aandui, is die grootflamink 'n groot voël, met 'n
+   algemene lengte van 120-140cm. Die meeste van die grootflamink se vere
+   is pienk-wit, maar die binne-vlerke is rooi en die primêre en sekondêre
+   vlieg-vere is swart. Die snawel is pienk met 'n swart punt en die pote
+   is is heeltemal pienk.
+
+[wysig] Verspreiding
+
+   Die grootflamink kom voor in verskeie dele van Afrika, Suidwes-Asië
+   (insluitende Turkye), Suidelike-Asië (kus gebiede van Indië) en
+   Suid-Europa (insluitende Spanje, Siprus, Portugal en die
+   Camargue-gebied van Frankryk).
+
+[wysig] Voorplanting
+
+   Die grootflaminkwyfie lê 'n enkele bordkryt-wit eier op 'n modderhoop.
+
+[wysig] Geluid
+
+   Die geluid van 'n grootflamink is 'n 'honk' geluid wat sterk aan 'n
+   gans s'n herinner.
+
+[wysig] Ander name
+
+     * Engelse naam: Greater Flamingo
+     * Wetenskaplike naam: Phoenicopterus roseus
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Flaminke
+

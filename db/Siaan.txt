@@ -1,0 +1,39 @@
+Siaan
+
+
+   #00ffff
+
+   Siaan is 'n suiwer spektrale kleur, maar dieselfde tint kan ook
+   voortgebring word deur gelyke hoeveelhede groen en blou lig te meng.
+   Siaan is dus die komplement van rooi: siaanpigmente absorbeer rooi lig.
+   Siaan word ook soms blougroen genoem, en word baie keer nie van ligblou
+   onderskei nie.
+
+   'n Voorbeeld van 'n siaankleur in die RGB kleurspasie het sterktes <0,
+   255, 255> op 'n 0 tot 255 skaal.
+
+   Siaan is een van die algemene inke wat in vierkleur-drukwerk gebruik
+   word, tesame met magenta, geel en swart; hierdie stel kleure word na
+   verwys as CMYK.
+
+[wysig] Kleurkoördinate
+
+     * Hex triplet = #00FFFF
+     * RGB = (0, 255, 255)
+     * CMYK = (255, 0, 0, 0)
+     * HSV = (180, 100, 100)
+
+[wysig] Sien ook
+
+     * Lys van kleure
+
+                         Elektromagnetiese Spektrum
+
+    Radiogolf | Mikrogolf | Infrarooi | Optiese spektrum | Ultraviolet |
+                           X-straal | Gammastraal
+     __________________________________________________________________
+
+        Sigbaar: Rooi | Oranje | Geel | Groen | Siaan | Blou | Violet
+
+   Kategorie: Kleure
+

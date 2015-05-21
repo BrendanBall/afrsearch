@@ -1,0 +1,37 @@
+POV-Ray
+
+
+   Die Utah-teepot, rendisie in POV-Ray. Skaduwees, spekulêre lig,
+   gekleurde beligting en hobbelkartering word gedemonstreer.
+   Die Utah-teepot, rendisie in POV-Ray. Skaduwees, spekulêre lig,
+   gekleurde beligting en hobbelkartering word gedemonstreer.
+
+   Die Persistence of Vision Raytracer, of POV-Ray, is 'n gratis
+   straalvolgerprogram beskikbaar vir 'n verskeidenheid van
+   rekenaarplatforms. Dit is oorspronklik gebaseer op DKBTrace, geskryf
+   deur David K. Buck en Aaron A. Collins. Daar is ook invloede van
+   POV-Ray se voorloper, Polyray, wat deur Alexander Enzmann bygedra is.
+   Die lisensie is gratisware.
+
+[wysig] Funksies
+
+   POV-Ray het al baie verbeter sedert sy begin. Onlangse weergawes van
+   die sagteware sluit die volgende funksies in:
+     * 'n Turing-volledige programmeertaal wat makro's en lusse insluit
+       (sien SCC3 vir voorbeelde van prentjies wat met minder as 256 grepe
+       van kode gemaak is).
+     * 'n Biblioteek van klaargemaakte lêers, teksture en voorwerpe.
+     * Ondersteuning vir 'n hele klomp geometriese primitiewe en
+       konstruktiewe ruimtemeetkunde.
+     * Verskeie tipes ligbronne.
+     * Atmosferiese effekte soos mis en rook.
+     * Weerkaatsing, ligbreking en lig Wikipedia:caustics wat
+       fotonkartering gebruik.
+     * Oppervlakpatrone soos plooie, hobbels en rimpels; wat in
+       prosedurale teksture en hobbelkartering gebruik word.
+
+[wysig] Eksterne Skakels
+
+   Amptelike webwerf Nie-amptelike wiki vir alles aangaande POV-Ray
+   Kategorie: Rekenaar
+

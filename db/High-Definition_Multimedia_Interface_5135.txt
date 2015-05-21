@@ -1,0 +1,83 @@
+High-Definition Multimedia Interface
+
+
+   Die digitale HDMI-koppelstuk
+   Die digitale HDMI-koppelstuk
+
+   Die High-Definition Multimedia Interface (HDMI) is 'n nuut ontwikkelde
+   koppelvlak vir moderne, digitale multimedia-toepassings, wat baie groot
+   oordragsnelhede benodig, soos HDTV, HD-DVD en ruimteklankformate met
+   hoë resolusie. Na die implementering van 'n kopieerbeskerming
+   (High-bandwidth Digital Content Protection, HDCP) word die
+   HDMI-koppelvlak as die nuwe standaard vir elektroniese oudio- en
+   video-verbruikersware aangebied. Dit kan beeld en geluid gelyktydig
+   verwerk en sal mettertyd ouer standaarde soos die SCART-, RCA-Cinch- en
+   YUV-koppelvlakke vervang. Plasma- en LCD-vertooneenhede en televisies,
+   DVD-spelers en meerkanaal-versterkers met HDMI-koppelvlakke is reeds
+   beskikbaar.
+
+   Inhoud
+
+        * 1 Aanpasbaarheid
+        * 2 Oordragsnelheid
+        * 3 Oudioformate wat met HDMI verwerk kan word
+             + 3.1 Oudiokanale
+             + 3.2 Monsterfrekwensies
+             + 3.3 Standaarde
+        * 4 Televisie en DVD: Resolusies en beeldsnelhede
+
+[wysig] Aanpasbaarheid
+
+   Danksy die hoë bandwydte kan die HDMI-koppelvlak alle huidige digitale
+   formate verwerk. Oudio-frekwensies van 192 kHz en 24 bis woordlengte,
+   soos dié van die DVD-Oudio en HD-DVD, kan met HDMI op tot by agt kanale
+   digitaal verwerk word, net soos hoëresolusie-video-gegewens van die
+   HD-DVD en HDTV. HDMI handhaaf 'n video-bandwydte van maksimaal 165 MHz
+   en is ook geskik vir die hoogste resolusie van 1080 beeldlyne met
+   progressiewe verwerking.
+
+[wysig] Oordragsnelheid
+
+   Die maksimale oordragsnelheid van HDMI is 5 Gigagrepe per sekonde, 'n
+   spoed wat selfs ingewikkelde beeldgegewens met snelle bewegings sonder
+   artefakte kan afbeeld.
+
+[wysig] Oudioformate wat met HDMI verwerk kan word
+
+[wysig] Oudiokanale
+
+     * Vier keer stereo
+     * Vier keer dts 6.1
+     * 7.1 PCM
+
+[wysig] Monsterfrekwensies
+
+     * 32 kHz
+     * 44.1 kHz, 88.2 kHz, 176.4 kHz
+     * 48 kHz, 96 kHz, 192 kHz
+
+[wysig] Standaarde
+
+     * IEC-60958-geïdentifiseerde oudio: PCM, Dolby Digital, Dolby Digital
+       EX, dts, dts ES, dts-discrete, dts 96/24, dts NEO
+     * DVD-Oudio met kopieerbeskerming
+     * Super Audio CD
+
+[wysig] Televisie en DVD: Resolusies en beeldsnelhede
+
+   Die gewone HDMI-koppelstuk tipe A is geskik vir
+     * 640 x 480p @ 59.94/60 Hz (VGA)
+     * 1280 x 720p @ 59.94 Hz (HDTV in die VSA)
+     * 1920 x 1080i @ 59.94/60 Hz (HDTV in die VSA)
+     * 720 x 480p @ 59.94/60 Hz (DVD-Video, NTSC, progressiewe verwerking)
+     * 720 (1440) x 480i @ 59.94/60 Hz (DVD-Video, NTSC)
+     * 1280 x 720p @ 50 Hz (HDTV in Europa)
+     * 1920 x 1080i @ 50 Hz (HDTV in Europa)
+     * 720 x 576p @ 50 Hz (DVD-Video, PAL, progressiewe verwerking)
+     * 720 (1440) x 576i @ 50 Hz (DVD-Video, PAL)
+     __________________________________________________________________
+
+   Daar is 'n aantal opsionele resolusies en beeldsnelhede, onder meer
+   1920 x 1080p @ 23.98/24 Hz vir hoëresolusie-rolprente.
+   Kategorie: Televisie
+

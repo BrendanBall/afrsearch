@@ -1,0 +1,36 @@
+Mac OS X
+
+
+   Mac OS X, die nuutste weergawe van Mac OS, is 'n bedryfstelsel vir 'n
+   Apple Macintosh rekenaar wat die gewilde eienskappe van die
+   tradisionele Macintosh gebruikerskoppelvlak behou met 'n stabiele
+   oopbron BSD bedryfstelsel in sy kern. Mac OS X is in 2001 vrygestel, as
+   Mac OS X, 10.0. Die nuutste weergawe van Mac OS X, is Mac OS X, 10.4
+   "Tiger", wat 'n reeks nuwe eienskappe bekend gestel het. Die hoof
+   eienskappe van "Tiger", is "Spotlight", 'n blitsvinnige soektegnologie,
+   wat alles op jou hardeskyf deursoek terwyl jy tik. Daar is verder nog
+   ander eienskappe wat bedryfstelsel van ander alternatiewe onderskei:
+   Automator, die nuwe program wat jou toelaat om 'n stel instruksies saam
+   te stel en dan uit te voer, wat die uitvoer van alledaagse take
+   vergemaklik; Dashboard, baie klein, "Mini" programme wat tydelike
+   informasie van die internet af kan kry, soos televisieskedules,
+   fliektye en selfs weersvoorspellings. Mac OS X is reeds geïnstalleer,
+   op alle nuwe Macintosh rekenaars, en is ook as 'n opgradering aangebied
+   vir die meeste Apple rekenaars, wat 'n iMac G3 spesifikasie of beter
+   het en FireWire ondersteun...(Oorspronklike FireWire PowerBooks
+   uitgesluit).
+
+   Daar is ook Mac OS X Server, Die weergawe van Mac OS X vir korporatiewe
+   rakgemonteerde bedieners van Apple - die XServe([1], en XRaid. Dit
+   verskil nie veel van die gewone weergawe nie, maar is net meer
+   gespesialiseer vir die korporatiewe vereistes, en sluit alles in wat 'n
+   besigheidsbediener nodig het- soos vereenvoudigde toegewyde sagteware
+   vir Administratiewe take soos die bestuur van werkgroepe, 'n
+   eposbediener, Samba Server, gidsbediener, en 'n domeinnaambediener.
+
+[wysig] Eksterne skakels
+
+     * Apple se hoofblad vir die Mac OS X bedryfstelsel
+
+   Kategorie: Bedryfstelsels
+

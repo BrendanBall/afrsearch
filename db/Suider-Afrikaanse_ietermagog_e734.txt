@@ -1,0 +1,97 @@
+Suider-Afrikaanse ietermagog
+
+
+                      Ietermagog
+   Bedreigingstatus: Gevoelig vir bedreiging^[1]
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Pholidota
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Manidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Manis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. temminckii
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Manis temminckii
+   Smuts, 1832
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Suider-Afrikaanse ietermagog, ook slegs bekend as die ietermagog of
+   die ietermagô, is 'n soogdier wat se lyf met harde horingskubbe oortrek
+   is en in die oostelike en suidelike dele van Afrika voorkom. 'n
+   Volwasse ietermagog is ongeveer 100 cm, insluitende sy stert wat tussen
+   30 en 50 cm kan wees. In vergelyking met sy stert en kragtige
+   agterpote, is sy voorpote en kop relatief klein.
+
+   Ietermagogge is nagdiere en gebiedsgebonde: hulle kom gewoonlik in
+   grasvelde of oop areas van beboste gebiede voor. Die diere woon in gate
+   wat hulle in die grond grou, maar sal ook soortgelyke gate deur
+   erdvarke of vlakvarke, wat nie meer gebruik word nie, oorneem. Te wyte
+   aan die skaarsheid van die dier en sy uitstekende kamoeflering, is dit
+   nie algemeen om 'n ietermagog in die wild waar te neem nie.
+   Wanneer 'n ietermagog bedreig voel of aangeval word, rol hy hom in 'n
+   bal op.
+   Wanneer 'n ietermagog bedreig voel of aangeval word, rol hy hom in 'n
+   bal op.
+
+   Wanneer 'n ietermagog bedreig voel of aangeval word, rol hy homself in
+   'n bal op. Die dier se harde skubbe kom op sy hele lyf voor, behalwe
+   vir sy sagte maagarea; in 'n opgerolde posisie word dié area dan ook
+   beskerm.
+
+   Die stapelvoedsel van die ietermagog is miere of termiete; sy
+   goed-ontwikkelde kloue laat hom toe om die insekte se neste oop te
+   breek op soek na voedsel.
+
+   'n Wyfie is telkens met slegs een kleintjie dragtig.
+
+[wysig] Bronnelys en verwysings
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+    1. ^ Pangolin Specialist Group (1996). Manis temminckii. 2006 IUCN Red
+       List of Threatened Species. IUCN 2006. Verkry op 2007-02-28.
+
+   Kategorie: Skubdiere
+

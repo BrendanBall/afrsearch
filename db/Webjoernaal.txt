@@ -1,0 +1,469 @@
+Webjoernaal
+
+
+   Voorbeeld van 'n Webjoernaal.
+   Voorbeeld van 'n Webjoernaal.
+
+   'n Webjoernaal (ook bekend as 'n blog of weblog), is 'n webwerf wat
+   gereeld - soms meer as een keer per dag – opgedateer word en waarop die
+   inligting in chronologiese volgorde (volgens datum) weergegee word.
+   Besoekers vind ook op die tuisblad die mees onglangse bydraes. Die
+   outeur skep in wese 'n logboek van inligting wat hy wil deel met sy
+   publiek, die besoekers aan sy webjoernaal. Gewoonlik bestaan 'n
+   webjoernaal uit teks, maar kan ook om foto's ('n fotowebjoernaal),
+   video (vlog) of klank (podgooi) gaan. Weblogs bied hul lesers ook
+   gewoonlik die geleentheid om reaksies op artikels te plaas of 'n
+   reaksie via 'n terugspoor- (Engels: trackback) -meganisme agter te
+   laat.
+
+   Dit is die persoonlike of juis die gespesialiseerde karakter wat
+   webjoernale toenemend gewild vir besoekers maak.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 1994 – 2001
+             + 1.2 2001 – 2004
+             + 1.3 2004 – nou
+        * 2 Soorte webjoernale
+        * 3 Besigheidsmodelle
+        * 4 Sagteware
+        * 5 Inhoud van 'n webjoernaal
+        * 6 Webjoernaalgewildheid
+        * 7 Die Webjoernaal buite die Anglofoonsfeer
+        * 8 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Kronieke, ekserpteboeke (Engels: commonplace books), dagboeke en
+   perskrifte (Engels:perzines) kan beskou word as voorlopers van
+   webjoernale.
+
+   Voor webjoernale gewild geword het, het digitale gemeenskappe verskeie
+   vorme aangeneem insluitende Usenet, e-poslyste en bulletinbordstelsels
+   (BBS'e). In die 1990’s, het internetforumsagteware soos WebEx,
+   deurlopende gesprekke met gespreklyne (Engels: threads) geskep.
+   Gesprekslyne is direk opeenvolgende inskrywings in 'n elektroniese
+   tekskommunikasiemedium waarvan die onderwerp van bespreking verwant is
+   aan en direk aansluit by vorige inskrywings.
+
+[wysig] 1994 – 2001
+
+   2006 Selfportret van Justin Hall
+   2006 Selfportret van Justin Hall
+
+   Die moderne webjoernaal het ontwikkel van die aanlyndagboek, waarin
+   mense 'n aaneenlopende rekord gehou het van hul persoonlike lewens.
+   Meeste van sulke skrywers het hulself dagboekskrywers, joernaliste, of
+   joernaalhouers genoem. 'n Paar het na hulself verwys as escribisioniste
+   (Engels: escribitionists). Justin Hall, wat elf jaar van persoonlike
+   webjoernaal in 1994 begin het toe hy 'n student aan Swarthmore Kollege
+   was, word algemeen as een van die vroegste webjoernaalskrywers erken.
+   Een van die vroegste voorbeelde van 'n webjoernaal in Frans is
+   Montréal, soleil et pluie wat tussen 7 Junie 1995 en 9 Junie 1998 berig
+   gedoen het oor die outeur se lewe in Montréal [1].
+
+   Ander vorme van joernale wat ook aanlyn bygehou is, het ook bestaan. 'n
+   Bekende voorbeeld was die speletjiesprogrammeerder, John Carmack, se
+   joernaal. Webwerwe, beide besigheids- en persoonlike tuisbladsye het
+   dikwels "Wat is Nuut"- of "Nuus"-afdelings, dikwels op die indeksbladsy
+   en georden volgens datum. Een voorbeeld van 'n nuusgebaseerde
+   "webjoernaal" is die "Drudge Report" gestig deur die joernalis Matt
+   Drudge. 'n Ander is die Institute for Public Accuracy wat begin het om
+   nuusvrystellings te publiseer 'n paar keer 'n week gedurende die begin
+   van 1998. 'n Ander voorloper vir die webjoernaal was die
+   tong-in-die-kies persoonlike webwerf wat gereeld opgedateer is deur die
+   Usenet-legende Kibo.
+
+   Jesse James Garrett, 'n redakteur van Infosift, begin met die byhou van
+   'n lys van interessante webwerwe wat hy besoek. Die lys met URL'e word
+   gestuur na Cameron Barrett wat die lys publiseer op die webwerf
+   Camworld. Meer persone begin met die instuur van interessante skakels.
+   Jorn Barger het eerste die term webjoernaal (Weblog) op 17 Desember
+   1997 gebruik. Die korter vorm blog is deur Peter Merholz gebruik toe hy
+   grapenderwys die woord weblog in die frase we blog op sy webjoernaal,
+   Peterme.com, in April of Mei 1999 geplaas het.
+
+   Die vroeë webjoernale was dus bloot opgedateerde komponente van gewone
+   webwerwe. Die ontwikkeling van sagteware om die produksie en onderhoud
+   van webartikels makliker te maak, het publiseering op die web deur die
+   minder tegnies ingestelde individue moontlik gemaak. Uiteindelik het
+   dit gelei tot 'n spesifieke soort aanlyn publisering wat die
+   webjoernale produseer wat ons vandag ken. Die gebruik van
+   lesergebaseerde sagteware is nou 'n tipiese aspek om 'n webjoernaal in
+   stand te hou. Webjoernale kan gehuisves word deur gespesialiseerde
+   webjoernaalhuisvestingdienste, of dit kan aangedryf word deur
+   webjoernaalsagteware soos WordPress, blogger of LiveJournal, of
+   gehuisves deur 'n gewone webhuivestingdiens, soos Mweb.
+
+   Na 'n stadige begin het webjoernale se gewildheid begin toeneem: die
+   webwerf Xanga, geloods in 1996, het slegs 100 joernale teen 1997 gehad,
+   maar oor 20 milljoen teen Desember 2005. Webjoernale het veral sedert
+   1999 skerp begin toeneem en word verder gepopulariseer deur die
+   skepping van die eerste gehuisveste gereedskap vir webjoernale:
+     * Open Diary, geloods in Oktober 1998 en het gou duisende
+       aanlynjoernale gehad. Open Diary het met sy leserkommentaar
+       geïnoveer en sodoende die eerste webjoernaalgemeenskap geword waar
+       lesers hul komentaar kon byvoeg by ander skrywers se webjoernale.
+     * Brad Fitzpatrick het LiveJournal in Maart 1999 begin.
+     * Andrew Smales skep Pitas.com in Julie 1999 as 'n makliker
+       alternatief om 'n "nuusbladsy" op 'n webwerf in stand te hou,
+       gevolg deur Diaryland in September 1999 wat meer op die persoonlike
+       dagboekgemeenskap gevestig het.
+     * Evan Williams en Meg Hourihan (Pyra Labs) loods blogger.com in
+       Augustus 1999 (gekoop deur Google in Februarie 2003).
+
+   Webjoernale kombineer die persoonlike webwerf met gereedskap wat ten
+   doel het om skakeling met ander webwerwe makliker te maak — spesifiek
+   permanente skakels (permalinks), webjoernaalrolle (blogrolls) en
+   terugspoor (trackback). Dit tesame met webjoernaalsoekenjins maak dit
+   vir webjoernaalskrywers moontlik om skakels te volg na ander individue
+   met soortgelyke belangstellings.
+
+[wysig] 2001 – 2004
+
+   Teen 2001 was webjoernale reeds sodanig 'n fenomeen dat handleidings
+   gepubliseer word. Die handleidings fokus veral op tegnieke. Die
+   belangrikheid van die webjoernaalgemeenskap (en sy verhouding met die
+   breë gemeenskap) het gou toegeneem. Gevestigde joernalistieke
+   opleidingsentra het begin om navorsing te doen oor webjoernale en die
+   verskille tussen hoofstroomjoernalistiek en webjoernale uitgewys.
+
+   In 2002 het Jerome Armstrong en sy vriend en besigheidsvennoot Markos
+   Moulitsas Zúniga die webwerf DailyKos begin. Met tot 'n miljoen besoeke
+   per dag gedurende belangrike gebeure, het dit nou een van die internet
+   se mees besoekte webjoernale geword.
+
+   Die rol wat webjoernale gespeel het in die Verenigde State van Amerika
+   om politieke druk te inisieer wat tot die bedanking van VSA Senaat
+   Meerderheidleier, Trent Lott, in 2002 gelei het, het die groeiende
+   politieke invloed van die webjoernaal geïllustreer.
+
+   Die impak van die storie het groter geloofwaardigheid aan webjoernale
+   as 'n medium vir nuus en nuusvertolking verleen. Alhoewel webjoernale
+   in die algemeen beskou word as partydig, speel hulle soms 'n rol om
+   sleutelinligting tot die publieke domein toe te voeg. Sodanige
+   inligting word deur die media geïdentifiseer en verder bekend gemaak.
+   Dit bly egter meer algemeen vir nuuswebjoernale om kommentaar te lewer
+   op dit wat in die hoofstroommedia gepubliseer word.
+
+   Sedert 2002 het webjoernale egter toenemend in die publieke oog beweeg
+   vir hul rol om 'n nuwe dimensie aan nuusstories te verleen. Gedurende
+   die eerste oorlog in Irak het sekere webjoernale soms passievolle en
+   berekende standpunte ingeneem wat verder gegaan het as die tradisionele
+   links-regs-verdeeldheid van die politieke spektrum.
+
+   Webjoernale bedryf deur politici en politieke kandidate om hul mening
+   oor politieke vraagstukke te stel, het webjoernale se nuuswaardigheid
+   gevestig. Intussen het 'n toenemende getal kenners ook webjoernale
+   begin skryf wat tot gevolg het dat verskeie webjoernale bronne vir
+   indiepte analise geword het.
+
+   Die tweede oorlog in Irak was die eerste "webjoernaaloorlog". Irakse
+   webjoernaalskrywers het wye gehore gehad en 'n ene Salam Pax het selfs
+   'n boek gepubliseer gebaseer op sy webjoernaal. Webjoernale is ook deur
+   soldate wat aan die konflik deelgeneem het, geskep. Sulke
+   "oorlogwebjoernale" het lesers nuwe perspektiewe op die realiteite van
+   oorlog gegee, sowel as dikwels verskillende gesigspunte as dié van
+   amptelike nuusbronne gehuldig.
+
+   Webjoernale vestig ook aandag op obskure nuusbronne. So het webjoernale
+   byvoorbeeld skakels gepubliseer na die verkeerskameras in Madrid toe
+   reuse anti-terrorismebetogings daar plaasgevind het na die
+   bomontploffings van 11 Maart.
+
+   Webjoernaalskrywers is ook in 'n posisie om byna-oombliklike kommentaar
+   op televisiegeleenthede te skep.
+
+[wysig] 2004 – nou
+
+   Sedert 2004 het die rol van webjoernale versterk met politieke
+   konsultante, nuusdienste en politieke kandidate in veral die
+   ontwikkelde wêreld sulke joernale gebruik as instrumente vir uitreiking
+   en opinie beïnvloeding.
+
+   Die Columbia Journalism Review het begin om gereeld te fokus
+   webjoernale en webjoernaalskrywers. Boeke oor webjoernale word uitgegee
+   terwyl webjoernaalskrywers ook op radio en televisie begin verskyn.
+   Merriam-Webster se woordeboek verklaar "blog" as die woord van die jaar
+   in 2004.
+
+   In die VSA was webjoernale die belangrikste rolspelers om vals
+   dokumente wat deur Dan Rather, 'n televisiejoernalis tydens 'n CBS
+   program 60 Minutes belig is, te ontbloot. Die dokumente oor
+   VSA-president George W. Bush se militêre diens is bevraagteken deur
+   webjoernaalskrywers en CBS het verskoning aangebied vir "onvoldoende
+   veslagdoeningtegnieke". Baie webjoernaalskrywers beskou hierdie
+   skandaal as die begin van die massamedia se aanvaarding van webjoernale
+   beide as bronne van nuus en mening sowel as 'n middel waardeur
+   politieke druk toegepas kan word.
+
+   Sommige webjoernale was belangrike bronne van nuus gedurende die
+   Tsoenami van Desember 2004 soos Medecins Sans Frontieres. Net so was
+   daar 'n paar webjoernale gedurende Orkaan Katrina in Augustus 2005 en
+   die tydperk daarna wat vanuit New Orleans bestuur is, insluitende die
+   Interdictor en Gulfsails, wat daarin geslaag het om krag en 'n
+   internetskakel te handhaaf en inligting beskikbaar te stel wat nie
+   gedek is deur die hoofstroommedia nie.
+
+   In Brittanje is die koerant, The Guardian herontwerp in September 2005,
+   wat onder andere 'n daaglikse opsomming van webjoernale op bladsy twee
+   insluit. In Junie 2006 het BBC News 'n webjoernaal vir sy redakteurs
+   geloods soos ook in ander nuusmaatskappye ingestel is. In Januarie 2005
+   het die tydskrif, Fortune agt webjoernaalskrywers gelys wat
+   besigheidsmense "nie kan ignoreer nie": Peter Rojas, Xeni Jardin, Ben
+   Trott, Mena Trott, Jonathan Schwartz, Jason Goldman, Robert Scoble, en
+   Jason Calacanis.
+
+[wysig] Soorte webjoernale
+
+     * Nuuswebjoernaal
+
+   'n Nuuswebjoernaal is 'n aanlyn koerant waarin die interaktiwiteit
+   toeneem.’n Nuuswebjoernaal word meer as een keer 'n dag opgedateer,
+   fokus op aktuele onderwerpe en word gewoonlik onderhou deur verskeie
+   redaksielede.
+     * Meningwebjoernaal
+
+   'n Meningwebjoernaal is 'n webjoernaal waarop daagliks menings,
+   kommentare en/of satiese beskouings gepubliseer word oor aktuele
+   aangeleenthede in die samelewing.
+     * Pretjoernaal (Funlog)
+
+   'n Pretjoernaal is ‘n webjoernaal waarin alles wat verbandhoudend is
+   met humor en/of waar bisarre nuusfeite 'n rol speel.
+     * Lewenswebjoernaal
+
+   'n Lewenswebjoernaal is 'n webjoernaal waarop gereelde berigte geplaas
+   word oor gebeurtenisse in die lewe van die skepper van
+   lewenswebjoernaal. Dit kan beskou word as ’n aanlyndagboek.
+     * Klubwebjoernaal
+
+   'n Klubwebjoernaal is 'n meer uitgebreide weergawe van 'n gasteboek van
+   ’n klub of organisasie as werklik 'n suiwer webjoernaal. Dit is
+   weliswaar nie 'n geslote joernaal nie en is vir enige persoon
+   toeganklik, maar verreweg die meeste besoekers van 'n klubwebjoernaal
+   sal egter deel uitmaak van 'n bepaalde klub, vereniging of organisasie
+   waarvan die lede nuus en wetenswaardighede met betrekking tot hul klub
+   publiseer.
+     * Skakelwebjoernaal
+
+   'n Skakelwebjoernaal bestaan uit 'n versameling url's (adresse op die
+   internet) wat deur diegene wat die skakelwebjoernaal versorg as
+   interessant bestempel word vir die leser van die betrokke webjoernaal .
+     * Mobielewebjoernaal
+
+   'n Mobielewebjoernaal is 'n webjoernaal wat bygehou word vanaf 'n
+   selfoon (byvoorbeeld deur MMS of e-pos), selfs ook met fotos geneem op
+   'n selfoon.
+     * Musiekwebjoernaal
+
+   'n Musiekwebjoernaal is 'n webjoernaal waarin gefokus word op musiek,
+   hetsy kritiek of bevordering van musiek, groepe of musici.
+     * Skakelversameling (Linkdump)
+
+   'n Skakelversameling is 'n webjoernaal waarop verskillende grappige,
+   ontroerende of skokkende aangeleenthede die fokus is. In werklikheid is
+   dit slegs 'n versameling van skakels, deurgaans voorsien van
+   persoonlike kommentaar.
+     * Skokwebjoernaal
+
+   'n Skokwebjoernaal probeer deur middel van skokkende en aggresiewe
+   inhoud publieke belangstelling te lok.
+     * Besigheidswebjoernaal
+
+   'n Besigheidswebjoernaal is 'n webjoernaal waarop artikels geplaas word
+   oor 'n besigheid. Dit verteenwoordig nie die mening van ’n individu nie
+   maar wel die mening van ’n besigheidsentiteit oor 'n bedryf of
+   besigheid.
+     * Poliwebjoernaal
+
+   'n Poliwebjoernaal is is 'n webjoernaal waarop politici artikels plaas.
+     * Stadswebjoernaal
+
+   'n Stadswebjoernaal is 'n webjoernaal waarop artikels geplaas word met
+   as onderwerp 'n bepaalde stad of gemeenskap.
+     * Klasbwebjoernaal
+
+   'n Klasbwebjoernaal is 'n webjoernaal waarin artikels geplaas word deur
+   ‘n klas: sowel deur die leerkrag as die leerlinge. Dit kan
+   klasbelewenisse, die daaglikse agenda met take en lesse, foto's, briewe
+   aan ouers en skakels na webwerwe bruikbaar vir lesse, insluit.
+     * Temawebjoernaal
+
+   'n Temawebjoernaal is 'n webjoernaal waarop artikels geplaas word oor
+   een onderwerp of professie. Die individue wat dit produseer het 'n
+   passie vir 'n besondere onderwerp en het gewoonlik omvangryke kennis
+   van dié onderwerp. Daar is tans webjoernaaluitgewers wat hierdie soort
+   joernale professioneel bestuur.
+     * Reiswebjoernaal
+
+   'n Reiswebjoernaal is 'n webjoernaal waarop artikels oor verskillende
+   reise wat mense onderneem. Soms word die webjoernaal onderweg bygehou,
+   maar meer algemeen na die reis gebaseer op 'n reisdagboek wat tydens
+   die reis gehou is.
+     * Fotowebjoernaal
+
+   'n Fotowebjoernaal is 'n webjoernaal waarop slegs foto's en kort
+   beskrywings en/of kommentaar geplaas word.
+
+[wysig] Besigheidsmodelle
+
+   Die oorgrote meerderheid van webjoernale is nie kommersieel van aard
+   nie. Sommige voltydse webjoernaalskrywers vind dit moeilik om 'n wins
+   uit hul werk te maak. Die algemeenste en eenvoudigste metode om geld te
+   verdien, bly om teikengerigte banieradvertensies op die blad te plaas.
+   Sommige webjoernaalskrywers bly egter huiwerig om dit te gebruik weens
+   negatiewe reaksie van lesers op advertensies. 'n Meer diskrete vorm van
+   reklame sluit in skakels na ander webwerwe wat kommissie betaal aan die
+   skrywers vir kopers wat skakels vanaf 'n webjoernaal gevolg het. Ander
+   volg die klik-om-te-skenk-model. Politieke webjoernaalskrywer Andrew
+   Sullivan het op 'n stadium aangedui dat om donasies te aanvaar meer
+   winsgewend is as sy skryfwerk vir The New Republic.
+
+   In die vroeë een-en-twintigste eeu het baie tydskrifte en koerante
+   begin om persoonlike webjoernale te borg. Die besigheidsmodel in dié
+   geval is is dieselfde as tradisionele rubriekskrywers in publikasies.
+   Hierdie gebruik word ook deur ander gevolg wat webjoernale begin wat
+   gefokus is op hul maatskappye se produkte en sodoende 'n persoonlike
+   verband tussen produkte en die verbruiker begin skep.
+
+   Betaal-per-webjoernaalinskrywing is 'n meer kontroversiële model
+   waarvolgens 'n webjoernaalskrywer 'n vasgestelde aantal woorde oor 'n
+   onderwerp skryf (gewoonlik 'n webblad of produk) voorsien deur 'n
+   adverteerder. Die inskrywing sluit ook gewoonlik ten minste een skakel
+   na 'n relevante webwerf in, as 'n metode om belangstelling aan te
+   wakker en die adverteerder se webbladsy se rang in terme van soekenjins
+   te verhoog. In ruil ontvang die webjoernaalskrywer 'n klein hoeveelheid
+   geld, gewoonlik nie meer as VSA $10 nie.
+
+   Die rede vir die kontroversie is dat baie webjoernaalskrywers nie aan
+   hul lesers bekend maak dat hulle vir sodanige inskrywing betaal word
+   nie en dus die indruk laat dat hulle eerlik sodanige produk aanbeveel
+   terwyl hulle in der waarheid skrywers van advertensiekopie is. In
+   reaksie verwerp sekere webjoernaalskrywers die praktyk van betaalde
+   inskrywings as "fasilitering van die besoedeling van die
+   webjoernaalsfeer". Ander is weer van mening dat daar geen etiese
+   probleem daarmee is nie solank die webjoernaalskrywer erken dat hy of
+   sy betaal word.
+
+[wysig] Sagteware
+
+   Die meeste webjoernaalskrywers maak vir die byhou van hul joernaal
+   gebruik van gratis aanlyn dienste, waarvan Blogger populêr is. Ander
+   sluit in Ecto en Elicit wat gebruikers toelaat om hul webjoernaal op te
+   dateer sonder om aanlyn te wees vir die redigeering van die artikels.
+   Sagteware soos Blogger bied aan gebruikers wat geen ervaring het met
+   die skepping van webbladsye het nie, die geleentheid om aanlyn ’n
+   webjoernaal te skep.
+
+   Webjoernaal skep sagteware en gasheerhuisvestiging word ook voorsien
+   deur sommige webbediener maatskappye (Tripod en TypePad ), Internet
+   diensverskafvers (Mweb & America Online), aanlyn publikasies
+   (Salon.com) en internet poort-webtuistes (Yahoo! 360° or Google).
+
+   Webjoernaalskrywers met meer ervaring gebruik daarteen oor die algemeen
+   spesiaal ontwikkelde sagteware soos byvoorbeeld WordPress, MovableType,
+   Nucleus CMS, Pivot, Drupal of pMachine. Met hierdie sagteware, wat op
+   'n eie bedienerruimte geïnstalleer kan word, kan 'n individu sy
+   webjoernaal heeltemal na sy eie keuse ontwerp. Verskeie van die
+   programme is verniet.
+
+[wysig] Inhoud van 'n webjoernaal
+
+   'n Webjoernaal artikel bestaan gewoonlik uit die volgende:
+     * Titel, die hoofopskrif van die artikel.
+     * Liggaam, die hoofinhoud van die artikel.
+     * Permanenteskakel, die URL van die volledige individuele artikel.
+     * Plasingsdatum, datum en tyd toe die artikel gepubliseer is.
+
+   Addisionele opsies sluit die volgende in:
+     * Kommentaar
+
+   Kommentaar is 'n manier om bespreking van webjoernaal inskrywings te
+   verseker. Lesers word die geleentheid gebied om kommentaar oor 'n
+   artikel te lewer. Dit kan insluit om regstellings onder die skrywer se
+   aandag te bring of om hul opinie oor die artikel of tema van die
+   artikel te gee. Dienste soos coComment stel ten doel gesprekvoering
+   deur kommentaar te vergemaklik deur die naspoor daarvan toe te laat.
+     * Terugspoor (Engels: Trackback)
+
+   Wanneer 'n webjoernaalskrywer reageer op 'n verwysing na 'n item uit 'n
+   ander webjoernaal, en beide skrywers ondersteun 'n terugspoor, dan word
+   die oorsponklike webjoernaalskrywer deur middel van 'n "terugspoor
+   pieng" hiervan op hoogte gebring. Onderaan die oorsponklike
+   webjoernaalartikel word dan na die ander webjoernaal deurverwys.
+     * Permanenteskakel (Engels:Permalink)
+
+   Dit bied 'n skakel na 'n webjoernaalartikel wat nie sal verander nie.
+   Aangesien die artikels gesorteer word volgens datum, kan dit wees dat
+   'n nuusfeit op 'n bepaalde tydstip op die hoofbladsy wees, maar 'n
+   maand later nie meer daar te vinde is nie. 'n Permanenteskakel verander
+   egter nie en maak dit moontlik dat die artikel weer maklik opgespoor
+   kan word.
+     * RSS
+
+   'n Groeiende aantal internetgebruikers gaan nie meer daagliks na die
+   webbladsye van die webjoernale, maar gebruik daarvoor 'n RSS-leser. RSS
+   is 'n XML-toepassing, waardeur webblaaie met 'n enkele muisklik
+   gekontroleer kan word vir opdaterings. Om RSS te gebruik is 'n
+   RSS-leser noodsaaklik.
+
+[wysig] Webjoernaalgewildheid
+
+   Volgens analises gedoen deur navorsers is daar twee maniere waarop
+   webjoernale gewild word naamlik deur verwysings (Engels: citations) en
+   deur middel van afilliasie (byvoorbeeld webjoernaalrolle). Die basiese
+   gevolgtrekking waartoe in hierdie studie gekom word, is dat terwyl dit
+   tyd neem vir 'n webjoernaal om populêr te word deur webjoernaalrolle
+   kan permanenteskakels dit vinniger laat gebeur. Dit is meer aanduidend
+   van populêriteit en gesag as webjoernaalrolle aangesien dit aandui dat
+   persone werklik die webjoernaal se inhoud lees en dit as waardevol en
+   belangwaardig ag in spesifieke gevalle.
+
+   Die blogdex-projek is geloods deur navorsers in die MIT Media Lab met
+   die doel om die web te deurkruis en inligting van duisende webjoernale
+   te bekom ten einde hul sosiale eienskappe te ondersoek. Die projek het
+   inligting vir vier jaar ingesamel en het die outomatiese verspreiding
+   van gewilde inligting in die gemeenskap gevolg. Dié projek is nie meer
+   aktief nie.
+
+   Webjoernale word ook rang verleen deur Technorati gebaseer op die
+   hoeveelheid inkomende skakels en deur Alexa Internet gebaseer op
+   webbesoeke deur gebruikers van die Alexa nutsbalk (Engels: toolbar).
+
+   In Augustus 2006 het Technorati die webjoernaal waarna die meeste
+   skakels gelei het aangedui as dié van die Sjinese aktrise Xu Jinglei en
+   die mees geleesde webjoernaal as die Boing Boing wat deur 'n groep
+   skrywers in stand gehou word.
+
+[wysig] Die Webjoernaal buite die Anglofoonsfeer
+
+   Engels was die oorheersende taal tydens die beginjare van webjoernale.
+   Terselftertyd was dit grootliks 'n VSA gesentreerde fenomeen. Hierdie
+   situasie het die afgelope tyd verander. Die webjoernaalsfeer is tans
+   meertalig en ook al hoe meer verteenwoordigend van die breë
+   wêreldbevolking met veral tans die Asiatiese en Europese tale wat sterk
+   groei toon.
+
+   Gedurende April 2006 word gereken dat minder as een derde van alle
+   webjoernaal artikels in Engels is. Japannees en Sjinees groei die
+   vinnigste in die webjoernaalsfeer. Volgens Technocrati se berekeninge
+   (2006) is die volgende tale in volgorde die gewildste vir webjoernale,
+   Japannees, Sjinees, Engels, Spaans, Italiaans, Frans, Portugees,
+   Nederlands en Duits. Koreaans is ook 'n prominente webjoernaaltaal wat
+   onderskat word in die Technocrati evaluasie aangesien dié soekenjin nie
+   verskeie prominente Koreaanse webwerwe indekseer nie.
+
+[wysig] Eksterne skakels
+
+     * Gewilde Afrikaanse webjoernale
+     * Afrikaanse blogs webring
+     * Afrikaanse webjoernale
+     * Webjoernaalsagteware vergelyking (Engels)
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorieë: Internet • Joernalistiek • Massamedia
+

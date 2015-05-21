@@ -1,0 +1,916 @@
+Wikipediabespreking:Robot
+
+
+   Plaas alle versoeke om robotvlaggies hier (sien die vereistes by
+   Wikipedia:Robot). Let asseblief egter daarop dat 'n wyle kan neem voor
+   u aansoek goed- of afgekeur word. Moet asseblief nie 'n robot laat
+   hardloop voor u nie goedkeuring gekry het nie! Dit kan daartoe lei dat
+   u robotgebruikersrekening geblokkeer word.
+
+   Request bot flags for your bots here (see requirements at
+   Wikipedia:Robot). Please note that it may take quite a long while
+   before your request is granted or denied. Please do not start running
+   your bot before your bot has been approved! This might lead to a
+   blocking of your bot's account.
+     * It is not necessary, but it would help to speed the process along
+       if you can provide links to your bot's request and approval on
+       other large wiki's, particularly the English, German or Dutch
+       Wikipedia.
+
+                >>> Versoek botstatus / Request botstatus <<<
+
+   Sien gerus Wikipedia:Robot/Goedgekeurde robotte vir suksesvolle
+   versoeke.
+
+   Inhoud
+
+        * 1 Robotte: 'n risiko?
+        * 2 Zin en onzin van robots
+        * 3 JAnDbot
+        * 4 K.J.Bot - interwiki
+        * 5 Qualia
+        * 6 TXiKiBoT
+        * 7 YonaBot
+        * 8 Loveless
+        * 9 Beleidvorming
+        * 10 BotMultichill
+        * 11 AlleborgoBot
+        * 12 Byrialbot
+        * 13 Gebruiker:Idioma-bot
+        * 14 About the advantage of having many interwiki bots
+        * 15 Ken123BOT
+        * 16 Botflag for Purbo_T
+        * 17 Request for bot flag for interwiki bot Alecs.bot
+        * 18 SoxBot
+        * 19 Aanvraag voor een botflag voor Carsracbot
+        * 20 EivindBot
+        * 21 SpBot
+        * 22 MelancholieBot
+             + 22.1 FiriBot
+
+[wysig] Robotte: 'n risiko?
+
+   Ek is gekant teen bots al is dit dalk bloot dat ek vrees wat ek nie
+   verstaan nie. Myns insiens moet Robotte se werking eers aan almal
+   verduidelik word. Wie beheer die inhoud van die bot se kode
+   byvoorbeeld. Waar hardloop die bot sagteware? Waar word die kode
+   gepubliseer? My mening is dat Robotte 'n risiko inhou waarsonder ons
+   kan klaarkom. --RM 06:52, 6 Junie 2006 (UTC)
+
+          As ek hierna kyk dan voel ek my mening is geregverdig. [1] --RM
+          06:56, 6 Junie 2006 (UTC)
+
+   Renier, ek gaan nog verder skryf, en ek kan gerus help verduidelik hoe
+   dinge werk (net te min tyd reg nou). Ek glo daar is gevalle waar 'n
+   robot heel onskadelik kan wees. Ons interwiki-skakels word reeds heel
+   getrou deur 'n (te groot) klomp robotte gedoen. (Dit is in elkgeval
+   sekerlik van die verveligste werk om te met die hand te doen.) Ek deel
+   egter jou vrees vir skade en dinge wat net werk veroorsaak. Ek voel ook
+   dat ons nie te veel robotte moet hê wat gekontroleer moet word nie.
+   Meeste robotte oor die wikipediaprojekte glo ek gebruik die
+   pywikipedia-raamwerk wat sekerlik veilig is. Ons kan dalk vereis dat
+   mense die kode publiseer as dit nie die standaardraamwerk is nie.
+   Dankie vir die terugvoer. Ons moet sommer gou probeer om 'n voorlopige
+   beleid op te stel. --Alias 08:59, 6 Junie 2006 (UTC)
+
+[wysig] Zin en onzin van robots
+
+   Robots zijn een goed hulpmiddel om werk uit te voeren waar weinig
+   denkwerk voor nodig is. Het gevaar van robots is dat ze niet kunnen
+   denken en dus fouten maken.
+
+   Mijn ideeën over robots zijn als volgt:
+     * Een robot moet altijd handmatig bediend worden. Autonome robots
+       zijn ongewenst.
+          + Reden: Een autonome robot kan niet denken en maakt fouten.
+     * Een robot moet vertrouwd worden. Een robot heeft een meester nodig
+       om hem te bedienen, de meester moet ook vertrouwd zijn.
+          + Reden: De werking van de robot moet gecontroleerd worden door
+            zijn meester, indien iemand een robot verkeerd bediend
+            ontstaan fouten.
+     * Een robot mag maximaal één taak per rekening uitvoeren. Een
+       interwikibot gebruikt dus een andere rekening dan een
+       speltoetsrobot, ook al worden beiden door dezelfde meester bediend.
+          + Reden: Het feit dat één robot goed werkt betekent niet dat de
+            andere goed werkt.
+
+   Een robot die een robotvlaggetje wil krijgen, moet aan alle drie
+   voorwaarden hierboven voldoen, alsook:
+     * Er bestaat geen reden om de wijziging in de onlangse wijzigingen te
+       zien.
+
+   Een interwikirobot kan ongezien zijn werk doen. Een speltoetsrobot wat
+   mij betreft niet, er is geen reden waarom dit onzichtbaar moet
+   gebeuren. Danielm 16:24, 28 Augustus 2006 (UTC)
+
+[wysig] JAnDbot
+
+   Please for bot flag for my bot. It's interwiki bot working on cs:, it
+   does non-controversial automatic interwiki addiction, but his main
+   domain is human assisted problematical interwiki (this operation is
+   working on all languages at same time, but maximal about 20 pages per
+   day).
+
+   Sometimes this bot do standard interwiki addiction, but only in the
+   languages with bot flag.
+
+   Bot is based on pywikipedia. Already with bot status in about 100
+   languages, including almost all from top20 (some of them you can see
+   here).
+
+   If you have any question, please write it to my discuss page JAnDbot
+   09:20, 29 Maart 2007 (UTC) / JAn
+
+          Indien ek dit nie mis het nie het hierdie robot nog nie
+          robotstatus nie? Buiten vir amper die hele Mei-maand se onnutige
+          datum-interwikis blyk die robot tog nuttige interwikiskakels by
+          te voeg. Veranderings van reeds bestaande skakels blyk ook
+          korrek gedoen te word, soos hierdie hierdie wysiging aandui.
+          Anrie 09:43, 6 Junie 2007 (UTC)
+
+                Ek stel voor ons maak 'n uitsondering en ken botstatus aan
+                Jabdbot toe. Dit lyk nie asof dit sommer 'n vent is wat
+                hier rond wil eksperimenteer nie, en ek dink sy bot is
+                heel nuttig.... — Adriaan (S★B) 16:40, 4 Oktober 2007
+                (UTC)
+
+                      Hy het onlangs 'n aantal wysigings aangebring wat
+                      blyk inkorrek te wees. Ek wag nog op 'n antwoord van
+                      hom op sy besprekingsblad. Anrie 17:57, 4 Oktober
+                      2007 (UTC)
+
+                            Oh ok, ek sien - ek het dit nie opgelet
+                            nie. — Adriaan (S★B) 20:17, 4 Oktober 2007
+                            (UTC)
+
+[wysig] K.J.Bot - interwiki
+
+   Hi! I think that I hit to suitable place. I would like to ask for
+   "+bot" status for User:K.J.Bot. It is interwiki bot working on pywiki
+   engine. He will be working on some Wikipedias.
+     * edits on pl.wiki
+     * edits on af.wiki
+     * edits on fr.wiki
+     * edits on bn.wiki
+     * edits on pl.news
+
+   Thanks, pl:User:Krzysiu Jarzyna 12:35, 6 Desember 2006 (UTC)
+
+[wysig] Qualia
+
+   Hallo, I'm running Qualia as an interwiki bot. I would like a bot flag
+   to run my interwiki-bot (using Pywikipedia). This bot will run in
+   manually assisted mode in european languages, updating interwiki-links.
+
+   Bot status in the moment: cs, sk, pl, uk, ru, sl, sr, hr, bs, lt, en,
+   de, sv, no, fr, it, pt, da, lb, nds, el, be-x-old
+
+[wysig] TXiKiBoT
+
+   Hello, I'm eu:TXiKi, from the basque wikipedia, and I would like to ask
+   you for a bot flag here to add and correcting interwiki links from and
+   to Afrikaans Wikipedia. I'm an admin user in the basque wikipedia (eu)
+   and I have the bot flag in more than 70 wikipedias. I work with the
+   pywikipedia framework correcting the most linked pages as years,
+   decades, domains, municipalities, etc. This is the full list of the
+   wikipedias where I have a flagged bot: am, an, ast, az, bat-smg, be,
+   bn, bpy, br, bs, ca, co, cs, csb, cv, da, en, eo, es, et, eu, fo, fr,
+   frp, fur, fy, ga, gd, gl, gu, he, hi, ht, hy, is, it, kn, ksh, lb, lij,
+   lmo, ln, mk, mr, na, nah, nap, nds-nl, nl, no, nrm, oc, os, pl, pt,
+   ru-sib, scn, sco, simple, sk, sl, sq, su, sv, ta, te, tet, tg, tr, ur,
+   vec, vi, vls, vo and zh-yue. You can see my contributions here. I can
+   speak in basque, spanish, catalan and english. Thank you. TXiKiBoT
+   09:30, 20 Maart 2007 (UTC)
+     * Diegene wat belangstel kan die bot se goedkeuringsprosesse nagaan
+       by die Engelse Wikipedia en die Nederlandse Wikipedia nagaan (vir
+       wat dit werd is). (Ek het nie die Duitse een kon opspoor nie.)
+
+     * Ondersteun - laurens 18:01, 1 Februarie 2008 (UTC)
+     * Ondersteun - Anrie 09:37, 4 Februarie 2008 (UTC)
+
+[wysig] YonaBot
+
+   Hello, I'm Yonatan, an admin on commons, and I run YonaBot, an
+   interwiki.py pywikipedia bot that adds interwikis mainly from the
+   Hebrew Wikipedia. I already have the bot flag on ar, cs, da, de, en,
+   fr, id, it, no, nl, pl, pt and sv. Thanks, Yonatan 19:02, 16 April 2007
+   (UTC)
+
+[wysig] Loveless
+
+   Hello, I'd like to obtain the bot flag for my robot, Loveless, on this
+   wiki :
+     * Operator : fr:User:Darkoneko (for contact, please use fr:User
+       talk:Darkoneko and not my talk page here)
+     * Framework : pywikipedia's interwiki.py
+     * Language : Python
+     * Function : interwikis. (I can also do other jobs on request)
+     * mode : interwiki.py -autonomous
+     * Already has a bot flag in : see fr:User:Loveless#Bot_flag
+
+   thanks in advance :)
+
+   Darkoneko 22:57, 29 Mei 2007 (UTC)
+
+[wysig] Beleidvorming
+
+   Hier is nou soveel versoeke vir robotstatus, maar niemand lig 'n vinger
+   om te help goedkeur / afkeur nie. Persoonlik is ek nie mal oor die
+   situasie nie. Ek dink ons het nou al meer robotte as mense en ek wil
+   nie my vertroue so dun moet versprei nie (ek het nie baie vertroue vir
+   mense wat nie Afrikaans ken en geen rede het om versigtig te wees met
+   hulle wysigings hier nie). Robotoperateurs voer aan dat hulle op so
+   veel moontlik projekte moet werk ter wille van doeltreffendheid.
+   Persoonlik irriteer 'n daaglikse opdatering van interwiki's my en ek
+   sou graag daar sonder wou gaan of dit aansienlik wou verminder. Dit is
+   vir my sinneloos om selfs net vier keer per maand 'n interwiki tussen
+   'n leë af.wp-datumbladsy en 'n leë datumbladsy by
+   agter-oos-oesbekistani te maak. Hierdie maak artikelgeskiedenis en die
+   onlangse wysigings baie minder bruikbaar. Hoe sal ons te werk gaan om
+   te verseker dat die robotte slegs vír ons werk sonder om onredelik te
+   wees teenoor operateurs met goeie bedoelings? Hoe gaan ons maak sodat
+   die gemeenskap besluit waneeer ons robotstatus toestaan? Ek is bloot
+   die uitvoerende arm van die gemeenskap - toekenning van hierdie regte
+   is tog nie my besluit nie. --Alias 09:45, 5 Junie 2007 (UTC)
+
+          Ek was nie bewus daarvan dat lede kon help met die
+          goedkeuring/afkeuring van robotte nie, maar was onder die indruk
+          dat dit 'n taak was wat die administrateurs op hulle skouers
+          geneem het.
+
+          Ek sal meer gaan lees oor Robotte en kyk wat ander Wikipedia's
+          se ervaring met hulle was, asook miskien hul ervaring met die
+          spesifieke robotte wat hier botstatus wil hê. Anrie 11:06, 5
+          Junie 2007 (UTC)
+
+                Enige persoon wat daarin belangstel, die
+                en:Wikipedia:Bot_policy se riglyne is baie nuttig om mens
+                'n idee van die voor- en nadele van robotte te gee. Wat
+                vir my baie sin maak is die volgende deel: Bot operators
+                must be reasonably familiar with the languages that they
+                are linking from and to, in order to confirm that
+                interwiki linkings between the two encyclopedias are done
+                correctly.
+
+                Ek het meermale inkorrekte interwikiskakels moes korrigeer
+                wat daar geplaas is deur 'n bot of 'n persoon wat 'n
+                verkeerde vertaling begaan het. Wat die riglyne noem, wat
+                'n goeie idee is, is dat, wanneer 'n iemand aansoek doen
+                om botstatus, hulle ook die volgende meld:
+
+                1. Whether the bot is manually assisted (run by a human)
+                or automatically scheduled to run
+                2. The period, if any, we should expect it to run
+                3. What language or program it is running
+                4. Its purpose
+
+                Dit is 'n goeie idee om dan miskien 'n proeftydperk toe te
+                ken, waarin die bot se gedrag beoordeel kan word. Soos
+                Alias terreg noem, die veranderings in interwiki's is hier
+                groottendeels onnodig wanneer dit plaasvind tussen (byna)
+                leë bladsydatums.
+
+                Die Engelse riglyne sê ook uitdruklik dat geen bot nie
+                gehardloop mag word voor botstatus toegeken is nie, wat ek
+                dink 'n baie goeie idee is. Anrie 11:18, 5 Junie 2007
+                (UTC)
+
+[wysig] BotMultichill
+
+   Let's try this again. Hi, i request a bot bit for BotMultichill.
+     * Botmaster : Multichill
+     * Bot's name : BotMultichill
+     * List of botflags on others wikipedias: ar, bs, ca, ceb, cs, da, de,
+       en, eo, es, et, fr, he, hr, id, is, it, ko, la, li, lt, mr, nap,
+       nds-nl, nl, nn, no, pl, pt, ro, ru, simple, sl, su, sv, ta, te, th,
+       tr, uk & zea
+     * Purpose: Interwiki (pywikipedia)
+     * Technical details : BotMultichill is an interwiki bot starting at
+       the Dutch wikipedia. The bot uses the pywikipedia framework and
+       runs day and night in autonomous mode. Sometimes the bot will run
+       in manual assisted mode to solve interwiki conflicts. Multichill
+       08:40, 6 Junie 2007 (UTC)
+
+     * Sy Duitse en Engelse keuringsprosesse het sonder enige kinkels in
+       die kabel afgeloop. Ondersteun. Anrie 06:20, 4 Maart 2008 (UTC)
+
+     * Ek gaan maar goedkeur om dit van ons af te kry. Ek bly hoofsaaklik
+       teen die toevoeging van ekstra robotte, bloot omdat dit ons tyd
+       mors (goedkeuring, nagaan, administrasie, blok, kommunikasie, ens,
+       ens, ens, ens). (pas weer 'n uur gebruik om deur die aansoek te
+       gaan, besprekings te lees by ander wiki's, gesprek op IRC te hê,
+       ens. Ons moet robotte op 'n manier toelaat, maar op die oomblik
+       voel dit vir my ons dien die robotte in plaas van hulle ons.
+       Enigiemand nog voor/teen? Laaste kans! --Alias 19:44, 4 Maart 2008
+       (UTC)
+
+                Hoor hoor! Ek stem 100% saam - ek is nogal dik daarvoor om
+                vir elke robot te moet gaan uitsnuffel waar hy
+                oorspronklik by ander Wikis genomineer was en dit dan na
+                te gaan en hulle besprekingsbladsye deur te lees vir
+                probleme wat hulle sedert hulle aanvaarding elders opgetel
+                het - en dié besprekingsbladsye is dikwels 'n aanstuur na
+                'n ander Wikipedia, wat beteken dat jy jou as gaan afsoek
+                voor jy iets relevants kry (en dit irriteer my vreeslik,
+                daarom het ek vandag dit gedoen. Maar ja, ek ondersteun
+                maar waar dit redelik in-die-haak lyk, net om dit weg te
+                kry. Anrie 19:57, 4 Maart 2008 (UTC)
+
+                      Heeft de laatste kans al lang genoeg geduurd?
+                      Multichill 15:40, 14 Maart 2008 (UTC)
+
+[wysig] AlleborgoBot
+
+     * Operator: Alleborgo
+     * Automatic or Manually Assisted: Automatic, in "-autonomous" mode.
+       Sometimes the bot will run in manual assisted mode to solve
+       interwiki conflicts.
+     * Programming Language(s): Pywikipedia framework updated daily to the
+       last CVS version
+     * Function Summary: interwiki
+     * Already has a bot flag in: it, cs, da, de, en, eo, es, fr, id, ja,
+       ka, nl, pl, pt, ru, sv, zh, zh-yue. On it.wiki has done more than
+       31000 edit.
+
+   Thanks --AlleborgoBot 16:05, 14 Junie 2007 (UTC)
+
+          Huidiglik word daar aan geen robotte meer botstatus verleen nie.
+          Effektiewelik afgekeur. Anrie 12:04, 28 Junie 2007 (UTC)
+
+[wysig] Byrialbot
+
+   Hello! I ask for permission to run my interwiki bot Byrialbot at this
+   wiki, and get a bot flag for it.
+     * Operator: Gebruiker:Byrial
+     * Operator's home project: da:User:Byrial
+     * Purpose: Interwiki
+     * Have bot flag at: als:, ar:, bn:, bs:, bpy:, ca:, ceb:, cs:, da:,
+       de:, en:, eo:, et:, fo:, fr:, he:, hu:, id:, io:, is:, it:, ka:,
+       ksh:, lb:, li:, lt:, lv:, mk:, ms:, nds:, nl:, nn:, no:, pms:, pt:,
+       ru:, simple:, sk:, sl:, sr:, sv:, th:, uk:, vo:
+     * Details: Interwiki using Pywikipediabot starting from da:, nn:, no:
+       and sv:. It mostly runs manually assisted and I try to solve found
+       interwiki conflicts when I can.
+
+   It is not running yet. Please tell if you like to see any test edits.
+   Thank you! Byrial 13:28, 26 Junie 2007 (UTC)
+
+          Huidiglik word daar aan geen robotte meer botstatus verleen nie.
+          Effektiewelik afgekeur. Anrie 12:04, 28 Junie 2007 (UTC)
+
+[wysig] Gebruiker:Idioma-bot
+
+   I ask for bot flag to Gebruiker:Idioma-bot at this wiki.
+     * Operator: lt:User:Hugo.arg
+     * Purpose: Interwiki
+     * Have bot flag at: more than 60 wikipedias
+       (en,fr,nl,de,es,pt,pl,zh,ja...)
+     * Details: Interwiki using Pywikipediabot. Works in autonomous and
+       manual modes.
+
+   lt:User:Hugo.arg 14:30, 2 Januarie 2008 (UTC)
+
+   Diegene wat belangstel kan die robot se Engelse en Nederlandse
+   keuringsprosesse nagaan.
+     * Ondersteun - laurens 18:02, 1 Februarie 2008 (UTC)
+     * Ondersteun - Anrie 06:09, 19 Februarie 2008 (UTC)
+
+[wysig] About the advantage of having many interwiki bots
+
+   You should not compare the number of interwiki bots to the local number
+   of articles and users but to the overall number of articles in all
+   Wikipedias. The bots follows interwiki links from all languages to all
+   languages, and after all referenced pages have been collected, they
+   will update those with missing or wrong links. For that process to be
+   efficient it is best if the bots can edit in as many languages as
+   possible.
+
+   Besides there are differences in the way the bots work. Where they
+   start, how the articles are selected, and whether they run
+   automatically (and thus may have to skip when more than one link is
+   found to the same language) or as mine run manually assisted so the
+   operator may (or may not) be able to solve the found interwiki
+   conflicts.
+
+   As I see it, you will by allowing use of interwiki bots improve both
+   your own Wikipedia by quicker update of interwiki links, and all
+   Wikipedias by more efficient use of the resources - specially if a bot
+   is able to solve an interwiki conflict so the next bot can save many
+   fetches of wrong pages. Byrial 10:34, 29 Junie 2007 (UTC)
+
+          Especially for the smaller Wikipedias, we observe that editors
+          very often set outgoing interwiki links but fail to add incoming
+          ones to foreign wikipedias. Thus, unless a bot starts from their
+          wiki, these interwiki links are never detected and never get
+          propagated anywhere. In other words, we need interwiki bots
+          starting from every Wikipedia. --Purodha 13:31, 4 Februarie 2008
+          (UTC)
+
+                I agree. Whilst I generally place at least an interwiki
+                link to any Afrikaans pages that I create on one of the
+                corresponding large wikipedia articles, I certainly don't
+                do it on all the others and rely entirely on bots to
+                propagate the interwiki links further., Would your robot
+                pick up cases where the are interwwiki links from the
+                Afrikaans page but none from anywhere else? I have been
+                working on a number of en:Template:Country data XXX /
+                Sjabloon:Landdata XXX templates where bot assistance could
+                be useful. See for example Sjabloon:Landdata Sint Helena
+                which has a link to the English template
+                en:Template:Country data Saint Helena which currently has
+                nothing pointing back. I could do this one manually, but I
+                am rather loath to do the same for the other 200 odd
+                cases. laurens 07:04, 17 Februarie 2008 (UTC)
+
+                      As for my bot it was not very likely to detect this
+                      case since (a) it starts usually from the Wikipedia
+                      of Ripuarian languages (Keulsj, etc.) and (b) I need
+                      a hint to point it to any other starting point of
+                      interest. This needs to be done manually. I do so,
+                      when I know of any such starting point. Just write
+                      on my talk page if you have suggestions. --Purodha
+                      17:01, 20 Maart 2008 (UTC)
+
+                            Op dit moment zijn er veel interwiki fouten op
+                            af.wikipedia en dat groeit steeds meer. De
+                            ideale situatie dat er evenveel iw bots actief
+                            zijn hier als er verschillende talen wiki's
+                            zijn. En dat elke bot een andere taal wiki als
+                            start punt heeft. Maar dan nog steeds zijn er
+                            nog interwiki bots met hun eigenaren nodig om
+                            de iw conflicten handmatige op te lossen
+                            vanuit hun kennis van steden of planten. Want
+                            planten en dieren zijn zeer lastig om goed de
+                            iw conflicten op te lossen. Carsrac (kontak)
+                            07:05, 23 Mei 2008 (UTC)
+
+   If wanted, I can run my bot starting from af.wikipedia. --EivindJ
+   (kontak) 08:48, 23 Mei 2008 (UTC)
+
+[wysig] Ken123BOT
+
+   Hierdie is 'n bot, en het nog nie bot status verkry nie. ► Adriaan (
+   Spreek ★ Bydraes ) ♪♫ 20:03, 29 Junie 2007 (UTC)
+     * Ondersteun botstatus - laurens 18:08, 1 Februarie 2008 (UTC)
+     * Gekant - die ou moet darem vir ons kom vertel wat hy van plan is om
+       te doen voor ons hom goedkeur. Anrie 09:07, 7 Februarie 2008 (UTC)
+
+                Na die stok ou boodskap op sy gebruikersblad weet nie ek
+                wat hom sal aanspoor om so iets te doen nie: "Until
+                further notice is given, no further bots will be approved.
+                The general consensus is that the number of active bots
+                (about 9 - total of 20 approved bots), compared to the
+                number of articles (9 231) and the number of active and
+                semi-active users (about 20-30) is more than sufficient.
+                We will notify you if and when the situation changes.
+                Thank you. Anrie 10:31, 11 Julie 2007 (UTC)" laurens
+                06:55, 17 Februarie 2008 (UTC)
+
+[wysig] Botflag for Purbo_T
+
+   I'd like to request a bot flag for interwiki bot Purbo_T.
+     * Operator: User:Purodha = ksh:User:Purodha (b'crat @ ksh)
+     * Bot user page: User:Purbo_T
+     * Function: interwiki link maintenance
+     * Operation: manually-assisted, occasionally in automatic or
+       autonomous mode, starting mostly from the Wikipedia of Ripuarian
+       languages
+     * Software: pywikipediabot framework updated daily from svn to latest
+       version
+     * Already has bot flag on:
+       [../../../../../aa/articles/u/s/e/Special%7EUserlist_6cfa.html aa],
+       [../../../../../ab/articles/u/s/e/Special%7EUserlist_6cfa.html ab],
+       [../../../../../ak/articles/u/s/e/Special%7EUserlist_6cfa.html ak],
+       [../../../../../als/articles/u/s/e/Special%7EUserlist_6cfa.html
+       als],
+       [../../../../../am/articles/u/s/e/Special%7EUserlist_6cfa.html am],
+       [../../../../../an/articles/u/s/e/Special%7EUserlist_6cfa.html an],
+       [../../../../../ang/articles/u/s/e/Special%7EUserlist_6cfa.html
+       ang],
+       [../../../../../ar/articles/u/s/e/Special%7EUserlist_6cfa.html ar],
+       [../../../../../ar/articles/u/s/e/Special%7EUserlist_6cfa.html
+       arc],
+       [../../../../../as/articles/u/s/e/Special%7EUserlist_6cfa.html as],
+       [../../../../../ast/articles/u/s/e/Special%7EUserlist_6cfa.html
+       ast],
+       [../../../../../av/articles/u/s/e/Special%7EUserlist_6cfa.html av],
+       [../../../../../ay/articles/u/s/e/Special%7EUserlist_6cfa.html ay],
+       [../../../../../az/articles/u/s/e/Special%7EUserlist_6cfa.html az],
+       [../../../../../ba/articles/u/s/e/Special%7EUserlist_6cfa.html ba],
+       [../../../../../bar/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bar],
+       [../../../../../bat-smg/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bat-smg],
+       [../../../../../bcl/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bcl],
+       [../../../../../be/articles/u/s/e/Special%7EUserlist_6cfa.html be],
+       [../../../../../be-x-old/articles/u/s/e/Special%7EUserlist_6cfa.htm
+       l be-x-old],
+       [../../../../../bg/articles/u/s/e/Special%7EUserlist_6cfa.html bg],
+       [../../../../../bh/articles/u/s/e/Special%7EUserlist_6cfa.html bh],
+       [../../../../../bi/articles/u/s/e/Special%7EUserlist_6cfa.html bi],
+       [../../../../../bm/articles/u/s/e/Special%7EUserlist_6cfa.html bm],
+       [../../../../../bn/articles/u/s/e/Special%7EUserlist_6cfa.html bn],
+       [../../../../../bo/articles/u/s/e/Special%7EUserlist_6cfa.html bo],
+       [../../../../../bpy/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bpy],
+       [../../../../../bs/articles/u/s/e/Special%7EUserlist_6cfa.html bs],
+       [../../../../../bug/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bug],
+       [../../../../../bxr/articles/u/s/e/Special%7EUserlist_6cfa.html
+       bxr],
+       [../../../../../ca/articles/u/s/e/Special%7EUserlist_6cfa.html ca],
+       [../../../../../cbk-zam/articles/u/s/e/Special%7EUserlist_6cfa.html
+       cbk-zam],
+       [../../../../../cdo/articles/u/s/e/Special%7EUserlist_6cfa.html
+       cdo],
+       [../../../../../ce/articles/u/s/e/Special%7EUserlist_6cfa.html ce],
+       [../../../../../ceb/articles/u/s/e/Special%7EUserlist_6cfa.html
+       ceb],
+       [../../../../../ch/articles/u/s/e/Special%7EUserlist_6cfa.html ch],
+       [../../../../../chr/articles/u/s/e/Special%7EUserlist_6cfa.html
+       chr],
+       [../../../../../chy/articles/u/s/e/Special%7EUserlist_6cfa.html
+       chy],
+       [../../../../../co/articles/u/s/e/Special%7EUserlist_6cfa.html co],
+       [../../../../../cr/articles/u/s/e/Special%7EUserlist_6cfa.html cr],
+       [../../../../../crh/articles/u/s/e/Special%7EUserlist_6cfa.html
+       crh],
+       [../../../../../cs/articles/u/s/e/Special%7EUserlist_6cfa.html cs],
+       [../../../../../csb/articles/u/s/e/Special%7EUserlist_6cfa.html
+       csb],
+       [../../../../../cu/articles/u/s/e/Special%7EUserlist_6cfa.html cu],
+       [../../../../../cv/articles/u/s/e/Special%7EUserlist_6cfa.html cv],
+       [../../../../../cy/articles/u/s/e/Special%7EUserlist_6cfa.html cy],
+       [../../../../../da/articles/u/s/e/Special%7EUserlist_6cfa.html da],
+       [../../../../../de/articles/u/s/e/Special%7EUserlist_6cfa.html de],
+       [../../../../../diq/articles/u/s/e/Special%7EUserlist_6cfa.html
+       diq],
+       [../../../../../dsb/articles/u/s/e/Special%7EUserlist_6cfa.html
+       dsb],
+       [../../../../../dv/articles/u/s/e/Special%7EUserlist_6cfa.html dv],
+       [../../../../../dz/articles/u/s/e/Special%7EUserlist_6cfa.html dz],
+       [../../../../../ee/articles/u/s/e/Special%7EUserlist_6cfa.html ee],
+       [../../../../../el/articles/u/s/e/Special%7EUserlist_6cfa.html el],
+       [../../../../../eml/articles/u/s/e/Special%7EUserlist_6cfa.html
+       eml],
+       [../../../../../eo/articles/u/s/e/Special%7EUserlist_6cfa.html eo],
+       [../../../../../es/articles/u/s/e/Special%7EUserlist_6cfa.html es],
+       [../../../../../et/articles/u/s/e/Special%7EUserlist_6cfa.html et],
+       [../../../../../eu/articles/u/s/e/Special%7EUserlist_6cfa.html eu],
+       [../../../../../fa/articles/u/s/e/Special%7EUserlist_6cfa.html fa],
+       [../../../../../ff/articles/u/s/e/Special%7EUserlist_6cfa.html ff],
+       [../../../../../fi/articles/u/s/e/Special%7EUserlist_6cfa.html fi],
+       [../../../../../fiu-vro/articles/u/s/e/Special%7EUserlist_6cfa.html
+       fiu-vro],
+       [../../../../../fj/articles/u/s/e/Special%7EUserlist_6cfa.html fj],
+       [../../../../../fo/articles/u/s/e/Special%7EUserlist_6cfa.html fo],
+       [../../../../../fr/articles/u/s/e/Special%7EUserlist_6cfa.html fr],
+       [../../../../../fur/articles/u/s/e/Special%7EUserlist_6cfa.html
+       fur],
+       [../../../../../ga/articles/u/s/e/Special%7EUserlist_6cfa.html ga],
+       [../../../../../gd/articles/u/s/e/Special%7EUserlist_6cfa.html gd],
+       [../../../../../gl/articles/u/s/e/Special%7EUserlist_6cfa.html gl],
+       [../../../../../glk/articles/u/s/e/Special%7EUserlist_6cfa.html
+       glk],
+       [../../../../../gn/articles/u/s/e/Special%7EUserlist_6cfa.html gn],
+       [../../../../../got/articles/u/s/e/Special%7EUserlist_6cfa.html
+       got],
+       [../../../../../gu/articles/u/s/e/Special%7EUserlist_6cfa.html gu],
+       [../../../../../gv/articles/u/s/e/Special%7EUserlist_6cfa.html gv],
+       [../../../../../ha/articles/u/s/e/Special%7EUserlist_6cfa.html ha],
+       [../../../../../hak/articles/u/s/e/Special%7EUserlist_6cfa.html
+       hak],
+       [../../../../../haw/articles/u/s/e/Special%7EUserlist_6cfa.html
+       haw],
+       [../../../../../he/articles/u/s/e/Special%7EUserlist_6cfa.html he],
+       [../../../../../hi/articles/u/s/e/Special%7EUserlist_6cfa.html hi],
+       [../../../../../hr/articles/u/s/e/Special%7EUserlist_6cfa.html hr],
+       [../../../../../hsb/articles/u/s/e/Special%7EUserlist_6cfa.html
+       hsb],
+       [../../../../../ht/articles/u/s/e/Special%7EUserlist_6cfa.html ht],
+       [../../../../../hu/articles/u/s/e/Special%7EUserlist_6cfa.html hu],
+       [../../../../../hy/articles/u/s/e/Special%7EUserlist_6cfa.html hy],
+       [../../../../../ia/articles/u/s/e/Special%7EUserlist_6cfa.html ia],
+       [../../../../../id/articles/u/s/e/Special%7EUserlist_6cfa.html id],
+       [../../../../../ie/articles/u/s/e/Special%7EUserlist_6cfa.html ie],
+       [../../../../../ig/articles/u/s/e/Special%7EUserlist_6cfa.html ig],
+       [../../../../../ik/articles/u/s/e/Special%7EUserlist_6cfa.html ik],
+       [../../../../../ilo/articles/u/s/e/Special%7EUserlist_6cfa.html
+       ilo],
+       [../../../../../io/articles/u/s/e/Special%7EUserlist_6cfa.html io],
+       [../../../../../is/articles/u/s/e/Special%7EUserlist_6cfa.html is],
+       [../../../../../iu/articles/u/s/e/Special%7EUserlist_6cfa.html iu],
+       [../../../../../ja/articles/u/s/e/Special%7EUserlist_6cfa.html ja],
+       [../../../../../jbo/articles/u/s/e/Special%7EUserlist_6cfa.html
+       jbo],
+       [../../../../../jv/articles/u/s/e/Special%7EUserlist_6cfa.html jv],
+       [../../../../../ka/articles/u/s/e/Special%7EUserlist_6cfa.html ka],
+       [../../../../../kab/articles/u/s/e/Special%7EUserlist_6cfa.html
+       kab],
+       [../../../../../kg/articles/u/s/e/Special%7EUserlist_6cfa.html kg],
+       [../../../../../ki/articles/u/s/e/Special%7EUserlist_6cfa.html ki],
+       [../../../../../kk/articles/u/s/e/Special%7EUserlist_6cfa.html kk],
+       [../../../../../kl/articles/u/s/e/Special%7EUserlist_6cfa.html kl],
+       [../../../../../km/articles/u/s/e/Special%7EUserlist_6cfa.html km],
+       [../../../../../kn/articles/u/s/e/Special%7EUserlist_6cfa.html kn],
+       [../../../../../ko/articles/u/s/e/Special%7EUserlist_6cfa.html ko],
+       [../../../../../ks/articles/u/s/e/Special%7EUserlist_6cfa.html ks],
+       [../../../../../ksh/articles/u/s/e/Special%7EUserlist_6cfa.html
+       ksh],
+       [../../../../../ku/articles/u/s/e/Special%7EUserlist_6cfa.html ku],
+       [../../../../../kv/articles/u/s/e/Special%7EUserlist_6cfa.html kv],
+       [../../../../../kw/articles/u/s/e/Special%7EUserlist_6cfa.html kw],
+       [../../../../../ky/articles/u/s/e/Special%7EUserlist_6cfa.html ky],
+       [../../../../../la/articles/u/s/e/Special%7EUserlist_6cfa.html la],
+       [../../../../../lad/articles/u/s/e/Special%7EUserlist_6cfa.html
+       lad],
+       [../../../../../lb/articles/u/s/e/Special%7EUserlist_6cfa.html lb],
+       [../../../../../lbe/articles/u/s/e/Special%7EUserlist_6cfa.html
+       lbe],
+       [../../../../../lg/articles/u/s/e/Special%7EUserlist_6cfa.html lg],
+       [../../../../../li/articles/u/s/e/Special%7EUserlist_6cfa.html li],
+       [../../../../../lij/articles/u/s/e/Special%7EUserlist_6cfa.html
+       lij],
+       [../../../../../lmo/articles/u/s/e/Special%7EUserlist_6cfa.html
+       lmo],
+       [../../../../../ln/articles/u/s/e/Special%7EUserlist_6cfa.html ln],
+       [../../../../../lo/articles/u/s/e/Special%7EUserlist_6cfa.html lo],
+       [../../../../../lt/articles/u/s/e/Special%7EUserlist_6cfa.html lt],
+       [../../../../../lv/articles/u/s/e/Special%7EUserlist_6cfa.html lv],
+       [../../../../../map-bms/articles/u/s/e/Special%7EUserlist_6cfa.html
+       map-bms],
+       [../../../../../mg/articles/u/s/e/Special%7EUserlist_6cfa.html mg],
+       [../../../../../mh/articles/u/s/e/Special%7EUserlist_6cfa.html mh],
+       [../../../../../mi/articles/u/s/e/Special%7EUserlist_6cfa.html mi],
+       [../../../../../mk/articles/u/s/e/Special%7EUserlist_6cfa.html mk],
+       [../../../../../ml/articles/u/s/e/Special%7EUserlist_6cfa.html ml],
+       [../../../../../mn/articles/u/s/e/Special%7EUserlist_6cfa.html mn],
+       [../../../../../mr/articles/u/s/e/Special%7EUserlist_6cfa.html mr],
+       [../../../../../ms/articles/u/s/e/Special%7EUserlist_6cfa.html ms],
+       [../../../../../mt/articles/u/s/e/Special%7EUserlist_6cfa.html mt],
+       [../../../../../my/articles/u/s/e/Special%7EUserlist_6cfa.html my],
+       [../../../../../mzn/articles/u/s/e/Special%7EUserlist_6cfa.html
+       mzn],
+       [../../../../../na/articles/u/s/e/Special%7EUserlist_6cfa.html na],
+       [../../../../../nah/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nah],
+       [../../../../../nap/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nap],
+       [../../../../../nds/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nds],
+       [../../../../../nds-nl/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nds-nl],
+       [../../../../../ne/articles/u/s/e/Special%7EUserlist_6cfa.html ne],
+       [../../../../../new/articles/u/s/e/Special%7EUserlist_6cfa.html
+       new],
+       [../../../../../ng/articles/u/s/e/Special%7EUserlist_6cfa.html ng],
+       [../../../../../nl/articles/u/s/e/Special%7EUserlist_6cfa.html nl],
+       [../../../../../nn/articles/u/s/e/Special%7EUserlist_6cfa.html nn],
+       [../../../../../no/articles/u/s/e/Special%7EUserlist_6cfa.html no],
+       [../../../../../nov/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nov],
+       [../../../../../nrm/articles/u/s/e/Special%7EUserlist_6cfa.html
+       nrm],
+       [../../../../../nv/articles/u/s/e/Special%7EUserlist_6cfa.html nv],
+       [../../../../../ny/articles/u/s/e/Special%7EUserlist_6cfa.html ny],
+       [../../../../../oc/articles/u/s/e/Special%7EUserlist_6cfa.html oc],
+       [../../../../../om/articles/u/s/e/Special%7EUserlist_6cfa.html om],
+       [../../../../../or/articles/u/s/e/Special%7EUserlist_6cfa.html or],
+       [../../../../../os/articles/u/s/e/Special%7EUserlist_6cfa.html os],
+       [../../../../../pa/articles/u/s/e/Special%7EUserlist_6cfa.html pa],
+       [../../../../../pag/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pag],
+       [../../../../../pam/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pam],
+       [../../../../../pap/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pap],
+       [../../../../../pdc/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pdc],
+       [../../../../../pi/articles/u/s/e/Special%7EUserlist_6cfa.html pi],
+       [../../../../../pih/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pih],
+       [../../../../../pl/articles/u/s/e/Special%7EUserlist_6cfa.html pl],
+       [../../../../../pms/articles/u/s/e/Special%7EUserlist_6cfa.html
+       pms],
+       [../../../../../ps/articles/u/s/e/Special%7EUserlist_6cfa.html ps],
+       [../../../../../qu/articles/u/s/e/Special%7EUserlist_6cfa.html qu],
+       [../../../../../rm/articles/u/s/e/Special%7EUserlist_6cfa.html rm],
+       [../../../../../rmy/articles/u/s/e/Special%7EUserlist_6cfa.html
+       rmy],
+       [../../../../../rn/articles/u/s/e/Special%7EUserlist_6cfa.html rn],
+       [../../../../../ro/articles/u/s/e/Special%7EUserlist_6cfa.html ro],
+       [../../../../../roa-rup/articles/u/s/e/Special%7EUserlist_6cfa.html
+       roa-rup],
+       [../../../../../roa-tara/articles/u/s/e/Special%7EUserlist_6cfa.htm
+       l roa-tara],
+       [../../../../../ru/articles/u/s/e/Special%7EUserlist_6cfa.html ru],
+       [../../../../../rw/articles/u/s/e/Special%7EUserlist_6cfa.html rw],
+       [../../../../../sa/articles/u/s/e/Special%7EUserlist_6cfa.html sa],
+       [../../../../../sc/articles/u/s/e/Special%7EUserlist_6cfa.html sc],
+       [../../../../../scn/articles/u/s/e/Special%7EUserlist_6cfa.html
+       scn],
+       [../../../../../sco/articles/u/s/e/Special%7EUserlist_6cfa.html
+       sco],
+       [../../../../../sd/articles/u/s/e/Special%7EUserlist_6cfa.html sd],
+       [../../../../../se/articles/u/s/e/Special%7EUserlist_6cfa.html se],
+       [../../../../../sg/articles/u/s/e/Special%7EUserlist_6cfa.html sg],
+       [../../../../../sh/articles/u/s/e/Special%7EUserlist_6cfa.html sh],
+       [../../../../../si/articles/u/s/e/Special%7EUserlist_6cfa.html si],
+       [../../../../../simple/articles/u/s/e/Special%7EUserlist_6cfa.html
+       simple],
+       [../../../../../sk/articles/u/s/e/Special%7EUserlist_6cfa.html sk],
+       [../../../../../sl/articles/u/s/e/Special%7EUserlist_6cfa.html sl],
+       [../../../../../sm/articles/u/s/e/Special%7EUserlist_6cfa.html sm],
+       [../../../../../sn/articles/u/s/e/Special%7EUserlist_6cfa.html sn],
+       [../../../../../so/articles/u/s/e/Special%7EUserlist_6cfa.html so],
+       [../../../../../sq/articles/u/s/e/Special%7EUserlist_6cfa.html sq],
+       [../../../../../sr/articles/u/s/e/Special%7EUserlist_6cfa.html sr],
+       [../../../../../ss/articles/u/s/e/Special%7EUserlist_6cfa.html ss],
+       [../../../../../st/articles/u/s/e/Special%7EUserlist_6cfa.html st],
+       [../../../../../stq/articles/u/s/e/Special%7EUserlist_6cfa.html
+       stq],
+       [../../../../../su/articles/u/s/e/Special%7EUserlist_6cfa.html su],
+       [../../../../../sv/articles/u/s/e/Special%7EUserlist_6cfa.html sv],
+       [../../../../../sw/articles/u/s/e/Special%7EUserlist_6cfa.html sw],
+       [../../../../../ta/articles/u/s/e/Special%7EUserlist_6cfa.html ta],
+       [../../../../../te/articles/u/s/e/Special%7EUserlist_6cfa.html te],
+       [../../../../../tet/articles/u/s/e/Special%7EUserlist_6cfa.html
+       tet],
+       [../../../../../tg/articles/u/s/e/Special%7EUserlist_6cfa.html tg],
+       [../../../../../th/articles/u/s/e/Special%7EUserlist_6cfa.html th],
+       [../../../../../ti/articles/u/s/e/Special%7EUserlist_6cfa.html ti],
+       [../../../../../tk/articles/u/s/e/Special%7EUserlist_6cfa.html tk],
+       [../../../../../tl/articles/u/s/e/Special%7EUserlist_6cfa.html tl],
+       [../../../../../tn/articles/u/s/e/Special%7EUserlist_6cfa.html tn],
+       [../../../../../to/articles/u/s/e/Special%7EUserlist_6cfa.html to],
+       [../../../../../tpi/articles/u/s/e/Special%7EUserlist_6cfa.html
+       tpi],
+       [../../../../../tr/articles/u/s/e/Special%7EUserlist_6cfa.html tr],
+       [../../../../../ts/articles/u/s/e/Special%7EUserlist_6cfa.html ts],
+       [../../../../../tt/articles/u/s/e/Special%7EUserlist_6cfa.html tt],
+       [../../../../../tum/articles/u/s/e/Special%7EUserlist_6cfa.html
+       tum],
+       [../../../../../tw/articles/u/s/e/Special%7EUserlist_6cfa.html tw],
+       [../../../../../ty/articles/u/s/e/Special%7EUserlist_6cfa.html ty],
+       [../../../../../udm/articles/u/s/e/Special%7EUserlist_6cfa.html
+       udm],
+       [../../../../../ug/articles/u/s/e/Special%7EUserlist_6cfa.html ug],
+       [../../../../../uk/articles/u/s/e/Special%7EUserlist_6cfa.html uk],
+       [../../../../../ur/articles/u/s/e/Special%7EUserlist_6cfa.html ur],
+       [../../../../../uz/articles/u/s/e/Special%7EUserlist_6cfa.html uz],
+       [../../../../../ve/articles/u/s/e/Special%7EUserlist_6cfa.html ve],
+       [../../../../../vec/articles/u/s/e/Special%7EUserlist_6cfa.html
+       vec],
+       [../../../../../vi/articles/u/s/e/Special%7EUserlist_6cfa.html vi],
+       [../../../../../vls/articles/u/s/e/Special%7EUserlist_6cfa.html
+       vls],
+       [../../../../../vo/articles/u/s/e/Special%7EUserlist_6cfa.html vo],
+       [../../../../../war/articles/u/s/e/Special%7EUserlist_6cfa.html
+       war],
+       [../../../../../wo/articles/u/s/e/Special%7EUserlist_6cfa.html wo],
+       [../../../../../wuu/articles/u/s/e/Special%7EUserlist_6cfa.html
+       wuu],
+       [../../../../../xal/articles/u/s/e/Special%7EUserlist_6cfa.html
+       xal],
+       [../../../../../xh/articles/u/s/e/Special%7EUserlist_6cfa.html xh],
+       [../../../../../yi/articles/u/s/e/Special%7EUserlist_6cfa.html yi],
+       [../../../../../yo/articles/u/s/e/Special%7EUserlist_6cfa.html yo],
+       [../../../../../za/articles/u/s/e/Special%7EUserlist_6cfa.html za],
+       [../../../../../zea/articles/u/s/e/Special%7EUserlist_6cfa.html
+       zea],
+       [../../../../../zh-classical/articles/u/s/e/Special%7EUserlist_6cfa
+       .html zh-classical],
+       [../../../../../zh-yue/articles/u/s/e/Special%7EUserlist_6cfa.html
+       zh-yue],
+       [../../../../../zu/articles/u/s/e/Special%7EUserlist_6cfa.html zu],
+       more pending, recent data (sorry, toolserver is having technical
+       problems at the moment, so the replicated data may partially be not
+       up to date)
+
+   Thank you! --Purodha 23:17, 29 Januarie 2008 (UTC)
+
+          The correct place to ask would be Wikipediabespreking:Robot.
+          Please note that it might take a while to get your request
+          granted/denied. Anrie 10:36, 4 Februarie 2008 (UTC)
+
+          + no problem. Meanwhile, the bot is doing a decent number of
+            (manual assisted) test edits, if you do not mind. --Purodha
+            13:11, 4 Februarie 2008 (UTC)
+
+     * Ondersteun - Ek het die robot se gedrag na gegaan en is van mening
+       dat dit nuttige werk doen - meestal byvoeg, aanpas en so hier en
+       daar verwydering van stukkende interwikiskakels. laurens 06:51, 17
+       Februarie 2008 (UTC)
+
+[wysig] Request for bot flag for interwiki bot Alecs.bot
+
+   I'd like to request a bot flag for interwiki bot Alecs.bot.
+     * Operator: Alecs.y or fr:Alecs.y
+     * Bot user page: Alecs.bot
+     * Function: interwiki link maintenance
+     * Software: Pywikipedia
+     * Already has bot flag on: ast, de, eo, es, fr, it
+
+   Thank you! -- Alecs.y 13:23, 17 Februarie 2008 (UTC)
+
+[wysig] SoxBot
+
+   Hello! I'm Soxred93 from English edition of Wikipedia. I'm asking to
+   give my bot a bot flag, then I'll update interwiki links, I'll scan
+   English Wikipedia always. If it done or if there are any questions
+   about it, please
+   [../../../../../en/articles/s/o/x/User_talk%7ESoxred93_f253.html tell
+   me] in my English talk page. Thank you!
+
+[wysig] Aanvraag voor een botflag voor Carsracbot
+
+     * Contributions
+     * Operator: Carsrac
+     * Programming language: Pywikipedia
+     * Function: interwiki
+     * Already has flag on: nl, li, als, an, bat-smg, ceb, cy, id, hr, jv,
+       li, lt, os, pap, sr, uk, vo
+     * Description: handmatige interwiki links
+
+          Please slow down the blot while you don't have the bot flag. And
+          please don't bother with user categories and date pages. They
+          are frequently updated by several other robots, and these
+          interwiki links are mostly not useful anyway. Does your bot do
+          anything that isn't yet done by several other robots? --Alias
+          (kontak) 18:23, 14 April 2008 (UTC)
+
+                What is special about the bot is the starting point. I
+                start at the smaller wikipedia's like ksh, yo, nrm and la.
+                And yes the things that will be done a lot by my bot and
+                other bots are those user categories and date pages,
+                because the most work lay there. I will try to keep away
+                from those as those are really for the bots with botflags
+                as those are very boring to be watched by users. I will
+                try to do more normal pages. Carsrac (kontak) 23:42, 15
+                April 2008 (UTC)
+
+                      Wat speciaal is aan deze robot is dat zijn eigenaar
+                      afrikaans kan lezen en goed kan vertalen naar het
+                      Nederlands. Dus al die missende interwiki's kan ik
+                      samen met mijn robot oplossen. Overigens ik zit
+                      boven de 50 test edits dus de robot zal geen edits
+                      meer doen voor dat de bot flag verleend wordt.
+                      Carsrac (kontak) 23:09, 19 April 2008 (UTC)
+
+   Aanvulling ik beheers het afrikaans genoeg om het te kunnen lezen en er
+   op te kunnen reageren. Het afrikaans en het nederlands liggen voor mij
+   dicht genoeg bij elkaar. Ik zal de link naar het afrikaanse wiki
+   toevoegen aan het nederlandse wiki. En dan voegen de andere bots het
+   wel weer toe aan deze wiki. Carsrac (kontak) 11:43, 27 April 2008 (UTC)
+
+[wysig] EivindBot
+
+     * Contributions
+     * Operator: EivindJ
+     * Programming language: Pywikipedia
+     * Function: interwiki, syntax-fix, HTML to wiki syntax, fixing
+       redirects in articles, double redirect fixing
+     * Already has flag on: no.wiki and sv.wiki, trial editing at nl.wiki,
+       da.wiki, nn.wiki and en.wiki
+     * Description: Will only do interwiki if not Anrie or anyone else
+       want me to do syntax-fixing etc. Whatever you guys like :)
+       --EivindJ (kontak) 21:00, 20 April 2008 (UTC)
+
+[wysig] SpBot
+
+     * Operator: de:User:Euku
+     * Function: interwiki links
+     * Software: pywikipediabot framework
+     * Already has bot flag on: bn, da, nap, oc and de (since 2006, with
+       >59.000 edits), look at details
+
+          Thank you --SpBot (kontak) 22:12, 7 Mei 2008 (UTC)
+
+[wysig] MelancholieBot
+
+     * Operator: als:User:Melancholie
+     * Function: interwiki links
+     * Software: pywikipediabot framework
+     * Already has bot flag on: 75++ wikis, see Gebruiker:MelancholieBot
+       for details, please.
+
+          Thank you --Melancholie (kontak) 06:47, 15 Mei 2008 (UTC)
+
+                Please unblock my bot, if flag should be granted. ---
+                Sorry for that, Melancholie (kontak) 14:15, 22 Mei 2008
+                (UTC)
+
+[wysig] FiriBot
+
+     * Operator: ro:User:Firilacroco
+     * Function: interwiki
+     * Operation: Automatic Daily
+     * Software: pywikipedia framework
+     * Already has bot flag on: ro, en, fr, de, es, la, simple, uk, nn,
+       sr, ru, bn, sv, ar, bs, lb, cs, mi, nl, sq, bg, ko, ka, tr, vec,
+       ia, dv
+
+     * Please unblock my bot if the bot will get bot flag. Thank
+       you!--Firilacroco (kontak) 14:44, 4 Junie 2008 (UTC)
+

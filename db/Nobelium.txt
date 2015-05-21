@@ -1,0 +1,127 @@
+Nobelium
+
+
+
+    102                    mendelevium ← nobelium → lawrencium
+    Yb
+   ↑
+   No
+   ↓
+   (Upb)
+
+                                                                periodieke tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal nobelium, No, 102
+                                                  Chemiese reeks actinides
+                                            Groep, Periode, Blok nvt, 7, f
+                                   Voorkoms onbekend, waarskynlik silwerig
+                                                         wit of metaalgrys
+                                                    Atoommassa (259) g/mol
+                                      Elektronkonfigurasie [Rn] 5f^14 7s^2
+                                 Elektrone per skil 2, 8, 18, 32, 32, 8, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                                          Smeltpunt 1100 K
+                                                                 (827 °C)
+                                                           Atoomeienskappe
+                               Elektronegatiwiteit 1,3 (Skaal van Pauling)
+                                      ionisasie energieë 1ste: 642 kJ/mol
+                                                                   Diverse
+                                             CAS-registernommer 10028-14-5
+                                                        Vernaamste isotope
+
+   CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                                  iso   NV  halfleeftyd VM VE (MeV)   VP
+                                 ^253No syn 1.7 m       α  8.440    ^249Fm
+                                                        ε  3.200    ^253Md
+                                 ^255No syn 3.1 m       α  8,445    ^251Fm
+                                                        ε  2,012    ^255Md
+                                 ^259No syn 58 m        α  7,910    ^255Fm
+                                                        ε  0,500    ^259Md
+                                                        SF -        -
+
+                                                                Verwysings
+
+   Nobelium (IFA: /ˌnə(ʊ)ˈbiːliəm/), ook bekend as unnilbium (IFA:
+   /ˌjuːˈnɪlbiəm/, simbool Unb), is 'n sintetiese element in die
+   periodieke tabel met die simbool No en atoomgetal 102. 'n radioaktiewe
+   metalliese transuraniese element in die actinide reeks, nobelium word
+   gesintetiseer deur curium met koolstof ione te bombardeer. Dit is vir
+   die eerste keer deur 'n span gelei deur Albert Ghiorso en Glenn T.
+   Seaborg in 1958 geïdentifiseer^[1].
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Geskiedenis
+        * 3 Isotope
+        * 4 Verwysings
+        * 5 Eksterne skakels
+
+[wysig] Merkbare eienskappe
+
+   Min is bekend oor nobelium en slegs klein hoeveelhede is ooit
+   vervaardig. Dit het hoegenaamd geen gebruike buite die laboratorium
+   nie. Die stabielste isotoop, ^259No, het 'n halfleeftyd van 58 minute
+   en verval na ^255Fm deur alfaverval of na ^259Md deur elektronvangs.
+
+[wysig] Geskiedenis
+
+   Nobelium (vernoem na Alfred Nobel) is vir die eerste keer gesintetiseer
+   deur Albert Ghiorso, Glenn T. Seaborg, John R. Walton en Torbjørn
+   Sikkeland in April 1958 by die Universiteit van Kalifornië, Berkeley.
+   Die span het die nuwe swaar-ioon lineêre versneller (HILAC) gebruik om
+   'n curium teiken (95% ^244Cm en 4.5% ^246Cm) met ^12C ione gebombardeer
+   om ^254No (half-life 55 sekondes) te maak. Hulle werk is deur Sowjet
+   navorsers in Dubna bevestig.
+
+   'n Jaar tevore het fisici by die Nobel Instituut in Swede egter
+   aangekondig dat hulle 'n isotoop van element 102 gesintetiseer het. Die
+   span het rapporteer dat hulle 'n isotoop met 'n halfleeftyd van 10
+   minute teen 8.5 MeV geskep het nadat hulle ^244Cm met ^13C kerne
+   gebombardeer het. Gebaseer op die verslag het die Kommissie op
+   Atoommassas van die Internasionale Unie van Suiwer en Toegepaste Chemie
+   die naam nobelium en die simbool No vir die "nuwe" element toegeken en
+   aanvaar. Russiese en Amerikaanse pogings om die eksperiment te herhaal
+   het gefaal.
+
+   In 1966 het navorsers te UC Berkeley die eksperimente van 1958 bevestig
+   en verder die bestaan van ^254No (halfleeftyd 55 s), ^252No
+   (halfleeftyd 2.3 s) en ^257No (halfleeftyd 23 s). Die volgende jaar het
+   Ghiorso se groep daarop besluit om die naam nobelium vir element 102 te
+   behou.
+
+[wysig] Isotope
+
+   13 radioisotope van is gekarakteriseer, waarvan die stabielste ^259No
+   met 'n halfleeftyd van 58 minutes, ^255No met 'n halfleeftyd van 3,1
+   minute, en ^253No met 'n halfleeftyd van 1,7 minute is. Al die ander
+   radioaktiewe isotope het halfleeftye van minder as 56 sekondes. Die
+   element het ook een metastaat, ^254mNo (t[½] 0,28 sekondes).
+
+   Die bekende isotope van nobelium wissel in atoommassa van 249,088 u
+   (^249No) tot 262,108 u (^262No). Die primêre vervalmodus voor die
+   stabielste isotope, ^259No, is alfastraling, en die primêre modus
+   daarna is spontane kernsplyting. Die primêre vervalprodukte voor ^259No
+   is element 100 (fermium) isotope, en die primêre produkte daarna is
+   energie en subatomiese deeltjies.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Nobelium
+     * Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford
+       University Press; 1998) ISBN 0-19-508083-1
+     * It's Elemental - Nobelium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Nobelium
+     * WebElements.com - Nobelium
+
+   Kategorieë: Aktiniedes • Chemiese elemente
+

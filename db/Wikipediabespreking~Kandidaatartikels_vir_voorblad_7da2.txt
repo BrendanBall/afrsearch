@@ -1,0 +1,194 @@
+Wikipediabespreking:Kandidaatartikels vir voorblad
+
+
+   Inhoud
+
+        * 1 Riglyne vir nominasie
+        * 2 Riglyne vir voorbladteks
+        * 3 Die gebruik van __NOEDITSECTION__
+        * 4 Nota
+        * 5 Wikipedia:Voorbladartikel week 7 2008
+        * 6 Wikipedia:Onsuksesvolle voorbladnominasies
+        * 7 Voorbladartikels vir April
+
+[wysig] Riglyne vir nominasie
+
+   Artikels wat genomineer is vir voorbladartikels moet verkieslik aan die
+   volgende vereistes voldoen. Hierdie riglyne dien ook in alle opsigte as
+   'n voorbeeld van die vereistes waaraan enige goeie artikel voldoen.
+
+   As u kommentaar, voorstelle of besware het, voeg dit gerus aan die
+   onderkant van hierdie bladsy by.
+     * Bronnelys
+     * Neutraliteit
+     * Korrekte titel volgens Wikipedia:Titelriglyne
+     * Ten minste twee medewerkers - hopelik drie of meer voordat dit op
+       die voorblad verskyn. As die artikel reeds uitstekend is, moet
+       eksplisiete goedkeuring hier gegee word.
+     * Goeie taal. Goeie Afrikaanse spelling, woordbou en grammatika. Ons
+       moet klarigheid hê oor vakterme.
+     * Goeie uitleg
+          + Goeie, sinvolle inleiding
+          + Sinvolle afdelings en opskrifte
+          + Goeie, logiese uitleg en volgorde van aanbieding
+          + (Suid-)Afrikaanse datums, syfers, en &nbsp
+     * Korrekte lengte. Hierdie sal baie afhang van die tipe artikel. Dit
+       moet egter die onderwerp redelik goed dek, sonder om té lang dele
+       in te hê wat eintlik beter hoort in ander artikels.
+     * Beelde of diagramme waar toepaslik. Indien daar beelde is moet daar
+       beeldbeskrywings wees en die uitleg moet goed werk op webblaaiers
+       van verskillende groottes. Die beelde moet geëtiketeer wees wat
+       lisensie betref of die bron, asook die toestemming tot die gebruik
+       van die beeld moet duidelik vermeld word.
+     * Sinvolle kategorisering
+     * Goeie wikisintaks:
+          + Interwiki's (onder)
+          + Netjies leesbare wikisintaks (bv. goeie spasiëring)
+          + Sinvolle skakels, nie te veel of oorbodige skakels nie, maar
+            ook nie te min nie
+          + Korrekte gebruik van lyste eerder as woordverwerkerkoëltjies
+            ("bullets")
+          + Geen "smart quotes"
+     * Verkieslik ook interwiki's vanaf EN en/of NL na die Afrikaanse
+       artikel, indien die beskikbaar is - miskien nie 'n vereiste vir die
+       voorblad nie, maar wel vir 'n goeie bydrae in die algemeen.
+
+          Hi Alias - bogenoemde klink na goeie riglyne, maar ek wonder of
+          dit nie te streng is vir die staium waar ons wiki hom nou bevind
+          nie. Ek dink bv aan die vereiste van meer as een medewerker - op
+          die oomblik is daar bitter min artikels wat aan die vereiste
+          gaan voldoen en baie van die artikels wat deur een persoosn
+          geskep word en net so hier en daar deur ander verbeter word is
+          baie maal baie goed. Die met meer medewerkers sal seker in
+          elkgeval boontoe borrel. Ek voel ons moet begin nominasies gee
+          en ons mening oor die nominasies uitspreeik - in tipese wiki
+          mode. Mettertyd kan ons dan ook jou voorstelle hierbo aanpas en
+          bywerk, veral as daar baie menings begin ontstaan. Die kan dan
+          'n nuwe blad in die Wikipedia naamruimte word of bo-aan die
+          artikel se blad gaan (ter loops - hoekom sê dit omtrent wanneer
+          mens op die besprekings blad is - behoort dit nie 'artikel' te
+          wees nie?).
+
+          Groete Laurens 15:49, 1 Augustus 2005 (UTC)
+
+                Ek stem saam dat ons nie noodwendig onmiddelik daar is
+                nie, maar dalk gouer as wat ons dink. Met twee medewerkers
+                het ek juis slegs bedoel dat ten minste 'n tweede een 'n
+                bietjie moes timmer (al is dit spel- en tikfoute). Dit wys
+                dat ten minste 'n tweede persoon deur die artikel gelees
+                het (hopelik van hoek tot kant). Wat "omtrent" betref: die
+                artikel-blad in elke naamruimtestel vertoon anders:
+                Artikel, Gebruiker, Omtrent, Boodskap, ens. Die
+                besprekingsblad sê (nou) altyd "bespreking" (sover ek
+                weet). --Alias 20:33, 1 Augustus 2005 (UTC)
+
+   Ek wil graag voorstel dat ons hierdie voorgestelde riglyne as amptelike
+   riglyne aanvaar. As ons asseblief kan byvoeg dat die uitleg van so 'n
+   aard moet wees dat dit in meeste resolusies en blaaiers darem leesbaar
+   vertoon. Dit kan dan geskuif word na Wikipedia:Riglyne vir
+   voorbladartikels, of so iets. Anrie 12:35, 27 Maart 2008 (UTC)
+
+[wysig] Riglyne vir voorbladteks
+
+   Ons sal seker ook mettertyd riglyne vir die voorbladteks (opsomming)
+   daarstel. My huidige gevoel is dat dit tans gewoonlik bietjie langer is
+   as wat ek self sou kies. Ek voel dit moet eerder uitlok as opsom, en
+   verkieslik tot een paragraaf beperk wees. Ek help nie baie hiermee nie.
+   Sien dit dus gerus as die lê van 'n eier - dit is al wat dit is.
+   --20:41, 19 Februarie 2006 (UTC)
+
+[wysig] Die gebruik van __NOEDITSECTION__
+
+   Waarom is die __NOEDITSECTION__-funksie op die blad geplaas? Ek sien
+   geen rede hoekom dit daar is nie, want dit verwyder al die [edit]
+   knoppies. As niemand dit teenstaan nie, sal ek bly wees om dit af te
+   haal. — Adriaan (S★B) 14:35, 22 Julie 2007 (UTC)
+
+          Ek sou ook graag vir __NOTOC__ verwyder wou hê, aangesien die
+          table of contents 'n vinniger manier van navigeer bied. —
+          Adriaan (S★B) 14:38, 22 Julie 2007 (UTC)
+
+                Jammer - ek het die uitleg van die boksie by 'n ander
+                bladsy gesteel destyds en toe nog nie geweet wat die terme
+                beteken nie. Hulle is nou verwyder. Ons kan miskien
+                daaraan dink om artikels m.b.v. subopskrifte te nomineer
+                (bv. ===[[All Blacks]]===), sodat ons individuele
+                onderafdelings kan wysig en gebruik kan maak van die TOC.
+                Anrie 14:45, 22 Julie 2007 (UTC)
+
+                      Ok, ek sal dit gou vinnig met my outoreplacer doen,
+                      as jy nie al reeds daarmee begin het nie? — Adriaan
+                      (S★B) 14:46, 22 Julie 2007 (UTC)
+
+                            Oh ja, ek het my outoreplacer ge-uninstall.
+                            Maar ek is steeds bereid om dit te doen. —
+                            Adriaan (S★B) 14:46, 22 Julie 2007 (UTC)
+
+[wysig] Nota
+
+   Ignoreer my onlangse nominasies vir artikels wat reeds gebruik is. Dis
+   laat en ek is vaak. lol. — Adriaan (S★B) 21:01, 2 September 2007 (UTC)
+
+          Is alles nog op dreef om betyds 'n voorbladartikel vir môre te
+          hê? — Adriaan (S★B) 15:18, 9 September 2007 (UTC)
+
+                Laurens het genoem dat hy graag 2007 Rugby Wêreldbeker sou
+                wou gebruik. Anrie 15:56, 9 September 2007 (UTC)
+
+                      So pas uitgesorteer. Laurens 16:01, 9 September 2007
+                      (UTC)
+
+[wysig] Wikipedia:Voorbladartikel week 7 2008
+
+   Ek het bietjie teruggegaan en eerder 'n ouer artikel gebruik, beide om
+   te verseker dat ons ons huidige lys van moontlike kandidate nie te gou
+   uitput nie en om bietjie variasie op ons aardrykskundige
+   voorbladartikels te gee. Ek voorsien om Ysland dan moontlik volgende
+   week te gebruik. Anrie 08:53, 8 Februarie 2008 (UTC)
+
+[wysig] Wikipedia:Onsuksesvolle voorbladnominasies
+
+   Ek het nou van die ouer en onsuksesvolle nominasies na
+   Wikipedia:Onsuksesvolle voorbladnominasies geskuif. Die idee is
+   definitief nie om hierdie artikels af te skryf as potensiële
+   voorbladartikels nie, maar eerder om te keer dat hulle die projekblad
+   (Wikipedia:Kandidaatartikels vir voorblad) nie beknop maak en net lê en
+   stagneer nie. Ek het met rede twee artikels gelos - Documenta is
+   byna-byna 'n voorbladartikel en kort net nog 'n proeflesing deur 'n
+   ander leser en die adressering van probleme gemeld op sy
+   besprekingsblad. Tweede Wêreldoorlog wil ek binnekort klaar maak (wou
+   eintlik die week, maar nou sit ek en hierdie soort goed doen) en dan
+   moet nominasies weer oor-en-weer geknip en geplak word. Anrie 14:52, 22
+   Februarie 2008 (UTC)
+
+[wysig] Voorbladartikels vir April
+
+   Ek gaan bietjie op vakansie, maar wil darem net seker maak dat daar
+   genoeg voorbladartikels is vir terwyl ek weg is.
+
+   Hier is wat ek rofweg beplan het:
+     * Week 14: Libië
+     * Week 15: Tweede Wêreldoorlog
+     * Week 16: Sider (ou artikel)
+     * Week 17: moontlik Gemene drukbuis brandstofinspuiting, afhangende
+       van ander gebruikers se kommentaar (nuut genomineer)
+     * Week 18: moontlik Frankfurt am Main, afhangende van ander
+       gebruikers se kommentaar (nuut genomineer)
+     * Week 19: Slowakye (ou artikel)
+     * ...
+
+   Ek sien Frankfurt am Main is deur 'n anonieme gebruiker genomineer. Ek
+   sal graag wil voorstel ons maak 'n reël (vir toekomstige gevalle) wat
+   sê "anonieme gebruikers mag nominasies maak, maar slegs ingetekende
+   gebruikers mag stem". Ons het nie werklik 'n probleem hiermee op die
+   oomblik nie, maar ander Wikimedia-projekte het ook hierdie
+   voorbehoedende reël in soortgelyke situasies. Mens weet nooit wat in
+   die toekoms gebeur nie, een of ander etter in 2012 stem dalk van 5
+   verskillende rekenaars af sodat sy artikel oor "Sexy meisie X" op die
+   voorblad kan kom of iets. Anrie 12:00, 27 Maart 2008 (UTC)
+
+          Slowakye pas aangestel. Sal deur die week na Frankfurt am Main
+          en Gemene drukbuis brandstofinspuiting kyk vir volgende week (en
+          die week daarop) se voorbladartikels. Anrie (kontak) 20:20, 3
+          Mei 2008 (UTC)
+

@@ -1,0 +1,199 @@
+Domeinnaamstelsel
+
+
+   Op die Internet stoor die Domein-naam stelsel (DNS) baie soorte
+   inligting wat verband hou met 'n domein-naam. Die belangrikste hiervan
+   is dat dit die domein-naam ('n rekenaar se gasheernaam) na IP-adresse
+   omskakel. Dit lys ook epos-uitruilbedieners wat epos vir elke domein
+   aanvaar. Aangesien DNS 'n wêreldwye sleutelwoord-gebaseerde gids
+   verskaf is dit 'n noodsaaklike komponent van die hedendaagse Internet.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Geskiedenis van die DNS
+        * 3 Hoe die DNS teoreties werk
+             + 3.1 Adresopsporingsmeganisme
+             + 3.2 Lusafhanklikheid en "glue records"
+        * 4 DNS in die praktyk
+             + 4.1 Kas en "Time To Live"
+
+[wysig] Gebruike
+
+   Die mees basiese gebruik van DNS is om gasheername (engels: hostnames)
+   na IP-adresse om te skakel. Eenvoudig beskou is dit baie soos 'n
+   telefoongids. As 'n mens byvoorbeeld die internet adres vir
+   en.wikipedia.org soek, kan DNS vir jou bepaal dat dit 66.230.200.100
+   is. DNS het bowendien ook ander belangrike gebruike.
+
+   Die belangrikste voordeel verbonde aan DNS is dat dit, dit moontlik
+   maak om Internet bestemmings toe te ken aan mense en organisasies wat
+   onafhanklik is van die fisiese roetebepalingshiërargie wat deur die
+   IP-adresse voorgestel word. As gevolg hiervan kan internet skakel- en
+   kontak inligting dieselfde bly ongeag die veranderinge in die
+   netwerkopstelling en roetes waarlangs data versend word en verder kan
+   dit in 'n menslik leesbare vorm geskryf word (soos "wikipedia.org") wat
+   makliker onthou kan word as IP-adresse (soos bv. 66.230.200.100). Mense
+   kan dus betekenisvolle URL'e en epos-adresse weergee sonder om hul te
+   bekommer oor hoe die masjien dit gaan opspoor.
+
+   Die DNS versprei ook die verantwoordelikheid vir die toekenning van
+   domein-name en hul assosiase met IP-netwerke deur gesaghebbende
+   bedieners toe te laat vir elke domein sodat dié tred kan hou met sy eie
+   veranderinge en sodoende word die behoefte vermy vir 'n sentrale
+   register wat voortdurend geraadpleeg en opgedateer moet word.
+
+[wysig] Geskiedenis van die DNS
+
+   Die praktyk om 'n naam te gebruik as 'n meer leesbare weergawe van 'n
+   masjien se numeriese adres op 'n netwerk het selfs TCP/IP voorafgegaan
+   en dateer uit die dae van ARPAnet. Destyds is 'n ander stelsel gebruik
+   aangesien DNS eers in 1983 ontwikkel is, kort nadat TCP/IP vir die
+   eerste keer uitgerol is. Met die ouer stelsel het elke rekenaar op die
+   netwerk 'n lêer genaamd HOSTS.TXT gelees vanaf 'n rekenaar by 'n
+   instansie genaamd SRI. Die HOSTS.TXT lêer het die numeriese adresse met
+   die ooreenstemmende naam verbind.
+
+   'n Hosts lêer bestaan steeds op die meeste moderne bedryfstelsels,
+   hetsy by verstek of deur konfigurasie en stel gebruikers in staat om 'n
+   IP-adres (bv. 192.0.34.166) te spesifiseer om vir 'n gasheernaam (bv.
+   example.net) te gebruik, sonder om van die DNS gebruik te maak.
+   Teenswoordig (2007) word die hosts lêer hoofsaaklik gebruik om DNS
+   foute na te speur of om plaaslike IP-adresse met meer leesbare name te
+   verbind. Stelsels wat op 'n hosts lêer gebaseer is het inherente
+   beperkinge aangesien elke rekenaar wat met 'n rekenaar wil kommunikeer
+   waarvan die adres verander het hul hosts lêer sal moet opdateer.
+
+   Die groei in rekenaarnetwerke het 'n meer skaalbare stelsel vereis: een
+   wat 'n verandering in 'n gasheer se adres slegs op een plek opdateer.
+   Ander rekenaars sal dan op 'n dinamiese wyse van die verandering bewus
+   gemaak word deur middel van 'n kennisgewingstelsel.
+
+   Paul Mockapetris het DNS in 1983 ontwikkel en die eerste implentering
+   darvan geskryf. Die oorspronklike spesifikasie verkyn in RFC 882 en RFC
+   883. In 1987 is die DNS-spesifikasie opgedateer met die publikasie van
+   RFC 1034 en RFC 1035. Verskeie meer onlangse kommentaarversoeke het
+   verskeie uitbreidings op die kern DNS-protokolle voorgestel.
+
+   In 1984, het vier studente verbonde aan die Universiteit van
+   Kalifornië, Berkeley - Douglas Terry, Mark Painter, David Riggle en
+   Songnian Zhou - die eerste implementering vir Unix geskryf, en is
+   daarna deur Ralph Campbell onderhou. In 1985 het Kevin Dunlap van DEC
+   diet grootliks oorgeskryf en dit herdoop tot BIND. Mike Karels, Phil
+   Almquist en Paul Vixie het BIND sedertien onderhou. BIND is in die
+   vroeë negentigs op die Windows NT beskikbaar gemaak.
+
+[wysig] Hoe die DNS teoreties werk
+
+   Domain-name, in 'n boom gerangskik, verdeel in sones wat elk bedien
+   word deur 'n naambediener.
+   Domain-name, in 'n boom gerangskik, verdeel in sones wat elk bedien
+   word deur 'n naambediener.
+
+   Die domein-naam ruimte bestaan uit 'n boomvormige datastruktuur van
+   domein-name. Elke node of blaar van die boom het een of meer
+   hulpbronrekords (engels: resource records), wat inligtingbevat wat met
+   die domein-naam verband hou. Die boom word in verskeie sones verdeel.
+   'n Sone bestaan uit 'n versameling van verbinde nodes wat bedien word
+   deur 'n gesaghebbende DNS naambediener.
+
+   Wanneer 'n netwerk administrateur 'n ander administrateur beheer oor 'n
+   deel van die domein-naam ruimte wil gee, kan hy beheer daarvan
+   delegeer.
+
+   'n Program (resolver) soek die inligting wat met die node verband hou
+   op. 'n Resolver kommunikeer met naambedieners deur standaard
+   DNS-versoeke te stuur en ontvang dan die anwoord vanaf die DNS. Die
+   program itereer dikwels deur verskeie naambedieners om die benodigde
+   inligting te kry. Ander resolver programme werk eenvoudig deur slegs
+   met 'n enkele naambediener te kommunikeer. Sulke resolver programme
+   maak staat op 'n rekursiewe naambediener om die inligting vir hulle te
+   verkry.
+
+[wysig] Adresopsporingsmeganisme
+
+   Die programmatuur interpreteer die domein-naam segment vir segment, van
+   regs na links deur van 'n iteratiewe soekprosedure gebruik te maak.
+   Elke segment se ooreenstemmende DNS-bediener word geraadpleeg op 'n
+   wyser na die volgende bediener wat geraadpleeg moet word, te verkry.
+   'n Rekursiewe DNS-program raadpleeg drie naambedieners om die adres vir
+   www.wikipedia.org op te spoor.
+   'n Rekursiewe DNS-program raadpleeg drie naambedieners om die adres vir
+   www.wikipedia.org op te spoor.
+
+   Die proses soos dit oorspronklik voorsien is, is as volg
+   (inadomain.example):
+    1. die plaaslike stelsel word vooraf opgestel met die bekende adresse
+       van die root-naambedieners in 'n lêer met root wenke (engels: root
+       hints), wat periodies opgedateer moet word deur die plaaslike
+       administrateur vanaf 'n betroubare bron om tred te hou met
+       veranderinge wat mettertyd plaasvind.
+    2. een van die root-bedieners word geraadpleeg om die die
+       gesaghebbende bediener vir die volgende vlak (die topvlakdomein
+       genaamd example) ondertoe te vind.
+    3. die tweede bediener word geraadpleeg vir die adres van die
+       DNS-bediener wat meer besonderhede het oor die tweede vlak domein
+       (inadomain.example).
+    4. die stappe word dan vir elke naamsegment herhaal totdat die
+       uiteindelike IP-adres verkry word.
+
+   Die meegaande diagram verduidelik hoe die proses vir die gasheer
+   www.wikipedia.org sal werk.
+
+   Die meganisme soos hierbo verduidelik het 'n tekortkoming: dit plaas 'n
+   baie groot las op die versameling root-bedieners, deurdat een van hulle
+   geraadpleeg moet word vir elke liewe soektog vir 'n adres op die
+   netwerk. Gegewe hulle kritieke belang vir die funksionering van die
+   stelsel sal so 'n swaar las op hulle 'n onoorkombare knyppunt vir die
+   letterlik triljoene navrae tot gevolg hê en daarom word DNS in die
+   praktyk effe anders geïmplementeer.
+
+[wysig] Lusafhanklikheid en "glue records"
+
+   Naambedieners waarna gedelegeer word, word volgens naam eerder as
+   IP-adres gelys. Dit beteken dat die naambediener wat 'n naam probeer
+   opspoor ook eers 'n ander DNS-navraag moet doen om die IP-adres van die
+   bediener waarna dit verwys word op te spoor. Aangesien dit 'n
+   lusafhanklikheid tot gevolg kan hê as die naambediener waarna dit
+   verwys word in die domein val waarvoor die betrokke naambediener die
+   gesaghebbende bron is, is dit ook soms nodig dat die naambediener wat
+   delegeer ook die IP-adres van die volgende naambediener moet verskaf.
+   Hierdie rekord word na verwys as 'n glue record.
+
+   Neem byvoorbeeld aan dat die subdomein en.wikipedia.org verdere
+   subdomeine bevat (soos something.en.wikipedia.org) en dat die
+   gesaghebbende naambediener hiervoor gevind kan word by
+   ns1.en.wikipedia.org. 'n Rekenaar wat something.en.wikipedia.org
+   probeer opspoor sal dus eers ns1.en.wikipedia.org moet opspoor.
+   Aangesien ns1 ook onder die en.wikipedia.org subdomein val, vereis die
+   opsporing van ns1.en.wikipedia.org dat en.wikipedia.org eers opgespoor
+   word wat op sy beurt weer die opsporing van ns1.en.wikipedia.org
+   vereis. Dit is dan juis die lusafhanklikheid waarna hierbo verwys word.
+
+   Die afhanklikheid word verbreek deur gebruik te maak van die "glue
+   record" in die naambediener van wikipedia.org wat die IP-adres van
+   ns1.en.wikipedia.org direk aan die aanvraer verskaf.
+
+[wysig] DNS in die praktyk
+
+   Wanneer 'n program (soos 'n webblaaier) probeer om die IP-adres van 'n
+   domein-naam op te spoor, volg dit nie noodwendig die stappe soos in die
+   Teorie-afdeling hierbo uiteengesit is nie. Om DNS in die praktyk te
+   verstaan moet 'n mens eers die begrip van 'n kas (cache) verstaan.
+
+[wysig] Kas en "Time To Live"
+
+   Omdat 'n stelsel soos DNS 'n groot aantal versoeke tot gevolg het, het
+   die ontwerpers gepoog om 'n meganisme daar te stel om die lading op
+   indiwiduele DNS-bedieners te verlig. Ten einde hierdie doel te
+   verwesenlik laat die DNS toe dat 'n kas geskep word (d.w.s. die
+   plaaslike opname en daaropvolgende raadpleging van die resulatate van
+   vorige DNS-navrae) vir 'n gegewe tydperk na 'n suksesvolle antwoord
+   verkry is. Die tydperk waarop so 'n "resolver" die DNS-antwoord in 'n
+   kas stoor (oftewel die tydperk waartydens die DNS-antwoord geldig bly)
+   word bepaal deur 'n waarde wat die "Time To Live" (TTL) genoem word.
+   Die TTL word deur die administrateur van die bediener wat die antwoorde
+   hanteer gestel. Die geldigheidsperiode kan wissel van etlike sekondes
+   tot selfs weke.
+   Kategorie: Internet
+

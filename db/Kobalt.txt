@@ -1,0 +1,258 @@
+Kobalt
+
+
+
+   27                         yster ← kobalt → nikkel
+    -
+   ↑
+   Co
+   ↓
+   Rh
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal kobalt, Co, 27
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 9, 4, d
+                                        Voorkoms metaalglans met grys tint
+                                             Atoommassa 58.933200(9) g/mol
+                                       Elektronkonfigurasie [Ar] 3d^7 4s^2
+                                            Elektrone per skil 2, 8, 15, 2
+                                                        Fisiese Eienskappe
+                                          Digtheid (naby k.t.) 8.90 g/cm³
+                                  Vloeistof digtheid teen s.p. 7.75 g/cm³
+                                                          Smeltpunt 1768 K
+                                                                (1495 °C)
+                                                           Kookpunt 3200 K
+                                                                (2927 °C)
+                                              Smeltingswarmte 16.06 kJ/mol
+                                              Verdampingswarmte 377 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.81 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1790 1960 2165 2423 2755 3198
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                   Oksidasietoestande 2, 3
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1.88 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 760.4 kJ/mol
+                                                          2de: 1648 kJ/mol
+                                                         3rde: 3232 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 152 pm
+                                                 Kovalente radius 126]] pm
+                                                                   Diverse
+                                 Elektriese weerstand (20 °C) 62.4 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 100 W/(m·K)
+                              Termiese uitsetting (25 °C) 13.0 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 4720 m/s
+                                                  Young se modulus 209 GPa
+                                                       Skuifmodulus 75 GPa
+                                                      Massamodulus 180 GPa
+                                                    Poissonverhouding 0.31
+                                                      Mohs se hardheid 5.0
+                                                 Vickers hardheid 1043 MPa
+                                                  Brinell hardheid 700 MPa
+                                              CAS-registernommer 7440-48-4
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van kobalt
+
+                                  iso   NV  halfleeftyd VM  VE (MeV)  VP
+                                 ^56Co sin  77.27 d     ε   4.566    ^56Fe
+                                 ^57Co sin  271.79 d    ε   0.836    ^57Fe
+                                 ^58Co sin  70.86 d     ε   2.307    ^58Fe
+                                 ^59Co 100% Co is stabiel met 32 neutrone
+                                 ^60Co sin  5.2714 jaar β^- 2.824    ^60Ni
+
+                                                                Verwysings
+
+   Kobalt is 'n chemiese element in die periodieke tabel met die simbool
+   Co en atoomgetal van 27.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+             + 2.1 Geneeskundige gebruike
+        * 3 Geskiedenis
+        * 4 Biologiese rol
+        * 5 Verspreiding
+        * 6 Verbindings
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Verwysings
+        * 10 Eksterne skakels
+        * 11 Sien ook
+
+[wysig] Kenmerkende eienskappe
+
+   Kobalt is 'n harde ferromagnetiese silwerwit element. Die
+   Curie-temperatuur is 1388 K met 1.6~1.7 Bohr magnetone per atoom. Dit
+   word dikwels saam met nikkel gevind en beide hierdie elemente is
+   kenmerkende elemente in meteoritiese yster. Soogdiere vereis klein
+   hoeveelhede kobaltsoute in hul dieet. Kobalt-60 is 'n kunsmatig
+   vervaardigde radioaktiewe isotoop van kobalt en is 'n belangrike
+   radioaktiewe spoorder en middel vir die behandeling van kanker. Kobalt
+   het 'n relatiewe deurdringbaarheid gelyk aan twee derdes dié van yster.
+   Metalliese kobalt verteenwoordig 'n mengsel van twee kristallografiese
+   strukture, heksagonaal diggepak en kubies vlakgesentreerd met 'n
+   oorgangstemperatuur tussen die kristalstrukture van 722 K.
+
+   Algemene oksidasietoestande van kobalt is +2 en +3, +1 is egter ook al
+   waargeneem.
+
+[wysig] Aanwendings
+
+     * Legerings, soos:
+          + Superlegerings, vir onderdele van gasturbiene in
+            stralerenjins.
+          + Korrosie- en slytasiebestande legerings.
+          + Hoëspoedstale
+          + Gesementeerde karbied- en diamantgereedskap.
+     * Magnete en magnetiese stoormedia.
+          + Alnico magnete.
+     * Kataliste vir die ru-olie en chemiese nywerhede.
+     * elektroplatering vanweë die voorkoms, hardheid en weerstand tot
+       oksidasie.
+     * Drogingsmiddels vir verwe, vernisse en inke.
+     * Onderlaag vir glasemalje op porselein.
+     * Pigmente (kobaltblou en kobaltgroen).
+     * Battery-elektrodes.
+     * Staalversterkte bande
+     * Kobalt-60 as gammastraalbron vind verskeie toepassings:
+          + Dit word gebruik in radioterapie.
+          + Dit word gebruik vir die sterilisasie van voedsel (koue
+            pasteurisasie).
+          + Dit word gebruik in industriële radiografie om strukturele
+            foute in metaalkomponente op te spoor.
+
+   ^60Co is 'n nuttige bron van gammastrale deels omdat dit in bepaalde
+   klein hoeveelhede en op groot maat vervaardig kan word deur natuurlie
+   kobalt eenvoudig aan neutrone in 'n reaktor bloot te stel vir 'n gegewe
+   tyd.
+
+[wysig] Geneeskundige gebruike
+
+   Kobalt-60 is 'n radio-aktiewe metaal wat gebruik word in radioterapie.
+   Dit straal twee soorte gammastrale uit met energieë van 1.17 MeV en
+   1.33 MeV. Die ^60Co bron is ongeveer 2 cm in deursnee en produseer
+   gevolglik 'n geometriese penumbra, wat die grens van die stalingsveld
+   vaag maak. Die metaal verpoeier ongelukkig maklik tot 'n fyn stof wat
+   probleme veroorsaak met die beveiliging teen straling. Die ^60Co bron
+   is nuttig vir ongeveer 5 jaar maar is selfs hierna steeds baie
+   radio-aktief, wat veroorsaak het dat ^60Co masjiene deesdae baie minder
+   gewild is in die Westerse wêreld waar partiekelversnellers meer
+   algemeen voorkom. Die eerste ^60Co terapie masjien (die "kobaltbom") is
+   in Kanada gebou en gebruik. Hierdie masjien kan besigtig word by die
+   Saskatoon Kankernavorsingsentrum besigtig word waar dit in die
+   voorportaal uitgestal word.
+
+[wysig] Geskiedenis
+
+   Kobaltblou glas
+   Kobaltblou glas
+
+   Kobalt se verbindings is al sedert antieke tye bekend, waar dit gebruik
+   was om glas 'n diep blou te kleur.
+
+   Die ontdekking van kobalt word aan George Barndt (1694-1768)
+   toegeskryf. Die presiese datum van die ontdekking wissel volgens bron
+   maar dit was iewers tussen 1730 en 1737 gewees. Dit was vir hom
+   moontlik om te wys dat kobalt die bron was van die blou kleur in glase
+   waar die kleur voorheen toegeskryf was aan bismut wat saam met die
+   kobalt voorgekom het.
+
+   Gedurende die 19de eeu, is kobaltblou by die Norweegse Blaafarveværket
+   (Bykans 70-80% van wêreldproduksie), geproduseer onder leiding van die
+   Pruisiese nyweraar Benjamin Wegner.
+
+   In 1938 het John Liningood en Glenn Seaborg kobalt-60 ontdek.
+
+   Die woord kobalt is afkomstig van die Duitse woord kobold, wat bose
+   gees beteken, so genoem deur die myners vanweë sy giftigheid en
+   probleme wat dit veroorsaak het (dit het die ander ontginde minerale,
+   soos Nikkel, besoedel). Ander dink weer die naam kom uit die
+   oorspronklike Griekse woord kobalos wat 'myn' beteken.
+
+[wysig] Biologiese rol
+
+   Kobalt is in klein hoeveelhede noodsaaklike vir vele lewende
+   organismes, insluitende die mens. 'n Konsentrasie van 0.13 tot 0.3
+   mg/kg kobalt in die grond het 'n opmerklike invloed op die gesondheid
+   van weidiere. Kobalt is ook die sleutelkomponent van die vitamien
+   kobalamien of dan vitamien B-12.
+
+[wysig] Verspreiding
+
+   Kobalterts
+   Kobalterts
+
+   Kobalt kom nie in die natuur in vrye metaalvorm voor nie. Kobalt word
+   gewoonlik ook nie alleen gemyn nie en is geneig om as byproduk van
+   nikkel en koper ontgin te word. Die hoofertse van kobalt is kobaltiet,
+   eritriet, gloukodot en skutterudiet. Die wêreld se grootste
+   vervaardigers van kobalt is die DRK, Sjina, Zambië, Rusland en
+   Australië.
+
+[wysig] Verbindings
+
+   As gevolg van die vele oksidasie toestande is daar 'n oorvloedige
+   aantal verbindings. Oksiede is antiferromagneties teen lae temperature
+   CoO (Néeltemperatuur: 291 K) en Co[3]O[4] (Néeltemperatuur: 40 K).
+
+[wysig] Isotope
+
+   Kobalt kom in die natuur in een stabiele isotoop voor, naamlik ^59Co.
+   22 Radio-isotope is geëien met die mees stabiele hiervan ^60Co met 'n
+   halfleeftyd van 5.2714 jaar, ^57Co met 'n halfleeftyd van 271.79 dae en
+   ^56Co met 'n halfleeftyd van 77.27 dae en ^58Co met 'n halfleeftyd van
+   70.86 dae. Die oorblywende radio-aktiewe isotope het halfleeftye wat
+   minder is as 18 ure en die meerderheid van hierdies se halfleeftye is
+   korter as 'n sekonde. Hierdie element het ook 4 metatoestande, waarvan
+   almal 'n halfleeftyd van korter as 15 minute het.
+
+   Die isotope van kobalt se atoommassas wissel tussen 50 ame (^50Co) tot
+   73 ame (^73Co). Die primêre vervalmodus voor die mees algemene isotoop,
+   ^59Co, is elektronvangs en die primêre modus daarna is betaverval. Die
+   primêre vervalprodukte voor ^59Co is element 26 (yster) isotope en die
+   primêre produkte daarna is isotope van element 28 (nikkel).
+
+[wysig] Voorsorgmaatreëls
+
+   Verpoeierde kobalt in sy metaalvorm verteenwoordig 'n brandgevaar.
+   Kobaltverbindings moet met omsigtigheid gehanteer word vanweë kobalt se
+   effense toksisiteit.
+
+   Kobalt-60 is 'n sterk gamma-straler en blootstelling aan ^60Co
+   verteenwoordig 'n kankergevaar. Inname van ^60Co sal lei tot die opneem
+   van van die kobalt in die weefsels wat daarna baie stadig weer
+   vrygestel word. Kobalt-60 is 'n risiko faktor tydens kernontploffings
+   aangesien neutronstralings yster in hierdie isotoop kan omsit. Sommige
+   kernwapens is doelbewus ontwerp om die hoeveelheid Kobalt-60 wat
+   versprei word te verhoog; dit word ook soms in engels na verwys as 'n
+   dirty bomb of kobaltbom. Die gevare in vredestyd behels die
+   onverskillige hantering daarvan of diefstal uit mediese
+   radioterapeutiese eenhede.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory artikel oor Kobalt
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – se artikel oor Kobalt
+     * Londen vier 50 jaar van Kobalt-60 Radioterapie
+
+[wysig] Sien ook
+
+     * Benjamin Wegner
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale
+

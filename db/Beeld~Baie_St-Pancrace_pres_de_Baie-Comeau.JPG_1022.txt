@@ -1,0 +1,133 @@
+Beeld:Baie St-Pancrace pres de Baie-Comeau.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:Baie St-Pancrace pres de Baie-Comeau.JPG
+   Grootte van hierdie voorskou: 800 × 600 pixels
+   Volle resolusie (1 280 × 960 pixel, file size: 302 KG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   Moved
+
+         This image was moved to Wikimedia Commons from fr.wikipedia using a bot
+         script. All source information is still present. It requires review
+         because CommonSense could not categorise the image during transfer.
+         Additionally, there may be errors in any or all of the information
+         fields; information on this image should not be considered reliable and
+         the image should not be used until it has been reviewed and any needed
+         corrections have been made. Once the review has been completed, this
+         template should be removed. For details, see below.
+   Description
+   Français : J'ai pris cette photo Ã  partir d'un des observatoires du
+   Parc BorÃ©al en 2004.
+   Source
+
+   Transferred from fr.wikipedia
+   Date
+
+   2005-12-22 (original upload date)
+   Author
+
+   Original uploader was Sebast 13 at fr.wikipedia
+   Permission
+   (Reusing this image)
+
+   Released under the GNU Free Documentation License.
+
+[edit] License information
+
+   GNU head Permission is granted to copy, distribute and/or modify this
+   document under the terms of the GNU Free Documentation license, Version
+   1.2 or any later version published by the Free Software Foundation;
+   with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+   Texts. A copy of the license is included in the section entitled "GNU
+   Free Documentation license".
+     __________________________________________________________________
+
+   Aragonés | العربية | Asturianu | Български | বাংলা | ইমার
+   ঠার/বিষ্ণুপ্রিয়া মণিপুরী | Brezhoneg | Bosanski | Català | Cebuano |
+   Česky | Dansk | Deutsch | Ελληνικά | English | Esperanto | Español |
+   Eesti | Euskara | فارسی | Suomi | Français | Gaeilge | Galego | עברית |
+   Hrvatski | Magyar | Bahasa Indonesia | Ido | Íslenska | Italiano |
+   日本語 | ქართული | ភាសាខ្មែរ | 한국어 | Kurdî / كوردی | Latina |
+   Lëtzebuergesch | Lietuvių | Bahasa Melayu | Nnapulitano | Nederlands |
+   ‪Norsk (nynorsk)‬ | ‪Norsk (bokmål)‬ | Occitan | Polski | Português |
+   Română | Русский | Slovenčina | Slovenščina | Shqip | Српски / Srpski |
+   Svenska | తెలుగు | ไทย | Türkçe | Українська | اردو | Tiếng Việt |
+   Volapük | Yorùbá | ‪中文(中国大陆)‬ | ‪中文(台灣)‬ | +/-
+
+[edit] Original upload log
+
+   The original description page is/was here. All following user names
+   refer to fr.wikipedia.
+     * 2005-12-22 22:56 Sebast 13 1280×960×8 (308863 bytes) J'ai pris
+       cette photo Ã  partir d'un des observatoires du Parc BorÃ©al en
+       2004.
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 13:14, 7 Mei 2008 1 280×960 (302 KG) File Upload Bot (Magnus
+   Manske) ( {{BotMoveToCommons|fr.wikipedia}} {{Information
+   |Description={{fr|J'ai pris cette photo Ã  partir d'un des
+   observatoires du Parc BorÃ©al en 2004.}} |Source=Transferred from
+   [http://fr.wikipedia.org fr.wikipedia] |Date=2005-12-22 (original
+   upload date)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Baie-Comeau
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        FUJIFILM
+             Camera model           FinePix S602 ZOOM
+            Beligtingstyd           1/500 sek (0.002)
+               F-getal              f/7
+   Date and time of data generation 13:50, 28 Augustus 2004
+          Lens focal length         9.7 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       72 dpi
+         Vertikale resolusie        72 dpi
+            Software used           Digital Camera FinePix S602 ZOOM Ver1.00
+      File change date and time     13:50, 28 Augustus 2004
+         Y and C positioning        2
+           Exposure Program         Normal program
+           ISO speed rating         200
+             Exif version           2.2
+     Date and time of digitizing    13:50, 28 Augustus 2004
+        Image compression mode      2
+            Shutter speed           9
+               Aperture             5.67
+              Brightness            8.68
+            Exposure bias           0
+        Maximum land aperture       3
+            Metering mode           Pattern
+             Light source           Onbekend
+                Flash               16
+             Kleurruimte            sRGB
+       Focal plane X resolution     1674
+       Focal plane Y resolution     1671
+     Focal plane resolution unit    3
+            Sensing method          One-chip color area sensor
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Scene capture type        Standard
+              Sharpness             3
+        Subject distance range      Unknown
+

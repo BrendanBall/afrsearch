@@ -1,0 +1,56 @@
+Mars ruimtetuigprogram
+
+
+   Die Mars ruimteprogram was 'n reeks onbemande ruimtetuie wat na die
+   planeet Mars gestuur was deur die Sowjet Unie gedurende 1970.
+
+   Mars 1 was gelanseer in 1962 maar het gefaal onderweg na Mars. Twee
+   ander Sowjet lanserings gedurende die selfde tydperk, Mars 1962A en
+   Mars 1962B, was waarskynlik identiese ruimtetuie maar beide het gefaal
+   gedurende lansering en het nie die aarde se atmosfeer verlaat nie.
+
+   Die ruimtetuie Mars 2 tot en met Mars 7, was gebaseer op 'n nuwe,
+   swaarder ontwerp, ongeveer 5 metrieke ton, en het 'n Proton vuurpyl
+   benodig vir hulle lansering. Hulle was ontwerp om 'n orbiter en
+   landingstuig te vervoer na Mars.
+
+[wysig] Mars 2 en 3
+
+     * Lanserings datum/tyd:
+          + Mars 2: 19 Mei 1971 teen 16:22:44 UTC
+            Mars 3
+          + Mars 3: 28 Mei 1971 teen 15:26:30 UTC
+     * Lanserings massa (ingesluit brandstof):
+          + Gekombineer: 4650 kg
+          + Orbiter: 3440 kg
+          + Landingstuig: 1210 kg
+     * Wentelbaan massa: 2265 kg
+     * Afmetings: 4.1 meter hoog, 2 meter wyd (5.9 meter in breedte met
+       die sonpanele oop gevou)
+
+   Die Mars 2 en 3 missies het bestaan uit identiese ruimtetuie, beide met
+   'n orbiter en 'n aangehegde landingstuig. Hulle was die eerste mens
+   vervaardigde items wat op die oppervlakte van Mars geland het. Hulle
+   primêre wetenskaplike doelwitte was om opnames te maak van Mars se
+   oppervlakte en wolke, meet van die temperatuur op Mars, bestudering van
+   die topografie, komposisie en fisiese eienskappe van die oppervlakte,
+   meet van die eienskappe van die atmosfeer, meting van Mars se
+   magnetiese velde, en dien as kommunikasie vir die versending van seine
+   vanaf die landingstuie na die aarde. Mars 2 en 3 was gelanseer deur
+   Tyazheliy Sputniks.
+
+[wysig] Mars 4, 5, 6 en 7
+
+   Mars 4
+   Mars 4
+   Mars 6
+   Mars 6
+     * Lanserings datum/tyd:
+          + Mars 4: 21 Julie 1973
+          + Mars 5: 25 Julie 1973 teen 18:55:48 UTC
+     * Wentelbaan massa:
+          + Sonder brandstof: 2270 kg
+          + Met brandstof: 3440 kg
+
+   Kategorie: Ruimtevaart
+

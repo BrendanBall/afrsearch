@@ -1,0 +1,143 @@
+Lockon Flaming Cliffs
+
+
+                                                   Lockon: Flaming Cliffs
+
+                       Naam:                                        LockOn
+               Ontwikkelaar:               Eagle Dynamics, Moskou, Rusland
+            Publikasiedatum:                               8 Desember 2003
+                      genre:                                vliegnabootser
+                      Modus:                         Eénspeler / Internet;
+     Tegniese implementasie:                        Maatwerk programmering
+                   Platform:                                       Windows
+          Amptelike webwerf:                              http://lockon.ru
+       Minimale Sisteemeise: Windows 2000, DirectX 9.0c, 1Gb geheue, 128Mb
+                                                videokaart, 1Gb diskruimte
+
+   Lockon Flaming Cliffs ("LOFC" / Russies - LockOn: Горячие скалы) is 'n
+   Russiese militêre vliegnabootser vir die Windows platform, wat in
+   Des-2003 op die mark gekom het. 'n Mens kan hedendaagse vliegtuie vlieg
+   en bestuur in 'n nagebootsde omgewing gebaseerd rondom die Swarte
+   See-gebeid en Krim (Oekraïne, Rusland, Turkye).
+
+   LOFC probeer om sover moontlik 'n akkurate en realistiese nabootsing
+   van die egte vlieg gevoel weer te gee.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Lockon: Modern Air Combat
+        * 3 Lockon: Flaming Cliffs
+        * 4 Digital Combat Simulator
+        * 5 Versies
+        * 6 Bestuurbare vliegtuie
+        * 7 Toekoms
+        * 8 Eksterne informasie
+        * 9 Gemeenskappe
+        * 10 Eskaders
+
+[wysig] Geskiedenis
+
+   Ongeveer in 1997 het Eagle Dynamics ("ED") hul éérste PC vliegnabootser
+   Flanker 1.0 op die mark gebring. Dit was toe een van die éérste
+   nabootsers wat exklusief op Russiese toestelle gefokus was. In latere
+   jare het Flanker 2.5 die lig gesien. In Flanker 2.5 kon was die
+   vliegmoontlikhede beperk tot die Russiese Su-27, Su-33 en Mig-29A en
+   MiG-29K. Met die voorafgenoemde vliegtuie kon jy grond-, en lugdoele
+   aanval/verdedig en geleide grond-/lugmissiele lanseer.
+
+[wysig] Lockon: Modern Air Combat
+
+   In Des-2003 het "LOMAC" op die mark verskyn. Dit was die eerste nuwe
+   moderne vliegnabootser na Falcon 4.0, wat toe nie meer verder
+   ontwikkeld was. In LOMAC het ED 'n paar ekstra bestuurbare vliegtuie
+   toegevoegd: Amerikaanse F-15C, A-10 Warthog en Su-25. Ook is die
+   geografiese speelterrein uitgebrei na die Kakasus en Turkye, en die
+   gebied rondom Roemenië, Bulgarye was ook in die speelgebied ingesluit.
+   LOMAC het verdere meer uitgebreide veelspeler moontlikhede gekry.
+
+   In LOFC word verskeie lugafweer, skepe, grondtroepe nagebootsd. So is
+   daar bv. die russiese S-300 en Amerikaanse Patriot lugafweer sisteme
+   verteenwoordigd, ook die Vulcan, Tunguska-M1, Tor-M1 word in LOMAC
+   aangetref. Die vliegvelde is volgens realistiese ligging, grote en
+   plaatsing beskikbaar. 'n Russiese vleigdekskip, die Admiraal Kuznetsov
+   en 'n Amerikaanse vliegdekskip van die Enterpriseklas is in LOMAC
+   toegevoeg. 'n Su-33 kan van Admiraal Kuznetsov land en vertrek.
+     * Amerikaanse vliegtuie
+
+   ED het veel tyd en moeite gespandeer om die F-15C te modelleer, veral
+   die ingewikkelde radar daarvan het veel ontwikkeltyd in beslag geneem.
+   In Amerika was LOMAC een groot treffer omdat dit een van die weinig
+   nabootsers is waarin jy 'n A-10 Warthog kan vlieg.
+
+[wysig] Lockon: Flaming Cliffs
+
+   ED het intussen in die geheim 'n nuwe toevoeging gemaak: die Sukhoi
+   Su-25T met Advanced Flight Model (AFM) was as geheel nuwe vliegtuig aan
+   die pakket toegevoegd. Met die AFM wil ED 'n realistiese vlieggevoel
+   naboots wat, volgens egte Su-25 vlieëniers blykbaar heel naby aan die
+   werklikheid is. Die Su-25T is 'n moderne variant van die Su-25,
+   toegerus met 'n TV-skerm om verskillinde (self)geleide, ongeleide
+   bomme, missiele en rakette te lanseer. In LOFC is die Kh-25ML, Kh-29T
+   en Vikhr die meest geliefde wapentuig.
+
+[wysig] Digital Combat Simulator
+
+   In Okt-2005 het ED bekendgemaak dat hulle al meer as 'n jaar besig was
+   om LockOn: Black Shark (Russies: Чёрная Акула / Tjernaja Akula) te
+   ontwikkel. Dit is 'n nabootsing van die Kamov Ka-50 aanvalshelikopter.
+   Aanvanklik sou Чёрная Акула 'n toevoeging wees aan die LOFC pakket. In
+   Okt-2007 het ED besluit om BS as geheel nuwe produk op die makr te
+   bring. Omdat daar soveel verandering was in realisme, exakte nabootsing
+   van die enjins, elektronika van die Чёрная Акула en die ontwikkeltyd
+   met meer as 1,5 jaar vertraag was. In die nuwe nabootser kan mens
+   alleen met die Ka-50 vlieg. Die verwagting is dat Чёрная Акула die mees
+   gevorderde realistiese vleignabootser alle tye word.
+
+[wysig] Versies
+
+     * 1997 -- Flanker 1.0
+     * 2001 -- Flanker 2.5
+     * 2003 -- LockOn: Modern Aircombat
+     * 2005 -- LockOn: Горячие скалы
+     * 2008 -- Digital Combat Simulator (verwagting is 2008)
+
+[wysig] Bestuurbare vliegtuie
+
+     * Russies (grond-/lugrol)
+
+- Su-25(T) aanvalsvliegtuig
+- Su-27 jagvegvliegtuig
+- Su-33 jagvegvliegtuig, MiG-29A, Mig-29S
+
+     * Amerikaans (Lugonderskeppers)
+
+- F-15C jagvegvliegtuig
+
+     * Amerikaans (Grondaanval)
+
+- A-10A aanvalsvliegtuig
+
+[wysig] Toekoms
+
+   ED beplan om 'n A-10 en F-16C aan die Digital Combat Simulator toe te
+   voeg.
+
+[wysig] Eksterne informasie
+
+     * LOFC webwerf (Russiestalig)
+     * Digital Combat simulator
+     * Black Shark videoclip op Youtube
+
+[wysig] Gemeenskappe
+
+     * http://lockonfiles.com Uitbreidinge
+     * http://forum.lockon.ru Amptelike gebruikersgemeenskap kletshok
+     * Hyperlobby Lockon internet spelletjies
+
+[wysig] Eskaders
+
+     * 159th Aviation Regiment Vlieg Su-25T, Su-33 van vliegbasis Krymsk
+
+   Kategorie: Rekenaarspeletjies
+

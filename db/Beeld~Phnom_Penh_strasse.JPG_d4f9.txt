@@ -1,0 +1,104 @@
+Beeld:Phnom Penh strasse.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:Phnom Penh strasse.JPG
+   Grootte van hierdie voorskou: 800 × 600 pixels
+   Volle resolusie (2 592 × 1 944 pixel, file size: 1,16 MG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+    Description
+
+                     Strassenszene in Phnom Penh eigene Aufnahme
+       Source
+
+                     Originally from de.wikipedia; description page is/was here.
+        Date
+
+                     2006-01-27 (original upload date)
+       Author
+
+                     Original uploader was Tbachner at de.wikipedia
+     Permission
+(Reusing this image)
+
+                     This image is in the public domain.
+
+[edit] License information
+
+   Public domain This image has been (or is hereby) released into the
+   public domain by its author, Tbachner at the wikipedia project. This
+   applies worldwide.
+
+   In case this is not legally possible:
+   Tbachner grants anyone the right to use this work for any purpose,
+   without any conditions, unless such conditions are required by law.
+
+[edit] Original upload log
+
+   (All user names refer to de.wikipedia)
+     * 2006-01-27 06:42 Tbachner 2592×1944×8 (1215800 bytes) Strassenszene
+       in Phnom Penh eigene Aufnahme
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 07:52, 28 Januarie 2007 2 592×1 944 (1,16 MG) Laurens
+   ({{Information |Description=Strassenszene in Phnom Penh eigene Aufnahme
+   |Source=Originally from [http://de.wikipedia.org de.wikipedia];
+   description page is/was
+   [http://de.wikipedia.org/w/index.php?title=Image%3APhnom_Penh_strasse.J
+   PG here]. |Date=2006-01-2)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Phnom Penh
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        Canon
+             Camera model           Canon PowerShot S50
+            Beligtingstyd           1/200 sek (0.005)
+               F-getal              f/2.8
+   Date and time of data generation 11:26, 13 Januarie 2005
+          Lens focal length         7.09375 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       180 dpi
+         Vertikale resolusie        180 dpi
+      File change date and time     11:26, 13 Januarie 2005
+         Y and C positioning        1
+             Exif version           2.2
+     Date and time of digitizing    11:26, 13 Januarie 2005
+        Image compression mode      3
+            Shutter speed           7.65625
+               Aperture             2.96875
+            Exposure bias           0
+        Maximum land aperture       2.96875
+            Metering mode           Pattern
+                Flash               24
+             Kleurruimte            sRGB
+       Focal plane X resolution     9159.0106007067
+       Focal plane Y resolution     9169.8113207547
+     Focal plane resolution unit    duim
+            Sensing method          One-chip color area sensor
+       Custom image processing      Normal process
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Digital zoom ratio        1
+          Scene capture type        Standard
+

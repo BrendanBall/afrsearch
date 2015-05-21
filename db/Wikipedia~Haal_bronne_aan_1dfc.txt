@@ -1,0 +1,119 @@
+Wikipedia:Haal bronne aan
+
+
+   Wikipedia artikels behoort betroubare bronne vir hul inligting aan te
+   haal.
+
+   Vir inligting aangaande verwysings na Wikipedia-artikels (veral vir
+   vertalings) sien Hulp:Permanente skakel. Vir inligting oor MediaWiki se
+   ingeboude verwysingstelsel, sien Help:Footnotes (by meta, in Engels).
+
+   Inhoud
+
+        * 1 Hoekom is verwysings belangrik?
+        * 2 Wanneer u inhoud byvoeg
+        * 3 Waar feite betwis word
+        * 4 Wanneer feite nie betwis word nie
+        * 5 Hoe om dit te doen en riglyne
+        * 6 Verwysings in 'n "Verwysings" afdeling
+
+[wysig] Hoekom is verwysings belangrik?
+
+     * Om erkenning aan 'n bron te gee vir die waardevolle inligting wat
+       dit verskaf.
+     * Om meer inligting te verskaf vir verdere leeswerk.
+     * Om die akkuraatheid en geloofwaardigheid van artikels te verbeter.
+     * Om vinnige en doeltreffende nagaan van feite in die hand te werk,
+       veral in die geval waar vandalisme ter sprake kom.
+     * Om die voorkoms van twispunte oor wysigings te verminder, of om te
+       help om sodanige punte vinnig op te klaar.
+     * Om die oorhoofse geloofwaardigheid en gesaghebbende aard van
+       Wikipedia te verhoog.
+     * Om aantygings van plagiaat of enige ander vorm van intellektuele
+       oneerlikheid te vermy.
+
+[wysig] Wanneer u inhoud byvoeg
+
+   Vir die redes hierbo bespreek, haal asseblief u bronne aan vir
+   inligting wat u by 'n spesifieke eksterne bron verkry het. Verkieslik
+   moet u ook probeer om die korrekte formaat van die aanhaling te
+   verskaf. Indien u nie kan nie, kan ander dit vir u doen, solank u seker
+   maak dat u al die nodige inligting verskaf wat nodig is om die
+   oorspronklike bron op te spoor.
+
+   Oor die algemeen moet u, selfs al skryf u uit u geheue behoort u aktief
+   te soek vir gesaghebbende verwysings om aan te haal. (Indien u skryf
+   vanuit u eie kennis dan moet u voldoende kennis hê om goeie bronne te
+   kan aanhaal om die leser te help om die onderwerp te bestudeer—u sal
+   nie altyd daar wees om vrae te kan beantwoord nie). Die hoofpunt is om
+   die leser by te staan asook ander bydraers en daarom moet u probeer om
+   meer as net die bronne wat u self gebruik aan te haal.
+
+   Die behoefte aan verwysings is veral belangrik wanneer u skryf oor
+   sieninge wat bestaan oor 'n spesifieke kwessie. Vermy veralgemenings
+   soos, sommige mense sê... Probeer liewer 'n spesifieke persoon of groep
+   vind wat daardie standpunt huldig en noem hulle op hulle naam en gee 'n
+   verwysing na 'n plek waar hulle gesien of gehoor is in die uitdruk van
+   daardie standpunt.
+
+   Net omdat 'n stelling 'n verwysing bevat beteken egter nie noodwendig
+   dat dit geskik is of 'n akkurate indruk skep nie. Soos implisiet deur
+   die amptelike "Neutrale standpunt"-beleid voorgeskryf word, moet daar
+   selfs al word 'n gesaghebbende bron aangehaal verseker word dat die
+   leser die kern van die navorsing oor 'n sekere onderwerp verstaan en
+   nie net voorsien word met 'n versigtig gekose aanhalings wat uit
+   verband geneem word ter ondersteuning van 'n sekere standpunt nie.
+
+   Onthou dat Wikipedia nie 'n platform is vir u standpunte of vir
+   oorspronklike navorsing nie.
+
+[wysig] Waar feite betwis word
+
+   Inligting wat met bewyse betwis word behoort na die artikel se
+   bespreking blad geskuif word—wat ander gebruikers die geleentheid gun
+   om bronne te vind ter ondersteuning van daardie inligting, in welke
+   geval dit teruggeskuif kan word na die artikel op sigself.
+
+[wysig] Wanneer feite nie betwis word nie
+
+   Dink vooruit: probeer om uself voor te stel of mense dit wat u skryf in
+   twyfel gaan trek. Om dit wat u skryf behoorlik met duidelike en
+   betroubare bronne te ondersteun sal stabiliteit van die bydrae
+   verseker.
+
+   Om algemene of spesifieke verwysing by artikels te voeg waar dit
+   ontbreek (of u dit geskryf het aldan nie) is 'n uitstekende manier vir
+   u om 'n bydrae by Wikipedia te maak.
+
+[wysig] Hoe om dit te doen en riglyne
+
+   Die belangrikste ding om te onthou is om omvattende verwysingsinligting
+   te verskaf—die formaat daarvan is minder belangrik. Probeer egter om 'n
+   formaat te gebruik wat die leser op die beste wyse by te staan om die
+   bronne op te spoor waarop die artikel gebasseer is, sonder om die
+   oorhoofse leesbaarheid van die artikel te belemmer. Aangesien
+   standpunte rondom die beste formaat vir verwysings kan verskil (baie
+   keer as gevolg van die soort artikel of ook volgens die styl wat
+   voortvloei uit die hoof bydraes van inhoud tot die artikel), word daar
+   voorgestel dat daar nie robotveranderings van een soort verwysing tot
+   'n ander gemaak word nie (sien wikipedia:bots vir algemene aanbevelings
+   en voorbehoude met betrekking tot robot veranderinge).
+
+[wysig] Verwysings in 'n "Verwysings" afdeling
+
+   Verwysings wat betrekking het tot die artikel in sy geheel word aan die
+   einde van 'n artikel onder 'n ==Verwysings== opskrif. Onder hierde
+   opskrif moet die volledige verwysingsinligting as 'n (*)-gemerkte
+   lysie, een vir elke verwysing.
+
+   Die formaat van 'n Wikipedia artikel se verwysigslys is van sekondêre
+   belang en daar bestaan nie ooreenstemming op 'n presiese formaat vir
+   aanhalings in Wikipedia nie. Indien u daarom reeds gebruik maak van 'n
+   spesifieke styl veral as dit in algemene gebruik is onder die kundiges
+   in die veld verwant aan die artikel wat u skryf, skryf asseblief die
+   verwysings in die styl waarin u verkies.
+
+   Indien u egter nie op 'n formaat kan besluit nie of nie seker is watter
+   inligting om in te sluit nie, verskaf die volgende bladsy 'n paar
+   voorbeelde vir u gerief: Wikipedia:Styl#Verwysings.
+

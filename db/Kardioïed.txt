@@ -1,0 +1,86 @@
+Kardioïed
+
+
+   Die tekenproses van 'n kardioïed
+   Die tekenproses van 'n kardioïed
+
+   In meetkunde is die kardioïed (of hartkromme) 'n episikloïed wat een en
+   slegs een punt het. Dit wil sê 'n kardioïed is 'n kromme wat as 'n
+   lokus geprodusseer kan word — as een sirkel rondom 'n ander identiese
+   sirkel rol (sonder om te gly), vorm die pad van 'n punt op die omtrek
+   van die rollende sirkel 'n kardioïed.
+
+   Die kardioïed is ook 'n spesiale tipe limaçon: dit is die limaçon met
+   een punt. (Die punt word gevorm as die verhouding van a tot b in die
+   vergelyking gelyk aan een is.)
+
+   Die naam kom van die hartvormige vorm van die kromme (Grieks
+   kardioeides = kardia:hart + eidos:vorm). In vergelyking met die
+   hartsimbool (♥) het 'n kardioïd egter nie so 'n skerp punt nie. Dit is
+   meer soos die vorm van die buitelyn van 'n deursnit deur 'n pruim.
+
+   Die kardioïed is 'n inverse transform van 'n parabool.
+
+   Die groot, sentrale, swart figuur in 'n Mandelbrotversameling is 'n
+   kardioïed. Hierdie kardioïed word omring deur 'n fraktale rangskikking
+   van sirkels.
+
+   Inhoud
+
+        * 1 Vergelykings
+        * 2 Grafieke
+        * 3 Oppervlak
+        * 4 Kyk ook
+        * 5 Verwysings
+
+[wysig] Vergelykings
+
+   Aangesien die kardioïd 'n episikloïed met een punt is, is die
+   parametriese vergelykings daarvan:
+
+          x(\theta) = \cos \theta + {1 \over 2} \cos 2 \theta, \qquad
+          \qquad
+
+          y(\theta) = \sin \theta + {1 \over 2} \sin 2 \theta. \qquad
+          \qquad
+
+   Die selfde vorm kan in poolkoördinate gedefinieer word deur die
+   vergelyking
+
+          \rho(\theta) = 1 + \cos \theta. \     Vir 'n bewys, kyk
+          kardioïed bewyse.
+
+[wysig] Grafieke
+
+   Image:CardioidsLabeled.PNG
+
+          Vier grafieke van kardioïedes gerig in die vier kardinale
+          rigtings, met hulle onderskeie polêre vergelykings.
+
+[wysig] Oppervlak
+
+   Die oppervlak van 'n kardioïed wat kongruent is aan
+
+          ρ(θ) = a(1 − cosθ)
+
+   is
+
+          A = {3\over 2} \pi a^2 .
+
+   Kyk bewys.
+
+[wysig] Kyk ook
+
+     * Wittgenstein se staaf
+     * Mikrofoon#Gerigtheid
+
+[wysig] Verwysings
+
+     * Hearty Munching on Cardioids deur cut-the-knot
+     * Xah Lee, Cardioid (1998) (Die werf verskaf 'n aantal alternatiewe
+       konstruksies).
+     * Jan Wassenaar, Cardiod, (2005) in 862 two-dimensional mathematical
+       curves.
+
+   Kategorie: Krommes
+

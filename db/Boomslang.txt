@@ -1,0 +1,85 @@
+Boomslang
+
+
+                      Boomslang
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Reptilia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Squamata
+      Suborde:     Serpentes
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Colubridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Dispholidus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     D. typus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Dispholidus typus
+   (Smith, 1829)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die boomslang (Dispholidus typus) is 'n groot, gladde, giftige slang
+   van Afrika suid van die Sahara. Dit is die enigste spesie in sy genus.
+   Die naam in ander tale is baie na verwant aan die Afrikaanse naam.
+
+[wysig] Beskrywing
+
+   Boomslange is anders as ander slange in die sin dat hulle seksueel
+   dimorfies is; wyfies behou die bruin-grys kleur van onvolwasse
+   boomslange, maar mannetjies word 'n helder groen. Volwasse boomslange
+   word omtrent 1,5m lank. Hulle het 'n kort, stomp neus en groot oë.
+
+[wysig] Gif
+
+   Die boomslang se gif is uiters giftig en kan tot dood lei. Dit is 'n
+   hemotoksien. Dit beteken dat die gif die hemoglobien in die
+   rooibloedliggaampies aanval en vernietig, en só die bloed in die
+   slagoffer vernietig.
+
+[wysig] Eksterne skakels
+
+     * Adventure Addicts guide, tree snake
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Slange
+

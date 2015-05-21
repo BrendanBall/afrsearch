@@ -1,0 +1,105 @@
+Cartesiese koördinatestelsel
+
+
+   Fig. 1 - Cartesiese koördinatestelsel. Vierr punte word aangedui: (2,3)
+   in groen, (-3,1) in rooi, (-1.5,-2.5) in blou en (0,0), die oorsprong,
+   in pers.
+   Fig. 1 - Cartesiese koördinatestelsel. Vierr punte word aangedui: (2,3)
+   in groen, (-3,1) in rooi, (-1.5,-2.5) in blou en (0,0), die oorsprong,
+   in pers.
+
+   In wiskunde word die Cartesiese koördinatestelsel gebruik om elke punt
+   in 'n vlak uniek te bepaal deur twee getalle, gewoonlik die
+   x-koördinaat en die y-koördinaat van die punt. Om die koördinate te
+   definieer word twee gerigte lyne loodreg met mekaar (die x-as of
+   abscissa en die y-as of ordinaat), sowel as die eenheid-lengte, wat op
+   die twee asse gemerk word (kyk Figuur 1), gespesifiseer. Cartesiese
+   koördinatestelsels word ook in ruimte (waar drie koördinate gebruik
+   word) en in hoër dimensies.
+
+   Deur die Cartesiese koördinatestelsel te gebruik kan meetkundige vroms
+   (soos krommes) deur algebraïese vergelykings wat die koördinate van die
+   punte op die vorm bevredig, beskryf word. Die sirkel met radius 2 kan
+   beskryf word deur die vergelyking x² + y² = 4 (kyk Figuur 2).
+
+   Cartesiese verwys na die Franse wiskundige en filosoof René Descartes
+   (latyns: Cartesius), wat, onder andere, werk gedoen het om algebra en
+   Euklidiese meetkunde saam te smelt. Die werk was belangrik in die
+   ontwikkeling van analitiese meetkunde, analise, en kartografie.
+
+   Die idee vir die stelsel is in in 1637 in twee geskrifte deur Descartes
+   ontwikkel. In deel twee van sy Discours de la méthode die nuwe idee
+   ingevoer waarvolgens die posisie van 'n punt of voorwerp op 'n
+   oppervlak gespesifiseer word deur twee asse wat mekaar sny as meetgidse
+   te gebruik. In La Géométrie het hy die konsepte verder ontwikkel.
+   Fig. 2 - Cartesiese koördinatestelsel met die sirkel van radius 2 met
+   die middelpunt by die oorsprong in rooi aangedui. Die vergelyking van
+   die sirkel is x² + y² = 4.
+   Fig. 2 - Cartesiese koördinatestelsel met die sirkel van radius 2 met
+   die middelpunt by die oorsprong in rooi aangedui. Die vergelyking van
+   die sirkel is x² + y² = 4.
+
+[wysig] Twee-dimensionele koördinatestelsel
+
+   Die snydingspunt, waar die asse ontmoet, word die oorsprong gewoonlik
+   aangedui as O, genoem. Die x en y asse definieer 'n vlak wat die xy
+   vlak genoem word. Gegee elke as, kies 'n eenheiids lengte en merk elke
+   eenheid op die as om 'n rooster te vorm. Om 'n besondere punt te
+   spesifiseerin 'n tweedimensionele koördinatestelsel, dui die x eenheid
+   eerste aan (abscissa), gevolg deur die y eenheid (ordinaat) in die vorm
+   (x,y), 'n geordende paar.
+   Fig. 3 - Die vier kwadrante van 'n Cartesiese koördinatestelsel. Die
+   pyle op die asse dui aan dat dit vir ewig uitstrek in hulle
+   onderskydelike rigtings (i.e. oneindiglik).
+   Fig. 3 - Die vier kwadrante van 'n Cartesiese koördinatestelsel. Die
+   pyle op die asse dui aan dat dit vir ewig uitstrek in hulle
+   onderskydelike rigtings (i.e. oneindiglik).
+
+   Die keuse van letters kom van 'n konvensie, om die einde van die
+   alfabet te gebruik om onbekende waardes aan te dui. In teenstelling
+   hiermee word die begin van die alfabet gebruik om bekende waardes aan
+   te dui.
+
+   'n Voorbeeld van 'n punt P op die stelsel word in Figuur 3 aangedui
+   deur die koördinate (3,5) te gebruik.
+
+   Die snyding van die twee asse skep vier gebeide wat kwadrante genoem
+   word, aangedui deur die Romeinse syfers I, II, III, en IV. Volgens
+   konfensie word die kwadrante anti-kloksgewys gemerk deur by die regter
+   boonste ("noordoos") kwadrant te begin. In die eerste kwadrant, is
+   beide koördinate positief, in die tweede kwadrant x-koördinate negatief
+   en y-koördinate positief, in die derde kwadrant is beide koördinate
+   negatief en ins die vierde kwadrant is x-koördinate positief en
+   y-koördinate negatief (kyk onderstaande tabel.)
+   Kwadrant x-waardes y-waardes
+      I        > 0       > 0
+      II       < 0       > 0
+     III       < 0       < 0
+      IV       > 0       < 0
+
+[wysig] Driedimensionele koördinatestelsel
+
+   Die driedimensionele koördinatestelsel verskaf die drie fisiese
+   dimensies van ruimte — hoogte, wydte, en lengte. Figure 4 en 5, onder,
+   wys twee algemene maniere om die driedimensionele koördinatestelsel
+   voor te stel.
+
+   Die koördinate in 'n driedimensionele stelsel het die vorm (x,y,z).
+   Byvoorbeeld, twee punte word in die stelsel gestip in Figure 4, punte
+   P(3,0,5) en Q(−5,−5,7). Die asse word aangedui in 'n wêrel-koördinate
+   orientasie met die z-as wat na bo wys.
+
+   Die x-, y-, en z-koördinate van 'n punt kan ook as die afstande van die
+   yz-vlak, xz-vlak, en xy-vlak onderskeidelik geneem word. Figure 5 wys
+   die afstande van punt P van die vlakke.
+   Fig. 4 - Driedimensionele Cartesiese koördinatestelsel met y-as wat weg
+   van die waarnemer wys.
+   Fig. 4 - Driedimensionele Cartesiese koördinatestelsel met y-as wat weg
+   van die waarnemer wys.
+   Fig. 5 - Driedimensionele Cartesiese koördinatestelsel met die x-as wat
+   na die waarnemer wys.
+   Fig. 5 - Driedimensionele Cartesiese koördinatestelsel met die x-as wat
+   na die waarnemer wys.
+
+   Kategorie: Koördinatestelsels
+

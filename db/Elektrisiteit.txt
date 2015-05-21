@@ -1,0 +1,64 @@
+Elektrisiteit
+
+
+   Elektrisiteit kan gedefinieer word as die energie wat deur gelaaide
+   elementêre deeltjies verskaf word deur middel van elektriese stroom vir
+   'n verskeidenheid doeleindes, bv. beligting, verhitting,
+   dryfmeganismes, ens.
+
+   Daar is 'n aantal eenvoudige eksperimente wat die teenwoordigheid van
+   elektriese krag en lading demonstreer. As mens 'n kam deur jou hare
+   trek op 'n droë dag, sal die kam stukkies papier aantrek. Hierdie
+   aantrekkingskrag is dikwels sterk genoeg om die papier op te lig.
+
+   Deur 'n aantal stelselmatige eksperimente van hierdie soort uit te
+   voer, kan dit bepaal word dat daar twee tipes elektriese ladings
+   bestaan. Benjamin Franklin (1706-1790) het hierdie twee tipes lading
+   positief en negatief genoem en hierdie konvensie word tot vandag toe
+   nog gebruik.
+
+   Teenoorgestelde ladings trek mekaar aan en soortgelyke ladings stoot
+   mekaar af. As mens 'n harde rubber staaf met wol vryf en aan 'n lyn
+   ophang sodat dit vry is om te roteer en dan 'n glas staaf met sy vryf
+   en nader bring, sal die rubber staaf aangetrek word.
+
+   Beeld:Rubber2.jpg
+
+   As mens egter nog 'n rubberstaaf met wol vryf en dit nader bring, sal
+   die staaf wat hang afgestoot word. Die lading op die glas staaf is
+   positief en die lading op die rubber staaf negatief. Enige voorwerp wat
+   aangetrek word deur die gelaaide rubberstaaf (of afgestoot word deur
+   die glas staaf) het dus positiewe ladings. Aan die ander hand, enige
+   voorwerp wat afgestoot word deur die gelaaide rubberstaaf (of aangetrek
+   word deur die glas staaf) het negatiewe ladings.
+
+   Lading word altyd behou. Hierdie is 'n natuurlike wet en beteken dat
+   lading nie vernietig of geskep kan word nie. Lading word slegs
+   verplaas, soos wat negatiewe lading van die wol na die rubber staaf
+   verplaas is in die bogenoemde voorbeeld.
+
+   In 1909 het Robert Millikan (1868-1953) vasgestel dat elektriese lading
+   altyd voorkom as 'n veelvoud van 'n sekere fundamentele eenheid van
+   lading, e. Dit wil sê, lading is gekwantifiseer, waar q die standaard
+   simbool is wat gebruik word vir lading. Anders gestel, kom lading voor
+   in diskrete pakkies. Verdere eksperimente in hierdie tydperk het gewys
+   dat die elektron 'n lading het van -e en die dat die proton 'n gelyke
+   maar teenoorgestelde lading van +e het. Sommige elementêre deeltjies,
+   soos die neutron, is nie gelaai nie. 'n Neutrale atoom sal gelyke
+   hoeveelhede protone en elektrone besit.
+
+   Charles Coulomb het die kragte tussen gelaaide voorwerpe kwantitatief
+   gemeet en vasgestel dat die elektriese krag tussen twee klein gelaaide
+   sfere omgekeerd eweredig is aan die kwadraat van die afstand tussen
+   hulle. Dit wil sê, F \propto \frac{1}{r^2} .
+
+[wysig] Verwysings
+
+     * [1] "Oxford Advanced Learner's Dictionary", 5de Uitgawe, A.S.
+       Hornby, J. Crowther, Oxford University Press, 1995.
+
+     * [2] "Physics for Scientists and Engineers with Modern Physics", 4de
+       Uitgawe, Raymond A. Serway, Saunders College Publishing, 1996.
+
+   Kategorie: Elektrisiteit
+

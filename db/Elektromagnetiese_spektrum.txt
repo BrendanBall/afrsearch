@@ -1,0 +1,35 @@
+Elektromagnetiese spektrum
+
+
+   Die frekwensies waarteen elektromagnetiese golwe propageer vorm 'n
+   aaneenlopende spektrum. Hierdie spektrum wissel vanaf lae frekwensies,
+   soos in die geval van lae-frekwensie (LF) wisselstroom, tot by kosmiese
+   straling. Daar is in beginsel geen verskillende tipes elektromagnetiese
+   radiasie nie en die verdeling daarvan in verskillende frekwensie bande
+   is as gevolg van geskiedkundige faktore, fisiologiese faktore (bv.
+   sigbare lig), opwekkingsmetodes en spesifieke eienskappe van die
+   straling wat bestudeer is.
+
+   Die elektromagnetiese spektrum word aangegee in Tabel 1.
+
+             Gebied              Frekwensies            Golflengte
+        Oudiofrekwensies      30 - 30 x 10^3 Hz        10 Mm − 10 km
+        Radiofrekwensies   30 x 10^3 - 3 x 10^11 Hz    10 km − 1 mm
+           Infrarooi      3 x 10^11 - 4.1 x 10^14 Hz   1 mm − 730 nm
+            Sigbaar      4.1 x 10^14 - 7.5 x 10^14 Hz 730 nm − 400 nm
+          Ultraviolet       7.5 x 10^14 - 10^18 Hz    400 nm − 0.3 nm
+            X-strale              > 10^17 Hz              < 3 nm
+          Gamma-strale            > 10^20 Hz              < 3 pm
+        Kosmiese strale           > 10^20 Hz              < 3 pm
+
+   Radiofrekwensies (RF) word konvensioneel verdeel in bande van tientalle
+   van frekwensie of golflengte.
+
+[wysig] Bibliografie
+
+     * J. Thuery (geredigeer deur E. H. Grant, King's College London),
+       "Microwaves: Industrial, Scientific and Medical Applications,"
+       Artech House, 1992, pp.4 - 5.
+
+   Kategorie: Fisika
+

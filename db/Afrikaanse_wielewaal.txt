@@ -1,0 +1,102 @@
+Afrikaanse wielewaal
+
+
+                 Afrikaanse wielewaal
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Oriolidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Oriolus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     O. auratus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Oriolus auratus
+   Vieillot, 1817
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Afrikaanse wielewaal is 'n skaars somerstandvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Bronne
+
+[wysig] Identifikasie
+
+   Die mannetjie is die geelste onder die wielewale, met 'n duidelike
+   swart streep wat deur sy oë tot by sy oordekvere strek. Jonges het ook
+   'n swart oogstreep. Die wyfie is nie so helder soos die mannetjie nie,
+   met 'n groener rugkant en 'n bleker onderkant. Lengte 24 cm.
+
+[wysig] Habitat
+
+   Kom oral in goed ontwikkelde boomveld of oewerbos voor.
+
+[wysig] Verspreiding
+
+   Kom in Suid-Afrika slegs in die noordelike gedeeltes van die
+   Krugerwildtuin en Limpopo-provinsie voor. Verder strek die verspreiding
+   oor die noordelike deel van Mosambiek, die hele Zimbabwe, die
+   noord-oostelike Botswana, die Kaprivi-strook en noordelike deel van
+   Namibië
+
+[wysig] Geluid
+
+   Hul helder fluite "wiee-er-er-woel" of "fiee-joee-fiee-joee-fiee-joee"
+   is langer as die swartkopwielewaal s'n.
+
+[wysig] Ander name
+
+   Engelse naam: African Golden Oriole Wetenskaplike naam: Oriolus auratus
+
+[wysig] Bronne
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Wielewale
+

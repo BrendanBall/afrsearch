@@ -1,0 +1,28 @@
+Speltoetser
+
+
+   ’n Speltoetser is sagteware wat die spelling van woorde in tekslêers
+   nagaan en vergelyk met ’n ingeboude woordelys. Dit kan ook voorstelle
+   maak vir die korrekte spelling van woorde. Sommige kan op hul eie
+   gebruik word vir ’n stuk teks, terwyl ander deel uitmaak van ’n groter
+   program soos ’n woordverwerker, elektroniese woordeboek of soekenjin.
+
+[wysig] Werking
+
+   Speltoetsers vergelyk elke woord in ’n dokument met ’n ingeboude
+   woordelys en merk woorde wat nie daarin voorkom nie. Die meeste moderne
+   speltoetsers sal ook ’n alternatiewe spelling voorstel wat die
+   gebruiker kan aanvaar of ignoreer, of die gebruiker kan self vakkundige
+   terme, eiename, ensovoorts byvoeg wat daarna erken sal word.
+
+   Sommige programme kan selfs grammatikafoute uitwys of woorde binne
+   konteks beskou. Sulke speltoetsers sal byvoorbeeld nie die woord
+   "verassing" miskyk as dit "verrassing" moet wees omdat albei woorde in
+   die woordelys voorkom nie, maar sal die woord binne konteks as ’n fout
+   herken.
+
+   Die meeste speltoetsers kan verskeie woordeboeke gebruik, soos vir
+   ander tale of spesifieke vakrigtings – of die gebruiker kan dit self
+   opstel.
+   Kategorieë: Taal • Rekenaar
+

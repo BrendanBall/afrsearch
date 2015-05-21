@@ -1,0 +1,84 @@
+Goudvis
+
+
+                       Goudvis
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Cypriniformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Cyprinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Carassius
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. auratus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Carassius auratus
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die goudvis, Carassius auratus, is een van die eerste visse wat
+   gedomestikeerd is en nog steeds een van die mees gewilde akwariumvisse.
+   Goudvisse is deel van die karpfamilie (wat ook die koikarp en die
+   crucian karp bevat).
+
+   Goudvisse kan tot 59 cm lank word en tot 4.5 kg weeg alhoewel die
+   meeste goudvisse nie dié lengte of massa bereik nie. In ideale
+   toestande kan 'n goudvis ongeveer 20 jaar leef (die wêreldrekord is 49
+   jaar).
+
+[wysig] Geskiedenis
+
+   Gedurende die Tangdinastie in Sjina was dit gewild om karpvisse in
+   skoudamme aan te hou en sodoende het 'n mutasie ontaard wat die visse
+   'n goue kleur gegee het. Mense het toe begin om die visse te teel en
+   hulle in teracottapotte te plaas. In 1502 is goudvisse in Japan
+   voorgestel waar nog subspesies geteel is. Goudvisse is in 1874 in die
+   VSA voorgestel en vandaar af het hulle gewildheid gegroei.
+
+[wysig] Variasies
+
+   Deur inteling oor die eeue het verskeie variasies ontstaan. Sekere
+   goudvisspesies kan net in akwariums oorleef (soos die teleskoopoog),
+   maar ander goudvisse (soos die komeet) is baie sterk en vinnig
+   (soortgelyk aan die koikarp).
+   'n Goudvisakwarium.
+   'n Goudvisakwarium.
+   Kategorie: Visse
+

@@ -1,0 +1,77 @@
+Kommutatiewe bewerking
+
+
+   'n Funksie of binêre bewerking f:A \times B \rightarrow C word
+   kommutatief genoem wanneer daar vir enige y in A en enige z in B geld
+   dat
+   f(y,z) = f(z,y); anders word die bewerking nie-kommutatief genoem.
+
+   Die vermenigvuldiging van reële getalle is kommutatief aangesien
+
+          yz = zy
+
+   vir alle reële getalle y en z. Aan die ander kant, is die aftrekking
+   van reële getalle nie-kommutatief nie, aangesien
+
+          y − z = z − y
+
+   as en slegs as y en z identies is.
+
+   Verder as
+
+          f(y,z) = f(z,y)
+
+   vir 'n spesifieke paar elmente y en z, dan word gesê dat y en z,
+   kommuteer. Elke element kommuteer met homself en in 'n groep kommuteer
+   elke element met die identiteit, met sy eie inverse en met sy
+   eksponent.
+
+   Die bekendste voorbeelde van kommutatiewe binêre bewerkings is
+   sommering en vermenigvuldiging van reële getalle; byvoorbeeld:
+     * 4 + 5 = 5 + 4 (aangesien beide vergelykings die resultaat 9 lewer)
+     * 2 × 3 = 3 × 2 (aangesien beidie vergelykings die resultaat van 6
+       lewer)
+
+   Verdere voorbeelde van kommutatiewe binêre bewerkings sluit sommering
+   en vermenigvuldiging van komplekse getalle, sommering van vektore en
+   die snyding- en vereniging van versamelings. In elke geval is hierdie
+   bewerkinge kommutatief oor die getaldomein in sy geheel.
+
+   Die nie-kommutatiewe binêre bewerkings is aftrekking (a − b), deling
+   (a/b), magsverheffing (a^b), funksiesamestelling (f o g), tetrasie (a
+   ↑↑b), matriksvermenigvuldiging en kwarternêre vermenigvuldiging.
+
+   'n Baie goeie voorbeeld van nie-kommutatiwiteit uit die alledaagse lewe
+   is die Rubik's Cube: dier byvoorbeeld die voorste vlak kloksgewys te
+   draai, die boonste vlak kloksgewys te draai en die voorste vlak
+   antikloksgewys te draai lewer nie dieselfde resultaat wanneer die
+   volgorde van die aksies omgeruil word nie. Hierdie is tipies 'n
+   verskynsel wat in groepteorie bestudeer word.
+
+   Die onderstel van die domein waarop 'n bewerking kommutatief uitgevoer
+   kan word, word soms die middel in algebra genoem.
+
+   'n Abeliese groep is 'n groep waarvan die groepsbewerkinge kommutatief
+   is. 'n Kommutatiewe ring is 'n ring waarvan die vermenigvuldiging
+   kommutatief is (Sommering in 'n ring is altyd kommutatief). In 'n veld
+   is beide sommering en vermenigvuldiging kommutatief.
+
+   Kommutatiwiteit kan ook 'n ander naam wees vir simmetrie. Met ander
+   woorde veronderstel ons los 'n probleem op wat die parameters x en y
+   bevat en bepaal dan dat daardie oplossing gelykstaande is aan f(x,y).
+   As daar 'n onderstel van waardes vir x en y bestaan waar die twee
+   waardes uitgeruil kan word sonder om die funksie te beïnvloed, dan is
+   die probleem simmetries. Simmetrie vloei normaalweg in wiskunde uit
+   vanaf eenvoudiger simmetrie en word dikwels gebruik vir verskeie soorte
+   bewyse.
+
+[wysig] Sien ook
+
+     * antikommutatiwiteit
+     * assosiatiwiteit
+     * distribuwiteit
+     * kommutant
+     * Kommutatief (neurofisiologie)
+
+   Kategorie: Wiskunde
+

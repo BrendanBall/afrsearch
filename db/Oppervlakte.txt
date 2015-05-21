@@ -1,0 +1,153 @@
+Oppervlakte
+
+
+   Area is die grootheids uitdrukking van 'n tweedimensionele grootte van
+   'n gedefinieerde deel van 'n oppervlakte, tipies 'n gebied begrens deur
+   'n geslote kromme. Die term oppervlakte area verwys na die totale area
+   van die ontblote oppervlaktes in 'n driedimensionele ruimteliggaam,
+   soos die som van die areas van die ontblote kante van 'n poliëder
+   (veelvlak). Die oppervlakte, simbool: A, dui die grootte van 'n
+   2-dimensionele gebied aan. Die term oppervlakte word ook dikwels
+   gebruik om die grootte van 'n stuk grond ('n Plaas, erf of 'n land) aan
+   te dui.
+
+   Die SI-eenheid van oppervlakte is die vierkante meter, m^2. Dit is 'n
+   afgeleide eenheid van die SI-eenheid, meter.
+
+   Inhoud
+
+        * 1 Eenhede
+        * 2 Vergelykings
+        * 3 Nuttige formules
+             + 3.1 2D
+             + 3.2 3D
+        * 4 Wiskundige afleiding
+        * 5 Sien ook
+             + 5.1 Eksterne skakels
+
+[wysig] Eenhede
+
+   Die SI-eenheid van oppervlakte is die vierkante meter, m^2. Dit is 'n
+   afgeleide eenheid van die SI-eenheid, meter. (Vir 'n lys van SI-eenhede
+   sien SI-stelsel.)
+
+   CAPTION: Eenhede vir die meet van oppervlak area sluit in:
+
+   Metries VS & Britse eenhede
+   vierkante meter (m²) = SI afgeleide eenheid vierkante voet = 144
+   vierkante duim = 0.09290304 vierkante meters (m²)
+   aar (a) = 100 vierkante meters (m²) vierkante yard = 9 vierkante voet =
+   0.83612736 vierkante meters (m²)
+   hektaar (ha) = 10,000 vierkante meters (m²) vierkante roede = 30.25
+   vierkante jaart = 25.2928526 vierkante meters (m²)
+   vierkante kilometer (km²) = 1,000,000 vierkante meters (m²) akker = 160
+   vierkante roede of 4,840 vierkante jaart = 4046.8564224 vierkante
+   meters (m²)
+   vierkante megameters (Mm²) = 10^12 vierkante meters (m²) vierkante myl
+   = 640 akkers = 2.5899881103 vierkante kilometers (km²)
+
+[wysig] Vergelykings
+
+   Oppervlakte kan as volg bereken word:
+
+                \int\int dA (2D-oppervlak)
+                \int\int\int dA (3D-oppervlak),
+
+   waar daar oor die oppervlak geïntegreer word.
+
+[wysig] Nuttige formules
+
+[wysig] 2D
+
+   CAPTION: Algemene vergelykings van verskeie tweedimensionele voorwerpe:
+
+   Vorm Vergelyking Veranderlikes
+   Vierkant s^2\,\! s is die lengte van die kant van die vierkant.
+   Reëlmatige seshoek \frac{3 \sqrt{3}}{2}s^2\,\! s is die lengte van een
+   kant van die seshoek.
+   Reëlmatige aghoek 2(1+\sqrt{2})s^2\,\! s is die lengte van een kant van
+   die aghoek.
+   Enige reëlmatige poligoon (veelhoek) \frac{1}{2}a p \,\! a is die
+   kortstraal, of die radius van 'n ingeskrewe sirkel in die poligoon, en
+   p is die omtrek van die poligoon.
+   Enige reëlmatige poligoon (veelhoek) \frac{P^2/n} {4 \cdot
+   tan(\pi/n)}\,\! P is die Omtrek en n is die aantal kante.
+   Enige reëlmatige poligoon (met gebruik van graadmeting) \frac{P^2/n} {4
+   \cdot tan(180^\circ/n)}\,\! P is die Omtrek en n is die aantal kante.
+   Reghoek l \cdot w \,\! l en w is die lengtes van die reghoek se kante
+   (lengte en breedte).
+   Parallelogram (in algemeen) b \cdot h\,\! b en h is die lengte van die
+   basis en die lengte van die loodregte hoogte, onderskeidelik.
+   Rombus \frac{1}{2}ab a and b is die lengtes van die twee hoeklyne van
+   die rombus.
+   Driehoek \frac{1}{2}b \cdot h \,\! b en h is die basis and hoogte
+   (gemeet loogreg na die basis), onderskeidelik.
+   *die oppervlakte kan ook met behulp van die formule van Heron bereken
+   word.
+   Driehoek \frac{1}{2}\cdot a \cdot b \cdot sinC\,\! a en b van enige
+   twee kante, en C is die hoek tussen hulle.
+   Sirkel \pi r^2 \,\! , of \pi D^2/4 \,\! r is die radius en D die
+   diameter.
+   Ellips \pi ab \,\! a en b is die semi-hoof en semi-minor aste,
+   onderskeidelik.
+   Trapesoïed \frac{1}{2}(a+b)h \,\! a en b is die parallel kante en h die
+   afstand (hoogte) tussen die parallele.
+   Totale oppervlakte area van 'n Silinder. 2\pi r^2+2\pi r h \,\! r en h
+   is die radius en hoogte, onderskeidelik.
+   Syvlak area van 'n silinder 2 \pi r h \,\! r en h is die radius en
+   hoogte, onderskeidelik.
+   Totale oppervlakte area van 'n Konus \pi r (l + r) \,\! r en l is die
+   radius en skuinshoogte, onderskeidelik.
+   Syvlak area van 'n konus \pi r l \,\! r en l is die radius en
+   skuinshoogte, onderskeidelik.
+   Totale oppervlakte area van 'n Sfeer 4\pi r^2\,\! of \pi d^2\,\! r en d
+   is die radius en diameter, onderskeidelik.
+   Totale oppervlakte area van 'n ellipsoïdaal   Sien die artikel.
+   Sirkelvormige sektor \frac{1}{2} r^2 \theta \,\! r en θ is die radius
+   en hoek (in radiale), onderskeidelik.
+   Vierkant na sirkelvormige area omskakeling \frac{4}{\pi} A\,\! A is die
+   area van die vierkant in vierkante eenhede.
+   Sirkelvormige na vierkante area omskakeling \frac{1}{4} C\pi\,\! C is
+   die area van die sirkel in sirkeleenhede.
+
+[wysig] 3D
+
+   CAPTION: Algemene vergelykings van verskeie driedimensionele voorwerpe:
+
+   Vorm Vergelyking Veranderlikes
+   Totale oppervlakte area van 'n Kubus 6 s^2\,\! waar s die lengte is van
+   'n sy van die kubus.
+   Totale oppervlakte area van 'n Reghoekige blok 2 ((l \cdot w) + (l
+   \cdot h) + (w \cdot h))\,\! waar l, w en h onderskeidelik die lengte,
+   breedte en hoogte van die blok is.
+   Totale oppervlakte area van 'n Bol 4 \pi r^2\,\! waarin r die straal
+   van die bol is.
+   Totale oppervlakte area van 'n Silinder 2 \pi r (h + r)\,\! waar rr die
+   straal van die sirkelvormige basis is, en h die hoogte van die
+   silinder.
+   Totale oppervlakte area van 'n Kegel \pi r (r + \sqrt{(r^2 + h^2)})\,\!
+   waarin r die straal van die sirkelvormige basis is, en h die hoogte van
+   die kegel is.
+
+[wysig] Wiskundige afleiding
+
+   Deur gebruik te maak van A=\int\int dA :
+     * reghoek: \int_0^b \int_0^l 1 dA = b l (b: breedte, l: lengte)
+
+     * sirkel: \int_{-y}^y \int_{-\sqrt{R^2-y^2}}^{\sqrt{R^2-y^2}}=\pi R^2
+       . Uiteraard is dit eleganter om die sirkel polêr te beskryf en in
+       'n polêre assestelsel te integreer.
+
+[wysig] Sien ook
+
+     * Volume
+     * Sferoïde
+
+[wysig] Eksterne skakels
+
+     * Conversion cable diameter to circle cross-sectional area and vice
+       versa
+     * Area formules
+
+   Kategorieë: Meetkunde • Ruimtemeetkunde
+

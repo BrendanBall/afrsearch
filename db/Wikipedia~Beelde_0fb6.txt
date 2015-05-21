@@ -1,0 +1,165 @@
+Wikipedia:Beelde
+
+
+   In 'n neutedop: Wees versigtig om nie nie-vrye beelde op te laai nie,
+   en voeg 'n deeglike beskrywing en bron van die beeld by.
+
+   Be very careful not to upload non-free images, fully describe all
+   images' sources and copyright details on their description pages, and
+   try to make images as useful and reusable as possible.
+
+   Wikipedia bevat duisende illustrerende beelde en ander media. Hierdie
+   bladsy verskaf 'n oorsig van die gebruik van beelde in Wikipedia.
+
+   Inhoud
+
+        * 1 Beeldvoorkeure
+        * 2 Gebruik van beelde
+        * 3 Verkryging van beelde
+        * 4 Beelde onderhewig aan kopiereg
+             + 4.1 Selfgemaakte beelde
+             + 4.2 Beelde op die Internet
+        * 5 Laai van beelde
+        * 6 Keuse en plasing van beelde
+             + 6.1 Noemenswaardigheid en relevansie
+        * 7 Sien ook
+
+[wysig] Beeldvoorkeure
+
+   Ingetekende gebruikers kan die grootte van "thumbnails" verander onder
+   "Lêers" op hul voorkeure blad. Gebruikers wat nie ingeteken is nie en
+   gebruikers wat nie hul voorkeur verander het nie sien sulke beelde in
+   180px. Ingetekende gebruikers kan kies tussen groottes van 120px,
+   150px, 180px, 200px, 250px of 300px. (Sien Wikipedia:Uitgebreide
+   beeldsintaks vir meer oor hierdie waardes.)
+   Voorbeeld opskrif
+   Voorbeeld opskrif
+
+[wysig] Gebruik van beelde
+
+   Om u beelde in 'n artikel te gebruik moet u beeldsintaks gebruik. Hier
+   volg die mees basieste voorbeeld van hoe 'n beeld in 'n artikel gebruik
+   kan word.
+[[Voorbeeld.jpg|thumb|right|Voorbeeld opskrif]]
+
+   Die naam van die beeld is in hierdie geval Example.png. Die gebruik van
+   die term "thumb", plaas die beeld in 'n raampie en forseer die beeld
+   tot 'n gepaste grootte. Vervang die "Voorbeeld opskrif" met 'n gepaste
+   opskrif wat die inhoud van die beeld beskryf.
+
+   Die volle stel opsies is meer ingewikkeld (sien Wikipedia:Uitgebreide
+   beeldsintaks), maar die gegewe instruksies sal u beelde korrek laat
+   vertoon in artikels.
+
+[wysig] Verkryging van beelde
+
+   Alle beelde op Wikipedia moet voldoen aan die beleid rakende die
+   gebruik van beelde. Dit beteken dat hulle onderhewig aan die GNU
+   Algemene Publieke Lisensie moet wees [1].
+
+[wysig] Beelde onderhewig aan kopiereg
+
+   Beelde moet in besonder vry vir algemene gebruik en wysiging wees.
+   Beelde wat onderhewig is aan kopiereg moet gedek word deur 'n Exemption
+   Doctrine Policy (EDP) gedek word. Die Afrikaanse Wikipedia besit nie
+   tans 'n EDP nie en kan dus nie beelde wat onderhewig aan kopiereg is
+   aanvaar nie.
+
+[wysig] Selfgemaakte beelde
+
+   Gebruikers kan self beelde maak deur foto's te neem of met die hand te
+   skep of met beeldsagteware. Die beelde kan geskandeer word, of, in die
+   geval van digitale beelde, direk opgelaai word. Dit is steeds nodig dat
+   die gebruiker self besluit onder watter lisensie die beeld gebruik mag
+   word en dan die ooreenstemmende etiket te gebruik.
+
+[wysig] Beelde op die Internet
+
+   Die Wikimedia Commons is 'n sustersprojek van Wikipedia en bevat tans
+   oor 'n miljoen beelde en ander media-lêers wat in die publieke domein
+   is. Die voordeel van hierdie beelde is dat hulle reeds korrek
+   gelisensieerd is en dat daar direk na dié beelde geskakel kan word.
+
+   'n Uitgebreide lys van webwerwe wat vrye beelde bevat is beskikbaar by
+   Hulp:Gebruik van openbare bronne. Die webwerf Flickr het ook 'n
+   afdeling van beelde wat onder die "Creative Commons" lisensie val. Dié
+   afdeling is hier verkrygbaar.
+
+   Indien u twyfel oor die kopiereg van 'n beeld kan u altyd die eienaar
+   van die webwerf kontak: hy of sy mag miskien selfs instem om die beeld
+   onder die GDFL-lisensie vry te stel.
+
+   Let wel: Beelde wat onderhewig is aan kopiereg en nie noodsaaklik is
+   tot die duidelikheid van 'n artikel nie, mag verwyder word. Indien die
+   korrekte beeldetiket nie by 'n beeld gevoeg is nie, mag dit ook
+   genomineer word vir verwydering.
+
+[wysig] Laai van beelde
+
+   Ingetekende gebruikers kan beelde en ander media na die Afrikaanse
+   Wikipedia oplaai. Dit word aanbeveel dat vrye beelde, d.w.s. beelde wat
+   in die publieke domein is, na die Wikimedia Commons opgelaai word (u
+   sal opnuut moet registreer en inteken). Media wat op die Commons is kan
+   op dieselfde manier gebruik word as media wat direk op die
+   Wikipedia-bedieners is.
+
+   Media kan na die Afrikaanse Wikipedia opgelaai word by special:upload
+   en na die Wikimedia Commons by commons:special:upload. Wanneer 'n beeld
+   opgelaai word is dit belangrik om 'n beskrywende, dog eenvoudige en
+   unieke naam vir die beeld te kies.
+
+   Elke beeld het ook 'n beskrywingsblad. Tydens die oplaai van 'n beeld
+   word u versoek om 'n opsomming van die beeld by te voeg. Hierby behoort
+   u die bron, outeur en kopieregstatus van die beeld by te voeg, asook 'n
+   beskrywing van die inhoud van die beeld. Die gegewens sal dan op die
+   beeld se beskrywingsblad, saam met die beeld verskyn. Enige ander
+   inligting (wie, waar, wanneer, hoekom) en tegniese inligting (apparaat,
+   sagteware, ens.) kan ook van nut tot ander redigeerders en gebruikers
+   wees en dit is waarskynlik dat slegs die persoon wat die beeld oplaai
+   oor hierdie inligting beskik. Die sjabloon Beeldinligting is handig om
+   te gebruik tydens die oplaai van 'n beeld.
+
+   Indien u onseker is oor watter lisensie u vir u beelde verkies, of
+   watter lisensies tot ander beelde mag behoort, is daar 'n handige gids
+   hier beskikbaar.
+
+   Let wel: Beelde wat nie 'n geldige bron of korrekte lisensiëringsetiket
+   verskaf nie loop die risiko om geskrap te word. 'n Geldige bron is die
+   naam van die boek waarin die beeld verskyn (met die datum van
+   publikasie en outeur), die url van die internetblad waarop die beeld
+   verskyn of die persoon wat vir u die fisiese foto gegee het om in te
+   skandeer.
+
+[wysig] Keuse en plasing van beelde
+
+   Naas die basiese inligting rakende kopiereg en sintaks moet sommige
+   redigeerders ook kies uit 'n verskeidenheid beelde en die plasing
+   daarvan in artikels. Daar moet in ag geneem word dat die uitleg van
+   artikels wat beelde bevat anders vertoon op verskillende
+   skermresolusies en dat ander gebruikers die uitleg mag verander indien
+   dit nie op hul resolusie goed vertoon nie.
+
+   Artikels wat meer as een beeld gebruik moet ook 'n verskeidenheid
+   verwante teks daarnaas hê. Drie portrette van dieselfde generaal in
+   uniform sal oortollig wees in 'n artikel oor die generaal, tensy hulle
+   drasties van mekaar verskil. Verwante beelde rakende 'n die gevegte
+   waarin hy betrokke was, sal van meer nut wees tot lesers.
+
+   Beelde moet ook nie so groot wees dat hulle die aangrensende
+   artikelteks oorweldig nie.
+
+[wysig] Noemenswaardigheid en relevansie
+
+   Beelde moet relevant tot die onderwerp van die artikel wees en 'n
+   sekere vlak van noemenswaardigheid hê. Met ander woorde, alhoewel
+   tekeninge en amateur foto's wel dikwels gebruik word, word dit nie
+   aanbeveel om u graad 1 tekening van 'n voël by die artikel voël te voeg
+   nie.
+
+[wysig] Sien ook
+
+   Die lisensiëringsbeleid van die Wikimedia-stigting:
+     * Clearing up Wikimedia's media licensing policies
+     * Resolution:Licensing policy
+     * Licensing policy FAQ draft
+

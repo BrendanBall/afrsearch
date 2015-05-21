@@ -1,0 +1,79 @@
+Reaktansie
+
+
+   In die analiese van wisselstroom elektriese stroombane (soos
+   byvoorbeeld a RLC series stroombaan), is reaktansie die imaginêre deel
+   van die impedansie, wat veroorsaak word deur die teenwoordigheid van 'n
+   induktor of kapasitor in die stroombaan. Reaktansie veroorsaak 'n fase
+   skuif tussen die elektriese stroom en spanning in die stroombaan.
+   Reaktansie word deur die symbool X voorgestel en word in ohms gemeet.
+     * Waneer X > 0, word die reaktansie induktiewe reaktansie genoem,
+     * Waneer X = 0, is die stroombaan 'n suiwer weerstandskring, daar is
+       dus geen reaktansie,
+     * Waneer X < 0, word die reaktansie kapasitiewe reaktansie genoem.
+
+   Die verhouding tussen impedansie, weerstand, en reaktansie word deur
+   die volgende verhouding gegee:
+
+          Z = R + j X \,
+
+   waar
+
+          Z die impedansie in ohms is,
+          R die weerstand in ohms is,
+          X die reaktansie in ohms is, en
+          j die imaginêre eenheid \sqrt{-1} is.
+
+   Die grootheid van impedansie word bereken as:
+
+          \left | Z \right | = \sqrt {R^2 + X^2} \,
+
+   In suiwer induktiewe en kapasitiewe stroombane, vereenvoudig die
+   grootheid van die impedansie na die reaktansie.
+
+[wysig] Induktiewe reaktansie
+
+   Induktiewe reaktansie (simbool: X[L]) word veroorsaak deur die
+   elektromotoriese krag wat die stroom deur die geleier teenstaan. Die
+   elektromotoriese krag word veroorsaak deur die magnetiese veld wat deur
+   'n wisselende stroom geïnduseer word. Die grote van die induktiewe
+   reaktansie is derek eweredig aan die tempo van verandering (frekwensie)
+   van die wisselende stroom. Die induktiewe reaktansie veroorsaak ook 'n
+   fase skuif tussen die stroom en spanning in die stroombaan. Die stroom
+   sal die spanning voorloop.
+
+   Induktiewe reaktansie word bereken deur
+
+          X_L = \omega L = 2\pi f L \,\!
+
+   waar
+
+          X[L] die inductive reactance in ohms is,
+          ω die hoekfrekwensie in radiale per second is,
+          f die frekwensie in hertz is,
+          L die induktansie in henry is.
+
+[wysig] Kapasietiewe reaktansie
+
+   Kapasietiewe reaktansie (simbool: X[C]) word veroorsaak deur dat
+   elektrone nie deur 'n kapasitor kan vloei nie, maar 'n wisselende
+   stroom kan wel en hoe hoër die frekwensie hoe beter. Die kapasietiewe
+   reaktansie veroorsaak ook 'n fase skuif tussen die stroom en spanning
+   in die stroombaan. Die stroom sal die spanning naloop.
+
+   Induktiewe reaktansie word bereken deur
+
+          X_C = -\frac {1} {\omega C} = -\frac {1} {2\pi f C} \,
+
+   waar
+
+          X[C] die kapasitiewe reaktansie in ohms is,
+          ω die hoekfrekwensie in radiale per second is,
+          f die frekwensie in hertz is,
+          C die kapasitansie in farad is.
+
+[wysig] Verwysings
+
+   Hierdie artieke is uit die engelse Wikipedia vertaal.
+   Kategorie: Elektronika
+

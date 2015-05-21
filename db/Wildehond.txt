@@ -1,0 +1,92 @@
+Wildehond
+
+
+                  Wildehond
+   Bedreigd
+   Tydperk: {{{fossil_range}}}
+   'n Wildehond in die Melbourne-dieretuin.
+   'n Wildehond in die Melbourne-dieretuin.
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Canidae
+     Subfamilie:   Caninae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Lycaon
+                   Brookes, 1827
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     L. pictus
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                Binomiale naam
+                Lycaon pictus
+   (Temminck, 1820)
+               Trinomiale naam
+               {{{trinomial}}}
+                 Tipe Spesies
+              {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die wildehond.
+   Verspreiding van die wildehond.
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die wildehond (Lycaon pictus) is 'n karnivoor en soogdier uit die
+   familie Canidae. Wildehonde kom slegs in Afrika voor, veral in
+   struikvelde en ander lig beboste gebiede. Dit is die enigste spesie in
+   die genus Lycaon.
+
+   'n Volwasse wildehond het 'n gemiddelde massa van 25 kg en 'n hoogte
+   van tussen 60 en 75 cm.
+
+   Die wyfie is telkens vir twee maande dragtig en skenk dan gewoonlik in
+   die winter geboorte aan twee tot ses kleintjies. 'n Wildehond het 'n
+   moontlike lewensduur van tien jaar.
+   Twee wildehonde verskeur 'n stuk vleis.
+   Twee wildehonde verskeur 'n stuk vleis.
+
+   Wildehonde jag normaalweg in troppe: die prooi word gejag en in die
+   hardloop verskeur.
+
+[wysig] Bronnelys
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+     * McNutt, J.W., Mills, M.G.L., McCreery, K., Rasmussen, G., Robbins,
+       R. & Woodroffe, R. 2004. Lycaon pictus. In: IUCN 2007. 2007 IUCN se
+       Rooi Lys van Bedreigde Spesies. <www.iucnredlist.org>. Verkry op 14
+       Maart 2008.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Hondagtiges
+

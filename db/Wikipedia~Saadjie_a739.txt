@@ -1,0 +1,35 @@
+Wikipedia:Saadjie
+
+
+   'n Saadjie is 'n baie kort artikel, in die algemeen een paragraaf of
+   minder. Meeste saadjiebladsye dek slegs die mees eenvoudige onderwerpe
+   volledig; dit beteken wel nie dat die saadjieblad nie 'n geldige
+   artikel is nie — dit moet net uitgebrei word. Miskien kan u vanuit die
+   ooreenstemmende Engelse of Nederlandse artikels van Wikipedia 'n goeie
+   bydrae lewer aan die artikel.
+
+   Om 'n artikel te merk as 'n saadjie, voeg die volgende sjabloon
+   onderaan die artikel by:
+ {{saadjie}}
+
+   Dit sal die artikel in Kategorie:Saadjies plaas sodat dit opgespoor kan
+   word, en sal die lesers 'n aanduiding gee dat ons weet dat die artikel
+   dalk nog uitgebrei kan word. Wanneer die artikel uitgebrei is tot 'n
+   volwaardige artikel, kan die saadjie-merker natuurlik verwyder word.
+
+   Hierdie Wikipedia kan skakels na kort saadjiebladsye anders vertoon as
+   jy die Drempel vir verkorte artikels hoër as 0 maak; byvoorbeeld, 200
+   sal alle artikels korter as 200 karakters merk. Dit maak dit maklik om
+   sulke bladsye te vind en dit reg te maak deur nuwe inhoud by te voeg.
+   Sien Spesiaal:Preferences om u drempel te stel, of die hulpblad
+   (Engels) vir verdere hulp met hierdie en ander verstellings. Hierdie
+   het egter niks te make met of 'n artikel gemerk is as saadjie of nie -
+   dit gaan bloot oor die aantal karakters in die artikel.
+
+[wysig] Sien ook
+
+     * Kort bladsye
+     * Gesogte bladsye
+
+   Kategorie: Wikipedia
+

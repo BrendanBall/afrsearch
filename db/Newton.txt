@@ -1,0 +1,20 @@
+Newton
+
+
+   Newton is 'n SI afgeleide eenheid van krag(vektor). Dit is vernoem na
+   Sir Isaac Newton.
+
+[wysig] Definisie
+
+   Newton is die hoeveelheid krag wat nodig is om 'n massa van een
+   kilogram teen 'n tempo van een meter per sekonde kwadraad te versnel.
+
+          1\, \mathrm{N}=1\, \mathrm{kg} \cdot \mathrm{m} / \mathrm{s}^{2}
+
+   of
+
+          1\, \mathrm{N}=1\, \mathrm{kg} \cdot \mathrm{m} .
+          \mathrm{s}^{-2}
+
+   Kategorieë: Eenhede • Meganika
+

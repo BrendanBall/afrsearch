@@ -1,0 +1,32 @@
+GNU Algemene Publieke Lisensie
+
+
+   Die GNU Algemene Publieke Lisensie (Engels: GNU General Public Licence,
+   GNU GPL, GPL) is 'n algemeen gebruikte lisensie vir Vrye Sagteware. Dit
+   is oorspronklik geskryf deur Richard Stallman vir die GNU-projek. Die
+   nuutste weergawe, weergawe 2, is in 1991 vrygestel.
+
+[wysig] Nieamptelike vertalings
+
+   Slegs die Engelse teks van die GNU Algemene Publieke Lisensie is die
+   amptelike een, maar vertalings daarvan bestaan in verskeie tale. Daar
+   is reeds twee vertalings in Afrikaans:
+     * Renier Maritz se vertaling
+     * Samuel Murray se vertaling
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+[wysig] Sien ook
+
+     * Richard Stallman
+     * Vrye Sagteware
+     * GNU
+     * GNU/Linux (GNU + Linux)
+
+[wysig] Eksterne skakels
+
+     * Die Engelse teks van die GNU General Public License v3.0
+
+   Kategorieë: Saadjies • Rekenaar
+

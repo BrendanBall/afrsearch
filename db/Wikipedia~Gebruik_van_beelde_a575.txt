@@ -1,0 +1,335 @@
+Wikipedia:Gebruik van beelde
+
+
+   Hierdie bladsy bied 'n oorsig van die beleid rakende beelde
+   (insluitende formaat, inhoud en kopieregkwessies) op die Afrikaanse
+   Wikipedia. Enige vrae rakende die beleid kan op die besprekingsblad
+   gestel word.
+
+   Sien gerus Wikipedia:Beelde vir algemene inligting rakende beelde en
+   die gebruik daarvan.
+
+   Inhoud
+
+        * 1 Vuisreëls
+        * 2 Die oplaai van beelde
+             + 2.1 Beelde wat deur gebruikers geskep is
+             + 2.2 Vrye lisensies
+             + 2.3 Publieke domein
+        * 3 Wysiging van beelde
+        * 4 Verwydering van beelde
+        * 5 Beeld titels en lêername
+        * 6 Formaat
+        * 7 Grootte
+             + 7.1 Die opgelaaide grootte
+             + 7.2 Die vertoonde grootte
+        * 8 Inhoud
+        * 9 Beelde, beelde: beelde in 'n ry
+        * 10 Vrye en oop-bron sagteware
+        * 11 Sien ook
+
+[wysig] Vuisreëls
+
+   Onderaan hierdie lys van reëls volg 'n gedetailleerde verduideliking
+   van die redenasie agter elkeen.
+    1. Voeg altyd 'n beeldlisensiëringsetiket by enige beeld wat opgelaai
+       word. Wanneer u twyfel aan 'n beeld se lisensie moet u nie die
+       beeld oplaai nie.
+    2. Maak uitdruklike melding van die bron van die beeld, soos die
+       skandering van 'n papierkopie, die url van 'n webbladsy of die
+       naam/alias van die fotograaf en sy kontakdetails. Krediet aan die
+       fotograaf/daarsteller moet nie in die beeld self geplaas word nie.
+    3. Gebruik die beeld se beskrywingsblad om die beeld en sy inhoud te
+       beskryf. Die beeldinligtingsjabloon is handing hiervoor.
+    4. Gebruik 'n duidelike, gedetailleerde titel. Let wel: indien daar
+       reeds 'n beeld bestaan met dieselfde naam, sal dit met die nuwe
+       beeld vervang word.
+    5. Verskaf 'n hoë-resolusie weergawe van die beeld waar moontlik. Die
+       outomatiese "thumb"-funksie kan gebruik word om 'n kleiner weergawe
+       in artikels te vertoon. MediaWiki aanvaar beelde met 'n maksikmum
+       grootte van 20MB. Dit is raadsaam om nie self die beeld kleiner te
+       maak voor u dit oplaai nie, aangesien kleiner beelde beperk gebruik
+       kan word in toekomstige situasies.
+    6. Beelde kan wel geknip ("cropped") word om die relevante inligting
+       uit te lig.
+    7. Indien die beeld wat u oplaai teks bevat, word u versoek om ook 'n
+       tekslose weergawe op te laai. Sodoende kan ander Wikipediane die
+       beeld na ander tale vertaal.
+    8. Neem in ag dat beelde wat slegs kleur gebruik om inligting weer te
+       gee van geen nut is in sommige omstandighede nie. (Swart-en-wit
+       fotostate, kleurblinde gebruikers, ens.)
+    9. Gebruik die "jpeg"-formaat vir fotografiese beelde; die
+       "svg"-formaat vir ikone, kentekens, tekeninge, kaarte, vlae ens.;
+       die "png"-formaat vir beelde wat slegs in rastervorm beskikbaar is;
+       die "gif"-formaat vir inlynanimasies en die "ogg"-formaat vir
+       video. Moenie Windows se "bmp"-formaat gebruik nie: dié beelde is
+       nie saamgepers nie en neem te veel spasie in beslag.
+   10. Verskaf 'n goeie alternatiewe teksbeskrywing vir u beeld wanneer
+       dit in 'n artikel gebruik word.
+   11. Oor die algemeen is die aanvaarbaar om slegs "thumb" te gebruik om
+       grootte aan te dui: gebruikers kan hulle ideale
+       duimnaelsketsgrootte kies by hul voorkeure.
+   12. Moenie skokkende of eksplisiete beelde gebruik in 'n artikel nie,
+       tensy hulle goedgekeur is deur 'n konsensus van gebruikers vir 'n
+       spesifieke artikel.
+
+[wysig] Die oplaai van beelde
+
+   Wanneer u 'n beeld oplaai, moet u seker maak dat u aan een van die
+   volgende vereistes voldoen:
+     * U besit die kopieregte van die beeld (beteken gewoonlik dat u die
+       beeld self geskep het).
+     * U kan bewys dat die kopiereghour die beeld onder 'n aanvaarbare
+       vrye lisensie vrygestel het.
+     * U kan bewys dat die beeld in die publieke domein is.
+
+   Beelde wat gebruik kan word slegs vir nie-kommersiële gebruik, met
+   toestemming slegs vir Wikipedia, of waaraan daar geen wysigings
+   aangebring mag word nie is nie geskik vir Wikipedia nie en sal summier
+   verwyder word.
+
+   Maak altyd melding van die beeld se kopieregstatus op die beeld se
+   beskrywingsblad deur gebruik te maak van een van die beskikbare
+   beeldlisensiëringsetikette en verskaf spesifieke details rakende die
+   beeld se afkoms. Beeldinligting en 'n lisensiëringsetiket word vereis
+   vir alle beelde. Die beeld se lisensiëringsetiket verskaf die
+   standaardsjabloon vir beelde met 'n spesifieke lisensie. Die
+   beeldinligting bevat die nodige details wat die gebruik van die
+   lisensiëringsetiket ondersteun. Inligting rakende die beeld bevat alle
+   of sommige van die volgende inligting:
+   Beskrywing: Die inhoud en onderwerp van die beeld, asook die ligging
+   van die toneel in die beeld, waar toepaslik (bv. Pietersburg,
+   Suid-Afrika).
+   Bron: Die kopiereghouer wat die beeld aan u verskaf het, die boek
+   waaruit dit geskandeer is of die URL van die webbladsy waarvan die
+   beeld afkomstig is.
+   Date: Die datum waarop die beeld geskep is. Hoe meer presies, hoe
+   beter.
+   Outeur: Die persoon wat die beeld geskep het, veral indien dit van die
+   kopiereghouer verskil.
+   Toestemming: Watter persoon/instansie/reg gee u die toestemming om
+   hierdie beeld na Wikipedia op te laai. Hierdie persoon is ook die
+   persoon wat die beeld onder die gegewe lisensie vrygestel het.
+   Ander weergawes van dieselfde lêer: Verskaf skakels van gewysigde
+   weergawes van dieselfde beeld, indien die bestaan.
+   Voorbeelde:
+     * Beelde in die puublieke domein - Beeld:Leon Schuster2.jpg
+     * Beelde waar die oplaaier nie die outeur is nie -
+       Beeld:Bruinkopvisvanger.jpg
+     * 'n Beeld wat deur 'n gebruiker geskep is - Beeld:Agulhas2kl.jpg.
+
+   Let wel: dit word sterk aangeraai om beelde eerder na die Wikimedia
+   Commons op te laai. Sodoende is dit direk beskikbaar aan die Afrikaanse
+   Wikipedia, asook 'n aantal ander projekte wat deur die
+   Wikimedia-stigting ondersteun word.
+
+[wysig] Beelde wat deur gebruikers geskep is
+
+   Wikipedia moedig gebruikers aan om hulle eie beelde op te laai, maar
+   enige en alle sulke beelde moet onder 'n aanvaarbare lisensie opgelaai
+   word, soos die GNU-Vrye Dokumentlisensie ("GFDL"), die Creative
+   Commons-lisensie, of dit moet in die publieke domein vrygestel wees. U
+   kan ook 'n kombinasie van die GFDL- en Creative Commons-lisensie
+   gebruik.
+
+   Beelde wat deur u geskep is sluit in foto's wat u self geneem het,
+   tekeninge of diagramma wat u self geskep het en enige ander werke wat
+   deur u geskep is. Let wel dat die presiese oortekening van 'n beeld of
+   diagram wat onderhewig is aan kopiereg, nie noodwendig 'n nuwe kopiereg
+   skep nie - kopiereg word slegs opgewek deur instansies van kreatiwiteit
+   en nie deur die hoeveelheid werk wat u verrig het om die beeld te
+   (her)skep nie. Foto's van drie-dimensionele skep amper altyd 'n nuwe
+   kopiereg, alhoewel dit gewoonlik nie die geval is met foto's van
+   twee-dimensionele werke (soos skilderye in 'n museum) nie.
+
+   Beelde waarin u, u vriende of familie opvallend vertoon in 'n manier
+   wat die aandag van die onderwerp van die beeld aflei word nie aanbeveel
+   vir die hoofnaamspasie nie (gebruikersbladsye word wel toegelaat).
+   Sulke beelde word beskou as selfbevordering en kan vir verwydering
+   genomineer word.
+
+   Beelde wat deur gebruikers geskep is mag ook nie watermerke of
+   bronvermelding op die beeld self bevat nie, of enige iets anders wat
+   die vrye gebruik daarvan kan beperk. 'n Uitsondering is natuurlik in
+   geval die beeld bedoel is om 'n watermerk ten toon te stel, vir gebruik
+   in 'n verwante artikel. Alle bronvermelding moet in die beeldinligting
+   op die beeld se beskrywingsblad ingesluit word.
+
+[wysig] Vrye lisensies
+
+   Sien gerus Wikipedia:Kopieregetikette vir beelde vir 'n lys van
+   lisensies wat as "vry genoeg" beskou word vir gebruik in Wikipedia.
+   Lisensies wat die gebruik van media slegs vir opvoedkundige en nie
+   winsgewendes doeleindes beskikbaar stel (b.v. slegs nie-kommersiële
+   gebruik), of wat toestemming gee vir die beelde om slegs in Wikipedia
+   te verksyn, is nie vry genoeg vir die gebruike en doeleindes van
+   Wikipedia nie en sal verwyder word [1]. Sien gerus Hulp:Gebruik van
+   openbare bronne vir webwerwe waar vrye beelde verkry kan word. Media in
+   Wikipedia moet net so "vry" wees as die inhoud van die ensiklopedie,
+   sodoende word Wikipedia se wettige status beskerm en word daar die
+   minimum beperkings geplaas op die hergebruik van die inhoud van die
+   ensiklopedie.
+
+[wysig] Publieke domein
+
+   Volgens die kopieregwette van die Verenigde State van Amerika (waar die
+   bedeniers van Wikipedia gehuisves word), is alle beelde wat voor 1
+   Januarie 1923 in die Verenigde State gepubliseer is, nou in die
+   publieke domein. Dit is egter nie van toepassing op beelde wat geskep
+   is voor 1923, maar eers in 1923 of later gepubliseer is nie. Dié
+   grensjaar sal nie verander voor 2019 nie.
+
+   Aangesien Wikipedia-bladsye tans op 'n bediener in die Verenigde State
+   gehuisves is, is die Amerikaanse kopieregwette van belang.
+
+   Indien u van mening is dat 'n beeld moontlik 'n kopieregskending is, of
+   wanneer die kopieregstatus nie weergegee word op die beeld se
+   beskrywingsblad nie of u het die beeld elders vergesel van 'n
+   kopieregaankonding gesien, moet u die beeld vir verwydering lys.
+
+   Neem ook kennis dat, in die Verenigde State, ander weergawes van
+   twee-dimensionele kunswerke wat reeds in die publieke domein is nie
+   nuwe kopiereg opwek nie — byvoorbeeld, 'n loodregte foto van die "Mona
+   Lisa" is nie aan kopiereg onderhewe nie (sien en:Bridgeman v. Corel).
+   Skanderings van uitsluitlik publieke domein-beelde skep nie nuwe
+   kopieregte nie — hulle erf slegs die kopieregstatus van die beeld wat
+   weergegee word. Dit is egter nie die geval volgens die kopieregwette
+   van sommige ander lande nie, soos die Verenigde Koninkryk.
+
+[wysig] Wysiging van beelde
+
+   Indien u 'n reedsbestaande beeld wil vervang met 'n gewysigde weergawe,
+   hoef u slegs die nuwe weergawe onder dieselfde naam op te laai: dit sal
+   die oorspronklike beeld outomaties vervang.
+
+   Indien u 'n beeld oplaai met dieselfde naam, maar 'n verskillende
+   formaat, word dit as twee verskillende lêername gesien en sal elkeen sy
+   eie beeldbeskrywingsblad hê.
+
+[wysig] Verwydering van beelde
+
+    1. Kontak die oplaaier van die beeld op sy besprekingsblad en lug u
+       besware rakende die beeld. Dit is moontlik dat u probleme met die
+       beeld opgelos kan word sonder dat die verwyder word.
+    2. Nomineer die beeld vir verwydering en plaas die {{skrap}}-sjabloon
+       op die beeld se beskrywingsblad.
+    3. Voeg die sjabloon Sjabloon:Verwyder beeldopskrif by die beeld se
+       opskrif in enige artikels waar die beeld gebruik word.
+
+   Slegs adminstrateurs kan beelde fisies verwyder. Beelde wat verwyder is
+   kan ook deur hulle herstel word.
+
+[wysig] Beeld titels en lêername
+
+   Beskrywende lêername is nuttig. 'n Kaart van Afrika mag wel getiteld
+   wees "Afrika.png", maar dit is waarskynlik dat meerdere kaarte van
+   Afrika gebruik kan word, dus is 'n spesifieke naam, bv. "Afrika
+   politiese kaart.1960.png" of "Afrika politiese kaart met rooi
+   grense.png", 'n goeie idee. Voor u 'n beeld oplaai is dit 'n goeie idee
+   om te kyk of soortgelyke beelde nie reeds bestaan by die Wikimedia
+   Commons nie. Vermy spesiale karakters of ellelange lêername, aangesien
+   dit ander gebruikers kan verhinder om die lêers na hulle rekenenaars af
+   te laai. Let daarop dat lêernaams sensitief is vir hoof- en
+   kleinletters: "Afrika.png" word as 'n ander lêer as "Afrika.PNG"
+   beskou. Dit word aanbeveel om die formaat van 'n lêer (.png, .jpg) in
+   kleinletters aan te gee.
+
+   Daar is tans nie 'n maklike manier om 'n beeld te hernoem nie: hulle
+   kan nie geskuif word soos artikels nie.
+
+[wysig] Formaat
+
+     * Tekeninge, ikone, politieke kaarte, vlae ens. moet verkieslik in
+       die "svg"-formaat opgelaai word. Beelde met groot, eenvoudige en
+       opvolgende kleurblokke, wat nie as SVG beskikbaar is nie, moet
+       verkieslik in die "png"-formaat wees.
+     * Foto's en beelde met foto-agtige kleurdieptes moet verkieslik in
+       die "jpg"-formaat wees.
+     * Inlynanimasies moet verkieslik in die "gif"-formaat wees.
+     * Video's moet verkieslik in die "Ogg"-/"Theora"-formaat wees.
+
+   Wanneer u 'n beeld het wat nie in die korrekte formaat is nie, word dit
+   verkies dat u dit na die korrekte formaat omsit voor u dit oplaai, mits
+   dit nie afbreek maak aan die oorspronklike kwaliteit van die beeld nie.
+
+[wysig] Grootte
+
+[wysig] Die opgelaaide grootte
+
+   Opgelaaide lêers moet kleiner as 20MB wees. Die MediaWiki-sagteware wat
+   Wikipedia gebruik kan outomaties die beeldgrootte van beelde verander,
+   dus hoef u dit nie te doen nie. Deur die hoogste moontlike resolusie
+   van 'n beeld op te laai, help u om te verseker dat die inhoud van
+   Wikipedia so veel moontlik hergebruik kan word, ook as 'n bron vir
+   gedrukte media. U kan beeldsintaks gebruik om die grootte van beelde
+   binne-in artikels en ander bladsye te verander.
+
+[wysig] Die vertoonde grootte
+
+   Indien u verkies om 'n foto in 'n artikel te plaas, hoef u oor die
+   algemeen slegs van die "thumbnail"-funksie gebruik te maak (Sien
+   Wikipedia:Uitgebreide beeldsintaks). Die resultaat is 'n beeld van 180
+   pixels wyd, tensy die gebruiker sy voorkeurinstelling verander het.
+
+   Geanimeerde GIF-lêers kan soms probleme skep wanneer 'n
+   duimnaelsketsgrootte weergegee word. Sulke geanimeerde leêrs moet ook
+   met sorg by artikels gevoeg word - maak seker dat die lêer baie klein
+   is, sodat gebruikers nie jare hoef te wag om dit af te laai nie.
+
+[wysig] Inhoud
+
+   Beelde moet hul inhoud goed vertoon, m.a.w. die onderwerp moet duidelik
+   en gesentreerd wees.
+
+[wysig] Beelde, beelde: beelde in 'n ry
+
+   Artikels word lelik en moeilik om te lees indien daar te veel beelde
+   ingedruk word met relatief min teks. In sommige situasies kan die
+   beelde selfs oorkruis.
+
+   Dit is dus 'n goeie idee om 'n balans te tref tussen die hoeveelheid
+   beelde en die hoeveelheid teks: indien daar te veel beelde is, kan u
+   die onbelangrikste beeld(e) tydelik op die artikel se besprekingsblad
+   plaas, tot tyd en wyl daar weer genoeg teks is om die beeld te
+   ondersteun.
+
+   Indien 'n ander redigeerder voel dat die beeld egter 'n belangrike rol
+   speel in die duidelikheid van die artikel, ten spyte van die tekort aan
+   teks, moet hy of sy probeer om die beeld op so 'n manier terug te plaas
+   sodat die oorspronklike probleem steeds opgelos word. Dit kan gedoen
+   word deur
+     * die beeldgrootte in die beeldsintaks te verander of
+     * die <gallery>-funksie te gebruik.
+
+[wysig] Vrye en oop-bron sagteware
+
+   Die volgende sagteware word deur ander Wikipedia aanbeveel vir die
+   wysiging en skepping van beelde.
+     * GIMP: http://www.gimp.org/ — Rasterbeeldwysiger. (Linux, Microsoft
+       Windows, Mac OS X)
+     * Inkscape: http://www.inkscape.org/ — SVG-beelde (Linux, Microsoft
+       Windows, Mac OS X)
+     * ImageMagick http://www.imagemagick.org/ — Beeldformaat omsetting
+       (Linux, Microsoft Windows, Mac OS X)
+     * GraphicsMagick: http://www.graphicsmagick.org/ — (Linux, Microsoft
+       Windows, Mac OS X)
+     * Paint.NET: http://www.eecs.wsu.edu/paint.net/ — (Microsoft Windows)
+     * Cinelerra: http://heroinewarrior.com/cinelerra.php3 — Nie-liniêre
+       videosagteware. (Linux)
+     * Audacity: http://audacity.sourceforge.net/ — Algemene klankwysiger.
+       (Linux, Microsoft Windows, Mac OS X)
+     * Ardour: http://ardour.org — Multiknaal digitale oudiowerkstasie.
+       (Linux, Mac OS X)
+
+[wysig] Sien ook
+
+     * Hoe om multimedia vanaf die Commons te gebruik
+     * Wikipedia:Beelde
+     * Wikipedia:Uitgebreide beeldsintaks
+     * Hulp:Gebruik van openbare bronne
+     * Kopiereg
+     * Wikipedia:Mediahulp
+     * Kopiereg
+
+   Kategorie: Wikipedia
+

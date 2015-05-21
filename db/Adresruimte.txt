@@ -1,0 +1,41 @@
+Adresruimte
+
+
+   In rekenaarwetenskap definieer 'n adresruimte 'n reeks diskrete adresse
+   waarvan elkeen kan ooreenstem met 'n fisiese of virtuele
+   geheue-register, 'n netwerknodus, randtoestel, skyfsektor of ander
+   logiese of fisiese eenheid.
+
+   'n Geheue-adres identifiseer 'n fisiese ligging in rekenaargeheue,
+   soortgelyk aan 'n straatadres in 'n dorp. Die adres dui die ligging aan
+   waar die data gestoor is, net soos 'n straatadres 'n spesifieke
+   woonhuis in 'n woonbuurt aandui.
+
+   Voorbeelde van adresruimtes:
+     * Huisnommers in 'n straat
+     * Hoofgeheue (fisiese geheue)
+     * Virtuele geheue
+     * Toevoer/afvoer-poortruimte
+     * Rekenaarnetwerk
+          + IP-adres in besonder
+     * Die silinder-kop-sektor skema vir hardeskywe
+
+   Spesifieke voorbeeld van toepassing op die Linux-bedryfstelselkern
+     * Kernruimte
+     * Gebruikersruimte waar die kern deur middel van funksies soos
+       copy_to_user(), copy_from_user() en soortgelyke funksies toegang
+       verkry.
+     * Toevoer/afvoergeheue waar die kern deur middel van funksies soos
+       readb(), writel(), memcpy_toio() ensovoorts toegang verkry.
+
+[wysig] Adressvertaling
+
+   Oor die algemeen sal een adresruimte fisies verskil van 'n ander
+   ligging in geheue. Dit gebeur egter soms dat adresruimtes oorvleuel.
+   Wanneer adresruimtes oorvleuel is vertaling nodig. Virtuele tot fisiese
+   adresruimte vertaling is byvoorbeeld nodig om die adresse in virtuele
+   geheue te vertaal na die fisiese adresruimte -- een fisiese adres en
+   een of meer virtuele adresse kan almal na dieselfde fisiese greep in
+   RAM verwys.
+   Kategorie: Rekenaarwetenskap
+

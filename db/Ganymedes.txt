@@ -1,0 +1,46 @@
+Ganymedes
+
+
+   CAPTION: Ganymedes
+
+      True color image taken by the Galileo probe
+                         Ontdek
+   Ontdek deur         G. Galilei
+                       S. Marius
+   Ontdek in           Januarie 11, 1610
+                    Wenteleienskappe
+   Gemiddelde radius   1,070,400 km (0.007155 AU)
+   Eksentrisiteit      0.0011
+   Rotasieperiode      7.15455296 d (0.019588 a)
+   Is 'n satelliet van Jupiter
+                   Fisiese eienskappe
+   Ewenaarsdeursnit    5262.4 km (0.413 van die aarde)
+   Oppervlak           87 million km²
+                       (0.171 van die aarde)
+   Massa               1.4819×10^23 kg
+                       (0.025 van die aarde)
+   Gemiddelde digtheid 1.942 g/cm^3
+   Oppervlak-
+   aantrekkingskrag    1.428 m/s^2 (0.146 g)
+   Escape velocity     2.741 km/s
+
+   min  mean  max
+   K   ~109 K K
+                 Atmosferiese einskappe
+   Atmosferiese druk   tekens
+   Suurstof            100%
+
+   Ganymedes (gan'-ə-meed-əs; Grieks Γανυμήδης) is die grootste maan van
+   die planeet Jupiter, en ook die grootse maan in die sonnestelsel.
+   Ganymese is ook groter as die planeet Merkurius, maar sy massa is nie
+   so groot soos Merkurius nie (net 50%). Ganymedes is die enigste maan
+   wat sigbaar sonder 'n teleskoop is, maar net in baie goeie en donker
+   situasie.
+
+   Dis moontlik dat Ganymedes ontdek word in 364 v.C. van die Sjinees
+   sterrekundige Gan De. Egter, die ontdek van die maan is gewoonlik na
+   Galileo Galilei gegee, die sterrekundige wat het in 1610 sy bestaan
+   geregistreer. Ganymede is die enigste maan van Jupiter wat 'n manlik
+   naam het.
+   Kategorie: Hemelliggame
+

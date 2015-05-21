@@ -1,0 +1,109 @@
+Soetdoring
+
+
+                  Soetdoring
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae
+    Subkoninkryk:  Tracheobionta
+    Superdivisie:  Spermatophyta
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magnoliophyta
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Magnoliopsida
+      Subklas:     Rosidae
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Fabales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Fabaceae
+     Subfamilie:   Mimosoideae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Acacia
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. karroo
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                Binomiale naam
+                Acacia karroo
+   Hayne
+               Trinomiale naam
+               {{{trinomial}}}
+                 Tipe Spesies
+              {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die Soetdoring
+   Verspreiding van die Soetdoring
+                  Sinonieme
+
+                                Sien artikel
+
+   Soetdoring (Acacia karroo) is 'n immergroen boom wat kan groei tot 'n
+   hoogte van vyftien meter. Die bas kleur is rooi-bruin tot swart. Die
+   boom het dubbel-veervormige, saamgestelde blare.
+
+   Die goud-geel blommetjies van 10 tot 13mm kom voor in die vroeë-somer,
+   en versprei 'n soet reuk. Die vrugte van die boom is bruin, plat
+   sekelvormige peule wat oop breek om die sade te versprei. Die lang
+   reguit dorings kom in paare voor en is grys tot wit van kleur.
+
+   Die boom groei vinnig, tot soveel as een meter per jaar, is ryp en
+   droogte bestand en het 'n lewensverwagting van 30 tot 40 jaar.
+
+   Die Soetdoring is inheems tot Suid-Afrika, maar is ook versprei in
+   Australië waar dit beskou word as 'n onkruid.
+
+   In die verlede was die gom van die boom gebruik vir lekkergoed.
+
+   Inhoud
+
+        * 1 Sinonieme
+        * 2 Ander name
+        * 3 Galery
+        * 4 Sien ook
+
+[wysig] Sinonieme
+
+     * Acacia campbellii Arn.
+     * Acacia dekindtiana A. Chev.
+     * Acacia eburnea sensu auct.
+     * Acacia horrida sensu auct.
+     * Acacia inconflagrabilis Gerstner
+     * Acacia karoo Hayne
+     * Acacia minutifolia Ragup.
+     * Acacia natalitia E. Mey.
+     * Acacia pseudowightii Thoth.
+     * Acacia roxburghii Wight & Arn.
+     * Mimosa eburnea L. f.^[1]
+
+[wysig] Ander name
+
+     * Engelse naam: Sweet thorn
+     * Zoeloe naam: umuNga
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse bome
+
+   Kategorie: Bome van Afrika
+

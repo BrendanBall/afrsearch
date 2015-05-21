@@ -1,0 +1,98 @@
+Pitta
+
+
+                        Pittas
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Pitta brachyura
+   Pitta brachyura
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Pittidae
+                   Swainson, 1831
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pitta
+                   Vieillot, 1816
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+[wysig] Spesies
+
+     * Pitta phayrei
+     * Pitta nipalensis
+     * Pitta soror
+     * Pitta oatesi
+     * Pitta schneideri
+     * Pitta caerulea
+     * Pitta cyanea
+     * Pitta guajana
+     * Pitta elliotii
+     * Pitta gurneyi
+     * Pitta baudii
+     * Pitta sordida
+     * Pitta maxima
+     * Pitta superba
+     * Pitta steerii
+     * Pitta kochi
+     * Pitta erythrogaster
+     * Pitta dohertyi
+     * Pitta arcuata
+     * Pitta granatina
+     * Pitta ussheri
+     * Pitta venusta
+     * Angolapitta, Pitta angolensis
+     * Pitta reichenowi
+     * Pitta brachyura
+     * Pitta nympha
+     * Pitta moluccensis
+     * Pitta megarhyncha
+     * Pitta elegans
+     * Pitta versicolor
+     * Pitta anerythra
+     * Pitta iris
+
+   Kategorie: Pittas
+

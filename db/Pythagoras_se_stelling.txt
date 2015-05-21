@@ -1,0 +1,47 @@
+Pythagoras se stelling
+
+
+   Pythagoras se Stelling: Die som van die oppervlak van die twee
+   vierkante op die sye a en b is gelyk aan die vierkant op die skuinssy
+   c.
+   Pythagoras se Stelling: Die som van die oppervlak van die twee
+   vierkante op die sye a en b is gelyk aan die vierkant op die skuinssy
+   c.
+
+   Pythagoras se Stelling is 'n wiskundige stelling wat vernoem is na die
+   Griekse wiskundige, Pythagoras. Volgens tradisie het Pythagoras die
+   stelling ontdek en bewys,^[1] maar die stelling se resultaat was voor
+   Pythagoras se ontdekking aan verskeie antieke bevolkings bekend,
+   waaronder die Egiptenare en die Indiërs.
+
+   Die stelling is as volg:
+
+     In enige reghoekige driehoek is die kwadraat van die lengte van die
+     skuinssy gelyk aan die som van die kwadrate van die lengtes van die
+     reghoekige sye.
+
+   Dit wil sê, gestel daar is 'n reghoekige driehoek met 'n skuinssy met
+   'n lengte van c en twee reghoekige sye met die lengtes a en b, dan kan
+   die stelling in as die volgende vergelyking uitgedruk word:
+
+          a^2 + b^2 = c^2\,
+
+   Of, om c op te los:
+
+          c = \sqrt{a^2 + b^2}. \,
+
+   Hierdie vergelyking bied 'n maklike manier om die onbekende lengte van
+   'n sy van 'n reghoekige driehoek uit te werk, mits die ander twee reeds
+   bekend is.
+
+[wysig] Verwysings
+
+    1. ^ Heath, Sir Thomas. A History of Greek Mathematics (2 Vols.),
+       Clarendon Press, Oxford (1921), Dover Publications, Inc. (1981),
+       ISBN 0-486-24073-8. Vol 1, bl, 144.
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorieë: Wiskunde saadjies • Meetkunde
+

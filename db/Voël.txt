@@ -1,0 +1,252 @@
+Voël
+
+
+                        Voëls
+   {{{status}}}
+   Tydperk: Laat-Jura - Huidiglik
+   Platalea leucorodia, Lepelaar
+   Platalea leucorodia, Lepelaar
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    Vertebrata
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+                   Linnaeus, 1758
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      {{{ordo}}}
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Ordes
+
+                                  Verskeie
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Voëls (klas Aves) is tweevoetige, warmbloedige, eierlêende, gewerwelde
+   (Latyns: vertebrata) diere, wat hoofsaaklik gekenmerk word deur vere en
+   voorste ledemate wat vlerke genoem word, asook bene wat hol van binne
+   is. Voëls het geëvolueer van theropoda dinosourusse tydens die
+   Juratydperk en die eerste bekende voël is die Laat-Jurassiese
+   Archaeopteryx. Voëls verskil in grootte van klein swaeltjies tot groot
+   voëls soos volstruise en emoes. Daar is tussen 9000 en 10 000 bekende
+   voëlspesies in die wêreld en die klas Aves is dus die mees diverse klas
+   van gewerwelde landbewoners.
+
+   Moderne voëls word gekarakteriseer deur vere, 'n bek of snawel sonder
+   tande, die lê van eiers met harde doppe, 'n vinnige metabolisme, 'n
+   hart met vier kamers en 'n ligte dog sterk skelet. Die meeste voëls het
+   voorste ledemate wat as vlerke aangepas is en kan dus vlieg, alhoewel
+   loopvoëls en verskeie ander, veral endemiese eilandspesies, nie daartoe
+   instaat is nie.
+
+   Baie voëlspesies onderneem jaarlikse langafstand migrasies en veel meer
+   voer korter, meer onreëlmatige bewegings uit. Voëls is sosiale diere en
+   kommunikeer deur visuele tekens en deur middel van roepe en sang. Ander
+   sosiale gedrag sluit ook in gemeenskaplike jag, broei en vlug. Voëls is
+   hoofsaaklik sosiaal monogaam, maar dit kom in sommige spesies voor dat
+   voëls met ander voëls buiten dan hul maats ook paar; in ander spesies
+   is totale poliandrie of poligamie weer aan die orde van die dag. Eiers
+   word gewoonlik in 'n nes gelê en op gebroei en meeste voëls het 'n
+   uitgestrekte periode van ouersorg na hulle uitgebroei het.
+
+   Voëls is op verskillende wyses van nut tot die mens: die meeste is
+   belangrike bronne van voedsel en word gewoonlik gejag of geteel en dan
+   kommersiëel beskikbaar gestel. Sommige spesies, veral sangvoëls en
+   papegaaie, is gewild as troeteldiere. Voëls is ook teenwoordig in alle
+   aspekte van menslike kultuur, van geloof tot musiek. Ongeveer 120-130
+   voëlspesies het sedert 1600 uitgesterf as gevolg van menslike
+   aktiwiteite en honderde meer vóór dié tyd. Daar is tans talle
+   voëlspesies wat bedreig word deur uitsterwing as gevolg van menslike
+   aktiwiteite en pogings word aangewend om hulle te beskerm.
+
+   Inhoud
+
+        * 1 Evolusie en klassifisering
+             + 1.1 Dinosourusse en die oorsprong van voëls
+             + 1.2 Klassifisering van moderne voëls
+        * 2 Verwysings
+        * 3 Sien ook
+
+[wysig] Evolusie en klassifisering
+
+   Archaeopteryx, die eerste bekende voël.
+   Archaeopteryx, die eerste bekende voël.
+
+   Die eerste klassifiseringstelsel vir voëls was ontwikkel deur Francis
+   Willughby en John Ray in hulle 1676 uitgawe, Ornithologiae.^[1]Hulle
+   werk, ietwat aangepas, vorm die basis vir die huidige
+   klassifiseringstelsel wat oorspronklik deur Carolus Linnaeus in 1758
+   uitgewerk is.^[2]
+
+   Voëls word gekategoriseer as die klas Aves in wetenskaplike
+   klassifikasie. Filogenetiese klassifikasie plaas voëls in die
+   dinosourusklade Theropoda. Volgens huidige konsensus vorm Aves en 'n
+   sustergroep, die orde Crocodilia, saam die laaste oorlewende lede van
+   die reptielklade Archosauria. Filogeneties word Aves oor die algemeen
+   gedefinieër as afstammelinge van die mees onlangste gemeenskaplike
+   voorvader van moderne voëls en Archaeopteryx lithographica^[3]
+   Archaeopteryx is afkomstig van die laat-Juratydperk (ongeveer
+   155-150 miljoen jaar gelede) en is dan ook die eerste bekende voël
+   bekend onder hierdie definisie. Ander klassifikasies sluit slegs
+   moderne voëlgroepe in en sluit die meeste groepe wat slegs deur
+   fossiele bekend is uit.^[4] Een van die redes hiervoor is om die
+   onsekerhede aangaande die plasing van Archaeopteryx in verhouding met
+   diere wat tradisioneel as therapod-dinosourusse bekend staan te vermy.
+
+   Moderne voëls word in twee superorders gedeel: die Paleognathae
+   (meestal voëls wat nie kan vlieg nie, soos volstruise) en die uiters
+   diverse Neognathae, wat al die ander voëls bevat. Afhangende van die
+   klassifikasiestelsel wat gebruik word, is daar enige iets van 8800 tot
+   10 200 bekende voëlspesies wat tans nog bestaan.
+
+[wysig] Dinosourusse en die oorsprong van voëls
+
+   'n Voorstelling van Confuciusornis, 'n voël uit Sjina tydens die
+   Kryttydperk.
+   'n Voorstelling van Confuciusornis, 'n voël uit Sjina tydens die
+   Kryttydperk.
+
+   Daar is bewyse dat voëls ontwikkel het van Theropoda-dinosourusse en
+   meer spesifiek: dat voëls lede is van Maniraptora, 'n groep
+   Therapoda-dinosouruuse wat ook die Dromaeosauridae- en die
+   Oviraptoridae-families insluit.^[5] Soos meer en meer nie voël-agtige
+   Therapoda-dinosourusse ontdek word wat steeds nou aan voëls verwant is,
+   word die eens duidelike onderskeiding tussen voëls en ander diere
+   minder duidelik. Onlangse ontdekkings in die Liaoning provinsie in
+   Noord-oos Sjina het onthul dat baie klein Therapoda-dinosourusse vere
+   gehad het, wat tot hierdie onduidelikheid bydra.^[6]
+
+   Die vroeë voël, Archaeopteryx, van die Juratydperk, is bekend as een
+   van die eerste "verlore skakels" van die laat-19de eeu wat die teorie
+   van evolusie ondersteun het, selfs al word Archaeopteryx nie as 'n
+   direkte voorvader van moderne voëls beskou nie. 'n Ander vroeë voël is
+   Confuciusornis, van die vroeë Kryttydperk. Dit is moontlik dat beide
+   hierdie voëls voorafgegaan is deur Protoavis texensis, alhoewel die
+   fossiel wat die naam dra so gedeeltelik is, dat daar aansienlike twyfel
+   bestaan of die fossiel wél aan 'n voëlagtige dier behoort. Ander
+   Mesosoïese voëls sluit die Enantiornithes, Yanornis, Ichthyornis,
+   Gansus en die Hesperornithiformes in: 'n groep lopende duikvoëls wat
+   amper soos dobbertjies en seeduikers lyk.
+   Die skelet van 'n duif toon 'n duidelike verlenging van die borsbeen,
+   waaraan die vlerkspiere geanker word
+   Die skelet van 'n duif toon 'n duidelike verlenging van die borsbeen,
+   waaraan die vlerkspiere geanker word
+
+   Die Cryptovolans en Microraptor van die Dromaeosauridae-familie mag
+   miskien tot aangedrewe vlug in staat gewees het, min of meer tot
+   dieselfde mate as Archaeopteryx. Cryptovolans het eienskappe besit wat
+   ook by moderne voëls voorkom: sy borsbeen was verleng teen 'n hoek met
+   die middellyn van die borsbeen en na buite gerig, loodreg op die
+   ribbekas. Hierdie verlenging dien as 'n anker waaraan moderne voëls se
+   vlerkspiere geheg is, sodoende het die voëls voldoende hefkrag vir
+   vlug. Cryptovolans se rugstring blyk ook buigsaam te wees, net soos by
+   moderne voëls die geval is, om te voorkom dat die werwels nie tydens
+   vlug uitgly nie. As gevolg van hierdie eienskappe is Cryptovolans
+   eintlik selfs 'n beter "voël" as Archaeopteryx, aangesien laasgenoemde
+   nié hierdie eienskappe besit nie. As gevolg van hierdie eienskappe het
+   sommige paleontoloë voorgestel dat lede van die Dromaeosauridae-familie
+   in werklikheid basale ("basis") voëls is en dat die groter lede van die
+   familie op 'n tyd kon vlieg, maar dat latere vorms nie daartoe in staat
+   was nie. Met ander woorde, dat voëls nie van die
+   Dromaeosauridae-familie afstam nie, maar dat die
+   Dromaeosauridae-familie van voëls afstam. Die bewyse vir hierdie teorie
+   is op tans onvoldoende, aangesien die presiese verhouding tussen die
+   mees gevorderdste lede van Maniroptira en die primitiefste egte voëls
+   steeds nie goed begryp word nie.
+
+   Sommige dinosourusse, wat bekend staan as Ornithischia, het voëlagtige
+   heupbene, maar voëls het ontwikkel uit Saurischia-dinosourusse wat
+   reptielagtige heupbene het. Dit bewys dat voëls hul heupstruktuur
+   onafhanklik ontwikkel het. Die voëlagtige heupstruktuur het selfs 'n
+   derde keer onafhanklik ontwikkel: tussen lede van Therizinosauridae, 'n
+   spesifieke groep Theropoda-dinosourusse.
+
+   'n Alternatiewe teorie oor die ontwikkeling van voëls word voorgestel
+   deur sommige wetenskaplikes, waaronder Larry Martin en Alan Feduccia.
+   Die teorie stel voor dat voëls (insluitende lede van Maniraptora) van
+   vroeë archosourusse soos Longisquama afstam.^[7] Die teorie word tans
+   betwis deur die meerderheid paleontoloë, asook deur kenners in die
+   studie van veerontwikkeling en evolusie.^[8]
+
+[wysig] Klassifisering van moderne voëls
+
+   Moderne voëls word as Neornithes geklassifiseer en dit is huidiglik
+   bekend dat die groep tot 'n basiese groep afstammelinge ontwikkel het
+   aan die einde van die Kryttydperk. Die Neornithes word verdeel in die
+   Paleognathae en die Neognathae. Die Paleognathae sluit die
+   stuithoenders van Sentraal- en Suid-Amerika in, asook die loopvoëls.
+   Soos die naam aandui, is loopvoëls groot voëls wat nie tot vlug in
+   staat is nie.
+
+[wysig] Verwysings
+
+          Hierdie artikel is 'n gedeeltelike vertaling van die Engelse
+          Wikipedia artikel Bird.
+
+    1. ^ Del Hoyo, Josep, et al. Handbook of Birds of the World Vol 1
+       1992. Barcelona: Lynx Edicions, ISBN 84-87334-10-5
+    2. ^ Linnaeus, C (1758). Systema naturae per regna tria naturae,
+       secundum classes, ordines, genera, species, cum characteribus,
+       differentiis, synonymis, locis. Tomus I. Editio decima, reformata..
+       Holmiae. (Laurentii Salvii)., 824.
+    3. ^ Padian K & Chiappe LM (1997). “Bird Origins”, Currie PJ & Padian
+       K: Encyclopedia of Dinosaurs. San Diego: Academic Press, 41-96.
+    4. ^ Gauthier, J (1986). “Saurischian Monophyly and the origin of
+       birds”, Padian K: The Origin of Birds and the Evolution of Flight.
+       Mem. California Acad. Sci 8, 1-55.
+    5. ^ Early Adaptive Radiation of Birds: Evidence from Fossils from
+       Northeastern China deur Hou L,Martin M, Zhou Z & Feduccia A,
+       (1996). Science 274(5290): 1164-1167.
+    6. ^ Norell, M. & Ellison M. (2005). Unearthing the Dragon, The Great
+       Feathered Dinosaur Discovery. Pi Press: New York. ISBN
+       0-13-186266-9
+    7. ^ Feduccia A, Lingham-Soliar T, Hinchliffe JR (2005) "Do feathered
+       dinosaurs exist? Testing the hypothesis on neontological and
+       paleontological evidence" Journal of Morphology 266(2): 125-166
+    8. ^ Prum R (2003) "Are Current Critiques Of The Theropod Origin Of
+       Birds Science? Rebuttal To Feduccia 2002" Auk 120(2) 550-561
+
+[wysig] Sien ook
+
+     * Lys van Suid-Afrikaanse voëls
+
+   Vir woordeboekinligting, sien die bladsy voël op WikiWoordeboek
+
+   Kategorie: Voëls
+

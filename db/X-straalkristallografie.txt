@@ -1,0 +1,113 @@
+X-straalkristallografie
+
+
+   X-straaldiffraksie is 'n meetmetode wat gebruik maak van die strooiing
+   van fotone van 'n golflengte van 0.01-0.3 nm deur elastiese botsinge
+   met elektrone in 'n vastestof.
+
+   Inhoud
+
+        * 1 Molekulêre strukture
+             + 1.1 Strooiing en oplossende vermoë
+             + 1.2 Diffraksie
+        * 2 Biologiese toepassing
+
+[wysig] Molekulêre strukture
+
+   Die golflengte λ van X-strale is ongeveer 0,1 nm en derhalwe bied hulle
+   'n uitstekende sondeerder vir strukture (molekulêr of nie) van alle
+   kristallyne stowwe. Dis die geval vir metalliese, anorganiese,
+   organiese, polimere en ook vir talle biochemiese materiale.
+
+[wysig] Strooiing en oplossende vermoë
+
+   Die strooiinghoek word in die algemeen gedefinieer as 2θ (en nie as θ,
+   soos in by verstrooiing van sigbare lig nie).
+
+   Die maatstaf van die techniek kan geskryf word as:
+
+          d[obs] = λ/(2sinθ)
+          1/d[obs] = (2sinθ)/λ
+
+   Die maatstaf d is die omgekeerde van die oplossende vermoë: 1/d en die
+   oplossende vermoë word dus groter by hoëre hoeke. Omdat die golflengte
+   ongeveer dieselfde grote het as die atoomafstande kan die techniek die
+   elektrone digheid ρ =ψ*ψ op atomêre skaal in kaart breng. (Die funksie
+   ψ is die komplekse elektronegolffunksie).
+
+   By verstrooiing aan nie-kristallyne stowwe soos glase, vloeistowwe of
+   gasse is daar verstrooide fotone by alle hoeke. Die intensiteit word in
+   die algemeen weergegee as funksie van die strooiingvektor q:
+
+                q= 2π/d = 4п.sinθ/λ
+
+   Hierdie notasie stel mens in staat data van verskillende golflengtes
+   gemaklik te vergelyk. Die vektor q kan ook gesien word as 'n maat vir
+   momentum(?)oordrag by die elastiese botsing van die foton met 'n
+   elektron. Die energieoordrag is daarby gelyk nul (elasties!)
+
+[wysig] Diffraksie
+
+   By 'n kristallyne stof is daar net strooiing moontlik as die maatstaf
+   d[obs] gelyk is aan een van die raamwerkafstande d[hkl] van die
+   kristallyne struktuur. By andere hoeke tree totale destruktieve
+   interferentie op. Hoeke waarby d[obs]=d[hkl] en die interferentie
+   konstruktief is word die Bragg-hoeke genoem. Die interferentie is
+   waarom dit nou diffraksie en nie strooiing genoem word nie, maar die
+   eksperiment bly dieselfde.
+
+   X-straaldiffraksie word toegepas op eenkristalle maar ook op poeders.
+   Eenkristaldiffraksie is 'n tegniek waaruit driemensionele data verkry
+   word. By poederdiffraksie is dit eendimensionale data, wat veral
+   gebruik word om vastestowwe te identifiseer en minder om hulle
+   struktuur te bepaal.
+
+[wysig] Biologiese toepassing
+
+   X-straaldiffraksie is die hoofmetode waarvolgens die gedetailleerde
+   driedimensionele strukture van molekules - in die besonder die
+   molekules van lewende stelsels - ontdek is. Die hoeveelheid inligting
+   wat uit die ondersoek van enige stof afgelei kan word, hang uiteindelik
+   af van hoe fyn die sondeerder is wat gebruik word. So word 'n ondersoek
+   van biologiese weefsels met behulp van die optiese mikroskoop
+   byvoorbeeld beperk deur die golflengte van sigbare lig, wat in die
+   omgewing van 500 nm is. Besonderhede van molekulêre rangskikking in die
+   weefsel is derhalwe nie ontleedbaar nie, aangesien hulle net 1 tot 10
+   nm van mekaar is.
+
+   Hierdie tegniek is byvoorbeeld gebruik om die gedetailleerde
+   driedimensionele struktuur van 'n groot hoeveelheid proteïene te bepaal
+   en om te demonstreer dat DNS normaalweg 'n dubbelstring- heliese
+   molekule is. In laasgenoemde geval was die X-straaldiffraksiedata egter
+   nie voldoende nie en was chemiese inligting nodig om af te lei dat die
+   molekule helies was, met komplementêre basispare. Die toepassing van
+   X-straaldiffraksietegnieke op makromolekules was meer as net 'n
+   uitbreiding van die idees vir kleiner molekules. Nie net is dit
+   moeiliker om groter molekules te kristalliseer nie, maar nuwe skemas om
+   die fases van die diffraksiegolwe eksperimenteel te bepaal, moes ook
+   ontwikkel word ten einde die strukture te ontleed.
+
+   Die koms van toegewyde sinchrotron-ligbronne met
+   hoë-intensiteitsbundellyne vir biologiese navorsing het nie net die
+   spoed van data-insameling van proteïenkristalle geweldig versnel nie,
+   maar het ook skeiding verbeter deurdat stralingskade aan die kristalle
+   beperk is.
+
+   Die gebruik van invoegingstoestelle het intensiteitstoenames tot gevolg
+   gehad wat geskik was om 'n Laue-diffraksiepatroon in tye van
+   millisekonde-ordes op te teken, wat dit moontlik maak om dinamiese
+   veranderings in die makromolekulêre struktuur in spiersaamtrekbaarheid
+   te ondersoek, sowel as in die wisselwerkings tussen ensieme en
+   substrate of tussen beherende proteïene en DNS.
+
+   'n Aanvullende tegniek tot X-straaldiffraksie is neutrondiffraksie.
+   Hierdie tegniek is besonder bruikbaar omdat waterstof 'n groot
+   negatiewe verstrooiingskrag het en dus sterk verstrooi. Wat meer is,
+   deur deuterium deur waterstof te vervang, word die grootte en teken van
+   die verstrooiingskrag verander, wat dit moontlik maak om 'n struktuur
+   te ondersoek waarin die verstrooiing verander is sonder 'n verandering
+   in struktuur. Die merk van die molekulêre en sellulêre selorgane met
+   deuterium maak dit moontlik om hul posisie en struktuur geredelik op te
+   spoor.
+   Kategorieë: Kristallografie • X-strale
+

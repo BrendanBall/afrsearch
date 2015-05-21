@@ -1,0 +1,1693 @@
+Wikipedia:Geselshoekie/Argief8Nov07
+
+
+   < Wikipedia:Geselshoekie
+  Argief Hierdie bladsy dien as 'n argief van ou besprekings. Moenie die
+         inhoud van hierdie bladsy wysig nie. Indien u 'n nuwe bespreking wil
+         begin, of by een van die oues hieronder wil aansluit, doen asseblief so
+         voort op die huidige besprekingsblad.
+
+   Inhoud
+
+        * 1 Voorblad artikel
+        * 2 Die "vrye" ensiklopedie?
+        * 3 Die jaar 0
+        * 4 Skrappingssjablone
+        * 5 Sleutelbord
+        * 6 Veranderinge aan gebruikerskoppelvlak
+        * 7 Danie De Jager die bekende beeldhouer
+        * 8 Anri / Dirk se nuwe blad
+        * 9 iCommons artikel oor Afrikaanse Wikipedia.
+        * 10 Wikipedia-epos - Jimmy Wales and Afrikaans Wikipedia
+        * 11 Hoe kan ek help
+        * 12 Hoe bring ek 'n prentjie van my rekenaar na wikipedia
+        * 13 Voorbladartikel
+        * 14 Uitbreiding van MediaWiki:Common.css
+        * 15 Vertaling
+        * 16 Is "meekoppel" 'n Afrikaanse woord?
+        * 17 Frankiese lesse vir onbeleefde Nederlanders - artikel oor
+          Frankies (taal)
+        * 18 Afrikaanse donasie boodskap.
+        * 19 Wikipedia Akademie
+        * 20 Voorstel vir nuwe sjabloon
+        * 21 Versoek om ons DOEL-LYN op die titelblad ook op elke blaai te
+          kan sien!
+        * 22 Aandag: alle gebruikers wat artikels vertaal
+             + 22.1 Vertaling van Clovis I
+        * 23 Agrippina - Al twee van hulle.
+        * 24 Wat is ,,recant their faith " op Afrikaans ?
+        * 25 wat is ,,cult" in het Afrikaans ?
+        * 26 Wat is ,,Three-Self Patriotic Movement en" op Afrikaans ?
+        * 27 Wikimedia in die nuus
+        * 28 Aanhaling vereis
+        * 29 WikiNEWS (Afrikaans)
+        * 30 Hulp met vertaling van finansiële/ekonomiese boffins
+
+Voorblad artikel
+
+   Hi, daar is tans geen geskikte nominasies vir voorblad artikels nie.
+   Stel gerus iets voor by Wikipedia:Kandidaatartikels vir voorblad.
+   laurens 20:12, 30 September 2007 (UTC)
+
+          Ek het Pikkewyn weer gebruik. Ek weet daar is tans twee nuwes
+          voorgestel, maar ek het nie nou tyd om hulle deur te lees nie en
+          kan hulle logies genoeg nie blindelings gebruik nie. Daar is tog
+          niks fout daarmee om 'n artikel meer as een keer uit te lig nie.
+
+          Daar is 'n ander paar artikels wat ek ontdek het by die spesiale
+          blad oor lang bladsy wat tien teen een uitstekende
+          voorbladkandidate is, maar het hulle nog net nie kon deurlees
+          nie. (My eksamenvoorbereidings gun my bitter min tyd om hier te
+          spandeer.) Anrie 07:02, 1 Oktober 2007 (UTC)
+
+Die "vrye" ensiklopedie?
+
+   Na ek die gril afgeskud het, het ek begin wonder of mens nie eerder die
+   woord "gratis" kan gebruik nie? Vry laat mens so dink aan "so vry soos
+   'n voëltjie"!
+
+          Haai, Ronald. "Vry" dui op die vryheid van die inligting rakende
+          die gebruik, verspreiding en wysiging daarvan, nie die koste
+          nie. Dit is natuurlik ook gratis, maar dis die vryheid daarvan
+          wat ons wil beklemtoon. Dit is dus inderdaad die "vry soos 'n
+          voëltjie" wat ons bedoel! Anrie 18:45, 2 Oktober 2007 (UTC)
+
+                Haha, vry soos 'n voëltjie! Maar ja, soos Anrie sê, dit is
+                eintlik wat bedoel word. Ek wonder of daar nie dalk 'n
+                ondubbelsinnige sinoniem vir "vry" in hierdie konteks is
+                nie? — Adriaan (S★B) 19:08, 2 Oktober 2007 (UTC)
+
+                En nou dat ons op hierdie onderwerp is: praat mens werklik
+                van "vrye"? Moet mens nie eerder sê "die vry ensiklopedie"
+                nie? Of misgis ek my nou? Jammer, ek kan soms 'n bietjie
+                verward wees. — Adriaan (S★B) 19:10, 2 Oktober 2007 (UTC)
+
+                      Nee, "vrye" is korrek, net soos mens praat van die
+                      Suidelike Halfrond (i.p.v. die Suidelik Halfrond) en
+                      die heerlike nagereg (i.p.v. die heerlik nagereg).
+                      Okay, ek moet nou definitief hierdie rekenaar van my
+                      afskakel - anders kry ek nooit geleer nie. Tot môre,
+                      mense! Anrie 19:19, 2 Oktober 2007 (UTC)
+
+                            Ok, dankie Anrie vir jou hulp. Lekker
+                            leer :P — Adriaan (S★B) 19:22, 2 Oktober 2007
+                            (UTC)
+
+Die jaar 0
+
+   Ek dink daar is fout met die nuwe sjabloon wat bo-aan jaartalle gebruik
+   word. Daar bestaan nie 'n jaar 0 voor of na Christus nie. Kyk na 0 in
+   die Nederlande Wiki. Groete hansjoseph 16:08, 3 Oktober 2007 (UTC)
+
+          0 en 1 v.C. verwys na dieselfde jaar. — Adriaan (S★B) 16:12, 3
+          Oktober 2007 (UTC)
+
+Skrappingssjablone
+
+   Kan ons {{skrap}} na {{verwyder}} skuif, en dan
+   {{verwyderomdat}}/{{delete}} na {{skrap}} skuif? Ek wonder maar net,
+   want "skrap" is 'n korter woord, en dit sjabloon word veel meer
+   gebruik. — Adriaan (S★B) 13:24, 6 Oktober 2007 (UTC)
+
+          Ja, ek stem daarvoor! Ek het vroeër presies dieselfde gesit en
+          wonder. --Leviel 09:05, 7 Oktober 2007 (UTC)
+
+Sleutelbord
+
+   Die sleutelbordjie by spesiaal:search werk nou perfek. Is daar enige
+   letters wat nog bygevoeg moet word? Dink julle dis nodig om die
+   hoofletterekwivalente by te voeg? — Adriaan (S★B) 11:38, 7 Oktober 2007
+   (UTC)
+
+Veranderinge aan gebruikerskoppelvlak
+
+   Haai, ek is besig om so paar nuttighede van die Franse Wikipedia hier
+   in te sit. As ek enigiets breek, of iets verkeerd doen, laat weet asb.
+   spoedig vir my op my besprekingsbladsy. Vir voorstelle, lug dit asb.
+   hier :P — Adriaan (S★B) 12:03, 7 Oktober 2007 (UTC)
+
+          Ek het nou so bietjie met die kleure ook gaan eksperimenteer.
+          Dit is alles nog slegs probeerslae. Hierdie grys lyk bietjie
+          lelik en die geel maak my so effens dronk in die kop, maar dis
+          nie die einde van die wêreld vir my nie. Het enigiemand dalk
+          enige idees om die kleure te verander? — Adriaan (S★B) 13:53, 7
+          Oktober 2007 (UTC)
+
+                Ek dink die geel lyk tog nie te sleg nie. Ek wil graag
+                weet wat ander hiervan dink. O ja, probeer asb. om nie 'n
+                lynbreuk tussen kommentaar te los nie; sodoende kan ons
+                makliker tred hou van wie waarop gereageer
+                het. — Adriaan (S★B) 16:09, 7 Oktober 2007 (UTC)
+
+                      Hmmm? Waar is dit nou geel en waar is dit grys?
+                      Anrie 16:23, 7 Oktober 2007 (UTC)
+
+                            Jy sal jou kasgeheue moet verfris. Oh ja, ek
+                            werk tans aan hoe om die Geselshoekie geel te
+                            kry, aangesien dit as 'n besprekingsbladsy
+                            gebruik word. — Adriaan (S★B) 16:24, 7 Oktober
+                            2007 (UTC)
+
+                                  O nee! Jammer, maar dit lyk aaklig! Ek
+                                  kan dit nie op 'n ordentlike manier sê
+                                  nie - o! my oë! Anrie 16:26, 7 Oktober
+                                  2007 (UTC)
+
+                                        Haha! Wat bedoel jy nou? Gewone
+                                        besprekingsbladsy, of net die
+                                        Geselshoekie? — Adriaan (S★B)
+                                        16:27, 7 Oktober 2007 (UTC)
+
+                                              Aaahahaha! My
+                                              besprekingsblad!!! Ek is
+                                              baie jammer, maar ek vind
+                                              hierdie geel darem maar baie
+                                              kras. Die blou was so 'n
+                                              vreedsame kleur. Kan mens
+                                              nie verskillende skakerings
+                                              van die ou blou gebruik nie?
+                                              Anrie 16:29, 7 Oktober 2007
+                                              (UTC)
+
+   Die Geselshoekie is nou reggemaak. Kyk of jy nie dalk nou daarvan hou
+   nie... Dit kan altyd blou of groen of watookal gemaak
+   word. — Adriaan (S★B) 16:31, 7 Oktober 2007 (UTC)
+
+          Wysigingskonflik lol: Ok, watse kleure stel jy voor? Ek sal baie
+          van 'n sagte blou hou, ek moet net 'n kleurpalet in die hande
+          kry. — Adriaan (S★B) 16:31, 7 Oktober 2007 (UTC)
+
+                Maar nou is alles geel! O, jammer as jy voel ek
+                oorreageer, maar ek is baie kleur-sensitief. Sien gerus
+                http://en.wikipedia.org/wiki/Wikipedia:Color vir 'n
+                kleurpalet wat mooi by die dinge hier inskakel. Anrie
+                16:33, 7 Oktober 2007 (UTC)
+
+                      Jou reaksie is verstaanbaar! Hierdie is 'n wiki -
+                      dit is hier om gewysig te word. So ek sal gou die
+                      blou implementeer, dan sê jy of dit die regte
+                      skakering is of watookal. Hou jy darem van die nuwe
+                      aanhalingstelsel? — Adriaan (S★B) 16:35, 7 Oktober
+                      2007 (UTC)
+
+                            Wel, ek moet erken ek verkies die vorige een,
+                            maar ek kan insien dat hierdie een meer
+                            prakties is, veral vir onkundige gebruikers.
+                            Anrie 16:36, 7 Oktober 2007 (UTC) (Ek verwys
+                            nou na die aanhalingstelsel.)
+
+                                  Ok... dalk kan jy met 'n geskikte kleur
+                                  vorendag kom? Ek weet nie of jy opgelet
+                                  het nie, maar die een wat ek nou weer
+                                  teruggerol het, was heel vieslik. Maar
+                                  ek sou ook iets anders bo die geel
+                                  verkies. — Adriaan (S★B) 16:38, 7
+                                  Oktober 2007 (UTC)
+
+                                        Kan ek maar gou probeer? Anrie
+                                        16:39, 7 Oktober 2007 (UTC)
+
+                                              Ok, gaan gerus
+                                              voort. — Adriaan (S★B)
+                                              16:41, 7 Oktober 2007 (UTC)
+
+   Van dit wat ek nou net verander het, sal beter lyk as die geel raampie
+   ook blou gemaak word. Maar ek los dit sodat jy kan
+   eksperimenteer. — Adriaan (S★B) 16:42, 7 Oktober 2007 (UTC)
+
+          Okay - mens kan miskien die donker blou ietsie ligter maak - dit
+          moet nie die aandag van die gesprek aftrek nie. Ons gaan egter
+          nou eet - sal nounou weer inloer. Anrie 16:49, 7 Oktober 2007
+          (UTC)
+
+                Ok, geniet die ete :P — Adriaan (S★B) 16:50, 7 Oktober
+                2007 (UTC)
+
+                      Hmmm. Ek kon nie 'n ligte skakering van blou kry wat
+                      by die agtergrond sou pas nie, so toe verander ek
+                      die soort blou van die agtergrond. Ek weet nie wat
+                      jy daarvan sal dink nie, maar dit is die bes wat ek
+                      kan doen... — Adriaan (S★B) 16:54, 7 Oktober 2007
+                      (UTC)
+
+                            Daar is ook 'n baie mooi groen op
+                            en:Wikipedia:Color, as jy dalk dit sou
+                            verkies. As ons uiteindelik op 'n leurskema
+                            ooreengekom het, dan sal ek die table of
+                            contents, ens. wysig. — Adriaan (S★B) 16:55, 7
+                            Oktober 2007 (UTC)
+
+                                  Ons kan dit selfs pers maak. Enige kalm
+                                  kleur sal deug. — Adriaan (S★B) 17:01, 7
+                                  Oktober 2007 (UTC)
+
+   Wat dink jy hiervan? Ek sal ook graag die besprekingsbladsye wil
+   nie-geel maak, maar ons kan maar wag om te hoor wat ander dink. Dis net
+   dat, altyd as ek by ander wikipedias was, was ek maar al te bly ons s'n
+   lyk nie ook soos 'n sirkus nie - ek is maar 'n bietjie van 'n minimalis
+   wat 'n klassieke, eenvoudige kleurskema bo 'n skreeubont een verkies.
+   Dis 'n persoonlike voorkeur, natuurlik, maar ironies genoeg 'n area
+   waaroor ek baie sterk voel. (En ek was al gekasty oor my optredes
+   teenoor ander se kleurvoorstelle!) Anrie 18:16, 7 Oktober 2007 (UTC)
+
+          Die nuwe skema lyk veel beter. Wat dink jy daarvan om die lyne
+          minder opvallend te maak? — Adriaan (S★B) 18:18, 7 Oktober 2007
+          (UTC)
+
+                Is dít wat jy bedoel het? Miskien kan ons asseblief ook
+                die mediawiki-bladsye 'n minder kras skakering maak, bv.
+                #faf5ff? Jammer, maar ek kan ongelukkig nie langer bly
+                nie. Ek moet ongelukkig nou verder gaan leer. Ek is nie
+                môre of Dinsdag by die huis nie - skryf eks. in Den Haag -
+                dus sal ek eers weer Woensdag my opinies kom lug. Anrie
+                18:25, 7 Oktober 2007 (UTC)
+
+                      Ok, sterkte met die studies, en geniet dit. Ek sal
+                      so bietjie rondpeuter en hoor wat die ander daarvan
+                      sê. — Adriaan (S★B) 18:26, 7 Oktober 2007 (UTC)
+
+   Ek sal graag wil hoor wat ander gebruikers dink van die veranderinge in
+   die koppelvlak. Ek moet erken dat daar 'n aantal dinge is waarmee ek
+   ongelukkig is, maar ek wil nou nie staan en nag soos 'n ou vrou as
+   almal verder gelukkig is daarmee nie.
+
+   Dinge wat my nogals baie pla, is:
+     * Kan ons nie asseblief slegs artikels se agtergronde wit hou nie, en
+       dus die gebruikersbladsye en kategoriebladsye weer kleur nie? Ek
+       dog die verskillende kleure was juis voorgestel om onderskeid
+       tussen die verskillende soort bladsye te tref.
+     * Die geel gebruikersbladsye lyk bietjie snaaks, veral met die
+       blokkies ingekeepte teks wat nou blou vertoon - miskien kan ons dit
+       weer blou maak?
+     * Ek moet erken ek hou nie baie van die nuwe subopskrifte nie - die
+       kolletjie-kolletjie onderstreping kan pla in sommige gevalle en die
+       [wysig] reg langs die opskrif (veral in daai lettertipe) belemmer
+       die leesbaarheid.
+
+   Mens moet natuurlik poog om die gebruikersbladsye 'n neutrale kleur te
+   hou, aangesien nie almal gelukkig mag wees met 'n fel rooi of 'n
+   feministiese ligroos nie. (Wat was fout met die blou?). Anrie 07:54, 12
+   Oktober 2007 (UTC)
+
+          Hey Anrie, ek sien nou eers jou kommentaar hier. Oor die
+          kol-onderstreping: ek dink dat dit wel nuttig kan wees,
+          aangesien dit moeilik is om te onderskei tussen die === derde
+          vlak === en ==== vierde vlak ==== van subopskrifte. Oor die
+          wysig-knoppie: as dit heel links verskyn, dan hoop dit op bo-op
+          mekaar indien daar beelde aan die regterkant van die bladsy is.
+          Dis al oplossing waaraan ek kon dink vir die probleem. Vele
+          ander Wikipedias gebruik ook hierdie oplossing. Oor die
+          ingekeepte blokkie goed: ek stel voor ons verwyder dit - toe dit
+          nog geel was, het dit in die agtergrondkleur ingevloei, maar nou
+          lyk dit so bietjie onooglik. Oor die agtergrondkleure: ek
+          verstaan nie so mooi wat jy daar bedoel nie... sover ek kan sien
+          is slegs die artikelnaamruimte se agtergrond wit? Maar ek mag
+          verkeerd wees, want ek het nog nie eintlik na die
+          agtergrondkleure elders opgelet nie. Watter kleurskemas stel jy
+          voor vir elk van die verskillende naamruimtes? Miskien iets
+          soos: (Hoof): wit, Bespreking: wit, Gebruiker: ligblou,
+          Gebruikerbespreking: ligblou, Wikipedia: liggroen,
+          Wikipediabespreking: liggroen, Beeld: khaki, of so aardse kleur,
+          Beeldbespreking: ..., MediaWiki: ligrooi, MediaWikibespreking:
+          ligrooi, Sjabloon: ligpers, Sjabloonbespreking: ligpers, Hulp:
+          liggeel, Hulpbespreking: liggeel, Kategorie: ligoranje,
+          Kategoriebespreking: ligoranje. Hierdie kleure is natuurlik net
+          voorstelle, maar ek dink dit is wat jy bedoel? — Adriaan (S★B)
+          14:10, 25 Oktober 2007 (UTC)
+
+                Ek wil graag die kode verwyder wat die ingekeepte teks in
+                'n raampie plaas! Dit lyk nie meer mooi nie! Wat dink
+                julle? — Adriaan (S★B) 17:58, 6 November 2007 (UTC)
+
+                      Hierts! Jammer, Adriaan: jou vorige antwoord het my
+                      heeltemal ontglip. Laat ek sien. Goed so, ek gee jou
+                      die kol-onderstreping-ding. Die opeenhoping van
+                      [wysig]ings gebeur egter slegs as die beelde almal
+                      in die boonste afdeling geplaas word en nie in
+                      aparte subafdelings nie, maar nou ja... Ek het nie
+                      'n voorstel vir die kleure van die verskillende
+                      naamruimtes nie, bloot omdat ek nie 'n probleem
+                      gehad het met die ou blou nie. Ek weet ook nou nie
+                      hoekom alles verskillende kleure moet wees nie, maar
+                      as dit dan nou moet, dan moet dit darem verskil van
+                      die artikelnaamruimte. O wee, hoekom voel dit asof
+                      ek nou lekker deurmekaar praat? In elk geval, ek
+                      dink ook die blokkie goed kan weg. Anrie 19:08, 6
+                      November 2007 (UTC)
+
+                            Lol nee ek verstaan jou wel. Ek dink nie die
+                            naamruimtes moet verskillende kleure hê nie;
+                            dit lyk net bietjie interessanter as dit wel
+                            het. Maar dit kan altyd verwyder word... Ok,
+                            ek gaan nou daai blokkie goed verwyder... as
+                            enigiemand beswaar het, laat net
+                            weet. — Adriaan (S★B) 20:47, 6 November 2007
+                            (UTC)
+
+Danie De Jager die bekende beeldhouer
+
+   Goeie dag, ek wil net weet, kan julle asseblief n artikel doen oor
+   Danie De jager. 196.208.72.85 20:17, 8 Oktober 2007 (UTC)
+
+          Ek sou voorstel dat u self die artikel skryf en die bronne
+          aandui. Ek is seker ander sal meer as gewillig wees om te help
+          met die redigering en "wikifisering" van so 'n artikel. Mense is
+          maar geneig om te skryf oor onderwerpe wat hulle belangstelling
+          prikkel en ek is nie so seker dat ons bydraers het wat op
+          hierdie stadium in beeldhoukuns belang stel nie, in ieder geval
+          nie genoeg om navorsing daaroor te gaan doen nie. --RM 16:12, 9
+          Oktober 2007 (UTC)
+
+Anri / Dirk se nuwe blad
+
+   Hi Anri
+
+   Help asb. voordat ek onnodig aanjaag.
+
+   Ek maak reg.
+
+   Groete—Die voorafgaande anonieme kommentaar is deur Dirk gelewer
+   (Bespreking • Bydraes) .
+
+          Haai Dirk, jy het glad nie aangejaag nie. Al rede hoekom ek die
+          artikel vir verwydering genomineer het, is omdat ek nie dink die
+          onderwerp daarvan is noemenswaardig genoeg vir 'n ensiklopedie
+          nie. Die kwessie kan egter steeds op die stemblad betwis
+          word. — Adriaan (S★B) 12:43, 9 Oktober 2007 (UTC)
+
+                Die inhoud kan baie maklik in jou gebruikersblad geplaas
+                word. --RM 16:18, 9 Oktober 2007 (UTC)
+
+iCommons artikel oor Afrikaanse Wikipedia.
+
+   Afrikaans Wikipedia - a tiny giant, met onderhoud met
+   Gebruiker:Laurens.
+
+   "In South Africa, I am only aware of a single programme that was aired
+   on the pay-TV channel" - die Engelse Wikipedia is ook bespreek op die
+   program go_open in 2004 op SABC2. -- Jeandré, 2007-10-09t11:40z
+
+Wikipedia-epos - Jimmy Wales and Afrikaans Wikipedia
+
+   Haai mense. Die volgende is 'n e-pos wat ek van Rebecca Kahn gekry het.
+   Sy het hierdie artikel oor die Afrikaanse Wikipedia op iCommons.org
+   geskrywe. Wat sy voorstel oor 'n tipe van 'n samekoms maak my nogal
+   opgewonde, maar ek weet nie wat om vir haar te sê nie. So ek plaas
+   hierdie boodskappie hierso, en dan kan julle voorstelle vir so 'n
+   samekoms bespreek en so aan... moontlik het ander van julle ook so
+   boodskappie gekry, maar ek sou dink dit is wys om bietjie hieroor te
+   praat. So, wat dink julle? Boodskappie:
+Hi Adriaan
+
+Gebruiker:Laurens suggested I get in touch with you - he helped me out with an a
+rticle I was writing about Afrikaans
+ wikipedia for iCommons.org (http://www.icommons.org/articles/afrikaans-wikipedi
+a-a-tiny-giant)
+
+One of the really exciting projects we're working on at iCommons is the Wikipedi
+a Academy, which we'll be hosting in
+ November. Jimmy Wales is coming out to South Africa for the event, and is very
+keen to be involved in some kind of
+ activity with Afrikaans Wikipedians, as part of his ongoing efforts to work on
+developing wikis in indigenous languages.
+ Which is why I'm mailing you, in the hope that you might be interested in being
+ involved...
+
+What we're trying to figure out now is what to do, and this is where we'd love s
+ome input from the Afrikaans Wikipedia
+ community. Would people be interested in a sprint, where everyone could get tog
+ether and create as whole lot of new
+ content, or would they like a full day of discussions and writing, almost like
+a bar camp? Any ideas and input you
+ might have in terms of what you'd like to see on the programme, or what you thi
+nk might be good to include in the event
+ would be most welcome.
+And of course, if you know of any other wikipedians who might be interested, ple
+ase feel free to forward this message to
+ them, and let them get in touch with me.
+
+I look forward to hearing from you, and I really hope you'll be a part of the Wi
+kipedia Academy.
+Best
+Rebecca
+
+    — Adriaan (S★B) 12:35, 11 Oktober 2007 (UTC)
+
+          Hallo Adriaan, Rebecca het my intussen weer gekontak. Jimmy
+          Wales kom blykbaar op 10 Novermber na Suid-Afrika as deel van
+          iCommons.org se werk aan 'n Wikipedia Akademie. Hy is blykbaar
+          geneë om iets spesifiek met die Afrikaanse wikipedia te doen. Sy
+          het twee moontlikhede genoem - die sprint soos hierbo genoem, of
+          'n gesprek / werkswinkel met Jimmy oor die Afrikaanse wikipedia.
+          Ek voel die tweede kan dalk heelwat waarde hê. Dit sou dalk goed
+          wees om mense uit die Afrikaanse wêreld wat nie tans by
+          wikipedia betrokke is nie daar te kry om sodoende steun vir die
+          projek te bewerkstellig. Vir die mense moet dit dan bietjie van
+          'n inligting sessie ook wees. Ons kan hulle dan half saam bind
+          in planne vir die toekoms. Ek sit gisteraand en Kyknet kyk na 'n
+          program wat deur die ATKV geborg word - hulle kan darem gerus by
+          Wikipedia betrokke raak. As ons iets doen moet ons dalk kyk hoe
+          ons ons bydraers in die buiteland ook kan betrek. Weet iemand
+          waar Alias is? laurens 06:44, 12 Oktober 2007 (UTC)
+
+                Ek het hom gister 'n e-pos gestuur om hom in te lig
+                hieroor. Hy het genoem dat dit definitief iets is waarin
+                hy sal belangstel. Soos jy sê, 'n informatiewe werkswinkel
+                klink vir my ook na 'n goeie idee. Anrie 07:04, 12 Oktober
+                2007 (UTC)
+                Sien ook die artikel wat Rebecca geskryf het op grond van
+                'n gesprek met my:
+                http://www.icommons.org/articles/afrikaans-wikipedia-a-tin
+                y-giant . laurens 06:49, 12 Oktober 2007 (UTC)
+
+Hoe kan ek help
+
+   Dag mense,
+
+   Ek is nou nuut hier op die Afrikaanse Wikipedia. Ek wil graag help
+   ontwikkel aan die inhoud maar weet nie hoe om aan die werk te spring
+   nie. Het julle enige voorstelle? Sal mens maar eers begin deur so paar
+   Engelse bladsye te vertaal? My moedertaal is Afrikaans maar ek het in
+   Engels skoolgegaan, so dit behoort 'n heel eenvoudige proses te wees.
+
+   Enige idees?
+
+   Vriendelike groete,
+
+   EbenRoux 05:07, 12 Oktober 2007 (UTC)
+
+          Haai, Eben en welkom by die Afrikaanse Wikipedia. Jy kan nuwe
+          artikels self skep of hulle vertaal: ek verkies om artikels te
+          vertaal, bloot omdat ek nie self oor die nodige bronne beskik om
+          'n artikel mee te skep nie. Jy kan loer na die lys van
+          kernartikels (die lys is nog nie volledig nie): dit bevat
+          skakels na Engelse artikels wat mens as "nodig" kan beskou, van
+          Sokrates tot Bagdad tot die bloedsomloopstelsel.
+          Andersins kan jy ook loer na die Engelse Wikipedia se Featured
+          articles, maar dit is belangrik dat jy tog jouself geniet ook,
+          so jy kan bloot 'n onderwerp kies wat jy geniet - of dit nou
+          Batman of barokmusiek is. :) . Laat weet gerus indien jy hulp
+          kort met iets. Anrie 06:24, 12 Oktober 2007 (UTC)
+
+          Hartlik welkom van my af ook. Die vertaling van Engelstalig,
+          Nederlands of Duitse artikels is 'n goeie plek om weg te spring
+          aangesien 'n mens 'n gevoel kry vir die styl waarin artikels
+          behoort geskryf te word. Ek probeer gewoonlik ook om na 'n
+          vertaling 'n Suid-Afrikaanse perspektief by te voeg dan hoef 'n
+          mens slegs navorsing te doen op daardie spesifieke aspek van die
+          artikel. As jy 'n fotograaf is kan dit ook nuttig wees want baie
+          van ons artikels oor plekke/gedenkwaardighede kan doen met 'n
+          foto of twee om die onderwerp toe te lig. --RM 09:58, 12 Oktober
+          2007 (UTC)
+
+Hoe bring ek 'n prentjie van my rekenaar na wikipedia
+
+   Wel eintlik sê die opskrif alles. Jammer as ek soos 'n doffel voorkom ,
+   maar ek kry dit nie reg nie. Die foto is op my C skyf.
+
+   Dankie vir julle hulp by voor baat.
+
+   HESMOOR 14:39, 12 Oktober 2007 (UTC)
+
+          Hallo HESMOOR, dit is glad nie so 'n dom vraag nie. Die
+          oplossing is gelukkig egter wel maklik. Jy klik eenvoudig op die
+          [lêer] skakel aan die linkerkant van die skerm onder die soek
+          funksie. Let wel dat beelde aan sekere vereistes moet voldoen om
+          opgelaai te mag word. Dit moet naamlik 'n vrye beeld wees. Dit
+          word dop die bladsy wat sal verskyn verduidelik. Let ook daarop
+          dat ons verkies dat meeste beelde eerder na die Wikimedia
+          Commons opgelaai word aangesien hulle goeie nasien meganismes
+          het en die beeld dan vir alle tale beskikbaar is. Jy kan na die
+          commons gaan kyk by: http://commons.wikimedia.org/ - jy sal daar
+          ook as gebruiker moet registreer om beelde te kan oplaai.
+          laurens 15:10, 12 Oktober 2007 (UTC)
+
+Voorbladartikel
+
+   In 'n poging om die rooi sjablone wat die afgelope twee Maandae op die
+   voorblad verskyn het te vermy, het ek reeds die sjabloon vir volg. week
+   se voorbladartikel (Kanada) geskep. Ek sal ook voortaan die volgende
+   week se sjabloon skep indien dit nie reeds teen Saterdagaand gedoen is
+   nie (ek verkies om nie my rekenaar op 'n Sondag aan te skakel nie).
+
+   So ook vir die voorbladbeeld van die week. Anrie 18:51, 13 Oktober 2007
+   (UTC)
+
+Uitbreiding van MediaWiki:Common.css
+
+   Ek is besig om so bietjie sjabloon soldeerwerk te doen. Ek wil ek die
+   "Ambox"-sjabloon op die Engelse Wikipedia na Afrikaans vertaal. "Ambox"
+   is kort vir "Article Message Box"; ek reken dat 'n mens soortgelyk
+   "Abboks" as 'n verkorting vir "Artikel Boodskap Boks" kan sien - wat
+   dink julle?
+
+   Die "Ambox"-sjabloon is redelik gevorderd, en maak onder andere gebruik
+   van CSS style wat (in die geval van die Engelse Wikipedia) in
+   MediaWiki:Common.css gedefinieer is. Ek het die CSS-kode vertaal na
+   Afrikaans (in my sandput). Die oorspronklike CSS-kode kan op die
+   besprekingsbladsy van die "Ambox"-sjabloon op die Engelse Wikipedia
+   besigtig word.
+
+   Ek kan nie MediaWiki:Common.css wysig nie; sal 'n administrateur asb.
+   so gaaf wees om die CSS-kode in my sandput by MediaWiki:Common.css te
+   voeg? Wynand.winterbach 10:14, 15 Oktober 2007 (UTC)
+
+          'n Interessante idee: ek sal graag wil hoor wat ander gebruikers
+          dink voordat ek my mening gee (ek wik en weeg nog). Wynand,
+          voorsien jy dan dat dié manier van sjablone skep die ander
+          artikelstatussjablone sal vervang? (soos {{vertaal}} en
+          {{skoonmaak}}. Hoekom nie net die bestaande sjablone se styl
+          vervang nie (as dit is wat jy aantreklik vind van die ander)?
+          Myns insiens is dit makliker om {{skoonmaak}} te tik as wat dit
+          is om te tik:
+
+{{ambox
+| type  = style
+| image = [[Image:Broom icon.svg|38px]]
+| text  = '''Hierdie artikel moet [[Wikipedia:Skoonmaak|skoongemaak of andersins
+ verbeter word]].'''
+[[Kategorie:Wikipedia skoonmaak|{{PAGENAME}}]]<br/>
+Hierdie artikel voldoen nie tans aan die hoë standaarde van kwaliteit waarna Wik
+ipedia streef nie.
+[[Wikipedia:Voel vry en gaan jou gang|Voel vry]] om self in te spring en verbete
+rings te maak, en
+verwyder hierdie kennisgewing ná die tyd.  Vir meer hulp, sien die [[Wikipedia:R
+edigeer|redigeringshulp]].
+Daar is moontlik kommentaar in die artikel of op die besprekingsblad wat verbete
+r moet word.
+}}
+
+          Miskien verstaan ek nou die doel van die sjabloon verkeerd?
+          Anrie 10:43, 15 Oktober 2007 (UTC)
+
+                Die korrekte vertaling sal abkas, "artikelboodskapkas",
+                wees. Anrie 10:43, 15 Oktober 2007 (UTC)
+
+                      Sien hierdie eerder as 'n sjabloonsjabloon. Dit word
+                      op die Engelse Wikipedia gebruik om die onderhoud
+                      van ander sjablone te vergemaklik. 'n Voorbeeld van
+                      'n Engelse Wikipedia-sjabloon wat die
+                      "Ambox"-sjabloon gebruik, is die
+                      "Unreferenced"-sjabloon. Myns insiens klink "abkas"
+                      inderdaad ook beter as "abboks". Ek sal dit nou gaan
+                      aanpas in my sandput. Wynand.winterbach 10:52, 15
+                      Oktober 2007 (UTC)
+                      Ek het ook nie besef dat daar 'n sjabloon met die
+                      naam "ambox" op die Afrikaanse Wikipedia was nie. Ek
+                      wonder of dit tans gebruik word soos wat ek hierbo
+                      verduidelik. Wynand.winterbach 10:54, 15 Oktober
+                      2007 (UTC)
+
+                            Ek dink ek sal jou antwoord oor 'n uur of wat
+                            weer kom lees: ek verstaan nou heeltemal nie
+                            wat jy bedoel nie. Ons het nie tans so 'n
+                            sjabloon nie - ek het die bogemelde sintaks
+                            vanaf die gebruiksaanwysings by die engelse
+                            blad gekopieer. Anrie 10:58, 15 Oktober 2007
+                            (UTC)
+
+                                  Ek hou van die idee (as ek reg
+                                  verstaan). Dit sal die wysiging van vele
+                                  sjablone erg versnel. Bv. wanneer daar
+                                  besluit word om die styl aan te pas, en
+                                  so voorts. — Adriaan (S★B) 12:57, 15
+                                  Oktober 2007 (UTC)
+
+          Ek gaan hier poog om die doel van die Abkas-sjabloon te
+          verduidelik. Dit gebeur dat versamelings van sjablone
+          soortgelyke vorme het; so sal mens b.v. sien dat 'n sjabloon,
+          wat waarsku teen 'n tekort van bronne, amper lyk soos 'n ander
+          sjabloon wat, sê maar, gebruik word om te toon dat die betrokke
+          artikel nie neutraal is nie. CSS laat 'n mens toe om, tot 'n
+          sekere mate, gedeelde stylinligting af te sonder in 'n enkele
+          plek. CSS is wel beperk in hierdie opsig; dit kan b.v. nie die
+          uitleg van boodskapkaste beskryf nie.
+          Hoe vermy mens die beperkinge van CSS? Die antwoord is om 'n
+          sjabloon te skep wat kan gebruik word om ander sjablone te maak.
+          Daar is tog geen rede hoekom mens nie 'n patroon wat mens in 'n
+          klomp sjabloone waarneem kan vasvang in 'n ander sjabloon nie.
+          Ek wil graag die Engelse Template:Ambox kopieer na die Afrikaans
+          Wikipedia. Soos hierbo bespreek, is 'n moontlike naam
+          Sjabloon:Abkas. Hierdie sjabloon het self so bietjie CSS-kode
+          nodig wat in MediaWiki:Common.css geplaas moet word - iets wag
+          slegs deur 'n administrateur gedoen kan word. Die CSS-kode kan
+          besigtig word by MediaWikibespreking:Common.css. Ek het die
+          CSS-klasname vertaal vanaf Engels. Ek nooi almal uit om dit na
+          te gaan en voorstelle of veranderinge te maak. —
+          Wynand.winterbach 16:07, 16 Oktober 2007 (UTC)
+
+                Is daar werklik een artikel op die Engelse Wikipedia wat
+                nie een van hierdie viesaaklige sjablone op het nie? Ek
+                wil regtig nie hê dat die Afrikaanse Wikipedia ook 'n
+                klomp simpel sjablone bo-aan elke liewe artikel het nie.
+                As die artikel wysigings kort, dan kan die leser dit mos
+                sien sonder om deur 'n lelike banier gepla te word? En as
+                dit eensydige POV is, hoekom 'n banier plaas? Verwyder
+                eenvoudig die subjektiewe POV deur die subjektiewe
+                gedeeltes te herskryf. Om 'n lelike sjabloon bo-aan te
+                plaas is maar net uit luiheid. As jy werklik so baie oor
+                bronne of POV omgegee het, dan sou jy iets daadwerklik aan
+                die saak gedoen het eerder as om 'n groot lelike
+                kennisgewing bo-aan die bladsy te plaas. Maar dit is net
+                my R1. Ek hou van die idee van 'n abkas, maar dit kan vir
+                vele ander konstruktiewe doeleindes aangewend word, soos
+                die eenvormigheid van inligtingskaste, reekssjablone van
+                spesifieke onderwerpe, soos stede in provinsies,
+                sokkerklubs in lande, en so voorts. Moet my nie verkeerd
+                verstaan nie - ek is heeltemaal ten gunste van hierdie
+                abkaskonsep. Maar moet asseblief nie te veel moeite aan
+                die eenvormigheid van kennisgewingsjablone vir artikels
+                (of artikelstatussjablone) gee nie. As dit van my afgehang
+                het, het ek lankal al hierdie lelike kennisgewings
+                geskrap. Maar dit hang natuurlik nie van my af nie. Soos
+                ek sê, dis maar net my persoonlike opinie. — Adriaan (S★B)
+                18:09, 16 Oktober 2007 (UTC)
+
+                          Ek hoor jou Adriaan. Ek weet dat die Engelse
+                      Wikipedia bitter baie sjablone gebruik. Ek raak ook
+                      baie deurmekaar wanneer ek aan die Engelse Wikipedia
+                      werk omdat daar juis so baie verskillende sjablone
+                      is; ek glo dat die Afrikaanse Wikipedia oor die weg
+                      kan kom met 'n klein, wel deurdagte versameling
+                      sjablone.
+                          Soos jy sê is dit 'n voordeel van sjablone dat
+                      hulle eenvormigheid bied. In die geval van die
+                      abkas-sjabloon is dit spesifiek vir die klas van
+                      boodskapkaste.
+                        Nog 'n voordeel is dat kategorieë van artikels
+                      outomaties geskep word as 'n mens die sjablone
+                      gebruik om kategorie inligting te gee. Ek vind dit
+                      baie nuttig dat daar b.v. 'n bladsy is wat alle
+                      artikels met onvertaalde inhoud, wys. Hierdie is 'n
+                      belangrike aspek van Wikipedia, omdat dit 'n
+                      wegspringplek vir verbeteringe bied - veral waar
+                      verbeteringe die meeste nodig is.
+                          Ek verskil dat sjabloonplasing net luiheid is.
+                      Dit kan baie lank vat om sekere tipes inligting te
+                      bekom. Ek het 'n artikel oor die O'Higgins Area in
+                      Chili van Spaans na Engels vertaal (maar die artikel
+                      het nog heelwat werk nodig). Mens sal 'n klomp
+                      skakels onderaan die blad vind, maar daar is geen
+                      waarborg dat die inligting van die artikel in
+                      daardie bronne gevind kan word nie. Ek het voorlopig
+                      waarskuwingsjablone geplaas, omdat die inligting
+                      moontlik verkeerd kan wees.
+                          Mens kan pasgemaakte CSS gebruik om sjablone weg
+                      te steek of te toon. Ek sien daar is 'n hele
+                      verduideliking by Help:User_style op die Engelse
+                      Wikipedia.
+                          Die vraag is dan of die verstek gedrag moet wees
+                      of waarskuwingskaste gewys of getoon moet word. As
+                      mens hulle by verstek wegsteek, dan het die meeste
+                      besoekers (wie ook meestal nie so tegnies ingesteld
+                      is nie) geen waarskuwings om op staat te maak nie.
+                      As hulle by verstek getoon word, lewe mens saam met
+                      die lelikheid.
+                      — Wynand.winterbach 21:00, 16 Oktober 2007 (UTC)
+
+                                  Ek stem saam met altwee van julle: die
+                                  Engelse Wikipedia is geneig om mal te
+                                  gaan met hulle boodskapsjablone, maar
+                                  die wat ons hier gebruik dien tog 'n
+                                  doel. Adriaan, ons het reeds {{NPOV}}
+                                  vir artikels waarvan die neutraliteit
+                                  bevraagteken word (die sjabloon plaas
+                                  die artikels ook dan outomaties in
+                                  Kategorie:NPOV verskille), artikels wat
+                                  skoongemaak moet word ({{skoonmaak}};
+                                  Kategorie:Wikipedia skoonmaak) en
+                                  artikels wat vertaal moet word
+                                  ({{vertaal}}; Kategorie:Bladsye wat
+                                  vertaal moet word).
+                                  Dit is nie altyd maklik om die
+                                  nie-neutrale gedeeltes uit 'n artikel te
+                                  verwyder nie, soms is dit slegs 'n
+                                  kwessie van tyd (dit is soms nodig om
+                                  groot dele te herskryf) of 'n kwessie
+                                  van die nodige bronmateriaal, dan is 'n
+                                  boodskapsjabloon bo-aan nie 'n té slegte
+                                  idee nie.
+                                  Ek sien nie 'n rede hoekom die CSS-kode
+                                  nie bygevoeg kan word nie, maar dan
+                                  weer, ek sien nie die nuttigheid van die
+                                  voorgestelde sjabloon in nie. Miskien as
+                                  dit eers geïmplementeer word, dan sal ek
+                                  verstaan hoe dit veronderstel is om te
+                                  werk. Ek sal die nog 'n dag of twee gee,
+                                  Wynand, as niemand geldige besware lewer
+                                  nie sal ek die kode byvoeg. Anrie 06:49,
+                                  17 Oktober 2007 (UTC)
+
+                                        Ok, ek dink ek stem nou so bietjie
+                                        saam. Al wat ek dan sal wil hê is
+                                        dat ons die sjablone heel meer
+                                        kleiner en ooglik kan maak, of
+                                        meer "sleek", sodat dit met die
+                                        gebruikerskoppelvlak inskakel, as
+                                        julle weet wat ek bedoel. Verder
+                                        hoef ons, soos Wynand gesê het,
+                                        net 'n uitgesoekte versameling
+                                        kennisgewingsjablone te gebruik.
+                                        Dit moet ook veel makliker wees
+                                        vir nuwelinge om te wysig. Die
+                                        sjablone by die Engelse Wikipedia
+                                        word dan nou juis gebruik om vir
+                                        nuwelinge te sê dat 'n artikel bv.
+                                        POV bevat, maar dit stel nie die
+                                        nuweling in staat om sélf sulke
+                                        sjablone by te voeg/ te verwyder
+                                        nie. Selfs ék sukkel nog om sin te
+                                        maak uit die ingewikkelde sintaks
+                                        wat baie van hierdie sjablone in
+                                        'n artikel verg. Maar gaan maar
+                                        voort, hierdie is net my opinie,
+                                        ek verstaan seker net nie die hele
+                                        konsep op die oomblik
+                                        nie. — Adriaan (S★B) 12:00, 17
+                                        Oktober 2007 (UTC)
+
+   Ek het nie hiervan vergeet nie! (Of, net 'n klein bietjie.) My enigste
+   probleem, Wynand, is dat ek steeds nie verstaan wat die doel van die
+   sjabloon is nie. Goed, dit maak dit makliker om boodskapsjablone te
+   skep, dit begryp ek. Maar wat ek bedoel is, wil jy dan dat dit ons
+   huidige sjablone vervang? Sal die sjablone dan presies soos die Engelse
+   Wiki lyk (betreffende styl en uitleg)? Anrie 13:54, 25 Oktober 2007
+   (UTC)
+
+          Ek kan tot 'n mate hierdie sisteem implementeer sonder die
+          vereiste van 'n aanpassing aan MediaWiki:Common.css. Dit sal
+          darem so bietjie meer gemoedsrus verskaf as mens eers kan sien
+          hoe dié sjabloon gaan werk. :)
+          Die idee is beide om eenvormigheid te skep en om onnodige
+          duplikasie van sjablone te verwyder. Mens sien min of meer
+          dieselfde markeerkode wat op voorkom by meer as een sjabloon.
+          Dit sal moontlik wees om die styl te laat ooreenstem met die
+          Engelse Wikipedia, maar dit is nie 'n vereiste nie. Ek weet nie
+          wat die meeste Af.Wikipediane dink van so 'n ooreenstemming nie.
+          Wynand.winterbach 12:33, 27 Oktober 2007 (UTC)
+
+Vertaling
+
+   Hallo weer almal,
+
+   Waar kan mens om raad vra aangaande vertaling van terme? Ek is 'n
+   programmeerder en ek gaan my op my vakgebied toespits maar daar is
+   darem nou al heelwat terme wat nog nie in Afrikaans beskikbaar is nie.
+
+   Kan ek dit sommer hier in die geselshoekie doen? Ek weet heelparty
+   Afrikaanse woorde word sommer aanmekaar geskryf waar dit eerder in
+   Engels geskei sou word.
+
+   Vir nou is ek op soek na goeie terme vir die volgende:
+
+   Domain object --> Domeinobjek? Service Oriented Architecture (SOA) -->
+   Diensgeörienteede Argitektuur (DGA)? (of een woord?) Data Transfer
+   Object --> Dataoordrag Objek (of een woord)?
+
+   Is daar iewers reëls rondom hoeveel woorde aaneem gesit word voor mens
+   dit skei :)  ?
+
+   Groete
+
+   EbenRoux 13:43, 15 Oktober 2007 (UTC)
+
+          Haai, Eben. Kyk gerus by Wikipedia:Rekenaarterme waar daar 'n
+          paar (moontlike) vertalings vir sommige terme is. Ek dink dat
+          "domain object" 'n "domeinvoorwerp" is - "domain" is definitief
+          "domein", maar "objek" is darem baie anglisisties. "Diensgeöorde
+          argitektuur" klink goed, alhoewel dit "argitektuur" moontlik met
+          'n kleinletter sal moet wees, aangesien ons nie titelkas in
+          Afrikaans gebruik nie. "Dataoordrag" is korrek vir "data
+          transfer", dus sal dit waarskynlik "dataoordragvoorwerp" wees.
+
+                In rekenaarwetenskap, is "objek" die korrekte
+                vertaling :). Mens praat van objek-georiënteerde
+                programmering. Wynand.winterbach 14:01, 15 Oktober 2007
+                (UTC)
+
+          Mens skei slegs wanneer 'n nuwe woord begin, of wanneer daar 'n
+          opeenhoping van klinkers is (dan met 'n koppelteken). By DGA is
+          dit twee woorde, want "diensgeorienteerde" is 'n byvoeglike
+          naamwoord. By "dataoordragvoorwerp" vorm "dataoordrag" deel van
+          die selfstandige naamwoord (dink ek), anders sou dit
+          "dataoordraende voorwerp" wees.
+
+          Vra gerus enige iets anders waaroor jy twyfel. Ek (en sekerlik
+          van die ander gebruikers ook) het 'n baie goeie, moderne
+          tweetalige woordeboek, wat somtyds verbaas met die aantal
+          rekenaarkundige/mediese/ornitologiese/ens. terme wat dit bevat.
+          Anrie 13:53, 15 Oktober 2007 (UTC)
+
+          Hello Eben! Ek is self 'n programmeerder, en het self al met
+          hierdie kwessies gesukkel. Ek het 'n voorstel: kom ons begin om
+          voorgestelde vertalings op die Afrikaanse Wiktionary te plaas.
+          Dan kan een van ons 'n sjabloon skep wat gebruik kan word om
+          sulke woorde terug te verwys na Wiktionary. Die rede vir so 'n
+          sjabloon sal wees dat mens dalk 'n nuwe vertaling opmaak vir
+          iets wat reeds 'n ander Afrikaanse vertaling het. Mens wil darem
+          vir mense bewus maak dat die vertaling nuut is en dat hulle
+          altyd kan terug verwys Wiktionary toe. Die ander rede is dat die
+          Afrikaanse Wiktionary so bietjie lewe nodig het! Ons kan maar
+          net sowel ons kennis gebruik om dit uit te brei :).
+          Wynand.winterbach 13:59, 15 Oktober 2007 (UTC)
+
+   Dankie julle,
+
+   Anrie: Dit is nou hoeka waar dit snaaks raak met die
+   programmeringsterme. Iets soos 'Object Oriented Programming' het ek en
+   al my maters nog altyd na verwys as 'Objekgeörienteerde programmering'.
+   So ek vertaal maar nog altyd 'object' na 'objek'. 'Voorwerp' is seker
+   die korrekte vertaling maar pas nie so lekker nie... dit voel effe
+   snaaks.
+
+   Wynand: Sien asb. ook die stukkie aan Anrie. Stem jy saam. Jou
+   Wiktionary plan klink na die oplossing. Nou moet ek net uitvind wat 'n
+   sjabloon is :) --- is dit 'n tipe plekhouer (soos 'n 'token')?
+
+          Ek verstaan jou punt, Eben. Wynand, voor julle "nuwe" vertalings
+          hier of by die Wiktionary gebruik, moet julle asseblief net
+          seker maak of daar nie reeds amptelike vertalings is vir sommige
+          woorde nie. Wikipedia en Wiktionary poseer as 'n feitelik
+          korrekte kennisbron en mens moet darem nie nuwe woorde insit wat
+          moontlik verkeerd kan wees nie.
+
+          Eben, 'n sjabloon is 'n gedeelte teks wat mens van artikel tot
+          artikel kan dupliseer deur slegs 'n woord of twee (soms meer,
+          vir ingewikkelde sjablone) te tik. Sien gerus Wikipedia:Lys van
+          sjablone vir meer inligting. Anrie 14:18, 15 Oktober 2007 (UTC)
+
+                Die Engels vir "sjabloon" is "template". — Adriaan (S★B)
+                17:00, 15 Oktober 2007 (UTC)
+
+                      Jip en dit kom van die ideë van 'n "Stencil" af -
+                      dit maak seker dat gestandaardiseerde teks oral die
+                      selfde lyk. laurens 10:16, 16 Oktober 2007 (UTC)
+
+Is "meekoppel" 'n Afrikaanse woord?
+
+   Nederlands het die mooiste woord vir "positiewe terugvoer":
+   meekoppeling. Die teenoorgestelde van "meekoppeling" is
+   "teenkoppeling".
+
+   Die woord "terugkoppel" is wel 'n Afrikaanse woord en 'n sinoniem vir
+   "terugvoer" (en eintlik verkies ek "terugkoppel").
+
+   Ek kan geen Afrikaanse webwerwe vind wat die woord "meekoppel" nog
+   "teenkoppel" bevat nie. My Pharos woordeboek bevat ook nie hierdie
+   woorde nie.
+
+   Weet enige iemand of hierdie woorde deur ingenieurs gebruik word? Ek
+   hoop so, omdat "meekoppeling" vir my meer melodies as "positiewe
+   terugvoering" is. — Wynand.winterbach 21:00, 18 Oktober 2007 (UTC)
+
+                Ek het nog my Afrikaanse notas vir my prosesbeheerkursus,
+                sal bietjie gaan naslaan as ek weer by die werk kom om te
+                sien watter terme ons gebruik het. --RM 20:02, 22 Oktober
+                2007 (UTC)
+
+                      Dit sal fantasties wees, RM.
+                      Sal enigiemand hierso beswaar lewer as daar 'n
+                      bladsy geskep word met Afrikaanse ingenieurswese
+                      verwante woordeskatte? Miskien is daar alreeds só
+                      bladsy, in welke geval ek daardie bladsy sal aanvul.
+                      Wynand.winterbach 12:21, 27 Oktober 2007 (UTC)
+
+Frankiese lesse vir onbeleefde Nederlanders - artikel oor Frankies (taal)
+
+   Artikel oor Frankies op die Afrikaanse Wikipedia
+
+   Haai, Jcwf
+
+   Ek het jou misnoeë met die artikel oor die Frankiese taal by die
+   Afrikaanse Wikipedia opgemerk. Ongelukkig beskik ek self nie oor die
+   nodige kennis of bronne om enigsins 'n geldige opinie te hê nie. Dit is
+   egter nie die eerste keer dat iemand ongelukkig is met die betrokke
+   outeur se skrywes nie, dus het ek dit goedgedink om een van my
+   familielede (een van jou landsgenote, nogal) te kontak wat 'n
+   uitstekende geskiedkundige is (des te meer is sy vrou dan ook 'n kenner
+   in die gebied van taal). Ek hoop om binne die volgende paar dae van
+   hulle te hoor en sal dan, op grond van wat hulle my kan vertel, jou
+   posisie kan steun of (mens weet nooit) moet teëkant.
+
+   Ek wou jou per e-pos kontak, maar jy het nie 'n "geldige e-pos
+   gespesifiseer nie", so toe kom plaas ek maar die boodskap hier. Anrie
+   08:31, 22 Oktober 2007 (UTC)
+
+   "Dit is egter nie die eerste keer dat iemand ongelukkig is met die
+   betrokke outeur se skrywes nie..." Dankie vir hierdie persoonlike
+   belediging, Anrie!
+
+   Ek weet nog nie waaruit hierdie soort verstandsverbystering voortspruit
+   nie, maar indien sekere gebruikers en administrateurs onrus op die
+   Duitse, Nederlandse en Afrikaanse Wikipedia-projekte wil stook is
+   gebruikers wat slegs die wetenskaplik juiste vertaling van 'n Duitse
+   artikel bygedra het moontlik nie die juiste adres nie. 'n Letterlike
+   vertaling verskyn ook op die Nederlandse Wikipedia. Miskien kan sekere
+   Nederlanders wat voel dat hulle die Europese geskiedenis danksy hul eie
+   navorsing moet herskryf eers daar beswaar maak voordat hulle
+   anderstalige projekte met hierdie loutere onsin pla. --Voyageur 12:49,
+   22 Oktober 2007 (UTC)
+
+          Dit was glad nie bedoel as 'n belediging nie, Voyageur, maar
+          daar was al voorheen klagtes dat jou artikels te Duits- of
+          Fransof watookal-sentries was (hey - ek is al selfs van erger
+          dinge beskuldig, maar it still warants investigation). Ek het
+          die ongelukkige gebruiker juis persoonlik probeer kontak omdat
+          ek nie onrus wil stook of betrokke partye ongelukkig wil maak
+          nie. Indien jy my hele boodskap daar gelees het, sal jy sien dat
+          ek juis gesê het dat ek nie wil betrokke raak nie, omdat ek nie
+          vertroud is met die onderwerp nie. Daarom dat ek verder meer
+          gaan probeer uitvind van mense wat kenners op die gebied is en
+          nie letterlike vertalings van anderstalige Wikipedia-artikels
+          nie. Anrie 12:58, 22 Oktober 2007 (UTC)
+
+                Oh, ekskuus. Ongelukkig het die Nederlandse Wikipedia
+                dieselfde artikel - is dit dan ook Frans- en
+                Duits-sentries of wat? Ek verstaan glad nie waarom Jcwf
+                nie by sy eie taalgemeenskap bly en daar beswaar maak nie.
+                Ek het eerder die gevoel dat Jcwf weer 'n persoonlike
+                sienswyse op ons Wikipedia wil afdwing wat nie deur
+                wetenskaplike werke of logiese denke gesteun word nie.
+                Afrikaners en Nederlanders is daarnaas twee aparte nasies.
+                Hy beweer nou weer eens dat Franse en Duitsers die
+                geskiedenis probeer vervals en dat geskiedenisboeke
+                herskryf moet word en voeg dan ook nog vreemde anti-Duitse
+                en anti-Franse propaganda by.
+                Artikels oor Duitse of Franse onderwerpe sal noodwendig
+                Duits- of Frans-sentries moet wees - ek dink nie ons moet
+                besware van Vlaamse of Nederlandse nasionaliste - waarna
+                jy moontlik verwys - aanvaar nie. Afrikaners se
+                betrekkinge met die Duitsers en Franse was altyd baie goed
+                - ek sien geen rede waarom ons nie hierdie twee kulturele
+                gemeenskappe en Wikipedia's tot voorbeeld moet neem nie.
+                Ek sal die artikel en bespreking by Frankies (taal) later
+                nog van nuwe kaartmateriaal vorsien. --Voyageur 13:23, 22
+                Oktober 2007 (UTC)
+
+                      Indien Jcwf geen bronne ter stawing van sy punte het
+                      nie, is sy siening nutteloos hier, aangesien
+                      artikelinhoud hier nie op die waarheid gebaseer is
+                      nie, maar op verifieerbaarheid. As jy dus bronne kan
+                      aanhaal wat jou punte ondersteun is dit nodig dat jy
+                      dit doen (dit is dus nie nodig om nie-vrye beelde op
+                      te laai nie - hulle sal binnekort verwyder word:
+                      don't disrupt Wikipedia to make a point. Daai een
+                      beeld wat geen grafika bevat nie kan mens maklik 'n
+                      eie diagram van maak en net meld dat dit aangepas is
+                      uit boek A deur skrywer B.) (Vir die tweede beeld
+                      kan mens maklik 'n vrye kaart inkleur om dieselfde
+                      data te vertoon en meld "aangepas uit.. xxx")
+                      Enige gebruiker is welkom hier of dit nou 'n hy of
+                      'n sy, 'n Nederlander of 'n Fransman is. Jcwf het al
+                      waardevolle bydraes hier gelewer en ons het hom
+                      nodiger as die Nederlandse Wikipedia. Anrie 13:33,
+                      22 Oktober 2007 (UTC)
+
+                            Jcwf se kommentaar - "door Duitse bril bekeken
+                            nationalistische onzin" - en die vergelyking
+                            van die Afrikaanse, Nederlandse en Duitse
+                            artikels met Nazi-propaganda is nogtans
+                            onversoenbaar met ons eie, Duitse of Franse
+                            kulturele standaarde. --Voyageur 13:48, 22
+                            Oktober 2007 (UTC)
+
+                                  As jy voel dat hy jou beledig het, of 'n
+                                  Nazi genoem het, kan jy hom versoek om
+                                  onverskoning te vra en hom verwys na
+                                  Wikipedia:Beleefdheid.
+
+                                        Aangesien ek nie die skrywer is
+                                        nie, maar net die vertaler van die
+                                        artikel, het hy eerder die
+                                        oorspronklike outeurs beledig.
+                                        Nogtans wil ek nie hierdie soort
+                                        Nederlandse onsin moet verduur nie
+                                        - en ons het hier myns insiens ook
+                                        geen Nederlandse "deskundiges"
+                                        nodig om die historise feite reg
+                                        te kry nie.
+                                        Duitse deskundiges het vir my
+                                        bevestig dat baie Nederlanders
+                                        gewoon 'n anti-Duitse houding
+                                        inneem en in hulle
+                                        geskiedenisboeke wat in skole
+                                        gebruik word ook min of niks oor
+                                        die Duitse geskiedenis ná 1945
+                                        skryf nie. Vervalsing of eensydige
+                                        standpunte ten opsigte van die
+                                        vroeë en moderne geskiedenis is
+                                        blykbaar 'n tipies Nederlandse
+                                        karaktertrek. --Voyageur 18:10, 22
+                                        Oktober 2007 (UTC)
+
+                                        Eish 'n mens kan sien waarom
+                                        altwee wêreldoorloë sy oorsprong
+                                        in Europa gehad het :) --RM 20:09,
+                                        22 Oktober 2007 (UTC)
+
+                                              Wêreldoorloë? Ag nee, net
+                                              soos in die tyd van Guy
+                                              Fawkes se Engelse Gunpowder
+                                              Plot het ons vandag net Guy
+                                              False aka Jcwf se
+                                              Cheesepowder Plot verydel.
+                                              Europa? Ek verstaan daardie
+                                              Frankiese terroris skuil
+                                              êrens aan die Amerikaanse
+                                              ooskus. Waar is Homeland
+                                              Security nou as mense hulle
+                                              nodig het? :o --Voyageur
+                                              22:07, 22 Oktober 2007 (UTC)
+
+                                              Kom nou, Voyageur, dis nie
+                                              nodig om aan te hou om
+                                              beledigings rond te slinger
+                                              nie. Anrie 06:23, 23 Oktober
+                                              2007 (UTC)
+
+          een paar citaten uit niet-Nederlandse bron:
+
+          We first find mention of them [the Franks] of them on the map of
+          the world dating from the time of Emperor Alexander (222-235).
+          Under Postumus (259-268) they carried out such aggresive raids
+          in the lower Rhineland (my italics) that the emperor moved his
+          residence to Cologne.. ^[1]
+
+          ..in 355 Julian crushed the Salian Franks and then took steps to
+          ensure their pacification. A large stretch of territory was
+          granted to them in Gallia Belgica allowing them to exist under
+          Roman leadership with the empire ^[2]
+
+          .... St. Jerome states that Reims and Tournai (Doornik) were
+          occupied by the Franks shortly before 406 ^[3]
+
+   De vestiging van de Franken in het gebied dat op het kaartje als
+   Nederfrankisch aangeduid is stamt dus uit de periode 290-400 of ben ik
+   nu onbeleefd?
+
+   Vandaaruit heeft Clovis in 486 de regering van heel Belgica II
+   overgenomen.
+
+   Als ik naar het Opperfrankische gebied kijk strekt dat tot aan het
+   noorden van Beieren. Daarover:
+
+          When Charlemagne became king, several German regions were
+          already integral parts of the Frankish realm. Thuringia, Hesse,
+          Alemannia and the Rhine Valley lived in the orbit of Austrasia
+          and had been Christanized... To the South the situation was
+          different The Dutchy of Bavaria roughly formed a square bounded
+          by the Danube, Enns and Lech rivers and was semi-independent.
+
+          The duke [Tasillo] could not withstand three armies that
+          converged on him... On 3 october 787 Tassilo renewed the fealty
+          he once pledged... Tassilo was condamned ot death in 788..
+          Charles him self took up residence in Regensburg.. Thus the
+          ancient dutchy .. [was] joined to the Frankish kingdom ^[4]
+
+   Zou dat Frankisch nou echt uit het oosten gekomen zijn? Of mag ik
+   zeggen het zich eerst in de Lage Landen gevestigd heeft (dwz het
+   centrum van het Frankenrijk dat later tot het Middenrijk ging behoren
+   en een stukje zelfs aan het Westfrankische rijk (Graafschap
+   Vlaanderen)) en pas in het halve millennsium daarna (mogelijk!) over de
+   zuidoostelijke gebieden verspreid heeft. Maar goed dat mag ik dus niet
+   zeggen want dan ben ik een terrorist...
+
+   Was niet ingelogd, sorry Jcwf 03:55, 23 Oktober 2007 (UTC)
+    1. ^ page 418 a history of Rome under the emperors III Theodor
+       Mommsen, Routledge press ISBN 0-415-10113-1 original 1882 published
+       when rediscovered 1996 (Mommsen wordt erkend als een van de
+       grootste Duitse historici van het Romeinse Rijk
+    2. ^ page 162 of A dictionary of the Roman Empire Oxford paperback
+       reference Matthew Bunson ISBN 0-19-510233-9
+    3. ^ Mommsen page 498
+    4. ^ The Carolingians Pierre Riché translated form the French by
+       Michael Allen U Pennsylvania Press ISBN 0-8122-3062-3062-0
+
+               o Ek verstaan nie regtig wat jy met jou aanhalings wil
+                 bewys nie - moontlik probeer jy die tekste te
+                 herinterpreteer in die lig van jou persoonlike posisie en
+                 mening aangaande die historiese gebeure. Ek sal altyd die
+                 eerste wees wat 'n nuwe en logiese sienswyse sal steun,
+                 maar jou opmerkings oor "nasionalistiese onsin" maak jou
+                 teorieë heeltemaal onoortuigend en twyfelagtig. Ek stel
+                 voor dat hierdie soort teorieë tot Nederlandse kringe
+                 beperk moet bly totdat dit logies ontwikkel en in
+                 wetenskaplike publikasies verduidelik kan word. Tans is
+                 daar geen bronne beskikbaar wat jou stellings eksplisiet
+                 steun nie.
+               o Die Frankiese stamgebied was oorspronklik in die ooste of
+                 die huidige Duitsland geleë, en hier het ook die
+                 Frankiese taal begin ontwikkel. Natuurlik het die Franke
+                 in weswaartse rigting uitgebrei, maar 'n groot deel van
+                 hulle het steeds op die latere Duitse grondgebied gebly.
+               o Ons beskik oor min bronne oor hierdie tyd, en alles wat
+                 ons kan vermoed is dat die Franke eerder 'n konglomeraat
+                 van verskillende groepe was - net soos hulle taal eerder
+                 uit 'n aantal dialekte bestaan het.
+               o Wat jy blykbaar op die Duitse en Afrikaanse Wikipedia wil
+                 bewys is dat ons die Franke uitsluitlik as
+                 Proto-Nederlanders en latere veroweraars van Galliese en
+                 Germaanse gebiede en Frankies uitsluitlik as 'n soort
+                 Proto-Nederlands moet beskou. Geen historiese bron steun
+                 hierdie opvatting nie, en daar is ook geen geskil tussen
+                 Duitse, Franse en Nederlandse navorsers hieroor nie. Jy
+                 het die skrywers en vertalers van die betrokke artikels
+                 onmiddellik beledig en veronderstel dat hulle argumente
+                 gelykstaan aan Nasionaal-Sosialistiese teorieë oor die
+                 oorsprong van die Duitse volk.
+               o Jou bronne gaan oor die vestiging van die Wes-Nederfranke
+                 ('n term wat deur die Afrikaanse taalkundige Edith H.
+                 Raidt heel presies gebruik word vir die Franke op die
+                 huidige Nederlandse en Vlaamse gebied), en jy kan tog
+                 eerder begin om 'n artikel oor die Volksverhuising en sy
+                 gevolge in Nederland begin saamstel as jou verwarrende
+                 teorieë op die besprekingbladsye van ander artikels uit
+                 te lig.
+               o Aangaande Nederduits - daar was vroeër nie sprake van 'n
+                 Duitse of Nederlandse eenheidstaal nie, maar 'n kontinuüm
+                 van Neder-, Middel- en Opperduitse dialekte. Nederlanders
+                 het hul land oorspronklik wel as deel van die Duitse
+                 taalgebied beskou en dikwels verwys na "Neder-" en
+                 "Opperduits". Die term "Nederlands" is redelik laat
+                 gebruik om na die selfstandige taal van die Lae Lande te
+                 verwys. En tot by die jaar 1648 was Nederland, net soos
+                 Switserland, nog steeds 'n deelgebied van die Heilige
+                 Romeinse Ryk.
+               o Nederlands is allesbehalwe 'n regstreekse ontwikkeling
+                 uit die Wesnederfrankiese taal - dit is sterk beïnvloed
+                 deur die Middelnederduitse skryftaal en dus 'n sustertaal
+                 van Duits, net soos Luxemburgs, wat oorspronklik net 'n
+                 Moselfrankiese dialek was en tans tot 'n nasionale taal
+                 uitgebou word.
+               o Die verwysings na die klankverskuiwing behandel net een
+                 aspek van die historiese ontwikkeling. Dit is egter onsin
+                 om te beweer dat enigiemand in Duitsland vandag nog
+                 aanspraak op Nederland maak en hiervoor taalhistoriese
+                 argumente aanvoer.
+               o Ek het dieselfde beswaar teen enige pogings om Afrikaans
+                 en Nederlands net vanweë hul historiese oorsprong as 'n
+                 eenheid te beskou, net soos ek enige anglisisme, wat ons
+                 taal net verder na 'n kombuis- en dogtertaalstatus naas
+                 Engels sal laat afsak, sal betwis. Voyageur 09:01, 23
+                 Oktober 2007 (UTC)
+
+                      *Ek verstaan nie regtig wat jy met jou aanhalings
+                      wil bewys nie
+
+                            Ik wil laten zien dat die gele gebieden op je
+                            kaartje veel en veel langer Frankisch geweest
+                            zijn dan die zogenaamde 'Opperfrankische'
+                            gebieden. Die dialecten daar zijn alleen maar
+                            Frankisch in naam omdat het gebieden zijn die
+                            later in de Frankisch geschiedenis een tijdje
+                            gekoloniseerd zijn. De naam is gebleven, maar
+                            de dialecten lijken veel meer op die van de
+                            buren. Dat is iets wat onlogischerwijze het
+                            verhaal zelf ook duidelijk maakt: taalkundig
+                            klopt er weinig van die 'taalfamilie'. Zou het
+                            niet beter zijn om dat duidelijker te maken
+                            door het lemma te beperken tot de echte
+                            Frankische dialecten? En duidelijk te maken
+                            dat ze niet te verwarren zijn met dialecten
+                            die alleen maar naar de Franken genoemd zijn?
+                            Iets vergelijkbaars geldt overigens voor
+                            'Frans': ook die naam verwijst naar de
+                            'Franken', maar behoudens een aantal
+                            leenwoorden is dat geen 'Frankische taal'.
+
+                                  En ja die 'Opperfrankische' dialecten
+                                  worden er graag met de haren bijgesleept
+                                  door mensen die zo graag alle mogelijke
+                                  verbinding tussen Nederlands en
+                                  Frankisch willen ontkennen of
+                                  verzwakken. Zelf laat je van dat laatste
+                                  een goed staaltje zien: ..Nederlands is
+                                  allesbehalwe 'n regstreekse ontwikkeling
+                                  uit die Wesnederfrankiese taal... Tja,
+                                  als dat zo is waarom staat Nederlands
+                                  (en Afrikaans) dan als
+                                  Westnederfrankisch genoemd op Frankies
+                                  (taal)? En als Nederlands niet een
+                                  Westnederfankische ontwikkeling is waar
+                                  komt het dan wel vandaan? Mars
+                                  misschien? En dit is maar een van de
+                                  vele onlogische kronkels die je op dit
+                                  gebied tegenkomt en die jij vaak gewoon
+                                  overneemt. (En waar ik niet eens een
+                                  vraagteken bij mag zetten want dan word
+                                  ik voor een terrorist uitgemaakt.)
+
+                ..En tot by die jaar 1648 was Nederland, net soos
+                Switserland, nog steeds 'n deelgebied van die Heilige
+                Romeinse Ryk...
+
+                      Deze opmerking is in Duitsland inderdaad heel
+                      gebruikelijk: het is een van de weinige dingen die
+                      Duitsers iha van onze geschiedenis (menen te) weten,
+                      maar het gaat wel voorbij aan de Pragmatieke Sanctie
+                      van een eeuw eerder die de banden van de Nederlanden
+                      met dat rijk reduceerde tot een jaargeld te betalen
+                      aan de persoon van de (in Gent geboren) keizer. Je
+                      zou net zo goed kunnen zeggen dat er vanaf 1548 een
+                      soort losse personele unie was. Met de rijksdag
+                      hadden de Nederlanden bijvoorbeeld niets meer te
+                      maken maar hadden een eigen parlement. Het gaat ook
+                      voorbij aan de afzwering van 1581 waarmee de
+                      republiek (dwz dat parlement) zich onafhankelijk
+                      verklaarde. Overigens eerder van Spanje dan van
+                      'Duitsland' dat laatste stelde namelijk bitter
+                      weinig voor... 1648 was niet anders dan een
+                      herbevestiging van een situatie die al veel langer
+                      bestond maar door sommige machten niet erkend werd.
+                      Bovendien is het verder natuurlijk voor het
+                      onderwerp bitter weinig relevant, behalve dan dat je
+                      je moet afvragen waarom Duitsers alleen maar van ons
+                      weten dat we een soort weggelopen provincie van hen
+                      zouden zijn. Waarom vinden ze alleen dat belangrijk?
+
+   Jcwf 75.178.178.59 03:12, 24 Oktober 2007 (UTC)
+
+                      Die Wesnederfranke en Oosfranke het nog steeds 'n
+                      politieke en kulturele eenheid gevorm, alhoewel die
+                      Franke in die Wesfrankiese Ryk later vinnig met die
+                      Romeinse adel vermeng het en geromaniseer is. Die
+                      Frankiese dialekte in Duitsland behoort in elk geval
+                      tot die Frankiese taalfamilie (of konglomeraat van
+                      dialekte) en pronk daarnaas met 'n ryk Oudhoogduitse
+                      literatuur. Hul sprekers was sekerlik ook etniese
+                      Franke.
+
+                      Ek het al in die artikel oor Nederlands verduidelik
+                      waarom die dialekte van die Lae Lande uiteindelik
+                      tot 'n selfstandige standaardtaal kon ontwikkel.
+                      Wesnederfrankies en Fries, Saksies en
+                      Middelnederduits is die hoofdialekte waaruit
+                      Nederlands uiteindelik ontstaan het. Nederlands en
+                      Afrikaans het natuurlik hoofsaaklik 'n
+                      Wesnederfrankiese karakter. Maar die Franke as 'n
+                      etniese groep (wat moontlik uit heel verskillende
+                      stamme bestaan het) word in die Europese
+                      vakliteratuur nog steeds as 'n Germaanse en (latere)
+                      Duitse stam beskryf - die ontwikkeling van 'n
+                      selfstandige Hollandse taal- en kultuurgebied het
+                      eers later begin. Wesnederfranke, Nedersakse en
+                      Friese is beslis die "stamvaders" van die huidige
+                      Nederlanders. Maar Duitsland se Franke is tog ook
+                      geen gekoloniseerde Marsbewoners nie; hulle maak ook
+                      deel uit van die Frankiese volk.
+
+                      Ek vrees die hele Europese geskiedenis word dikwels
+                      nog steeds in die lig van die tydperk van die
+                      nasionalisme en die wêreldoorloë gesien. Jy moenie
+                      die Heilige Romeinse Ryk as 'n Duitse nasionale
+                      staat beskou nie; dit was tog eerder 'n soort
+                      politieke, kulturele en religieuse federasie in
+                      Europa waarin verskillende volke en tale verenig
+                      was.
+
+                      Aangaande die vroeë geskiedenis van Duitsland en
+                      spesifiek die Frankiese Ryk sal ek binnekort 'n nuwe
+                      eersterangse werk van 'n Duitse professor kry. As jy
+                      belangstel in die rol wat die Saliese Franke as
+                      Frankiese kerngroep by die kulturele, politieke en
+                      religieuse vorming van die na-Romeinse Europa
+                      gespeel het, sal jy meer hieroor in die artikels oor
+                      die Franke en die Frankiese Ryk kan lees. Terloops,
+                      die Saliese Franke se kerngebied was êrens tussen
+                      Deventer en Kampen-Zwolle geleë. Alhoewel daar in
+                      die laat-antieke tydperk nog nie sprake kan wees van
+                      "Nederlanders" of "Duitsers" nie, is die geskiedenis
+                      van die belangrikste ryk wat ná die ondergang van
+                      Rome in Europa geskep is, besonder boeiend. Sodra jy
+                      nie meer probeer om suiwer nasionale sjablone soos
+                      "Nederlanders", "Duitsers" of "Franse" op hierdie
+                      vroeë samelewing toe te pas nie, het jy tog 'n
+                      gemeenskaplike kulturele erfenis waarop jy as 'n
+                      Europeër trots kan wees. --Voyageur 11:14, 24
+                      Oktober 2007 (UTC)
+
+Afrikaanse donasie boodskap.
+
+   Beter vertaling by m:Fundraising 2007/Text for sitenotice welkom. --
+   Jeandré, 2007-10-24t13:21z
+
+Wikipedia Akademie
+
+   iCommons en die Wikimedia Stigting het 'n inisiatief aangekondig ter
+   bevordering van bewustheid en gemeenskapsbou van Wikipedia in plaaslike
+   tale in Suid-Afrika in die vorm van die eerste Wikipedia Akademie wat
+   by die CIDA City Campus [Johannesburg] sal plaasvind op Saturdag 10
+   November 2007. 'n Afrikaanse Wikipedia Akademie werkswinkel sal ook op
+   Sondag 11 November gehou word. Jimmy Wales, Wikipedia se stigter, sal
+   aan beide inisiatiewe deelneem.
+
+   Veral die werkswinkel op Sondag is 'n unieke geleenthied vir on om die
+   Afrikaanse Wikipedia op 'n nuwe vlak te plaas. Die ideë is dat sleutel
+   lede van die Afrikaans Wikipedia gemeenskap, verteenwoordigers van die
+   Afrikaans media en ander belangstellendes aan 'n strategiese
+   beplanningsessie deelneem om stappe te bepaal vir die verdere uitbou
+   van die suksesvolle projek. Die geleenthede sal ook lede wat gehelp het
+   om die Swahili en Duitse Wikipedias op die been te bring insluit.
+
+   Vir meer inligting besoek gerus die iCommons aankondiging. As jy
+   belangstel om deel te neem, los 'n boodskap hier, of e-pos Heather Ford
+   by heather@icommons.org
+
+   laurens 20:17, 24 Oktober 2007 (UTC)
+
+          Ek is nie Saterdag die 10e tuis nie, maar is wel die 11e
+          beskikbaar. Natuurlik bly ek nie in Suid-Afrika nie, dus kan ek
+          nie in lewende lywe daar wees nie. Sal graag wil help/deelneem
+          waar moontlik. Anrie 13:45, 25 Oktober 2007 (UTC)
+
+                Ek sal ook nie daar kan wees nie, aangesien ek nie kan
+                bekostig om daar uit te kom nie. Maar ek sal wel aanlyn
+                probeer wees tydens die hele storie. Ek neem aan die
+                werkswinkel gaan met heel veel goed aanlyn besig wees? Sal
+                ek kan help al is ek nie fisies daar nie? — Adriaan (S★B)
+                13:54, 25 Oktober 2007 (UTC)
+
+                Ek sal 'n punt daarvan maak om daar te wees. Hoop ek sien
+                van ons ander wikivriende daar. --RM 21:05, 28 Oktober
+                2007 (UTC)
+
+                      Dis goed om te hoor renier - sal jou daar sien. Ons
+                      moet kyk of ons nie bietjie meer mens kan kry om te
+                      kom nie. laurens 14:50, 31 Oktober 2007 (UTC)
+
+                            Ek het Alias gekontak, maar hy sê hy het reeds
+                            lank terug iets ander vir daardie naweek
+                            afgespreek wat hy nie kan uitstel/kanselleer
+                            nie. Dit spyt my dat ek nie self daar kan wees
+                            nie, ek dink mens werk lekkerder en beter saam
+                            as mens eers die ander mense se hand kon skud
+                            en hulle in die oë gekyk het. Anrie 15:04, 31
+                            Oktober 2007 (UTC)
+
+Voorstel vir nuwe sjabloon
+
+   Kan ons nie maar asseblief 'n sjabloon gebruik om artikels soos Methyl
+   tert-butyl ether te merk nie? Iets soos sjabloon:Gaan taal na. Die
+   skoonmaaksjabloon is vir my in so 'n geval oneffektief, want ek voel
+   nie dis reg dat sulke artikels ongesiens tussen al ons baie artikels
+   verdwyn en nooit werklik verbeter word nie, en dat dit beter sal wees
+   om dit na 'n geruime tyd te verwyder indien niemand daaraan aandag kon
+   skenk nie. Anrie 13:51, 25 Oktober 2007 (UTC)
+
+          Ek is besig om te soek vir 'n mooier prentjie om in die boksie
+          te plaas. Maar ek dink die sjabloon is 'n goeie idee. Dalk kan
+          iemand met 'n voorstel vir 'n beeld kom. Daar is netjiese beelde
+          te vinde by commons:Category:Nuvola_icons. — Adriaan (S★B)
+          14:35, 25 Oktober 2007 (UTC)
+
+Versoek om ons DOEL-LYN op die titelblad ook op elke blaai te kan sien!
+
+   (...vanaf Gebruikerbespreking:Anrie)
+
+   Anrie sal jy asb so gaaf wees en die TOTAAL (9 881) van ons artikels
+   asb. net regs langs Tuisblad op die Tuisblad (9 881) te kan sit, dan
+   sal ons altyd (op elke bladsy!) die telling kan sien. Hoop dit sal
+   moontlik wees. Dit is 'n probeerslag wêrd! Beste groete, Pieter-ZA
+   13:10, 25 Oktober 2007 (UTC)
+
+          Ek sien nie of dit kan seer maak nie. Dalk kan ons onder die
+          gereedskapboksie nog 'n boksie sit en met die
+          getal? — Adriaan (S★B) 13:44, 25 Oktober 2007 (UTC)
+
+                Dis definitief moontlik, ek dink. Maar ek weet nie of dit
+                werklik 'n goeie idee is nie. Wie wil nou konstant ingelig
+                word oor die hoeveelheid artikels wat die ensiklopedie
+                bevat? Dit verskyn dan reeds op die Tuisblad, by die
+                statistiekblad en by "onlangse wysigings". Indien julle
+                sterk daaroor voel is julle welkom om dit in die
+                Geselshoekie voor te stel, sodat ons kan hoor wat ander
+                gebruikers dink. Of nog beter, ek sal die daar kopieer.
+                Anrie 13:58, 25 Oktober 2007 (UTC)
+
+                      Dalk kan ons dit in vet druk onder die sin wat sê
+                      "laaste wysiging op..." aan die onderkant van die
+                      bladsy plaas. — Adriaan (S★B) 14:36, 25 Oktober 2007
+                      (UTC)
+
+                            Persoonlik dink ek ons moet pasop om die
+                            artikeltelling te jaag. Kwaliteit behoort ook
+                            'n maatstaf te wees. --RM 17:40, 25 Oktober
+                            2007 (UTC)
+
+                                  Ek het dit onderaan die bladsye probeer
+                                  plaas, maar dit lyk net nie reg
+                                  nie. — Adriaan (S★B) 19:15, 25 Oktober
+                                  2007 (UTC)
+
+Aandag: alle gebruikers wat artikels vertaal
+
+   Ek het hierdie boodskap oorspronklik op Laurens se besprekingsblad
+   gelos, maar dit raak alle gebruikers wat hier artikels vertaal, dus
+   plak ek dit ook maar hier.
+
+Vertaling van Clovis I
+
+   Haai, Laurens
+
+   Ek neem nou aan dat jy die bogenoemde artikel vertaal. Indien dit nie
+   die geval is nie kan jy hierdie boodskap maar ignoreer.
+
+   Ek het onlangs uitgevind dat dit verplig is (onder die vereistes van
+   die GFDL) om in die wysigingsopsomming/artikel self te noem waarvandaan
+   jy die artikel vertaal. Indien geen melding daarvan gemaak word nie,
+   lyk dit of jy die oorspronklike outeur is en, al is dit nie die
+   bedoeling nie, ontneem jy dan die oorspronklike outeurs van die reg om
+   as die outeurs van die oorspronklike teks erken te word.
+
+   Ek was ook nie voorheen bewus hiervan nie en het dit maar onlangs
+   geleer - voel natuurlik nou lekker skuldig hieroor (siende dat ek dit
+   nie ook altyd in die verlede gemeld het nie). Ek dink die beste sal
+   maar wees om óf die hele artikel in een go te publiseer (reeds vertaal)
+   óf die onvertaalde teks dan ook by te voeg, maar dan in
+   kommentaarhakies en dan in die wysigingsopsomming 'n skakel na die
+   oorspronklike bron te plaas (sodoende kan ander gebruikers die
+   oorspronklike blad se wysigingsgeskiedenis nagaan vir die
+   miljoene/enkele outeurs van die bronteks).
+
+   Ek dink nou net daaraan dat ek hierdie boodskap sommer in die
+   geselshoekie ook gaan plaas - ons het 'n hele hopie vertalers onder ons
+   en dit sal goed wees as hulle ook bewus hiervan is.
+
+   Groetnis, Anrie 16:05, 28 Oktober 2007 (UTC)
+
+   Die res van die gesprek het as volg verloop:
+
+          Ek het nooit daaraan gedink nie maar ek dink jy is waarskynlik
+          reg. Ons moet maar oor riglyne dink wat prakties gaan werk. Ek
+          vertaal byvoorbeeld selde netso die Engelse teks en maak sommer
+          veranderinge soos ek aan gaan. Ek wonder hoe ander Wikipedia's
+          die saak hanteer? laurens 16:16, 28 Oktober 2007 (UTC)
+
+                Ek het nou so 'n bietjie gekyk - ek sien die en.wp sit
+                This article was initially translated from [wikilink],
+                specifically [permalink]. Ek dink die "initially" is
+                belangrik, siende dat artikels groei en verander na dit
+                vir die eerste keer gepubliseer is. Ek dink 'n melding by
+                die wysigingsopsomming is ook voldoende, daar is nie
+                verniet tyd- en datumstempels wat vergelyk kan word nie.
+                Ek bring self veranderings aan my vertalings (insluitende
+                byvoegings en weglatings), maar ek dink nie dis iets om
+                oor te bekommer nie. Deur die tekste te vergelyk kan enige
+                leser sien watter bydraes die vertaler se eie is. Anrie
+                16:24, 28 Oktober 2007 (UTC)
+
+                      Het self ook bietjie rondgekyk - hulle doen dit deur
+                      die sjabloon te gebruik:
+                      http://en.wikipedia.org/wiki/Template:Translation/Re
+                      f Ek dink mens kan dit dalk bietjie meer generies
+                      maak deur aan te dui dat die artikel of dele daarvan
+                      vertalings is van die artikel in die oorspronklike
+                      taal. Dit gaan natuurlik heel ingewikkeld word as
+                      mens oor 'n lang tyd aan 'n artikel werk - Karel die
+                      Grote moet byvoorbeeld eendag klaar vertaal word.
+                      laurens 16:41, 28 Oktober 2007 (UTC)
+
+                Ag nee, dit hoef heeltemal nie ingewikkeld te wees nie. In
+                so 'n geval kan mens maar net die engelse teks in
+                kommentaarhakies plaas met 'n permanente skakel in die
+                wysigingsopsomming of onderaan by die
+                verwysings/aantekening of afdeling vir afdeling vertaal en
+                dan telkens meld "vertaal vanaf
+                en:Charlemagne#Conquest_of_Lombardy of so iets. Anrie
+                17:00, 28 Oktober 2007 (UTC)
+
+                      Ek het sommer gou die Engelse sjabloon vertaal
+                      (Sjabloon:Vertaling/Verwysing) en in
+                      Sjabloon:Inligtingskas Heilige gebruik. Ek het dit
+                      ook aangepas sodat mens die vertaaldatum kan aandui.
+                      laurens 18:18, 28 Oktober 2007 (UTC)
+
+Agrippina - Al twee van hulle.
+
+   Hoe sou 'n mens in Afrikaans tussen die twee Agrippina's onderskei? Die
+   Nederlanders gebruik "de jongere" en "de oudere". Soos gewoonlik gee
+   die WAT en die HAT nie uitspraak nie. Engels gebruik "the elder" en
+   "the younger". Ek sou "Junior" en "Senior" verkies, maar 'n ander
+   gebruiker (ek het vergeet om te kyk wie) het "die jongere" gebruik.
+   "die jongere" klink aanvaarbaar, maar wat van "die ouere" of "die
+   oudere"??
+
+   Groete, hansjoseph 07:18, 30 Oktober 2007 (UTC)
+
+          Ek was bietjie vinnig in my veroordeling van die HAT en die WAT.
+          Hulle gee nie Agrippina nie maar die HAT gee wel "die jongere"
+          en noem dit "deftig". HAT gee niks oor "die ouere" nie. WAT gee
+          beide "die jongere" en "die ouere" (nie "die oudere" nie). Vir
+          my is "junior" en "senior" nog steeds verkieslik. hansjoseph
+          07:49, 30 Oktober 2007 (UTC)
+
+                Ongelukkig het die wêreldspektrum ook geen inligting
+                hieroor nie. Ek moet erken dat ek self "die jongere" en
+                "die ouere" in hierdie geval sou verkies, maar dit is
+                natuurlik noodsaaklik dat ons uitvind wat gebruiklik is en
+                daarby hou. Anrie 13:30, 30 Oktober 2007 (UTC)
+
+                      Ek sou ook eerder die jongere en ouere verkies.
+                      Junior en senior klink net nie gepas in die verband
+                      nie en dit is waarskynlik waarom die Engelstalige
+                      artikel ook nie junior en senior gebruik nie. --RM
+                      22:02, 30 Oktober 2007 (UTC)
+
+                            Ter ondersteuning van jongere en ouere kan ek
+                            wys op die gebruik van Plinius die Jongere in
+                            ‘N KULTUREEL-SOSIALE STUDIE VAN NAGTELIKE
+                            AKTIWITEITE IN ANTIEKE ROME, GEBASEER OP
+                            PRIMÊRE BRONNE magisterverhandeling deur deur
+                            MARLENE VAN DEN BERG [1] laurens 12:55, 31
+                            Oktober 2007 (UTC)
+                            Mieliestronk se artikel oor die Wals gebruik
+                            ook Johann Strauss die jongere en Johann
+                            Strauss die ouere. laurens
+
+   Dankie aan almal; Ek sal my hou by "die jongere" en "die
+   ouere".hansjoseph 18:01, 31 Oktober 2007 (UTC)
+
+Wat is ,,recant their faith " op Afrikaans ?
+
+   Wat is ,,recant their faith " op Afrikaans ? Sarcelles 15:27, 1
+   November 2007 (UTC)
+
+          "Sweer hulle geloof af" is moontlik 'n goeie Afrikaanse
+          vertaling. --Voyageur 15:33, 1 November 2007 (UTC)
+
+                Dankie
+
+   Sarcelles 15:37, 1 November 2007 (UTC)
+
+wat is ,,cult" in het Afrikaans ?
+
+   Wat is ,,cult" in het Afrikaans ? Sarcelles 19:01, 2 November 2007
+   (UTC)
+
+          Gebruik gerus "kult". --Voyageur 19:08, 2 November 2007 (UTC)
+
+                Dankie.
+
+   Sarcelles 19:14, 2 November 2007 (UTC)
+
+                Die woordelys en die HAT gee nie "kult" nie, ek dink die
+                regte woord is "kultus". hansjoseph 08:23, 3 November 2007
+                (UTC)
+
+                      Ons moet moontlik eers die volledige sin hê wat
+                      Sarcelles graag wil vertaal. Ek dink egter dat
+                      Sarcelles besig is met religieuse onderwerpe sodat
+                      die term "kultus" toepaslik is.
+
+                      Die woord "kult" bestaan wel in Afrikaans; ons het
+                      "kult-riller" en "kult-status". Die gebruik hang
+                      moontlik van die konteks af; ek het nou ook 'n
+                      aantal woordeboeke geraadpleeg en die Afrikaanse
+                      taalgebruik met Duits en Nederlands vergelyk.
+                      Sommige woordeboeke beweer dat ons eerder die woord
+                      "kultus" moet gebruik en gee "erediens" en
+                      "godsdiens" as sinonieme. Ander woordeboeke gee
+                      "kult" as 'n selfstandige lemma. "Kult" is volgens
+                      moderne woordeboeke 'n meer profane woord en
+                      toepaslik wanneer ons na die verering of gewildheid
+                      van iets of iemand wil verwys; "kultus" is in die
+                      moderne taalgebruik eerder beperk tot die religieuse
+                      sfeer.
+
+                      Die twee woorde het dieselfde wortel; net soos by
+                      talle Latynse eiename word die manlike -us-uitgang
+                      dikwels weggelaat sodat ons "kultus" naas "kult"
+                      kry. Die gesaghebbende Duitse woordeboek Wahrig gee
+                      "kultus" tans as 'n verouderde vorm van die moderne
+                      "kult" - dit weerspieël ook die moderne Afrikaanse
+                      taalgebruik. Ek sien die Duitse Wikipedia
+                      verduidelik die moderne taalgebruik in twee
+                      uitstekende artikels: Kult en Kult (Status).
+                      --Voyageur 11:01, 3 November 2007 (UTC)
+
+Wat is ,,Three-Self Patriotic Movement en" op Afrikaans ?
+
+   Wat is ,,Three-Self Patriotic Movement en" op Afrikaans ? Sarcelles
+   17:31, 4 November 2007 (UTC)
+
+Wikimedia in die nuus
+
+   Die Wikimedia stigting het 'n hofsaak wat verband hou met
+   privaatheidswette in Frankryk gewen. --RM 10:43, 5 November 2007 (UTC)
+
+Aanhaling vereis
+
+   Is hier iewers 'n gelykwaardige sjabloon aan die engelse "citation
+   needed" template? Ek sien nie een in die lys van die gebruikersportaal
+   nie. --RM 07:00, 7 November 2007 (UTC)
+
+          Haai, Renier. Gebruik gerus {{feit}}, dit vertoon dan as
+          ^[verwysing benodig]. Anrie 07:10, 7 November 2007 (UTC)
+
+WikiNEWS (Afrikaans)
+
+          Geskuif vanaf Bespreking:WikiNEWS_(Afrikaans). — Adriaan (S★B)
+          13:18, 8 November 2007 (UTC)
+
+   http://wikinews.org bestaan al (in verskeie taale), maar nog geen
+   http://af.wikinews.org nie. Is daar enige rede hiervoor, of het
+   AFRIKAANERS geen nuus of belangstelling in NUUS nie?
+
+   Beste groete. ;-) Pieter-ZA 11:19, 8 November 2007 (UTC)
+
+Hulp met vertaling van finansiële/ekonomiese boffins
+
+   Haai daar,
+
+   Ek is nou al vir 'n paar weke besig met 'n artikeltjie oor Australië en
+   is nou so amper-amper klaar. Ek haak egter so 'n bietjie vas by die
+   volgende sin:
+
+          Nevertheless, Australia has the world's fourth largest current
+          account deficit in absolute terms (in relative terms it is more
+          than 7% of GDP). This is considered problematic by some
+          economists, especially as it has coincided with the high terms
+          of trade and low interest rates that make the cost of servicing
+          the foreign debt low.
+
+   Dis daardie laaste deeltjie ...."and low interest rates that make the
+   cost of servicing the foreing debt low". ..."en lae rentekoerse wat die
+   koste van die instandhouding van buitelandse skuld laag hou"?
+
+   Enige raad sal waardeer word.... Anrie 16:05, 8 November 2007 (UTC)
+
+          Ek dink jy kan moontlik "terugbetaling" in plaas van
+          "instandhouding" gebruik; ek weet "servicing a debt" is "eine
+          Schuld bedienen" in Duits, maar ek vrees ons het geen letterlike
+          vertaling hiervoor in Afrikaans nie. --Voyageur 17:14, 8
+          November 2007 (UTC)
+
+                Sien nou! Ek het nie eers verstaan wat "servicing the
+                debt" beteken nie (my man het my pas tydens aandete
+                verduidelik). Ek het maar 'n wye draai om die
+                ekonomie-klas geloop in hoërskool... Dankie, Voyageur,
+                "terugbetaling" klink piekfyn. Anrie 20:15, 8 November
+                2007 (UTC)
+
+   Kategorie: Wikipediabesprekingargiewe
+

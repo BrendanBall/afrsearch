@@ -1,0 +1,23 @@
+Oopbron
+
+
+   Oopbron verwys na rekenaar sagteware waarvan die bronkode openlik en
+   vrylik beskikbaar is.
+
+[wysig] Oopbron projekte (in alfabetiese volgorde)
+
+     * Cygwin
+     * Free Pascal
+     * Freevo
+     * Linux
+     * Mozilla Firefox
+     * OpenOffice.org
+     * PHP
+
+[wysig] Sien ook
+
+     * Ope-inhoud
+     * Tim O'Reilly
+
+   Kategorie: Rekenaar
+

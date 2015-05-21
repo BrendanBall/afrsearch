@@ -1,0 +1,117 @@
+Lawrensium
+
+
+
+    103                   nobelium ← lawrencium → rutherfordium
+    Lu
+   ↑
+   Lr
+   ↓
+   (Upt)
+
+                                                                periodieke tabel
+
+                                                                  Algemeen
+                                  Naam, Simbool, Getal lawrencium, Lr, 103
+                                             Chemiese reeks Oorgangsmetale
+                                              Groep, Periode, Blok 3, 7, d
+                                   Voorkoms onbekend, waarskynlik silwerig
+                                                         wit of metaalgrys
+                                                    Atoommassa (262) g/mol
+                     Elektronkonfigurasie waarskynlik [Rn] 5f^14 7s^2 7p^1
+                                 Elektrone per skil 2, 8, 18, 32, 32, 8, 3
+                                         Toestand vermoedelik 'n vastestof
+                                                          Smeltpunt 1900 K
+                                                                (1627 °C)
+                                      ionisasie energieë 1ste: 470 kJ/mol
+                                             CAS-registernommer 22537-19-5
+                                                                Verwysings
+
+   Lawrencium (IFA: /ləˈrɛnsiəm/), ook eka-lutetium, genoem is 'n
+   radioaktiewe sintetiese element in die periodieke tabel met die simbool
+   Lr en atoomgetal 103. Die mees stabiele isotoop daarvan is ^262Lr, met
+   'n halfleeftyd van ongeveer 4 ure. Lawrencium word uit californium
+   gesintetiseer en het geen bekende gebruike nie.
+
+   Inhoud
+
+        * 1 Merkbare kenmerke
+        * 2 Geskiedenis
+        * 3 Verwysings
+        * 4 Eksterne skakels
+
+[wysig] Merkbare kenmerke
+
+   Die voorkoms van hierdie element is onbekend, dit is egter waarskynlik
+   silwerig-wit of grys en 'n metaal. As genoegsame hoeveelhede lawrencium
+   vervaardig sou word, sou dit 'n stralingsgevaar inhou. Baie min is
+   bekend oor die chemiese eienskappe van die element maar aanvanklike
+   werk op 'n paar atome dui aan dat dit soortgelyk aan die aktiniede
+   optree.
+
+   Element 103 is 'n d-blok element analoog aan lutetium en daarom word
+   dit al hoe meer saam met ander d-blok element in die oorgangsmetaal
+   chemiese reeks geplaas, maar dit word steeds saam met die aktiniede in
+   die periodieke tabel gegroepeer.
+
+[wysig] Geskiedenis
+
+   Opdatering van die periodieke tabel, Albert Ghiorso skryf "Lw"
+   (lawrencium) in posisie 103; mede ontdekkers (van links na regs) Robert
+   Latimer, Dr. Torbjorn Sikkeland, en Almon Larsh kyk toe
+   Opdatering van die periodieke tabel, Albert Ghiorso skryf "Lw"
+   (lawrencium) in posisie 103; mede ontdekkers (van links na regs) Robert
+   Latimer, Dr. Torbjorn Sikkeland, en Almon Larsh kyk toe
+
+   Lawrencium is deur Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh en
+   Robert M. Latimer op 4 Februarie 1961 by die Berkeley Radiation
+   Laboratory (nou die Lawrence Berkeley National Laboratory genoem) op
+   die University of California, Berkeley kampus ontdek. Dit is vervaardig
+   deur 'n 3 milligram teiken wat uit drie californium isotope met
+   boron-10 en B-11 ione in die Heavy Ion Linear Accelerator (HILAC) te
+   bombardeer.
+
+   Die transmutasie kerne word electries gelaai, met 'n heliumatmosfeer
+   gestuit en op 'n dun koper vervoerband versamel. Die band word daarna
+   geskuif om die versamelde atome voor 'n aantal vastetoestand detektors
+   te plaas. Die Berkeley span het rapporteer dat die isotoop ^257103 op
+   die manier waargeneem is en verval het deur 'n 8.6 MeV alfa-deeltjie
+   met 'n halfleeftyd van 4.2 sekondes vry te stel.
+
+   In 1967 het navorsers in Dubna, Rusland gerapporteer dat hulle nie
+   daarin kon slaag om 'n alfa uitsaaier met 'n halfleeftyd van 4,2
+   sekondes as ^257103 kon bevestig nie. Die toekenning is intussen
+   verander na ^258Lr of ^259Lr. Elf isotope van element 103 is
+   gesintetiseer met ^262Lr wat die langste oorleef het met 'n halfleeftyd
+   van 216 minute (dit verval na ^256No. Die isotope van lawrencium verval
+   via alfa-emissie, spontane kernsplitsing en electron capture
+   (gerangskik van die mees algemene na die mins algemene tipes).
+
+   Die oorsprong van die naam, wat deur die American Chemical Society
+   verkies word, is 'n verwysing na Ernest O. Lawrence, uitvinder van die
+   siklotron. Die simbool Lw is aanvanklik gebruik maar in 1963 is dit
+   verander na Lr. In Augustus 1997 het die International Union of Pure
+   and Applied Chemistry (IUPAC) die naam lawrencium en simbool Lr tydens
+   'n vergadering in Geneva ratified. Unniltrium (IFA: /ˌjuːˈnɪltriəm/,
+   simbool Unt) is soms tot op die stadium as 'n tydelike, systematic
+   element name gebruik.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory se Chemie Afdeling: Periodieke Tabel
+       - Lawrencium
+     * Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford
+       University Press; 1998) ISBN 0-19-508083-1
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Lawrencium
+
+   Sjabloon:Wiktionary
+     * WebElements.com - Lawrencium
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale • Aktinides
+

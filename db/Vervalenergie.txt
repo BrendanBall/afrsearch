@@ -1,0 +1,29 @@
+Vervalenergie
+
+
+   Die vervalenergie is die energie vrygestel deur 'n kernverval aksie.
+
+   Die verskil tussen die massa van die reaksie elemente en die massa van
+   die produkte word dikwels uitgedruk as:
+
+          Q = (massa van reaksie elemente) - (massa van produkte)
+
+   Dit kan ook as energie beskryf word deur Albert Einstein se bekende
+   formule E=mc².
+
+   Vervalenergie word gewoonlik in terme van energireenhede MeV (mega
+   elektronvolt) of KeV (kilo elektronvolt) uitgedruk.
+
+   Tipes radioaktieweverval sluit in
+     * gamma uitstraling
+     * betaverval (vervalenergie is verdeel tussen die uitgestraalde
+       elektron en die onsigbare neutrino wat terselfdetyd uitgestraal
+       word)
+     * alfaverval
+
+[wysig] Eksterne skakels
+
+     * Universiteit van Waterloo wetenskap departement
+
+   Kategorieë: Chemie • Fisika
+

@@ -1,0 +1,106 @@
+Volstruis
+
+
+                      Volstruis
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Struthioniformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Struthionidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Struthio
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     S. camelus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Struthio camelus
+   Carolus Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Subspesies
+
+                                Sien artikel.
+
+   Verspreiding van die volstruis in Suider-Afrika.
+   Verspreiding van die volstruis in Suider-Afrika.
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die volstruis (Struthio camelus) is 'n loopvoël wat inheems aan Afrika
+   is. Dit is die enigste oorlewende spesie van die familie,
+   Struthionidae, en die genus Struthio. 'n Volstruis het 'n
+   maklik-herkenbare voorkoms met sy lang nek en lang bene. Volstruise kan
+   ook baie vinnig hardloop en het die vinnigste landspoed van alle voëls:
+   65 km/h.^[1]
+
+   Volstruise is ook die grootste lewende spesie van die voëlklas en daar
+   word met volstruise regoor die wêrleld geboer. Die wetenskaplike naam
+   vir 'n volstruis is van die Grieks vir "kameelmossie" wat na die voël
+   se lang nek verwys.^[2]
+
+   Inhoud
+
+        * 1 Subspesies
+        * 2 Ander name
+        * 3 Sien ook
+        * 4 Verwysings
+
+[wysig] Subspesies
+
+    1. S. c. australis
+    2. S. c. camelus
+    3. S. c. massaicus
+    4. S. c. syriacus
+    5. S. c. molybdophanes
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Struthio camelus
+     * Nederlandse naam: Struisvogel
+     * Engelse naam: Ostrich
+     * Duitse Naam: Strauß
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Verwysings
+
+    1. ^ Speed of Animals by Infoplease.com.
+    2. ^ "Ostrich." Online Etymology Dictionary.
+
+   Kategorie: Volstruise
+

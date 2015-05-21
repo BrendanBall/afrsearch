@@ -1,0 +1,109 @@
+Geelbekeend
+
+
+                     Geelbekeend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. undulata
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    Anas undulata
+   Dubois, 1839
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Subspesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die geelbekeend is 'n algemene standvoël in Suidelike-Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Subspesies
+        * 6 Ander name
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   Die eende is grys met 'n donkerder kop en 'n helder geel snawel. Die
+   vlerke is witterig aan die onderkant, en van bo gesien vertoon
+   wit-begrensde groen hoof-vere.
+
+[wysig] Habitat
+
+   Hierdie een verkies vars water in redelik oop gebied.Hulle broei op die
+   grond in digte plantegroei naby water. 'n Broeisel betsaan normaalweg
+   uit ses tot twaalf eiers.
+
+[wysig] Verspreiding
+
+   Suid- en Oos-Afrika.
+
+[wysig] Geluid
+
+   Die manlike eend uiter 'n fluitgeluid en die vroulike eend 'n
+   kwêk-geluid.
+
+[wysig] Subspesies
+
+     * A. u. rueppelli
+     * A. u. undulata
+
+[wysig] Ander name
+
+     * Engelse naam: Yellow-billed Duck
+     * Wetenskaplike naam: Anas undulata
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

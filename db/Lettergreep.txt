@@ -1,0 +1,46 @@
+Lettergreep
+
+
+   'n Lettergreep is 'n eenheid van organisasie van spraakklanke. Dit
+   bestaan gewoonlik uit 'n lettergreepkern (gewoonlik 'n vokaal) met
+   opsionele aanvangs- en eindklanke (gewoonlik konsonante). Lettergrepe
+   word gewoonlik gesien as die fonologiese boublokke van woorde.
+
+   Daar word onderskei tussen oop en toe lettergrepe. 'n Oop lettergreep
+   eindig op 'n vokaal en 'n toe lettergreep eindig op 'n konsonant.
+
+   'n Algemene reël vir Afrikaans is dat as daar meer as een vokaalklank
+   in 'n woord is, die woord in soveel letter- of klankgrepe verdeel kan
+   word as wat daar vokaalklanke is.
+
+[wysig] Voorbeelde
+
+klipperig
+
+   "Klipperig" bestaan uit: klip - pe - rig Ons kry twee lettergrepe as
+   ons die twee p-konsonante van mekaar skei, nl: "klip" en "pe." Ons kry
+   nog 'n lettergreep as ons die e-vokaal van "pe" en die r-konsonant van
+   "rig" skei.
+
+   Hieruit kan ons aflei:
+     * Dat 'n lettergreep gevorm word wanneer daar twee konsonante langs
+       mekaar is (Ons kan nie die "k" en "l" in klip skei en dit 'n
+       lettergreep noem nie aangesien "k" en "l" klanke is en 'n
+       lettergreep bestaan uit twee of meer letters langs mekaar!)
+     * Dat 'n lettergreep gevorm word voor en na 'n konsonant en vokaal
+       wat langs mekaar staan.
+
+glashelder
+
+   Die eerste twee letters is konsonante, ons kan dit nie skei nie want 'n
+   lettergreep bestaan uit twee of meer letters. Dus is ons eerste
+   lettergreep: glas- Geslote lettergreep Ons tweede lettergreep: -hel-
+   Geslote lettergreep Ons derde lettergreep: -der Geslote lettergreep
+verwoestende
+
+   Eerste lettergreep skei by "r" en "w": ver- Geslote lettergreep Tweede
+   lettergreep skei by "s" en "t": -woes- Geslote lettergreep Derde
+   lettergreep skei by "n" en "d": -ten- Geslote lettergreep Vierde
+   lettergreep wat oorbly: -de Oop lettergreep.
+   Kategorie: Fonologie
+

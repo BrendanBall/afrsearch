@@ -1,0 +1,87 @@
+Wikipedia:Mediahulp (Ogg)
+
+
+   Media-inleiding
+   Oudio en video
+   MIDI
+
+Hoe om oudio- en videosagteware te installeer
+
+   Om u rekenaar in staat te stel om beide video- (Theora) en oudio-
+   (Vorbis) lêers te speel, kies asseblief 'n program uit die onderstaande
+   lys. Kyk onder die bedryfstelsel, byvoorbeeld Microsoft Windows, en
+   volg die aanwysings om die sagteware van u keuse te installeer.
+
+   Dit word aanbeveel dat u 'n program gebruik wat beide die Vorbis-oudio
+   en die Theora-video kan afspeel, aangesien hierdie twee verskillende
+   mediaformate dikwels in dieselfde Ogg-formaat bevat word.
+
+Alle bedryfstelsels
+
+   Gebruik gerus hierdie webgebaseerde speler, WikiMediaPlayer.
+
+Windows
+
+   U huidige mediaspeler mag wel in staat wees om sommige van Wikipedia se
+   inhoud te speel.
+
+   Die installering van kodeks van Illiminal sal DirectShow-spelers soos
+   Windows Media Player in staat stel om alle Wikipedia-oudio te speel.
+   Die meeste Windows-gebruikers het reeds Windows Media Player op hulle
+   rekenaar gelaai. Indien u nie die program het nie, of u wil 'n ander
+   program gebruik, kan u 'n program uit die onderstaande lys installeer.
+   Indien u wel Windows Media Player het en nie van program wil verander
+   nie, gaan asseblief na stap 1 hier onder.
+
+   DirectShow-spelers:
+     * Windows Media Player by Microsoft se webwerf.
+     * Winamp by die Winamp-webwerf.
+     * Media Player Classic by die Sourceforge-webwerf
+
+    1. Gaan na illiminable.com.
+    2. Kliek op "Download Now". U kan dit ook direk van hier probeer (dalk
+       nie die jongste weergawe nie).
+    3. Wag vir installasieprogram om af te laai. Die behoort minder as
+       twee minute te neem met 'n 56k-modem.
+    4. Sodra dit klaar afgelaai is, kan u die program uitvoer en die
+       instruksies op die skrem volg.
+    5. Sodra die installering suksesvol voltooi is, behoort u mediaspeler
+       Ogg-oudio en -video te kan speel.
+    6. Indien Windows nie outomaties die formaat met u mediaspeler
+       assosieer nie, kan u gewoon 'n lêer tot bo-op die speler trek of
+       die program se instruksies volg om dit met ander formate te
+       assosieer. Die algemene keuselys volgorde in die geval is
+       Tools->Options->File types.
+
+Macintosh (Mac OS X)
+
+   MPlayer OS X is 'n mediaspeler wat Vorbis- en Theora-lêers kan speel.
+    1. Gaan na MPlayer Mac OS X se aflaaibladsy.
+    2. Kliek op Download Now.
+    3. Kies die toepaslike plek waar u vanaf wil aflaai.
+    4. Kliek die ooreenkomstige ikoon op die download-kolom.
+    5. Wag vir die Zip-argief om af te laai. Dit kan tot 18 minute neem
+       met 'n 56k-modem.
+    6. Sodra die argief afgelaai is, dubbelkliek daarop om die lêers te
+       verkry.
+    7. Kopieer die MPlayer Application na u Applications-gids.
+    8. Sodra die kopiëringsproses sukselvol voltooi is, behoort u MPlayer
+       Ogg-video and oudio te kan speel.
+
+Unix (asook Linux, BSD, Solaris, ens.)
+
+   Baie onlangse vrye Unix-stelsel kan Vorbis-oudio speel sonder om enige
+   ekstra sagteware te installeer. As u geen oudiosagteware op u rekenaar
+   het nie, gebruik u gunsteling pakketstelsel om die lys van spelers deur
+   te soek en een te kies.
+     * libtheora word benodig vir Ogg Theora-video.
+
+    1. Gebruik u pakketbeheringstelsel, soos APT of YUM om libtheora te
+       soek en te installeer.
+
+Speel van inhoud
+
+   U kan u mediaspeler uittoets deur inhoud van Wikimedia Commons se klank
+   en video-kategorieë te gebruik.
+   Kategorie: Wikipedia
+

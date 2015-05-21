@@ -1,0 +1,136 @@
+Gewone nagreier
+
+
+                   Gewone nagreier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Nycticorax
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     N. nycticorax
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Nycticorax nycticorax
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Gewone nagreier is 'n algemene standvoël en besoeker. Die
+   wetenskaplike naam beteken "nagraaf", en verwys na die spesie se
+   nagtelike gewoontes en die skor kraaiagtige geluid wat dit uiter.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Galery
+        * 6 Ander name
+        * 7 Sien ook
+        * 8 Bronnelys
+
+[wysig] Identifikasie
+
+   Dit is 'n bonkige reier met 'n kort nek. 'n Volwassene het 'n
+   kenmerkende swart mus en rug wat by sy wit en grys vlerke en onderkant
+   afsteek. Die agterkoppluime ontbreek soms. Alhoewel volwaase nagreiers
+   op grootrietreiers lyk, verskil die jong voëls deurdat hulle kleiner
+   is, oranje oë het en wit kolle aan die punte van die rugvere het.
+   Volwasse voëls het 'n algemene lengte van 56cm.
+
+[wysig] Habitat
+
+   Kom een-een, in pare of in groepíes langs stil rivierlope, damme en
+   strandmere voor. Skuil bedags in bome of tussen oewerplantegroei. Soms
+   is tot 18 voëls by mekaar te síen. Kom teen laat namiddag te voorskyn.
+   Jag veral snags deur stil te staan aan die waterkant. Hulle vang klein
+   vissies, garnale, paddas, klein waterdiertjies en klein soogdiertjies.
+   Gedurende die dag rus hulle in die bosse of struike.
+
+   Die broeigebiede is vars- en soutwatervleilande oor groot gedeeltes van
+   Noord-Amerika, Europa, Asië, en Afrika. Hulle maak nes in kolonies op
+   platvorms van stokke in boomplate of op die grond in beskermde plekke
+   soos eilande of rietbeddings, en lê 3 tot 8 eiers.
+
+[wysig] Verspreiding
+
+   Buite die nesmaaktyd is hulle nomadies. Die Noord-Amerikaanse groep, N.
+   n. hoactli, oorwinter in Meksiko, die Suidwestelike Verenigde State,
+   Sentraal-Amerika en die Wes-Indiese Eilande. Die ander groep, N. n.
+   nycticorax, oorwinter in tropiese Afrika, en die suidelike Asië. In die
+   Amerikas kan N. n. nycticorax tot sover as Patagonië gevind word.
+
+[wysig] Geluid
+
+   'n Skor, kraaiagtige gekras.
+
+[wysig] Galery
+
+   'n Jong nagreier.
+
+                    'n Gewone nagreier afgeneem in Toronto, Kanada.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Nycticorax nycticorax
+     * Engels: Black-crowned Night Heron
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+     * Black-crowned Night Heron by die Animal Diversity Web.
+     * A guide to the birds of Costa Rica deur Stiles en Skutch ISBN
+       0-8014-9600-4
+     * Herons and Egrets of the World deur James Hancock ISBN
+       0-12-322725-9
+     * The Sibley Guide to Birds deur David Allen Sibley ISBN
+       0-679-45122-6
+
+   Kategorie: Reiers
+

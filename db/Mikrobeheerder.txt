@@ -1,0 +1,158 @@
+Mikrobeheerder
+
+
+   'n Mikrobeheerder is 'n geïntegreerde stroombaan (Engels "IC") wat uit
+   verskillende toegewyde (Engels "Embedded") substelsels bestaan. 'n
+   Mikroverwerker is 'n stelsel waar een of meer mikrobeheerders in 'n
+   verwerkerstelsel gekoppel word met ander elektronika. Deur hierdie
+   artikel word daar verwys na mikrobeheerders omdat mikroverwerkers 'n
+   praktiese uitbreiding is wat met dieselfde beginsels werk. Die
+   beheerder kan geprogrammeer word met sagteware kode om sekere
+   handelinge uit te voer. Die kode wat uitgevoer moet word, word gestoor
+   in 'n geheue, wat intern tot die eenheid kan wees, of apart kan staan.
+   Sekere moderne mikrobeheerders beskik intern oor baie gevorderde
+   stroombane wat dit moontlik maak om digitale ontwerpe (soos bv.
+   Selfone) baie kleiner as in die verlede te vervaardig.
+
+   Inhoud
+
+        * 1 Geïntegreerde stroombaan
+        * 2 Mikrobeheerder vs Mikroverwerker
+        * 3 Mikroverwerkers
+        * 4 Hoe werk 'n Mikrobeheerder
+        * 5 Gebruike vir 'n mikrobeheerder
+        * 6 Sien ook
+
+[wysig] Geïntegreerde stroombaan
+
+   IC is die afkorting vir die engelse woorde: "Integrated Circuit". Dit
+   is 'n keramiekblokkie waarin die elektroniese onderdele, mikroskopies
+   klein, gebou is. 'Pootjies' (pins) wat aan die kante uitsteek, word
+   gebruik om data van en na die elektroniese dele binne die
+   keramiekblokkie te stuur.
+
+[wysig] Mikrobeheerder vs Mikroverwerker
+
+   Die verskil tussen 'n mikroverwerker en 'n mikrobeheerder is dat 'n
+   mikrobeheerder 'n enkele geïntegreerde stroombaan is wat as 'n
+   alleenstaande stelsel werk, terwyl 'n mikroverwerker 'n stelsel is van
+   een of meer mikrobeheerders in 'n verwerkerstelsel waar hulle gekoppel
+   is aan eksterne geheue en/of ander elektronika. Dit veroorsaak dat baie
+   spasie op die elektronika bouborde benodig word om 'n mikroverwerker
+   gebasseerde stelsel te implementeer. Die mikrobeheerder het die
+   voordeel dat die geheue en intree/uittree bane wat benodig word
+   gewoonlik binne die enkele geïntegreerde baan vervaardig is, en dat 'n
+   mikrobeheerder stelsel die minimum spasie en kompleksiteit handhaaf.
+
+   Oor die algemeen vorm mikrobeheerders kompakte, lae onkoste stelsels en
+   mikroverwerkers met addisionele elektronika hoë spoed, kragtige
+   stelsels. Mikrobeheerders word egter by die dag vinniger en meer
+   kragtig.
+
+[wysig] Mikroverwerkers
+
+   Mikroverwerkers is 'n logiese uitbreiding van mikrobeheerders. Daar is
+   praktiese beperkings aan hoeveel elektronika op 'n enkele geïntegreerde
+   stroombaan geplaas kan word en in gesofistikeerde implementasies word
+   die punt vinnig bereik waar die koste en moeite nie meer dit werd is
+   nie, waar dit eenvoudiger is om die mikrobeheerder te koppel aan
+   verdere elektronika om sy funsionaliteit uit te brei. Selfs die
+   kleinste selstandige geheuemodule hou vele male meer data as ingeboude
+   geheue in 'n mikrobeheerder, en daar is elektronika van sulke noue
+   toepassing dat dit feitlik nooit gebruik sou word as dit geïntegreer
+   sou word in 'n mikrobeheerder nie - hierdie is veral waar van die
+   verskeidenheid dekodeerders en enkodeerders wat elkeen verskil
+   afhangende van watter kode na of van gekodeer moet word.
+
+   Deur sulke elektronika aan 'n mikrobeheerder te koppel word sy
+   buigbaarheid merkwaardig uitgebrei. Dit lei ook aan groter modulariteit
+   in 'n stelsel, wat maak dat die stelsel makliker is om te toets,
+   implementeer, uit te brei en aan te pas vir ander gebruike. Bo en
+   behalwe die meer spasie wat gebruik word en dat mikroverwerkerstelsels
+   gereeld duurder is as mikrobeheerderstelsels (weens die hoër nommer
+   komponente), is daar ook die probleem dat die koppelings tussen
+   elektronika baie keer nie-triviaal is, en die hoeveelheid koppelings
+   wat nuttig gehandhaaf kan word, word noulik beperk. Dit is algemeen om
+   'n mikroverwerker te sien waar een beheerder al die bewerkings doen en
+   'n ander beheerder alleenlik dien om die invoer en uitvoer van die
+   sentrale beheerder te koördineer met die res van die stelsel.
+
+   Vir die komplekste elektroniese implementasies is mikroverwerkers
+   noodsaaklik. Wat algemeen beskou word as rekenaars (persoonlike
+   rekenaars, ens.) is uiteindelik net 'n reeks mikroverwerkers. Hul
+   buigbaarheid is ook noodsaaklik vir sulke toepassings soos selfone of
+   ander persoonlike elektronika.
+
+[wysig] Hoe werk 'n Mikrobeheerder
+
+   Soos die naam na verwys, is die hoof toepassing van mikrobeheerder bane
+   om elektriese/meganiese/hidroliese/chemiese stelsels of 'n kombinasie
+   daarvan te beheer. Hoe die beheer uitgevoer word, word deur die
+   sagteware wat in die beheerder gelaai word bepaal. Die mikroverwerker
+   sal tipies data vanaf sensore inlees en dan aktueerders aandryf om
+   beheer van 'n stelsel te bewerkstellig.
+
+   Om data vanaf 'n sensor in te lees sal 'n mikrobeheerder die datapoort,
+   bestaande uit 8/16/32 of selfs 64 lyne (afhangend van die tipe
+   mikrobeheerder), gebruik. Die data wat oor die lyne gelees word is dus
+   8/16/32/64 bisse (sien onder) wyd. Datalyne kan net as 'aan' of 'af'
+   gelees word, alhoewel party mikrobeheerders 'n analoë invoerpunt het,
+   d.w.s. 'n datalyn wat gegradueerde invoer kan verwerk. Hierdie invoer
+   word dan verwerk deur die meganismes binne die mikrobeheerder.
+
+   'n Mikrobeheerder is uiteindelik net 'n reeks elektroniese meganismes
+   om binêre waardes te manipuleer. Die waardes word gestoor in registers
+   - die grote van 'n register is die maatstaf van 'n mikrobeheerder se
+   kompleksiteit ('n 8-bit verwerker se registers is 8 bisse wyd, ens.) -
+   en alles waarmee 'n mikrobeheerder werk bestaan alleenlik as data in
+   registers. Dié data word gevoer deur die mikrobeheerder se meganismes
+   wat weer die registers verander. 'n Mikroverwerking se programmering
+   stel 'n routine op waarvolgens registers ingevoer, afgelees,
+   gemanipaleer en teruggevoer word - 'n ketting van instruksies.
+
+   Die programmering va 'n mikrobeheerder is eenvoudig 'n reeks van bisse
+   wat 'n stelsel transistors so aan- en af-skakel dat 'n sekere register
+   gevoer word aan een of ander meganisme. Wanneer 'n mens die
+   programmering van 'n mikrobeheerder verander skryf 'n mens dit nie
+   gewoonlik in 1e en 0e nie, maar met mnemonieke - geheuehulpe - name in
+   skrif vir 'n konfigurasie van bisse. Die kompileerder (die program wat
+   mensgeskrewe kode in masjienkode omskep) vervang doodeenvoudig net die
+   mnemonieke met die bisse wat hulle verteenwoordig en enkodeer dié bisse
+   in 'n wyse waarmee die mikroverwerker geprogrammeer kan word. Al is dit
+   baie onprakties is dit moontlik vir 'n mens om hierdie self met die
+   hand te doen - dié gebeur veral tydens die ontwerp van 'n
+   mikrobeheerders - dus is mikrobeheerder kode (genoem assembly of
+   assembler code) die laagste moontlike vlak van rekenaarprogrammering.
+
+[wysig] Gebruike vir 'n mikrobeheerder
+
+   Die mikrobeheerder werk alleenlik met digitale data - dit is die werk
+   van die programmeerder om nuttige inligting in sulke data te omskep
+   (alhoewel party mikrobeheerders hulpmate het hiervoor, soos analoë
+   datalyne) en die uitvoer van die mikrobeheerder nuttig gemaak. In byna
+   elke geval dien 'n mikrobeheerder as 'n gesofistikeerde skakelbord: as
+   hierdie lyn 'n sein dra (bv. 'n knoppie wat aan dié lyn gekoppel is
+   word gedruk) dan word die waarde van daardie register verander (bv. 'n
+   bis op 'n uitvoer-register word aangeskakel, wat krag na 'n lig toe
+   voer - in dié voorbeeld: as jy die knoppie druk, dan gaan 'n liggie
+   aan). Die waarde van 'n mikrobeheerder is dat dit sulke skakelings veel
+   vinniger as 'n mens kan hanteer en dat dit elke keer dit dieselfde sal
+   hanteer.
+
+   Mikrobeheerders en -verwerkers is alomteenwoordig in elektronika - byna
+   alle elektronika wat enige beheer nodig het (nie 'n stel luidsprekers
+   nie, maar wel 'n vermaakstelsel; nie 'n radio nie, maar wel 'n selfoon)
+   besit 'n mikrobeheerder van een-of-ander groter in 'n stelsel van
+   een-of-ander kompleksiteit. Die mees gesofistikeerse
+   mikroverwerkerstelsels is veral in kommunikasiewese te vinde - 'n
+   selfoon is so gevorderde 'n stuk elektronika soos wat enige mens in
+   aanraking sal kom in sy hedendagse lewe - en persoonlike rekenaars,
+   netwerkbedieners, ens., is net 'n versameling mikroverwerkers in 'n
+   groter stelsel.
+
+[wysig] Sien ook
+
+     * Binêre getallestelsel
+
+   Kategorie: Elektronika
+

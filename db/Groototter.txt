@@ -1,0 +1,89 @@
+Groototter
+
+
+                      Groototter
+   Bedreigingstatus: veilig
+   Tydperk: {{{fossil_range}}}
+   'n Standbeeld van 'n groototter
+   'n Standbeeld van 'n groototter
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Mustelidae
+     Subfamilie:   Lutrinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Aonyx
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. capensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    Aonyx capensis
+   (Schinz, 1821)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die groototter (Aonyx capensis) is 'n otterspesie wat slegs in Afrika
+   voorkom, van die weste (Senegal) tot die ooste (Ethiopië) en die suide
+   (Suid-Afrika). Die groototter is die tweede grootste varswater
+   otterspesie en word naby permanente strome, kuile en ander waterliggame
+   in grasvlaktes en beboste laeveldareas gevind.
+
+   Groototters het gedeelteliks gewebde en kloulose voete. 'n Volwasse
+   groototter het 'n gemiddelde massa van 10 kg en 'n gemiddelde lengte
+   van 135 cm.
+
+   Die groototter se dieet bestaan hoofsaaklik uit krappe, vis, paddas,
+   voëls en voëleiers. Die diere sal in die water duik om waterliewende
+   prooi te vang en dan terug na die oewer swem om daar te eet. Hulle het
+   sensitiewe snorbaarde, wat help om die bewegings van potensiële prooi
+   in die water te bespeur.
+
+   Die wyfie is vir nege weke dragtig, waarna sy geboorte skenk aan twee
+   tot vyf kleintjies. 'n Groototter het 'n moontlike lewensduur van 16
+   jaar.
+
+[wysig] Bronnelys
+
+     * Hussain, S.A. & Reuther, C. (2004): Aonyx capensis by die IUCN se
+       Red List vir bedreigde spesies.
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+   Kategorie: Marteragtiges
+

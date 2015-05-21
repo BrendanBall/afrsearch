@@ -1,0 +1,426 @@
+Ekonomie
+
+
+   Kopers bie vir goeie pryse, terwyl verkopers hulle beste voet voorsit
+   in 'n mark in Chichicastenango, Guatemala.
+   Kopers bie vir goeie pryse, terwyl verkopers hulle beste voet voorsit
+   in 'n mark in Chichicastenango, Guatemala.
+
+   Ekonomie is die sosiale wetenskap wat die produksie en verbruik van
+   meetbare middele bestudeer. Dit behels die analise van die produksie,
+   verspreiding en verbruik van goedere en dienste. Volkshuishouding is 'n
+   verouderde term vir ekonomie.
+
+   Ekonomie word "positief" genoem wanneer dit poog om die gevolge van
+   verskillende keuses aan die hand van 'n stel aannames te verduidelik en
+   "normatief" wanneer dit 'n sekere aksie voorskryf.
+
+   Die onderwerp word breedweg verdeel in twee hoof vertakkings:
+   mikro-ekonomie, wat gemoeid is met indiwiduele instansies, soos
+   huishoudings en ondernemings, en makro-ekonomie, wat die ekonomie as 'n
+   geheel beskou (insluitende inflasie, werkloosheid, industriële
+   produksie en die rol van die regering). Aangeleenthede wat spesifiek
+   aandag in ekonomie geniet is hulpbrontoedeling, produksie,
+   verspreiding, handel en mededinging. Ekonomie kan in beginsel (en word
+   toenemend) aangewend word om probleme wat keuses onder toestande van
+   skaarsheid behels, of met die bepaling van waarde.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Studievelde in ekonomie
+        * 3 Ekonomiese aannames
+             + 3.1 Vraag en aanbod
+             + 3.2 Prys
+             + 3.3 Skaarsheid
+             + 3.4 Marginalisme
+             + 3.5 Waarde
+        * 4 Ekonomiese taal en redenasies
+        * 5 Die ontwikkeling van ekonomiese denke
+        * 6 Denkrigtings van ekonomie
+             + 6.1 Neo-klassieke ekonomie
+        * 7 Sien ook
+        * 8 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Ekonomiese aktiwiteite vind al duisende jare lank plaas en handel was
+   reeds in antieke beskawings en vir antieke volke belangrik. Die eerste
+   skrifstelsel van die wêreld het waarskynlik in Mesopotamië ontstaan om
+   rekord te hou van al die handelstransaksies wat plaasgevind het.
+   Wêreldryke (van die bekende wêreld van daardie tyd) soos die Romeinse
+   Ryk se invloed het wyd gestrek en het vrye beweging van mense en
+   goedere gestimuleer, wat verdere uitbreiding van handel meegebring het.
+   Mettertyd het die lande in Europa se eie bruikbare hulpbronne min begin
+   raak en het hulle elders na addisionele hulpbronne begin soek. Eers is
+   daar handel gedryf met lande wat ander of addisionele hulpbronne nodig
+   gehad het, maar toe is daar besluit dat dit baie goedkoper sou wees om
+   eerder sulke lande te koloniseer. Slegs twee lande in Afrika - Ethiopië
+   en Liberië - het kolonisasie vrygespring. Die res is almal deur 'n
+   vreemde moondheid gekoloniseer en in die proses van hul hulpbronne
+   gestroop.
+
+   Daar word dikwels na Europese lande se motivering om ander lande te
+   koloniseer verwys as die drie G's: godsdiens, goud en gierigheid. Die
+   hoofmotivering was om goud en ander minerale, edelstene en ook produkte
+   soos speserye, tabak en tee te vind en vir die moederlande te verbou.
+   'n Bymotief was om die kolonies se bevolkings te kersten en op te voed,
+   soos blyk uit die talle sendingstasies en sendingskole wat daar
+   gevestig is. Europese lande meen dat kolonisasie ook vir die
+   geokkupeerde lande voordele ingehou het en wys op die infrastruktuur,
+   mynboubedrywighede en nywerhede wat gevestig is, die
+   landboubedrywighede wat begin is en die tegnologie, kundigheid en
+   opleiding wat die produkte was van hul okkupasie.
+
+[wysig] Studievelde in ekonomie
+
+   Ekonomie word gewoonlik verdeel in twee hoof vertakkinge:
+     * Mikro-ekonomie, wat die ekonomiese gedrag van indiwiduele
+       rolspelers soos besighede, huishoudings en indiwidue bestudeer, met
+       die oog om die besluitneming te midde van skaarsheid te verstaan
+       asook die gevolge van sodanige besluite.
+     * Makro-ekonomie, bestudeer die ekonomie as 'n geheel met die doel om
+       die wisselwerking tussen ekonomiese maatstawwe te verstaan soos
+       onder andere nasionale inkomste, werksgeleenthede en inflasie.
+
+   Pogings om hierdie twee vertakkinge saam te versmelt of om die
+   onderskeid tussen hulle te weerlê is belangrike motiverings in heelwat
+   onlangse ekonomiese gedagtes, veral in die laat 1970s en vroeë 1980s.
+   Vandag bestaan eenstemmigheid oor die standpunt dat goeie
+   makro-ekonomie 'n sterk mikro-ekonomiese grondslag moet hê; dit wil sê
+   die uitgangspunte moet 'n teoretiese en bewese ondersteuning in
+   mikro-ekonomie geniet.
+
+   Ekonomie kan ook verder onderverdeel word wat nie altyd netjies
+   inskakel by die makro/mikro verdeling nie. By hierdie ondervertakkinge
+   word ingesluit: internasionale ekonomie, arbeidsekonomie,
+   welsynsekonomie, hulpbronekonomie, omgewingsekonomie, bestuursekonomie,
+   finansiële ekonomie, stedelike ekonomie en ekonomiese aardrykskunde.
+
+   Daar bestaan ook metodologieë wat deur ekonome gebruik word waarvan die
+   onderliggende teorieë baie belangrik is.
+     * Die mees betekenisvolle voorbeeld hiervan mag dalk ekonometrie
+       wees, wat statistiese tegnieke gebruik om ekonomiese data te
+       bestudeer. Berekeningsekonomie is afhanklik van wiskundige metodes
+       wat ekonometrie dan insluit.
+     * 'n Ander meer onlangse tendens en nader verwant aan mikro-ekonomie,
+       is om sosiale sielkundige begrippe (gedragsekonomie) en metodes
+       (eksperimentele ekonomie) te gebruik in die studie van ekonomie.
+
+   Ander onderverdelings is ook moontlik. Finansies is tradisioneel as
+   deel van ekonomie beskou– aangesien die inhoud en die resultate daarvan
+   natuurlik uit mikro-ekonomie spruit – die vakgebied is egter effektief
+   as 'n onafhanklik dog verwante dissipline gevestig.
+
+   Daar bestaan 'n toenemende tendens om idees en metodes van ekonomie in
+   'n wyer konteks toe te pas. Aangesien ekonomiese analise op
+   besluitneming fokus, kan dit toegepas word (met wisselvallige
+   resultate) op ander velde waar mense alternatiewe moet oorweeg –
+   opvoeding, huwelik, gesondheid ens.
+
+   Die velde wat ondersoek word in Ekonomie oorvleuel dus dikwels met
+   ander sosiale wetenskappe insluitend politieke wetenskap en sosiologie.
+   Sien politiese ekonomie vir die studie van ekonomie in die politieke
+   konteks. Die oorheersende politiese ekonomie word losweg kapitalisme
+   genoem.
+
+[wysig] Ekonomiese aannames
+
+[wysig] Vraag en aanbod
+
+   Die vraag en aanbod model beskryf hoe pryse varieer as gevolg van die
+   balans tussen produk beskikbaarheid en die vraag daarna. Die grafiek
+   beeld 'n toename in vraag vanaf D1 tot D2 met die gevolglike toename in
+   prys en hoeveelheid benodig om 'n nuwe ewewigspunt op die aanbodkurwe
+   (S) te bereik.
+   Die vraag en aanbod model beskryf hoe pryse varieer as gevolg van die
+   balans tussen produk beskikbaarheid en die vraag daarna. Die grafiek
+   beeld 'n toename in vraag vanaf D[1] tot D[2] met die gevolglike
+   toename in prys en hoeveelheid benodig om 'n nuwe ewewigspunt op die
+   aanbodkurwe (S) te bereik.
+
+          Hoofartikel: Vraag en aanbod.
+
+   In mikro-ekonomiese teorie poog vraag en aanbod om die prys en
+   hoeveelheid goedere wat in kompeterende markte verkoop word te beskryf,
+   verduidelik en te voorspel. Dit is een van die mees fundamentele
+   ekonomiese modelle, wat oraloor gebruik word as 'n basiese bousteen tot
+   'n wye reeks meer gedetailleerde ekonomiese modelle en teorieë.
+
+   Die teorie beweer in die algemeen dat waar goedere (ekonomie) in 'n
+   mark verhandel word teen 'n prys waar verbruikers meer goedere aanvra
+   as wat die ondernemings bereid is om te verskaf, die tekort sal neig om
+   die prys van die goedere op te stoot. Die verbruikers wat bereid is om
+   meer te betaal sal die markprys hoër bie. Teenoorgesteld sal die pryse
+   geneig wees om te val as die hoeveelheid goedere wat aangebied word die
+   vraag daarna oorskry. Hierdie prys/hoeveelheid aanpassingsmeganisme
+   veroorsaak dat die mark 'n ewewigspunt nader, 'n punt waar daar nie
+   meer enige druk vir verandering bestaan nie. Hierdie teoretiese punt
+   van stabiliteit word gedefinieer as die punt waar produsente bereid is
+   om presies dieselfde hoeveelheid goedere te verskaf as wat die
+   verbruikers wil koop.
+
+   Die teorie van vraag en aanbod is belangrik in die werking van 'n
+   markgerigte ekonomie in soverre dit die meganisme verduidelik aan die
+   hand waarvan besluite oor hulpbron toewysings gemaak word.
+
+[wysig] Prys
+
+   Ten einde die eb en vloed van vraag en aanbod te meet is 'n meetbare
+   waarde nodig. Die oudste en mees algemeen gebruikte is Prys, of dan die
+   heersende ruilkoers tussen kopers en verkopers in 'n mark. Prysteorie
+   volg die beweging van meetbare hoeveelhede oor tyd na asook die
+   verwantskap tussen prys en ander meetbare hoeveelhede. In Adam Smith se
+   Wealth of Nations is daar verwys na die kompromis tussen prys en
+   gerief. Ekonomiese teorie is tot 'n groot mate gebaseer op die prys en
+   die vraag en aanbod teorie. In ekonomiese teorie vind die mees
+   effektiewe kommunikasie plaas wanneer veranderinge in die ekonomie
+   plaasvind deur middel van prys, waar 'n ooraanbod lei tot laer pryse en
+   'n te hoë vraag lei tot hoër pryse.
+   Wisselkoerse word bepaal deur die relatiewe vraag en aanbod vir
+   verskillende geldeenhede — 'n belangrike kwessie vir internasionale
+   handel.
+   Wisselkoerse word bepaal deur die relatiewe vraag en aanbod vir
+   verskillende geldeenhede — 'n belangrike kwessie vir internasionale
+   handel.
+
+   In baie praktiese ekonomiese modelle, word 'n mate van "prysvastheid"
+   by die model ingesluit om voorsiening te maak vir die waarneembare feit
+   dat in baie markte pryse nie vloeibaar is nie. Ekonomiese beleid wentel
+   dikwels rondom argumente oor wat die "ekonomiese wrywing" of
+   prysvastheid veroorsaak, wat op sy beurt die ewewig tussen vraag en
+   aanbod verhoed.
+
+   'n Ander omstrede ekonomiese aangeleentheid is of waarde korrek deur
+   prys gemeet word aldan nie. In hoofstroom markgerigte ekonomie, waar
+   daar beduidende tekorte bestaan wat nie in prys vervat is nie word daar
+   gesê dat daar 'n eksternalisasie van koste bestaan. Markgerigte
+   ekonomie voorspel dat skaars goedere wat te laag geprys is oorverbruik
+   word (Sien sosiale koste). Hierdie begrip lei tot die openbare goedere
+   teorie.
+
+[wysig] Skaarsheid
+
+   Omdat skaarsheid en besluitneming sentrale begrippe is in ekonomiese
+   teorie, is die vraag oor watter die basiese kompromieë is, van
+   kardinale belang. In elke ekonomiese teorie vind daar 'n basiese
+   uitruiling van twee of meer skaars goedere plaas. Adam Smith het dit
+   gedefinieer as die ruil van tyd of gerief vir geld. 'n Persoon kan
+   byvoorbeeld naby 'n dorp bly en meer betaal vir sy huis of verder weg
+   bly en minder betaal maar die met "ongerief betaal" vir die verskil.
+   Handelstransaksies op die vloer van die New York Aandelebeurs behels
+   altyd onderhandelinge van aangesig tot aangesig. Daar is een podium op
+   die vloer vir elkeen van die beurs se ongeveer drieduisend aandele.
+   Handelstransaksies op die vloer van die New York Aandelebeurs behels
+   altyd onderhandelinge van aangesig tot aangesig. Daar is een podium op
+   die vloer vir elkeen van die beurs se ongeveer drieduisend aandele.
+
+   Die uitgangspunt dat die primêre kompromie in ekonomie tussen tyd en
+   geld is, het verskeie opponente. Elkeen hiervan baseer hulle standpunt
+   oor skaarsheid op verskillende fundamentele kompromieë. 'n Klein aantal
+   ekonome verkies om ekonomie te definieer as die studie van hoe en
+   waarom mense handel dryf; hierdie definisie impliseer egter relatiewe
+   skaarsheid.
+
+[wysig] Marginalisme
+
+   In marginalistiese ekonomiese teorie word die prysvlakke bepaal deur
+   die marginale koste en marginale gebruikswaarde. Die prys van alle
+   goedere sal die koste wees van die maak van die laaste een wat mense
+   nog sal koop, die prys van alle werkers in 'n onderneming sal die koste
+   wees van die laaste een wat die onderneming benodig. Marginalisme
+   ondersoek besluite gebaseer op die grense, wat die koste van produksie
+   van die volgende eenheid is teenoor hoeveel wins dit sal lewer. Wanneer
+   marginale opbrengs op 'n aksie nul bereik, sal die aksie stopgesit
+   word. Marginale gebruikswaarde is die hoeveelheid genieting of nut 'n
+   indiwidu put uit 'n aankoop van 'n item teenoor die aankoop van een
+   minder daarvan. Marginale beloning is dikwels onderhewig aan
+   verminderende opbrengste, die verkryging van 'n verlaagde beloning uit
+   meer produksie of verbruik – die 10de lekkertjie smaak nie so lekker
+   soos die eerste nie en bring dus 'n verminderde marginale
+   gebruikswaarde mee.
+
+   Marginalisme het toenemend belangrikheid in ekonomiese teorie verkry in
+   die laat 19de eeu en is 'n tegniek wat gebruik word om te analiseer hoe
+   ekonomiese stelsels sal reageer. Marginale koste van produksie verdeel
+   die kostes in vaste kostes wat betaal moet word onafhanklik van hoeveel
+   goedere geproduseer word, en veranderlike kostes. Die marginale koste
+   is die veranderlike koste van die laaste eenheid plus die persentasie
+   van die vaste koste. Marginalisme veronderstel dat wanneer die wins uit
+   van die volgende eenheid nul bereik, dat die eenheid nie geproduseer
+   sal word nie.
+
+[wysig] Waarde
+
+   Daar kan beweer word dat onderliggend tot ekonomiese teorie daar 'n
+   teorie oor waarde moet wees. Waarde kan gedefinieer word as die
+   onderliggende aktiwiteite wat ekonomie meet en beskryf.
+   Verteenwoordigde geld soos hierdie 1922 VSA $100 goudnoot kon deur die
+   draer vir goud omgeruil word
+   Verteenwoordigde geld soos hierdie 1922 VSA $100 goudnoot kon deur die
+   draer vir goud omgeruil word
+
+   Adam Smith het arbeid as die onderliggende bron van waarde gedefinieer
+   en die arbeidsteorie van waarde vorm die grondslag van Karl Marx ,
+   David Ricardo en vele ander klassieke ekonome se werk. Die
+   arbeidsteorie van waarde voer aan dat goedere of dienste se waarde
+   gemeet kan word aan die arbeid wat dit neem om dit te vervaardig.
+   Hierdie waarde bepaal dan die kommoditeitsprys. Die arbeidsteorie van
+   prys en die naverwante koste-van-produksie teorie van waarde oorheers
+   die werk van die meerderheid klassieke ekonome, maar dit is by verre
+   nie die enigste aanvaarde basis vir waardebepaling nie. Die
+   neo-klassieke ekonome en die Oostenrykse leerskool ekonome verkies die
+   marginale teorie van waarde.
+
+   Markteorie beweer weer dat daar nie 'n waarde anders as prys is nie,
+   dat die mark al die beskikbare inligting in prys vervat, en solank as
+   wat die markte oop bly sal die prys en waarde dieselfde wees. Hierdie
+   teorie berus op die begrip van die rasionele ekonomiese speler.
+
+   'n Ander stel teorieë berus op die begrip dat daar 'n basiese eksterne
+   skaarsheid bestaan en dat waarde die verwantskap tot daardie basiese
+   skaarsheid verteenwoordig. Teorieë gebaseer op ekonomie wat beperk word
+   deur die beskikbaarheid van energie of 'n goudstandaard val in hierdie
+   kategorie.
+
+   Al hierdie teorieë maak deel uit van hedendaagse ekonomiese studies.
+
+[wysig] Ekonomiese taal en redenasies
+
+   Ekonomie maak staat op nougesette redenasiestyle, meer as enige ander
+   sosiale wetenskap. Ekonomiese metodologie het verskeie wisselwerkende
+   onderverdelings;
+     * Die versameling van ekonomiese data. Hierdie data bestaan uit
+       meetbare waardes van prys en veranderinge in pryse van meetbare
+       goedere. Byvoorbeeld: die koste om 'n werker vir 'n week te huur of
+       die koste van spesifieke goedere en hoeveel daarvan verbruik word.
+
+     * Formulering van modelle van ekonomiese verwantskappe, byvoorbeeld,
+       die verwantskap tussen algemene prysvlakke en die algemene
+       indiensnemingsvlakke. Dit sluit waarneembare vorme van ekonomiese
+       aktiwiteite in: geld, verbruik, voorkeure, koop, verkoop, pryse
+       ens. Sommige modelle is eenvoudige rekeningkundige modelle, terwyl
+       ander veronderstellings maak rondom spesifieke tipe ekonomiese
+       gedrag, soos bv. Die maksimering van gebruikswaarde of van wins. 'n
+       Voorbeeld van 'n model wat beide die aspekte illustreer is die
+       klassieke wiskundige formulering van die Keynesiese stelsel wat die
+       verbruiksfunksie en die nasionale inkomste gelykheid insluit. In
+       hierdie artikel word na sulke modelle as formele modelle verwys al
+       is hulle nie formeel in die sin van formele logika nie.
+
+     * Skep van Ekonomiese statistiek. Die data wat versamel is word in
+       die model ingevoer om 'n verteenwoordiging van die ekonomiese
+       aktiwiteit te skep. Byvoorbeeld: die algemene prysvlak is 'n
+       teoretiese idee algemeen in makro-ekonomiese modelle. Die
+       voorspelling van 'n spesifieke inflasiekoers behels die neem van
+       meetbare pryse en 'n model van mense se verbruiksgewoontes om
+       sodoende 'n algemene prysvlak te bepaal vanuit die beskikbare
+       inligting in die model. Veronderstel byvoorbeeld dat petrol 4 Rand
+       'n liter kos: om die prysvlak te bereken sal 'n model vereis van
+       hoeveel petrol die gemiddelde persoon verbruik en hoeveel van sy
+       inkomste daarvoor opsygesit word —maar dit vereis ook 'n model van
+       hoe mense petrol verbruik en watter ander goedere/dienste
+       plaasvervangers daarvoor is.
+
+     * Beredenering vanuit die ekonomiese modelle. Die proses van
+       beredenering (sien die artikels oor informele logika, logiese
+       beredenering) kan soms gevorderde wiskunde insluit. Byvoorbeeld, 'n
+       gevestigde tradisie onder ekonome is om ekonomiese veranderlikes
+       aan die hand van twee-dimensionele grafieke te beredeneer, waar die
+       kurwes wat die verwantskappe verteenwoordig tussen die
+       asveranderlikes in verskeie indekse vervat word. Soos algemeen in
+       wetenskap kan die gevolgtrekkings wat gemaak word deur die
+       beredenering 'n voorspellende asook 'n bevestigende (of
+       weerleggende) waarde hê. 'n voorbeeld van voorspellende waarde van
+       ekonomiese teorie is die voorspelling van die uitwerking van
+       huidige begrotingstekort op rentekoerse vir die volgende 10 jaar.
+       'n Voorbeeld van die bevestigende waarde van ekonomiese teorie sal
+       die bevestiging (of weerlegging) van teorieë wees oor die
+       verwantskap tussen marginale belastingkoerse en die
+       begrotingstekort.
+
+   Formele modellering is gegrond op die algemene beginsels van
+   konsekwentheid en volledigheid.
+
+[wysig] Die ontwikkeling van ekonomiese denke
+
+          Hoof Artikel: Geskiedenis van ekonomiese denke.
+
+   Die begrip ekonomie is rondom 1870 gevorm en gewild gemaak deur
+   neo-klassieke ekonome soos Alfred Marshall en het politiese ekonomie
+   vervang. Die begrip politiese ekonomie is deurgaans gebruik in die
+   18-19de eeue deur denkers soos Adam Smith, David Ricardo en Karl Marx.
+   Ekonomie word afgelei vanuit die Griekse woord oikos- wat huis of
+   nedersetting beteken en nomos vir wette of norme.
+
+   Ekonomiese denkrigtings kan rofweg in drie fases verdeel word:
+   Voormodern (Grieks, Romeins, Arabies), Vroeë modern en Modern (sedert
+   Adam Smith in die laat 18de eeu). Sistematiese ekonomiese teorie is
+   hoofsaaklik in die moderne tyd ontwikkel.
+
+[wysig] Denkrigtings van ekonomie
+
+   Daar was al verskeie wedywerende ekonomiese denkrigtings jeens
+   kapitalisme van die laat 18de eeu tot op hede gewees. Belangrike
+   denkrigtings is klassieke ekonomie, Marxistiese ekonomie, Keynesiese
+   ekonomie, Neo-klassieke ekonomie en Nuwe klassieke ekonomie. Daar
+   bestaan ook ander denkrigtings. Hierdie denkrigtings is oor verskeie
+   jare ontwikkel, en verskil fundamenteel met mekaar.
+
+[wysig] Neo-klassieke ekonomie
+
+   Neo-klassieke ekonomie gaan van die veronderstelling uit dat hulpbronne
+   skaars is en dat dit nodig is om te kies tussen wedywerende
+   alternatiewe. Dit wil sê, ekonomie het te doen met kompromieë. Met
+   skaarsheid behels die kies van 'n alternatief die opsegging van 'n
+   ander alternatief – ook genoem die geleentheidskoste. Die
+   geleentheidskoste skep 'n inbegrepe prysverwantskap tussen wedywerende
+   alternatiewe. Verder word skaarsheid eksplisiet gekwantifiseer deur
+   prysverwantskappe in beide die markgerigte en beplande ekonomieë.
+
+   Die verstaan van keuses wat deur indiwidue en groepe gemaak word is van
+   kernbelang. Ekonome glo dat aansporings en begeertes 'n belangrike rol
+   speel in besluitneming. Begrippe van die nuttigheidsleer filosofiese
+   denkrigting word gebruik as analitiese begrippe in ekonomie, al
+   verstaan ekonome dat die gemeenskap nie nuttigheidsleer doelwitte sal
+   aanneem nie. Een voorbeeld hiervan is die idee van die gebruikswaarde
+   funksie, wat aanvaar word as die wyse waarop indiwiduele ekonomiese
+   spelers besluit wat hulle gelukkig maak en watter besluite hulle maak
+   in die nastrewe van daardie geluk.
+
+[wysig] Sien ook
+
+     * Goudstandaard
+     * Landbou-ekonomie
+     * Kommunisme
+
+[wysig] Eksterne skakels
+
+     * National Council on Economic Education
+     * 'n Bron van gratis studie notas oor ekonomie
+     * 'n Gids na verskeie aanlyn ekonomiese handboeke
+     * OECD Statistics Organization For Co-operation and Economic
+       Development Statistical site.
+     * Economics Directory
+     * Bureau of Labor Statistics Amerikaanse mannekragdepartement se
+       statistiek afdeling.
+     * Die wêreldbank se datawerf
+     * VSA se Departement van Handel se Ekonomiese Statistiek
+     * Brief Introduction to Macroeconomics by Paul Krugman
+     * Paul Krugman's Page, including the essay There's something about
+       macro.
+     * The National Voluntary Content. ERIC Digests.
+     * Recent Trends in Economic Education. ERIC Digest.
+     * Schools of Thought – Compare one versus another regarding
+       particular issues
+     * Classiques des Sciences Sociales More than 800 full text books and
+       articles (in French)
+     * The Nature of Things by Jean-Baptiste Say - An essay in which Say
+       claim that economics isn't an ethical system that one can simply
+       refute on the basis one doesn't accept its values - it is a
+       collection of theories and models that explain inductively found
+       principles.
+     * Dictionary of the history of Ideas: History of Economics
+
+   Kategorie: Ekonomie
+

@@ -1,0 +1,42 @@
+Onsekerheidsbeginsel
+
+
+   In kwantumfisika, verwys die Heisenberg onsekerheidsbeginsel na die
+   stelling dat die waarneem van die posisie van 'n partikel in 'n klein
+   deel van ruimte die momentum daarvan onseker maak; en teenoorgesteld as
+   die momentum presies gemeet word is die posisie van die partikel
+   onseker.
+
+   In kwantummeganika het die posisie en momentum van partikels nie
+   presiese waardes nie, maar eerder 'n waarskynlikheidsverspreiding. Daar
+   bestaan geen toestande waar 'n partikel oor beide 'n definitiewe
+   posiese én 'n definitiewe momentum beskik nie. Hoe nouer die
+   waarskynlikheidsverspreiding van die posisie is, hoe wyer word die
+   momentum s'n.
+
+   Fisies vereis die onsekerheidsbeginsel dat wanneer die posisie van 'n
+   atoom gemeet word met 'n foton, dat die weerkaatsde foton die momentum
+   van die atoom met 'n onsekere hoeveelheid sal verander wat omgekeerd
+   eweredig sal wees aan die akkuraatheid van die meting van die posisie.
+   Die mate van die onsekerheid kan nooit laer wees as die beperking wat
+   deur die beginsel daargestel is nie, ongeag van die eksperimentele
+   opstelling.
+
+   'n Wiskundige stelling van die beginsel is dat elke kwantumtoestand die
+   eienskap het dat die kwadratiese gemiddelde afwyking van die posisie
+   vanaf sy gemiddelde (die standaardafwyking van die X-verspreiding):
+
+          \Delta X = \sqrt{\langle X^2 \rangle-\langle X \rangle ^2 } \,
+
+   vermenigvuldig met die kwadratiese gemiddelde afwyking van die momentum
+   vanaf sy gemiddelde (die standaardafwyking van P):
+
+          \Delta P = \sqrt{\langle P^2 \rangle-\langle P \rangle ^2} \,
+
+   nooit kleiner kan wees as die klein vaste veelvoud van Planck se
+   konstante nie:
+
+          \Delta X \Delta P \ge {\hbar \over 2}
+
+   Kategorie: Kwantummeganika
+

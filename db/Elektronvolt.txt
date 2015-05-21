@@ -1,0 +1,22 @@
+Elektronvolt
+
+
+   Die elektronvolt (simbool eV) is 'n eenheid van energie. Dit is die
+   hoeveelheid kinetiese energie wat 'n enkele onverbonde elektron verkry
+   as dit deur 'n elektrostatiese potensiaalverskil van een volt in 'n
+   vakuum versnel word. In ander woorde gestel is dit gelyk aan een volt
+   (1 volt = 1 joule per coulomb) vermenigvuldig met die lading van 'n
+   enkele elektron.
+
+   'n Elektronvolt is 'n baie klein hoeveelheid energie:
+
+          1 eV = 1.602 176 53 e^−19 J. ^[1] (of ongeveer 0.160 aJ)
+
+   Die elektronvolt as eenheid word deur die SI aanvaar (maar nie
+   aangemoedig nie). Dit word algemeen gebruik in Vastetoestand-, Kern- en
+   partikelfisika, dikwels saam met die voorvoegsels m, k, M, G of T.
+
+   Ionisasie-energieë en ander atoomeienskappe word dikwels aangehaal in
+   terme van elektronvolt, veral in ouer tekste.
+   Kategorie: Eenhede
+

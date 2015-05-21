@@ -1,0 +1,262 @@
+Turbo-aanjaer
+
+
+   'n Deursnit van 'n Turbo-aanjaer met luglaers soos vervaardig deur
+   Mohawk Innovative Technology Inc.
+   'n Deursnit van 'n Turbo-aanjaer met luglaers soos vervaardig deur
+   Mohawk Innovative Technology Inc.
+
+   'n Turbo-aanjaer is 'n meganiese induksietoestel aangedryf deur
+   uitlaatgas wat gebruik word in binnebrandenjins om die werkverrigting
+   te verbeter deur saamgeperste lug in die verbrandingskamers in te
+   dwing. Dit maak dit moontlik om meer brandstof per slag te verbrand wat
+   lei tot 'n groter kraglewering.
+
+   Inhoud
+
+        * 1 Beginsel van werking
+        * 2 Geskiedenis
+        * 3 Ontwerpbesonderhede
+             + 3.1 Komponente
+             + 3.2 Drukverhoging
+             + 3.3 Afvoersluis
+             + 3.4 Stuwingsvermydings-, Stort- of Afblaaskleppe
+             + 3.5 Brandstofdoeltreffendheid
+        * 4 Verwysings
+        * 5 Eksterne skakels
+
+[wysig] Beginsel van werking
+
+   'n Turbo-aanjaer bestaan uit 'n turbine en 'n kompressor wat aan 'n
+   gemeenskaplike as gekoppel is. Die turbine-inlaat ontvang die
+   uitlaatgasse vanaf die verdelerpyp op die enjin-uitlaat wat die turbine
+   se wiel laat draai. Die rotasie van die uitlaatgasse dryf die
+   kompressor aan wat die lug saampers en dit na die inlaatverdeelpyp
+   voer.
+
+   Die doel van 'n turbo-aanjaer is om die doeltreffendheid van 'n enjin
+   se kraglewering te verbeter deur een van die hoofbeperkinge daarvan te
+   oorkom. 'n Natuurlik geaspireerde enjin gebruik slegs die afwaartse
+   slag van 'n suier om 'n lae druk te skep om lug by die silinder in te
+   suig. Die getal lug- en brandstofmolekules bepaal die beskikbare
+   potensiële energie om suier afwaarts te dwing tydens die kragslag.
+   Gegewe dat die atmosferiese lugdruk relatief konstant bly sal daar dus
+   'n beperking wees tot die hoeveelheid lug en gevolglik die hoeveelheid
+   brandstof wat in die verbrandingskamer ingesuig kan word. Die vermoë om
+   die silinder met lug te vul word na verwys as die volumetriese
+   doeltreffendheid. Aangesien die turbo-aanjaer die lugdruk verhoog voor
+   dit die silinder binnegaan en die hoeveelheid lug wat ingelaat word
+   grootliks 'n funksie van druk en tyd is, sal meer lug ingelaat word as
+   die druk verhoog word. Die funksie van die turbo-aanjaer is dus om
+   hierdie inlaatdruk op 'n beheerbare manier te verhoog.
+
+   Die gebruik van 'n kompressor om die inlaatdruk na die silinder te
+   verhoog word dikwels na verwys as meganiese induksie. Sentrifugale
+   drukaanjaers werk op dieselfde manier as 'n turbo-aanjaer; die verskil
+   is egter dat die energie om die kompressor aan te dryf in die geval van
+   'n drukaanjaer vanaf die enjin se krukas verkry word in plaas van die
+   uitlaatgas soos in die geval van 'n turbo-aanjaer. Om hierdie rede is
+   turbo-aanjaers meer doeltreffend, aangesien hulle turbienes
+   hitte-enjins is, wat die kinetiese energie van die uitlaatgas wat
+   andersins vermors sou word, omskakel na nuttige werk. Die energie is
+   anders as wat algemeen aanvaar word nie geheel en al verniet nie. Die
+   turbo-aanjaer veroorsaak 'n terugdruk wat deur die enjin oorkom moet
+   word. Drukaanjaers gebruik weer die uitsetkrag van die enjin om 'n
+   verhoging in kraglewering te verkry wat 'n vermindering van die enjin
+   se totale moontlike kraguitset veroorsaak.
+
+[wysig] Geskiedenis
+
+   Die turbo-aanjaer is deur die Switserse ingenieur Alfred Buchi
+   uitgevind wat werk gedoen het op stoomturbienes. Hy het in 1905 aansoek
+   gedoen om die patent vir die interne-verbrandingturbo-aanjaer.
+   Dieselskepe en -lokomotiewe wat toegerus is met turbo-aanjaers het hul
+   verskyning in die 1920's begin maak. Een van die eerste geruike van
+   turbo-aanjaers wat nie in Diesel-enjins gebruik is nie het plaasgevind
+   toe Sanford Moss, 'n ingenieur van General Electric, 'n turbo op 'n V12
+   vliegtuigenjin geïnstalleer het. Die enjin het die voordeel gehad dat
+   dit nie soveel krag verloor het soos ander vliegtuigenjins wat met
+   binnebrandenjins as hulle hoog gevlieg het nie.
+
+   Turbo-aanjaers is vir die eerste keer in vliegtuigenjins gebruik tydens
+   die 1930's voor die Tweede Wêreldoorlog. Die hoofdoel vir die
+   aanwending van turbo's in vliegtuigenjins was dan om die hoogte
+   waarteen die vliegtuie kon vlieg te verhoog deur te vergoed vir die
+   laer atmosferiese druk by hoë hoogtes. Vliegtuie soos die Lockheed P-38
+   Lightning, Boeing B-17 Flying Fortress en B-29 Superfortress het almal
+   uitlaatgas gedrewe "turbo-aanjaers" gebruik om die kraglewering van hul
+   enjins op hoë hoogtes te verhoog. Dit is belangrik om kennis te neem
+   dat die oorgrootte meerderheid vliegtuie van hierdie tydperk beide
+   rataangedrewe sentrifugale drukaanjaers asook uitlaatgasgedrewe
+   turbo-aanjaers op dieselfde enjin gebruik het.
+
+   Turbo-Diesel vragmotors is in Europa en Amerika (veral Cummins) na 1949
+   vervaardig. Die turbo-aanjaer het groot opslae in 1952 gemaak toe Fred
+   Agabashian die voorste wegspringplek behaal het tydens die
+   kwalifiserende rondtes van die Indianapolis 500 en voorgeloop het
+   totdat meganiese probleme sy motor gebreek het.
+   Die Corvair se vindingryke turbo-aangedrewe plat 6 Chevrolet Corvair
+   enjin; Die turbo, regs bo, voer die saamgepersde lug na die enjin deur
+   die chroombuise.
+   Die Corvair se vindingryke turbo-aangedrewe plat 6 Chevrolet Corvair
+   enjin; Die turbo, regs bo, voer die saamgepersde lug na die enjin deur
+   die chroombuise.
+
+   Na aanvanklike vroeëre minder suksesvolle pogings deur General Motors
+   met turbo-aangejaagde passasiersmotors het BMW die herlewing van
+   turbo-aanjaers in 1973 ingelui met die 2002 Turbo met Porsche kort op
+   hulle hakke met die bekendstelling van die 911 Turbo by die Paryse
+   Motorskou in 1974. Buick was die eerste van GM se afdelings wat die
+   turbo weer heringestel het in die 1978 Buick Regal, gevolg deur
+   Mercedes-Benz met die 300D en Saab 99 in 1978. Die wêreld se eerste
+   passasiersmotor met 'n turbodiesel is ook in 1978 bekendgestel deur
+   Peugeot met die loods van die Peugeot 604. Vandag word byna alle
+   passasiersvoertuie met Dieselenjins met Turbo-aanjaers toegerus.
+
+   Alfa Romeo was die eerste Italiaanse vervaardiger met 'n motor met 'n
+   turbo-aanjaer met hul Alfetta GTV 2000 Turbodelta in 1979. Pontiac het
+   'n motor met 'n turbo in 1980 bekendgestel gevolg deur Volvo in 1981.
+   Renault het 'n nuwe rigting ingeslaan deur 'n turbo-aanjaer in hul
+   kleinste en ligste motor, die R5 te installeer in 1980.
+
+   In Formule Een staan die tydperk tussen 1977 tot 1989 as die "Turbo
+   Era" bekend. Dit was die tydperk toe enjins met verplasings van 1500 cc
+   kraglewering van tussen 746 tot 1119 kW kon bereik. Renault was die
+   eerste vervaardiger om turbotegnologie in 1977 in F1 te gebruik.
+   Turbo-aanjaers het die sport oorgeneem, maar die FIA het besluit dat
+   dit die sport te gevaarlik en duur gemaak het en het beperkinge begin
+   plaas op die druktoename in 1987 en is turbo-aanjaers in 1989
+   uiteindelik geheel en al verban.
+
+   In tydrenne is turbo-aangedrewe enjins met 'n verplasing van meer as
+   2000cc al lank die gunsteling kragbron by die Groep
+   A/Wêreldtydrenkampioenskap (topvlak) mededingers vanweë die uitstaande
+   krag-tot-gewig verhouding (en besonderse hoë wringkrag) wat bereikbaar
+   is. Die FIA het eerder as om die tegnologie in tydrenne te verban,
+   beperkings geplaas op die inlaatdeursnee en sodoende die druktoename
+   beperk.
+
+   Die sukses van klein, turbo-aangedrewe, vierwielaangedrewe voertuie in
+   tydrenne, wat begin het met die Audi Quattro het gelei tot die
+   ontwikkeling van padvoertuie soos die Lancia Integrale, Toyota Celica
+   GT-four, Subaru Impreza WRX en die Mitsubishi Lancer Evolution.
+
+[wysig] Ontwerpbesonderhede
+
+[wysig] Komponente
+
+   Kompressor stuwer sy-aansig
+   Kompressor stuwer sy-aansig
+   Turbine met sy-omhulsel verwyder.
+   Turbine met sy-omhulsel verwyder.
+
+   'n Turbo-aanjaer het vier hoofkomponente:
+     * Die turbinewiel
+     * Die stuwer
+     * Koniese omhulsels vir elke wiel
+     * Die sentrale roterende spil
+
+   Die omhulsel rondom die kompressor se stuwer en turbine versamel en
+   stuur die gasvloeie deur die wiele. Die grootte en die vorm van die
+   omhulsel bepaal baie van die werkverrigtingseienskappe van die
+   turbo-aanjaer. Die oppervlakte van die koniese deel vanaf die spil tot
+   die wye tuit word uitgedruk as 'n verhouding. Sommige vervaardigers
+   verskaf 'n basiese samestelling met verskeie keuses van bogenoemde
+   verhouding. Dit laat die ontwerper toe om 'n doelgemaakte ontwerp daar
+   te stel in terme van die werkverrigting, reaksiesnelheid en
+   doeltreffendheid na gelang van die spesifieke ontwerpdoelwit. Die
+   turbine- en stuwerwiel groottes dikteer ook die hoeveelheid lug of
+   uitlaatgas wat deur die stelsel kan vloei en die relatiewe
+   doeltreffendheid van hul werking. 'n Algemene reël is dat hoe groter
+   die turbine- en kompressorwiele hoe groter die lugvloeikapasiteit.
+   Mates en vorms, asook die kromming van- en die aantal lemme op die
+   wiele wissel. Die as verbind die stuwer en turbine aanmekaar. Die as
+   moet ook laers bevat om wrywing te verlaag.
+
+[wysig] Drukverhoging
+
+   Die drukverhoging verwys na die toename in die absolute
+   inlaatverdeelpyp se druk wat deur die turbo-aanjaer veroorsaak word.
+   Dit is presies gelyk aan die druk soos op 'n drukmeter aangedui word.
+   Die drukverhoging word beperk om die enjinstelsel binne sy
+   bedryfsbestek te hou en word beheer deur 'n afvoersluis wat
+   uitlaatgasse verby die uitlaatturbine laat vloei. In sommige motors
+   hang die maksimum drukverhoging af van die brandstof se oktaangehalte
+   en word elektronies beheer deur 'n klopsensor.
+
+   Baie dieselenjins het nie so 'n afvoersluis nie omdat die hoeveelheid
+   uitlaatgas direk beheer word deur die hoeveelheid brandstof wat
+   ingespuit word en klein veranderinge in die drukverhoging maak nie 'n
+   groot verskil aan die enjin se werkverrigting nie.
+
+[wysig] Afvoersluis
+
+   Die vinnig draaiende kompressor turbine trek 'n groot hoeveelheid lug
+   in en forseer dit deur die enjin. As die turbo-aanjaer se uitsetvloei
+   die enjin se volumetriese vermoë oorskry sal die inlaatverdeelpyp se
+   druk te hoog word. Die rotasiesnelheid van die turbine kan ook te hoog
+   word en daarom moet die uitlaatgas wat dit aandryf beheer word. Vir die
+   doeleinde is die gebruik van 'n afvoersluis die mees algemene meganiese
+   manier om die spoed te beheer. Die stelsel word dikwels deur 'n
+   bykomstige elektroniese beheerstelsel bygestaan. Die hoofdoel van die
+   afvoersluis is dus om van die uitlaatgas rondom die turbine te lei
+   wanneer die verlangde inlaatdruk verkry is. Die meeste
+   passasiersvoertuie se afvoersluise word by die turbo-aanjaer ingebou.
+
+[wysig] Stuwingsvermydings-, Stort- of Afblaaskleppe
+
+   Turbo-aangedrewe enjins wat met 'n vol-oop smoorklep en teen hoë
+   omwentelinge werk vereis 'n groot hoeveelheid lug om te vloei tussen
+   die turbo en die inlaat van die enjin. As die smoorklep toegemaak word
+   sal die saamgeperste lug na die smoorklep beweeg sonder 'n plek om heen
+   te gaan. Dit kan 'n stuwing tot gevolg hê wat die druk van die lug tot
+   so 'n mate verhoog dat die enjin beskadig kan word. Die skielike
+   drukverhoging kan ook 'n terugvloei na die turbo se kompressor
+   veroorsaak wat die kompressor se wiel skielik sal rem. As die smoorklep
+   weer oopgemaak word sal die terugdruk ook veroorsaak dat die kompressor
+   stadig versnel en dus die reaksiesnelheid van die enjin beïnvloed. Om
+   hierdie verskynsel te verhoed word 'n klep tussen die turbo en die
+   inlaat geïnstalleer om die oortollige lug af te blaas. Die kleppe word
+   gewoonlike geaktiveer deur die enjin vakuum of deur elektroniese
+   beheermetodes.
+
+   Die hoofdoel van die klep is om skade aan die enjin vanweë 'n
+   drukstuwing te vermy en om te verseker dat die Turbo altyd teen 'n hoë
+   spoed bly draai. Die kleppe kan ook gebruik word om die drukverhoging
+   te beheer op 'n soortgelyke wyse as die afvoersluis maar word selde
+   gebruik om praktiese redes. Die lug word gewoonlik na atmosfeer
+   afgeblaas of kan alternatiewelik na die turbo se inlaat gehersirkuleer
+   word. Die hersirkulasie verminder die blaasklank wat die turbo
+   voortbring.
+
+[wysig] Brandstofdoeltreffendheid
+
+   Aangesien die turbo-aanjaer die spesifieke kraglewering van 'n enjin
+   beïnvloed, sal die enjin ook groter hoeveelhede afvalhitte vrystel. Dit
+   kan probleme veroorsaak in motors wat nie van meet af aan ontwerp is om
+   die hoë hittelading te hanteer nie. Hierdie ekstra afvalhitte saam met
+   die laer kompressieverhouding van turbo-aangejaagde enjins dra by tot
+   'n effens laer termiese doeltreffendheid, wat 'n klein maar direkte
+   impak op die oorhoofse brandstofdoeltreffendheid het.
+
+   Selfs al word die saamgeperste lug verkoel in 'n tussenverkoeler is die
+   totale saampersing in die verbrandingskamer groter as in 'n natuurlike
+   geaspireerde enjin. Om enjinklop te vermy en steeds die maksimum krag
+   uit die enjin te tap, is dit soms gebruiklik om ekstra brandstof in te
+   voer slegs om beter verkoeling te bewerkstellig. Die oortollige
+   brandstof word nie verbrand nie maar absorbeer slegs die hitte. Terwyl
+   hierdie gebruik wel lei tot verhoogde kraglewering is dit ten koste van
+   brandstofekonomie en verhoogde uitlaatgasse.
+
+[wysig] Verwysings
+
+     * Happy 100th Birthday to the Turbocharger, Don Sherman, Automobile
+       Magazine, February 2006
+
+[wysig] Eksterne skakels
+
+     * Artikel oor hoe turbo-aanjaers werk
+     * Fotos van 5 kragtige turbo enjins
+
+   Kategorie: Voertuigtegnologie
+

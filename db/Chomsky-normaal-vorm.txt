@@ -1,0 +1,53 @@
+Chomsky-normaal-vorm
+
+
+   In rekenaar wetenskap is 'n formele grammatika in Chomsky-normaal-vorm
+   as en slegs as alle produksie reëls van die volgende vorm is:
+
+          A → BC of
+          A → α of
+          S → ε
+
+   waar A, B en C nie-terminaalsimbole is nie, α 'n terminaalsimbool ('n
+   simbool wat 'n konstante waarde voorstel) is, S die begin simbool is en
+   ε die leë-string is.
+
+   Elke grammatika in Chomsky-normaal-vorm is konteks-vry, en omgekeerd,
+   elke kontek-vrye grammatika kan op doeltreffende wyse in 'n ekwivalente
+   Chomsky-normaal-vorm grammatika omskep word.
+
+   Met die uitsondering van die opsionele reël S → ε (ingesluit wanneer
+   die grammatika die leë-string mag genereer), is alle reëls van 'n
+   grammatika in Chomsky-normaal-vorm ekspansief ; dus, deur die hele die
+   afleiding van 'n string, is elke string van terminale en nie-terminale
+   altyd dieselfde lengte of een element langer as die vorige so string.
+   Die afleiding van 'n string met lengte n is altyd presies 2n-1 stappe
+   lank. Verder, aangesien alle reëls wat nie-terminale aflei transformeer
+   een nie-terminaal na presies twee nie-terminale, 'n ontledingsboom
+   gegrond op 'n grammatika in Chomsky-normaal-vorm is 'n binêre boom, en
+   die hoogte van hierdie boom is beperk tot op die meeste die lengte van
+   die string.
+
+   As gevolg van hierdie eienskappe maak baie bewyse in die veld van tale
+   en berekenbaarheid gebruik van die Chomsky-normaal-vorm. Hierdie
+   eienskappe lewer ook verskeie doeltreffende algoritmes gegrond op
+   grammatikas in Chomsky-normaal-vorm; byvoorbeeld, die CYK-algoritme wat
+   besluit of 'n gegewe string deur 'n gegewe grammatika gegenereer kan
+   word deur die Chomsky-normal-vorm te gebruik.
+
+   Die Chomsky-normaal-vorm is vernoem na Noam Chomsky, die Amerikaanse
+   taalkundige wat die Chomsky-hiërargie uitgevind het.
+
+[wysig] Kyk ook
+
+     * Backus-Naur-vorm
+     * Greibach-normaal-vorm
+     * Kuroda-normaal-vorm
+
+[wysig] Verwysings
+
+     * Sjabloon:Book reference Pages 98–101 of section 2.1: context-free
+       grammars. Page 156.
+
+   Kategorie: Formele tale
+

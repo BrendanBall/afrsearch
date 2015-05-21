@@ -1,0 +1,343 @@
+Rot
+
+
+                        Rotte
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Die bruinrot, Rattus norvegicus
+   Die bruinrot, Rattus norvegicus
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Rodentia
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  Muroidea^[1]
+      Familie:     Muridae
+     Subfamilie:   Murinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Rattus
+                   Fischer de Waldheim, 1803
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                            50 spesies; sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+
+                           Stenomys (Thomas, 1910)
+
+   Rotte verwys na verskeie medium-grotte knaagdiere. Egte rotte is lede
+   van die genus Rattus. Uit 'n menslike oogpunt is die belangrikste lede
+   van hierdie genus die swartrot, Rattus rattus, en die bruinrot, Rattus
+   norvegicus. Baie lede van ander knaagdiergenusse en families word ook
+   rotte genoem en deel baie karaktereienskappe met egte rotte. 'n Rot het
+   'n gemiddelde leeftyd van drie jaar.^[2]
+
+   Inhoud
+
+        * 1 Spesies en beskrywing
+        * 2 As troeteldiere
+        * 3 As onderwerpe in wetenskaplike ondersoek
+        * 4 Rottelag
+        * 5 As voedsel
+        * 6 Spesies
+        * 7 Verwysings
+
+[wysig] Spesies en beskrywing
+
+   Die bekendste rotspesies is die swartrot, Rattus rattus, en die
+   bruinrot, Rattus novergicus. Die Rattus-groep is algemeen bekend as Ou
+   Wêreld-rotte of egte rotte en het hul oorsprong in Asië. Rotte is
+   groter as die meeste van die Ou Wêreld-muise waaraan hulle verwante is,
+   maar hulle weeg in die wild selde meer as 500g.
+
+   Die term "rot" word ook gebruik om na ander klein soogdiere te verwys
+   wat nie werklik rotte is nie. Een voorbeeld hiervan is die buidelrot
+   (of Opossum), wat, as 'n lid van die klas Marsupialia 'n buideldier is
+   en dus familie van die kangaroe, eerder as die rot is. Die
+   wydverspreide en problematiese, kommensale rotspesies vorm 'n
+   minderheid in die diverse Rattus-genus. Baie rotspesies is endemies en
+   sommige het bedreigd geword as gevolg van verlies van hul habitat of
+   kompetisie met die bruinrot, die swartrot of die Polinesiese rot.
+
+   In Westerse lande hou baie mense getemde rotte as troeteldiere aan.
+   Hierdie rotte is meesal van die spesis R. norvegicus wat van die
+   grasvelde van Sjina afkomstig is en na Europa versprei het en,
+   uiteindelik, in 1775 na die Nuwe Wêreld. Troeteldierrotte is oor die
+   algemeen bruinrotte wat afstammelinge van bruinrotte wat vir navorsing
+   geteel, maar hulle is dieselfde spesies as die algemene straatrotte wat
+   in stede aangetref word. Getemde rotte is geneig om meer gedwee as
+   hulle wilde voorvaders te wees, asook meer vatbaar vir siektes,
+   moontlik as gevolg van inteling.
+
+   Die algemene spesies is opportunistiese bittereinders en woon gewoonlik
+   saam of naby mense. Daar word aanvaar dat die Swart Plaag veroorsaak
+   was deur die mikro-organisme, Yersinia pestis, wat deur die rotvlooi,
+   Xenopsylla cheopis gedra was. Dié vlooie se prooi was die spesie R.
+   rattus, wat in die Europese stede van die tyd gewoon het; die rotte was
+   self ook slagoffers van die plaag.
+
+   Rotte word dikwels blameer vir die beskadiging van voedsel en ander
+   goedere. Alhoewel moderne wilde rotte Leptosirose (Weilsiekte) kan dra,
+   asook ander siektes wat tussen spesies (insluitende mense) oorgedra kan
+   word, is sulke gevalle seldsaam. Wilde rotte wat in goeie omgewings
+   woon is gewoonlik gesonde, stewig dier. Wilde rotte wat in stede
+   woonagtig is kan ly onder slegte diëte en interne parasiete en miete,
+   maar dra in die algemeen nie siektes na mense oor nie.
+
+   Die algemene lewensduur van 'n rot strek van twee tot vyf jaar, met
+   drie jaar as 'n gemiddelde leeftyd.
+
+[wysig] As troeteldiere
+
+   'n Getemde rot, wat geleer is om op sy eienaar se skouer te bly.
+   'n Getemde rot, wat geleer is om op sy eienaar se skouer te bly.
+
+   Spesiaal geteelde rotte word sedert die laat-19de eeu as troeteldiere
+   aangehou. Rotte is sosiale, intelligente diere en kan geleer word om 'n
+   sandbak as toilet te gebruik, om te kom wanneer geroep word en 'n
+   verskeidenheid toertjies uit te voer. Troeteldierrotte is gewoonlik
+   variante van die spesie R. Norvegicus, of bruinrot (dié spesie het ook
+   'n gewilde albino-variant), maar ander rotte, soos die swartrot word
+   ook soms as troeteldier aangehou. Die verskil in die gedrag tussen 'n
+   troeteldierrot en 'n wilde rot hang af van die hoeveelheid getemde
+   voorouers wat 'n spesifieke rot gehad het. Wanneer 'n troeteldierrot
+   van 'n betroubare bron verkry is, hou dit geen meer gesondheidsrisiko's
+   as ander, algemener troeteldiere in nie.
+
+[wysig] As onderwerpe in wetenskaplike ondersoek
+
+   'n Getemde rot wat ly aan Diabetes mellitus: 'n metaboliese aandoening
+   wat ook 'n algemene siekte tussen mense is.
+   'n Getemde rot wat ly aan Diabetes mellitus: 'n metaboliese aandoening
+   wat ook 'n algemene siekte tussen mense is.
+
+   In 1895 het Clark Universiteit in Worcester, Massachusetts 'n bevolking
+   van getemde wit bruinrotte geskep vir die bestudering van die effekte
+   van dieet en ander fisiologiese studies. Deur die jare is rotte in baie
+   eksperimentele studies gebruik, wat bygedra het tot ons kennis oor
+   genetika, siektes, die effekte van dwelms en ander onderwerpe wat
+   positiewe bydraes tot die gesondheid en welsyn van die mens gelewer
+   het. Laboratoriumrotte was ook kosbaar in psigologiese studies en ander
+   die bestudering van verskeie verstandelike prosesse.^[3] 'n Studie in
+   2007 het gevind dat rotte metakognisie besit, 'n verstandelike
+   bevoegdheid wat vroeër slegs in mense en sommige primate waargeneem
+   is.^[4]^[5]
+
+   Getemde rotte verskil op baie maniere van wilder rotte, wat hulle
+   bruikbaarheid as onderwerpe vir wetenskaplike studie affekteer. Hulle
+   is meer kalm en minder geneig om te byt; hulle kan groot samedrommings
+   duld; hulle teel vroeër en produseer meer baba rotte en hulle breine,
+   lewers, niere, byniere en harte is kleiner (Barnett 2002).
+
+   Bruinrotte word dikwels gebruik as modelorganisme vir wetenskaplike
+   navorsing: daar word verwag dat ontdekkings uit eksperimente op rotte
+   ook insig in die werking van ander organismes sal gee. Muise word meer
+   dikwels as rotte gebruik vir genetiese navorsing, maar rotte is 'n
+   gewilde keuse vir toets wat verwant is aan intelligensie, die
+   leerproses en dwelmmisbruik, siende dat hulle hoogs intelligent is,
+   asook vindingryk, aggressief en aanpasbaar by hul omstandighede. Hulle
+   psigologie blyk op baie maniere eners as die van mense te wees.
+   Heeltemal nuwe rassoorte van die bruinrot is al geteel vir gebruik in
+   laboratoriums, soos die Wistarrot, 'n spesiale albino vorm van Rattus
+   norvegicus wat by die Wistar Instituut in Philadelphia geteel is.
+
+[wysig] Rottelag
+
+   Daar was ontdek dat rotte 'n kort, hoë-frekwensie, ultra-soniese,
+   sosiaal uitgelokde vokalisering uiter tydens spelery en wanneer hulle
+   gekielie word. Die geluid word as 'n helde "tjirp" beskryf. Mense kan
+   hierdie getjirp nie sonder spesiale toerusting hoor nie. Daar was ook
+   ontdek dat rotte, net soos mense, areas van hul liggame het wat
+   kielierig is en meer laggeluide uitlok as ander aread. Die gelag word
+   met positiewe emosies geassosieer; daar vorm ook 'n sosiale band tussen
+   die rot en die persoon wat hom kielie en rotte blyk naderhand 'n
+   verlange te hê om deur die persoon gekielie te word. Ander reaksies op
+   die kieliery het die volgende ingesluit: die rotte wat die meeste gelag
+   het, het ook die meeste gespeel en het ook verkies om meer tyd met
+   ander laggende rotte te spandeer. Dit dui op 'n sosiale voorkeur aan
+   rotte wat soortgelyke gedrag vertoon. Soos rotte ouer word, blyk daar
+   egter 'n afname te wees in hoeveel hulle lag en hulle reaksies wanneer
+   hulle gekielie word.^[6] Rotte se getjirp word ook gerapporteer in
+   addisionele studies, waaruit die geblyk het dat rotte lag wanneer hulle
+   stoei en voor hulle paar of morfien ontvang. Dít word geïnterpreteer
+   dat die klank dus ook dui op 'n verwagting van iets belonends.^[7]
+
+[wysig] As voedsel
+
+   Soos alle ander soogdiere is rotte eetbaar en word hulle soms in
+   noodgevalle gevang en geëet. Rotvleis word nie algemeen geëet nie
+   vanweë 'n streng verbod daarop in Islamitiese en Joodse wette, die
+   verbod op alle vleis in baie volgelinge van Hindoeïsme en die rot se
+   swak reputasie in baie ander kulture.
+
+   As voedsel is rotte egter baie keer 'n makliker verkrygbare bron van
+   proteïne as enige ander fauna. Die inboorlinge langs die kus in
+   Suid-Queensland, Australië, het dikwels rotte in hulle dieet
+   ingesluit.^[8] In die Misjmi-kultuur van Indië is rotte 'n belangrike
+   onderdeel van die tradisionele dieet; Misjmi-vroue mag geen vleis
+   behalwe vis, varkvleis, wilde voëls en rotte eet nie.^[9]
+
+   In sommige kulture is (of was) rotte beperk aanvaarbaar as 'n vorm van
+   voedsel vir 'n spesifieke sosiale of ekonomiese klas. In die
+   tradisionele kulture van die Hawaiïërs en die Polinesiërs was die rot
+   'n algemene voedselsoort. Tydens feeste kon die Polinesiese mense van
+   Paaseiland rotte eet, maar die koning self was nie toegelaat om dit te
+   doen nie, siende dat die eilanders geglo het dat hy in 'n "toestand van
+   heiligheid" verkeer het, genaamd tapu.^[10] Tydens die bestudering van
+   antieke argeologiese vondsplekke in Hawaiï, het argeoloë ontdek dat die
+   konsentrasie rotoorblyfsels wat met algemene huishoudings geassosieer
+   was, drie keer groter was as dié wat met die huishoudings van die
+   hoëlui geassosieer was. Die rotbeentjies wat gevind was, was almal
+   gebrand en met 'n koolstofmetaal gedek, wat daarop dui dat die rotte as
+   voedsel voorberei was. Die feit dat rotte se oorblyfselfs grootliks met
+   die algemener huishoudings geassosieer word, mag daarop dui dat die
+   opperklasse nie rotte geëet het nie, moontlik vanweë die smaak of as
+   gevolg van hul status.^[11]
+
+   Die taboe rakende rotte as voedsel is nie uniek tot die wêreld se
+   grootste godsdienste of Westerse kulture nie. Beide die Shipibo-mense
+   van Peru en die Sirionó's van Bolivia beskou die eet van rotte as 'n
+   taboe.^[12]^[13]
+
+[wysig] Spesies
+
+     * Genus Rattus
+
+  *
+       + Rattus adustus
+       + Rattus annandalei
+       + Rattus argentiventer
+       + Rattus baluensis
+       + Rattus bontanus
+       + Rattus boulos
+       + Rattus burrus
+       + Rattus colletti
+       + Rattus elaphinus
+       + Rattus enganus
+       + Rattus everetti
+       + Rattus exulans
+       + Rattus feliceus
+       + Rattus foramineus
+       + Rattus fuscipes
+       + Rattus giluwensis
+       + Rattus hainaldi
+       + Rattus hoffmani
+       + Rattus hoogerwerfi
+       + Rattus jobiensis
+
+                               *
+                                    + Rattus koopmani
+                                    + Rattus korinchi
+                                    + Rattus leucopus
+                                    + Rattus losea
+                                    + Rattus lugens
+                                    + Rattus lutreolus
+                                    + Rattus macleari
+                                    + Rattus marmosurus
+                                    + Rattus mindorensis
+                                    + Rattus mollicomulus
+                                    + Rattus montanus
+                                    + Rattus mordax
+                                    + Rattus morotaiensis
+                                    + Rattus nativitatis
+                                    + Rattus nitidus
+                                    + Rattus norvegicus
+                                    + Rattus novaeguineae
+                                    + Rattus osgoodi
+                                    + Rattus palmarum
+
+                                                      *
+                                                           + Rattus pelurus
+                                                           + Rattus praetor
+                                                           + Rattus ranjiniae
+                                                           + Rattus rattus
+                                                           + Rattus sanila
+                                                           + Rattus sikkimensis
+                                                           + Rattus simalurensis
+                                                           + Rattus sordidus
+                                                           + Rattus steini
+                                                           + Rattus stoicus
+                                                           + Rattus tanezumi
+                                                           + Rattus tawitawiensis
+                                                           + Rattus timorensis
+                                                           + Rattus tiomanicus
+                                                           + Rattus tunneyi
+                                                           + Rattus turkestanicus
+                                                           + Rattus villosissimus
+                                                           + Rattus xanthurus
+
+[wysig] Verwysings
+
+          Hierdie artikel gebruik teksgedeeltes uit die Engelse
+          Wikipedia-artikel, "Rat".
+
+    1. ^ Daar word na verskeie subfamilies van Muroids as rotte verwys
+    2. ^ Rats as pets van About.com se Exotic pets. Laaste besoek op 13
+       Desember 2007.
+    3. ^ The Story of Rats: Their Impact on Us, and Our Impact on Them. S.
+       Anthony Barnett, Allen & Unwin, Crows Nest, NSW, Australia, 2002.
+       ISBN 1-86508-519-7.
+    4. ^ Foote, Allison L. en Crystal Jonathon D. Metacognition in the Rat
+       in Current Biology. Volume 17: 6. Bl. 551-555. 20 Maart 2007.
+    5. ^ Rats Capable Of Reflecting On Mental Processes by
+       www.sciencedaily.com.
+    6. ^ ‘‘Laughing’’ rats and the evolutionary antecedents of human joy?.
+       Physiology & Behavior. 79 (2003). 533– 547.
+    7. ^ Don't look now, but is that dog laughing? in Science News, deur
+       Susan Milius. Week van 28 Julie, 2001; Vol. 160, Nr. 4 , bl. 55.
+    8. ^ Hobson, Keith A.; Stephen Collier. (April 1984) Marine and
+       Terrestrial Protein in Australian Aboriginal Diets. Current
+       Anthropology, Vol. 25, Nr. 2. bl. 238-240
+    9. ^ Mills, J. P. (Januarie 1952) The Mishmis of the Lohit Valley,
+       Assam. The Journal of the Royal Anthropological Institute of Great
+       Britain and Ireland, Vol. 82, Nr. 1. bl. 1-12
+   10. ^ Leach, Helen. (Februarie 2003). Did East Polynesians Have a
+       Concept of Luxury Foods? World Archaeology, Vol. 34, Nr. 3, Luxury
+       Foods. bl. 442-457.
+   11. ^ Kirch, Patrick V.; Sharyn Jones O'Day. (Februarie 2003) New
+       Archaeological Insights into Food and Status: A Case Study from
+       Pre-Contact Hawaii. World Archaeology, Vol. 34, Nr. 3. bl. 484-497
+   12. ^ Behrens, Clifford A. (September 1986) Shipibo Food Categorization
+       and Preference: Relationships between Indigenous and Western
+       Dietary Concepts. American Anthropologist, New Series, Vol. 88, Nr.
+       3. bl. 647-658.
+   13. ^ Priest, Perry N. (Oktober 1966) Provision for the Aged among the
+       Sirionó Indians of Bolivia. American Anthropologist, New Series,
+       Vol. 68, Nr. 5. b;. 1245-1247
+
+   Kategorie: Knaagdiere
+

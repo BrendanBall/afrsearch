@@ -1,0 +1,153 @@
+Cygwin
+
+
+   Cygwin - is 'n versameling vrye programmatuur-hulpmiddele wat
+   oorspronklik deur Cygnus Solutions ontwikkel is om verskeie weergawes
+   van Microsoft Windows in staat te stel om soortgelyk as 'n Unix-stelsel
+   op te tree. Dit hoofdoel is om programmatuur wat vir POSIX-versoenbare
+   stelsels (soos Linux, BSD en Unix) ontwikkel is, oordraagbaar te maak
+   tot die Windows platform sonder om veel meer te doen as dit weer op
+   Windows saam te stel. Programme wat met Cywin oorgedra word werk die
+   beste op Windows NT, Windows 2001, Windows XP en Windows Server 2003,
+   maar sommiges kan bevredigend uitgevoer word op Windows 95 en Windows
+   98. Cygwin word tans onderhou deur die werknemers van Red Hat, Netapp
+   en andere. Dit is belangrik om kennis te neem dat alhoewel Cygwin
+   header lêers en kodeversamelings gebruik wat dit makliker maak om *nix
+   toepassings vir gebruik op Windows her saam te stel, dit nie Windows
+   binêre programme direk versoenbaar maak met *nix binêre programme nie.
+
+   Inhoud
+
+        * 1 Beskrywing
+        * 2 Geskiedenis
+        * 3 Sien ook
+        * 4 Eksterne skakels
+
+[wysig] Beskrywing
+
+   Cygwin bestaan uit 'n versameling kode wat die POSIX stelselbevele
+   omskakel na Win32 stelselbevele, 'n GNU ontwikkelingsketting (soos die
+   GNU Compiler Collection en die GDB om basiese programmatuurontwikkeling
+   moontlik te maak asook 'n groot versameling toepassingsprogramme
+   soortgelyk aan dié wat algemeen op Unix stelsel gevind kan word. Op
+   hierdie stadium is bykans alle bekende vrye programmatuur op Unix na
+   Cygwin omgeskakel, insluitende die X Windows-stelsel, KDE, Gnome,
+   Apache, TeX en verskeie andere. 'n Meganisme wat geskep is vir die
+   installering van inetd, syslogd, sshd, Apache en andere daemone sodat
+   hulle as standaard Windows dienste kan optree, wat 'n Microsoft Windows
+   stelsel in staat stel om baie soos 'n Unix of 'n Linux-bediener op te
+   tree. Al hierdie programme word geïnstalleer deur die standaard Cygwin
+   opstelprogram, wat die nodige pakette vanaf die Internet aflaai. Die
+   opstelprogram kan weer gehardloop word om programme na hulle nuutste
+   weergawes op te dateer soos benodig of hulle dan by te voeg of te
+   verwyder. Verskeie ander kenmerke word ook deur die opstelprogram
+   verskaf, soos onder ander die vermoë om die bronkode saam met die
+   binêre weergawe te installeer.
+
+   'n Groot klomp moeite is gedoen om koppelvlakke te verskaf om konsepte
+   wat in Unix en Windows van mekaar verskil met mekaar in verband te
+   bring. Voorbeelde sluit in:
+     * 'n Cygwin spesifieke weergawe van Unix se mount-bevel is geskep,
+       wat dit moontlik maak om arbitrêre Windows gidsroetes te laai as
+       "lêerstelsels" in 'n Unix lêerruimte. Die mount inligting word
+       gewoonlik in die registry gestoor. Lêerstelsels kan gelaai word as
+       binêre (by verstek) of as teks, wat outomatiese omskakelings tussen
+       LF en CRLF lynafsluitings doen (Die beïnvloed slegs programme wat
+       die open() en fopen() funksies oproep sonder om die teks- of binêre
+       modus te spesifiseer. Al die omgeskakelde Unix programme wat deur
+       die Cygwin opstelprogram beskikbaar is, maak lêers in binêre modus
+       oop indien geskik en vermei sodoende die korrupsie van data). Alle
+       DOS skyfaandrywers (C:, D: ens.) is ook beskikbaar onder
+       /cygdrive/c, /cygdrive/d, ens. Windows netwerkroetes in die vorm
+       van \\HOST\SHARE\FILE word omgeskakel na die vorm
+       //HOST/SHARE/FILE.
+
+     * Die /dev en /proc met alle kenmerke word outomaties verskaf.
+       /proc/registry verskaf direkte toegang tot lêerstelseltoegang tot
+       die Windows registry.
+
+     * Simboliese skakels word verskaf en maak gebruik van .LNK lêers
+       (Windows shortcuts), met sommige Cygwin-spesifieke inligting daarin
+       vervat en met die system attribute ingestel om verwerking te
+       versnel.
+
+     * Die Solaris API vir die hanteer van toegangsbeheerlyste word
+       ondersteun en word in verband gebring met die Windows NT
+       toegangstelsel.
+
+     * Spesiale formate van die etc/passwd en /etc/group word verskaf wat
+       aanwysers insluit na die SID's wat die Windows eweknieë is, wat dit
+       moontlik maak om die Unix en Windows gebruikers en groepe met
+       mekaar in verband te bring.
+
+     * Verskeie nutsprogramme word verskaf vir die omskakeling tussen
+       Windows en Unix lêerstelsels, vir die hantering van (CRLF/LF)
+       lynafsluitingskwessies, vir die vertoon van DLL'e wat met 'n
+       program gekoppel is ens.
+
+   Die weergawe van die gcc wat saam met Cygwin verskaf word het verskeie
+   uitbreidings vir die skep van Windows DLL'e, vir die spesifiseer van 'n
+   program as 'n windows- of konsolemodus program, die byvoeging van
+   hulpbronne ens.
+
+   Ondersteuning vir die saamstel van MinGW-versoenbare programme (d.w.s,
+   programme wat nie vereis dat Cygwin geïnstalleer moet wees om te
+   hardloop nie, of meer spesifiek, programme wat nie Cygwin se
+   CYGWIN1.DLL wat die POSIX versoenbaarheidslaag verskaf, benodig nie).
+
+   Red Hat versprei normaalweg die Cygwin kodeversameling onder die GNU
+   General Public License met die uitsondering wat die skakeling met enige
+   vrye programmatuur waarvan die lisensie aan die Oopbron Definisie
+   voldoen, toe te laat. (Red Hat verkoop ook kommersiële lisensies aan
+   diegene wat programme wil versprei onder voorwaardes van uitsluitlike
+   besitreg).
+
+   'n Mens kan by vele poslyste aansluit wat verband hou met Cygwin by die
+   Cygwin Poslys blad.
+
+[wysig] Geskiedenis
+
+   Cygwin het in 1995 begin as 'n projek van Steve Chamberlain, 'n
+   ingenieur by Cygnus wat opgemerk het dat Windows NT en 95 COFF gebruik
+   as hulle objeklêerformaat en dat GNU reeds ondersteuning vir x86 en
+   COFF asook die C funksieversameling, newlib, gebied het; wat dit dus
+   teoreties nie baie moeilik sou maak om die GCC te verander om 'n
+   samesteller te skep wat uitvoerbare programme vir Windows kon skep nie.
+   Die vermoede is toe in die praktyk bevestig en is 'n prototipe vinnig
+   ontwikkel.
+
+[wysig] Sien ook
+
+     * Cygwin/X is 'n vrye X11 implementering wat bo-op Cygwin loop.
+     * MinGW is 'n vrye omskakeling van die GNU ontwikkelingshulpmiddele
+       vir Windows.
+     * DJGPP is 'n soortgelyke suite vir DOS/Windows.
+     * Services for UNIX is 'n Microsoft produk met soortgelyke vermoëns
+       as Cygwin; dit het 'n spoedvoordeel, maar is nie beskikbaar vir
+       Windows XP Home of ouer weergawes van die nie NT-gebaseerde
+       weergawes van Windows nie.
+     * Die UWIN pakket maak dit moontlik om UNIX toepassings op Windows
+       XP/2000/NT/ME/98/95 te bou.
+     * coLinux is 'n Koöporatiewe Skynmasjien wat Linux op Windows laat
+       hardloop.
+     * KDE op Cygwin
+     * MKS Toolkit
+     * WINE maak dit moontlik om Windows programme op UNIX-tipe stelsels
+       te loop.
+
+[wysig] Eksterne skakels
+
+   Sjabloon:Wikibooks
+     * Cygwin Tuisblad
+     * Cygwin Gereelde Vrae
+     * Cygwin Pakketlyste
+     * Cygwin blad op Freshmeat.net
+     * CYGNOME = cygwin + GNOME
+     * KDE-cygwin = cygwin + KDE
+     * unxutils en GnuWin32 - twee soortgelyke projekte, wat Unix
+       nutsprogramme omskakel vir Windows maar sonder 'n emulation laag.
+     * Redhat se tuisblad oor Cygwin
+     * UTF-8 uitbreiding vir Cygwin
+
+   Kategorie: Rekenaar
+

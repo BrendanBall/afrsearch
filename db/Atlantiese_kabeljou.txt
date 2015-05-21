@@ -1,0 +1,72 @@
+Atlantiese kabeljou
+
+
+           Atlantiese kabeljou Gadus morhua
+   lc
+   Tydperk: {{{fossil_range}}}
+   Atlantiese kabeljou, Gadus morhua
+   Atlantiese kabeljou, Gadus morhua
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gadiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gadidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gadus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. morhua
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Gadus morhua
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Atlantiese kabeljou (Gadus morhua) is gewoonlik grys-groen, maar kan
+   ook rooi-bruin wees afhangende van die vis se habitat. Die vis se
+   gemiddelde massa is 4,5—11,3 kg, maar voorbeelde van tot 90 kg is al
+   waargeneem. Kabeljou eet weekdiere, krappe, garanale en ander
+   skaaldiere, stervisse, wurms, pylinkvis, en kleiner visse. Sommige
+   migreer in die winter suid om te broei. 'n Groot wyfievis lê tussen
+   twee en elf miljoen eiers in die middel van die see — waarvan slegs 'n
+   klein hoeveelheid oorleef.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   Kategorieë: Saadjies • Gadidae • Dierelewe van Europa • Dierelewe van
+   Groenland • Dierelewe van die Arktiese gebied
+

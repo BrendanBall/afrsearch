@@ -1,0 +1,132 @@
+Chomsky-hiërargie
+
+
+   Die Chomsky-hiërargie is 'n inhoudshiërargie van klasse van formele
+   grammatikas wat formele tale voortbring. Hierdie hiërargie van
+   grammatikas, wat ook frasestruktuurgrammatika genoem word, is deur Noam
+   Chomsky in 1956 beskryf (kyk [1]).
+
+   Inhoud
+
+        * 1 Formele grammatikas
+        * 2 Die hiërargie
+        * 3 Verwysings
+        * 4 Eksterne skakels
+
+[wysig] Formele grammatikas
+
+   'n Formele grammatika bestaan uit 'n eindige versameling
+   terminaalsimbole (die letters van die woorde in die formele taal), 'n
+   eindige versameling nie-terminaalsimbole, 'n eindige versameling
+   produksiereëls met 'n linker- en regterkant bestaande uit 'n woord van
+   die simbole, en 'n begin simbool. 'n Reël kan op 'n woord toegepas word
+   deur die linkerkant met die regterkant te vervang. 'n Afleiding is 'n
+   opeenvolging van reëltoepassings. So 'n grammatika definieer die
+   formele taal van alle woorde wat slegs uit terminaalsimbole bestaan wat
+   deur 'n afleiding van die begin simbool bereik kan word.
+
+   Nie-terminale word gewoonlik deur hoofletters voorgestel, terminale
+   deur kleinletters, en die beginsimbool deur S. Byvoorbeeld, die
+   grammatika met terminale {a,b}, nie-terminale {S,A,B}, produksiereëls
+
+          S → ABS
+          S → ε (waar ε die leëstring is)
+          BA → AB
+          BS → b
+          Bb → bb
+          Ab → ab
+          Aa → aa
+
+   en beginsimbool S, definieer die taal van alle woorde met die vorm
+   a^nb^n (i.e. n kopieë van a gevolg deur n kopieë van b). Die
+   onderstaande is 'n eenvoudiger grammatika wat 'n soortgelyke taal
+   definieer: Terminale {p,q}, Nie-terminale {S}, Beginsimbool S,
+   Produksiereëls
+
+          S → pSq
+          S → ε
+
+   Sien formele grammatika vir 'n meer uitgebreide verduideliking.
+
+[wysig] Die hiërargie
+
+   Die Chomsky-hiërargie bestaan uit die volgende vlakke:
+     * Tipe-0 grammatikas (onbeperkte grammatikas) sluit alle formele
+       grammatikas in. Hulle genereer presies alle tale wat deur 'n
+       Turingmasjien herken kan word. Hierdie tale staan ook bekend as die
+       rekursiefoptelbare tale. Let daarop dat dit verskillend is van
+       rekursiewe tale wat besleg kan word deur 'n always halting
+       Turingmasjien.
+
+     * Tipe-1 grammatikas (konteks-gevoelige grammatikas) genereer
+       konteks-gevoelige tale. Hierdie grammatikas het reëls met die vorm
+       \alpha A\beta \rightarrow \alpha\gamma\beta met A 'n nie-terminaal
+       en α, β en γ stringe van terminale en nie-terminale. Die stringe α
+       en β kan leeg wees, maar γ moet nie-leeg wees. Die reël S
+       \rightarrow \epsilon word toegelaat as S nie aan die regterkant van
+       enige reël voorkom nie. Die tale beskryf deur die grammatikas is
+       presies alle tale wat deur 'n nie-deterministiese Turingmasjien
+       herken kan word waarvan die tape beperk/begrens word deur 'n
+       konstante vermenigvuldig met die lengte van die inset..
+
+     * Tipe-2 grammatikas (konteksvrye grammatikas) genereer konteksvrye
+       tale. Dit word gedefinieer deur reëls met die vorm A \rightarrow
+       \gamma met A 'n nie-terminaal en γ 'n string van terminale en
+       nie-terminale. Die tale is presies al die tale wat herken kan word
+       deur 'n nie-deterministiese afdrukoutomaat. Konteksvrye tale
+       verskaf die teoretiese grondslag vir die sintaksis van meeste
+       programmeertale.
+
+     * Tipe-3 grammatikas (reëlmatige grammatikas) genereer reëlmatige
+       tale. So 'n grammatika beperk sy reëls tot 'n enkele nie-terminaal
+       aan die linkerkant en 'n regterkant wat uit 'n enkele terminaal
+       bestaan, moontlik gevolg (of voorafgegaan, maar nie beide in
+       dieselfde grammatika nie) deur 'n enkele nie-terminaal. Die reël S
+       \rightarrow \epsilon word ook hier toegelaat as S nie aan die
+       regterkant van enige reël verskyn nie. Hierdie tale is presies al
+       die tale wat besleg kan word deur 'n eindigetoestandoutomaat.
+       Verder kan hierdie familie van formele tale verkry word deur
+       reëlmatige uitdrukkings. Reëlmatige tale word algemeen gebruik om
+       soekpatrone en die leksikalestruktuur van programeertale te
+       definieer.
+
+   Let daarop dat die versameling grammatikas wat ooreenstem met
+   rekursiewe tale nie 'n lid van die hiërargie is nie.
+
+   Elke reëlmatige taal is konteksvry, elke konteksvrye taal is
+   konteksgevoelig en elke konteksgevoelige taal is rekursief en elke
+   rekursiewe taal is rekursieftelbaar. Hierdie is almal behoorlike
+   insluitings, dit beteken dat daar rekursiefoptelbare tale bestaan wat
+   nie rekursief is nie, rekursiewe tale wat nie konteksgevoelig is nie,
+   konteksgevoelige tale wat nie konteksvry is nie en konteksvrye tale wat
+   nie reëlmatig is nie.
+
+   Die volgende tabel som elkeen van Chomsky se vier tipes grammatikas op,
+   die klas tale wat dit genereer, die tipe outomaat wat dit herken, en
+   die vorm van die reëls wat dit moet hê.
+
+   Grammatika Tale Outomaat Produksiereëls
+   Tipe-0 Rekursiefoptelbaar Turingmasjien Geen beperkinge
+   Tipe-1 Konteksgevoelig Lineêr-begrensde nie-deterministiese
+   Turingmasjien \alpha A\beta \rightarrow \alpha\gamma\beta
+   Tipe-2 Konteksvry Nie-deterministiese afdrukoutomaat A \rightarrow
+   \gamma
+   Tipe-3 Reëlmatig Eindigetoestandoutomaat A \rightarrow a en
+
+   of A \rightarrow aB
+   of A \rightarrow Ba
+
+[wysig] Verwysings
+
+    1. Noam Chomsky: Three models for the description of language, IRE
+       Transactions on Information Theory, 2 (1956), bladsye 113-124
+    2. Noam Chomsky: On certain formal properties of grammars, Information
+       and Control, 1 (1959), bladsye 91-112
+
+[wysig] Eksterne skakels
+
+     * http://www.staff.ncl.ac.uk/hermann.moisl/ell236/lecture5.htm
+
+   Sjabloon:Formele tale en grammatikas
+   Kategorieë: Formele tale • Generatiewe linguistiek
+

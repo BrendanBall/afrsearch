@@ -1,0 +1,22 @@
+Snelheid
+
+
+   Die snelheid van 'n ligaam verwys na die tempo waarteen die posisie van
+   die ligaam verander of hoeveel die verplasing daarvan met tyd verander.
+   Tensy daar 'n krag op die ligaam uitgeoefen word sal die snelheid van
+   die ligaam nie verander nie soos per Newton se eerste wet van beweging.
+
+[wysig] Berekening
+
+   Wiskundig word snelheid as volg gedefiniëer: v = \frac{\Delta x}{\Delta
+   t}
+   Waar Δx die verplasing verteenwoordig en Δt die afgeloopde tyd
+   verteenwoordig.
+
+   Snelhied kan gesien word as die eerste afgeleide, volgens tyd (t), van
+   posisie (x) of die integtraal van versnelling (a):
+     * v = \frac{dx}{dt}
+     * v = \int_a^b a \, dt
+
+   Kategorie: Fisika
+

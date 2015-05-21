@@ -1,0 +1,24 @@
+Enjinbeheereenheid
+
+
+   'n Enjinbeheereenheid is 'n elektroniese beheereenheid wat verskeie
+   aspekte van 'n binnebrandenjin se werking beheer. Die eenvoudigste
+   eenhede beheer slegs die hoeveelheid brandstof wat by elke silinder van
+   die enjinsiklus ingespuit word. Meer gevorderde beheereenhede op
+   moderne motors beheer ook die ontstekingstydreëling, kleptydreëling die
+   hoeveelheid druk wat deur die Turbo-aanjaer gelewer word asook ander
+   bybehore.
+
+   Enjinbeheereenhede bepaal die hoeveelheid brandstof, kleptydreëling en
+   ander parameters deur die enjin te monitor aan die hand van verskeie
+   sensors. Hierdie sensors kan die verdeelpypdruksensor, die
+   versnellerposisiesensor, die lugtemperatuursensor, suurstofsensor en
+   vele ander insluit. Hierdie sensors maak dan deel uit van 'n beheerlus
+   (soos 'n PID-beheerder).
+
+   Voor die bekendstelling van enjinbeheereenhede was die meeste
+   enjinparameters vasgestel gewees. Die hoeveelheid brandstof per
+   silinder per enjinsiklus was bepaal deur 'n vergasser of
+   brandstofinspuitpomp.
+   Kategorie: Voertuigtegnologie
+

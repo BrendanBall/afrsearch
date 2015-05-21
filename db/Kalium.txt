@@ -1,0 +1,215 @@
+Kalium
+
+
+
+                             kalium – kalsium
+            Na
+             K
+            Rb
+
+
+              Kalium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal Kalium, K, 19
+                                             Chemiese reeks alkalie-metale
+                                        Groep, Periode, Blok 1 (IA), 4 , s
+                                       Digtheid, Hardheid 856 kg/m^3 , 0.4
+                                                     Voorkoms silwerig-wit
+                                                           Atoomeienskappe
+                                                    Atoomgewig 39.0983 ame
+                                           Atoomradius (ber.) 220 (243) pm
+                                                   Kovalente radius 196 pm
+                                               van der Waals radius 275 pm
+                                             Elektronkonfigurasie [Ar]4s^1
+                                        e^− e per energievlak 2, 8, 8, 1
+                                Oksidasietoestande (Oksied) 1 (sterk basis
+                                 Kristalstruktuur kubies liggaamgesentreer
+                                                        Fisiese eienskappe
+                                            Toestand van materie vastestof
+                                            Smeltpunt 336.53 K (63.38 °C)
+                                              Kookpunt 1032 K (758.85 °C)
+                                      Molêre volume 45.94 ×10^-6 m^3/mol
+                                            Verdampingswarmte 79.87 kJ/mol
+                                              Smeltingswarmte 2.334 kJ/mol
+                                                   Dampdruk 1.06×10^-4 Pa
+                                    Spoed van klank 2000 m/s teen 293.15 K
+                                                                   Diverse
+                                  Elektronegatiwiteit 0.82 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 757 J/(kg*K)
+                           Elektriese geleidingsvermoë 13.9 10^6/(m·ohm)
+                                  Termiese geleidingsvermoë 102.4 W/(m*K)
+                                     1^ste ionisasiepotentiaal 18.8 kJ/mol
+                                      2^de ionisasiepotentiaal 3052 kJ/mol
+                                      3^de ionisasiepotentiaal 4420 kJ/mol
+                                      4^de ionisasiepotentiaal 5877 kJ/mol
+                                      5^de ionisasiepotentiaal 7975 kJ/mol
+                                      6^de ionisasiepotensiaal 9590 kJ/mol
+                                     7^de ionisasiepotensiaal 11343 kJ/mol
+                                    8^ste ionisasiepotensiaal 14944 kJ/mol
+                                   9^de ionisasiepotensiaal 16963.7 kJ/mol
+                                    10^de ionisasiepotensiaal 48610 kJ/mol
+                                                     Mees stabiele isotope
+
+                                iso    NV   halfleeftyd  VM  VE MeV
+                                                            [nie SI]  VP
+                                ^39K 93.26% K is stabiel met 20 neutrone
+                                ^40K 0.012% 1.277 E^9 j β^-
+                                                        ε   1.311
+                                                            1.505    ^40Ca
+                                                                     ^40Ar
+                                ^41K 6.73%  K is stabiel met 22 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Kalium is 'n chemiese element in die periodieke tabel met die simbool K
+   en atoomgetal van 19. Dit is 'n sagte, silwerwit metaalagtige
+   alkalie-metaal wat natuurlik in verbinding met ander elemente voorkom
+   in seewater en baie ander minerale. Dit oksideer vinnig in lug, is baie
+   reaktief, veral in water en sy chemiese eienskappe is baie soortgelyk
+   aan die van natrium.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Kalium in die dieet
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Met 'n digtheid laer as water is kalium die tweede ligste metaal na
+   litium. Dit is 'n sagte vastestof wat maklik met 'n mes gesny kan word
+   en het 'n silwerwit kleur op vars blootgestelde oppervlaktes. Dit
+   oksideer vinnig in lug en moet in minerale olie soos keroseen bewaar
+   word.
+
+   Soortgelyk aan ander alkalie-metale reageer kalium heftig met water met
+   die vrystelling van waterstof. Wanneer dit in kontak met water kom, kan
+   dit spontaan ontbrand. Kaliumsoute straal 'n violet kleur af wanneer
+   dit aan 'n vlam blootgestel word.
+
+[wysig] Aanwendings
+
+     * Kaliumoksied, beter bekend as potas, word hoofsaaklik in kunsmis
+       gebruik.
+     * Kaliumnitraat word in buskruit gebruik.
+     * Kaliumkarbonaat word gebruik in die vervaardiging van glas.
+     * Glas wat met vloeibare kalium behandel is, is baie sterker as
+       gewone glas.
+     * NaK 'n legering van natrium en kalium word gebruik as hitte-oordrag
+       medium.
+     * Hierdie metaal is 'n noodsaaklike voedingstof vir plantegroei en
+       kan in die meeste grondsoorte gevind word.
+     * Kalium speel 'n belangrike biologiese rol in diere se selle. (sien
+       Na-K pomp)
+     * Kaliumchloried word as vervanging vir tafelsout gebruik en word ook
+       gebruik om die hart te stop in hartchirurgie en by teregstellings
+       deur middel van dodelike inspuitings.
+
+   Daar bestaan baie kaliumsoute wat kommersieel van belang is en sluit
+   in: bromied, karbonaat, chloraat, chloried, chromaat, sianied,
+   dichromaat, hidroksied, jodied, nitraat, sulfaat.
+
+[wysig] Geskiedenis
+
+   Kalium is in 1807 deur Sir Humphry Davy ontdek, wat dit vanuit bytpotas
+   (KOH) onttrek het. Die alkalie-metaal was die eerste wat met behulp van
+   elektrolise voorberei is.
+
+[wysig] Verspreiding
+
+   Die element maak ongeveer 2.4% van die Aarde se kors uit en is die
+   sewende mees volop element daarin. Vanweë sy onoplosbaarheid is dit
+   moeilik om kalium vanuit sy minerale te ontgin.
+
+   Ander minerale soos karnaliet, langbeiniet, polihaliet en silviet word
+   egter in antieke neerslae in mere en seebodems gevind. Hierdie minerale
+   vorm groot neerslae wat die ekonomiese ontginning van kalium en sy
+   soute moontlik maak. Die hoofbron van kalium, potas, word in
+   Kalifornië, Duitsland, Nieu-Meksiko, Utah en ander plekke in die wêreld
+   gemyn. Byna 'n kilometer onder die oppervlak van Saskatchewan is daar
+   groot neerslae potas wat moontlik 'n belangrike bron van hierdie
+   element en sy soute in die toekoms kan wees.
+
+   Die oseane is 'n ander bron van kalium maar die hoeveelhede teenwoordig
+   in 'n gegewe volume seewater is relatief laag in vergelyking met
+   natrium.
+
+   Kalium kan geïsoleer word deur die elektrolise van sy hidroksied in 'n
+   proses wat weinig verander het sedert Davy se tyd. Termiese metodes
+   word ook ingespan vir kaliumproduksie deur van kaliumchloried gebruik
+   te maak. Kalium word byna nooit in onverbonde vorm in die natuur
+   aangetref nie. In lewende organismes speel die K^+ ioon 'n uiters
+   noodsaaklike rol in die fisiologie van prikbare selle.
+
+[wysig] Isotope
+
+   Kalium in veldspaat
+   Kalium in veldspaat
+
+   Daar is sewentien isotope van kalium bekend. Die nie-sintetiese vorm
+   van kalium bestaan uit drie isotope: K-39 (93.3%), K-40 (0.01%) en K-41
+   (6.7%). K-40, wat natuurlik voorkom, verval na stabiele Ar-40 (11.2%)
+   deur elektronvangs en deur positron-emissie en na stabiele Ca-40
+   (88.8%) deur beta-verval; K-40 het 'n halfleeftyd van 1.250 × 10^9
+   jaar.
+
+   Die verval van K-40 na Ar-40 word algemeen gebruik in die datering van
+   rotse. Die konvensionele K-Ar dateringmetode is afhanklik van die
+   aanname dat die rotse geen argon bevat het tydens die vorming daarvan
+   nie en dat alle radiogeniese argon (d.w.s, Ar-40) in die rots behoue
+   gebly het, m.a.w. 'n geslote stelsel. Minerale word gedateer deur die
+   vasstelling van die kaliumkonsentrasie en die hoeveelheid radiogeniese
+   Ar-40 wat geakkummuleer het. Die minerale wat hulle die beste leen tot
+   datering op hierdie manier is biotiet, muskoviet en
+   plutoniese/hoëgraadse hoornblende, vulkaniese veldspaat; hele
+   rotsmonsters vanaf vulkaniese vloeie en vlak insnydings kan ook
+   gedateer word as hulle nie verweer is nie.
+
+   Behalwe vir datering is kalium-isotope ook baie gebruik as spoorders in
+   verweringstudies. Hulle is ook gebruik in die voedingsiklus-studies
+   omdat kalium 'n makro-voedingstof is wat 'n vereiste vir lewe is.
+
+   K-40 kom in natuurlike kalium (en daarom ook in kommersiële
+   plaasvervangers vir tafelsout) in groot genoeg hoeveelhede voor dat
+   groot sakke van daardie plaasvervangers gebruik kan word as
+   radio-aktiewe bronne vir klaskamerdemonstrasies.
+
+[wysig] Voorsorgmaatreëls
+
+   Soliede kalium reageer heftig met water. Hierdie metaal moet daarom
+   onder 'n minerale olie, soos keroseen, bewaar word en met sorg hanteer
+   word.
+
+[wysig] Kalium in die dieet
+
+   Kalium is 'n noodsaaklike mineraal in daaglikse voeding; dit help met
+   spiersametrekkings en die behoud van die elektroliet-balans in
+   liggaamselle. Kalium speel ook 'n belangrike rol in die oordra van
+   senuwee-impulse en in die vrystelling van energie uit proteïn, vet, en
+   koolhidrate tydens metabolisme. 'n Tekort van kalium kan 'n potensieel
+   noodlottige toestand, bekend as hipokalemie, tot gevolg hê. Die eet van
+   'n verskeidenheid voedselsoorte wat kalium bevat is die beste manier om
+   genoegsame hoeveelhede in te neem. Gesonde indiwidue wat 'n
+   gebalanseerde dieet volg, het selde aanvullings nodig. Baie soorte
+   vrugte, groente en vleise bevat kalium.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Kalium
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Potassium
+     * EnvironmentalChemistry.com – Potassium
+
+   Kategorieë: Chemiese elemente • Alkalie-metale
+

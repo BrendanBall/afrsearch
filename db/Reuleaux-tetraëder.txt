@@ -1,0 +1,24 @@
+Reuleaux-tetraëder
+
+
+   'n Reuleaux-tetraëder
+   'n Reuleaux-tetraëder
+
+   'n Reuleaux-tetraëder is 'n drie-dimensionele vorm wat bestaan uit die
+   snyding van die balle met radius s gesentreer op die hoeke van 'n
+   reguliere tetraëder met sylengte s. Dit is 'n analoog van die
+   Reuleaux-driehoek , maar is nie 'n oppervlak met konstante wydte nie.
+   Dit kan egter op twee maniere in so 'n vorm omskep word:
+     * deur die Reuleaux-driehoek om een van sy asse ('n lyn vanaf enige
+       hoek deur die middelpunt van die teenoorgestelde sy). Die resultaat
+       lyk byna soos 'n akker.
+
+[wysig] Verwysings
+
+     * Mathworld artikel oor die Reuleaux-tetraëder
+     * Fastgeometry Artkel oor die Reuleaux-tetraëder
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

@@ -1,0 +1,57 @@
+Tydsone
+
+
+   Tydsones is streke van die Aarde wat 'n standaardtyd aangeneem het.
+   Voorheen het mense die plaaslike sontyd (oorspronklik die aangeduide en
+   toe die gemiddelde) gebruik, wat beteken het dat tyd effens verskil het
+   van dorp na dorp. Soos telekommunikasie verbeter het, en met die
+   uitbreiding van die Treinvervoerstelsel het dit al hoe meer ongemaklik
+   geraak. Tydsones het die probleem gedeeltelik opgelos deurdat mense
+   hulle horlosies gestel het na 'n streek met dieselfde gemiddelde
+   sontyd. Tydsones word in die algemeen gesentreer rondom lengtelyne wat
+   veelvoude van 15° is, wat naburige tydsones een uur apart stel. Hierdie
+   een-uur-skeiding is nie universeel nie, en, soos die meegaande kaart
+   wys, word die vorms van die tydsones soms verstel om staats-, lands- of
+   administratiewe grense te akkommodeer.
+   Standaard Tydsones van die Wêreld deur die CIA 806KB PDF-weergawe
+   Standaard Tydsones van die Wêreld deur die CIA 806KB PDF-weergawe
+
+   Alle tydsones word gedefinieer relatief tot Gekoördineerde Universele
+   Tyd (UTC). Die verwysingspunt vir tydsones is die Hoofmeridiaan
+   (lengteligging 0°), wat deur die Royal Greenwich Observatory in
+   Greenwich, Londen, Engeland [1] getrek word. Om hierdie rede is die
+   term Greenwichtyd (GMT) steeds in gebruik (byvoorbeeld deur die BBC,
+   onder andere) om die "basistyd" aan te dui waaraan alle ander tydsones
+   relatief is. UTC is deesdae wel die amptelike term vir vandag se
+   atomies-gemete tyd, en is apart van astronomiese observasie soos die
+   voorheen by Greenwich uitgevoer is.
+
+   GMT (UTC) is toevallig slegs plaaslike tyd in Greenwich tussen 01:00
+   UTC van die laaste Sondag in Oktober en 01:00 UTC van die laaste Sondag
+   in Maart. Vir die res van die jaar is plaaslike tyd UTC+1 — bekend in
+   die Verenigde Koninkryk as British Summer Time (BST).
+
+[wysig] Bibliografie
+
+     * Bowditch, Nathaniel. American Practical Navigator. Washington:
+       Government Printing Office, 1925, 1939, 1975.
+     * Hill, John C., Thomas F. Utegaard, Gerard Riordan. Dutton's
+       Navigation and Piloting. Annapolis: United States Naval Institute,
+       1958.
+     * Howse, Derek. Greenwich Time and the Discovery of the Longitude.
+       Oxford: Oxford University Press, 1980. ISBN 0192159488.
+
+[wysig] Eksterne skakels
+
+     * Time Genie Vind die huidige tyd en datum vir meer as 6600 stede in
+       245 lande. Sluit ook gereedskap in om tye om te skakel en te
+       vergelyk.
+     * World Time Server
+     * The E Time zone page - Horlosie, Tyd en Sones - Besigtig die
+       dag-en-nag tydsonehorlosie rondom die wêreld
+     * Virtual Travelog 'n Oplossing vir die bestuur van tydsones en
+       datums in internasionale Internetstelsels
+     * The tz database
+
+   Kategorieë: Tydsones • Tydhou
+

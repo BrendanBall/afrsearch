@@ -1,0 +1,86 @@
+Kleinkolmuskejaatkat
+
+
+                 Kleinkolmuskejaatkat
+   Bedreigingstatus: veilig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Viverridae
+     Subfamilie:   Viverrinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Genetta
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. genetta
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Genetta genetta
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kleinkolmuskejaatkat of kleinkolmuskeljaatkat is 'n karnivoriese
+   soogdier wat regoor Afrika aangetref word, sowel as in dele van die
+   Midde-Ooste en Europa (spesifiek Spanje, die Baleariese Eilande en dele
+   van Frankryk).
+
+   'n Gemiddelde volwasse kleinkolmuskejaatkat het 'n massa van 2 kg, 'n
+   lengte van 95 cm en 'n hoogte van 20 cm en verskil slegs in die kleur
+   van sy kolle van rooikolmuskejaatkat.
+
+   Die kleinkolmuskejaatkat vang ander klein soogdiere en voëls en sal ook
+   kuikens uit neste opraap. Dié wat naby water woon sal ook soms padda's
+   vang en eet. Kleinkolmuskejaatkatte is sluipjagters en dood hulle prooi
+   met 'n vinnige byt aan die nek. Hulle skerp kloue help hulle om hulle
+   prooi neer te pen.
+
+   Die wyfie is vir 10-11 weke dragtig, waarny sy geboorte gee aan een tot
+   drie kleintjies. Die kleintjies is aanvanklik blind en hulpeloos. 'n
+   Kleinkolmuskejaatkat het 'n moontlike lewensduur van 12 tot 13 jaar.
+
+[wysig] Bronnelys
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+     * Genetta genetta by die Animal Diversity Web-werf van die
+       Universiteit van Michigan.
+
+   Kategorie: Soogdiere
+

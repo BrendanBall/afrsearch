@@ -1,0 +1,184 @@
+Duckworth-Lewis metode
+
+
+   In die sport van krieket, is die Duckworth-Lewis metode(D/L metode) 'n
+   wiskundige manier om die teikentelling te bepaal vir die span wat
+   tweede kolf in 'n eendagwedstryd wat deur die weer of ander
+   omstandigheid onderbreek is. Dit word algemeen aanvaar as 'n regverdige
+   en akkurate metode om 'n teikentelling te bereken, maar is egter nie
+   sonder omstredenheid nie. Die metode word nie in toetskrieketwedstryde
+   gebruik nie.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Toepassing
+        * 3 Teorie
+        * 4 Opdaterings
+        * 5 Voorbeeld
+        * 6 Kritiek
+        * 7 Verwysings
+        * 8 Verdere leeswerk
+        * 9 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Die D/L metode is oorspronklik ontwikkel deur die twee Engelse
+   statistici, Frank Duckworth en Tony Lewis. Die metode is vir die eerste
+   keer gebruik in internasionale krieket tydens die tweede wedstryd
+   tussen Zimbabwe en Engeland in die reeks van 1996/7 seisoen en wat
+   Zimbabwe met 7 lopies gewen het.^[1]
+
+   In 2001 is dit amptelik deur die Internasionale Krieketraad aanvaar as
+   die standaardmetode vir die berekening van teikentellings in
+   eendagwedstryde wat deur reën-onderbrekings verkort is.
+
+   Vorige metodes wat gebruik is vir dieselfde doel het onder ander
+   ingesluit: lopietempoverhoudings, die gebruik van die telling wat die
+   vorige span tydens dieselfde boulbeurt behaal het en die gebruik van
+   teikens wat afgelei is deur die beste boulbeurte saam te tel in die
+   eerste kolfbeurt behaal is.
+
+   Hierdie ouer metodes het tekortkominge wat maklik uitgebuit kan word.
+   Lopietempo verhoudings maak nie voorsiening vir die aantal paaltjies
+   wat die span wat tweede kolf verloor nie en weerspieël bloot die
+   telling op die tydstip toe die wedstryd onderbreek is. Dus as 'n span
+   vermoed dat 'n reënonderbreking waarskynlik was kon hulle die
+   lopietempo jaag sonder om hul te bekommer oor die gevolglike verlies
+   aan paaltjies en het sodoende 'n verdraaiïng in die vergelykende
+   tellings teweeg gebring.
+
+   Die beste telling boulbeurtmetode wat tydens die 1992
+   Krieketwêreldbeker gebruik is het die Suid-Afrikaanse span gelaat met
+   'n vereiste 21 lopies vanaf slegs een bal– terwyl die maksimum telling
+   gewoonlik slegs 6 lopies van 'n enkele bal is– dit nadat hulle voor die
+   kort reënonderbreking 'n teiken van 22 lopies vanaf 13 balle gehad het,
+   'n teiken wat alhoewel dit moeilik is, ten minste haalbaar is en 'n
+   opwindende einde kon bewerkstellig het. Dit het egter tot niet gegaan
+   toe die span dieselfde teiken na die onderbreking met 12 balle minder
+   gegun is.^[2] Hierdie gebreke word grootliks aangespreek deur die D/L
+   metode.
+
+[wysig] Toepassing
+
+   Die D/L metode is betreklik maklik om toe te pas maar vereis 'n
+   gepubliseerde verwysingstabel en 'n eenvoudige wiskundige berekening
+   (of die gebruik van 'n rekenaar). Die aankondiging van die afgeleide
+   teiken gee dikwels aanleiding tot baie bespreking onder die skares by
+   'n krieketwedstryd. Dit word as een van die metode se suksesse beskou
+   deurdat dit 'n stadige wedstryd wat deur reën beïnvloed word meer
+   interresant maak.
+   Moontlike tellings as 'n funksie van paaltjies en boulbeurte
+
+[wysig] Teorie
+
+   In wese maak die D/L metode staat op "hulpbronne". Elke span word geag
+   twee "hulpbronne" te hê wat hulle kan gebruik om soveel lopies moontlik
+   aan te teken: die aantal boulbeurte wat hulle moet ontvang en die
+   aantal paaltjies wat hulle beskikbaar het. Op enige tydstip tydens die
+   kolfbeurt hang die span se vermoë om meer lopies aan te teken van 'n
+   kombinasie van hierdie twee hulpbronne af. Geskiedkundige tellings toon
+   dat daar 'n baie noue verband tussen die beskikbaarheid van hierdie
+   hulpbronne en 'n span se finale telling, 'n verband wat die D/L metode
+   benut.
+
+   Deur gebruik te maak van 'n gepubliseerde tabel wat die oorblywende
+   persentasie van hierdie twee gekombineerde hulpbronne aangee vir enige
+   hoeveelheid boulbeurte wat oor is en paaltjies wat verloor is, kan die
+   teikentelling aangepas word om die verlies aan hierdie hulpbronne te
+   verteenwoordig as 'n wedstryd een of meer kere onderbreek word. Hierdie
+   persentasie word dan gebruik om 'n teiken te bereken. As die span wat
+   tweede kolf die teiken verbysteek word die span geag om die wedstryd te
+   gewen het; as die teikentelling bereik is maar nie verbygesteek is nie
+   word dit as 'n gelykopuitslag beskou.
+
+[wysig] Opdaterings
+
+   Die gepubliseerde tabel wat die grondslag vorm van die D/L metode word
+   gereeld op datum gebring en is so onlangs as 2004 opgedateer, toe dit
+   duidelik word dat daar deesdae heelwat hoër tellings behaal word in
+   eendagwedstryde as in vorige dekades. Saam met hierdie wysiging is die
+   D/L metode ook geskei in 'n Proffesionele Uitgawe en 'n
+   Standaard-uitgawe.^[3] Die hoof verskil tussen hierdie tabelle is dat
+   die Standaard-uitgawe slegs 'n enkele tabel en eenvoudige berekening
+   behels wat dit geskik maak vir enige eendagwedstryd op enige vlak
+   terwyl die Proffesionele uitgawe meer gesofistikeerde statistiese
+   modelering inspan en die gebruik van 'n rekenaar vereis. Die
+   Proffesionele uitgawe is gebruik vir alle internasionale
+   krieketwedstryde sedert vroeg in 2004.
+
+[wysig] Voorbeeld
+
+   'n Eenvoudige voorbeeld van die toepassing van die D/L metode was die
+   eendagwedstryd tussen Indië en Pakistan tydens hulle 2006 eendagreeks.
+   Indië het eerste gekolf en is almal uitgeboul in die 49^ste boulbeurt
+   vir 328 lopies. Pakistan, wat tweede gekolf het, het 7 paaltjies
+   verloor met 311 lopies toe die spel gestaak is weens swak lig na die
+   47^ste boulbeurt. Hierdie is 'n voorbeeld met min omstredenheid omdat
+   die meeste ondersteuners sou saamstem dat met drie boulbeurte oor (18
+   balle) en drie paaltjies beskikbaar dat Pakistan verseker die 17 lopie
+   gaping sou kon toemaak. Die toepassing van die D/L metode het aangedui
+   dat teen die einde van die 47^ste boulbeurt die teiken 304 sou wees en
+   daarom is die uitslag van dié wedstryd in Pakistan se guns beklink en
+   is hulle geag om die wedstryd met 7 lopies te gewen het.^[4]
+
+[wysig] Kritiek
+
+   Sekere waarnemers meen dat die D/L metode nie sekere opmerkbare
+   neigings in die lopietempos tydens 'n kolfbeurt in ag neem nie, soos
+   byvoorbeeld die feit dat dit baie moeiliker word om lopies aan te teken
+   as die aantal vereiste lopies baie hoog is, of die neiging vir
+   lopietempos om toe te neem aan die einde van 'n kolfbeurt. So 'n
+   neiging wat 'n statistiese werklikheid is vir eendagwedstryde word
+   egter outomaties in berekening gebring deur die feit dat die D/L
+   tabelle 'n geskiedkundige korrelasie van wedstryd-data gebruik om die
+   verhouding tussen hulpbronne en lopietempos te bereken.
+
+   Meer in diepte kritiek is gebaseer op die feit dat paaltjies noodwendig
+   'n swaarder geweegde hulpbron as boulbeurte is wat daartoe aanleiding
+   gee dat spanne wat groot tellings jaag met die moontlikheid van reën
+   sal neig om versigtig te wees om paaltjies te verloor en dan net effe
+   bo die gemiddelde lopietempo te kolf. As die gevraagde lopietempo
+   byvoorbeeld 6.1 is, is dit dikwels voldoende om net 4.75 of 5 'n lopies
+   per boulbeurt aan te teken tydens die eerste 20-25 boulbeurte.^[5]
+
+   'n Ander kritiek op die D/L metode is dat dit nie die veranderinge in
+   lopietempos as gevolg van veldwerkbeperkinge in ag neem nie.^[6]
+
+[wysig] Verwysings
+
+     * Duckworth, F "A Role for Statistics in International Cricket" [1]
+       Teaching Statistics, (June 2001) Volume 23, No. 2 pp 38-44
+     * Duckworth, FC & Lewis, AJ "A fair method of resetting the target in
+       interrupted one-day cricket matches" Journal of the Operational
+       Research Society, (Mar 1998) Volume 49, No. 3 pp 220-227
+
+    1. ^ Telkaart van die tweede eendagwedstryd tussen Engeland en
+       Zimbabwe op 1 Januarie 1997, vanaf Cricinfo.
+    2. ^ "22 off one ball - A farcical rain rule leaves everyone
+       bewildered", from Cricinfo.
+    3. ^ Reën beïnvloede reëls vanaf Cricinfo.
+    4. ^ Telkaart vir die reënbeïnvloede eendagwedstryd tussen Indië en
+       Pakistan op 6 Februarie 2006 vanaf Cricinfo.
+    5. ^ Bhogle, Srinivas, Die Duckworth/Lewis Faktor, rediff.com.
+    6. ^ Booth, Shane, quoted in For a Fair Formula, Hindu Online.
+
+[wysig] Verdere leeswerk
+
+     * Duckworth, FC & Lewis, AJ "Your Comprehensive Guide to The
+       Duckworth Lewis Method for Resetting Targets in One-day Cricket",
+       Acumen Books, 2004. ISBN 0-9548718-0-4
+
+[wysig] Eksterne skakels
+
+     * Cricinfo se inleiding tot die D/L metode
+     * Cricinfo's D/L metode antwoorde op gereelde vrae
+     * Duckworth/Lewis aanlyn rekenaar
+     * Duckworth/Lewis standaard weergawe tabel van hulpbron persentasies
+     * Internasionale krieketraad se Duckworth/Lewis Metode vir die
+       herberekening van die teikentelling in 'n onderbroke wedstryd
+     * BBC Sport se verduideliking van die D/L metode
+     * Acumen Books
+
+   Kategorie: Krieket
+

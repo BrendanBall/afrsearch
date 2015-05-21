@@ -1,0 +1,111 @@
+Veringstelsel
+
+
+   Die voorste komponente van 'n Ford Model T se veringstelsel.
+   Die voorste komponente van 'n Ford Model T se veringstelsel.
+
+   'n Veringstelsel is die naam van die stelsel in 'n motorvoertuig wat
+   bestaan uit die skokbrekers en koppelstange wat die voertuig se
+   onderstel met die wiele verbind. Veringstelsels dien 'n tweeledige doel
+   – hulle verseker dat die motor se wiele tydens 'n rit in kontak met die
+   grond bly sodat daar voldoende wrywing tussen die wiele en padoppervlak
+   is om die enjin se energie te kan oordra om die motor vorentoe te dryf
+   - en hulle verseker dat die passasiers gemaklik is deur hulle van die
+   padgeraas, hobbels en vibrasies te isoleer. Hierdie twee doelwitte
+   staan dikwels in teenstelling met mekaar en daarom moet 'n moderne
+   veringstelsel verstel word om die geskikte middeweg te vind. Die
+   ontwerp van die voorste en agterste veringstelsel van 'n motor verskil
+   gewoonlik.
+
+   Inhoud
+
+        * 1 Vere en dempers
+             + 1.1 Vere
+             + 1.2 Dempers
+        * 2 Tipes Veringstelsels
+        * 3 Afhanklike vering
+        * 4 Onafhanklike vering
+        * 5 Eksterne skakels
+
+[wysig] Vere en dempers
+
+   Die veringstelsels in die moderne motor gebruik vere om impakte te
+   absorbeer en dempers (of skokbrekers) om die veer se beweging te
+   beheer. 'n Verskeidenheid veerstelsels word (of is al) gebruik:
+
+[wysig] Vere
+
+     * Bladvere – Ook bekend as Hotchkiss, Cart, of semi-elliptiese vere
+       (Engels – Leaf Spring).
+     * Torsiestang
+     * Spiraalveer (Engels – Coil spring)
+     * Rubberbusse
+
+[wysig] Dempers
+
+     * MacPherson-stut
+     * Chapman-stut
+     * Skokbreker – ook bekend as demper
+     * Spiraaloordemper
+
+[wysig] Tipes Veringstelsels
+
+   Veringstelsels kan breedweg geklassifiseer word in twee subgroepe –
+   afhanklik en onafhanklik. Hierdie terme verwys na die vermoë van die
+   teenoorgestelde wiele om onafhanklik van mekaar te kan beweeg.
+
+   'n Afhanklike veringstelsel het normaalweg 'n lewendige as ('n
+   eenvoudige stang of wa-as) wat die wiele parallel aan mekaar hou en
+   loodreg ten opsigte van die as. Wanneer die wielvlug van een wiel
+   verander, verander die wielvlug van die teenoorgestelde wiel op
+   dieselfde wyse.
+
+   'n Onafhanklike veringstelsel laat die wiele toe om op hulle eie te
+   styg en te daal sonder om die teenoorgestelde wiel te beïnvloed. In
+   hierdie geval word die wiele glad nie aan mekaar verbind nie of word
+   hulle deur 'n kardankoppeling aan 'n krinkas verbind.
+
+   'n Derde tipe semi-onafhanklike veringstelsel bestaan ook. In hierdie
+   geval word 'n krinkas gebruik maar word die wiele ook met 'n soliede
+   buis (ook die deDion-as genoem) aan mekaar verbind.
+
+[wysig] Afhanklike vering
+
+   Afhanklik veringstelsels kan onderskei word aan die koppelstangstelsel
+   wat gebruik word om hulle longitudinaal en transversaal in plek te hou.
+   Beide funksies word gewoonlik gekombineer in 'n stel koppelstange.
+
+   Voorbeelde van koppelstange vir plasingsdoeleindes is:
+     * Sleeparms
+     * Satchell-koppeling
+     * Panhard-stang
+     * Watts-koppeling
+     * Binneboord-koppelstang
+     * WOBLink
+     * Mumford-koppeling
+     * deDion-as
+
+[wysig] Onafhanklike vering
+
+   Daar bestaan 'n groter verskeidenheid onafhanklike veringstelsels en
+   sluit onder andere in:
+     * Krinkas
+     * deDion-as
+     * MacPherson-stut/Chapman-stut
+     * Mikvering
+     * Multi-koppel
+     * Torsie-stang
+     * Semi-sleeparm
+
+   Nuwe veringstelsel tegnologieë onder ontwikkeling sluit 'n stelsel van
+   Bose Corporation in wat rekenaarbeheerde motors gebruik om die vering
+   te verstel na aanleiding van die heersende padtoestande, wat dan die
+   motor gelyk en in kontak met die pad hou selfs al word daar teen 'n hoë
+   spoed oor hobbelrige paaie of om skerp draaie gery.
+
+[wysig] Eksterne skakels
+
+     * Bose Veringstelsel
+
+   Kategorie: Voertuigtegnologie
+

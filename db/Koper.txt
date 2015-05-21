@@ -1,0 +1,311 @@
+Koper
+
+
+
+   29                          nikkel ← koper → sink
+    -
+   ↑
+   Cu
+   ↓
+   Ag
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal koper, Cu, 29
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 11, 4, d
+                                               Voorkoms koper, metaalglans
+                                                Atoommassa 63.546(3) g/mol
+                                      Elektronkonfigurasie [Ar] 3d^10 4s^1
+                                            Elektrone per skil 2, 8, 18, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 8.96 g/cm³
+                                  Vloeistof digtheid teen s.p. 8.02 g/cm³
+                                                       Smeltpunt 1357.77 K
+                                                             (1084.62 °C)
+                                                           Kookpunt 2835 K
+                                                                (2562 °C)
+                                              Smeltingswarmte 13.26 kJ/mol
+                                            Verdampingswarmte 300.4 kJ/mol
+                               Warmtekapasiteit (25 °C) 24.440 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1509 1661 1850 2089 2404 2836
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                   Oksidasietoestande 2, 1
+                                                     (swak basiese oksied)
+                              Elektronegatiwiteit 1.90 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 745.5 kJ/mol
+                                                        2de: 1957.9 kJ/mol
+                                                         3rde: 3555 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 145 pm
+                                                   Kovalente radius 138 pm
+                                               Van der Waals radius 140 pm
+                                                                   Diverse
+                                      Magnetiese rangskikking diamagneties
+                                Elektriese weerstand (20 °C) 16.78 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 401 W/(m·K)
+                              Termiese uitsetting (25 °C) 16.5 µm/(m·K)
+                             Spoed van klank (dun staaf) (k.t.) (annealed)
+                                                                  3810 m/s
+                                                  Young se modulus 130 GPa
+                                                       Skuifmodulus 48 GPa
+                                                      Massamodulus 140 GPa
+                                                    Poissonverhouding 0.34
+                                                      Mohs se hardheid 3.0
+                                                  Vickers hardheid 369 MPa
+                                                  Brinell hardheid 874 MPa
+                                              CAS-registernommer 7440-50-8
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van koper
+
+                                 iso    NV   halfleeftyd VM VE (MeV)  VP
+                                ^63Cu 69.17% Cu is stabiel met 34 neutrone
+                                ^65Cu 30.83% Cu is stabiel met 36 neutrone
+
+                                                                Verwysings
+
+   Koper is 'n chemiese element in die periodieke tabel met die simbool Cu
+   en atoomgetal van 29.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Biologiese rol
+             + 2.1 Toksisiteit
+             + 2.2 Algemene gevare
+        * 3 Fisiese eienskappe
+             + 3.1 Verbindings
+             + 3.2 Verspreiding
+        * 4 Gebruike
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   In antieke Griekeland het die metaal bekend gestaan as chalkos
+   (χαλκός). In die Romeinse tydperk het dit bekend gestaan as aes Cyprium
+   (aes was die generies Latynse term vir koperlegerings soos brons en
+   ander metale en omdat so baie daarvan in Ciprus ontgin is). Hierdie
+   term is vereenvoudig tot cuprum wat dan die oorsprong is van die woord
+   koper.
+
+   Koper was bekend aan van die oudste beskawings en het 'n geskiedenis
+   wat ten minste 10 000 jaar oud is. 'n Koper hangertjie is in noordelike
+   Irak gevind wat terugdateer uit 8700 v.C. Teen 5000 v.C. was daar baie
+   tekens van kopersmelterye, waar koper geraffineer is vanuit eenvoudige
+   koperoksiede soos malagiet of azoeriet.
+
+   Daar is koper en brons artikels uit ou Soemeriaanse stede gevind wat
+   terugdateer tot 3000 v.C. en Egiptiese artikels vervaardig uit koper en
+   koper-tinlegerings wat bykans net so oud was. In een piramiede is
+   waterpypstelsels gevind wat uit koper gemaak is en bykans 5000 oud is.
+   Antieke Koperstaaf vanuit Zakros, Kreta. Die ingot is in die vorm van
+   'n diervel, tipies van die ingots uit die tydperk.
+   Antieke Koperstaaf vanuit Zakros, Kreta. Die ingot is in die vorm van
+   'n diervel, tipies van die ingots uit die tydperk.
+
+   Die Egiptenare het bevind dat die byvoeging van 'n klein hoeveelheid
+   tin dit makliker gemaak het om die metaal te giet, dus is bronslegering
+   artikels uit Egipte bykans net so oud soos die koper artikels. Die
+   gebruik van koper in antieke Sjina dateer terug tot ten minste 2000
+   v.C. Teen 1200 v.C. is brons artikels van uitstaande gehalte reeds
+   vervaardig. Oetzi die Ysman 'n goed gepreserveerde lyk van 'n man wat
+   3200 v.C. geleef het, het 'n koperbyl by hom gehad waarvan die metaal
+   99.7% suiwer was. Hoë vlakke arseen wat in sy hare gevind is, dui op
+   die moontlikheid dat hy betrokke was by die smelt van koper.
+
+   Die gebruik van brons was so algemeen tydens 'n sekere tydperk van die
+   menslike beskawing dat dit die Bronstydperk gedoop is. Die
+   oorgangstydperk in sekere gebiede tussen die Laat steentydperk en die
+   Bronstydperk word die Kopertydperk genoem toe hoë suiwerheid
+   kopergereedskap begin verskyn het maar nog saam met steengereedskap in
+   gebruik was.
+   Alchemie simbool vir koper
+   Alchemie simbool vir koper
+
+   Geelkoper, 'n legering van sink en koper was aan die Antieke Grieke
+   bekend maar is eers deur die Romeine op groot skaal gebruik.
+
+   Koper is met die godin Aphrodite/Venus in mitologie en alchemie
+   verbind, vanweë sy pragtige glans, die antieke gebruik daarvan in
+   spieëls en die verbintenis daarvan met Ciprus, wat 'n heiligdom was van
+   die godin. In alchemie was die simbool van koper dan ook die simbool
+   vir die planeet Venus.
+
+[wysig] Biologiese rol
+
+   Koper is noodsaaklik in alle gevorderde plant- en dierlewe. Koper word
+   hoofsaaklik in die bloedstroom op 'n plasmaproteïen genaamd
+   ceruloplasmin vervoer.
+
+   Wanneer koper in die ingewande geabsorbeer word, word dit aan albumien
+   verbind en na die lewer vervoer. Koper word in 'n verskeidenheid
+   ensieme gevind, insluitend die koperkerne van sitochroom oksidase, die
+   Cu-Zn bevattende ensiem superoksied dismutase en dit vorm ook die
+   hoofmetaal in die suurstofdraende pigment hemosianien. Die bloed van 'n
+   krapspesie, Limulus polyphemus gebruik koper in plaas van yster vir die
+   vervoer van suurstof.
+
+   Daar word geglo dat sink en koper meeding vir absorpsie in die
+   spysverteringskanaal, wat sou meebring dat 'n dieet wat oormatige
+   hoeveelhede van een van hierdie twee minerale sou bevat 'n tekort in
+   die ander kan veroorsaak. Die RDA vir koper in normale gesonde
+   volwassenes is 0.9 mg/dag.
+
+[wysig] Toksisiteit
+
+   Alle koperverbindings, behalwe waar dit andersins bekend is, moet
+   hanteer word as sou dit toksies wees. 30g Kopersulfaat kan potensieël
+   noodlottig wees in mense. Die aanbevole veilige vlakke van koper in
+   drinkwater vir mense wissel afhangende van die bron daarvan, maar is
+   gewoonlik tussen 1.5 tot 2 mg/l. Die DRI se toelaatbare vlak van inname
+   vir volwassenes van dieetkundige koper vanuit enige bron is 10 mg/dag.
+
+   'n Oorerflike siektetoestand wat Wilson se siekte genoem word
+   veroorsaak dat koper in die liggaam ophoop omdat dit nie deur die lewer
+   na die gal uitgeskei word nie. Hierdie siektetoestand kan, indien dit
+   onbehandeld gelaat word, lei tot brein- en lewerskade. Studies het
+   verder ook getoon dat mense wat aan geestesafwykings soos skisofrenie
+   lei, geneig is om hoër kopervlakke in hulle liggame te hê. Dit is egter
+   nie duidelik of die verhoogde kopervlakke 'n oorsaak of 'n gevolg van
+   die afwykings is nie.
+
+[wysig] Algemene gevare
+
+   Die metaal in poeiervorm is 'n brandgevaar. Klere wat in water met
+   koperkonsentrasies hoër as 1mg/L koper kan klere vlek wat daarin gewas
+   word.
+
+[wysig] Fisiese eienskappe
+
+   Koper is 'n rooierige metaal met 'n hoë elektriese- en termiese
+   geleidingsvermoë (onder die suiwer metale teen kamertemperatuur het
+   slegs silwer 'n hoër elektriese geleidingsvermoë).
+
+   Daar bestaan twee stabiele isotope van koper, ^63Cu en ^65Cu asook 'n
+   aantal radio-isotope. Die meerderheid van die radio-isotope het
+   halfleeftye van etlike minute of minder. Die isotoop met die langste
+   leeftyd het 'n halfleeftyd van 12.7 ure, met twee vervalmodusse, wat
+   tot twee verskillende produkte lei.
+
+   Daar bestaan baie legerings van koper - brons is 'n koper/tin legering
+   en geelkoper is 'n koper/sink legering. Monel is 'n koper/nikkel
+   legering.
+
+[wysig] Verbindings
+
+   Koper in suiwervorm uit die natuur
+   Koper in suiwervorm uit die natuur
+
+   Algemene oksidasietoestande van koper sluit die koper(I) toestand in,
+   Cu^1+; en die koper(II) toestand, Cu^2+ in, wat mooi blou- of
+   blougroensoute vorm. Onder ongewone toestande kan die +3 toestand ook
+   verkry word. Met sterker oksidasiemiddels soos suurstof is die 2+ die
+   meer stabiele ene, maar met swakkeres soos in die geval van swael kom
+   net die 1+ toestand voor.
+
+   In vaste verbindinge van Cu^1+ kan die ioon 'n groter mobiliteit
+   verkry. Dit kan tot sogenaamde superioniese geleiding lei.
+
+   Die groen kleur van Koper(II)karbonaat is die oorsaak van die voorkoms
+   van die koperbedekte dakke of -koepels van sommige geboue.
+   Koper(II)sulfaat (Blou vitrioel) vorm 'n blou kristallyne pentahidraat
+   en is waarskynlik die bekendste koperverbinding in laboratoriums. Dit
+   word as swamweerder gebruik.
+
+   Daar bestaan twee stabiele oksiede van koper, Koper(II)oksied (CuO) en
+   Koper(I)oksied (Cu[2]O). Koperoksiede word gebruik
+   yttriumbariumkoperoksied (YBa[2]Cu[3]O[7-δ]) oftewel YBKO wat die basis
+   vorm van baie onkonvensionele supergeleiers.
+
+   Ander verbindings sluit in: Koper(I)chloried, koper(II)chloried),
+   koper(II)sulfied.
+
+[wysig] Verspreiding
+
+   Die El Chino oopgroef kopermyn in Nieu-Meksiko.
+   Die El Chino oopgroef kopermyn in Nieu-Meksiko.
+
+   Koper word in die suiwer vorm asook in minerale vorm in die natuur
+   aangetref. Minerale soos die karbonate azuriet (Cu[3](CO[3])[2](OH)[2])
+   en malagiet (Cu[2]CO[3](OH)[2]) is bronne van koper asook die sulfiede
+   soos kalkopiriet (CuFeS[2]), borniet (Cu[5]FeS[4]), koweliet (CuS) en
+   oksiede soos kupriet (Cu[2]O).
+
+   Die meeste kopererts word ontgin vanuit groot oopgroefmyne in koper
+   porfirietneerslae wat tussen 0.4 tot 1.0 persent koper kan bevat.
+   Voorbeelde sluit in: Chuquicamata in Chili en die El Chinomyn in
+   Nieu-Meksiko.
+
+   Die Internasionale Raad van Koperuitvoerende Lande (CIPEC) wat sedert
+   1992 ophou bestaan het, het eens probeer om 'n soortgelyke rol as wat
+   OPUL in ru-olie speel, te vervul maar kon egter nie dieselfde mate van
+   invloed uitoefen nie, veral vanweë die feit dat die tweede grootste
+   produsent, die Verenigde State, nooit 'n lid was nie. Die organisasie
+   is in 1967 gestig en die hooflede daarvan was Chili, Peru, Zaïre en
+   Zambië.
+
+[wysig] Gebruike
+
+   Koper is 'n pletbare en buigsame metaal en word algemeen gebruik in 'n
+   verskeidenheid produkte soos:
+     * Koperdraad
+     * Koperpyp vir Loodgieterwerk
+     * Deurknoppe en ander huishoudelike toerusting.
+     * Standbeelde: Die Statue of Liberty bevat byvoorbeeld 81.3 ton
+       koper.
+     * Elektromagnete
+     * Elektriese motors.
+     * Elektriese oordraers (en: relay), -geleistange en skakelaars.
+     * Vakuumbuise, katodestraalbuise en die magnetron in mikrogolfoonde.
+     * Golfpype vir die beheer van mikrogolfstraling.
+     * Koper word ook toenemend in geïntegreerde stroombane gebruik waar
+       dit as plaasvervanger vir aluminium ingespan word omdat die
+       geleidingsvermoë daarvan hoër is.
+     * Legerings van koper met nikkel, bv. kupronikkel en Monel word
+       gebruik as korrosiebestande materiale in die skeepsboubedryf.
+     * As 'n komponent van muntstukke, dikwels 'n kupronikkel legering.
+     * In kookware soos braaipanne asook ander eetgery.
+     * Sterling silwer wat in eetgery gebruik word, bevat 'n paar persent
+       koper.
+     * Word gebruik as komponent in glasuursel en ook om glas te kleur.
+     * Musiekinstrumente, veral koperblaasinstrumente.
+     * Word gebruik as 'n biostatiese oppervlak in hospitale en om dele
+       van skepe uit te voer om die skip teen eendemossels, mossels en
+       ander skulpdiere te beskerm. Bakterieë sal nie op 'n koperoppervlak
+       groei nie omdat dit biostaties is.
+     * Baie koperverbindings soos Fehling se oplossing vind toepassings in
+       chemie.
+     * Koper(II)sulfaat word gebruik as 'n gif en watersuiweraar. Dit word
+       ook in verskeie tuinboumiddels gebruik om skimmel (witroes) te
+       bestry.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Artikel oor koper
+     * Copper: Technology & Competitiveness (Summary) Chapter 6: Copper
+       Production Technology; Author: Office of Technology Assessment 2005
+     * Ooreenstemmende artikel in Engelse weergawe van wikipedia
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Copper
+     * Copper Toxicity Syndrome
+     * Copper- Benefits, Deficiency Symptoms And Food Sources
+     * The Copper Page
+     * Photos of the Parys Mountain Copper Mine near Amlwch, Anglesey,
+       Wales
+
+   Vir woordeboekinligting, sien die bladsy koper op WikiWoordeboek
+   Kategorie: Chemiese elemente
+

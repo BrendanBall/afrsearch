@@ -1,0 +1,74 @@
+Halfgeleier
+
+
+   'n Halfgeleier is 'n vastestof met geleidingseienskappe tussen 'n
+   geleier en dié van 'n isolator; dit kan wissel oor 'n wye bestek hetsy
+   permanent of dinamies. Halfgeleiers is belangrike materiale in vandag
+   se tegnologie. Halfgeleiertoestelle, elektroniese komponente wat gemaak
+   word van halfgeleiermateriale, is belangrike moderne elektriese
+   toestelle. Hierdie toestelle word gebruik in die vervaardiging van
+   rekenaars, selfone en digitale klankspelers. Silikon word tans gebruik
+   om die meeste kommersiële halfgeleiers te vervaardig, maar daar bestaan
+   dosyne ander materiale wat ook gebruik kan word.
+
+[wysig] Oorsig
+
+   Halgeleiers het eienskappe wat baie ooreestem met isolators. Die twee
+   kategorieë van vastestowwe verskil hoofsaaklik in die opsig dat
+   isolators 'n groot bandgaping tussen die energieë wat elektrone moet
+   verkry om om vrylik van atoom tot atoom te kan beweeg. In halfgeleiers,
+   net soos in die geval van isolators, verkry baie min elektrone
+   voldoende termiese energie om oor die bandgaping te spring vanaf die
+   valensieband tot in die geleidingsband, wat nodig is vir elektrone om
+   beskikbaar te wees om 'n elektriese stroom te gelei. Om hierdie rede
+   het suiwer halfgeleiers en isolators in die afwesigheid van toegepaste
+   elektriese velde, soortgelyke weerstande. Die kleiner bandgapings van
+   halfgeleiers, maak dit egter moontlik om ander metodes buiten termiese
+   energie te gebruik om hulle elektriese eienskappe te beheer.
+
+   Halfgeleiers se intrinsieke elektriese eienskappe word dikwels
+   permanent verander deur die invoeging van onsuiwerhede deur 'n
+   doteringsproses. By benadering kan gesê word dat elke atoom van die
+   onsuiwerheid 'n elektron of "gat" (later bespreek) byvoeg sodat
+   elektrone vryelik kan beweeg. As 'n voldoende hoeveelheid onsuiwerheid
+   bygevoeg word sal die halfgeleier elektrisiteit byna so goed as metale
+   gely. Afhangende van die soort onsuiwerheid sal 'n gedoteerde gebied op
+   die halfgeleier meer elektrone of gate hê en word dienooreenkomstig
+   N-tipe of P-tipe halfgeleiers materiaal onderskeidelik genoem. Sperlae
+   tussen die N- en P-tipe halfgeleiers skep elektriese velde wat
+   veroorsaak dat elektrone en gate om van hulle af weg te beweeg, 'n
+   eienskap wat krities is vir die werking van halfgeleiertoestelle. 'n
+   Digtheidsverskil in die hoeveelheid onsuiwerhede lewer 'n klein
+   elektriese veld in die gebied wat gebruik word om elektrone of gate wat
+   nie in ewewig is nie te versnel.
+
+   Bo en behalwe die permanente verandering wat deur dotering meegebring
+   word sal die weerstand van halfgeleiers gewoonlik dinamies verander
+   word deur elektriese velde dinamies toe te pas. Die vermoë om die
+   weerstand/geleiding in gebiede in die halfgeleiermateriaal te beheer
+   deur die toepassing van elektriese velde is die eienskap wat
+   halfgeleiers nuttig maak. Dit het gelei tot 'n wye reeks
+   halfgeleiertoestelle, soos transistors en diodes. Halfgeleiertoestelle
+   wat oor dinamies beheerbare geleiding beskik, soos transistors, is die
+   boustene van geïntegreerde stroombaan-toestelle soos mikroverwerkers.
+   Die "aktiewe" halfgeleiertoestelle (transistors) word gekombineer met
+   passiewe toestelle wat uit halfgeleiermateriaal vervaardig word soos
+   onder andere kapasitore en resistors om volledige elektroniese
+   stroombane te lewer.
+
+   Die meeste halfgeleiers waarin die elektrone voldoende energie verloor
+   het om vanaf die geleidingsband na die valensieband terug te val (die
+   energievlakke tussen die bandgaping), sal lig uitstraal gelykstaande
+   aan 'n kwantum energie in die sigbare elektromagnetiese spektrum.
+   Hierdie foto-emissieproses is die verskynsel waarop lig-emissie diodes
+   (LED) en halfgeleierlasers op gebaseer word. Daarteenoor kan die
+   absorpsie van lig in fotodetektors elektrone opwek om vanaf die
+   valensieband na die hoër geleidingsband te beweeg, 'n verskynsel wat
+   die basis vorm vir die opwekking van elektrisiteit vanaf sonselle.
+
+   Halfgeleiers kan uit elementêre materiale soos silikon en germanium
+   bestaan of saamgestelde halfgeleiers soos galliumarsenied en
+   indiumfosfied of legerings soos silikongermanium of
+   aluminiumgalliumarsenied.
+   Kategorie: Fisika
+

@@ -1,0 +1,227 @@
+Helium
+
+
+
+                                      Waterstof – Helium
+
+                                            He
+                                            Ne
+
+
+                                      Volledige tabel
+
+                                   Algemeen
+          Naam, Simbool, Getal                                Helium, He, 2
+                    Atoommassa                                     4.002602
+                Chemiese reeks                                    Edelgasse
+          Groep, Periode, Blok                             18 (VIIIA), 1, p
+         Digtheid (0°C, 1 atm)                                    0.179 g/L
+                      Voorkoms                  kleurloos
+                                Termiese data
+         Smeltpunt (by 26 atm)                            0.95 K (-272.2°C)
+                      Kookpunt                           4.22 K (-268.93°C)
+   Spesifieke warmtekapasiteit                                5193 J/(kg*K)
+     Termiese geleidingsvermoë                                0.152 W/(m*K)
+             Verdampingswarmte                                0.0845 kJ/mol
+               Smeltingswarmte                                   5230 J/mol
+                              Elektroniese data
+          Elektronkonfigurasie                                         1s^2
+            Elektrone per skil                                            2
+                      Valensie                                            0
+    1^ste ionisasie potensiaal                                2372.3 kJ/mol
+     2^de ionisasie potensiaal                                5250.5 kJ/mol
+                                Steriese data
+              Kovalente radius                                        32 pm
+          van der Waals radius                                       140 pm
+                 Molêre volume                          21.0 ×10^-6 m^3/mol
+             Kristal struktuur                                  heksagonaal
+                                   isotope
+
+
+   iso  verspreiding halfleeftyd VM  VE MeV  VP
+   ^3He 0.000137%    Stabiel met 1 neutron
+   ^4He 99.999863%   Stabiel met 2 neutrone
+   ^6He sinteties    806.7 ms    β^- 3.508  ^6Li
+
+                Alle toestandeSTD behalwe waar anders vermeld.
+
+   Helium is 'n kleurlose, reuklose, smaaklose chemiese element, een van
+   die edelgasse van die periodieke tabel van elemente, met simbool: He,
+   met een atoomgetal van 2.
+
+   Helium se kookpunt en smeltpunt is die laagste van al die elemente; dit
+   bestaan slegs as 'n gas, behalwe by buitengewone toestande. Dit is die
+   element wat die tweede meeste voorkom in die heelal, noemenswaardige
+   hoeveelhede word op aarde slegs in natuurlike gas gevind. Dit word
+   gebruik in kriogeniese toepassings, in diepsee asemhalingstoerusting,
+   vir die opblaas van ballonne en as 'n beskermende gas vir vele ander
+   doeleindes. Helium is nie-giftig en het geen biologiese newe-effekte.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Toestande
+             + 2.1 Helium II
+        * 3 Reaksies
+        * 4 Isotope
+        * 5 Verspreiding
+        * 6 Sintese
+        * 7 Gebruike
+        * 8 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Helium is die eerste keer in Indië in 1868 deur die Franse
+   sterrekundige Pierre Janssen waargeneem as 'n helder geel lyn in die
+   spektrum van die chromosfeer van die son gedurende 'n
+   sonsverduistering. In dieselfde jaar het die Engelse sterrekundige
+   Norman Lockyer ook 'n onbekende geel lyn in die spektrum van die son
+   opgemerk en tot die gevolgtrekking gekom dat dit veroorsaak word deur
+   'n element wat onbekend is op Aarde. Hy en die Engelse chemikus, Edward
+   Frankland het die element helios, na die Griekse woord vir die son
+   vernoem.
+
+   In 1895 het die Britse chemikus William Ramsay helium geïsoleer deur
+   cleveite met mineraalsuur te behandel. Lokyer en die Britse fisikus
+   William Crookes het dit as helium geïdentifiseer. In 'n onafhanklike
+   eksperiment in dieselfde jaar is Helium ook deur Sweedse chemici Per
+   Teodor Cleve en Nils Langlet vanuit cleveite geïsoleer.
+
+   In 1905 het die Amerikaanse chemici Hamilton Cady en David McFarland
+   ontdek dat helium vanuit natuurlike gas geskei kan word. In 1907 het
+   Ernest Rutherford en Thomas Royds gedemonstreer dat 'n alfa partikel 'n
+   helium kern is. Helium is vir die eerste keer deur 'n Hollandse fisikus
+   Heike Kamerlingh Onnes in 1908 vervloei deur die gas te verkoel tot
+   onder een grade K. Dit was vir die eerste keer gevries in 1926 deur sy
+   student Willem Hendrik Keesom. In 1938 het die Russiese fisikus Pyotr
+   Leonidovich Kapitsa ontdek dat helium-4 byna geen viskositeit het by
+   temperature naby die absolute nulpunt nie, 'n verskynsel wat as
+   superfluïditeit bekend staan. In 1972 is dieselfde verskynsel opgemerk
+   in helium-3 deur die Amerikaanse fisici Douglas D. Osheroff, David M.
+   Lee en Robert C. Richardson.
+
+[wysig] Toestande
+
+   By STD bestaan helium slegs as 'n monatomiese gas. Dit vries alleen
+   onder baie hoë druk (die variasie in die druk het 'n drastiese invloed
+   op die volume van die vastestof). Onder sy kookpunt van 4.21 kelvin en
+   bo die lambda punt 2.1768 kelvin, bestaan die isotoop helium-4 in 'n
+   normale vloeistof vorm, in 'n toestand wat helium I genoem word. Onder
+   die lambda punt begin dit ongewone eienskappe toon in 'n toestand wat
+   helium II genoem word. Min is bekend rondom die eienskappe van die
+   isotoop helium-3.
+
+[wysig] Helium II
+
+   Hoof Artikel: superfluïditeit.
+
+   Helium II vertoon eienskappe van twee onderskeibare vloestowwe, die een
+   'n normale viskose vloeistof en die ander 'n supervloeier skynbaar
+   sonder enige interne wrywing. Dit vloei maklik en vinnig deur selfs die
+   kleinste kapillêre openinge en in wat die fontein effek genoem word,
+   styg dit oor die rand van 'n houer in 'n dun film wat skynbaar nie
+   beïnvloed word deur swaartekrag nie. Verder is die termiese
+   geleidigsvermoë groter as dié van enige ander bekende stof. Wanneer die
+   stof aan hitte blootgestel word, word die hitte vinnig deur die stof in
+   golwe gelei, 'n verskynsel wat tweede klank genoem word.
+
+[wysig] Reaksies
+
+   Helium is chemies onreaktief onder normale toestande. Met gloeiende
+   elektron vrystelling of elektron bombardement kan helium egter
+   verbindings met wolfram, jodium, fluoor, swael en fosfor vorm.
+
+[wysig] Isotope
+
+   Van die agt bekende isotope van helium is slegs helium-3 en helium-4
+   stabiel.
+
+   Die ander is almal radio-aktief, wat vinnig verval na ander chemiese
+   stowwe. Die isotoop helium-4 met die mees algemene voorkoms, word
+   geproduseer vanuit die alfa verval van swaarder radio-aktiewe elemente,
+   met 'n kern wat uit 'n alfa partikel bestaan. Dit is 'n ongewoon
+   stabiele kern as gevolg van die feit dat die nukleone gerangskik is in
+   volledig gevulde orbitale. Daar is slegs geringe hoeveelhede helium-3
+   op aarde en diè word gevorm deur die beta verval van tritium.
+
+[wysig] Verspreiding
+
+   Helium is die element met die tweede grootste verspreiding in die
+   heelal (na waterstof) en beslaan ongeveer 'n kwart van die massa van
+   die heelal. Dit is gekonsentreer in die sterre waar dit uit waterstof
+   gevorm word deur kernfusie van die proton-proton kettingreaksie en die
+   CNO siklus. Volgens die Groot Knal model/teorie van die ontwikkeling
+   van die heelal, is die grootste hoeveelheid helium gevorm in die eerste
+   drie minute na die Groot Knal.
+
+   Die konsentrasie van helium in die Aarde se atmosfeer is slegs 1 deel
+   in 200 000, hoofsaaklik as gevolg van die feit dat helium na die ruimte
+   verloor word as gevolg van sy inerte karakter en lae massa. Helium wat
+   op aarde in noemenswaardige hoeveelhede voorkom is hoofsaaklik die
+   byprodukte van radio-aktiewe verval. Die vervalprodukte word gevind in
+   minerale wat uraan en torium bevat, onder andere cleveite, pikblende,
+   carnotiet, monasiet en beriel. Daar is ook klein hoeveelhede helium
+   teenwoordig in minerale bronne, vulkaniese gas en meteoriet yster. Die
+   grootste konsentrasie op die planeet kom voor in natuurlike gas, en is
+   die grootste bron van kommersieel beskikbare helium. Die hoofbron is
+   die natuurlike gasvelde van die Amerikaanse state Texas, Oklahoma, en
+   Kansas.
+
+[wysig] Sintese
+
+   Helium kan voorberei word deur litium of boor met hoë snelheid protone
+   te bombardeer.
+
+[wysig] Gebruike
+
+   As gevolg van sy lae digtheid is helium die gas van keuse om lugskepe
+   te vul soos die alombekende Goodyear lugskip.
+   As gevolg van sy lae digtheid is helium die gas van keuse om lugskepe
+   te vul soos die alombekende Goodyear lugskip.
+
+   Saamgeperste helium verkry uit natuurlike gas is kommersieel
+   beskikbaar.
+
+   Helium word vir velerlei doeleindes ingespan:
+     * Omdat dit ligter as lug is kan lugskepe en ballonne gevul word met
+       helium om hulle te maak dryf. Helium vir gebruik in lugskepe is
+       ideaal aangesien dit nie vlambaar is nie en het 92.64% van die
+       dryfvermoë van die alternatiewe gas waterstof.
+
+     * Die stem van 'n mens wat helium ingeasem het, kry tydelik 'n hoë
+       toon as gevolg van die spoed van klank in helium wat byna drie keer
+       hoër is as in lug, wat 'n ooreenstemmende toename in die resonante
+       frekwensie van die larinks tot gevolg het. Dit mag dalk vermaak
+       verskaf maar kan dodelik gevaarlik wees met gekonsentreerde helium.
+
+     * Trimix is 'n atmosferiese mengsel van helium, suurstof en stikstof
+       en word gebruik in diepsee asemhalingsapparaat om die risiko van
+       stikstof narkose en suurstofvergiftiging teen hoë drukke te
+       voorkom.
+
+     * Vanweë sy uitermate lae smeltpunt en kookpunt, word helium as 'n
+       verkoelingsmiddel gebruik in magnetiese resonansie-beeldvorming,
+       kernreaktore, supergeleier magnete asook in ander kriogeniese
+       toepassings.
+
+     * Vanweë sy inerte eienskappe word helium as 'n beskermingsgas
+       gebruik vir die kweek van silikon en germanium kristalle, vir
+       titaan en sirkoon produksie, vir boogsweiswerk asook vir
+       gaschromatografie.
+
+     * Helium word gebruik om vloeibare vuurpylbrandstof saam te pers.
+
+     * Helium word in supersoniese windtonnels gebruik.
+
+     * Die versterkingsmedium van die helium-neon laser is 'n mengsel van
+       helium en neon.
+
+[wysig] Eksterne skakels
+
+     * WebElements: Helium
+     * EnvironmentalChemistry.com – Helium
+     * It's Elemental – Helium
+     * Hoax: Helium Causes Death (CIAC Hoaxbusters)
+
+   Kategorie: Chemiese elemente
+

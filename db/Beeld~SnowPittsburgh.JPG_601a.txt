@@ -1,0 +1,123 @@
+Beeld:SnowPittsburgh.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:SnowPittsburgh.JPG
+   Grootte van hierdie voorskou: 800 × 600 pixels
+   Volle resolusie (2 848 × 2 136 pixel, file size: 3,65 MG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   Description
+
+   Taken by myself during the Winter Storm of 2007
+   Source
+
+   Originally from en.wikipedia; description page is/was here.
+   Date
+
+   2007-02-16 (first version); 2007-02-17 (last version)
+   Author
+
+   Original uploader was FireSpike at en.wikipedia Later versions were
+   uploaded by MamaGeek at en.wikipedia.
+   Permission
+   (Reusing this image)
+
+   Released into the public domain (by the author).
+
+[edit] License information
+
+   Public domain This image has been (or is hereby) released into the
+   public domain by its author, FireSpike at the wikipedia project. This
+   applies worldwide.
+
+   In case this is not legally possible:
+   FireSpike grants anyone the right to use this work for any purpose,
+   without any conditions, unless such conditions are required by law.
+
+[edit] Original upload log
+
+   (All user names refer to en.wikipedia)
+     * 2007-02-17 21:27 FireSpike 2848×2136×8 (3827820 bytes) Reverted to
+       earlier revision
+     * 2007-02-17 21:27 FireSpike 2848×2136×8 (911220 bytes) Reverted to
+       earlier revision
+     * 2007-02-17 21:27 FireSpike 2848×2136×8 (3827820 bytes) Reverted to
+       earlier revision
+     * 2007-02-17 21:27 FireSpike 2848×2136×8 (3827820 bytes) Reverted to
+       earlier revision
+     * 2007-02-17 21:26 FireSpike 2848×2136×8 (911220 bytes) Reverted to
+       earlier revision
+     * 2007-02-17 20:10 MamaGeek 2848×2136×8 (3827820 bytes) edited to
+       improve lighting
+     * 2007-02-16 23:24 FireSpike 2848×2136×8 (911220 bytes) Taken by
+       myself during the Winter Storm of 2007
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 14:34, 20 April 2007 2 848×2 136 (3,65 MG) François Haffner
+   ({{Information |Description=Taken by myself during the Winter Storm of
+   2007 |Source=Originally from [http://en.wikipedia.org en.wikipedia];
+   description page is/was
+   [http://en.wikipedia.org/w/index.php?title=Image%3ASnowPittsburgh.JPG
+   here]. |Date=2007-02-1)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Pittsburgh
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        FUJIFILM
+             Camera model           FinePix A600
+            Beligtingstyd           1/350 sek (0.0028571428571429)
+               F-getal              f/4
+   Date and time of data generation 14:12, 15 Februarie 2007
+          Lens focal length         16.4 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       72 dpi
+         Vertikale resolusie        72 dpi
+            Software used           Adobe Photoshop Elements 3.0 Windows
+      File change date and time     15:04, 17 Februarie 2007
+         Y and C positioning        2
+       Custom image processing      Normal process
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Scene capture type        Standard
+              Sharpness             Normal
+        Subject distance range      Unknown
+           Exposure Program         Normal program
+           ISO speed rating         100
+             Exif version           2.2
+     Date and time of digitizing    14:12, 15 Februarie 2007
+        Image compression mode      2
+            Shutter speed           8.58
+               Aperture             4
+              Brightness            7.82
+            Exposure bias           0
+        Maximum land aperture       2.8
+            Metering mode           Pattern
+             Light source           Onbekend
+                Flash               24
+             Kleurruimte            sRGB
+       Focal plane X resolution     3703
+       Focal plane Y resolution     3703
+     Focal plane resolution unit    3
+            Sensing method          One-chip color area sensor
+

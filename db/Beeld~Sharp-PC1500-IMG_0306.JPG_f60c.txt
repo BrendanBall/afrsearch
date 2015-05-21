@@ -1,0 +1,94 @@
+Beeld:Sharp-PC1500-IMG 0306.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:Sharp-PC1500-IMG 0306.JPG
+   Grootte van hierdie voorskou: 800 × 533 pixels
+   Volle resolusie (3 072 × 2 048 pixel, file size: 555 KG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+
+   Work by Rama
+
+      I, the copyright holder of this work, hereby publish it under the
+                             following licenses:
+
+
+   CeCILL This work is free software; you can redistribute it or modify it
+   under the terms of the CeCILL.
+
+   The terms of the CeCILL license are available at www.cecill.info.
+     __________________________________________________________________
+
+   العربية | Български | Česky | Deutsch | English | Español | فارسی |
+   Français | Italiano | 日本語 | Kurdî / كوردی | Nederlands | Polski |
+   Português | Русский | Svenska | Türkçe | Українська | 中文 | +/-
+
+   Creative Commons License
+   Creative Commons Attribution icon Creative Commons Share Alike icon
+   This file is licenced under the
+   Creative Commons "Attribution ShareAlike 2.0 France" Licence
+
+   Ce fichier est sous la licence de Creative Commons suivante :
+   « Paternité – Partage des Conditions Initiales à l'Identique 2.0
+   France »
+
+                 You may select the license of your choice.
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 10:15, 30 Junie 2006 3 072×2 048 (555 KG) Rama (Work by Rama
+   {{self2|CeCILL|Cc-by-sa-2.0-fr}} category:Computers )
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Sharp PC-1500
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        Canon
+             Camera model           Canon EOS 10D
+            Beligtingstyd           15/1 sek (15)
+               F-getal              f/22
+   Date and time of data generation 18:26, 29 Junie 2006
+          Lens focal length         30 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       180 dpi
+         Vertikale resolusie        180 dpi
+      File change date and time     18:26, 29 Junie 2006
+         Y and C positioning        1
+           ISO speed rating         100
+             Exif version           2.21
+     Date and time of digitizing    18:26, 29 Junie 2006
+        Image compression mode      3
+               Aperture             8.9188690185547
+            Exposure bias           0
+        Maximum land aperture       2.9708557128906
+            Metering mode           Pattern
+                Flash               0
+             Kleurruimte            sRGB
+       Focal plane X resolution     3443.9461883408
+       Focal plane Y resolution     3442.0168067227
+     Focal plane resolution unit    duim
+            Sensing method          One-chip color area sensor
+       Custom image processing      Normal process
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Scene capture type        Standard
+

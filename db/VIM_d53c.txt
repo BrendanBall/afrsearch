@@ -1,0 +1,24 @@
+VIM
+
+
+   CAPTION: VIM
+
+   Vim — Vi IMproved
+   Grafiese Vim met GTK2
+   Ontwikkellaar Bram Moolenaar en andere
+   Beheerstelsel Amiga, Linux, Mac OS, Windows, OpenVMS, OS/2, Unix
+   Genre         Teksredigering
+   Lisensie      GPL
+   Webwerf       http://www.vim.org/
+
+   Vim, wat staan vir Vi IMproved (vi-verbeterd) is 'n Oop-bronkode,
+   multiplatform tekswysiger, wat uitgebrei is vanaf vi. Dit was
+   aanvanklik deur Bram Moolenaar in 1991 vrygestel. Sedert die eerste
+   weergawe is baie funksionaliteit tot Vim bygevoeg, waarvan baie te doen
+   het met die wysigning van program bronkode. Vim is vandag een van die
+   mees populêre wysigers vir pogrammeerders en gebruikers van
+   Unix-soortige berdyfstelsels, naas Emacs.
+
+   ^[1]
+   Kategorie: Sagteware
+

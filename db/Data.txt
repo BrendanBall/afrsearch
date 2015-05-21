@@ -1,0 +1,25 @@
+Data
+
+
+   Data verwys na gegewens, wat byvoorbeeld mates, waarnemings en
+   veranderlikes insluit. Data-elemente kan bestaan uit getalle, woorde of
+   beelde.
+
+[wysig] Data in inligtingstegnologie
+
+   In inligtingstegnologie word data gewoonlik as getalle gestoor en
+   hanteer, maar allerhande tipes data word daarmee voorgestel. Data word
+   soms geklassifiseer volgens die manier waarop dit verwerk word in 'n
+   stelsel, volgens die toevoer/afvoer-model, waar sekere data as toevoer
+   (insette) tot 'n stelsel gesien word, en die resultaat van die
+   verwerking in die stelsel as afvoer geklassifiseer word. Daar word soms
+   na onverwerkte of ongestruktureerde data verwys as rou data. Verwerkte
+   of geïnterpreteerde data word inligting genoem.
+
+   Data word gereeld gestoor in 'n vaste formaat sodat dit volgens 'n
+   vaste standaard geïnterpreteer kan word. Data kan byvoorbeeld
+   voorgestel word as 'n stel rekords en velde. 'n Rekord bestaan uit 'n
+   aantal velde. 'n Veld definieer 'n spesifieke data-element in 'n
+   spesifieke formaat. Sulke data word gewoonlik gestoor in 'n databasis.
+   Kategorie: Inligtingkunde
+

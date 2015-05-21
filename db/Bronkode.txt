@@ -1,0 +1,86 @@
+Bronkode
+
+
+   'n Voorbeeld van 'n HalloWêreld program wat in C# geskryf is.
+   'n Voorbeeld van 'n HalloWêreld program wat in C# geskryf is.
+
+   Bronkode word in sagtewareontwikkeling gebruik om 'n reeks stellings
+   en/of verklarings voor te stel in 'n formaat wat maklik deur mense
+   gelees kan word deur die toepassing van 'n betrokke programmeringstaal.
+
+   'n Rekenaarprogram word gewoonlik saamgestel deur een of meer
+   tekslêers. Dele van 'n program kan ook gestoor word in 'n databasis as
+   'n gestoorde prosedure of selfs brokkies kode in verskeie media.
+
+   Sommige rekenaarstelsel is meer kompleks as ander en verg dan meer
+   beheer oor die bronkode. In sulke gevalle is dit moontlik dat 'n span
+   ontwikkelaars toegang het tot dieselfde stel bronkode. Dit kan lei tot
+   probleme indien een ontwikkelaar die veranderings van 'n ander
+   oorskryf. In sulke gevalle word 'n bronkodebeheerstelsel gebruik.
+
+   Inhoud
+
+        * 1 Doel
+        * 2 Samestelling
+        * 3 Kwaliteit
+        * 4 Verwysings
+
+[wysig] Doel
+
+   Bronkode word hoofsaaklik gebruik as die invoer na die proses om 'n
+   uitvoerbare program te skep deur die bronkode te voer na 'n samesteller
+   of 'n vertaler. Dit word ook soms gebruik om algoritmes te kommunikeer
+   aan mede-ontwikkelaars (b.v. brokkies bronkode in boeke).
+
+   Sagtewareontwikkelaars bestudeer ook dikwels bronkode om nuwe tegnieke
+   baas te raak en sodoende hul programmeringsvaardighede te verbeter.
+
+   Bronkode word saamgestel om uitgevoer te word binne 'n relevante
+   omgewing. Tipies word 'n spesifieke sentraleverwerkingseenheid en
+   bedryfstelsel geteiken. Die uitvoerbare program wat geskep is deur so
+   aksie kan dus nie op 'n ander platform loop nie. Indien die bronkode
+   beskikbaar is is dit moontlik om dit dan saam te stel om die nodige
+   platform te teiken. In sommige omstandighede is dit ook behulpssam on
+   die bronkode byderhand te hê om nuwe bronkode te skep vir die nuwe
+   omgewing. Dit is veral die geval waar self die tegnologie waaring die
+   bronkode is verouder tot so 'n punt dat dit sin maak om na 'n nuwe
+   omgewing te opgradeer. 'n Voorbeel is Visual Basic 6 na Visual
+   Basic.NET.
+
+[wysig] Samestelling
+
+   Hoe die bronkode geörganiseer word hou sterk verband met die
+   argitektuur van die stelsel wat deur die bronkode voorgestel word. 'n
+   Stelsel wat net redelik ingewikkeld is kan maklik uit honderde of
+   duisende lêers bestaan.
+
+   Alhoewel 'n spesifieke lêer altyd net een in rekenaartaal geskryf sal
+   wees is dit moontlik dat bronkode bestaan uit verskillende rekenaartale
+   wat later saamgevoeg kan word in verkillende konfigurasies.
+
+[wysig] Kwaliteit
+
+   Die kwaliteit van bronkode is van uiterste belang. Daar kan nie uit die
+   oog verloor word dat bronkode vir etlike jare kan bestaan nie. In
+   meeste gevalle moet daar dus weer verander word aan die bronkode en dit
+   is nie altyd moontlik dat dieselfde programmeerder werk aan die
+   bronkode wat oorspronlik onwikkel is deur die betrokke programmeerder
+   nie.
+
+   Dit is nietemin moeilik om kwaliteit te meet. Alhoewel dit baie maklik
+   is vir gesoute ontwikkelaars om swak kode raak te sien is dit nie so
+   maklik om goeie kode raak te sien nie aangesien daar verskeie faktore
+   betrokke is. Die strewe na kwaliteit het al gelei tot verskeie metodes
+   van sagtewareontwikkeling soos die Microsoft Solutions Framework, die
+   Rational Unified Process, die Unified Modeling Language en tegnieke
+   soos toetsgedreweontwikkeling.
+
+   In enige ontwikkelingsspan is die toepassing van standaarde noodsaaklik
+   om eenvormigheid in die bronkode te verseker.
+
+[wysig] Verwysings
+
+   Hierdie artikel is aanvanglik saamgestel deur die Engelse weergawe van
+   Wikipedia te gebruik as 'n beginpunt.
+   Kategorie: Sagteware
+

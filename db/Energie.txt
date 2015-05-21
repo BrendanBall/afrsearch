@@ -1,0 +1,369 @@
+Energie
+
+
+   Weerlig, die afbreking van lug deur 'n sterk elektriese veld, is 'n
+   vorm van energie-oordrag.
+   Weerlig, die afbreking van lug deur 'n sterk elektriese veld, is 'n
+   vorm van energie-oordrag.
+
+          Hierdie artikel gaan oor die wetenskaplike konsep. Die gebruik
+          van energie deur die mensdom word in ander artikels bespreek.
+
+   Energie, algemeen en kwalitatief gesproke, is die eienskap (of die
+   hoeveelheid van daardie eienskap) waardeur die doen van dinge of die
+   verskaffing van krag moontlik gemaak word. Die uitdrukkings "energie"
+   en "krag" word soms foutiewelik uiteenlopend gebruik, maar dit het
+   verskillende betekenisse op beide die wetenskaplike en
+   nie-wetenskaplike gebiede. Fisika poog om die eienskap kwantitatief te
+   beskryf en gee daaraan 'n definisie wat dit moontlik maak om energie as
+   'n beskrywing van 'n algehele toestand te beskou en die verskillende
+   maniere waarop werk verrig word, word deur hierdie benadering verenig.
+
+   Energie is 'n fundamentele hoeveelheid wat elke fisiese stelsel besit;
+   dit laat ons toe om te kan voorspel tot hoeveel werk die stelsel in
+   staat is, of hoeveel hitte dit kan uitruil. In die verlede is energie
+   bespreek in terme van maklik waarneembare uitwerkinge wat dit op die
+   eienskappe van voorwerpe of veranderinge in toestand van verskeie
+   stelsels gehad het. Basies kan die gevolgtrekking gemaak word dat as
+   iets verander, daar een of ander soort energie betrokke was in daardie
+   verandering. Toe mense besef het dat energie in voorwerpe gestoor kan
+   word, is die gedagte van energie uitgebrei om die potensiaal vir
+   verandering asook die verandering self in te sluit.
+
+   Hierdie uitwerkinge (beide potensieel en verwesenlik) kom in baie
+   verskillende vorms voor; voorbeelde is elektriese energie wat in
+   batterye gestoor is, die chemiese energie wat in 'n stukkie kos gestoor
+   is, die termiese energie van 'n warmwaterverhitter, of die kinetiese
+   energie van 'n bewegende trein. Om energie eenvoudig as verandering of
+   die potensiaal vir verandering te definieer veroorsaak egter dat baie
+   voorbeelde van energie soos dit in die fisiese wêreld bestaan uitgelaat
+   word. Energie kan nie slegs gebruik word om sigbare veranderinge teweeg
+   te bring nie, maar kan ook gebruik word om veranderinge te keer, in
+   welke geval waarneming van hierdie soort energie sonder hulpmiddels
+   baie moeilik is. As mens byvoorbeeld na 'n standbeeld kyk wat 'n 50
+   kilogram gewig vashou is die teenwoordigheid van energie wat nodig is
+   om dit moontlik te maak nie so voor die hand liggend nie. As mens self
+   egter 'n 50 kilogram gewig vashou dan is die noodsaaklikheid vir
+   energie dadelik duidelik! Mens kan die swaartekrag se uitwerking op jou
+   voel wanneer jy die gewig beweeg en wanneer jy dit nie beweeg nie.
+   Energie kan geredelik omgeskakel word vanaf een vorm na 'n ander; 'n
+   mens kan byvoorbeeld chemiese energie in 'n battery omskakel na
+   termiese energie deur die battery aan 'n elektriese verhitter te
+   koppel. In die voorbeeld van die gewig word die kinetiese energie van
+   beweging omgeskakel na potensiële energie. As mens die gewig sou laat
+   val word die potensiële energie weer omgeskakel na kinetiese energie as
+   gevolg van die uitwerking van swaartekrag wat die gewig laat versnel.
+   Die wet van die behoud van energie bepaal dat tydens hierdie
+   omskakelings die hoeveelheid energie altyd dieselfde bly. Die begrip
+   van energie is 'n kragtige beginsel in fisika en om die geldigheid
+   daarvan te verseker het wetenskaplikes verskeie addisionele
+   energievorme gedefinieer wat nie so maklik gemeet kan word deur die
+   waarnemer sonder hulpmiddele nie.
+
+   Inhoud
+
+        * 1 Eenhede
+             + 1.1 SI- en verwante eenhede
+             + 1.2 Ander eenhede van energie
+        * 2 Oordrag van energie
+             + 2.1 Werk
+             + 2.2 Hitte
+        * 3 Behoud van energie
+        * 4 Kinetiese energie
+        * 5 Potensiële energie
+        * 6 Interne energie
+        * 7 Energie as 'n funksie van toestand
+        * 8 Voorbeelde
+        * 9 Sien ook
+        * 10 Eksterne skakels
+        * 11 Verdere leeswerk
+        * 12 Verwysings
+
+[wysig] Eenhede
+
+[wysig] SI- en verwante eenhede
+
+   Die SI-eenheid vir beide energie en werk is die joule (J), ter ere van
+   James Prescott Joule en sy eksperimente oor die meganiese ekwivalent
+   van warmte. Afgebreek na meer fundamentele eenhede is 1 joule gelyk aan
+   1 newton·meter en in SI-basiseenhede is 1 J gelyk aan 1 kg m^2 s^−2.
+
+   'n Energie-eenheid wat in partikelfisika gebruik word is die
+   elektronvolt (eV). Een eV  is gelyk aan 1,602176462×10^−19 J.
+
+   (Neem kennis dat wringkrag dieselfde eenhede as energie het. Die
+   energie wat nodig is om 'n draai van een radiaal uit te voer by 'n
+   wringkrag van een Joule is een Joule. Eintlik is die eenheid van
+   wringkrag dus 'Joule/rad' maar rad is dimensieloos).
+
+[wysig] Ander eenhede van energie
+
+   In cgs-eenhede is een erg gelyk aan 1 g cm^2 s^−2, gelyk aan
+   1,0×10^−7 J. Die britse eenhede/VSA eenhede vir beide energie en werk
+   is die voet-pond, en een voet-pond is ongeveer 1,3558 J.
+
+   Die energie-eenheid wat gebruik word vir alledaagse elektrisiteitmeting
+   is die kilowatt-uur (kW h), en een kW h is gelyk aan 3,6×10^6 J ]]
+   (3600 kJ of 3,6 MJ).
+
+   Die kalorie word meestal gebruik in voeding en is gelyk aan die
+   hoeveelheid hitte benodig om die temperatuur van een gram water met 1
+   graad Celsiuste laat styg, teen 'n druk van 1 atmosfeer. Die
+   hoeveelheid hitte hang so 'n bietjie af van die begintemperatuur van
+   die water, wat tot gevolg het dat daar verskeie eenhede is wat die naam
+   kalorie dra maar effe verskillende waardes het. Dit is ongeveer gelyk
+   aan 4,186 J.
+
+[wysig] Oordrag van energie
+
+[wysig] Werk
+
+          Hoofartikel: meganiese werk.
+
+   Werk is 'n maatstaf van die energie wat verbruik word om 'n krag oor 'n
+   sekere afstande uit te oefen. Indien die krag nie verander oor 'n
+   sekere weg nie, is in die een-dimensionele geval die energie wat nodig
+   is:
+
+          Energie = krag x weg
+
+                E = f.x
+
+   In drie dimensies moet mens reken met die rigtinge van die beweging en
+   die krag en word f.x 'n vektorproduk.
+
+   Indien die krag veranderlik is, word die energie E wat vereis word,
+   gegee deur die integraal:
+
+          E = \int f(x) \, dx
+
+   waar f(x) die grootte van die toegepaste krag is as 'n funksie van die
+   afstand x wat beweeg is.
+
+   Energie word nooit verloor nie, net omgeskakel in 'n andere vorm. Nie
+   alle energie in 'n stelsel sal egter in 'n herwinbare vorm gestoor word
+   nie: energie kan byvoorbeeld omgeskakel word na hitte wat dan nie weer
+   omgeskakel kan word na 'n ander bruikbare energievorm nie. In die
+   praktyk kan die hoeveelheid beskikbare energie vir die uitvoering van
+   werk baie minder wees as die totale hoeveelheid energie in 'n stelsel.
+
+[wysig] Hitte
+
+          Hoofartikel: Hitte.
+
+   Hitte is 'n hoeveelheid energie wat normaalweg gekoppel word met 'n
+   verandering in temperatuur of in 'n verandering in die fase van
+   materie. In chemie is hitte die hoeveelheid energie wat geabsorbeer of
+   vrygestel word deur 'n gegewe chemiese reaksie.
+
+   Die verhouding tussen hitte en energie is soortgelyk aan die verhouding
+   tussen werk en energie. Hitte vloei vanaf areas met hoë temperature na
+   areas waar die temperatuur laer is. Alle voorwerpe (materie) het 'n
+   sekere hoeveelheid interne energie wat verband hou met die willekeurige
+   beweging van hulle atome of molekules. Die interne energie is direk
+   proporsioneel tot die temperatuur van die voorwerp. Wanneer twee
+   liggame van verskillende temperature in termiese kontak kom, ruil hulle
+   interne energie uit totdat die temperatuur dieselfde in albei liggame
+   is. Die hoeveelheid energie oorgedra is die hoeveelheid hitte wat
+   uitgeruil is. Hitte en interne energie word dikwels met mekaar verwar,
+   maar daar is 'n verskil: die verandering van die interne energie is die
+   hitte wat die omgewing met die stelsel uitruil plus die werk wat deur
+   die omgewing op 'n stelsel uitgeoefen word.
+
+[wysig] Behoud van energie
+
+   Die eerste wet van termodinamika bepaal dat die totale invloei van
+   energie in 'n stelsel in, gelyk moet wees aan die totale uitvloei van
+   energie uit die stelsel uit plus die verandering van die energie wat
+   die stelsel bevat. Hierdie wet word gebruik in alle vertakkinge van
+   fisika. Noether se teorie stel die verband tussen die behoud van
+   energie en die tydsonveranderlike aard van die wette van fisika.
+
+[wysig] Kinetiese energie
+
+          Hoofartikel: Kinetiese energie.
+
+   Kinetiese energie is die gedeelte van energie wat verband hou met die
+   beweging van 'n voorwerp.
+
+          E_k = \int \mathbf{v} \cdot \mathrm{d}\mathbf{p}
+
+   Die vergelyking hierbo bepaal dat die kinetiese energie (E[k]) gelyk is
+   aan die integraal van die puntproduk van die snelheid ( \mathbf{v} )
+   van 'n voorwerp en die infinitesimaal van die voorwerp se momentum (
+   \mathbf{p} ).
+
+   Vir nie-relatiwistiese snelhede, dit wil sê snelhede wat baie kleiner
+   is as die spoed van lig, kan ons die Newtoniese benadering gebruik:
+
+          E_k = \begin{matrix} \frac{1}{2} \end{matrix} mv^2
+
+   waar
+     * E[k] die kinetiese energie is
+     * m die massa van die voorwerp is
+     * v die snelheid van die voorwerp is
+
+   Nader aan ligsnelhede gebruik ons die relatiwistiese vergelyking:
+
+          E_k = m c^2 (\gamma - 1) = \gamma m c^2 - m c^2 \;\!
+          \gamma = \frac{1}{\sqrt{1 - (v/c)^2}}
+
+   waar
+     * v die snelheid van die voorwerp is
+     * m die massa is wanneer die voorwerp in rus verkeer
+     * c die spoed van lig in 'n vakuum is, wat ongeveer gelyk is aan
+       300 000 kilometer per sekonde
+     * \gamma m c^2 \, die totale energie van die liggaam is
+     * m c^2 \, die rusmassa energie is
+
+   In die vorm van 'n Taylorreeks, kan die relatiwistiese vergelyking
+   geskryf word as volg:
+
+          E_k = \frac{1}{2} mv^2 - \frac{3}{8} \frac{mv^4} {c^2} + \cdots
+
+   Dit kan gesien word dat die tweede hoër orde terme in die reeks
+   ooreenkom met die onakkuraatheid van die Newton benadering vir
+   kinetiese energie relatief tot die relatiwistiese vergelyking. Dit kan
+   gesien word dat hierdie onakkuraatheid baie klein is teen lae snelhede
+   aangesien die tweede term baie na aan nul is.
+
+[wysig] Potensiële energie
+
+          Hoofartikel: Potensiële energie.
+
+   Terwyl kinetiese energie die deel van 'n stelsel se energie is wat met
+   beweging verbind word, is potensiële energie die energie van 'n stelsel
+   wat met die ruimtelike rangskikking van 'n stelsel se komponente en hul
+   wisselwerkings met mekaar verbind word.
+
+   In 'n geïsoleerde stelsel wat bestaan uit twee voorwerpe in rus op die
+   x-as wat 'n krag f(x) op mekaar uitoefen, word die potensiële energie
+   algemeen gedefinieer as:
+
+          E_p = -\int f(x) \, dx
+
+   waar die krag tussen die voorwerpe slegs met afstand x varieer en daar
+   langs die lyn, wat die twee voorwerpe koppel, af geïntegreer word.
+
+   Om die verwantskap tussen krag en potensiële energie verder te
+   illustreer, kan ons dieselfde stelsel met twee voorwerpe op die x-as
+   beskou. As die potensiële energie as gevolg van een van die voorwerpe
+   op enige punt x, U(x) is, dan kan die krag op daardie voorwerp x
+   uitgedruk word as:
+
+          f(x) = -\frac{d}{dx}U(x)
+
+   Hierdie verwantskap demonstreer dat die krag tussen voorwerpe in die
+   rigting van afnemende potensiële energie is, en dat die grootte van die
+   krag proporsioneel is aan die mate waartoe die potensiële energie
+   afneem. 'n Groot krag word geassosieer met 'n groot afname in
+   potensiële energie, terwyl 'n klein krag geassosieer word met 'n klein
+   afname in potensiële energie. Neem kennis van hoe die krag op 'n
+   voorwerp geheel en al afhang van sy potensiële energie.
+
+   Die twee verwantskappe – die definisie van potensiële energie gebaseer
+   op krag en die afhanklikheid van krag op potensiële energie – wys hoe
+   intiem die begrippe van krag en potensiële energie gekoppel is: as twee
+   voorwerpe nie kragte op mekaar uitoefen nie, dan is daar met ander
+   woorde geen potensiële energie tussen hulle nie. As twee voorwerpe
+   kragte op mekaar uitoefen dan bestaan daar natuurlik potensiële energie
+   in die stelsel en maak dit deel uit van die stelsel se totale energie.
+   Aangesien potensiële energie ontstaan weens kragte, sal enige
+   verandering in die ruimtelike rangskikking van die stelsel, die stelsel
+   se potensiële energie vermeerder of verminder soos die stelsel
+   herrangskik word.
+
+   Wanneer 'n stelsel na 'n laer potensiële energietoestand beweeg, word
+   energie vrygestel in 'n vorm of omgeskakel na 'n ander vorm van
+   energie, soos kinetiese energie. Die potensiële energie kan "gestoor"
+   word as swaartekragenergie, elastiese energie, chemiese energie,
+   rusmassa-energie of elektriese energie, maar ontstaan in alle gevalle
+   weens die ruimtelike rangskikking en wisselwerkinge van voorwerpe in
+   sodanige stelsel. Anders as kinetiese energie wat in 'n bewegende
+   voorwerp bestaan, bestaan potensiële energie in enige voorwerp waar
+   daar 'n wisselwerking met 'n ander voorwerp bestaan.
+
+   'n Voorbeeld daarvan is dat wanneer 'n massa bo die aarde gelos word
+   dit aanvanklik potensiële energie het vanweë die aantrekking van die
+   swaartekrag van die aarde, wat dan omgeskakel word na kinetiese energie
+   soos die swaartekrag op die voorwerp uitgeoefen word en sy potensiële
+   energie dan verminder soos hy val.
+
+   Vergelyking:
+
+          E_p = mhg \;
+
+   waar m die massa is, h die hoogte is en g die swaartekragversnelling
+   is.
+
+[wysig] Interne energie
+
+          Hoofartikel: Interne energie.
+
+   Interne energie is die kinetiese energie geassosieer met die beweging
+   van molekules en die potensiële energie geassosieer met die rotasie,
+   vibrasie en elektriese energie van atome binne-in molekules. Interne
+   energie is 'n kwantifiseerbare toestandsfunksie van 'n stelsel.
+
+[wysig] Energie as 'n funksie van toestand
+
+   Energie is 'n eienskap van die toestand van 'n stelsel.
+
+   As die stelsel beweeg word tot 'n ander konfigurasie en dan weer
+   terugbeweeg word na die vorige konfigurasie, sal die stelsel weer
+   dieselfde energie hê as voorheen. Hiérvoor om waar te wees, moet al die
+   kragte (of velde) omkeerbaar wees. In die geval van nie-omkeerbare
+   kragte, verloor die wet van die behoud van energie sy belangrikheid.
+   Gewoonlik moet daar dan oorweging geskenk word aan een of ander
+   energiekanaal wat voorheen nagelaat is (soos wrywing) om die
+   onverklaarde verlies aan energie te verduidelik.
+
+[wysig] Voorbeelde
+
+   'n Voorbeeld van die omskakeling en behoud van energie is die slinger.
+   By sy hoogste punt is die kinetiese energie nul en die potensiële
+   swaartekrag-energie op sy maksimum. By die laagste punt is die
+   kinetiese energie weer op sy maksimum en gelyk aan die verlaging in
+   potensiële energie. As 'n mens onrealisties aanvaar dat daar geen
+   wrywing is nie, dan sal die energie behoue bly in die slinger en sal hy
+   bly swaai tot in lengte van dae.
+
+   'n Ander voorbeeld is 'n chemiese ontploffing waardeur die potensiële
+   chemiese energie omgeskakel word na kinetiese energie en hitte in 'n
+   baie kort tydjie.
+
+[wysig] Sien ook
+
+     * Energie-ontwikkeling
+     * Energiebeleid
+     * Energiekrisis
+     * Energietegnologie
+     * Energieversending
+     * Entalpie
+     * Entropie
+     * EU-energiemerk
+     * Henrieubare energie
+     * Krag
+     * Spesifieke orbitaalenergie
+     * Stoor van energie
+     * Termodinamika
+
+[wysig] Eksterne skakels
+
+     * Encyclopedia of free energy (en)
+     * What does energy really mean? Vanaf Physics World (en)
+
+[wysig] Verdere leeswerk
+
+     * Feynman, Richard. Six Easy Pieces: Essentials of Physics Explained
+       by Its Most Brilliant Teacher. Helix Book. Sien die hoofstuk
+       "conservation of energy" vir Feynman se verduideliking van wat
+       energie is en hoe 'n mens daaroor moet dink.
+
+[wysig] Verwysings
+
+     * Einstein, Albert (1952). Relativity: The Special and the General
+       Theory (Fifteenth Edition). ISBN 0-517-88441-0
+
+   Kategorieë: Energie • Fisiese hoeveelheid
+

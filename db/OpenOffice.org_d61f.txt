@@ -1,0 +1,144 @@
+OpenOffice.org
+
+
+   OpenOffice.org-logo
+
+   OpenOffice.org (OOo) (nie "Open Office" nie, vanweë 'n
+   handelsmerkkonflik) is 'n kantoorpakket en is 'n belangrike voorbeeld
+   van oopbronsagteware. Die lisensie waaronder die pakket versprei word
+   is die LGPL. (Dit is vroeër ook onder die SISSL versprei.)
+
+   Daar is weergawes beskikbaar vir GNU/Linux, Windows, Solaris (Sparc) en
+   vir Mac OS X.
+
+   Inhoud
+
+        * 1 Doelstelling
+        * 2 Geskiedenis
+             + 2.1 Ander OO.o Ontwikkelings
+        * 3 Modules
+        * 4 Lêerformaat
+        * 5 Prestasies in Suidelike Afrika
+        * 6 Eksterne skakels
+
+[wysig] Doelstelling
+
+   OpenOffice.org is 'n oopbronprojek met die volgende doelstelling:
+
+          Om as 'n gemeenskap, die internasionaal toonaangewende
+          kantoorpakket te skep, wat op al die vernaamste platforms loop
+          en toegang tot alle funksionaliteit en data gee deur oop
+          komponentgebasseerde API's en 'n XML-gebaseerde lêerformaat.
+
+   Verder is OpenOffice.org die produk wat in hierdie konteks ontwikkel
+   word: 'n kantoorpakket wat vir iedereen gratis is met modules vir
+   woordverwerking, sigblad, vektorgrafieke, HTML-bewerking, voorleggings
+   en databasisse. Wat funksieomvang en bediening betref is dit
+   vergelykbaar met die bekende (nie vrye) kantoorpakkette en kan as
+   alternatief daarvoor oorweeg word. Tuis, en in baie gevalle ook in die
+   bedryf, kan dit uitstekend bruikbaar wees. Sommige rekenaarwinkels bied
+   OpenOffice.org aan as opsie aan by aankoop van 'n rekenaar.
+   Programmeerders mag die bronkode as beginpunt gebruik, aanpassings
+   aanbring, en selfs kommersialiseer.
+
+[wysig] Geskiedenis
+
+   In 1984 word die duitse firma Star Division in Lüneburg/Duitsland
+   opgerig deur die 16-jarige Marco Börries (die duitse Bill Gates),
+   waarvan die kantoorpakket StarOffice die hoofproduk word. Nadat
+   StarOffice meer as 25 000 000 verkoop is, word Star Division vir meer
+   as 70 miljoen dollar oorgeneem deur Sun Microsystems waarna Sun
+   StarOffice 5.2 vir kostelose aflaai aanbied. Op 19 Julie word die
+   OpenOffice.org projek deur Sun Microsystems aangekondig en op 13
+   Oktober 2000 het die webwerf OpenOffice.org aanlyn gegaan, waarvan die
+   bronkode van StarOffice 6.0 gelaai kon word. Hierdie was op daardie
+   stadium ongeveer 400 megagrepe groot en het bestaan uit 35 000 lêers
+   met gesamentlik sowat 7 000 000 reëls C++-kode. Komponente van derde
+   partye gelisensieer is uit die kode verwyder.
+
+   Build 638c – die eerste funksionerende weergawe – word in Oktober 2001
+   uitgebring. OpenOffice.org 1.0 is op 1 Mei 2002 en OpenOffice.org 1.1
+   op 2 September 2003 uitgebring. Op 20 Oktober 2005 het weergawe 2.0
+   gevolg. Die huidige weergawes van StarOffice is gebaseer op
+   Openoffice.org en word deur Sun uitgebrei met die dele wat uit
+   OpenOffice.org verwyderd is (bv. speltoetser, tesourus, databankmodule
+   Adabas D, prente en Wordperfectlêerfilters). Daarnaas kry
+   StarOffice-gebruikers toegang tot 'n professionele hulpburo.
+   (OOo-gebruikers moet beroep doen op die gratis forums vir
+   ondersteuning). Die gebruik van OpenOffice.org-kodes vir die nie
+   oopbron StarOffice is moontelik, omdat Sun naas die GNU Lesser General
+   Public License (LGPL) ook die Sun Industry Standards Source License
+   (SISSL) hanteer.
+
+[wysig] Ander OO.o Ontwikkelings
+
+   OxygenOffice Professional: 'n uitgebreide uitgawe van OpenOffice.org
+   2.3.1, wat ekstra lettertipes en 'n groter illustrasiepakket insluit.
+   (OxygenOffice Build 1)
+
+[wysig] Modules
+
+   Outo-aanvulling in die Nederlandse weergawe van OpenOffice.org Writer.
+   Outo-aanvulling in die Nederlandse weergawe van OpenOffice.org Writer.
+
+   Die pakket bestaan uit die volgende programme:
+     * Writer vir teksdokumente en HTML-dokumente
+     * Calc vir sigblaaie (ontledingstate)
+     * Draw vir tekeninge (vektorgrafieke)
+     * Impress vir voorleggings (vergelykbaar met PowerPoint)
+     * Math vir formules
+     * Base vir databasiswerk
+
+   Hierdie programme kan lêers in verkillende formate open en stoor. Hulle
+   kan ook na PDF uitvoer.
+
+[wysig] Lêerformaat
+
+   Die lêerformaat van OpenOffice.org is deur die Organisasie vir die
+   Bevording van Gestruktureerde Inligingstandaarde (OASIS) as basis vir
+   die nuwe uitwisselingsformaat, OpenDocument, gebruik, wat ook die
+   standaardformaat vanaf weergawe 2.0 van OpenOffice.org is. Die
+   XML-lêers is saamgepers en gebruik hierdeur baie min hardeskyfruimte.
+   Hierdeur kan mens hierdie ook uitpak en die teksinhoud met enige
+   teksredigeerder bekyk of ook met ander programme verander. So is dit
+   byvoorbeeld moontlik om programme te skryf wat outomaties vorms met
+   inhoud van 'n databasis invul. Ook het gebruikers 'n redelike sekerheid
+   dat hulle na baie jare nog sonder probleem lêers sal kan lees, wat vir
+   digitale argiewe 'n belangrike voordeel is, en 'n oorwegende rol
+   gespeel het in party organisasies se oorweging van OpenOffice.org.
+   OpenOffice.org het in Europa 'n aantal belangrike suksesse behaal; tans
+   skakel steeds meer openbare Europese instellings oor na OpenOffice.org.
+   So het die Franse polisie byvoorbeeld aangekondig dat hulle 80 000
+   lessenaarrekenaars van Microsoft Office na OpenOffice.org gaan migreer.
+   Die Europese Unie beplan om die OASIS-dokumentformaat as amptelike norm
+   voor te skryf, waarna alle owerhede in Europa verplig sal wees om hulle
+   dokumente in hierdie formaat te stoor.
+
+   Die OpenDocument-lêerformate is nie identies aan die vorige
+   OpenOffice.org-lêerformate nie. Lêers wat met weergawe 2.0 in
+   OpenDocument-formaat gestoor is, kan nie met weergawe 1.1.4 geopen word
+   nie. Met weergawe 1.1.5 is dit egter moontlik omhierdie nuwer lêers te
+   open, te bewerk en in die formaat van weergawe 1.x te stoor. Omgekeerd
+   kan weergawe 2.0 alle lêerformate van eerdere weergawes verliesvry
+   inlees en wegskryf. Of die geplande ISO-standaard 'n nuwe verandering
+   van die formaat sal inhou, is nog nie duidelik nie.
+
+[wysig] Prestasies in Suidelike Afrika
+
+   Deur die feit dat enigeen OpenOffice.org kan aanpas, uitbrei en
+   vertaal, het OpenOffice.org die eerste kantoorpakket geword wat
+   beskikbaar is in die endemiese tale van Suid-Afrika [1]. Dit is sedert
+   Augustus 2004 in Afrikaans beskikbaar.
+
+[wysig] Eksterne skakels
+
+     * openoffice.org - Amptelike webwerf van die OpenOffice.org-projek
+     * Translate.org.za - die tuiste van die Afrikaanse weergawe van
+       OpenOffice.org, Aanlyn vertaling van OpenOffice.org in
+       Suid-Afrikaanse tale
+     * Afrikaanse speltoetser vir OpenOffice.org
+     * OpenOffice.org Suid-Afrika
+     * Die beginsels van Calc - Wikiboek oor OpenOffice.org (Nederlands)
+
+   Kategorieë: Toepassingsagteware • Vrye sagteware
+

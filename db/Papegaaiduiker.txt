@@ -1,0 +1,80 @@
+Papegaaiduiker
+
+
+                    Papegaaiduiker
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Atlantiese papegaaiduiker
+   'n Atlantiese papegaaiduiker
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Charadriiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Alcidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Fratercula
+                   Brisson, 1760
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                Sien artikel
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die algemene naam papegaaiduiker verwys na enige van die alke spesies
+   in die genus Fratercula (Latyn: klein broer). Die voël het 'n
+   kenmerkende gekleurde snawel tydens die broeiseisoen. Hulle broei in
+   groot kolonies by kustelike afgronde of eilande naby die kus, waar
+   hulle hul nesse in gate in die rots of die grond maak.
+
+   Al drie spesies pagegaaiduikers het groot snawels. Na die broeiseisoen
+   verloor die voëls die kleurvolle buitenste laag van hul snawels en bly
+   daar 'n kleiner en minder kleurvolle snawel agter. Hulle kort vlerke is
+   aangepas om met vlieg-tegniek in die water te swem. In die lug klap
+   hulle hulle vlerke uiters vinnig (tot 100 keer per minuut) en vlieg
+   gereëld baie laag oor die see-oppervlak.
+
+   Daar is tans drie spesies papegaaiduiker:
+     * Fratercula arctica arctica
+     * Fratercula arctica grabae
+     * Fratercula arctica naumanni
+
+   Kategorie: Voëls
+

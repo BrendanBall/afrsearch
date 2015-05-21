@@ -1,0 +1,211 @@
+Litium
+
+
+
+                                      litium – berillium
+                                       H
+                                      Li
+                                      Na
+
+
+                                        Volledige tabel
+
+                                   General
+                Naam, Simbool,
+
+                         Getal
+                                                              Litium, Li, 3
+                         Reeks                               Alkalie metale
+               Groep, Periode,
+
+                          Blok
+                                                               1(IA), 2 , s
+            Digtheid, Hardheid                              535 kg/m^3, 0.6
+                      Voorkoms              silwerig wit/grys
+                               Atoom eienskappe
+                    Atoommassa                                    6.941 ame
+        Atoom radius (bereken)                                 145 (167) pm
+              Kovalente radius                                       134 pm
+          van der Waals radius                                       182 pm
+         Elektron konfigurasie                                     [He]2s^1
+       e^- 'e per energie vlak                                         2, 1
+   Oksidasietoestande (Oksied)                              1 (sterk basis)
+              Kristalstruktuur                           Kubies gesentreerd
+                              Fisiese eienskappe
+          Toestand van materie                     vastestof (nie-magnetic)
+                     Smeltpunt                          453.69 K (180.5 °C)
+                      Kookpunt                          1615 K (1341.85 °C)
+                 Molêre volume                         13.02 ×10^-6 m^3/mol
+             Verdampingswarmte                                145.92 kJ/mol
+               Smeltingswarmte                                     3 kJ/mol
+                      Dampdruk                         1.63 E-8 Pa (453.7K)
+               Spoed van klank                           6000 m/s (293.15K)
+                                Miscellaneous
+           Elektronegatiwiteit                         0.98 (Pauling skaal)
+   Spesifieke warmtekapasiteit                                3582 J/(kg*K)
+   Elektriese geleidingsvermoë                            10.8 10^6/(m·ohm)
+     Termiese geleidingsvermoë                                 84.7 W/(m*K)
+    1^ste ionisasie potentiaal                                 520.2 kJ/mol
+     2^de ionisasie potentiaal                                7298.1 kJ/mol
+     3^de ionisasie potentiaal                               11815.0 kJ/mol
+                            Mees stabiele isotoop
+
+
+   iso    NA   halfleeftyd VM  VE MeV  VP
+   ^6Li 7.5%   Li is stabiel met 3 neutrone
+   ^7Li 92.5%  Li is stabiel met 4 neutrone
+   ^8Li {syn.} 838 ms      β^- 16.004 ^8Be  β^- + 2 α   none
+
+             SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Litium is die chemiese element met die simbool Li en atoomgetal van 3.
+   In die periodieke tabel kom dit voor in groep 1, tussen die alkalie
+   metale.
+
+   Litium in sy suiwer vorm is 'n silwerwit metaal, wat vinnig sy glans
+   verloor en oksideer in lug en water. Dit is die ligste vastestof
+   element by STD en word primêr gebruik vir hitte-oordrag allooie, in
+   batterye en dien as 'n bestandeel in sommige dwelms wat bekend staan as
+   gemoedstabiliseerders.
+
+   Inhoud
+
+        * 1 Kenmerkende Eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorkomende maatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende Eienskappe
+
+   Litium is die ligste metaal met 'n digtheid van slegs die helfte van
+   water. Soos alle alkalie metale, reageer litium maklik met water en kom
+   dus nie vrylik in die natuur voor nie as gevolg van sy hoë
+   reaktiwiteit. Litium is nieteenstaande minder reaktief as die chemies
+   soortgelyk element natrium. Wanneer die metaal oor 'n vlam gehou word
+   gee dit aanvanklik 'n opvallende karmosynrooi kleur vlam en namate dit
+   helderder brand kry die vlam 'n helderwit kleur. Dit is ook 'n
+   univalente element.
+
+[wysig] Aanwendings
+
+   As gevolg van sy hoë spesifieke warmtekapasiteit (die hoogste van enige
+   vastestof, word litium dikwels aangewend in hitte-oordrag toepassings.
+   Dit is ook 'n belangrike anode materiaal vir batterye as gevalg van sy
+   hoë elektrochemiese potentiaal. Ander gebruike sluit in:
+     * Litium soute soos litium karbonaat (Li[2]CO[3]), litium sitraat en
+       litium orotaat is gemoedstabiliseerders wat gebruik word in die
+       behandeling van bipolêre stoornisse. Litium kan ook
+       anti-depressante uitwerking hê.
+     * Litium chloried en litium bromied is buitengewoon higroskopies en
+       word dikwels as droogmiddel gebruik.
+     * Litium stearaat is 'n algemene veeldoel hoë-temperatuur
+       smeermiddel.
+     * Litium is 'n allooimiddel wat gebruik word in die sintese van
+       organiese stowwe en vind ook toepassings in die kern energie
+       bedryf.
+     * Litium word soms gebruik in glase en keramieke. Litium is
+       byvoorbeeld gebruik in die glas vir die 200-duim teleskoop by Mt.
+       Palomar.
+     * Litium hidroksied word ingespan om koolstofdioksied van lug te skei
+       in ruimtevaartuie en duikbote.
+     * Allooie van die metaal met aluminium, kadmium, koper en mangaan
+       word gebruik om hoë werkverrigting vliegtuig onderdele te
+       vervaardig.
+     * Litium niobaat word baie gebruik in die telekommunikasie markte vir
+       draagbare telefone en optiese moduleerders.
+
+[wysig] Geskiedenis
+
+   Litium (Grieks lithos, wat klip beteken) is in 1817 ontdek deur Johann
+   Arfvedson. Arfvedson het die nuwe element in die minerale spodumeen en
+   lepidoliet in 'n petaliet erts ontdek LiAl(Si[2]O[5])[2], wat hy
+   geanaliseer het vanaf die eiland Utö in Swede. In 1818 was Christian
+   Gmelin die eerste om op te merk dat litium soute 'n vlam helder rooi
+   kleur. Beide mans het probeer om die element vanuit sy soute te isoleer
+   maar het egter misluk.
+
+   Die element is eers later geïsoleer nadat W.T. Brande en Sir Humphrey
+   Davy dit deur middel van elektroliese van litiumoksied reggekry het.
+   Kommersiële produksie van litium metaal is in 1923 deur die Duitse
+   maatskappy Metallgesellschaft AG moontlik gemaak deur gebruik te maak
+   van die elektroliese van 'n mengsel van gesmelte litiumchloried en
+   kaliumchloried.
+
+   Die naam "litium" kry skynbaar sy oorsprong uit die feit dat dit in 'n
+   mineraal ontdek is terwyl ander algemene alkalie metale in plant reste
+   ontdek is.
+
+[wysig] Verspreiding
+
+   Litiumkorrels
+   Litiumkorrels
+
+   Litium kom wyd verspreid voor maar kom nie in sy suiwer vorm in die
+   natuur voor nie. Vanweë sy hoë reaktiwiteit, word dit altyd gevind in
+   verbinding met een of meer elemente of stowwe. Dit maak 'n klein deel
+   uit van byna alle stollingsgesteentes en kan ook in baie natuurlike
+   mineraalbronne gevind word.
+
+   Na die beïndiging van die Tweede Wêreldoorlog het die produksie van
+   litium baie toegeneem. Die metaal kan geskei word vanuit ander elemente
+   in stollingsgesteentes en word ook onttrek van die water van
+   mineraalbronne. Lepidoliet, spodumeen, petaliet en ambligoniet is die
+   belangriker minerale wat litium bevat.
+
+   In die Verenigde State word litium herwin vanuit die mineraalbronne in
+   die droë Searles meer, in Kalifornië, asook by plekke in Nevada en
+   elders. Die metaal, wat 'n silwerige voorkoms het soos natrium, kalium
+   en ander lede van die alkalie metaal reeks, word elektrolities
+   geproduseer vanuit 'n mengsel van gesmelte litium- en kaliumchloried.
+   Die metaal het ongeveer VSA$ 300 per pond gekos in 1997.
+
+[wysig] Isotope
+
+   Litium wat natuurlik voorkom bestaan uit twee stabiele isotope Li-6 en
+   Li-7 met Li-7 wat die meeste voorkom (92.5%). Ses radio-isotope is
+   geïdentifiseer met Li-8 die mees stabiele isotoop met 'n halfleeftyd
+   van 838 ms en Li-9 met 'n minder as 8.5 ms halfleeftyd.
+
+   Die isotope van litium wissel in atoom massa van 4.027 emu (Li-4) tot
+   11.0438 emu (Li-11). Die primêre verval modus voor die mees stabiele
+   isotoop (Li-7), bereik word, is proton emissie (met een geval van alpha
+   verval) en die primêre modus daarna is beta emissie (met 'n klein
+   bietjie neutron emissie). Die primêre verval produkte voor Li-7 is
+   element 2 (helium) isotope en die primêre produkte daarna is element 4
+   (berillium) isotope.
+
+   Litium-7 is een van die oerelemente (geproduseer deur die groot knal
+   nukleosintese). Litium isotope skei van mekaar tydens 'n wye
+   verskeidenheid natuurlike prosesse, insluitend mineraalvorming
+   (chemiese presipitasie), metabolisme, ioon uitruiling (Li ruil met
+   magnesium en yster in oktahedrale liggings in klei minerale, waar Li-6
+   voorkeur geniet bo Li-7), hiperfiltrasie en rotsverandering.
+
+[wysig] Voorkomende maatreëls
+
+   Litium in suiwer vorm is, soos ander alkalie-metale, hoogs vlambaar en
+   effe plofbaar wanneer aan lug blootgestel word en in besonder aan
+   water. Litium metaal is ook baie korrosief en vereis spesiale hantering
+   om velkontak te vermei. Litium moet gestoor word in 'n nie-reaktiewe
+   stof soos nafta of 'n koolwaterstof. Litium speel geen belangrike rol
+   in biologiese prosesse nie en word as effe giftig beskou. Wanneer as 'n
+   medisyne gebruik word moet die konsentrasie in die bloed versigtig
+   gemoniteer word.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Lithium
+
+[wysig] Eksterne skakels
+
+     * USGS: Lithium Statistics and Information
+     * WebElements.com – Lithium
+     * EnvironmentalChemistry.com – Lithium
+     * It's Elemental – Lithium
+
+   Kategorie: Chemiese elemente
+

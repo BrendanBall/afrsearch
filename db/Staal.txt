@@ -1,0 +1,174 @@
+Staal
+
+
+   Staal is 'n legering wat hoofsaaklik uit yster bestaan met 'n
+   koolstof-inhoud tussen 0.2 en 2.04% op 'n massabasis
+   (C:1000–10,8.67Fe), afhangende van die graad. Koolstof is die mees
+   kostedoeltreffende legeringsmetaal vir yster. Verskeie ander
+   legeringselemente word egter ook gebruik soos mangaan, chroom, vanadium
+   en wolfram.^[1] Koolstof en ander elemente dien as verhardingsmiddels
+   en verhoed dat die dislokasies van die ysteratoom kristalstruktuur
+   oormekaar gly. Deur die hoeveelhede en die vorm waarin die
+   legeringselemente in die staal voorkom kan eienskappe soos die
+   hardheid, smeebaarheid en treksterkte van die staal beheer word.
+   Die staalkabel van 'n koolmyn se skag.
+   Die staalkabel van 'n koolmyn se skag.
+
+   Staal met 'n verhoogde koolstofinhoud kan harder en sterker gemaak word
+   as yster, maar word dan ook meer bros. Die maksimum oplosbaarheid van
+   koolstof in yster (in die austenitiese gebied) is 2.14% op 'n
+   gewigsbasis en kom voor by 1149 °C; hoër konsentrasies van koolstof of
+   laer temperature sal sementiet tot gevolg hê. Legerings met 'n hoër
+   koolstofinhoud as hierdie staan bekend as gietyster as gevolg van hulle
+   laer smeltpunt en gietvermoë. Staal kan ook van smeeyster onderskei
+   word wat slegs 'n klein hoeveelheid vreemde elemente bevat, maar soveel
+   as 1-3% op 'n gewigsbasis slak in die vorm van verlengde partikels wat
+   in een rigting voorkom wat 'n kenmerkende grein in die yster
+   veroorsaak. Smeeyster is meer roesbestand as staal en kan makliker
+   gesweis word.
+
+   Ten spyte daarvan dat staal lank voor die Renaissance met behulp van
+   verskeie ondoeltreffende metodes vervaardig is, het die gebruik daarvan
+   eers algemeen geword nadat meer doeltreffende vervaardigingsmetodes in
+   die 17^de eeu ontwikkel is. Met die ontdekking van die Bessemer-proses
+   in die middel 19^de eeu het staal 'n betreklik goedkoop,
+   massavervaardigde materiaal geword. Verdere verfynings van die proses,
+   soos die Linz-Donawitz verwerkingstegniek oftewel die basiese
+   suurstofproses, het die vervaardigingskoste verder verlaag en ook die
+   kwaliteit van die metaal verhoog. Vandag is staal 'n algemene
+   boumateriaal in die wêreld en is 'n belangrike komponent in geboue,
+   gereedskap, voertuie en huishoudelike- en ander toebehore.
+
+   Moderne staal word geïdentifiseer deur verskeie grade wat deur
+   verskillende standaarde organisasies daargestel word.
+
+[wysig] Materiaaleienskappe
+
+   Yster word soos die meeste ander metale gewoonlik nie in as 'n
+   onverbonde element in die aarde se kors aangetref nie.^[2] Yster word
+   slegs in verbinding met suurstof of swael in die aarde se kors gevind.
+   Tipiese ysterbevattende minerale sluit Fe[2]O[3]-die vorm waarin
+   ysteroksied in die mineraal hematiet voorkom en FeS[2]—piriet.^[3]
+   Yster word ontgin vanuit erts deur die suurstof te verwyder deur dit
+   met 'n ander chemiese element te verbind soos koolstof. Die smeltproses
+   is eers toegepas op metale met laer smeltpunte. Koper smelt net bokant
+   1000 °C, terwyl tin rondom 250 °C. Daarteenoor smelt gietyster wat meer
+   as 1.7% koolstof in legering bevat by ongeveer 1 370 °C. Al hierdie
+   temperature kon bereik word met antieke metodes wat vir ten minste 6000
+   jaar lank in gebruik was (sedert die bronstydperk). Aangesien die
+   oksidasietempo baie vinnig toeneem na 800 °C, is dit belangrik dat die
+   smeltproses in 'n omgewing plaasvind waar daar min suurstof is.
+
+   Anders as koper en tin los koolstof geredelik op in vloeibare yster,
+   wat meebring dat die smeltproses 'n legering tot gevolg het wat te veel
+   koolstof bevat om staal genoem te word.^[4] Selfs in die nouer
+   konsentrasiebestek van staal, kan die mengsels van koolstof en staal 'n
+   verskeidenheid strukture vorm waarvan die eienskappe merkbaar verskil.
+   Dit is baie belangrik dat 'n mens hierdie verskille verstaan om goeie
+   kwaliteit staal te kan vervaardig. By kamertemperatuur is die mees
+   stabiele vorm van yster die liggaamsgesentreerde kubiese struktuur
+   ferriet of α-yster, wat 'n betreklik sagte metaal is wat slegs 'n klein
+   hoeveelheid koolstof kan oplos (nie meer as 0.021 % op 'n massabasis
+   teen 910 °C). Bo 910 °C ondergaan ferriet 'n fase-oorgang vanaf die
+   liggaamsgesentreerde kubiese struktuur na 'n vlakgesentreerde kubiese
+   struktuur wat austenitiese of γ-yster genoem word, wat ook 'n sagte
+   metaal is maar beduidend meer koolstof kan oplos (soveel as 2.03 % op
+   'n massabasis teen 1154 °C)^[5]
+
+   Aangesien koolstofryke austeniet verkoel, poog die mengsel om terug te
+   keer na die ferrietfase wat 'n oormaat koolstof tot gevolg het. Een
+   manier waarop die koolstof die austenietfase kan verlaat is vir die
+   sementiet om uit die mengsel te presipiteer wat yster agterlaat wat
+   suiwer genoeg is om ferriet te vorm en 'n gevolglike
+   sementiet-ferrietmengsel tot gevolg het. Sementiet is 'n
+   stoichiometriese fase met die chemiese formule Fe[3]C. Sementiet vorm
+   in gebiede waar die koolstofinhoud hoër is terwyl ander gebiede daar
+   rondom na die ferrietfase terugkeer. Sodoende word herhalende patrone
+   gevorm wat aanleiding gee tot lae wat as perliet (Fe[3]C:6.33Fe) bekend
+   staan vanweë die pêrelagtige voorkoms of die soortgelyke maar minder
+   aantreklike bainietfase.
+   'n Yster-koolstof fase-diagram, toon die toestande wat nodig is vir die
+   verskillende fases om te vorm aan.
+   'n Yster-koolstof fase-diagram, toon die toestande wat nodig is vir die
+   verskillende fases om te vorm aan.
+
+   Die belangrikste polimorfiese vorm is waarskynlik martensiet, 'n
+   chemies metastabiele stof wat ongeveer vier keer sterker is as ferriet.
+   'n Minimum van 0.4 massapersent koolstof (C:50Fe) word benodig om
+   martensiet te vorm. Wanneer austeniet geblus word om martensiet te
+   vorm, word die koolstof op die plek "vasgevang" wanneer die
+   selstruktuur oorskakel vanaf 'n vlakgesentreerde kubiese tot 'n
+   liggaamsgesentreerde kubiese struktuur. Die koolstofatome is veels te
+   groot om in die interstellêre ruimtes te pas en verwring die
+   selstruktuur na 'n liggaamsgesentreerde tetragonale struktuur.
+   Martensiet en austeniet het 'n identiese chemiese samestelling. Daarom
+   vereis dit uiters min termiese aktiveringsenergie om te vorm.
+
+   Die hittebehandelingsproses vir die meeste soorte staal behels die
+   verhitting van die legering totdat austeniet vorm en die daaropvolgende
+   blus van die warm metaal in water of olie, wat dit so vinnig afkoel dat
+   die omskakeling na ferriet of perliet nie genoegsame tyd het om te vorm
+   nie. Die omskakeling na martensiet in teenstelling gebeur bykans
+   onmiddelik vanweë die laer aktiveringsenergie.
+
+   Martensiet het 'n laer digtheid as austeniet, dus het die omskakeling
+   tussen die twee fases 'n verandering in volume tot gevolg, wat in
+   hierdie geval 'n uitsetting tot gevolg het. Interne spanning van
+   hierdie uitsetting veroorsaak dat die martensietkristalle saamgepers
+   word en trekspanning word op die oorblywende ferriet uitgeoefen met 'n
+   beduidende hoeveelheid skuifspanning op beide fases. As die blus nie
+   behoorlik gedoen word nie kan die spannings veroorsaak dat die
+   onderdeel uitmekaarspat wanneer dit afkoel; en indien nie kan dit
+   werksverharding en ander mikroskopiese gebreke tot gevolg hê. Dit is
+   algemeen dat bluskrake vorm wanneer staal met water geblus word, al is
+   dit nie altyd sigbaar nie.^[6]
+   Korrels Ystererts vir die vervaardiging van staal.
+   Korrels Ystererts vir die vervaardiging van staal.
+
+   Op hierdie stadium is die koolstofinhoud hoog genoeg om 'n beduinde
+   hoeveelheid konsentrasie martensiet te vorm, wat 'n uiters harde dog
+   bros materiaal lewer. Dikwels word staal aan 'n verdere lae temperatuur
+   proses blootgestel om van die martensiet te vernietig (deur genoeg tyd
+   toe te laat vir sementiet om te vorm) en help ook om die interne
+   spannings en gebreke te verminder. Dit maak die staal sagter en lewer
+   'n meer smeebare en breukbestande metaal. Hierdie stap waarin tyd so 'n
+   belangrike deel speel word tempering genoem en lewer getemperde
+   staal.^[7]
+
+   Ander materiale word dikwels by die yster/koolstofmengsel gevoeg om die
+   uiteindelike eienskappe te beheer. Nikkel en mangaan in staal verleen
+   daaraan 'n hoër treksterkte en maak austeniet chemies meer stabiel,
+   chroom verhoog die hardheid en smeltpunt en vanadium verhoog ook die
+   hardheid terwyl dit metaalvermoeiïing verminder. Groot hoeveelhede
+   chroom en nikkel (dikwels 18% en 8% respektiewelik) word bygevoeg om
+   vlekvrye staal te lewer wat 'n harde oksied op die metaaloppervlak vorm
+   en korrosie inhibeer. Wolfram vertraag die vorming van sementiet wat
+   meer martensiet laat vorm teen laer blustempos en lewer snelstaal. Aan
+   die ander kant maak swael, stikstof en fosfor staal brosser en daarom
+   moet hierdie elemente vanuit die erts verwyder word tydens
+   verwerking.^[8]
+
+[wysig] Verwysings
+
+    1. ^ Ashby, Michael F.; & David R. H. Jones [1986] (1992). Engineering
+       Materials 2, with corrections (in English), Oxford: Pergamon Press.
+       ISBN 0-08-032532-7.
+    2. ^ Winter, Mark. "Periodic Table: Iron." The University of
+       Sheffield. URL besoek op 2007-02-28.
+    3. ^ F. Brookins, Theo. (November 1899). "Common Minerals and Valuable
+       Ores". Birds and All Nature 6 (4). Retrieved on 2007-02-28.
+    4. ^ "Smelting". Britannica. (2007). Encyclopedia Britannica.
+       Retrieved on 2007-02-28.
+    5. ^ Mittemeijer, E. J.; Slycke, J. T.. "Chemical potentials and
+       activities of nitrogen and carbon imposed by gaseous nitriding and
+       carburising atmospheres." (PDF) Surface Engineering 1996 Vol. 12
+       No. 2. pp. 156 URL besoek op 2006-08-10.
+    6. ^ "Quench hardening of steel." INI International. URL besoek op
+       2007-02-28.
+    7. ^ Pye, David. "Steel Heat Treating." Gardner Publications, Inc..
+       URL besoek op 2007-02-28.
+    8. ^ "Alloying of Steels." Metallurgical Consultants: 2006-06-28. URL
+       besoek op 2007-02-28.
+
+   Kategorieë: Legerings • Metallurgie • Konstruksie
+

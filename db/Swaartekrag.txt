@@ -1,0 +1,65 @@
+Swaartekrag
+
+
+   Swaartekrag of gravitasiekrag is 'n aantrekkingskrag wat twee massa's
+   op mekaar uitoefen. Swaartekrag is die oorsaak van die afwaartse krag
+   wat alle liggame op aarde ondervind. Swaartekrag kan egter ook oor 'n
+   groot afstad uitgeoefen word soos byvoorbeeld tussen die aarde en die
+   maan en selfs tussen sterrestelsels. Dieselfde swaartekrag wat daarvoor
+   verantwoordelik is dat 'n appel op die grond val, sorg ook daarvoor dat
+   die maan of 'n satelliet in sy wentelbaan om die aarde bly en dat die
+   aarde in sy baan om die son bly.
+
+[wysig] Swaartekrag op aarde
+
+   Die swaartekrag op aarde kan beskryf word deur Newton se wet. Om die
+   aarde bestaan daar 'n swaartekragveld wat as 'n vektorveld beskryf kan
+   word. Elke voorwerp met 'n bepaalde massa in die veld het 'n
+   swaartekragpotensiaal.
+
+   Die swaartekragwette van Newton is op sy eenvoudigste vir puntmassas
+   maar is deur Newton geformuleer om voorsiening te maak vir bolvormige
+   liggame. Op aarde moet daarmee rekening gehou word dat die aardbol nie
+   homogeen is nie (die massa is nie oral gelykmatig versprei nie). Daarom
+   is die swaartekrag op sommige plekke op aarde ietwat groter as op ander
+   plekke.
+
+   Verder sorg die rotasie van die aarde om sy as daarvoor dat alle
+   voorwerpe op aarde ook 'n middelpuntvlietende krag het wat op hulle
+   inwerk. Hoe verder 'n voorwerp van die as af is hoe groter is hierdie
+   middelpuntvlietende krag. Op die ewenaar is hierdie krag op sy grootste
+   en by die pole is dit nul. Die netto krag wat 'n voorwerp dus weens
+   swaartekrag ondervind sal dus groter wees hoe nader die voorwerp aan
+   die pole is (m.a.w. hoe groter die breedtegraad).
+
+   Laastens is die vorm van die aarde effens afgeplat by die pole. Dit
+   beteken dat die pole nader aan die middelpunt van die aarde is en
+   daarom is die swaartekrag daar ook effens groter.
+
+[wysig] Geskiedenis van die studie van swaartekrag
+
+   Daar is min bekend oor die ondersoek na swaartekrag in die antieke tyd;
+   die Griekse filosowe het egter soms daaroor gepraat. Aristoteles het
+   byvoorbeeld gemeen dat alles na onder val omdat daar in die middel van
+   die aarde die "natuurlike plek" van materie is in die sogenaamde leer
+   van die natuur. Tydens die wetenskaplike omwenteling was Galileo
+   Galilei die eerste om swaartekrag te ondersoek deur middel van
+   waarnemings van die bane van hemelliggame en eksperimente op aarde.
+
+   Isaac Newton het die belangrikheid van swaartekrag in die sterrekunde
+   raakgesien. Hy het met sy swaartekragwet die bane van die planete
+   verklaar wat Nikolaas Copernicus, Johannes Kepler en Tycho Brahe vroeër
+   reeds beskryf het maar nie kon verklaar nie. Daar bestaan 'n welbekende
+   storie dat Newton sy inspirasie gekry het toe 'n appel op sy kop geval
+   het toe hy onder 'n vrugteboord onder 'n boom 'n uiltjie geknip het,
+   dit is egter onseker of die gebeurtenis wel plaasgevind het. Hy het ook
+   besef dat die maan inderwaarheid voortdurend na die aarde val, maar
+   deur sy hoë snelheid nooit die aarde tref nie maar voortdurend om hom
+   wentel. Newton het daarom ook gegis dat dit moontlik behoort te wees om
+   'n kanonkoël in 'n wentelbaan te plaas as 'n mens dit teen 'n voldoende
+   hoë snelheid (sien ontsnappingssnelheid) kon skiet. Tegnies gesproke
+   sou dit meer akkuraat wees om te sê dat die maan en aarde beide rondom
+   een gemeenskaplike punt wentel. Die uitwerking van die maan se
+   swaartekrag op die aarde kan duidelik gesien word aan die getye.
+   Kategorie: Fisika
+

@@ -1,0 +1,184 @@
+Glagolitiese alfabet
+
+
+   ’n Bladsy uit die 10de-11de eeu geskryf in die Glagolitiese skrif. Dis
+   in 1843 gevind in die Zograf-klooster
+   ’n Bladsy uit die 10de-11de eeu geskryf in die Glagolitiese skrif. Dis
+   in 1843 gevind in die Zograf-klooster
+
+   Die Glagolitiese alfabet is die oudste skrif wat vir ’n Slawiese taal
+   ontwerp is. Dis omstreeks 862-863 ontwerp vir Oud-Kerkslawies deur twee
+   broers, die monnike Cyrillus en Methodius. Die naam is afgelei van die
+   Slawiese woorde glagol (woord) en glagolati (praat). Die Glagolitiese
+   alfabet word nie meer gebruik nie. By die Oosters-Ortodokse Slawiërs is
+   dit vervang deur die eenvoudiger Cyrilliese alfabet en by die
+   Rooms-Katolieke Slawiërs deur die Latynse alfabet.
+
+   Inhoud
+
+        * 1 Vorm
+             + 1.1 Herkoms
+             + 1.2 Glagolities teenoor Cyrillies
+             + 1.3 Koppelletters
+        * 2 Geskiedenis
+        * 3 Interessante feite
+        * 4 Literatuur
+        * 5 Bronne
+
+[wysig] Vorm
+
+   beeld: glagolica.gif
+
+[wysig] Herkoms
+
+   Die Glagolitiese alfabet is geïnspireer deur verskeie alfabette plus
+   drie Christelike simbole: die kruis, die sirkel (as simbool van
+   volmaaktheid) en die driehoek (as simbool van die Drie-eenheid).
+
+[wysig] Glagolities teenoor Cyrillies
+
+   Teken Naam Uitspraak Oorsprong Moderne Cyrillies
+   az az /a/ Die kruisteken, of Hebreeuse א (alef) (А а)
+   buky boeki /b/ Onbekend, Samaritaanse /m/ is die omgekeerde teken (Б б)
+   vĕdĕ wĕdĕ /v/ Waarskynlik van die Latynse V (В в)
+   glagoli glagoli /g/ Kursiewe Griekse γ (gamma) (Г г)
+   dobro dobro /d/ Griekse Δ Delta (vgl. /v/ as omgekeerde /d/) (Д д)
+   estъ estъ /ɛ/ Miskien Samaritaanse /he/ of Griekse nommer sampi (900)
+   (Е е)
+   živĕte žiwĕte /ʒ/ Onbekend (Ж ж)
+   #675;elo ʣelo /ʣ/ Onbekend (Ѕ ѕ)
+   zemlja zemlja /z/ Waarskynlik variant van Griekse θ (thèta) (З з)
+   iže iže /i/ Waarskynlik van Griekse ι iota met diëresis (И и)
+   i i /i/ Onbekend (І і)
+   ģerv ģerf /ʤ/ Onbekend (Ћ ћ)
+   kako kako /k/ Hebreeus ק (qof) (К к)
+   ljudie ljoedie /l/ Waarskynlik kursiewe Griekse λ (lambda) (Л л)
+   myslite mislite /m/ Kursiewe Griekse μ (mu) (М м)
+   našь našь /n/ Onbekend (Н н)
+   onъ onъ /ɔ/ Onbekend (О о)
+   pokoi pokoi /p/ Dalk variant van vroeg-Griekse π (pi) (П п)
+   rьci rьci /r/ Dalk verwant aan kursiewe Griekse ρ (rho) (Р р)
+   slovo slowo /s/ Onbekend (С с)
+   tvrьdo twrьdo /t/ Dalk die kruisbalk van kursiewe Griekse τ (tau) (Т т)
+   ukъ oekъ /u/ Ligatuur van onъ en ižica (У у)
+   frьtъ frьtъ /f/ Variant van Griekse Φ (phi) (Ф ф)
+   xĕrъ xĕrъ /x/ Onbekend, vergelyk /g/ en Latynse h (Х х)
+   otъ otъ /o/ Ligatuur van onъ en sy omgekeerde (Ѿ ѿ)
+   šta šta /ʃt/ Ligatuur van ša en tvrьdo (Щ щ)
+   ci ci /ʦ/ Hebreeuse צ (tsade) (Ц ц)
+   Cherv črьwь /ʧ/ Onbekend (Ч ч)
+   ša ša /ʃ/ Hebreeuse ש (shin) (Ш ш)
+   erъ erъ /ъ/, /ə/ Onbekend (Ъ ъ)
+   erь erь /ь/ Onbekend (Ь ь)
+   jatь jatь /ě/ Dalk van ’n epigrafiese Griekse Α (alfa) (Ѣ ѣ)
+   ju joe /ju/ Onbekend (Ю ю)
+   Nasaliteit Nasaliteit N Voorste nasaalvokaal, van Grieks Ε (epsilon) (Ѧ
+   ѧ)
+   Jus Malij Nasale e /ę/ Voorste nasaalvokaal, ligatuur van estъ en
+   nasaliteit (Ѩ ѩ)
+   Jus Bolshoj Nasale o /ơ/ Agterste nasaalvokaal, ligatuur van onъ en
+   nasaliteit (Ѫ ѫ)
+   Jus Bolshoj Jotirovannij Nasale ö /jơ/ Ligatuur van ’n onbekende letter
+   en nasaliteit (Ѭ ѭ)
+   fita fita /f/ Van Griekse θ (thèta) (Ѳ ѳ)
+   ižica ižica /v/, /i/ Ligatuur van iže en erь (Ѵ ѵ)
+
+[wysig] Koppelletters
+
+   In die Glagolitiese alfabet word sommige klanke weergegee deur
+   ligature, of koppelletters: twee of meer afsonderlike letters wat
+   gekombineer word om ’n nuwe letter te vorm. ’n Voorbeeld van ’n
+   ligatuur is die letter u (ukъ), wat saamgestel is uit die letters onъ
+   (o) en ižica (laasgenoemde is op sy beurt weer saamgestel uit i en erь
+   (ị). Vanweë die vorm van die Glagolitiese letters was dit maklik om
+   sulke ligature te maak. Dit kom ook in die Latynse skrif voor,
+   byvoorbeeld æ en œ.
+
+[wysig] Geskiedenis
+
+   In Morawië was daar in die 9e eeu sendelinge uit talle lande (sowel
+   Rooms-Katolieke as Oosters-Ortodokse) en dit het groot verwarring
+   veroorsaak. In die hagiografie van Methodius (die Vita Methodii) word
+   genoem hoe die destydse Morawiese heerser Rostislaf die jong Bisantynse
+   keiser Michail III versoek het om Slawiessprekende sendelinge na
+   Morawië te stuur om die evangelie in die plaaslike taal te verkondig in
+   plaas van in Latyn. Die patriarg van Konstantinopel, Photius, vra
+   Cyrillus toe om na Morawië te gaan. Net voor sy vertrek het Cyrillus ’n
+   Slawiese alfabet ontwerp. Dit is later die Glagolitiese alfabet genoem.
+   Die eerste stuk wat Cyrillus met sy nuwe alfabet in Slawies vertaal
+   het, is die Evangelie van Johannes uit Grieks.
+
+   Hy en sy broer Methodius ervaar egter groot teenstand in Morawië van
+   die ander kerke. Die heidendom was ook in daardie tyd nog diep gesetel
+   in die plaaslike bevolking. Na net veertig maande verlaat die twee
+   broers Morawië en vertrek na Bisantium saam met hul Morawiese
+   leerlinge.
+
+   Op weg terug na Bisantium stop die geselskap in Blatograd (Duits:
+   Mosaburg), hoofstad van die Romeinse provinsie Pannonië, in die huidige
+   Hongarye. Hier word die broers hartlik verwelkom en Kocel, die hertog
+   van Pannonië, is baie geesdriftig oor die nuwe alfabet. Hy stuur vyftig
+   studente na Cyrillus en Methodius om die letters te leer. Ná die broers
+   se dood word hul leerlinge gearresteer, verban of selfs as slawe
+   verkoop. Vanweë die verbanning versprei die Glagolitiese alfabet oor
+   die hele Balkan, van die huidige republiek Masedonië tot selfs in
+   Rusland.
+
+   In hierdie tyd ontstaan ook die Cyrilliese alfabet, wat op die Griekse
+   skrif gebaseer is en waarskynlik deur een van Methodius se studente
+   ontwerp is. Dit is aansienlik eenvoudiger as die Glagolitiese alfabet,
+   veral vir mense wat vertroud is met die Griekse letters. Dit dra
+   daartoe by dat die Cyrilliese alfabet die Glagolitiese een vinnig
+   verdring.
+
+   In die weste van Kroasië bly laasgenoemde egter langer in gebruik en
+   hier ontwikkel die ronde vorms van die alfabet tot ’n meer vierkantige
+   variasie, die Kroaties-Glagolitiese alfabet.
+
+[wysig] Interessante feite
+
+     * Die Glagolitiese alfabet is gebruik in die IMAX-3D-film Alien
+       Adventure as die skrif van buiteruimtelike wesens, wie se leier se
+       naam Cyrillus is.
+     * Die alfabet is ook gebruik in The Adrenalini Brothers, ’n reeks
+       tekenprente van ’n minuut lank, as alfabet van die fiktiewe land
+       Réndøosîa.
+
+[wysig] Literatuur
+
+     * Fucic, Branko: Glagoljski natpisi. (In: Djela Jugoslavenske
+       Akademije Znanosti i Umjetnosti, knjiga 57.) Zagreb, 1982. 420 p.
+     * Fullerton, Sharon Golke: Paleographic Methods Used in Dating
+       Cyrillic and Glagolitic Slavic Manuscripts. (In: Slavic Papers No.
+       1.) Ohio, 1975. 93 p.
+     * Gosev, Ivan: Rilszki glagolicseszki lisztove. Szofia, 1956. 130 p.
+     * Jachnow, Helmut: Eine neue Hypothese zur Provenienz der
+       glagolitischen Schrift - Überlegungen zum 1100. Todesjahr des
+       Methodios von Saloniki. In: R. Rathmayr (Hrsg.): Slavistische
+       Linguistik 1985, München 1986, 69-93.
+     * Jagic, Vatroslav: Glagolitica. Würdigung neuentdeckter Fragmente,
+       Wien, 1890.
+     * Kiparsky, Valentin: Tschernochvostoffs Theorie über den Ursprung
+       des glagolitischen Alphabets In: M. Hellmann u.a. (Hrsg.):
+       Cyrillo-Methodiana. Zur Frühgeschichte des Christentums bei den
+       Slaven, Köln 1964, 393-400.
+     * Miklas, Heinz (Hrsg.): Glagolitica: zum Ursprung der slavischen
+       Schriftkultur, Wien, 2000.
+     * Steller, Lea-Katharina: A glagolita írás In: B.Virághalmy, Lea:
+       Paleográfiai kalandozások. Szentendre, 1995. ISBN 9634509223
+     * Vais, Joseph: Abecedarivm Palaeoslovenicvm in usum glagolitarum.
+       Veglae, [Krk], 1917. XXXVI, 74 p.
+     * Vajs, Josef: Rukovet hlaholske paleografie. Uvedení do knizního
+       písma hlaholskeho. V Praze, 1932. 178 p, LIV. tab.
+
+[wysig] Bronne
+
+     * Alexander M. Schenker, The Dawn of Slavic. An Introduction to
+       Slavic Philology, New Haven & London: Yale University Press, 1995.
+       ISBN 0300058462
+     * Marijke Delemarre e.a. (red.), Cyrillische Letterkunde. Bijdragen
+       over de geschiedenis, uiterlijk en bruikbaarheid van het Russische
+       alfabet, Rotterdam: Post Scriptum, 1993. ISBN 9080121312}}
+
+   Kategorieë: Skryfstelsels • Slawiese tale
+

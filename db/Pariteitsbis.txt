@@ -1,0 +1,69 @@
+Pariteitsbis
+
+
+   In rekenaarwese en telekommunikasie is 'n pariteitsbis 'n binêre syfer
+   wat 'n aanduiding gee of die voorafgaande databisse wat gelyk aan 1 is,
+   ewegetalle of onewegetalle is. As 'n enkele bis tydens versending
+   verander word sal die boodskap se pariteit verander word en kan die
+   fout sodoende opgespoor word (Let wel dat die pariteitsbis self ook
+   verander kan word!). Die mees algemene konvensie of pariteitskema is
+   dat 'n pariteitsbis van 1 daarop dui dat daar 'n ongelyke aantal 1^e in
+   die data voorkom en 'n pariteitsbis van 0 dui daarop dat 'n ewe aantal
+   1^e in die data voorkom. Dit is 'n eenvoudige metode van foutsporing en
+   verg slegs XOR-hekke om die pariteitsbis te skep. Hierdie afvoer kan
+   maklik by die data gevoeg word deur van 'n skuifregister gebruik te
+   maak.
+
+[wysig] Gebruike
+
+   In serie dataversending, is dit algemene gebruik om die data te
+   rangskik as 7 databisse, 'n ewe pariteitsbis en een of twee stopbisse.
+   Ewe pariteit beteken dat die totale aantal 1-bisse 'n ewegetal is.
+   Hierdie formaat akkomodeer die 7-bis ASCII karakterstel netjies in 'n
+   8-bis greep. Ander formate is egter ook moontlik.
+
+   In serie-kommunikasie verband word die pariteit gewoonlik deur die
+   koppelvlak hardeware (bv. 'n UART) geskep en nagegaan en wanneer dit
+   ontvang word, word die resultaat aan die SVE beskikbaar gestel. Die
+   herstel van foute word gewoonlik gedoen deur data te herversend; 'n
+   proses wat normaalweg deur programmatuur beheer word (bv. die
+   bedryfstelsel se Toevoer/afvoer programme).
+
+[wysig] Eenvoudige foutsporing
+
+   Pariteitsbisse word hoofsaaklik gebruik as 'n eenvoudige vorm van
+   oortolligheidstoets. 'n Enkele pariteitsbis kan die verandering van
+   enige onewe aantal bisse opspoor (insluitend die algemene geval waar
+   slegs een bis verander is), maar sal nie 'n fout opspoor in die geval
+   waar 'n ewe aantal bisse verander is nie. Dit bevat ook nie voldoende
+   inligting om foutregstelling moontlik te maak nie.
+
+   As gevolg van die eenvoud daarvan word pariteit in baie hardeware
+   toestelle gebruik waar 'n verwerking eenvoudig herhaal kan word in die
+   geval van 'n fout of waar die blote opsporing van die fout voldoende
+   is. Die SCSI-bus gebruik byvoorbeeld pariteit om versendingsfoute op te
+   spoor en baie mikroverwerker-instruksies se kasgeheue sluit 'n
+   pariteitsbis in. Omdat die kasdata slegs 'n kopie van hoofgeheue is kan
+   dit altyd bloot uitgevee word en die data weer gelaai word as dit
+   foutief is.
+
+   Pariteitstoetse is nie 'n baie robuuste oplossing nie, omdat as daar 'n
+   ewe getal foute voorkom sal die toetsbis geldig wees en sal die fout
+   nie opgespoor word nie. Verder dui pariteit ook nie aan by watter bis
+   die fout voorgekom het nie, selfs al kan daar vasgestel word dat 'n
+   fout voorgekom het. Die data moet daarom geheel en al geïgnoreer word
+   en van voor af gestuur word. Om hierdie rede kan 'n medium met baie
+   storings 'n baie lang tyd (of soms nooit) neem om 'n suksesvolle
+   versending te voltooi. Pariteit het egter die voordeel dat dit die
+   minste inligting hoef te versend om foutsporing te bewerkstellig,
+   naamlik slegs een bis. Die Hamming kode is normaalweg die volgende stap
+   vir meer betroubare foutsporing en -regstelling.
+
+[wysig] RAID pariteitsblokke
+
+   In sekere RAID-vlakke word oortolligheid bewerkstellig deur gebruik te
+   maak van pariteitsblokke. As 'n enkele hardeskyf faal, kan die datablok
+   en 'n pariteitsblok vanaf die werkende hardeskywe gebruik word om die
+   vermiste data weer te herbou.
+   Kategorie: Rekenaar
+

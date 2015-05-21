@@ -1,0 +1,38 @@
+Ergodisiteit
+
+
+   In wiskunde en fisika beteken die byvoeglike naamwoord ergodies
+   eenvoudig dat 'n sisteem aan die ergodiese hipotese voldoen, of dat die
+   sisteem in die studieveld van ergodiese teorie val.
+
+   'n Meer presiese wiskundige definisie is as volg:
+
+   Laat (X,Σ,μ) 'n waarskynlikheidsruimte wees, en laat T : X \to X 'n
+   maatbehoudende transformasie wees, d.w.s.
+
+          \mu \left( T^{-1} (E) \right) = \mu (E) vir alle E \in \Sigma,
+
+   sodat μ 'n onveranderlike mate onder T is. T word die ergodiese
+   transformasie (met respek tot μ) genoem, en μ word 'n ergodiese mate
+   (met respek tot T) genoem as, wanneer ookal T(E) = E vir een of ander E
+   \in \Sigma , dit geld dat
+
+          μ(E) = 0 of μ(E) = 1.
+
+   M.a.w., T neem "amper alle versamelings heeltemal oor die ruimte". Die
+   enigste versamelings wat dit "nie skuif nie" is sommige versamelings
+   met 'n mate van nul en versamelings wat amper die hele ruimte bevat.
+
+   Die versameling van waarskynlikheidsmates op X wat ergodies is met
+   respek tot T word somtyds aangedui deur E[T](X).
+
+[wysig] Eksterne Skakels
+
+     * Outline of Ergodic Theory, deur Steven Arthur Kalikow
+
+[wysig] Verwysings
+
+     * Planetmath se definisie van ergodic.
+
+   Kategorie: Ergodiese teorie
+

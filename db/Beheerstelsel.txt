@@ -1,0 +1,26 @@
+Beheerstelsel
+
+
+   'n Beheerstelsel is 'n stelsel wat 'n proses of 'n ander stelsel
+   beheer. Die klein boksie wat die besproeing in 'n tuin beheer is 'n
+   beheerstelsel, so ook die heelwat groter een wat 'n ruimtetuig beheer.
+   'n Beheerstelsel kan baie keer in kleiner beheerstelsels opgedeel word,
+   sodat 'n onderdeel van 'n beheerstelsel 'n sekere spesifieke stelsel of
+   proses beheer. Die kleiner stelsels kan dan saamgevoeg word om 'n
+   heelwat groter stelsel te beheer, soos wat dit tipies op 'n ruimtetuig
+   sal gebeur.
+
+   Beheerstelsels is ook sinoniem met die idee van "masjien
+   intelligensie". Die stelsel wat 'n proses of stelsel beheer behoort 'n
+   seker mate van intelligensie te hê om besluite te kan maak in reaksie
+   op veranderinge in die sisteem of proses wat beheer word. Dit beteken
+   dus ook dat die stelsel veranderinge moet kan meet in die stelsel wat
+   beheer word en dan daarop reageer en die stelsel "beveel" om 'n
+   verandering te maak.
+
+[wysig] Sien ook
+
+     * Elektroniese ingenieurswese
+
+   Kategorie: Elektronika
+

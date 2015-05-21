@@ -1,0 +1,367 @@
+Waarskynlikheidsleer
+
+
+   Waarskynlikheidsleer is 'n tak van wiskunde wat handel oor die analise
+   van lukrake verskynsels.^[1] Die sentrale konsepte in
+   waarskynlikheidsleer is stogastiese veranderlikes, stogastiese
+   prosesse, en gebeurtenisse: wiskundige abstraksies van
+   nie-deterministiese gebeurtenisse of gemete hoeveelhede wat óf eenmalig
+   plaasvind óf oor 'n tydperk klaarblyklik lukraak ontwikkel. Alhoewel 'n
+   enkele gooi van 'n munt of 'n dobbelsteen 'n stogastiese gebeurtenis
+   is, toon herhaalde gooi pogings sekere statistiese patrone, wat
+   bestudeer en voorspel kan word. Twee verteenwoordigende wiskundige
+   resultate wat sulke patrone beskryf, is die wet van groot getalle en
+   die sentrale limiet stelling.
+
+   Waarskynlikheidsleer is 'n grondslag van statistiek en is belangrik vir
+   baie menslike aktiwiteite wat die kwantitatiewe analise van groot
+   datastelle raak. Waarskynlikheidsleer metodes is ook van toepassing op
+   komplekse sisteme waar slegs gedeeltelike kennis van die sisteem se
+   toestand bekend is; dit is b.v. die geval in statistiese meganika. 'n
+   Groot ontdekking van twintigste eeuse fisika is die probabilistiese
+   gedrag van natuurverskynsels op die atomiese vlak, wat beskryf word in
+   kwantummeganika.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Voorlegging
+             + 2.1 Diskrete waarskynlikheidsverdelings
+             + 2.2 Kontinue waarskynlikheidsverdelings
+             + 2.3 Maatteoretiese waarskynlikheidsleer
+        * 3 Waarskynlikheidsverdelings
+        * 4 Konvergensie van stogastiese veranderlikes
+        * 5 Die wet van groot getalle
+        * 6 Sentrale limietstelling
+        * 7 Sien ook
+        * 8 Bibliografie
+        * 9 References
+
+[wysig] Geskiedenis
+
+   Die wiskundige teorie van waarskynlikheid het sy oorsprong in pogings
+   om kansspelle te analiseer. Dit pogings het begin met Gerolamo Cardano
+   in die sestiende eeu, wie gevolg is deur Pierre de Fermat en Blaise
+   Pascal in die sewentiende eeu (sien b.v. die punteprobleem).
+
+   Aanvanklik het waarskynlikheidsleer slegs oor diskrete gebeurtenisse
+   gehandel, en die metodes was hoofsaaklik kombinatories van aard.
+   Eventueel het analitiese oorwegings die insluiting van kontinue
+   veranderlikes in die teorie genoodsaak. Hierdie het gelei tot moderne
+   waarskynlikheidsleer, waarvan die grondslae deur Andrey Nikolaevich
+   Kolmogorov neergelê is. Kolmogorov het die konsep van die
+   steekproefruimte, wat voorgestel is deur Richard von Mises, en
+   maatteorie verenig en sy aksiomatiese sisteem in 1933 bekend gemaak.
+   Hierdie aksiomas het vinnig die onbestrede aksiomatiese basis vir
+   moderne waarskynlikheidsleer geword ^[2].
+
+[wysig] Voorlegging
+
+   Die meeste inleidings tot waarskynlikheidsleer hanteer diskrete
+   waarskynlikheidsverpreidings en kontinue waarskynlikheidsverdelings
+   afsonderlik. Die meer wiskundig gevorderde maatteorie hanteer beide
+   diskrete en kontinue waarskynlikheidsverdelings, enige mengsel van
+   hierdie twee en ook ander konsepte.
+
+[wysig] Diskrete waarskynlikheidsverdelings
+
+   Diskrete waarskynlikheidsleer handel oor gebeurtenisse wat plaasvind in
+   aftelbare steekproefruimtes.
+
+   Voorbeelde: Die gooi van 'n dobbelsteen, eksperimente met speelkaarte
+   en toevalsbeweging.
+
+   Klassieke definisie: Aanvanklik was die waarskynlikheid dat 'n
+   gebeurtenis sou plaasvind gedefinieer as die aantal uitkomste ten
+   gunste van die gebeurtenis gedeel deur die totale aantal moontlike
+   gebeurtenisse in 'n ewekansige proefsteekruimte.
+
+   B.v., as 'n gebeurtenis die "voorkoms van 'n ewe getal wanneer 'n
+   dobbelsteen gerol word" is, kan die waarskynlikheid bereken word as
+   \tfrac{3}{6}=\tfrac{1}{2} , omdat 3 dobbelsteen sye uit die 6, ewe
+   waardes (2, 4, 6) bevat, en omdat elke sy dieselfde waarskynlikheid het
+   om vertoon te verskyn.
+
+   Moderne definisie: Die moderne definisie begin met 'n versameling wat
+   die steekproefruimte genoem word. Dit is verwant aan die versameling
+   van alle moontlike uitkomste in die klassieke sin en word aangedui deur
+   \Omega=\left \{ x_1,x_2,\dots\right \} . 'n Nodige aanname is dat vir
+   elke element x \in \Omega\, , daar 'n gepaardgaande
+   "waarkynlikheidwaarde" f(x)\, is, wat die volgende eienskappe bevredig:
+    1. f(x)\in[0,1]\mbox{ for all }x\in \Omega
+    2. \sum_{x\in \Omega} f(x) = 1
+
+   D.w.s. dat die waarskynlikheidsfunksie f(x) tussen nul en een lê vir
+   elke waarde van x in die steekproefruimte Ω en dat die sommasie van
+   f(x) oor alle waardes van x in die steekproefruimte Ω, gelyk is aan 1.
+   'n gebeurtenis' word gedefinieer as enige subversameling E\, van die
+   steekproefruimte Ω,. Die waarskynlikheid van die gebeurtenis E\, word
+   gedefinieer as
+
+          P(E)=\sum_{x\in E} f(x)\,
+
+   Dus is die waarskynlikheid van die hele steekproefruimte 1 en die
+   waarskynlikheid van die lêe gebeurtenis is 0.
+
+   Die funksie f(x)\, wat 'n punt in die steekproefruimte op 'n
+   "waarskynlikheidswaarde" afbeeld staan bekend as 'n
+   waarskynlikheidsmassafunksie. Die moderne definisie poog nie om te
+   beantwoord hoe waarskynlikheidsmassafunksies verkry word nie, maar maak
+   die aanname dat hulle bestaan.
+
+[wysig] Kontinue waarskynlikheidsverdelings
+
+   Kontinue waarskynlikheidsleer handel oor gebeurtenisse wat plaasvind in
+   'n kontinue proefsteekruimte.
+
+   Klassieke definisie: Die klassieke definisie kan nie gebruik word om
+   die kontinue geval te beskryf nie. Sien Bertrand se paradoks.
+
+   Moderne definisie: As die proefsteekruimte die reële getalle (
+   \mathbb{R} ) is, word dit aangeneem dat 'n sogenaamde kumulatiewe
+   verdelingsfunksie F\, bestaan, wat van so aard is dat P(X\le x) =
+   F(x)\, geld vir 'n stogastiese veranderlike X. D.w.s. dat F(x) die
+   waarskynlikheid dat X minder of gelyk aan x sal wees, bereken.
+
+   Die kumulatiewe verdelingsfunksie moet die volgende eienskappe
+   bevredig:
+    1. F\, is 'n monotone nie-afnemende, regs-kontinue funksie,
+    2. \lim_{x\rightarrow -\infty} F(x)=0,
+    3. \lim_{x\rightarrow \infty} F(x)=1.
+
+   As F\, differensieerbaar is, sê mens dat die stogastiese veranderlike X
+   'n waarskynlikheidsdigtheidsfunksie of net digtheid
+   f(x)=\frac{dF(x)}{dx}\, het.
+
+   Vir 'n versameling E \subseteq \mathbb{R} , is die waarskynlikheid dat
+   die stogastiese veranderlike X in E\, is gedefinieer as:
+
+          P(X\in E) = \int_{x\in E} dF(x).
+
+   As die waarskynlikheidsdigtheidsfunksie bestaan, kan dit geskryf word
+   as:
+
+          P(X\in E) = \int_{x\in E} f(x)\,dx.
+
+   Waar die waarskynlikheidsdigtheidsfunksie slegs vir kontinue
+   stogastiese veranderlikes bestaan, bestaan die kumulatiewe
+   verdelingsfunksie vir alle stogastiese veranderlikes (inkluis diskrete
+   stogastiese veranderlikes) wat waardes oor \mathbb{R} aanneem.
+
+   Hierdie konsepte kan veralgemeen word vir veeldimensionele gevalle oor
+   \mathbb{R}^n en ander kontinue steekproefruimtes.
+
+[wysig] Maatteoretiese waarskynlikheidsleer
+
+   Die bestaansrede van die maatteoretiese behandeling van
+   waarskynlikheidsleer is dat dit die diskrete en die kontinue verenig,
+   en die verskil laat afhang van die gekose maat. Verder dek dit
+   verdelings wat nóg diskreet nóg kontinu is. 'n Voorbeeld van so 'n
+   verdeling kan 'n mengsel van diskrete en kontinue verdelings wees, b.v.
+   die sommasie van 'n diskrete en 'n kontinue stogastiese veranderlike
+   sal nóg 'n waarskynlikheidsmassafunksie nóg 'n
+   waarskynlikheidsverdelingsfunksie hê. Ander verdelings sal moontlik nie
+   eers mengsels wees nie; b.v. die Cantor-verdeling het geen punt massa
+   en geen digtheid nie. Die moderne waarskynlikheidsleer benadering
+   oorkom hierdie probleme deur die gebruik van maatteorie om die
+   steekproefruimte te definieer:
+
+   Gegee 'n versameling Ω, (ook genoem die steekproefruimte) en 'n
+   σ-algebra \mathcal{F}\, oor hierdie versameling, word 'n maat P 'n
+   waarskynlikheidsmaat genoem as
+    1. P\, nie-negatief is,
+    2. P(Ω) = 1.
+
+   As \mathcal{F}\, 'n Borel σ-algebra is, dan bestaan daar 'n unieke
+   waarskynlikheidsmaat op \mathcal{F}\, vir enige kontinue
+   verdelingsfunksie, en omgekeerd. Mens sê dat die maat wat ooreenstem
+   met 'n kontinue verdelingsfunksie geïnduseer word deur dié
+   verdelingsfunksie. Hierdie maat val saam met die
+   waarskynlikheidsmassafunksie vir diskrete veranderlikers en die
+   waarskynlikheidsdigtheidsfunksie vir kontinue veranderlikes, wat die
+   maatteoretiese benadering bevry van teenstrydighede.
+
+   Die waarskynlikheid van 'n versameling E\, in die σ-algebra
+   \mathcal{F}\, word gedefinieer as
+
+          P(X\in E) = \int_{x\in E} dF(x)\,
+
+   waar die integrasie met respek tot die maat is wat geïnduseer word deur
+   F\, .
+
+   Tesame met 'n beter beskrywing van en die vereniging van diskrete en
+   kontinue waarskynlikhede, maak die maatteoretiese behandeling dit
+   moontlik om te week met waarskynlikhede buite \mathbb{R}^n , soos in
+   die teorie van stogastiese prosesse. B.v. in die studie van Brownse
+   beweging, word waarskynlikheid gedefinieer oor 'n ruimte van funksies.
+
+[wysig] Waarskynlikheidsverdelings
+
+   Sommige stogastiese veranderlikes kom gereeld in waarskynlikheidsleer
+   voor omdat hulle talle natuurlike of fisiese prosesse goed beskryf. Hul
+   verdelings het daarom spesiale belangrikheid in waarskynlikheidsleer
+   verwerf. Enkele grondliggende diskrete verdelings is die diskrete
+   uniforme, Bernoulli-, binomiaal, negatiewe binomiaal-, Poisson- en
+   meetkundige verdelings. Belangrike kontinue verdelings sluit die
+   kontinue uniforme, normaal-, eksponensiaal-, gamma- en beta- verdelings
+   in.
+
+[wysig] Konvergensie van stogastiese veranderlikes
+
+   In waarskynlikheidsleer is daar talle begrippe m.b.t. die konvergensie
+   van stogastiese veranderlikes. Hulle word hier onder in die orde van
+   hul krag verskaf - dit is, elke opvolgende begrip van konvergensie in
+   die lys impliseer konvergensie in ooreenstemming met al die
+   voorafgaande begrippe.
+
+          Konvergensie in verdeling: Soos die insinueer, konvergeer 'n
+          reeks stogastiese veranderlikes X_1,X_2,\dots,\, na 'n
+          stogastiese veranderlike X\, i.t.v. verdeling as hul
+          onderskeidelike kumulatiewe verdelingsfunksies F_1,F_2,\dots\,
+          konvergeer na 'n kumulatiewe verdelingsfunksie F\, van X\, ,
+          orals waar F\, kontinu is.
+
+                Mees algemene afkortingsnotasie: X_n \,
+                \xrightarrow{\mathcal D} \, X
+
+          Swak konvergensie: Mens sê dat die reeks stogastiese
+          veranderlikes X_1,X_2,\dots\, swak konvergeer na 'n stogastiese
+          veranderlike X\, as
+          \lim_{n\rightarrow\infty}P\left(\left|X_n-X\right|\geq\varepsilo
+          n\right)=0 vir elke ε > 0. Swak konvergensie staan ook bekend as
+          konvergensie in waarskynlikheid.
+
+                Mees algemene afkortingsnotasie: X_n \, \xrightarrow{P} \,
+                X
+
+          Sterk konvergensie: Mens sê dat die reeks stogastiese
+          veranderlikes sterk X_1,X_2,\dots\, na 'n stogastiese
+          veranderlike X\, konvergeer as P(\lim_{n\rightarrow\infty}
+          X_n=X)=1. Sterk konvergensie staan ook bekend as byna sekere
+          konvergensie.
+
+                Mees algemene afkortingsnotasie: X_n \,
+                \xrightarrow{\mathrm{a.s.}} \, X
+
+   Intuïtiewelik is strek konvergensie 'n sterker weergawe van die swak
+   konvergensie, en in beide gevalle toon die stogastiese veranderlikes
+   X_1,X_2,\dots\, toenemende korrelasies met X\, . Nogtans, in die geval
+   van konvergensie in waarskynlikheid, hoef die verwesenlikte waardes nie
+   te konvergeer nie, en is enige moontlike korrelasie tussen hulle
+   onbelangrik.
+
+[wysig] Die wet van groot getalle
+
+   'n Mens se intuïsie voorspel dat as 'n ewewigtige munt 'n groot aantal
+   kere opgegooi word, dit na skatting die helfte van die tyd koppesal
+   oplewer en die ander helfte van die tyd sterte sal oplewer. Boonop sal
+   die verhouding van die aantal koppe tot sterte 'n waarde van een
+   benader soos wat die munt meer opgegooi word. Moderne
+   waarskynlikheidsleer verskaf 'n formele weergawe van hierdie intuïtiewe
+   idee wat bekend staan as die wet van groot getalle. Hierdie wet is
+   merkwaardig omdat dit nêrens in die grondslae van waarskynlikheidsleer
+   veronderstel word nie, maar eerder tot verskyning kom uit die grondslae
+   in die vorm van 'n stelling. Omdat dit die teoreties-afgeleide
+   waarskynlikhede aan hul werklike verspreidingsfrekwensies in die regte
+   wêreld skakel, word die wet van groot getalle geag as 'n steunpilaar
+   van moderne statistiese teorie.[1]
+
+   Die wet van groot getalle (WGG; LLN in Engels) voer aan dat die
+   steekproefgemiddelde \overline{X}_n=\tfrac1n{\sum X_n} van
+   X_1,X_2,...\, (onafhanklik en identies verdeelde stogastiese
+   veranderlikes met eindige verwagtinge μ) na die teoretiese verwagting μ
+   konvergeer.
+
+   Dit is die verskillende vorms van die konvergensie van stogastiese
+   veranderlikes wat die swak en sterk wette van groot getalle onderskei.
+
+          Swak wet: \overline{X}_n \, \xrightarrow{P} \, \mu
+          \qquad\textrm{vir}\qquad n \to \infty.
+
+          Sterk wet: \overline{X}_n \, \xrightarrow{\mathrm{a.s.}} \, \mu
+          \qquad\textrm{vir}\qquad n \to \infty .
+
+   'n Gevolg van die WGG is dat wanneer 'n gebeurtenis met waarskynlikheid
+   p herhaaldelik gedurende onafhanklike eksperimente waargeneem word, die
+   verhouding tussen die waargenome frekwensie van daardie gebeurtenis en
+   die totale aantal herhalings na p toe sal konvergeer.
+
+   Om hierdie uit te druk i.t.v. stogastiese veranderlikes en die WGG, is
+   Y_1,Y_2,...\, onafhanklike Bernoulli stogastiese veranderlikes wat
+   gelyk aan 1 is met 'n waarskynlikheid p en gelyk aan 0 is met 'n
+   waarskynlikheid 1-p. E(Y[i]) = p vir alle i en dit volg van die LLN dat
+   \frac{\sum Y_n}{n}\, byna sekerlik na p toe konvergeer.
+
+[wysig] Sentrale limietstelling
+
+   Die sentrale limietstelling verduidelik die gereelde voorkoms van die
+   normaalverdeling in die natuur; dit is een van die mees beroemde
+   stellings in die waarskynlikheidsleer en statistiek.^[verwysing
+   benodig]
+
+   Die stelling voer aan dat die gemiddelde van talle onafhanklike en
+   identies verdeelde stogastiese veranderlikes na 'n normaalverdeling
+   streef, ongeag die verdeling wat deur die oorspronklike stogastiese
+   veranderlikes gevolg is. Meer formeel, laat X_1,X_2,\dots\,
+   onafhanklike stogastiese veranderlikes met gemiddeldes
+   \mu_1,\mu_2,\dots\, , en variansies \sigma_1^2,\sigma_2^2,\dots\, wees.
+   Dan konvergeer die reeks stogastiese veranderlikes
+
+          Z_n=\frac{\sum_{i=1}^n (X_i - \mu_i)}{\sqrt{\sum_{i=1}^n
+          \sigma_i^2}}
+
+   volgens verdeling na 'n standaard normaal stogastiese veranderlike.
+
+[wysig] Sien ook
+
+     * Verwagte waarde en Variansie
+     * Wasige logika and Wasige maatteorie
+     * Woordelys van waarskynlikheidsleer en statistiek
+     * Aanneemlikheidsfunksie
+     * Lys van waarskynlikheisonderwerpe
+     * Lys van publikasies in die statistiek
+     * Lys van statistiese onderwerpe
+     * Notatasie in waarskynlikheidsleer
+     * Voorspellingsmodellering
+     * Waarskynlikheidslogika - 'n Samevoeging van waarskynlikheidsleer en
+       logika
+     * Waarskynlikheidsinterpretasies
+     * Statistiese onafhanklikheid
+
+[wysig] Bibliografie
+
+     * Pierre Simon de Laplace (1812). Analytical Theory of Probability.
+
+                Die eerste groot verhandeling wat die kalkulus met
+                waarskynlikheidsleer saamsmelt, oorspronklik in Frans:
+                Théorie Analytique des Probabilités.
+
+     * Andrei Nikolajevich Kolmogorov (1950). Foundations of the Theory of
+       Probability.
+
+                Die moderne maatteoretiese grondslag van
+                waarskynlikheidsleer; die oorspronklike Duitse weergawe
+                (Grundbegriffe der Wahrscheinlichkeitrechnung) het in 1933
+                verskyn.
+
+     * Patrick Billingsley (1979). Probability and Measure. New York,
+       Toronto, London: John Wiley and Sons.
+
+     * Henk Tijms (2004). Understanding Probability. Cambridge Univ.
+       Press.
+
+                'n Lewendige inleiding tot waarskynlikheidsleer vir die
+                beginner.
+
+     * Gut, Allan (2005). Probability: A Graduate Course. Springer-Verlag.
+       ISBN 0387228330.
+
+[wysig] References
+
+    1. ^ Probability theory, Encyclopaedia Britannica
+    2. ^ "The origins and legacy of Kolmogorov's Grundbegriffe", by Glenn
+       Shafer and Vladimir Vovk
+
+   Kategorieë: Artikels met stellings wat verwysings ontbreek •
+   Waarskynlikheidsleer • Diskrete wiskunde • Wiskundige analise
+

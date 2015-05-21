@@ -1,0 +1,29 @@
+Toepassingsagteware
+
+
+   Toepassingsagteware is gewoonlik die rekenaarprogramme wat gebruik word
+   vir die uitvoer van 'n spesifieke taak. Dit staan in kontras met 'n
+   stelselsagteware wat die basiese stel programme is wat toelaat dat
+   programme toegang kan verkry tot die hardeware, en gebruik word om
+   toepassingsagteware uit te voer.
+
+[wysig] Voorbeelde van toepassingsagteware
+
+     * Rekeningkundige pakette
+     * Vertalers en Interpreteerders
+     * Rekenaarspeletjies
+     * Kriptografiese programme
+     * Opvoedkundige sagteware
+     * E-posprogramme
+     * Grafiese programme
+     * Sigblaaie
+     * Webblaaiers
+     * Woordverwerkers
+
+[wysig] Sien ook
+
+     * Sagteware
+     * Rekenaarwetenskap
+
+   Kategorie: Toepassingsagteware
+

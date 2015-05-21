@@ -1,0 +1,45 @@
+Mozilla Firefox
+
+
+     Mozilla Firefox
+   Die voorblad van die Afrikaanse Wikipedia soos gesien deur Mozilla
+   Firefox
+     __________________________________________________________________
+
+   Ontwikkelaar Mozilla-stigting/Mozilla Corporation
+   Mees onlangse weergawe 2.0.0.14 / 16 April 2008
+   Laaste betaweergawe /
+   Bedryfstelsel Microsoft Windows, Mac OS X, Linux i686
+   Kategorie Webblaaier
+   Lisensie MPL, MPL/GPL/LGPL tri-license
+   Webtuiste http://www.mozilla.com/firefox
+
+   Mozilla Firefox (oorspronklik bekend as Phoenix en kortliks as Mozilla
+   Firebird) is 'n vrye kruis-platform-webblaaier ontwikkel deur die
+   Mozilla-stigting en honderde vrywilligers. Dit is meer as vyf miljoen
+   keer in die eerste 12 dae ná die vrystelling van weergawe 1.0 afgelaai
+   en meer as 20 miljoen keer in minder as 11 weke. Dit maak Firefox een
+   van die mees gebruikte, gratis oopbronprogramme, veral onder
+   tuisgebruikers.
+
+   Met Firefox beoog die Mozilla-stigting om 'n klein, vinnige, eenvoudige
+   en hoogs uitbreibare webblaaier te ontwikkel wat onafhanklik van die
+   Mozilla Suite staan. Firefox het die fokus van Mozilla-ontwikkeling
+   geword, tesame met die Mozilla Thunderbird e-posleser, en het die
+   Mozilla Suite vervang as die amptelike blaaier van die
+   Mozilla-stigting.
+
+   Die Mozilla-stigting het op 31 Mei 2007 aangekondig dat hul
+   Firefox-blaaier nou ook in Afrikaans beskikbaar is.
+
+[wysig] Eksterne skakels
+
+     * Firefox-produkbladsy by Mozilla.com
+     * SpreadFirefox.com — Amptelike Firefox-gemeenskap se bemarkingsblad
+     * Afrikaanse weergawe van Firefox
+     * Afrikaanse speltoetser vir gebruik in Firefox
+     * Firefox Help — Aanlyn hulp vir Firefox
+     * Firefox 3 Beta (verskeie tale, ook afrikaans)
+
+   Kategorie: Toepassingsagteware
+

@@ -1,0 +1,175 @@
+Joomla
+
+
+   Joomla is 'n vrye-, oopbron inhoudsbestuurstelsel vir die publikasie
+   van inhoud op die wêreldwye web en intranette.
+
+   Die stelsel sluit verskeie kenmerke in soos die stoor van bladsye in 'n
+   kasgeheue om werkverrigting te verbeter, RSS-voere, drukbare weergawes
+   van bladsye, nuusflitse, webjoernale, meningspeilings, webwerf
+   soektogte en aanpassings vir taalvoorkeure. Joomla word vrygestel onder
+   die voorwaardes van die GPL en is 'n vertakking van die Mambo projek.
+
+   Die naam Joomla word amptelik geskryf met 'n uitroepteken daarna maar
+   dit word meestal weggelaat.
+
+   Die sagteware is in die PHP programmeertaal geskryf en gebruik MySQL as
+   databasis by verstek.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Kenmerke
+        * 3 Gemeenskap
+        * 4 Verwysings en voetnotas
+
+[wysig] Geskiedenis
+
+   Joomla het sy ontstaan te danke aan 'n vertakking van Mambo deur al sy
+   kernontwikkelaars op 17 Augustus 2005. Op daardie tydstip was die Mambo
+   naam 'n handelsmerk van Miro International Pty Ltd, wat 'n
+   nie-winsgewende stigting gestig het met die gestelde doelwit om die
+   projek te bevonds en te beskerm teen regsgedinge.^[1] Die
+   ontwikkelaarspan het beweer dat baie van die bepalings van die stigting
+   se struktuur in stryd was met vorige ooreenkomste wat met die verkose
+   Mambo stuurskomitee aangegaan is, dat daar geen raadpleging met
+   sleutelrolspelers plaasgevind het nie en dat bepalings ingesluit is wat
+   in stryd was met die kern waardes van oopbron sagteware.^[2]
+
+   Die ontwikkelingspan het 'n webwerf geskep met die naam
+   OpenSourceMatters om inligting aan gebruikers, ontwikkelaars,
+   webontwerpers en die gemeenskap in die algemeen te verskaf. Die projek
+   se spanleier Andrew Eddie (ook bekend as "MasterChief") het 'n opebrief
+   aan die gemeenskap gerig^[3] wat verskyn het op die
+   kennisgewingsafdeling van die mamboserver.com openbare
+   kennisgewingsafdeling.
+
+   'n Duisend mense het by die opensourcematters.org webwerf in die eerste
+   dag aangesluit, en die meeste het hul steun vir die aksies van die
+   ontwikkelingspan toegesê. Die webwerf het die slashdot-effek ontvang en
+   nuus-artikels oor die gebeurtenis het op newsforge.com, eweek.com en
+   ZDnet.com verskyn. Miro se hoof uitvoerende beampte Peter Lamont het in
+   die openbare gereageer met 'n artikel genaamd "The Mambo Open Source
+   Controversy - 20 Questions With Miro".^[4]
+
+   Hierdie gebeurtenis het diepgaande gevoelens in die vrye sagteware
+   gemeenskap aangeraak jeens wat "oopbron sagteware" beteken. Forums by
+   baie ander oopbron projekte het ook aktiewe besprekings ten gunste en
+   teen die beide partye se handelinge gehad.
+
+   In die twee weke na Eddie se aankondiging is spanne geherorganiseer en
+   die gemeenskap het aangehou groei. Eben Moglen en die Software Freedom
+   Law Center (SFLC) het die Joomla! kernspan in Augustus 2005 bygestaan
+   soos blyk uit Moglen se webjoernaal inskrywing en verwante OSM
+   aankondigings. Die SFLC ondersteun steeds die Joomla! projek met
+   regshulp.^[5]
+
+   Teen 1 September 2005 is die nuwe naam "Joomla" wat die Engelse
+   spelling is vir die Swahili (en Urdu) woord, jumla, wat "almal saam" of
+   "as 'n geheel" beteken. Op 18 Augustus 2005 het Andrew Eddie versoeke
+   gerig vir gemeenskapsbetrokkenheid^[6] vir insette oor name en aangedui
+   dat die kernspan die finale besluit sou maak. Die naam wat die kerspan
+   gekies het was nie in die lys van voorgestelde name nie en dit het
+   gelei tot kwade gevoelens onder lede van die gemeenskap.
+
+   Op 7 September 2005 het die kernspan gevra vir voorstelle vir 'n
+   kenteken^[7] vanaf die gemeenskap en die gemeenskap uitgenooi om te
+   stem oor die kenteken^[8] en die nuwe kenteken is op 22 September 2005
+   aangekondig. Na die kies van die kenteken is 'n gids en handleiding vir
+   die handelsmerk bekendgestel en is 'n stel kentekenhulpbronne
+   gepubliseer vir gebruik deur die gemeenskap.^[9]
+
+   Die eerste vrystelling van Joomla (Joomla 1.0.0) is op 16 September
+   2005 bekendgestel. Dit was basies 'n 'n vrystelling van Mambo in nuwe
+   gewaad gekombineer met 'n paar foutregstellings en 'n paar
+   sekuriteitsverbeteringe. Joomla weergawe 1.5 is op 22 Januarie 2008
+   vrygestel. Joomla het Packt Publishing se toekenning vir oopbron
+   inhoudsbestuurstelsels verwerf in 2006^[10] en in 2007.^[11]
+
+[wysig] Kenmerke
+
+   Die Joomla pakket bestaan uit vele onderdele, wat so modulêr moontlik
+   gebou word om uitbreidings en intgerasies te vergemaklik. Daar bestaan
+   vele uitbredingsprogramme wat Joomla se funksionaliteit kan uitbrei.
+   Die Joomla Wikibot laat 'n skrywer van Joomla inhoud byvoorbeeld toe om
+   wiki-etikette te gebruik in Joomla artikels wat outomaties dinamiese
+   skakels na Wikipedia artikels skep. Daar is meer as 2 700 uitbreidings
+   vir Joomla beskikbaar deur 'n uitbreidingsgids (die Extensions
+   Directory), 'n werf wat deur OpenSourceMatters bestuur as 'n amptelike
+   gids na Joomla uitbreidingsprogramme.^[12]
+
+   Bo en behalwe bogenoemde uitbreidings, bestaan daar ook meer omvattende
+   uitbreidingsprogramme wat as komponente bekendstaan. Hierdie komponente
+   laat webmeesters toe om take te verrig soos om 'n gemeenskap te bou
+   deur gebruikersfunksies uit te brei, 'n werf te rugsteun, inhoud te
+   vertaal en URL'e te skep wat meer soekenjin vriendelik is.^[13] Dan is
+   daar ook uitbreidings genaamd modules beskikbaar wat sulke take verrig
+   soos om kalenders te vertoon of die invoeg van pasgemaakte kode soos
+   Google AdSense ens. moontlik maak.^[14]
+
+   Daar is meer uitbreidings beskikbaar vir Joomla 1.0 as vir weergawe
+   1.5. Sommige van die ouer 1.0 uitbreidings kan gebruik word saam met
+   die 1.5 weergawe as die versoenbaarheidsmodus ingestel word.
+
+   Joomla maak dit vir administrateurs moontlik om globale konfigurasie
+   parameters te stel wat alle artikels beïnvloed. Elke blad sal dan aan
+   hierdie verstellings by verstek voldoen, maar 'n blad kan indiwidueel
+   verstel word. 'n Mens kan byvoorbeeld kies om 'n artikel se outeur te
+   vertoon, te versteek of eenvoudig die globale verstelling gebruik wat
+   die vertoon, aldan nie, van die outeur se naam by verstek bepaal.
+
+[wysig] Gemeenskap
+
+   Joomla het amptelike en nie-amptelike gemeenskappe. Met ingang
+   Februarie 2008 het die amptelike Joomla forum meer as 2 600 gesprekke
+   en meer as 1,2 miljoen plasings van meer as 170 000 geregistreerde lede
+   in 40 tale gehad.^[15] Nie-amptelike werwe word in vele tale
+   gepubliseer, dikwels met Joomla uitbreidings wat spesifiek van
+   toepassing is tot daardie streek. Tweerigtingskrif steun vir Hebreeus
+   en Arabiese tale kan byvoorbeeld op derde party gemeenskapsportale
+   gevind word. Nie-amptelike webontwikkelaars kan ook uitbreidings en
+   sjablone saamstel vir kommersiële verkoop en ook vryskut dienste
+   aanbied. Sjablone word gewoonlik in ZIP-formaat versprei en kan deur
+   die Joomla installeerprogram geïnstalleer word.
+
+[wysig] Verwysings en voetnotas
+
+    1. ^ 2006-01-09, Mambo Foundation web site, Goals and objectives,
+       http://www.mambo-foundation.org, nagegaan op 2007-03-14
+    2. ^ 2007-05-07, Joomla Forum Discussion by Development Team members
+       and Community, http://forum.joomla.org/index.php/topic,73.0.html,
+       2007-05-07
+    3. ^ 2005-08-17, Andrew Eddie, Mambo Open Source Development Team -
+       Letter to the community,
+       http://www.opensourcematters.org/index.php?option=com_content&task=
+       view&id=1&Itemid=1, OpenSourceMatters, nagegaan op 2007-03-14
+    4. ^ 2005-08-21, Ric Shreves, The Mambo Open Source Controversy - 20
+       Questions With Miro, oorspronklike url =
+       http://ricshreves.net/content/view/116/47/, nagegaan op 2007-03-14,
+       http://forum.joomla.org/index.php?topic=3037.msg23685, nagegaan op
+       2007-07-26
+    5. ^ http://www.joomla.org/content/view/40/41/
+    6. ^ http://forum.joomla.org/viewtopic.php?f=124&t=272
+    7. ^ http://forum.joomla.org/viewtopic.php?f=8&t=4205
+    8. ^ http://forum.joomla.org/viewtopic.php?f=8&t=5956
+    9. ^ http://www.joomla.org/content/view/259/70/
+   10. ^ 2006-11-14, 2006 Open Source Content Management System Award
+       Winner Announced, Packt Publishing,
+       http://www.packtpub.com/article/open-source-content-management-syst
+       em-award-winner-announced, nagegaan op = 2007-03-08
+   11. ^ 2007-10-31, Joomla Wins Best PHP Open Source Content Management
+       System, Packt Publishing,
+       http://www.packtpub.com/article/joomla-wins-best-php-open-source-co
+       ntent-management-system, 2007-10-31
+   12. ^ Joomla Extensions Directory - FrontPage,
+       http://extensions.joomla.org/index.php, nagegaan op 2007-10-13
+   13. ^ Joomla Extensions Directory - Content Management, 2007-07-28,
+       http://extensions.joomla.org/component/option,com_mtree/task,listca
+       ts/cat_id,1766/Itemid,35/, nagegaan op 2007-07-28
+   14. ^ Joomla Extensions Directory - Content Management, 2007-07-28,
+       http://extensions.joomla.org/component/option,com_mtree/task,listca
+       ts/cat_id,1766/Itemid,35/, 2007-07-28
+   15. ^ Joomla Community Forum, http://forum.joomla.org, 2008-02-18
+
+   Kategorieë: Vrye sagteware • Toepassingsagteware
+

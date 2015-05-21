@@ -1,0 +1,52 @@
+Violet
+
+
+   #8b00ff
+
+          Hierdie artikel handel oor die kleur Violet. Sien gerus Violet
+          (dubbelsinnig) vir ander betekenisse van die term.
+
+   Violet (vernoem na die blom; sien viooltjie) verwys na enige van 'n
+   groep rooierig-blou of blouerig-pers kleure. Spesifiek verwys dit na
+   die kleur van lig op die rand van die sigbare spektrum aan die
+   kort-golflengte kant.
+
+   Ware spektrale violet kan nie op 'n rekenaarskerm voortgebring word
+   nie. Jy kan die kleur sien deur byvoorbeeld na die refleksie van 'n
+   buislig in 'n CD te kyk.
+
+   Sien ook: Ultraviolet
+
+[wysig] Kleurkoördinate (slegs 'n benadering!)
+
+     * Hex triplet = #8B00FF
+     * RGB = (139, 0, 255)
+     * CMYK = (116, 255, 0, 0)
+     * HSV = (273, 100, 100)
+
+   Die gevoel van violet wat deur kort-golflengte lig veroorsaak word kom
+   ietwat pers voor, asof dit ook lang (rooi) golflengtes bevat. Die rede
+   hiervoor is dat die lang-golflengte ("rooi") reseptore in die menslike
+   retina sensitief is vir golflengtes in beide die violet-omgewing en die
+   rooi-omgewing. Violet word daarom as 'n ervaar as 'n stimuli van beide
+   die rooi en blou keëls.
+
+[wysig] Skakerings
+
+     * laventel - tipies bleek (RGB: 230, 230, 250)
+     * lila/ligpers - tipies bleek (RGB: 200, 162, 200)
+
+[wysig] Sien ook
+
+     * Lys van kleure
+
+                         Elektromagnetiese Spektrum
+
+    Radiogolf | Mikrogolf | Infrarooi | Optiese spektrum | Ultraviolet |
+                           X-straal | Gammastraal
+     __________________________________________________________________
+
+        Sigbaar: Rooi | Oranje | Geel | Groen | Siaan | Blou | Violet
+
+   Kategorieë: Kleure • Optiese spektrum
+

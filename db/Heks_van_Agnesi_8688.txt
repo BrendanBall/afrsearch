@@ -1,0 +1,72 @@
+Heks van Agnesi
+
+
+   In wiskunde, is die heks van Agnesi, soms die heks van Maria Agnesi
+   genoem (vernoem na Maria Agnesi) die kromme wat as volg gedefinieer
+   word.
+
+   Begin met 'n vaste sirkel, 'n punt O op die sirkel word gekies. Vir
+   enige ander punt A op die sirkel, word die snylyn OA geteken. Die punt
+   M is lynreg oorkant O. Die lyn OA sny die raaklyn M by die punt N. Die
+   lyn parallel aan OM deur N, en die lyn loodreg tot OM deur A sny by P.
+   Soos die punt A gevarieer is die pad wat P volg die heks.
+
+   Die kromme is asimptoties tot die raaklyn van die vaste sirekel deur
+   die punt O.
+
+   Inhoud
+
+        * 1 Vergelykings
+        * 2 Voorbeelde
+        * 3 Eienskappe
+        * 4 Geskiedenis
+        * 5 Eksterne skakels
+
+[wysig] Vergelykings
+
+   Veronderstel die punt O is die oorsprong, en dat M op die positiewe
+   y-as is. Veronderstel die radius van die sirkel is a.
+
+   Dan het die kromme die Cartesiese vergelyking y = \frac{8a^3}{x^2+4a^2}
+   .
+
+   Let daarop dat as a=1/2, dan word die vergelyking die baie eenvoudige y
+   = \frac{1}{x^2+1}.
+
+   Parametries, as θ is die hoek tussen OM en OA, regsom gemeet, dan word
+   die kromme gegee deur die vergelykings
+
+          x = 2a \tan \theta, y = 2a \cos ^2 \theta.\,
+
+[wysig] Voorbeelde
+
+   Die figuur na regs wys voorbeelde van die kromme vir a=1, a=2, a=4, and
+   a=8.
+
+[wysig] Eienskappe
+
+   Die oppervlak tussen die Heks en die asimptoot daarvan is vier keer die
+   oppervlak van die oppervlak van die vaste sirkel (d.w.s: 4πa^2).
+
+   Die omwentelingsvolume van die Heks, om sy asimptoot is 4π^2a^3.
+
+   Die swaartepunt van die kromme is by (0,\frac{a}{2}) .
+
+[wysig] Geskiedenis
+
+   Die kromme is in 1701 deur Fermat, Guido Grandi en in 1748 deur Maria
+   Agnesi bestudeer.
+
+   In Italiaans word die kromme la versiera di Agnesi genoem wat "die
+   kromme van Agnesi" beteken. Dit is op 'n stadium deur professor John
+   Colson van Cambridge geïnterpreteer as "l'avversiera di Agnesi" waar
+   "avversiera" "heks" beteken en die wanvertaling het behoue gebly.
+
+[wysig] Eksterne skakels
+
+     * Engines of Our Ingenuity.   Episode No. 217: The Witch of Agnesi
+       deur John H. Lienhard
+     * Weisstein, Eric W., Witch of Agnesi op MathWorld.
+
+   Kategorie: Krommes
+

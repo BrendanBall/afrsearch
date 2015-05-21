@@ -1,0 +1,35 @@
+Loon
+
+
+   'n Loon is 'n tipe weeklikse vergoeding aan 'n werker.
+
+   Die berekening, uitbetaling en boekstawing van lone is een van die
+   roetinetake in alle sakeondernemings. Lone is baie belangrike
+   koste-items van alle sakeondernemings en moet dus met sorg bestuur
+   word.
+
+   Verskeie aftrekkings word deur die werkgewer maandeliks van salarisse
+   en weekliks van lone afgetrek, en die gevolglike nettobedrag word aan
+   die werknemer betaal.
+     * Pensioenfondsbydrae word afgetrek en die geld word aan die
+       pensioenfonds oorbetaal. Die bydrae is gewoonlik ’n vasgestelde
+       persentasie van die bruto salaris of loon, bv. 8%.
+     * Inkomstebelasting word afgetrek en die geld word aan die SAID
+       oorbetaal. Die bedrag word bepaal volgens tabelle wat deur die SAID
+       uitgereik is. Twee elemente is betrokke by werknemersbelasting, te
+       wete Standaardinkomstebelasting op Werknemers (SIBW) en Lopende
+       Betaalstelsel (LBS). Vir boekstawingsdoeleindes word daar gewoonlik
+       slegs na LBS verwys.
+     * Mediesefondsbydraes word afgetrek en die geld aan die betrokke
+       fonds oorbetaal. Soms dra die werkgewer ook tot die werknemer se
+       siekefonds by.
+     * Werkloosheidsversekering, tans 1% van die brutovergoeding
+       betaalbaar, word afgetrek en word in sommige gevalle aan die SAID
+       en in ander gevalle aan die Werkloosheidsversekeringsfonds
+       oorbetaal. Die werkgewer dra ’n gelyke deel tot die
+       Werkloosheidsversekeringsfonds by.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Ekonomie
+

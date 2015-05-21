@@ -1,0 +1,66 @@
+Rekenaar
+
+
+   'n Rekenaar is enige toestel wat gebruik word om data te verwerk
+   volgens 'n goed gedefinieerde prosedure. Die woord word tans algemeen
+   gebruik om te verwys na digitale rekenaars.
+
+   Die woord het vroeër verwys na iemand (komptometris) wat somme maak,
+   met of sonder meganiese hulpmiddels, maar die woord is oorgedra na die
+   hulpmiddels. Aanvanklik was die inligtingverwerking amper uitsluitlik
+   vir wiskundige probleme, maar hedendaagse rekenaars word vir verskeie
+   ander take gebruik.
+
+   Die wye definisie sluit dinge in soos die skuifliniaal, die verskeie
+   meganiese rekenaars van die abakus af verder, asook alle hedendaagse
+   elektroniese rekenaars.
+
+[wysig] Soorte rekenaars
+
+     * Analoogrekenaar
+     * Meganiese rekenaar
+     * Digitale rekenaar
+     * Kwantumrekenaar
+     * Sakrekenaar - Sien: (bv.: Sharp PC-1500, van 1983)
+
+[wysig] Geskiedenis
+
+   Die geskiedenis van die rekenaar begin by die geskiedenis van
+   berekening. Die mens wou nog altyd van hulpmiddels gebruik maak vir
+   groter en meer komplekse berekeninge. Kerfstokke en teltoue is
+   hulpmiddels wat lank reeds bestaan het. Die abakus word al vir eeue
+   gebruik as rekenkundige hulpmiddel. Later is van hulptabelle en
+   skuifliniale gebruik gemaak.
+
+   Die Tweede Wêreldoorlog verskaf die motivering vir baie navorsing in
+   rekenaartegnologie, veral vir toepassings in kriptografie. Van die
+   eerste rekenaars is inderdaad tydens oorlogtoestande gebruik om geheime
+   kodes te ontrafel. Na die oorlog is rekenaars toenemend vir staats- en
+   korporatiewe dataverwerking gebruik om inligting voort te bring.
+
+   Aanvanklike werking van die rekenaar was moeisaam as gevolg van die
+   gebruik van ponskaarte en onbetroubare vakuumbuise. Tegnologiese
+   deurbrake wat hierdie probleme verlig het is magnetiese stoormedia en
+   transistors. Die gebruik van geïntegreerde stroombane het verdere
+   vooruitgang moontlik gemaak.
+
+   Die einde van die 20ste eeu is gekenmerk deur vooruitgang in
+   netwerktegnologie en die mate waartoe dit (en in besonder die Internet)
+   algemeen in gebruik gestel is.
+
+[wysig] Die moderne rekenaar
+
+   'n Rekenaarstelsel bestaan tipies uit die volgende komponente:
+     * Kragpak
+     * Moederbord
+     * SVE's
+     * Skermkaarte met 'n skerm
+     * Klankkaart en Luidsprekers
+     * Geheue
+     * Modem
+     * Rugsteunbattery
+     * Netwerkkaart
+
+   Vir woordeboekinligting, sien die bladsy rekenaar op WikiWoordeboek
+   Kategorie: Rekenaar
+

@@ -1,0 +1,59 @@
+Desimale graad
+
+
+   Die desimale graad, gradiaan of gon is 'n hoekmetingseenheid waarin die
+   hoek van 'n volle sirkel 400 gradiaan is. 'n Regtehoek is dus 100
+   gradiane. Die gon of gradiaan word in 100 desimale minute verdeel wat
+   weer elkeen in 100 desimale sekondes verdeel word. Die woord gon is
+   afkomstig van die Griekse woord gonia wat hoek beteken. Hoeke in gon
+   word soms aangedui met 'n g boskrif, die regte hoek is byvoorbeeld
+   100^g
+
+   Die potensiële voordeel van die gon in navigasie is dat aangesien die
+   afstand van die pole na die ewenaar van die aarde ongeveer 10 000 km
+   is, 1 km op die oppervlak van die aarde een centigon of desimale minuut
+   onderspan by die middel van die aarde. Die gon word egter selde gebruik
+   en gewoonlik hoofsaaklik in aardmeetkunde.^[1]
+
+[wysig] Geskiedenis
+
+   Kompas en wat in 400 Gon gemerk en omskakelingstabel
+   Kompas en wat in 400 Gon gemerk en omskakelingstabel
+
+   Tydens die metrisering wat in die 1790's in Frankryk begin het is daar
+   gesoek na 'n presiese grademeting. Die Peru-Lapland-Metings van
+   1735-1740 wat ter wille van die definisie van 'n lengtemaat wat presies
+   10 000 000 Meter van die ewenaar tot die pool sou lewer het nie die
+   gewenste resultaat gelewer nie; hoewel dit die afplatting van die aarde
+   by die pole bewys het. Jacques Cassini en Jean Dominique Comte de
+   Cassini het in ongeveer 1793 die Nouvelle Triangulation de la France
+   deurgevoer en die eerste oermeter is in 1795 as die tienmiljoenste deel
+   van 'n aardmeridiaankwadrant gedefinieer. Ter selfde tyd is 'n nuwe
+   graderooster (Duits: Gradnetz) ontwikkel sodat 'n volhoek bestaan het
+   uit 400 eenhede van die grade nouvelle (nuwe graad), wat in Duits as
+   Neugrad bekend gestaan het) met 'n eenheid ( 1^gr) wat by die ewenaar
+   presies 100 kilometer sou meet. Die aanduiding as nuwe graad is gebruik
+   om dit te onderskei van die graad wat van toe af ougraad genoem is. In
+   Frans staan die gon ook as grade bekend en in Engels as grad. Dié terme
+   veroorsaak egter verwarring baie tale, soos Afrikaans, waar dit nie van
+   die graad onderskei kan word nie. Die ISO 31-1 standaardnaam gon
+   verwyder die verwarring en maak die ougraad en nuwegraad benamings
+   oorbodig.
+
+   Vir 'n tydlank is daar gepoog om die gon as 'n algemene hoekmaat in
+   tegnologie te vestig. Die voordele van die desimale kwadrante was egter
+   nie van veel belang in ander velde nie en die planne is nie deurgevoer
+   nie. Die gon word vandag selde gebruik en gewoonlik hoofsaaklik in
+   aardmeetkunde.^[1]
+
+[wysig] Verwysings
+
+    1. ^ ^1,0 ^1,1 Bureau International des Poids et Mesures, The
+       International System of Units (SI), bladsy 124, afgelaai op 1 Maart
+       2008
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorieë: Hoekeenhede • Wiskunde saadjies
+

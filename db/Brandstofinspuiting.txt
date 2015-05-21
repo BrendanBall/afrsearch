@@ -1,0 +1,33 @@
+Brandstofinspuiting
+
+
+   Brandstofinspuiting is 'n stelsel waarmee brandstof vir vermenging met
+   lug in 'n binnebrandenjin gelewer word. Dit het die primêre stelsel
+   geword in voertuigenjins en het die vergasser grootliks vir hierdie
+   doel in die 1980's vervang.
+
+   'n Brandstofinspuitstelsel word ontwerp en gekalibreer spesifiek vir
+   die soort brandstof wat dit gaan hanteer: petrol, VPG, etanol, metanol,
+   metaan (aardgas), waterstof of diesel. Die meeste
+   brandstofinspuitstelsels word vir petrol of diesel aanwendings gebou.
+   Met die bekendstelling van elektroniese brandstofinspuiting het die
+   hardeware vir petrol en diesel dieselfde begin lyk. Elektroniese
+   brandstofinspuiting het dit moontlik gemaak om dieselfde hardeware vir
+   'n verskeidenheid brandstowwe te gebruik. Vir petrolenjins was
+   vergassers die hoofmetode waarop brandstof tot die enjin toegevoer is.
+   'n Wye verskeidenheid brandstofinspuitstelsels het egter alreeds
+   bestaan sedert die vroegste gebruik van die binnebrandmotor.
+
+   Die hoofverskil tussen vergassers en brandstofinspuiting is dat
+   brandstofinspuiting die brandstof atomiseer deur dit deur 'n klein
+   opening onder hoë druk pomp terwyl 'n vergasser op die vakuum staatmaak
+   wat deur die luginlaat veroorsaak word soos dit by die enjin ingesuig
+   word.
+
+   Die brandstofinspuiter self is slegs 'n spuitstuk en 'n klep: die
+   drywing om die brandstof in te spuit het sy oorsprong verder terug in
+   die brandstoftoevoerstelsel, vanaf 'n pomp of 'n drukhouer.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Voertuigtegnologie
+

@@ -1,0 +1,66 @@
+Bernoulli beginsel
+
+
+   In fisika, hidrolika en vloeidinamika verwys die Bernoulli beginsel na
+   die verskynsel dat vir die meeste onsaampersbare vloeiers waar geen
+   werk op die vloeistof uitgeoefen word nie, 'n toename in die snelheid
+   van die vloeistof gepaard gaan met 'n afname in die druk of 'n afname
+   in die vloeistof se potensiële energie as gevolg van swaartekrag.^[1]
+   die Bernoulli beginsel is vernoem ter ere van Daniel Bernoulli.
+
+   Die Bernoulli beginsel is ekwivalent aan die beginsel van
+   energiebehoud. Die wet op energiebehoud bepaal dat alle vorme van
+   meganiese energie in 'n vloeistof langs 'n stroomlyn dieselfde is vir
+   al die punte op daardie stroomlyn. Dit vereis dat die som van die
+   kinetiese energie en potensiële energie konstant moet bly. As 'n
+   vloeier horisontaal langs 'n stroomlyn afvloei waar die snelheid
+   toeneem kan dit slegs wees omdat die vloeistof op daardie deel beweeg
+   het van 'n gebied met 'n hoër druk na 'n gebied met 'n laer druk en as
+   die snelheid afneem kan dit slegs wees omat die vloeistof beweeg het
+   vanaf 'n gebied met 'n laer druk na een met 'n hoër druk. Gevolglik sal
+   die hoogste snelheid voorkom waar die druk die laagste is en die
+   laagste snelheid waar die druk die hoogste is, in 'n vloeier wat
+   horisontaal vloei.
+
+[wysig] Vloeivergelyking vir onsaampersbare vloei
+
+   In die meeste gevalle kan die digtheid vloeistowwe benaderd as
+   kontstant beskou word ongeag van drukveranderinge. Om hierdie rede kan
+   vloeistowwe as onsaampersbaar beskou word en die vloei van vloeistowwe
+   as onsaampersbaar beskryf word.
+
+          {v^2 \over 2}+gh+{p\over\rho}=\mathrm{konstant}
+
+   waar:
+
+          v\, die vloeistof se snelheid by 'n punt op 'n stroomlyn is.
+          g\, die swaartekragversnelling is
+          h\, die hoogte van 'n punt bo 'n verwysingsvlak is
+          p\, die druk by die punt is
+          \rho\, die digtheid van die vloeistof by alle punte in die
+          vloeistof is
+
+   Die volgende aannames moet geld vir die vergelyking om toepaslik te
+   wees:
+     * Die vloeier moet onsaampersbaar wees - selfs al wissel die druk,
+       moet die digtheid konstant wees.
+     * Die stroomlyn moet nie die grenslaag binnegaan nie. (Bernoulli se
+       vergelyking is nie toepaslik waar daar viskose kragte inwerk nie,
+       soos in die geval van die grenslaag.)
+
+   Bostaande vergelyking kan herskryf word as:
+
+          {\rho v^2 \over 2}+\rho gh+p=q+\rho gh+p=\mathrm{konstant}
+
+   waar:
+
+          q = \frac{\rho v^2}{2} die dinamiese druk is
+
+[wysig] Verwysings
+
+     *
+         1. ^ Clancy, L.J., (1975), Aerodynamics, Hoofstuk 3, Pitman
+            Publishing Limited, Londen
+
+   Kategorie: Fisika
+

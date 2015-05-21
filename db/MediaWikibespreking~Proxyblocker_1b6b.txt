@@ -1,0 +1,21 @@
+MediaWikibespreking:Proxyblocker
+
+
+   Mmm, ons gebruik gewoonlik instaanbediener vir proxy.
+   "Instaanbedienerblokkeerder" is ongelukkig heelwat langer as "proxy
+   blocker". Het iemand idees vir iets netjies? --Alias 10:27, 26 Augustus
+   2005 (UTC)
+
+          Mijn Engels-woordenboek geeft "gevolmachtigde" voor proxy, dat
+          geeft ook niet veel mogelijkheden :/ Misschien iets met stroman?
+          Danielm 11:37, 26 Augustus 2005 (UTC)
+
+                Ek het eintlik spesifiek verwys na 'n proxy-rekenaar. Op
+                watter bladsy word hierdie teks gebruik? Ek sal graag in
+                konteks wil sien --Alias 13:35, 26 Augustus 2005 (UTC)
+
+                      "Proxy blocker" is een speciale gebruiker die open
+                      proxy's automatisch blokkeert als zij op de
+                      SORBS-zwarte lijst komen. Danielm 13:48, 26 Augustus
+                      2005 (UTC)
+

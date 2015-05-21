@@ -1,0 +1,113 @@
+Muiskleurvlieëvanger
+
+
+                        Muiskleurvlieëvanger
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   Die muiskleurvlieëvanger
+   Die muiskleurvlieëvanger
+                     Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Muscicapidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Melaenornis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. pallidus
+     Subspesie:    {{{subspecies}}}
+               [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                           Binomiale naam
+                        Melaenornis pallidus
+                           Trinomiale naam
+                           {{{trinomial}}}
+                            Tipe Spesies
+                         {{{type_species}}}
+                       {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die muiskleurvlieëvanger in Suider-Afrika
+   Die verspreiding van die muiskleurvlieëvanger in Suider-Afrika
+                              Sinonieme
+
+                             Bradornis pallidus
+
+   Die muiskleurvlieëvanger is 'n medium grootte (lengte 17-20cm)
+   vlieëvanger sonder kenmerkende kleure. Nie maklik uitkenbaar behalwe
+   vir tipiese vlieëvanger bou en houding.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Roep
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Muisgrys bodele en ligter (grouwit) onderdele met swarterige bene en
+   donkerbruin oë. Onderskeibaar van Maricovlieëvanger deur die
+   afwesigheid van kontras tussen bo- en onderdele.
+
+[wysig] Habitat
+
+   Meestal breëblaarbosveld en -savanna, kom ook minder gereeld voor in
+   die doringboomsavanna, waar die Maricovlieëvanger afwesig is.
+
+[wysig] Verspreiding
+
+   In suidelike Afrika beperk to noord oostelike dele van Namibië,
+   Botswana, Zimbabwe en Suid-Afrika. Suide van Mosambiek tot teen die
+   kus.
+
+[wysig] Roep
+
+   Deurmekaar trip triekie trip triekie klanke gevold deur 'n sagter tjurr
+   geluid.
+
+[wysig] Ander name
+
+     * Engels: Pallid Flycatcher
+     * Duits: Fahlschnäpper
+     * Wetenskaplike naam: Melaenornis pallidus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa, Sixth Edition, ISBN 0620175834.
+
+   Kategorie: Vlieëvangers
+

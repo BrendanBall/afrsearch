@@ -1,0 +1,346 @@
+PHP
+
+
+   PHP (PHP: Hypertext Preprocessor) is 'n reflektiewe programmeringstaal
+   oorspronklik ontwerp vir die skep van dinamiese webblaaie. PHP word
+   hoofsaaklik gebruik vir bedienerkant programmatuur maar kan ook vanaf
+   'n instruksielyn koppelvlak of in alleenstaande Grafiese
+   gebruikerskoppelvlakke.
+
+   PHP ding met ander programmeringstale mee soos Perl, Ruby en Python;
+   met ingang Desember 2006 word dit op die vyfde plek van die TIOBE
+   Programming Community Index se gewildheidsleer gelys, wat een plek laer
+   is as in die voorafgaande jaar. Die lys is gebaseer op die wêreldwye
+   beskikbaarheid van praktisyns, kursusse en handelaars.^[1]
+
+   Die enigste implementering word saamgestel deur The PHP Group en word
+   onder voorwaardes van die PHP lisensie vrygestel. Dit word deur die
+   Free Software Foundation as vrye sagteware beskou. Hierdie
+   implementering dien as die de facto standaard vir PHP aangesien daar
+   nie 'n formele spesifikasie bestaan nie.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Gebruik
+             + 2.1 Bedienerkant skrips
+             + 2.2 Instruksielynskripskrywe
+             + 2.3 Kliëntkant Grafiese koppelvlaktoepassings
+        * 3 Sintaks
+             + 3.1 Data tipes
+             + 3.2 Objekte
+        * 4 Hulpbronne
+             + 4.1 Bronversamelings
+             + 4.2 Bronkode Kodeerders, Optimiseerders en Versnellers
+             + 4.3 Ontfouters en verrigtingsanaliseerders
+             + 4.4 Sjabloon-enjins
+             + 4.5 PEAR
+             + 4.6 PECL
+        * 5 Ondersteuning
+        * 6 Eksterne Skakel
+
+[wysig] Geskiedenis
+
+   PHP is aanvanklik geskryf as 'n binêre CGI versameling in die C
+   programmeringstaal deur die Deens-Kanadese programmeerder, Rasmus
+   Lerdorf in 1994 om 'n klein versameling Perl-skrips te vervang wat hy
+   gebruik het om sy persoonlike webblad in stand te hou.
+
+   Lerdorf het PHP aanvanklik geskep om sy persoonlike getuigskrif te
+   vertoon en sekere data in te samel oor die verkeer op sy blad. Personal
+   Home Page Tools is in die openbaar vrygestel op die 8^ste Junie 1995
+   nadat Lerdorf dit met sy eie Vorminterpreteerder gekombineer het om
+   PHP/FI te skep (Hierdie vrystelling word algemeen as PHP weergawe 2
+   beskou).
+
+   Zeev Suraski en Andi Gutmans, twee Israeliese programmeerders by die
+   Technion – Israeliese Instituut vir Tegnologie, het die
+   sintaksanaliseerder in 1997 herfskryf wat die basis gevorm het vir PHP
+   3, toe die afkorting se betekenis ook verander is na 'n rekursiewe
+   afkorting naamlik PHP Hypertext Preprocessor. Die ontwikkelingsspan het
+   PHP/FI 2 amptelik in November 1997 vrygestel na maandelange
+   beta-toetsing. Openbare toetsing van PHP 3 het dadelik daarna begin en
+   die is in Junie van 1998 amptelik vrygestel. Suraski en Gutmans het toe
+   begin om PHP se kern te herskryf en daarmee saam die Zend Enjin geskep
+   in 1999. Hulle het ook Zend Technologies gestig in Ramat Gan, Israel
+   wat aktief betrokke is by die ontwikkeling van PHP.
+
+   In Mei 2000 is PHP 4, aangedryf deur die Zend Enjin 1.0, vrygestel. Die
+   nuutste weergawe met ingang Desember 2006 is 4.4.4 PHP 4 en word steeds
+   ondersteun met sekuriteitsaanpassings vir programmatuur wat dit vereis.
+
+   Op 13 Julie 2004 is PHP 5 vrygestel en is aangedryf deur die nuwe Zend
+   Enjin II. PHP 5 het verskeie nuwe kenmerke bevat soos:^[2]
+     * Kragtige ondersteuning van Objek georiënteerde programmering
+     * Die PHP Data Objects uitbreiding, wat 'n liggewig en konsekwente
+       koppelvlak vir databasisse definieer.
+     * Prestasieverbeteringe deur voordeel te trek uit die nuwe enjin
+     * Beter ondersteuning vir MySQL deur middel van 'n totaal herskrewe
+       uitbreiding
+     * Ingeboude ondersteuning vir SQLite
+     * Geïntegreerde SOAP ondersteuning
+     * Data itereerders
+     * Fouthantering deur Exceptions
+
+   Die nuutste weergawe met ingang Januarie 2007 is PHP 5.2.0.
+
+[wysig] Gebruik
+
+   PHP hardloop gewoonlik op 'n webbediener wat PHP-kode as inset gebruik
+   en skep webblaaie as uitset, maar bevelslyn-skrips en kliëntkant
+   grafiese gebruikerskoppelvlak programme vorm ook deel van die drie
+   primêre gebruike van PHP. PHP kan kosteloos ontplooi word op enige
+   webbediener en bykans enige bedryfstelselplatform. Die PHP Group
+   verskaf ook die volledige bronkode sodat gebruikers dit kan uitbrei en
+   aanpas om aan hulle eie behoeftes te voorsien.
+
+[wysig] Bedienerkant skrips
+
+   Aangesien PHP aanvanklik ontwerp is vir die skep van dinamiese
+   webbladsye, fokus dit hoofsaaklik op bedienerkantskripskrywe. Die
+   PHP-model wat bestaan uit die PHP sintaksverwerker wat hardloop saam
+   met 'n webbediener en 'n webblaaier kan vergelyk word met ander
+   bedienerkant skriptale soos Microsoft se ASP.NET-stelsel, Adobe
+   ColdFusion, Sun Microsystem se JavaServer Pages, Apple se WebObjects,
+   Zope-, mod_perl- en Ruby on Rails raamwerke; aangesien hulle almal
+   dinamiese inhoud verskaf aan die kliënt vanaf 'n webbediener. Om meer
+   direk mee te ding met die "raamwerkbenadering" deur hierdie stelsels,
+   is Zend besig om te werk aan die Zend Framework - 'n stel PHP boublokke
+   en beste praktyke; ander PHP raamwerke in dieselfde trant is CakePHP en
+   Symfony.
+
+   Die LAMP-argitektuur het gewildheid verwerf in die Web-nywerheid as 'n
+   manier om goedkoop-, betroubare-, skaalbare-, veilige webtoepassings te
+   ontplooi. PHP is die P in die LAMP-bondel saam met Linux, Apache en
+   MySQL. PHP kan gebruik word saam met 'n groot aantal
+   databasis-bestuurstelsels, hardloop op die meeste gewilde webbedieners
+   en is beskikbaar vir 'n verskeidenheid bedryfstelsels. Hierdie
+   buigsaamheid bring mee dat PHP 'n wye installasiebasis oor die Internet
+   heen geniet; meer as 18 miljoen Internet domeine gebruik tans
+   bedienerstelsels met PHP daarop geïnstalleer.^[3]
+
+   Voorbeelde van gewilde bedienerkant PHP-toepassings sluit in phpBB,
+   WordPress en Mediawiki.
+
+[wysig] Instruksielynskripskrywe
+
+   PHP verskaf ook 'n bevelslynkoppelvlak genaamd SAPI vir die
+   ontwikkeling van toepassings, die verwerking van joernale of ander
+   administratiewe take. Dit word toenemend gebruik op die instruksielyn
+   vir take wat tradisioneel die domein van Perl, Python, awk was.
+
+[wysig] Kliëntkant Grafiese koppelvlaktoepassings
+
+   PHP verskaf bindings tot Grafiese koppelvlakprogramversamelings soos
+   GTK+ en teksmode programversamelings soso ncurses ten einde die
+   ontwikkeling van 'n breër reeks kruisplatform Grafiese
+   koppelvlaktoepassings in die hand te werk. WinBinder verskaf ook
+   bindings vir PHP om windows toepassings te skryf deur van die WinAPI
+   gebruik te maak.
+
+[wysig] Sintaks
+
+   PHP tree hoofsaaklik op as 'n filter. Die PHP-program neem die toevoer
+   vanuit 'n lêer of stroom wat teks en spesiale PHP instruksies bevat en
+   gee afvoer wat 'n ander stroom data bevat wat vertoon moet word. Sedert
+   PHP 4, kompileer die PHP-sintaksanaliseerder die toevoer om bytecode te
+   produseer wat deur die Zend Enjin verwerk kan word, dit verhoog die
+   werkverrigting daarvan bo die Interpreteerder wat dit voorafgegaan het.
+
+   Die gebruiklike Hello World kodevoorbeel vir PHP sien as volg daaruit:
+<?php
+echo 'Hello, World!';
+?>
+
+   PHP analiseer slegs kode binne die <?php ?>, afbakeningsteks. Enigiets
+   buite die afbakening word direk aan die afvoer gestuur en word nie deur
+   PHP verwerk nie. Die voorbeeld hierbo is dieselfde as die volgende teks
+   (en word omgeskakel in hierdie vorm):
+Hello, World!
+
+   Die hoofgebruik hiervan is om dit moontlik te maak om PHP-stellings in
+   HTML-dokumente in te bou, byvoorbeeld:
+<?php
+// PHP-stellings kom hier
+?>
+Gewone HTML kom hier
+<?php
+// Verdere PHP-stellings
+?>
+
+   Veranderlikes kry 'n dollarteken ($) voorvoegsel en 'n tipe
+   veranderlike hoef nie vooraf verklaar te word nie.
+
+   Anders as funksie- en klasname, is veranderlikes se name
+   hooflettergevoelig. Beide dubbel aangehaalde ("" en heredoc-stringe
+   laat die vermoë toe om die veranderlike se waarde in die string in te
+   bou. PHP behandel nuwe lyne as witspasie in die trant van 'n vryvorm
+   taal (behalwe binne stringaanhalings). Stellings word buiten in die
+   geval van 'n paar uitsonderings deur 'n kommapunt afgesluit.
+
+   PHP het drie soort kommentaarsintaks: dit laat multilyn kommentaar toe
+   deur van /* */ samestelling soos in C gebruik te maak en laat ook
+   kommentaar toe aan die einde van 'n lyn deur van die // en # karakters
+   gebruik te maak (soos in C++ en Perl onderskeidelik).
+
+[wysig] Data tipes
+
+   PHP stoor heelgetalle in 'n platform-afhanklike bestek. Hierdie bestek
+   is tipies 'n 32-greep tekenafhanklike heelgetalle. Heelgetal
+   veranderlikes kan aangedui wod deur van desimale (positief en
+   negatief), oktaal en heksadesimale notasies gebruik te maak. Reële
+   getalle word ook in 'n platform-afhanklike bestek gestoor. Hulle kan
+   spesifiek wees deur van die drywende komma notasie gebruik te maak, of
+   twee vorms van wetenskaplike notasie.
+
+   PHP het ook 'n negatiewe Boolse tipe, genaamd "boolean", soortgelyk aan
+   die ingeboude Boolse tipes in Java en C++. Deur gebruik te maak van die
+   Boolse tipe omskakelingsreëls, kan nie-nul waardes as waar vertolk word
+   en nulwaardes as vals, soos in Perl.
+
+   Die nul data tipe verteenwoordig 'n veranderlike sonder 'n waarde. Die
+   enigste waarde in die nul data tipe is NULL.
+
+   Veranderlikes van die resource tipe verteenwoordig verwysings na
+   eksterne hulpbronne. Hierdie datatipes word tipies deur funksies geskep
+   vanuit 'n besondere uitbreidingsprogram en kan slegs verwerk word deur
+   funksies van dieselfde uitbreiding. Voorbeelde sluit in lêer-, beeld-
+   en databasishulpbronne.
+
+   Die Arrays datatipe ondersteun beide numeriese- en stringindekse en is
+   heterogeen. Arrays kan elemente van enige tipe bevat wat PHP kan
+   hanteer, insluitende huplbronne, objekte en selfs ander arrays. Die
+   orde in lyste word bewaar in lyste van waardes en in hashwaardes met
+   beide sleutels en waardes wat vermeng kan word.
+
+[wysig] Objekte
+
+   Basiese Objekgeoriënteerde funksies is in PHP 3 ingesluit. Die
+   hantering van objekte is egter geheel en al herskryf in PHP 5, wat
+   beter werkverrigting verseker het en meer kenmerke bygevoeg het. In
+   vorige weergawes van PHP, is objekte hanteer soos primitiewe tipes. Die
+   nadeel van hierdie tegniek is dat die hele objek gekopieër was as 'n
+   veranderlike toegeken is, of as 'n parameter na 'n metode aangestuur
+   is. In die nuwe benadering word daar na objekte verwys deur handles en
+   nie volgens 'n waarde nie. PHP 5 het ook private en beskermde (en:
+   protected) lidveranderlikes en metodes gedefinieer, asook Abstrakte
+   klasse en abstrakte metodes. Dit het ook die standaard manier om
+   konstruktore en destruktore soortgelyk aan ander objekgeoriënteerde
+   programmeertale bekend gestel, asook 'n exception handling-model
+   soortgelyk aan ander programmeertale.
+
+   Die static-metode en -klasveranderlike kenmerke in Zend Engine 2 werk
+   nie soos baie mense sou verwag nie. Daar is geen skyntabel-kenmerk in
+   die enjin nie, dus word die static veranderlike gebind met 'n naam
+   tydens samestelling in plaas van met 'n verwysing.
+
+   As die ontwikkelaar vra dat 'n kopie van 'n objek geskep word deur van
+   die gereserveerde woord clone gebruik te maak, sal die Zend engine
+   nagaan of 'n _clone() metode gedefinieer was aldan nie. Indien nie, sal
+   dit by verstek 'n _clone() metode oproep wat al die objek se eienskappe
+   sal kopieër. As 'n _clone() metode gedefinieer is, sal dit dan
+   verantwoordelik wees om die nodige eienskappe in die geskape objek te
+   verstel. Vir gerief verskaf die enjin 'n funksie wat al die eienskappe
+   vanaf die bron-objek kopieër sadat daar begin kan word met 'n replika
+   van die bron-objek en dan slegs die eienskappe herskryf wat verander
+   moet word.
+
+[wysig] Hulpbronne
+
+[wysig] Bronversamelings
+
+   PHP sluit 'n groot aantal vrye en oopbron bronversamelings in saam met
+   die bou van die kern. PHP is 'n fundamenteel internetbewuste stelsel
+   met modules wat ingebou is om FTP-bedieners, baie databasisbedieners,
+   ingeboude SQL bronversamelings soos ingeboude MySQL en SQLite,
+   LDAP-bedieners en andere te lees. Baie funksies wat bekend is aan
+   C-programeurs soos die in die stdio familie is beskikbaar in die
+   standaard bou van PHP.
+
+   PHP uitbreidings is geskryf om die Windows API te ondersteun, om
+   prosesbestuur op Unix-tipe bedryfstelsels te doen, vir multigreep
+   stringe (Unicode), cURL, Internet relay chat en die dinamiese weergee
+   van beelde asook Adobe Flash inhoud. Sommige addisionele uitbreidings
+   is beskikbaar deur die PHP Extension Community Library.
+
+[wysig] Bronkode Kodeerders, Optimiseerders en Versnellers
+
+   Soos met baie skriptale, bly die PHP-skripte normaalweg in menslik
+   leesbare bronkode formaat, selfs op produksiebedieners. Terwyl dit baie
+   buigsaamheid verseker het dit sekuriteits- en
+   werkverrigtingsimplikasies.
+
+   Kodeerders bied 'n mate van bronkode-sekuriteit en maak programmatuur
+   met uitsluitlike besitreg moontlik deur teenstanders te verhoed om die
+   kode te ontsyfer en hulle eie produkte daaruit te ontwikkel. Kodeerder
+   val rofweg in twee tipes; dié wat die bronkode versteek en dié wat kode
+   na bytecode omskakel. Die nadeel van laasgenoemde benadering is dat 'n
+   spesiale uitbreiding om die bediener geïnstalleer moet word om die
+   geënkodeerde skripte uit te voer, hierdie benadering gee egter
+   verhoogde werkverrigting, sekuriteit en 'n geleentheid vir bykomende
+   kenmerke wat nuttig kan wees vir ontwikkelaars. Saamgestelde
+   kode-oplossings kan die behoefte aan verhoogde sekuriteit bevredig deur
+   die gebruik van hul eie uitvoermodules. Sommige eenvoudiger oplossings
+   maak egter staat op die gewone PHP-enjin om die saamgestelde kode uit
+   te voer. Die mees algemeen gebruikte pakette vir bronkade beskerming
+   word deur Zend Technologies en ionCube Ltd vrygestel.
+
+   Kode-optimeerders verbeter die kwaliteit van die saamgestelde kode deur
+   die grootte daarvan te verminder en maak veranderinge wat die
+   uitvoertyd kan verminder en werkverrigting kan verbeter. Die aard van
+   die PHP-samesteller is sodanig dat daar dikwels geleenthede vir
+   kode-optimering voorkom.
+
+   Versnellers bied werkverrigtingsvoordele deur van die saamgestelde vorm
+   van die PHP skrip in gedeelde geheue te stoor om die vertaling en
+   samestelling van die kode te vermy elke keer as die skrip uitgevoer
+   moet word. Hulle kan ook kode-optimering verskaf om verhoogde
+   uitvoerspoed te bewerkstellig. Beide kommersiële (soos die Zend
+   Platvorm) en oopbron versnellers (soos xcache, eAccelerator, APC) is
+   beskikbaar.
+
+[wysig] Ontfouters en verrigtingsanaliseerders
+
+   PHP ontfouters en verrigtingsanaliseerders stel PHP-ontwikkelaars in
+   staat om PHP-kode vinnig en akkuraat te analiseer vir moontlike of
+   aangemelde foute of vertraagde werking. Voorbeelde sluit in APD en
+   Xdebug.
+
+[wysig] Sjabloon-enjins
+
+   Sjabloon-enjins verskaf makros wat PHP-programme in staat stel om
+   algemene veranderlikes eenvormig te identifiseer. Een so 'n gewilde
+   sjabloon-enjin is Smarty.
+
+[wysig] PEAR
+
+   Die PHP Extension and Application Repository (PEAR) projek het dit ten
+   doel om herbruikbare bronversamelings en komponente vir
+   PHP-ontwikkeling daar te stel. PEAR-projekte word gewoonlik geskryf in
+   PHP-kode deur van die Objekgeoriënteerde programmering benadering
+   gebruik te maak.
+
+[wysig] PECL
+
+   Die PHP Extension Community Library (PECL) projek verskaf uitbreidings
+   tot die PHP-taal. PECL-uitbreidings word gewoonlik in C geskryf deur
+   van die prosedurele programmering benadering gebruik te maak.
+
+[wysig] Ondersteuning
+
+   PHP het 'n formele ontwikkelingshandleiding wat onderhou word deur die
+   vrye sagteware gemeenskap. Verder kan antwoorde op baie vrae gevind
+   word deur 'n eenvoudige internetsoektog te doen. PHP-gebruikers help
+   mekaar deur 'n verskeidenheid van media soos kletskamers, forums,
+   nuusgroepe en PHP-ontwikkelaarswebwerwe. Die PHP
+   ontwikkelingsgemeenskap neem op hul beurt aktief deel aan sulke
+   gemeenskappe, en verkry sodoende hulp vir hulle eie
+   ontwikkelingspogings (PHP self) en verskaf dan ook hulp. Daar is vele
+   hulpbronne tot die groentjie PHP-ontwikkelaar se beskikking.
+
+[wysig] Eksterne Skakel
+
+     * PHP Tuisblad
+
+   Kategorie: Programmeertale
+

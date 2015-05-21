@@ -1,0 +1,84 @@
+Aktinied
+
+
+   Atoomgetal     Naam     Simbool
+   89         Aktinium     Ac
+   90         Torium       Th
+   91         Protaktinium Pa
+   92         Uraan        U
+   93         Neptunium    Np
+   94         Plutonium    Pu
+   95         Amerikium    Am
+   96         Curium       Cm
+   97         Berkelium    Bk
+   98         Kalifornium  Cf
+   99         Einsteinium  Es
+   100        Fermium      Fm
+   101        Mendelevium  Md
+   102        Nobelium     No
+
+   Die aktinied reeks bestaan uit die 14 chemiese elemente wat tussen
+   aktinium en nobelium (ingesluit) lê op die periodieke tabel, met
+   atoomgetalle 89 - 102. Die aktinied reeks is vernoem na aktinium. Alle
+   aktiniede is f-blok elemente. Daar is ook alternatiewe rangskikkings
+   wat aktinium uitsluit en/of die oorgangsmetaal lawrensium insluit. Daar
+   word verwag dat Lawrensium, al is dit 'n d-blok element, eienskappe sal
+   hê wat meer soortgelyk is aan die aktinides as aan die oorgangsmetale.
+   Die aktinied reeks word in sommige definisies van die seldsame
+   aardelemente ingesluit.
+
+   Die aktiniede vertoon minder ooreenkoms in hulle chemiese eienskappe as
+   die lantanied reeks. Dit het byvoorbeeld 'n groter verskeidenheid
+   oksidasie toestande, wat aanvanklik daartoe gelei het dat daar
+   onduidelikheid betaan het of aktinium, torium, en uraan as d-blok
+   elemente beskou moes word. Alle aktinide is radioaktief.
+
+   Slegs aktinium, torium, en uraan kom natuurlik in meer as
+   spoor-hoeveelhede in die aardkors voor. Neptunium en Plutonium is al in
+   spoor-hoeveelhede in uraanerts as vervalprodukte of deur bombardering
+   vervaardig aangetref. Die oorblywende aktiniede is in kernneerslag
+   ontdek, of is in particle colliders gesintetiseer. Die tweede helfte
+   van die reeks het geweldige kort halfleeftye.
+
+   Die aktiniede word gewoonlik in die vorm van 'n voetnota onder die hoof
+   deel van die periodieke tabel geplaas. Die volle wydte weergawe van die
+   periodieke tabel vertoon die posisie van die aktiniede meer opsigtelik.
+
+   'n Organometalliese verbinding van 'n aktinied staan bekend as 'n
+   organoaktinied.
+
+[wysig] Geskiedenis van die aktinied reeks
+
+   Tydens sy Manhattan-Projeknavorsing in 1944 het Glenn T. Seaborg
+   onverwagte probleme ondervind met die isolering van Amerikium (95) en
+   Curium (96). Hy begin toe wonder of die elemente eintlik aan 'n ander
+   reeks behoort wat sou verduidelik hoekom die verwagte chemiese
+   eienskappe van die nuwe element verskil het van wat verwag is. In 1945
+   het hy teen die advies van kollegas 'n voorstel gemaak vir die mees
+   beduidende verandering aan Mendelejef se periodiek tabel wat universeel
+   deur die wetenskapgemeenskap aanvaar is: die '''aktinied reeks'''.
+
+   In 1945 publiseer Seaborg sy aktiniedkonsep van swaar element
+   elektroniese struktuur en voorspel dat die aktiniede 'n oorgangsreeks
+   analoog aan die seldsame aard reeks van die lantaniede elemente sou
+   vorm.
+
+   In 1961 ontdek Antoni Przybylski 'n ster wat 'n ongewoon hoë
+   hoeveelheid aktiniede bevat.
+   Beeld:Actinide phases.gif
+   Toestandsdiagram van die aktinied elemente.
+
+[wysig] Verwysings
+
+     * The Columbia Encyclopedia, Sixth Edition.
+     * Chemical Elements website
+     * Actinides on the Book Rags website
+     * Lawrence Berkeley Laboratory image of historic periodic table by
+       Seaborg showing actinide series for the first time
+     * Lawrence Livermore National Laboratory, Uncovering the Secrets of
+       the Actinides
+     * Los Alamos National Laboratory, Actinide Research Quarterly
+
+   Sjabloon:PeriodiekeTabelVoetstuk
+   Kategorieë: Periodieke tabel • Aktiniede
+

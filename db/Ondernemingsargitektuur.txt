@@ -1,0 +1,38 @@
+Ondernemingsargitektuur
+
+
+   Ondernemingsargitektuur is 'n tydgeordende, dinamiese ontwerp van 'n
+   onderneming in sy geheel, wat:
+     * gebaseer is op 'n verlangde toekomsvisie en migrasieplan
+     * opgestel is volgens 'n gemeenskaplike stel riglyne, beginsels en
+       basiese boustene,
+     * beoog om 'n bepaalde gemeenskaplike ondernemingsbevoegdheid te
+       vestig
+     * die onderneming se kompeterend fiksheid verhoog, risikos bestuur en
+       rykdom skep.
+     * prioritiseer in watter volgorde verbeterings geïmplementeer word.
+
+[wysig] Ondernemingsargitektuurdomeine
+
+   'n Ondernemingsargitektuur bestaan uit verskeie domeine wat die
+   volgende insluit:
+     * Besigheidsargitektuur
+          + Prosesargitektuur
+     * Inligtingsargitektuur
+          + Data-argitektuur
+          + Sekuriteitsargitektuur
+          + Integrasieargitektuur
+     * Toepassingsargitektuur
+     * Tegnologiese argitektuur
+          + Bedryfstelselargitektuur
+          + Bedienerargitektuur
+          + Netwerkargitektuur
+     * Diensgeoriënteerde argitektuur
+
+[wysig] Verwante skakels
+
+     * Bedryfsingenieurswese
+     * Inligtingstegnologie
+
+   Kategorie: Tegnologie
+

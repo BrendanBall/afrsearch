@@ -1,0 +1,63 @@
+Ligbreking
+
+
+   ligbreking door 'n prisma
+   ligbreking door 'n prisma
+
+   Ligbreking, is die verandering, ligbuiging, ligbreking of refraksie in
+   die voortplantingsrigting van 'n energiegolf (in hierdie geval 'n
+   liggolf) wanneer dit sydelings (nie loodreg nie) deur die oppervlak
+   tussen twee mediums beweeg, een medium met 'n sekere digtheid
+   (byvoorbeeld lug) en 'n ander medium van verskillende digtheid
+   (byvoorbeeld glas).
+
+   Die refraksie van 'n liggolf vind plaas op die grens (oppervlak) tussen
+   die twee mediums, dit wil sê die vlak waar die glas en die lug aan
+   mekaar raak. Die snelheid waarteen 'n liggolf beweeg, word beïnvloed
+   deur die digtheid van die medium waarin die liggolf beweeg. Die wet van
+   Snellius beskryf die verband tussen die invalshoek en uitgangshoek.
+
+   In 'n digter medium sal 'n liggolf dus stadiger beweeg as 'n liggolf in
+   ’n minder digte medium. Refraksie kan ook omskryf word as die
+   verhouding tussen die snelheid van ’n liggolf in 'n vakuum en die
+   snelheid van ’n liggolf in die medium waarin 'n liggolf beweeg. Die
+   verandering in die voorplantingsnelheid van ’n liggolf wat vanuit een
+   medium met 'n bepaalde refraksie indeks op ’n medium met 'n ander
+   refraksie indeks inval, kan verklaar word aan die hand van die
+   molekulêre eienskappe van die medium. Die elektrone van die molekules
+   waaruit die medium bestaan, ondergaan trillings as gevolg van die
+   invallende liggolwe en straal hierdeur self lig uit. Die invallende
+   liggolwe word in die medium deur interferensie met die lig wat deur die
+   trillende elektrone uitgestuur word, uitgedoof en die liggolwe wat
+   oorbly is dan dié wat deur die elektrone uitgestuur word. Die grootte
+   van die refraksie indeks word bepaal deur die wyse waarop die elektrone
+   van die medium deur die invallende liggolwe in trilling gebring word.
+
+   Die verandering in die voortplantingsnelheid van ’n liggolf wat vanuit
+   een materiële medium met ’n bepaalde refraksie indeks (digtheid) op ’n
+   materiële medium met ’n ander refraksie indeks (digtheid) inval, kan
+   verklaar word aan die hand van die atomiese eienskappe van die
+   materiële medium waarbinne die liggolf voortgeplant word. Die elektrone
+   van die atome waaruit die materiële medium bestaan, ondergaan trillings
+   as gevolg van die invallende liggolwe en straal hierdeur self lig uit.
+   Die invallende liggolwe word in die materiële medium deur interferensie
+   met die lig wat deur die trillende elektrone uitgestuur word, uitgedoof
+   en die liggolwe wat oorbly is dan dié wat deur die elektrone uitgestuur
+   word. Die grootte van die refraksie indeks word dan bepaal deur die
+   wyse waarop die elektrone van die materiële medium deur die invallende
+   liggolwe in trilling gebring word.
+
+   Deur die verkillende golflengtes of (kleuren) lig is die breking
+   meestal ook verskillend, hierdoor wordt bijv. in een prisma een
+   ligbundel gebroken (gespleten) in bundels verkillende kleuren, dus in
+   lig met die verskillende frequensies. Dit verschijnsel wordt dispersie
+   of kleurschifting genoemd en is de oorzaak van chromatische aberratie
+   in lensen.
+   Een bekend voorbeeld: als het regent terwijl die zon schijnt worden die
+   ligstralen van de son gebroken (en intern weerkaatst) door de
+   regendruppels. Als je met die rug naar de son staat zie je vóór je een
+   regenboog.
+
+   In een anisotrope medium treedt dubbele breking op.
+   Kategorie: Optika
+

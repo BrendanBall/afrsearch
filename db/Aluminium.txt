@@ -1,0 +1,388 @@
+Aluminium
+
+
+
+                     magnesium – aluminium – silikon
+            B
+           Al
+           Ga
+
+
+             Aluminium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal aluminium, Al, 13
+                                                  Chemiese reeks boorgroep
+                                     Groep, Periode, Blok 13 (IIIA), 3 , s
+                                       Digtheid, Hardheid 2700 kg/m^3, 0.5
+                                           Voorkoms wit met silwer skynsel
+                                                           Atoomeienskappe
+                                                  Atoomgewig 26.981538 ame
+                                         Atoomradius (ber.) 125 (118) pm]]
+                                                   Kovalente radius 118 pm
+                                            van der Waals radius geen data
+                                        Elektronkonfigurasie [Ne]3s^2 3p^1
+                                           e^− e per energievlak 2, 8, 3
+                               Oksidasietoestande (Oksied) -3 (amfoteries)
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (paramagneties)
+                                            Smeltpunt 933.47 K (660.3 °C)
+                                                Kookpunt 2792 K (2518 °C)
+                                    Molêre volume 10.00 ×10^−6 m^3/mol
+                                            Verdampingswarmte 293.4 kJ/mol
+                                              Smeltingswarmte 10.79 kJ/mol
+                                           Dampdruk 2.42×10^-6Pa teen ? K
+                                       Spoed van klank 5100 m/s teen 933 K
+                                                                  Algemeen
+                                  Elektronegatiwiteit 1.61 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 900 J/(kg*K)
+                           Elektriese geleidingsvermoë 37.7 10^6/(m·ohm)
+                                    Termiese geleidingsvermoë 237 W/(m*K)
+                                   1^ste ionisasie potensiaal 577.5 kJ/mol
+                                   2^de ionisasie potensiaal 1816.7 kJ/mol
+                                   3^de ionisasie potensiaal 2744.8 kJ/mol
+                                    4^de ionisasie potensiaal 11577 kJ/mol
+                                    5^de ionisasie potensiaal 14842 kJ/mol
+                                    6^de ionisasie potensiaal 18379 kJ/mol
+                                    7^de ionisasie potensiaal 23326 kJ/mol
+                                   8^ste ionisasie potensiaal 27465 kJ/mol
+                                    9^de ionisasie potensiaal 31853 kJ/mol
+                                   10^de ionisasie potensiaal 38473 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso    NV   halfleeftyd VM VE MeV  VP
+                                ^26Al {sin.} 717 E3 y    ε  4.004  ^26Mg
+                                ^27Al 100%   Al is stabiel met 14 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Aluminium is die chemiese element in die periodieke tabel met die
+   simbool Al en atoomgetal van 13.
+
+   Aluminium is 'n silwerige, pletbare metaal uit die boorgroep, wat
+   primêr uit bauxiet erts ontgin word en beskik oor merkwaardige
+   weerstand teen oksidasie (vanweë die passiveringsverskynsel), sterkte
+   en ligte gewig. Aluminium word in baie nywerhede aangewend om 'n groot
+   verskeidenheid produkte te vervaardig wat belangrik is vir die
+   wêreldekonomie. Strukturele onderdele wat uit aluminium vervaardig is,
+   is van onmisbare belang in die lugvaartnywerheid en ook baie belangrik
+   op ander gebiede soos vervoer en die bounywerheid, waar die ligte
+   gewig, duursaamheid en sterkte benodig word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding en hulpbronne
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Chemie
+             + 7.1 Oksidasietoestand 1
+             + 7.2 Oksidasietoestand 2
+             + 7.3 Oksidasietoestand 3
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Aluminium metaal (muntstuk slegs vir vergelyking van grootte)
+   Aluminium metaal (muntstuk slegs vir vergelyking van grootte)
+
+   Aluminium is 'n sagte, liggewig metaal met 'n dowwe silwergrys
+   voorkoms, vanweë die dun lagie oksied wat vinnig daarop vorm wanneer
+   dit aan lug blootgestel word en die metaal teen verdere korrosie
+   beskerm. Aluminium se digtheid is ongeveer 'n derde van staal of koper;
+   is pletbaar en smeebaar en kan maklik gemasjineer en gegiet word; het
+   uitstekende korrosiebestandheid en duursaamheid. Dit is ok
+   nie-magneties en vonkwerend en is die tweede mees pletbare metaal (na
+   goud) en die sesde mees smeebare metaal.
+
+[wysig] Aanwendings
+
+   Die gebruik van aluminium, hetsy dit aan waarde of volume gemeet word,
+   oorskry die gebruik van enige ander metaal buiten yster en is 'n
+   belangrike metaal in bykans elke segment van die wêreldekonomie. Suiwer
+   aluminium het 'n lae trekspanning, maar vorm geredelik legerings met
+   baie ander elemente soos koper, sink, magnesium, mangaan en silikon.
+   Wanneer dit gekombineer word met termo-meganiese verwerking toon
+   hierdie aluminiumlegerings merkbare verbeterings in meganiese
+   eienskappe.
+
+   Aluminiumlegerings maak noodsaaklike komponente van vliegtuie en
+   vuurpyle uit vanweë hulle hoë sterkte tot gewigsverhouding. Wanneer
+   aluminium in 'n vakuum verdamp word, vorm dit 'n bedekking wat beide
+   sigbare lig en stralingswarmte weerkaats. Hierdie bedekkings vorm 'n
+   dun lagie beskermende aluminiumoksied wat nie verweer met tyd soos wat
+   silwerbedekkings doen nie. Byna alle moderne spieëls word gemaak met 'n
+   dun weerkaatsende laag aluminium op die rugkant van 'n glasblad.
+   Teleskoopspieëls word ook bedek met 'n dun laag aluminium maar word aan
+   die bokant van die glas bedek om interne weerkaatsing te vermy al maak
+   dit die oppervlak meer vatbaar vir beskadiging.
+
+   Van die vele gebruike van aluminium is in:
+     * Vervoer (motorvoertuie, vliegtuie, vragmotors, spoortrokke, skepe,
+       ens.
+     * Verpakking (kannetjies, foelie ens.)
+     * Waterbehandeling
+     * Konstruksie (vensters, deure ens)
+     * Verbruikersgoedere (toebehoere, eetware ens.)
+     * Elektriese transmissielyne (hoewel die elektriese geleidingsvermoë
+       slegs 60% van koper uitmaak, is dit ligter in gewig en baie
+       [http:www.metalprices.com goedkoper]).
+     * Masjinerie
+     * Ten spyte daarvan dat aluminium nie-magneties is, word dit gebruik
+       in MKM-staal en Alnico magnete.
+     * Hoë suiwerheid aluminium (SPA, 99.980-99.999% Al) word gebruik in
+       elektronika en CD's.
+     * Verpoeierde aluminium word algemeen gebruik om verf te versilwer.
+       Aluminiumvlokkies kan ook gebruik word as bestandeel vir
+       onderlaagverf, veraf vir voorbereiding van hout — wanneer die verf
+       droog word, oorvleuel die vlokke om 'n waterbestande sperlaag te
+       vorm.
+     * Geanodiseerde aluminium is meer bestand teen verdere oksidasie en
+       word in verskeie konstruksiebedrywe ingespan.
+
+   Aluminiumoksied, alumina, word natuurlik aangetref as korund, amaril,
+   robyn en saffier en word gebruik vir die maak van glas. Sintetiese
+   robyn en saffier word gebruik in lasers vir die skep van koherente lig.
+
+   Aluminium oksideer met 'n heftige reaksie en word daarom ingespan as
+   vaste vuurpylbrandstof en termiet (chemie).
+
+[wysig] Geskiedenis
+
+   Die oudste (dog onbevestigde) verwysing na aluminium kom voor in
+   Plinius die Ouere se Naturalis Historia. Die Antieke Grieke en Romeine
+   het soute van die metaal gebruik as bytstof vir kleur van materiale en
+   as bloedstolmiddel met die verbind van wonde (aluin word nog steeds vir
+   hierdie doeleinde gebruik). In 1761 het Guyton de Morveau voorgestel
+   dat die basis van aluin "alumine" genoem word. In 1808 het Humphry Davy
+   vasgestel dat aluin 'n metaal as basis bevat, waaraan hy toe die naam
+   toegeken het.
+
+   Friedrich Wöhler word algemeen erken as die persoon wat aluminium vir
+   die eerste keer geïsoleer het. Die Deense fisikus, Hans Christian
+   Ørsted, het egter twee jaar tevore die metaal in 'n onsuiwer vorm
+   vervaardig.
+
+   Charles Martin Hall het in 1886 die patent (V.S.A patent no. 400655)
+   ontvang vir die elektrolitiese ekstraksie van aluminium. Henri
+   Saint-Claire Deville (Frankryk) het Wöhler se metode verbeter in 1846
+   en sy bevindings in 'n boek in 1859 gepubliseer. Die ontwikkeling van
+   die Hall-Héroult proses in 1886 het die ontrekking van aluminium vanuit
+   minerale 'n goedkoop proses gemaak en word nou wêreldwyd steeds
+   gebruik.
+   Die beeld wat bekend gestaan het as Eros by die Piccadilly Sirkus in
+   London, is in 1893 gemaak en is een van die eerste beelde wat in
+   aluminium gegiet is.
+   Die beeld wat bekend gestaan het as Eros by die Piccadilly Sirkus in
+   London, is in 1893 gemaak en is een van die eerste beelde wat in
+   aluminium gegiet is.
+
+[wysig] Verspreiding en hulpbronne
+
+   Alhoewel aluminium 'n element is wat in oorvloed in die Aarde se kors
+   voorkom (8.1%), is dit baie skaars in sy vrye vorm en is eers as 'n
+   edelmetaal beskou wat meer waardevol was as goud. (Daar word gesê dat
+   Napoleon III van Frankryk 'n stel aluminium borde net vir sy
+   belangrikste gaste gebruik het. Ander moes maar tevrede wees met die
+   goue borde.) Aluminium is dus 'n relatiewe nuwe industriële metaal en
+   word nou in kommersiële hoeveelhede vir net bietjie langer as 'n 100
+   jaar lank geproduseer.
+
+   Aluminium was ten tye van die ontdekking daarvan, uiters moeilik om te
+   skei vanuit die rotse waarvan dit deel uitgemaak het. Aangesien al die
+   Aarde se aluminium in die vorm van verbindings opgesluit gelê het, was
+   dit die moeilikste metaal op aarde om in die hande te kry, ten spyte
+   van die feit dat dit waarskynlik die mees volopste metaal op die
+   planeet is.
+
+   Die herwinning van hierdie metaal uit skroot het 'n belangrike
+   onderdeel van die aluminium-nywerheid geword. Die herwinning behels
+   eenvoudig die smelt van die metaal, wat baie goedkoper is as om dit
+   vanuit die erts te herwin. Die suiwering van aluminium vanuit sy erts
+   verg enorme hoeveelhede elektrisiteit; waar die herwinningsproses slegs
+   sowat 5% van dié hoeveelheid energie benodig. Herwinning van aluminium
+   is al 'n algemene praktyk sedert die vroeë 1900s. Dit het egter 'n lae
+   profiel geniet tot en met die laat 1960s toe die skielike styging in
+   die vraag na koeldrankblikkies gelei het tot die openbare bewusmaking
+   van herwinning. Bronne van herwonne aluminium sluit in karre, vensters
+   en deure, toebehore, houers en ander produkte.
+
+   Aluminium is 'n reaktiewe metaal en kan nie vanuit sy erts, bauxiet
+   (Al[2]O[3]), ontgin word deur dit met koolstof te reduseer nie. In
+   plaas daarvan word dit ontgin deur elektrolise –die metaal word
+   geoksideer in 'n oplossing en dan weer gereduseer na die suiwer metaal.
+   Die erts moet in die vloeibare vorm wees vir dit om te gebeur. Bauxiet
+   het egter 'n smeltpunt van 2000°C, wat 'n te hoë temperatuur is vir
+   ekonomiese ontginning. Bauxiet is daarom vir baie jare in gesmelte
+   krioliet opgelos, wat die smeltpunt verlaag tot 900 °C. Krioliet is nou
+   vervang met 'n kunsmatige mengsel van aluminium-, natrium- en
+   kalsiumfluoriede. Die proses verg egter steeds 'n groot hoeveelheid
+   energie en aanlegte het dikwels hulle eie kragstasies.
+
+   Die elektrodes wat gebruik word vir die elektrolise van bauxiet is
+   beide van koolstof. Wanneer die erts gesmelt is, is die ione vry om
+   rond te beweeg. Die reaksie wat dan by die negatiewe katode plaasvind
+   is:
+
+          Al^3+ + 3e^- → Al
+
+   Hier word die aluminiumione gereduseer (elektrone bygevoeg). Die
+   aluminiummetaal sink dan na die bodem en word afgetap.
+
+   Die positiewe anode oksideer die suurstof van bauxiet om suurstof gas
+   vry te stel:
+
+          2O^2- → O[2] + 2e^-
+
+   Die anode moet dikwels vervang word omdat die suurstofgas wat gevorm
+   word baie warm is en geredelik met die koolstofelektrode reageer as
+   volg:
+
+          O[2] + C → CO[2]
+
+   Ten spyte van die hoë koste van elektrolise, word aluminium dikwels
+   gebruik. Aluminium kan ook ontrek word vanuit klei maar die proses is
+   nie ekonomies lewensvatbaar nie.
+
+   Elektriese energie verteenwoordig ongeveer 'n derde van die koste van
+   aluminium-raffinering. Dis om hierdie rede dat die raffinaderye in
+   gebiede geleë is waar die verskaffing van elektriese krag in oorvloed
+   beskikbaar en goedkoop is.
+
+[wysig] Isotope
+
+   Aluminium het nege isotope, waarvan die atoomgewigte wissel van 23 tot
+   30. Slegs Al-27 (Stabiele isotoop) en Al-26 (radio-aktiewe isotoop,
+   t[1/2]=7.2 × 10^5 j) kom natuurlik voor, Al-27 se natuurlike
+   verspreiding is egter 100%. Al-26 word geproduseer vanuit argon in die
+   atmosfeer deur versplintering vanweë botsings met protone in die
+   kosmiese straling. Aluminium isotope het praktiese toepassings gevind
+   met die bepaling van die ouderdom van mariene afsettings,
+   mangaanknobbels, gletser-ys, kwarts in rotse wat blootgestel is asook
+   meteoriete. Die verhouding van Al-26 tot berillium-10 is ook gebruik om
+   die rol van vervoerneerslag, sedimentberging en bedekkingstye asook
+   erosie op 10^5 tot 10^6 jaar tydskale te bestudeer.
+
+   Kosmogeniese Al-26 is eers ingespan in studies van die Maan en
+   meteoriete. Meteorietskerwe word nadat hulle van die oorspronklike
+   voorwerp geskei is, blootgestel aan intense kosmiese bestraling soos
+   dit deur die ruimte beweeg met die gevolg dat noemenswaardige
+   hoeveelhede Al-26 geproduseer word. Nadat dit Aarde toe val, beskerm
+   die atmosfeer hierdie skerwe teen verdere Al-26 produksie en kan die
+   vervaltempo gebruik word om vas te stel hoe lank die skerf op die aarde
+   is. Meteorietnavorsing het ook getoon dat Al-26 redelik algemeen
+   voorgekom het ten tye van die vorming van ons sonnestelsel.
+
+[wysig] Voorsorgmaatreëls
+
+   Aluminium is een van die weinige elemente wat in groot hoeveelhede
+   voorkom maar nie lyk asof dit enige voordelige funksie in lewende selle
+   het nie. 'n Klein persentasie mense is egter allergies daarvoor — hulle
+   ervaar onsteking van die huid in kontak met enige vorm van die metaal.
+   Vir die meeste ander mense word aluminium nie as so giftig as
+   swaarmetale beskou nie maar daar is bewyse van 'n mate van toksisiteit
+   wanneer dit in buitensporige hoeveelhede ingeneem word. Die gebruik van
+   aluminium vir kookgereedskap, wat gewild is vanweë die uitstekende
+   korrosieweerstand daarvan en goeie hittegeleiding het nog nooit gelei
+   tot aluminiumvergiftiging nie.
+
+   Sorg moet geneem word om te verhoed dat aluminium in kontak kom met
+   chemikalieë wat dit vinnig kan laat korrodeer. 'n Klein hoeveelheid
+   kwik wat op 'n aluminium oppervlak aangewend word, kan die normale
+   oksiedlagie beskadig en kan selfs swaar strukturele elemente ernstig
+   daardeur verswak word. Dit is vir hierdie rede dat kwiktermometers nie
+   toegelaat word op baie lugrederye nie, aangesien aluminium 'n algemene
+   strukturele komponent van vliegtuie uitmaak.
+
+[wysig] Chemie
+
+[wysig] Oksidasietoestand 1
+
+     * AlH word gevorm wanneer aluminium verhit word tot 1500°C in 'n
+       waterstofatmosfeer.
+     * Al[2]O word gevorm wanneer die gewone oksied, Al[2]O[3] saam met Si
+       tot 1800°C in 'n vakuum verhit word.
+     * Al[2]S kan vervaardig word deur Al[2]S[3] saam met aluminiumvysels
+       teen 1300°C in 'n vakuum te verhit. Dit ontbind vinnig weer terug
+       tot die reagense. Die selenied word op 'n soortgelyke manier
+       voorberei.
+     * AlF, AlCl en AlBr bestaan in die dampfase wanneer die tri-halied
+       saam met aluminium verhit word.
+
+[wysig] Oksidasietoestand 2
+
+     * Aluminiumsuboksied, AlO is teenwoordig wanneer aluminium poeier in
+       suurstof brand.
+
+[wysig] Oksidasietoestand 3
+
+     * Fajans reëls toon dat die eenvoudige trivalente katioon Al^3+ nie
+       aangetref behoort te word in anhidriese soute of binêre verbindings
+       soos Al[2]O[3] nie. Die hidroksied is 'n swak basis en aluminium
+       soute van swak basisse, soos karbonate, kan nie voorberei word nie.
+       Die soute van sterk sure, soos nitrate, is stabiel en oplasbaar in
+       water en vorm hidrate wat ten minste ses molekules kristalwater
+       bevat.
+     * Aluminium hidried, (AlH[3])[n], kan vanuit aluminium trimetiel en
+       'n oormaat waterstof voorberei word. Dit brand plofbaar in lug. Dit
+       kan ook voorberei word deur die werking van aluminiumchloried op
+       litiumhidried in 'n eter oplossing, maar kan nie vanaf die
+       oplosmiddel geskei word nie.
+     * Aluminiumkarbied, Al[4]C[3] word gemaak deur 'n mengsel van die
+       elemente te verhit tot bo 1000°C. Die bleek, geel kristalle het 'n
+       komplekse kristalstruktuur en reageer met water of verdunde sure om
+       metaan vry te stel. Die asetilied, Al[2](C[2])[3] word gemaak deur
+       asetileen oor verhitte aluminium te voer.
+     * Aluminiumnitried, AlN, kan voorberei word vanuit die elemente by
+       800°C. Dit word deur water gehidroliseer om ammoniak en
+       aluminiumhidroksied te lewer.
+     * Aluminiumfosfied, AlP, word op 'n soortgelyke manier voorberei en
+       hidroliseer om fosfien te lewer.
+     * Aluminiumoksied, Al[2]O[3], kom in die natuur voor as korund en kan
+       gemaak word deur aluminium in suurstof te brand of deur die
+       hidroksied, nitraat of sulfaat te verhit. As 'n edelsteen word die
+       hardheid daarvan slegs deur die van diamant, boornitried en
+       karborund oorskry en is dit bykans geheel onoplosbaar in water.
+     * Aluminiumhidroksied kan voorberei word as 'n gelatienagtige
+       neerslag deur ammoniak by 'n waterige oplossing van 'n
+       aluminiumsout te voeg. Dit is amfoteries, deurdat beide as 'n baie
+       swak suur optree en ook aluminate met alkalies vorm. Dit bestaan in
+       verskeie kristallyne vorme.
+     * Aluminiumsulfied, Al[2]S[3], kan voorberei word deur
+       waterstofsulfied oor 'n aluminiumpoeier te voer. Dit is
+       polimorfies.
+     * Aluminiumfluoried, AlF[3], word gemaak deur die hidroksied met HF
+       te behandel of dit kan direk vanuit die elemente voorberei word.
+       Dit bestaan uit 'n reuse molekuul wat sublimeer sonder om te smelt
+       teen 1291°C. Dit is 'n baie inerte materiaal. Die ander trihaliedes
+       is dimeries met 'n brugagtige struktuur.
+     * Organo-metalliese verbindings met die empiriese verhouding AlR[3]
+       bestaan en waar hulle nie ook reuse molekules vorm nie, bestaan die
+       verbindings ten minste uit dimere of trimere. Hulle word dikwels in
+       organiese chemie gebruik.
+     * Alumino-hidriede is van die mees elektropositiewe verbindings,
+       waarvan die nuttigste litiumalumino-hidried, LiAlH[4]] is. Dit
+       ontbind na litiumhidried, aluminium en waterstof wanneer dit verhit
+       word en word deur water gehidroliseer. Dit word ook dikwels in
+       organiese chemie toepassings benut. Die alumino-haliede het 'n
+       soortgelyke struktuur.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Aluminium
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Aluminium
+     * EnvironmentalChemistry.com – Aluminium
+     * World Aluminium
+     * Alu-Scout
+
+   Kategorie: Chemiese elemente
+

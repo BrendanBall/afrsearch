@@ -1,0 +1,38 @@
+Bewyse
+
+
+   In die eenvoudige argument en argumentvorm wat ons as voorbeeld gebruik
+   het, kan mens onmiddellik, as't ware met een gedagtegreep, insien dat
+   dit geldig is, dus dat die konklusie waar moet wees as die premisse
+   waar is. By meer ingewikkelde argumente kan daar 'n groter
+   begripsgaping wees tussen premisse en konklusie - 'n gaping wat ons
+   volgens sekere reëls moet oorbrug met tussenstappe wat ons 'n bewys
+   noem. 'n Voorbeeld:
+     * (i) Andries of Bettie gaan; A Ú B.
+     * (ii) As Andries of Chris gaan, dan gaan Bettie ook; (A Ú C) ® B.
+     * (iii) Dus gaan Bettie; B.
+
+   Omdat dit nou nie so maklik is om onmiddellik in te sien dat die
+   argument geldig is nie, bou mens 'n bewys op wat tussenstappe in die
+   argument invoeg, op so 'n wyse dat elke tussenstap se geldigheid
+   onbetwisbaar is. Die leser word gevra om self sulke tussenstappe in die
+   argument te verskaf. Hier is 'n wenk: Dit is sekerlik 'n logiese
+   waarheid wat ons mag aanvaar dat Andries nie gaan nie of wel gaan; ¬A Ú
+   A. As ons dié twee moontlikhede afsonderlik ondersoek, word dit
+   duidelik dat Bettie in beide gevalle wel gaan.
+
+   In die wiskunde noem ons die premisse waarmee ons 'n argument begin die
+   aksiomas en die gevolgtrekkings van bewyse noem ons stellings of
+   teoremas. Om 'n bewys (volgens sekere bewysreëls) vir 'n geldige
+   argument in die wiskunde of elders op te stel, is dikwels uiters
+   moeilik.
+
+   Die logikus Kurt Gödel (1906-1978) het in 1930 bewys dat in die
+   proposisie- en predikaatlogika (hieronder) daar vir elke geldige
+   argument wel 'n bewys volgens die betrokke reëls opgestel kan word.
+   Daarteenoor het die logikus Alonzo Church (1903-1995) in 1936 bewys dat
+   daar vir die predikaatlogika geen algemene prosedure (en dus geen
+   rekenaarprogram) bestaan om vir enige argument te beslis of dit geldig
+   of ongeldig is nie.
+   Kategorie: Logika
+

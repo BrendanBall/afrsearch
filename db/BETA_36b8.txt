@@ -1,0 +1,22 @@
+BETA
+
+
+   BETA is 'n pure voorwerpgeoriënteerde taal wat in die "Skandinawiese
+   Skool" in voorwerporiëntasie sy oorsprong het. Die eerste
+   voorwerpgeoriënteerde taal, Simula, is ook daar ontwikkel.
+
+   Vanuit 'n tegniese oogpunt bied BETA die volgende unieke eienskappe:
+     * Klasse en Prosedures word tot een konsep verenig, naamlik 'n BETA
+       patroon.
+     * Klasse word gedefinieer as eienskappe van voorwerpe. Dit bedoel dat
+       'n klas nie ingestel kan word sonder dat daar 'n duidelike
+       voorwerpkonteks is nie.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Saadjies
+

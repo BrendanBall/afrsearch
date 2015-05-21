@@ -1,0 +1,67 @@
+Lorem ipsum
+
+
+   Die gebruik van lorem ipsum om die aandag op die grafiese elemente in
+   'n kenteken te vestig.
+   Die gebruik van lorem ipsum om die aandag op die grafiese elemente in
+   'n kenteken te vestig.
+
+   In uitgewery en grafiese ontwerp is lorem ipsum standaard plekhouerteks
+   wat gebruik word om die grafiese elemente van 'n dokument of visuele
+   aanbieding, soos lettertipe, drukkuns en uitleg, uit te lig. Lipsum
+   dien ook as 'n plekhouer vir voorbeelde in visuele ontwerpprojekte
+   voordat die werklike woorde in die finale produk ingesit word.
+
+   Lorem ipsum verwek dikwels nuuskierigheid by lesers vanweë die
+   ooreenkoms met klassieke Latyn, maar het in der waarheid geen betekenis
+   nie. Waar teks in die dokument sigbaar is, is mense geneig om hul
+   aandag op die inhoud van die teks te vestig eerder as op die oorhoofse
+   aanbieding en daarom gebruik uitgewers lorem ipsum wanneer hulle
+   lettertipe of ontwerpe voorstel om die aandag eerder op die aanbieding
+   te vestig.
+
+   Die mees algemene lorem ipsum teks lees as volg:
+
+          Lorem ipsum dolor sit amet, consectetur adipisici elit, sed
+          eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut
+          enim ad minim veniam, quis nostrud exercitation ullamco laboris
+          nisi ut aliquid ex ea commodi consequat. Quis aute iure
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat
+          nulla pariatur. Excepteur sint obcaecat cupiditat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+   Die teks vind sy oorsprong uit Cicero se De finibus bonorum et malorum'
+   (Oor die doel van Goed en Kwaad). Die oorspronklike paragraaf het begin
+   met: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+   consectetur, adipisci velit (Vertaling: Niemand hou van pyn om pyn se
+   onthalwe nie, of soek daarvoor en wil dit hê net omdat dit pyn is
+   nie...). Dit is nie bekend wanneer die teks sy teenswoordige vorm
+   verkry het nie; maar dit mag al so vroeg as die 1500's gewees het (met
+   'n paar kleinere wysigings) of dalk selfs so laat as die 1960's.
+
+   Baie variasies op die standaard lorem ipsum teks bestaan, waarvan
+   sommiges bitter min ooreenkoms met die oorspronklike een toon. Ander
+   weergawes het addisionele letters — soos k, w en z — wat skaars of glad
+   nie in Latyn teenwoordig was nie, asook onsinnige woorde soos zzril,
+   takamata en gubergren wat by die oorspronklike bygelas is om by die
+   taal van die lettersetter aan te pas.
+
+[wysig] Sien ook
+
+     * Lys van Latynse frases
+
+[wysig] Eksterne skakels
+
+     * Lorem ipsum skepper, met baie gebruikersverstellings.
+     * Lipsum.com, Algemene inligting en 'n Lorem ipsum-skepper
+     * Lorem-ipsum.info, Dié werf skep lorem ipsum vir ander tale en ook
+       lettertipes.
+     * de finibus bonorum, Volledige teks van Cicero se "De finibus
+       bonorum et malorum".
+     * The Greeking Machine, 'n Humoristiese "vergrieksde" teks-skepper.
+     * malevole – Teks-skepper, Nog 'n humoristiese "vergrieksde"
+       teks-skepper.
+     * The Straight Dope, Cecil Adams se verduideliking van Lorem ipsum.
+
+   Kategorie: Drukwerk
+

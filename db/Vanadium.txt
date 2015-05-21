@@ -1,0 +1,86 @@
+Vanadium
+
+
+
+   23                       titaan ← vanadium → chroom
+    -
+   ↑
+   V
+   ↓
+   Nb
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal vanadium, V, 23
+                                             Chemiese reeks oorgangsmetaal
+                                              Groep, Periode, Blok 5, 4, d
+                                           Voorkoms silwergrys metaalkleur
+                                                  Atoommassa 50.9415 g/mol
+                                       Elektronkonfigurasie [Ar] 3d^3 4s^2
+                                            Elektrone per skil 2, 8, 11, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                           Digtheid (naby k.t.) 6.0 g/cm³
+                                   Vloeistof digtheid teen s.p. 5.5 g/cm³
+                                                          Smeltpunt 2183 K
+                                                                (1910 °C)
+                                                           Kookpunt 3680 K
+                                                                (3407 °C)
+                                               Smeltingswarmte 21.5 kJ/mol
+                                              Verdampingswarmte 459 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.89 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2101 2289 2523 2814 3187 3679
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies-vlakgesentreerd
+                                                   Oksidasietoestande 5, 3
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1.63 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 650.9 kJ/mol
+                                                          2de: 1414 kJ/mol
+                                                         3rde: 2830 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 171 pm
+                                                   Kovalente radius 125 pm
+                                                                   Diverse
+                                              Magnetiese rangskikking  ???
+                                  Elektriese weerstand (20 °C) 197 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 30.7 W/(m·K)
+                               Termiese uitsetting (25 °C) 8.4 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 4560 m/s
+                                                  Young se modulus 128 GPa
+                                                       Skuifmodulus 47 GPa
+                                                      Massamodulus 160 GPa
+                                                    Poissonverhouding 0.37
+                                                      Mohs se hardheid 7.0
+                                                  Vickers hardheid 628 MPa
+                                                  Brinell hardheid 628 MPa
+                                              CAS-registernommer 7440-62-2
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van vanadium
+
+                              iso    NV   halfleeftyd VM   VE (MeV)   VP
+                              ^48V sin    15.97 d     ε   -          ^48Ti
+                                                      β^+ 0.694      ^48Ti
+                                                      γ   0.98, 1.3  -
+                              ^49V sin    330 d       ε   -          ^49Ti
+                              ^50V 0.25%  1.4E17 j    ε   -          ^50Ti
+                                                      β^- 1.037      ^50Cr
+                                                      γ   0.78, 1.55 -
+                              ^51V 99.75% V is stabiel met 28 neutrone
+
+                                                                Verwysings
+
+   Vanadium is 'n chemiese element in die periodieke tabel met die simbool
+   V en atoomgetal 23. Vanadium is 'n skaars, sagte en smeebare element en
+   word in verbinding in sekere minerale aangetref en word hoofsaaklik
+   gebruik in die vervaardiging van sekere soorte legerings.
+   Kategorie: Chemiese elemente
+

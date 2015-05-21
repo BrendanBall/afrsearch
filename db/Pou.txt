@@ -1,0 +1,93 @@
+Pou
+
+
+                         Poue
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Gompou
+   Gompou
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gruiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Otididae
+                   Rafinesque, 1815
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                 Sien teks.
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+[wysig] Spesies
+
+     * [[]], Otis tarda
+     * [[]], Ardeotis arabs
+     * Gompou, Ardeotis kori
+     * [[]], Ardeotis nigriceps
+     * [[]], Ardeotis australis
+     * [[]], Chlamydotis undulata
+     * [[]], Chlamydotis macqueenii
+     * Ludwigse pou, Neotis ludwigii
+     * Veldpou, Neotis denhami
+     * [[]], Neotis heuglinii
+     * [[]], Neotis nuba
+     * [[]], Eupodotis senegalensis
+     * [[]], Eupodotis caerulescens
+     * [[]], Eupodotis vigorsii
+     * [[]], Eupodotis rueppellii
+     * [[]], Eupodotis humilis
+     * [[]], Lophotis savilei
+     * [[]], Lophotis gindiana
+     * [[]], Lophotis ruficrista
+     * [[]], Afrotis afra
+     * [[ ]], Afrotis afraoides
+     * [[ ]], Lissotis melanogaster
+     * [[ ]], Lissotis hartlaubii
+     * [[ ]], Houbaropsis bengalensis
+     * [[ ]], Sypheotides indica
+     * [[ ]], Tetrax tetrax
+
+[wysig] Eksterne skakels
+
+   Kategorie: Poue
+

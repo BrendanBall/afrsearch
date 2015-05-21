@@ -1,0 +1,143 @@
+Ervaringskromme
+
+
+   Inhoud
+
+        * 1 Ervaringskromme
+        * 2 Wiskundige vorm
+        * 3 Geskiedenis
+        * 4 Gebruike
+        * 5 Skattingsmetodes
+        * 6 Waardes van die leertempo
+        * 7 Oorsake
+
+[wysig] Ervaringskromme
+
+   As in die volksmond gesê word dat iemand vinnig teen die leerkromme
+   opbeweeg, word bedoel dat die persoon 'n nuwe omgewing of tegniek of
+   bedryf (of iets anders van omvang) vinnig bemeester.
+
+   Tegnies word met hierdie term 'n funksie bedoel wat 'n spesifieke
+   leerpatroon vertoon; ervaringskromme word aan eenheidskoste gekoppel en
+   leerkromme aan eenheidstyd. Dit is egter dieselfde funksie met die
+   unieke eienskap dat die eenheidskoste (of -tyd) teen 'n vaste koers
+   daal by verdubbeling in produksie. As die eenheidskoste by x 'n bedrag
+   y is, dan is die eenheidskoste van die 2x-de eenheid α y en die
+   spesifieke kromme word 'n 100α%-ervaringskromme genoem. Die unieke
+   eienskap van die ervaringskromme is dat dieselfde afname vir elke
+   waarde van x geld. Bv. As α=0,90 en die eenheidskoste by x=20 is R10,
+   dan is die eenheidskostes soos in die tabel waar die eenheidskoste by
+   elke verdubbeling 90% van die vorige is, oftewel met 10% verminder.
+
+   Eenhede geproduseer Koste van laaste eenheid
+20   10,00
+40    9,00
+80    8,10
+160   7,29
+
+   In hierdie geval word daar van 'n 90%-ervaringskromme gepraat of,
+   ekwivalent, van 'n leertempo van 10%. As φ die leertempo is, is α=1-φ.
+
+[wysig] Wiskundige vorm
+
+   Die ervaringskromme kan voorgestel word met die magsfunksie f(x)= ax^b
+   met $x$ die aantal eenhede wat geproduseer is en f(x) die eenheidkoste
+   van die x-de (die laaste) een. Die eenheidskoste van die 2x-de een is
+   in hierdie notasie dus f(2x). Omdat die eenheidskoste by verdubbeling
+   in produksie met φ afneem, is die eenheidskoste van die 2x-de item
+
+                f(2x) = (1-φ)f(x).
+
+   Uit f(x) = ax^b volg dat
+
+                f(2x) = 2^bf(x).
+
+   Dus is
+
+                1-φ = 2^b
+
+   waaruit volg dat b = log[2]x en die funksie is
+
+                f(x) = ax^log(1-φ)/log2.
+
+[wysig] Geskiedenis
+
+   Die leerkromme se unieke en bepalende eienskap is by 'n lugmagbasis in
+   die VSA waar vliegtuie geproduseer is, waargeneem en in 1925
+   gekwantifiseer. Hierdie werk is in 1936 deur T.P. Wright in 'n artikel
+   in die \emph{Journal of Aeronautical Science} bekend gestel. Omdat
+   produksie destyds arbeidsintensief was, het die klem op produksietyd
+   geval en die aantal ure direkte arbeid in die produksie van 'n
+   vliegtuig is gerapporteer. Die uitbreiding na produksiekoste het veel
+   later gekom en in 'n oorsigartikel oor die leerkromme wat in 1979 in
+   Decision Sciences gepubliseer is, kies die skrywer, Louis E Yelle, nog
+   kant vir produksietyd eerder as -koste. Vandag is arbeidskoste maar een
+   van die komponente van produksiekoste en die term ervaringskromme word
+   hiervoor verkies.
+
+[wysig] Gebruike
+
+   Die ervaringskromme word in vervaardiging gebruik by die prysbepaling
+   van nuwe produkte, veral by baie duur produkte soos vliegtuie maar ook
+   vir produkte met 'n groot verwagte volume soos rekenaarvlokkies. In
+   stede van die prys op die vervaardigingskoste van die eerste item te
+   baseer, word die toepaslike leertempo gebruik om die gemiddelde
+   eenheidskoste van die verwagte produksie te bereken. Dit stel die
+   vervaardiger van 'n nuwe produk in staat om 'n prys daar te stel wat
+   mededingers afskrik of 'n nuwe toetreder om teen 'n kompeterende prys
+   'n buwe mark te betree. Die Amerikaanse vliegtuigvervaardiger Boeing is
+   'n bekende gebruiker.
+
+   Die ervaringskromme kan ook aangewend word om doeltreffendhede mee te
+   modelleer of af te dwing. Tussen 1983 en 2001 het Unisa bv die
+   ervaringskromme met 'n leertempo van 25% gebruik om die produksie van
+   sy akademiese departemente (gemeet in "voltydse studente-ekwivalente")
+   om te sit in personeelbefondsing vir die departemente. Die betreklike
+   hoë leertempo het groter departemente verplig om heelwat meer
+   doeltreffend te wees as kleineres.
+
+[wysig] Skattingsmetodes
+
+   Alhoewel die metodes almal op die ervaringskromme gebaseer is, is daar
+   verskillende maniere om die parameters te skat en daar het selfs in
+   2003 'n boek oor die onderwerp in die Topics in OR Series verskyn. In
+   die besonder is daar 'n benadering wat as Crawford se model bekend
+   staan en wat vir sommige gevalle ander antwoorde as Wright se model
+   gee.
+
+[wysig] Waardes van die leertempo
+
+   In die groot aantal empiriese studies wat gedoen is, is vasgestel dat
+   die leertempo φ uiters selde bokant 30% is en groot maatskappye het
+   dikwels vir verskillende prosesse verwagte leertempowaardes. Die VSA se
+   ruimteagentskap, NASA, het die leertempo vir 'n verskeidenheid bedrywe
+   en aktiwiteite bereken.
+     * Lugruimtevaart; 85%-ervaringskromme, 15% leertempo
+     * Skeepsbou; 80-85%, 15-20%
+     * Komplekse masjinerie vir nuwe produkte; 75-85%, 15-25%
+     * Herhalende elektroniese vervaardiging; 90-95%, 5-10%
+     * Herhalende masjinering, pers of boor; 90-95%, 5-10%
+     * Herhalende elektriese bewerkings; 75-85%, 15-25%
+     * Herhalende sweis; 90%, 10%
+
+[wysig] Oorsake
+
+   Daar is 'n verskeidenheid oorsake vir die toenemende doeltreffendheid
+   wat in die praktyk gesien word en deur die ervaringskromme gemodelleer
+   word. Dit sluit in: toenemende handvaardigheid, kortpaaie, beter
+   metodes, vinniger en beter masjinerie, standaardisering,
+   spesialisering, nuwe tegnologie, en goedkoper onderdele en dienste soos
+   wat veskaffers ook deur ervaring baat. Hierdie effekte is nie tot die
+   fabriek beperk nie maar sluit ook bestuurders, ontwerpers en ander
+   deskundiges in. Minder van hierdie poste verminder bv ook die koste.
+
+   Daar is 'n noue verband tussen die kostevermindering wat met die
+   ervaringskromme gemodelleer word en skaalbesparings. Dieselfde oorsake
+   veroorsaak al twee verskynsels. Skaalbesparings is 'n ekonomiese begrip
+   wat nie die vaste dalingskoers van die ervaringskromme vereis nie en is
+   dus meer algemeen. Netsoos skaalbesparings nie 'n noodwendigheid is
+   nie, moet die leertempo ook bestuur word; die hoogste leertempo word
+   slegs bereik as die doeltreffendhede en besparings doelbewus nagejaag
+   word.
+   Kategorie: Ekonomie
+

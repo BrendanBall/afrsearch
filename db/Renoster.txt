@@ -1,0 +1,87 @@
+Renoster
+
+
+                       Renoster
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Witrenoster
+   'n Witrenoster
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Perissodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Rhinocerotidae
+                   Gray, 1821
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die renoster is die grootste lewende landsoogdier met die uitsondering
+   van die olifant.
+
+   Daar bestaan tans vyf spesies renosters; drie spesies in Asië en twee
+   in Afrika.
+
+[wysig] Genera
+
+     * Ceratotherium
+     * Dicerorhinus
+     * Diceros
+     * Rhinoceros
+
+[wysig] Identifikasie
+
+   Die swartrenoster(Diceros bicornis) van Afrika het twee neushorings en
+   ’n lang bolip. Die witrenoster (Cerarotherium simum) van Afrika is 'n
+   bedreigde spesie, en daar is slegs nog ’n klein aantal in Oos-Afrika en
+   in Suid-Afrikaanse natuurreservate.
+
+   Die wyfie skenk geboorte aan een kalfie na ’n dragtyd van vyftien tot
+   agttien maande.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Vir woordeboekinligting, sien die bladsy renoster op WikiWoordeboek
+   Kategorieë: Saadjies • Renosters
+

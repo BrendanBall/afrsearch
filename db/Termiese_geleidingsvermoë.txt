@@ -1,0 +1,100 @@
+Termiese geleidingsvermoë
+
+
+   Termiese geleidingsvermoë, λ, in fisika is die intensiewe eienskap van
+   'n materiaal wat sy vermoë om warmte te gelei aandui.
+
+   Termiese geleidingsvermoë is die hoeveelheid warmte Q, wat deur 'n
+   dikte L in rigting loodreg tot die oppervlak met oppervlakte A gelei
+   word as gevolg van 'n temperatuurverskil ΔT onder gestadigde toestande
+   en wanneer die hitte-oordrag slegs afhanklik is van die
+   temperatuurgradiënt.
+
+                termiese geleidingsvermoë = tempo van warmtevloei ×
+                afstand / (oppervlak × temperatuurgradiënt)
+
+                λ = Q × L / (A × ΔT)
+
+   Inhoud
+
+        * 1 Voorbeelde
+        * 2 Verwante begrippe
+        * 3 Sien ook
+        * 4 Eksterne skakels
+        * 5 Verwysings
+
+[wysig] Voorbeelde
+
+   Oor die algemeen is daar 'n verband tussen termiese- en elektriese
+   geleidingsvermoë; Metale is dan ook tipies goeie warmtegeleiers. Daar
+   is egter uitsonderings: die noemenswaardigste hiervan is diamant wat 'n
+   hoë termiese geleidingsvermoë (tussen 1000 en 2600 W·m^-1, terwyl dit
+   'n baie lae elektriese geleidingsvermoë het.
+
+   Die onderstaande tabel is saamgestel uit data uit die CRC Handbook of
+   Chemistry and Physics. Alle waardes is vir materiale by
+   kamertemperatuur (298 K), tensy anders vermeld.
+
+   Termiese geleidingsvermoëns van alledaagse materiale:
+     Materiaal    Termiese geleidingsvermoë (298 K)
+                  W·m^-1·K^-1
+   Diamant        895-2300
+   Silwer         429
+   Koper          401
+   Goud           317
+   Aluminium      237
+   Geelkoper      120
+   Platinum       71.6
+   Yster          80.2
+   Lood           35.3
+   Kwarts (273K)  6.8-12
+   Glas           1.35
+   Hout           0.04 (balsa) - 0.35 (den)
+   Polistireen    0.033
+   Wol            0.04
+   Silika aerogel 0.017
+   Lug (100 kPa)  0.0262
+   Water          0.6062
+   Ys (273K)      2.2
+   Kwik           8.514
+
+   Termiese geleidingsvermoë verander met temperatuur. Vir die meeste
+   materiale verminder dit effens soos die temperatuur styg. Aangesien
+   diamant 'n hoë termiese geleidingsvermoë het en natuurlike blou diamant
+   selfs 'n hoër geleidingsvermoë het kan 'n mens die edelgesteentes vir
+   egtheid toets deur van 'n toetser van termiese geleidingsvermoë gebruik
+   te maak.
+
+[wysig] Verwante begrippe
+
+   Die omgekeerde van termiese geleidingsvermoë is termiese weerstand wat
+   in kelvin-meter per watt (K·m·W^-1) gemeet word.
+
+[wysig] Sien ook
+
+     * Warmte
+     * Temperatuur
+     * Termistor
+     * Termometer
+     * Termokoppel
+
+[wysig] Eksterne skakels
+
+     * http://physics.nist.gov/Pubs/SP811/appenB9.html
+     * http://www.for.gov.bc.ca/hfp/pubs/silviculture_notes/sn16.pdf Sien
+       Bladsy 5
+     * http://www.npl.co.uk/thermal/faq_index.html#heat%20transfer%20prope
+       rty Gereelde vrae oor termofisika beantwoord
+     * http://www.ornl.gov/roofs+walls/research/detailed_papers/rastra/dyn
+       amic.htm
+     * http://www.tak2000.com/data2.htm
+
+[wysig] Verwysings
+
+     * Halliday, David; Resnick, Robert; & Walker, Jearl(1997).
+       Fundamentals of Physics (5th ed.). John Wiley and Sons, INC., NY
+       ISBN 0-471-10558-9.
+     * Ooreenstemmende artikel in die Engelstalige Wikipedia[1]
+
+   Kategorieë: Chemiese eienskappe • Termodinamika • Fisiese groothede
+

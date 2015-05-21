@@ -1,0 +1,57 @@
+Numeriese analise
+
+
+   Numeriese analise is die deel van analise wat te doen het met die
+   berekening van eksakte numeriese antwoorde op probleme. Waar
+   (simboliese) analise gemoeid is met simboliese antwoorde soos y =
+   \sqrt{x_0} + c , word in numeriese analise ondersoek ingestel na
+   metodes om eerder spesifieke antwoorde te bereken vir y vir spesifieke
+   waardes van x[0] en c, byvoorbeeld y = 0,732050807568877. Verder word
+   benaderingstegnieke ondersoek, byvoorbeeld om 'n wiskundige funksie te
+   vind wat blyk om 'n sekere gedrag na te boots.
+
+   'n Belangrike konsep in numeriese analise is die fout of mate van
+   akkuraatheid wat inherent teenwoordig is by berekenings en skattings.
+   Tegnieke bestaan in baie gevalle om die akkuraatheid te bepaal, of
+   anders gestel, om die grootste fout wat moontlik bestaan in 'n
+   antwoord, te bepaal.
+
+   Baie numeriese tegnieke vereis groot hoeveelhede berekenings om
+   akkurate antwoorde te bereken. Party tegnieke is iteratief van aard,
+   dit wil sê, 'n sekere stel berekeninge word telkens herhaal om nader
+   aan die werklike antwoord te kom. Party metodes neem moontlik meer
+   berekenings om die selfde akkuraatheid as ander tegnieke te bereik. Dus
+   is tegnieke met 'n hoë konvergensietempo van groot belang om
+   berekenings te beperk.
+
+[wysig] Die fout
+
+   Foute of gebrek aan akkuraatheid in numeriese berekenings kan uit
+   verskillende oorde kom. Meeste tegnieke het inherente onakkuraatheid
+   wat deur middel van wiskundige tegnieke bepaal kan word. In party
+   gevalle kan enige akkuraatheid in beginsel bereik word deur genoeg
+   iterasies van die tegniek uit te voer. Dit is só in gevalle waar die
+   fout telkens kleiner word met elke iterasie van die tegniek. Taylor se
+   stelling en Taylorreekse is veral belangrik in die berekening van die
+   fout in baie numeriese tegnieke.
+
+   Tydens die berekening of berging van antwoorde met 'n rekenaar, kan 'n
+   ander stel foute moontlik bydra tot onakkuraatheid. As slegs 'n eindige
+   aantal syfers gestoor kan word (soos wat in die praktyk altyd die geval
+   is), word óf 'n afkappingsfout gemaak waneer sekere syfers geïgnoreer
+   word, óf 'n afrondingsfout waar afgerond word.
+
+   Tegnieke met hoë konvergensietempo, wat dus minder berekenings verg om
+   'n sekere akkuraatheid te bereik, is dus ook beter omdat daar minder
+   geleenthede is om hierdie implementasiefoute te begaan en te laat
+   saamtel tot groter foute. In saamgestelde berekenings waar geskatte of
+   onakkurate waardes vir verdere berekenings gebruik word, kan foute
+   voortgeplant word en groter onakkuraatheid te weeg bring. Hierdie fout
+   kan egter steeds ondersoek, en soms beheer word.
+
+[wysig] Bronnelys
+
+     * Numeriese analise. C.M. Villet. 2000
+
+   Kategorie: Wiskunde
+

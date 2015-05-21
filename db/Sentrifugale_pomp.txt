@@ -1,0 +1,56 @@
+Sentrifugale pomp
+
+
+   Deursnit van 'n enkelstadium sentrifugale pomp met byskrifte
+   Deursnit van 'n enkelstadium sentrifugale pomp met byskrifte
+
+   'n Sentrifugale pomp is 'n pomp wat 'n roterende stuwer gebruik om die
+   snelheid van 'n vloeistof te verhoog. Sentrifugale pompe word gewoonlik
+   gebruik om vloeistowwe deur 'n pypstelsel te verplaas. Die vloeistof
+   gaan die stuwer binne naby aan die roterende as en word dan deur die
+   stuwer radiaal na buite versnel in 'n uitstroombuis in waar dit die
+   afstroompypwerk binnegaan.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Werking
+        * 3 Sien ook
+        * 4 Verwysings en Voetnotas
+
+[wysig] Geskiedenis
+
+   Die vroegste benaderde voorbeeld van 'n sentrifugale pomp is so vroeg
+   as 1475 aangeteken in 'n verhandeling deur die Italiaanse Renaissance
+   ingenieur, Francesco di Giorgio Martini^[1] Ware sentrifugale pompe het
+   egter eers in die laat 1600's hul verskyning begin maak toe Denis Papin
+   een gebou het met reguit lemme gebou het. Die geboë stuwerlem is deur
+   die Britse uitvinder John Appold in 1851 bekendgestel.
+
+[wysig] Werking
+
+   'n Sentrifugale pomp werk op die beginsel van die omsetting van
+   kinetiese energie van 'n vloeier na statiese druk. Hierdie aksie word
+   deur die Bernoulli beginsel beskryf. Die draaibeweging van die
+   pompstuwer versnel die vloeistof vandat dit die stuwer se oog binnegaan
+   totdat dit deur die lemme na die kant beweeg. Wanneer die vloeistof die
+   stuwer verlaat word die momentum omgeskakel na statiese druk. Die vorm
+   van die pomphulsel en uitstroombuis bevorder dié omskakeling van
+   energie. Die omskakeling verhoog die druk op die afstroomkant van die
+   pomp wat vloei veroorsaak. 'n Algemene probleem wat voorkom by
+   sentrifugale pompe is kavitasie.
+
+[wysig] Sien ook
+
+     * Dompelpomp
+     * Borrelpomp
+     * Peristaltiese pomp
+
+[wysig] Verwysings en Voetnotas
+
+    1. ^ Ladislao Reti, “Francesco di Giorgio Martini's Treatise on
+       Engineering and Its Plagiarists”, Technology and Culture, Vol. 4,
+       No. 3. (Summer, 1963), bl'e. 287-298 (290)
+
+   Kategorieë: Meganiese toestelle • Pompe
+

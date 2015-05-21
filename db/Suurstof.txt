@@ -1,0 +1,212 @@
+Suurstof
+
+
+
+                                      stikstof – suurstof – fluoor
+
+                                      O
+                                      S
+
+
+                                            Volledige tabel
+
+                                   General
+          Naam, Simbool, Getal                               Suurstof, O, 8
+                Chemiese reeks                                   nie-metale
+          Groep, Periode, Blok                              16 (VIA), 2 , p
+            Digtheid, Hardheid                     1.429 kg/m^3 (273K), NVT
+                      Voorkoms                  kleurloos
+                               Atoomeienskappe
+                    Atoomgewig                                  15.9994 ame
+            Atoomradius (ber.)                                   60 (48) pm
+              Kovalente radius                                        73 pm
+          van der Waals radius                                       152 pm
+         Elektron konfigurasie                                 [He]2s^22p^4
+         e^− e per energievlak                                         2, 6
+   Oksidasietoestande (Oksied)                             −2,−1 (neutraal)
+              Kristalstruktuur                                       kubies
+                              Fisiese eienskappe
+          Toestand van materie                          gas (paramagneties)
+                     Smeltpunt                          50.35 K (−222.8 °C)
+                      Kookpunt                         90.18 K (−182.97 °C)
+                 Molêre volume                         17.36 ×10^−6 m^3/mol
+             Verdampingswarmte                                3.4099 kJ/mol
+               Smeltingswarmte                               0.22259 kJ/mol
+                      Dampdruk                              __ Pa teen __ K
+               Spoed van klank                         317.5 m/s teen 293 K
+                                   Algemeen
+           Elektronegatiwiteit                         3.44 (Pauling skaal)
+   Spesifieke warmtekapasiteit                                 920 J/(kg*K)
+   Elektriese geleidingsvermoë                              ND 10^6/(m·ohm)
+     Termiese geleidingsvermoë                              0.02674 W/(m*K)
+    1^ste ionisasie potentiaal                               1313.95 kJ/mol
+     2^de ionisasie potentiaal                                3388.3 kJ/mol
+     3^de ionisasie potentiaal                                5300.5 kJ/mol
+     4^de ionisasie potentiaal                                7469.2 kJ/mol
+                            Mees stabiele isotope
+
+
+   iso    NV    halfleeftyd VM VE MeV   VP
+   ^16O 99.762% O is 'n stabiel met 8 neutrone
+   ^17O 0.038%  O is stabiel met 9 neutrone
+   ^18O 0.2%    O is stabiel met 10 neutrone
+
+             SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Suurstof ook Oksige (Latyn: Oxygenium), is die chemiese element in die
+   periodieke tabel met die simbool O, en atoomgetal van 8.
+
+   Die element kom algemeen voor op Aarde asook regdeur die heelal.
+   Molekulêre suurstof (O[2], dikwels na verwys as "vry suurstof") op
+   Aarde is termodinamies onstabiel. Aanvanklik het dit gevorm vanweë die
+   werking van fotosintetiese anaerobe (archaea en bakterieë). Die
+   voorkoms daarvan in latere tydperke tot en met die huidige tyd word
+   hoofsaaklik gedryf deur die plante op aarde wat suurstof vrystel tydens
+   fotosintese.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Sien ook
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Teen standaard temperatuur en druk, kom suurstof as 'n gas voor wat uit
+   'n diatomiese molekule bestaan met die chemiese vergelyking O[2].
+   Suurstof is 'n belangrike bestandeel van lug wat deur plante tydens
+   fotosintese vrygestel word en is noodsaaklik vir aerobiese respirasie
+   in diere. Die woord suurstof het sy ontstaan te danke aan die vroeëre
+   geloof, rondom die tyd dat dit in die 18de eeu ontdek is, dat alle sure
+   suurstof bevat het. Dit is nou bekend dat sure nie noodwendig suurstof
+   hoef te bevat nie.
+
+   Vloeibare O[2] en O[2] in vastestofvorm het 'n ligte blou kleur en is
+   beide hoogs paramagneties. Vloeibare O[2] word gewoonlik verkry deur
+   die fraksionele distillasie van vloeibare lug. Beide vloeibare en
+   soliede O[3] (osoon) het 'n dieper blou kleur.
+
+   'n Ander allotroop van suurstof wat onlangs ontdek is, O[4], is 'n
+   vastestof met 'n diep, rooi kleur en word gemaak deur O[2] saam te pers
+   tot 'n druk van 20 GPa. Die eienskappe daarvan word bestudeer vir
+   gebruik in vuurpylbrandstowwe en soortgelyke toepassings, aangesien dit
+   'n veel kragtiger oksideermiddel as beide O[2] of O[3] is.
+
+[wysig] Aanwendings
+
+   Suurstof vind noemenswaardige toepassings as oksideermiddel, met slegs
+   fluoor wat 'n hoër elektronegatiwiteit ten toon stel. Vloeibare
+   suurstof word gebruik as oksideermiddel in vuurpylaandrywing. Suurstof
+   is noodsaaklik vir respirasie en daarom word suurstof aanvullings
+   gebruik in die geneeskunde. Mense wat berge klim of in vliegtuie vlieg
+   gebruik ook somtyds voorrade om hul suurstof aan te vul (in die vorm
+   van saamgeperste lug). Suurstof word ook gebruik in sweiswerk en met
+   die maak van staal en metanol.
+
+   Suurstof is 'n swak dwelmiddel wat euforia veroorsaak en het 'n
+   geskiedenis vermaaklikheidsgebruik wat voortduur tot die moderne tye.
+   Suurstofkroeë kom selfs tot vandag toe nog by partytjies aangetref
+   word. In die 19de eeu is suurstof dikwels met nitroësuur gemeng om 'n
+   verdowende effek te bevorder.
+
+[wysig] Geskiedenis
+
+   Suurstof is in 1771 ontdek deur die sweedse apteker Carl Wilhelm
+   Scheele, maar die ontdekking is nie dadelik erken nie, en die
+   onafhanklike ontdekking daarvan deur Joseph Priestley op 1 Augustus
+   1774 was meer wyd bekend. Antoine Laurent Lavoisier het die element die
+   wetenskaplike naam oxygenium (suurvormer) in 1774 gegee.
+
+   Die sistematiese elementnaam vir suurstof is octium.
+
+[wysig] Verspreiding
+
+   Suurstof is die element wat die meeste in die Aarde se kors voorkom, 'n
+   geskatte 46.7% daarvan. Suurstof beslaan ook ongeveer 87% van die gewig
+   van die oseane (in die vorm van H[2]O, water) en 20% van die Aarde se
+   atmosfeer (in die vorm van O[2], molekulêre suurstof, of O[3], ozoon.
+   Suurstof verbindings, veral in die vorm van metaaloksiede, silikate
+   (SiO[4]^4−) en karbonate (CO[3]^2−) kom algemeen in rotse en grond
+   voor. Bevrore water is 'n algemene vastestof op die buitenste planete
+   en komete. Die yspole van Mars bestaan uit bevrore koolstofdioksied.
+   Suurstof verbindings kan regdeur die heelal gevind word en die spektrum
+   van suurstof word dikwels in sterre opgemerk.
+
+[wysig] Verbindings
+
+   Vanweë sy elektronegatiwiteit vorm suurstof chemiese verbindings met
+   byna al die ander elemente (wat die oorsprong is van die oorspronklike
+   definisie van oksidasie is). Die enigste elemente wat nie geoksideer
+   kan word nie 's 'n paar van die edelgasse. Die bekendste oksied is
+   natuurlik waterstofoksied of dan water (H[2]O). Ander wel bekende
+   voorbeelde sluit verbindings van koolstof en suurstof in, soos
+   koolstofdioksied (CO[2]), alkohole (R-OH), aldehiede (R-CHO) en
+   karboksielsure (R-COOH). Geoksideerde radikale soos chlorate
+   (ClO[3]^−), perchlorate (ClO[4]^−), chromate (CrO[4]^2−), dichromate
+   (Cr[2]O[7]^2−), permanganate (MnO[4]^−) en nitrate (NO[3]^−) is sterk
+   oksideermiddels op hul eie. Baie metale soos Yster verbind met suurstof
+   atome, yster (III) oksied (Fe[2]O[3]). Ozoon (O[3]) word gevorm deur
+   die elektrostatiese ontlading in die teenwoordigheid van molekulêre
+   suurstof. 'n Dubbel verbinde suurstof molekule (O[2])[2] is bekend, en
+   is 'n hoofkomponent van vloeibare suurstof. Epoksiede is eters waarin
+   die suurstof atoom deel vorm van 'n ring van die atome.
+
+[wysig] Isotope
+
+   Suurstof het drie stabiele isotope en tien bekende radio-aktiewe
+   isotope. Die radio-isotope het almal halfleeftye van minder as drie
+   minute.
+
+[wysig] Voorsorgmaatreëls
+
+   Suurstof kan giftig wees teen verhoogde parsiële drukke.
+
+   Sekere afgeleide verbindings van suurstof, soos ozoon (O[3]),
+   waterstofperoksied, hidroksiel radikale en superoksied is ook hoogs
+   toksies. Die liggaam het meganismes ontwikkel om homself teen hierdie
+   giftige spesies te beskerm. Die natuurlike middel glutathione kan
+   byvoorbeeld dien as anti-oksidant, net soos bilirubien wat normaalweg
+   afbreek produk is van hemoglobien. Hoogs gekonsentreerde bronne van
+   suurstof bevorder vinnige verbranding en daarom bestaan daar brand- en
+   plofgevaar in die teenwoordigheid van brandstowwe. Dit is ook waar vir
+   virbindings van suurstof soos chlorate, perchlorate, dichromate ens.
+   Verbindings met 'n hoë oksidasie potensiaal kan dikwels chemiese brande
+   veroorsaak.
+
+[wysig] Sien ook
+
+     * Winkler toets vir opgeloste suurstof vir instruksies oor hoe om die
+       hoeveelheid suurstof wat in vars water opgelos is te bepaal.
+     * Verbranding.
+     * Oksidasie.
+     * Die rol van suurstof as 'n asemhalingsgas vir duik.
+     * suurstofverarming water-ekologie
+     * Pols-oksimeter
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Oxygen
+     * Nist atomic spectra database
+
+[wysig] Eksterne skakels
+
+     * Priestley Society, Dedicated to Joseph Priestley the man who
+       discovered oxygen; Oxygen
+     * Joseph Priestley Information Website, about the man who discovered
+       oxygen; Oxygen
+     * Los Alamos National Laboratory – Oxygen
+     * WebElements.com – Oxygen
+     * EnvironmentalChemistry.com – Oxygen
+     * It's Elemental – Oxygen
+     * Oxygen Therapy – The First 150 Years
+     * Oxygen Toxicity
+
+   Kategorie: Chemiese elemente
+

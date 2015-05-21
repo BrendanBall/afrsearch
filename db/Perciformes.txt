@@ -1,0 +1,411 @@
+Perciformes
+
+
+   Perciformes is die grootste orde van gewerweldes en sluit 40% van alle
+   visspesies in. Die vis het 'n tipiese dorsale vin en stertvinne wat
+   gespleed is. Daar is ongeveer 7000 verskillende spesies van
+   verskillende vorms en groottes wat in alle akwatiese omgewings
+   aangetref word.
+                     Perciformes
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Yellow perch (Perca flavescens)
+   Yellow perch (Perca flavescens)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Perciformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Families
+   Verskeie, sien artikel langsaan.
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+[wysig] Families
+
+   Suborde Percoidei
+
+   Superfamilie Percoidea
+
+   Acropomatidae
+
+   Ambassidae
+
+   Apogonidae
+
+   Arripidae
+
+   Banjosidae
+
+   Bathyclupeidae
+
+   Bramidae
+
+   Callanthiidae
+
+   Carangidae
+
+   Caristiidae
+
+   Centracanthidae
+
+   Centrarchidae
+
+   Centropomidae
+
+   Chaetodontidae
+
+   Coryphaenidae
+
+   Dichistiidae
+
+   Dinolestidae
+
+   Dinopercidae
+
+   Drepaneidae
+
+   Echeneidae
+
+   Emmelichthyidae
+
+   Enoplosidae
+
+   Epigonidae
+
+   Gerreidae
+
+   Glaucosomatidae
+
+   Grammatidae
+
+   Haemulidae
+
+   Inermiidae
+
+   Kuhliidae
+
+   Kyphosidae
+
+   Lactariidae
+
+   Leiognathidae
+
+   Leptobramidae
+
+   Lethrinidae
+
+   Lobotidae
+
+   Lutjanidae
+
+   Malacanthidae
+
+   Menidae
+
+   Monodactylidae
+
+   Moronidae
+
+   Mullidae
+
+   Nandidae
+
+   Nematistiidae
+
+   Nemipteridae
+
+   Notograptidae
+
+   Opistognathidae
+
+   Oplegnathidae
+
+   Ostracoberycidae
+
+   Pempheridae
+
+   Pentacerotidae
+
+   Percichthyidae
+
+   Percidae
+
+   Plesiopidae
+
+   Polycentridae
+
+   Polynemidae
+
+   Polyprionidae
+
+   Pomacanthidae
+
+   Pomatomidae
+
+   Priacanthidae
+
+   Pseudochromidae
+
+   Rachycentridae
+
+   Sciaenidae
+
+   Scombropidae
+
+   Serranidae
+
+   Sillaginidae
+
+   Sparidae
+
+   Terapontidae
+
+   Toxotidae
+
+   Superfamilie Cirrhitoidea
+
+   Aplodactylidae
+
+   Cheilodactylidae
+
+   Chironemidae
+
+   Cirrhitidae
+
+   Latridae
+
+   Superfamily Cepoloidea
+
+   Cepolidae
+
+   Suborde Elassomatoidei
+
+   Elassomatidae
+
+   Suborde Labroidei
+
+   Cichlidae
+
+   Embiotocidae
+
+   Labridae
+
+   Odacidae
+
+   Pomacentridae
+
+   Scaridae
+
+   Suborde Zoarcoidei
+
+   Anarhichadidae
+
+   Bathymasteridae
+
+   Cryptacanthodidae
+
+   Pholidae
+
+   Ptilichthyidae
+
+   Scytalinidae
+
+   Stichaeidae
+
+   Zaproridae
+
+   Zoarcidae
+
+   Suborde Notothenioidei
+
+   Bathydraconidae
+
+   Bovichthyidae
+
+   Channichthyidae
+
+   Harpagiferidae
+
+   Nototheniidae
+
+   Suborde Trachinoidei
+
+   Ammodytidae
+
+   Champsodontidae
+
+   Cheimarrhichthyidae
+
+   Chiasmodontidae
+
+   Creediidae
+
+   Leptoscopidae
+
+   Percophidae
+
+   Pholidichthyidae
+
+   Pinguipedidae
+
+   Trachinidae
+
+   Trichodontidae
+
+   Trichonotidae
+
+   Uranoscopidae
+
+   Suborde Blennioidei
+
+   Blenniidae
+
+   Chaenopsidae
+
+   Clinidae
+
+   Dactyloscopidae
+
+   Labrisomidae
+
+   Tripterygiidae
+
+   Suborde Icosteoidei
+
+   Icosteidae
+
+   Suborde Gobiesocoidei
+
+   Gobiesocidae
+
+   Suborde Callionymoidei
+
+   Callionymidae
+
+   Draconettidae
+
+   Suborde Gobioidei
+
+   Eleotridae
+
+   Gobiidae
+
+   Kraemeriidae
+
+   Microdesmidae
+
+   Odontobutidae
+
+   Ptereleotridae
+
+   Rhyacichthyidae
+
+   Schindleriidae
+
+   Xenisthmidae
+
+   Suborde Kurtoidei
+
+   Kurtidae
+
+   Suborde Acanthuroidei
+
+   Acanthuridae
+
+   Ephippidae
+
+   Luvaridae
+
+   Scatophagidae
+
+   Siganidae
+
+   Zanclidae
+
+   Suborde Scombrolabracoidei
+
+   Scombrolabracidae
+
+   Suborde Scombroidei
+
+   Sphyraenidae
+
+   Gempylidae
+
+   Trichiuridae
+
+   Scombridae
+
+   Xiphiidae
+
+   Suborde Stromateoidei
+
+   Amarsipidae
+
+   Ariommatidae
+
+   Centrolophidae
+
+   Nomeidae
+
+   Tetragonuridae
+
+   Stromateidae
+
+   Suborde Anabantoidei
+
+   Anabantidae
+
+   Belontiidae
+
+   Helostomatidae
+
+   Luciocephalidae
+
+   Osphronemidae
+
+   Suborde Channoidei
+
+   Channidae
+   Kategorie: Visse
+

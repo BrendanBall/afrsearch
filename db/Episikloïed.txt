@@ -1,0 +1,23 @@
+Episikloïed
+
+
+   In meetkunde is 'n episikloïed is 'n vlak kromme geteken deur die pad
+   van 'n punt op 'n sirkel af te trek — genaamd 'n episilus — wat om 'n
+   vaste sirkel rol sonder om te gly. Dit is 'n besondere soort roulette.
+   Episikloïed met n=1,2,3,4
+
+   'n Episikloïed met n − 1 punte word gegee deur die parametriese
+   vergelykings
+
+          x(\theta) = \cos \theta + {1 \over n} \cos n \theta,
+          y(\theta) = \sin \theta + {1 \over n} \sin n \theta.
+
+   Die episikloïed is 'n spesiale soort epitrogoïed.
+
+   'n Episikloïed met een punt is 'n kardioïed.
+
+   'n Episikloïed en die evoluut daarvan is soorgtelyk.[1]
+
+   Kyk ook: sikloïed, hiposikloïed, deferent en episiklus.
+   Kategorieë: Meetkunde • Krommes
+

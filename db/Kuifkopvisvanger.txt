@@ -1,0 +1,114 @@
+Kuifkopvisvanger
+
+
+                   Kuifkopvisvanger
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Alcedinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Alcedo
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. cristata
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Alcedo cristata
+   Pallas, 1764
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Subspesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kuifkopvisvanger (Alcedo cristata) is 'n algemene standvoël wat wyd
+   versprei is in Afrika suid van die Sahara.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Subspesies
+        * 6 Ander name
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   Dit is 'n klein visvanger, 13 tot 14 cm in lengte. Die kleur van die
+   boonste gedeelte is 'n helder glansende blou. Die kop het 'n kort kuif
+   soos 'n mussie bestaande uit swart en turkoois vere met 'n lang, reguit
+   rooi bek. Jonges het swart snawels en is valer.
+
+[wysig] Habitat
+
+   Kom een-een voor by stadigbewegende water van riviere en damme met
+   oewerplantegroei, en en sit laag op riete, takkies of rotse vanwaar dit
+   visvang.
+
+[wysig] Verspreiding
+
+   Wyd verspreid in Afrika suid van die Sahara met uitsluiting van groot
+   dele van die Noord-Kaap, Botswana en Namibië.
+
+[wysig] Geluid
+
+   Uiter 'n skril "pieep-pieep" as dit opgejaag word. Die broeisang is
+   "li-cha-cha-chui-chui".
+
+[wysig] Subspesies
+
+     * A. c. christata
+     * A. c. galerita
+     * A. c. robertsi
+     * A. c. stuartkeithi
+
+[wysig] Ander name
+
+     * Engelse naam: Malachite Kingfisher
+     * Wetenskaplike naam: Alcedo cristata
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

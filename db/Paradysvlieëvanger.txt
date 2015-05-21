@@ -1,0 +1,114 @@
+Paradysvlieëvanger
+
+
+               Paradysvlieëvanger
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Kuiken van die paradysvlieëvangerspesie
+   'n Kuiken van die paradysvlieëvangerspesie
+           Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Dicruridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Terpsiphone
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. viridis
+     Subspesie:    {{{subspecies}}}
+     [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                 Binomiale naam
+               Terpsiphone viridis
+   (Müller, 1776)
+                 Trinomiale naam
+                 {{{trinomial}}}
+                  Tipe Spesies
+               {{{type_species}}}
+             {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Blou: Broeiende migrant Groen: Inwoner
+   Blou: Broeiende migrant
+   Groen: Inwoner
+                    Sinonieme
+   {{{synonyms}}}
+
+   Die Paradysvlieëvanger (Terpsiphone Viridis) is 'n kleurvolle
+   vlieëvanger wat wyd verspreid voorkom in suidelike Afrika behalwe in
+   hoërliggende en droër dele.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+             + 6.1 Suid-Afrikaanse voëls
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Medium grootte, swart kop met okerkleurige bolyf. Mannetjie het lang
+   stert.
+
+[wysig] Habitat
+
+   Rivier- en kuswoude asook digte bosse op savanna, tuine en eksotiese
+   plantasies.
+
+[wysig] Verspreiding
+
+   Wyd verspreid in suidelike Afrika maar kom ook voor in suidwestelike
+   Arabië.
+
+[wysig] Geluid
+
+   Kort, ritmiese roep, tseek tseek krrr krrr
+
+[wysig] Ander name
+
+     * Engelse naam: Paradise Flycatcher
+     * Zoeloenaam: iNzwece
+     * Wetenskaplike naam: Terpsiphone Viridis
+
+[wysig] Sien ook
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa, Sixth Edition, ISBN 0620175834
+
+   Kategorie: Voëls
+

@@ -1,0 +1,311 @@
+Viterbi algoritme
+
+
+   Die Viterbi algoritme, vernoem na die ontwikkelaar daarvan Andrew
+   Viterbi, is 'n dinamieseprogrammering algoritme om die mees
+   waarskynlike opeenvolging van verborge toestande te vind – bekend as
+   die Viterbi pad – wat lei tot 'n opeenvolging van waargeneemde
+   gebeurtenisse, veral teen die agtergrond van verborge Markovmodelle.
+   Die voorwaartse algoritme (Engels: forward algorithm) is 'n naby
+   verwante algoritme vir die berekening van die waarskynlikheid van 'n
+   opeenvolging van waargeneemde gebeurtenisse. Hierdie is 'n subafdeling
+   van 'n breër onderwerp wat bekend staan as inligtingsteorie.
+
+   Die Viterbi algoritme is oorspronklik bedink is as 'n foutkorreksie
+   skema vir ruiserige digitale kommunikasieverbindings, met universele
+   toepassing in dekodering van die convolutional codes wat in beide CDMA
+   en GSM digitale sellulêre, skakelmodems, satelliet, buitenste ruimte
+   kommunikasie, en 802.11 radio LANs gebruik word. Dit word nou ook
+   algemeen gebruik in spraakherkenning, sleutelwoorduitkenning,
+   rekenaarlinguistiek, en bioinformatika. In spraak-na-teks
+   spraakherkenning, word die akoestiese sein byvoorbeeld behandel soos 'n
+   waargenome opeenvolging van gebeurtenisse, en 'n string teks beskou as
+   die "verborge oorsaak" van die akoestiese sien. Die Viterbi algoritme
+   vind die mees waarskynlike string teks gegee die akoestiese sien.
+
+   Die algoritme is nie algemeen nie; dit maak 'n aantal aannames.
+   Eerstens moet beide die waargenome en verborge gebeurtenisse in 'n
+   opeenvolging voorkom. Die opeenvolging kom baie keer met tyd ooreen.
+   Tweedens moet die twee opeenvolgings belyn wees, en 'n waargenome
+   gebeurtenis moet ooreenstem met presies een verborge gebeurtenis.
+   Derdens moet berekening van die mees waarskynlike verborge opeenvolging
+   tot by 'n sekere punt t afhang van slegs die waargenome gebeurtenis by
+   punt t, en die mees waarskynlike opeenvolging by punt t − 1. Hierdie
+   aannames word almal bevredig in 'n eerste-orde-Markovmodel.
+
+   Die terme "Viterbi pad" en "Viterbi algoritme" word ook gebruik vir
+   verwante dinamiese programmeringsalgoritmes wat die enkele mees
+   waarskynlike verduideliking vir 'n waarneming vind. Byvoorbeeld, in
+   stogastiese ontleding kan 'n dinamiese programmeringsalgoritme gebruik
+   word om die enkele mees waarskynlike konteksvrye afleiding
+   (sinstaksontleding) van 'n string te vind wat soms 'n "Viterbi
+   ontleding" genoem word.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 A konkrete voorbeeld
+        * 3 Uitbreidings
+        * 4 Kyk ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Oorsig
+
+   Vir 'n vereenvoudigde beskrywing, moet bogenoemde aannames verstaan
+   word. Eerstens moet ons verstaan dat die Viterbi algoritme volgens 'n
+   toestandsmasjien aanname werk. Dit wil sê daar is 'n eindige aantal
+   toestande, hoe groot ookal, wat gelys kan word. Vir elke toestand, of
+   node, kan slegs een opeenvolging of pad daarna lei. Dit is 'n
+   fundamentele aanname van die algoritme omdat die algoritme alle
+   moontlike paaie wat na 'n toestand lei ondersoek en net die mees
+   waarskynlike een hou. Op die wyse hoef die algoritme nie tred te hou
+   van meervoudige paaie nie, slegs een per toestand. 'n Tweede sleutel
+   aanname is dat die oorgang van 'n vorige toestand na 'n nuwe toestand
+   gemerk word deur 'n inkrementele maatstaf, gewoonlik 'n getal. Die
+   oorgang word bereken uit die gebeurtenis. Die derde aanname is dat die
+   gebeurtenisse in 'n sekere sin kumulatief is oor 'n pad, gewoonlik
+   additief. Die crux van die algoritme is dus om 'n nommer vir elke
+   toestand te hou. Wanneer die gebeurtenis dan plaasvind, ondersoek die
+   algoritme voorwaartse beweging na 'n nuwe stel toestande deur die
+   maatstaf van 'n moontlike vorige toestand te kombineer met die
+   inkrementele maatstaf van die oorgang as gevolg van die gebeurtenis en
+   kies die beste een. Daar moet hier daarop gelet word dat die
+   inkrementele maatstaf wat met 'n gebeurtenis geassosieer word afhanklik
+   is van die oorganswaarskynlikheid van die ou toestand na die nuwe
+   toestand. Byvoorbeeld in datakommunikasie, is dit moontlik om slegs die
+   helfte van die simbole vanaf 'n onewe genommerde toestand te stuur en
+   die ander helfte vanaf 'n ewe genommerde toestand. Verder, is die
+   toestandoorgangstabel in baie gevalle nie ten volle verbdin nie. 'n
+   Eenvoudige voorbeeld is 'n motorvoertuig wat 3 toestande het, vorentoe,
+   stop en agteruit. 'n Oorgang van vorentoe na agteruit word nie
+   toegelaat nie. Dit moet eers na die stop toestand gaan. Na berekening
+   van die kombinasies van inkrementele maatstawwe en toestand maatstaf,
+   oorleef slegs die bestes en al die ander paaie word verwerp. Dit is die
+   crux van die algoritme. Daar is aanpassings aan die basiese algoritme
+   wat toelaat vir 'n vorentoe soektog bo en behalwe die truwaartse
+   soektog wat hier beskryf is.
+
+   Padgeskiedenis moet gestoor word. In sommige gevalle is die
+   soekgeskiedenis eindig omdat die toestandmasjien by die enkodeerder in
+   'n bekende toestand begin en is daar genoeg geheue om al die paai te
+   hou. In sommige ander gevalle, byvoorbeeld convolutional encoding, moet
+   die dekodeerder die geskiedenis snoei op 'n diepte groot genoeg om
+   verrigting op 'n aanvaarbare vlak te hou. Alhoewel die Viterbi
+   algoritme baie doeltreffend is, is daar aanpassings wat die
+   berekeningslas kan verminder; die geheue behoeftes neig om dieselfde te
+   bly.
+
+[wysig] A konkrete voorbeeld
+
+   Neem aan jy het 'n vriend wat ver weg bly en met wie jy elke dag praat
+   oor wat elkeen van julle die dag gedoen het. Jou vriend het net drie
+   dinge wat hom interesseer: in die park wandel, winkels toe gaan en sy
+   woonstel skoonmaak. Die keuse van wat om te doen word uitsluitlik
+   bepaal deur die weer op 'n gegewe dag. Jy het geen besliste inligting
+   oor die weer waar jou vriend woon nie, maar jy is bekend met die
+   algemene tendense. Gegrond op wat hy jou vertel hy elke dag doen,
+   probeer jy raai hoe die weer moes gewees het.
+
+   Jy glo dat die weer as 'n diskrete Markovketting optree. Daar is twee
+   toestande, "Reën" en "Mooiweer", maar jy kan dit nie direk waarneem
+   nie, met ander woorde, dit is van jou verborge. Elke dag is daar 'n
+   sekere waarskynlikheid dat jou vriend een van die volgende aktiwiteite
+   gaan uitvoer, afhangende van die weer: "wandel", "inkopies", of
+   "skoonmaak". Aangesien jou vriend jou vertel van sy aktiwiteite, is
+   hierdie waarnemings. Die hele stelsel is die van 'n verborge
+   Markovmodel (VMM). Jy ken die algemene weerpatrone in die omgewing en
+   jy weet wat jou vriend gemiddeld doen. Met ander woorde, die parameters
+   van die VMM is bekend. Om die waarheid te sê jy kan dit in
+   Pythonprogrammeertaal neerskryf:
+toestande = ('Reën', 'Mooiweer')
+
+waarnemings = ('wandel', 'inkopies', 'skoonmaak')
+
+begin_waarskynlikheid = {'Reën': 0.6, 'Mooiweer': 0.4}
+
+oorgang_waarskynlikheid = {
+   'Reën' : {'Reën': 0.7, 'Mooiweer': 0.3},
+   'Mooiweer' : {'Reën': 0.4, 'Mooiweer': 0.6},
+   }
+
+uitsending_waarskynlikhede = {
+   'Reën' : {'wandel': 0.1, 'inkopies': 0.4, 'skoonmaak': 0.5},
+   'Mooiweer' : {'wandel': 0.6, 'inkopies': 0.3, 'skoonmaak': 0.1},
+   }
+
+   In hierdie fragment verwys begin_waarskynlikheid na jou onsekerheid oor
+   die toestand waarin die VMM is wanneer jou vriend jou die eerste keer
+   skakel (al wat jy weet dat dit op die gemiddeld geneig is om te reën).
+   Die spesifieke waarskynlikheidsverspreiding wat hier gebruik word is
+   nie die ekwilibrium verspreiding nie, wat (gegee die
+   oorgangswaarskynlikhede) eintlik ongeveer {'Reën': 0.571, 'Mooiweer':
+   0.429} is. Die oorgang_waarskynlikheid verwys na die verandering in die
+   weer in die onderliggende Markovketting. In die voorbeeld is daar slegs
+   'n 30% kans dat dit môre mooiweer sal wees as dit vandag reën. Die
+   uitsending_waarskynlikhede dui aan hoe waarskynlik dit is dat jou
+   vriend 'n sekere aktiwiteit elke dag uit sal voer. As dit reën is daar
+   'n 50% kans dat hy sy woonstel sal skoonmaak; as dit mooiweer is, is
+   daar 'n 60% kans dat hy uit sal gaan vir 'n wandeling.
+
+   Jy praat drie dae in 'n ry met jou vriend en vind uit dat hy op die
+   eerste dag gaan wandel het, op die tweede dag het hy gaan inkopies
+   doen, en op die derde dag het hy sy woonstel skoongemaak. Jy het twee
+   vrae: Wat is die algehele waarskynlikheid van die opeenvolging
+   waarnemings? En wat is die mees waarskynlike opeenvolging van
+   reën/mooiweer dae wat die waarnemings kan verklaar? Die eerste vraag
+   word deur die voorwaartse algoritme beantwoord; die tweede, deur die
+   Viterbi algoritme. Hierdie twee algoritmes vertoon struktureel soveel
+   ooreenkoms (om die waarheid te sê, hulle is beide verskillende gevalle
+   van dieselfde abstrakte algoritme) dat hulle deur 'n enkele funksie
+   geïmplementeer kan word:
+def forward_viterbi(y, X, sp, tp, ep):
+   T = {}
+   for state in X:
+       ##          prob.      V. path  V. prob.
+       T[state] = (sp[state], [state], sp[state])
+   for output in y:
+       U = {}
+       for next_state in X:
+           total = 0
+           argmax = None
+           valmax = 0
+           for state in X:
+               (prob, v_path, v_prob) = T[state]
+               p = ep[next_state][output] * tp[state][next_state]
+               prob *= p
+               v_prob *= p
+               total += prob
+               if v_prob > valmax:
+                   argmax = v_path + [next_state]
+                   valmax = v_prob
+           U[next_state] = (total, argmax, valmax)
+       T = U
+   ## apply sum/max to the final states:
+   total = 0
+   argmax = None
+   valmax = 0
+   for state in X:
+       (prob, v_path, v_prob) = T[state]
+       total += prob
+       if v_prob > valmax:
+           argmax = v_path
+           valmax = v_prob
+   return (total, argmax, valmax)
+
+   Die funksie forward_viterbi neem die volgende argumente: y is die
+   opeenvolging van waarnemings, b.v. ['wandel', 'inkopies', 'skoonmaak'];
+   X is die stel verborge toestande; sp is die beginwaarskynlikhede; tp is
+   die oorganswaarskynlikhede; en ep is die uitsendingwaarskynlikhede.
+
+   Die algoritme werk op die afbeeldings T en U. Elkeen is 'n afbeelding
+   van 'n toestand na 'n drievoud (prob, v_path, v_prob), waar prob die
+   totale waarskynlikheid van alle paaie van die begin tot by die huidige
+   toestand, v_path is die Viterbi pad tot by die huidige toestand, en
+   v_prob is die waarskynlikheid van die Viterbi pad tot by die huidige
+   toestand. Die afbeeldingkode T hou die inligting vir 'n gegewe punt in
+   tyd t, en die hooflus bou U, wat soortgelyke inligting vir tyd t+1 hou.
+   As gevolg van die Markoveienskap word inligting oor enige punt in tyd
+   voor t nie benodig nie.
+
+   Die algoritme begin deur die T te inisialiseer om die waarskynlikhede
+   aan die gang te sit: die totale waarskynlikheid van 'n toestand is net
+   die begin waarskynlikheid van die toestand; en die Viterbi pad na 'n
+   begin toestand is die enkeling pad wat slegs uit daardie toestand
+   bestaan; die waarskynlikheid van die Viterbi pad is dieselfde as die
+   begin waarskynlikheid.
+
+   Die hooflus oorweeg die waarnemings van y in volgorde. Die lusinvariant
+   daarvan is dat T die korrekte inligting bevat tot by maar uitgesluit
+   die punt in tyd van die huidige waarneming. Die algoritme bereken die
+   drievoud (prob, v_path, v_prob) vir elke moontlike volgende toestand.
+   Die totale waarskynlikheid van 'n gegewe volgende toestand, total word
+   verkry deur die waarskynlikheid van al die paaie wat die toestand
+   bereik op te tel. Meer Meer noukeurig, die algoritme herhaal oor alle
+   moontlike brontoestande. Vir elke brontoestand hou T die totale
+   waarskynlikehiedvan alle paaie na die toestand. Hierdie waarskynlikheid
+   word dan vermenigvuldig met die uitsendingswaarskynlikheid van die
+   huidige waarneming en di oorgangswaarskynlikeheid van die brontoestand
+   na die volgende toestand. Die resulting waarskynlikheid prob word dan
+   bygetel by die total. Die waarskynlikeheid van die Viterbi pad word op
+   'n soortgelyke manier bereken, maar in plaas van optel oor alle paaie,
+   voer mens 'n diskrete maksimering uit oor alle paaie. Aanvanklik is die
+   maksimum waarde valmax nul. Vir elke brontoestand is die
+   waarskynlikeheid van die Viterbi pad na die toestand bekend. Dit word
+   ook vermenigvuldig met die uitsending en oorgang waarskynlikhede en
+   vervang valmax as dit groter is as die huidige waarde. Die Viterbi pad
+   self word bereken as die ooreenstemmende argmax van daardie
+   maksimering, deur die Viterbi pad wat lei tot die huidige toestand met
+   die volgende toestand uit te brei. Die drievoud (prob, v_path, v_prob)
+   wat op die manier bereken word word in U gestoor en wanneer U bereken
+   is vir alle moontlike volgende toestande, dit vervang T en verseker
+   daarmee dat dit lusinvariant behou bly teen die einde van die iterasie.
+
+   Uiteindelik word nog 'n somering/maksimering uitgevoer (dit kan ook
+   binne die hooflus gedoen word na die laaste werklike waarneming).
+
+   In die voorbeeld word die voorwaartse/Viterbi algoritme as volg
+   gebruik:
+def example():
+   return forward_viterbi(['walk', 'shop', 'clean'],
+                          states,
+                          start_probability,
+                          transition_probability,
+                          emission_probability)
+
+   Dit dui aan dat die totale waarskynlikheid van ['wandel', 'inkopies',
+   'skoonmaak'] 0.033612 is en dat die Viterbi pad ['Mooiweer', 'Reën',
+   'Reën', 'Reën'] is. Die Viterbi pad bevat vier toestande omdat die
+   vierde waarneming gegenereer word deur die derde toestand en die
+   oorgang na 'n oorgang na die vierde toestand. Met ander woorde, gegee
+   die waargenome aktiwiteite, wat dit die mees waarskynlik mooiweer toe
+   jou vriend gaan wandel het en dat dit die dag daarna begin reën het dat
+   dit aanhou reën het.
+
+[wysig] Uitbreidings
+
+   Met die algoritme genaamd Iteratiewe Viterbi Dekodering kan 'n mens die
+   subopeenvolging van 'n waarneming wat (gemiddeld) die best pas by 'n
+   gegewe VMM. Iteratiewe Viterbi Dekodering, ontwikkel deur M.C.Silaghi
+   (1998) werk deur die roep van 'n aangepaste Viterbi algoritme te
+   herhaal en die telling vir 'n 'filler' te herskat tot konvergensie
+   bereik word.
+
+   'n Alternatiewe algoritme, genaamd die Lui Viterbi algoritme (Engles:
+   Lazy Viterbi algorithm, is onlangs voorgestel. Dit werk deur nie enige
+   nodes uit te berei totdat dit werklik nodig is nie, en slaag gewoonlik
+   daarin om oor die weg te kom met baie minder werk (in sagteware) as die
+   gewone Viterbi algoritme vir die selfde resultaat – dit is agter nie
+   maklik om in hardeware te paralleliseer nie.
+
+[wysig] Kyk ook
+
+     * Baum Welch algoritme
+     * Verborge Markov model
+     * Linêre foutkorreksiekode
+
+[wysig] Verwysings
+
+     * Andrew J. Viterbi. Error bounds for convolutional codes and an
+       asymptotically optimum decoding algorithm. IEEE Transactions on
+       Information Theory 13(2):260–267, April 1967. (The Viterbi decoding
+       algorithm is described in section IV.)
+
+     * G. D. Forney. The Viterbi algorithm. Proceedings of the IEEE
+       61(3):268–278, March 1973.
+
+     * L. R. Rabiner. A tutorial on hidden Markov models and selected
+       applications in speech recognition. Proceedings of the IEEE
+       77(2):257–286, February 1989. (Describes the forward algorithm and
+       Viterbi algorithm for HMMs).
+
+     * J Feldman, I Abou-Faycal and M Frigo. A Fast Maximum-Likelihood
+       Decoder for Convolutional Codes.
+
+[wysig] Eksterne skakels
+
+     * 'n Onderhoud met Andrew Viterbi, insluitend agtergrond tot die
+       ontdekking van die Viterbi algorithm
+
+   Kategorie: Algoritmes
+

@@ -1,0 +1,100 @@
+Radiogolfvoortplanting
+
+
+   In teenstelling met klankgolwe het radiogolwe nie 'n medium nodig vir
+   voortplanting nie. Dit word duidelik geïllustreer deur die feit dat ons
+   suksesvol met ruimtetuie kommunikeer ten spyte van die vakuum van die
+   ruimte. Radiogolwe is egter deel van die verskynsel wat
+   elektromagnetiese straling heet. Elektromagnetiese straling sluit
+   mikrogolwe, lig, en verskynsels soos x-, alpha- en gammastrale in.
+
+   Radiogolf voortplanting vir aardse kommunikasie word egter deur 'n
+   aantal natuurverskynsels beïnvloed. Meeste van hierdie verskynsels word
+   deur ons son se interaksie met die aarde se atmosfeer en magnetiese
+   veld veroorsaak. Radiokommunikasie word beplan om die beste gebruik te
+   maak van hierdie verskynsels.
+
+   Basiese begrippe wat deel van 'n radiogolf se karakter beskryf is die
+   van golflengte en frekwensie. 'n Radiogolf bestaan uit die aard van die
+   saak uit iets wat herhalend beweeg net soos 'n golf op water. Hoe meer
+   siklusse van die beweging daar per sekonde is hoe hoër is die
+   frekwensie van die golf en hoe korter is die golflengte. Merk veral op
+   dat golflengte en frekwensie omgekeerd eweredig is aan mekaar. Die
+   volgende vergelyking beskrywe die verhouding tussen golflengte,
+   frekwensie, en die snelheid van die golf:
+
+   \lambda\,={v \over f}
+
+   waar λ golflengte is, v is die snelheid van van die golf en f is
+   frekwensie. In 'n vakuum is die snelheid van die golf gelyk aan die
+   snelheid van lig.
+
+   Een van die eerste dinge wat mens opmerk wanneer dit by radiogolf
+   voortplanting kom is dat die voortplantingswyse van die radiogolf se
+   frekwensie afhang. Deel van die rede hiervoor is dat hoe korter die
+   golflengte hoe meer energie besit die golf. Dit is dus handig om
+   radiogolwe in die volgende bande te verdeel omdat hulle rofweg
+   dieselfde eienskappe het:
+   Frekwensie Band    Band Beskrywing
+   300 kHz - 3 MHz  lae frekwensie
+   3 MHZ - 30 MHz   hoë frekwensie
+   30 MHz - 300 MHz baie hoë frekwensie
+   300 MHz - 3 GHz  ultra hoë frekwensie
+
+   Selfs wanneer radiogolwe ongehinderd deur die ruimte voortplant verswak
+   hulle met afstand. Die kragdigtheid van 'n radiogolf is omgekeerd
+   eweredig aan die afstand in die kwadraat van die antenne af.
+
+   Ook moet mens besef dat 'n antenne nie die totale krag wat uitgesaai
+   word kan vermeerder nie. Wat dit kan doen is die antenne uitstraling
+   fokus sodat die krag in 'n sekere rigting vermeerder word maar dan word
+   dit in die ander rigtings verwak.
+
+   Net soos lig (beide radiogolwe en lig is elektromagnetiese uitstraling)
+   is radiogolwe onderworpe aan weerkaatsing, straalbreking (refraksie) en
+   straalbuiging (diffraksie) wanneer dit 'n grens bereik tussen media met
+   verskillende brekingsindekse. Afhangende van radiogolwe se golflengte
+   kan hulle dus van geboue, voertuie, die maan, bome, die grond, water,
+   geïoniseerde lae in die atmosfeer en die grense tussen atmosferiese lae
+   met verskillende temperatuur en voginhoud weerkaats word. So ook met
+   straalbreking, dit gebeur wanneer radiogolwe van een medium tot 'n
+   ander beweeg met 'n invalshoek wat te groot is vir weerkaatsing.
+   Straalbreking begin effektief word by frekwensies van 28 MHz en hoër.
+   Straalbuiging gebeur wanneer 'n straal die rand van iets soos 'n muur
+   teekom en dan veroorsaak interaksie tussen aangrensende golwe dat die
+   straal van rigting verander en tot 'n mate die gebied agter die muur
+   bestraal.
+
+   Wanneer dit by radiogolwe kom kan ons twee golftipes onderskei:
+   grondgolwe en luggolwe.
+
+[wysig] Grondgolwe
+
+   Vir hierdie artikel definieer ons grondgolwe as volg:
+     * Golwe wat direk van antenne tot antenne voortplant wanneer die
+       antennas mekaar kan "sien". Sulke golwe mag in aanraking met die
+       aarde se oppervlak kom.
+     * Golwe wat 'n paar kilometer bo die aarde se oppervlakte beweeg oor
+       lang afstande en die kromming van die aarde se oppervlakte volg.
+
+   In beide gevalle verlaat die golwe nie die aarde se lae atmosfeer
+   (troposfeer) nie.
+
+   Grondgolwe wat met die aarde se oppervlak in aanraking kom verswak
+   relatief vinnig oor 'n afstand vergeleke met luggolwe. Die verlies van
+   sterkte neem ook toe soos die frekwensie van die sein toeneem.
+   Kommunikasie waar die golf die aardoppervlak raak word dus beperk tot
+   lae frekwensies onder 1.8 MHz en tot afstande van 'n 160 km of so.
+   Mediumgolf uitsendings val in die frekwensieband en gebruik hoofsaaklik
+   grondgolwe in aanraking met die aarde.
+
+[wysig] Luggolwe
+
+   Luggolwe is radiogolwe wat via die troposfeer reis..
+
+[wysig] Die Ruimte In
+
+   Hier kyk ons na radiogolwe wat opset die ruimte in gestuur word om of
+   met 'n ruimetuig of via 'n ruimtetuig te kommunikeer..
+   Kategorieë: Radio • Elektromagnetisme
+

@@ -1,0 +1,41 @@
+Digital Radio Mondiale
+
+
+   Digital Radio Mondiale (DRM) (Frans: "Wêreldwye Digitale Radio") is die
+   nuwe internasionale uitsaai-standaard vir frekwensies benede 30 MHz.
+   Dit sal geleidelik analoë radiouitsendings in die langgolf-,
+   mediumgolf- en kortgolfstandaard vervang. DRM behels naas radiodienste
+   ook datadienste en amateurradio. Die nuut ontwikkelde DRM+ is 'n
+   standaard wat ook vir frekwensises bo 30 MHz geskik is (insluitende
+   FM-radio).
+
+[wysig] Geskiedenis
+
+   Die DRM-projek is in September 1996 tydens 'n informele byeenkoms van
+   'n aantal groot internasionale uitsaaikorporasies in die Franse
+   hoofstad Parys in die lewe geroep. Die oorspronklike groep korporasies
+   sluit Radio France Internationale, TéléDiffusion de France, Deutsche
+   Welle, Voice of America en Thomcast (nou Thales) in.
+
+   Die DRM-organisasie is formeel op 5 Maart 1998 in Guangzhou
+   (Volksrepubliek van Sjina) gestig. DRM word in 2006 reeds deur sommige
+   internasionale uitsaaidienste gebruik of getoets.
+
+[wysig] Voordele
+
+   DRM gebruik gevorderde oudiokodeks met 'n hoë kompressie, wat MPEG-4
+   met tegniese verbeterings soos AAC en SBR as basis het. Danksy hierdie
+   tegnologie kan ondanks die lae bandbreedte 'n taamlik goeie
+   klankkwaliteit bereik word. Dit is dus geskik as 'n
+   langafstand-tegnologie vir kortgolfradio in mono-kwaliteit en
+   stereo-mediumgolfradio.
+
+   DRM maak dit ook moontlik dat een enkele radiostasie radioprogramme vir
+   'n hele groep lande of 'n hele vasteland kan uitsaai, wat terselfdertyd
+   ook verbeterde klankkwaliteit het.
+
+[wysig] Eksterne skakels
+
+   Die webwerf van die DRM-organisasie
+   Kategorie: Radio
+

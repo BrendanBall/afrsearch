@@ -1,0 +1,132 @@
+Wikipedia:Kopieregprobleme
+
+
+   Hierdie bladsy is bedoel vir die aanteken en bespreek van
+   kopieregprobleme op Wikipedia; beide bladsye en prentjies.
+
+   As u 'n bladsy hier byvoeg, volg asseblief die instruksies by die
+   afdeling "Kennisgewing".
+
+   In die geval waar 'n wysiging 'n kopieregskending is, maar die
+   oorspronklike artikel was nie, moet die bladsy nie verwyder word nie.
+   Die wysiging moet net ongedaan gemaak word.
+
+   Inhoud
+
+        * 1 Alternatiewe
+        * 2 Aan kopiereghouers
+        * 3 Kennisgewing
+        * 4 Lys van moontlike kopieregskendings
+        * 5 Afrika Christen Demokratiese Party
+        * 6 Nasionale Taaldiens
+        * 7 Afrikaanse digters
+        * 8 DOM Produksies
+        * 9 Biodiesel
+
+[wysig] Alternatiewe
+
+   Afgesien daarvan om 'n artikel hier aan te teken, kan u ook dievolgende
+   doen:
+     * Vervang die artikel met nuwe teks van u eie. Doen hierdie op 'n
+       tydelike bladsy by [[Bladsynaam/Temp]] en los 'n boodskap by die
+       besprekingsbladsy. As daar 'n fals alarm was, kan die twee
+       saamgevoeg word.
+     * Skryf aan die kopiereghouer om te hoor of hulle toestemming gegee
+       het (en of hulle dit dalk self bygedra het).
+     * Vra toestemming van die kopiereghouer. Onthou om ons lisensie te
+       meld.
+
+[wysig] Aan kopiereghouers
+
+   As u glo Wikipedia skend u kopiereg, los gerus ook 'n boodskap hier. 'n
+   Wysiging wat u kopiereg skend kan moontlik uit die wysigingsgeskiedenis
+   verwyder word. Meld dit asseblief as u dit so wil hê.
+
+[wysig] Kennisgewing
+
+   Verwyder die teks van die artikel en vervang dit met
+{{Kopieregprobleem|url=<plaas die URL van materiaal wat na bewering gekopiëer is
+, hier>}}
+
+   en vervang "<plaas die URL van materiaal wat na bewering gekopiëer is,
+   hier>" met die webadres (of boek of artikel) wat die oorspronklike
+   materiaal bevat. Voeg dan ook die artikel en die skakel na die bron by
+   onderaan hierdie bladsy.
+
+[wysig] Lys van moontlike kopieregskendings
+
+   Voeg asb die inligting onder 'n subopskrif met die datum waarop u dit
+   aanmeld, sodat dit maklik is om tred te hou met of genoeg tyd gegun is
+   voordat die artikel uitgevee word. Los asb u naam deur --~~~ agteraan
+   te plaas. Alle artikels wat Sjabloon:Kopieregprobleem in die teks het,
+   behoort te wees in Kategorie:Moontlike kopieregskendings.
+
+[wysig] Afrika Christen Demokratiese Party
+
+   Vanaf http://www.acdp.org.za/about/history.asp. Nou al bietjie vertaal.
+   Ook probleem by EN. --Alias 12:48, 10 11 2004 (UTC)
+     * Bydraer het bygedra as lid van ACDP met toestemming (volgens
+       bydraer). Iemand wat tyd het om te bevestig? --Alias 05:41, 16 11
+       2004 (UTC)
+
+[wysig] Nasionale Taaldiens
+
+     * Vanaf
+       http://www.dac.gov.za/about_us/cd_nat_language/national_lang_servic
+       e/national_lang_service%20.htm#afrikaans. Is hierdie tipe van
+       staatsdokumente dalk in die publieke domein? --Alias 05:41, 16 11
+       2004 (UTC)
+
+     * Nie seker nie maar dalk is een van hierdie twee artikels van die
+       wet op outeursreg van toepassing? Die Nasionale Taaldiens moes tog
+       sekerlik deur wetgewing daargestel gewees het, en daarom vermoed ek
+       dat die meeste materiaal heeltemal wettig is, selfs al is dit woord
+       vir woord vertalings.
+
+                (6) (a) Die outeursreg in 'n lesing, adres of ander werk
+                van 'n soortgelyke aard wat in die openbaar gelewer word,
+                word nie geskend deur dit in die pers te reproduseer of
+                deur dit uit te saai nie, indien sodanige reproduksie of
+                uitsending vir 'n inligtingsdoel is.
+
+                (8) (a) Outeursreg bestaan nie in amptelike stukke van 'n
+                wetgewende, administratiewe of wetlike aard of in
+                amptelike vertalings van sodanige stukke of in toesprake
+                van 'n politieke aard of in toesprake gelewer tydens
+                regsverrigtinge nie of in nuus van die dag wat slegs items
+                van persinligting is nie.
+                --RM 12:11, 16 11 2004 (UTC)
+
+     *
+          + Ek dink dat deel van die saak is dat ons versprei onder die
+            GFDL. Ek weet ook nie of hierdie tel as "amptelike stukke van
+            'n wetgewende, administratiewe of wetlike aard" nie. Sover ek
+            weet word hierdie ook by Engels bespreek. --Alias 09:55, 17 11
+            2004 (UTC)
+
+[wysig] Afrikaanse digters
+
+     * Daar is verskeie gedigte (ooglopend) verbatim geplaas by verskeie
+       Afrikaanse digters se artikels sonder enige inhoud oor die digters
+       self. Sien gerus die skakels vanaf Afrikaanse digters. My en Renier
+       se pogings om reaksie van die bydraer te kry was tot dusver
+       onsuksesvol. Anoniem bygedra vanaf Gebruiker:210.55.230.19 en
+       Gebruiker:210.55.230.17. --Alias (iets soos 4 April)
+          + Renier, jy het oorspronklik by
+            GebruikerBespreking:210.55.230.19 gesê dat sommige van hierdie
+            bydraes dalk wel al in die publieke domein is. Sal ons maar
+            voortgaan en alles uitvee, of hoe gemaak? Ons het hierdies nou
+            al veels te lank gelos. --Alias 11:38, 9 Jun 2005 (UTC)
+
+[wysig] DOM Produksies
+
+     * Geen bron by die beelde Wapen.jpg en DOMLogo.jpg --Neet 20:51, 20
+       Februarie 2007 (UTC)
+
+[wysig] Biodiesel
+
+   Please have a look at Gebruikerbespreking:RAM#Biodiesel and delete all
+   versions where content was copied without mentioning the main editors
+   nor en:wp's article history. Thanks, DerHexer 12:28, 19 November 2007
+   (UTC)
+

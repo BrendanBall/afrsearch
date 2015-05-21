@@ -1,0 +1,213 @@
+Evolusie
+
+
+          Hierdie artikel handel oor evolusie in biologie. Vir ander
+          betekenisse, kyk gerus na Evolusie (dubbelsinnigheid).
+
+   'n Spekulatiewe filogeniese boom van alle lewende dinge, gebaseer op
+   rRNA-geendata. Dit toon die skeiding aan van die drie domeine, die
+   bakterieë, die argebakterieë en die eukariote.
+   'n Spekulatiewe filogeniese boom van alle lewende dinge, gebaseer op
+   rRNA-geendata. Dit toon die skeiding aan van die drie domeine, die
+   bakterieë, die argebakterieë en die eukariote.
+
+   In biologie is evolusie die proses waardeur nuwe trekke in bevolkings
+   ontwikkel en dié dan voortgedra word van geslag tot geslag. Met die
+   verloop van duisende jare het die proses nuwe spesies ontwikkel, tot
+   vandag se 1 562 663 spesies.^[1] Die filogenetiese "boom" op die
+   regterkant toon die oorspronklike gemeenskaplike stam van, en latere
+   verhoudings tussen die drie hoofdomeine van lewende wesens aan.
+
+   Die huidige begrip van evolusie is gebaseer op die teorie van
+   natuurlike seleksie, ontwikkel in 'n joernaalartikel deur Charles
+   Darwin en Alfred Russel Wallace in 1858, en wyer bekend gestel in
+   Darwin se boek Die oorsprong van spesies in 1859. Natuurlike seleksie
+   is die gedagte dat individuele organismes met genetiese materiaal wat
+   aan hulle voordelige oorerflike eienskappe verleen, meer geneig tot
+   oorlewing is as andere wat dit nie het nie, en gewoonlik meer tyd het
+   om te kan voortplant as daardie andere. Deur voortplanting vermeerder
+   die voorkomssyfer van sulke eienskappe in daaropvolgende generasies.
+
+   In die 1930's het wetenskaplikes Darwin se werk met die teorie van
+   Gregor Mendel oor oorerflikheid, gekombineer tot 'n nuwe
+   evolusie-sintese bekend as Neo-Darwinisme. Dié sintese beskryf evolusie
+   as 'n verandering in die frekwensie van allele in 'n bevolking van een
+   geslag tot die volgende. Die meganismes wat hierdie veranderinge
+   veroorsaak is die grondmeganismes van bevolkingsgenetika: natuurlike
+   seleksie, en genetiese skuiwing (Engels genetic drift), wat op sy beurt
+   afhang van die genetiese verskeidenheid veroorsaak deur mutasie,
+   genetiese rekombinasie en geenvloei.^[2] Hierdie teorie het die
+   sentraal-organiserende beginsel van moderne biologie geword, met
+   direkte toepasbaarheid op onderwerpe soos antibiotiese weerstandigheid,
+   eusosiaalheid in insekte, en die verbysterende biodiversiteit van die
+   wêreld.
+   Charles Darwin in 1854, vyf jaar voor die publikasie van sy invloedryke
+   boek.
+   Charles Darwin in 1854, vyf jaar voor die publikasie van sy invloedryke
+   boek.
+
+   Inhoud
+
+        * 1 Getuienis ter ondersteuning van evolusie
+             + 1.1 Morfologies
+             + 1.2 Genetiese volgordebepaling
+             + 1.3 Komplekse gedurige herhalings
+             + 1.4 Die meidoringvlieg
+        * 2 Moderne sintese van evolusie
+             + 2.1 Oorerflikheid
+             + 2.2 Sommige meganismes van evolusie
+                  o 2.2.1 Mutasie
+                  o 2.2.2 Geenvloei
+                  o 2.2.3 Seleksie en aanpassing
+        * 3 Weerstand teen evolusie
+        * 4 Sien ook
+        * 5 Notas
+        * 6 Eksterne skakels
+
+[wysig] Getuienis ter ondersteuning van evolusie
+
+[wysig] Morfologies
+
+   'n Fossielvis van die genus Knightia.
+   'n Fossielvis van die genus Knightia.
+     * Die teenwoordigheid van fossielgetuienis verskaf 'n geleentheid vir
+       die absolute bevestiging van die ouderdom van uitgestorwe spesies,
+       deur middel van radiometriese datering.
+     * Paleontoloë kan evolusie ondersoek deur ontleding van
+       fossielgetuienis, soos dié in die ryk fossielteenwoordigheid van
+       die Burgess-skalie.^[3]
+     * Filogenetika het aangetoon dat strukture met 'n soortgelyke interne
+       organisasie, in verskillende spesies uiteenlopende funksies mag
+       vervul.
+
+[wysig] Genetiese volgordebepaling
+
+   Organismes wat filogeneties naby aan mekaar is, het 'n hoër mate van
+   soortgelyke genetiese volgordereekse as dié wat filogeneties verder van
+   mekaar is. Só is die mens se DNA-volgordereeks slegs 1,2% uiteenlopend
+   van die sjimpansee, 1,6% van die gorilla en 6,6% van die bobbejaan.^[4]
+
+[wysig] Komplekse gedurige herhalings
+
+   Die ontwikkeling van kragtige genoeg rekenaarprogramme het die studie
+   van die herhaling van selfveranderende komplekse sisteme moontlik
+   gemaak. Sodoende kon 'n wiskundig-presiese begrip van die aard van die
+   prosesse van evolusie tot stand kom. Rekenaarnabootsings van die
+   evolusie van lineêre volgordebepalings het byvoorbeeld bewys dat die
+   herkombinasie van blokke volgreekse belangriker is as die ontwikkeling
+   veroorsaak deur mutasie op 'n spesifieke plek. ^[5]
+
+[wysig] Die meidoringvlieg
+
+   Rhagoletis pomonella, 'n soort vrugtevlieg, is 'n spesie wat bewys dat
+   evolusie vandag steeds voortgaan en wetenskaplik waarneembaar is. In
+   die 19de eeu, nadat appels Amerika binnegebring is, het 'n nuwe
+   bevolking vlieë spontaan vanuit die meidoringvliegspesie ontstaan: dié
+   vlieë het slegs appels begin besmet en nie meer meidoringvrugte nie.
+   Die twee spesies onderteel ook nie juis meer nie. ^[6]
+
+[wysig] Moderne sintese van evolusie
+
+[wysig] Oorerflikheid
+
+   Die DNA is die molekule betrokke by oorerflikheid, soos die eerste keer
+   voorgestel deur Mendel in sy geengebaseerde model van oorerflikheid.
+   Talle spesies plant seksueel voort: 'n proses van meiotiese
+   herkombinasie, en daarna 'n onafhanklike verdeling van die chromosome
+   en die saamvoeging van gamete (gewoonlik eier en sperm).
+
+[wysig] Sommige meganismes van evolusie
+
+[wysig] Mutasie
+
+   Dié vind gewoonlik plaas deur "kopiëringsfoute" in die genetiese
+   materiaal tydens verdeling, maar ook deur die blootstelling aan
+   virusse, vry radikale en chemiese stowwe.
+
+[wysig] Geenvloei
+
+   Dit is die proses van genetiese verandering deur middel van die
+   bekendstelling van nuwe genetiese materiaal in 'n genetiese bevolking,
+   vanaf 'n geneties-verskillend ander bevolking, gewoonlik deur middel
+   van geenoordrag. Dit kan natuurlik gebeur, maar vind dikwels ook plaas
+   weens die inwerking van virusse. ^[7]
+
+[wysig] Seleksie en aanpassing
+
+   'n Mannetjiespou se stert is die beste voorbeeld van seksuele seleksie.
+   'n Mannetjiespou se stert is die beste voorbeeld van seksuele seleksie.
+
+          Hoofartikel: Natuurlike seleksie.
+
+   Natuurlike seleksie ontstaan deurdat lede van dieselfde spesie weens
+   die lede se belewenis van verskillende gebeure en omgewings langer of
+   korter oorleef. Diegene wat langer oorleef het 'n hoër mate van
+   suksesvolle voortplantingsgeleenthede. Dit is nie 'n lukrake proses
+   nie; dit selekteer vir mutasies wat beter of slegter aangepas is vir
+   die betrokke omstandigheid. Die kernrol wat dit speel in evolusie het
+   'n sterk verbintenis daartussen en die studie van ekologie veroorsaak.
+   Natuurlike seleksie kan onderverdeel word in twee kategorieë:
+     * Ekologiese seleksie wanneer organismes wat oorleef en voortplant,
+       die frekwensie van hul genetiese materiaal verhoog, in vergelyking
+       met diegene wat nie oorleef nie.
+     * Seksuele seleksie wanneer organismes meer dikwels teel met lede van
+       die teenoorgestelde geslag op grond van die aantrekking van die
+       teenoorgestelde geslag se fisiese voorkoms, en dus die genetiese
+       frekwensie van daardie voorkoms in die nageslagsgeenpoel verhoog.
+
+[wysig] Weerstand teen evolusie
+
+   Sekere groepe aanvaar nie evolusie nie, omdat hulle glo dit is in
+   teenstryd met hulle geloofsleer, en daardie geloofsleer se geskrifte.
+   Een voorbeeld van só 'n groep is die Jong Aardeskeppingsleer. Lede van
+   dié leer bestaan grootliks uit Christene, Jode en Moslems wat glo dat
+   die Hebreeuse teks van Genesis, of die Koran, 'n letterlike verslag van
+   geskiedkundige gebeure is. Hulle glo ook dat die getuienis vir 'n
+   streng-feitelike verklaring van hul teks van voorkeur huidig bewysbaar
+   bly.
+
+[wysig] Sien ook
+
+     * Altruïsme in diere
+     * Evolusie van seks
+     * Genetika
+     * Instink
+     * Taal
+     * Teratogenese
+
+[wysig] Notas
+
+    1. ^ Die rooilys van bedreigde spesies
+    2. ^ "Hoe om evolusie te verstaan", Universiteit van Kalifornië,
+       Berkeley, by
+       http://evolution.berkeley.edu/evolibrary/article/0_0_0/evo_17 en
+       http://evolution.berkeley.edu/evolibrary/article/0_0_0/evo_16.
+    3. ^ Die geskiedenis van die Burgess-skalie
+    4. ^ Twee bronne: 'Genomic divergences between humans and other
+       hominoids and the effective population size of the common ancestor
+       of humans and chimpanzees', en 'Quantitative Estimates of Sequence
+       Divergence for Comparative Analyses of Mammalian Genomes'
+    5. ^ "DNA shuffling by random fragmentation and reassembly: in vitro
+       recombination for molecular evolution", Stemmer WP, Proc Natl Acad
+       Sci, 1994
+    6. ^ Proc. Natl. Acad. Sci. USA - Vol. 94, pp. 11417-11421, October
+       1997 - Evolusie
+    7. ^ Navorsers ruil begrippe met mekaar oor geenomruiling
+
+[wysig] Eksterne skakels
+
+     * Alles wat 'n mens wil weet oor evolusie
+     * Charles Darwin se skryfwerk
+     * Evolusie vir beginners
+     * Webwerf van Sceptics South Africa
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorieë: Biologie • Wetenskap
+

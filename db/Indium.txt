@@ -1,0 +1,276 @@
+Indium
+
+
+
+   49                         kadmium ← indium → tin
+   Ga
+   ↑
+   In
+   ↓
+   Tl
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal indium, In, 49
+                                                Chemiese reeks swak metale
+                                             Groep, Periode, Blok 13, 5, p
+                                         Voorkoms silwerige glansende grys
+                                              Atoommassa 114.818 (3) g/mol
+                                 Elektronkonfigurasie [Kr] 4d^10 5s^2 5p^1
+                                        Elektrone per skil 2, 8, 18, 18, 3
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 7.31 g/cm³
+                                  Vloeistof digtheid teen s.p. 7.02 g/cm³
+                                                        Smeltpunt 429.75 K
+                                                              (156.60 °C)
+                                                           Kookpunt 2345 K
+                                                                (2072 °C)
+                                              Smeltingswarmte 3.281 kJ/mol
+                                            Verdampingswarmte 231.8 kJ/mol
+                                Warmtekapasiteit (25 °C) 26.74 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1196 1325 1485 1690 1962 2340
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur tetragonaal
+                                                      Oksidasietoestande 3
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1.78 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 558.3 kJ/mol
+                                                        2de: 1820.7 kJ/mol
+                                                         3rde: 2704 kJ/mol
+                                                        Atoomradius 155 pm
+                                                 Atoomradius (ber.) 156 pm
+                                                   Kovalente radius 144 pm
+                                               Van der Waals radius 193 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                 Elektriese weerstand (20 °C) 83.7 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 81.8 W/(m·K)
+                              Termiese uitsetting (25 °C) 32.1 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 1215 m/s
+                                                   Young se modulus 11 GPa
+                                                      Mohs se hardheid 1.2
+                                                 Brinell hardheid 8.83 MPa
+                                              CAS-registernommer 7440-74-6
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Indium
+
+                               iso    NV   halfleeftyd VM  VE (MeV)   VP
+                              ^113In 4.3%  In is stabiel met 64 neutrone
+                              ^115In 95.7% 4.41×10^14j β^- 0.495    ^115Sn
+
+                                                                Verwysings
+
+   Indium is 'n Chemiese element met die simbool In en atoomgetal van 49.
+   Hierdie seldsame, sagte, pletbare en laagsmeltende metaal is chemies
+   soortgelyk an aluminium of gallium maar kom nouer ooreen met sink
+   (sinkertse is die hoofbron van hierdie metaal). Die hooftoepassing van
+   die element is om deursigtige elektrodes te vervaardig vanuit
+   indiumtinoksied in vloeistofkristal vertooneenhede. Dit word baie
+   gebruik in dunfilms om smeringslae te vorm (dit is tydens die Tweede
+   Wêreldoorlog gereeld gebruik om die laers in
+   hoë-werkverrigtingsvliegtuie te bedek). Dit word ook gebruik om
+   buitengewoon lae smeltpunt legerings te maak en is 'n komponent van
+   sommige loodvrye soldeersels.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding en verbruik
+        * 5 Voorsorgmaatreëls
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Indium is 'n baie sagte, silwerwit, seldsame ware metaal met 'n helder
+   glans. As suiwer indium-metaal gebuig word gee dit 'n skril klank af.
+   Beide gallium en indium het die vermoë om glas te benat.
+
+   Een buitengewone eienskap van indium is dat sy mees algemene isotoop
+   effens radio-aktief is; dit verval baie stadig deur beta-verval na tin.
+   Hierdie radio-aktiwiteit word nie as gevaarlik beskou nie, hoofsaaklik
+   omdat die halfleeftyd 4.41 x 10^14 jaar is. Anders as sy Periode 5
+   buurelement, kadmium is indium nie 'n kumulatiewe gifstof nie.
+
+[wysig] Gebruike
+
+   Die eerste grootskaalse gebruik van indium was om die laers in
+   hoë-werkverrigting vliegtuigenjins te bedek tydens die Tweede
+   Wêreldoorlog. Daarna het produksie van die element stadig toegeneem
+   soos nuwe toepassings gevind is in laagsmeltende legerings, soldeersels
+   en in die elektronika. In die 1950's is klein balletjies daarvan
+   gebruik as die emitters en kollektors van PNP legeringvoegvlak
+   transistors. In die middel en laat 1980's het die ontwikkeling van
+   halfgeleiers en indiumtinoksied dun films vir vloeistofkristal
+   vertooneenhede baie belangstelling verwek. Teen 1992 het dun-film
+   toepassings die grootste eindgebruiker van indium geword.
+
+   Ander gebruike sluit in:
+     * Vir die vervaardiging van laagsmeltende legerings. 'n Legering
+       bestaande uit 24% indium en 76% gallium is vloeibaar teen
+       kamertemperatuur.
+     * Sommige indiumverbindings soos indiumantimonied, indiumfosfied en
+       indiumnitried is halfgeleiers met nuttige eienskappe.
+     * Word gebruik vir die sintese van die halfgeleier
+       koperindiumgalliumselenied, wat gebruik word in die vervaardiging
+       van dun-film sonselle.
+     * Word gebruik in ligemissiediodes (LED) en laserdiodes wat gebaseer
+       is op saamgestelde halfgeleiers wat vervaardig word met die
+       Metaalorganiese dampfase epitaksie tegnologie.
+     * Dit kan ook geplateer word op metale en verdamp word om op glas
+       neergeslaan te word om 'n spieël te vorm wat net so goed is as dié
+       wat met silwer vervaardig word maar 'n hoër korrosiebestandheid
+       het.
+     * Indiumoksied (In[2]O[3]) word gebruik as 'n deursigtige geleidende
+       substraat op glas in die vervaardiging van elektroluminiserende
+       panele.
+     * Word gebruik as 'n ligfilter in laedruk natriumdamplampe.
+     * Indium se vriespunt van 156.5985 °C is 'n vaste punt wat gebruik
+       word op die internasionale temperatuurskaal.
+     * Indium se hoë neutronvangs deursnee vir termiese neutrone maak dit
+       geskik vir gebruik in beheerstawe vir kernreaktore, tipies in 'n
+       legering wat 80% silwer, 15% indium en 5% kadmium bevat.
+     * In kerningenieurswese word die (n,n') reaksies van ^113In en ^115In
+       gebruik om die grootte van 'n neutronfluks te bepaal.
+     * ^111In straal gammastrale uit en word gebruik in scintigrafie, 'n
+       mediese beeldtegnologie. Scintigrafie het baie toepassings,
+       insluitende die vroeë ontwikkelingsfase van medisynes en die
+       monitering van witbloedsel aktiwiteite.
+     * Baie klein hoeveelhede in galvaniese aluminiumlegering elektrodes
+       vir soutwatertoepassings word gebruik om passivering van die
+       aluminium te voorkom.
+     * In die vorm van draad word dit gebruik as vakuumseëls in
+       kriogeniese toepassings.
+     * Word gebruik as 'n kalibrasiemateriaal vir termogravimetriese
+       analise toestelle.
+
+[wysig] Geskiedenis
+
+   Indium (vernoem na die indigolyn in sy atoomspektrum) is ontdek deur
+   Ferdinand Reich en Hieronymous Theodor Richter in 1863 terwyl hulle
+   sinkertse getoets het met 'n spektograaf op soek na tallium. Richter
+   het later in 1867 daarin geslaag om die metaal te isoleer.
+
+[wysig] Verspreiding en verbruik
+
+   Buigsame Indiumdraad
+   Buigsame Indiumdraad
+
+   Indium is 61^ste op die lys van volopste elemente in die Aarde se kors
+   teen ongeveer 0.25 dpm ^[1], wat beteken dat dit drie keer meer volop
+   is as silwer wat teen konsentrasies van 0.075 dpm voorkom ^[2]. Tot en
+   met 1924 is slegs omtrent 'n gram van indium geïsoleer. Indium word
+   vervaardig uit die residu van die verwerking van sinkertse maar kan ook
+   in yster-, lood- en koperertse aangetref word. Kanada is die voorste
+   vervaardiger van indium. Die Teck Cominco raffinadery in Trail, Brits
+   Columbia is die grootste enkele bron met 'n produksie van 32 500 kg in
+   2005, 41 800 in 2004 en 36 100 kg in 2003.
+
+   Die hoeveelheid indium wat verbruik word is grootliks 'n funksie van
+   wêreldwye vervaardiging van LCD-skerms. Wêreldwye vervaardiging beloop
+   tans 476 ton per jaar vanuit mynbou en 'n verdere 650 ton per jaar uit
+   herwinningsbronne^[3]. Aanvraag vir die element het in die afgelope
+   paar jaar skerp gestyg met die groeiende gewildheid van LCD
+   rekenaarskerms en televisies, wat tans verantwoordelik is vir bykans
+   50% van die totale verbruik^[4]. Meer doeltreffende vervaardiging en
+   herwinning (veral in Japan) sorg vir 'n balans tussen vraag en aanbod.
+   Die vraag na die metaal het toegeneem met die toenemende gebruik
+   daarvan in LCD-skerms en televisies en die aanbod het afgeneem toe 'n
+   aantal Sjinese mynmaatskappye opgehou het om indium uit die uitskot van
+   sinkverwerking te onttrek. In 2002 was die prys 94 V.S.A dollar per
+   kilogram. Die onlangse wisseling in vraag en aanbod het gelei tot hoë
+   en skommelende pryse vir indium wat tussen 2005 en 2007 gewissel het
+   tussen $700/kg tot $1 000/kg^[5]. Die vraag na indium gaan waarskynlik
+   toeneem met die grootskaalse vervaardiging van
+   koperindiumgalliumselenied gebaseerde dun-film sonsel tegnologie deur
+   verskeie maatskappye in 2008 soos onder andere Nanosolar en Miasole.
+
+   Uit die indium-inhoud van sinkertsneerslae kan afgelei word dat die
+   wêreldwye reserwes van die metaal ongeveer 6 000 ton ekonomies
+   ontginbare indium beloop^[6]. Hierdie syfers het aanleiding gegee tot
+   beramings dat daar teen huidige verbruikstempos ongeveer slegs 13 jaar
+   se ontginbare indium oor is.^[7]. Die Indium Corporation, die grootste
+   verwerker van indium, beweer egter dat gegewe die toenemende
+   herwinningsrendemente tydens ontginning asook die herwinning uit 'n
+   groter verskeidenheid basismetaal ertse (insluitende tin, koper en
+   ander polimetalliese neerslae) en nuwe mynbou beleggings, dat die
+   langtermyn verskaffing van indium volhoubaar, betroubaar en voldoende
+   sal wees om die toenemende vraag te kan voorsien.^[8]. Hierdie
+   gevolgtrekking wil redelik klink in die lig daarvan dat silwer, 'n
+   element wat minder volop is, tans teen 'n tempo van ongeveer 18 300 ton
+   per jaar ontgin word^[9], wat ongeveer 40 keer hoër is as die huidige
+   indium ontginningstempo is.
+
+[wysig] Voorsorgmaatreëls
+
+   Suiwer indium in metaalvorm word as nie-giftig deur die meeste bronne
+   beskou. in die sweiswerk- en halfgeleiernywerhede waar indium
+   blootstelling relatief hoog is, was daar tot op hede nog geen verslae
+   van enige giftige nagevolge nie.
+
+   Dit mag egter nie die geval wees vir indiumverbindings nie: daar
+   bestaan onbevestigde bewyse wat daarop dui dat indium 'n lae-vlak van
+   giftigheid mag hê. Watervrye indiumtrichloried (InCl[3]) is byvoorbeeld
+   ietwat giftig, terwyl indiumfosfied (InP) giftig is en ook vermoedelik
+   kankerwekkend kan wees.
+
+[wysig] Verwysings
+
+    1. ^ The Element Indium, It's Elemental,
+       http://education.jlab.org/itselemental/ele049.html, nagegaan op
+       2007-12-26
+    2. ^ The Element Silver, It's Elemental,
+       http://education.jlab.org/itselemental/ele047.html, nagegaan op
+       2007-12-26
+    3. ^ Indium and Gallium Supply Sustainability September 2007 Update,
+       22nd EU PV Conference, Milan, Italy, formaat = pdf,
+       http://www.indium.com/_dynamo/download.php?docid=552,nagegaan op
+       2007-12-26
+    4. ^ Indium Price Supported by LCD Demand and New Uses for the Metal,
+       Geology.com, formaat = pdf,
+       http://geology.com/articles/indium.shtml, nagegaan op 2007-12-26
+    5. ^ Indium (Mineral Commodities Summary 2007), USGS Minerals
+       Information, formaat = pdf,
+       http://minerals.usgs.gov/minerals/pubs/commodity/indium/indiumcs07.
+       pdf, nagegaan op 2007-12-26
+    6. ^ Indium (Mineral Commodities Summary 2007), USGS Minerals
+       Information, formaat = pdf,
+       http://minerals.usgs.gov/minerals/pubs/commodity/indium/indiumcs07.
+       pdf, nagegaan op 2007-12-26
+    7. ^ 26 Mei, 2007, New Scientist, volume 194, uitgawe 2605, bladsye
+       38-39, issn = 0262-4079, How Long Will it Last?,
+       http://environment.newscientist.com/channel/earth/mg19426051.200-ea
+       rths-natural-wealth-an-audit.html
+    8. ^ Indium and Gallium Supply Sustainability September 2007 Update;
+       22nd EU PV Conference, Milan, Italy; formaat = pdf,
+       http://www.indium.com/_dynamo/download.php?docid=552; nagegaan op
+       2007-12-26
+    9. ^ Top World Silver Producers,
+       http://www.nma.org/pdf/g_silver_producers.pdf, formaat = pdf, World
+       Silver Survey 2007
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Indium
+     * http://www.webelements.com/webelements/elements/text/In/index.html
+       - WebElements.com – Indium
+     * http://www.indium.com - Die Indium Corporation se webwerf
+     * http://www.organic-chemistry.org/chemicals/reductions/indiumlowvale
+       nt.shtm - Reduseermiddels > Lae valensie Indium
+
+   Kategorie: Chemiese elemente
+

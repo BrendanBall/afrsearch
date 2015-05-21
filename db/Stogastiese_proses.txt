@@ -1,0 +1,27 @@
+Stogastiese proses
+
+
+   'n Stogastiese proses of soms ook 'n lukrake proses genoem is die
+   teenoorgestelde van 'n deterministiese proses (of deterministiese
+   stelsel) in waarskynlikheidsteorie. In plaas daarvan dat net een
+   moontlike 'werklikheid' oorweeg word oor hoe 'n proses moontlik met tyd
+   kan ontwikkel, is daar in 'n lukrake proses 'n onbepaaldheid in sy
+   toekomstige ontwikkeling soos beskryf deur
+   waarskynlikheidsverspreidings. Dit beteken dat selfs al is die
+   aanvanklike toestand (of vertrekpunt) bekend, daar vele waarskynlikhede
+   bestaan oor waar die proses kan opeindig, al dra sommige moontlikhede
+   'n hoër waarskynlikheid as ander.
+
+[wysig] Formele definisie
+
+   'n Stogastiese proses is 'n tydgeïndekseerde toevalsveranderlike X_t\,
+   waar die waardes van die proses X_t(\omega)\, afhang van \omega\, wat
+   uit die steekproefruimte \Omega\, is. \omega\, verteenwoordig iets soos
+   'n (moontlike) toestand van die wêreld waarin dié spesifieke
+   X_t(\omega)\, waargeneem word.
+
+   Stogastiese prosesse word bestudeer in Wiskunde, Statistiek en
+   Operasionele Navorsing en speel 'n groot rol in die toepassings van die
+   Fisika, Ingenieurswese en Finansies.
+   Kategorieë: Fisika • Wiskunde
+

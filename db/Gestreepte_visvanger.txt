@@ -1,0 +1,115 @@
+Gestreepte visvanger
+
+
+                 Gestreepte visvanger
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Halcyonidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Halcyon
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. chelicuti
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Halcyon chelicuti
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Inhoud
+
+        * 1 Verspreiding
+        * 2 Habitat
+        * 3 Identifisering
+        * 4 Dieet
+        * 5 Geluid
+        * 6 Ander name
+        * 7 Sien ook
+        * 8 Bronnelys
+
+[wysig] Verspreiding
+
+   Die gestreepte visvanger is wyd verspreid oor Afrika, suid van 15°N,
+   behalwe in Oos-Somalië, die area om die bek van die Kongo-rivier en die
+   suidwestelike dele van die kontinent.
+
+[wysig] Habitat
+
+   Die gestreepte visvanger kom voor in areas met oop bosgebiede en
+   grasvelde met bome of lang pale: die voël gebruik dit as 'n basis
+   waarvan af daar gejag word. Neste word in bome gebou.
+
+[wysig] Identifisering
+
+   Die gestreepte visvanger is ietwat valer as die ander visvanger met 'n
+   bruin-grys bo-lyf. In vlug is die voël se helderblou agterkant en lae
+   rug egter maklik sigbaar.
+
+[wysig] Dieet
+
+   Gestreepte visvangers eet hoofsaaklik insekagtige spesies, alhoewel dit
+   ook soms klein gewerweldes (bv. akkedise) vang.
+
+[wysig] Geluid
+
+   Die gestreepte visvanger is 'n baie spraaksame voël, veral tydens
+   sonondergang.
+
+[wysig] Ander name
+
+     * Engelse naam: Striped Kingfisher
+     * Wetenskaplike naam: Halcyon chelicuti
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * IUCN 2006. 2006 IUCN Red List of Threatened Species.
+       <www.iucnredlist.org>. Laaste besoek op 10 Julie 2007.
+     * Kenya Birds: Striped Kingfisher, Halcyon chelicuti.
+       <http://www.kenyabirds.org.uk/striped.htm>. Laaste besoek op 10
+       Julie 2007.
+
+   Kategorie: Voëls
+

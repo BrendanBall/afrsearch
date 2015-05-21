@@ -1,0 +1,169 @@
+Argon
+
+
+
+                             chloor – argon
+            Ne
+            Ar
+            Kr
+
+
+              Argon in die periodieke tabel
+
+                                                 Volledige tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal Argon, Ar, 18
+                                                  Chemiese reeks edelgasse
+                                    Groep, Periode, Blok 18 (VIIIA), 3 , p
+                              Digtheid, Hardheid 1.784 kg/m^3 (273 K), NVT
+                                                        Voorkoms kleurloos
+                                                           Atoomeienskappe
+                                                     Atoomgewig 39.948 ame
+                                      Atoomradius (ber.) geen data (71) pm
+                                                    Kovalente radius 97 pm
+                                                van-der-Waalsradius 188 pm
+                                             Elektronkonfigurasie [Ne]3s^2
+                                           e^− e per energievlak 2, 8, 8
+               Oksidasietoestande (Oksied) 0, +2 (in skaars omstandighede)
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                        Fisiese eienskappe
+                                  Toestand van materie gas (nie-magneties)
+                                       Smeltpunt 83.8 K (−153.7 ºC °C)
+                                            Kookpunt 87.3 K (−150.2 °C)
+                                            Verdampingswarmte 6.447 kJ/mol
+                                              Smeltingswarmte 1.188 kJ/mol
+                                                     Dampdruk Geen data Pa
+                                     Spoed van klank 319 m/s teen 293.15 K
+                                                                  Algemeen
+                             Elektronegatiwiteit geen data (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 520 J/(kg*K)
+                                    Elektriese geleidingsvermoë geen data
+                                Termiese geleidingsvermoë 0.01772 W/(m*K)
+                                   1^ste ionisasiepotentiaal 1520.6 kJ/mol
+                                    2^de ionisasiepotentiaal 2665.8 kJ/mol
+                                      3^de ionisasiepotentiaal 3931 kJ/mol
+                                      4^de ionisasiepotentiaal 5771 kJ/mol
+                                      5^de ionisasiepotentiaal 7238 kJ/mol
+                                      6^de ionisasiepotensiaal 8781 kJ/mol
+                                     7^de ionisasiepotensiaal 11995 kJ/mol
+                                     8^de ionisasiepotensiaal 13842 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso    NV   halfleeftyd VM   VE MeV
+                                                             [nie SI]  VP
+                                ^36Ar 0.336% Ar is stabiel met 18 neutrone
+                                ^38Ar 0.063% Ar is stabiel met 20 neutrone
+                                ^39Ar sin.   269 y       β^- 0.565    ^39K
+                                ^40Ar 99.6%  Ar is stabiel met 22 neutrone
+                                ^42Ar sin.   32.9 j      β^- 0.600    ^42K
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Argon is die chemiese element in die periodieke tabel met die simbool
+   Ar en atoomgetal 18. Argon is die derde edelgas in groep 18 en maak
+   ongeveer 1% van die Aarde se atmosfeer uit.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Argon is 2,5 keer meer oplosbaar in water as stikstof wat dit ongeveer
+   net so oplosbaar maak soos suurstof. Hierdie hoogs stabiele chemiese
+   element is kleurloos en reukloos in beide vloeibare en gasvorm. Daar is
+   geen egte chemiese verbinding wat argon bevat nie - een van die redes
+   waarom dit voorheen 'n inerte gas genoem is. Die sintese van argon
+   hidrofluoried (HArF), 'n hoogs onstabiele verbinding van argon met
+   fluoor is deur navorsers by die Universiteit van Helsinki in 2000
+   gerapporteer, maar die bestaan daarvan is nog nie onafhanklik bevestig
+   nie.
+
+   Alhoewel geen chemiese verbindings van argon bestaan nie, kan argon
+   klatrate met water vorm wanneer atome daarvan in 'n netwerk van
+   watermolekules vasgevang word. Teoretiese berekeninge op rekenaar het
+   gewys dat verskeie stabiele argonverbindings teoreties behoort te kan
+   bestaan maar daar is egter nog geen manier om dit te sintetiseer nie.
+
+[wysig] Aanwendings
+
+   Argon word in beligting gebruik aangesien dit selfs by hoë temperature
+   nie reageer met die filament in 'n gloeilamp nie. Dit word ook gebruik
+   waar diatomiese stikstof nie geskik is as (semi-)inerte gas nie. Ander
+   gebruike sluit in:
+     * Word gebruik as gasskerm vir baie sweistegnieke, insluitend MIG
+       asook TIG (Engelse afkorting behou om verwarring te voorkom)
+     * vir gebruik as nie-reaktiewe kombers in die vervaardiging van
+       titaan en ander reaktiewe elemente.
+     * vir 'n beskermende atmosfeer waarin silikon- en germaniumkristalle
+       gegroei kan word.
+     * Argon-39 is al gebruik vir geologiese studies, hoofsaaklik vir
+       studie van yskerne. Dit is ook al gebruik vir grondwaterdatering.
+     * Krio-snykundige (Kriogeniese snykunde) prosedures soos kriogeniese
+       verwydering gebruik vervloeide argon om kankerselle te vernietig.
+     * Argon word ook gebruik in tegniese SCUBA duik om 'n droë pak op te
+       blaas, vanweë sy onreaktiewe hitte-isolasie effek.
+
+[wysig] Geskiedenis
+
+   Henry Cavendish het in 1785 vermoed dat Argon (Grieks argos wat
+   "onaktief" beteken) in lug teenwoordig was maar dit is eers in 1894
+   deur Lord Rayleigh en Sir William Ramsay ontdek.
+
+[wysig] Verspreiding
+
+   Die gas kan vanuit lug herwin word deur fraksionering van vloeibare lug
+   aangesien die atmosfeer ongeveer 0,934% op 'n volumebasis bevat (1,29%
+   op 'n massabasis). Die atmosfeer van Mars bevat daarteenoor ongeveer
+   1,6% Ar-40 en 5 dpm Ar-36. In 2005 het die Huygens
+   ruimteverkenningstuig ook die teenwoordigheid van Ar-40 op Titan, die
+   grootste maan van Saturnus, ontdek. [1].
+
+[wysig] Verbindings
+
+   Voor 1962, is argon en die ander edelgasse algemeen as chemies inert
+   beskou wat nie in staat is om verbindings met ander stowwe te vorm nie.
+   Wetenskaplikes het sedertien egter verbindings van die swaarder
+   edelgasse voorberei. In 2000 is die eerste argon verbinding deur
+   navorsers by die Universiteit van Helsinki voorberei. Deur 'n
+   ultraviolet lig op bevrore argon wat 'n klein hoeveelheid
+   waterstof-fluoried bevat het, was hulle in staat om
+   argonwaterstof-fluoried (HarF) te sintetiseer. Die eksperimentele
+   resultate is skynbaar nog nie onafhanklik bevestig nie.
+
+[wysig] Isotope
+
+   Die hoof-isotope van argon wat op Aarde gevind word is Ar-40, Ar-36 en
+   Ar-38. K-40 wat natuurlik voorkom en 'n halfleeftyd van 1,250 x 10^9
+   jaar het, verval deur elektronvangs en positronemissie na stabiele
+   Ar-40 (11,2%), asook na stabiele Ca-40 (88,8%) deur betaverval. Hierdie
+   eienskappe en verhoudings word gebruik om die ouderdom van rotse te
+   bepaal.
+
+   In die Aarde se atmosfeer word Ar-39 gemaak deur die inwerking van
+   kosmiese straling op Ar-40. Ondergronds word dit ook geskep deur die
+   neutronvangs deur K-39 of alfa-emissie deur kalsium. Argon-37 word
+   geskep deur die verval van kalsium-40 as gevolg van ondergrondse
+   kernontploffings. Dit het 'n halfleeftyd van 35 dae.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Argon
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Argon
+     * EnvironmentalChemistry.com – Argon
+     * Diving applications: Why Argon?
+     * Argon Ar Properties, Uses, Applications
+
+   Kategorieë: Chemiese elemente • Edelgasse
+

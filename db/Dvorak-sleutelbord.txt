@@ -1,0 +1,121 @@
+Dvorak-sleutelbord
+
+
+   Die Dvorak-sleutelbord se uitleg verminder spanning tydens tikwerk en
+   stel gebruikers in staat om vinniger te tik as met die QWERTY-uitleg.
+   Die Dvorak-sleutelbord se uitleg verminder spanning tydens tikwerk en
+   stel gebruikers in staat om vinniger te tik as met die QWERTY-uitleg.
+
+   Die Dvorak vereenvoudigde sleutelbord is 'n sleutelborduitleg wat deur
+   Drs. August Dvorak en William Dealy in die 1920's en die 1930's ontwerp
+   is as 'n alternatief tot die steeds gewilde QWERTY-uitleg.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Weerstand teen verandering
+        * 3 Verdere verbetering
+        * 4 Eksterne skakels
+             + 4.1 Omstredenheid
+
+[wysig] Oorsig
+
+   Dvorak en Dealy het die frekwensie waarteen letters gebruik word en die
+   fisiologie van die hand bestudeer en die uitleg ontwerp om aan die
+   volgende beginsels te voldoen:
+     * Dit is makliker om letters te tik wanneer jy van hande verwissel.
+     * Vir maksimum spoed en doeltreffendheid moet die mees algemene
+       letters die maklikste wees om te tik. Dit beteken dat hulle op die
+       tuisry (waar jou vingers rus) moet wees.
+     * Soortgelyk, moet die minder algemene letters op die onderste ry
+       wees waar 'n mens se vingers die moeilikste bykom.
+     * Die regterhand moet meer van die tikwerk doen, aangesien die
+       meerderheid mense regs is.
+     * Dit is moeiliker om dubbelletters (letters wat gevorm word deur die
+       druk van twee sleutels), te tik met langsliggende vingers as met
+       vingers wat nie langs mekaar is nie.
+     * Die vingerbeweging moet oor die algemeen van die kante van die
+       sleutelbord na die middel toe wees (mens tik byvoorbeeld makliker
+       met vingers op 'n tafel van die pinkie na die wysvinger as
+       andersom).
+
+   Die uitleg is in 1932 voltooi en daar is 'n patent in 1936 in die VSA
+   daaraan toegeken (V.S.A Patente No. 2,040,248). Dit is ook in 1982
+   aangewys as die alternatiewe standaard sleutelborduitleg vir die
+   Amerikaanse Instituut vir Standaarde (ANSI). In 1984 het die
+   Dvorak-sleutelbord na raming sowat 100 000 gebruikers gehad.
+
+[wysig] Weerstand teen verandering
+
+   Selfs al glo baie dat die beginsels waarop die Dvorak-sleutelbord
+   gebaseer is beter is as die ouer QWERTY, het pogings om wêreldwyd na
+   die Dvorak-uitleg oor te skakel baie weerstand ondervind. Tikkers wat
+   alreeds vaardig is met die QWERTY-uitleg wil nie 'n nuwe uitleg aanleer
+   nie. Die Dvorak-sleutelbord word dikwels deur bestuurskonsultante
+   gebruik ter illustrasie van die struikelblokke wat 'n mens teekom
+   tydens die proses van verandering in organisasies.
+
+   Bowen die tyd wat van 'n QWERTY-tikker vereis word om die Dvorak uitleg
+   te leer en om vaardig daarmee te raak, vereis baie rekenaarprogramme
+   sleutelbordkortpaaie of uitlegte wat verskil van die Dvorak uitleg en
+   word dus verdere opleiding vereis. Sommige woordverwerkers aanvaar
+   byvoorbeeld dat sekere sleutels op die tuisry voorkom of sekere
+   rekenaarspeletjies kan moeiliker wees om te speel omdat die sleutels
+   waarmee die speletjie beheer word op ongemaklike posisies geleë is.
+   (Die meeste speletjies se beheeruitleg kan egter deesdae verstel word.)
+
+   Dvorak het verskeie studies in die laat 1940's gedoen wat aangedui het
+   dat QWERTY-tikkers heropgelei kan word om op die Dvorak-sleutelbord te
+   gebruik en hulle oorspronklike spoed weer binne 2-3 maande bereik en
+   dan daarna soveel as 30% vinniger kon tik (soos gemeet in woorde per
+   minuut). Ander navorsers se resultate het egter getoon dat daar nie
+   veel van 'n verskil was tussen die doeltreffendheid van die QWERTY- en
+   Dvorak-uitlegte nie. Die metodologie wat gebruik is vir die
+   verskillende studies bly egter nog omstrede kwessies.
+
+[wysig] Verdere verbetering
+
+                                          Dvorak-uitleg vir die regterhand
+                                          Dvorak-uitleg vir die regterhand
+
+                                          Dvorak-uitleg vir die linkerhand
+                                          Dvorak-uitleg vir die linkerhand
+
+   Dvorak het ook 'n alternatiewe uitleg vir die sleutels op die
+   getalle-ry voorgestel, naamlik 7-5-3-1-9-0-2-4-6-8, met die geloof dat
+   dit ook meer doeltreffend is. Daar is egter baie min sleutelborde wat
+   hierdie uitleg gebruik en die ANSI-standaard vereis die normale
+   numeriese volgorde.
+
+   Daar bestaan ook Dvorak-uitlegte ontwerp vir tik met een hand en is
+   baie nuttig vir gestremdes. Daar is 'n uitleg wat ontwerp is vir die
+   linkerhand en een vir die regterhand.
+
+[wysig] Eksterne skakels
+
+     * 'n Basiese Dvorak-kursus, deur Dan Wood
+     * Die Dvorak-sleutelbord, 'n Kort inleiding, deur joernalis, Randy
+       Cassingham
+     * Die Dvorak-sleutelbord en jy - Meer inligting oor die
+       Dvorak-sleutelbord en hoe om oor te skakel.
+     * Bekendstelling van die Dvorak-sleutelbord (met baie addisionele
+       skakels)
+     * iDvorak: Italiaanse Dvorak-uitleg
+     * Esperanto Dvorak-uitleg
+     * Gebruik Dvorak nou!
+     * Vergelykings tussen verskillende sleutelborde
+     * Dvorak vs Qwerty - 'n Vergelyking tussen die twee
+       sleutelborduitlegte.
+
+[wysig] Omstredenheid
+
+     * Tikfoute - 'n Artikel wat beweer dat daar bewys is dat die
+       Dvorak-sleutelbord nie noodwendig beter is nie.
+     * The Fable of the Keys - Nog 'n artikel wat die Dvorak se
+       meerderwarigheid bevraagteken.
+          + Artikel wat die The Fable of the Keys-artikel weerspreek
+          + The Fable of the Fable - Artikel wat die geloofwaardigheid van
+            bogenoemde artikel bevraagteken.
+
+   Kategorie: Rekenaar
+

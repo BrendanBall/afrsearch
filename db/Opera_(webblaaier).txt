@@ -1,0 +1,716 @@
+Opera (webblaaier)
+
+
+   Hierdie artikel is geskep deur 'n anderstalige gebruiker en moet
+   nagegaan word vir spelling, sinsbou en woordkeuse. Indien die artikel
+   nie binne die volgende twee weke versorg word nie, mag dit vir
+   verwydering kwalifiseer.
+     Opera
+     __________________________________________________________________
+
+   Ontwikkelaar Opera Software
+   Mees onlangse weergawe 9.27 / April 3, 2008
+   Laaste betaweergawe 9.5 beta 2 / April 24, 2008
+   Bedryfstelsel verskeie tale^[1]
+   Kategorie internet reeks
+   Lisensie eiendomsreg
+   Webtuiste www.opera.com
+
+   Opera is 'n webblaaier en internet applikasies wat deur die Noorweegse
+   Opera sagteware maatskappy ontwikkel word. Opera hanteer alledaagse
+   Internet-verwante take soos die tentoonstelling van webwerwe, stuur en
+   ontvang e-pos boodskappe, bestuur kontakte, IRC aanlyn gesels, aflaai
+   lêers via bittorrent, en lees RSS feeds. Opera is gratis beskikbaar vir
+   persoonlike rekenaars en selfone, maar moet vir ander apparate
+   aangekoop word.
+
+   Kenmerke van Opera sluit in hoë werkverrigting, tabbed blaai, bladsy
+   zooming, muis gebare, en 'n geintegreer aflaai bestuurder. Sy
+   sekuriteit kenmerke sluitin gebou-in phishing beskerming, sterk
+   enkripsie wanneer blaai veilige web werwe, en die vermoë om te maklik
+   uitvee privaat data hoe koekies en blaai geskiedenis deur eenvoudig
+   kliek 'n knoppie.
+
+   Opera hardloop op 'n verskeidenheid van persoonlike rekenaar bediening
+   sisteme, ingesluit Microsoft Windows, Mac OS X, Linux, Freebsd, en
+   Solaris.^[2] alhoewel evaluations van opera was grootliks positief,
+   opera het het beperk sukses op persoonlike rekenaars. Dit is tans die
+   vierde meeste wydverspreid gebruik web blaaier vir persoonlike
+   rekenaars, agter Internet Explorer, Firefox, en Safari.
+
+   Opera het 'n sterker mark deel, in elk geval, op mobiele apparate hoe
+   mobiele fone, smartphones, en persoonlike digitale assistente. Uitgawes
+   van Opera is beskikbaar vir apparate gebruik die symbian en vensters
+   mobiele bediening sisteme, asook java my-ontsper apparate. Sowaar,
+   ongeveer 40 miljoen mobiele fone het verskeep met opera
+   vooraf-installeer. Bowendien, is Opera die enigste web blaaier
+   beskikbaar vir die Nintendo ds en wii gaming sisteme. Sommige televisie
+   stel-top bokse gebruik Opera ook, en Adobe lisensieerde opera
+   tegnologie vir gebruik in die Adobe kreatief reeks.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Kenmerke
+             + 2.1 Bruikbaarheid en toeganklikheid
+             + 2.2 Privaatheid en sekuriteit
+             + 2.3 Standaarde ondersteun
+        * 3 Ander uitgawes
+             + 3.1 Smartphones en pdas
+             + 3.2 Mobiele fone
+             + 3.3 Nintendo ds
+             + 3.4 Wii
+        * 4 Markaanvarding
+        * 5 Kritiese ontvangs
+        * 6 Toekennings
+        * 7 Toekoms ontwikkeling
+             + 7.1 Weergawe 9.5
+             + 7.2 Weergawe 10
+        * 8 Sien ook
+        * 9 Verwysings
+
+[wysig] Geskiedenis
+
+   Håkon Wium Lie, hoof tegniese offisier van die opera sagteware
+   maatskappy en skepper van die css web standaard
+   Håkon Wium Lie, hoof tegniese offisier van die opera sagteware
+   maatskappy en skepper van die css web standaard
+
+   Opera het begin in 1994 as 'n navorsingsprojek vir Telenor, die
+   grootste noorweegse telekommunikasie maatskappy. In 1995, dit vertak
+   uit binne-in 'n aparte maatskappy genaamd opera sagteware asa.^[3]
+   opera was eerste vrygestel in die openbaar met uitgawe 2.0 in 1996,^[4]
+   wat alleen het geloop op Microsoft Windows.^[5] in 'n poging om te
+   kapitaliseer op die opkomende mark vir internet-konnekteer handgehoude
+   apparate, 'n projek to poort Opera to mobiele apparaat platforms was
+   het begin in 1998.^[3] Opera 4.0, vrygestel in 2000,^[4] ingesluit 'n
+   nuwe kruis-platform kern dat vergemaklik skepping van uitgawes van
+   opera vir vele bediening sisteme en platforms.^[6]
+
+   Op tot hierdie punt, opera was proefware en moes wees gekoop na die
+   trial periode op 'n end. maar uitgawe 5.0 (vrygestel in 2000) het
+   gesien die einde van hierdie vereiste. In plaas, opera bekom
+   advertensie-geborg, tentoonstel advertensies to gebruikers wie het nie
+   betaal vir dit.^[7] Later uitgawes van opera het gegee die gebruiker
+   die keuse van sien banier advertensies of teiken teks advertensies van
+   google. Met weergawe 8.5 (vrygestel in 2005) die advertensies was
+   verwyder heeltemal en primêre finansieël ondersteuning vir die blaaier
+   het gekom deur inkomste van google (wat is deur kontrak operas verstek
+   soek enjin).^[8]
+
+   Ttussen die nuwe kenmerke bekendgestel in uitgawe 9.1 (vrygestel in
+   2006) was bedrog beskerming gebruik tegnologie van geotrust, 'n
+   digitale sertifikaat verskaffer, en phishtank, 'n organisasie dat speur
+   bekend phishing web werwe.^[9]
+
+   Ook in 2006, uitgawes van opera was gemaak en vrygestel vir nintendos
+   ds en wii gaming sisteme.^[10]^[11]^[12]^[13] Opera vir die wii, genoem
+   die internet kanaal, was vry om af te laai van sy vrystel op april 12,
+   2007^[14] tot junie 30, 2007. na junie 30, wii gebruikers moes betaal
+   500 wii punte (omtrent ons$5^[15]) om af te laai dit.^[16] Die Nintendo
+   ds blaaier is eweneens nie vry; dit is verkoop as 'n fisieke ds
+   speletjie inkhouer.^[17]
+
+[wysig] Kenmerke
+
+   Die Opera sagteware maatskappy beweer dat opera is "die vinnigste
+   blaaier op aarde."^[18] Serde-party spoed toetse getoon dat opera 9.01
+   uitgevoer vinniger as enige ander blaaier in vier uit sewe spoed toetse
+   op Microsoft Wwindows en Mac OS X en drie uit sewe op linux. Sy
+   sterkste punt by verre was javascript uitvoering, uitvoerend omtrent
+   tweekeer as vinnig as die ander blaaiers.^[19]
+
+   Opera sluitin gebou-in tabbed blaai, pop-op blok, bedrog beskerming, 'n
+   aflaai bestuurder en bittorrent kliënt, 'n soektog staaf, en 'n web
+   voed aggregator. opera ook kom met 'n e-pos kliënt genoem opera pos en
+   'n irc klets kliënt ingebou.^[20]
+
+   Opera sluit in 'n "spoed bel" kenmerk, wat laattoe die gebruiker om op
+   te hoop to nege skakels tot die bladsy vertoon wanneer 'n nuwe gewel is
+   oopgemaak. Duimnaelsketse van die gekoppelde bladsye is outomaties
+   ontwikkel en gebruik vir sigbare herkenning op die spoed bel bladsy.
+   Sodra|eens stel op, hierdie kenmerk laattoe die gebruiker tot meer
+   maklik navigeer tot die gekose web bladsye.^[21]
+
+   Opera ondersteun "opera widgets", klein web applikasies dat begin van
+   binne opera. Langsaan widgets, "gebruiker javascript" mag wees gebruik
+   om by te voeg gebruiklike javascript tot web bladsye, ingesluit
+   greasemonkey skripte. opera is uitbreibaar in 'n derde manier via
+   prop-ins, relatief klein programme dat voeg spesifiek .functions tot
+   die blaaier.^[22] in elk geval, opera perke wat prop-ins kan doen en
+   nie ondersteun vol-fledged derde-party uitbreidings tot die blaaier.
+   Opera doen hierdie as 'n kwaliteit versekering mate, so dat derde-party
+   uitbreidings kan nie stel voor kewers.^[23]
+
+[wysig] Bruikbaarheid en toeganklikheid
+
+   voorbeeld muis gebare in opera
+   Beeld:Opera back mouse gesture.svg verlaat|oorbly}, en vrystel of hou
+   die regte knoppie af en kliek die linkerkant knoppie
+   Beeld:Opera forward mouse gesture.svg vorentoe: hou af reg{ter} muis
+   knoppie, beweeg muis reg{ter}, en vrystel of hou die linkerkant knoppie
+   af en kliek die regte knoppie
+   Beeld:Opera new tab mouse gesture.svg nuwe gewel: hou af reg{ter} muis
+   knoppie, beweeg muis af, en vrystel
+
+   Opera was ontwerp met 'n verpligting to rekenaar toeganklikheid vir
+   gebruikers wie het sigbare of mobilisering verswakhede. as 'n
+   multimodal blaaier, dit ook voorsien tot 'n wyd verskeidenheid van
+   persoonlike voorkeure in die gebruiker koppelvlak.
+
+   Dit is moontlik om te beheer amper elke aspek van die blaaier gebruik
+   alleen die klawerbord,^[24] en die verstek klawerbord kortpaaie kan
+   gemodifiseer word om te pas die gebruiker.^[25]^[26] opera ook sluitin
+   ondersteuning vir muis gebare,^[27] patrone van muis beweging dat
+   sneller blaaier aksies hoe \"terug\" of \"verfris\".^[28]
+
+   Bladsy zooming laattoe teks, beelde en ander inhoud hoe macromedia
+   flits, java en weegbare vector grafieke om te wees verhoog of
+   verminderd in grootte (20% to 1000%) om te help daardie met verswak
+   visie. Die gebruiker mag ook spesifiseer die fonts en kleure vir web
+   bladsye, en selfs|gelyk oorbrug die bladsye css styling ook. Hierdie
+   kan handig wees om werwe te maak verskyn in hoë kontras of in meer
+   leesbare fonts.^[29]
+
+   Stem beheer, mede-ontwikkel met ibm, laattoe beheer van die blaaier
+   sonder die gebruik van 'n klawerbord of muis.^[30]^[31] dit kan ook
+   lees hardop bladsye en gemerk teks,^[20] maar die opera skerm leser
+   sagteware (wat alleen werk op microsoft windows) moet gebruik word vir
+   hierdie omdat derde-party skerm lesers het nie gewerk in opera sedert
+   uitgawe 6.^[32]
+
+[wysig] Privaatheid en sekuriteit
+
+   Opera het verskeie sekuriteit kenmerke sigbaar tot die einde gebruiker.
+   een is die opsie om uit te wis privaat data, hoe koekies, die blaai
+   geskiedenis, en die kas, met die kliek van 'n knoppie. hierdie laat
+   gebruikers wis uit persoonlike data na blaai van 'n gedeel
+   rekenaar.^[33]
+
+   wanneer besoek 'n veilige web werf, opera encrypts data gebruik een van
+   beide ssl 3 of tls,^[34]^[35] beide wie se is besonder veilige
+   enkripsie protokolle. dit dan voeg informasie omtrent die werwe
+   sekuriteit tot die adres staaf. gebruikers mag ook kliek 'n knoppie op
+   die adres staaf om te merk indien 'n web werf is 'n vervals of
+   \"phishing\" werf. die gebruiker mei opt om te maak sodanige phishing
+   verifiseer|tjeks outomaties, maar hierdie is nie die verstek
+   gedrag.^[36]
+
+   to strik sekuriteit flaws en ander kewers voor hulle is uitgebuit of
+   bekom 'n ernstig(e) probleem, die opera sagteware maatskappy onderhou
+   'n publieke web vorm waar gebruikers kan l� voor kewer
+   rapporte{er}.^[37] volgens secunia, 'n rekenaar sekuriteit diens
+   verskaffer, 12 sekuriteit kwesbaarhede was in die openbaar
+   geidentifiseer in opera 9.x as van maart 2008, zero wie se bly
+   unpatched.^[38] hierdie staan in kontras to firefox 2.0.x (vier uit 22
+   bekend kwesbaarhede unpatched),^[39] internet navorser 7.x (agt uit 23
+   bekend kwesbaarhede unpatched),^[40] en safari 3.x (zero uit een bekend
+   kwesbaarheid unpatched).^[41]
+
+[wysig] Standaarde ondersteun
+
+   Opera was een van die eerste blaaiers om te onderhou kaskeer styl velle
+   (css), nou 'n hoof gebou blok van web ontwerp.^[42] vandag, opera
+   ondersteun baie web standaarde, ingesluit css 2.1, html 4.01, xhtml
+   1.1, xhtml basies, xhtml mobiele profiel, xhtml+stem, wml 2.0, xslt,
+   xpath, xsl-fo, ecmascript 3 (javascript), dom 2, xmlhttprequest, http
+   1.1, unicode, svg 1.1 basies, svg 1.1 klein, gif89a, jpeg, en vol
+   ondersteuning vir png, ingesluit alfa deursigtigheid.^[43]
+
+   Sedert uitgawe 9, opera ook passeer die acid2 toets, 'n toets van hetsy
+   of nie 'n blaaier behoorlik ondersteun sekere web standaarde. opera was
+   die vierde web blaaier om verby te gaan die toets en die eerste
+   vensters-gebasseer blaaier om verby te gaan die toets.^[44]
+
+[wysig] Ander uitgawes
+
+   Eenkant van die hoof uitgawe van opera vir rekenaars, uitgawes van
+   opera beskikbaar vir 'n verskeidenheid van apparate. almal is gebasseer
+   op die selfde kern,^[45] maar daar is sommige variasie in die kenmerke
+   aangebied en die ontwerp van die gebruiker koppelvlak.
+
+[wysig] Smartphones en pdas
+
+   Opera sal hardloop op smartphones hoe hierdie nokia 6630.
+   Opera sal hardloop op smartphones hoe hierdie nokia 6630.
+
+   Opera mobiele is 'n uitgawe van opera ontwerp vir smartphones en
+   persoonlike digitale assistente (pdas). die eerste uitgawe van opera
+   mobiele was vrygestel in 2000 vir die psion reeks 7 en netbook, met 'n
+   poort tot die vensters mobiele platform.^[46]^[47] vandag, opera
+   mobiele is beskikbaar vir 'n verskeidenheid van apparate dat hardloop
+   die vensters mobiele, s60, of uiq bediening sisteme.^[48]
+
+   Gebruikers mei probeer opera mobiele vry vir 30 dae, maar bokant dat
+   dit kos{te} ons$24.^[49] apparate wat gebruik die uiq 3 bediening
+   sisteem, hoe die sony ericsson p990 en motorola rizr z8, {ge}kom
+   vooraf-installeer met opera mobiele, die prys van opera mobiele om te
+   wees ingesluit in die prys van die foon.^[48]
+
+   Een van opera mobiele hoof kenmerke is die vermoë om te dinamies
+   herformateer web bladsye om beter te pas die handhelds vertoon gebruik
+   klein-skaal lewering tegnologie.^[50] alternatief, die gebruiker mei
+   gebruik bladsy zooming vir 'n nader of breër voorkoms.^[51] in elk
+   geval, soos vorige uitgawes van opera vir persoonlike rekenaars, opera
+   mobiele gebruiker koppelvlak het gekom onder vuur vir moeilik Om te
+   gebruik of pasmaak.^[52]^[53]
+
+[wysig] Mobiele fone
+
+   Wanneer 'n gebruiker browses die web gebruik opera mini, die versoek is
+   gestuur via die algemeen pakket radio diens (gprs) tot een van die
+   opera sagteware maatskappy se verskaffers, en dat verskaffer herkry die
+   web bladsy, prosesseer dit, pers saam dit, en stuur dit terug tot die
+   gebruikers mobiele foon.
+   Wanneer 'n gebruiker browses die web gebruik opera mini, die versoek is
+   gestuur via die algemeen pakket radio diens (gprs) tot een van die
+   opera sagteware maatskappy se verskaffers, en dat verskaffer herkry die
+   web bladsy, prosesseer dit, pers saam dit, en stuur dit terug tot die
+   gebruikers mobiele foon.
+
+   Opera mini, aangebied gratis, is ontwerp primêr vir mobiele fone, maar
+   ook vir smartphones en persoonlike digitale assistente. dit gebruik die
+   java my platform en gevolglik vereis dat die mobiele apparaat bekwaam
+   wees van hardloop java my applikasies. die blaaier het begin as 'n
+   vlieënier projek in 2005.^[54] na beperk uitgawes in europa,^[55]^[56]
+   dit was offisieël geloods wêreldwyd op januarie 24, 2006.^[57]
+
+   Opera mini versoek web bladsye deur die opera sagteware maatskappy se
+   verskaffers, wat proses en kompakteer hulle voor relaying die bladsye
+   terug tot die mobiele foon.^[58]^[59] hierdie samepersing proses maak
+   oordra tyd omtrent twee to drie tye vinniger^[60] en die
+   vooraf-prosessering smooths versoenbaarheid met web bladsye nie ontwerp
+   vir mobiele fone.^[61]
+
+[wysig] Nintendo ds
+
+   die nintendo ds
+   die nintendo ds
+
+   Die nintendo ds blaaier is 'n uitgawe van opera vir die nintendo ds
+   handgehoude gaming sisteem. die nintendo ds blaaier was vrygestel in
+   japan julie 24, 2006,^[62] in europa oktober 6, 2006,^[63] en in
+   noord-amerika junie 4, 2007.^[64] dit is verkoop as 'n fisieke
+   speletjie inkhouer vir ons$30.^[17]
+
+   Die nintendo ds blaaier sluitin dieselfde klein-skaal lewering en
+   bladsy zooming tegnologie teenwoordig in opera mobiele.^[65]^[51] dit
+   ook sluitin handskrif herkenning sagteware en 'n op-skerm klawerbord om
+   in staat te stel gebruiker toevoer. bykomend, nintendo partnered met
+   astaro internet sekuriteit om te voorsien web filtrering vir die
+   nintendo ds blaaier. die tegnologie is eenvoudig 'n professioneel
+   onderhou proxy verskaffer dat blokke web werwe verwant tot pornografie,
+   dikriminasie, sekuriteit hacking, sagteware roof, geweld, dobbel,
+   onwettig dwelms, alkohol, tabak, dateer, wapens, aborsie, en ander
+   objekterende inhoud.^[66] gebruikers kan konfigureer die nintendo ds
+   blaaier om te ontvang web bladsye deur hierdie proxy verskaffer, en
+   hierdie stel kan wees wagwoord-beskerm (deur 'n ouer, Byvoorbeeld) om
+   te voorkom circumvention.^[67]
+
+   In augustus 2007, die nintendo ds blaaier was stil beeindig in
+   noord-amerika.^[68]
+
+[wysig] Wii
+
+   die nintendo wii
+   die nintendo wii
+
+   Op mei 10, 2006, die opera sagteware maatskappy aangekondig dat dit was
+   om te maat met nintendo om te voorsien 'n web blaaier vir nintendos wii
+   gaming troos.^[12]^[69]^[70]^[71] opera vir die wii, genoem die
+   internet kanaal, was vry om af te laai van sy vrystel op april 12,
+   2007^[14] tot junie 30, 2007. na junie 30, wii gebruikers moes betaal
+   500 wii punte (ons$5^[15]) om af te laai dit.^[16]
+
+   Scott Hedrick, 'n uitvoerend van die opera sagteware maatskappy,
+   verduidelik dat die wii blaaier was ontwerp om te pas 'n \"sitkamer
+   omgewing\". in kontras to operas voorkoms op rekenaar monitor, fonts is
+   groter en die koppelvlak is vereenvoudigde vir makliker gebruik.^[72]
+   ten spyte van die veranderings in ontwerp, die wii blaaier ondersteun
+   ewe web standaarde as die werkskerm uitgawe van opera 9,^[72] ingesluit
+   passeer die acid2 toets.^[73] die wii blaaiers uitleg enjin is eintlik
+   meer gevorderd as die huidige uitgawe van opera vir werkskerms, as dit
+   sluitin kewer regstellings wat sal nie wees geinkorporeer binne-in die
+   werkskerm uitgawe tot opera 9.5.^[74]
+
+[wysig] Markaanvarding
+
+   As van februarie 2008, gebruik data gee operas algeheel wêreldwyd deel
+   van die blaaier mark as om te wees omtrent 1%^[75]^[76] alhoewel operas
+   gebruik deel is omtrent 14-17% in rusland^[77]^[78]^[79]^[80] en
+   oekraine,^[81] en 5–6% in poland, letland, litaue, en die tsjeg
+   republiek.^[82]
+
+   Sedert sy eerste vrystel in 1996, die blaaier het het beperk sukses op
+   persoonlike rekenaars. dit is tans die vierde meeste wydverspreid
+   gebruik web blaaier vir persoonlike rekenaars, agter internet navorser,
+   firefox, en safari.^[75] opera het het meer sukses in die area van
+   mobiele blaai, met produk uitgawes vir 'n verskeidenheid van
+   platforms.^[83] ongeveer 40 miljoen mobiele fone het verskeep met 'n
+   kopie van opera vooraf-installeer.^[84]
+
+   Behalwe mobiele fone, smartphones, en persoonlike digitale assistente,
+   opera het gevind 'n plek met nintendo's wii en ds gaming sisteme. dit
+   is gebruik op sommige televisie stel-top bokse ook.^[85] en in 2005,
+   adobe opted om te integreer operas uitleg enjin, presto, binne-in sy
+   adobe kreatief reeks applikasies. opera tegnologie is nou gevind in
+   adobe golive, adobe photoshop, adobe dreamweaver, en ander komponente
+   van die adobe kreatief reeks.^[86]^[87]
+
+[wysig] Kritiese ontvangs
+
+   Kritiese ontvangs van opera was grootliks positief,^[88]^[89]^[90]
+   alhoewel die gebruiker koppelvlak het ontvang negatiewe beoordeling.
+   Byvoorbeeld, sommige van operas kortpad sleutels is verskillend van
+   internet navorser's en firefox's, wat kan lei tot verwarring.^[91]
+   opera was ook het gekritiseer vir webwerf versoenbaarheid
+   kwessies,^[32]^[92] gedeeltelik omdat baie web werwe nie bly by to web
+   standaarde as ywerig as opera.^[93]^[94]^[95] weens hierdie kwessie,
+   onlangse uitgawes van opera sluitin maniere rondom om te help sekere
+   populêr maar problematies web werwe vertoon behoorlik.^[96]
+
+   'n 2004 hersien in die washington pos beskryf opera 7.5 as om te wees
+   buitensporige kompleks en moeilik Om te gebruik. die hersien ook het
+   gekritiseer die vry uitgawes gebruik van obtrusive advertensies wanneer
+   ander blaaiers hoe mozilla en safari was aangebied gratis sonder
+   ingesluit advertensies.^[97] operas advertensies was verwyder 'n jaar
+   later as een van die verbeteringe in opera 8.5,^[8] wat lei tot meer
+   positief resensies.^[98]
+
+   Ongeag van ander beoordeling, wanneer nintendo verkies in 2006 to neem
+   aan opera as die web blaaier vir sy wii en ds gaming sisteme, 'n
+   nintendo verteenwoordiger verduidelik:
+
+     "vir ons wii troos lanseer in 2006, ons vereis 'n blaaier wat was
+     vinnig en veilige met ondersteuning vir die nuutste standaarde
+     ingesluit ajax. opera bewys perfek vir ons doel en is 'n
+     uitsonderlike byvoeging aan albei die nintendo ds en die wii troos."
+     —genyo takeda, senior besturende direkteur en algemeen bestuurder,
+     geintegreer navorsing & ontwikkeling divisie, nintendo^[12]
+
+   Later, in januarie 2007, kompiteerder asa dotzler van die mozilla
+   korporasie het gekritiseer die opera sagteware maatskappy vir
+   downplaying informasie omtrent bekend sekuriteit kwesbaarhede in opera.
+   dotzler beweer dat gebruikers was nie duidelik ingelig van sekuriteit
+   kwesbaarhede teenwoordig in ouer uitgawes van opera, en dus hulle sal
+   nie besef dat hulle nodig om op te gradeer tot die nuutste uitgawe of
+   risiko om te wees uitgebuit.^[99]
+
+[wysig] Toekennings
+
+   Oor die jare, opera vir persoonlike rekenaars het ontvang verskeie
+   toekennings. hierdie toekennings sluitin:^[100]
+     * aflaai.com top gradeer, 5 uit 5
+     * PC World klas toekenning, 2004 en 2005
+     * web gasheer tydskrif & kopers gids editeurs' keuse
+     * pc magazin testsieger (toets wenner), 2006
+     * pc plus werkverrigting toekenning
+     * PC World beste data produk, 2003
+     * PC World beste Ek toets, 2003
+     * web aanval editeurs kies, 2003
+     * Zdnet editeurs kies, 2000
+     * Tech cruiser toekenning 4 eksellens, 1999
+
+[wysig] Toekoms ontwikkeling
+
+   Die huidige opera kode baseer, gebruik vir uitgawes 9.0x, 9.1x en 9.2x,
+   is codenamed merlin (na die merlin valk). dit sal sien alleen klein
+   kenmerk verbeteringe en meestal bugfixes. Na uitgawe 9.2 merlin sal
+   geen langer gebruik word.^[101] hoof verbeteringe hoe verander{ings}
+   tot die uitleg enjin is nie beplande vir merlin, maar liewer vir later
+   uitgawes.^[32]
+
+   As die opera sagteware maatskappy werk op opkomend uitgawes van opera,
+   hulle is vry te laat snapshot vorms omtrent eenkeer 'n week vir toets
+   en terugvoering.^[102]
+
+[wysig] Weergawe 9.5
+
+   opera 9.5, codenamed kestrel (na die kestrel valk), sal vul die gaping
+   tussen opera 9.2 en opera 10.^[101] dit sal sien sommige van die
+   lewering verbeteringe te danke aan gemaak word in opera 10 en ook mik
+   om te voorsien beter integrasie met verskeie bediening
+   sisteme.^[103]^[104] die eerste alfa bou van opera 9.5 was vrygestel op
+   september 4, 2007. 'n publieke beta was vrygestel oktober 25,
+   2007,^[105] met 'n finale vrystel verwag deur somer 2008.^[106]
+
+   Opera 9.5 sal hê verbeter ondersteuning vir kaskeer styl velle (css),
+   ingesluit baie meer css3 selectors en die css2 teks-skadu
+   eiendom.^[107]^[108] ondersteuning vir ander web standaarde sal ook
+   verbeter word. Byvoorbeeld, opera 9.5s weegbare vector grafieke (svg)
+   implementasie ondersteun 93.8% van die w3c's svg toets reeks,^[109] en
+   ontwikkeling van gebou-in ondersteuning vir geanimeerde draagbare
+   netwerk grafieke (apng) en mathml is onderweg.^[102]^[110] plus, opera
+   9.5 sal ondersteun hoë-sekuriteit uitgebrei validasie
+   sertifikate.^[111]
+
+   Die koppelvlak sal ondergaan sommige alterasies ook, een wie se is voeg
+   terug in skerm leser ondersteun. operas pos kliënt, opera pos, sal wees
+   bygewerk, met 'n indekseer kenmerk en ook sommige kewers sal wees
+   bepaalde.^[112] opera 9.5 sal ook laat gebruikers spaar boekmerke en
+   spoed bel stellings tot die \"opera skakel\" web werf. hierdie
+   voorkeure kan dan wees gesinkroniseer met 'n ander opera blaaier, hoe
+   'n kopie van opera mini hardloop op 'n mobiele foon.^[113]
+
+   Langsaan die nuwe kenmerke, opera 9.5 het nuwe werkverrigting
+   verbeteringe. een is x64 uitgawes van opera vir versoenbaar linux en
+   bsd bediening sisteme.^[32]^[114]
+
+[wysig] Weergawe 10
+
+   Opera 10, codenamed peregrine (na die peregrine valk), sal sien die
+   meeste verbeteringe. dit sal hë nuwe kenmerke, 'n verbeter gebruiker
+   koppelvlak, verhoog standaarde ondersteun, kewer regstellings,
+   werkverrigting verbeteringe, en nuwe gereedskap vir web
+   ontwerpers.^[101]^[115]
+
+   'n Pos-kestrel bou van presto tellings 100/100 op die acid3 toets en
+   renders die toets reg, maar nie verbygaan die toets te danke aan stadig
+   werkverrigting.^[116]
+
+[wysig] Sien ook
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Opera (web browser)
+
+[wysig] Verwysings
+
+    1. ^ "Opera for Windows — language files." Opera Software. URL besoek
+       op 2008-04-02.
+    2. ^ "Download Opera Web Browser." Opera Software. URL besoek op
+       2007-12-03.
+    3. ^ ^3,0 ^3,1 "Milestones." Opera Software. URL besoek op 2007-10-30.
+    4. ^ ^4,0 ^4,1 "Affiliated Organization of Firefox and Mozilla." (PDF)
+       Mozilla Japan: 2006. URL besoek op 2007-10-24.
+    5. ^ "About Opera." Opera Software. URL besoek op 2007-10-24.
+    6. ^ Schenk, Mark (2007-01-06). "Opera browser version history." URL
+       besoek op 2007-10-24.
+    7. ^ Lettice, John, "Opera browser goes free with version 5.0 launch",
+       The Register, 2000-12-06. URL besoek op 2007-10-11.
+    8. ^ ^8,0 ^8,1 Baker, Loren, "Opera Goes Free with Help from Google",
+       Search Engine Journal, 2005-09-20. URL besoek op 2007-10-12.
+    9. ^ Goldman, Daniel (2006-12-18). "Opera 9.1 is out with Fraud
+       Protection." Opera Watch. URL besoek op 2007-10-11.
+   10. ^ "Giving gamers two windows to the Web: The Opera Browser for
+       Nintendo DS™." Opera Software: 2006-02-15. URL besoek op
+       2007-10-12.
+   11. ^ "Nintendo DS Browser available to North American market." Opera
+       Software: 2007-06-08. URL besoek op 2007-10-12.
+   12. ^ ^12,0 ^12,1 ^12,2 "A Web Revolution in the Living room: Opera
+       partners with Nintendo to put browser on the Wii™ game console."
+       Opera Software: 2006-05-10. URL besoek op 2007-10-12.
+   13. ^ "Play with the Web: Opera browser now available for download on
+       Wii." Opera Software: 2006-12-22. URL besoek op 2007-10-12.
+   14. ^ ^14,0 ^14,1 "Get to Know the Web on Wii: Full Version of Wii
+       Internet Channel Powered by Opera Available for Free Download."
+       Opera Software: 2007-04-12. URL besoek op 2007-10-12.
+   15. ^ ^15,0 ^15,1 "Wii Points Card." Amazon.com. URL besoek op
+       2007-12-03.
+   16. ^ ^16,0 ^16,1 Hayward, Andrew, "Reminder: Wii Internet Channel Free
+       'til June 30", Ziff Davis, 2007-06-26. URL besoek op 2007-12-11.
+   17. ^ ^17,0 ^17,1 "Nintendo DS Lite Browser." Amazon.com. URL besoek op
+       2007-10-18.
+   18. ^ Jo. "'Fastest browser on earth' now free for Linux, Mac", ZDNet,
+       2001-02-01. URL besoek op 2007-10-18.
+   19. ^ Wilton-Jones, Mark "Tarquin". "Browser speed comparisons." URL
+       besoek op 2007-10-18.
+   20. ^ ^20,0 ^20,1 "Opera browser: Features." Opera Software. URL besoek
+       op 2007-10-11.
+   21. ^ Reimer, Jeremy (2007-04-12). "Opera releases 9.2 browser, adds
+       "Speed Dial"." ars technia. URL besoek op 2007-10-25.
+   22. ^ "Plug-ins and Opera." Opera Software. URL besoek op 2007-10-11.
+   23. ^ "Why doesn't Opera support extensions?." Opera Press FAQ. Opera
+       Software. URL besoek op 2007-10-11.
+   24. ^ "Use Opera without a Mouse." Opera Software. URL besoek op
+       2007-10-18.
+   25. ^ "Day 16: Sessions." 30 Days to becoming an Opera8 Lover.
+       2005-05-25. URL besoek op 2007-10-25.
+   26. ^ Santambrogio, Claudio (2007-06-11). "emacs keyboard bindings -
+       2." csant/log. URL besoek op 2007-10-25.
+   27. ^ Hansen, Evan, "Building a better computer mouse", 2002-10-02. URL
+       besoek op 2007-10-18.
+   28. ^ "Mouse Gestures in Opera." Opera Software. URL besoek op
+       2007-10-25.
+   29. ^ "Visual Impairments and Opera." Opera Software. URL besoek op
+       2007-10-18.
+   30. ^ "IBM, Opera To Develop "Multimode" Browser." ExtremeTech:
+       2002-07-24. URL besoek op 2007-10-12.
+   31. ^ Koltz, Holly Marie (2004-03-26). "Opera, IBM voice." URL besoek
+       op 2007-10-12.
+   32. ^ ^32,0 ^32,1 ^32,2 ^32,3 Altman, Tim (2007-08-31). "Focus Areas
+       during Kestrel Development." URL besoek op 2007-10-23.
+   33. ^ "Delete Private Data." 30 Days to becoming an Opera8 Lover.
+       2005-09-23. URL besoek op 2007-10-25.
+   34. ^ Pettersen, Yngve (2006-05-16). "What's new in the SSL/TLS engine
+       of Opera 9?." URL besoek op 2007-10-25.
+   35. ^ "Security in Opera Browser: A Brief Glance." agnitum. URL besoek
+       op 2007-10-25.
+   36. ^ "Tutorial: Fraud protection." Opera Software. URL besoek op
+       2007-10-25.
+   37. ^ "Reporting Bugs." Opera Software. URL besoek op 2007-10-25.
+   38. ^ "Vulnerability Report: Opera 9.x." Secunia. URL besoek op
+       2008-03-29.
+   39. ^ "Vulnerability Report: Mozilla Firefox 2.0.x." Secunia. URL
+       besoek op 2008-03-29.
+   40. ^ "Vulnerability Report: Microsoft Internet Explorer 7.x." Secunia.
+       URL besoek op 2008-03-29.
+   41. ^ "Vulnerability Report: Safari 3.x." Secunia. URL besoek op
+       2008-03-29.
+   42. ^ Meyer, Eric (June 1999). "CSS: If not now, when?." URL besoek op
+       2007-10-11.
+   43. ^ "Web Specifications Supported in Opera 9." Opera Software. URL
+       besoek op 2007-10-11.
+   44. ^ Raquedan, Kreisler C. (2006-03-13). "Opera now passes the Acid2
+       Test." Standard Web Standards. URL besoek op 2007-10-25.
+   45. ^ "Performance Tests for Opera 9.5: Conclusions." URL besoek op
+       2007-11-10.
+   46. ^ "mCommerce Now a Reality on Psion Platform." Opera Software:
+       2000-04-03. URL besoek op 2007-12-04.
+   47. ^ "Opera Mobile Timeline." (PDF) Opera Software: 2006. URL besoek
+       op 2007-12-04.
+   48. ^ ^48,0 ^48,1 "Products featuring the Opera Mobile Browser." Opera
+       Software. URL besoek op 2007-10-18.
+   49. ^ "Buy Opera." Opera Software. URL besoek op 2008-01-03.
+   50. ^ "Opera's Small-Screen Rendering™." Opera Software. URL besoek op
+       2007-10-18.
+   51. ^ ^51,0 ^51,1 "Opera for Symbian S60." Opera Software. URL besoek
+       op 2007-10-18.
+   52. ^ Ruotsalainen, Werner (2006-06-02). "Post details: Prelude to the
+       Opera Mobile vs NetFront article - profound differences between the
+       two new Web browsers." Smartphone & Pocket PC Magazine. URL besoek
+       op 2007-11-14.
+   53. ^ Kuznetsov, Ivan (2006-09-02). "Opera Mobile vs. Nokia S60 browser
+       - new browser war?." URL besoek op 2007-11-14.
+   54. ^ "Have WAP but want WEB? Introducing Opera Mini™ for mobile
+       phones." Opera Software: 2005-08-10. URL besoek op 2007-12-05.
+   55. ^ "Mobile comfort in the cold: Opera Mini™ beta now available free
+       in the Nordics." Opera Software: 2005-11-10. URL besoek op
+       2008-01-02.
+   56. ^ "The full Internet for all mobile phones: Opera Mini launched in
+       Germany." Opera Software: 2005-11-10. URL besoek op 2008-01-02.
+   57. ^ Gohring, Nancy, "Opera Officially Launches Mini Browser", PC
+       World, 2006-01-24. URL besoek op 2007-12-05.
+   58. ^ "Have WAP but want WEB? Introducing Opera Mini™ for mobile
+       phones." Opera Software: 2005-08-10. URL besoek op 2007-10-18.
+   59. ^ "Operators making money on Opera Mini: Two million users surf 4
+       million Web pages every day." Opera Software: 2006-04-06. URL
+       besoek op 2007-10-18.
+   60. ^ "Opera Mini™ Features." Opera Software. URL besoek op 2007-10-18.
+   61. ^ Duncan, Geoff, "Opera Mini Officially Brings Web to Mobiles",
+       Digital Trends News, 2006-01-24. URL besoek op 2007-10-18.
+   62. ^ "Surf in Bed: Nintendo DS Browser hits Japan." Opera Software:
+       2006-07-24. URL besoek op 2007-10-18.
+   63. ^ "Nintendo DS Browser launches across Europe today." Opera
+       Software: 2006-10-06. URL besoek op 2007-10-18.
+   64. ^ Sinclair, Brendan, "Original DS browser available online only",
+       GameSpot, 2007-05-04. URL besoek op 2007-10-18.
+   65. ^ "Opera for Nintendo - Features." Opera Software. URL besoek op
+       2007-10-18.
+   66. ^ "Astaro Parental Control for the Nintendo DS Browser." Astaro.
+       URL besoek op 2007-12-01.
+   67. ^ "Nintendo DS Browser: Content Filtering (proxy server)." Customer
+       Service. Nintendo. URL besoek op 2007-11-10.
+   68. ^ Ponte, Christian, "Nintendo DS Browser being discontinued in
+       North America", The Tanooki, 2007-08-27. URL besoek op 2008-03-10.
+   69. ^ "Play with the Web: Opera browser now available for download on
+       Wii." Opera Software: 2006-12-22. URL besoek op 2007-10-12.
+   70. ^ "Giving gamers two windows to the Web: The Opera Browser for
+       Nintendo DS™." Opera Software: 2006-02-15. URL besoek op
+       2007-10-12.
+   71. ^ "Nintendo DS Browser available to North American market." Opera
+       Software: 2007-06-08. URL besoek op 2007-10-12.
+   72. ^ ^72,0 ^72,1 Temperton, James (2006-06-03). "Interview: Opera's
+       Nintendo Wii Browser." Cubed3. URL besoek op 2006-06-04.
+   73. ^ Goldman, Daniel (2006-12-22). "Wii browser passes the Acid2
+       test." Opera Watch. URL besoek op 2007-10-30.
+   74. ^ Altman, Tim (2007-04-17). "The Rendering Engine for the Wii." URL
+       besoek op 2007-10-30.
+   75. ^ ^75,0 ^75,1 "Browser Version Market Share for January, 2008." Net
+       Applications: January 2008. URL besoek op 2008-02-01.
+   76. ^ Bersvendsen, Arve (May 2005). "Can we please stop this statistics
+       nonsense?." URL besoek op 2007-12-06.
+   77. ^ "Посещение службы Портал (in Russies)." URL besoek op 2008-02-23.
+   78. ^ "Глобальная статистика. Броузеры (in Russies)." URL besoek op
+       2008-02-23.
+   79. ^ "Статистика использования браузеров (in Russies)." URL besoek op
+       2008-02-23.
+   80. ^ "отчет: количество посетителей с разными браузерами (in
+       Russies)." URL besoek op 2008-02-23.
+   81. ^ "Статистика bigmir)net (in Russies)." URL besoek op 2008-02-07.
+   82. ^ "The comparison of data concerning web browsers used by visitors
+       (cookies) from Poland, the CR, Lithuania and Latvia (22.5.2007 -
+       28.5.2007)." RankingCEE.com. URL besoek op 2007-10-11.
+   83. ^ Reimer, Jeremy (2007-05-10). "Microsoft's Silverlight to get
+       Opera compatibility." ars technica. URL besoek op 2007-10-25.
+   84. ^ Zorz, Mirko (2007-08-13). "Interview with Christen Krogh, Opera
+       Software's VP of Engineering." URL besoek op 2007-12-04.
+   85. ^ "Opera Powered products." Opera Software. URL besoek op
+       2007-11-30.
+   86. ^ "Powered by Opera: Opera Integrated with Adobe Creative Suite 2."
+       Opera Software: 2005-04-04. URL besoek op 2007-10-11.
+   87. ^ Goldman, Daniel (2007-05-03). "Dreamweaver uses Opera’s
+       Small-Screen Rendering technology to preview webpages for mobile
+       phones." Opera Watch. URL besoek op 2007-10-15.
+   88. ^ Mason, Wesley (2000-03-16). "Software Review: Opera browser for
+       Windows v3.62." Geek.com. URL besoek op 2007-10-13.
+   89. ^ "Editor's review of Opera." Download.com. URL besoek op
+       2007-10-13.
+   90. ^ Berger, Sandy (2006-09-30). "Opera Web Browser." CompuKiss. URL
+       besoek op 2007-10-13.
+   91. ^ Berkun, Scott (2006-11-07). "Browser review: Opera 9.02." The
+       Berkun Blog. URL besoek op 2007-10-13.
+   92. ^ Dotzler, Asa (2007-09-04). "Firefox and more." URL besoek op
+       2007-11-30.
+   93. ^ Gregory, Andrew (2007-11-19). "Posts tagged with
+       "compatibility"." URL besoek op 2007-11-30.
+   94. ^ Gregory, Andrew (2005-02-05). "Browser Sniffers." URL besoek op
+       2007-11-30.
+   95. ^ Steen, Hallvord (2006-06-05). "An inside look at how Opera works
+       on site compatibility." Opera Software. URL besoek op 2007-11-30.
+   96. ^ "Browser JavaScript Explained." Opera Software. URL besoek op
+       2007-10-13.
+   97. ^ Pegoraro, Rob (2004-05-23). "Some Badly Designed Features Put
+       Opera 7.5 Out of Tune." URL besoek op 2007-10-11.
+   98. ^ Hartley, Matt (2006-06-29). "Opera Browser 9.0 Review."
+       OSWeekly.com. URL besoek op 2007-11-28.
+   99. ^ Kerner, Sean Michael. "Mozilla Takes Aim at Opera Security",
+       internetnews.com, 2007-01-09. URL besoek op 2007-10-25.
+   100. ^ "Opera's Awards." Opera Software. URL besoek op 2007-12-05.
+   101. ^ ^101,0 ^101,1 ^101,2 Borg, Johan (2007-02-16). "Opera code names
+       uncovered." Opera Software. URL besoek op 2007-10-23.
+   102. ^ ^102,0 ^102,1 Minchinton, Adam (2007-09-14). "Post-Alpha Opera
+       9.5 Release." Opera Software. URL besoek op 2007-10-23.
+   103. ^ Kleinhout, Huib (2007-06-22). "Kestrel is coming!." Opera
+       Software. URL besoek op 2007-10-23.
+   104. ^ Vollan, Per Arne (2007-07-19). "Macification." Opera Software.
+       URL besoek op 2007-10-23.
+   105. ^ Kleinhout, Huib (2007-10-25). "Opera 9.5 beta released." Opera
+       Software. URL besoek op 2007-10-25.
+   106. ^ Pierre-Louis, Errol (2008-01-10). "Opera: Next Version to Crush
+       Internet Explorer." PC World. URL besoek op 2008-01-15.
+   107. ^ Altman, Tim (2007-02-26). "Tim's Opera Bits v5.0." opera
+       journal. URL besoek op 2007-10-23.
+   108. ^ "Changelog for Opera 9.50 Alpha 1 for Windows." Opera Software:
+       2007-09-04. URL besoek op 2007-10-23.
+   109. ^ Schiller, Jeff (2007-09-04). "Welcome To CodeDread 1.1." URL
+       besoek op 2007-10-23.
+   110. ^ McCathieNevile, Charles (2007-09-27). "Can Kestrels do Math?
+       MathML support in Opera Kestrel." Opera Software. URL besoek op
+       2007-10-23.
+   111. ^ Pettersen, Yngve Nysæter (2007-06-19). "A first look at EV in
+       Opera." Implementer's notes. Opera Software. URL besoek op
+       2007-11-08.
+   112. ^ Altman, Tim (2007-02-26). "Tim's Opera Bits v5.0." Tim's blog.
+       URL besoek op 2007-10-25.
+   113. ^ "Opera Link." Opera Software. URL besoek op 2007-10-25.
+   114. ^ "Index of /unix/snapshot-1662/x86_64-linux." Opera Software. URL
+       besoek op 2007-11-11.
+   115. ^ Espiner, Tom, "Opera reveals version 10 vision", CNET,
+       2006-07-28. URL besoek op 2007-10-23.
+   116. ^ Lars Erik Bolstad (2008-03-28). "Public Acid3 build." URL besoek
+       op 2008-03-28.
+
+   Kategorieë: Gaan taal na • Toepassingsagteware
+

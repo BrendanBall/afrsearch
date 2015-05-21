@@ -1,0 +1,205 @@
+Wetenskaplike metode
+
+
+   Die wetenskaplike metode is 'n sistematiese manier om kennis te
+   versamel. Dit is gegrond op waarnemings, metings, voorspellinge,
+   eksperimente, bevestiging en weerlegging.
+
+   Inhoud
+
+        * 1 Algemeen
+        * 2 'n Verduideliking in vereenvoudigde bewoording
+             + 2.1 Bestudeer
+             + 2.2 Dink
+             + 2.3 Voorspel
+             + 2.4 Bevestiging
+             + 2.5 Evalueer
+        * 3 Verwysings
+
+[wysig] Algemeen
+
+   Die konsekwente gebruik van die wetenskaplike metode onderskei die
+   wetenskap van pseudo-wetenskap en ander vorms van kennisversameling.
+   Die onderskeid tussen wetenskap en pseudo-wetenskap word ook die
+   onderskeidingskriteria genoem en is daar uitgebreide verhandelings deur
+   Karl Popper oor hierdie onderwerp geskryf.
+
+   Alle wetenskaplikes werk natuurlik nie op dieselfde manier om kennis
+   uit te bou nie: sommige wetenskaplikes maak staat op inspirasie en
+   insig, terwyl andere meer sistematies te werk gaan in hul ondersoeke.
+   Die presiese manier waarop die wetenskaplike werkwyse uitgevoer word
+   kan nie losgemaak word van die vakgebied en politieke konteks waarin
+   dit uitgevoer word nie en die ekonomiese druk op die wetenskaplike kan
+   ook nie buite rekening gelaat word nie.
+
+   Wetenskaplikes is dit eens dat die wetenskaplike metode se belangrikste
+   rol is om seker te maak dat die versamelde kennis vry is van
+   subjektiewe invloede en om foute daarin op te spoor.
+
+[wysig] 'n Verduideliking in vereenvoudigde bewoording
+
+   Die wetenskaplike metode behels die deurlopende gebruik van die
+   volgende stappe tydens die vergaring van kennis.
+     * Bestudeer die verskynsel wat jy wil beskryf. Versamel gegewens, en
+       doen metinge.
+     * Dink na oor jou metinge, en stel 'n hipotese (veronderstelling) op
+       wat die metinge en ander gegewens kan verklaar.
+     * Voorspel op grond van die hipotese iets wat jy nog nie vroeër
+       gemeet het nie.
+     * Bevestig of toets die voorspelling deur nuwe metinge uit te voer.
+     * Evalueer of die hipotese reg is. As nie alle voorspellinge korrek
+       was nie, dan is die hipotese (veronderstelling) verkeerd. In die
+       geval moet 'n nuwe hipotese opgestel word. As die voorspellings
+       almal reg was, moet meer voorspellings gedoen word en die hipotese
+       verder getoets word.
+
+   Hierdie stappe word voortdurend herhaal sodat daar 'n al hoe groter
+   basis is van goed getoetste hipotese wat saam al hoe meer verskynsels
+   kan beskryf. Die wetenkaplike metode laat 'n mens soms toe om van die
+   stappe in 'n ander volgorde uit te voer, maar in elke geval moet al die
+   stappe gevolg word. Teoretiese natuurkundiges bedink soms eers 'n
+   volledige nuwe teorie voordat hulle begin dink aan watter waarnemings
+   hulle wil maak. Dit staan bekend as rasionalisme, in teenstelling
+   daarmee staan empirisme wat meer op eksperimente gerig is.
+
+   Die vyf primêre stappe word hieronder verder uiteengesit.
+
+[wysig] Bestudeer
+
+   By die uitvoering van die bestudeer-stap is dit van uiterste belang dat
+   alles volledig gedokumenteer word. Dit is nie voldoende om andere slegs
+   op hoogte te bring van die hipotese alleen nie: die wetenkaplike metode
+   vereis dat ander ook die hipotese self moet kan toets, en daarvoor is
+   dit noodsaaklik dat ook die waarnemings en die presiese manier waarop
+   die waarnemings gedoen is (en hoe dit herhaal kan word) geopenbaar
+   word. Die herhaalbaarheid van die waarnemings is 'n belangrike vereiste
+   voordat die evaluasie stap uitgevoer kan word en die herhaalbaarheid
+   berus op die volledige dokumentasie van alle metinge wat tydens die
+   studiestap gedoen is.
+
+   Tydens die beskrywing van eksperimente gebruik wetenkaplikes dikwels
+   nie-alledaagse definisies. Dit kan noodsaaklik wees om die
+   herhaalbaarheid te verseker. Baie terme wat in die alledaagse lewe
+   voldoende sou wees kan vir hierdie doeleinde onvoldoende wees: Dink
+   byvoorbeeld aan die lengte van 'n maand wat kan wissel tussen 28 en 31
+   dae en dat daar byvoorbeeld verskillende definisies kan wees vir die
+   term dag en kan die noukeurigheid van sulke terme onvoldoende wees vir
+   gebruik in 'n wetenkaplike verslag.
+
+[wysig] Dink
+
+   Tydens die dink-stap gebruik wetenkaplikes hul kreatiwiteit om 'n
+   verklaring te beredeneer vir die gemete verskynsels. 'n Belangrike
+   aspek van 'n wetenkaplike teorie is dat dit moontlik moet wees om 'n
+   meting te doen wat die hipotese verkeerd kan bewys. Met ander woorde
+   gestel as daar geen eksperiment versin kan word om die hipotese te
+   weerlê nie, is die hipotese miskien waar maar is dit in elk geval nie
+   wetenkaplik nie.
+
+   Die wetenkaplike moet daarom daarteen waak om partydig te wees en slegs
+   een gedeelte van die waarnemings in ag neem. As 'n teorie gegrond is op
+   alle waarnemings bestaan daar 'n groter kans dat dit bruikbaar sal
+   wees.
+
+   'n Belangrike ekstra reël wat geld vir 'n nuwe teorie is dat hy nie
+   meer ingewikkeld moet wees as wat noodsaaklik is om die waarnemings te
+   verklaar nie. Om 'n voorbeeld te noem: as 'n boom tydens 'n storm
+   omval, kan een moontlike teorie daarvoor wees Hierdie boom is deur die
+   weerlig getref. Hierdie teorie is slegs één aanname, naamlik dat dit 'n
+   weerligstraal was wat die boom laat omval het en nie 'n olifant of 'n
+   sterk wind wat die boom omgestoot het nie. 'n Ander moontlike hipotese
+   sou wees dat die boom deur reuse buite-aardse wesens van 200 meter
+   lank, tydens 'n besoek omgestoot is. Hierdie teorie maak 'n groot klomp
+   aannames, onder ander dat daar buite-aardse wesens bestaan, die feit
+   dat intersterre reise moontlik is, en die feit dat hulle biologie hulle
+   in staat stel om so enorm groot te word. Selfs met die reël so
+   eenvoudig moontlik kan dit gebeur dat 'n mens 'n lang lys hipoteses
+   versin. Sommige verskynsels kan so ingewikkeld wees dat hulle
+   ongemaklik baie aannames benodig 'n bevredigende hipotese saam te stel
+   ter verklaring daarvan. As die reël so eenvoudig moontlik gevolg word,
+   sal die kans dat die hipotese later bruikbaar sal wees vergroot word.
+   Daar bestaan egter nie 'n streng reël waaraan voldoen moet word om aan
+   die wetenkaplike metode in hierdie verband te voldoen nie.
+
+[wysig] Voorspel
+
+   Hipotese word ook gesien as beter as andere hipotese as die
+   voorspellende krag daarvan sterker is, dit wil sê as meer waarneming
+   daarmee verklaar kan word en daar dus meer moontlike waarnemings is wat
+   die hipotese kan weerlê. Die hipotese Alles verander in sjokolade as
+   niemand kyk nie en verander weer terug sodra iemand daarna kyk kan
+   nooit werklik weerlê word nie, want die hipotese is sodanig geformuleer
+   dat bevestiging verbied word. Die hipotese het egter ook geen
+   voorspellende krag nie en is nie 'n wetenkaplike hipotese nie. Die
+   hipotese wat veronderstel dat lig deur 'n sterk swaartekragveld gebuig
+   word ('n onderdeel van Einstein se Relatiwiteitsteorie) is 'n sterk
+   hipotese, omdat hy duidelik uitgespel het welke metinge gedoen kan word
+   om dit te toets. As ons weer terugkeer na die omgevalle boom, dan
+   voorspel die weerlighipotese dat daar brandvlekke op die stam van die
+   boom te vinde moet wees en dat die weerligradar 'n sein moes gegee het.
+
+   Om 'n voorspelling wat aan 'n willekeurige hipotese behoort te versin
+   kan 'n mens gebruik maak van as-dan tipe redenasies. 'n Mens begin met
+   die aanname dat die hipotese waar is, en bedink dan die gevolge daarvan
+   as dit waar sou wees. Die oomblik as 'n mens dan 'n gevolg bedink wat
+   nie voor-die-hand-liggend is nie, dan het 'n mens 'n moontlike
+   voorspelling beding van die nuwe hipotese. Byvoorbeeld: Einstein se
+   vergelykings dat horlosies hulle nie gedra soos mense gedink het nie.
+   Deur vanuit die aanname te redeneer dat die vergelykings waar is, kom
+   'n mens tot die gevolgtrekking dat 'n akkurate horlosie in 'n vinnige
+   ruimteskip anders sou loop as 'n soortgelyke horlosie op die aarde. In
+   1905 toe Einstein se teorieë gepubliseer is, was ruimteskepe bloot
+   fantasieë, maar intussen is verskeie toetse uitgevoer en almal is in
+   ooreenstemming met Einstein se voorspellings.
+
+[wysig] Bevestiging
+
+   Elke hipotese moet getoets word deur die uitvoer van eksperimente en
+   die meting van die resultate daarvan. Omdat metinge inherente
+   onakkuraat is en omdat apparatuur steeds beter word is nuwe metinge
+   dikwels meer presies as ouer metinge. Soms kom afwyking van bestaande
+   teorieë deur herhaalde metinge aan die lig. In die ideale geval moet
+   die eksperimente so beskryf word dat elkeen wat wil, die metinge
+   herhaaldelik met dieselfde resultaat kan uitvoer. Dit staan bekend as
+   reproduseerbaarheid.
+
+   'n Goeie wetenkaplike eksperiment moet aan 'n aantal reëls voldoen.
+   Daar moet so min moontlik vryheid wees in die interpretasie van die
+   resultate: vryheid kan lei tot 'n sien wat ek wil sien. Bowendien word
+   'n goeie eksperiment so opgestel dat ander moontlike invloede
+   uitgesluit word. Byvoorbeeld tydens die toets van die werking van 'n
+   nuwe medisyne moet die placebo-effek van die aandag wat die pasiënt by
+   die dokter kry, uitgesluit word.
+
+[wysig] Evalueer
+
+   Elke hipotese moet onmiddellik verwerp word as daar betroubaar
+   aangetoon kan word dat dit nie altyd geldig is nie, hoe belangrik of
+   oud die teorie ookal mag wees. Volgens die beginsel bly alle
+   wetenkaplike kennis kontinu aan die verander: daar kan immers op elke
+   oomblik 'n nuwe meting gedoen word wat 'n ou hipotese omverwerp. In die
+   eersgenoemde voorbeeld van die boom wat omgeval het sou die afwesigheid
+   van brandmerke of die afwesigheid van 'n sein op die weerligradar die
+   ou teorie onwaarskynlik maak en in samehang met 'n verslag van
+   orkaanwinde in die omgewing, kan 'n nuwe teorie (byvoorbeeld dat die
+   wind die boom omgewaai het) voorgestel word.
+
+   'n Ander belangrike aspek is dat eksperimente wat lei tot die
+   verwerping van 'n hipotese deur verskillende wetenkaplikes uitgevoer
+   moet word om te voorkom dat die resultate gegrond is op vooroordele,
+   verwarring of bedrog. Wetenkaplike tydskrifte gebruik om die rede
+   verwysings: wetenkaplikes stuur hul studies in vir publikasie, maar
+   voordat die studies gepubliseer word gaan 'n onafhanklike paneel van
+   deskundiges eers die resultate en gevolgtrekkings ter evaluasie na. Die
+   nadeel van hierdie metode is dat die onafhanklikheid van die lede van
+   die paneel ook in twyfel getrek kan word. Studies wat sonder verwysings
+   gepubliseer word, kan egter slegs na publikasie ongeldig bewys word;
+   dit lei soms tot groot skandale soos tydens die publikasie oor koue
+   kernfusie deur Fleischmann en Pons.
+
+[wysig] Verwysings
+
+     * Nederlandstalige wikipedia artikel
+
+   Kategorieë: Navorsing • Epistemologie • Wetenskap
+

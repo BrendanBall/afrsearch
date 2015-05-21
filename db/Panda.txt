@@ -1,0 +1,79 @@
+Panda
+
+
+                    Panda
+   Bedreigingstatus: krities
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ursidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ailuropoda
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. melanoleuca
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+           Ailuropoda melanoleuca
+   (David, 1869)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+                 Subspesies
+
+                                  Sien teks
+
+   Die verspreiding van die panda
+   Die verspreiding van die panda
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die groot panda (Ailuropoda melanoleuca) is 'n soogdier wat
+   geklassifiseer is in die Ursidae-familie en voorkom in Sentraal- en
+   Suid-Sjina.
+
+[wysig] Algemene inligting
+
+   Die groot panda word gekenmerk deur 'n swart en wit pels. 'n Volwasse
+   panda word omtrent 1.5m lank en 75cm hoog en kan tot 115kg weeg. Die
+   panda se hoofbron van voedsel is bamboes maar hulle kan ook ander kos
+   soos heuning, eiers en vis eet. Pandas is 'n bedreigde spesie met
+   omtrent 1600 pandas in die natuur en 188 in aanhouding. Volgens 'n
+   sensus in 2005 is die natuurlike pandabevolking besig om te groei.
+
+[wysig] Subspesies
+
+     * A. melanoleuca melanoleuca
+     * A. melanoleuca qinlingensis
+
+   Kategorie: Bere
+

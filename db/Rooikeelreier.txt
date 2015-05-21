@@ -1,0 +1,105 @@
+Rooikeelreier
+
+
+                     Slaty Egret
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Egretta
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     E. vinaceigula
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Egretta vinaceigula
+   (Sharpe, 1895)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die rooikeelreier is 'n seldsame, gelokaliseerde standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Lyk soos 'n leikleurige Kleinwitreier, maar word aan sy geel tarsi, en
+   van naby aan sy vaalbruin keel en geel oë en gesigvel, van die
+   Swartreier onderskei. Die pluime aan sy agterkop ontbreek soms.
+
+   60 cm
+
+[wysig] Habitat
+
+   Boer veral een-een by vlak, digbegroeide vloedpanne en langs stil
+   rivierlope van die Okavangodelta, Linyanti- en Choberiviergebied van
+   Noord-Botswana; 'n swerwer elders.
+
+[wysig] Verspreiding
+
+   Veral rondom bg. gebiede, maar ylverspreide groepies kom ook voor in
+   die noordelike deel van Namibië, Zimbabwe, Limpopo Provinsie en
+   Noord-Wes Provinsie.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Egretta vinaceigula
+     * Engels: "Slaty Egret"
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Reiers
+

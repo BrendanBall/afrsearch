@@ -1,0 +1,142 @@
+Elektronika
+
+
+   Elektronika is die studie van die vloei van ladings deur verskeie
+   materiale en toestelle soos halfgeleiers, resistors, induktors,
+   kapasitors, nanostrukture en vakuumbuise. Alle toepassings van
+   elektronika behels die oordra van elektriese seine en/of inligting.
+   Elektronika word beskou as 'n teoretiese vertakking van fisika maar die
+   ontwerp en konstruksie van elektroniese stroombane om praktiese
+   probleme op te los is noodsaaklike tegnieke in die velde van
+   elektroniese- en rekenaaringenieurswese.
+
+   Die studie van nuwe halfgeleiertoestelle en verwante tegnologie word
+   soms ook as 'n vertakking van fisika beskou. Hierde artikel fokus op
+   die ingenieursaspekte van elektronika. Ander belangrike onderwerpe wat
+   ook van toepassing is, is elektroniese afval en
+   beroepsgesondheidsimpakte van die vervaardiging van
+   halfgeleiertoestelle.
+
+   Inhoud
+
+        * 1 Oorsig van elektroniese stelsels en -stroombane
+        * 2 Elektroniese toestelle en komponente
+        * 3 Soorte stroombane
+             + 3.1 Analoë stroombane
+             + 3.2 Digitale stroombane
+
+[wysig] Oorsig van elektroniese stelsels en -stroombane
+
+   Kommersiële digitale voltmeter wat gebruik word om 'n prototipe na te
+   gaan
+   Kommersiële digitale voltmeter wat gebruik word om 'n prototipe na te
+   gaan
+
+   Elektroniese stelsels word gebruik om 'n wye verskeidenheid take te
+   verrig. Die hoofgebruike van elektroniese stroombane sluit in:
+    1. Die beheer en verwerking van data.
+    2. Die omskakeling van/na en verspreiding van elektriese krag.
+
+   Beide hierdie toepassings behels die skep en/of bespeuring van
+   elektromagnetiese velde en elektriese strome. Al is elektriese energie
+   al vir 'n geruime tyd voor die laat 19^de eeu gebruik vir die
+   versending van data oor telegraaf- en telefoonlyne, het die
+   ontwikkeling van elektronika eers eksponensieël begin groei na die
+   uitvinding van die radio.
+
+   Een benadering tot die studie van 'n elektroniese stelsel is om dit as
+   volg in drie dele te verdeel:
+     * Toevoere – Elektroniese of meganiese sensore (of oorvormers).
+       Hierdie toestelle neem seine/inligting vanaf 'n eksterne bron uit
+       die fisiese wêreld en skakel hierdie seine/inligting om na
+       elektriese strome/-spanning of digitale (hoë/lae) seine in die
+       stelsel.
+
+     * Seinverwerking – Hierdie stroombane dien om die toevoerseine te
+       manipuleer, te interpreteer en om te skakel om hulle sodoende
+       nuttig te maak vir 'n verlangde toepassing. Onlangs is baie
+       komplekse seinverwerking moontlik gemaak deur gebruik te maak van
+       digitale seinverwerkers.
+
+     * Afvoere – Aandrywers of ander toestelle (soos omvormers) wat
+       stroom-/spanningseine terug na 'n nuttige fisiese vorm omskakel
+       (deur bv. 'n fisiese taak te verrig deur 'n motor te draai).
+
+   'n Televisiestel is 'n voorbeeld van 'n stelsel wat die drie dele
+   bevat. Die televisie se toevoer bestaan uit 'n uitsending (wat deur 'n
+   antenna ontvang word en deur 'n kabel na die stel gevoer word) wat na
+   'n stroom-/spanningsein omgeskakel word wat deur die toestel gebruik
+   kan word. Seinverwerkingstroombane binne-in die televisie onttrek
+   inligting vanuit die sein wat helderheid, kleur en klankvlakke bepaal.
+   Afvoertoestelle skakel dan hierdie inligting weer om na 'n fisiese
+   vorm. 'n Katodestraalbuis skakel elektroniese seine om na 'n beeld op
+   die skerm. Magneetgedrewe luidsprekers skakel seine om na hoorbare
+   klanke.
+
+[wysig] Elektroniese toestelle en komponente
+
+   'n Elektroniese komponent is enige fisiese eenheid in 'n elektroniese
+   stelsel waarvan die doel is om die elektrone of hulle betrokke velde te
+   beïnvloed op 'n manier wat konsekwent is met die beoogde funksie van
+   die elektroniese stelsel. Komponente word gewoonlik aan mekaar verbind
+   deur dit op 'n gedrukte stroombaan vas te soldeer om 'n elektroniese
+   stroombaan te skep met 'n spesifieke funksie (soos bv. 'n versterker,
+   radio-ontvanger of ossilleerder). Komponente kan indiwidueel verpak
+   word of in minder of meer komplekse groepe as geïntegreerde stroombane.
+
+[wysig] Soorte stroombane
+
+[wysig] Analoë stroombane
+
+   Die meeste analoë elektroniese toestelle soos radio-ontvangers word
+   saamgestel vanuit 'n kombinasie van 'n paar basiese stroombane. Analoë
+   stroombane gebruik 'n kontinue reeks spannings in teenstelling met die
+   diskrete spanningsvlakke wat in digitile stroombane aangetref word.
+   Goeie voorbeelde van analoë stroombane sluit vakuumbuis- en
+   transistorversterkers, operasionele versterkers en ossileerders in.
+
+   Sommige analoë stroombane kan digitale of selfs mikroverwerkertegnieke
+   benut om hul basiese werkverrigting te verbeter. Hierdie soort
+   stroombaan word dan gewoonlik ook 'n 'gemengde sein' stroombaan genoem.
+   Daar bestaan heelwat stroombane waar die onderskeid tussen analoog en
+   digitale verwerking nie so duidelik is nie omdat die stroombane
+   elemente van beide bevat.
+
+[wysig] Digitale stroombane
+
+   Digitale stroombane is elektriese stroombane wat gebaseer word op 'n
+   diskrete aantal spanningsvlakke. Digitale stroombane word dikwels
+   gebruik om Boolse algebra fisies voor te stel en vorm die basis van
+   alle digitale rekenaars. Baie ingenieurs gebruik die begrippe "digitale
+   stroombaan", "digitale stelsel" en "logika" as sinonieme wanneer hulle
+   oor digitale stroombane praat.
+
+   In die meeste gevalle word kan 'n nodus in 'n stelsel twee toestande
+   voorstel, dikwels voorgestel deur twee spanningsvlakke wat "Laag" of
+   "Hoog" genoem word. Dikwels sal "Laag" naby nul volt wees en "Hoog" by
+   'n hoër spanningsvlak wees wat afhang van die spanningsbron wat gebruik
+   word.
+
+   Rekenaars, elektroniese horlosies en programeerbare logiese beheerders
+   (wat gebruik word om nywerheidsprosesse te beheer) word gebou met
+   digitale stroombane. Digitale Seinverwerkers is 'n ander voorbeeld.
+
+   Boustene van digitale stroombane:
+     * Logiese hekke
+     * Opteller
+     * Binêre vermenigvuldigers
+     * wipbaan (flip-flop)
+     * Tellers
+     * Registers
+     * Multipleksers
+     * Schmitt-snellers
+
+   Geïntegreerde toestelle:
+     * Mikroverwerkers
+     * Mikrobeheerders
+     * Toepassingspesifieke geïntegreerde stroombane
+     * Digitale seinverwerker
+     * Veldprogrameerbare hekrooster
+
+   Kategorie: Elektronika
+

@@ -1,0 +1,184 @@
+Sentrale verwerkingseenheid
+
+
+   Intel 80486DX2 mikroverwerker in ‘n PGA keramiekpak
+   Intel 80486DX2 mikroverwerker in ‘n PGA keramiekpak
+
+   ‘n Sentrale verwerkingseenheid (SVE), of hoofverwerkingseenheid is die
+   komponent in 'n digitale rekenaars wat instruksies en data in
+   rekenaarprogramme vervat vertaal en verwerk SVEs verleen die
+   fundamentele eienskap van programeerbaarheid aan rekenaars saam met
+   primêre stoorgeheue en toevoer/afvoer fasiliteite. 'n SVE wat
+   vervaardig word deur van geïntegreerde stroombane gebruik te maak staan
+   ook as 'n mikroverwerker bekend. Sedert die middel sewentigs het
+   enkelskyf mikroverwerkers byna alle ander soorte SVE's vervang.
+
+   Die vorm, ontwerp en implementering van SVE's het dramaties verander
+   sedert die vroegste voorbeelde, maar hul fundamentele bedryf is basies
+   nog dieselfde.
+
+   Vroë SVE's was pasgemaakte dele van 'n groter en gewoonlik unieke
+   rekenaar. Pasgemaakte SVE's word deesdae min gebruik en word
+   gestandardiseerde veeldoelige verwerkers eerder gebruik. Hierdie
+   neiging tot standardisasie het reeds begin in die tydperk van
+   transistor hoofraam- en minirekenaars en het vinnig versnel vandat
+   geïntegreerde stroombane bekend gestel is.
+
+[wysig] Geskiedenis
+
+   EDVAC, een van die eerste rekenaars met elektronies gestoorde
+   programme.
+   EDVAC, een van die eerste rekenaars met elektronies gestoorde
+   programme.
+
+   Die eerste rekenaars soos ENIAC moes fisies herbedraad word om
+   verskillende take uit te voer. Hierdie masjiene is dikwels na verwys as
+   vaste-program rekenaars, aangesien hulle fisies heropgestel moes word
+   om 'n ander program te kon uitvoer. Sedertien word die begrip SVE
+   gebruik om te verwys na 'n toestel vir die uitvoer van programmatuur.
+   Die vroegste toestelle wat met reg SVE's genoem kon word, kon eers
+   aangetref word in die eerste rekenaars met gestoorde programme.
+
+   Die idee van 'n gestoorde-program rekenaar was reeds teenwoordig in die
+   ENIAC se ontwerp, maar is aanvanklik uitgelaat sodat die masjien vroeër
+   klaargemaak kon word. Op 30 Junie 1945 selfs voordat ENIAC voltooi was,
+   het John von Neumann 'n konsepverslag versprei oor die EDVAC. Daarin
+   het hy die ontwerp van 'n gestoorde-program rekenaar se ontwerp uitgelê
+   wat toe uiteindelik in Augustus van 1949 voltooi is. EDVAC is ontwerp
+   om 'n verskeidenheid soorte instruksies (of verwerkinge) uit te voer.
+   Hierdie instruksies kon gekombineer word om nuttige programme te vorm.
+   'n Uitstaande eienskap van die ontwerp was dat die programme wat vir
+   EDVAC geskryf was, in hoēspoed rekenaargeheue gestoor was eerder as om
+   die bedrading van die rekenaar aan te pas. Hierdie eienskap het die
+   ernstige beperking van die ENIAC oorkom, wat meegebring dat baie
+   inspanning geverg is om die rekenaar her op te stel sodaat dit ander
+   take kon uitvoer. Met Von Neuman se ontwerp, kon die programmatuur wat
+   EDVAC uitgevoer het, eenvoudig verander word deur die inhoud van die
+   rekenaargeheue aan te pas.^[1]
+
+   Al word Von Neumann dikwels krediet gegee vir die ontwerp van die
+   gestoorde-program rekenaar is dit belangrik om te onthou dat andere,
+   soos Konrad Zuse, reeds voor hom soortgelyke idees geopper het. Verder
+   het die Harvard-argitektuur van die Harvard Mark I wat voor EDVAC
+   voltooi is, ook 'n gestoorde-program benut al was die program op papier
+   ponsriem gestoor eerder as in elektroniese geheue. Die sleutelverskil
+   tussen die Von Neumann en Harvard-argitektuur was dat laasgenoemde die
+   stoor en verwerking van SVE-instruksies en data geskei het, terwyl
+   eersgenoemde dieselfde geheuespasie vir beide gebruik het. Die meeste
+   moderne SVE's word hoofsaaklik volgens Von Neumann se stelsel ontwerp,
+   maar bevat ook elemente van die Harvard-argitektuur.
+
+   SVE's is digitale toestelle wat slegs met diskrete toestande werk en
+   vereis daarom skakelelemente om tussen hierdie toestande te kan
+   onderskei. Voor die kommersiële aanvaarding van die transistor is
+   elektriese wisselaars en vakuumbuise algemeen gebruik as
+   skakelelemente. Al het hierdie elemente besliste voordele bo vroeëre
+   suiwer meganiese ontwerpe gehad was hulle om verskeie redes
+   onbetroubaar en was die vroeëre elektroniese rekenaars oor die algemeen
+   minder betroubaar as elektromeganiese rekenaars al was hulle baie
+   vinniger. Vakuumbuisrekenaars soos EDVAC was geneig om net ongeveer agt
+   uur lank te werk voor hulle gefaal het en weer moes herstel word,
+   terwyl die elektromeganiese masjiene soos die Harvard Mark I baie selde
+   gefaal het. Uiteindelik het vakuumbuis gebaseerde rekenaars egter die
+   oorhand gekry omdat die spoedvoordele die betroubaarheidsprobleme ver
+   oorskry het. Die klokfrekwensie van hierdie vroë sinkrone SVE's was
+   egter baie laag in vergelyking met vandag se moderne rekenaars.
+   Klokseinfrekwensies wat gewissel het tussen 100 kHz tot 4 MHz was
+   algemeen op die stadium en was hoofsaaklik beperk tot die skakelspoed
+   van die komponente waarmee hulle gebou is.
+
+[wysig] Diskrete transistor en Geïntegreerde stroombaan SVE's
+
+   SVE, Kerngeheue en eksterne bus koppelvlak van 'n MSI PDP-8/I.
+   SVE, Kerngeheue en eksterne bus koppelvlak van 'n MSI PDP-8/I.
+
+   Die kompleksiteit van SVE-ontwerpe het toegeneem soos wat verskeie nuwe
+   tegnologieë dit moontlik gemaak het om kleiner en meer betroubare
+   elektroniese toestelle te bou. Die eerste sodanige verbetering het
+   plaasgevind met die aankoms van die transistor. Transistor SVE's het
+   dit moontlik gemaak om betroubare SVE's op een of verskeie gedrukte
+   stroombaanborde met diskrete komponente daarop te bou. Die volgende
+   groot ontwikkeling was die geïntegreerde stroombaan wat dit moontlik
+   gemaak het om 'n groot aantal transistors op 'n enkele halfgeleier
+   gebaseerde skyf te vervaardig. Eers was dit slegs moontlik om baie
+   basiese nie-gespesialiseerde digitale stroombane soos NOF-hekke te
+   vervaardig. SVE's wat uit sulke boublokke saamgestel was, word na
+   verwys as kleinskaalse integrasietoestelle. Kleinskaalse geïntegreerde
+   stroombane soos dié wat in die Apollo begeleidingsrekenaars gebruik is,
+   het bestaan uit resistors wat in meervoude van tien getel kon word. Om
+   'n volle SVE uit kleinskaal geïntegreerde stroombane te bou het steeds
+   duisende indiwiduele skyfies geverg maar was nogtans 'n groot sprong bo
+   die transistor gebaseerde SVE's in terme van die kragverbruik en
+   spasieverbruik. Tegnologiese vordering in die vervaardiging van
+   geïntegreerde stroombane het daartoe gelei dat honderde en later
+   duisende transistors (Mediumskaal- en grootskaalse integrasie) op 'n
+   enkele silikonskyf geplaas kon word en meegebring dat die aantal
+   geïntegreerde stroombane (GS) wat benodig was om 'n SVE te bou
+   verminder kon word. In 1964 het IBM hulle System/360
+   rekenaarargitektuur bekendgestel wat in 'n reeks rekenaars gebruik is
+   wat dieselfde programme met verskillende snelheid en verrigting kon
+   uitvoer. Dit was 'n betekenisvolle stap op daardie tydstip toe die
+   meeste elektroniese rekenaars nie met mekaar versoenbaar was nie, selfs
+   al is hulle deur dieselfde vervaardiger gebou. Om hierdie verbetering
+   moontlik te maak het IBM die konsep van 'n mikroprogram gebruik, wat
+   steeds in moderne SVE's gebruik word. Die System/360 argitektuur was so
+   gewild dat die die hoofraamrekenaarmark vir die daaropvolgende dekades
+   gedomineer het en 'n nalatenskap daargelaat wat voortgesit is in
+   soortgelyke moderne rekenaars soos die IBM zSeries.
+
+   In daardie selfde jaar (1964) het Digital Equipment Corporation (DEC)
+   'n ander invloedryke rekenaar bekendgestel wat gemik was op die
+   wetenskaplike en navorsingsmarkte, naamlik die PDP-8. DEC sou later die
+   baie gewilde PDP-11 reeks bekendstel wat aanvanklik gebou is met behulp
+   van Kleinskaalintegrasie Geïntegreerde stroombane maar toe later met
+   Grootskaalse integrasie stroombane gebou is toe dit beskikbaar geword
+   het. In skrille kontras met sy Kleinskaalse- en Mediumskaalse
+   ingegrasie voorgangers, het die eerste Grootskaalse integrasie weergawe
+   van die PDP-11 'n SVE bevat wat slegs uit vier geïntegreerde stroombane
+   (GIS) bestaan het.
+
+   Transistorgebaseerde rekenaars het verskeie beduinde voordele bo hul
+   voorgangers gehad. Buiten dat hulle verhoogde betroubaarheid en laer
+   kragverbruik in die hand gewerk het, het transistors dit ook vir SVE's
+   moontlik gemaak om teen baie hoër snelhede te werk vanweë die korter
+   skakeltyd van 'n transistor vergeleke met 'n buis of relê. Danksy die
+   verhoogde betroubaarheid en die dramatiese verhoogde snelheid van die
+   skakelelemente, is SVE's kloksnelhede van etlike tien megahertz in die
+   tydperk verkry. Terwyl diskrete transistor en GIS SVE's al meer
+   alledaags geword het, het nuwe hoë werkverrigtingontwerpe soos
+   Enkelinstruksie Veelvuldige Data vektorverwerkers ook hul verskyning
+   begin maak. Hierdie vroeëre eksperimentele ontwerpe het later gelei tot
+   die era van gespesialiseerde superrekenaars soos dié wat deur Cray Inc.
+   vervaardig word.
+
+[wysig] Mikroverwerkers
+
+   Die Intel 80486DX2 mikroverwerker (werklike grootte: 12×6.75 mm) in sy
+   verpakking
+   Die Intel 80486DX2 mikroverwerker (werklike grootte: 12×6.75 mm) in sy
+   verpakking
+
+   Die bekendstelling van die mikroverwerker in die 1970's het die ontwerp
+   van SVE's beduidend beïnvloed. Sedert die bekendstelling van die eerste
+   mikroverwerker (die Intel 4004) in 1970 en die eerste algemeen
+   gebruikte mikroverwerker (die Intel 8080) in 1974, het hierdie klas
+   SVE's bykans alle implementerings van verwerkingseenhede vervang.
+
+   Die bekendstelling van die mikroverwerker in die 1970's het die ontwerp
+   van SVE's beduidend beïnvloed. Sedert die bekendstelling van die eerste
+   mikroverwerker (die Intel 4004) in 1970 en die eerste algemeen
+   gebruikte mikroverwerker (die Intel 8080) in 1974, het hierdie klas
+   SVE's bykans alle implementerings van verwerkingseenhede vervang. Soos
+   die vermoë om al hoe kleiner transistors op GIS'e te bou het die
+   kompleksiteit en aantal transistors op 'n enkele SVE dramaties
+   toegeneem. Hierdie waargenome neiging staan alom bekend as Moore se
+   wet, wat tot op datum 'n akkurate vooruitskatting was vir die groeiende
+   vermoëns van SVE's (en ander GIS'e).
+
+   Terwyl die kompleksiteit, grootte, bou en algemene vorm van SVE's
+   drasties verander het oor die afgelope sestig jaar, is dit interresant
+   dat die basiese ontwerp en funksie nie veel verander het nie. Bykans
+   alle algemene SVE's van vandag kan baie noukeurig as Von Neumann
+   gestoorde program masjiene beskryf word.
+   Kategorie: Rekenaar
+

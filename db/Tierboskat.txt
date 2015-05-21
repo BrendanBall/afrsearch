@@ -1,0 +1,107 @@
+Tierboskat
+
+
+                  Tierboskat
+   Bedreigingstatus: Veilig^[1]
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Felidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Leptailurus
+                   Severtzov, 1858
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     L. serval
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                Binomiale naam
+              Leptailurus serval
+   (Schreber, 1776)
+               Trinomiale naam
+               {{{trinomial}}}
+                 Tipe Spesies
+              {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die tierboskat
+   Verspreiding van die tierboskat
+                  Sinonieme
+
+                                Felis serval
+
+   Die tierboskat (Leptailurus serval) is 'n medium-grootte wildekat wat
+   in Afrika voorkom.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Dieet
+        * 4 Voortplanting
+             + 4.1 Bronnelys en verwysings
+
+[wysig] Identifikasie
+
+   'n Volwasse tierboskat het 'n gemiddelde hoogte van 50 cm en 'n lengte
+   van ongeveer 130 cm, insluitende sy stert, wat ongeveer 40 cm lank kan
+   wees. Die tierboskat is 'n slank en langbenige kat, met 'n kort stert.
+   Hy het 'n klein kop met groot, ovaal ore, wat naby aan mekaar geleë is.
+   Sy lyf is versier met kolle op 'n dof-bruin pels; die kolle verander in
+   strepe op sy rug en bene.
+
+[wysig] Habitat
+
+   Die tierboskat word hoofsaaklik in grasvelde aangetref, alhoewel daar
+   ook melanistiese diere voorkom wat meer dikwels in bergagtige gebied
+   voorkom. Tierboskatte benodig water en woon dus nie in semi-woestyne of
+   droë steppes nie.
+
+[wysig] Dieet
+
+   Tierboskatte is karnivore wat gewoonlik klein soogdiere en voëls eet,
+   maar hulle eet ook dikwels insekte (onder andere kewers).
+
+[wysig] Voortplanting
+
+   'n Wyfie se werpsel bestaan gewoonlik uit ±3 kleintjies.
+
+[wysig] Bronnelys en verwysings
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+    1. ^ Cat Specialist Group (2002). Leptailurus serval. 2006 IUCN Red
+       List of Threatened Species. IUCN 2006. Verkry op 29 Februarie 2007.
+
+   Kategorie: Katagtiges
+

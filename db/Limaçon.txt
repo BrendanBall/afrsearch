@@ -1,0 +1,33 @@
+Limaçon
+
+
+   Limaçon in blou met a = 150, b = 150 en h = 100. Die geel sirkel rol
+   sonder om te gly om die pienk sirkel en trek die blou Limaçon af op die
+   punt van die groen straal uit die middelpunt van die geel sirkel
+   Limaçon in blou met a = 150, b = 150 en h = 100. Die geel sirkel rol
+   sonder om te gly om die pienk sirkel en trek die blou Limaçon af op die
+   punt van die groen straal uit die middelpunt van die geel sirkel
+
+   In wiskunde is limaçons (uitgespreek met 'n sagte c), ook bekend as
+   limaçons van Pascal, hartvormige wiskundige kurwes. Die kardioïed is 'n
+   spesiale geval, met 'n skerp punt of spits.
+
+   Hulle kom voor in polêre koördinate in die vorm
+
+          r = a + b \sin \theta \
+
+   en
+
+          r = a + b \cos \theta \
+
+   Die term is afkomstig van die Latynse woord limax wat "slak" beteken.
+
+[wysig] Geskiedenis
+
+   Formele navorsing oor limaçons word toegeskryf aan Étienne Pascal,
+   vader van Blaise Pascal. Ondersoeke is egter reeds vroër deur die
+   Duitse Renaissance kunstenaar, Albrecht Dürer begin. Dürer se
+   Underweysung der Messung (Instruction in Measurement), bevat spesifieke
+   meetkundige metodes vir die teken van limaçons.
+   Kategorie: Krommes
+

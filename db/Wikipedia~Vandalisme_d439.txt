@@ -1,0 +1,80 @@
+Wikipedia:Vandalisme
+
+
+   Vandalisme is die toevoeging, verwydering of verandering van
+   artikelinhoud wat met opset gedoen word om die integriteit en
+   akkuraatheid van Wikipedia te skaad.
+
+   Die algemeenste vorm van vandalisme is die byvoeging van kru of vulgêre
+   taal, die verwydering van die artikel se inhoud of enige toevoeging tot
+   'n artikel wat blote nonsens is. Gelukkig word hierdie soort vandalisme
+   maklik raakgesien en is dit eenvoudig om te verwyder.
+
+   Enige goed-bedoelde poging om die ensiklopedie te verbeter, selfs al is
+   dit goed deurdink, is nie vandalisme nie: wanneer iemand sy eie
+   persoonlike en subjektiewe opinie by 'n artikel voeg is dit nie
+   vandalisme nie. Dit is bloot onbehulpsaam en moet verwyder of
+   herbewoord word.
+
+   Blatante vandalisme is egter 'n oortreding van die Wikipedia se beleid:
+   sodra die vandalisme raakgesien is moet dit verwyder word, of, as u dit
+   nie self kan doen nie, kan een van die administrateurs gekontak word
+   vir hulp.
+
+   Nie alle vandalisme is voor-die-hand-liggend nie, ook is nie alle
+   massiewe of kontroversiële veranderings vandalisme nie. Daar moet
+   aandag gegee word om seker te maak of veranderings voordelig, nadelig
+   (maar goed-bedoeld), of blatante vandalisme is.
+
+[wysig] Verwydering van vandalisme
+
+   Dit word in alle gevalle aangeraai om verskillende weergawes van 'n
+   artikel te vergelyk, sodat daar gesien kan word of die vandalisme slegs
+   bygevoeg is en of daar miskien ook inligting uit die artikel verwyder
+   is. Bo-aan die artikel kan u kliek op "geskiedenis" (regs van "wysig")
+   en sodoende die redigeringsgeskiedenis van 'n artikel besigtig. Die
+   weergawes word van die nuutste tot die oudste gelys, met die tyd en
+   datum van elke wysiging asook die naam van die gebruiker wat die
+   artikel telkens gewysig het. (Soms is dit 'n anonieme gebruiker en sal
+   daar slegs 'n IP-adres wys.)
+
+   U kan die nuutste weergawe (die weergawe wat die vandalisme bevat) met
+   'n ouer weergawe vergelyk deur die nuutste weergawe te kies (kliek in
+   die kolletjie links van die tydstempel) asook 'n ouer weergawe,
+   gewoonlik dié direk onder die huidge wysiging. Kliek dan op "Vergelyk
+   gekose weergawes" en die twee weergawes sal langs mekaar geplaas word
+   vir vergelyking (let op die tyd en datumstempels bo-aan elke weergawe,
+   die nuwer weergawe is telkens aan die regterkant). Enige data wat
+   gewysig is sal rooi vertoon soos u hier kan sien. Om die artikel terug
+   te rol na die vorige wysiging, hoef u slegs op undo langs die tyd- en
+   datumstempel van die huidige wysiging te kliek. Dit sal 'n
+   redigeringsvenster oopmaak wat die inhoud reeds na die vorige wysiging
+   teruggerol het en het ook reeds 'n opsomming daarvan in die
+   redigeringsopsomming geplaas. U kan u rede vir die terugrolling daar
+   byvoeg en dan op "Stoor bladsy" kliek.
+
+[wysig] Waarskuwings
+
+   U kan ook 'n waarskuwing op die vandalis se gebruikersblad plaas: waak
+   egter daarteen om summier na hom of haar as 'n vandalis te verwys, die
+   moontlikheid bestaan dat die wysings goedertrou gemaak is en die
+   gebruiker nie besef het dat dit as vandalisme beskou sal word nie. Laat
+   'n vriendelike dog ernstige boodskap waarin u u besware omtrent die
+   gebruiker se wysigings opper en lig hom of haar in dat u die wysigings
+   verwyder het. U kan die gebruiker ook na die
+   Wikipedia:Gebruikersportaal verwys, waar daar skakels na die sandput en
+   die beleid van die Afrikaanse Wikipedia is. Indien die vandalisme
+   blatant gedoen word, plaas die sjabloon {{subst:bv}} ~~~~ op die
+   gebruiker se besprekingsbladsy. Om 'n skakel na die gevandaliseerde
+   artikel by te voeg, plaas {{subst:bv|Artikelnaam}} ~~~~ op die
+   gebruiker se bladsy.
+
+   Wanneer 'n anonieme gebruiker, m.a.w. 'n IP-adres, 'n bladsy
+   vandaliseer, is dit raadsaam om die sjabloon {{subst:waarskuwing}} ~~~~
+   by dié adres se besprekingsblad te voeg, asook die skakel (moontlik 'n
+   permanente een of een wat die gewysigde inligting uitlig) onderaan,
+   sodat daar gemerk kan word wanneer 'n IP-adres meer as een keer die
+   bron van vandalisme is. As 'n anonieme gebruiker, aanhou om 'n artikel
+   of artikels te vandaliseer kan u dit aan een van die administrateurs
+   rapporteer, sodat die adres geblokkeer kan word.
+

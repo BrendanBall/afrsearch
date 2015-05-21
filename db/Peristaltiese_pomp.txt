@@ -1,0 +1,78 @@
+Peristaltiese pomp
+
+
+   'n Lineêre peristaltiese pomp
+   'n Lineêre peristaltiese pomp
+   'n Lineêre peristaltiese pomp
+   'n Lineêre peristaltiese pomp
+
+   'n Peristaltiese pomp is 'n soort positiewe verplasingspomp wat vir die
+   pomp van 'n verskeidenheid vloeistowwe gebruik word. Die vloeistof word
+   binne 'n buigbare buis binne in 'n normaalweg ronde (lineêre pompe is
+   egter ook al gebou) pomphulsel gehou. 'n Rotor met 'n aantal nokke op
+   die omtrek daarvan pers die buis saam. Soos die rotor draai, word die
+   deel van die buis onder die nok toegedruk en forseer die vloeistof om
+   in die buis af te beweeg soos die nok in die rigting van die
+   vloeibeweging draai. Verder keer die buis terug na sy oorspronklike
+   toestand wanneer die nok daarby verbybeweeg het. Die proses word
+   peristalsis genoem en kom ook in biologiese stelsels voor soos onder
+   andere die slukderm.
+
+   Peristaltiese pompe word tipies aangewend om skoon of steriele
+   vloeistowwe te pomp omdat die pomp nie die vloeistof kan kontamineer
+   nie, of andersins om korrosiewe vloeistowwe te pomp omdat die vloeistof
+   nie in kontak met die pompmateriaal (buiten die buis self) kom nie.
+   Algemene toepassings van hierdie tipe pomp sluit die pomp van
+   korrosiewe chemikalieë, flodder met 'n hoë vastestoflading en ander
+   materiale waar dit belangrik is om die produk van die omgewing te
+   isoleer of dan andersom.
+
+   Hoë druk peristaltiese pompe wat teen drukke van soveel as 16 bar kan
+   bedryf, het tipies skoene en hulsels wat met smeermiddel gevul om te
+   voorkom dat die buis van die pomp verweer en om hitte te verwyder. Lae
+   druk peristaltiese pompe het tipies droë hulsels en gebruik rollers.
+   Hoë druk peristaltiese pompe gebruik gewoonlik versterkte buise. Lae
+   druk pompe aan die ander kant gebruik onversterkte buise en word ook
+   soms na verwys as buispompe.
+
+   Aangesien die enigste deel van die pomp wat in kontak met die vloeier
+   is, die binnekant van die buis is, is dit baie maklik om die binneste
+   oppervlak van die pomp skoon te maak en te steriliseer. Verder omdat
+   geeneen van die bewegende dele met die vloeier kontak maak nie, is
+   peristaltiese pompe ook goedkoop om te vervaardig. Die gebrek aan
+   kleppe, seëls en pakstukke (drukstukke) maak ook dat die onderhoud van
+   hierdie pomp relatief goedkoop is wanneer dit met ander pompsoorte
+   vergelyk word.
+
+   Inhoud
+
+        * 1 Sien ook
+        * 2 Tipiese aanwendings
+        * 3 Verwysings
+        * 4 Eksterne Skakels
+
+[wysig] Sien ook
+
+     * Sentrifugale Pomp
+     * Resiprokerende pompe
+     * Dompelpomp
+     * Borrelpomp
+
+[wysig] Tipiese aanwendings
+
+     * Dialise masjiene
+     * Voedselvervaardiging
+     * Masjiene wat drankies afmeet
+     * Farmaseutiese vervaardiging
+     * Rioolflodder (slyk)
+     * Fontein- en watervalversierings
+
+[wysig] Verwysings
+
+   Artikel in engelstalige wikipedia
+
+[wysig] Eksterne Skakels
+
+   'n Groot vervaardiger van hierdie soort pomp.
+   Kategorieë: Meganiese toestelle • Pompe
+

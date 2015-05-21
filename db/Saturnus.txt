@@ -1,0 +1,643 @@
+Saturnus
+
+
+   CAPTION: Saturnus    Astronomical symbol for Saturn
+
+                  The planet Saturn
+   Saturnus, soos deur Voyager 2 gesien
+                 Wentelbaaneienskappe
+                    Epoch J2000.0
+      Aphelium afstand:    1 503 983 449 km
+                           10.053 508 40 AE
+     Perihelium afstand:   1 349 467 375 km
+                           9.020 632 24 AE
+     Wentelbaan omtrek:    8.958 Tm
+                           59.879 AE
+       Eksentrisiteit:     0.054 150 60
+       Wentelperiode:      29 jaar, 167 dae, 6.7 uur
+     Sideriese periode:    10 756,1995 dae
+                           (29,46 jare)
+     Sinodiese periode:    378,10 dae
+   Gem. omwentelingspoed:  9,639 km/s
+   Maks. omwentelingspoed: 10,183 km/s
+   Min. omwentelingspoed:  9,137 km/s
+   Natuurlike satelliete:  56 bevestig^[1]
+                  Fisiese eienskappe
+   Radius by die ewenaar:  60 268 km
+                           (9,4492 Aardes)
+     Radius na die pole:   54 364 km
+                           (8,5521 Aardes)
+        Oppervlakte:       4,27×10x10 km²
+                           (83.703 Aardes)
+           Volume:         8,27×10x14 km³
+                           (763 Aardes)
+           Massa:          5,6846×10x26 kg
+                           (95,152 Aardes)
+       Gem. digtheid:      0,6873 g/cm³
+                           (minder as water)
+         Oppervlak-
+   aantrekkingskrag:       8,96 m/s²
+                           (0,914 g)
+                           (by die ewenaar)
+        Ontsnappings-
+   snelheid:               35,49 km/s
+          Sideriese
+   rotasieperiode:         0,449 375 dae
+                           (10 h 47 min 6 s)
+        Rotasiespoed
+   by ewenaar:             9,87 km/s = 35 500 km/h
+                           (by die ewenaar)
+      Aksiale neiging:     26.73°
+    Weerkaatsingsvermoë:   0.47
+      Oppervlak temp.:
+      Oppervlakte
+      Wolke
+                           min  gem.  maks
+                           82 K 143 K (Geen)
+                                93 K
+                      Atmosfeer
+      Oppervlaksdrukte:    140 kPa
+        Samestelling:      Waterstof >93%
+
+                           Helium > 5%
+                           Metaan = 0.2%
+                           Waterdamp = 0.1%
+                           Ammoniak = 0.01%
+                           Etaan = 0.0005%
+                           Fosfien = 0.0001%
+
+          Hierdie artikel handel oor die planeet, Saturnus. Vir die
+          artikel oor die Romeinse god, sien gerus Saturnus (mitologie).
+
+   Saturnus is die sesde planeet van die Son af. Dit is 'n gasreus en die
+   tweede grootste planeet in die sonnestelsel na Jupiter. Die planeet is
+   vernoem na die Romeinse god Saturnus en sy simbool is 'n gestileerde
+   weergawe van Saturnus se sekel (♄). ^[2]
+
+   Saturnus het 'n kenmerkende ringstelsel wat hoofsaaklik bestaan uit
+   ysdeeltjies, klipperige afval en stof. Die planeet het ten minste 60
+   mane^[3], waarvan Titan die grootste is.
+
+   Die samestelling van Saturnus bestaan hoofsaaklik uit waterstof, met
+   klein proporsies helium en spore van ander elemente. Inwendig bestaan
+   die planeet uit 'n klein kern van rots en ys wat deur 'n dik laag
+   waterstof en 'n gas-agtige buitelaag omhul word. Die spoed van wind kan
+   op Saturnus tot 1800km/h bereik, wat besonders vinniger is as die spoed
+   van wind op Jupiter. Saturnus het ook 'n planetêre magnetiese veld, die
+   sterkte van dié veld lê tussenin die sterkte van die aarde se
+   magnetiese veld en die kragtiger veld om Jupiter.
+
+   Inhoud
+
+        * 1 Fisiese eienskappe
+             + 1.1 Samestelling
+             + 1.2 Interne struktuur
+             + 1.3 Atmosfeer
+        * 2 Omwenteling
+        * 3 Saturnus se ringe
+             + 3.1 Geskiedenis
+             + 3.2 Fisiese Eienskappe
+             + 3.3 Die ringe se speke
+        * 4 Saturnus se mane
+        * 5 Verkenning van Saturnus
+             + 5.1 Pioneer 11
+             + 5.2 Voyager
+             + 5.3 Cassini
+        * 6 Besigtiging
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Fisiese eienskappe
+
+   Saturnus is 'n afgeplatte sferoïde, dit wil sê hy is sigbaar afgeplat
+   by die pole en bult uit by die ewenaar. Die planeet se ewenaardeursnit
+   en pooldeursnit verskil amper 10% (120 536 km in teenstelling met
+   108 728 km). Dit is as gevolg van sy uiters vinnige omwentelingspoed en
+   die vloeistof-toestand van die planeet. Die ander planete is ook
+   afgeplat, maar nie so erg soos Saturnus nie. Saturnus het ook die
+   laagste digtheid van al die planete in die sonnestelsel, met 'n
+   gemiddelde digtheid van 0,69, wat heelwat laer is as water. Dit is
+   egter slegs die gemiddelde waarde: Saturnus se kern is heelwat digter
+   as water, maar die boonste atmosfeer is so gasserig dat dit die
+   gemiddeld merkwaardig afbring.
+   Saturnus se hitte uitstralings. Die prominente warm kol op die
+   onderkant van die beeld is Saturnus se Suidpool.
+   Saturnus se hitte uitstralings. Die prominente warm kol op die
+   onderkant van die beeld is Saturnus se Suidpool.
+
+[wysig] Samestelling
+
+   Saturnus se buitenste atmosfeer bestaan uit 93,2% molekulêre waterstof
+   en 6,7% helium. Spore van ammoniak, asetaleen, etaan en metaan is ook
+   bespeur.^[4] Die boonste wolke op die planeet bestaan uit
+   ammoniakkristalle, terwyl dit blyk asof die laer wolke bestaan uit
+   ammoniumhidrosulfied (NH[4]) of water.^[5]
+
+[wysig] Interne struktuur
+
+   Saturnus is inwendig soortgelyk aan Jupiter, met 'n rotsagtige kern in
+   die middel wat omhul word deur 'n vloeibare metaliese waterstoflaag wat
+   weer deur 'n molekulêre waterstoflaag omhul word. Spore van verskeie
+   ysse is ook teenwoordig. Die binneste deel van Saturnus is baie warm
+   met 'n kern wat oor die 12 000 kelvins (11 700 °C) meet; die planeet
+   gee ook meer hitte af as wat hy van die Son ontvang. Die meeste ekstra
+   energie word deur die Kelvin-Helmholtz-meganisme (stadige swaartekrag
+   saampersing) opgewek, maar dit is moontlik dat dit nie genoeg is om
+   Saturnus se hitte produksie te verduidelik nie. 'n Addisionele
+   meganisme wat moontlik gebruik word is die "reën" van heliumdruppels
+   diep binne-in Saturnus: daar word geglo dat sulke heliumdruppels, deur
+   middel van wrywing, hitte af sal gee soos hulle deur die ligter
+   waterstof val.
+
+[wysig] Atmosfeer
+
+   Saturnus se atmosfeer het 'n kenmerkende ringpatroon wat sterk aan
+   Jupiter s'n herinner, maar Saturnus se ringe is vaer en baie wyer naby
+   aan die ewenaar. Saturnus se winde is van die vinnigste in die
+   sonnestelsel. Voyager se data wys op Oostelike winde met 'n maksimum
+   spoed van 500 m/s.^[6] Saturnus se meer delikate wolkpatrone was nie
+   waargeneem tot en met Voyager se besoek nie. Sedertdien het tegnologie
+   egter so gevorder dat daar tans normale waarnemings vanaf die aarde
+   gemaak kan word.
+   Die blou Noordelike halfrondte
+   Die blou Noordelike halfrondte
+
+   Saturnus se redelik eentonige atmosfeer vertoon soms langdurige ovale
+   en ander verskynsels wat algemeen op Jupiter is. In 1990 het die
+   Hubble-ruimteteleskoop 'n enorme wit wolk naby Saturnus se ewenaar
+   waargeneem wat nie daar was met Voyager se besoeke nie en in 1994 was
+   'n ander, kleiner storm waargeneem. Die 1990 storm was 'n voorbeeld van
+   'n Groot Wit Vlek, 'n unieke, maar kort Saturniese gebeurtenis wat
+   ongeveer elke 30 jaar tevoorskyn kom. Vorige vlekke was waargeneem in
+   1876, 1903, 1933, 1960, en 1990: die 1933-storm is die bekendste. As
+   die storm aanhou om die patroon te volg behoort die volgende vlek in
+   ongeveer 2020 verskyn.^[7]
+
+   In onlangse beelde van die Cassini-ruimtetuig blyk dit dat Saturnus se
+   Noordelike halfrondte helder blou voorkom (soortgelyk aan Uranus). Die
+   blou kleur kan nie tans van die aarde af waargeneem word nie, aangesien
+   Saturnus se ringe op die oomblik ons uitsig oor die Noordelike
+   halfrondte blokkeer. Die blou kleur is waarskynlik as gevolg van
+   Rayleigh-verstrooiing.
+   Noordpoolse heksagoniese wolkpatroon, ontdek deur Voyager 1 en bevestig
+   in 2006 deur Cassini. [1] [2]
+   Noordpoolse heksagoniese wolkpatroon, ontdek deur Voyager 1 en bevestig
+   in 2006 deur Cassini. [1] [2]
+
+   Sterrekundiges het deur middel van infrarooi-fotografie gewys dat
+   Saturnus 'n warm poolse maalstroom het, sover is hy ook die enigste
+   planeet in die sonnestelsel met die verskynsel.
+   Die oog van die storm by Saturnus se Suidpool
+   Die oog van die storm by Saturnus se Suidpool
+
+   'n Skynbaar permanente heksagoniese golfpatroon is om die Noordelike
+   poolse maalstroom in die atmosfeer by ongeveer 78°N is vir die eerste
+   keer in die Voyager-beelde waargeneem en deur Cassini bevestig.^[8]^[9]
+   Beelde van die Hubble-ruimteteleskoop dui op die teenwoordigheid van 'n
+   straalstroom aan, maar geen sterk Suidelike poolse maalstroom of enige
+   heksagoniese golfpatroon nie.^[10] NASA het egter in November van 2006
+   gerapporteer dat die Cassini-ruimtetuig 'n 'orkaanagtige' storm by die
+   Suidpool waargeneem het en wat 'n duidelik gedefinieërde oog in die
+   wolke gehad het. Die waarneming is van belang omdat sulke oë in
+   stormwolke nog op geen ander planeet behalwe die aarde opgemerk is nie.
+   (Die Galileo-ruimtetuig het geen oog in Jupiter se Groot Rooi Vlek kon
+   waarneem nie.)^[11]
+
+[wysig] Omwenteling
+
+   Saturnus beweeg nie teen 'n eenvormige spoed om sy eie as nie, dus is
+   daar meerdere omwentelingsperiodes aan hom toegewys (wat ook dieselfde
+   geval met Jupiter is). Stelsel I het 'n periode van 10 uur, 14 minute
+   en 0 sekondes (844.3°/d) en bevat die Ekwatoriale omgewing vanaf die
+   Noorderlike punt van die Suid-Ekwatoriale gordel en die Suiderlike punt
+   van die Noord-Ekwatoriale gordel. Alle ander Saturniese breedtegrade is
+   'n omwentelingsperiode van 10 uur, 39 minute en 24 sekondes (810.76°/d)
+   toegewys, ook bekend as Stelsel II. Stelsel III word gebaseer op die
+   radio uistralings van die planeet en het 'n periode van 10 uur, 39
+   minute en 22.4 sekondes (810.8°/d); aangesien die verwantskap tussen
+   hierdie stelsel en Stelsel II so nou is, het Stelsel III Stelsel II
+   grotendeels vervang.
+
+   Terwyl die Cassini-ruimtetuig Saturnus in 2004 benader het, het dit 'n
+   geringe versnelling in die radio-omwentelingsperiode van Saturnus
+   waargeneem; die nuwe tydsduur was 10 uur, 45 minute en 45 sekonds (± 36
+   sekondes).^[12] Die oorsaak van die versnelling is onbekend, alhoewel
+   daar gespekuleer word dat dit as gevolg van die beweging van die radio
+   bron na 'n ander breedtegraad binne-in Saturnus kan wees; met as gevolg
+   'n verskillende omwentelingsperiode, eerder as 'n verskil in die
+   omwenteling self.
+
+[wysig] Saturnus se ringe
+
+   Saturnus is seker een van die merkwaardigste planete in die
+   sonnestelsel te danke aan sy bekende stelsel ringe wat om die planeet
+   draai.
+
+[wysig] Geskiedenis
+
+   Sketse van Saturnus deur Galileo Galilei in 1610 en 1616
+   Sketse van Saturnus deur Galileo Galilei in 1610 en 1616
+   Skets van Saturnus deur Christiaan Huygens in 1655
+   Skets van Saturnus deur Christiaan Huygens in 1655
+
+   Hierdie ringe is die eerste keer waargeneem deur Galileo Galilei in
+   1610 met sy teleskoop, maar hy het hulle nie as sulks kon identifiseer
+   nie. Hy het aan die Hertog van Toskane geskryf "Die planeet Saturnus is
+   nie alleen nie, maar bestaan uit drie, wat amper aan mekaar raak, maar
+   nooit beweeg of uit verhouding gaan nie. Hulle is in 'n lyn parallel
+   met die diereriem geleë en die middel een (Saturnus self) is omtrent
+   drie keer die grootte van die sy planete [die ringe]." Hy het ook
+   daarna verwys as Saturnus se "ore". In 1612, as gevolg van die
+   omwenteling van die planeet en sy ringe was die vlak ringe direk na die
+   Aarde geörienteer en het dit gelyk asof hulle verdwyn het. In 1613 het
+   hulle weer verskyn, tot die konsternasie van Galileo.^[13]
+
+   In 1655 word Christiaan Huygens die eerste persoon om voor te stel dat
+   Saturnus deur 'n ring omring word. Deur middel van 'n teleskoop wat
+   meer gevorderd was as die tot Galileo se beskikking, het Huygens
+   Saturnus kon bestudeer en het waargeneem dat "Dit [Saturnus] is omring
+   deur 'n dun, plat ring, wat niks aanraak nie en 'n neiging na die
+   elliptiese het."^[14]
+
+   In 1675 het Giovanni Domenico Cassini vasgestel dat Saturnus se ring
+   eintlik uit 'n aantal kleiner ringe bestaan en dat daar spasies tussen
+   die ringe is. Die grootste van hierdie spasie was later die
+   Cassini-divisie genoem.
+
+   In 1859 het James Clerk Maxwell gedemonstreer dat die ringe nie solied
+   kan wees nie, anders sou hulle onstabiel word en breek. Hy het
+   voorgestel dat die ringe uit kleiner deeltjies saamgestel is wat saam
+   om Saturnus wentel.^[15] Maxwell se teorie was in 1895 as korrek bewys
+   deur spektroskopiese bestuderings van die ringe deur James Keeler van
+   die Lick-observatorium in Kalifornië.
+
+[wysig] Fisiese Eienskappe
+
+   Saturnus se ringe, soos afgeneem deur Cassini in 2007.
+   Saturnus se ringe, soos afgeneem deur Cassini in 2007.
+
+   Saturnus se ringe kan met behulp van 'n klein moderne teleskoop of
+   selfs net 'n goeie verkyker waargeneem word. Hulle strek van 6 630 km
+   tot 120 700 km bo Saturnus se ewenaar met 'n algemene gemiddelde dikte
+   van een kilometer en is saamgestel uit silikarots, ysteroksied en
+   ysdeeltjies wat wissel in grootte van so groot soos 'n stofdeeltjie tot
+   die grootte van 'n motorkar. Daar is twee hoofteorieë aangaande die
+   ontstaan van Saturnus se ringe. Een teorie, wat oorspronlike deur
+   Édouard Roche in die 19de eeu voorgestel is, beweer dat die ringe
+   oorblyfsels is van een van Saturnus se mane wie se wentelbaan so
+   verswak het dat dit deur trekkragte uiteen geskeur is (sien Roche
+   limiet). 'n Variasie van hierdie teorie stel voor dat die maan deur 'n
+   groot komeet of asteroïde getref is en toe uiteen gespat het. Die
+   tweede teorie beweer dat die ringe nooit deel van 'n maan was nie, maar
+   eerder die oorblyfsels van die oorspronklike nebulase materiaal waaruit
+   Saturnus ontstaan het. Die teorie is tans nie meer gewild nie - daar
+   word geglo dat Saturnus se ringe oor 'n tydperk van miljoene jare
+   onstabiel is en bly verander en dus onlangs ontstaan het.
+   'n Foto van Saturnus se F-ring, geneem deur Voyager in 1980
+   'n Foto van Saturnus se F-ring, geneem deur Voyager in 1980
+   'n Ander aansig van die F-ring
+   'n Ander aansig van die F-ring
+
+   Die grootste gaping tussen Saturnus se ringe, soos die Cassini-divisie
+   en die Encke-divisie, kan van die Aarde af gesien word. Die
+   Voyager-ruimtetuie het egter ontdek dat daar 'n ingewikkelde stelsel
+   van duisend klein gapings en klein ringe is. Daar word gespekuleer dat
+   die stelsel die gevolg van die swaartekragsaantrekkings van Saturnus se
+   baie mane is. Sommige van die gapings het hul ontstaan te danke aan die
+   wentelbane van klein mane (waarvan baie nog nie ontdek is nie), soos
+   Pan, en sommige ringe blyk instand gehou te word deur klein skaapwagter
+   satelliete soos Prometheus en Pandora. Ander gapings ontstaan as gevolg
+   van die resonansie tussen die wentelperiode van klein deeltjies in die
+   gaping en dié van 'n groter maan wat verder weg is. Mimas hou die
+   Cassini-divisie op so 'n manier in stand. Ander strukture in die ringe
+   bestaan uit spiraalgolwe wat deur die mane se tydelike swaartekrag
+   onrus-periodes veroorsaak word.
+
+   Data van die Cassini-ruimtesonde het aangedui dat Saturnus se ringe
+   hulle eie atmosfeer besit, onafhanklik van die planeet se atmosfeer.
+   Die ringe se atmosfeer bestaan uit molekulêre suurstofgas (O[2]) wat
+   ontstaan wanneer die ultraviolet-strale van die Son die water-ys in die
+   ringe uiteen laat val. Chemiese reaksies tussen die watermolekule
+   fragmente en verder ultraviolet stimulasie skep en stel onder andere
+   O[2] vry. Volgens modelle van hierdie atmosfeer is H[2] ook
+   teenwoordig. Die O[2] en H[2] atmosfere is egter so dun verspreid dat
+   as die hele atmosfeer op 'n manier op die ringe gekondenseer word, sou
+   dit ongeveer een atoom dik wees.^[16] Die ringe het ook 'n dun
+   verspreide OH (hidroksied) atmosfeer. Soos in die geval van die O[2]
+   onstsaan hierdie atmosfeer ook deur die uiteenbreking van
+   watermolekules, maar in die geval word die uiteenbreking veroorsaak
+   deur energieke ione wat bots teen watermolekules wat deur Saturnus se
+   maan Enceladus uitgewerp word. Alhoewel hierdie atmosfeer so dun
+   verspreid is, was dit ontdek deur die Hubble ruimteteleskoop van die
+   Aarde af.^[17]
+
+   Saturnus bevat gekompliseerde patrone aangaande sy helderheid. Meeste
+   van die variëring is danksy die veranderende aspekte van die ringe -
+   dit wil sê hul posisie ten opsigte van die aarde. Die aspekte ondergaan
+   twee siklusse per omwenteling. Daar moet egter ook rekening gehou word
+   met die planeet se eksentrisiteit aangaande sy omwenteling, wat beteken
+   dat die planeet nie altyd dieselfde hoeveelheid lig van die Son af kry
+   nie en dus vervolgens nie altyd dieselfde hoeveelheid lig kan
+   reflekteer nie.^[18]
+
+   In 1980 het Voyager I verby Saturnus gevlieg en ontdek dat die F-ring
+   (die buitenste ring) saamgestel is van drie nou ringe wat lyk asof dit
+   volgens 'n ingewikkelde struktuur gevleg is. Dit is tans bekend dat die
+   twee buitenste ringe (van die drie) bestaan uit knoppe, knikke en
+   klonte wat die illusie van 'n vlegsel skep, terwyl die middelste vaer
+   ring binne die twee lê.
+
+[wysig] Die ringe se speke
+
+   Speke in die B-ring, soos afgeneem deur Voyager 2 in 1981.
+   Speke in die B-ring, soos afgeneem deur Voyager 2 in 1981.
+
+   Tot en met 1980 was die struktuur van Saturnus se ringe eksklusief
+   verduidelik as die gevolg van swaartekragte. Die Voyager-ruimtetuig het
+   egter radiale verskynsels in die B-ring gevind, waarna as "speke"
+   verwys word. Hierdie speke kan nie as gevolg van swaartekragte
+   verduidelik word nie, aangesien hulle blywende posisies en wenteling om
+   die ringe nie ooreenstem met wentelmeganika nie. Die speke lyk
+   donkerder teen die verligte kant van die ringe en lig teen die
+   verdonkerde kant van die ringe. Daar word aangeneem dat hulle verwant
+   is aan elektromagnetiese wisselwerkings, aangesien hulle amper gelyk
+   met Saturnus se magnetosfeer saambeweeg.
+
+   Vyf-en-twintig jaar later het Cassini weer die speke waargeneem. Hulle
+   blyk 'n seisoenale verskynsel te wees: hulle verdwyn in die middel van
+   die Saturniese winter en somer en verskyn dan weer soos Saturnus nader
+   aan sy dag-en-nag eweninge beweeg. Die speke was nie sigbaar toe
+   Cassini by Saturnus in 2004 gearriveer het nie. Sommige wetenskaplikes
+   het gespekuleer dat die speke nie weer sigbaar sou wees tot 2007 nie,
+   gebaseerd op modelle wat die speke-formasie probeer beskryf. Die
+   Cassini beeld-span het nietemin bly kyk vir speke in inkomende beelde
+   van die ringe en die speke het weer verskyn in beelde wat op 5
+   September 2005 geneem is.
+
+[wysig] Saturnus se mane
+
+   Saturnus se ringe sny deur 'n rare toneel met Titan wat deur 'n
+   lig-waas omring word en die klein maan Enceladus aan die onderkant.
+   Saturnus se ringe sny deur 'n rare toneel met Titan wat deur 'n
+   lig-waas omring word en die klein maan Enceladus aan die onderkant.
+
+          Hoofartikel: Saturnus se natuurlike satelliete.
+
+   Saturnus het 'n groot aantal mane. Dit is nie bekend presies hoeveel
+   mane Saturnus het nie, aangesien die wentelende stukke ys in Saturnus
+   se ringe tegniesgesproke almal mane is en dit is moeilik om te
+   onderskei tussen 'n groot ysdeeltjie en 'n klein maan. Teen 2007 was
+   daar reeds 'n totaal van 60 mane geïdentifiseer, saam met drie
+   onbevestigde mane wat miskien net groot klonte in die ringe is. Baie
+   van die mane is uiters klein: uit die 60 is daar 30 wat 'n deursnit van
+   minder as 10 km het en nog 13 ander het 'n deursnit van minder as 50
+   km.^[19] Slegs sewe van die mane was groot genoeg om in sferoïdes in te
+   sak as gevolg van hulle eie swaartekrag. Hulle word in die tabel
+   hieronder met die Aarde se maan vergelyk. Die noemenswaardigste maan is
+   Titan, aangesien hy die enigste maan in die sonnestelsel is met 'n
+   digte atmosfeer.
+
+   Saturnus se mane word tradisioneel na egte Titane van die Griekse
+   mitologie vernoem. Die gewoonte het onstaan nadat John Herschel - die
+   seun van William Herschel en ook die ontdekker van Mimas en Enceladus -
+   dit voorgestel het in sy 1847 uitgawe van Results of Astronomical
+   Observations made at the Cape of Good Hope, aangesien die Titane die
+   broers en susters van Cronos was, die Griekse ekwivalent van die
+   Romeinse god, Saturnus, na wie die planeet vernoem is.
+
+   Saturnus se belangrikste satelliete, in vergelying met die Aarde se
+   maan
+   Naam
+   Deursnit
+   (km) Massa
+   (kg) Wentelradius (km) Wentelperiode (dae)
+                                  Mimas 400
+                           (10% Luna*) 0.4×10^20
+                            (0.05% Luna) 185,000
+                               (50% Luna) 0.9
+                                  (3% Luna)
+                                Enceladus 500
+                            (15% Luna) 1.1×10^20
+                             (0.2% Luna) 238,000
+                               (60% Luna) 1.4
+                                  (5% Luna)
+                                 Tethys 1060
+                            (30% Luna) 6.2×10^20
+                             (0.8% Luna) 295,000
+                               (80% Luna) 1.9
+                                  (7% Luna)
+                                 Dione 1120
+                            (30% Luna) 11×10^20
+                             (1.5% Luna) 377,000
+                               (100% Luna) 2.7
+                                 (10% Luna)
+                                  Rhea 1530
+                            (45% Luna) 23×10^20
+                              (3% Luna) 527,000
+                               (140% Luna) 4.5
+                                 (20% Luna)
+                                 Titan 5150
+                           (150% Luna) 1350×10^20
+                            (180% Luna) 1,222,000
+                               (320% Luna) 16
+                                 (60% Luna)
+                                Iapetus 1440
+                            (40% Luna) 20×10^20
+                             (3% Luna) 3,560,000
+                               (930% Luna) 79
+                                 (290% Luna)
+   Om verwarring te vermy word "Luna" gebruik om na die Aarde se maan te
+   verwys.
+
+[wysig] Verkenning van Saturnus
+
+[wysig] Pioneer 11
+
+   Saturnus was vir die eerste keer besoek deur Pioneer 11 in September
+   1979. Dit het binne 20 000 km van die planeet se boonste wolke
+   verbygevlieg en het lae-resolusie beelde van die planeet en sommige van
+   sy mane geneem. Hierdie beelde was egter nie goed genoeg om enige
+   oppervlakeienskappe te kon waarneem nie. Die ruimtetuig het ook die
+   ringe bestudeer; tussen die ontdekkings was die dun F-ring en die feit
+   dat die donker gapings tussen die ringe helder vertoon wanneer dit in
+   die rigting van die son gesien word, met ander woorde, hulle het nie 'n
+   gebrek aan materie nie. Pioneer 11 het ook Titan se temperatuur
+   gemeet.^[20]
+
+[wysig] Voyager
+
+   In November 1980 het die die Voyager 1-sonde die Saturniese stelsel
+   besoek. Dit het die eerste hoë-resolusie beelde van die planeet, ringe
+   en satelliete teruggestuur. Die oppervlaktes van verskeie mane kon vir
+   die eerste keer waargeneem word. Voyager 1 het baie na aan Titan
+   verbygevlieg en sodoende ons kennis oor die maan se atmosfeer
+   aansienlik vermeerder. Dit is egter ook bewys dat Titan se atmosfeer
+   nie deur sigbare golflengtes deurdring kan word nie, so weereens kon
+   geen oppervlakeienskappe waargeneem word nie. Die besoek het ook die
+   begin van die ruimtetuig se vliegroete uit die sonnestelselvlak uit
+   gekenmerk.
+
+   Amper 'n jaar later, in Augusts 1981, het Voyager 2 die bestudering van
+   die Saturniese stelsel voortgesit. Weereens is meer beelde van Saturnus
+   se mane van digby verkry, asook bewyse van veranderinge in Saturnus se
+   atmosfeer en ringe. Ongelukkig het die sonde se beweegbare kamera
+   tydens die besoek vir 'n paar dae lank vasgesit en sommige beplande
+   foto's het verlore gegaan. Saturnus se swaartekrag was gebruik om die
+   ruimtetuig se vliegroete na Uranus te stuur.
+
+   Die sondes het ook 'n aantal nuwe satelliete, wat naby of binne
+   Saturnus se ringe wentel, ontdek en bevestig. Hulle het ook die klein
+   Maxwell- en Keeler-gaping ontdek.
+
+[wysig] Cassini
+
+   Saturnus verduister die son soos deur Cassini gesien
+   Saturnus verduister die son soos deur Cassini gesien
+
+   Op 1 Julie 2004 het die Cassini-Huygens-ruimtetuig die wentelbaan om
+   Saturnus binnegegaan. Voor die datum het Cassin egter die omliggende
+   stelsel reeds nou bestudeerd. In Junie 2004 het die ruimtetuig naby die
+   maan, Phoebe, verbygevlieg en het hoë-resolusie beelde en data
+   teruggestuur.
+
+   Die wenteltuig het twee keer verby Titan gevlieg voordat die
+   Huygens-sonde op 25 Desember 2004 vrygestel is. Huygens het op 14
+   Januarie 2005 suksesvol op Titan se oppervlak geland en het 'n menigte
+   aantal data tydens en ná die landing teruggestuur. Tydens 2005 het
+   Cassini verskeie kere verby Titan en ander ysige satelliete gevlieg.
+
+   Op 10 Maart 2007 het NASA gerapporteer dat die Cassini-sonde bewyse van
+   vloeibare waterreservoirs gevind het wat in geisers op Saturnus se
+   maan, Enceladus uitbars.^[21].
+
+   Op 20 September 2006 het 'n Cassini-sonde 'n voorheen onontdekte ring
+   ontdek, buite die helderder hoofringe van Saturnus en binne die G- en
+   E-ringe.^[22]
+
+   Met die uitgang van 2006 het die sonde vier nuwe satelliete ontdek en
+   bevestig. Sy hoofmissie sal in 2008 ten einde loop; daar word verwag
+   dat die ruimtetuig teen die tyd 74 omwentelings om die planeet
+   suksesvol sal voltooi het.
+
+          Vir die nuutste inligting en nuus, sien gerus NASA se
+          Cassini-webwerf.
+
+[wysig] Besigtiging
+
+   Die hellings van Saturnus se ringe: 2001-2029
+   Die hellings van Saturnus se ringe: 2001-2029
+
+   Saturnus is die verste van die vyf planete wat maklik sonder enige
+   gereedskap waargeneem kan word. Die ander vier is Mercurius, Venus,
+   Mars, en Jupiter (Uranus is slegs in baie donker gebiede sigbaar).
+   Saturnus was ook die onlangste ontdekte planeet tot en met die
+   ontdekking van Uranus in 1781. Saturnus kom snags voor as 'n helder,
+   geel ster en wissel tussen 'n grootte van +1 en 0 en neem ongeveer 29½
+   jaar om sy elliptiese wentelbaan teen die agtergrond van die twaalf
+   tekens (konstellasies) van die Diereriem te voltooi. Om Saturnus se
+   ringe duidelik te sien word gereedskap in die vorm van goeie verkykers
+   of teleskope benodig, wat teen minste 20x vergroot.
+
+   Alhoewel dit ter eniger tyd lonend is om Saturnus te besigtig, word die
+   planeet en sy ringe die beste waargeneem wanneer die se ringe naby of
+   in teenstelling met die aarde is. Die planeet was laas op 13 Januarie,
+   2005, op sy helderste, te danke aan die helling van sy ringe ten
+   opsigte van die aarde. Die volgende keer is eers weer in 2031.
+
+   Wanneer mens Saturnus van die aarde af besigtig, is dit interessant om
+   ingedagte te hou dat Saturnus 75 ligminute van die aarde is.^[23] Die
+   beteken dat, wanneer Saturnus van die aarde af gesien word, die beeld
+   'n vroeër weergawe van Saturnus is en ons telkens kan sien hoe Saturnus
+   75 minute gelede gelyk het en nie hoe hy op daardie oomblik voorkom
+   nie.
+
+[wysig] Verwysings
+
+   Hierdie artikel is grotendeels 'n vertaling van die Engelse Wikipedia
+   artikel "Saturn".
+    1. ^ Saturn Satellite and Moon Data by die Insitute for Astronomy
+       webwerf. Laaste besoek 7 Maart, 2007.
+    2. ^ Saturn Mythology deur Ellie Crystal by die Crystalinks webwerf.
+       Laaste besoek 28 Februarie, 2007.
+    3. ^ Saturn turns 60. By NASA se Cassini-Huygens-webwerf. Laaste
+       besoek op 20 Julie 2007.
+    4. ^ Courtin, R.; Gautier, D.; Marten, A.; Bezard, B. (1983). "The
+       Composition of Saturn's Atmosphere at Temperate Northern Latitudes
+       from Voyager IRIS spectra". Bulletin of the American Astronomical
+       Society 15: 831. Retrieved on 2 April 2007.
+    5. ^ Martinez, Carolina (September 5, 2005). "Cassini Discovers
+       Saturn's Dynamic Clouds Run Deep." NASA. URL besoek op 29 April
+       2007.
+    6. ^ Voyager Saturn Science Summary by die Solarviews webwerf. Laaste
+       besoek 7 Maart, 2007.
+    7. ^ Patrick Moore, red., 1993 Yearbook of Astronomy, (Londen: W.W.
+       Norton & Company, 1992), Mark Kidger, "The 1990 Great White Spot of
+       Saturn", bl. 176-215.
+    8. ^ A hexagonal feature around Saturn's North Pole deur Godfrey, D.
+       A.. Laaste besoek 9 Maart, 2007.
+    9. ^ Hubble Space Telescope Observations of the Atmospheric Dynamics
+       in Saturn's South Pole from 1997 to 2002 deur A. Sánchez-Lavega, S.
+       Pérez-Hoyos en R. G. French. Laaste besoek 9 Maart 2007.
+   10. ^ Hubble Space Telescope Observations of the Atmospheric Dynamics
+       in Saturn's South Pole from 1997 to 2002 deur A. Sánchez-Lavega, S.
+       Pérez-Hoyos en R. G. French.
+   11. ^ NASA Sees into the Eye of a Monster Storm on Saturn. NASA.
+       Gepubliseer op 9 November, 2006. Laaste besoek op 10 November,
+       2006.
+   12. ^ Scientists Find That Saturn's Rotation Period is a Puzzle NASA.
+       Laaste besoek 9 Maart 2007.
+   13. ^ Historical Background of Saturn's Rings NASA. Laaste besoek 9
+       Maart, 2007.
+   14. ^ Historical Background of Saturn's Rings NASA. Laaste besoek 9
+       Maart, 2007.
+   15. ^ James Clerk Maxwell on the nature of Saturn's rings. Laaste
+       besoek 9 Maart, 2007.
+   16. ^ Saturn rings have own atmosphere deur Paul Rincon. BBC News.
+       Laaste besoek 10 Maart 2007.
+   17. ^ The Enceladus and OH Tori at Saturn deur Johnson, R. E.; Smith,
+       H. T.; Tucker, O. J.; Liu, M.; Burger, M. H.; Sittler, E. C. en
+       Tokar, R. L.. Laaste besoek 10 Maart, 2007.
+   18. ^ Variability in Saturn deur Colin Henshaw (uittreksel). Laaste
+       besoek 10 Maart 2007.
+   19. ^ Saturn's Known Satellites by die Instituut vir Sterrekunde aan
+       die Universiteit van Hawaii se webblad. Laaste besoek 11 Maart,
+       2007.
+   20. ^ http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1973-019A by
+       die NASA webwerf. Laaste besoek 12 Maart, 2007.
+   21. ^ NASA's Cassini Discovers Potential Liquid Water on Enceladus op
+       die NASA webwerf. Laaste besoek 12 Maart 2007.
+   22. ^ New Ring Spotted Around Saturn, artikel op die CNN webwerf.
+   23. ^ Astronomy Answers: Time
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Saturn (planet)
+     * Beeldargief van Saturnus by die NASA/ESA/Hubble-ruimteteleskoop se
+       webwerf.
+     * Saturn Fact Sheet - Feite oor Saturnus by NASA se webargiewe.
+     * Cassini-Huygens: mission to Saturn an Titan - NASA se webtuiste vir
+       die Cassini-missie.
+     * Change of seasons on Saturn by die Hubblesite-webwerf.
+     * Theoretical description of the rings of Saturn by die Academy for
+       Future Science se webwerf.
+     * Planets - Saturn- 'n Engelse gids tot Saturnus vir kinders.
+     * 'n .wav opname van Saturnus se radio uitstralings by die
+       NASA-webwerf.
+
+                                  Die sonnestelsel
+   [USEMAP:Solar_System_XXVII.png] Beeldinligting
+   Die son · Mercurius · Venus · Aarde · Mars · Ceres · Jupiter · Saturnus
+   · Uranus · Neptunus · Pluto · Eris
+   Planete · Dwergplanete · Mane: Aarde · Mars · Asteroïdies · Jupiter ·
+   Saturnus · Uranus · Neptunus · Pluto · Eris
+   Klein hemelliggame:   Meteoroïdes · Asteroïdes (die astroïdegordel) ·
+   Centaurs · TNV's (Kuipergordel/Verstrooide skyf) · Komete (Oortwolk)
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorie: Planete
+

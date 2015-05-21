@@ -1,0 +1,114 @@
+Vark
+
+
+                         Vark
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Suidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Sus
+                   Linnaeus, 1758
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                            Verskeie. Sien teks.
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Varke is hoefdiere uit die soogdier-orde (Artiodactyla). Varke is nou
+   verwant aan die pekari. Bere (mannetjies) is groter as sôe (wyfies) en
+   het opvallende slagtande. Varke kry oor die algemeen groot werpsels
+   (gemiddeld 10 - 12)^[1], terwyl sommige spesies slegs sowat een
+   kleintjie per werpsel kry.
+
+   Die varkspesie (Sus scrofa) is ongeveer 5 000 tot 7 000 jaar gelede
+   deur die mens makgemaak. Mak varke is veediere en 'n belangrike bron
+   van voedsel in die wêreld. Ander byprodukte wat vanuit varke vervaardig
+   word in sluit leerprodukte, gom, porselein en vele ander
+   dierevetprodukte.^[2] Varke se belangrikheid in biomediese navorsing en
+   -behandelings het ook onlangs baie verhoog. Varke se lang en noue
+   betrokkenheid by die mens het ook 'n diep spoor gelaat by menslike
+   kulture, veral in hul kunswerke en gesegdes.
+
+   Varke kom oorspronklik uit Eurasië en word saamgegroepeer onder die
+   genus Sus binne die Suidae familie. Varke is veral bekend vir hul
+   vraatsug en slordigheid. 'n Minder bekende eienskap van varke is dat
+   hulle baie intelligente diere is.^[3]
+
+[wysig] Spesies
+
+     * Sus barbatus
+     * Sus bucculentus^† (moontlik uitgesterf)
+     * Sus cebifrons
+     * Sus celebensis
+     * Sus domestica
+     * Sus falconeri^† (uitgesterf)
+     * Sus heureni
+     * Sus hysudricus^† (uitgesterf)
+     * Sus oliveri
+     * Sus philippensis^[4]
+     * Sus salvanius
+     * Sus scrofa
+     * Sus strozzi^† (uitgesterf)
+     * Sus timoriensis
+     * Sus verrucosus
+
+[wysig] Verwysings
+
+    1. ^ http://www.vegsoc.org/info/pigs.html - Artikel oor varke by die
+       Vegetariese vereniging in die Verenigde Koninkryk
+    2. ^ http://www.mnpork.com/education/swine.php - Opvoedkundige
+       artikels oor varke.
+    3. ^
+       http://channel.nationalgeographic.com/channel/videos/player.html?ch
+       annel=1797&title=03161_01 - National Geographic Video uittreksel
+       uit 'n program op die kanaal wat die verstommende intelligensie van
+       hierdie diere bespreek.
+    4. ^ Zoological Journal of the Linnean Society (1997), 120: 163–191.
+
+   http://www.sms.si.edu/irLspec/Sus_scrofa.htm - Smithsonian
+   seenavorsingspos by Fort Pierce, V.S.A se webwerf oor spesies in die
+   Indian River Lagoon.
+   Kategorieë: Varke • Landbou
+

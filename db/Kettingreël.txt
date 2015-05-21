@@ -1,0 +1,45 @@
+Kettingreël
+
+
+   Die kettingreëel is 'n formule vir die bepaling van die afgeleide van
+   'n funksie wat die komposisie is van twee funksies. Die meeste funksies
+   is saamgestel uit 'n aantal eenvoudige funksies, waarvoor die afgeleide
+   makliker bepaal kan word.
+
+   As 'n funksie f geskryf kan word as f(x) = g(h(x)), en van die funksies
+   g en h bestaan die afgeleide, dan is:
+
+          \frac{}{}f'(x) = g'(h(x)) \cdot h'(x)
+
+[wysig] Toepassing van die kettingreël
+
+   Die kettingreël maak dit moontlik om van ingewikkelde funksies die
+   afgeleide te neem. Stel ons het die volgende funksie:
+
+   f(x)= sin(e^{cos(2 \cdot x)})
+
+   Dit is moontlik bostaande funksie te ontleed in 'n ketting van
+   funksies:
+   a(x) = 2*x
+   b(a) = cos(a)
+   c(b) = e^b
+   f(c) = sin(c)
+
+   Hieraan dank die kettingreël sy naam. Danksy die kettingreël kan ons
+   naamlik van elke afsonderlike skakel in die ketting die afgeleide neem:
+   a(x)=2*x    a'(x)=2
+   b(a)=cos(a) b'(a)=-sin(a)
+   c(b)=e^b    c'(b)=e^b
+   f(c)=sin(c) f'(c)=cos(c)
+
+   Die afgeleide van die funksie word dan bepaal deur alle afsondelike
+   afgeleides te vermeldingvuldig:
+
+   f'(x)=a'(t) \cdot b'(a) \cdot c'(b) \cdot f'(c)
+
+   f'(x)=2 \cdot -sin(a) \cdot e^b \cdot cos(c)
+
+   f'(x)=-2 \cdot sin(2 \cdot x) \cdot e^{cos(2 \cdot x)} \cdot
+   cos(e^{cos(2 \cdot x)})
+   Kategorie: Wiskunde
+

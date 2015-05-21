@@ -1,0 +1,36 @@
+Moment-magnitude-skaal
+
+
+   Die moment-magnitude-skaal, wat in 1979 deur Tom Hanks en Hiroo
+   Kanamori ingevoer is, is 'n meer presiese skaal vir die sterkte van 'n
+   aardbewing as die Richterskaal, wat in 1935 ingevoer is. Terwyl die
+   Richterskaal die magnitude (sterkte) van 'n aardbewing deur middel van
+   'n seismograaf meet, wat seismiese golwe of die energie, wat in die
+   diepte van die aarde deur die uiteenskeuring van gesteentes vrygestel
+   word, aanteken, dui die moment-magnitude-skaal die totale energie aan,
+   wat deur 'n aardbewing vrygestel word. Dit word gedeeltelik bereken
+   deur die oppervlakte van die breuk, wat deur die aardbewing geraak is,
+   met die afstand te vermenigvuldig, oor wat die grond langs die breuklyn
+   beweeg het.
+
+[wysig] 'n Vergelyking van sterk aardbewings volgens die Richter- en
+moment-magnitude-skaal
+
+       Aardbewing     Richterskaal Moment-magnitude-skaal
+   Chile 1960         8,3          9,5
+   Alaska 1964        8,4          9,2
+   Nieu-Madrid 1812   8,7          8,1
+   Michoacán 1985     8,1          8,1
+   San Francisco 1906 8,3          7,7
+   Loma Prieta 1989   7,1          6,9
+   Kobe 1995          6,8          6,9
+   San Fernando 1971  6,4          6,7
+   Northridge 1994    6,4          6,7
+
+[wysig] Bronne
+
+     * National Geographic, Vol. 187, No.4, April 1995, Living with
+       California's Faults, bladsy 10
+
+   Kategorieë: Natuurrampe • Seismologie
+

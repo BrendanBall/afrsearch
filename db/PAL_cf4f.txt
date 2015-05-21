@@ -1,0 +1,92 @@
+PAL
+
+
+   PAL (afkorting vir die engels phase-alternating line) is 'n
+   kleurkoderingstelsel wat gebruik word in televisie uitsaaistelsels in
+   groot dele van die wêreld, insluitend Suid-Afrika. Ander algemene
+   analoë televisie koderingstelsels is SECAM en NTSC. PAL is deur Walter
+   Bruch by Telefunken in Duitsland ontwikkel. Die formaat is vir die
+   eerste keer in 1967 bekendgestel. ^[1]
+
+   Telefunken is later deur die Franse elektronika-vervaardiger Thomson
+   oorgekoop. Thomson het ook die maatskappy genaamd Compagnie Generale de
+   Télévision oorgekoop waar Henri de France die SECAM-stelsel, die eerste
+   Europese kleurtelevisie standaard, ontwikkel het. Thomson is deesdae
+   ook mede-eienaars van die RCA-handelsmerk vir elektroniese
+   verbruikersprodukte, wat aanvanklik die NTSC kleur TV standaard
+   ontwikkel het.
+
+   Die afkorting "PAL" word gewoonlik gebruik om informeel te verwys na 'n
+   625-lyn/50Hz TV-stelsel en om dit te onderskei van die 525-lyn/60Hz
+   "NTSC" TV-stelsel wat hoofsaaklik in Noord- en Sentraal-Amerika en in
+   Japan gebruik word. Dienooreenkomstig word DVD-skywe gewoonlik aangedui
+   as "PAL" of "NTSC" (om informeel na die lyntelling en raamtempo te
+   verwys) al het nie een van die twee PAL of NTSC saamgestelde kleur
+   daarop gekodeer nie.
+   Besonderhede oor die kleurkoderingstelsels wat wêreldwyd op
+   verskillende TV-uitsaainetwerke gebruik word
+   Besonderhede oor die kleurkoderingstelsels wat wêreldwyd op
+   verskillende TV-uitsaainetwerke gebruik word
+
+[wysig] Tegniese besonderhede
+
+   Die basis van PAL en die NTSC-stelsel is soortgelyk aanmekaar; 'n
+   kwadratiese amplitude gemoduleerde subdraer (tipies teen onvegeer 4.43
+   MHz vir PAL en 3.58 MHz vir NTSC) wat die kleur-inligting dra word by
+   die helderheid videosein gevoeg om 'n saamgestelde video basisbandsein
+   te vorm. Die SECAM-stelsel aan die ander kant gebruik 'n
+   frekwensie-modulasie skema op die subdraersein wat die kleurinligting
+   bevat. Die term "fase alternerende lyn" verwys na die manier waarop die
+   fase van 'n deel van die kleurinligtingop die videosein omgekeer word
+   met elke lyn, wat dan outomaties die fasefoute in die versending
+   regstel deur hulle uit te kanselleer. Vroeëre PAL-ontvangers het
+   staatgemaak op die gebreke in die menslike oog om die uitkansellering
+   te bewerkstellig, maar dit het egter gely tot 'n kam-effek by sterker
+   fasefoute. Die meeste ontvangers gebruik dus 'n vertragingslyn wat die
+   ontvangde kleurinligting op elke vertoonlyn stoor; die gemiddelde
+   waardes in die kleurinligting word dan gebruik om die beeld op die buis
+   te vertoon. Dit verminder die vertikale kleur-resolusie in vergelyking
+   met die NTSC-stelsel, maar aangesien die menslike retina ook 'n
+   kleur-resolusie het wat baie laer is as die helderheidsresolusie, is
+   die effek nie sigbaar nie. NTSC, PAL en SECAM het in elk geval 'n
+   horisontale kleurbandwydte wat heelwat minder is as die helderheidsein.
+   NTSC-ontvangers het 'n tintbeheer om die regstelling handmatig te doen.
+
+   Die PAL kleurstelsel word gewoonlik gebruik saam met 'n videoformaat
+   met 625 lyne per raam (576 sigbare lyne, die res word gebruik vir
+   inligting soos sinkroniseringsdata en byskrifte) en 'n verfristempo van
+   50 ineengevlegde velde per sekonde (of 25 volle rame per sekonde), soos
+   met stelsels B, G, H, I en N (sien televisie-uitsaaistelsels vir die
+   tegniese besonderhede van elke formaat). Sommige lande in Oos-Europa
+   wat voorheen SECAM met stelsels D en K gebruik het, het oorgeskakel na
+   PAL maar sommige aspekte van hulle videostelsels behou (Ander lande het
+   heeltemal vanaf SECAM-D/K oorgeskakel na PAL-B/G). In Brasilië, word
+   PAL saam met die 525 lyn, 29.97 raam/sekonde M-stelsel gebruik en maak
+   van bykans al die NTSC-kleur subdraerfrekwensies gebruik. Byna al die
+   ander lande wat die M-stelsel gebruik, gebruik die NTSC-kleurstelsel.
+   In Argentinië, Paraguay en Uruguay, word PAL gebruik met die standaard
+   625-lyn stelsel, maar deur gebruik te maak van die NTSC-kleur
+   subdraerfrekwensie (3.58 MHz); hierdie variante word die PAL-N en
+   PAL-NC stelsels genoem.
+
+   Onlangs vervaardigde PAL televisie ontvangers kan tipies al hierdie
+   stelsel ontsyfer behalwe in sommige gevalle die PAL-M en PAL-N
+   stelsels. Baie van hulle kan ook Oos-Europese en Midde-oosterse SECAM
+   ontvang, maar gewoonlik nie die Franse SECAM nie, tensy hul doelgemaak
+   is vir die Franse mark nie. Baie van hulle kan ook basisband NTSC-M
+   ontvang, soos vanaf videokassetspelers of televisiespeletjies maar
+   gewoonlik nie vanaf uitsaaidienste nie.
+
+   Die PAL kleurstelsel kan ook toegepas word op 'n NTSC-tipe 525-lyn
+   beeld om die "PAL-60" stelsel te vorm (soms ook "PAL-60/525" of "Pseudo
+   PAL" genoem). Dit word dikwels gebruik in toepassings soos die speel
+   van NTSC videobande op versoenbare PAL Videokassetopnemers, die speel
+   van NTSC DVD-videos en Rekenaarspeletjies aangesien die meeste moderne
+   PAL televisiestelle hierdie soort sein kan hanteer sonder te veel
+   probleme — standaard NTSC-3.58 ondersteuning is egter minder algemeen
+   en het dikwels 'n wit-en-swart beeld tot gevolg wanneer dit op 'n PAL
+   TV-stel vertoon word. Hierdie probleem kan egter maklik opgelos word
+   deur RGB-verbindings in SCART-kabels te gebruik, wat baie algemeen in
+   Europa te vinde is.
+   Kategorie: Televisie
+

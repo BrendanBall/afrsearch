@@ -1,0 +1,86 @@
+Del.icio.us
+
+
+   Weens tegniese redes begin die titel van die artikel met ‘n hoofletter.
+   Die korrekte skryfwyse is del.icio.us.
+
+   del.icio.us is 'n sogenaamde sosiale boekmerkwebwerf : 'n webwerf
+   geskep vir die stoor, deel en ontdekking van web-boekmerke. Die webwerf
+   kom aan die einde 2003 aan lyn en word deur sommige waarnemers beskou
+   as 'n voorbeeld van die rigting waarin die internet gaan ontwikkel
+   naamlik 'n Web 2.0 toepassing. Dié webwerf word ontwikkel deur Joshua
+   Schachter.
+
+[wysig] Agtergrond en algemene inligting
+
+   'n Nie-hiërargiese soekwoordkategoriseringstelsel word gebruik op
+   del.icio.us waar gebruikers toegelaat word om oortjies (Engels: tags)
+   by hul boekmerke te voeg, deur gebruik te maak van sleutelwoorde van
+   hul keuse. Die metode word as 'n volksonomie (Engels: folksonomy)
+   beskryf . 'n Saamgestelde beeld van almal se boekmerke met die gegewe
+   oortjie is beskikbaar. So byvoorbeeld vertoon die URL
+   "http://del.icio.us/tag/wiki" al die mees onglangse skakels gemerk as
+   "wiki". Die kollektiewe aard maak dit dus moontlik om boekmerke wat
+   eenders-denkende gebruikers geskep is te sien. del.icio.us het 'n
+   treffersperade (Engels: hotlist) op sy tuisblad en "populêre" en
+   "onlangse" blaaie wat help om interessante inhoud toeganklik te maak.
+   Dié webwerf is ’n effektiewe oordraer van populêre internet memes en
+   tendense.
+
+   Die webwerf se eenvoudige HTML koppelvlak met menslik leesbare URLe
+   (uniforme hulpbronadresse), unieke domein naam, sowel as
+   REST-programmeringskoppelvlak (API) en RSS toepassings vir
+   websindikasie, het bygedra om dit een van die mees populêre dienste van
+   dié soort te maak.
+
+   Die webwerf kan gratis gebruik word en informasie kan via die webwerf
+   afgelaai word. Die bronkode is egter nie beskbaar nie.
+
+   Alles wat op del.icio.us geplaas word is deur ander gebruikers sigbaar,
+   alhoewel 'n gebruiker spesifieke boekmerke as privaat kan merk terwyl
+   ingetrekte boekmerke se standaardwaarde privaat is. Die publieke aard
+   van die webwerf word benadruk en dit is nie gefokus op die stoor van
+   private ("nie gedeelde") boekmerk versamelings. Verskeie mense gebruik
+   del.icio.us se "linkrolls" en netwerk kentekens om hul skakels en
+   informasie op hul webjoernale te vertoon.
+
+   Daar is 'n paar oopbronklone van del.icio.us, soos de.lirio.us en
+   sa.bros.us, as ook baie kompeterende sosiale boekmerkdienste soos
+   Simpy, BlinkList of Furl.
+
+   Op 9 Desember 2005 word die webwerf aangeskaf deur Yahoo. Die koopprys
+   is nie bekend gemaak nie, maar word tussen $15-30 miljoen VSA dollars
+   geskat.
+
+[wysig] Voorbeeldbladsye op del.icio.us
+
+   Sien onlangse byvoegings:
+     * http://del.icio.us/recent
+
+   Sien vandag se gewilde byvoegings:
+     * http://del.icio.us/popular
+
+   Sien populêre oortjies:
+     * http://del.icio.us/tag
+
+   Vind enige URL waarby oortjies bygevoeg is oor nanotegnologie:
+     * http://del.icio.us/tag/Nanotechnology
+
+   Gekombineerde oortjies. Vind enige URL wat gemerk is met oortjies vir
+   beide nanotegnologie en vervaardiging:
+     * http://del.icio.us/tag/Nanotechnology+Fabrication
+
+   Vind byvoegings volgens soort media:
+     * http://del.icio.us/tag/system:media:video
+
+   Vind die geskiedenis van hoe oortjies tot ‘n URL toegevoeg is:
+     * http://del.icio.us/url?url=http://wikipedia.org
+
+[wysig] Eksterne skakels
+
+     * del.icio.us
+     * del.icio.us blog
+     * del.icio.us help
+
+   Kategorie: Webwerwe
+

@@ -1,0 +1,25 @@
+Selflaaier
+
+
+   'n Selflaaier is 'n klein rekenaarprogram wat die sagteware laai wat
+   nodig is vir die bedryfstelsel om te kan loop. Die meeste
+   rekenaarstelsels kan slegs kode uitvoer wat in die geheue gelaai is
+   (ROM of RAM). Moderne bedryfstelsels word op hardeskywe (of soms op
+   CD's en Flitsgeheue) gestoor. Wanneer 'n rekenaar aangeskakel word
+   bestaan daar nie 'n bedryfstelsel in die geheue nie. Die rekenaar se
+   hardeware kan nie alleen die komplekse bewerkinge doen soos om
+   programme vanaf skywe te laai nie, wat 'n paradoks tot gevolg het: om
+   die bedryfstelsel te kan laai moet daar oënskynlik reeds 'n
+   bedryfstelsel gelaai wees. Die oplossing hiervoor is om die klein
+   selflaaier program outomaties in geheue te laai wanneer die rekenaar
+   aangeskakel word. Dikwels word daar van multistadium selflaaiers
+   gebruik gemaak wat beteken dat daar kleiner programmetjies een na die
+   ander gelaai word met toenemende kompleksiteit totdat die bedryfstelsel
+   uiteindelik gelaai kan word. Ou rekenaars het 'n ry skakelaars op 'n
+   paneel gehad wat die operateur in staat gestel het om die binêre
+   laai-instruksies met die hand in te sleutel alvorens beheer aan die SVE
+   oorhandig is. Die laaier sou dan die bedryfsinstruksies van 'n
+   buitenste medium soos 'n papierband, ponskaart of 'n magnetiese band
+   inlees.
+   Kategorie: Sagteware
+

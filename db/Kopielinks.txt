@@ -1,0 +1,56 @@
+Kopielinks
+
+
+   Die "omgekeerde c" is die kopielinkse simbool. Anders as sy sameganger,
+   die kopieregsimbool, het dit geen wettige betekenis nie.
+   Die "omgekeerde c" is die kopielinkse simbool. Anders as sy sameganger,
+   die kopieregsimbool, het dit geen wettige betekenis nie.
+
+   Kopielinks (Copyleft in Engels) beskryf 'n groep lisensies wat van
+   toepassing is op werke soos sagteware, dokumente en kuns. Waar
+   kopieregwet gesien word deur die oorspronklike voorstanders van
+   kopielinks as 'n manier om die reg tot skepping en verspreiding van
+   kopieë van 'n spesifieke werk in te perk, maak 'n kopielinkse lisensie
+   van kopieregwet gebruik om te verseker dat elke persoon wat 'n kopie of
+   afgeleide weergawe van 'n werk ontvang dit kan gebruik, verander en
+   weer versprei, en dit op beide die oorspronklike en afgeleide werk.
+   Dus, in 'n nie-wetlike sin is kopielinks die teenoorgestelde van
+   kopiereg.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+[wysig] Verwante Onderwerpe
+
+     * Kopiereg
+     * Intellektuele regte
+     * Intellektuele eiendom
+     * Kopienorm(e)
+     * Anti-kopiereg
+     * Kopieregvry
+     * Publieke domein
+
+[wysig] Eksterne skakels
+
+   Algemeen:
+     * Libre Society webwerf
+     * FreeCulture.org
+     * Die Electronic Frontier Foundation
+
+   Kopielinks en sagteware:
+     * www.gnu.org: What is copyleft? (nota: alhoewel die GNU kopielinkse
+       lisensies later in ander velde toegepas is, is hierdie artikel
+       oorspronklik geskryf vanuit die standpunt van rekenaarprogramme)
+     * Norwegian Copyleft Software
+     * 'n Europese verslag (2000) – sluit 'n afdeling in oor moontlike
+       ekonomiese modelle vir Vry/Libre en Oopbron Sagteware.
+     * Why Free Software's Long Run TCO must be lower – 'n Ekonomiese
+       analise van kopielinkse sagteware en die sagtewaremark.
+     * Linus Torvalds oor kommersiële potensiaal van Linux-sagteware
+       (Oktober 2004 onderhoud)
+
+   Kopielinks toegepas in artistieke skepping:
+     * Creative Commons webwerf
+     * Die Free Art lisensie
+
+   Kategorie: Saadjies
+

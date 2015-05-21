@@ -1,0 +1,104 @@
+Grootrooibandsuikerbekkie
+
+
+              Grootrooibandsuikerbekkie
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Nectariniidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Cinnyris
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. afer
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    Cinnyris afer
+   (Linnaeus, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Grootrooibandsuikerbekkie (Cinnyris afer) is 'n algemene standvoël
+   in Suid-Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   14cm. Helder glans-groen kop en bo-rug, met 'n blou streep onder groen
+   gedeelte gevolg deur 'n groot helder glans-rooi bors and onderkant. Die
+   res van die onderkant is bruin-grys met bruin vlerke. Hierdie spesie is
+   groter as die Kleinrooibandsuikerbekkie, het 'n langer snawel en groter
+   rooi band op die bors. Die vroulike suikerbekkie het 'n grys-bruin
+   bokant en grys-geel onderkant.
+
+[wysig] Habitat
+
+   Fynbos, immergroen bos en rande van woude.
+
+[wysig] Verspreiding
+
+   Kom voor in die kus-gebiede van Suid-Afrika vanaf Kaapstad tot die
+   Suid-kus en verder noord langs die Drakensberge tot in die noorde van
+   die land.
+
+[wysig] Geluid
+
+   'n Skerp Tjoet-tjoet-tjoet geluid.
+
+[wysig] Ander name
+
+     * Engels: Greater Double-collared Sunbird
+     * Wetenskaplike naam: Cinnyris afer
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Suikerbekkies
+

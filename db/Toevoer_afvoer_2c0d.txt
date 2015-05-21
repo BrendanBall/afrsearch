@@ -1,0 +1,64 @@
+Toevoer/afvoer
+
+
+   In rekenaarwetenskap is toevoer/afvoer (Engels: Input/Output of I/O)
+   die versameling van koppelvlakke tussen verskillende funksionele
+   eenhede (substelsels) van 'n inligtingsverwerkingstelsel wat gebruik
+   word om met mekaar te kommunikeer of die seine wat deur daardie
+   koppelvlakke gestuur word. Toevoerte is daardie seine wat deur 'n
+   eenheid ontvang word en afvoerte is daardie seine wat daarvandaan
+   gestuur word. Die term kan ook gebruik word om 'n aksie te beskryf; om
+   'n toevoer/afvoer-bewerking uit te voer. Toevoer/afvoer-toestelle word
+   deur 'n persoon (of 'n ander stelsel) gebruik om met 'n rekenaar te
+   kommunikeer. Sleutelborde en muise word as toevoertoestelle van 'n
+   rekenaar beskou. Tipiese toestelle vir die kommunikasie tussen
+   rekenaars doen beide toevoer- en afvoerbewerkinge, soos modems en
+   netwerkkaarte.
+
+   Dit is belangrik om waar te neem dat die benaming van toevoer- of
+   afvoertoestelle kan verander wanneer 'n mens se perspektief verander.
+   Muise en sleutelborde neem byvoorbeeld die fisiese beweging van die
+   menslike gebruiker as 'n toevoer en skakel dit om na afvoerseine wat
+   die rekenaar kan verstaan. Die afvoer van hierdie toestelle word as
+   toevoer deur die rekenaar hanteer. Op soortgelyke wyse kan drukkers en
+   monitors toevoerseine aanvaar wat die afvoer van die rekenaar se kant
+   af is. Hulle skakel dan hierdie seine om na karakters wat die menslike
+   leser kan verstaan of lees.
+
+   In rekenaarargitektuur word die kombinasie van die SVE (Engels: Central
+   Processing Unit of CPU) en die hoofgeheue (dit wil sê die geheue waarna
+   die SVE direk na kan lees en skryf met behulp van indiwiduele
+   instruksies as die hart van die rekenaar beskou en enige beweging van
+   inligting van of na daardie kompleks, byvoorbeeld na of vanaf die
+   hardeskyf, word as toevoer/afvoer beskou. Die SVE en sy ondersteunende
+   stroombane verskaf toevoer/afvoer-metodes wat in
+   laevlak-rekenaarprogrammering gebruik word tydens die implementering
+   van toestelaandrywers.
+
+   Hoëvlak-bedryfstelsels en -programmeringsfasiliteite span afsonderlike
+   en meer abstrakte begrippe en primitiewe bewerking van toevoer/afvoer
+   in. Bedryfstelsels verskaf byvoorbeeld programmatuur met die begrip van
+   lêers. Die programmeertaal, C, definieer funksies wat programme toelaat
+   om toevoer/afvoer-bewerkinge deur middel van strome (Engels:streams)
+   uit te voer, soos byvoorbeeld om data daarna te lees en te skryf.
+
+   'n Skaars alternatief tot spesiale primitiewe funksies is die
+   toevoer/afvoer-monades wat programme toelaat om slegs die
+   toevoer/afvoer te beskryf en die aksies word dan buite die program
+   uitgevoer.
+
+[wysig] Sien ook
+
+     * Asinkrone toevoer/afvoer
+     * Direct memory access (DMA)
+     * Hardeware register
+     * IPO Model
+     * Onderbrekingsversoek
+     * Geprogrammeerde toevoer/afvoer (PIO mode vir IDE)
+
+[wysig] Eksterne skakels
+
+     * I/O Meter
+
+   Kategorie: Rekenaar
+

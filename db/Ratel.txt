@@ -1,0 +1,94 @@
+Ratel
+
+
+                        Ratel
+   Bedreigingstatus: veilig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Mustelidae
+     Subfamilie:   Mellivorinaeine
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Mellivora
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. capensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Mellivora capensis
+   (Schreber, 1776)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die ratel (Mellivora capensis) is 'n lid van die Mustelidae-familie,
+   wat ook die stinkmuishond insluit. Ratels kom deur die grootste deel
+   van Afrika en Suider- en Wes-Asiatiese areas: Oos- en Suid-Irak,
+   Pakistan en Wes-Indië. Dit is die enigste spesie in die genus Mellivora
+   en die subfamilie Mellivorinae. Volgens die Guinness Book of World
+   Records is die ratel die vreeslooste dier in die wêreld.^[1]
+
+   Ratels is dag- en nagdiere, maar siende dat dit hoofsaaklik in
+   digbegroeide velde voorkom, word dit min raakgesien.
+
+   Ratels het 'n kop-en-liggaam lengte van ongeveer 60 tot 102 cm, plus 'n
+   stert van 16 tot 30 cm. Die dier het 'n skouerhoogte van ongeveer 23
+   tot 30 cm. Mannetjies is aansienlik groter as die wyfies en kan tot
+   twee keer so veel weeg. 'n Wyfie kan tussen 5,5 en 10 kg weeg, terwyl
+   mannetjies tussen 9 en 15 kg kan weeg.
+
+   Alhoewel hulle karnivore is, het ratels ook 'n voorliefde vir byekorwe.
+   Verder sluit hulle dieet erdwurms, termiete, skerpioene, ystervarke,
+   konyne en selfs groter prooi soos skilpaaie, klein krokodille en slange
+   in.
+
+   Die wyfie is ses maande dragtig, waarna twee to vier kleintjies gebore
+   word. 'n Ratel het 'n moontlike lewensduur van 24 jaar.
+
+[wysig] Bronnelys en verwysings
+
+     * Mustelid Specialist Group (1996): Mellivora capensis by die IUCN se
+       Red List vir bedreigde spesies.
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+    1. ^ Honey badger - most fearless animal in the world, by die webwerf
+       van websiteofeverything.com. Verkry op 2008-06-04.
+
+   Kategorie: Marteragtiges
+

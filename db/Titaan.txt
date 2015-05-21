@@ -1,0 +1,365 @@
+Titaan
+
+
+
+                      skandium – titaan – vanadium
+           Ti
+           Zr
+
+             Titaan in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal Titanium, Ti, 22
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 4, 4 , s
+                                        Digtheid, Hardheid 4507 kg/m^3 , 6
+                                                Voorkoms silwermetaalkleur
+                                                           Atoomeienskappe
+                                                     Atoomgewig 47.867 ame
+                                           Atoomradius (ber.) 140 (176) pm
+                                                   Kovalente radius 136 pm
+                                          Vanderwaalsradius geen inligting
+                                        Elektronkonfigurasie [Ar]3d^2 4s^2
+                                       e^− e per energievlak 2, 8, 10, 2
+                                Oksidasietoestande (Oksied) 4 (amfoteries)
+                                              Kristalstruktuur Heksagonaal
+                                                        Fisiese eienskappe
+                                            Toestand van materie vastestof
+                                               Smeltpunt 1941 K (1668 °C)
+                                                Kookpunt 3560 K (3287 °C)
+                                      Molêre volume 10.64 ×10^-6 m^3/mol
+                                              Verdampingswarmte 421 kJ/mol
+                                              Smeltingswarmte 15.45 kJ/mol
+                                              Dampdruk 0.49 Pa teen 1933 K
+                                    Spoed van klank 4140 m/s teen 293.15 K
+                                                                   Diverse
+                                  Elektronegatiwiteit 1.54 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 520 J/(kg*K)
+                           Elektriese geleidingsvermoë 2.34 10^6/(m·ohm)
+                                   Termiese geleidingsvermoë 21.9 W/(m*K)
+                                    1^ste ionisasiepotensiaal 658.8 kJ/mol
+                                    2^de ionisasiepotensiaal 1309.8 kJ/mol
+                                    3^de ionisasiepotensiaal 2652.5 kJ/mol
+                                    4^de ionisasiepotensiaal 4174.6 kJ/mol
+                                      5^de ionisasiepotensiaal 9581 kJ/mol
+                                     6^de ionisasiepotensiaal 11533 kJ/mol
+                                     7^de ionisasiepotensiaal 13590 kJ/mol
+                                    8^ste ionisasiepotensiaal 16440 kJ/mol
+                                     9^de ionisasiepotensiaal 18530 kJ/mol
+                                    10^de ionisasiepotensiaal 20833 kJ/mol
+                                                     Mees stabiele isotope
+
+                                  iso   NV   halfleeftyd VM  VE MeV
+                                                            [nie SI]  VP
+                                 ^44Ti sin.  63 y        ε  0.268    ^44Sc
+                                 ^46Ti 8.0%  Ti is stabiel met 24 neutrone
+                                 ^47Ti 7.3%  Ti is stabiel met 25 neutrone
+                                 ^48Ti 73.8% Ti is stabiel met 26 neutrone
+                                 ^49Ti 5.5%  Ti is stabiel met 27 neutrone
+                                 ^50Ti 5.4%  Ti is stabiel met 28 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Titaan is 'n chemiese element in die periodieke tabel met die simbool
+   Ti en atoomgetal 22. Dit is 'n sterk, ligte, blink, korrosiebestande
+   oorgangsmetaal (Is ook bestand teen seewater en chloor) en het 'n
+   silwerige metaalkleur. Titaan word gebruik in sterk liggewig legerings
+   (veral saam met yster en aluminium) en sy verbinding wat die meeste
+   voorkom, titaandioksied, word in wit pigmente gebruik.
+
+   Hierdie element kom voor in 'n groot aantal minerale met rutiel en
+   ilmeniet as die hoofbronne wat wyd oor die Aarde versprei is. Daar
+   bestaan twee allotropiese vorme en vyf isotope van hierdie element wat
+   natuurlik voorkom; Ti-46 tot by Ti-50 met Ti-48 wat die meeste voorkom
+   (73.8%). Een van Titaan se uitstaande kenmerke is dat dit net so sterk
+   soos staal is maar die helfte soveel weeg. Titaan se chemiese- en
+   fisiese eienskappe is soortgelyk aan sirkonium.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding en vervaardiging
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   'n Horlosie met 'n Titaanomhulsel
+   'n Horlosie met 'n Titaanomhulsel
+
+   Titaan is goed bekend vir sy uitstaande korrosieweerstand (bykans net
+   so goed as platinum), en kan chemiese aanslag deur sure, vogtige
+   chloorgas en soutoplossings weerstaan. Suiwer titaan is nie in water
+   oplosbaar nie maar is oplosbaar in gekonsentreerde sure. Titaan is 'n
+   metaalagtige element wat ook bekend is vir sy hoë
+   sterkte-tot-gewigverhouding. Dit is 'n sterk, ligte metaal met 'n lae
+   digtheid (40% die digtheid van staal) wat in suiwer vorm baie smeebaar
+   is (veral in 'n suurstofvrye omgewing), dit is maklik bewerkbaar en het
+   'n glansende metaalwit kleur. Die relatiewe hoë smeltpunt van hierdie
+   element maak dit nuttig as 'n vuurvaste metaal. Titaan is net so sterk
+   as staal, maar is 45% ligter; dit is 60% swaarder as aluminium maar
+   tweemaal sterker. Hierdie eienskappe maak titaan bestaan teen die
+   gewone soorte metaalvermoeidheid.
+
+   Die metaal vorm 'n passiewe, beskermende oksiedlaag (wat aanleiding gee
+   tot sy korrosieweerstand) wanneer dit blootgestel word aan hoë
+   temperature in die teenwoordigheid van lug maar teen kamertemperature
+   bly dit vlekvry. Die metaal wat brand as dit in lug bo 610°C of hoër
+   verhit word (met die gepaardgaande vorming van titaandioksied) is een
+   van die min elemente wat in suiwer stikstofgas brand (brand teen 800°C
+   en vorm titaannitried. Titaan bied weerstand teen verdunde swael- en
+   soutsuur, asook teen chloorgas, chloriedmengsels en die meeste
+   organiese sure. Dit is paramagneties (swak aantrekkingskrag tot
+   magnete) en het 'n baie lae elektriese- en termiese geleidingsvermoë.
+   Eksperimente het getoon dat natuurlike titaan uiters radio-aktief word
+   nadat dit met deuterone gebombardeer word met die uitstraling van
+   hoofsaaklik positrone en harde gamma-strale. Die metaal is 'n
+   dimorfiese allotroop waar die heksagonale vorm baie stadig na die
+   kubiese beta vorm omskakel teen ongeveer 880 °C. Wanneer die metaal
+   rooiwarm word reageer dit met suurstof en wanneer dit 'n temperatuur
+   van 550°C bereik verbind dit ook met chloor. Die metaal reageer ook met
+   ander halogene en absorbeer waterstof.
+
+[wysig] Gebruike
+
+   Bykans 95% titaan word in die vorm van titaandioksed ((TiO[2])
+   verbruik, dit is 'n intense wit permanente pigment met goeie dekvermoë
+   in verwe, papier en plastieke. Verwe wat titaandioksed bevat is
+   uitstekende weerkaatsers van infrarooi straling en word daarom baie
+   deur sterrekundiges vir buitemuurse verwe gebruik. Dit word ook as 'n
+   versterkende aanvulling in papier en sement en sierstene gebruik.
+
+   Titaan word in vliegtuie, pantserbekleding, vlootskepe, ruimtetuie en
+   missiele gebruik vanweë sy baie hoë treksterkte (selfs teen hoë
+   temperature), ligtheid, buitengewone korrosiebestandheid en die vermoë
+   om uiters hoë temperature te weerstaan. Dit word gebruik in
+   staallegerings om die korrelgrootte te verminder en as 'n
+   de-oksiedeerder maar in vlekvrye staal word dit hoofsaaklik gebruik om
+   die koolstofinhoud te verminder. Titaan word dikwels in legerings met
+   aluminium (om die korrelgrootte te verfyn), vanadium, koper
+   (verharding), yster, mangaan, molibdeen aangetref, asook verskeie ander
+   metale. Die vanadiumlegering daarvan word gebruik om die buitenste
+   bekleding van vliegtuie, vuurvaste mure, landingstuig en hidroliese
+   pypwerk. 'n Tipiese kommersiële straalvliegtuig bevat ongeveer 318 tot
+   1143 kg titaan. Die gebruik van titaan in verbruikersgoedere soos
+   golfstokke, fietsse, laboratoriumtoerusting, trouringe en
+   skootrekenaars word ook meer algemeen.
+
+   Ander gebruike:
+     * Vanweë die uitstekende weerstand wat dit teen seewater bied, word
+       dit gebruik vir skroefskagte en takelswerk op skepe asook in
+       hitteruilers in ontsoutingsaanlegte.
+     * Dit word gebruik om relatiewe sagte kunsmatige edelgesteentes te
+       vervaardig.
+     * Titaan tetrachloried (TiCl[4]), 'n kleurlose vloeistof, word
+       gebruik om [[
+
+   iriserende (wisselkleurige) glas te maak en omdat dit sterk dampe afgee
+   in vogtige lug word dit ook as rookskerms en vir lugtekening gebruik.
+     * Bowen dat dit 'n baie belangrike pigmentstof is, word
+       titaandioksied ook gebruik in sonbrandolies vanweë sy vermoë om op
+       sigself die vel te beskerm.
+     * Aangesien Titaan as fisiologies inert beskou word, word die metaal
+       gebruik in gewrigsvervangingsinplantings soos heup bal en potjies
+       en om mediese toerusting te vervaardig asook pyp/tenk bekledings in
+       voedselverwerkingsaanlegte.
+     * Die inerte aard en vermoë om gekleur te word maak dit 'n gewilde
+       metaal vir gebruik in juwele wat die vel deurboor.
+     * Titaan het die ongewone vermoë tot beenintegrasie, wat dit nuttig
+       maak vir tandheelkundige inplantings.
+
+   Titaan is ook al gebruik in konstruksie: Die 150 voet hoë gedenkteken
+   van Joeri Gagarin, die eerste mens in die ruimte, in Moskou, is van
+   titaan gemaak weens die metaal se aantreklike kleur en verwantskap met
+   vuurpylaandrywing. Die Guggenheim Museum Bilbao en die Cerritos,
+   Kalifornië Biblioteek was die eerste geboue wat in Europa en
+   Noord-Amerika respektiewelik met titaanpanele bekleed is.
+
+[wysig] Geskiedenis
+
+   Titaan (Latyns vir Aarde of die eerste seuns van Gaia) is in Engeland
+   in 1791 ontdek deur Eerwaarde William Gregor. Hy het die
+   teenwoordigheid van 'n nuwe element in ilmeniet herken en dit menachite
+   genoem. Teen ongeveer dieselfde tyd het Frans Joseph Muller ook 'n
+   soortgelyke stof voorberei maar kon die nie identifiseer nie. Die
+   element is etlike jare later onafhanklik herontdek deur die Duitse
+   chemikus Martin Heinrich Klaproth in rutielerts. Klaproth het bevestig
+   dat dit 'n nuwe element is en dit in 1795 benaam na die latynse woord
+   vir Aarde (ook die naam vir die Titane van Griekse mitologie). Dit was
+   nog altyd moeilik om die metaal vanuit sy verskeie ertse voor te berei.
+   Suiwer metalliese titaan (99.9%) is vir die eerste keer in 1910
+   voorberei deur Matthew A. Hunter deur TiCl[4] met natrium in 'n
+   staalbom teen 700-800°C te verhit (die sogenaamde Hunter proses.
+   Titaanmetaal is eers in 1946 buite die laboratorium gebruik toe William
+   Justin Kroll bewys het dat titaan kommersiëel vervaardig kon word deur
+   titaantetrachloried met magnesium te reduseer (Kroll proses) en dit is
+   die metode wat vandag steeds ingespan word.
+
+   In die 1950s – 1960s het die Sowjet-Unie gepoog om die wêreldmark vir
+   titaan oor te neem as deel van die Koue Oorlog taktiek om die
+   Amerikaanse weermag toegang daartoe te weier. Ten spyte van die pogings
+   het die V.S.A groot hoeveelhede verkry toe 'n Europese frontmaatskappy
+   gestig is om dit vir die V.S.A se intelligensiedienste moontlik te maak
+   om dit aan te koop.
+
+[wysig] Verspreiding en vervaardiging
+
+   Titaanmetaal word nie onverbonde in die natuur aangetref nie, maar die
+   element is die negende mees volopste element in die Aarde se kors (0.6%
+   op massabasis) en is teenwoordig in vulkaniese rotse asook in sedimente
+   wat daarvan afgelei is (sowel as in lewende organismes en natuurlike
+   waters). Dit kom wyd verspreid voor en kom hoofsaaklik in die minerale
+   anatase, brookiet, ilmeniet, provskiet, rutiel, titaniet (sfene) asook
+   in baie ysterertse voor. Van hierdie minerale is slegs ilmeniet en
+   rutiel van betekenisvolle ekonomiese belang, maar selfs die minerale
+   word selde in hoë konsentrasies aangetref. Omdat dit maklik met
+   suurstof en koolstof teen hoë temperature reageer is dit moeilik om die
+   suiwer titaanmetaalkristalle of -poeier voor te berei. Betekenisvolle
+   titaan neerslae word in Australië, Skandinawië, Noord-Amerika en
+   Maleisië aangetref.
+
+   Die metaal word gevind in meteoriete en is ook in die son en M-tipe
+   sterre waargeneem. Rotse wat van die maan af teruggebring is tydens die
+   Apollo 17 sending bestaan uit 12.1% TiO[2]. Titaan word ook in
+   steenkoolas, plante en selfs die menslike liggaam aangetref.
+   Titaan (Mineraalkonsentraat)
+   Titaan (Mineraalkonsentraat)
+
+   Omdat die metaal met lug reageer teen hoë temperature kan dit nie deur
+   die reduksie van sy dioksied vervaardig word nie. Titaanmetaal word
+   daarom kommersiëel deur die Kroll proses vervaardig; 'n komplekse, duur
+   enkelladingsproses wat in 1946 deur William Justin Kroll ontwikkel is.
+   Tydens die Kroll proses word chloorgas oor rooiwarm rutiel of ilmeniet
+   geblaas in die teenwoordigheid van koolstof wat die vorming van TiCl[4]
+   tot gevolg het. Die gas word gekondenseer en gesuiwer deur fraksionele
+   distillasie en dan gereduseer met gesmelte magnesium teen 800°C in 'n
+   argon atmosfeer.
+
+   'n Nuwer proses wat die FFC Cambridge proses genoem word mag dalk
+   hierdie ouer proses in die toekoms vervang. Die metode behels die
+   gebruik van titaandioksiedpoeier (wat basies 'n gesuiwerde vorm van
+   rutiel is) as voerbron om 'n eindproduk in poeier of sponsvorm te
+   lewer. Indien gemengde oksiedpoeiers gebruik word, word legering as
+   produk gelewer teen 'n baie laer koste as die konvensionele multi-stap
+   smeltproses. Daar word gehoop dat die FFC Cambridge proses titaan sal
+   kan lewer wat minder skaars en duur sal wees vir gebruik in die
+   lugvaartnywerheid asook die luukse goedere markte en in baie produkte
+   gesien sal word wat tans van aluminium of spesiale soorte staal
+   vervaardig word.
+
+   Titaanoksied word kommersiëel vervaardig deur die mineraalerts fyn te
+   maal en te meng met kaliumkarbonaat en vloeibare fluoorsuur. Dit lewer
+   kaliumfluorotitanaat (K[2]TiF[6]) wat met warm water onttrek kan word
+   en daarna met ammoniak ontbind kan word, om 'n gehidreerde
+   ammonikoksied te vorm. Die produk word dan in 'n platinumhouer gebrand
+   om suiwer titaandioksied te lewer.
+
+   Die algemene titaanlegerings word met behulp van reduksie vervaardig.
+   Byvoorbeeld: Kopertitaan (rutiel met koper bygevoeg word gereduseer),
+   ferrokoolstoftitaan (ilmeniet gereduseer met kooks in 'n elektriese
+   oond) en manganotitaan (rutiel met mangaan of mangaanoksiede word
+   gereduseer).
+
+[wysig] Verbindings
+
+   Die +4 oksidasietoestand is dominant in titaanchemie, maar verbindings
+   met die +3 oksidasietoestand kom ook dikwels voor. Vanweë die hoë
+   oksidasietoestand het baie titaanverbindings 'n hoë mate van kovalente
+   verbinding. Ten spyte daarvan dat titaanmetaal selde gebruik word
+   vanweë die hoë ontginningskoste, is titaandioksied goedkoop, nie-giftig
+   en geredelik in groot maat beskikbaar en word gereeld gebruik as 'n wit
+   pigment in verf, emalje, vernis, plastiek en sement vir konstruksie.
+   TiO[2] poeier is chemies inert, weerstaan verdowwing in sonlig en is
+   baie ondeursigtig: dit maak dat dit 'n suiwer en helderwit kleur aan
+   bruin of grys chemikalieë, waaruit die meeste huishoudelike plastieke
+   bestaan, kan verleen. In die natuur kan hierdie verbinding in die
+   minerale anatase, brookiet en rutiel aangetref word.
+
+   Verwe wat met titaandioksied gemaak is presteer goed by uiterste
+   temperature, is ietwat selfskoonmakend en kan see-omgewings weerstaan.
+   Suiwer titaandioksied het 'n baie hoë refraksie-indeks en het 'n
+   optiese verstrooiïngsvermoë groter as die van diamant. Stersaffiere en
+   robyne kry hulle gesternte vanaf die titaandioksied wat in hulle
+   teenwoordig is. Titanate is verbindings wat met titaandioksied
+   vervaardig word. Bariumtitanaat het piëzo-elektriese eienskappe, wat
+   dit moontlik maak om dit te gebruik as 'n omvormer vir die omskakeling
+   van klank- en elektrisiteitgolwe. Esters van titaan word gevorm deur
+   die reaksie van alkohole en titaantetrachloried en word gebruik in die
+   waterdigting van weefstowwe.
+
+   Titaan(IV)chloried (titaantetrachloried, TiCl[4]) is 'n kleurlose, swak
+   suurvloeistof wat gebruik word as 'n reagens in die vervaardiging van
+   titaan(IV)oksied vir verf. Dit word gebruik in organiese chemie as 'n
+   Lewis-suur, byvoorbeeld tydens Mukaiyama aldolkondensasie. Titaan vorm
+   ook 'n laer chloried, titaan(III)chloriedwat as reduseermiddel gebruik
+   word.
+
+   Titanoseendichloried is 'n belangrike katalis vir die vorming van
+   koolstof-koolstof verbindings. Titaanisopropoksied word gebruik vir
+   Sharpless epoksidasie. Ander verbindings sluit in; Titaanbromied
+   (gebruik in mettalurgie, superlegerings en hoë temperatuur elektriese
+   bedrading en bedekkings) asook titaankarbied (gebruik in hoë
+   temperatuur snybeitels en bedekkings).
+
+[wysig] Isotope
+
+   Titaan soos dit in die natuur voorkom bestaan uit 5 stabiele isotope;
+   Ti-46, Ti-47, Ti-48, Ti-49 en Ti-50 met Ti-48 wat die volopste is
+   (73.8% natuurlike verspreiding). Elf radio-isotope is al geëien met
+   Ti-44 as die mees stabiele isotoop met 'n halfleeftyd van 63 jaar,
+   Ti-45 wat 'n halfleeftyd van 184.8 minute het, Ti-51 met 'n halfleeftyd
+   van 5.76 minute en Ti-52 met 'n halfleeftyd1.7 minute. Al die
+   oorblywende radio-aktiewe isotope het halfleeftye van minder as 33
+   sekondes en die meerderheid daarvan se halfleeftye is korter as 'n
+   halwe sekonde.
+
+   Die isotope van titaan wissel in atoommassa van 39.99 amu (Ti-40) tot
+   57.966 amu (Ti-58). Die primêre vervalmodus voor die volopste isotoop,
+   Ti-48, is elektronvangs en die primêre vervalmodus daarna is
+   beta-emissie. Die primêre vervalprodukte voor Ti-48 is element 21
+   (skandium) isotope en die primêre produkte daarna is element 23
+   (vanadium) isotope.
+
+[wysig] Voorsorgmaatreëls
+
+   Wanneer dit in 'n verpoeierde vorm is, verteenwoordig titaanmetaal 'n
+   betekenisvolle brandgevaar en wanneer dit in lug verhit word 'n
+   plofgevaar ook. Water en koolstofdioksied gebaseerde metodes om vure te
+   blus is oneffektief op brandende titaan; sand, stof, of spesiale skuime
+   moet gebruik word. Soute van titaan word dikwels as relatief skadeloos
+   geag, die chloorverbindings soos TiCl[3] en Til[4] moet egter as
+   korrosief beskou word. Titaan het ook die geneigdheid om te
+   bio-akkumuleer in weefsels wat silika bevat maar speel geen bekende
+   biologiese rol in mense nie.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Titanium
+     * Guide to the Elements – Revised Edition, Albert Stwertka, (Oxford
+       University Press; 1998) ISBN 0-19-508083-1
+     * The History and Use of Our Earth's Chemical Elements: A Reference
+       Guide, Robert E. Krebs (Greenwood Press: Westport, CT, 1998) ISBN
+       0-313-30123-9
+     * "titanium" Encyclopædia Britannica from Encyclopædia Britannica
+       Premium Service.[1] [Accessed January 23, 2005].
+     * "titanium" The Columbia Electronic Encyclopedia, 6th ed [2]
+       [Accessed January 23, 2005]
+     * "titanium," Microsoft Encarta Online Encyclopedia 2005 [3]
+       [Accessed January 24, 2005]
+     * USGS Titanium Statistics and Information
+     * Nature, Vol 407, 21 Sept 2000
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Titanium (also used as a reference)
+     * EnvironmentalChemistry.com – Titanium (also used as a reference)
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale
+

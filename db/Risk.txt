@@ -1,0 +1,296 @@
+Risk
+
+
+   'n Tipiese Risk-spel
+   'n Tipiese Risk-spel
+
+   Risk, "Die klassieke Spel van Wêreldoorheersing"^[1] is 'n kommersiële
+   strategiese bordspel wat deur Parker Brothers (nou 'n afdeling van
+   Hasbro) vervaardig is. Die spel is in die vroeë 1950's deur die Franse
+   filmregisseur, Albert Lamorisse ontwikkel en is in 1957 vir die eerste
+   keer in Frankryk vrygestel. Nathan Youmans is in 2006 die "Risk
+   Grootmaarskalk" aangesien hy die eerste plek behaal het in die 2006
+   Risk Wêreldkampioenskappe.
+
+   Risk 'n beurtspel vir twee tot ses spelers en word op 'n bord gespeel
+   wat 'n politiese kaart van die wêreld uitbeeld in die styl van die
+   Napoleaanse-era. Die kaart is verdeel in 42 gebiede wat in ses
+   kontinente gegroepeer is. Spelers beheer leërs om gebiede van ander
+   spelers oor te neem. Die doel van die spel is om al die spelers te
+   elimineer en al die gebiede te oorheers.^[2] Wêreldoorheersing is die
+   mees algemene manier waarop die spel gespeel word, kan dit ook gespeel
+   word deur 'n "doelwitkaart" aan 'n speler te gee (wat doelwitte kan
+   bevat soos om "die blou speler te elimineer" of "Afrika te oorwin"),
+   die eerste speler wat dan sy doelwit bereik is dan die wenner.
+   Vergeleke met ander oorlogspeletjies is dit relatief eenvoudig en
+   abstrak, aangesien dit realistiese beperkinge soos die grootte van die
+   wêreld, logistiese oorwegings van uitgerekte veldtogte ensovoorts buite
+   rekening laat.
+
+   Inhoud
+
+        * 1 Standaard opstelling
+        * 2 Speler beurt:
+             + 2.1 Versterkings
+             + 2.2 Aanval
+             + 2.3 Versterking
+        * 3 Basiese strategie
+        * 4 Geskiedenis
+        * 5 Verskille in reëls
+        * 6 Dobbelsteen waarskynlikhede
+        * 7 Amptelike bordspele
+        * 8 Eksterne skakels
+             + 8.1 Amptelik
+             + 8.2 Nie-Amptelik
+        * 9 Verwysings
+
+[wysig] Standaard opstelling
+
+   Die opstel van die Risk bord is ietwat meer ingewikkeld as baie ander
+   bordspeletjies. Spelers begin met 'n aantal leërs, wat wissel
+   afhangende van die aantal spelers in die spel. Elke speler rol een
+   dobbelsteen; die speler wat die hoogste getal gooi beset 'n enkele
+   gebied van sy of haar keuse met 'n leër. Die besetting van gebiede gaan
+   voort na links van die aanvanklike speler totdat al die gebiede beset
+   is. Spelers gaan dan voort om hul oorblywende leërs te plaas op gebiede
+   wat hulle beset, totdat al hul aanvanklike leërs geplaas is. Na die
+   aanvanklike opstelling voltooi is, neem die eerste speler die eerste
+   beurt van die spel op, met spel wat kloksgewys voortgaan. Die 2-speler
+   spel verskil in soverre die Leërkaarte gebruik word om te bepaal waar
+   jou leërs geplaas word, baie soos met die oorspronklike Franse
+   weergawe.
+
+   In die oorspronklike Franse weergawe, word Risk kaarte uitgedeel aan
+   die spelers en elke speler plaas dan 'n leër op die lande op elke kaart
+   vertoon. Bykomende leërs word dan op die spelers se eie gebiede geplaas
+   na elke speler se goeddunke, nie noodwendig om die beurt nie. Wanneer
+   al die spelers klaar is met die plasing van hul leërs, rol elke speler
+   een dobbelsteen en die speler met die hoogste getal speel eerste met
+   beurte wat wissel na links (kloksgewys).
+
+[wysig] Speler beurt:
+
+   Risk word in beurte gespeel. Elke speler het die geleentheid om sy
+   gebiede te versterk, teenstanders aan te val in aangrensende gebiede en
+   dan hul beurt te beëindig deur hul eie gebiede te versterk.
+
+[wysig] Versterkings
+
+   Aan die begin van elke speler se beurt, kan die speler versterkings tot
+   hule leërs byvoeg. 'n Speler ontvang bykomende leërs op grond van die
+   aantal gebiede wat hulle beheer, die waarde van die kontinente wat
+   hulle beheer en die waarde van enige Risk kaarte wat hulle inruil. Die
+   speler ontvang een leër vir elke drie gebiede onder sy beheer met 'n
+   minimum van drie leërs per beurt. Die getal versterkings wat toegeken
+   word vir die beheer van 'n kontinent wissel. As die speler Asië beheer
+   kry hy sewe ekstra leërs by, vir Noord-Amerika en Europa, vyf; vir
+   Afrika word drie leërs toegeken en vir die kontinent van Australië en
+   Suid-Amerika word twee versterkende leërs op die bord geplaas.
+
+   Bo en behalwe die versterkings wat verkry word vir die besetting van
+   gebiede, kan spelers ook versterkings kry deur Risk kaarte in te ruil.
+   Tydens die aanvalsfase van sy beurt kan 'n speler 'n Risk kaart kry as
+   hy ten minste een gebied oorneem. Die kaart vertoon een van die
+   twee-en-veertig gebiede en 'n prent van 'n infanteris, 'n ruiter of 'n
+   kanon. 'n Stel Risk kaarte is drie identiese kaarte, of drie kaarte wat
+   een van die Risk eenhede elk vertoon. Die aantal versterkings wat
+   toegeken word vir 'n kaart wat ingeruil word neem toe hoe meer stelle
+   kaarte ingeruil word. As 'n kaart ingeruil word met die 'n gebied wat
+   deur die speler beset word daarop vertoon word twee bykomende leërs
+   toegeken vir daardie gebied.
+
+[wysig] Aanval
+
+   Nadat die versterkings ontplooi is, kan die speler aanval om gebiede
+   oor te neem en sodoende 'n Risk kaart te kry. Aanvalle kan slegs tussen
+   twee gebiede plaasvind, een wat deur die aanvallende speler besit word
+   en een wat deur 'n ander speler besit word. Die uitkoms van die geveg
+   word beslis op grond van die rol van 'n dobbelsteen. Elke rol van 'n
+   dobbelsteen word as 'n enkele aanval beskou en die aanvallende speler
+   mag soveel kere aanval as wat hy of sy goed dink op voorwaarde dat die
+   speler voldoende leërs het om aan te val. As 'n aanvallende speler 'n
+   verdedigende speler se laaste gebied beset en hom uit die spel uit
+   elimineer, word die aanvaller beloon met al die verdediger se Risk
+   kaarte.
+   Beeld:Risk infantryman.jpeg
+   Die infanteris, die basiese eenheid van Risk wat 'n leër
+   verteenwoordig.
+
+   As 'n aanval die laaste verdedigende leër uitwis, moet die aanvaller
+   leërs vanaf die aanvallende gebied na die verslaande gebied oordra. Die
+   minimum aantal leërs moet gelykstaande wees aan die getal dobbelstene
+   wat gerol is en daar is geen beperking op die getal wat geskuif mag
+   word nie solank as wat daar ten minste een leër in die aanvallende
+   gebied oorbly. As die aanvaller dus drie leërs in die aanvallende
+   gebied het, mag hy slegs twee dobbelstene rol aangesien hy slegs twee
+   leërs beskikbaar het om die gebied te beset. Die verdedigende speler
+   kan 'n dobbelsteen rol vir elke leër wat op 'n gebied gestasioneer is
+   tot 'n maksimum van twee. 'n Gebied wat dus verdedig word deur 'n
+   enkele leër is swakker as een wat deur meer verdedig word.
+
+   Tydens 'n tipiese aanval waar die aanvaller en die verdediger verskeie
+   leërs het, kan die aanvallende speler een, twee of drie dobbelstene
+   rol. Die verdedigende speler rol een of twee dobbelstene. Die hoogste
+   dobbelsteen van die aanvaller word vergelyk met die hoogste steen van
+   die verdediger en die tweede hoogste steen van die aanvaller met die
+   tweede hoogste steen van die verdediger. Die laagste steen van die
+   aanvaller word buite rekening gelaat. Die verdediger verloor 'n leër as
+   die aanvaller se steen hoër is as die van die verdediger, maar as die
+   verdediger se steen hoër is verloor die aanvaller 'n leër.
+   Beeld:Risk cavalryman.jpeg
+   Die kavallerie, wat vyf leërs verteenwoordig.
+
+[wysig] Versterking
+
+   Wanneer 'n speler klaar aangeval het, het hy die keuse om enige aantal
+   leërs vanaf een en slegs een van sy gebiede na 'n enkele aangrensende
+   gebied onder sy beheer te skuif. As 'n speler ten minste een gebied
+   oorgeneem het tydens sy beurt, moet hulle een Risk kaart uit die pak
+   trek. Die speler mag nooit meer as vyf kaarte op 'n slag hou nie en
+   daar sal dus van so 'n speler verwag word om 'n stel kaarte in te ruil
+   met sy volgende beurt. Spel gaan kloksgewys voort na die volgende
+   speler toe.
+   Beeld:Risk cannon.jpeg
+   Die artillerie, wat tien leërs verteenwoordig.
+
+[wysig] Basiese strategie
+
+   Die amptelike reëls sluit drie basiese strategiese wenke vir die
+   klassieke reëls in. Eerstens moet spelers probeer om hele kontinente te
+   beset om vir bonus versterkings te kwalifiseer. Tweedens moet spelers
+   hulle grense dophou vir die opbou van leërs wat 'n dreigende aanval
+   verteenwoordig. Derdens moet spelers hulle eie leërs op hul grense
+   opbou om hulle gebiede beter te verdedig. Al word dit nie in die reëls
+   genoem nie, vorm bondgenootskappe oor die algemeen na 'n paar beurte.
+   Die sterkte en duur van die bondgenootskappe neig om te wissel.
+
+[wysig] Geskiedenis
+
+   Risk is gegrond op die Franse spel La Conquete du Monde (Conquest of
+   the World), en is ontwerp deur Albert Lamorisse en is in 1957
+   gepubliseer.^[3] Twee jaar later het Parker Brothers 'n gewysigde
+   weergawe van die spel in die Verenigde State bekend gestel met die naam
+   Risk: the Continental Game. Die naam is uiteindelik verander na Risk:
+   the Game of Global Domination (Die spel van wêreldoorheersing).
+
+   Aanvanklik was die stukke stervormige stukke uit hout, maar is later
+   verander na plastiek om die koste van die spel te verminder. In die
+   1980's is hulle verander na Romeinse syferstukke met die syfers I, III,
+   V en X. Die 1993 uitgawe het die plastiese infanterie, kavallerie en
+   artillerie (in beeld hierlangsaan) bekendgestel. Die veertigste
+   herdekingsuitgawe het metaalfigure in plaas van die plastiekstukke
+   ingesluit. Die weergawe het ook nie die verbinding van Oos-Afrika na
+   die Midde-Ooste ingesluit nie, wat skynbaar 'n fout deur die uitgewers
+   was. Latere weergawes het weer teruggekeer na die plastiekstukke en ook
+   die vermiste verbinding ingesluit.^[4] Die Europese weergawe het die
+   "Geheime Sending" variasie vir 'n tyd lank ingesluit maar is eers
+   sedert die 1993 weergawe in die V.S.A ingesluit.^[5]
+
+[wysig] Verskille in reëls
+
+   Met die jare het Parker Brothers en Hasbro baie verskillende weergawes
+   van die reëls vir die spel gepubliseer. In die mees onlangse weergawe
+   word drie variasies gegee. Aangesien Risk met slegs twee spelers nie so
+   boeiend is as met meer spelers nie, beveel hulle aan dat sommige
+   gebiede met neutrale leërs beset moet word om die strategiese waarde en
+   pret van 'n spel met 3 of meer spelers te benader. In 'n ander weergawe
+   wys elke speler 'n "Hoofstad" in een van hulle aanvanklike gebiede aan
+   en die speler wat dan al die hoofstede beset wen dan.^[6]
+
+   Die amptelike reëls stel variasies van die spel voor vir
+   "Risk-kenners". Die amptelike variasies verminder die spoed waarmee die
+   stel Risk-kaarte in waarde vermeerder, dit laat toe vir vinniger
+   herontplooiïng van leërs aan die einde van 'n beurt, verbied meer as
+   twaalf leërs per gebied, gee 'n aanvalsvoordeel wanneer daar aangeval
+   word na of van 'n gebied waarvoor die speler 'n kaart besit en simuleer
+   die effek van 'n "bevelvoerder" in 'n geveg. Bykomend tot hierdie
+   amptelike variasies is daar vele rekenaar en Internet weergawes met
+   verskillende reëls en klubs gebruik dikwels hulle eie reëls of reëls
+   wat aangepas word vir kompetisies.
+
+[wysig] Dobbelsteen waarskynlikhede
+
+   waarskynlikhede om 'n dobbelsteenrol te wen in Risk
+   (verskeie dobbelsteen kombinasies) Aanvaller
+   een steen twee stene drie stene
+   Verdediger een
+   steen Aanvaller wen 15/36 = 41.67% 125/216 = 57.87% 855/1296 = 65.97%
+   Verdediger wen 21/36 = 58.33% 91/216 = 42.13% 441/1296 = 34.03%
+   twee
+   stene Aanvaller wen 55/216 = 25.46% 295/1296 = 22.76% 2890/7776 =
+   37.17%
+   Verdediger wen 161/216 = 74.54% 581/1296 = 44.83% 2275/7776 = 29.26%
+   Beide wen een NVT 420/1296 = 32.41% 2611/7776 = 33.58%
+
+[wysig] Amptelike bordspele
+
+     * Risk (1959) - Die oorspronklike spel
+     * Castle Risk (1986) - 'n Weergawe wat fokus op Europa waarin elke
+       speler se doelwit is om hul kasteel teen aanvalle te beskerm. Dit
+       word algemeen as 'n swakker spel beskou, maar baie begrippe hier
+       bekend gestel is weer later in ander weergawes benut.
+     * Risk: 40^ste Herdenkingsuitgawe (1999) Het 'n meer kleurvolle kaart
+       gehad met metaalstukke.
+     * Risk: Édition Napoléon (1999) - Generaals, forte en vlooteenhede is
+       bygevoeg.
+          + Risk: Édition Napoléon: Ottomaanse ryk uitbreiding (2000) -
+            Voeg 'n sesde speler by Édition Napoléon.
+     * Risk 2210 A.D. (2001) - 'n Futuristiese weergawe wat deur Avalon
+       Hill, 'n afdeling van Hasbro uitgegee is. Die spel sluit gebiede op
+       die maan, Seegebiede en bevelvoerders in.
+     * Risk: The Lord of the Rings (2002) - 2-4 speler weergawe gegrond op
+       die noordelike deel van "Middle-earth".
+          + Risk: the Lord of the Rings: Gondor & Mordor Uitbreiding
+            (2003) - Uitbreiding op die Lord of the Rings uitgawe wat 'n
+            tweespeler minispel insluit.
+     * Risk: Lord of the Rings Trilogy Edition (2003) - Kombineer die
+       eerste twee Lord of the Rings weergawes maar sluit nie die Siege of
+       Minas Tirith minispel in nie.
+     * Risk Godstorm (2004) - 'n Weergawe gegrond op mitologiese figure
+       van verskeie antieke beskawings; uitgegee deur Avalon Hill.
+     * Star Wars Risk: The Clone Wars Edition (2005) - Vind plaas in die
+       Star Wars heelal tydens die Kloonoorloë.
+     * Risk: Star Wars Original Trilogy Edition (2006) - Vind plaas tydens
+       die Galaktiese Burgeroorlog.
+     * Risk Junior: Narnia (2006) - gegrond op 'n Engelstalige kinderboek
+       The Lion, the Witch and the Wardrobe.
+
+[wysig] Eksterne skakels
+
+[wysig] Amptelik
+
+     * Hasbro se amptelike Risk blad
+          + Hasbro se Risk: 2210 A.D. blad
+          + Hasbro se Risk: the Lord of the Rings blad
+          + Hasbrose Risk: Star Wars: Clone Wars blad
+     * Hasbro's Risk rules
+          + 1959 weergawe van die Risk reëls
+          + 1963 weergawe van die Risk reëls
+          + 1975 weergawe van die Risk reëls
+          + 1980 weergawe van die Risk reëls
+          + 1990 weergawe van die Risk reëls saam met die Castle Risk
+            reëls
+          + 1993 weergawe van die Risk reëls
+          + 1999 weergawe van die Risk reëls
+          + 1999 Reëls van Risk se 40^ste Herdinkingsuitgawe vir
+            versamelaars
+
+[wysig] Nie-Amptelik
+
+     * Risk, Strategies Explained Gids vir beginners en gevorderde
+       gebruikers oor hoe om diplomasie en slim taktiek in te span om die
+       spel te wen.
+     * Risk FAQ 'n Web blad met antwoorde op vrae wat gereeld oor Risk
+       gevra word.
+
+[wysig] Verwysings
+
+    1. ^ Risk Produkbesonderhede
+    2. ^ Risk: Die Wêreldoorheersingspel. Hasbro.com. 1993.
+    3. ^ Die geskiedenis van Risk
+    4. ^ Artikel met verwysing na die spel se geskiedenis
+    5. ^ Artikel met verwysing na die "Geheime Sending" variasie
+    6. ^ Risk II
+
+   Kategorie: Bordspeletjies
+

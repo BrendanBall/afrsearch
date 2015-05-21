@@ -1,0 +1,174 @@
+Palwisselratstelsel
+
+
+   'n Palwisselratstelsel is 'n ratstelsel waar die ratverhoudings
+   reëlmatig tussen die laagste en hoogste verhouding verwissel kan word
+   in teenstelling met tradisionele ratstelsels waar dié verandering
+   stapsgewyse vermag word. Die buigsaamheid van 'n palwisselratstelsel
+   maak dit moontlik om 'n konstante hoeksnelheid in die dryfas te
+   handhaaf oor 'n reek afvoersnelhede. Dit kan beter
+   brandstofdoeltreffendheid tot gevolg hê as met ander stelsels en ook
+   die enjin toelaat om by meer doeltreffende toere te bedryf vir 'n reeks
+   voertuigsnelhede.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Voordele en Nadele
+             + 2.1 Voordele
+             + 2.2 Nadele
+        * 3 Soorte
+             + 3.1 Veranderlike deursnee katroltipe
+             + 3.2 Toroïed- of rollergebaseerde palwisselstelsels
+        * 4 Verwysings
+        * 5 Eksterne skakels
+
+[wysig] Gebruike
+
+   'n Bandgedrewe palwisselstelsel
+   'n Bandgedrewe palwisselstelsel
+
+   Baie klein trekkers vir gebruik by die huis en tuin het eenvoudige
+   hidrostatiese of rubberband palwisselstelsels. Die John Deere Gater
+   reeks van klein nutsvoertuie gebruik byvoorbeeld 'n band met koniese
+   katrolle. Hulle kan baie krag lewer en snelhede bereik sonder
+   koppelaars of ratskakelings. Baie nuwe sneeuvoertuie en bromponies
+   gebruik ook palwisselratstelsels. Hierdie soort voertuie gebruik byna
+   almal die rubberband/veranderlike katrol tipe palwisselstelsels.
+
+   Sommige dorsmasjiene het ook palwisselratstelsels. Die palwisselstelsel
+   maak dit moontlik om die snelheid na vore te verstel onafhanklik van
+   die enjinsnelheid. Dit maak dit vir die operateur moontlik om te rem en
+   te versnel om die veranderinge in die digtheid van die gewasse in ag te
+   neem.
+
+   Palwisselratstelsels is in vliegtuie se elektriese kragopwekkers
+   gebruik sedert die 1950's en in sekere renmotors sedert die vroeë
+   1970's. Meer onlangs is palwisselstelsels ontwikkel vir knortjorre waar
+   dit bewys is dat werkverrigting en enjinlewe deur die stelsels verbeter
+   word.
+
+[wysig] Voordele en Nadele
+
+[wysig] Voordele
+
+     * Palwisselratstelsels kan by veranderende voertuigsnelhede aanpas en
+       toelaat dat die enjin by optimale enjinsnelheid bedryf. Dit
+       verbeter brandstofdoeltreffendheid en werk daarom ook skoner
+       uitlaatgasse in die hand.
+
+     * Palwisselstelsels bedryf glad aangesien daar geen ratwisselinge
+       plaasvind wat skielike rukbewegings kan veroorsaak nie.
+
+     * Min probleme word gewoonlik met die stelsels ondervind wat
+       verlaagde onderhoudskostes meebring.
+
+     * Daar is sowat 25% minder bewegende dele in 'n palwisselratkas.
+
+     * Herstelkostes is ook laer in palwisselratkaste.
+
+     * Die vloeistowwe hoef ook nie so gereeld soos in 'n outomatiese
+       ratkas vervang te word nie.
+
+[wysig] Nadele
+
+     * Baie motors wat voorheen palwisselratkaste gehad het, het
+       telleurstellende werkverrigting gehad. Die oorspronklike Ford
+       Fiesta 1.1 CTX het byvoorbeeld 8.2 persent meer petrol in
+       stadsverkeer gebruik as die handratmodel.^[1]
+
+     * Die gladde werking van die palwisselratkas gee baie keer aan die
+       bestuurder 'n valse gewaarwording dat die motor min krag het omdat
+       die meeste bestuurders gewoond is aan die rukbeweging met die
+       wegtrekslag. Sekere vervaardigers het selfs elektroniese
+       beheerstelsels geïmplementeer om hierdie rukbewegings na te boots
+       om die negatiewe bemarkingspersepsie te bowe te kom.^[2]
+
+     * Aangesien die palwisselratkas die enjin by konstante toere hou oor
+       'n wye reeks enjinsnelhede sal 'n voertuig vinniger beweeg as die
+       versneller getrap word maar die klank verander nie so baie soos in
+       die geval van 'n voertuig met 'n konvensionele ratkas nie. Dit
+       verwar baie bestuurders en lei ook tot 'n persepsie dat die
+       voertuig min krag lewer.
+
+     * Palwisselratkaste se vermoë om hoë wringkrag te lewer word beperk
+       deur die treksterkte van die materiale wat die krag oordra (dikwels
+       'n band of 'n ketting) en hul vermoë om verwering as gevolg van
+       wrywing tussen die dryfmedium en die oordragmedium te weerstaan in
+       die geval van wrywingsgedrewe palwisselstelsels. Palwisselstelsels
+       voor 2005 was hoofsaaklik band of kettinggedrewe en was daarom
+       beperk tot motors met lae kraglewering. Daar is egter al stelsels
+       gebou wat van gevorderde smeermiddels gebruik gemaak het en wat in
+       hoë wringkrag toepassings aangewend is; insluitend busse, swaar
+       vragmotors en grondverskuiwingsmasjinerie.
+
+[wysig] Soorte
+
+   Daar bestaan 'n verskeidenheid soorte palwisselstelsels:
+
+[wysig] Veranderlike deursnee katroltipe
+
+   In hierdie algemene soort palwisselstelsel^[3] word daar van V-vormige
+   bande gebruik gemaak wat op katrolle hardloop wat loodrek op hul
+   draai-as verdeel is. Die ratverhouding word aangepas deur die een wiel
+   van die een katrol nader aan die die ander te beweeg sodat die band
+   hoër op tussen die bande loop en die ander katrol se wiele weer verder
+   van mekaar af sodat die band dieper tussen die twee katrolle deurloop.
+   Hierdie veranderinge verander die effektiewe deursnee van die katrolle
+   wat hul oorhoofse ratverhouding beïnvloed. Die afstand tussen die twee
+   katrolle verander nie en die lengte van die band bly ook konstant wat
+   beteken dat beide katrolle ewe veel moet verander om die regte
+   hoeveelheid spanning op die band te behou.
+
+[wysig] Toroïed- of rollergebaseerde palwisselstelsels
+
+   Toroïedale palwisselstelsels bestaan uit skywe en rollers wat die krag
+   tussen die twee skywe oordra. Die skywe kan benaderd gesien word as
+   twee koniese dele wat met hulle punte na mekaar gekeer is, sodat die
+   twee dele saam 'n torus vorm. Een skyf dien as die dryfas toevoer en
+   die ander as die kragafvoer. Die krag word vanaf een kant na die ander
+   oorgedra deur rollers. As die rollers se asse loodreg is ten opsigte
+   van die asse raak die rollers die kegels op dieselfde deursnee en gee
+   dit dus 'n 1:1 ratverhouding. Die rollers se oriëntasie ten opsigte van
+   die dryfas kan verander word wat 'n verandering in ratverhouding
+   meebring.^[4]
+
+[wysig] Verwysings
+
+    1. ^ Poulton, M.L. (1997). Fuel Efficient Car Technology.
+       Computational Mechanics Publications, 69. ISBN 1853124478.
+    2. ^
+       http://www.autozine.org/technical_school/gearbox/tech_gear_cvt.htm#
+       Hyper-CVT
+    3. ^ Fischetti, Mark (January 2006). "No More Gears". Scientific
+       American 294: 92.
+    4. ^ http://auto.howstuffworks.com/cvt3.htm Toroïdale palwisselstelsel
+
+[wysig] Eksterne skakels
+
+     * http://www.hybridsynergydrive.com/en/power_split_device.html Toyota
+       Prius planetêre palwisselratte
+     * http://www.cvtcorp.com/eng/howVarigenWork_high.html CVT Corp -
+       Video van 'n toroïdale palwisselratkas vir 'n Kragopwekker
+     * http://www.jatco.co.jp/ENGLISH/PRODUCTS/s_cvt.html Video-simulasie
+       van 'n bandgedrewe palwisselstelsel in aksie
+     * Video of a real CVT in operation on a racing kart
+     * http://auto.howstuffworks.com/cvt.htm Hoe Palwisselratkaste werk by
+       HowStuffWorks
+     * CVT - Continuously Variable Transmission homepage
+     * Warko CVT Welcome page
+     * Anderson A+CVT homepage
+     * Torotrak IVT homepage
+     * Fallbrook Technologies homepage
+     * eCars.com.au page about CVT
+     * AutoZine Technical School - CVT
+     * Fixed Pitch Continuously Variable Transmission (FPCVT)
+     * Gyroscopic gear
+     * GyroTorque
+     * InfiniTran Controlled Epicyclic Gear Train
+     * Incremental CVT based on variable sprocket
+     * Girotto Brevetti CVT homepage
+     * Tuff Torq Corporation homepage
+
+   Kategorie: Voertuigtegnologie
+

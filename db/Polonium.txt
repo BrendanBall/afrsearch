@@ -1,0 +1,230 @@
+Polonium
+
+
+
+   84                        bismut ← polonium → astaat
+   Te
+   ↑
+   Po
+   ↓
+   Uuh
+
+                                                              periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal polonium, Po, 84
+                                              Chemiese reeks metaalagtiges
+                                             Groep, Periode, Blok 16, 6, p
+                                                         Voorkoms silwerig
+                                                    Atoommassa (209) g/mol
+                            Elektronkonfigurasie [Xe]4f^14 5d^10 6s^2 6p^4
+                                    Elektrone per skil 2, 8, 18, 32, 18, 6
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                  Digtheid (naby k.t.) (alfa) 9.196 g/cm³
+                                  Digtheid (naby k.t.) (beta) 9.398 g/cm³
+                                  Vloeistof digtheid teen s.p. 1.46 g/cm³
+                                                           Smeltpunt 527 K
+                                                                 (254 °C)
+                                                           Kookpunt 1235 K
+                                                                 (962 °C)
+                                             Smeltingswarmte ca. 13 kJ/mol
+                                           Verdampingswarmte 102.91 kJ/mol
+                                 Warmtekapasiteit (25 °C) 26.4 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                          P/Pa   1 10 100  1 k  10 k 100 k
+                                        teen T/K          (846) 1003 1236
+
+                                                           Atoomeienskappe
+                                                   Kristalstruktuur kubies
+                                                   Oksidasietoestande 4, 2
+                                                      (amfoteriese oksied)
+                               Elektronegatiwiteit 2.0 (Skaal van Pauling)
+                                    ionisasie energieë 1ste: 812.1 kJ/mol
+                                                        Atoomradius 190 pm
+                                                 Atoomradius (ber.) 135 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                           Elektriese weerstand (20 °C) (α) 0.40 µΩ·m
+                         Termiese geleidingsvermoë (300 K)  ? 20 W/(m·K)
+                              Termiese uitsetting (25 °C) 23.5 µm/(m·K)
+                                              CAS-registernommer 7440-08-6
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van Polonium
+
+                             iso    NV  halfleeftyd   VM   VE (MeV)   VP
+                            ^208Po sin  2.898 j     α      5.215    ^204Pb
+                                                    ε, β^+ 1.401    ^208Bi
+                            ^209Po sin  103 y       α      4.979    ^205Pb
+                                                    ε, β^+ 1.893    ^209Bi
+                            ^210Po sin. 138.376 d   α      5.407    ^206Pb
+
+                                                                Verwysings
+
+   Polonium is 'n chemiese element in die periodieke tabel met die simbool
+   Po en atoomgetal van 84. Polonium is 'n skaars radio-aktiewe
+   metaalagtige element waarvan die chemiese eienskappe ooreenkomste toon
+   met tellurium en bismut en kom voor in uraan-ertse. Polonium is al
+   ondersoek as moontlike bron vir die verhitting van ruimtetuie. Verskeie
+   isotope van polonium bestaan.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Geskiedenis
+        * 3 Verspreiding
+        * 4 Isotope
+             + 4.1 Polonium-210
+        * 5 Chemiese eienskappe
+        * 6 Voorsorgmaatreëls
+             + 6.1 Gebruik as 'n gifstof
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Gebruike
+
+   Wanneer dit met berillium gemeng of legeer word, kan polonium as 'n
+   bron van neutrone dien. Ander gebruike sluit in:
+     * Die element is al gebruik in toestelle wat bedoel is om statiese
+       ladings in tekstielfabrieke en ander plekke te elimineer.
+       Beta-bronne word egter meer algemeen gebruik en is minder
+       gevaarlik.
+     * Dit word gebruik op borsels wat opgegaarde stof op fotografiese
+       film verwyder. Die polonium wat in die borsels gebruik word, word
+       verseël en beheer en sodoende word die gevaar van radio-aktiewe
+       straling verminder.
+     * ^210Po is al gebruik as 'n ligte verhittingsbron om
+       termo-elektriese selle aan te dryf.
+
+[wysig] Geskiedenis
+
+   Polonium, voorheen ook "Radium F" genoem, is deur Marie Curie en haar
+   man Pierre Curie in 1897 ontdek en is later na Marie se geboorteland,
+   Pole (Latyn: Polonia) vernoem. Pole was ten tye van die ontdekking
+   onder die heerskappy van Rusland en Oostenryk en is nie as 'n
+   onafhanklike land erken nie. Dit was Marie se hoop dat deur die element
+   na haar geboorteland te vernoem dit die kollig op dié land se
+   verknorsing sou werp. Polonium is waarskynlik die eerste elemnte wat
+   gebruik is om aandag op 'n omstrede politiese strydvraag te vestig.
+
+   Die element is die eerste een wat deur die Curies ontdek is terwyl
+   hulle ondersoek ingestel het na die oorsaak van die radio-aktiwiteit
+   van pikblende. Die pikblende was meer radio-aktief na verwydering van
+   die uraan en radium. Dit het hulle aangespoor om die nuwe element op te
+   spoor. Die elektroskoop het aangetoon dat dit saam met die bismut
+   geskei word.
+
+[wysig] Verspreiding
+
+   Polonium is 'n uiters skaars element in die natuur en word in
+   uraan-ertse gevind teen konsentrasies van 100 mikrogram per metrieke
+   ton (1:10^10). Die verspreiding daarvan in die natuur is ongeveer slegs
+   0.2% van die verspreiding van radium.
+
+   In 1934 het 'n eksperiment getoon dat wanneer natuurlike ^209Bi met
+   neutrone gebombardeer word, ^210Bi die radio-aktiewe voorganger van
+   polonium gevorm word. Polonium kan in milligram hoeveelhede met hierdie
+   metode vervaardig word deur gebruik te maak van die hoé neutronflukse
+   wat in kernreaktore gevind kan word.
+
+   Polonium is so uiters skaars dat daar geglo word dat slegs ongeveer 100
+   gram per jaar vervaardig word.
+
+[wysig] Isotope
+
+   Polonium het 25 bekende isotope waarvan almal radio-aktief is. Hulle
+   het atoommassas wat wissel van 194 to 218. ^210Po is meer algemeen
+   beskikbaar. ^209Po (halfleeftyd 103 jaar) en ^208Po (halfleeftyd 2.9
+   jaar) kan gemaak word deur die alfa-, proton- of deuteronbombardement
+   van lood of bismut in 'n siklotron. Hierdie isotope is egter baie duur
+   om te vervaardig.
+
+   Alle elemente wat 84 of meer protone bevat is radio-aktief. Alfa-verval
+   is 'n algemene manier waarop hierdie kerne verval. Die mees stabiele
+   isotope met meer 84 protone is ^232Th en ^238U
+
+[wysig] Polonium-210
+
+   Hierdie isotoop van polonium is 'n alfastraler met 'n halfleeftyd van
+   138.376 dae. 'n Milligram van ^210Po straal dieselfde aantal
+   alfa-partikels uit as wat 5 gram radium sal uitstraal. 'n Groot
+   hoeveelheid energie word vrygestel deur die verval daarvan en 'n halwe
+   gram kan vinnig 'n temperatuur van meer as 750 K (476 °C) bereik. 'n
+   Paar curie van ^210Po straal 'n blou lig uit wat veroorsaak word deur
+   die opwekking van die omliggende lugpartikels. 'n Enkele gram ^210Po
+   wek energie op teen 'n tempo van 150 watt. Aangesien bykans alle
+   alfastraling maklik afgeskerm kan word deur gewone houers en geredelik
+   sy warmte vrystel, is ^210Po gebruik as 'n liggewig verhittingsbron om
+   termo-elektriese selle in satelliete. 'n ^210Po verhittingsbron is ook
+   gebruik in elkeen van die Loenochod verkenningsvoertuie wat op die
+   oppervlak van die maan ontplooi is om hulle interne komponente warm te
+   hou tydens die maannagte.
+
+[wysig] Chemiese eienskappe
+
+   Polonium los geredelik op in verdunde sure, maar is slegs effens
+   oplosbaar in alkalies. Dit is chemies nou verwant aan bismut en
+   tellurium. Polonium-210 (net soos ^238Pu) kan maklik in lug vervlugtig,
+   soveel as 50% van 'n monster verdamp in lug binne 45 uur teen 328K
+   selfs al is sy smeltpunt 527K en sy kookpunt 1235K. Daar bestaan
+   verskeie teorieë oor hoe dit gebeur; waarvan een is dat klein trosse
+   atome afgesplits word deur alfaverval.
+
+   N. Momoshima, L.X. Song, S. Osaki and Y. Maeda, Environ Sci Technol.
+   2001, 35, 2956-2960[1] berig dat mikrobes polonium kan metileer. Hulle
+   beweer ook dat metielkobalamien polonium kan metileer.
+
+[wysig] Voorsorgmaatreëls
+
+   Polonium is 'n hoogs radio-aktiewe en giftige element en is baie
+   moeilik om te hanteer. Selfs in milligram of mikrogram hoeveelhede is
+   die hantering van polonium-210 uiters gevaarlik en word spesiale
+   toerusting en streng hanteringsprosedures vereis. Alfapartikels wat
+   deur polonium uitgestraal word, word deur die liggaam geabsorbeer en
+   kan maklik organiese weefsel beskadig.
+
+   Die maksimum toelaatbare inname vir polonium is slegs 1100 becquerel
+   (0.03 mikrocurie), wat gelykstaande is aan 'n partikel wat slegs 6.8 ×
+   10^-12 gram weeg. Op 'n gewig vir gewig basis is polonium ongeveer 2.4
+   × 10^11 keer giftiger as waterstofsianied. Die maksimum toelaatbare
+   konsentrasie van poloniumverbindings in die lug is ongeveer 7,500
+   Bq/m^3 (2 × 10^-11 µCi/cm^3).
+
+   Polonium is gevind in die rook van sekere tabakblare wat op sommige
+   plekke gekweek word[2][3] en in uraanertse.
+
+[wysig] Gebruik as 'n gifstof
+
+   Slegs sowat 0.12 mikrogram van die materiaal word benodig om 'n
+   noodlottige uitwerking te hê. Polonium word verdink as die gifstof wat
+   tot die dood van Alexander Litvinenko, 'n afvallige voormalige Russiese
+   FSB-lid, in November 2006 gelei het.^[1] Tekens van polonium is
+   opgespoor in verskeie plekke wat hy besoek het kort voor hy siek geword
+   het. ^[2] Litvinenko het die FSB op sy sterfbed daarvan beskudig dat
+   hulle hom doelbewus vergiftig het en die Russiese President, Vladimir
+   Poetin beskuldig van direkte betrokkenheid daarby. ^[3]
+
+[wysig] Verwysings
+
+    1. ^ "Russia responsible for poisoned spy: former KGB London head",
+       thenews.com
+    2. ^ "Radiation found after spy's death", BBC News online
+    3. ^ "In full: a spy accuses and his father pays tribute", The Times,
+       November 24, 2006.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Polonium
+     * WebElements.com – Polonium
+     * Geskiedenis van Polonium
+     * Los Alamos National Laboratory – Polonium
+     * Gevaarlike Stowwe Databank – Polonium, Radio-aktief
+
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,276 @@
+Rodium
+
+
+
+   45                      rutenium ← rodium → palladium
+   Co
+   ↑
+   Rh
+   ↓
+   Ir
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal rodium, Rh, 45
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 9, 5, d
+                                             Voorkoms silwerige wit metaal
+                                            Atoommassa 102.90550 (2) g/mol
+                                       Elektronkonfigurasie [Kr] 4d^8 5s^1
+                                        Elektrone per skil 2, 8, 18, 16, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 12.41 g/cm³
+                                  Vloeistof digtheid teen s.p. 10.7 g/cm³
+                                                          Smeltpunt 2237 K
+                                                                (1964 °C)
+                                                           Kookpunt 3968 K
+                                                                (3695 °C)
+                                              Smeltingswarmte 26.59 kJ/mol
+                                              Verdampingswarmte 494 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.98 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2288 2496 2749 3063 3405 3997
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                Oksidasietoestande 2, 3, 4
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 2.28 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 719.7 kJ/mol
+                                                          2de: 1740 kJ/mol
+                                                         3rde: 2997 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 173 pm
+                                                   Kovalente radius 135 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                 Elektriese weerstand (20 °C) 43.3 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 150 W/(m·K)
+                               Termiese uitsetting (25 °C) 8.2 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 4700 m/s
+                                                  Young se modulus 275 GPa
+                                                      Skuifmodulus 150 GPa
+                                                      Massamodulus 380 GPa
+                                                    Poissonverhouding 0.26
+                                                      Mohs se hardheid 6.0
+                                                 Vickers hardheid 1246 MPa
+                                                 Brinell hardheid 1100 MPa
+                                              CAS-registernommer 7440-16-6
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Rodium
+
+                           iso    NV  halfleeftyd VM     VE (MeV)     VP
+                         ^99Rh   sin  16.1 d      e   -             ^99Ru
+                                                  ?   0.089, 0.353,
+                                                      0.528         -
+                         ^101mRh sin  4.34 d      e   -             ^101Ru
+                                                  IO  0.157         ^101Rh
+                                                  ?   0.306, 0.545  -
+                         ^101Rh  sin  3.3 y       e   -             ^101Ru
+                                                  ?   0.127, 0.198,
+                                                      0.325         -
+                         ^102mRh sin  2.9 j       e   -             ^102Ru
+                                                  ?   0.475, 0.631,
+                                                      0.697, 1.046  -
+                         ^102Rh  sin  207 d       e   -             ^102Ru
+                                                  ß^+ 0.826, 1.301  ^102Ru
+                                                  ß^- 1.151         ^102Pd
+                                                  ?   0.475, 0.628  -
+                         ^103Rh  100% Rh is stabiel met 58 neutrone
+                         ^105Rh  sin  35.36 h     ß^- 0.247, 0.260,
+                                                      0.566         ^105Pd
+                                                  ?   0.306, 0.318  -
+
+                                                                Verwysings
+
+   Rodium is 'n chemiese element met die simbool: Rh. Dit het 'n
+   atoomgetal van 45. Die element is 'n skaars silwerwit, harde
+   oorgangsmetaal en is 'n lid van die platinumgroep. Rodium word
+   aangetref in platinumertse en word gebruik in legerings saam met
+   platinum en ook as 'n katalis. Dit is die duurste edelmetaal.^[1]
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+             + 4.1 Gewone mynbou
+             + 4.2 As 'n fissieproduk
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Rodium is 'n silwerwit, harde, duursame metaal met 'n hoë
+   weerkaatsingsvermoë. Rodium-metaal vorm nie normaalweg 'n oksied nie,
+   selfs al word dit verhit. Suurstof word uit die atmosfeer geabsorbeer
+   by die smeltpunt van rodium, maar wanneer dit stol word die suurstof
+   weer vrygestel.^[2] Rodium het 'n hoër smeltpunt en laer digtheid as
+   platinum. Dit word nie deur sure aangeval nie en is geheel en al
+   onoplosbaar in salpetersuur en is net effe oplosbaar in aqua regia. Die
+   volledige oplos van rodiumpoeier word slegs in swaelsuur vermag.
+
+[wysig] Gebruike
+
+   Die hoofgebruik van hierdie element is as legeringsmiddel vir die
+   verharding van platinum en palladium. Hierdie legerings word gebruik in
+   hoogoonde, vir glasveselproduksie, termokoppel-elemente, elektrodes vir
+   vliegtuie se vonkproppe en laboratoriumkroesies. Ander gebruik sluit
+   in:
+     * Dit word gebruik as 'n kontakmateriaal in skakelaars vanweë sy lae
+       elektriese weerstand, lae en stabiele kontakweerstand en sy hoë
+       korrosiebestandheid.
+     * Geplateerde rodium wat deur elektroplatering of verdamping
+       vervaardig word is uiters hard en word gebruik in optiese
+       instrumente.
+     * Die metaal word ook in juwele en vir versiering gebruik. Dit word
+       op witgoud en platinum ge-elektroplateer en verleen daaraan 'n
+       glansende wit oppervlak. Dit kan ook gebruik word om sterling
+       silwer te bedek om te keer dat die metaal vlek vanweë die koper wat
+       in die metaal gevind word.
+     * Dit is ook 'n baie nuttige katalis wat in 'n aantal
+       nywerheidsprosesse gebruik word (veral die gebruik van katalitiese
+       stelsels van voertuie se katalitiese omskakelaars en vir die
+       katalitiese karbonilasie van metanol om asynsuur te vervaardig in
+       die Monsanto proses). Dit word gebruik in die katalitiese byvoeging
+       van hidrosilane aan 'n dubbelverbinding, 'n proses wat baie
+       belangrik is vir sekere silikonrubbers.
+     * Die kompleksverbinding van 'n rodium-ioon met BINAP verskaf 'n
+       algemeen gebruikte katalis vir stereoselektiewe sintese, soos in
+       die geval van die sintese van mentol.
+     * Dit word ook gebruik as 'n filter in mammografiese stelsels vanweë
+       die kenmerklike x-strale wat dit laat ontstaan.
+
+[wysig] Geskiedenis
+
+   Rodium (Vanaf Griekse rhodon wat "Roos" beteken) is in 1803 deur
+   William Hyde Wollaston^[3], kort na die ontdekking van palladium. Hy
+   het die ontdekking gedoen in Engeland deur gebruik te maak van
+   platinumerts wat hy vermoedelik vanuit Suid-Amerika verkry het. Sy
+   metode het die oplos van die erts in aqua regia, met die daaropvolgende
+   neutralisering van die suur met natriumhidroksied (NaOH) behels. Hy het
+   die platinum dan as ammoniumchloroplatinaat laat neerslaan deur
+   ammoniumchloried (NH[4]Cl) by te voeg. Die element palladium is as
+   palladiumsianied verwyder deur die oplossing met kwiksianied te
+   behandel. Die oorblywende materiaal was 'n rooi rodium(III)chloried:
+   rodium metaal is uit hierdie verbinding geïsoleer deur reduksie met
+   waterstofgas.
+
+[wysig] Verspreiding
+
+[wysig] Gewone mynbou
+
+   Die nywerheidsontginning van rodium is 'n ingewikkelde proses aangesien
+   die metaal in ertse voorkom waar dit gemeng is met ander metale soos
+   palladium, silwer, platinum en goud. Dit word aangetref in
+   platinumertse en in die vrye toestand is dit 'n inerte wit metaal wat
+   baie moeilik is om te smelt. Hoofbronne van hierdie erts word in
+   Suid-Afrika, in die riviersand van die Oeralgebergtes, in Noord- en
+   Suid-Amerika en ook in die koper-nikkelsulfied mynbougebied van
+   Sudbury, Ontario. Alhoewel die hoeveelhede te Sudbury baie min is, is
+   die ontginning daarvan steeds kostedoeltreffend vanweë die groot
+   hoeveelhede nikkelerts wat verwerk word. Die hoofuitvoerder van rodium
+   is Suid-Afrika (>80%) met Rusland as die tweede grootste produsent. Die
+   jaarlikse wêreldwye produksie van hierdie element is slegs ongeveer 25
+   ton en daar bestaan baie min rodiumbevattende minerale. Dit is oor die
+   algemeen baie moeilik om te bepaal of 'n rotsmonster
+   platinumgroepelemente bevat.
+
+   Met ingang Oktober 2007 is rodium se prys ongeveer agt keer soveel as
+   dié van goud gewees, 450 duurder as silwer en 27 250 duurder as koper
+   op 'n gewigsbasis. Rodium se prys is gewoonlik ongeveer R 6 500/fyn
+   ons^[4], maar daar was in die afgelope paar jaar skerp stygings wat die
+   prys op ongeveer R 40 300/per fyn ons te staan laat kom het.^[5]
+
+[wysig] As 'n fissieproduk
+
+   Dit is ook moontlik om rodium te ontgin vanuit verbruikte kernbrandstof
+   wat rodium (1 kg van die fissieprodukte van ^235U bevat 13.3 gram
+   ^103Rh. Aangesien gebruikte kernbrandstof ongeveer 3% fissieprodukte op
+   'n massabasis bevat sal dit ongeveer 400 gram rodium per ton kernafval
+   bevat. Die radio-isotoop van rodium met die langste leeftyd is ^102mRh
+   wat 'n halfleeftyd van 2.9 jaar het, terwyl die grondtoestand (^102Rh)
+   'n halfleeftyd van 207 dae het.
+
+   Elke kilogram rodium vanuit kernfissie sal 6.62 ng ^102Rh en 3.68 ng
+   ^102Rh bevat. Aangesien ^102Rh met 'n beta-vervalmeganisme na óf ^102Ru
+   (80%) ('n mate van Positronemissie sal plaasvind) óf ^102Pd (20%)
+   (gammastraalfotone met ongeveer 1 MeV word uitgestraal).
+
+   As die fissiereaksie oombliklik plaasvind dan sal 13.3 gram rodium
+   ongeveer 67.1 MBq of ^102Rh en 10.8 MBq ^102mRh bevat. Aangesien dit
+   normale praktyk is om afval kernbrandstof vir sowat vyf jaar te laat
+   staan voor herverwerking, sal baie van die aktiwiteit al weggeval het
+   en net sowat 4.7 MBq ^102Rh en 5.0 MBq ^102mRh bevat. As die
+   rodium-metaal dan vir 'n verdere 20 jaar laat staan word na die
+   fissiereaksie sal die 13.3 gram rodium-metaal ongeveer 1.3 kBq ^102Rh
+   en 500 kBq ^102mRh bevat. Op die eerste oogopslag sou dit voorkom asof
+   die rodium waarde toevoeg tot die waarde van herverwerkte fissie-afval,
+   maar die koste van die skeiding van rodium vanuit die ander metale
+   behoort oorweeg te word.
+
+[wysig] Isotope
+
+   Rodium wat in die natuurlik voorkom bestaan slegs uit een isotoop,
+   ^103Rh. Die mees stabiele radio-isotope is ^101Rh met 'n halfleeftyd
+   van 3.3 jaar, ^102Rh met 'n halfleeftyd van 207 dae, ^102mRh met 'n
+   halfleeftyd van 2.9 jaar en ^99Rh met 'n halfleeftyd van 16.1 dae.
+   Twintig ander radio-isotope is al geëien met atoommassas wat wissel
+   tussen 92.926 tot 116.925. Die meeste hiervan het halfleeftye van
+   minder as 'n uur behalwe vir ^100Rh (halfleeftyd: 20.8 uur) en ^105
+   (halfleeftyd: 35.36 uur). Daar is ook 'n hele aantal metatoestande met
+   die mees stabiele daarvan ^102mRh (0.141 MeV) met 'n halfleeftyd van
+   ongeveer 207 dae en ^101mRh (0.157 MeV) met 'n halfleeftyd van 4.34
+   dae.
+
+   Die primêre vervalmodus voor die enigste stabiele isotoop, ^103Rh, is
+   elektronvangs en die primêre modus daarna is beta-emissie. Die primêre
+   vervalproduk voor ^103Rh is rutenium en die primêre produk daarna is
+   palladium.
+
+[wysig] Voorsorgmaatreëls
+
+   Rodium-metaal is 'n edelmetaal en daarom chemies inert.
+
+   Wanneer rodium egter in verbindings voorkom is dit reaktief. Die meeste
+   mense kom nie maklik met rodiumverbindings in aanraking nie maar dit
+   behoort as uiters giftig en karsinogenies beskou te word. Die
+   noodlottige inname (LD50) vir rotte is 12.6 mg/kg rodiumchloried
+   (RhCl[2]. Rodiumverbindings kan die menslike vel baie kwaai vlek. Die
+   element speel geen biologiese rol by die mens nie. Die onverbonde
+   element kan as skadeloos beskou word.
+
+[wysig] Verwysings
+
+    1. ^ http://www.taxfreegold.co.uk/preciousmetalpricesindx.html
+    2. ^ Emsley, John; Nature's Building Blocks; Hardeband, eerste
+       uitgawe; uitgewer = Oxford University Press; 2001; bladsy 363; ISBN
+       0198503407
+    3. ^ WebElements - The History of Rhodium
+    4. ^ http://periodic.lanl.gov/elements/45.html
+    5. ^ KITCO Rhodium Price Charts
+
+[wysig] Eksterne skakels
+
+     * WebElements.com –se artikel oor Rodium
+     * Huidige Rodiumprys
+     * Rhodium Technical and Safety Data
+     * Los Alamos National Laboratory –se artikel oor Rodium
+
+   Rodiumfoelie en -draad
+   Rodiumfoelie en -draad
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Rhodium
+   Kategorie: Chemiese elemente
+

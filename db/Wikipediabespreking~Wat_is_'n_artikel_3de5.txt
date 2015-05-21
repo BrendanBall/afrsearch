@@ -1,0 +1,21 @@
+Wikipediabespreking:Wat is 'n artikel
+
+
+   Ek vermoet die skakel vanaf die statistiekbladsy veronderstel dat
+   hierdie artikel gaan verduidelik wat as artikels getel word deur die
+   sagteware en wat nie. Ek dink hierdie is die relevante paragraaf:
+
+          The automatic definition used by the software at
+          Special:Statistics is: any page that is in the article
+          namespace, is not a redirect page and contains at least one wiki
+          link. The statistics software currently has no method of
+          detecting disambiguation pages, however; nor does it disregard
+          stubs (but in any case many articles tagged as stubs are quite
+          substantial) or stublists (lists templates with little or no
+          content).
+
+   --Alias 06:46, 16 Mei 2006 (UTC)
+
+          Jammer, ek het te vinnig gelees. Ignooreer. --Alias 06:48, 16
+          Mei 2006 (UTC)
+

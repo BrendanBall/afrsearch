@@ -1,0 +1,104 @@
+Gedraaide draadpaar
+
+
+   25-paar kleurkode Kaart
+   25-paar kleurkode Kaart
+   10BASE-T Kabel
+   10BASE-T Kabel
+
+   Gedraaide Draadpaarkabels (Engels: Twisted Pair) is 'n algemene vorm
+   van bedrading waar twee geleiers om mekaar gewen word met die doel om
+   elektromagnetiese steuring uit te skakel wat oorspraak tot gevolg kan
+   hê.
+
+   Die aantal draaie per meter maak 'n belangrike deel uit van die
+   spesifikasie van 'n gegewe soort kabel. Hoe groter die aantal draaie,
+   hoe meer word oorspraak verminder. Die draai van die drade verminder
+   steurings omdat:
+     * Die gebied tussen die kabels (wat die magnetiese koppeling na die
+       sein bepaal) word soveel moontlik verminder.
+     * Die rigting van die stroom wat deur 'n eenvormige magnetiese veld
+       geskep word, word met elke draai omgekeer sodat die strome in
+       opeenvolgende draaie mekaar uitkanselleer.
+
+   Inhoud
+
+        * 1 Kabelsoorte
+             + 1.1 Afgeskermde Gedraaide Draadpaar (STP)
+             + 1.2 Onafgeskermde Gedraaide Draadpaar (UTP)
+        * 2 Kategorieë
+             + 2.1 Kategorie 1 kabel (Cat1)
+             + 2.2 Kategorie 2 kabel (Cat2)
+             + 2.3 Kategorie 3 kabel (Cat3)
+             + 2.4 Kategorie 4 kabel (Cat4)
+             + 2.5 Kategorie 5 kabel (Cat5/Cat5e)
+             + 2.6 Kategorie 6 kabel (Cat6)
+             + 2.7 Kategorie 7 kabel (Cat7)
+        * 3 Telefoonkabels
+        * 4 Eksterne skakels
+
+[wysig] Kabelsoorte
+
+   Afgeskermde Gedraaide Draadpaar
+   Afgeskermde Gedraaide Draadpaar
+
+[wysig] Afgeskermde Gedraaide Draadpaar (STP)
+
+   Hierdie kabel het 'n geweefde geleier of foelie omhulsel vir elke paar
+   en bied teoreties baie goeie beskerming teen steuring en oorspraak. Dit
+   is voorheen algemeen gebruik vir token ring netwerke. Afgeskermde
+   koeksisterpaarkabels (Engels: Shielded Twisted Pair of STP) word egter
+   deesdae min gebruik omdat die potensiële verhoging in werkverrigting bo
+   dié van Onafgeskermde gedraaide draadpare (Engels: Unshielded Twisted
+   Pair of UTP) nie die veel hoër koste regverdig nie.
+   Onafgeskermde Gedraaide Draadpaarkabel
+   Onafgeskermde Gedraaide Draadpaarkabel
+
+[wysig] Onafgeskermde Gedraaide Draadpaar (UTP)
+
+   Onafgeskermde gedraaide draadpaarkabel (Engels: UTP, Unscreened Twisted
+   Pair) is nie met enige afskerming omring nie. Dit is die soort kabel
+   wat hoofsaaklik gebruik word vir die plaaslike gedeelte van
+   telefoonnetwerke en is baie algemeen in rekenaarnetwerke veral omdat
+   die kabels baie buigbaar is en maklik is om te lê.
+
+   Koeksisterpaarkabels word gestandardiseer in verskeie kategorieë
+   volgens nommer wat verskeie integriteitseienskappe van die sein aandui.
+   Kategorie 4 kabel en Kategorie 5 kabel word algemeen gebruik in
+   Ethernet netwerke met 10BASE-T of 100BASE-TX. Vir nuwe installasies
+   word deesdae pleks van 'n Kategorie 5 kabel - die verbeterde Kategorie
+   5e kabel, (Engels: Cat5e = enhanced) gebruik.
+
+[wysig] Kategorieë
+
+[wysig] Kategorie 1 kabel (Cat1)
+
+[wysig] Kategorie 2 kabel (Cat2)
+
+[wysig] Kategorie 3 kabel (Cat3)
+
+[wysig] Kategorie 4 kabel (Cat4)
+
+[wysig] Kategorie 5 kabel (Cat5/Cat5e)
+
+[wysig] Kategorie 6 kabel (Cat6)
+
+[wysig] Kategorie 7 kabel (Cat7)
+
+[wysig] Telefoonkabels
+
+   Vir telefonie-toepassings word onafgeskermde gedraaide draadpaarkabels
+   gegroepeer in stelle van 25 pare volgens 'n standaard 25-paar kleurkode
+   wat oorspronklik deur AT&T ontwikkel is. 'n Tipiese substel van hierdie
+   kleure (wit/blou, blou/wit, wit/oranje, oranje/wit) kom in die meeste
+   onafgeskermde gedraaide draadpaarkabels voor. Daar word tans
+   telefoonkabels van tot 200 en meer pare gebruik. Die draadpaarkabels
+   moet met verskillende draaie per meter vervaardig word om kruisgeraas
+   (Engels: crosstalk), te voorkom.
+
+[wysig] Eksterne skakels
+
+     * Hoe om 'n Kategorie 5 netwerkkabel te bedraad
+
+   Kategorie: Rekenaar
+

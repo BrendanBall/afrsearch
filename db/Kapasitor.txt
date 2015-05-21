@@ -1,0 +1,265 @@
+Kapasitor
+
+
+   Verskeie soorte kapasitors
+   Verskeie soorte kapasitors
+
+   'n Kapasitor is 'n elektroniese komponent was energie stoor in die vorm
+   van 'n elektriese veld. Die elektriese veld word gegenereer tussen twee
+   geleiers as gevolg van teenoorgestelde elektriese lading wat op die
+   verskillende geleiers geplaas word.
+
+   Inhoud
+
+        * 1 Fisika
+             + 1.1 Oorsig
+             + 1.2 Kapasitansie van 'n kapasitor
+             + 1.3 Energie
+        * 2 In elektriese stroombane
+             + 2.1 Gelykstroom
+             + 2.2 Wisselstroom
+                  o 2.2.1 Fasor stroombaan analise en impedansie
+                  o 2.2.2 Laplace stroombaananalise (s-vlak)
+             + 2.3 Kapasitornetwerke
+        * 3 Sien ook
+        * 4 Bronne
+
+[wysig] Fisika
+
+[wysig] Oorsig
+
+   'n Kapasitor bestaan uit twee elektrodes, of plate, wat elk 'n
+   teenoorgestelde lading stoor. Die twee plate is geleiers wat deur 'n
+   isolator, of diëlektrikum, geskei word. Die lading word op die
+   oppervlakte van die plate gestoor teen die grens met die diëlektrikum.
+   Aangesien elke plaat dieselfde hoeveelheid van die teenoorgestelde
+   lading stoor is die netto lading wat in die kapasitor gestoor is nul.
+   In die onderstaande diagram veroorsaak die roterende molekules 'n
+   teenoorgestelde elektriese veld wat die veld wat deur die plate
+   veroorsaak woord gedeeltelik uitkanselleer. Dit word diëlektrikum
+   polarisasie genoem.
+
+[wysig] Kapasitansie van 'n kapasitor
+
+   Wanneer 'n elektriese lading op die plate akkumuleer word 'n elektriese
+   veld geskep in die gebied tussen die plate wat proporsioneel is aan die
+   lading tussen die plate. Die veld veroorsaak 'n potensiaal verskil V =
+   Ed tussen die twee plate. Die elektrone van die diëlektrikum molekules
+   word deur die elektriese veld beïnvloed. Die molekules roteer 'n
+   bietjie vanaf hulle ewewigsposisie.
+
+   Die kapasitansie van 'n kapasitor is die maat van die elektriese lading
+   wat gestoor is op elke plaat gegee 'n potensiaalverskil of spanning wat
+   oor die bestaan.
+
+          C = {Q \over V}
+
+                      waar
+
+                            C die kapasitansie is,
+                            Q die lading wat in elke plaat gestoor is, en
+                            V die spanning oor die plate is.
+
+   Die SI-eenheid vir kapasitansie die farad. 'n Kapasitor van een farad
+   stoor een coulomb lading wat 'n potensiaalverskil van een volt
+   veroorsaak oor die plate. Aangesien die farad 'n baie groot eenheid is
+   word kapasitansie gewoonlik in mikrofarad (µF), nanofarad (nF) of
+   pikofarad (pF) gegee. Die kapasitansiewaarde is eweredig aan die
+   oppervlak van die plate en omgekeerd eweredig aan die afstand tussen
+   die plate. Die kapasitansie van 'n parallel kapasitor word gegee deur
+   die vergelyking:
+
+          C \approx \frac{\epsilon A}{d}; A \gg d^2
+
+                      waar
+
+                            C die kapasitansie is,
+                            e die permitiwiteit van die diëlektrikum is,
+                            A die oppervlak van die plate is, en
+                            d die afstand tussen dis plate is.
+
+[wysig] Energie
+
+   Die teenoorgestelde lading akkumuleer op die plate van die kapasitor as
+   gevolg van die skeiding van lading. 'n Spanning word geïnduseer oor die
+   kapasitor as gevolg van die elektriese veld van die ladings. Al hoe
+   meer werk moet verrig word teen die elektriese veld wat groter word
+   soos meer lading skeiding plaasvind. Die energie, gemeet in joule in
+   die SI-eenheid stelsel, wat in die kapasitor gestoor word is gelyk aan
+   die hoeveelheid werk wat verrig word om 'n spanningsval oor die
+   kapasitor te induseer. Dus is die energie ook eweredig aan die
+   elektriese veld oor die plate van die kapasitor. Die energie wat
+   gestoor word in 'n kapasitor word deur die volgende vergelyking
+   bereken:
+
+          E_\mathrm{gestoor} = {1 \over 2}{Q^2 \over C} = {1 \over 2} C
+          V^2 = {1 \over 2} V Q
+
+                      waar
+
+                            E[gestoor] die energie wat gestoor word is,
+                            C die kapasitansie van die kapasitor is,
+                            V die spannings val oor die kapasitor is,
+                            Q die lading wat op elke plaat akkumuleer is.
+
+[wysig] In elektriese stroombane
+
+[wysig] Gelykstroom
+
+   Elektrone kan nie maklik direk oor die diëlektrikum van een plaat na
+   die ander vloei nie aangesien die diëlektrikum gekies word as 'n goeie
+   isolator. Wanneer daar 'n stroom deur die kapasitor vloei is die as
+   gevolg van die akkumulasie van elektrone op die een plaat en die
+   verwydering van elektrone op die ander plaat. Die proses wat bekend
+   staan as 'laai van die kapasitor' is ten alle tye neutraal. Die stoom
+   deur die kapasitor is as 'n resultaat van die skeiding van lading in
+   plaas van die akkumulasie van lading. Die skeiding van lading
+   veroorsaak 'n elektriese veld tussen die plate van die kapasitor wat
+   aanleiding gee tot die spanningsval oor die kapasitor. Hierdie
+   spanningsval is direk eweredig aan die hoeveelheid lading skeiding. Die
+   lading skeiding is die tyd integraal van die stroom deur die kapasitor.
+   Dit word deur die volgende vergelyking voorgestel:
+
+          I = \frac{dQ}{dt} = C\frac{dV}{dt}
+
+                      waar
+
+                            I die stroom deur die kapasitor is,
+                            dV/dt vir tyd afgeleide van die spanning is,
+                            C die kapasitansie van die kapasitor is.
+
+   Die gelykstroom spanning oor die kapasitor kan nie die spanning van die
+   gelykstroom bron oorskry nie. Dus word die ewewigstoestand bereik as
+   die spanning oor die kapasitor konstant is en die stroom dus nul is.
+   Daarom word die gesê kapasitor blokkeer gelykstroom.
+
+[wysig] Wisselstroom
+
+   Die kapasitor stroom as gevolg van wisselstroom spanning of stroom
+   bronne verander periodies van rigting. Die wisselstroom laai die
+   kapasitor plate om die beurt met die teenoorgestelde lading. Die stroom
+   deur die kapasitor is slegs nul by die omkeerpunt van die proses, dus
+   word dit gesê kapasitor gelei wisselstroom.
+
+   Aangesien die spanning oor 'n kapasitor die integraal van die stoom oor
+   tyd is, soos hierbo getoon, sal die fase van die spanning die stroom
+   volg met 90 grade in sinusvormige wissel stroombane.
+
+[wysig] Fasor stroombaan analise en impedansie
+
+   Deur van fasors gebruik te maak word die impedansie van 'n kapasitor
+   gegee deur die volgende vergelyking:
+
+          Z_C = V_l / I_l = \frac{-j}{\omega C} = \frac{-j}{2 \pi f C} =
+          -j X_C
+
+                      waar
+
+                            X_C = \frac{1}{\omega C} \, die kapasitiewe
+                            reaktansie is,
+                            \omega = 2 \pi f \, die hoek frekwensie is,
+                            C die kapasitansie is,
+                            f die frekwensie is, en
+                            j die imaginêre eenheid is.
+
+   Dus is kapasitiewe reaktansie die negatiewe komponent van impedansie.
+   Die negatiewe teken toon dat die stroom die spanning voorgaan met 90
+   grade vir sinusvormige seine, in teen stelling 'n induktor waar die
+   stroom die spanning met 90 grade volg.
+
+   Die impedansie van die komponent stem ooreen met die weerstand van 'n
+   resistor. Aangesien die impedansie omgekeerd eweredig is aan die
+   frekwensie van die sinusvormige sein sal die impedansie na nul neig vir
+   hoe frekwensies, 'n kortsluiting, en na oneindig vir lae frekwensies,
+   'n oop baan.
+
+   Die kapasitor verkwis nie energie nie, maar stoor die. In elektriese
+   stroombane is daar twee tipe laste, weerstand laste wat energie deur
+   elektromagnetiese radiasie verkwis, sien black body radiation. Die
+   tweede tipe is reaktansie wat nie energie verkwis nie, maar die slegs
+   stoor om weer terug te lewer aan die stroombaan.
+
+   Dit sal ook opgemerk word dat die impedansie omgekeerd eweredig is aan
+   die kapasitansie, in teen stelling met resistor en induktors wat
+   linieer in. Dus is die serie en parallel stroombaan formules hieronder
+   die teenoorgestelde van weerstande en induktors.
+
+[wysig] Laplace stroombaananalise (s-vlak)
+
+   Wanneer die Laplace transform in stroombaananalise gebruik word, word
+   die oordrag impedansie van 'n ideale kapasitor met nie ideale stroom
+   voorgestel in die s-vlak deur die vergelyking:
+
+          Z(s) = \frac{1}{sC}
+
+                      waar
+
+                            C die kapasitansie is, en
+                            s (= σ+jω) die komplekse frekwensie is.
+
+   As die kapasitor 'n aanvanklike lading het word dit voorgestel deur
+     * 'n stroombron in serie met die kapasitor te plaas met die waarde
+
+          \frac{V_0}{Cs}
+
+     * 'n spanningsbron in parallel met die kapasitor te plaas met die
+       waarde
+
+          V[0]
+
+                      waar
+
+                            V[0] die aanvanklike spanningsval is wat deur
+                            die lading veroorsaak word,
+                            C die kapasitansie is, en
+                            s (= σ+jω) die komplekse frekwensie is.
+
+[wysig] Kapasitornetwerke
+
+   Die spanningsval oor die kapasitor in 'n parallelle konfigurasie is
+   dieselfde, maar die stroom deur elke kapasitor kan verskil. Die totale
+   stroom in die netwerk is die som van die strome in elke kapasitor. Die
+   ekwivalente totale kapasitansie (C[tot]) van die netwerk word bereken
+   deur:
+
+          'n Diagram van kapasitors in parallel gekoppel
+
+          C_\mathrm{tot} = C_1 + C_2 + \cdots + C_n \,
+
+   Die parallelle konfigurasie van die kapasitor verhoog die totale lading
+   wat gestoor kan word, dus verhoog die hoeveelheid energie wat gestoor
+   kan word.
+
+   Die stroom deur die kapasitor in 'n series konfigurasie is dieselfde,
+   maar die spannings val oor elke kapasitor kan verskil. Die totale
+   spanningsval oor die netwerk is die som van die spanningsval oor elke
+   kapasitor. Die ekwivalente totale kapasitansie (C[tot]) van die netwerk
+   word bereken deur:
+
+          'n Diagram van kapasitor in series
+
+          \frac{1}{C_\mathrm{tot}} = \frac{1}{C_1} + \frac{1}{C_2} +
+          \cdots + \frac{1}{C_n}
+
+   In 'n parallelle stroombaan is die totale lading die som van die lading
+   op elke kapasitor, maar in 'n series stroombaan is die lading op elke
+   kapasitor dieselfde.
+
+   Kapasitor kan in parallel gekoppel word om die maksimum spanning val
+   oor die kapasitor te verhoog. Dus sal die identiese kapasitor met 'n
+   maksimum spanningsval van 10 volt wat in serie geskakel word 'n
+   maksimum spanning van 30 volt kan hanteer. Die nadeel is dat die totale
+   kapasitansie slegs 'n derde van die van elke kapasitor is.
+
+[wysig] Sien ook
+
+     * Resistor
+     * Elektrisiteit
+     * Elektronika
+
+[wysig] Bronne
+
+   Hierdie artikel is uit die Engelse Wikipedia vertaal.
+
+   Kategorie: Elektroniese komponente
+

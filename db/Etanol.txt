@@ -1,0 +1,176 @@
+Etanol
+
+
+                                                       CAPTION: Eienskappe
+
+                                                                  Algemeen
+                                                               Naam Etanol
+
+   Strukturele formule van Etanol
+
+                                               Chemiese formule C[2]H[5]OH
+                                              Molekulêre massa 46.069 ame
+                                                        CAS nommer 64-17-5
+                                                            VN nommer 1170
+
+                                                               Fase gedrag
+                                             Smeltpunt 158.8 K (-114.3°C)
+                                                Kookpunt 351.5 K (78.4°C)
+                                               Trippelpunt 159 K (-114°C)
+                                              Kritieke punt 514 K (241°C)
+
+                                                                    63 bar
+                                ΔH^smelt (ook Stollingswarmte) 4.9 kJ/mol
+                                                     ΔS^smelt 31 J/mol·K
+                                                     ΔH^damp 38.56 kJ/mol
+                                      Oplosbaarheid Oplosbaarheid in water
+
+                                                     Suur-basis eienskappe
+                                              pKa 15.9 (H^+ van -OH groep)
+                                                         pH 7.0 (Neutraal)
+
+                                                      Vloeistof eienskappe
+                                           Δ[f]H^0[liquid] -277.38 kJ/mol
+                                             S^0[vloeistof] 159.9 J/mol·K
+                                                       C[p] 112.4 J/mol·K
+                                                       Digtheid 789 gram/L
+
+                                                            Gas eienskappe
+                                               Δ[f]H^0[gas] -235.3 kJ/mol
+                                                     S^0[gas] 283 J/mol·K
+                                                       C[p] 65.21 J/mol·K
+
+                                                                Veiligheid
+        Akute uitwerking Naarheid, braking, CNS depressie. Lugwegfaling in
+                                                          sommige gevalle.
+                          Kroniese uitwerking Afhanklikheid. Lewersirrose.
+                                                           Flitspunt 17°C
+                                    Spontane ontstekingstemperatuur 425°C
+                                                  Plofbare limiete 3.5-15%
+
+                                                            Meer inligting
+                                                   Eienskappe NIST WebBook
+                                MVDS Databasis van Gevaarlike Chemikalieë
+
+       Tensy anders vermeld is alle data vir standaardtemperatuur en -druk
+                                                                toestande.
+                                                   Vrywaring en verwysings
+
+   Etiel alkohol, wat ook bekend staan as etanol of graanalkohol, is 'n
+   vlambare, kleurlose chemiese verbinding en een van die alkohole wat
+   dikwels in alkoholiese drankies gevind word. In die algemene spreektaal
+   word daar dikwels eenvoudig daarna verwys as alkohol. Sy chemiese
+   formule is C[2]H[5]OH.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Vervaardiging
+        * 3 Gebruike
+        * 4 Gevare
+        * 5 Sien ook
+        * 6 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Etanol is al aan die mens bekend sedert die voorgeskiedenis as die
+   aktiewe bestandeel van alkoholiese drank. Die skeiding daarvan om 'n
+   relatiewe suiwer verbinding te verkry is waarskynlik die eerste keer
+   deur Persiese alchemiste soos Geber (721-815) en Al-Razi (864-930)
+   gedoen wat die kuns van distillasie ontwikkel het.
+
+[wysig] Vervaardiging
+
+   94% gedenatureerde etanol wat vir huishoudelike gebruik verkoop word
+   94% gedenatureerde etanol wat vir huishoudelike gebruik verkoop word
+
+   Etanol vir gebruik in alkoholiese drank word deur gisting vervaardig:
+   Dit is 'n produk van die metabolisme van suiker in sekere gisspesies in
+   die afwesigheid van suurstof. Daar word na die kweekproses van gis
+   onder toestande gunstig vir die vervaardiging van alkohol as brouery
+   verwys. Gis kan slegs groei as die alkoholkonsentrasie teenwoordig
+   minder as 14% is. Die alkoholkonsentrasie kan egter verhoog word deur
+   die distillasieproses.
+
+   Vir 'n alkohol-water mengsel, bestaan daar 'n maksimum kookpunt
+   aseotroop by 96% etanol en 4% water. Dit beteken dat fraksionele
+   distillasie van etanol-water mengsels (van 96% of laer suiwerheid) nie
+   'n suiwerheid van hoër as 96% etanol kan lewer nie. Daarom word etanol
+   met 'n 95% etanol in waterinhoud dikwels as oplosmiddel verkoop.
+
+   Om suiwer etanol te vervaardig word 'n klein hoeveelheid benseen
+   bygevoeg en word die mengsel weer fraksioneel gedistilleer. Benseen
+   vorm 'n tersiêre aseotroop met water en etanol om die laaste bietjie
+   water te verwyder en 'n binêre aseotroop met etanol om die grootste
+   hoeveelheid benseen te verwyder. Die oorblywende etanol is dan watervry
+   vir prosesse waar dit 'n vereiste is. Etlike dpm benseen bly egter
+   agter wat veroorsaak dat die verbruik daarvan deur mense kan lei tot
+   kenmerkende lewerskade.
+
+   Etanol vir industriële gebruik word dikwels vervaardig uit ru-olie
+   bronee, dikwels deur die katalitiese hidrering van etileen met
+   swaelsuur as die katalis. Die proses is goedkoper as die
+   gistingsproses. Etanol vir industriële gebruik word normaalweg ongeskik
+   vir menslike gebruik gemaak ("verderf") deur die insluiting van klein
+   hoeveelhede chemikalieë wat of toksies (soos metanol) of onaangenaam is
+   (soos denatonium), wat gewoonlik die toepaslike belasting of
+   voorraadbeheermeganismes in die betrokke lande vermy. Gedenatureerde
+   alkohol het die VN-nommer UN 1987 en etanol wat "gedenatureer" word
+   deur dit giftig te maak se nommer is VN 1986.
+
+[wysig] Gebruike
+
+   Etanol word gebruik as brandstof (dikwels gemeng met petrol) en in 'n
+   wye verskeidenheid industriële prosesse. Etanol word ook in
+   vriesweermiddels gebruik vanweë sy lae vriespunt.
+
+   Dit los maklik op in water in alle verhoudings met 'n klein
+   vermindering in volume wanneer die twee gemeng word. Suiwer etanol en
+   95% etanol is self goeie oplosmiddels wat ietwat minder polêr is as
+   water en word gebruik in reukwater, verwe en tinkture. Ander
+   verhoudings van etanol met water of ander oplosmiddels kan ook gebruik
+   word as oplosmiddels. Alkoholiese drankies het 'n groot verskeidenheid
+   smake vanweë die verskillende verbindings wat tydens die brouproses
+   opgelos word.
+
+   'n Oplossing van 70-85% etanol word dikwels as ontsmettingsmiddel
+   gebruik. Dit maak organismes dood deur hulle proteïene te beskadig en
+   deur hul lipiede op te los en is doeltreffend teen die meeste bakterieë
+   en swamme asook baie virusse, maar is oneffektief teen bakteriële
+   spore. Alkoholiese drankies kan as gevolg van hierdie
+   ontsmettingseienskappe vir lang tye gestoor word.
+
+   Die hidroksielgroep op die etanolmolekule is 'n uiters swak suur, maar
+   wanneer dit met 'n alkali-metaal of 'n baie sterk basis behandel word,
+   word 'n H^+-ioon verwyder om 'n etoksied-ioon te vorm, C[2]H[5]O^-.
+
+[wysig] Gevare
+
+     * Etanol en sy mengsels met water met 'n konsentrasie van groter as
+       50% is vlambaar en word maklik ontsteek.
+
+     * Alhoewel alkohol nie hoogs toksies is nie, kan oormatige
+       etanolverbruik noodlottig wees as die bloed-alkoholvlak 0.4%
+       bereik. 'n Bloedvlak van 0.5% of meer is dikwels noodlottig. Vlakke
+       van 0.1% of selfs meer kan vergiftiging teweeg bring en mens kan
+       tipies sy bewussyn by 'n vlak van 0.3-0.4% verloor. Die wetlike
+       beperking vir bestuurders is tipies 0.08-0.1% in die meeste lande.
+
+[wysig] Sien ook
+
+     * alkoholbrandstof
+     * alkoholiese drank
+     * biodiesel
+     * Gedenatureerde alkohol
+     * metanol
+     * propielalkohol
+
+[wysig] Eksterne skakels
+
+     * Alkohol in Arabiese bronne (Geber geen melding word van Al-Razi
+       gemaak nie).
+
+   Vir woordeboekinligting, sien die bladsy etanol op WikiWoordeboek
+   Kategorieë: Chemiese stowwe • Alkohol • Organiese verbindings •
+   Oplosmiddels
+

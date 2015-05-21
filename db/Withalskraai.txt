@@ -1,0 +1,111 @@
+Withalskraai
+
+
+                Withalskraai
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Corvidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corvus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. albicollis
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+              Corvus albicollis
+   Latham, 1790
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die withalskraai
+   Verspreiding van die withalskraai
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die withalskraai is 'n algemene, gelokaliseerde standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Slegs sy agterkop is wit; verder is hy pikswart met 'n baie stewige
+   snawel.
+
+   50-54 cm
+
+[wysig] Habitat
+
+   Boer veral in bergstreke, maar swerf ver op soek na kos. 'n Vrypostige
+   soort wat feitlik enigiets vreet en dikwels by karkasse gesien word.
+   Soek gewoonlik een-een kos, maar kom soms in swerms saam by 'n goeie
+   voedselbron.
+
+[wysig] Verspreiding
+
+   Wes- en Oos- Kaap, KwaZulu-Natal, Lesotho, Swaziland, Mpumalanga, die
+   oostelike dele van Limpopo en Zimbabwe en die westelike- en noordelike
+   dele van Mosambiek.
+
+[wysig] Geluid
+
+   Sy geroep is 'n falsetto "kraak" alhoewel hy soms ook dieper note laat
+   hoor.
+
+[wysig] Ander name
+
+     * Engels: "White-necked Raven"
+     * Wetenskaplike naam: Corvus albicollis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826.
+
+   Kategorie: Kraaiagtiges
+

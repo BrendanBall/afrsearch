@@ -1,0 +1,134 @@
+Krommepassing
+
+
+   Krommepassing is die vind van 'n kromme wat die beste pas by 'n reeks
+   datapunte en ander moontlike voorwaardes. Hierdie artikel kan beskou
+   word as 'n inleiding tot interpolasie (waar 'n presiese passing tot
+   voorwaardes verwag word) en regressie-analise. Beide tegnieke word soms
+   gebruik vir ekstrapolasie. Regressie-analise maak dit moontlik om 'n
+   benaderde passing te verkry deur die verskil tussen datapunte en die
+   kromme te minimeer.
+
+   Inhoud
+
+        * 1 Passing van lyn- en polinoomkrommes tot datapunte
+        * 2 Passing van ander soorte krommes op datapunte
+        * 3 Toepassing op oppervlakke
+        * 4 Eksterne skakels
+
+[wysig] Passing van lyn- en polinoomkrommes tot datapunte
+
+   Beskou 'n eerste orde polinoomvergelyking:
+
+          y = ax + b\;.
+
+   Dit verteenwoordig 'n lyn met helling a. Ons weet dat 'n lyn enige twee
+   punte kan verbind. Dus is 'n eerste orde polinoomvergelyk 'n eksakte
+   passing deur enige twee punte.
+
+   As ons die orde van die vergelyking verhoog na 'n tweede orde polinoom,
+   kry ons:
+
+          y = ax^2 + bx + c\;.
+
+   Dit sal 'n eksakte passing deur enige drie punte lewer:
+
+   As ons nou die orde van die vergelyking verhoog tot 'n derde orde
+   polinoom, kry ons:
+
+          y = ax^3 + bx^2 + cx + d\;.
+
+   Dit sal 'n eksakte passing deur vier punte lewer.
+
+   'n Meer algemeen stelling sal wees om te sê dat dit vier voorwaardes
+   presies sal pas. Elke beperking kan 'n punt wees, 'n hoek of 'n
+   kromming. Hoek- en krommingsbeperkinge word meer dikwels aan die einde
+   van 'n kurwe toegevoeg en in sulke gevalle word hulle randvoorwaardes
+   genoem.
+
+   Met bogenoemde in gedagte kan eerste graadse polinoomvergelykings ook
+   gebruik word om 'n eksakte passing vir 'n enkele punt en hoek te vind
+   terwyl 'n derde-orde polinoomvergelyking ook gebruik kan word om 'n
+   eksakte passing vir twee punte, 'n hoekvoorwaarde en 'n
+   krommevoorwaarde te verkry. Baie ander kombinasies van voorwaardes is
+   moontlik vir hierdie en ander hoër orde polinoomvergelykings.
+
+   As ons meer as n  + 1 voorwaardes het (waar n die orde van die polinoom
+   is) kan ons steeds die polinoomkromme deur daardie voorwaardes loop. 'n
+   Eksakte passing tot al die voorwaardes is nie seker nie (maar kan
+   gebeur, byvoorbeeld in die geval van 'n eerste orde polinoom wat drie
+   kolineêre punte pas). Oor die algemeen word 'n metode vereis om elke
+   benadering te evalueer. Die kleinste-kwadratemetode is een maklike
+   metode om die afwykings te vergelyk.
+
+   Daar kan nou met reg gevra word waarom 'n mens dan 'n benaderde passing
+   sal wil verkry as 'n mens eenvoudig net die orde van die polinoom kan
+   verhoog om 'n eksakte passing te verky. Daar bestaan verskeie redes:
+     * Selfs al bestaan daar 'n eksakte passing, beteken dit nie
+       noodwendig dat dit gevind kan word nie. Afhangende van die
+       algoritme wat gebruik word, kan ons divergerende gevalle kry, waar
+       die eksakte passing nie bereken kan word nie of dit neem te veel
+       rekenaartyd in beslag om die oplossing te verkry. In ieder geval
+       aanvaar 'n mens gewoonlik dan 'n benaderde oplossing.
+
+     * Dit kan dalk selfs wenslik wees om die benadering te gebruik om
+       verdagte datapunte in 'n monster uit te filter eerder as om die
+       kromme te dwing om die daardie punte presies te pas.
+
+     * Hoë-orde polinome kan baie ossileer. As 'n kromme deur twee punte A
+       en B gepas word, sou ons verwag dat die kromme naby aan die
+       middelpunt tussen die twee punte ook sou loop. Dit mag dalk nie
+       gebeur in die geval van hoë-orde polinoomkrommes nie, hulle kan
+       selfs waardes aanneem wat ordegroottes verskil van die
+       middelpuntwaarde. Met laer orde polinome sal die kromme meer
+       waarskynlik naby aan hierdie middelpunt verbyloop.
+
+     * Lae-orde polinome neig om gladder te wees. Om dit meer presies uit
+       te druk, die maksimum aantal moontlike infleksiepunte in 'n
+       polinoomkurwe is n-2, waar n die orde van die polinoomvergelyking
+       is. 'n Infleksiepunt is 'n plek op die kromme waar dit oorskakel
+       van 'n positiewe radius na 'n negatiewe radius.
+
+   Die gebruik van 'n polinoom met 'n hoër orde as wat werklik benodig
+   word is ook nie 'n goeie besluit nie as gevolg van die redes hierbo
+   aangegee maar ook omdat dit lei tot 'n oneindige aantal moontlike
+   oplossings.
+
+[wysig] Passing van ander soorte krommes op datapunte
+
+   Ander soorte krommes, soos koniese snitte, ronde-, elliptiese-,
+   paraboliese en hiperboliese boë of trigonometriese funksies (soos sinus
+   en kosinus) kan ook gebruik word in krommepassings in sekere gevalle.
+   Die baan van vallende voorwerpe onder die invloed van swaartekrag volg
+   gewoonlik byvoorbeeld 'n paraboliese pad as lugweerstand buite rekening
+   gelaat word. Dit sou dus sin maak om sulke datapunte op 'n paraboliese
+   kurwe te pas. Die getye volg 'n sinusoïdale patrone dus kan sulke
+   datapunte gepas word op 'n sinusgolf of die som van twee sinusgolwe met
+   veskillende periodes om voorsiening te maak vir die invloed van die
+   Maan en die Son.
+
+[wysig] Toepassing op oppervlakke
+
+   Let wel dat alhoewel die artikel grootliks op 2D krommes van toepassing
+   is, die logika ook uitgebrei kon word tot 3D oppervlakke. Elke deel van
+   die oppervlak kan dan voorgestel word as 'n net van kromme in twee
+   parametriese rigtings, tipies met u en v aangedui.
+
+[wysig] Eksterne skakels
+
+   Implementerings
+     * NLINLS Krommepassing (nie-linêere kleinste kwadrate) deur gebruik
+       te maak van 'n Differensiële Ewolusie optimeerder.
+     * ALGLIB Linêere kleinste kwadrate in C#, C++, Visual Basic, Pascal.
+       BSD lisensie.
+     * GNU Scientific Library Linêere/Nie-Linêere kleinste kwadrate
+       passing in . GPL lisensie.
+     * Python Equations Linêere/Nie-Linêere kleinste kwadrate kromme- en
+       oppervlakpassing in Python. BSD lisensie.
+     * T-SQL implementering
+
+   Sagteware
+     * Fityk - krommepassing-sagteware met GPL-lisensie.
+
+   Kategorie: Wiskunde
+

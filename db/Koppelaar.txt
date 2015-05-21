@@ -1,0 +1,38 @@
+Koppelaar
+
+
+   'n Koppelaar is 'n onderdeel van 'n enjin se dryfstelsel wat ontwerp is
+   om die koppeling of ontkoppeling van die enjin met 'n aangedrewe
+   apparaat te bewerkstellig.
+
+   Daar bestaan 'n groot verskeidenheid koppelaarontwerpe, maar die meeste
+   is gebaseer op wrywingskywe wat ligweg teen mekaar of teen 'n vliegwiel
+   gedruk word deur van vere gebruik te maak. Die veerdruk word verlig
+   wanneer die koppelaarpedaal geaktiveer word en dus word die plate
+   minder styf teen mekaar gedruk en kan dus vryelik roteer. 'n Nat
+   koppelaar is gedompel in smeerolie om die oppervlaktes skoon te hou en
+   te verkoel, wat verhoogde werkverrigting en langer leeftyd meebring; by
+   ' n droë koppelaar is die vloeistof natuurlik afwesig.
+
+   In 'n kar word dit deur die linkerkantste pedaal beheer deur van 'n
+   hidroliese stelsel of 'n kabel gebruik te maak om die pedaal en die
+   koppelaarmeganisme aan mekaar te verbind. Wanneer daar geen druk op die
+   pedaal uitgeoefen word nie beteken dit dat die koppelaar gekoppel is en
+   wanneer die pedaal gedruk word, word die plate van mekaar ontkoppel om
+   die bestuurder toe te laat om ratte te wissel. Wanneer die regterkanste
+   pedaal (versneller) getrap word terwyl die koppelaarpedaal gelos word,
+   is die plate geneig om vinniger te verweer weens die groter verskil in
+   relatiewe snelheid tussen die plate. Sommige bromponies het 'n
+   outomatiese koppelaar wat gebruik maak van sentrifugale krag om die
+   koppeling bó 'n sekere aantal toere te bewerkstellig.
+
+   Op die meeste motorfietse word die koppelaar deur 'n koppelaarhefboom
+   geaktiveer en is op die linkerkantste stuurstang geleë.
+
+[wysig] Eksterne skakel
+
+     * HowStuffWorks het 'n gedetailleerde verduideliking van die werking
+       van 'n koppelaar.
+
+   Kategorieë: Voertuigtegnologie • Meganiese toestelle
+

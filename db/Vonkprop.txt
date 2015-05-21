@@ -1,0 +1,314 @@
+Vonkprop
+
+
+   'n Vonkprop
+   'n Vonkprop
+   Vonkproppe, Autovision Museum, Altlußheim
+   Vonkproppe, Autovision Museum, Altlußheim
+
+   'n Vonkprop is 'n elektriese toestel wat in die silinderkop van sommige
+   binnebrandenjins inskroef en is verantwoordelik vir die ontsteking van
+   die saamgeperste brandstof-lugmengsel deur middel van 'n elektriese
+   vonk. Vonkproppe het 'n geïsoleerde middelste elektrode wat deur middel
+   van 'n goed geïsoleerde draad aan 'n induktiewe stroombaan buite die
+   enjin gekoppel is. Die stroombaan wat deur 'n geaarde terminaal na die
+   basis van die vonkprop bedraad is word deur 'n vonkgaping aan die
+   binnekant van die silinder onderbreek. Een van die eerste vonkproppe
+   wat uitgevind is, is deur Nikola Tesla ontwikkel, VSA patent no.
+   609,250, (1898)
+
+   Binnebrandenjins kan verdeel word in vonkonsteekte enjins, wat 'n vonk
+   benodig om verbranding aan die gang te sit en
+   kompressie-ontstekingsenjins (diesel enjins), wat die
+   lug-brandstofmengsel saampers totdat dit warm genoeg is om spontaan te
+   ontbrand. Kompressie-ontstekingsenjins gebruik soms 'n gloeidraad om
+   die aanskakeling in koue weer te vergemaklik.
+
+   Vonkproppe kan ook soms in ander toepassings aangewend word soos in
+   industriële oonde waar 'n brandbare mengsel ontsteek moet word.
+
+   Inhoud
+
+        * 1 Bedryf
+        * 2 Bou van 'n vonkprop
+             + 2.1 Onderdele van 'n vonkprop
+                  o 2.1.1 Terminaal
+                  o 2.1.2 Kartelings
+                  o 2.1.3 Isolator
+                  o 2.1.4 Seëls
+                  o 2.1.5 Metaalomhulsel
+                  o 2.1.6 Isolatorpunt
+                  o 2.1.7 Aardelektrode
+                  o 2.1.8 Middelste elektrode
+             + 2.2 Vonkpropgaping
+             + 2.3 Variasies in vonkpropontwerp
+             + 2.4 Die verseëling van die silinderkop
+             + 2.5 Uitsteek van punt
+        * 3 Hittebestek
+        * 4 Foutsporing deur bestudering van vonkproppe
+        * 5 Sien ook
+        * 6 Eksterne skakels
+        * 7 Galery
+
+[wysig] Bedryf
+
+   Die spanningsval tussen die elektrode en die basis word deur die
+   induksieklos opgewek en kan duisende volt bereik. Aanvanklik sal geen
+   stroom vloei nie, aangesien die gaping 'n weerstand teen stroomvloei
+   bied. Wanneer die spanning egter sodanig styg om die dielektriese
+   sterkte van die gasse te oorskry, word die gas geïoniseer en gelei die
+   gasse elektrisiteit wat dan die vonk tot gevolg het. Die stroom
+   elektrone wat oor die gaping vloei laat die temperatuur styg tot so
+   hoog as 60 000 K. Die intense hitte in die vonk veroorsaak dat die gas
+   vinnig uitsit en basies 'n ontploffing in die kleine. Die vonk wat
+   waargeneem word is niks anders as die geïoniseerde gas wat lig
+   uitstraal vanweë die opwekking en terugval van elektrone rondom die
+   kern nie.
+
+   Die hitte en drukkrag veroorsaak dat die gasse met mekaar reageer en
+   lei tot die vorming van 'n klein vuurbal in die vonkgaping. Die grootte
+   van die vuurbal hang af van die samestelling van die mengsel tussen die
+   elektrodes en die mate van turbulensie in die verbrandingskamer ten tye
+   van die vonk. 'n Klein vlamkern sal veroorsaak dat die enjin sal loop
+   asof die tydreëling vertraag is en 'n groter een sal hom laat loop asof
+   die tydreëling vervroeg is vir daardie spesifiek verbrandingsiklus.
+
+[wysig] Bou van 'n vonkprop
+
+   'n Vonkprop
+
+   'n Vonkprop bestaan uit 'n omhulsel, 'n isolator en 'n geleier. Dit
+   word in die muur van die verbrandingskamer geskroef en moet daarom die
+   verbrandingskamer teen die hoë drukke en temperature seël, sonder om
+   oor 'n bepaalde tydperk met gereelde gebruik agteruit te gaan.
+
+[wysig] Onderdele van 'n vonkprop
+
+[wysig] Terminaal
+
+   Die bopunt van die vonkprop bevat 'n terminaal waaraan die
+   ontstekingstelsel gekoppel word. Die presiese ontwerp hang van die
+   gebruik van die vonkprop af. Die meeste passasiersmotors se vonkproppe
+   se drade knip eenvoudig oor die terminale van die prop, maar somtyds is
+   dit nodig om die drade met 'n moer aan die vonkprop vas te maak. Baie
+   terminale word so ontwerp dat hulle op albei wyses gekonnekteer kan
+   word.
+
+[wysig] Kartelings
+
+   Die fisiese vorm van die kartelings verbeter die werking van die
+   isolator en voorkom dat elektriese energie uit die terminaal uitlek na
+   die metaalomhulsel langs die isolator af. Die onderbreekte en langer
+   pad veroorsaak dat die elektriese stroom meer weerstand op die
+   oppervlak van die vonkprop teëkom.
+
+[wysig] Isolator
+
+   Die isolator word tipies gemaak van 'n aluminiumoksied gebaseerde
+   keramiek wat ontwerp word om temperature van so hoog as 650°C en 60
+   000 V te weerstaan. Dit strek vanaf die metaalomhulsel tot binne in die
+   verbrandingskamer. Die presiese samestelling en lengte van die isolator
+   bepaal deels die hitte bestek van die vonkprop.
+
+[wysig] Seëls
+
+   Die vonkprop word ook van 'n seëls voorsien om te verhoed dat daar geen
+   lekkasie vanuit die verbrandingskamer by die vonkprop se skroefdraad
+   verbylek nie.
+
+[wysig] Metaalomhulsel
+
+   Die metaalomhulsel van die vonkprop dra die wringkrag wat uitgeoefen
+   word wanneer die vonkprop vasgedraai word en dien om hitte vanaf die
+   isolator na die silinderkop weg te gelei. Verder dien dit ook as
+   aarding vir die vonke wat vanaf die middelste elektrode na die
+   kant-elektrode toe spring.
+
+[wysig] Isolatorpunt
+
+   Die punt van die isolator wat die middelste elektrode binne-in die
+   verbrandingskamer omring het 'n direkte invloed op die werkverrigting
+   van die vonkprop en beïnvloed veral die hitte-bestek waarin die
+   vonkprop aangewend kan word.
+
+[wysig] Aardelektrode
+
+   Die kantelektrode word gemaak van 'n staal met 'n hoë nikkel inhoud en
+   is aan die kant van die metaalomhulsel vasgesweis. Die aardelektrode
+   word ook baie warm veral op vonkproppe met 'n uitstaande neus. Sommige
+   ontwerpe maak van veelvuldige aardelektrodes gebruik wat nie bo-oor die
+   middelste elektrode span nie.
+
+[wysig] Middelste elektrode
+
+   Die middelste elektrode kan van koper, nikkel-yster of edelmetale
+   gemaak word. Die middelste elektrode word gewoonlik ontwerp om
+   elektrone af te gee (die katode) omdat dit (normaalweg) die warmste
+   deel van die vonkprop is en dit makliker is om elektrone vanaf 'n warm
+   oppervlak vry te stel. Elektrone word ook makliker vrygestel vanaf
+   skerp punt of rand eerder as vanaf 'n plat oppervlak. Dit sou dus
+   makliker wees om die vonk op 'n skerp gepunte elektrode te laat
+   ontstaan maar so 'n elektrode sou baie gou verweer. Die vonke
+   veroorsaak geleidelik verweer van die elektrode en dit is om hierdie
+   rede dat vonkproppe met gereelde diensintervalle vervang word. Die
+   ontwikkeling van hoë temperatuur edelmetaal elektrodes (wat metale soos
+   onder andere platinum gebruik) maak die gebruik van 'n kleiner
+   middel-elektrode met skerper randtjies maar wat nie smelt of verweer
+   nie. Die kleiner elektrode absorbeer ook minder hitte vanaf die vonk en
+   die aanvanklike vlamenergie. Die tipe vonkproppe laat dus heelwat
+   langer diensintervalle toe.
+
+[wysig] Vonkpropgaping
+
+   Vonkproppe word tipies ontwerp om 'n vonkgaping te hê wat deur 'n
+   werktuigkundige wat die installasie doen, verstel kan word deur
+   eenvoudig die grondelektrode te buig om dit verder of nader aan die
+   middel-elektrode te bring. Daar kan nie aanvaar word dat vonkproppe in
+   die fabriek reeds korrek verstel is nie aangesien baie vonkproppe
+   veeldoelige aanwendings het en in verskeie enjins met verskillende
+   gapingvereistes gebruik kan word. Doelgemaakte maatstafies is
+   beskikbaar om die presiese gaping vas te stel (Let wel die stafies is
+   rond en word verkies bo die maatplaatjies met die plat lemme wat tipies
+   gebruik word om vonkverdelers se punte of stootklepslag te meet vanweë
+   die vorm van die elektrodes). Met moderne enjintegnologie waar
+   elektroniese vonkverdelers en gerekenariseerde brandstofinspuiting
+   algemeen aangewend word, is die gapings heelwat groter as in die
+   tydperk van vergassers en stroombreker vonkverdelers, tot so 'n mate
+   dat vonkprop maattoerusting van daardie era gans te klein is om die
+   gapings op 'n moderne motor se vonkproppe te meet.
+
+   Die verstelling kan redelik krities wees en 'n enjin met swak verstelde
+   vonkproppe kan sleg loop of selfs glad nie. 'n Te nou gaping mag 'n te
+   klein of swak vonkie afgee wat onvoldoende kan wees om die
+   lug-brandstof mengsel behoorlik te ontsteek, terwyl 'n te wye gaping
+   kan verhoed dat die vonkprop glad nie vuur nie. In ieder geval kan 'n
+   vonkprop wat slegs met tussenposes faal nie dadelik opgemerk word nie
+   maar net waarneembaar wees in die verswakking van die enjin se
+   werkverrigting en brandstofverbruik. Soos die vonkprop ouer word en die
+   punt van die metaalelektrode verweer sal die gaping neig om groter te
+   word en daarom sal ervare werktuigkundiges die gaping op die
+   vervaardiger se minimum vereiste gaping stel eerder as in die middel
+   van die aanvaarde bestek om 'n langer lewensduur vir die vonkprop te
+   verseker.
+
+[wysig] Variasies in vonkpropontwerp
+
+   Met die jare het verskeie ontwerpe op die basiese vonkprop ontwerp
+   ontstaan in 'n poging om beter ontsteking, langer lewensduur of beide
+   te verseker. Sulke variasies sluit die gebruik van drie eweredig
+   gespasieërde grondelektrodes rondom die middel-elektrode in asook die
+   gebruik van 'n V-vormige keep in die punt van die grondelektrode.
+
+[wysig] Die verseëling van die silinderkop
+
+   Die meeste vonkproppe seël die silinderkop met 'n hol metaalwasser wat
+   effens tussen die twee seëloppervlaktes, net bokant die skroefdraad,
+   saamgepers word. As die wringkrag wat gebruik word om die vonkprop te
+   installeer nie te veel is nie kan die wasser weer hergebruik word
+   wanneer die prop verwyder en weer teruggesit word, al word hierdie
+   praktyk streng gesproke nie aanbeveel nie.
+
+   Ford se enjins het eens op 'n tyd 'n unieke tapse (koniese) gat in die
+   silinderkop gebruik met 'n bypassende koniese vonkprop bokant die
+   skroefdraad om die prop te seël. Die vereiste wringkrag om hierdie
+   proppe te installeer en te verwyder was baie groter gewees en ervare
+   werktuigkundiges het dikwels die vonkproppe gebreek in 'n poging om
+   hulle te verwyder.
+
+[wysig] Uitsteek van punt
+
+   Die lengte van die skroefdraad gedeeldte van die prop moet ook pas by
+   die dikte van die silinderkop. As 'n vonkprop te ver in die
+   verbrandingskamer insteek mag dit deur die suier getref word en interne
+   skade veroorsaak. Indien die vonkprop nie deur die suier getref word
+   nie kan die skerp rande van die skroefdraad as puntbronne vir hitte
+   dien wat vroeë ontsteking in die hand werk; verder kan neerslae in die
+   voë van die skroefdraad dit moeilik maak om die vonkprop te verwyder
+   tot so 'n mate dat die aluminium silinderkoppe beskadig kan word tydens
+   die verwydering daarvan. Die vonkprop se werkverrigting kan ook
+   negatief daardeur beïnvloed word.
+
+[wysig] Hittebestek
+
+   Die bedryfstemperatuur van 'n vonkprop is die werklike fisiese
+   temperatuur aan die punt van die vonkprop in 'n lopende enjin. Dit word
+   bepaal deur 'n aantal faktore maar hoofsaaklik deur die temperatuur
+   binne in die verbrandingskamer. Daar is geen direkte verwantskap tussen
+   die werklike temperatuur aan die punt van die prop en die vonkspanning
+   nie. Die maksimum temperatuur en druk in 'n enjin word bereik wanneer
+   'n enjin by sy piek wringkrag uitset bedryf word. Die temperatuur van
+   die isolator reageer op die termiese omstandighede waaraan dit in die
+   verbrandingskamer blootgestel word. As die punt van die vonkprop te
+   warm word kan dit vroeë ontsteking veroorsaak en klop veroorsaak wat
+   skade tot gevolg mag hê. As dit te koud is kan neerslae wat
+   elektrisiteit gelei op die isolator vorm en 'n verlies aan vonkenergie
+   teweeg bring of selfs 'n kortsluitng in die ontstekingsbaan veroorsaak.
+
+   'n Vonkprop word gesê om warm te wees as dit 'n hitte beter isoleer en
+   verseker dat meer hitte op die punt behoue bly. 'n Vonkprop word koud
+   genoem as dit meer hitte van die punt af weggelei en 'n laer
+   temperatuur daar teweeg bring. Die hittebestek van 'n vonkprop word
+   tipies met 'n getal aangedui, met sommige vervaardigers wat toenemende
+   getalle gebruik om warmer proppe aan te dui en sommige wat afnemende
+   getalle gebruik soos die proppe warmer word.
+
+   Die hittebestek van 'n vonkprop (in wetenskaplike terme sy termiese
+   geleidingsvermoë kenmerke) word deur die bou van die vonkprop
+   beïnvloed: Die tipe materiale wat gebruik is, die lengte van die
+   isolator en die oppervlak van die prop wat binne-in die
+   verbrandingskamer blootgestel is. Die keuse van vonkprop is 'n balans
+   tussen die behoefte om die punt warm genoeg te hou wanneer die enjin
+   luier om neerslae te verhoed en koud genoeg wanneer die enjin teen
+   maksimum kraglewering bedryf word om enjin klop te vermy. Deur die warm
+   en koue vonkproppe van dieselfde vervaardiger te bestudeer kan 'n mens
+   duidelik die verskille sien. Die kouer proppe het dunner keramiek
+   isolators wat die gaping tussen die middel-elektrode en omhulsel skei
+   terwyl die warmer proppe van dikker keramiek isolators voorsien is om
+   die omhulsel en punt beter van mekaar te skei en te verhoed dat die
+   hitte te vinnig wegvloei.
+
+[wysig] Foutsporing deur bestudering van vonkproppe
+
+   Toerusting waarmee vonkproppe bestudeer kan word
+   Toerusting waarmee vonkproppe bestudeer kan word
+
+   Die vonkprop word deur die interne omgewing van die verbrandingskamer
+   beïnvloed. Aangesien die vonkprop maklik vir inspeksie doeleindes
+   verwyder kan word, kan die verbrandingseienskappe van die enjin
+   bestudeer word aan die hand van hoe die prop daaruitsien. Enjin- en
+   vonkpropvervaardigers publiseer dikwels inligting aangaande die
+   kenmerklike tekens om na uit te kyk.
+
+   'n Ligte bruin verkleuring van die punt toon goeie bedryf; ander
+   toestande mag foute aandui. 'n Prop wat lyk of hy gesandstraal is
+   beteken dat die enjin voortdurend besig is om te klop (dit mag selfs
+   dikwels onhoorbaar wees). Dieselfde skade wat aan die punt van 'n
+   vonkprop waargeneem word kan binne in die silinder te wagte wees. As
+   die prop te koud is sal daar baie neerslag teenwoordig wees op die neus
+   van die prop. Andersyds as die prop te warm is sal die porselein poreus
+   lyk wat dui op neerslae wat gesmelt het in die omgewing van die
+   middel-elektrode.
+
+   'n Mens kan gebruik maak van vergrootglase met 'n helder lig om die
+   vonkproppe na behore te inspekteer.
+
+   Die meeste moderne enjins se temperatuurbestek in die verbrandingskamer
+   word baie goed beheer en is sulke inspeksies bitter selde nodig,
+   behalwe in veel ouer motors.
+
+[wysig] Sien ook
+
+     * Ontstekingstelsel
+
+[wysig] Eksterne skakels
+
+     * Vonkpropgids vir foutsporing
+
+[wysig] Galery
+
+   Vonkprop, Autovision Museum, Altlußheim, Duitsland
+   Vonkprop, Autovision Museum, Altlußheim, Duitsland
+   Vonkprop, Autovision Museum, Altlußheim, Duitsland
+   Vonkprop, Autovision Museum, Altlußheim, Duitsland
+   Kategorie: Voertuigtegnologie
+

@@ -1,0 +1,124 @@
+Vliegwiel
+
+
+   'n Vliegwiel is 'n roterende skyf wat gebruik word om kinetiese energie
+   te stoor. Vliegwiele weerstaan verandering in hul draaisnelheid, wat
+   help om 'n as stabiel te hou as 'n wisselende wringkrag daarop
+   uitgeoefen word, soos in die geval van 'n suiergebaseerde
+   resiprokerende enjin, of wannere die lading wat daarop geplaas word nie
+   reëlmatig is nie (soos in die geval van 'n suierpomp). Vliegwiele kan
+   ook gebruik word om baie hoë elektriese energiepolse te skep vir sekere
+   soorte eksperimente waar dit nie moontlik sou wees om dit van die
+   verspreidingsnetwerk te trek nie. Vliegwiele het in die meer onlangse
+   verlede ook baie aandag geniet as moontlike toestelle vir die stoor van
+   energie vir gebruik in voertuie.
+
+   Inhoud
+
+        * 1 Fisika
+             + 1.1 Hoë-energie materiale
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Verwysings
+
+[wysig] Fisika
+
+   'n Gespeekte vliegwiel
+   'n Gespeekte vliegwiel
+
+   Energie word in die wiel gestoor as kinetiese energie:
+
+          E_k=\frac{1}{2}\cdot I\cdot \omega^2
+
+   waar
+
+          ω die hoeksnelheid en
+          I die traagheidsmomentum/draaimomentum van die massa rondom die
+          middelpunt is.
+
+     * Die traagheidsmoment vir 'n soliede silinder is I_z = \frac{1}{2}
+       mr^2 ,
+     * vir 'n dunwandige silinder is dit I = m r^2 \, ,
+     * en vir 'n dikwandige silinder is dit I = \frac{1}{2} m({r_1}^2 +
+       {r_2}^2) .
+
+   waar m die massa en r die radius aandui.
+
+   Die hoeveelheid energie wat veilig in 'n vliegwiel gestoor kan word
+   hang af van die punt waar die wiel sal vervorm of uitmekaarbreek. Die
+   radiale spanning op die wiel is 'n sterk oorweging in die ontwerp van
+   'n energie opgaarstelsel gebaseer op 'n vliegwiel.
+
+          \sigma_t = \rho r^2 \omega^2 \
+
+   waar
+
+          σ[t] die trekspanning op die kant van die silinder is
+          ρ die digtheid van die silinder is
+          r die radius van die silinder is en
+          ω die hoeksnelheid van die silinder is.
+
+[wysig] Hoë-energie materiale
+
+   Vir 'n gegewe vliegwielontwerp kan daar uit die bogenoemde vergelykings
+   afgelei word dat die kinetiese energie eweredig is aan die verhouding
+   van die radiale spanning tot die materiaaldigtheid.
+
+          E_k \varpropto \frac{\sigma_t}{\rho}
+
+   Hierdie parameter kan die spesifieke trekspanning genoem word. Die
+   vliegwielmateriaal met die hoogste spesifieke treksterkte sal die
+   meeste energie kan stoor. Dit is dan ook een van die redes waarom
+   koolstofvesel 'n materiaal van belang is in hierdie verband.
+
+[wysig] Toepassings
+
+   'n Trekker met 'n reuse vliegwiel
+   'n Trekker met 'n reuse vliegwiel
+   'n Illustrasie uit 1898 van 'n White and Middleton enjin; let op die
+   twee groot vliegwiele.
+   'n Illustrasie uit 1898 van 'n White and Middleton enjin; let op die
+   twee groot vliegwiele.
+
+   Die vliegwiel is al sedert antieke tye in gebruik, waarvan die
+   bekendste tradisionele voorbeeld die pottebakkerswiel is. Tydens die
+   Nywerheidsomwenteling het James Watt bygedra tot die ontwikkeling van
+   die vliegwiel in die stoomenjin en sy tydgenoot James Pickard het 'n
+   vliegwiel saam met 'n krukas gebruik om resiprokerende beweging na
+   draaibeweging om te skakel.
+
+   'n Meer moderne toepassing van 'n vliegwiel is die vliegwiele wat
+   gebruik word om satteliete te oriënteer in die ruimte sonder om van
+   vuurpylstuwers te gebruik.
+
+   Vliegwiele word ook in pons- en klinknaelmasjiene gebruik waar dit die
+   energie van die motor stoor en dit dan loslaat met elke slag van hul
+   werking.
+
+[wysig] Geskiedenis
+
+   Vliegwiele is reeds in die ou tyd gebruik in spin- en
+   pottebakkerswiele.^[1]
+
+   Die vliegwiel as 'n meganiese toestel om draaisnelheid reëlmatig te
+   maak is vir die eerste keer in die Kitab al-Filaha beskryf deur die
+   Andalusiër, Ibn Bassal (1038-1075), wat die toestel gebruik het in
+   kettingpompe en waterwiele gebruik het.^[2]
+
+   Alvorens 'n Amerikaanse kenner van die middeleeue is so 'n vliegwiel
+   ook aangeteken in die De diversibus artibus deur die Duitse vakman
+   Theophilus Presbyter (ca. 1070-1125) wat meld dat hy die toestel in
+   verskeie van sy masjiene gebruik het.^[1]^[3]
+
+[wysig] Verwysings
+
+    1. ^ ^1,0 ^1,1 Lynn White, Jr., “Theophilus Redivivus”, Technology and
+       Culture, Vol. 5, No. 2. (Spring, 1964), Review, pp. 224-233 (233)
+    2. ^ Ahmad Y Hassan,
+       http://www.history-science-technology.com/Notes/Notes%204.htm.
+    3. ^ Lynn White, Jr., “Medieval Engineering and the Sociology of
+       Knowledge”, The Pacific Historical Review, Vol. 44, No. 1. (Feb.,
+       1975), pp. 1-21 (6)
+
+   Kategorie: Meganika
+

@@ -1,0 +1,84 @@
+Waarheidstabel
+
+
+   'n Waarheidstabel is 'n wiskundige tabel wat aan teen die einde van die
+   19^de eeu deur Charles Peirce ontwikkel is. Die tabel word in die
+   logika, en spesifiek die stellingslogika gebruik om vas te stel of 'n
+   logiese uitdrukking waar is en of die argument geldig is.
+   Waarheidstabelle kan gebruik word om die waarheidswaarde weer te gee
+   van 'n logiese bewerking (soos "en", "of", "nie" en "as...dan") vir
+   alle moontlike kombinasies van waardes.
+
+   In waarheidstabelle kan 'n mens die waarheid of onwaarheid van 'n
+   stelling op verskeie maniere aandui. Een manier is om eenvoudig "waar"
+   of "onwaar" te skryf maar dit is dikwels gebruiklik om die letters T
+   vir true (waar) in Engels en F vir false (onwaar) te gebruik. Andersins
+   kan 'n 1 gebruik word om waar en 0 om onwaar voor te stel.
+
+   Een nadeel van waarheidstabelle is dat by saamgestelde stellings met
+   baie veranderlikes die tabel baie vinnig te groot word. Die grootte van
+   die tabel groei eksponensieël met die aantal veranderlikes: so sal 'n
+   tabel met 8 veranderlikes (A,B,C, tot en met H) 2^8 rye beslaan.
+
+   'n Alternatief vir die waarheidstabel is die Karnaugh-diagram. 'n Ander
+   manier om 'n stelling te ondersoek is met behulp van 'n semantiese
+   tablo.
+
+[wysig] Voorbeelde
+
+   Die logiese bewerking "en" (∧) (die logiese konjunksie) het twee
+   argumente. Veronderstel dat hulle A en B heet. A en B kan albei waar
+   oftewel onwaar wees. Vir elke kombinasie lewer "en" een
+   waarheidswaarde: as A en B biede waar is is dit T, andersins F.
+   P Q P ∧ Q
+   T T   T
+   T F   F
+   F T   F
+   F F   F
+
+   Die logiese bewerking "nie" (¬) (die negering) het 1 argument. Die
+   waarde wat deur die bewerking gelewer word is altyd die teenoorgestelde
+   van die waarde van die argument.
+   P ¬ P
+   T  F
+   F  T
+
+   Die logiese bewerking "of" (∨) (die logiese disjunksie) het twee
+   argumente. Die gelewerde waarde is T as minstens een van die argumente
+   waar is, andersins is dit F.
+   P Q P ∨ Q
+   T T   T
+   T F   T
+   F T   T
+   F F   F
+
+   Saamgestelde bewerkings is ook moontlik, soos gesien kan word in die
+   onderstaande tabel:
+   A B A ∧ B
+   A en B
+   AND A ∨ B
+   A of B
+   OR ¬(A ∧ B)
+   nie (A en B),
+   NAND ¬(A ∨ B)
+   nie (A of B)
+   NOR (A.¬B) ∧ (¬A.B)
+   eksklusief  (A of B)
+   XOR ¬( (A.¬B) ∧ (¬A.B) )
+   nie eksklusief  (A of B)
+   XNOR
+   waar, true, 1 waar, true, 1 waar, true, 1 waar, true, 1 onwaar, false,
+   0 onwaar, false, 0 onwaar, false, 0 waar, true, 1
+   waar, true, 1 onwaar, false, 0 onwaar, false, 0 waar, true, 1 waar,
+   true, 1 onwaar, false, 0 waar, true, 1 onwaar, false, 0
+   onwaar, false, 0 waar, true, 1 onwaar, false, 0 waar, True, 1 waar,
+   true, 1 onwaar, false, 0 waar, true, 1 onwaar, false, 0
+   onwaar, false, 0 onwaar, false, 0 onwaar, false, 0 onwaar, false, 0
+   waar, true, 1 waar, true, 1 onwaar, false, 0 waar, true, 1
+
+   In die tabel word altyd twee simbole vertoon, die boonste een is die
+   ouer militêre standaard simbool (engels: Mil Spec., vir: Military
+   Specification ) en die onderste daarvan is die nuwer IEC standaard
+   simbool.
+   Kategorieë: Logika • Rekenaarwetenskap
+

@@ -1,0 +1,112 @@
+Kraai
+
+
+                        Kraaie
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Raaf (Corvus corax)
+   'n Raaf (Corvus corax)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Corvidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corvus
+                   Linnaeus, 1758
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kraai (uit familie corvidae, die kraaiagtiges) is 'n groot,
+   oorwegend blinkswart voël wat enigiets vreet; die grootste lid van die
+   orde Passeriformes. Die geslagte lyk eners en jonges lyk soos
+   volwassenes. Hulle roep hard en skor.
+
+   Kraaie kom op alle vastelande, grotendeels in die gematigde
+   klimaatstreke (behalwe Suid-Amerika), voor en bestaan uit ongeveer 40
+   soorte. Die spesie het waarskynlik sy ontstaan gehad in Sentraal-Asië
+   en het daarvandaan uitgebrei na Noord-Amerika, Mexiko, Afrika, Europa
+   en Australië.
+
+   Kraaie, veral rawe, speel 'n belangrike rol in legendes of in die
+   mitologie as voortekens of ongelukbringers, moontlik as gevolg van
+   hulle swart veredos, hulle krasgeluide en hulle gewoonte om aas te
+   vreet, as gevolg waarvan hulle vroeër gereeld op slagvelde te sien was.
+
+   Inhoud
+
+        * 1 Kraaie wat in Suid-Afrika voorkom:
+        * 2 Kraaie wat in ander wêrelddele voorkom:
+        * 3 Sien ook
+        * 4 Bronnelys
+
+[wysig] Kraaie wat in Suid-Afrika voorkom:
+
+     * Corvus albus Witborskraai
+     * Corvus capensis Swartkraai
+     * Corvus albicollis Withalskraai
+     * Corvis splendens Huiskraai
+
+[wysig] Kraaie wat in ander wêrelddele voorkom:
+
+     * Corvus albus Witborstraaf
+     * Corvus corax Raaf
+     * Corvus cornix Bonte kraai
+     * Corvus corone Zwarte kraai
+     * Corvis crassirostris Witnekraaf
+     * Corvus frugilegus Roek
+     * Corvus monedula Kauw
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika.
+
+   Kategorie: Kraaiagtiges
+

@@ -1,0 +1,177 @@
+Hiragana
+
+
+   Japannese Macbook Pro sleutelbord met Hiragana en rōmaji karakters
+   Japannese Macbook Pro sleutelbord met Hiragana en rōmaji karakters
+
+   Hiragana (平仮名 of ひらがな, Hiragana^?) is 'n Japannese lettergreepskrif,
+   een van die onderdele van die moderne Japannese skryfstelsel, te same
+   met katakana en kanji; en rōmaji; die gebruik van die Latynse alfabet
+   in Japannees.^[1] Hiragana en katakana is beide kana-stelsels waarin
+   elke simbool 'n mora (klankeenheid) voorstel. Elke kana is óf 'n
+   klinker (soos a あ); 'n konsonant gevolg deur 'n klinker (soos ka か); óf
+   n ん, 'n nasale sonorant wat, afhangende van die konteks, soos 'n
+   Afrikaanse m, n, of ng (IFA: [ŋ]) klink, of soos die nasale klinkers in
+   Frans.
+
+   Hiragana word gebruik vir woorde waarvoor daar geen kanji bestaan nie,
+   insluitend partikels soos kara から "van," en agtervoegsels soos ~san さん
+   "Mnr., Mev., Mej, Me." Hiragana word ook gebruik in woorde waarvoor die
+   kanji-vorm nie vir die skrywer of die lesers belkend is nie, of waar
+   dit te formeel is vir die skryfdoeleinde. Werkwoord en byvoeglike
+   naamwoord infleksies, soos byvoorbeeld, BE MA SHI TA (べました) in
+   tabemashita (食べました, tabemashita^? "ate"), wat in hiragana geskryf word.
+   In hierdie geval word deel van die stam ook in hiragana geskryf.
+   Hiragana word ook gebruik om die uitspraak van kanji aan te dui in 'n
+   leeshulpmiddel wat furigana genoem word.^[2]
+
+   Daar bestaan twee hoofstelsels vir die rangskikking van hiragana, die
+   outydse iroha rangskikking, en die meer algemene gojūon rangskikking.
+
+   Inhoud
+
+        * 1 Oorsprong
+        * 2 Die hiragana skryfstelsel
+        * 3 Hiragana-tabel
+        * 4 Verwysings
+
+[wysig] Oorsprong
+
+   Hiragana se karaktervorms is afgelei van die Sjinese kursiewe skrif,
+   sōsho. 'n Voorbeeld van die kursiewe skrif deur die Sjinese Tang
+   Dinastie kalligraaf Sun Guoting, c. 650 word heir vertoon
+   Hiragana se karaktervorms is afgelei van die Sjinese kursiewe skrif,
+   sōsho. 'n Voorbeeld van die kursiewe skrif deur die Sjinese Tang
+   Dinastie kalligraaf Sun Guoting, c. 650 word heir vertoon
+
+   Hiragana het ontwikkel uit man'yōgana, Sjinese karakters wat vir hulle
+   uitspraak gebruik is. Die gebruik het in die 5de eeu ontstaan. Die
+   vorms van die hiragana is afkomstig van die kursiewe skrifstyle van
+   Sjinese kalligrafie. Die onderstaande figuur wys hoe die hiragana uit
+   manyōgana ontwikkel het via kursiewe skrif. Die boonste karakter in die
+   gewone Sjinese skrifvorm, die middelste karakter in rooi vertoon die
+   kursiewe skrifvorm van die karakter, en die onderste karakter is die
+   ekwivalente hiragana.
+
+   Toe hiragana aanvanklik geskep is, is dit nie algemeen aanvaar nie.
+   Baie opgevoede mense het gevoel dat dit steeds Sjinees was. In Japan is
+   die gewone skrif (kaisho), die sogenaamde onode (男手, onode^?),
+   "mansskrif", deur mans gebruik; terwyl die kursiewe skrif (sōsho) vorm
+   van kanjki deur vroue gebruik is. Hiragana het dus onder vroue gewild
+   geword wat nie toegang gehad het tot dieselfde mate van onderwys as
+   mans nie. Dit het gelei tot die alternatiewe benaming onnade (女手,
+   onnade^?) "vroueskrif".^[2] Die Verhaal van Genji en ander vroeë romans
+   deur vroulike outeurs het dus tot 'n groot mate of uitsluitlik van
+   hiragana gebruik gemaak. Teen die 10de eeu is hiragana egter deur albei
+   geslagte gebruik. Hiragana, met sy vloeiende styl, is vir nie-amptelike
+   skryfwerk gebruik soos persoonlike briewe, terwyl katakana en kanji
+   gebruik is vir amptelike dokumente. In moderne Japannese skrif word
+   hiragana saam met katakana gebruik. Katakana word nou slegs vir
+   spesiale doeleindes gebruik soos vir leenwoorde, gestranslitereerde
+   name die name van diere, in telegramme, en vir klem.
+
+   In vroeë weergawes van hiragana was daar baie keer verskillende
+   karakters wat dieselfde lettergreep voorgestel het, maar die stelsel is
+   in 1900 vereenvoudig sodat daar 'n eenduidige verband tussen gesproke
+   en geskrewe lettergrepe is. Die huidige ortografie is in 1946 deur die
+   Japannese regering vasgelê.^[2]
+
+   Die woord hiragana beteken "gewone lettergreepskrif"
+
+   Die gedig Iroha-uta ("Lied/gedig van kleure"), wat uit die 10de eeu
+   dateer, gebruik elke die hiragana (behalwe n ん) een keer. In die
+   onderstaande tabel word die hiragana vertoon met die oorsponklike roman
+   isering en die moderne Japannese lesing in hakkies. Let daarop dat die
+   laaste reël met die uigediende kana (we ゑ) begin.
+   いろはにほへと(いろはにおえど) I ro ha ni ho he to
+   (Iro wa nioedo) Selfs kleur en soet parfuum
+   ちりぬるを(ちりぬるを) chi ri nu ru wo
+   (chirinuru wo) Sal uiteindelik kwyn
+   わかよたれそ(わがよたれぞ) wa ka yo ta re so
+   (waga yo tare zo) Selfs ons wêreld
+   つねならむ(つねならん) tsu ne na ra mu
+   (tsune naran) Is nie ewig
+   うゐのおくやま(ういのおくやま) u wi no o ku ya ma
+   (ui no okuyama) Die diepe berge van ydelheid
+   けふこえて(きょうこえて) ke fu ko e te
+   (kyou koete) Oorkuis dit vandag
+   あさきゆめみし(あさきゆめみじ) a sa ki yu me mi shi
+   (asaki yume miji) En oppervlakkige drome
+   ゑひもせす(よいもせず) we hi mo se su
+   (yoi mo sezu) Sal jou nie meer mislei nie.
+
+[wysig] Die hiragana skryfstelsel
+
+   Die hiragana bestaan uit 'n basiese stel karakters, die gojūon, wat op
+   verskeie maniere aangepas kan word. Deur 'n dakuten merker ( ゛) word 'n
+   nie-stemhebbende konsonant soos k of t verander in 'n stemhebbende
+   konsonant soos g (uitgespreek soos in berge) of d: k→g, t→d, s→z, en
+   h→b. Hiragana wat met 'n h kan ook 'n handakuten merker ( ゜) kry wat
+   die h na 'n p verander. 'n Klein weergawe van die hiragana vir ya, yu
+   of yo (ゃ, ゅ of ょ onderskeidelik) kan by die hiragana wat met i eindig
+   gevoeg word. Dit verander die i klinker om na 'n gly palatalisering te
+   verander. Die byvoeging van die klein y kana word yōon genoem. 'n Klein
+   tsu っ genaamd sokuon dui 'n geminaat (dubbel) konsonant aan. Dit
+   verskyn voor frikatiewe en stoppe, en soms aan die einde van sinne. Dit
+   word voorgestel in rōmaji deur die volgende konsonant te verdubbel.
+
+   In informele teks word klein weergawes van die vyf klinker kana soms
+   gebruik om die wegdofende klanke (はぁ, ねぇ) voor te stel.
+
+   Daar is 'n paar hiragana wat selde gebruik word. Wi ゐ en we ゑ is
+   uitgedien. Vu ゔ is 'n moderne toevoeging wat gebruik word om die /v/
+   klank in vreemde tale soos Europese tale voor te stel, maar aangesien
+   Japannees uit 'n fonologiese oogpunt nie 'n /v/ klank het nie, word dit
+   as /b/ uitgespreek en dien dit meestal as 'n meer akkurate aanduier van
+   'n woord se uitspraak in die woord se oorspronklike taal. Dit word
+   egter selde teëgekom aangesien leenwoorde en getranslitereerde woorde
+   gewoonlik in katakana, geskryf word waar die ooreenstemmende karakter
+   as ヴ geskryf sou word.
+
+[wysig] Hiragana-tabel
+
+   Die onderstaande tabel gee hiragana aan te same met hulle
+   Hepburn-romanisering. Die uitgediende kana word in rooi romanisering
+   vertoon. Daar is 131 gevalle.
+   klinkers yōon sokuon
+      あ a い i う u え e お o (ya) (yu) (yo) (a) (i) (u) (e) (o)
+か ka き ki く ku け ke こ ko きゃ kya きゅ kyu きょ kyo っか kka っき kki っく kku っけ
+                               kke っこ kko
+さ sa し shi す su せ se そ so しゃ sha しゅ shu しょ sho っさ ssa っし sshi っす ssu っせ
+                               sse っそ sso
+た ta ち chi つ tsu て te と to ちゃ cha ちゅ chu ちょ cho った tta っち tchi っつ ttsu
+                            って tte っと tto
+     な na に ni ぬ nu ね ne の no にゃ nya にゅ nyu にょ nyo
+     は ha ひ hi ふ fu へ he ほ ho ひゃ hya ひゅ hyu ひょ hyo
+     ま ma み mi む mu め me も mo みゃ mya みゅ myu みょ myo
+                            や ya ゆ yu よ yo
+     ら ra り ri る ru れ re ろ ro りゃ rya りゅ ryu りょ ryo
+                        わ wa ゐ wi ゑ we を o/wo
+                                    ん n
+     が ga ぎ gi ぐ gu げ ge ご go ぎゃ gya ぎゅ gyu ぎょ gyo
+      ざ za じ ji ず zu ぜ ze ぞ zo じゃ ja じゅ ju じょ jo
+  だ da ぢ (ji) づ (zu) で de ど do ぢゃ (ja) ぢゅ (ju) ぢょ (jo)
+     ば ba び bi ぶ bu べ be ぼ bo びゃ bya びゅ byu びょ byo
+ぱ pa ぴ pi ぷ pu ぺ pe ぽ po ぴゃ pya ぴゅ pyu ぴょ pyo っぱ ppa っぴ ppi っぷ ppu っぺ
+                               ppe っぽ ppo
+
+   Die kombinasies にゃ, にゅ, en にょ moet nie verwar word met die
+   opeenvolgings んや, んゆ, en んよ nie. Die kombinasies van に met 'n klein y
+   kana verteenwoordig elkeen 'n enkele mora, terwyl die opeenvolgings van
+   ん gevolg deur 'n groot y kana twee aparte morae verteenwoordig. Die
+   onderskeid kan geïllustreer word met minimale pare soos かにゅう ka-nyu-u,
+   "verbind", en かんゆう ka-n-yu-u, "oortuiging", wat maklik onderskei word
+   in spraak, al word hulle in sommige romaniseringstelsels beide as kanyu
+   geskryf kan word. In Hepburn-romanisering word hulle deur 'n apostroof
+   onderskei: kanyū en kan'yū.
+
+[wysig] Verwysings
+
+    1. ^ Omniglot, Japanese (Nihongo), Besoek op 2 Februarie 2008
+    2. ^ ^2,0 ^2,1 ^2,2 Omniglot, Japanese Hiragana, Besoek op 2 Februarie
+       2008
+
+    Hierdie artikel omtrent Japan is tans slegs 'n saadjie. Jy is welkom
+   om by te dra tot die Afrikaanse Wikipedia deur dit uit te brei.
+   Kategorie: Japan saadjies
+

@@ -1,0 +1,58 @@
+Hektaar
+
+
+   CAPTION: Vergelyking van Oppervlak eenhede
+
+                 Eenheid                 SI   SI basis
+                                  1 ca   1 m²     1 m²
+                                   1 a 1 dam²   10² m²
+                                  1 ha  1 hm²  10^4 m²
+                                100 ha  1 km²  10^6 m²
+                  1 vierkanthektometer  1 hm²  10^4 m²
+                  nie-SI vergelykings
+                 non-SI                metric SI base
+                    1,168 morg^[1]^[2]   1 ha  10^4 m²
+                            2,471 acre   1 ha  10^4 m²
+                         107 639 sq ft   1 ha  10^4 m²
+   * 0.00386 102 vierkantmyl (statuut)   1 ha  10^4 m²
+                       * 15 mū (Sjina)   1 ha  10^4 m²
+                   * 0.15 qǐng (Sjina)   1 ha  10^4 m²
+       10 dunam of dönüm (Midde-Ooste)   1 ha  10^4 m²
+             10 stremmata (Griekeland)   1 ha  10^4 m²
+                   6.25 rai (Thailand)   1 ha  10^4 m²
+                    ~1.008 chō (Japan)   1 ha  10^4 m²
+
+   'n Hektaar is 'n meeteenheid van oppervlak, gelyk aan 10 000 m² wat
+   veral gebruik word om grondgebied te meet. 'n 1 Hektaar groot vierkant
+   se sye is 100 meter lank (1 Hektometer). Die naam hektaar kom van die
+   verkorting van Griekse voorsetsel Hekto vir 100 en die eenheid are. 'n
+   Hektaar is 'n 100 are of 'n vierkanthektometer. Are was die basis
+   eenheid vir oppervlak wat in ouer vorms van die metrieke stelsel
+   gebruik is maar nie are of hektaar vorm deel van die moderne SI-stelsel
+   nie, die gebruik van hektaar word egter steeds toegelaat en die eenheid
+   word presies gedefinieer deur basiseenhede in die SI-stelsel.
+
+          Simbool: ha
+
+          1 ha = 100 a = 1 hm² = 0,01 km² = 10 000 m² = 100 meter × 100
+          meter.
+
+   Die hektaar word algemeen in baie lande gebruik, veral gebiede wat die
+   grond beplanning en bestuur behels soos landbou, bosbou, en
+   Stadsbeplanning. Dit is veral nuttig waar vierkantmeter omslagtig en
+   onnodig presies sou wees. In die VSA en Kanada word die acre steeds oor
+   die algemeen in soortgelyke situasies gebruik.
+
+[wysig] Eksterne skakels
+
+     * Amptelike SI webwerf: Tabel 6. Nie-SI eenhede aanvaar vir gebruik
+       met die Internasionale Stelsel van Eenhede
+
+[wysig] Verwysings
+
+    1. ^ Gamefarmnet, Besoek op 29 April 2007
+    2. ^ The South African Afrikaans / English Physics Dictionary, Besoek
+       op 29 April 2007
+
+   Kategorieë: Eenhede van oppervlak • Nie-SI metrieke eenhede
+

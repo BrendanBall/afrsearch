@@ -1,0 +1,30 @@
+MediaWikibespreking:Longpagewarning
+
+
+   Miskien kan die boodskap gewysig word om te sê: "Hierdie bladsy is xkb
+   groot. Indien u voel dat sommige afdelings eerder na subartikels
+   geskuif moet word, bespreek dit asseblief op die besprekingsblad." Nie
+   heeltemal nie, maar so iets. Iets wat sê/aandui:
+     * Die bladsy is x lank en dis (moontlik) te lank.
+     * Moenie afdelings links en regs verwyder nie, maar bespreek dit
+       eers.
+
+   Hoekom ek wil wegbly van iets wat slegs sê "hierdie bladsy is x lank"
+   is omdat dit in sigself nie werklik iets sê nie. Die bladsy is so lank,
+   so what? Die hele idee is om mense te waarsku dat te veel ekstra inhoud
+   die laaispoed vir sommige gebruikers en blaaiers kan benadeel en dat
+   dit miskien nie 'n goeie idee sou wees om nog 'n 5000-karakters
+   afdeling by te voeg nie. Mens kan miskien ook die drempel 'n bietjie
+   hoër stel - die huidige is maar 32 kB. Anrie 12:42, 1 Oktober 2007
+   (UTC)
+
+          Mens moet natuurlik aanvaar dat sommige artikels van nature
+          enige voorafgestelde lengte gaan oorskry, indien dit daarin wil
+          slaag om die onderwerp volledig te dek. Anrie 12:44, 1 Oktober
+          2007 (UTC)
+
+                Ja, vat byvoorbeeld vir Tweede Wêreldoorlog, wat baie lank
+                is. Ek weet nie hoe om hierdie drempel hoër te stel nie...
+                maar wat jy voorstel is 'n goeie idee. — Adriaan (S★B)
+                13:07, 1 Oktober 2007 (UTC)
+

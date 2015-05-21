@@ -1,0 +1,142 @@
+Dugong
+
+
+                   Dugong
+   Bedreigingstatus: Kwetsbaar
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Sirenia
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Dugongidae
+                   Gray, 1821
+     Subfamilie:   Dugonginae
+                   Simpson, 1932
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Dugong
+                   Lacépède, 1799
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     D. dugon
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+                Dugong dugon
+   (Müller, 1776)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Natuurlike verspreiding van D. dugon
+   Natuurlike verspreiding van D. dugon
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die dugong is 'n waterlewende soogdier; die kleinste lid van die orde
+   Sirenia (wat ook die lamantyne insluit). Die naam het sy oorsprong uit
+   Maleis (duyung) wat dame van die see, of meermin, beteken. Die dier
+   word net in vlak water aangetref.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Verspreiding
+        * 3 Habitat
+        * 4 Gedrag
+        * 5 Geluide
+        * 6 Kos
+        * 7 Voortplanting
+        * 8 Galery
+        * 9 Sien ook
+        * 10 Eksterne skakels
+        * 11 Bronne
+
+[wysig] Identifikasie
+
+   Die dugong se totale lengte is tussen 2,5m en 3m lank. Die liggaam is
+   sigaarvormig, en die dier het vinpote en stertlobbe. Die vinpote is
+   spaanagtig. Daar is nie agterpote nie, net 'n groot vlesige stert wat
+   soos die dolfyn se stert horisontaal afgeplat is. Die velkleur is
+   grysbruin, en is bo 'n bietjie donkerder as onder. Die bek en onderlip
+   is bedek met kort, dik borselhare.
+
+[wysig] Verspreiding
+
+   In Suider-Afrika kom die dugong voor langs die suidelike kus van
+   Mosambiek, maar enkele swerwers word ook langs die
+   kwaZulu/Natalkusgebied aangetref. Wêreldwyd het die voorkoms van die
+   dugong verskraal van die hele suidelike gedeelte van die Stille Oseaan
+   en die Indiese Oseaan na enkele areas in Australië, Nieu-Guinee, Palau
+   en klein getalle langs die ooskus van Afrika.
+
+[wysig] Habitat
+
+   Die dugong bewoon slegs vlak, beskutte water naby die kuslyn.
+
+[wysig] Gedrag
+
+   Dugongs is gewoonlik alleenlopers, maar kan ook in pare of
+   familiegroepe voorkom. Hulle swem stadig; en kan vir tot vyf minute
+   onderwater bly, alhoewel die gemiddelde duiktog nie veel langer as 'n
+   minuut duur nie.
+
+[wysig] Geluide
+
+   Onbekend.
+
+[wysig] Kos
+
+   Die dierspesie eet etlike soorte seegras wat voorkom in beskutte, vlak
+   strandbaaie of strandmere.
+
+[wysig] Voortplanting
+
+   Een kalf word voortgebring tussen November en Januarie.
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Lys van Suider-Afrikaanse soogdiere
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+     * Suider-Afrikaanse soogdiere en hul ordes
+
+[wysig] Eksterne skakels
+
+     * Beelde en video's van die dugong
+     * Die dugong
+
+[wysig] Bronne
+
+     * 'Veldgids tot die soogdiere van Suider-Afrika'. Chris en Tilde
+       Stuart. Eerste uitgawe, 1988.
+     * Enkele gedeeltes van die Engelse artikel Dugong is ook gebruik.
+
+   Kategorie: Dugongs
+

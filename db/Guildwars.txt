@@ -1,0 +1,105 @@
+Guildwars
+
+
+                                                                Guildwars
+                                              Naam:              Guildwars
+                                      Ontwikkelaar:         ArenaNet, Inc.
+                                        Gepuliseer:                   2005
+                                             Genre:                   IISG
+                                             Modus: Interaktiewe Groepspel
+                            Tegniese implementasie:  Maatwerk van ArenaNet
+                                          Platform:                Windows
+                                 Amptelike webwerf:                    [1]
+
+   Guildwars het in 2005 op die mark gekom. Dit is 'n interaktiewe
+   internet rolspel rekenaarspeletjie waarin jy 'n karakter beheer, met
+   spesiale vaardighede bv. dat hy/sy kan vlieg, of toorkunsies kan
+   uitvoer. So 'n spel word gewoonlik met ander individue aanlyn gespeel
+   en moet die speler soms met 'n aantal ander spelers 'n spesifieke
+   opdrag uitvoer. So byvoorbeeld moet 'n draak verslaan word, of 'n groep
+   mense 'n rivier oorsteek.
+
+   Inhoud
+
+        * 1 Karaktergroepe
+        * 2 Vaardighede aanleer
+        * 3 Belonings
+        * 4 Guildwars variante
+        * 5 Tegnies
+        * 6 Eksterne skakel
+        * 7 Soortgelyke speletjies
+
+[wysig] Karaktergroepe
+
+   In so 'n speletjie is daar verskeie gespesialiseerde groepe of klasse.
+   As jy begin speel moet jy 'n karaktergroep kies, wat grotendeels
+   bepalend is vir jou taak en vaardighede binne 'n groep. So is daar
+   bevoorbeeld 'n Priesterklas, wat sy/haar medespelers van siektes en
+   kwale genees, maar ook 'n banvloek kan uitspreek. In Guildwars kan 'n
+   karakter buiten sy primere vakgebied ook die vaardighede van 'n ander
+   vakgebied aanleer.
+
+   In Guildwars is daar die volgende klasse:
+     * Assasin (Sluipmoordenaar)
+     * Warrior (Kryger)
+     * Monk (Priester)
+     * Necromancer (Toordokter)
+     * Mesmer (Demoon)
+     * Elementalist (Towenaar)
+     * Paragon (Goeie Heilige)
+     * Dervish (Hoof Vegter)
+     * Ritualist (Geneesheer)
+
+   Elke klas het spesiale vaardighede wat hom spesiaal of gevaarlik maak.
+   Jy kan 'n Toordokter wees en daarmee saam ook nog 'n Demoon se magte
+   ("Necro/Mesmer")bekom.
+
+[wysig] Vaardighede aanleer
+
+   Terwyl jy die spel speel kan jy nuwe vaardighede aanleer, wat jy met
+   kubergoud kan koop, of jy word met 'n vaardigheid beloon. 'n Hoof
+   Vegter kan slegs Hoof Vegtersvaardighede aanleer maar ook
+   Priestervaardighede -- mits hy 'n Priester as tweede vakgebied gekies
+   het. 'n Toordokter kan byvoorbeeld 'n vaardigheid aanleer om dooie
+   mense as zombies op te wek. 'n Kryger kan immuun word teen beserings
+   ens. Hoe meer ervaring 'n karakter opdoen hoe meer effektief word hy en
+   kan jy moeiliker opdragte aandurf.
+
+[wysig] Belonings
+
+   In die spel moet jy opdragte uitvoer: 'n draak verslaan, eetgoed na
+   behoeftiges bring ens. Die opdragte kry jy van 'n rekenaar karakter in
+   'n stad of dorp, soms ook buite in die platteland moet jy karakters
+   behulpsaam wees.
+
+   Die volgende beloninge is moontlik:
+     * Vaardighede
+     * Goud (virtueel goud, om vaardighede of wapens te koop)
+     * Wapens (swaard, pyl-en-boog ens)
+     * Nuwe opdragte
+     * Ervaringpunte
+
+[wysig] Guildwars variante
+
+   Die oorspronklike Guildwars was bekend as die Prophecies.
+
+[wysig] Tegnies
+
+   Om Guildwars te speel moet jou rekenaar voltyds aan die internet
+   verbind wees. Dit is raadsaam om Guildwars met 'n ADSL-verbinding te
+   speel op 'n rekenaar met 'n Pentium 4 van 2.Ghz/AMD Athlon 32bit
+   2.0Ghz, minimaal 1Gb geheue, 6Gb disketruimte en 'n DirectX9 grafiese
+   kaart.
+
+[wysig] Eksterne skakel
+
+     * Amptelike webwerf (Engels-, Frans-, Duitstalig)
+     * Guildwars Wiki (Engelstalig)
+
+[wysig] Soortgelyke speletjies
+
+     * [2] World of Warcraft (Engelstalig)
+     * EVEonline
+
+   Kategorie: Rekenaarspeletjies
+

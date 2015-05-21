@@ -1,0 +1,41 @@
+Elektriese drywing
+
+
+   Die elektriese drywing (P) van 'n elektriese apparaat is 'n grootheid
+   vir die hoeveelheid energie wat die apparaat binne 'n bepaalde
+   tydseenheid gebruik. Die mees gebruikte eenheid vir elektriese drywing
+   is die watt (W).
+
+   Die elektriese drywing word deurgaans bereken deurmiddel van die
+   volgende formule:
+
+          \! P = V*I
+
+   waar:
+     * V: die effektiewe waarde van die elektriese spanning, uitgedruk in
+       volt
+     * I: die effektiewe waarde van die elektriese stroom, uitgedruk in
+       ampère
+
+[wysig] Wisselstroom
+
+   By wisselstroom word twee drywingsgroothede hanteer: Die skynbare
+   drywing met eenheid voltampère (VA) en die werklike drywing met eenheid
+   watt (W). Die verskil tussen beide groothede bestaan deurdat sommige
+   elektriese toestelle nie gedurende 'n volledige wisselstroomfase stroom
+   gebruik nie. Hierdie verskynsel kom deurgaans voor by geskakelde voere,
+   'n geskakelde voer sonder korreksie gebruik alleenlik energie as die
+   wisselstroomamplitude maksimaal is.
+
+   Die elektriese infrastruktuur word bereken op die skynbare drywing,
+   terwyl die daadwerklike energieopname laër is. Omdat dit 'n lae
+   effektiewe gebruik van die elektriese infrastruktuur is word
+   korreksie-elektronika in elektriese toestelle gebruik. Hierdie
+   elektronika verleng die fasedeel waarin drywing opgeneem word. Min
+   toestelle is egter in staat om drywing op te neem as die
+   wisselstroomamplitude klein is, sodat die verskil tussen beide
+   groothede van belang is in die praktyk.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Fisika • Saadjies
+

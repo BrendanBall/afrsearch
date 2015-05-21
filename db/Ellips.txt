@@ -1,0 +1,138 @@
+Ellips
+
+
+   Die ellips en sommige van sy wiskundige eienskappe.
+   Die ellips en sommige van sy wiskundige eienskappe.
+
+   In wiskunde is 'n ellips (uit die Grieks vir afwesigheid) is die lokus
+   van punte op 'n vlak waar die some van die afstande van enige punt op
+   die kromme na twee vaste punte konstant is. Die twee vaste punte word
+   die brandpunt e genoem.
+
+   'n Ellips is 'n soort keëlsnit: as 'n keëloppervlak deur 'n vlak gesny
+   word en nie deur deur die keël se basis gaan nie is die snyding tussen
+   die keël en die vlak 'n ellips. 'n Eenvoudige bewys dat die bogenoemde
+   twee beskrywings ekwivalent aan mekaar is kan met Dandelinsfere gedoen
+   word.
+
+   Algebraïes is 'n ellips 'n kromme in die Cartesiese vlak gedefinieer
+   deur 'n vergelyking met die vorm:
+
+          Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
+
+   sodat B^2 < 4AC, waar al die koëffisiënte reël is, en waar meer as een
+   oplossing wat dier punt (x, y) op die ellips, bestaan.
+
+   'n Ellips kan geteken word met twee spelde, 'n toulus en 'n potlood.
+   Die spelde word by die brandpunt geplaas en die spelde en potlood word
+   deur die lus ingesluit. Die potlood word op die papier geplaas binne
+   die lus sodat die lus styf gespan is. Die lus sal 'n driehoek vorm. As
+   die potlood beweeg word sodat die lus altyd styf bly sal die som van
+   die afstande van die potlood na die spelde konstant bly wat dan die
+   definisie van 'n ellips bevredig.
+
+   Die lynsegment wat deur die brandpunte gaan en op die ellips eindig,
+   word die hoofas genoem. Die hoofas loop langs die langste segment wat
+   deur die ellips gaan. Die lyn wat in deur die middelpunt (halfpad
+   tussen die brandpunte), teen 'n regtehoek tot die hoofas, gaan, word
+   die kortas genoem. 'n semi-hoofas is een helfte van die hoofas: die
+   lynsegment vana die middelpunt, deur 'n brandpunt, tot by die rand van
+   die eillips. Netso is die semi-kortas een helfte van die kortas.
+
+   As die twee brandpunte saamval is die ellips 'n sirkel; met ander
+   woorde, 'n sirkel is 'n spesiale geval van 'n ellips, een waar die
+   eksentrisiteit nul is.
+
+   'n Ellips met sy middelpunt by die oorsprong kan gesien word as die
+   beeld van die eenheidsirkel onder 'n lineêre afbeelding geassosieer met
+   'n simmetriese matriks A = PDP^T, waar D 'n diagonale matriks is met
+   die eiewaardes van A, wat beide reël en positief is, langs die
+   hoogdiagonaal, en P 'n reële unitêre matriks met die eievektore van A
+   as kolomme. Dan sal die asse van die ellips langs die eievektore van A
+   lê, en die kwadrate van die lengtes van die asse is die omgekeerdes van
+   die eiewaardes.
+
+   'n Ellips kan geproduseer word deur die x koördinate van alle punte op
+   'n sirkel met 'n konstante te vermenigvuldig sonder om die y koördinate
+   te verander.
+
+[wysig] Parameterisering
+
+   Die grootte van 'n ellips word bepaal deur twee konstantes, gewoonlik
+   aangedui met a en b. Die konstante a is gelyk aan die lengte van die
+   semi-hoofas; die konstante b is gelyk aan die lengte van die
+   semi-kortas. As gevolg hiervan is a altyd groter as b (of gelyk aan
+   mekaar in die geval van 'n sirkel).
+   Ellips met die hoof- en kortasse aangedui
+
+   'n Ellips met middelpunt by die oorsprong van 'n x-y koördinaatstelsel
+   met sy hoofas langs die x-as word gedefinieer deur die vegelyking vir
+   die elliptiese voorwerp.
+
+          \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1
+
+   Die afleiding van die formule is nogal insiggewend en nie te moeilik
+   nie.
+
+   Die volgende diagram vertoon 'n ellips wat die Pythagoras vergelyking,
+   a² = b² + c², as 'n spesiale geval van die nie-parametriese vergelyking
+   hierbo (x=0, y=b) demonstreer.
+
+   Dieselfde ellips word ook beskryf deur die parametriese vergelykings:
+
+          x = a\,\cos t
+          y = b\,\sin t
+          0 \leq t < 2\pi
+
+   wat die trigonometriese funksies sinus en kosinus gebruik.
+
+   As 'n ellips se middelpunt nie by die oorsprong van 'n x-y
+   koördinaatstelsel is nie maar steeds sy hoofas parallel aan die x-as
+   het kan dit deur die volgende vergelyking gespesifiseer word
+
+          \frac{(x-h)^{2}}{a^{2}} + \frac{(y-k)^{2}}{b^{2}} = 1
+
+   waar (h,k) die middelpunt is.
+
+   In poolkoördinate waar die oorsprong een brandpunt van die ellips is is
+   die vergelyking:
+
+          r = \frac{ a(1-e^{2})}{1 + e\cos(\theta)}
+
+   'n Gauss-kaart vorm:
+
+          \left(\frac{a^2\cos\phi}{\sqrt{a^2\cos^2\phi+b^2\sin^2\phi}},\fr
+          ac{b^2\sin\phi}{\sqrt{a^2\cos^2\phi+b^2\sin^2\phi}}\right)
+
+   het normaal (cosφ,sinφ).
+
+[wysig] Eksentrisiteit
+
+   Die vorm van 'n ellips word gewoonlik beskryf deur 'n getal wat die
+   eksentrisiteit van die ellips genoem word, volgens konvensie met e
+   aangedui (dit moet nie met die wiskundige konstante e verwar word nie).
+   Die eksentrisiteit is verwant aan a en b deur die stelling
+
+          e = \sqrt{1 - \frac{b^2}{a^2}}
+
+   of waar c (die lineêre eksentrisiteit van die ellips) gelyk is aan die
+   afstand van die middelpunt na enige een van die brandpunte
+
+          e = \frac{c}{a}
+
+   Die eksentrisiteit is 'n positiewe getal minder as 1, of 0 in die geval
+   van 'n sirkel. Hoe groter die eksentrisiteit is, hoe hoër die
+   verhouding van a tot b, en daarom hoe meer uitgerek die ellipse. Die
+   ellips in die onderstaande beeld het eksentrisiteit van ongeveer
+   0.8733. Die afstand tussen die brandpunte is 2ae.
+
+[wysig] Semi-latus rectum en poolkoördinate
+
+   Die semi-latus rectum van 'n ellipse, gewoonlik aangedui l\,\!
+   (kleinletter L), is die afstand van 'n brandpunt van die ellips na die
+   ellips self, gemeet langs 'n lyn loodreg tot die hoofas. Dit is verwant
+   aan a\,\! en b\,\! (die ellips se semi-asse) deur die formule
+   al=b^2\,\! of, as eksentrisiteit gebruik word, l=a(1-e^2)\,\! .
+   Ellipse, wat die semi-latus rectum vertoon
+   Kategorieë: Keëlsnitte • Krommes
+

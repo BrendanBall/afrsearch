@@ -1,0 +1,46 @@
+Elektronskil
+
+
+   Voorbeeld van 'n natrium elektronskil model
+   Voorbeeld van 'n natrium elektronskil model
+
+   'n Elektronskil, ook bekend as 'n hoofenergievlak, is 'n groep
+   atoomorbitale met dieselfde waarde as die hoofkwantumgetal n.
+   Elektronskille bestaan uit een of meer subskille of subvlakke, wat twee
+   of meer orbitale het met dieselfde hoekmomentum kwantumgetal van 1.
+   Elektronskille maak saam die elektronkonfigurasie van 'n atoom uit.
+   Daar kan getoon word dat die aantal elektrone wat in 'n skil gevind kan
+   word gelyk is aan 2n^2
+
+[wysig] Geskiedenis
+
+   Die bestaan van elektronskille is deur Charles Barkla en Henry Moseley
+   vir die eerste keer waargeneem deur X-straal absorpsie studies. Barkla
+   het hulle aangedui met die letters K, L, M ens. Daar is later gevind
+   dat hierdie letters ooreenstem met die n-getalle 1,2, 3 ensovoorts.
+   Hulle word gebruik in spektroskopiese Siegbahn-notasie.
+
+   Die naam vir elektronskille vind sy oorsprong uit die Bohr-model, waar
+   daar geglo is dat groepe elektrone op sekere afstande vanaf die kern
+   wentel en sodoende "skille" vorm.
+
+[wysig] Valensie
+
+   Die valensie-skil is die buitenste energievlak van 'n atoom in sy
+   onverbonde toestand, wat die elektrone bevat wat die grootste invloed
+   uitoefen op die aard van die reaksies waar die atoom by betrokke kan
+   wees en die chemiese verbindings wat dit met ander atome kan vorm. Die
+   elektrone in die valensievlak word na verwys as valenselektrone. Die
+   fisiese chemikus, Gilbert Lewis was verantwoordelik vir baie van die
+   vroeëre ontwikkelingswerk oor die teorie rondom valenselektrone se
+   deelname aan chemiese verbindings. Linus Pauling het later die teorie
+   veralgemeen en uitgebrei deur sy insigte in kwantum-meganika toe te
+   pas.
+
+[wysig] Verwysings
+
+     * Tipler, Paul & Ralph Llewellyn (2003). Modern Physics (4th ed.).
+       New York: W. H. Freeman and Company. ISBN 0-7167-4345-0
+
+   Kategorie: Chemie
+

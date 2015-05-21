@@ -1,0 +1,33 @@
+Versleuteling
+
+
+   Versleuteling soos gebruik in Kriptologie / Kriptografie is 'n al hoe
+   meer belangrike prosedure om databeveiliging te bewerkstelig, ongeag of
+   dit geberg of na 'n ander party gestuur moet word. Dit sal dit slegs
+   veilig wees indien dit omgesit word in 'n kriptiese (versleutelde) kode
+   sodat dit nie deur ander persone gelees kan word nie.
+   Daar word gepraat van enkripsie (versleuteling) om 'n teksboodskap, of
+   ander data in 'n onleesbare en versleutelde kodes te gaan omsit, wat
+   veilig na die oord van bestemming gestuur kan word. Daar sal dit dan
+   eer weer deur dekripsie (ontsleuteling) teruggeplaas moet word om weer
+   die oorspronklike teks of data te kan verkry. Die versleuteling en
+   ontsleuteling kan redlik kompleks raak. Hoe langer die sleutels
+   (wagwoorde) is, hoe moeiliker kan die kodes geknak word. Daar word tans
+   versleutelingsprosesse met 256, 320 en meer bisse gebruik. Maar hoe
+   vinniger die rekenaars word hoe langer sal die bisse moet word, om te
+   keer, dat 'n rekenaar al die miljoene moontlike opsies kan probeer om
+   die kodes in 'n sekere tyd te kan knak.
+
+[wysig] Nuwe gebruike van versleuteling (enkripsie)
+
+   Die firma Seagate het sopas (2008-04) 'n hardeskuif op die mark gebring
+   wat selfstandig sy eie data-enkripsie en dekripsie gaan doen om
+   databeveiliging seker te stel.
+
+   Sien ook: Kriptografie, Kriptologie, Publiekesleutelkriptografie,
+   IPSec, Sleutel, Wagwoord/Parole
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

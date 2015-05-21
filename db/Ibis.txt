@@ -1,0 +1,135 @@
+Ibis
+
+
+                        Ibisse
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Threskiornithidae
+     Subfamilie:   Threskiornithinae
+                   Poche, 1904
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Inhoud
+
+        * 1 Genera en spesies
+             + 1.1 Spesies wat voorkom in Suider-Afrika
+        * 2 Galery
+        * 3 Sien ook
+
+[wysig] Genera en spesies
+
+     * Genus Threskiornis
+          + Skoorsteenveër, Threskiornis aethiopicus
+          + Threskiornis bernieri
+          + Threskiornis solitarius extinct
+          + Threskiornis melanocephalus
+          + Threskiornis molucca
+          + Threskiornis spinicollis
+     * Genus Pseudibis
+          + Pseudibis papillosa
+          + Pseudibis davisoni
+     * Genus Thaumatibis
+          + Thaumatibis gigantea
+     * Genus Geronticus
+          + Geronticus eremita
+          + Kalkoenibis, Geronticus calvus
+     * Genus Nipponia
+          + Nipponia nippon
+     * Genus Bostrychia
+          + Bostrychia olivacea
+          + Bostrychia bocagei
+          + Bostrychia rara
+          + Hadada, Bostrychia hagedash
+          + Bostrychia carunculata
+     * Genus Theristicus
+          + Theristicus caerulescens
+          + Theristicus caudatus
+          + Theristicus branickii
+          + Theristicus melanopis
+     * Genus Cercibis
+          + Cercibis oxycerca
+     * Genus Mesembrinibis
+          + Mesembrinibis cayennensis
+     * Genus Phimosus
+          + Phimosus infuscatus
+     * Genus Eudocimus
+          + Eudocimus albus
+          + Eudocimus ruber
+     * Genus Pegadis
+          + Glansibis, Plegadis falcinellus
+          + Plegadis chihi
+          + Plegadis ridgwayi
+     * Genus Lophotibis
+          + Lophotibis cristata
+
+[wysig] Spesies wat voorkom in Suider-Afrika
+
+     *
+          + Skoorsteenveër, Threskiornis aethiopicus
+          + Kalkoenibis, Geronticus calvus
+          + Hadada, Bostrychia hagedash
+          + Glansibis, Plegadis falcinellus
+
+[wysig] Galery
+
+   Threskiornis molucca
+
+                       Eudocimus albus
+
+                                      Eudocimus ruber
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Ibisse en lepelaars
+

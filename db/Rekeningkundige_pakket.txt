@@ -1,0 +1,72 @@
+Rekeningkundige pakket
+
+
+   Rekeningkundige pakette is rekenaarsagteware (gewoonlik 'n databasis)
+   wat rekeningkundige funksies elektronies verrig. Toepaslike finansiële
+   data en inligting word byeengebring, geklassifiseer, verwerk en
+   ontleed. Dit sluit dikwels die volgende modules in:
+
+   Algemene grootboek
+
+   Debiteure en fakturering
+
+   Krediteure
+
+   Voorraad
+
+   Klantebestellings
+
+   Salarisse en lone
+
+   Vervaardiging
+
+   Inhoud
+
+        * 1 Kategorieë
+             + 1.1 Persoonlike boekhou
+             + 1.2 Besigheid - Lae-vlak
+             + 1.3 Besigheid - Middel-Mark
+             + 1.4 Besigheid - Hoë-Mark
+
+[wysig] Kategorieë
+
+[wysig] Persoonlike boekhou
+
+     * GnuCash - Vrye sagteware vir UNIX en OS X.
+
+[wysig] Besigheid - Lae-vlak
+
+   Verskaffers sluit in:
+     * Sage, tans die eienaars van verskeie pakette (CPA, Best, TAS, Sage
+       Line, Oberon-bwa, Gandke & Schubert)
+     * Intuit - Quickbooks is Intuit se oplossing vir
+       besigheidsrekeningkunde.
+     * Microsoft - Sekere weergawes van Microsoft Money sluit
+       rekeningkunde nutsprogramme in vir klein besighede.
+
+[wysig] Besigheid - Middel-Mark
+
+   Verskaffers sluit in (eksterne verwysings):
+     * Agresso
+     * Deltek
+     * Microsoft (besit nou Axapta, Great Plains, Navision, Business
+       Management Systems p2p en Solomon)
+     * Accounting Software Directory
+     * RSA Software se Business Solutions version 6
+
+[wysig] Besigheid - Hoë-Mark
+
+   Die mees komplekse en duurste rekeningkunde sagteware is gewoonlik 'n
+   komponent van 'n uitgebreide stel sagteware wat bekend staan as ERP
+   (Engels Enterprise resource planning)
+
+   Verskaffers sluit in:
+     * SAP
+     * Baan
+     * Oberon-bwa
+     * Oracle Applications
+     * PeopleSoft (besit ook J.D. Edwards)
+     * Lawson
+
+   Kategorie: Rekenaar
+

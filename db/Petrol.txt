@@ -1,0 +1,139 @@
+Petrol
+
+
+   Petrol is 'n vloeibare brandstof wat van ru-olie of steenkool gemaak
+   word. Dit word veral as brandstof in binnebrandenjins gebruik. Dit
+   bestaan hoofsaaklik uit koolwaterstowwe, het 'n lae viskositeit en 'n
+   redelike lae kookpunt.
+
+   Petrol en diesel is die algemeenste brandstowwe wat vir vervoer gebruik
+   word, en speel dus 'n belangrike rol in die ekonomie.
+
+   Inhoud
+
+        * 1 Chemiese eienskappe
+        * 2 Oktaangetal
+        * 3 Loodvrye petrol
+        * 4 Gifstowwe in loodvrye petrol
+             + 4.1 Feite (Bronne)
+        * 5 Bronne
+        * 6 Eksterne skakels
+
+[wysig] Chemiese eienskappe
+
+   Petrol word tradisioneel in raffinaderye vervaardig. Die stof wat bloot
+   uit ru-olie gedistilleer word, voldoen nie meer aan die vereistes van
+   moderne enjins nie, maar word wel gebruik in die vervaardigingsproses.
+
+   Sasol gebruik die Fischer-Tropsch-proses vir die vervaardiging van
+   petrol (en ander brandstowwe) uit steenkool.
+
+   Meeste petrol bestaan uit koolwaterstowwe met tussen vyf en twaalf
+   koolstofatome per molekule - hoofsaaklik parafiene, naftene, aromate en
+   oliefiene. Die spesifieke verhoudings sal afhang van die raffinadery,
+   die spesifieke ru-olie wat gebruik is, en die kwaliteit petrol - veral
+   die oktaan.
+
+   Petrol kan ook ander organiese elemente bevat, byvoorbeeld eters wat
+   bygevoeg word, asook onsuiwerhede, veral swaelverbindings. Sekere
+   onsuiwerhede moet verwyder word omdat hulle andersins korosie in die
+   enjin sou veroorsaak.
+
+[wysig] Oktaangetal
+
+   Die belangrikste eienskap van petrol is die oktaangradering. Bymiddels
+   word by petrol gevoeg om te voorkom dat die enjin klop - die verskynsel
+   waar van die brandstof te vroeg ontplof en 'n klopgeluid (vibrasie) in
+   die enjin veroorsaak. Soos wat die druk in enjins se silinders verhoog,
+   vergroot die probleem met enjinklop. Die oktaangetal van 'n brandstof
+   dui aan hoe klopbestand dit is. Dit word gemeet relatief tot 'n mengsel
+   van 2,2,4-trimetielpentaan ('n isomeer van oktaan) en n-heptaan. 'n
+   87-oktaan-petrol het dus dieselfde klopbestandheid as 'n mengsel met
+   87% iso-oktaan en 13% n-heptaan. Die oktaangraderingstelsel is
+   ontwikkel deur die chemikus Russel Marker.
+
+   Die oktaangradering van petrol is dus nie 'n aanduiding van die
+   hoeveelheid oktaan wat in die petrol teenwoordig is nie.
+
+   Algemeen beskikbare petrol het oktaangraderings in die omgewing van 87
+   tot 95. Dit is egter moontlik vir 'n brandstof om 'n oktaan van meer as
+   100 te hê, aangesien iso-oktaan nie die mees klopbestande stof is nie.
+   Renvloeistowwe, etanol, vliegtuigbrandstof, en gas (LPG) het
+   oktaangraderings van 110 en hoër. Petrol se oktaan kan verhoog word
+   deur bystowwe, soos tetraetiellood (in "lood"-bevattende petrol).
+
+   In Suid-Afrika verskil die oktaangradering van petrol by die kus en
+   hoërliggende dele. Petrol by die kus en laerliggende gebiede het 'n
+   effens hoër oktaan om vir die hoër lugdruk geskik te wees.
+
+[wysig] Loodvrye petrol
+
+   Petrol is sedert die 1920's aangevul met 'n verbinding van lood om dit
+   meer klopbestand te maak. Dit het egter aan die lig gekom dat hierdie
+   praktyk baie skadelik is vir die omgewing en dat loodvlakke in mense se
+   bloed hierdeur beïnvloed is. Sedert die 1970's begin die VSA om die
+   gebruik van lood uit te faseer. In die 1990's staak die VSA en meeste
+   lande in Europa geheel en al en word slegs loodvrye petrol verkoop. In
+   Suid-Afrika staak die algemene gebruik van loodbevattende petrol aan
+   die einde van 2005, alhoewel loodvrye petrol reeds vroeër beskikbaar
+   was.
+
+   Omdat lood bietjie teen erosie in die enjin beskerm, kan sekere ouer
+   motors nie loodvrye petrol gebruik nie. Sulke motors moet aangepas
+   word. Motors met katalitiese omsetters kan slegs van loodvrye petrol
+   gebruikmaak aangesien lood hierdie omsetters beskadig.
+
+[wysig] Gifstowwe in loodvrye petrol
+
+   Daar word beweer dat loodvrye petrol (LVP) is baie skadeliker is as wat
+   oorspronklik geglo is.^[verwysing benodig]
+
+   MTBE is maar slegs een van die gevaarlike kankervormende stowwe wat in
+   die bloedstroom opgeneem kan word indien dit ingeasem word, maar ook
+   indien dit op die vel beland. Indien dit met die ander chemiese stowwe
+   (wat die oktaanwaarde sal laat verhoog) en ander wat die gly- en
+   smeer-vermoë bevorder verbrand word en deur 'n katalitiese eenheid
+   gaan, sal dit omgewing meer besoedel as gewone petrol se lood, omdat
+   dit dan giftige senuweegasse kan vorm.^[verwysing benodig]
+
+[wysig] Feite (Bronne)
+
+     * Is loodvrye petrol meer gevaarlik as gelode petrol (engels: Is the
+       unleaded gasoline more dangerous for man than the leaded gasoline)
+     * Die leuens van loodvrye petrol (engels: The Lies of Unleaded
+       Petrol)
+     * Benseen in loodvrye petrol is gif (engels: Benzine In Unleaded Gas
+       Is A Killer)
+     * 'Katalisators' lyk nie as of hulle werk soos hulle behoort nie
+       ('www.omgewing.co.za') (engels: Catalytic Converters appear not to
+       be working like a catalist (www.environment.co.za) )
+
+[wysig] Bronne
+
+     * Reaching new frontiers in liquid fuels technology, Sasol
+     * Unleaded petrol, BP
+     * Vanaf die Engelse Wikipedia:
+          + Gasoline
+          + Tetra-ethyl lead
+          + Octane rating
+          + Engine knocking
+
+[wysig] Eksterne skakels
+
+     * Is loodvrye petrol meer gevaarlik as gelode petrol (engels: Is the
+       unleaded gasoline more dangerous for man than the leaded gasoline)
+     * Die leuens van loodvrye petrol (engels: The Lies of Unleaded
+       Petrol)
+     * Benseen in loodvrye petrol is gif (engels: Benzine In Unleaded Gas
+       Is A Killer)
+     * 'Katalisators' lyk nie as of hulle werk soos hulle behoort nie
+       ('www.omgewing.co.za') (engels: Catalytic Converters appear not to
+       be working like a catalist (www.environment.co.za) )
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Gasoline
+   Kategorieë: Artikels met stellings wat verwysings ontbreek •
+   Brandstowwe
+

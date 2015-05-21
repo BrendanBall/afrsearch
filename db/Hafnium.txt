@@ -1,0 +1,86 @@
+Hafnium
+
+
+
+   72                      lutetium ← hafnium → tantaal
+   Zr
+   ↑
+   Hf
+   ↓
+   Rf
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal hafnium, Hf, 72
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 4, 6, d
+                                                        Voorkoms staalgrys
+                                                    Beeld:Hafnium bits.jpg
+                                               Atoommassa 178.49 (2) g/mol
+                                 Elektronkonfigurasie [Xe] 4f^14 5d^2 6s^2
+                                    Elektrone per skil 2, 8, 18, 32, 10, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 13.31 g/cm³
+                                    Vloeistof digtheid teen s.p. 12 g/cm³
+                                                          Smeltpunt 2506 K
+                                                                (2233 °C)
+                                                           Kookpunt 4876 K
+                                                                (4603 °C)
+                                               Smeltingswarmte 27.2 kJ/mol
+                                              Verdampingswarmte 571 kJ/mol
+                                Warmtekapasiteit (25 °C) 25.73 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2689 2954 3277 3679 4194 4876
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 4
+                                                      (amfoteriese oksied)
+                               Elektronegatiwiteit 1.3 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 658.5 kJ/mol
+                                                          2de: 1440 kJ/mol
+                                                         3rde: 2250 kJ/mol
+                                                        Atoomradius 155 pm
+                                                 Atoomradius (ber.) 208 pm
+                                                   Kovalente radius 150 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 331 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 23.0 W/(m·K)
+                               Termiese uitsetting (25 °C) 5.9 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3010 m/s
+                                                   Young se modulus 78 GPa
+                                                       Skuifmodulus 30 GPa
+                                                      Massamodulus 110 GPa
+                                                    Poissonverhouding 0.37
+                                                      Mohs se hardheid 5.5
+                                                 Vickers hardheid 1760 MPa
+                                                 Brinell hardheid 1700 MPa
+                                              CAS-registernommer 7440-58-6
+                                                        Vernaamste isotope
+
+           CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                             iso      NV    halfleeftyd VM VE (MeV)   VP
+                           ^172Hf   sin     1.87 j      e  0.350    ^172Lu
+                           ^174Hf   0.162%  2×10^15 j   a  2.495    ^170Yb
+                           ^176Hf   5.206%  Hf is stabiel met 104 neutrone
+                           ^177Hf   18.606% Hf is stabiel met 105 neutrone
+                           ^178Hf   27.297% Hf is stabiel met 106 neutrone
+                           ^178m2Hf syn     31 j        IO 2.446    ^178Hf
+                           ^179Hf   13.629% Hf is stabiel met 107 neutrone
+                           ^180Hf   35.1%   Hf is stabiel met 108 neutrone
+                           ^182Hf   sin     9×10^6 j    ß  0.373    ^182Ta
+
+                                                                Verwysings
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Chemiese elemente
+

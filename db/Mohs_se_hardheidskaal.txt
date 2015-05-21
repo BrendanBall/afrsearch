@@ -1,0 +1,48 @@
+Mohs se hardheidskaal
+
+
+   Mohs se hardheidskaal karakteriseer die krapweerstand van verskeie
+   minerale deur hulle vermoë om ander sagter materiale te krap. Dit is
+   ontwikkel deur die Duitse mineraloog: Friedrich Mohs en is een van
+   verskeie definisies van hardheid in materiaalkunde.
+
+   Mohs se skaal is gebaseer op tien maklik bekombare minerale. Materiale
+   word gekenmerk teen die skaal deur die hardste materiaal te vind wat
+   hulle kan krap.
+
+   Die tabel hierbenede gee vergelykings met absolute hardheid soos gemeet
+   met 'n hardheidsmeter. Mohs se skaal is 'n suiwer ordinale skaal
+   aangesien korund byvoorbeeld byna dubbel so hard is as topaas terwyl
+   diamant byna vier keer harder is as korund.
+   Hardheid               Mineraal                Absolute Hardheid
+      1     Talk (Mg[3]Si[4]O[10](OH)[2])                 1
+      2     Gips (CaSO[4]·2H[2]O)                         3
+      3     Kalsiet (CaCO[3])                             9
+      4     Fluoriet (CaF[2])                            21
+      5     Apatiet (Ca[5](PO[4])[3](OH-,Cl-,F-))        48
+      6     Ortoklase Veldspaat (KAlSi[3]O[8])           72
+      7     Kwarts (SiO[2])                              100
+      8     Topaas (Al[2]SiO[4](OH-,F-)[2])              200
+      9     Korund (Al[2]O[3])                           400
+      10    Diamant (C)                                 1500
+
+   'n Alternatiewe tabel hieronder is beskikbaar om vir addisionele stowwe
+   voorsiening te maak wat tussen die twee vlakke mag val.
+   Hardheid         Mineraal
+      1     Vloeistof
+      2     Gips
+      3     Kalsiet
+      4     Fluoriet
+      5     Apatiet
+      6     Ortoklase veldspaat
+      7     Kwartsglas silika
+      8     Kwarts
+      9     Topaas
+      10    Granaat
+      11    Versmelte sirkonia
+      12    Versmelte aluminiumoksied
+      13    Silikonkarbied
+      14    Boorkarbied
+      15    Diamant
+   Kategorieë: Materiaalkunde • Mineralogie
+

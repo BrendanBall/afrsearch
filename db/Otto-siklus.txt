@@ -1,0 +1,65 @@
+Otto-siklus
+
+
+   Die vierslagsiklus (of Otto-siklus) van 'n binnebrandenjin is die
+   siklus wat mees algemeen vir voertuig en ander nywerheidsdoeleindes
+   aangewend word (motors en vragmotors, kragopwekkers ens.). Dit is deur
+   die Franse ingenieur, Alphonse Beau de Rochas in 1862 voorgestel en
+   onafhanklik deur die Duitse ingenieur Nikolaus Otto in 1876. Die
+   vierslagsiklus is meer brandstofdoeltreffend en brand skoner as die
+   tweeslagsiklus, maar vereis heelwat meer bewegende dele en kundigheid
+   tydens die vervaardiging daarvan. Verder word dit makliker vervaardig
+   in veelsilinder samestellings as die tweeslagsiklus, wat dit nuttig
+   maak vir hoë werkverrigtingstoepassings. Die Wankelenjin het vier
+   soortgelyke fases maar dit is 'n roterende verbrandingsmotor en nie 'n
+   resiprokerende enjin soos met die vierslagsiklus nie.
+   Vierslagsiklus (of Otto-siklus)
+   Vierslagsiklus (of Otto-siklus)
+
+   Die Otto-siklus word gekenmerk deur die vier slae of reglynige
+   bewegings alternatiewelik opwaarts en afwaarts van 'n suier in 'n
+   silinder.
+    1. inlaatslag
+    2. kompressieslag
+    3. kragslag
+    4. uitlaatslag
+
+   Die siklus begin by die boonste middelpunt wanneer die suier by sy
+   hoogste punt bereik het. Op die eerste afwaartse slag (inlaat) van die
+   suier word 'n mengsel van brandstof en lug in die silinder ingetrek
+   deur die inlaatpoort. Die inlaatklep maak dan toe en die opwaartse slag
+   (kompressie) pers die branstof-lug mengsel saam.
+
+   Boonste middelpunt, voordat siklus begin 1 - Inlaatslag 2 -
+   Kompressieslag
+   Beginposisie, inlaatslag en kompressieslag.
+
+   Die brandstof-lug mengsel word dan ontsteek, gewoonlik deur 'n vonkprop
+   vir 'n petrol- of Otto-siklus enjin naby die boonste middelpunt van die
+   kompressieslag. Die gevolglike uitsetting van die brandende gasse dwing
+   die suier na onder vir die derde (krag) slag en die vierde opwaartse
+   (uitlaat) slag forseer die verbruikte uitlaatgasse uit die silinder
+   deur die oop uitlaatklep of kleppe deur die uitlaatpoort.
+
+   Brandstof ontsteek 3 - Kragslag 4 - Uitlaatslag
+   Ontsteking van brandstof, kragslag en uitlaatslag.
+
+[wysig] Eksterne skakels
+
+     * Animasies wat enjin werking toelig
+     * How Cars Work - baie algemene en spesifieke inligting oor
+       motorvoertuie met forums
+     * V.S.A patent no 194047
+     * Hoe klein vierslag-enjins werk
+     * Hoe motorenjins werk
+     * Barsanti & Matteucci Foundation - "fathers of the internal
+       combustion engine"
+     * Animated Engines: nog 'n verduideliking van die vierslagenjin
+     * Free video: New Four Stroke
+     * The Fuel and Engine Bible - 'n Goeie hulpbron vir die vergelyking
+       van enjinsoorte, brandstowwe en enjinonderdele
+     * CDX eTextbook - 'n Paar videos van motoronderdele in aksie
+     * Beeld van 'n kamera wat binne 'n vierslag-enjin gemonteer is.
+
+   Kategorie: Voertuigtegnologie
+

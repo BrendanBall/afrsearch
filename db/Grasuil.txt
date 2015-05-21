@@ -1,0 +1,97 @@
+Grasuil
+
+
+                       Grasuil
+   Bedreigingstatus: Teenstrydig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Strigiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Tytonidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Tyto
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. capensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    Tyto capensis
+   (Smith, 1834)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Grasuil (Tyto capensis) word in Suid-Afrika as Kwesbaar beskou, met
+   net tussen 1000 en 5000 oorblywende voëls in die land.^[1] Die spesies
+   is in die suid-westerlike dele van Suid-Afrika en in Lesotho uitgewis
+   en die gesamentlike druk vanaf ontwikkeling; vuur, misbestuur; landbou;
+   oorbeweiding; bewouding en padsterftes is van ergerlike kommer vir die
+   spesies. ^[2] Die IUCN se Red List of Threatened Species se
+   2004-bepaling beskou die voël egter as nie-bedreigd ("least
+   concern").^[3]
+
+   Grasuile verskil uiterlik van die Nonnetjiesuil in dat hulle groter is,
+   met sterker kontras tussen die bo en onderlyf. Die bolyf is donker
+   bruin en die onderdele is witterig. Die gesig is ook meer rond as die
+   van die Nonnetjiesuil.
+   'n Grasuilkuiken.
+   'n Grasuilkuiken.
+
+   Die spesies benodig digte plantegroei soos die lang gras wat op die
+   hoëveld voorkom, gewoonlike naby vleie. Hier sal die uil op die grond
+   skuil en nesmaak, en vorm tonnels in die gras. Dit sal huiwerig opvlieg
+   as dit versteur word, en sak dan gou weer terug in die gras in.
+   Grasuile is meestal naglewend, en kom kort na sonsondergaan uit.
+
+   Die dieet bestaan hoofsaaklik uit knaagdiere, veral die vleirot, maar
+   ook voëls, reptiele, paddas en insekte.^[4]
+
+[wysig] Verwysings
+
+    1. ^ Barnes K.N. (ed.) 2000. The Eskom Red Data Book of Birds of South
+       Africa, Lesotho and Swaziland. Birdlife South Africa, Johannesburg.
+    2. ^ Ansara, Tahla. (2004) Determining the ecological status and
+       possible anthropogenic impacts on the grass owl (Tyto
+       capensis)population in the East Rand Highveld, Gauteng. MSc thesis.
+       University of Johannesburg. Besikibaar by [1]
+    3. ^ Tyto capensis by die IUCN se Red List of Threatened Species.
+       <www.iucnredlist.org>. Laaste besoek op 15 Augustus 2007.
+    4. ^ Hockey PAR, Dean WRJ, Ryan PG, Maree S (reds) Roberts Birds of
+       Southern Africa, 7th edition. Kaapstad: John Voelcker Bird Book
+       Fund.
+
+   Kategorie: Nonnetjiesuile
+

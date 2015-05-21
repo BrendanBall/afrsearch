@@ -1,0 +1,47 @@
+Sharp PC-1211
+
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   Sharp PC-1211 is 'n klein (hand-held) rekenaar, wat ook as die Tandy
+   TRS-80 PC1 bemark is. Hierdie model was aangedryf deur 'n 4-bis SVE was
+   heeltemaal in krag-besparende CMOS-tegnologie uitgelê.
+
+[wysig] Tegniese spesifikasies/gegewens
+
+     * 24 alfanumeriese karakter vloeistofkristalvertoon (kolletjie
+       matriks)
+     * Volle QWERTY-styl sleutelbord
+     * Ingeboude luidspreker
+     * Uitbreidings poort vir drukker en bandspeler, ens.
+     * Programmeerbar in BASIC
+     * Gebruik vier 1.5 V Lithium knopselle
+     * Batterylewe oor die 200 uur
+     * 1424 program-stappe, 26 permanente plekhouers (A-Z of A$-Z$) en 178
+       plekhouers wat met program stappe gemeng is
+     * Dit is uit gewone oor-die-toonbank CMOS-komponente, insl.
+       SC43177/SC43178 SVE wat met 'n spuoed van 256 kHz loop en three
+       TC5514P 4 kbis RAM-modules
+
+[wysig] Verwante Sharp-sakrekenaars
+
+     * Sharp PC-1210
+     * Sharp PC-1211
+     * Sharp PC-1251
+     * Sharp PC-1500
+     * Sharp PC-1500A met meer geheue
+     * Sharp PC-1501
+     * Sharp PC-1600 met meer geheue en 'n groter LCD-skerm met grafika
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Sharp PC-1211
+     * Sharp PC-1211 on MyCalcDB (databasis oor 70's en 80's sakrekenaars)
+     __________________________________________________________________
+
+   Kategorieë: Saadjies • Rekenaar • Sakrekenaar
+

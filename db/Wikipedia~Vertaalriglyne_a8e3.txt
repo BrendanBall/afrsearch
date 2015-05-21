@@ -1,0 +1,137 @@
+Wikipedia:Vertaalriglyne
+
+
+   Hierdie bladsy gee riglyne vir die vertaling van artikels. Alhoewel
+   baie van wat hier staan ook van toepassing is op oorspronklike werk,
+   fokus hierdie riglyne spesifiek op vertaalwerk. Hier word dan
+   hoofsaaklik gekonsentreer op ander Wikimediaprojekte - juis omdat ons
+   dit alles wettiglik mag vertaal. Dit is onwettig om materiaal wat nog
+   deur kopiereg beskerm word, te vertaal en hier by te dra sonder
+   toestemming van die kopiereghouer. Onthou om die lisensie te noem
+   waaronder ons bydraes versprei word.
+
+   Inhoud
+
+        * 1 Wat om te vertaal
+        * 2 Vertaling
+        * 3 Vertaling van name
+        * 4 Vertaling van titels van skeppende werke
+        * 5 Vertaling van aanhalings
+        * 6 Bronne
+        * 7 Sien ook
+
+[wysig] Wat om te vertaal
+
+   Almal is vry om hier te werk aan enige ensiklopediese artikels van
+   hulle keuses. Wat vertaling betref, sluit dit dus waarskynlik alle
+   artikels in by ander wikipedias wat jy verstaan. Die volgende mag egter
+   meer nuttig wees vir die Afrikaanse projek:
+     * Vertaal artikels wat reeds 'n redelike mate van volwassenheid
+       bereik het. Bronartikels in ander tale is noodwendig bewegende
+       teikens - juis daarom dat ons eerder 'n artikel wat reeds redelik
+       volledig is sal wil vertaal.
+     * Oorweeg artikels wat reeds baie hersiening geniet het. Die artikels
+       by die Engelse Featured articles of Nederlandse Uitgelicht sal dalk
+       beter bronne wees vir 'n vertaling.
+     * Oorweeg om eerder hoëvlak artikels te skryf terwyl dit kortkom. Bv
+       eerder Argitektuur as Romeins-Gotiese argitektuur.
+     * Sien gerus Wikipedia:Kernartikels vir 'n lys met voorgestelde
+       artikels vir vertaling, plus skakels na die Engels-, Duits- en
+       Nederlandstalige Wikipedia artikels.
+
+[wysig] Vertaling
+
+   Hou die volgende in gedagte:
+     * Noem altyd die bron wat u vertaal binne-in die artikel. Ons moet
+       ons kan regverdig in terme van kopiereg, en dit help ander om te
+       weet waar om heen te gaan om die vertaling na te gaan. Die
+       bronnelys van die bronartikel, moet noodwendig ook die artikel
+       vergesel (selfs al is alles nog nie vertaal nie).
+     * Dieselfde geld ook vir anderstalige Wikipedia-artikels: dit is
+       nodig om die permanente skakel van die bronartikel óf in die
+       wysigingsopsomming óf by die verwysings/aantekeninge afdeling van
+       die artikel te plaas, ten einde die bron van die teks (en dus ook
+       die oorspronklike skrywers) te erken (een van die vereistes van die
+       GFDL).
+     * Gebruik vakwoordeboeke en -handboeke indien moontlik. Soekenjins
+       kan ook moontlik help met terminologie. Sien ook Nuwe woorde.
+     * Waar moontlik, gebruik meer as een taal (Engels en Nederlands, bv),
+       en ander bronne tot u beskikking (bv. soekenjins).
+     * Vermy eerder artikels wat nie self goeie kwaliteit is nie. Die
+       Engelse Wikipedia mag moontlik aandui dat 'n artikel minder as
+       ideaal is vanwee kopiereg, kwaliteit, neutraliteit, feitlikheid,
+       ens. Meer inligting is waarskynlik op die besprekingsblad
+       beskikbaar.
+     * Indien 'n Afrikaanse saadjie reeds bestaan, probeer om dit by te
+       werk by die vertaling as dit waardevol is. Geen bydraer sal graag
+       hulle werk verwyder wil hê nie. Dit is meer moeite, maar sal
+       hopelik help om kwaliteit en samehorigheid in die gemeenskap te
+       verbeter.
+     * Indien moontlik, laat die artikel nagaan deur 'n vakkenner.
+       Hiervoor is die verwysing na die bron baie belangrik, sodat ander
+       wikipediane wat vakkenners kontak, weet wat die bron is.
+     * Indien die bronartikel 'n sterk Noordelike halfrond-, Amerikaanse
+       of dergelike geur het, neutraliseer dit sodat dit geskik is vir die
+       Afrikaanse Wikipedia. Moet egter nie dit té Afrikaans- of
+       Suid-Afrika-sentries maak nie.
+     * Dra sorg om so goed as moontlik te vertaal. Om goeie vertaling te
+       doen is nie kinderspeletjies nie, en 'n swak vertaling kan
+       misleidend of selfs verkeerd wees en sal dus die projek benadeel.
+     * Plaas interwiki-skakels na die nuwe Afrikaanse artikel by een of
+       meer van die ander tale waarin die artikel beskikbaar is (veral by
+       Engels). Dit is 'n effektiewe bemarkingstrategie omdat heelwat
+       potensiële bydraers moontlik die Engelse Wikipedia sal gebruik.
+
+[wysig] Vertaling van name
+
+   Onthou dat baie plek- en eiename eg-Afrikaanse weergawes het, soos
+   Londen (nie London nie), Aristoteles (nie Aristotle of Αριστοτέλης
+   nie), ens. Hierdie is veral waar vir vele antieke skrywers,
+   bybelfigure, groot wêreldstede, ens.
+
+[wysig] Vertaling van titels van skeppende werke
+
+   Sorg moet gedra word by vertalings wat verwys na boeke of ander werke
+   van kunstenaars. Vele bekende werke het Afrikaanse name, byvoorbeeld
+   Van Gogh se Aartappeleters, Händel se Die Messias, Hergé se Die
+   avonture van Kuifie, ens. In gevalle waar daar nie 'n Afrikaanse naam
+   is nie, of u niks kan uitvind oor die bestaan van 'n Afrikaanse
+   vertaling nie, gebruik die oorspronklike naam van die werk (in die
+   oorspronklike taal) en noem die Afrikaanse vertaling van die
+   oorspronklike titel, nie 'n vertaling van 'n vertaling se titel nie.
+   Dit is wel nuttig vir 'n leser om te weet wat 'n Nederlandse, Duitse,
+   of Engelse vertaling van 'n werk genoem word, en kan miskien by 'n
+   bronnelys of by eksterne skakels genoem word. Hou in gedagte dat
+   sommige name eers later toegeken is of slegs byname is, en dat die
+   Afrikaanse naam dus geen probleem behoort te lewer nie (byvoorbeeld
+   Haydn se Verrassingsimfonie).
+
+[wysig] Vertaling van aanhalings
+
+   Dit is sinneloos om 'n Engelse vertaling van 'n aanhaling aan te haal
+   asof dit iemand se eie woorde is, as die persoon self nie Engels
+   gepraat het nie. Plato, het byvoorbeeld glad nie Engels gepraat nie.
+   Haal dit gerus aan in die oorspronklike taal (baie lesers kan wel ander
+   tale lees!) en vertaal dit gerus in Afrikaans, met groot sorg dat
+   pittige sêgoed soms baie moeilik is om goed te vertaal. In enkele
+   gevalle kan dit dalk nie anders as om 'n vertaling aan te haal nie.
+   Maak dit dan duidelik dat dit 'n vertaling is, en noem die vertaler,
+   indien moontlik. U kan dit ook oorweeg om die aanhaling in Afrikaans te
+   gee, met 'n aantekening onder aan die artikel wat die aanhaling in die
+   oorspronklike taal weergee. Sodoende kan lesers wat die vreemde taal
+   magtig is u vertaling self ook na gaan.
+
+[wysig] Bronne
+
+   Alhoewel baie gebruikers dit verkies om dan ook na die oorspronklike
+   artikel te verwys, moet u in gedagte hou dat artikels wat op ander
+   Wikipedias verkry is nie 'n geldige bron is vir artikels hier nie. U
+   moet dus ook self die bronne aanhaal wat deur die oorspronklike artikel
+   aangehaal word.
+
+[wysig] Sien ook
+
+     * Wikipedia:Terminologie
+
+   Kategorie: Beleid
+

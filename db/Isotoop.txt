@@ -1,0 +1,160 @@
+Isotoop
+
+
+   Isotope is vorme van 'n element waarvan die kerne dieselfde atoomgetal
+   -- die aantal protone in die kern -- maar verskillende atoommassas het
+   want hulle bevat verskillende aantal neutrone. Díe verskil het baie min
+   gevolge vir die chemiese eienskappe.
+
+   Die woord isotoop kom van die Grieks iso- = gelyk, en topos = plek, dus
+   op dieselfde plek en dui op die feit dat dat alle isotope op dieselfde
+   plek op die periodieke tabel aangetoon word.
+
+   Saam vorm die isotope van die elemente die reeks nukliede. 'n Nuklied
+   is 'n spesifieke soort atoomkern of meer algemeen gesproke 'n
+   versameling van protone en neutrone. Streng tegnies gesproke is dit
+   meer korrek om te sê dat 'n element soos fluoor bestaan uit 'n stabiele
+   nuklied eerder as om te sê dat dat dit 'n stabiele isotoop het.
+
+   Isotope (nukliede) word in wetenskaplike nomenklatuur gespesifiseer
+   deur die naam van die spesifieke element gevolg deur 'n koppelteken en
+   die aantal nukleone (d.w.s. protone en neutrone) in die atoomkern (bv.,
+   helium-3, koolstof-12, koolstof-14, yster-57, uraan-238. In simboliese
+   vorm word die aantal nukleone as 'n boskrif voorvoegsel van die
+   chemiese simbool (bv. ^3He, ^12C, ^14C, ^57Fe, ^238U).
+
+   Inhoud
+
+        * 1 Verskille in eienskappe tussen isotope
+        * 2 Voorkoms in die natuur
+        * 3 Aanwendings van isotope
+             + 3.1 Gebruik van chemiese eienskappe
+             + 3.2 Die gebruik van kerneienskappe
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Verskille in eienskappe tussen isotope
+
+   In 'n neutrale atoom is die aantal elektrone gelyk aan die aantal
+   protone. Verskillende isotope van 'n gegewe element het dieselfde
+   aantal elektrone en dieselfde elektronstruktuur. Omdat die chemiese
+   gedrag van 'n atoom grootliks deur sy elektronstruktuur bepaal word,
+   toon isotope bykans identiese chemiese gedrag. Die hoof uitsondering is
+   dat swaarder isotope as gevolg van hul groter massa geneig is om ietwat
+   stadiger te reageer as die ligter isotope van 'n element (Hierdie
+   verskynsel word die kinetiese isotoopverskynsel genoem).
+
+   Hierde massaverskynsel is meer opsigtelik by protium (^1H) teenoor
+   deuterium (^2H), omdat deuterium se massa dubbel dié van protium is.
+   Vir swaarder elemente is die relatiewe massaverskil tussen isotope veel
+   kleiner en is die massa-effek gewoonlik nalaatbaar klein.
+
+   Op soortgelyke wyse sal twee molekules wat slegs verskil ten opsigte
+   van die isotopiese aard van die atome waaruit hulle bestaan
+   (isotopoloë) byna dieselfde elektronstruktuur hê en daarom soortgelyke
+   fisiese en chemiese eienskappe hê. Die vibrasie modusse van 'n molekule
+   word deur sy vorm en die massa van die atome waaruit dit saamgestel
+   word, bepaal. Isotopoloë sal gevolglik verskillende stelle vibrasie
+   modusse hê. Aangesien vibrasie modusse 'n molekule toelaat om fotone
+   met ooreenstemmende energieë te absorbeer, verskil isotopoloë se
+   optiese eienskappe in die infrarooi-gebied.
+
+   Alhoewel isotope byna identiese elktroniese en chemiese gedrag toon,
+   verskil hul kerngedrag dramaties. Atoomkerne bestaan uit protone en
+   neutrone wat saamgebind word deur sterk kernkragte. Omdat protone
+   positief gelaai is, stoot hulle mekaar af. Neutrone, wat elektries
+   neutraal is, laat 'n mate van skeiding tussen die positief gelaaide
+   protone toe wat die elektrostatiese afstoting deur die protone
+   verminder en stabiliseer sodoende die kern. Om hierdie rede is neutrone
+   noodsaaklik om twee of meer protone in 'n kern te bind. Soos die aantal
+   protone toeneem word meer neutrone benodig om 'n stabiele kern te vorm;
+   Die neutron/proton verhouding van ^3He is 1/2, die neutron/proton
+   verhouding van ^238U is groter as 'n 3/2. As te veel of te min neutrone
+   teenwoordig is, raak die kern onstabiel en is dan onderhewig aan
+   kernverval.
+
+[wysig] Voorkoms in die natuur
+
+   Verskeie isotope van elke element kan in die natuur gevind word. Die
+   verspreiding van 'n isotoop stem sterk ooreen met sy geneigdheid tot
+   kernverval; kortlewende nukliede verval vinnig, terwyl hulle
+   langslewende eweknieë voortduur. Dit beteken egter nie dat spesies met
+   'n kort lewensduur geheel en al verdwyn nie; baie word voortdurend
+   geskep deur die verval van nukliede met 'n langer lewensduur. Die
+   atoommassas van elemente wat op die periodieke tabel verskyn is die
+   gemiddeldes wat voorsiening maak vir die teenwoordigheid van
+   veelvuldige isotope met verskillende massas.
+
+   Volgens aanvaarde kosmologie het bykans alle nukliedes buiten die
+   isotope van waterstof en helium in sterre en supernovas ontstaan. Hulle
+   respektiewelike verspreidings ontstaan as gevolg van die hoeveelhede
+   wat tydens die kernprosesse in die sterre gevorm word, die manier
+   waarop hulle deur die heelal versprei en die tempo waarteen hulle
+   verval.
+
+   Na die aanvanklike versmelting van die sonnestelsel is isotope
+   herversprei volgens hulle massas. Die isotoopsamestelling van elemente
+   is verskillende op die verskeie planete, wat dit moontlik maak om die
+   oorsprong van meteoriet te bepaal.
+
+[wysig] Aanwendings van isotope
+
+   Isotope word in verskeie toepassings gevind waar munt geslaan word uit
+   die eienskappe van die isotope van 'n gegewe element.
+
+[wysig] Gebruik van chemiese eienskappe
+
+     * Een van die mees algemene toepassings is in isotoopsporing, die
+       gebruik van ongewone isotope as spoorders of merkers in chemiese
+       reaksies. Normaalweg is die atome van 'n gegewe element
+       ononderskeibaar van mekaar. Deur isotope met verskillende massas te
+       gebruik kan hulle egter met behulp van massa-spektrometrie of
+       infrarooi-spektroskopie onderskei word. As radio-aktiewe isotope
+       gebruik word kan hulle bespeur word deur die straling wat hulle
+       uitstraal (Dit word radio-isotoopsporing genoem).
+     * 'n Tegniek soortgelyk aan radio-isotoopsporing is radiometriese
+       dattering (soosradiokoolstof dattering wat baie bekend is). Dit kan
+       benut word om chemiese prosesse wat die eksperimenteerder nie kan
+       waarneem nie, te bestudeer deur gebruik te maak van die
+       spoor-isotope wat natuurlik voorkom.
+     * Isotoopvervanging kan gebruik word om die meganisme van 'n reaksie
+       te bepaal deur middel van die kinetiese-isotoopverskynsel.
+
+[wysig] Die gebruik van kerneienskappe
+
+     * Verskeie vorme van spektroskopie maak staat op die unieke
+       kerneienskappe van spesifieke isotope. Kernspinresonansie (Engels -
+       Nuclear magtetic resonance of NMR) kan byvoorbeeld slegs gebruik
+       word met isotope wat 'n kernspin het wat nie gelyk aan nul is nie.
+       Die mees algemene isotope in gebruik met Kernspinresonante
+       spektroskopie is ^1H, ^2D, ^13C, and ^31P.
+     * Mössbauer spektroskopie maak ook staat op die kernoorgange van
+       spesifieke isotope, soos onder andere ^57Fe.
+     * Radionukliede het ook belangrike gebruike. Kernkrag en kernwapens
+       se ontwikkeling vereis relatief groot hoeveelhede van spesifieke
+       isotope. Die proses van isotoopskeiding verteenwoordig 'n
+       betekenisvolle tegnologiese uitdaging.
+
+[wysig] Sien ook
+
+     * Isotooptabel - tabel van alle bekende isotope
+     * Lys van partikels
+     * Isotope is nukliedes met dieselfde aantal protone; vergelyk met:
+          + isotone wat nukliedes is met dieselfde getal neutrone.
+          + Isobare wat nukliedes is met dieselfde massagetal, d.w.s. som
+            van protone en neutrone.
+          + Kernisomere wat verskillende opgewekte toestande van dieselfde
+            kern is. 'n Oorgang van een isomeer na 'n ander word vergesel
+            deur die uitstralling of absorpsie van 'n gamma-straal of die
+            proses van interne omskakeling. (Moet nie met chemiese isomere
+            verwar word nie).
+
+[wysig] Eksterne skakels
+
+     * Atoommassas van alle bekende isotope
+     * Atoommassas, vervalenergieë en halfleeftye van alle isotope (Duitse
+       werf)
+     * Ontdek die Tabel van isotope by die LBNL
+
+   Kategorieë: Chemie • Fisika
+

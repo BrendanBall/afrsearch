@@ -1,0 +1,61 @@
+Databasis
+
+
+   'n Databasis is 'n versameling inligting met 'n vasgestelde struktuur
+   wat data genoem word. Alhoewel enige versameling inligting 'n databasis
+   genoem kan word, is die term ontwikkel om spesifiek na 'n
+   gerekenariseerde struktuur te verwys.
+
+   Inhoud
+
+        * 1 Beskrywing
+        * 2 Agtergrond
+        * 3 Diensgeoriënteerde integrasie
+        * 4 Sien ook
+
+[wysig] Beskrywing
+
+   Die sagteware wat gebruik word om 'n databasis in stand te hou, word
+   gewoonlik 'n databasisbestuurstelsel (DBBS) genoem. 'n Databasisstelsel
+   kan op verskillende wyses saamgestel word. Programme wat klein
+   databasisse vir 'n enkele gebruiker op 'n persoonlike rekenaar kan
+   huisves, is volop. In groter databasisse, en waar daar meer gebruikers
+   betrokke is, word daar gewoonlik van 'n aantal programme gebruik
+   gemaak, wat gewoonlik 'n kliënt-bediener model volg.
+
+   Die kliëntgedeelte word gebruik vir die invordering van data, om navrae
+   (queries) oor die inligting in die databasis uit te voer, en
+   verslaggewing. Die bediener is die stel programme wat beheer uitoefen
+   oor hoe die data gestoor word en reageer ook op versoeke van die
+   kliënte.
+
+[wysig] Agtergrond
+
+   Charles Bachman was 'n baanbreker op die veld van moderne databasisse.
+   Hy was sentraal in die opkoms van die netwerkmodel (ontwikkel deur
+   CODASYL) en die hiërargiese model gedurende die 1960's. Hierdie
+   databasismodelle het lank gewildheid geniet voordat hulle die knie moes
+   buig voor die relasionele model wat in 1970 deur E.F. Codd voorgestel
+   is. Die relasionele model maak dit moontlik om 'n databasis apart te
+   implementeer en bestuur van die interaktiewe programme waarmee
+   gebruikers inligting in die databasis onttrek, byvoeg of wysig. 'n
+   Ander databasismodel wat baie aandag geniet is die objek-georiënteerde
+   model.
+
+[wysig] Diensgeoriënteerde integrasie
+
+   Met die ontwikkeling van diensgeoriënteerde argitektuur word data soms
+   deur middel van XML-dokumente vervoer tussen verskillende toepassings.
+   Die onderliggende struktuur van 'n relasionele databasis verskil
+   noemenswaardig van 'n XML-gebaseerde struktuur. Verskeie metodes word
+   gebruik om die twee strukture te versoen in 'n diensgeoriënteerde
+   argitektuur.
+
+[wysig] Sien ook
+
+     * Rekenaarwetenskap
+     * Objek-georiënteerde programmering
+     * Data-argitektuur
+
+   Kategorieë: Rekenaar • Inligtingkunde
+

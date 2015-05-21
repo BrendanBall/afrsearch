@@ -1,0 +1,136 @@
+Glansibis
+
+
+                        Glansibis
+   Status:Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+               Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Threskiornithidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Plegadis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. falcinellus
+     Subspesie:    {{{subspecies}}}
+         [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                     Binomiale naam
+                  Plegadis falcinellus
+   Linnaeus, 1766
+                     Trinomiale naam
+                     {{{trinomial}}}
+                      Tipe Spesies
+                   {{{type_species}}}
+                 {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die glansibis in Suider-Afrika
+   Die verspreiding van die glansibis in Suider-Afrika
+                        Sinonieme
+   {{{synonyms}}}
+
+   Die Glansibis, Plegadis falcinellus, is 'n voël in die ibis-familie,
+   Threskiornithidae. Daar word geglo dat die glansibis oorspronklik uit
+   die Ou Wêreld kom en deur natuurlike verspreiding na Afrika en die
+   Noordelike dele van Suid-Amerika versprei het tydens die 19de eeu.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Voeding
+        * 4 Verspreiding
+        * 5 Geluid
+        * 6 Ander name
+        * 7 Sien ook
+        * 8 Bronnelys
+
+[wysig] Identifikasie
+
+   Die glansibis is 'n groot voël met 'n lengte van 55 - 65 cm en 'n 88 -
+   105 cm vlerkspan. Parende volwassenes het rooibruin tot pers liggame en
+   glansende bottelgroen vlerke. Nie-parende voëls en onvolwassenes het
+   ietwat dowwer liggame. Die spesie het 'n donker bek, asook 'n donker
+   gesisgvel wat bo en onder begrens word deur 'n blou-groen kleur in
+   nie-parende voëls en 'n kobaltblou kleur in parende voëls. Glansibisse
+   het rooibruin bene. Ibisse vlieg met uitgestrekke nekke (anders as
+   reiers) en swerms vlieg gereëld in reguit lyne.
+
+[wysig] Habitat
+
+   Die glansibisse bou hulle neste in bome en woon in kolonies, ook saam
+   met reiers. Die voëls verkies bome naby damme, vlei-gebiede en
+   moerasagtige areas.olonially in trees, often with herons. It is also
+   gregarious when feeding in marshy wetlands; Damme, vlei-gebied en
+   moerasagtige areas.
+
+[wysig] Voeding
+
+   'n Volwasse glansibis
+   'n Volwasse glansibis
+
+   Die glansibis is 'n karnivoor en jag visse, paddas en ander
+   waterskepsels en sal ook nou en dan insekte eet.
+
+[wysig] Verspreiding
+
+   Die glansibis is die mees-verspreide van die ibis-spesies. Die voëls
+   paar in 'n verskeie warm streke van Europa, Asië, Afrika, Australië en
+   aan die kusgebiede naas die Atlantiese oseaan asook in die omgewing van
+   die Karribiese eilande en omliggende dele van die Amerikas. Die spesie
+   migreer met die seisoene: die meeste Europese voëls spandeer die winter
+   in Afrika. In Noord-Amerika spandeer voëls Noord van Noord-Carolina die
+   winter meer Suid.
+
+[wysig] Geluid
+
+   Die glansibis is 'n redelike stil voël, maar sal maak nou en dan 'n
+   kok-kok-kok geluid, asook 'n grrrr-geluid tydens paring.
+
+[wysig] Ander name
+
+     * Engels: Glossy Ibis
+     * Duits: Brauner Sichler
+     * Wetenskaplike naam: Plegadis falcinellus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa, Sesde uitgawe, ISBN 0620175834
+     * Handbook of the Birds of Europe, the Middle East, and North Africa:
+       The Birds of the Western Palearctic.
+     * Field Guide to the Birds of North America, 4th Edition.
+
+   Kategorie: Ibisse en lepelaars
+

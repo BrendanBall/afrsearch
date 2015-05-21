@@ -1,0 +1,102 @@
+Teeleend
+
+
+                       Teeleend
+   Status: Nie-bedreig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. capensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    Anas capensis
+   Gmelin, 1789
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die teeleend is 'n algemene standvoël in Suidelike Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   44-48cm. Hierdie eend is die vaalste eend wat in Suid-Afrika voorkom.
+   Die Teeleend is hoofsaaklik grys met 'n bruin rug en pienk op die
+   snawel. Die eend het 'n gespikkelde kop. Jong voëls besit nie die pienk
+   kleur op die snawel nie.
+
+[wysig] Habitat
+
+   Die habitat is oop areas van vars sowel as sout water. Voedesel bestaan
+   uit water-plante sowel as klein gediertes.
+
+[wysig] Verspreiding
+
+   Die Fluiteend kom voor in die meeste van Suidelike-Afrika, maar
+   hoofsaaklik in die droë weste van die streek.
+
+[wysig] Geluid
+
+   Die manlike eend uiter 'n Duidelike fluit, maar die vroulike eend 'n
+   sagte kwêk.
+
+[wysig] Ander name
+
+     * Engelse naam: Cape Teal
+     * Wetenskaplike naam: Anas capensis
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

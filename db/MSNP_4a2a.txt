@@ -1,0 +1,107 @@
+MSNP
+
+
+   Mobile Status Notification Protocol (MSNP, is nie 'n afkorting vir
+   "Microsoft Network Protocol" soos algemeen aanvaar word nie) is die
+   netwerkprotokol wat deur .NET Messenger Service vir MSN Messenger en
+   ander Internet-gesels programmatuur soos Trillian en Windows Messenger
+   gebruik word.
+
+   Met elke groot verandering wat aan die protokol gemaak word, word die
+   weergawenommer met een vergroot. Die protokol is dus MSNP1, MSNP2, ens.
+   Microsoft het gedurende Oktober 2003 begin om alle programmatuur wat
+   protokol weergawes laer as MSNP8 nie meer op die geselsnetwerk toe te
+   laat nie.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 MSNP1
+             + 1.2 MSNP2
+             + 1.3 MSNP3
+             + 1.4 MSNP4
+             + 1.5 MSNP5
+             + 1.6 MSNP6
+             + 1.7 MSNP7
+             + 1.8 MSNP8
+             + 1.9 MSNP9
+             + 1.10 MSNP10
+             + 1.11 MSNP11
+             + 1.12 MSNP12
+             + 1.13 MSNP13
+             + 1.14 MSNP14
+        * 2 Eksterne skakels
+
+[wysig] Geskiedenis
+
+[wysig] MSNP1
+
+   MSNP1 is nooit as 'n publieke protokol gebruik nie, maar eerder om die
+   MSN Messenger 1 programmatuur mee te toets en ontwikkel.
+
+[wysig] MSNP2
+
+   Die weergawe se spesifikasies word in 1999 beskikbaar gemaak.
+
+[wysig] MSNP3
+
+[wysig] MSNP4
+
+[wysig] MSNP5
+
+[wysig] MSNP6
+
+[wysig] MSNP7
+
+[wysig] MSNP8
+
+   'n Nuwe manier om kliënte en gebruikers te identifiseer, word in
+   gebruik geneem. Die identifikasieproses maak nou gebruik van Microsoft
+   Passport se veilige bedieners. Dit word die minimum vereiste vir
+   programmatuur om aan MSN te verbind.
+
+   Die enigste weergawes van MSN Messenger wat hierdie weergawe van die
+   protokol gebruik is MSN Messenger 4.7 tot 5.1.
+
+   MSNP8 ondersteun webkameras en spraakoordrag.
+
+[wysig] MSNP9
+
+   MSNP9 is gebruik in MSN Messenger 6. Ondersteuning vir D-tipe
+   boodskappe word bygevoeg. D-tipe boodskappe word gebruik om prentjies,
+   klank, gesiggies en ander leêrs oor te dra.
+
+[wysig] MSNP10
+
+   Word bekendgestel in MSN Messenger 6.1. Daar is nie groot veranderinge
+   nie, behalwe dat Microsoft se Hotmail-adresboeke gebruik kan word.
+
+[wysig] MSNP11
+
+   Bekendgestel in MSN Messenger 7.0
+
+[wysig] MSNP12
+
+   Bekendgestel in MSN Messenger 7.5.
+
+[wysig] MSNP13
+
+   Gebruik in Windows Live Messenger 8.0, MSNP13 bring baie veranderinge
+   mee. Die kontaklys sinkronisasie word heeltemal verander, en
+   programmatuur moet kontaklyste met 'n ander bediener sinkroniseer.
+   Daarna moet die programmatuur die oorspronklike bediener kontak om
+   statusinligting te verkry.
+
+[wysig] MSNP14
+
+   In hierdie weergawe word Yahoo! Messenger gebruik bygevoeg.
+
+[wysig] Eksterne skakels
+
+     * MSN Messenger
+     * Windows Messenger
+     * MSN Messenger Protocol - Protokol dokumentasie
+     * MSNPiki - Protokol wiki
+
+   Kategorie: Internet
+

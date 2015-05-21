@@ -1,0 +1,28 @@
+Versnelling
+
+
+   Die versnelling van 'n ligaam verwys na die tempo waarteen die snelheid
+   van die ligaam verander. Om versnelling te veroorsaak moet daar 'n krag
+   op die ligaam uitgeöefen word.
+
+[wysig] Berekening
+
+   Wiskundig word versnelling as volg gedefiniëer: a = \frac{v - u}{\Delta
+   t}
+   Versnelling kan ook gesien word as die tweede afgeleide, volgens tyd,
+   van posisie en dus die eerste afgeleide, volgens tyd, van snelheid:
+     * a = \frac{d^2x}{dt^2}
+     * a = \frac{dv}{dt}
+
+   In alle bostaande vergelykings verwys;
+     * a na versnelling,
+     * v na finale snelheid,
+     * u na begin-snelheid,
+     * en x na posisie.
+
+[wysig] Sien ook
+
+     * Krag
+
+   Kategorie: Wiskunde
+

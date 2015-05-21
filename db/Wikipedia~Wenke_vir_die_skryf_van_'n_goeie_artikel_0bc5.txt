@@ -1,0 +1,330 @@
+Wikipedia:Wenke vir die skryf van 'n goeie artikel
+
+
+   Hierdie bladsy bevat raad en 'n paar wenke wat kan help met die skryf
+   van 'n goeie artikel.
+
+   Moenie bang wees om weg te spring en by te dra nie. Indien foute gemaak
+   word is dit nie so erg nie, dit kan (en behoort!) later weer reggemaak
+   word - daar is altyd Wikipediane wat bereid is om hand by te sit. Dit
+   is dikwels 'n goeie idee om 'n artikel eers in 'n aparte woordverwerker
+   te skep en dit dan later in Wikipedia te plaas. Sodoende hoef u dit nie
+   dadelik te voltooi nie en kan u ter eniger tyd daarna terug keer. Dit
+   is dan ook moontlik om spel- en ander foute raak te sien, voor dit
+   geplaas word.
+
+   Inhoud
+
+        * 1 Samevatting
+        * 2 Voor u begin met skryf
+             + 2.1 Wat het ons reeds?
+             + 2.2 Versamel meer inligting
+             + 2.3 Wikipedia is vir almal
+             + 2.4 Kies 'n titel en skep die bladsy
+        * 3 Die saamstelling van u artikel
+             + 3.1 Hou aan konvensies
+             + 3.2 Begin met 'n opsomming
+             + 3.3 Afdelings en paragrawe
+             + 3.4 Wees neutraal
+             + 3.5 Wees presies
+             + 3.6 Wees duidelik
+             + 3.7 Interne skakels
+             + 3.8 Wees op die man af
+             + 3.9 Gee genoeg en veelsydige inligting
+             + 3.10 Wees formeel
+        * 4 Verbeter u artikel
+             + 4.1 Voeg beelde toe
+             + 4.2 Bronvermelding
+             + 4.3 Kontroleer u spelling
+             + 4.4 Perfeksie is gaaf, maar...
+             + 4.5 Plaas u artikel
+
+[wysig] Samevatting
+
+   Die skryf van 'n artikel wat op die internet gaan verskyn bring ekstra
+   eise mee. Dit is byvoorbeeld moeiliker om teks van 'n skerm af te lees
+   as van papier, wat beteken dat die struktuur van 'n webblad baie
+   belangrik is. Bladsye wat 'n goeie struktuur het, bied 'n gebruiker die
+   moontlikheid om die bladsy te vluglees en sodoende nuttige inligting
+   vinniger te vind.
+     * Sorg dat u artikel met 'n kort inleiding van die onderwerp begin: u
+       moet dit as't ware aan die leser voorstel. Die eerste paragraaf
+       behoort 'n opsomming te bevat van wat volg, of 'n definisie van die
+       onderwerp. Indien die artikel oor 'n persoon behandel, is dit
+       raadsaam om te noem hoekom die persoon belangrik is, waar hy
+       vandaan kom en wanneer hy gelewe het. Vir 'n stad is dit
+       byvoorbeeld nuttig om te noem in watter land dit geleë is en hoe
+       dit in die plaaslike taal heet.
+     * Gebruik opskrifte, beelde, tabelle of lyste waar dit nodig kan
+       wees.
+     * Dink goed na oor die gebruik van interne skakels na ander artikels:
+       moenie suinig wees met skakels nie, maar dit is ook nie nodig om na
+       elke woord wat moeilik klink te skakel nie.
+     * Moenie die artikel se paragrawe te lank maak nie: lang paragrawe
+       lyk onnodig moeilik. Korter paragrawe gee meer struktuur, maar:
+     * Moenie die artikel se paragrawe te kort maak nie: paragrawe van
+       slegs een sin of een (skerm)reël skep die indruk van 'n klom los
+       feite, eerder as 'n samehangende geheel.
+     * Waar toepaslik kan dit nuttig wees om die patroon van soortgelyke
+       artikels te herhaal. Vir artikels oor bv. lande, of chemiese
+       elemente, maak dit sin om dieselfde opset en uitleg te gebruik.
+     * Probeer om slang of kru taal te vermy waar moontlik.
+     * Moenie die leser aanspreek tensy dit absoluut noodsaaklik is nie.
+       'n Sin soos "jy kan hierdie siekte kry wanneer jy in kontak met
+       skadelike stowwe kom" kan vervang word met "hierdie siekte kan
+       opgedoen word by kontak met skadelike stowwe". Bly saaklik en laat
+       slegs die feite die leser inlig.
+     * Die gebruik van die teenwoordige tyd vir gebeurtenisse wat in die
+       verlede plaasgevind het ("In 1982 onderteken hy 'n verdrag met die
+       VSA") is verwarrend en onnodig.
+
+[wysig] Voor u begin met skryf
+
+[wysig] Wat het ons reeds?
+
+   Voor u met 'n nuwe artikel begin, word u aangeraai om eers in Wikipedia
+   te kyk wat daar reeds oor die onderwerp geskryf is. Sodoende kan u
+   vermy dat u 'n artikel oor "pikkewyne" skryf, terwyl "pikkewyn" reeds
+   bestaan.
+
+   Indien u voel dat u liewer nie 'n splinternuwe artikel wil begin nie,
+   kan u altyd deur ons Saadjies blaai en daar iets kies om uit te brei.
+
+[wysig] Versamel meer inligting
+
+   Indien u graag 'n artikel wil begin of uitbrei, maar nie veel inligting
+   daaroor beskik nie, is dit 'n goeie idee om die onderwerp in
+   anderstalige Wikipedia's op te soek: hulle bevat dikwels uitgebreide en
+   betroubare inligting. Moet egter nie vergeet dat hierdie artikels ook
+   deur vrywilligers geskryf is nie: hulle maak (nes u) ook foute en dit
+   kan u net help om ook van ander bronne gebruik te maak. Raadpleeg 'n
+   aantal (meer as een) webwerwe wat dieselfde onderwerp behandel, of
+   besoek u plaaslike biblioteek.
+
+[wysig] Wikipedia is vir almal
+
+   Wikipedia is bedoel vir almal, ook Jan Rap en sy maat. Artikels moet
+   dus nie spesialities wees nie: dit is meer waarskynlik dat iemand
+   sonder voorkennis die artikel oor ekonomie gaan lees, as 'n derde
+   jaarse ekonomiestudent. Indien u vreemde terme of konsepte gebruik kan
+   u dit omskryf of die betekenis daarvan verduidelik. Beelde, tabelle en
+   diagramme kan handig te pas kom in sommige gevalle.
+
+[wysig] Kies 'n titel en skep die bladsy
+
+          Sien ook: Wikipedia:Hoe om 'n nuwe bladsy te skep
+
+   Begin met u artikel deur op 'n rooi skakel te kliek of die korrekte
+   titel in u blaaier te tik. Dit is belangrik om die korrekte naam vir u
+   artikel te kies: ons titelriglyne kan u hiermee help. Aanstuurbladsye
+   is nuttig vir artikels met een meer as een moontlike naam (of selfs
+   algemene inkorrekte spelvorms).
+
+[wysig] Die saamstelling van u artikel
+
+[wysig] Hou aan konvensies
+
+   Op Wikipedia bestaan 'n aantal konvensies en daar word verwag dat
+   bydraers hulle hieraan sal hou. Meeste konvensies kan in die verskeie
+   hulpbladsye gevind word, maar daar is dikwels ook een of twee
+   nie-amptelikes. Des te meer rede om uself vertroud te maak met hoe 'n
+   tipiese artikel lyk voor u self een begin! (Kliek gerus "lukrake
+   bladsy" op die kieslys links om op 'n reis deur Wikipedia te gaan.)
+
+   Die konvensies sorg daarvoor dat ons artikels 'n bepaalde eenvormigheid
+   het. U kan meer lees oor ons konvensies by Wikipedia:Styl en
+   Wikipedia:Beleid, maar hier onder volg 'n paar wat die bal aan die rol
+   kan sit.
+
+[wysig] Begin met 'n opsomming
+
+   'n Goeie artikel behoort reeds in die eerste sin 'n kort definisie van
+   die onderwerp te gee. Die res van die paragraaf dien as 'n opsomming
+   van die artikel. Die naam van die onderwerp verskyn die eerste keer in
+   vetdruk, maar daarna nie weer nie.
+
+   Probeer om in u inleiding antwoord te gee op die vyf W's:
+    1. Wie: Naam van die onderwerp (ook al is dit nie 'n persoon nie).
+    2. Wat: Wat is die funksie van die onderwerp (beroep van die persoon,
+       doel van 'n uitvinding, ens.)?
+    3. Wanneer: Geboorte- en sterftedatum, datum van uitvinding,
+       ontdekking, ondergang, ens.
+    4. Waar: Waar kom het onderwerp vandaan in 'n geografiese sin (bv.
+       Oostenryk), of as wat kan die onderwerp geklassifiseer word (bv.
+       chemie, kuns, ens.)?
+    5. Waarom Watter doel of belang het die onderwerp?
+
+   Behandel hierdie so kort as moontlik. In die res van die artikel kan
+   dan op hierdie gegewens uitgebrei word.
+
+[wysig] Afdelings en paragrawe
+
+   'n Goeie artikel het 'n goeie struktuur, met afdelings en paragrawe.
+   Elke afdeling behoort 'n ander aspek van die onderwerp te behandel. By
+   vier afdelings of meer word 'n artikel outomaties van 'n inhoudsopgawe
+   voorsien.
+
+[wysig] Wees neutraal
+
+          Sien ook: Wikipedia:Neutrale standpunt
+
+   'n Goeie artikel is altyd neutraal. Dit is nie altyd eenvoudig om
+   neutraal te bly nie, maar dit is wel noodsaaklik. Moenie feite en
+   bewerings/opinies vermeng nie; moet definitief ook nie u eie mening aan
+   die artikel toevoeg nie!
+
+[wysig] Wees presies
+
+   'n Goeie artikel bevat presiese, ondubbelsinnige stellings. Algemene
+   opmerkings is dikwels vaag: moenie "in die middeleeue" gebruik indien
+   die presiese jaartal bekend is nie. Op dieselfde wyse is "vóór die
+   20ste eeu" of "tot in die 19de eeu" beter as slegs "vroeër". "Onlangs"
+   kan ook probleme skep indien die artikel 5 jaar gelede geskryf is, meld
+   die jaartal ook, dan bly die inligting altyd in konteks.
+
+[wysig] Wees duidelik
+
+   'n Goeie artikel moenie die leser verwar nie. Nadat u u artikel (of 'n
+   gedeelte daarvan) geskryf het, kan dit help om 'n pouse te neem en dan
+   daarna terug te keer. Kan u verstaan wat u geskryf het? Bevat die
+   artikel enige onduidelikhede? As u nie kan verstaan wat u geskryf het
+   nie, kan u verseker wees die leser gaan dit ook nie kan verstaan nie.
+   Kort sinne kan help hiermee, maar té kort sinne kan die leesbaarheid
+   van 'n artikel weer belemmer. Strewe dus vir 'n goeie balans.
+
+   Sommige gebruikers dink ook verkeerdelik dat "ensiklopedies" sinoniem
+   met "hoogdrawend" is: alhoewel goeie taalgebruik en styl vereis word,
+   kan eenvoudiger woorde en sinne juis help om moeiliker konsepte te
+   verduidelik. Veral wanneer vakterme ter sprake is, is dit nodig om
+   hulle te verklaar wanneer hulle die eerste keer in die artikel gebruik
+   word.
+
+[wysig] Interne skakels
+
+   Interne skakels na bestaande artikels is behulpsaam en soms selfs
+   nodig, maar dit is nie nodig om oorboord te gaan nie. As die woord
+   "Duitsland" vyftien keer in 'n artikel voorkom, is dit nie nodig om 'n
+   skakel vanaf elke geval te maak nie. Dit is ook nie nodig om 'n skakel
+   na 'n artikel te verskaf bloot omdat die artikel bestaan nie. Die beste
+   en behulpsaamste skakels is dié wat relevant is tot die artikel waarmee
+   u besig is. Nie elke liewe pleknaam of elke liewe jaartal hoef
+   outomaties 'n skakel te wees nie - dit kan storend wees om te veel
+   skakels in 'n artikel te hê.
+
+[wysig] Wees op die man af
+
+   'n Goeie artikel is kragtig, maar nie soseer kort en beslis nie kortaf
+   nie! Ensiklopediese artikels het nie baie in gemeen met opstelle soos
+   die wat u op skool skryf/geskryf het nie. Hier word geen ekstra punte
+   toegeken vir onnodige bywoorde of metafore nie. Die bogenoemde wenk,
+   "wees presies", geld ook hier: die gedrog "Napoleon het met 'n baie
+   groot leër getrek waaraan daar geen einde blyk te gewees het nie",
+   behoort eerder met "Napoleon het met' n leër van meer as 500 000 man
+   getrek" te wees.
+
+   Dit beteken nie u moet byvoeglike naamwoorde en volsinne vermy nie.
+   Kortaf sinne en beskrywings misluk net so maklik in die oordrag van
+   kennis as verbloemde skrywes.
+
+[wysig] Gee genoeg en veelsydige inligting
+
+   'n Goeie artikel is lank (of lank genoeg), maar nie langdradig nie. 'n
+   Onderwerp het dikwels baie fasette. Maak 'n lysie van hierdie fasette,
+   bv. die geskiedenis, geografiese verskille, wetenskaplike sienswyses,
+   wetenskaplike klassifiserings, chemiese samestelling, ekonomiese
+   aspekte - enige faset wat relevant tot u onderwerp kan wees. Hierdeur
+   kan u ook 'n goeie idee kry van hoe om u artikel in te deel (sien
+   "Afdelings en paragrawe" hierbo).
+
+   Wanneer die verhaal egter te lank word is dit die moeite werd om 'n
+   aparte artikel vir 'n spesifieke afdeling te skep (bv. Geskiedenis van
+   die Verenigde State) en slegs 'n opsomming daarvan by die ouerartikel
+   te voeg (in hierdie geval Verenigde State van Amerika).
+
+[wysig] Wees formeel
+
+   'n Goeie artikel gebruik nie "jy", "jou" of "ons" in 'n artikel gebruik
+   nie. Inderdaad, dit is beter om die leser hoegenaamd nie toe te spreek
+   nie. U moet asseblief ook nie uitroeptekens gebruik om 'n feit of
+   siening te benadruk nie.
+
+   Ná u 'n persoon in 'n artikel voorgestel het, is dit raadsaam om slegs
+   sy van te gebruik om na hom te verwys in die res van die artikel.
+   Gebruik dus "Van Riebeeck", of "Jan van Riebeeck" indien nodig, maar
+   nie "Jan" nie. (Een uitsondering op hierdie reël is wanneer die artikel
+   na meerdere persone met dieselfde van verwys.)
+
+[wysig] Verbeter u artikel
+
+[wysig] Voeg beelde toe
+
+          Sien ook Wikipedia:Beelde en Wikipedia:Gebruik van beelde
+
+   'n Goeie beeld illustreer die teks en kan help om inligting te
+   verduidelik of in konteks te plaas. 'n Visuele impak (ongeag van wat op
+   die beelde is) kan ook help om die leser se aandag te trek.
+
+   Besoek gerus die Wikimedia Commons, waar meer as 2 miljoen beelde
+   gehuisves word. Hierdie beelde kan direk in artikels hier gebruik word
+   (u hoef hulle dus nie apart hierheen op te laai nie).
+
+[wysig] Bronvermelding
+
+          Sien ook Wikipedia:Haal bronne aan en
+          Wikipedia:Verifieerbaarheid
+
+   Mens word reeds sedert laerskool vermaan om 'n bronnelys by enige taak
+   te voeg. Die rede hiervoor is eenvoudig: sodat die leser gerus kan wees
+   dat die inligting nie uit die skrywer se duim gesuig word nie en dat
+   die leser die skrywer se feite na kan gaan, indien gewens. So kan
+   plagiaat ook voorkom word.
+
+   As 'n bonus, verskaf u die leser met ekstra leesstof: hoe goed 'n
+   artikel ook is, dit sal nooit al die inligting kan bevat nie (dit is
+   ook nie veronderstel nie). Die leser kan dus die bronnelys as 'n
+   beginpunt vir meer inligting oor die onderwerp gebruik. Elke goeie
+   artikel benodig 'n bronnelys.
+
+[wysig] Kontroleer u spelling
+
+          Sien ook Wikipedia:Algemene spelfoute
+
+   Afrikaanse speltoetsers is tans algemeen beskikbaar. U spaar uself en
+   ander tyd en werk deur u artikel se spelling na te gaan voor u dit
+   plaas. Nie alle foute word deur 'n speltoetser herken nie, maar elke
+   bietjie help.
+
+[wysig] Perfeksie is gaaf, maar...
+
+   Die perfekte artikel bestaan nie. Na u artikel voltooi is hoef u nie
+   ekstra dae of selfs weke daaraan te timmer in die hoop om dit te
+   vervolmaak nie. Eerder 'n artikel waarmee u 90% tevrede is, as 'n
+   artikel wat op u hardeskyf weggesteek is, waar niemand daaruit kan leer
+   nie.
+
+[wysig] Plaas u artikel
+
+   Na u u artikel geplaas het kan u dit by u dophoulys voeg. So kan u sien
+   wanneer ander Wikipediane wysigings daaraan aanbring, of 'n bespreking
+   daaroor op die besprekingsblad begin. Neem hulle opmerkings ernstig op:
+   die geskrewe vorm van kommunikasie het 'n gebrek aan die nuanses,
+   gebare en gesigsuitdrukkings waaraan ons in ons alledaagse gesprekke
+   gewoond is. Dit veroorsaak dat gebruikers hier soms beledig voel,
+   wanneer dit glad nie die geval is nie. Hou in gedagte dat meeste
+   Wikipediane slegs die beste vir die ensiklopedie wil hê: wanneer hulle
+   dus 'n probleem met die artikel het, of 'n verandering voorstel, is dit
+   omdat hulle werklik glo die artikel kan selfs beter wees.
+
+   U het die wêreld pas verryk met 'n artikel. Die gebrek aan betroubare
+   Afrikaanse inligting op die internet is 'n leemte wat ons hier by die
+   Afrikaanse Wikipedia probeer vul. U artikel kan in die toekoms gelees
+   word deur 'n skoolkind op soek na inligting vir 'n taak, of 'n
+   snuffelaar wat sy kennis oor die onderwerp wil uitbrei. Selfs u weet
+   ook nou meer van die onderwerp en kan dit op 'n duidelike manier
+   weergee. Onthou egter, wanneer u 'n artikel geplaas het, behoort dit
+   nie meer aan u nie (alhoewel u steeds as die outeur van die
+   oorspronklike weergawe erken word), maar word dit onder 'n GNU-vrye
+   dokumentlisensie vrygestel. Dit beteken dat artikels hier nie stilstaan
+   nie, maar bly groei soos ander gebruikers hulle wysig en vorm.
+   Kategorie: Wikipedia
+

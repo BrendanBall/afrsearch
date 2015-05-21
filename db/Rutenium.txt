@@ -1,0 +1,275 @@
+Rutenium
+
+
+
+   44                      tegnesium ← Rutenium → rodium
+   Fe
+   ↑
+   Ru
+   ↓
+   Os
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal Rutenium, Ru, 44
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 8, 5, d
+                                             Voorkoms silwerige wit metaal
+                                               Atoommassa 101.07 (2) g/mol
+                                       Elektronkonfigurasie [Kr] 4d^7 5s^1
+                                        Elektrone per skil 2, 8, 18, 15, 1
+                                                        Fisiese Eienskappe
+                                         Digtheid (naby k.t.) 12.45 g/cm³
+                                 Vloeistof digtheid teen s.p. 10.65 g/cm³
+                                                          Smeltpunt 2607 K
+                                                                (2334 °C)
+                                                           Kookpunt 4423 K
+                                                                (4150 °C)
+                                              Smeltingswarmte 38.59 kJ/mol
+                                            Verdampingswarmte 591.6 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.06 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2588 2811 3087 3424 3845 4388
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                          Oksidasietoestande 2, 3, 4, 6, 8
+                                                      (matige suur oksied)
+                               Elektronegatiwiteit 2.2 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 710.2 kJ/mol
+                                                          2de: 1620 kJ/mol
+                                                         3rde: 2747 kJ/mol
+                                                        Atoomradius 130 pm
+                                                 Atoomradius (ber.) 178 pm
+                                                   Kovalente radius 126 pm
+                                                                   Diverse
+
+                                   Sjabloon:Elementboks eweerstand ohmmat0
+                           Termiese geleidingsvermoë (300 K) 117 W/(m·K)
+                               Termiese uitsetting (25 °C) 6.4 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 5970 m/s
+                                                  Young se modulus 447 GPa
+                                                      Skuifmodulus 173 GPa
+                                                      Massamodulus 220 GPa
+                                                    Poissonverhouding 0.30
+                                                      Mohs se hardheid 6.5
+                                                 Brinell hardheid 2160 MPa
+                                              CAS-registernommer 7440-18-8
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van Rutenium
+
+                           iso    NV   halfleeftyd VM    VE (MeV)     VP
+                          ^96Ru  5.52% Ru is stabiel met 52 neutrone
+                          ^97Ru  sin   2.9 d       e   -            ^97Tc
+                                                   ?   0.215, 0.324 -
+                          ^98Ru  1.88% Ru is stabiel met 54 neutrone
+                          ^99Ru  12.7% Ru is stabiel met 55 neutrone
+                          ^100Ru 12.6% Ru is stabiel met 56 neutrone
+                          ^101Ru 17.0% Ru is stabiel met 57 neutrone
+                          ^102Ru 31.6% Ru is stabiel met 58 neutrone
+                          ^103Ru sin   39.26 d     ß^- 0.226        ^103Rh
+                                                   ?   0.497        -
+                          ^104Ru 18.7% Ru is stabiel met 60 neutrone
+                          ^106Ru sin   373.59 d    ß^- 0.039        ^106Rh
+
+                                                                Verwysings
+
+   Rutenium is 'n chemiese element in die periodieke tabel met die simbool
+   Ru en atoomgetal van 44. Dit is 'n seldsame oorgangsmetaal in die
+   platinumgroep en word aangetref in platinumertse en word gebruik as 'n
+   katalis in sommige platinumlegerings.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+             + 4.1 Normale ontginning
+             + 4.2 Vanaf uitgeputte kernbrandstowwe
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Organometaalchemie
+        * 8 Voorsorgmaatreëls
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Rutenium is 'n polivalente harde wit metaal wat 'n lid is van die
+   platinumgroep, dit het vier kristalmodifikasies en verdof nie by
+   normale temperature nie maar kan wel plofbaar oksideer. Rutenium los op
+   in gesmelte alkalies, word nie deur sure aangeval nie maar wel deur
+   halogene teen hoë temperature.
+
+   Klein hoeveelhede rutenium kan die hardheid van platinum en paladium
+   verhoog. Die korrosieweerstand van titaan word merkbaar verhoog deur
+   die byvoeging an 'n klein hoeveelheid rutenium. Die metaal kan
+   geplateer word deur elektroneerslag- of deur termiese
+   ontbindingsmetodes.
+
+   Een rutenium-molibdeenlegering is gevind wat supergeleidend is by 10.6
+   K. Die oksidasietoestande van rutenium wissel in die bestek van +1 tot
+   +8, 'n -2 toestand is ook bekend, die +2, +3 en +4 toestande is egter
+   die meer algemene toestande.
+
+[wysig] Gebruike
+
+   Rutenium word gebruik in platinum en paladiumlegerings om die harde
+   verweringsbestande elektriese kontakte te vervaardig. Dit word ook soms
+   saam met goud gelegeer om juwele te maak.
+
+   0.1% Rutenium word by titaan gevoeg om sy korrosieweerstand
+   honderdvoudig te vermeerder.
+
+   Daar word ook beplan om Rutenium te gebruik in sommige gevorderde
+   hoë-temperatuur enkelkristal superlegerings, vir gebruik in
+   turbinelemme van stralerenjins.
+
+   Viltpenne se punte word dikwels van legerings vervaardig wat rutenium
+   bevat. Die bekende Parker 51 Viltpen was sedert 1944 met 'n Rutenium
+   punt voorsien wat bestaan het uit 96.2% rutenium en 3.8% iridium.
+
+   Rutenium is ook 'n veelsydige katalis: waterstofsulfied kan met lig
+   ontbind word deur van 'n waterige suspensie van CdS partikels gelaai
+   met ruteniumdioksied gebruik te maak. Dit kan moontlik 'n nuttige
+   proses wees vir die verwydering van H[2]S by olieraffinaderye en ander
+   nywerheidsprosesse.
+
+   Organometalliese ruteniumkarbene en allenielideenkomplekse het onlangs
+   belofte getoon as baie doeltreffende kataliste vir olefienmetatese met
+   belangrike toepassings in organiese en farmaseutiese chemie.
+
+   Sommige ruteniumkomplekse absorbeer lig regdeur die sigbare spektrum en
+   word aktief ondersoek vir moontlike gebruike in sonenergietegnologie.
+
+   Die fluoressensie van sommige ruteniumkomplekse word deur suurstof
+   gedemp, wat daartoe gelei het dat gebruik word in optode sensors vir
+   suurstof.
+
+   Ruteniumrooi, [(NH[3])[5]Ru-O-Ru(NH[3])[4]-O-Ru(NH[3])[5]]^6+ is 'n
+   biologiese kleurstof wat gebruik word om poli-anioniese gebiede van
+   membrane sigbaar te maak.
+
+   Ruteniumgebaseerde komplekse word ook nagevors vir moontlike
+   kankerwerende eienskappe. Rutenium toon anders as andre tradisionele
+   platinumkomplekse, 'n groter weerstand teen hidrolise en toon 'n meer
+   selektiewe aksie op kwaadaardige gewasse. NAMI-A en KP1019 is twee
+   medikasies wat tans kliniese ondersoeke teen metastatiese gewasse en
+   kolonkankers ondergaan.
+
+[wysig] Geskiedenis
+
+   Rutenium is in 1844 ontdek en geïsoleer deur die Russiese wetenskaplike
+   Karl Klaus. Klaus het getoon dat ruteniumoksied 'n nuwe metaal bevat
+   het en het 6 gram rutenium verkry uit die ru-platinum wat nie opgelos
+   het in aqua regia nie.
+
+   Jöns Berzelius en Gottfried Osann het rutenium byna in 1827 ontdek. Die
+   mans het die oorskot geanaliseer wat oorgebly het nadat ru-platinum uit
+   die Oeral gebergtes in aqua regia opgelos is. Berzelius kon nie enige
+   ongewone metale opspoor nie maar Osann het gedink dat dit drie nuwe
+   metale bevat het en het een van hulle rutenium genoem.
+
+   Die naam is afkomstig van Roethenië die Latynse naam die gebied wat die
+   hedendaagse Oekraïne, Belarus en dele van Rusland, die Baltiese streek,
+   Slowakië, en Pole insluit. Karl Klaus het die naam gekies ter ere van
+   sy vaderland. Hy is gebore in Tartu, Estonië toe nog deel van die
+   Russiese Ryk.
+
+[wysig] Verspreiding
+
+[wysig] Normale ontginning
+
+   Hierdie element word gewoonlik in ertse saam met ander
+   platinumgroep-metale in die Oeralgebergtes en in Noord- en Suid-Amerika
+   ontgin. Klein maar kommersieël belangrike hoeveelhede word ook uit
+   pentlandiet vanaf Sudbury, Ontario en uit piroxeniet-neerslae in
+   Suid-Afrika onttrek.
+
+   Die metaal word kommersieël ontgin deur 'n komplekse chemiese proses
+   waarin waterstof gebruik word om ammoniumruteniumchloried te reduseer
+   en sodoende 'n poeier agterlaat. Die poeier word dan
+   poeiermettallurgiese tegnieke saamgebind of deur argon
+   boogsweismetodes.
+
+[wysig] Vanaf uitgeputte kernbrandstowwe
+
+   Dit is ook moontlik om rutenium vanuit uitgeputte kernbrandstof te
+   onttrek. Elke kilo fissieprodukte vanuit ^235U sal tipies 63.44 gram
+   rutenium-isotope bevat met halfleeftye van meer as 'n dag.
+
+[wysig] Verbindings
+
+   Ruteniumverbindings se chemiese eienskappe stem dikwels ooreen met dié
+   van osmium en neem ten minste agt oksidasietoestande aan. Die +2, +3 en
+   +4 toestande is die algemeenste. Voorbeelde is rutenium(IV)oksied
+   (Ru(IV)O[2], Oksidasietoestand +4), dikaliumrutenaat (K[2]Ru(VI)O[4],
+   +6), kaliumperrutenaat (KRu(VII)O[4], +7) en ruteniumtetroksied
+   (Ru(VIII)O[4], +8). Verbindings van rutenium met chloor is
+   rutenium(II)chloried (RuCl[2]) en rutenium(III)chloried (RuCl[3]).
+
+[wysig] Isotope
+
+   Rutenium wat natuurlik voorkom bestaan uit sewe isotope. Die mees
+   stabiele radio-isotope is ^106Ru met 'n halfleeftyd van 373.59 dae,
+   ^103Ru met 'n halfleeftyd van 39.26 dae en ^97Ru met 'n halfleeftyd van
+   2.9 dae.
+
+   Vyftien ander radio-isotpe is al geëien met atoommassas wat wissel
+   tussen 89.93 (^90Ru) tot 114.928 (^115Ru). Die meeste van die isotope
+   het halfleeftye van minder as vyf minute buiten ^95Ru (halfleeftyd
+   1.643 uur) en ^105Ru (halfleeftyd: 4.44 uur).
+
+   Die primêre vervalmodus voor die mees volopste isotoop, ^102Ru, is
+   elektronvangs en die primêre modus daarna is beta-emissie. Die primêre
+   vervalproduk voor ^102Ru is tegnesium en die primêre produk daarna is
+   rodium.
+
+[wysig] Organometaalchemie
+
+   Dit is betreklik maklik om verbindings met koolstof-rutenium bindings
+   te skep, hierdie verbindings neig om donkerder te wees en reageer
+   makliker as die osmiumverbindings. Professor Tony Hill en sy
+   medewerkers het onlangs daarin geslaag om verbindings van rutenium waar
+   'n booratoom 'n binding met die metaalatoom vorm.
+
+   Die organometaal ruteniumverbinding wat die maklikste gemaak kan word
+   is RuHCl(CO)(PPh[3])[3]. Die verbinding het twee vorme (geel en pienk)
+   wat identies is wanneer hulle opgelos is maar verskil in die
+   vastetoestand.
+
+   'n Organometaalverbinding soortgelyk aan rutenoseen,
+   bis(2,4-dimetielpentadieniel)rutenium, kan geredelik gesintetiseer word
+   en word gebruik in dampfase neerslag van metaalagtige rutenium asook in
+   katalise, insluitende Fischer-Tropsch sintese van voertuigbrandstowwe.
+
+   Belangrike kataliste wat op rutenium gebaseer is, is Grubbs se katalis
+   en Roper se kompleks.
+
+[wysig] Voorsorgmaatreëls
+
+   Die verbinding ruteniumtetroksied, RuO[4], wat soortegelyk is aan
+   osmiumtetroksied, is baie giftig en is plofbaar. Rutenium speel geen
+   belangrike biologiese rol nie maar veroorsaak merkbare vlekke op die
+   menslike vel, kan karsinogenies wees en bio-akkumuleer in beenweefsel.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Rutenium
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Artikel oor Rutenium
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Ruthenium
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,54 @@
+Gelaagdeverbranding-enjin
+
+
+   Die gelaagdeverbranding-enjin (Engels - Stratified Charge Injection) is
+   'n soort binnebrandenjin met 'n brandstofsiklus soortgelyk aan die van
+   die Dieselsiklus maar wat met gewone petrol werk. Die naam verwys na
+   die gelaagdheid van die lug-brandstofmengsel oftewel die lading in die
+   silinder.
+
+   In tradisionele Otto-siklus-enjins word die brandstof en lug buite die
+   silinder gemeng en in die silinder ingetrek tydens die inlaatslag. Die
+   lug-brandstof verhouding word baie na aan stoigiometrie, wat
+   gedefinieer word as die presiese hoeveelheid lug wat nodig is om
+   volledige verbranding van die brandstof te verseker, beheer. Die
+   mengsel word maklik ontsteek en brand gladweg.
+
+   Die probleem met hierdie ontwerp is dat nadat die verbrandingsproses
+   voltooi is, die resulterende mengsel noemenswaardige hoeveelhede vrye
+   suurstof- en stikstof-atome bevat, wat deur die hitte uit die lug
+   vrygestel word. Hierdie atome reageer geredelik met mekaar wat die
+   vorming van NO[x], 'n besoedelende chemikalieë, tot gevolg het. Tans
+   word hierdie probleem oorkom deur die gebruik van 'n katalitiese
+   omsetter in die uitlaatstelsel, waar die NO[x] weer omgeskakel word na
+   O[2] en N[2].
+
+   Dieselenjins het ook 'n probleem hier. Die branstof word direk in die
+   hoogs saamgeperste lug ingespuit en kry nie voldoende geleentheid om
+   deeglik te meng nie. Die onvolledige verbranding as gevolg van die swak
+   vermenging lei tot die vorming van besoedelende bestanddele in die
+   uitlaatstelsel, veral roetpartikels.
+
+   Die gelaagde verbranding ontwerp poog om hierdie probleme van beide
+   ontwerpe aan te spreek. Dit gebruik 'n direkte
+   brandstofinspuitingstelsel waar die brandstofinspuiters so opgestel
+   word dat die brandstof slegs in een gebied van die silinder ingespuit
+   word, dikwels 'n klein subsilinder bo-aan die hoofsilinder. Dit het 'n
+   baie ryk mengsel in daardie gebied tot gevolg wat maklik ontsteek en
+   gladweg brand. Soos die verbranding vorder kom dit 'n gebied teë waar
+   die mengsel baie arm is (soms slegs lug) waar dit dan vinnig verkoel
+   word en die skadelike NO[x] nie kans kry om te vorm nie. Die oortollige
+   suurstof in die arm mengsel reageer ook met die CO om CO[2] te vorm wat
+   minder skadelik is. Die baie skoner ontbranding maak dit moontlik om
+   katalitiese omsetters te elimineer asook om die enjin met 'n armer
+   mengsel te laat werk met die gevolglike laer brandstofverbruik wat dit
+   meebring.
+
+   Die uitleg van so 'n enjin is nie baie maklik nie en jarelange
+   navorsing en ontwikkeling was nodig om dit suksesvol uit te voer.
+   Vandag begin egter verskeie motorvoertuie met hierdie tegnologie op die
+   mark verskyn. Die hoofsaaklike “verkoopsvoordeel” van hierdie motors is
+   dat hulle meer brandstofdoeltreffend is (tussen 15 tot 20%) as die
+   tradisionele ontwerpe.
+   Kategorie: Voertuigtegnologie
+

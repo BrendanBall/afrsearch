@@ -1,0 +1,103 @@
+Hamerkop
+
+
+                       Hamerkop
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes of Pelecaniformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Scopidae
+                   Bonaparte, 1849
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Scopus
+                   Brisson, 1760
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     S. umbretta
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Scopus umbretta
+   Gmelin, 1789
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die hamerkop (Scopus umbretta) is 'n medium-grootte voël wat in Afrika
+   (Suid van die Sahara) en in Wes-Arabië aangetref word. As gevolg van
+   die hamerkop se unieke eienskappe is die spesie self ook 'n genus
+   (Scopus) en 'n familie (Scopidae).
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Galery
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   Medium-groote voël (56cm). Die vorm van die kop en kuif herinner aan 'n
+   hammer en is die oorsprong vir die naam van die voël. Bruin vere.
+
+[wysig] Habitat
+
+   Voedsel bestaan uit vis, paddas, knaagdiere en ander klein diertjies.
+
+[wysig] Verspreiding
+
+   Afrika suid van die Sahara, Madagaskar en Suidwes Arabië in alle
+   vleiland gebiede. Hierdie voëls word gewoonlik allen of in pare
+   aangetref.
+
+[wysig] Ander name
+
+     * Engelse naam: Hammerkop
+     * Duitse naam: Hammerkop
+     * Wetenskaplike naam: Scopus umbretta
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Hamerkoppe
+

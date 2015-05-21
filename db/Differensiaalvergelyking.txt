@@ -1,0 +1,51 @@
+Differensiaalvergelyking
+
+
+   'n Differensiaalvergelyking is 'n wiskundige vergelyking wat bo en
+   behalwe konstantes en/of veranderlikes, ook een of meer afgeleides van
+   veranderlikes bevat. Die oplossing van 'n differensiaalvergelyking is
+   'n funksie in die veranderlike(s) van die vergelyking waarvoor die
+   verwantskap van die differensiaalvergelyking waar is. In baie gevalle
+   kan meer as een sulke oplossings bestaan.
+
+   Twee groepe differensiaalvergelykings word onderskei:
+     * 'n Gewone differensiaalvergelyking bevat slegs konstantes en
+       funksies van een veranderlike, saam met die afgeleides van daardie
+       veranderlike.
+     * 'n Parsiële differensiaalvergelyking bevat meerveranderlike
+       funksies en hulle parsiële afgeleides.
+
+   Die graad van 'n differensiaalvergelyking is die graad van die hoogste
+   afgeleide wat dit bevat. 'n Eerstegraadse differensiaalvergelyking
+   bevat dus slegs eerste afgeleides.
+
+   Differensiaalvergelykings word gebruik om wiskundige modelle van
+   fisiese fenomene op te stel. Hulle word dus bestudeer in gewone en
+   toegepaste wiskunde. Eienskappe van differensiaalvergelykings wat
+   ondersoek word, is byvoorbeeld of daar oplossings bestaan, en indien
+   wel, of hierdie oplossings uniek is.
+
+[wysig] Voorbeeld
+
+   Hier volg 'n voorbeeld van 'n lineêre tweede-orde
+   differensiaalvergelyking:
+
+          4 f^{\prime\prime}(x) + f(x) = \sin(x) ,
+
+   Die oplossing hiervoor is:
+
+          f(x) = c_1 \sin\left(\frac{x}{2}\right) + c_2
+          \cos\left(\frac{x}{2}\right) - \frac{1}{3}\sin(x) .
+
+   In hierdie oplossing is c[1] en c[2] willekeurige konstantes (reëel of
+   kompleks). Dit wil sê, vir enige keuse van veranderlikes c[1] en c[2]
+   sal f(x) 'n oplossing wees.
+
+[wysig] Eksterne skakels
+
+     * Polyanin, Andrei: EqWorld: The World of Mathematical Equations - 'n
+       Werf wat fokus op gewone en parsiële differensiaalvergelykings,
+       asook integraal- en ander wiskundige vergelykings.
+
+   Kategorie: Wiskunde
+

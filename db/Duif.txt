@@ -1,0 +1,496 @@
+Duif
+
+
+                         Duif
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Columbiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Columbidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                     Subfamilies
+
+                                Sien artikel
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Inhoud
+
+        * 1 Spesies
+        * 2 Subfamilie Otidiphabinae
+        * 3 Subfamilie Gourinae
+        * 4 Subfamilie Didunculinae
+        * 5 Subfamilie Treroninae
+
+[wysig] Spesies
+
+   Columba Livia
+   Columba Livia
+
+   Genus Columba
+     * Columba livia
+     * Columba oenas
+     * Columba trocaz
+     * Columba bollii
+     * Columba junoniae
+     * Columba leucocephala
+     * Columba flavirostris
+     * Columba fasciata
+     * Columba rupestris
+     * Columba leuconota
+     * Columba guinea
+     * Columba albitorques
+     * Columba eversmanni
+     * Columba oliviae
+     * Columba palumbus
+     * Columba unicincta
+     * Columba arquatrix
+     * Columba sjostedti
+     * Columba thomensis
+
+     * Columba polleni
+     * Columba hodgsonii
+     * Columba albinucha
+     * Columba pulchricollis
+     * Columba elphinstonii
+     * Columba torringtoni
+     * Columba punicea
+     * Columba argentina
+     * Columba palumboides
+     * Columba janthina
+     * Columba versicolor (uitgesterf)
+     * Columba vitiensis
+     * Columba leucomela
+     * Columba jouyi (uitgesterf)
+     * Columba pallidiceps
+     * Columba leucocephala
+     * Columba squamosa
+     * Columba speciosa
+     * Columba picazuro
+
+     * Columba corensis
+     * Columba maculosa
+     * Columba fasciata
+     * Columba araucana
+     * Columba caribaea
+     * Columba cayennensis
+     * Columba flavirostris
+     * Columba oenops
+     * Columba inornata
+     * Columba plumbea
+     * Columba subvinacea
+     * Columba nigrirostris
+     * Columba goodsoni
+     * Columba delegorguei
+     * Columba iriditorques
+     * Columba malherbii
+     * Columba picturata
+     * Columba larvata
+     * Columba simplex
+
+   Genus Streptopelia
+     * Streptopelia senegalensis
+     * Streptopelia decaocto
+     * Streptopelia risoria
+     * Streptopelia roseogrisea
+     * Streptopelia chinensis
+     * Streptopelia turtur
+     * Streptopelia orientalis
+     * Streptopelia lugens
+     * Streptopelia hypopyrrha
+
+                                  * Streptopelia mayeri
+                                  * Streptopelia bitorquata
+                                  * Streptopelia reichenowi
+                                  * Streptopelia decipiens
+                                  * Streptopelia semitorquata
+                                  * Streptopelia capicola
+                                  * Streptopelia vinacea
+                                  * Streptopelia tranquebarica
+
+   Genus Macropygia
+     * Macropygia unchall
+     * Macropygia amboinensis
+     * Macropygia phasianella
+     * Macropygia magna
+     * Macropygia rufipennis
+     * Macropygia tenuirostris
+     * Macropygia emiliana
+     * Macropygia nigrirostris
+     * Macropygia mackinlayi
+     * Macropygia ruficeps
+
+   Genus Reinwardtoena
+     * Reinwardtoena reinwardtii
+     * Reinwardtoena browni
+     * Reinwardtoena crassirostris
+
+   Genus Turacoena
+     * Turacoena manadensis
+     * Turacoena modesta
+
+   Genus Turtur
+     * Turtur chalcospilos
+     * Turtur abyssinicus
+     * Turtur afer
+     * Turtur tympanistria
+     * Turtur brehmeri
+
+   Genus Oena
+     * Oena capensis
+
+   Genus Chalcophaps
+     * Chalcophaps indica
+     * Chalcophaps stephani
+
+   Genus Henicophaps
+     * Henicophaps albifrons
+     * Henicophaps foersteri
+
+   Genus Phaps
+     * Phaps chalcoptera
+     * Phaps elegans
+     * Phaps histrionica
+
+   Genus Ocyphaps
+     * Ocyphaps lophotes
+
+   Genus Geophaps
+     * Geophaps plumifera
+     * Geophaps scripta
+     * Geophaps smithii
+
+   Genus Petrophassa
+     * Petrophassa rufipennis
+     * Petrophassa albipennis
+
+   Genus Geopelia
+     * Geopelia cuneata
+     * Geopelia striata
+     * Geopelia placida
+     * Geopelia maugei
+     * Geopelia humeralis
+
+   Genus Leucosarcia
+     * Leucosarcia melanoleuca
+
+   Zenaida macroura
+   Zenaida macroura
+
+   Genus Zenaida
+     * Zenaida graysoni
+     * Zenaida auriculata
+     * Zenaida aurita
+     * Zenaida galapagoensis
+     * Zenaida asiatica
+     * Zenaida meloda
+     * Zenaida macroura
+
+   Genus Ectopistes
+     * Ectopistes migratorius (uitgesterf)
+
+   Genus Columbina
+     * Columbina passerina
+     * Columbina minuta
+     * Columbina buckleyi
+     * Columbina talpacoti
+     * Columbina picui
+     * Columbina cruziana
+     * Columbina cyanopis
+
+   Genus Claravis
+     * Claravis pretiosa
+     * Claravis godefrida
+     * Claravis mondetoura
+
+   Genus Metropelia
+     * Metriopelia ceciliae
+     * Metriopelia morenoi
+     * Metriopelia melanoptera
+     * Metriopelia aymara
+
+   Genus Scardafella
+     * Scardafella inca
+     * Scardafella squammata
+
+   Genus Uropelia
+     * Uropelia campestris
+
+   Genus Leptotila
+     * Leptotila verreauxi
+     * Leptotila megalura
+     * Leptotila rufaxilla
+     * Leptotila plumbeiceps
+     * Leptotila pallida
+     * Leptotila battyi
+
+                              * Leptotila wellsi
+                              * Leptotila jamaicensis
+                              * Leptotila cassini
+                              * Leptotila ochraceiventris
+                              * Leptotila conoveri
+
+   Genus Geotrygon
+     * Geotrygon lawrencii
+     * Geotrygon carrikeri
+     * Geotrygon costaricensis
+     * Geotrygon goldmani
+     * Geotrygon saphirina
+     * Geotrygon caniceps
+     * Geotrygon versicolor
+     * Geotrygon chiriquensis
+
+                                * Geotrygon veraguensis
+                                * Geotrygon albifacies
+                                * Geotrygon linearis
+                                * Geotrygon frenata
+                                * Geotrygon chrysia
+                                * Geotrygon mystacea
+                                * Geotrygon violacea
+                                * Geotrygon montana
+
+   Genus Starnoenas
+     * Starnoenas cyanocephala
+
+   Genus Caloenas=
+     * Caloenas nicobarica
+
+   Genus Gallicolumba
+     * Gallicolumba luzonica
+     * Gallicolumba criniger
+     * Gallicolumba platenae
+     * Gallicolumba keayi
+     * Gallicolumba menagei
+     * Gallicolumba rufigula
+     * Gallicolumba tristigmata
+     * Gallicolumba jobiensis
+     * Gallicolumba kubaryi
+     * Gallicolumba erythroptera
+
+                                  * Gallicolumba xanthonura
+                                  * Gallicolumba stairi
+                                  * Gallicolumba ferruginea (uitgesterf)
+                                  * Gallicolumba sanctaecrucis
+                                  * Gallicolumba salamonis (uitgesterf)
+                                  * Gallicolumba rubescens
+                                  * Gallicolumba beccarii
+                                  * Gallicolumba canifrons
+                                  * Gallicolumba hoedtii
+                                  * Gallicolumba norfolciensis (uitgesterf)
+
+   Genus Trugon
+     * Trugon terrestris
+
+   Genus Microgoura
+     * Microgoura meeki (moontlik uitgesterf)
+
+[wysig] Subfamilie Otidiphabinae
+
+   Genus Otidiphaps
+     * Otidiphaps nobilis
+
+[wysig] Subfamilie Gourinae
+
+   Genus Goura
+     * Goura cristata
+     * Goura scheepmakeri
+     * Goura victoria
+
+[wysig] Subfamilie Didunculinae
+
+   Genus Didunculus
+     * Didunculus strigirostris
+
+[wysig] Subfamilie Treroninae
+
+   Genus Phapitreron
+     * Phapitreron leucotis
+     * Phapitreron amethystina
+     * Phapitreron cinereiceps
+
+   Genus Treron
+     * Treron fulvicollis
+     * Treron olax
+     * Treron vernans
+     * Treron bicincta
+     * Treron pompadora
+     * Treron curvirostra
+     * Treron griseicauda
+     * Treron teysmannii
+     * Treron floris
+     * Treron psittacea
+     * Treron capellei
+     * Treron phoenicoptera
+
+                             * Treron waalia
+                             * Treron australis
+                             * Treron calva
+                             * Treron pembaensis
+                             * Treron sanctithomae
+                             * Treron apicauda
+                             * Treron oxyura
+                             * Treron seimundi
+                             * Treron sphenura
+                             * Treron sieboldii
+                             * Treron formosae
+
+   Genus Ptilinopus
+     * Ptilinopus cinctus
+     * Ptilinopus alligator
+     * Ptilinopus dohertyi
+     * Ptilinopus porphyreus
+     * Ptilinopus marchei
+     * Ptilinopus merrilli
+     * Ptilinopus occipitalis
+     * Ptilinopus fischeri
+     * Ptilinopus jambu
+     * Ptilinopus subgularis
+     * Ptilinopus leclancheri
+     * Ptilinopus bernsteinii
+     * Ptilinopus magnificus
+     * Ptilinopus perlatus
+     * Ptilinopus ornatus
+     * Ptilinopus tannensis
+     * Ptilinopus aurantiifrons
+
+     * Ptilinopus wallacii
+     * Ptilinopus superbus
+     * Ptilinopus perousii
+     * Ptilinopus porphyraceus
+     * Ptilinopus pelewensis
+     * Ptilinopus rarotongensis
+     * Ptilinopus roseicapilla
+     * Ptilinopus regina
+     * Ptilinopus richardsii
+     * Ptilinopus purpuratus
+     * Ptilinopus chalcurus
+     * Ptilinopus coralensis
+     * Ptilinopus greyii
+     * Ptilinopus huttoni
+     * Ptilinopus dupetithouarsii
+     * Ptilinopus mercierii
+     * Ptilinopus insularis
+
+     * Ptilinopus coronulatus
+     * Ptilinopus pulchellus
+     * Ptilinopus monacha
+     * Ptilinopus rivoli
+     * Ptilinopus solomonensis
+     * Ptilinopus viridis
+     * Ptilinopus eugeniae
+     * Ptilinopus iozonus
+     * Ptilinopus insolitus
+     * Ptilinopus hyogaster
+     * Ptilinopus granulifrons
+     * Ptilinopus melanospila
+     * Ptilinopus nanus
+     * Ptilinopus arcanus
+     * Ptilinopus victor
+     * Ptilinopus luteovirens
+     * Ptilinopus layardi
+
+   Genus Drepanoptila
+     * Drepanoptila holosericea
+
+   Genus Alectroenas
+     * Alectroenas madagascariensis
+     * Alectroenas sganzini
+     * Alectroenas pulcherrima
+
+   Genus Ducula
+     * Ducula poliocephala
+     * Ducula forsteni
+     * Ducula mindorensis
+     * Ducula radiata
+     * Ducula carola
+     * Ducula aenea
+     * Ducula perspicillata
+     * Ducula concinna
+     * Ducula pacifica
+     * Ducula oceanica
+     * Ducula aurorae
+     * Ducula galeata
+
+                             * Ducula rubricera
+                             * Ducula myristicivora
+                             * Ducula rufigaster
+                             * Ducula basilica
+                             * Ducula finschii
+                             * Ducula chalconota
+                             * Ducula pistrinaria
+                             * Ducula rosacea
+                             * Ducula whartoni
+                             * Ducula pickeringii
+                             * Ducula latrans
+
+     * Ducula brenchleyi
+     * Ducula bakeri
+     * Ducula goliath
+     * Ducula pinon
+     * Ducula melanochroa
+     * Ducula mullerii
+     * Ducula zoeae
+     * Ducula badia
+     * Ducula lacernulata
+     * Ducula cineracea
+     * Ducula bicolor
+     * Ducula spilorrhoa
+     * Ducula luctuosa
+
+   Genus Lopholaimus
+     * Lopholaimus antarcticus
+
+   Genus Hemiphaga
+     * Hemiphaga novaeseelandiae
+
+   Genus Cryptophaps
+     * Cryptophaps poecilorrhoa
+
+   Genus Gymnophaps
+     * Gymnophaps albertisii
+     * Gymnophaps mada
+     * Gymnophaps solomonensis
+
+   Kategorie: Voëls
+

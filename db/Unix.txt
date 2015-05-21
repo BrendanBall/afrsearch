@@ -1,0 +1,27 @@
+Unix
+
+
+   Unix (amptelike handelsmerk UNIX®) is 'n rekenaar bedryfstelsel wat
+   oorspronklik in 1969 deur 'n groep AT&T werknemers in Bell Labs
+   ontwikkel is. Deel van die span was Ken Thompson, Dennis Ritchie en
+   Douglas McIlroy. Vandag se Unix bedryfstelsels is verdeel in verskeie
+   takke, wat oor tyd deur AT&T, ander kommersiële verskaffers, en
+   nie-winsgewende organisasies ontwikkel is.
+
+   Vanaf 2007 besit die Open Group ('n industrie standaard konsortium) die
+   UNIX® handelsmerk. Slegs stelsels wat ten volle ooreenstem met die
+   Enkele UNIX Spesifikasie kwalifiseer as "UNIX®" (ander word gesien as
+   Unix-verwant).
+
+   Gedurende die laat 1970's en vroeë 1980's het Unix se invloed in
+   akademiese kringe gelei tot die groot skaal implementering van Unix (in
+   besonders die BSD variasie, komend van die Universiteit van California,
+   Berkeley, VSA) deur kommersiële organisasies, die bekendste voorbeeld
+   hiervan is Sun Microsystems. Vandag word Unix en Unix-verwante stelsels
+   oral aangetref, insluitend variasies soos Linux en BSD.
+
+   Soms word die term "tradisioneel Unix" gebruik om 'n Unix of 'n
+   bedryfstelsel te beskryf met die karakteristieke van Unix Weergawe 7 of
+   UNIX Stelsel V (System V).
+   Kategorieë: Rekenaar • Bedryfstelsels
+

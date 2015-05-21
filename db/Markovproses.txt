@@ -1,0 +1,48 @@
+Markovproses
+
+
+   In waarskynlikheidsleer is ‘n Markovproses ‘n stogastiese proses wat as
+   volg gekarakteriseer word: Die toestand c[k] op tydstip k is een van ‘n
+   eindige aantal in die reeks \{1,\ldots,M\} . Onder die aanname dat die
+   proses slegs van tyd 0 tot tyd N loop en dat die aanvanklike en eind
+   toestande bekend is, word die toestandopeenvolging dan voorgestel deur
+   ‘n eindige vektor C = (c[0],...,c[N]).
+
+   Laat P(c[k] | c[0],c[1],...,c[(k − 1)]) die waarskynlikheid (kans dat
+   dit sal gebeur) van die toestand c[k] op tyd k bepaal deur alle
+   toestande tot tyd k − 1 aandui. Veronderstel ‘n proses sodanig dat c[k]
+   slegs van die vorige toestand c[k − 1] afhang en onafhanklik is van
+   alle vorige toestande. Die proses sou bekend staan as ‘n eerste-orde
+   Markovproses. Dit beteken dat die waarskynlikheid om in ‘n toestand
+   c[k]te wees op tyd k, gegee alle toestande tot tyd k − 1 slegs van die
+   vorige toestand afhang, d.w.s. c[k−1] op tyd k − 1:
+
+          P(c_k|c_0,c_1,\ldots,c_{k-1})=P(c_k|c_{k-1}).\,
+
+   Vir ‘n nde-orde Markovproses,
+
+          P(c_k|c_0,c_1,\ldots,c_{k-1})=P(c_k|c_{k-n},\ldots,c_{k-1}).\,
+
+   In die algemeen, vir die Viterbialgoritme, word aangeneem dat die
+   onderliggende proses ‘n Markovproses is met die volgende eienskappe:
+     * eindige-toestand, dit beteken die getal M is eindig.
+
+     * diskrete-tyd, dit beteken dat oorgang van een toestand na ‘n
+       volgende dieselfde tydeenheid neem.
+
+     * waargeneem in geheuelose ruis, dit beteken dat die opeenvolging van
+       waarnemings waarskynlikheidsgewys slegs afhang van die vorige
+       opeenvolging oorgange.
+
+[wysig] Kyk ook
+
+     * Markovketting
+     * Verborge Markovmodel
+
+[wysig] Verwysings
+
+     * P-E E. Bergner, Dynamics of Markovian Particles; A kinetics of
+       macroscopic particles in open heterogeneous systems , (2005)
+
+   Kategorie: Stogastiese prosesse
+

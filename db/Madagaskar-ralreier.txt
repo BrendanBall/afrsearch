@@ -1,0 +1,97 @@
+Madagaskar-ralreier
+
+
+                 Madagaskar-ralreier
+   Status: Bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ardeola
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. idae
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Ardeola idae
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Madagaskar ralreier (ook genoem die Malgassiese ralreier) is 'n
+   seldsame winterbesoeker wat nie in Suid-Afrika broei nie.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Verspreiding
+        * 3 Ander name
+        * 4 Sien ook
+        * 5 Bronnelys
+
+[wysig] Identifikasie
+
+   Die voël het 'n redelike donker rug en nek met breë, opvallende strepe,
+   wat in vlug skerp by die wit vlerke afsteek. Die kenmerke onderskie hom
+   van die ralreier. Sy groenerige snawel het 'n swart punt en snawelnok.
+   Die algemene lengte van 'n volwasse voël is 47cm.
+
+[wysig] Verspreiding
+
+   Soos die naam aandui is die Madagaskar-ralreier endemies aan
+   Madagaskar. Die voël word ook af en toe in Zimbabwe gesien, maar besoek
+   Mosambiek meer dikwels; word ook gereeld in Oos-Afrika gesien.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Ardeola idae
+     * Engelse naam: Madagascar Squacco of Madagascar Pond-Heron
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Reiers
+

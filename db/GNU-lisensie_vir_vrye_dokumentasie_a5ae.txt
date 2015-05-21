@@ -1,0 +1,26 @@
+GNU-lisensie vir vrye dokumentasie
+
+
+   Vir 'n verwysing na die Afrika-dierspesie gnu, sien die inskrywing vir
+   wildebees.
+   Die GNU-kenteken.
+   Die GNU-kenteken.
+
+   Die GNU/FDL-lisensie is 'n lisensie vir dokumentasie. Die lisensie is
+   gepubliseer deur die Stigting vir Vrye Sagteware. Die inhoud van
+   Wikipedia val onder die voorwaardes van hierdie lisensie.
+
+   Die GNU-deel van die afkorting is 'n rekursiewe akroniem vir GNU's Not
+   Unix. Die res verwys na die Engels vir Vrye Dokumentasie Lisensie.
+
+[wysig] Sien ook
+
+     * Kopiereg
+     * GPL en LGPL
+
+[wysig] Eksterne skakels
+
+     * http://www.gnu.org/copyleft/fdl.html - Die teks van die lisensie
+
+   Kategorie: Rekenaar
+

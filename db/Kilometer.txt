@@ -1,0 +1,24 @@
+Kilometer
+
+
+   'n Kilometer (simbool: km) is 'n eenheid van lengte gelyk aan 1000
+   meter, en is afkomstig van die Griekse woorde khilia, wat duisend
+   beteken, en metro, wat telling of mate beteken. Dit is ongeveer gelyk
+   aan 0.621 myle, 1094 jaart of 3281 voet.
+
+   Unicode het simbole vir "km" (㎞), vierkante kilometer (㎢) en kubieke
+   kilometer (㎦); hulle is net nuttig in CJK tekste waar hulle gelyk in
+   grootte is aan een Chinese karakter.
+
+   hectometer << kilometer << megameter
+
+[wysig] Sien ook
+
+     * 1 E3 m
+     * SI
+     * SI voorvoegsel
+     * ligjaar
+     * parsec
+
+   Kategorie: SI-afgeleide lengte-eenhede
+

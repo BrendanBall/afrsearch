@@ -1,0 +1,47 @@
+Hoek (meetkunde)
+
+
+   "∠", die simbool vir 'n hoek.
+   "∠", die simbool vir 'n hoek.
+
+   In meetkunde en driehoeksmeting, is 'n hoek die beeld wat op 'n plat
+   vlak gevorm word deur twee strale wat 'n gemeenskaplike eindpunt het.
+   Hierdie eindpunt word die verteks van die hoek genoem. Die grootte van
+   die hoek is die "hoeveelheid rotasie" wat die twee strale skei en kan
+   gemeet word deur die lengte van boog te meet wat deur die punt van een
+   straal gevorm word as dit rondom die verteks geroteer word om saam te
+   val met die ander straal.
+
+[wysig] Inleiding
+
+   'n Hoek is 'n dimensielose grootheid wat tradisioneel uitgedruk word in
+   grade (°). 'n Hoek wat 'n hele sirkel vorm se grootte is 360°. As twee
+   strale van 'n hoek loodreg ten opsigte van mekaar staan is die hoek
+   tussen hulle 90°. 'n Graad word onderverdeel in 60 minute (') en 'n
+   minuut kan weer in 60 sekondes (") word. 'n Hoek van 34 grade, 25
+   minute en 16 sekondes word as volg aangedui: 34°25'16". In die
+   SI-stelsel word 'n hoek in radiale gemeet. By die meet van hoeke is die
+   wiskundige eenheid pi (π) belangrik. 'n Sirkel is gelyk aan 2π radiale.
+   In ruimtemeetkunde bestaan daar 'n analoë begrip genaamd ruimtehoek.
+
+[wysig] Geskiedenis
+
+   Hoeke is reeds deur die Babiloniërs (4000 tot 300 vC) bestudeer en
+   gebruik in sterrekunde en boukunde. Die Babiloniërs het 'n
+   getallestelsel gebruik wat op die getal "60" gebaseer was. Die
+   toenmalige wiskundiges het die (3 gelyke) hoeke van 'n gelyksydige
+   driehoek in 60 eenhede verdeel, wat vandag as grade bekend staan. Die
+   graad is toe op soortgelyke wyse verder in 60 minute verdeel en die
+   minute verder in 60 sekondes verdeel.
+
+   Die antieke Grieke het aan die hand van hulle kennis van hoeke reeds
+   die omtrek van die Aarde asook die afstand na die Maan. Pythagoras het
+   aangetoon dat die som van die hoeke in 'n driehoek 180° is.
+     * Die SI-eenheid waarin 'n hoek gemeet word is die radiaal (rad).
+
+   'n Regtehoek = \frac{\pi}{2} rad. 'n Sirkel omvat 2π rad.
+     * Meer dikwels in alledaagse gebruik word die graad (°) gebruik.
+
+   'n Regte hoek = 90°. 'n Sirkel omvat 360°.
+   Kategorie: Meetkunde
+

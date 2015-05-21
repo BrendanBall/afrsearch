@@ -1,0 +1,88 @@
+Waterbok
+
+
+                       Waterbok
+   Bedreigingstatus: Van beskerming afhanklik
+   Tydperk: {{{fossil_range}}}
+   Koei
+   Koei
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bovidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Kobus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     K. ellipsiprymnus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Kobus ellipsiprymnus
+   (Ogilby, 1833)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Waterbok (Kobus ellipsiprymnus) is 'n wildsbok wat voorkom in Wes
+   Afrika, Sentraal Afrika, Oos Afrika en Suider Afrika.
+
+   'n Waterbok is omtrent 100 to 130 cm by skouerhoogte en weeg tussen 160
+   en 240 kilogram. Die vel is rooibruin maar word donkerder met ouderdom.
+   'n Wit 'borslap' is kenmerkend onder die keel asook 'n wit ring om die
+   boude. Net bulle dra horings.
+
+   Waterbokke kom voor in bos en Savanna gebiede, met 'n diet bestaande
+   uit gras. Ondanks die naam 'Waterbok' is hulle nie lief om water binne
+   te gaan nie. Koeie kom soms voor in troppe van twee to seshonderd.
+   Bulle is tetoriaal met areas tot 1.2 km². Bulle verloor gewoonlik hul
+   gebied voor die ouderdom van tien.
+
+   Die Defassa Waterbok is 'n subspesie (Kobus ellipsiprymnus defassa)
+   waar die ring op die boude solied wit is.
+
+[wysig] Galery
+
+   'n Klein trop waterbokke in die Okovango Delta, Augustus 2006.
+
+   Drie waterbokke in die Krugerwildtuin, 2006.
+
+[wysig] Bronnelys
+
+     * Waterbuck (Kobus ellipsiprymnus) facts and photography - Wild
+       Animals Online encyclopedia
+
+   Kategorie: Soogdiere
+

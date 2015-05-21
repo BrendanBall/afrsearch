@@ -1,0 +1,516 @@
+Wikipediabespreking:Rekenaarterme
+
+
+   Mense het my gevra oor rekenaarterme, en ek het so 'n bietjie
+   ondervinding daarmee. Ek wil nie voorgee dat ek die groot outoriteit is
+   nie; soos ek in die artikel sê, daar is reeds soveel swak werk van
+   mense wat goed bedoel, maar nie baie goed doen nie. Ek het die lys
+   sommer begin met enkele van die goeters wat onlangs nodig was, en sal
+   dit miskien probeer bywerk. Hoe gesaghebbend is hierdie lys? Ek probeer
+   om terme wat moontlik nie algemeen aanvaar word nie met iets soos
+   "moontlik" aan te dui of met alternatiewe. Alternatiewe kan ook weer
+   probleme gee omdat dit mense kan verwar. Ek glo almal weet dat ek net
+   die beste vir Afrikaans en Wikipedia wil hê. Hopelik sal hierdie lys
+   ten minste 'n doel dien vir standardisasie binne-in die Afrikaanse
+   Wikipedia. --Alias 07:49, 30 Mei 2006 (UTC)
+
+   Hierdie moet waarskynlik een of ander tyd eerder in 'n tabel wees, maar
+   ek is nou te lui (en het te min tyd). --Alias 07:52, 30 Mei 2006 (UTC)
+
+          Ek is ook van mening dat wikipedia hom nie noodwendig hoef te
+          weerhou by die skep van nuwe woorde nie. In die Engelse wêreld
+          vind nuwe woorde dikwels hul oorsprong in die nywerheid en by
+          Jan Alleman, nie by die woordeboekskrywers en taalkundiges nie.
+          Laasgenoemde benadering tot die skep van woorde vir nuwe
+          begrippe het dikwels die gevolg dat vertalings kwaai geforseerd
+          klink en soms 'n bietjie vebeeldingloos die engelse weergawe van
+          die woord na-aap. Ek voel dus as daar nie bewese literatuur
+          (buiten woordeboeke) bestaan wat die algemene gebruik van 'n
+          woord bevestig nie, dat 'n skrywer hier gerus 'n voorstel ter
+          tafel kan lê. --RM 10:25, 30 Mei 2006 (UTC)
+
+   Inhoud
+
+        * 1 Woonplek
+        * 2 Apparatuur/Hardeware & Programmatuur/Sagteware
+        * 3 Kommentaar op Afrikaans.com, Pharos en ander lyste
+        * 4 Microsoft
+        * 5 Bywerkings
+        * 6 Interleaving
+        * 7 Chipset
+        * 8 Redundancy check
+        * 9 Terme wat vertalings kort
+        * 10 Delete en Undelete
+
+[wysig] Woonplek
+
+   Is dit 'n diskwalifikasie of 'n probleem as iemand "... nie meer in die
+   RSA woon nie ..."? Indien nié, en ek vermoed sterk dat dit nie so
+   neerhalend bedoel is wat dit kan voorkom nie, het daardie betrokke
+   sinsbou 'n bietjie van 'n probleem, veral aangesien die hele sin tog
+   inklusief is: die vrywilliger WOON nie meer nie, PRAAT nie meer nie, is
+   NIE BETROKKE nie, en WEET nie eers OM TE SPEL nie. Tesame 'n
+   indrukwekkende lys van 'n vrot vrywilliger. Gelukkig praat jy van
+   diegene wat al programme vertaal het en nie die vrywilligers van
+   Wikipedia nie, nê? :-) --Nomdeplume 13:46, 30 Mei 2006 (UTC)
+
+          Jammer. Ek probeer om 'n klomp goeters te sê en het baie min tyd
+          op die oomblik. Ek het dalk 'n bietjie meegevoer geraak.
+          Verbeter dit gerus om dit mild te stel. Waar iemand woon het
+          natuurlik niks met enigiets te doen nie, maar ek is bevrees 'n
+          paar van ons vriende wat kombuisgereedskap rondgooi (net as
+          voorbeeld) (en dit waarskynlik kan doen omdat hulle buite die
+          land is) sal nie meer almal die AWS kan dikteer nie, om dit nou
+          so te sê. Ek is maar net bietjie gefrustreerd met kwaliteit in
+          ongekoördineerde Afrikaanse pogings en die swak Afrikaans wat
+          deesdae oral voorkom. Eks bevrees dat selfs hierdie
+          terminologiepoging van my dalk 'n paar ander mense gaan
+          irriteer. --Alias 13:53, 30 Mei 2006 (UTC)
+          Vir leidrade om hierdie te interpreteer, sien
+          Wikpedia:Bladsyverwydering. --Alias 13:57, 30 Mei 2006 (UTC)
+
+                Alias, eintlik het ek geterg. Ek is nie eers mooi seker
+                hoe om dáái sin te versag sonder om die gefrustreerde hart
+                daaragter te verraai nie. Jy is SO reg, dis 'n honderd
+                jaar of wat later, al weer net Engels, Engels wat ons
+                hoor. Miskien het niks in die honderd jaar verander
+                nie? :-) Jou werk word waardeer, en jou frustrasie met
+                swak kwaliteit gedeel. --Nomdeplume 14:04, 30 Mei 2006
+                (UTC)
+
+[wysig] Apparatuur/Hardeware & Programmatuur/Sagteware
+
+   Hi Alias - jou redenasie oor die gebruik van sagteware en hardeware
+   maak sin, maar Apparatuur en Programmatuur is tog sekerlik ten minste
+   nog geldige wisselvorme. Ek sou darem kwaai oor die vingers getik word
+   as ek van sagteware en hardeware gepraat het en die inhibisie bly maar
+   by mens... Laurens 17:40, 30 Mei 2006 (UTC)
+
+          Ek wil my woorde versigtig kies, want ek wil nie voorgee om die
+          groot meester te wees nie. Mens kan sekerlik sê dat
+          programmatuur en apparatuur goeie woorde is - dit laat my nie
+          gril nie. Maar daar is die probleem wat ek genoem het. Ek dink
+          ook dit is verwarrend om die gebruik te meng. Aangesien ons 'n
+          volledige ensiklopedie skryf, gaan ons uiteindelik hierdie
+          ..tuur-woorde met die --ware-woorde begin meng. Dus stel ek voor
+          dat ons deurgans die --ware-vorms gebruik ter wille van
+          konsekwentheid. Sagteware en hardeware kan definitief die ander
+          terme noem, soos dit reeds doen, maar dit is my voorstel dat ons
+          dit nie andersins gebruik nie, aangesien ons definitief die
+          konflik gaan teenkom een of ander tyd. Stem ons saam oor die
+          beginsel van konsekwente gebruik? --Alias 20:04, 30 Mei 2006
+          (UTC)
+
+                Ek is minder besorg oor die konsekwente gebruik van die
+                terme as albei aanvaarde korrekte woorde is - daar is tog
+                baie ander konsepte met veelvuldige name - kar/motor,
+                garage/motorhuis ens. Dis seker 'n styl aangeleentheid.
+                Ons kan dalk 'n wikipedia voorkeur spesifiseer. Ek is meer
+                bekommerd oor gevalle waar daar 'n duidelik beter
+                Afrikaans weergawe is soos Sjina eerder as China,
+                verkiesing eerder as eleksie (paar maande gelede
+                laasgenoemde gereeld op Beeld plakate gesien). Ek deel ook
+                Van Zyl Slabbert se bekommernis oor mense wat die woord
+                awesome (Soos in dit was 'n awesome game) gebruik - dis
+                selfs in Engels 'n simpel woord. Dis seker nou nie meer
+                relevant tot die bespreking nie maar nou het ek dit gesê
+                en voel beter daaroor... Laurens 06:29, 31 Mei 2006 (UTC)
+
+[wysig] Kommentaar op Afrikaans.com, Pharos en ander lyste
+
+   Hi Alias,
+
+   Ek dink dit sal dalk nuttig wees as jy bietjie na die lyste kyk en jou
+   mening uitspreek oor gevalle waar die lyste die pad byster geraak het -
+   of waar jy met hulle ooreen stem. Ongelukkig kan ons hulle seker nie
+   sommermeer kopieer en dan verbeter nie.
+
+   Afrikaanse rekenaar- en Internetterme en Werkgroep vir Afrikaanse
+   IT-terme
+
+   Laurens 17:48, 30 Mei 2006 (UTC)
+     * Ja, ek glo ek is darem bewus van meeste van hierdie goeters. Ek glo
+       baie daarvan is nuttig, maar ek dink nie die proses gee 'n waarborg
+       vir goeie kwaliteit nie. Ek vermoet die skakel vir die werkgroep is
+       verouderd, maar nie seker nie. Hulle werk nou met 'n yahoo-groep en
+       jy moet omtrent op jou kop staan om daarby aan te sluit (soos ek
+       dit onthou, dit is seker nie so erg nie.). Ek vermoet die werkgroep
+       se lys is gebaseer op die een van die Stigting vir Afrikaans (kyk
+       na die kopieregdatum) en sal waarskynlik dit alles insluit. Die
+       Stigting se lys noem byvoorbeeld nie eens "webwerf" vir "website"
+       nie (kan dalk bloot die ouderdom van die lys wees). Ek het
+       ongelukkig enkele van die besprekings dopgehou van die werkgroep en
+       het tot die gevolgtrekking gekom dat kwaliteit nie gewaarborg is
+       nie, en dat wisselvorme sommermeer gelys sal word. Moet my
+       asseblief nie verkeerd verstaan nie - ek glo hulle doen belangrike
+       en goeie werk. Maar dit is nog nie op die vlak van 'n goeie
+       voorskriftelike woordeboek nie. Dit is natuurlik veels te maklik
+       vir my om van die kantlyn af te skree, en ek klink vir myself nogal
+       arogant, maar aangesien hierdie dinge is waarmee ek nogal kontak
+       het, is die wonde soms bietjie teer :-) --Alias 20:06, 30 Mei 2006
+       (UTC)
+
+[wysig] Microsoft
+
+   Wat betreft die vraagstelling die die artikel skep met Microsoft: My
+   ervaring met die Nederlandse vertalinge van Microsoft is behoorlik
+   positief. In teënstelling tot baie oopbronsagteware word die vertaling
+   nie uitgevoer deur programmeurs nie, maar deur beroepsvertalers. 'n
+   Vertaling is volledig: die gehele koppelvlak, alle helplêers word
+   vertaal, maar ook interne berigte wat 'n gebruiker normaal nie so
+   eenvoudig te sien kryg nie. Die spel- en grammatikatoetser van die
+   Nederlandse Word is geavanseerder dan die wat aanwesig is in die
+   Engelse weergawe. Wat betref terminologie kies Microsoft altyd vir
+   taaleie woorde, ook al is hulle nog nie ingeburger nie.
+
+   Microsoft kan ook 'n aantal suksesse op sy naam skryf: In die jare '80
+   was daar byvoorbeeld 'n flinke "stryd" tussen die woorde "file" en sy
+   Nederlandse tëenhanger "bestand". Vandag het "file" volledig uitgesterf
+   en ek dink die beleid van Microsoft om ooral bestand te gebruik het
+   hier 'n bydrae aangelewer. Op andere punte is Microsoft minder
+   suksesvol, "driver" word in die daaglikse praktyk nog baie gebruik
+   ondanks dat Microsoft altyd "stuurprogramma" gebruik.
+
+   Dit kan soms ook omgekeerd werk, 'n daar is sedert enkele jare 'n
+   Nederlands woord vir "web site", naamlik "webstek". Microsoft's
+   sagteware gebruik egter nog altyd "website", wat die akseptasie van die
+   nuwe woord teënwerk.
+
+   Al by al wou ek dat ek ook op andere punte so positief oor Microsoft
+   kon wees :)
+
+   Danielm 18:07, 30 Mei 2006 (UTC)
+
+[wysig] Bywerkings
+
+   Bietjie kommentaar oor bywerkings:
+     * Lees-skryf-geheue word gebruik in kontras met leesalleengeheue en
+       is dus (mynsinsiens) iets heeltemal anders as ewetoeganklike
+       geheue. 'n Magneetband kan gelees en geskryf word, maar is nie
+       ewetoeganklik nie.
+          + Jy is natuurlik streng gesproke krorrek, maar ek is redelik
+            seker dat ek in my jong dae geleer is dat die goed wat in
+            Engels RAM genoem word in Afrikaans LSG was. Jy het dit nou
+            uit die kommentaar gehaal. Ek dink dit sou beter wees om jou
+            verduideliking hierbo in die kommentaar kolom te plaas. Die
+            kommentaar kolom kan sorg dat ons lys hier sommer gou meer
+            waarde as die ander lyste het waar mens nie die rasionaal en
+            ander konteks geredelik beskikbaar het nie. Ek is redelik
+            seker dat wanneer na RAM verwys word eintlik gewoonlik na die
+            lees-skryf-vermoë verwys word eerder as die toegang mode - al
+            is dit nie tegniese die bedoeling nie. Laurens 06:19, 31 Mei
+            2006 (UTC)
+               o Ja. Pas in 'n ou skoolhandboek gesien dat hulle van LSG
+                 gepraat het. Eish, ek wonder of dit steeds so gebruik
+                 word. Dan moet ons dit so in die lys noem (kommentaar).
+                 Stem ons dus saam dat ons slegs ETG sal gebruik en
+                 aanbeveel, maar dat LSG vir waardetoevoeging genoem word
+                 in die kommentaar? Oor die waardetoevoeging - nou praat
+                 ons! Konteks is alles. Vertalers kan nie alles van die
+                 tegnologie verstaan nie. Só kan ons die vertalers werklik
+                 help. Dateer hierdie gerus op soos wat jy voorstel.
+                 --Alias 06:45, 31 Mei 2006 (UTC)
+     * FLOSS: Hierdie term behoort nie gebruik te word om na Vrye
+       Sagteware te verwys nie en moet ook nie gelykgestel word nie.
+       Stallman hou spesifiek nié van die term "Oopbronsagteware" nie,
+       omdat dit die fokus van die vryhede af wegneem. Soos ek van een van
+       sy toesprake verstaan, beveel hy die term aan vir "resensente" wat
+       wil neutraal wil skryf oor beide die Vrye Sagtewarebeweging en die
+       Oopbronbeweging sonder om kant te kies. Dit is dus 'n oorkoepelende
+       term en nie uitruilbaar met Vrye Sagteware of Oopbronsagteware nie.
+       -- Alias 20:15, 30 Mei 2006 (UTC)
+          + Jy is reg - ek het dit ingebring ter interessantheid en na
+            Voyager Libre Software met die volledige Franse term vervang
+            het - gesoek na 'n manier om die Engelse gebruik van die
+            Franse woord te illustreer. Ek hou egter van hoe jy dit
+            verander het. Laurens 06:19, 31 Mei 2006 (UTC)
+               o Ja, ek het reeds drooggemaak met die Franse aanname. Dit
+                 is hoe maklik valshede versprei. --Alias 06:45, 31 Mei
+                 2006 (UTC)
+
+[wysig] Interleaving
+
+   Ek is op soek na 'n geskikte vertaling van die interleaving proses soos
+   dit op rekenaars betrekking het. Interleaving is die proses waar data
+   nie in volgorde versend word nie sodat veelvuldige bisfoute omgeskakel
+   word na enkelbisfoute in 'n string data en sodoende deur 'n
+   foutregstellende kode (bv. Hamming kode) reggestel kan word. Enige
+   voorstelle? --RM 06:33, 31 Mei 2006 (UTC)
+
+          Pharos se gewone woordeboek praat van interpagineer en deurskiet
+          (met tussenblaaie) vir die werkwoord en tussenblad vir die
+          s.n.w. Dit is waarskynlik nie met verwysing na die rekenaarterm
+          nie. Laurens 06:38, 31 Mei 2006 (UTC)
+
+                Die werkgroep vir IT terme se vertaling is ineenvleg,
+                tussenvleg, formateer met afwisseling. Ineenvleg en
+                tussenvleg klink beide vir my goed. Dalk is tussenvleg
+                meer beskrywend. Tussengevleg? Laurens 06:41, 31 Mei 2006
+                (UTC)
+                "interpagineer" is ongelukkig van daardie woorde wat
+                omgekeerde peristalse in sekere van my organe
+                stimuleer. :-) --Alias 06:51, 31 Mei 2006 (UTC)
+
+                      Ek stem. Laurens 16:35, 31 Mei 2006 (UTC)
+                      Ek sit nou hier en lag lekker oor jou uitdrukking,
+                      Alias! --Nomdeplume 18:50, 31 Mei 2006 (UTC)
+
+          Rekenaarwoordeboek gee "interleave: invlegging (metode om
+          multiprogrammering te implementeer)" en "interleaving memory:
+          invleggeheue" Klink baie netjies vir my. Dus "the interleaving
+          of memory" -> "die invleg van geheue". "ineenvleg" klink asof
+          mens dit bloot probeer saam kry, terwyl mens dit eintlik
+          soortvan probeer "skei" in 'n sekere sin. --Alias 06:51, 31 Mei
+          2006 (UTC)
+
+                Klink vir my goed - is interleaved dan ingevleg of het ons
+                dit nie nodig nie? Laurens 16:35, 31 Mei 2006 (UTC)
+
+[wysig] Chipset
+
+   Ek kry geen literatuur wat vir my 'n aanduiding gee hoe om chipset te
+   vertaal nie. Mikroskyfstel? --RM 10:17, 31 Mei 2006 (UTC)
+
+          Is 'n chip nie 'n vlokkie nie - of is ek nou weer outyds?
+          Laurens 16:37, 31 Mei 2006 (UTC)
+
+                Ek sien die WAITT woordlys gee: ((n)) mikroskyfie, skyfie,
+                tjip [dg2 1 blokkie (komponent), ponsbrokkie, vlokkie
+                (kringbaan). gwb.] vir chip. En my voorkeur vir vlokkie is
+                oënskynlik 'n provinsiale aangeleentheied - sien die IT
+                web artikel . So as jy van die Kaap kom is dit seker 'n
+                skyfiestel en hier bo is dit 'n vlokkiestel. Ek moet egter
+                sê as ek aan 'n vlokkie dink, dink ek aan die rou stukkie
+                onverpakte silikon eerder as die goed wat jy sien as jy
+                jou rekenaar oop maak. Laurens 16:47, 31 Mei 2006 (UTC)
+
+[wysig] Redundancy check
+
+     * Oortolligheidstoets
+     * Rugsteunversekeringstoets
+     * As daar van CRC gepraat word (cyclic redundancy check), kan mens
+       ook sommer "CRC" gebruik. --Alias 12:24, 7 Junie 2006 (UTC)
+
+[wysig] Terme wat vertalings kort
+
+     * Look and feel -
+          + NL: Uiterlijk en gedrag
+          + Wat van Voorkoms en gedrag?
+     * software componentry -
+     * Object request broker -
+     * undermaintained
+          + NL: onderhoudsgebrek
+          + swak ondersteunde?
+          + miskien eerder 'n omskrywing in die lyn van "wat nie goed
+            onderhou word nie" --Alias 12:24, 7 Junie 2006 (UTC)
+     * interoperability
+
+                Ek stel voor bedryfsversoenbaar, bedryfsversoenbaarheid.
+
+     *
+          + NL: interoperabiliteit
+     * skin - die Pharos lys gee vel, baadjie, omslag (dus miskien
+       bladbaadjie?)
+
+     * instant messenger - kitsboodskapper?
+     * bugfix releases - herstelwerkuitgawes?
+     * Human Interface - Menslike Koppelvlak? Mens-masjiengeselspunt?
+          + NL: Niet letterlijk, maar verwant: "mens-/machineinteractie"
+     * Spatial file manager - Ruimtelike lêerbeheerder?
+     * drive mounter - ?
+          + NL: to mount = aankoppelen / to unmount = afkoppelen
+     * trashcan - vullisblik?
+          + NL: Prullenbak
+          + Gebruik wat die projek gebruik indien moontlik. --Alias 06:48,
+            1 Junie 2006 (UTC)
+     * deskbar - ?
+          + NL: Werkbalk
+          + Wat is 'n deskbar? --Alias 06:48, 1 Junie 2006 (UTC)
+               o Oude versies van Microsoft Office (95/97) installeren een
+                 werkbalk zodat je Word, Excel, e.d. direct vanaf je
+                 bureaublad kan starten. Danielm 09:44, 1 Junie 2006 (UTC)
+     * lockdown (soos in lockdown editor) -
+          + Microsoft gebruikt "groepsbeleidbeheerder" in Windows Server
+            2003 (vertaling van "group policy editor")
+     * Scripting programming language -
+          + NL:Scripttaal
+          + Ek het al "skriptaal" gesien - nie mal daaroor nie, maar word
+            gebruik. Oorweeg "geïnterpreteerde taal" as dit bloot is
+            waaroor dit gaan. --Alias 06:48, 1 Junie 2006 (UTC)
+     * Source code repository - bronkode bewaarplek?
+          + NL: broncodebewaarplaats
+          + miskien bronkodestoor? --Alias 12:24, 7 Junie 2006 (UTC)
+     * Stateless, Statefull
+          + NL: Staatloos
+          + miskien is "toestand" is die woord waarmee gewerk moet word.
+     * support community - steungemeenskap?
+          + klink goed, miskien ook ondersteuningsgemeenskap --Alias
+            12:24, 7 Junie 2006 (UTC)
+          + NL: ondersteuningsgemeenschap
+     * features - eienskappe?
+          + NL: Eigenschappen
+     * feature set - ?
+     * CD images - ?
+          + Miskien kan mens van .iso-lêers praat as dit is wat bedoel
+            word. --Alias 12:24, 7 Junie 2006 (UTC)
+               o .ISO is `n soort image soos .cue .nrg .mdf ens.
+     * backport (kyk en:backport) - ?
+
+   Soms kan mens oorweeg om eerder 'n omskrywing te gebruik as om 'n
+   enkele term te gebruik. --Alias 06:48, 1 Junie 2006 (UTC)
+     * Fork - soos in vrye sagteware, sou vertakking nie 'n beter
+       vertaling wees as vurk nie? --RM 00:13, 4 Junie 2006 (UTC)
+          + Ek dink jy is reg - ek sal Ubuntu Linux verander om dit te
+            gebruik. Laurens 06:45, 4 Junie 2006 (UTC)
+          + 'n Vertakking sal verwar word met 'n "branch". 'n Vertakking
+            insinueer 'n stam wat aanhou, terwyl 'n vurk twee stamme
+            veronderstel. Ek dink vurk is dalk die beste. Die
+            rekenaarwoordeboek gee "vertak" met spesifieke vewysing na
+            datakommunikasie as verwysing. Ek verstaan nie dit duidelik
+            nie. Ek weet ook nie of die hele idee van 'n vurk al bestaan
+            het toe die woordeboek gepubliseer is nie (1985). --Alias
+            12:24, 7 Junie 2006 (UTC)
+     * closed-source - toekode of hou ons meer van geslotekode
+          + NL: Gesloten bron
+     * proprietary media formats - eiendoms werk nie vir my so mooi in die
+       geval nie. Ons het iets meer keratief nodig wat vir sagteware,
+       formate ens gaan werk.
+
+                Ek stel voor ons gebruik uitsluitlike besitreg. Media
+                formate met uitsluitlike besitreg om aan te dui dat die
+                "eienaar" van die sagteware die reg het om ander uit te
+                sluit soos in die geval van Patente.
+
+                      Dit is onjuis, byvoorbeeld die "Microsoft
+                      Word"-indeling is propriëtêr, maar Microsoft het
+                      geen regte andere sagtewareaanbieder uit te sluit
+                      dit te gebruik. Danielm 11:24, 4 Junie 2006 (UTC)
+
+                            Nie so seker dis onjuis nie: Engelse wiki
+                            definieer dit as volg: Proprietary indicates
+                            that a party, or proprietor, exercises private
+                            ownership, control or use over an item of
+                            property, usually to the exclusion of other
+                            parties. Dalk is die Microsoft Word formaat
+                            nie meer proprietary nie? Sekerlik behou
+                            Microsoft sekere regte tot uitsluiting op die
+                            formaat? Miskien kan u verduidelik hoe dit
+                            gebeur dat Microsoft Word hul regte op die
+                            formaat verloor het, of het hulle dit
+                            vrygestel in welke geval proprietary nie meer
+                            van toepassing is nie? --RM 17:56, 4 Junie
+                            2006 (UTC)
+
+                                  Die reden is eenvoudig, daar bestaan
+                                  geen outeursregtelike beskerming op 'n
+                                  lêerindeling nie. Alleen 'n patent kan
+                                  implementasie deur 'n derde party
+                                  verhinder. Dit is nie die geval nie, dus
+                                  kan Microsoft geen regte uitoefen nie op
+                                  andere partye wat dit implementeer nie.
+                                  Dit word egter 'n propriëtêre indeling
+                                  genoem omdat grote dele van die indeling
+                                  slegs deur reverse engineering (het nog
+                                  nog 'n vertaling nodig :) ) bekend is en
+                                  Microsoft die Wordindeling in eie beheer
+                                  deurontwikkel. Danielm 21:34, 4 Junie
+                                  2006 (UTC)
+
+     * reverse engineering - my Pharos praat van ontmanteling vir
+       omgekeerde ontwikkelingswerk waar dit om programkodes handel.
+       Laurens 20:27, 5 Junie 2006 (UTC)
+     * native - soos in native Linux API calls?
+          + NL: Eurodicautom geef "naturel-code" en "naturel-compiler" vir
+            "native code" en "native compiler". Hoewel dit in inderdaad
+            bruikbare vertalinge is, klink dit tog 'n bietjie vreemd.
+            Danielm 09:17, 4 Junie 2006 (UTC)
+          + miskien 'n omskrywing met "eie"? --Alias 12:24, 7 Junie 2006
+            (UTC)
+               o Kuberwoordeboek van Prof Viljoen et. al. gee moederkode
+                 vir native code en in in ander gevalle gebruik hulle
+                 samestellings met "eie" soos Alias hierbo noem - soos in
+                 verwerkereie - mens kan seker Linux-eie ook gebruik?
+                 --198.54.202.74 07:22, 9 Mei 2008 (UTC)
+
+     * revision control - ?
+          + NL:Versiebeheer
+          + Ek sou sê "weergawebeheer"
+
+   Newsfeed
+
+          Wat van eenvoudig nuusvoer
+
+     * Relational Database - ?
+          + Relasionele databasis --Alias 09:22, 15 Januarie 2007 (UTC)
+
+     * Screenshot.
+          + Ek sou dink "skermskoot", maar dit klink bietjie seer op die
+            oor. Wat dink julle? — Adriaan (S★B) 13:10, 12 September 2007
+            (UTC)
+          + Wat van skermkiekie? Frank
+
+     * Pointing-device (soos 'n muis).
+          + Uitwystoestel is al waaraan ek kan dink. Frank 16:20, 21
+            September 2007 (UTC)
+
+     * Interpreter + Interpreted Language
+          + Ek sien die gebruiker van 'vertaler' vir compiler en hou
+            daarvan, maar interpreteerder klink snaaks. Enige idees? Is
+            daar al iets amptelik? EbenRoux 09:01, 17 November 2007 (UTC)
+
+     * Assembly Code?
+          + Wel, assembly language is saamsteltaal, so assembly code is
+            seker saamstelkode.
+
+     * GPU (Graphics Proccesing unit?
+          + Wat van "grafikaverwerkingseenheid, of as dit makliker werk,
+            "verwerkingseenheid vir grafika"? --Alias (kontak) 12:29, 15
+            Mei 2008 (UTC)
+
+     * Game Engine / Physx Engine
+          + Dalk "spel-enjin" of fisika-enjin? as "physx" 'n
+            handelsmerk/produknaam is, dalk physx-enjin. --Alias (kontak)
+            12:29, 15 Mei 2008 (UTC)
+
+     * SDK (Software development kit)?
+          + sagteware-ontwikkelingstel of dalk sommer net
+            ontwikkelingsprogramme (dink oor wat die sin probeer sê).
+            --Alias (kontak) 12:29, 15 Mei 2008 (UTC)
+
+[wysig] Delete en Undelete
+
+   Ek is besig met Wikimedia vertalings en sukkel met die vertaling van
+   "delete" en "undelete". Na 'n paar soektogte wil ek die volgende
+   vertalings voorstel:
+     * delete -> wis / uitwis
+     * undelete -> ontwis
+
+   Julle idees?
+
+          Uit die Pharos en die rekenaarwoordeboeke wat ek het kan ek die
+          volgende idees voorstel:
+
+          + delete -> skrap / wis (ons gebruik "skrap" in die
+            WP-koppelvlak)
+          + undelete -> herstel/ ontskrap / *ontwis
+
+          Die "skrap" is die enigste een wat in al drie voorkom. Ontwis
+          het ek nie gesien nie, maar as mens "wis" het... Anrie (kontak)
+          14:52, 19 Mei 2008 (UTC)
+
+                As ek dit nie mis het nie, word "skrap" en "ontskrap"
+                elders gebruik. "Ontskrap" klink maar bietjie snaaks
+                (omtrent net so snaaks soos "undelete") - dis natuurlik
+                iets wat ongekend was voor die koms van rekenaars, raai
+                ek. Dis kort, die positief en die negatief koppel mooi aan
+                mekaar, en dit vertaal goed terug na die Engels. Dus dink
+                ek dis redelik veilig . --15:23, 19 Mei 2008 (UTC)
+
+   Hmm ...
+     * Delete -> Skrap - kan werk
+     * Undelete -> Ontskrap - kan werk
+
+   Ons kan dan die wis/ontwis laat vaar. Ek wil nie graag herstel gebruik
+   nie a.g.v. die koppeling aan "restore".Arnobarnard (kontak) 15:25, 19
+   Mei 2008 (UTC)
+

@@ -1,0 +1,117 @@
+Ultraklank
+
+
+   'n Baba in sy ma se baarmoeder, soos gesien deur 'n sonogram
+   'n Baba in sy ma se baarmoeder, soos gesien deur 'n sonogram
+
+   Ultraklank is klank met 'n frekwensie hoër as die boonste
+   hoorbaarheidsgrens van die mens, rondom 20 kilohertz/20 000 hertz.
+   Sommige diere, soos honde, dolfyne, vlermuise en muise het 'n boonste
+   hoorbaarheidsgrens wat baie hoër is as dié van die mens en kan hulle
+   dus ultraklank ook hoor. Kinders kan sommige hoë-frekwensie klanke hoor
+   wat volwassenes nie kan hoor nie, aangesien die boonste hoorgrens laer
+   word met ouderdom.
+
+   Inhoud
+
+        * 1 Geneeskundige sonografie
+        * 2 Ander geneeskundige aanwendings
+        * 3 Industriële sonografie
+        * 4 Ultraklank skoonmaaktegnieke
+        * 5 Verwildering van peste
+        * 6 Ultrasoniese disintegrasie
+        * 7 Ander gebruike
+        * 8 Sien ook
+        * 9 Eksterne skakels
+
+[wysig] Geneeskundige sonografie
+
+   Geneeskundige ultrasonografie (sonografie) is 'n ultraklank gebasseerde
+   diagnostiese beeldverwerkingstegnieke wat gebruik word om spiere en
+   interne organe en ander interne organe te visualiseer om hulle grootte,
+   struktuur en enige "patologiese letsels" vas te stel. "Verloskundige"
+   sonografie word algemeen gebruik tydens swangerskap.
+
+[wysig] Ander geneeskundige aanwendings
+
+   Ultraklank vind ook ander terapeutiese toepassings:-
+     * Die behandeling van kwaadaardige asook nie-kwaadaardige gewasse en
+       ander afwykings deur 'n proses wat bekends staan as Gefokusde
+       Ultraklank Chirurgie of Hoë Intensiteit Gefokusde Ultraklank.
+       Hierdie prosedures gebruik in die algemeen laer frekwensies as
+       mediese diagnostiese ultraklank, maar beduidend hoër intensiteite
+       (~500 kHz tot 2 Mhz).
+     * Kragtiger ultraklank bronne kan gebruik word om tande skoon te maak
+       vir mondhigiëne of om plaaslike verhitting van biologiese weefsels
+       te bewerkstellig, soos in fisioterapie en eksperimentele
+       kankerbehandeling.
+     * Gefokusde ultraklank bronne word ook gebruik nierstene op te breek
+       of in katarakbehandeling.
+
+[wysig] Industriële sonografie
+
+   Ultraklank word ook gebruik in die staalvervaardigingsnywerheid om
+   foute in die metaal en sweisnate van drukvate en pype op te spoor. Die
+   voordele van die tegnieke is dat dit nie die vernietiging van die
+   monster vereis nie.
+
+[wysig] Ultraklank skoonmaaktegnieke
+
+   Ultrasoniese skoonmakers gebruik klankfrekwensies tussen 20-40 kHz om
+   juweliersware, lense en ander optiese toerusting, horlosies,
+   tandheelkundige instrumente, snykundige instrumente,
+   laboratoriumtoerusting en ander industriële onderdele skoon te maak.
+   Die skoonmaakmeganisme berus hoofsaaklik op die mikroskopiese kavitasie
+   wat in die vloeistof binne in die skoonmaker ontstaan.
+
+[wysig] Verwildering van peste
+
+   Ultraklank bronne/luidspreker stelsels word bemark en beweer dat hulle
+   rotte, muise en insekte verwilder, maar daar is egter geen
+   wetenskaplike bewys dat hulle werk nie; beheerde toetse het getoon dat
+   rotte en muise vinnig leer dat die luidsprekers skadeloos is.
+
+[wysig] Ultrasoniese disintegrasie
+
+   Sommige soorte ultraklank kan biologiese selle laat disintegreer
+   insluitend sommige bakterieë. Die verskynsel vind toepassing in
+   biologiese studies en die doodmaak van bakterieë in riool. Sien
+   byvoorbeeld:-
+     * http://www.sanyogallenkamp.com/proddetail.asp?prodid=236
+     * http://www.iwaponline.com/wst/04209/wst042090073.htm
+
+[wysig] Ander gebruike
+
+   Ultraklank kan onder sekere omstandighede eksotiese verskynsels teweeg
+   bring soos die uitstraling van lig vanuit 'n medium wat aan die
+   ultraklank blootgestel is. Hierdie verskynsels is ondersoek deels
+   vanweë die moontlikheid van borrelfusie ('n hipotese bestaan dat 'n
+   kernfusie reaksie plaasvind tydens sonoluminesensie ).
+
+   'n Algemene gebruik van ultraklank is vir afstandbepaling. Die basiese
+   beginsel waarop hierdie toepassing berus is dat wanneer die
+   ultrasoniese puls in 'n sekere rigting versend word dit terugreflekteer
+   vanaf 'n voorwerp in die pad van die golf en die sender kan dan die
+   eggo bespeur en die afstand tot die voorwerp bepaal vanuit die
+   tydsinterval tussen die versending van die puls en die terugkeer van
+   die puls by die versender.
+
+   Vlermuise gebruik egospeuring om hulle prooi op te spoor. Sonar is ook
+   'n ander gebruik van ultraklank.
+
+[wysig] Sien ook
+
+     * Hondefluitjie
+     * Infraklank (klank by uiters lae frekwensies)
+     * Lig
+     * Fisika
+
+[wysig] Eksterne skakels
+
+     * Mediese Ingenieurswese – Kliniese gebruik van Ultraklank om
+       bloedvloei te verbeter
+     * Ultraklank Toerusting vanaf Siemens Medical
+     * Artikel oor die gebruik van Ultraklank in fisioterapie
+
+   Kategorieë: Fisika • Akoestiek
+

@@ -1,0 +1,257 @@
+Chloor
+
+
+
+                          swael – chloor – argon
+             F
+            Cl
+            Br
+
+
+              Chloor in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal Chloor, Cl, 17
+                                                   Chemiese reeks halogene
+                                     Groep, Periode, Blok 17 (VIIA), 3 , p
+                                     Digtheid, Hardheid 3.214 kg/m^3 , NVT
+                                                    Voorkoms gelerig groen
+                                                           Atoomeienskappe
+                                                     Atoomgewig 35.453 ame
+                                            Atoomradius (ber.) 100 (79) pm
+                                                    Kovalente radius 99 pm
+                                                van-der-Waalsradius 175 pm
+                                        Elektronkonfigurasie [Ne]3s^2 3p^5
+                                           e^− e per energievlak 2, 8, 7
+                        Oksidasietoestande (Oksied) ±1,3,5,7 (sterk suur)
+                                              Kristalstruktuur ortorombies
+                                                        Fisiese eienskappe
+                                  Toestand van materie gas (nie-magneties)
+                                           Smeltpunt 171.6 K (-101.55 °C)
+                                            Kookpunt 239.11 K (-34.04 °C)
+                                             Verdampingswarmte 10.2 kJ/mol
+                                              Smeltingswarmte 3.203 kJ/mol
+                                                          Dampdruk 1300 Pa
+                                                 Spoed van klank Geen Data
+                                                                  Algemeen
+                                  Elektronegatiwiteit 3.16 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 480 J/(kg*K)
+                                    Elektriese geleidingsvermoë geen data
+                                 Termiese geleidingsvermoë 0.0089 W/(m*K)
+                                   1^ste ionisasiepotentiaal 1251.2 kJ/mol
+                                      2^de ionisasiepotentiaal 2298 kJ/mol
+                                      3^de ionisasiepotentiaal 3822 kJ/mol
+                                    4^de ionisasiepotentiaal 5158.6 kJ/mol
+                                      5^de ionisasiepotentiaal 6542 kJ/mol
+                                      6^de ionisasiepotensiaal 9362 kJ/mol
+                                     7^de ionisasiepotensiaal 11018 kJ/mol
+                                    8^ste ionisasiepotensiaal 33604 kJ/mol
+                                     9^de ionisasiepotensiaal 38600 kJ/mol
+                                    10^de ionisasiepotensiaal 43961 kJ/mol
+                                                     Mees stabiele isotope
+
+                               iso    NV    halfleeftyd  VM  VE MeV
+                                                            [nie SI]  VP
+                              ^35Cl 75.77'% Cl is stabiel met 18 neutrone
+                              ^36Cl sin.    301,000 y   β^-
+                                                        ε   0.709
+                                                            1.142    ^36Ar
+                                                                     ^36S
+                              ^37Cl 24.23%  Cl is stabiel met 20 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Chloor (vanuit die Grieks Chloros, wat "bleekgroen" beteken), is die
+   chemiese element in die periodieke tabel met die atoomgetal 17 en
+   simbool Cl. Dit is 'n halogeen en word in groep 17 gevind. Chloorgas is
+   'n groenerige geel gas en is twee keer swaarder as lug, dit het 'n
+   intense onwelkriekende verstikkende reuk en is uiters giftig. Dit is 'n
+   kragtige oksideer-, bleik- en ontsmettingsmiddel. In verbinding met
+   tafelsout en baie ander stowwe, is dit oral in oorvloed in die natuur
+   te vinde en is 'n lewensnoodsaaklike element.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Vervaardiging
+             + 8.1 Kwiksel-elektrolise
+             + 8.2 Diafragmaselelektrolise
+             + 8.3 Membraanselelektrolise
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Die suiwer chemiese element het die fisiese vorm van 'n diatomiese
+   groen gas. Die naam chloor is afgelei vanuit die Griekse woord chloros
+   wat groen beteken en verwys juis na die gas se kleur.
+
+   Die element is 'n lid van die soutvormende halogeenreeks en word verkry
+   vanuit die chloriedsoute deur middel van oksidasie en meer algemeen met
+   behulp van elektrolise. Chloor is 'n groenerige geel gas wat geredelik
+   verbindings met byna al die ander elemente vorm. Teen 10 °C sal een
+   liter water 3.10 liter chloor oplos maar teen 30 °C sal slegs 1.77
+   liters in water oplos.
+
+[wysig] Aanwendings
+
+   Chloor is 'n belangrike chemikalie in watersuiwering, in
+   ontsmettingsmiddels asook bleikmiddels en kom ook voor in mosterdgas.
+
+   Chloor word ook gebruik in die vervaardiging van baie alledaagse
+   artikels.
+     * Word (in the vorm van hypochlorigsuur) gebruik om bakterieë en
+       ander mikrobe in drinkwater en swembaddens dood te maak.
+
+     * Word algemeen gebruik tydens die vervaardiging van papier,
+       ontsmettingsmiddels, kleurstowwe, voedsel, insekdoders, verwe,
+       petroleumprodukte, plastieke, medisynes, tekstiel, oplosmiddels en
+       vele ander verbruikersgoedere.
+
+   Organiese chemie maak op groot skaal van hierdie element gebruik as 'n
+   oksideermiddel en in substitusie-reaksies omdat chloor dikwels baie
+   verlangde eienskappe aan 'n organiese verbinding verleen wanneer dit 'n
+   waterstof atoom in die verbinding vervang (soos in sintetiese rubber
+   vervaardiging).
+
+   Ander gebruike is die vervaardiging van chlorate, chloroform,
+   koolstoftetrachloried en broomekstraksie.
+
+[wysig] Geskiedenis
+
+   Chloor is in 1774 deur Carl Wilhelm Scheele ontdek, wat verkeerdelik
+   gedink het dit bevat suurstof. Chloor is in 1810 deur Humphry Davy
+   benoem, wat daarop aangedring het dat die stof inderwaarheid 'n element
+   is.
+
+[wysig] Verspreiding
+
+   In die natuur word chloor slegs in die vorm van die chloriedioon
+   teëgekom. Chloriede maak baie van die soute uit wat in die Aarde se
+   oseane opgelos is— 1.9% van die massa van seewater is chloriedione.
+   Selfs hoër konsentrasies chloriede kan in die Dooie See en in
+   ondergrondse brakwaterbronne gevind word. Die meeste chloriede is
+   oplosbaar in water, dus word chloriede in vastestofvorm slegs in
+   oorvloed in droë klimate gevind of dan diep ondergronds. Algemene
+   chloriedminerale sluit haliet (natriumchloried), silwiet
+   (kaliumchloried), en karnaliet (kaliummagnesiemchloriedheksahidraat)
+   in.
+
+   In die nywerheid word elementêre chloor gewoonlik deur die elektrolise
+   van natriumchloried wat in water opgelos is vervaardig. Saam met
+   chloor, lewer hierdie chloralkaliproses, waterstofgas en
+   natriumhidroksied volgens onderstaande chemiese vergelyking
+
+          2 NaCl + 2 H[2]O → Cl[2] + H[2] + 2 NaOH
+
+[wysig] Verbindings
+
+   Verbindings van chloor sluit chloriede, chloriete, chlorate,
+   perchlorate, chloramiene in.
+
+[wysig] Isotope
+
+   Daar bestaan twee stabiele isotope van chloor, met massa's 35 en 37
+   respektiewelik en word in 'n 3:1 relatiewe verhouding aangetref, wat
+   aan chloor atome 'n skynbare atoommassa van 35,5 gee. Chloor het
+   altesaam 9 isotope met massagetalle wat wissel vanaf 32 tot 40. Slegs
+   drie van hierdie isotope kom natuurlik voor: die stabiele Cl-35
+   (75,77%) en Cl-37 (24,23%) en dan die radio-aktiewe Cl-36. Die
+   verhouding van Cl-36 tot stabiele Cl in die omgewing is ongeveer 700
+   E-15:1. Cl-36 ontstaan deur splytsing van Ar-36 in die atmosfeer as
+   gevolg van neutronvangs deur Cl-35 of muonvangs deur Ca-40. Cl-36
+   ontbind na S-36 en Ar-36 met 'n gekombineerde halfleeftyd van 308 000
+   jaar. Die halfleeftyd van die hidrofiliese onreaktiewe isotope maak dit
+   geskik vir die doeleindes van geologiese datering in die omtrek van 60
+   000 tot 1 miljoen jaar. Groot hoeveelhede Cl-36 het ontstaan tydens die
+   atmosferiese kernwapenontploffings tussen 1952 en 1958. Die
+   residensietyd van Cl-36 in die atmosfeer is ongeveer 1 week. Dus vir
+   die doeleindes van nasporing van veranderinge in grond en grondwater is
+   Cl-36 ook 'n nuttige tydmerker om water se oorsprong van 50 jaar tot
+   die hede vas te stel. Cl-36 is ook al in geologiese studies gebruik om
+   ys en sedimente te dateer.
+
+[wysig] Voorsorgmaatreëls
+
+   Chloor veroorsaak irritasie in die asemhalingstelsels van veral kinders
+   en oumense. In sy gasvorm irriteer dit die neusmembrane en in
+   vloeistofvorm brand dit die vel. Dit neem so min as 3,5 dpm om die reuk
+   van chloor te onderskei maar dit verg meer as 1000 dpm vir 'n
+   noodlottige dosis. Dis om hierdie rede dat chloor tydens die Eerste
+   Wêreldoorlog gebruik is vir chemiese oorlogvoering.
+
+   Blootstelling aan hierdie gas behoort nie 0,5 dpm (8-uur geweegde
+   gemiddelde – 40 uur week) te oorskry nie.
+
+   Akute blootstelling aan hoë (dog nie-noodlottige) konsentrasies chloor
+   kan pulmonêre oedema, of dan vloeistof in die longe ('n uiters
+   onaangename toestand), veroorsaak. Kroniese lae-vlakblootstelling
+   verswak die longe wat die vatbaarheid tot ander longsiektes verhoog.
+
+   Toksiese dampe kan vrygestel word wanneer bleikmiddels met uriene,
+   ammoniak en ander skoonmaakmiddels gemeng word. Hierdie dampe bestaan
+   uit 'n mengsel van chloorgas en stikstoftrichloried; en vermenging van
+   hierdie stowwe moet vermy word.
+
+   Sien ook: Chlorofluorokoolstof
+
+[wysig] Vervaardiging
+
+   Chloor kan deur die elektrolise van 'n natriumchloriedoplossing
+   vervaardig word. Daar bestaan drie industriële metodes vir die
+   onttrekking van chloor deur middel van elektrolise:
+
+[wysig] Kwiksel-elektrolise
+
+   Kwiksel-elektrolise is die eerste metode wat gebruik is om chloor op
+   industriële skaal te vervaardig. Titaananodes word bo 'n vloeibare
+   kwikanode gemonteer en 'n oplossing van natriumchloried word dan tussen
+   die elektrodes ingepomp. Wanneer 'n elektriese stroom tussen die
+   elektrodes begin vloei, word chloor by die titaan-anodes vrygestel,
+   terwyl die natrium in die kwik-katode oplos om 'n amalgaam te vorm.
+
+   Die amalgaam kan hergenereer word deur die kwik met water te laat
+   reageer wat dan waterstof en natriumhidroksied vrystel. Albei is baie
+   nuttige byprodukte.
+
+   Die metode vereis groot hoeveelhede energie en daar is ook ernstige
+   bedenkinge oor kwik in uitvloeisels.
+
+[wysig] Diafragmaselelektrolise
+
+   'n Asbesdiafragma word op 'n roosterkatode van yster neergeslaan wat
+   voorkom dat chloor wat by die anode vorm en die natriumhidroksied wat
+   by die katode vorm, weer meng.
+
+   Hierdie metode gebruik minder energie maar die natriumhidroksied word
+   nie so maklik gekonsentreer en neergeslaan as 'n bruikbare produk nie.
+
+[wysig] Membraanselelektrolise
+
+   Die elektrolitiese sel word in twee verdeel deur 'n membraan wat as 'n
+   ioonuitruiler optree. 'n Versadigde natriumchloried oplossing word in
+   die anode kompartement geplaas terwyl die katode kompartement
+   gedistilleerde water bevat.
+
+   Die metode is byna net so effektief soos die diafragmasel maar
+   produseer suiwer natriumhidroksied.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Chlorine
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Chlorine
+     * EnvironmentalChemistry.com – Chlorine
+
+   Kategorieë: Chemiese elemente • Halogene
+

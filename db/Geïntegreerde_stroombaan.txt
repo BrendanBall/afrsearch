@@ -1,0 +1,183 @@
+Geïntegreerde stroombaan
+
+
+   Geïntegreerde stroombaan van Atmel Diopsis 740 Stelsel op 'n Skyf wat
+   die geheue-, logiese- en toevoer/afvoer blokke rondom die kante
+   Geïntegreerde stroombaan van Atmel Diopsis 740 Stelsel op 'n Skyf wat
+   die geheue-, logiese- en toevoer/afvoer blokke rondom die kante
+   Mikroskywe (EPROM geheue) met 'n deurskynende venster, sodat die
+   geïntegreerde stroombaan binne-in sigbaar is. Let op die fyn
+   silwerkleurige drade wat die geïntegreerde stroombaan aan die penne van
+   die verpakking verbind. Die venster maak dit moontlik om die geheue van
+   die skyf uit te vee deur dit aan sterk ultravioletlig bloot te stel.
+   Mikroskywe (EPROM geheue) met 'n deurskynende venster, sodat die
+   geïntegreerde stroombaan binne-in sigbaar is. Let op die fyn
+   silwerkleurige drade wat die geïntegreerde stroombaan aan die penne van
+   die verpakking verbind. Die venster maak dit moontlik om die geheue van
+   die skyf uit te vee deur dit aan sterk ultravioletlig bloot te stel.
+
+   In elektronika is 'n geïntegreerde stroombaan is 'n miniatuur
+   elektroniese stroombaan wat hoofsaaklik bestaan uit
+   halfgeleiertoestelle asook passiewe komponente wat in die oppervlak van
+   die dun halfgeleiersubstraat ingebou is.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 Vooruitgang in Geïntegreerde Stroombane
+        * 3 Klassifikasie
+        * 4 Vervaardiging
+
+[wysig] Inleiding
+
+   Geïntegreerde stroombane is moontlik gemaak deur eksperimentele
+   ontdekkings wat getoon het dat halfgeleiertoestelle die funksies van
+   vakuumbuise kon verrig én deur tegnologiese vooruitgang wat in die
+   middel 20^ste eeu plaasgevind het ten opsigte van die vervaardiging van
+   halfgeleiertoestelle. Die integrasie van groot hoeveelhede klein
+   transistors op 'n klein skyfie was 'n groot verbetering op die bou van
+   stroombane met die hand deur van diskrete elektroniese komponente
+   gebruik te maak. Die vermoë om geïntegreerde stroombane in groot maat
+   te produseer, die betroubaarheid en bousteen benadering tot
+   stroombaanontwerp het verseker dat gestandardiseerde GS'e baie vinnig
+   aanvaarding gevind het in die ontwerp van stroombane in die plek van
+   diskrete transistors.
+
+   Daar is twee hoofvoordele van geïntegreerde stroombane bo diskrete
+   stroombane: koste en werkverrigting. Die koste is laag omdat die skywe,
+   met al hul komponente, as 'n eenheid gedruk word deur middel van
+   fotolitografie en nie een vir een transistor op 'n slag gebou word nie.
+   Werkverrigting is hoog omdat die komponente baie vinnig kan skakel en
+   minder krag verbruik, hoofsaaklik vanweë die feit dat die komponente
+   klein en naby aan mekaar geleë is. Met ingang 2006 wissel
+   skyfoppervlaktes van 'n paar vierkante millimeters tot ongeveer 350
+   mm^2, met ongeveer 1 miljoen transistors per mm^2
+
+[wysig] Vooruitgang in Geïntegreerde Stroombane
+
+   Die geïntegreerde stroombaan van die Intel 8742, 'n 8-bis
+   mikrobeheerder wat 'n SVE insluit wat teen 12 MHz werk, 128 grepe RAM,
+   2048 grepe EPROM en Toevoer/afvoer op dieselfde skyf.
+   Die geïntegreerde stroombaan van die Intel 8742, 'n 8-bis
+   mikrobeheerder wat 'n SVE insluit wat teen 12 MHz werk, 128 grepe RAM,
+   2048 grepe EPROM en Toevoer/afvoer op dieselfde skyf.
+
+   Van die gevorderdste geïntegreerde stroombane is die mikroverwerkers of
+   kerne wat alles van rekenaars tot selfone tot digitale mikrogolfoonde.
+   Digitale geheueskywe en toepassingspesifieke geïntegreerde stroombane
+   is voorbeelde van groepe GS'e wat belangrik is in die
+   inligtingsamelewing. Terwyl die koste van ontwerp en ontwikkeling van
+   komplekse GS'e nogal hoog is, is die uiteindelike koste baie minder as
+   die GS'e op grootskaal geproduseer word.
+
+   GS'e het oor die jare voortdurend verbeter sodat die komponente daarop
+   kleiner en kleiner geword het sodat meer stroombane op elke GS gebou
+   kon word. Hierdie verhoogde kapasiteit per eenheidsoppervlakte bring
+   ook 'n verlaging in koste mee en/of verhoog die funksionaliteit van die
+   stroombane. Moore se wet stel dit dat die aantal transistors op GS'e
+   elke twee jaar verdubbel en tot dusver was die projeksie nog geldig.
+   Daar bestaan egter struikelblokke wat verdere verhoogde integrasie van
+   nanometer-skaal toestelle in die wiele ry, waarvan een van die
+   belangrikste die voorkoms van lekstrome is. Hierdie probleme is egter
+   nie onoorkombaar nie en daar bestaan 'n sterk moontlikheid dat die
+   probleme oorkom of verminder kan word deur die bekendstelling van nuwe
+   diëlektriese materiale. Daar is strawwe kompetisie onder vervaardigers
+   om GS'e te bou met 'n fyner geometrie. Daar word deur leidende kenners
+   op die gebied verwag dat die vooruitgang in die komende jare sal
+   voortduur.^[1]
+
+[wysig] Klassifikasie
+
+   'n CMOS 4000 GS in 'n DIP verpakking
+   'n CMOS 4000 GS in 'n DIP verpakking
+
+   Geïntegreerde stroombane kan geklassifiseer word as analoog, digitaal
+   en gemengde sein (d.w.s. beide analoog en digitaal op dieselfde skyf).
+
+   Digitale geïntegreerde stroombane kan van 'n paar duisend tot miljoene
+   logiese hekke, flip-flops, multipleksers en ander stroombane in 'n paar
+   vierkante millimeter bevat. Die kleinheid van hierdie stroombane maak
+   hoë spoed, lae kragverlies en verminderde vervaardigingskoste moontlik
+   vergeleke met gedrukte stroombaanvlak integrasie. Hierdie digitale
+   GS'e, tipies mikroverwerkers, digitale seinverwerkers en
+   mikrobeheerders gebruik binêre wiskunde op "een" en "nul" seine te
+   verwerk.
+
+   Analoë GS'e, soos sensors, kragbeheerstroombane en operasionele
+   versterkers verwerk kontinue seine. Hulle verrig take soos versterking,
+   aktiewe filtrering, demodulasie, vermenging ens. Analoë GS'e maak
+   stroombaanontwerpers se lewe makliker deurdat dit goedontwerpte analoë
+   stroombane maklik beskikbaar maak eerder as om dit self van meet af aan
+   te moet ontwerp.
+
+   GS'e kan ook analoë en digatale stroombane op 'n enkele skyf kombineer
+   om funksies soos analoog-tot-digitale omsetters en digitaal-tot-analoë
+   omsetters te verrig.
+
+[wysig] Vervaardiging
+
+   Uitbeelding van 'n klein standaardsel met drie metaallae (diëlektriese
+   materiaal verwyder). Die sandkleurige strukture is metaal
+   interverbindings en die vertikale pilare is kontakte, tipies blokkies
+   tungsten. Die rooierige strukture is polisilikon-hekke en die soliede
+   deel onderaan is die kristallyne silikonmassa.
+   Uitbeelding van 'n klein standaardsel met drie metaallae (diëlektriese
+   materiaal verwyder). Die sandkleurige strukture is metaal
+   interverbindings en die vertikale pilare is kontakte, tipies blokkies
+   tungsten. Die rooierige strukture is polisilikon-hekke en die soliede
+   deel onderaan is die kristallyne silikonmassa.
+
+   Die halfgeleiers van die periodieke tabel van chemiese elemente is in
+   die 1930's as geskikte materiale geïdentifiseer in die vervaardiging
+   van vaste-toestand toestelle om vakuumbuise te vervang deur navorsers
+   soos William Shockley. 'n Sistematiese studie van materiale is tussen
+   die 1940's en die 1950's gedoen en is daar eers begin met koperoksied,
+   toe germanium en later silikon. Vandag word silikonmonokristalle
+   hoofsaaklik gebruik as substraat vir geïntegreerde stroombane. Dit het
+   dekades geneem om metodes te verfyn om kristalle te maak wat nie
+   defekte in die kristalstruktuur gehad het nie.
+
+   Halfgeleier GS'e word in 'n laagproses vervaardig in 'n proses wat
+   hierdie sleutelstappe insluit:
+     * Fotolitografiese uitbeelding
+     * Neerslag
+     * Etswerk
+
+   Die hoofstappe word ook deur doop, skoonmaak en planarisasie stappe
+   ondersteun.
+
+   Monokristallyne silikonskywe (of in die geval van spesiale toepassings,
+   silikon op saffier of galliumarseniedskywe) word gebruik as die
+   substraat. Die verskillende areas van die substraat wat gedoop of
+   waarop polisilikon, isolasiemateriaal of metaal (gewoonlik Aluminium)
+   neergelê moet word, word fotolitografies gemerk.
+     * Geïntegreerde stroombane bestaan uit baie oorvleuelende lae,
+       waarvan elkeen fotolitografies gedefinieer word en kan gewoonlik in
+       verskillende kleure waargeneem word. Sommige lae merk waar verskeie
+       onsuiwerhede in die substraat in gediffundeer (diffusielae) het.
+       Ander definieer waar addisionele ione ingeplant word (inplantlae),
+       ander definieer die geleiers (polisilikon of metaal) en ander
+       definieer die verbindings tussen die geleidende lae (deur
+       kontaklae). Alle komponente word vervaardig uit 'n spesifieke
+       kombinasie van hierdie lae.
+
+     * In 'n selfbelynende CMOS-proses, word 'n transistor gevorm
+       waarookal die heklaag (polisilikon of metaal) die diffusielaag
+       kruis.
+
+     * Weerstandstrukture, strepe van verskeie lengtes, vorm die ladings
+       op die stroombaan. Die verhouding van die lengte van die
+       weerstandstrukture tot sy wydte, gekombineer met sy laagweerstand
+       bepaal die weerstand.
+
+     * Kapasitiewe strukture, wat baie ooreenkomste toon met die paralelle
+       geleidende plate van tradisionele elektriese kapasitor, word gevorm
+       volgens die oppervlakte van die "plate", met isolasiemateriaal
+       tussen die plate. Gegewe die groottebeperkings kan slegs klein
+       kapasitansies op 'n GS geskep word.
+
+     * Induktiewe strukture kan gebou word as klein spoele op die skyf of
+       gesimuleer deur 'n positiewe impedansie oorvormer.
+
+   Kategorie: Elektronika
+

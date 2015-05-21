@@ -1,0 +1,120 @@
+Gewone melba
+
+
+                        Gewone Melba
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+                Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Estrildidae
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Estrildidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pytilia
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. melba
+     Subspesie:    {{{subspecies}}}
+          [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                       Binomiale naam
+                       Pytilia melba
+   (Linnaeus, 1758)
+                      Trinomiale naam
+                      {{{trinomial}}}
+                        Tipe Spesies
+                     {{{type_species}}}
+                  {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die gewone melba in Suider-Afrika
+   Die verspreiding van die gewone melba in Suider-Afrika
+                         Sinonieme
+   {{{synonyms}}}
+
+   Die gewone melba is 'n klein (lengte: 12 - 14 cm) kleurvolle voëltjie
+   wat maklik die oog vang wanneer dit rondbeweeg tussen doringbosse en
+   struike. Veral die mannetjie is kenmerkend met 'n rooi gesig, groen
+   bors en gespikkelde onderlyf.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Die gewone melba word gewoonlik in pare of klein familiegroepe
+   aangetref. Hulle boer in swerms wanneer hulle nie nes maak nie. Die
+   mannetjie se gesig en bo-keel is helder rooi, met 'n grys bo-kroon en
+   nek. Sy onderlyf is gespikkeld met swart en wit dwarsstrepe. Sy bekkie
+   vertoon rooierig. Die wyfie het 'n soortgelyke uiterlike, maar haar
+   hele gesig en nek is grys, met 'n swart bekkie. 'n Onvolwasse melba het
+   'n uitgewaste olyfkleur op sy kop en keel, met 'n swart bekkie swart en
+   rooibruin oë.
+
+[wysig] Habitat
+
+   Die melba verkies digte doringbosse of lang gras in Acacia savanna,
+   rivieroewers en bosse in droeë dele.
+
+[wysig] Verspreiding
+
+   Die gewone melba kom voor in Afrika; Suid van die Sahara en is
+   wydverspreid in suidelike Afrika, uitgesluit die Kaap Suid van die
+   Oranje-rivier en die Vrystaatse hoëveld.
+
+[wysig] Geluid
+
+   Sagte string note tot en met 16 sekondes lank, beginnende met kort
+   waterdruppel-agtige klanke gevolg deur 'n skerp kriek-kriek klank.
+   Uiter ook 'n klaende fluit in 'n mooi kort liedjie.
+
+[wysig] Ander name
+
+     * Afrikaans: Melbasysie
+     * Engels: Melba Finch
+     * Duits: Buntastrild
+     * Wetenskaplike naam: Pytilia melba
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa, Sixth Edition, ISBN 0620175834
+     * Newman se Voëls van Suider-Afrika.
+
+   Kategorie: Voëls
+

@@ -1,0 +1,54 @@
+Wikimedia Commons
+
+
+   Wikimedia Commons se kenteken
+   Wikimedia Commons se kenteken
+
+   Die Wikimedia Commons (ook bekend as die "Commons" of "Wikicommons") is
+   'n versameling vrye beelde, opnames en ander multimedialêers. Dit is 'n
+   projek van die Wikimedia Stigting. Lêers wat by hierdie versameling
+   opgelaai word kan deur al die ander Wikimediaprojekte gebruik word,
+   insluitende Wikipedia, Wikiboeke en Wikinews.
+
+   Inhoud
+
+        * 1 Hoe om beelde te gebruik
+        * 2 Geskiedenis
+        * 3 Tale
+        * 4 Kopieregte
+        * 5 Eksterne skakels
+
+[wysig] Hoe om beelde te gebruik
+
+   Beelde wat opgelaai is na Wikimedia Commons kan baie eenvoudig deur
+   ander Wikimemedia projekte gebruik word; die sintaks is dieselfde as
+   vir plaaslike beelde. Indien daar 'n plaaslike beeld reeds met daardie
+   naam bestaan, sal dit gebruik word, andersins sal die een vanuit
+   Commons gebruik word.
+
+[wysig] Geskiedenis
+
+   Die projek is gestig op 7 September 2004. Teen November 2004 het dit 'n
+   mylpaal van 10 000 opgelaaide medialêers bereik. Dit was ook die eerste
+   Wikimedia-projek wat Mediawiki 1.4 gebruik het.
+
+[wysig] Tale
+
+   Die hooftaal vir die Commons is Engels, maar die koppelvlak kan via
+   gebruikersvoorkeure verander word om enige ander taal te gebruik.
+   Verder word sommige van die bladsye ook na ander tale vertaal.
+
+[wysig] Kopieregte
+
+   Vanaf 2004 laat Wikimedia Commons nie meer lêers toe wat onder nie-vrye
+   lisensies vrygestel word nie, insluitend lisensies wat kommersiële
+   gebruik van die materiaal beperk, asook media wat onder billike gebruik
+   val. Lisensies wat toelaatbaar is sluit in die GFDL, Creative Commons
+   (slegs sekeres) en publieke domein.
+
+[wysig] Eksterne skakels
+
+     * Wikimedia Commons
+
+   Kategorie: Wikimedia projekte
+

@@ -1,0 +1,23 @@
+Levenshteinoutomaat
+
+
+   In rekenaarwetenskap is Levenshteinoutomate 'n familie
+   eindigetoestandoutomata wat die versameling V van alle woorde in 'n
+   formele taal waarvoor die Levenshteinafstand tot 'n arbitrêre woord W
+   nie 'n bepaalde konstante oorskry nie, kan herken. 'n
+   Levenshteinoutomaat vir W kan in lineêre tyd eweredig aan die lengte
+   van W gekonstrueer word, en kan V in baie minder tyd identifiseer as
+   wat nodig sou wees as die Levenshteinafstand na W vir elke woord in die
+   taal bereken sou word ('n probleem met kwadratiese tydkompleksiteit).
+
+[wysig] Verwysings
+
+     * Klaus U. Schulz, Stoyan Mihov, Fast String Correction with
+       Levenshtein-Automata. International Journal of Document Analysis
+       and Recognition, 5(1):67--85, 2002.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Algoritmes op stringe • Diskrete wiskunde •
+   Natuurliketaalverwerking • Optiesekarakterherkenning
+

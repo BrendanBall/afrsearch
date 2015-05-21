@@ -1,0 +1,31 @@
+Diensgeoriënteerde argitektuur
+
+
+[wysig] Agtergrond
+
+   'n Inligtingstegnologie domein van ondernemingsargitektuur wat begin
+   belangstelling wek het in 2004. Die argitektuur word in 2005 beskou as
+   die mees gevorderde basis vir besigheidsoutomatisering deurdat dit
+   gebruik maak van al die internetstandaarde. Die doelwit wat nagejaag
+   word deur hierdie benadering is om nuwe vlakke van buigsaamheid,
+   aanpasbaarheid en kompleksiteit baas te raak.
+
+[wysig] Definisie
+
+   Diensgeorienteerde argitektuur is 'n integrasie argitektuur gebasseer
+   op die benutting van Internetdienste.
+
+[wysig] Bronne
+
+   2006, Service-Oriented Architecture Compass - Business Value, Planning
+   and Enterprise Roadmap. By Norbert Bieberstein, Sanjay Bose, Marc
+   Fiammante, Keith Jones, Rawn Shah. ISBN 0-13-987-0471-768
+
+   2004, Service -Oriented Architecture - A field guide to integrating XML
+   and Web Service. By Thomas Erl, Pearson Education,Inc.
+
+   Hierdie is voorwaar 'n uitstekende boek oor die Diensgeorienteerde
+   argitektuur. Die boek is duidelik uiteengesit en vol goeie voorbeelde
+   wat enige beginner met rekenaar agtergrond sal inlig.
+   Kategorie: Rekenaar
+

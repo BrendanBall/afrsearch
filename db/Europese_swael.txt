@@ -1,0 +1,113 @@
+Europese swael
+
+
+                    Europese swael
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   European subspecies
+   European subspecies
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hirundinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Hirundo
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. rustica
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Hirundo rustica
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Europese Swael is 'n klein trekvoël en 'n volop somerbesoeker.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Hy word aan sy donker ken en keel uitgeken; by voëls wat verveer
+   (November-Januarie) ontbreek die roesrooi ken en lang stertwimpels
+   dikwels. Jonges is algemeen tydens Oktober-Desember.
+
+   18 cm
+
+[wysig] Habitat
+
+   Tydens die somer is hulle die algemeenste swaels en in vlug meng hulle
+   vryelik met ander swaels en windswaels oor feitlik alle habitats. Groot
+   swerms kom saam om in rietplate te vernag.
+
+[wysig] Verspreiding
+
+   Swaels van die Europese ras trek gedurende die lente noordwaarts na
+   hulle broeiareas in Europa, so ver noord soos die arktiese sirkel.
+   Hulle oorwinter in Afrika.
+
+[wysig] Geluid
+
+   Swerms kwetter saggies, veral as hulle sit.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Hirundo rustica
+     * Engelse naam: Barn Swallow / European Swallow
+     * Duitse naam: Rauchschwalbe
+     * Nederlandse naam: Boerenzwaluw
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Swaels
+

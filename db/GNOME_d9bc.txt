@@ -1,0 +1,421 @@
+GNOME
+
+
+     Die GNOME-Projek
+   GNOME 2.16 skermkiekie
+     __________________________________________________________________
+
+   Ontwikkelaar GNOME-ontwikkelaars
+   Mees onlangse weergawe 2.16.1 / 4 Oktober 2006
+   Laaste betaweergawe /
+   Bedryfstelsel Kruisplatform
+   Kategorie werkskermomgewing
+   Lisensie GPL en LGPL
+   Webtuiste {{{webtuiste}}}
+
+   Die GNOME-projek is 'n internasionale poging om 'n maklik-om-te-gebruik
+   rekenaar werkskermomgewing wat heeltemal uit programmatuur wat as vry
+   deur die Free Software Foundation beskou word te skep. Dit beteken die
+   skep van gereedskap wat ontwikkelaars help om nuwe alleenstaande
+   toepassings te skryf, die kies van toepassings vir insluiting in die
+   amptelike werkskermproduk, en werk aan wat bekendstaan as die
+   werkskerm- omgewing, dit wil sê, die werkskerm, toepassingskieslys ,
+   taakbalk, lêerbeheerder en venstermaker.
+
+   'n Groot hoeveelheid programmatuur word geskep of aangebied onder die
+   sambreel van die GNOME-projek, waarvan sommige versamel word en saam
+   vrygestel word as The GNOME Desktop. Die werkskerm word saam met 'n
+   bedryfstelsel, soos 'n GNU/Linux verspreiding of Sun Microsystems se
+   Solaris, versprei om 'n volfunksie rekenaarstelsel te skep.
+
+   GNOME is die amptelike werkskerm van die GNU-Projek en die korrekte
+   uitspraak van die naam is/gəˈnom/, alhoewel /nom/ is ook in algemene
+   gebruik. Die naam is geskep as 'n akroniem van GNU Network Object Model
+   Environment, maar gebruik van die volledige uitbreiding word nou as
+   uitgedien beskou.
+
+   Inhoud
+
+        * 1 Oogmerke
+        * 2 Oorsprong
+        * 3 Organisasie
+        * 4 Platforms
+        * 5 Voorkoms en gedrag
+        * 6 Toekomstige ontwikkelings
+        * 7 Freedesktop.org en GNOME
+        * 8 GNOME-toepassings
+        * 9 Stabiele uitgawes
+        * 10 Bronkode
+        * 11 Kyk ook
+        * 12 Notas en verwysings
+        * 13 Eksterne skakels
+
+[wysig] Oogmerke
+
+   Volgens die GNOME webwerf,^[1]
+
+
+ GNOME
+
+      Die GNOME-projek verskaf twee goed: Die GNOME werkskermomgewing, 'n
+       intuitiewe en aantreklike werkskerm vir gebruikers, en die GNOME
+        ontwikkelingsplatform, 'n uitgebreide raamwerk vir die bou van
+            toepassings wat in die res van die werkskerm integreer.
+
+
+                                                                         GNOME
+
+   Die GNOME-projek plaas heelwat klem op eenvoud, bruikbaarheid en om
+   goed "net te laat werk". Die ander doelstellings van die projek is:
+     * Vryheid — om 'n werkskermomgewing te skep wat altyd gratis sal wees
+       met die bronkode beskikbaar vir hergebruik onder 'n Vrye
+       Programmatuur lisensie.
+     * Bruikbaarheid — om te verseker dat die werkskerm deur enige iemand
+       gebruik kan word ongeag van tegniese vaardigheid of fisiese
+       gestremdheid.
+     * Internasionalisering en lokalisering — om die werkskerm beskikbaar
+       te stel in baie tale.
+     * Ontwikkelaarvriendelikheid — om te verseker dat dit maklik is om
+       programmatuur te skryf wat maklik met die werkskerm integreer, en
+       ontwikkelaars vrye keuse van programmeertaal gee.
+     * Organisasie — 'n gereelde vrystellingsiklus en 'n gedissiplineerde
+       gemeenskapstruktuur.
+     * Ondersteuning — om ondersteuning van ander instansie buiten die
+       GNOME-gemeenskap te verseker.
+
+[wysig] Oorsprong
+
+   Die GNOME-projek is in Augustus 1997 deur Miguel de Icaza en Federico
+   Mena begin na aanleiding van lisensiëring bekommernisse oor
+   programmatuur wat deur KDE, 'n vrye programmatuur werkskermomgewing wat
+   op die Qt koppelvlakelementgereedskapstel, gebruik is. Op daardie
+   stadium het Qt nie 'n vrye programmatuurlisensie gebruik nie en het
+   lede van die GNU-projek bekommerd geraak oor die gebruik van so 'n
+   gereedskapstel vir die bou van 'n vrye programmatuur werkskerm en
+   toepassings. Twee projekte is begin: Harmony, om 'n vrye plaasvervanger
+   vir die Qt biblioteke te skep, en die GNOME-projek om 'n nuwe werkskerm
+   sonder Qt te skep en geheel en al op vrye programmatuur gebou.^[2]
+
+   In November 1998 is die Qt gereedskapstel onder die oopbron Q Public
+   License (QPL) gelisensieer, maar debatte oor die aanpasbaarheid daarvan
+   met die GNU General Public License (GPL) het voortgesleep. In September
+   2000 maak Trolltech die GNU/Linux weergawe van die Qt biblioteke onder
+   die GPL beskikbaar waarmee meeste van die besware wat jarelange
+   lisensiëring debatte aangespreek is.^[2] Die lisensiëring van Qt is vir
+   sommige mense steeds omstrede omdat die gebruik van die GPL vir 'n
+   biblioteek beperkings plaas op die lisensiëring van kode wat daarna
+   koppel, soos toepassings en biblioteke wat die KDE/Qt raamwerk gebruik.
+   In besonder, om proprietary software met KDE en Qt te ontwikkel, moet
+   'n kommersiële lisensie van Trolltech gekoop word.
+   GNOME 2.13.3 (ontwikkelingsweergawe) wat in Japannees met die Tango
+   Desktop Project voorvrysteluitgawe ikone.
+   GNOME 2.13.3 (ontwikkelingsweergawe) wat in Japannees met die Tango
+   Desktop Project voorvrysteluitgawe ikone.
+
+   In plaas van die Qt-gereedskapstel is die GTK+-gereedskapstel gekies as
+   die basis van die GNOME-werkskerm. GTK+ gebruik die GNU Lesser Public
+   License (LGPL), 'n vrye programmatuur lisensie wat toelaat dat
+   programmatuur wat daarna koppel, soos toepassings wat vir GNOME geskryf
+   is, om 'n baie wyer stel lisensies te gebruik, insluitend propriëtêre
+   sagtewarelisensies.^[3] Die GNOME werkskerm self word onder die LGPL
+   gelisensieer vri sy biblioteke, en die GPL vir toepassings wat deel is
+   van die GNOME-projek opsig self.
+
+   Die naam "GNOME" is deur Elliot Lee, een van die outeurs van ORBit en
+   die Object Activation Framework voorgetsel.Sjabloon:Fact Dit verwys na
+   die moontlikhede wat mense, op daardie stadium, gedink het dat CORBA na
+   'n werkskermomgewing sou bring — 'n Netwerk Objek Model. Aangesien dit
+   nie meer die kernvisie van die GNOME-projek verteenwoordig nie, staan
+   sommige lede van die projek die verandering van die projeknaam van die
+   akroniem na voor om "GNOME" na "Gnome" te vernoem. ^[4]
+
+[wysig] Organisasie
+
+   Soos meeste ander vrye programmatuur projekte is die GNOME-projek
+   losweg georganiseer. Bespreking gebeur hoofsaaklik op 'n aantal
+   openbare e-poslyste.^[5]
+
+   In Augustus 2000 is die GNOME Stigting opgerig om na administratiewe
+   take om te sien, pers belang te hanteer en om op te tree as 'n kontak
+   punt vir maatskappye wat daarin geïnteresseerd is om
+   GNOME-programmatuur te ontwikkel. Alhoewel die stigting nie direk
+   betrokke is by tegniese besluite nie, koördineer die stigting wel
+   vrystellings en besluit watter projekte deel sal vorm van GNOME.
+   Lidmaatskap is oop vir enige iemand wat 'm nie-triviale bydra tot die
+   projek gemaak het.^[6] Lede van die stigting kies elke November 'n raad
+   van direkteure, en kandidate vir die posisies moet self lede wees.
+
+   Ontwikkelaars en gebruikers van die GNOME werkskerm vergader by 'n
+   jaarvergadering wat as GUADEC bekendstaan om die jongste stand van die
+   projek en die toekomste rigting te bespreek.^[7]
+
+[wysig] Platforms
+
+   GNOME wat oorspronklik vir GNU/Linux ontwerp is loop nou op meeste
+   Unix-agtige stelsels en is in besonder deur Sun Microsystems aangeneem
+   as deel van die Java Desktop System, wat die verouderde CDE op hulle
+   Solarisplatform vervang. Dit is die verstek werkskermomgewing vir
+   menige moderne werkskerm GNU/Linux verspreidings, insluitend Fedora
+   Core, SUSE en Ubuntu. 'n Lys van GNU/Linux-verspreidings wat GNOME
+   insluit word op die GNOME webwerf in stand gehou. ^[8]
+
+   'n Amptelike GNOME LiveCD, wat 'n rekenaar toelaat om direk van 'n CD
+   te selflaai sonder om die bestaande bedryfstelsel te verwyder of
+   verander kan van die GNOME webwerf afgelaai word.^[9]
+
+   Baie GNOME-komponente is na Cygwin oor geskryf wat dit moontlik maak om
+   GNOME-toepassings op Microsoft Windows te loop.
+   GNOME 2.10 skermkiekie (op Fedora Core 4) wat Rhythmbox (musiek),
+   GThumb (beeldbestuurder), gedit (teksredigeerder), en die
+   Nautilus-lêerbeheerder insluit.
+   GNOME 2.10 skermkiekie (op Fedora Core 4) wat Rhythmbox (musiek),
+   GThumb (beeldbestuurder), gedit (teksredigeerder), en die
+   Nautilus-lêerbeheerder insluit.
+
+   Die GNOME werkskerm is uit 'n groot aantal verskillende projekte
+   saamgestel. 'n Paar van die belangrikstes word onder gelys:
+     * Bonobo — 'n Saamgestelde dokumenttegnologie.
+     * GConf — vir die stoor van toepassingsverstellings.
+     * GNOME VFS — 'n virtuele lêerstelsel.
+     * GNOME Keyring — vir die stoor van enkripsiesleutels en
+       sekerheidsinligting.
+     * GNOME Print — vir die druk van dokumente.
+     * GNOME Translation Project — vertaling van dokumentasie en
+       toepassings na verskillende tale.
+     * GTK+ — 'n koppelvlakelementgereedskapstel met verskeie sub-projekte
+       insluitend:
+          + ATK — 'n Toeganklikheid gereedskapstel.
+          + GLib — nutsfunksies vir programmering in C.
+          + GObject — 'n raamwerk vir objek georiënteerde programmering in
+            C.
+          + Pango — vir die uitleg en verbeeld van teks in 'n wye
+            verskeidenheid tale.
+     * Human Interface Guidelines — navorsing en dokumentasie oor die bou
+       van maklik-om-te-gebruik GNOME-toepassings.
+     * LibXML — 'n XML-biblioteek.
+     * Metacity — 'n vensterbeheerder.
+     * ORBit — 'n CORBA ORB vir software componentry.
+
+   'n Aantal taalkoppelings is beskikbaar wat die skryf van toepassings in
+   verskillende programmeertale soos C++ (gtkmm), Java (Java-GNOME), Ruby
+   (ruby-gnome2), C# (Gtk#), Python (PyGTK), Perl (gtk2-perl) en baie
+   ander, moontlik maak.
+
+   Die gebruik van GTK+ as die basis koppelvlakelementgereedskapstel laat
+   GNOME toe om te baat by sekere eienskappe soos temas (die vermoë om die
+   voorkoms van 'n toepassing te verander), gladde grafika waar
+   anti-kartelvorming op toegepas is en die geleentheid om die toepassing
+   na ander platforms soos Windows en Mac OS X oor te dra (voorbeelde
+   hiervan sluit die GIMP en Inkscape in).
+
+[wysig] Voorkoms en gedrag
+
+   Die voorkoms van GNOME kan verander word deur die gebruik van temas,
+   wat versamelings is wat bestaan uit 'n ikoonversameling, metacity
+   omslag en GTK+ temaenjin en parameters. Gewilde GTK+ temas sluit
+   Bluecurve en ClearLooks (nou die verstektema) in.
+
+[wysig] Toekomstige ontwikkelings
+
+   Daar is baie sub-projekte wat onder die seggenskap van GNOME projek
+   onderneem word, en nie almal daarvan word tans in GNOME uitgawes
+   ingesluit nie. Sommige word as suiwer eksperimentele konsepte beskou,
+   of vir die toets van idees wat later in stabiele GNOME-toepassings
+   opgeneem kan word; ander is kode wat afgerond vir direkte insluiting.
+   Sommige voorbeelde sluit in:
+     * GNOME Storage — databasis lêerstelsel vir GNOME. Vergelyk met
+       WinFS.
+     * Projek Topaz^[10] — idees vir GNOME uitgawe 3.0.
+     * Projek Soylent^[11] — om "mense" en hulle interaksies eerste-klas
+       voorwerpe binne die GNOME-raamwerk te maak.
+     * Projek Ridley — om verskeie klein swak ondersteunde biblioteke,
+       soos libgnome en libgnomeprint, in GTK+ in te konsolideer.
+     * Die Portland Projek
+     * Die gebruik van die Mozilla projekte se XUL op die GNOME
+       werkskerm.^[12]
+
+   Die enigste programmeertale wat in toepassings wat deel is van die
+   amptelike GNOME-werkskerm is, is C en Python,^[13] maar daar is heelwat
+   gesprekke oor die insluiting van programmatuur wat in C# of Java
+   geskryf is in GNOME-uitgawes in te sluit. Beide die tale word reeds
+   gebruik om GNOME-toepassings buite die projek te ontwikkel, maar die
+   gebruik daarvan in die werkskermuitgawe sou die insluiting van die
+   onderskeie tale se virtuele masjien met elke GNOME-installasie afdwing.
+   Dit sou die minimum spesifikasie van rekenaars wat nodig is om die
+   jongste GNOME-werkskerm te loop verhoog. Pogings soos die GNU Vertaler
+   vir Java bied 'n moontlike oplossing tot die probleem deur die vereiste
+   van 'n java virtuele masjien te verwyder.
+
+[wysig] Freedesktop.org en GNOME
+
+   Freedesktop.org is 'n projek om interoperability en gedeelde tegnologie
+   tussen die verskillende X Window werkskerms soos GNOME, KDE en Xfce te
+   ondersteun. Alhoewel dit nie 'n formele standaarde organisasie is nie,
+   definieer Freedesktop.org sekere basiese eienskappe van 'n X Werkskerm,
+   insluitend ondermeer: sleep en los tussen toepassings,
+   venstermakerspesifikasies, kieslysuitleg, onlangse leêrlyste, kopieer
+   en plak tussen toepassings en 'n gedeelde MIME-tipe databasis. Die
+   navolg van Freedesktop.org spesifikasies verseker dat GNOME-toepassings
+   meer geïntegreerd vertoon in ander werkskerms as waarvoor dit
+   aanvanklik ontwikkel is en moedig samewerking sowel as kompetisie aan.
+
+   Voorbeelde van tegnologie wat hulle oorsprong by Freedesktop.org gehad
+   het en nou deel vorm van GNOME se kerntegnologiestel sluit in:
+     * Cairo — 'n gevorderde 2D grafika biblioteek.
+     * D-BUS — interproses-kommunikasiestelsel.
+     * GStreamer — 'n multimedia raamwerk.
+     * HAL — 'n spesifikasie en 'n implementasie van 'n hardware
+       abstraksie laag.
+     * Poppler — a PDF verbeeldbiblioteek.
+
+   'n Onlangse Freedesktop.org inisiatief wat deur GNOME gesteun word is
+   die Tango Werkskermprojek, wat daarop gemik is om 'n gemene visuele
+   standaard oor verskillende platforms daar te stel. Dit sal gebruikers
+   en ontwikkelaars toelaat om die tegnologië en toepassings waarvan hulle
+   hou te kies ongeag van die werkskermomgewing wat hulle gebruik.
+
+[wysig] GNOME-toepassings
+
+   Kyk Lys van GNOME-toepassings vir 'n meer volledige lys. 'n Versameling
+   toepassings wat tegnologie uit die GNOME-projek gebruik en waarskynlik
+   op 'n gemiddelde GNOME-werkskermsluit die volgende in:
+     * AbiWord — a woordverwerker.
+     * Ekiga — 'n konferensietoepassing vir telefonie en voice over IP.
+     * Epiphany — 'n webblaaier.
+     * Evince — 'n dokumentkyker (PDF, PostScript, en ander).
+     * Evolution — 'n epos- en groepwaretoepassing.
+     * Gaim — 'n kitsboodskapper.
+     * gedit — 'n teksredigeerder.
+     * Die GIMP — 'n gevorderde grafikaredigeerder.
+     * Gnumeric — 'n sigvel.
+     * Inkscape — 'n vektortekenprogram.
+     * Nautilus — 'n leêrbeheerder.
+     * Rhythmbox — 'n musiek-bestuurtoepassings soortgelyk aan iTunes.
+     * Totem — a mediaspeler.
+
+[wysig] Stabiele uitgawes
+
+   Al die onderdele waaruit die GNOME-projek bestaan (kyk Argitektuur) het
+   hulle eie uitgawenommer en vrystellingskedule. Individuele module
+   onderhouers koördineer egter hulle werk om 'n volledige GNOME-stabiele
+   uitgawe rofweg volgens 'n ses-maandelikse skedule vry te stel. Die
+   uitgawes wat in die onderstaande tabel gelys word, word geklassifiseer
+   as stabiel. Onstabiele uitgawes vir toetsers en ontwikkelaars word nie
+   gelys nie – ook nie herstelwerkuitgawes vir individuele modules nie.
+   Uitgawe Datum Inligting
+     Augustus 1997^[14] GNOME-ontwikkeling aangekondig
+   1.0 Maart 1999^[15] Eerste groot GNOME-uitgawe
+   1.0.53 Oktober 1999^[16] "October"
+   1.2 Mei 2000^[17] "Bongo"
+   1.4 April 2001^[18] "Tranquility"
+   2.0 Junie 2002^[19] Groot opgradering gebaseer op GTK2. Invoer van die
+   Menslike Koppelvlak Riglyne
+   2.2 Februarie 2003^[20] Multimedia en lêerbeheerder verbeterings
+   2.4 September 2003^[21] Epiphany, toeganklikheidsondersteuning
+   2.6 Maart 2004^[22] Nautilus verander na 'n ruimtelike lêerbeheerder,
+   en 'n nuwe GTK+ lêerdialoogblokkie word ingevoer. 'n Kortstondige vurk
+   van GNOME, GoneME word geskep in reaksie op die veranderinge in die
+   uitgawe.
+   2.8 September 2004^[23] Verbeterde verwyderbare-toestelondersteuning,
+   byvoeging van Evolution
+   2.10 Maart 2005^[24] Laer geheue vereistes en verrigtingverbeterings.
+   Bygevoeg: nuwe paneel miniprogramme (modembeheer, skyfaanhegter en
+   vullisblik); en die Totem en Sound Juicer toepassings
+   2.12 September 2005^[25] Nautilus verbeterings; verbeterings in
+   knip/plak tussen toepassings en freedesktop.org integrasie. Byfevoeg:
+   Evince PDF-kyker; Nuwe verstek tema: ClearLooks; kieslysredigeerder;
+   sleutelringbeheerder en admininstrasiegereedskap. Gebaseer op GTK+ 2.8
+   met Cairo ondersteuning
+   2.14 Maart 2006^[26] Verrigting verbeterings. Bygevoeg: Ekiga video
+   konferensie toepassing; Werkbalksoekprogram; Pessulus lockdown
+   redigeerder; Vinnige gebruikerskakeling; Sabayon
+   stelseladministrasiegereedskap
+
+[wysig] Bronkode
+
+   GNOME uitgawes word as bronkode geskep wat dan vertaal en met die res
+   van die stelsel geïntegreer word. Meeste bedryfstelselinstallasies
+   gebruik slegs stabiele en getoetsde uitgawes van die GNOME-werksblad,
+   en verskaf dit in die vorm van maklik installeerbare voorafvertaalde
+   pakkette.
+
+   Die handbronkodeaflaaiproses vertaling, en installasie van die
+   volledige GNOME-werksblad is 'n moeisame en tydrowende proses, en 'n
+   aantal bou-skripte (soos JHBuild of GARNOME) word gebruik om dit te
+   outomatiseer.
+
+   Mense wat in toets, herstel van foute of bywerk van nuwe features
+   belangstel kan die jongste onstabiele tak van die GNOME bronkode
+   bewaarplek wat as "HEAD" bekend staan, gebruik — ontwikkelingskode word
+   egter nie aanbeveel vir algemene gebruik nie aangesien dit baie
+   ongetoetste eksperimentele veranderings. Die bronkode van elke stabiele
+   uitgawe van GNOME kan ook van die GNOME-bronkode bewaarplek verkry
+   word. ^[27]
+
+[wysig] Kyk ook
+
+   Sjabloon:Portalpar
+     * GnomeFiles — a sagteware bewaarplek
+     * Linux Dokumentasie Projek
+
+[wysig] Notas en verwysings
+
+    1. ^ About GNOME besoek op 8 September 2005
+    2. ^ ^2,0 ^2,1 "Richard Stallman Stallman on Qt, the GPL, KDE, and
+       GNOME." 2000-09-05. URL besoek op 2005-09-09.
+    3. ^ Section 6 of the LGPL v2.1 prohibits linking to software with a
+       license that restricts reverse-engineering and modification of the
+       work for the customer's own use.
+    4. ^ Desktop Development mailing list, URL accessed 7 Mei 2006.
+    5. ^ GNOME e-poslyste reëls en FAQs.
+    6. ^ Membership of the GNOME foundation besoek op 8 September 2005
+    7. ^ About GUADEC
+    8. ^ List of GNU/Linux distributions that include GNOME
+    9. ^ The official GNOME LiveCD, although this LiveCD does not always
+       contain the very latest GNOME release.
+   10. ^ Project Topaz homepage
+   11. ^ Project Soylent homepage
+   12. ^ Mozilla, Gnome mull united front against Longhorn, URL accessed
+       on 20 April, 2006.
+   13. ^ GNOME desktop-devel mailing list
+   14. ^ The story of the GNOME project by Miguel de Icaza
+   15. ^ GNOME-persverklaring
+   16. ^ GNOME-poslys
+   17. ^ GNOME-persverklaring
+   18. ^ GNOME-persverklaring
+   19. ^ GNOME-poslys
+   20. ^ GNOME-persverklaring
+   21. ^ GNOME-poslys
+   22. ^ GNOME-poslys
+   23. ^ GNOME-persverklaring
+   24. ^ GNOME-persverklaring
+   25. ^ GNOME-persverklaring
+   26. ^ GNOME-persverklaring
+   27. ^ Inligting oor die GNOME bronkode bewaarplek
+
+[wysig] Eksterne skakels
+
+   Sjabloon:Wikinews Sjabloon:Wikibooks
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   GNOME
+
+   Amptelike skakels
+
+     * Die GNOME webwerf
+     * Bewaarplek vir gebruiker en stelsel administrateur riglyne
+     * Die GNOME Dokumentasie Projek
+     * live.gnome.org — 'n saamwerkwebruimte vir GNOME ontwikkelaars
+     * 'n Versameling van GNOME ontwikkelaar blogs
+     * Kunswerk & temas vir die werksblad
+     * Persverklaring van die GNOME projek
+
+   Derde-party skakels
+
+     * gnomesupport.org — 'n GNOME gebruikersondersteunerwerf
+     * Footnotes — 'n nuuswerf en besprekingsforum
+     * GNOME Journal — 'n aanlyn tydskrif toegewy aan die GNOME Werksblad
+
+   Kategorieë: GNU projek sagteware • GNOME • Sagteware • X Window Stelsel
+

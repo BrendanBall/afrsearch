@@ -1,0 +1,63 @@
+Antenne
+
+
+   'n Lugdraad (ook antenne) is 'n elektroniese komponent vir die stuur en
+   ontvang van radiogolwe en ander elektromagnetiese golwe.
+
+   Wanneer 'n elektriese stroom in 'n geleier vloei ontstaan daar 'n
+   magnetiese veld om die geleier en wanneer daar 'n spanningsverskil
+   tussen twee punte bestaan dan is daar 'n elektriese veld tussen die
+   twee punte. Die elektriese en magneties velde kan dan op hulle beurt
+   weer 'n stroom in 'n ander nabygeleë stroombaan opwek.
+
+   'n Antenne is dan 'n geleier wat doelbewus so ontplooi word sodat
+   elektromagnetiese velde as gevolg van die wisselende stroom in, en
+   spanning oor, die geleier vrylik om die geleier kan uitsprei. 'n
+   Antenne kan so gevorm word dat dit die elektromagnetiese veld in 'n
+   spesifieke rigting fokus.
+
+   In teenstelling met antennes probeer 'n mens meestal in elektronika om
+   elektromagnetiese velde te beperk binne in 'n kas of 'n kabel sodat die
+   velde nie ander stroombane kan beïnvloed nie.
+
+   Een van die mees basiese antennes is 'n dipool. Dit bestaan uit 'n
+   geleier wat so lank is as 'n halfgolflengte van die frekwensie van
+   belang. Dit vorm 'n baie doeltreffende eenvoudige antenne.
+
+[wysig] Eienskappe van goeie antennes
+
+   'n Doeltreffende antenne het die volgende eienskappe:
+     * Dit is resonant by die frekwensie wat dit moet uitsaai of ontvang
+     * Dit het 'n impedansie wat dieselfde is as die van die sender of
+       ontvanger waaraan dit gekoppel is. Wanneer die twee impedansies
+       dieselfde is, laat dit maksimum kragoordrag toe.
+     * Dit is so geïnstalleer dat dit vrylik elektromagnetiese energie kan
+       uitstraal. Dit beteken gewoonlik dat dit hoër is as enige
+       obstruksie.
+
+[wysig] Populêre antennes
+
+[wysig] Die dipool
+
+   Die dipool het 'n impedansie van om-en-by 70Ω.
+   Die dipool het 'n impedansie van om-en-by 70Ω.
+
+   Dipole is van die eenvoudigste doeltreffende antennes beskikbaar. 'n
+   Basiese dipool is so lank as een halwe golflengte van die frekwensie
+   waarvoor dit ontwerp is. Om 'n dipool se prestasie te verbeter kan dit
+   gekombineer word met elemente wat die sein weerkaats of fokus.
+
+   Die golflengte in vrye ruimte kan bereken word met die volgende
+   vergelyking.
+
+   \lambda={c\over f}
+
+   waar
+
+   λ : golflengte in meter,
+
+   c : spoed van lig in meter/sekonde
+
+   f : frekwensie in Hertz
+   Kategorie: Radio
+

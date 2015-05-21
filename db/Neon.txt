@@ -1,0 +1,179 @@
+Neon
+
+
+
+                              fluoor – neon
+
+            Ne
+            Ar
+
+
+              Neon in die periodieke tabel
+
+                                                 Volledige tabel
+
+                                                                   General
+                                         Naam, Simbool, Getal Neon, Ne, 10
+                                                  Chemiese reeks Edelgasse
+                                    Groep, Periode, Blok 18 (VIIIA), 2 , p
+                              Digtheid, Hardheid 0.8999 kg/m^3 (273K), NVT
+                                                        Voorkoms kleurloos
+                                                           Atoomeienskappe
+                                                    Atoomgewig 20.1797 ame
+                                      Atoomradius (ber.) geen data (38) pm
+                                                    Kovalente radius 69 pm
+                                               van der Waals radius 154 pm
+                                             Elektronkonfigurasie [He]2s^2
+                                              e^− e per energievlak 2, 8
+                                  Oksidasietoestande (Oksied) 0 (onbekend)
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                                        Fisiese eienskappe
+                                  Toestand van materie Gas (nie-magneties)
+                                           Smeltpunt 24.56 K (-248.59 °C)
+                                            Kookpunt 27.07 K (-246.08 °C)
+                                    Molêre volume 13.23 ×10^−6 m^3/mol
+                                           Verdampingswarmte 1.7326 kJ/mol
+                                             Smeltingswarmte 0.3317 kJ/mol
+                                                        Dampdruk Geen Data
+                                     Spoed van klank 435 m/s teen 273.15 K
+                                                                  Algemeen
+                                             Elektronegatiwiteit Geen Data
+                                 Spesifieke warmtekapasiteit 1030 J/(kg*K)
+                                    Elektriese geleidingsvermoë Geen Data
+                                 Termiese geleidingsvermoë 0.0493 W/(m*K)
+                                  1^ste ionisasie potensiaal 2080.7 kJ/mol
+                                   2^de ionisasie potensiaal 3952.3 kJ/mol
+                                     3^de ionisasie potensiaal 6122 kJ/mol
+                                     4^de ionisasie potensiaal 9371 kJ/mol
+                                    5^th ionisasie potensiaal 12177 kJ/mol
+                                    6^th ionisasie potensiaal 15238 kJ/mol
+                                    7^th ionisasie potensiaal 19999 kJ/mol
+                                  8^th ionisasie potensiaal 23069.5 kJ/mol
+                                                     Mees stabiele isotope
+
+                             iso    NV   Langste t [1/2] is 3.38 m (Ne-24)
+                            ^20Ne 90.48% Ne is stabiel met 10 neutrone
+                            ^21Ne 0.27%  Ne is stabiel met 11 neutrone
+                            ^22Ne 9.25%  Ne is stabiel met 12 neutrone
+
+                         SI units & STD word gebruik tensy anders vermeld.
+
+   Neon is die chemiese element in die periodieke tabel met die simbool Ne
+   en atoomgetal van 10.
+
+   Neon is 'n kleurlose, byna inerte edelgas en straal 'n kenmerkende rooi
+   gloed af wanneer dit in vakuum-ontladingsbuise en neonlampe gebruik
+   word en word in spoorhoeveelhede in lug aangetref.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Sien ook
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Neon is die tweede ligste edelgas, gloei rooierig-oranje in 'n
+   vakuum-ontladingsbuis en het 'n verkoelingskapasiteit wat 40 keer hoër
+   is as vloeibare helium en 3 keer hoër as vloeibare waterstof (op 'n per
+   eenheidsvolume basis). Vir die meeste aanwendings is dit 'n minder duur
+   verkoelingsmiddel as helium. Neon se ontlading teen normale spannings
+   en strome is die mees intenste van al die seldsame gasse.
+
+[wysig] Aanwendings
+
+   Neon se chemiese simbool uigebeeld in 'n Neonlamp
+   Neon se chemiese simbool uigebeeld in 'n Neonlamp
+
+   Die rooi-oranje kleur wat neon uitstraal in 'n neonlamp word algemeen
+   gebruik om reklametekens te maak. Neon word ook gebruik om na hierdie
+   tipe ligte in reklametekens te verwys al word baie ander gasse gebruik
+   om verskillende ligkleure te skep. Ander gebruike:
+     * hoë spanningsverklikkers
+     * weerligafweerders
+     * golfmeterbuise
+     * televisiebuise
+     * Neon en helium word ook gebruik om 'n tipe gaslaser te maak.
+
+   Vloeibare neon word ook kommersiëel gebruik as 'n ekonomiese
+   kriogeniese verkoelingsmiddel.
+
+[wysig] Geskiedenis
+
+   Neon (Grieks neos wat nuut beteken) is ontdek deur William Ramsay en
+   Morris Travers in 1898.
+
+[wysig] Verspreiding
+
+   Neon word gewoonlik aangetref in die vorm van 'n gas met molekules wat
+   bestaan uit 'n enkele neon-atoom. Neon is 'n seldsame gas wat in die
+   Aarde se atmosfeer aangetref word in 'n konsentrasie van 1 deel ver
+   elke 65 000 dele en word geproduseer deur die superverkoeling van lug
+   en fraksionele distillasie om dit van die res van die vloeistof te
+   skei.
+
+[wysig] Verbindings
+
+   Selfs al is neon vir alle praktiese doeleindes 'n inerte element, kan
+   dit wel eksotiese verbindings met fluoor in die laboratorium vorm. Dit
+   is nie verseker bekend of hierdie of enige ander verbinding van neon
+   natuurlik bestaan nie maar daar is tog bewyse dat dit dalk so mag wees.
+   Die ione, Ne^+, (NeAr)^+, (NeH)^+ en (HeNe^+), is al ook waargeneem
+   tydens optiese en massa spektrometrie-navorsing. Neon vorm ook verder
+   'n onstabiele hidraat.
+
+[wysig] Isotope
+
+   Neon het drie stabiele isotope: Ne-20 (90.48%), Ne-21 (0.27%) en Ne-22
+   (9.25%). Ne-21 en Ne-22 is nukleogenies en die variasies in hul
+   verspreiding word goed verstaan. In kontras daarmee is Ne-20 nie bekend
+   as 'n nukleogeen nie en is daar 'n omstrede debat oor die variasie in
+   sy verspreiding op Aarde.
+
+   Die vernaamste kernreaksies wat neon-isotope vrystel is neutron
+   emissie, alfaverval-reaksies van Mg-24 en Mg-25 wat Ne-21 en Ne-22
+   respektiewelik produseer. Die alfa partikels word verkry van
+   uraan-reeks vervalkettings, terwyl die neutrone meestal geproduseer
+   word deur sekondêre van die alfa partikels. Die netto resultaat is 'n
+   neiging tot laer Ne-20/Ne-22 verhoudings en hoër Ne-21/Ne-22
+   verhoudings wat waargeneem word in uraanryke rotse soos graniet.
+   Isotoop analise van blootgestelde aardsgesteentes het die kosmogeniese
+   produksie van Ne-21 bevestig. Hierdie isotoop ontstaan weens
+   splinterreaksies op Mg, Na, Si en Al. Deur die drie isotope te
+   analiseer kan die kosmogeniese komponent ontderskei word van die
+   magmatiese- en nukleogeniese neon. Dit dui daarop dat neon 'n nuttige
+   hulpmiddel sal wees in die bepalingvan kosmiese
+   blootstellingsouderdomme van oppervlakrotse en meteoriete.
+
+   Soortgelyk aan Xenon, kan waargeneem word dat die neon-inhoud in
+   monsters van vulkaniese gasse ryk is in Ne-20, sowel as nukleogeniese
+   Ne-21, relatief tot die Ne-22 inhoud. Die verspreiding van neon-isotope
+   wat teenwoordig is in hierdie monsters dui op 'n nie-atmosferiese bron
+   van neon. Die Ne-20 verrykte komponente word toegeskryf aan eksotiese,
+   seldsame oergas komponente in die aarde, wat moontlik sy oorsprong van
+   die son af het. Verhoogde Ne-20 verspreidings is al ook in diamante
+   gevind wat verdere aanduidings is dat daar 'n reservoir op aarde
+   bestaan van neon wat sy oorsprong in die son het.
+
+[wysig] Sien ook
+
+     * Neon tetra
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Neon
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Neon
+     * EnvironmentalChemistry.com – Neon
+     * It's Elemental – Neon
+
+   Kategorie: Chemiese elemente
+

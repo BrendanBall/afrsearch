@@ -1,0 +1,181 @@
+Termodinamika
+
+
+   Termodinamika word vandag beskou as deel van die vak Fisiese Chemie, al
+   is die Termodinamika as vakgebied streng gesproke ouer as Fisiese
+   Chemie. Die ontstaan van Termodinamika hang nou saam met die uitvinding
+   van die stoommasjien in die 18de eeu. Die ontwikkeling van die
+   onderliggende teorieë vind veral in die 19de eeu plaas en word
+   onlosmaaklik met mense soos Sadi Carnot, Clapeyron, Clausius, Gibbs,
+   Helmholtz, Boltzmann en J.H. van 't Hoff verbind.
+
+   Inhoud
+
+        * 1 Temperatuur en warmte
+        * 2 Die eerste wet van Termodinamika: warmte en arbeid
+        * 3 Die tweede wet van Termodinamika
+        * 4 Die derde wet van Termodinamika
+        * 5 Statistiese termodinamika
+        * 6 Opsomming
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Temperatuur en warmte
+
+   In die 18de eeu is die begrip temperatuur ontwikkel saam met die
+   ontwikkeling van die termometer waarmee hierdie grootheid gemeet word.
+   'n Suksesvolle relatiewe skaal is ontwikkel wat die smeltpunt en
+   kookpunte van water as ykpunte ingespan het (die Celciusskaal). Dit het
+   later duidelik geword dat dit moontlik is om 'n absolute skaal te
+   definieer. 'n Skaal is toe op so 'n wyse ontwikkel waar die indelings
+   dieselfde grootte as die Celsiusskaal sou hê, maar waar die nulpunt by
+   die absolute nulpunt sou begin, eerder as by die vriespunt van water.
+   Dit bring mee dat temperatuurverskille wat in Kelvin en Celsius bereken
+   word dieselfde numeriese waarde het. Die skaal word die Kelvinskaal
+   genoem en is na Lord Kelvin vernoem.
+
+   Dit het ook duidelik geword dat hitte 'n meetbare grootheid was, wat
+   spontaan van 'n liggaam met 'n hoër temperatuur na 'n liggaam met 'n
+   laer temperatuur sou vloei. (Sekere mense verwys soms na hierdie
+   verskynsel as die nulde wet van termodinamika.) Daar is toe vasgestel
+   dat daar verskillende hoeveelhede van hierdie grootheid nodig was om
+   dieselfde temperatuurverskil in verskillende materiale teweeg te bring.
+   Dit neem byvoorbeeld 'n ander hoeveelheid warmte om een gram water met
+   een graad Celsius te verhit as om een gram lood met dieselfde
+   hoeveelheid te verhit. Dit het dan aanleiding gegee tot die
+   ontwikkeling van die begrip van spesifieke warmtekapasiteit.
+
+   Wetenskaplikes het toe uit hulle waarnemings sekere natuurwette
+   waargeneem en daaruit die drie grondliggende wette van termodinamika
+   neergepen.
+
+[wysig] Die eerste wet van Termodinamika: warmte en arbeid
+
+   Daar is geglo dat warmte 'n soort vloeistof was, wat nie vernietig of
+   geskep kon word nie, maar dit het spoedig geblyk dat dit verkeerd was.
+   Wanneer twee voorwerpe teen mekaar geskuur word, veroorsaak die wrywing
+   byvoorbeeld dat warmte vloei. Daar is toe vasgestel dat die hoeveelheid
+   warmte wat met wrywing vrygestel word ooreenkom met die hoeveelheid
+   arbeid (=krag · afstand) betrokke by die wrywing. Warmte en arbeid (ook
+   werk genoem) is oorspronklik in twee verskillende eenhede uitgedruk,
+   maar dit het duidelik geword dat dit moontlik is om die twee groothede
+   aan mekaar gelyk te stel. 'n Nuwe definisie van warmte is toe ontwikkel
+   wat bepaal dat warmte gelykstaande is aan die werk plus die energie: Q
+   = W + ΔU. Dit lei dan tot die Eerste Wet van Termodinamika.
+
+          In 'n geslote stelsel bly die Energie U konstant.
+
+   Later het dit duidelik geword dat daar vele ander vorms van energie,
+   soos bewegingsenergie van 'n motor, die energie van 'n elektriese
+   stroom of die chemiese energie wat in 'n plofstof opgesluit is,
+   bestaan. Termodinamies kan al hierdie vorme van energie in dieselfde
+   eenhede uitgedruk word (in die SI-stelsel word die Joule gebruik). Met
+   die koms van Einstein se relatiwiteitsteorie het dit duidelik geword
+   dat dit selfs geld vir die begrip van massa via E=mc^2 (d.w.s massa kan
+   in energie omgeskakel word en andersom). Energie is 'n
+   toestandsfunksie, wat beteken dat daar vir 'n bepaalde toestand 'n
+   bepaalde hoeveelheid energie bestaan wat onafhanklik is van hoe daardie
+   bepaalde toestand bereik is.
+
+   'n Belangrike vorm van energie wat betrekking het op gasse is dié van
+   volume-arbeid. Vir 'n ideale gas geld die wet pV=nRT
+   (druk·volume)=(aantal mol·R·temperatuur) waar R die gaskonstante is.
+   Verder hang die energie van die gas alleenlik van die temperatuur af.
+   U=nRT . Die produk p·V is dus 'n energieterm.
+
+   Daar bestaan 'n ander toestandfunksie naamlik die Entalpie H=U+P·V wat
+   dikwels gebruik word. In die praktyk is dit baie makliker om te werk
+   met konstante druk as as met konstante volume. Die p·V bepaal dan die
+   verrigte volume-arbeid. Wanneer daar geen gasse by 'n proses betrokke
+   is nie kan die tweede term meestal verwaarloos word.
+
+[wysig] Die tweede wet van Termodinamika
+
+   Oppervlakkig beskou kan daar uit die eerste wet verkeerdelik afgelei
+   word dat alle vorme van energie vryelik uitruilbaar sou wees. Dit is
+   egter nie waar nie. 'n Goeie voorbeeld is wanneer 'n motor gerem word.
+   Dan word die bewegingsenergie (wat uit die chemiese energie van die
+   brandstof verkry is) spontaan omgeskakel na warmte-energie toe. Die
+   motor beweeg egter nie weer spontaan as die rem gelos word nie,
+   aangesien (100%) van die werk in warmte omgesit is ('n proses wat
+   dissipasie heet), maar die warmte word nie weer teruggeskakel na werk
+   toe nie. Dit is wel moontlik om van die warmte weer terug te skakel na
+   werk toe (deur byvoorbeeld 'n heropwekkende remstelsel te gebruik) maar
+   dit is nie moontlik om die volle 100% weer te herwin nie. Hierdie
+   verskynsel het gelei tot die formulering van die Tweede wet van
+   Termodinamika deur Thomson en Planck wat as volg lui:
+Dit is onmoontlik om 'n kringloopproses op te stel waar die enigste gevolg is da
+t 'n hoeveelheid
+warmte uit 'n reservoir omgeskakel word na 'n ooreenkomstige hoeveelheid werk
+
+   'n Verwante misverstand is dat 'n spontane proses dieselfde is as 'n
+   eksotermiese proses, d.w.s. 'n proses waar warmte vrygestel word.
+   Wanneer 'n mens egter een stof soos bv. Kaliumnitraat in water oplos,
+   verloop die proses spontaan, maar daar word warmte opgeneem: die
+   oplossing word koud. Die eerste wet bied geen verklaring vir hierdie
+   verskynsel nie. Dit is moontlik om hierdie tekortkoming in die eerste
+   wet uit die weg te ruim deur 'n nuwe toestandsfunksie te definieer: die
+   Entropie S. Hierdie funksie word gedefinieer as S = q[omkeerbaar]/T.
+
+   Die omkeerbare warmte q[omkeerbaar] is die warmte wat 'n proses afgee
+   of opneem as die stelsel deur 'n omkeerbare roete van toestand A na
+   toestand B gebring word. 'n Omkeerbare roete is 'n reeks toestande wat
+   in rus (of ewewig) verkeer.
+
+   Wanneer die toestandfunksies as volg gekombineer word:
+
+          A= U-TS en
+          G= H-TS = U+pV-TS
+
+   kry 'n mens die toestandsfunksies van A (die Vrye Energie of
+   Helmholtzenergie) en G (die Vrye Entalpie of Gibbsenergie). Hierdie
+   twee funksies word dan gebruik om vas te stel of 'n proses spontaan kan
+   verloop aldan nie:
+By konstante druk is 'n proses spontaan as die Gibbsenergie afneem.
+
+   (Bostaande is basies 'n herformulering van die tweede wet).
+   Sien ook: Postulaat van Clausius; Dissipasie vermoede
+
+[wysig] Die derde wet van Termodinamika
+
+   Ten slotte is daar nog een derde wet: Wanneer 'n perfekte kristal to
+   T=0K afgekoel word benader die Entropie 'n nul waarde.
+
+   Die derde 'wet' is 'n erge idealisering, want 'n perfekte kristal
+   bestaan nie. 'n Kristal kan by T = 0K nie groei nie en as 'n kristal by
+   'n hoër temperatuur groei sal dit nooit regtig perfek word nie, maar
+   altyd bietjie wanorde inbou en 'n bietjie onvolmaak wees. As die effens
+   onvolmaakte kristal afgekoel word na T=0K sal die entropie nie
+   heeltemaal na nul gaan nie.
+
+[wysig] Statistiese termodinamika
+
+   Klassieke termodinamika is geheel en al 'n verskynselgerigte teorie,
+   wat nie die atomiese struktuur van materie in rekening bring nie. 'n
+   Latere mikroskopiese teorie is ontwikkel, die statistiese
+   termodinamika, waar daar aan die termodinamiese groothede 'n
+   interpretasie verleen word, in terme van die statistiese verdeling van
+   energie oor die energietoestande van die atome en molekules, waaruit 'n
+   stelsel wat bestuur word bestaan.
+
+[wysig] Opsomming
+
+   'n Baie informele en beknopte opsomming van termodinamika as vakgebied
+   is as volg:
+    1. Warmte stroom van warm na kouer en nie omgekeerd.
+    2. 'n Mens kan nie energie in 'n proses skep nie, maar hoogstens met
+       ewe veel energie opeindig.
+    3. 'n Mens kan alleen met ewe veel energie opeindig by die absolute
+       nulpunt.
+    4. Dit is in beginsel onmoontlik om die absolute nulpunt te bereik.
+
+[wysig] Verwysings
+
+   Nederlandstalige wikipedia
+
+[wysig] Eksterne skakels
+
+     * Nederlandstalige inleiding tot termodinamika (263 bl)
+
+   Kategorieë: Termodinamika • Fisiese Chemie • Natuurwetenskap
+

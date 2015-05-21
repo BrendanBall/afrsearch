@@ -1,0 +1,71 @@
+Gleditsia
+
+
+                      Gleditsia
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Honey Locust (Gleditsia triacanthos)
+   Honey Locust (Gleditsia triacanthos)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magnoliophyta
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Magnoliopsida
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Fabales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Fabaceae
+     Subfamilie:   Caesalpinioideae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gleditsia
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Beskrywing
+
+   Hoë, slanke, peuldraende boom met fyn, saamgestelde blare. Stam soos 'n
+   turksvy bedek met doringtossels. Fyn, wit bloeiwyses vanaf midsomer.
+
+   Verspreiding
+
+   Inheems aan die Mississippivallei. Uitgevoer na Europa waar dit 'n
+   gewilde tuin- en sierboom is.
+
+   Verwysing
+     * Der Kosmos Baumführer. Humphries, Press, Sutton
+
+   Kategorie: Bome
+

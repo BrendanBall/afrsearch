@@ -1,0 +1,111 @@
+Gewone blousysie
+
+
+                      Gewone blousysie
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+                Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Estrildidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Uraeginthus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     U. angolensis
+     Subspesie:    {{{subspecies}}}
+          [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                       Binomiale naam
+                   Uraeginthus angolensis
+   (Linnaeus, 1758)
+                      Trinomiale naam
+                      {{{trinomial}}}
+                        Tipe Spesies
+                     {{{type_species}}}
+                  {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die gewone blousysie in Suider-Afrika
+   Verspreiding van die gewone blousysie in Suider-Afrika
+                         Sinonieme
+   {{{synonyms}}}
+
+   Die gewone blousysie is 'n opvallende klein (lengte 12-13cm) voëltjie
+   wat tydens die broeiseisoen in pare beweeg, andersins in groterige
+   swerms (40 of selfs meer individue). Wei meestal op die grond maar kan
+   ook insekte tydens vlug vang.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+             + 5.1 Suid-Afrikaanse voëls
+             + 5.2 Bronnelys
+
+[wysig] Identifikasie
+
+   Muisgrys bodele en kop, met kenmerkende poeierblou onderdele en laer
+   deel van gesig. Bekkie wissel tussen pienk en ligblou, bene en pote
+   ligbruin.
+
+[wysig] Habitat
+
+   Oop bosveld, rivieroewerbos, langs landerye. Soms op kant van
+   immergroen woud.
+
+[wysig] Verspreiding
+
+   Vanaf Angola, noordelike dele van Namibië en Botswana, Zimbabwe,
+   Limpopo provinsie, Swaziland en Kwazulu Natal.
+
+[wysig] Geluid
+
+   Dringende sweep sweep, vinnig opvolgend.
+
+[wysig] Ander name
+
+     * Engelse naam: Blue Waxbill
+     * Tswana: Xidzingirhi
+     * Duits: Angola-Schmetterlingsfink
+     * Wetenskaplike naam: Uraeginthus angolensis
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Roberts' Birds of Southern Africa, Sixth Edition, ISBN 0620175834
+
+   Kategorie: Voëls
+

@@ -1,0 +1,59 @@
+Dimensionaliteitvermindering
+
+
+   In statistiek is dimensionaliteitvermindering die afbeelding van 'n
+   multidimensionele ruimte na 'n ruimte met minder dimensies. Dit is soms
+   die geval dat analises soos regressie of klassifikasie meer akkuraat in
+   'n verminderde ruimte uitgevoer kan word as in die oorspronklike
+   ruimte.
+
+   Beskou 'n string krale met die eerste 100 swart en dan 100 wit. As die
+   string opgevou is of in 'n bondeltjie lê, is 'n klassifikasiegrens
+   tussen swart en wit krale baie ingewikkeld in drie dimensies. Daar is
+   egter 'n afbeelding van drie dimensies na een dimensie, naamlik die
+   afstand langs die string af, wat die klassifikasie triviaal maak.
+   Ongelukkig is so 'n dramatiese vereenvoudiging selde in praktyk
+   moontlik.
+
+   Om 'n meer realistiese voorbeeld te gee, beskou die atmosferiese
+   toestand: miskien maandelikse gemiddelde oppervlakdruk, voorgestel op
+   'n een graad rooster. Dit sal maand-na-maand en punt-na-punt verskil.
+   As die korrelasie matriks van die data opgestel word en die eievektore
+   bepaal word (sien hoofkomponentontleding) en volgens eiewaarde gelys
+   word, dan kan (gewoonlik) slegs die eerste paar eiewaardes gebruik word
+   om 'n groot breukdeel van die variansie van die oorspronklike data te
+   herkonstrueer. Verder kan die eerste paar eievektore baie keer
+   geïnterpreteer word in terme van die grootskaalse fisiese optrede van
+   die stelsel. Die oorspronklike ruimte (met dimensie gelyk aan die
+   aantal punte) is verminder (met dataverlies, maar hopelik met behoud
+   van meeste belangrike variansie) tot die ruimte onderspan deur 'n paar
+   eievektore.
+
+   Dimensionaliteitvermindering sonder verlies aan inligting is moontlik
+   as die data onder beskouing presies op 'n gladde, lokaal plat,
+   subruimte val; dan is die verminderde dimensies slegs koördinate in die
+   subruimte. Meer algemeen is data ruiserig en bestaan daar nie 'n
+   presiese afbeelding nie en is daar dus 'n mate van verlies aan
+   inligting. Dimensionaliteitvermindering is effektief as die verlies van
+   inligting as gevolg van die afbeelding na 'n laer-dimensionele ruimte
+   minder is as die voordeel meegebring deur die vereenvoudiging van die
+   probleem.
+
+   Dimensionaliteitverminderingmetodes kan geklassifiseer word as lineêre
+   of nie-lineêre metodes. Lineêre metodes poog om 'n globale plat
+   subruimte te vind terwyl nie-lineêre metodes poog om 'n plaaslike plat
+   subruimte te vind. Soos in die geval van ander probleme, is lineêre
+   metodes eenvoudiger en word dit beter verstaan, terwyl nie-lineêre
+   metodes baie keer meer algemeen is en moeiliker is om te analiseer.
+
+[wysig] Eksterne skakels
+
+     * A survey of dimension reduction techniques (US DOE Office of
+       Scientific and Technical Information, 2002)
+     * Unsupervised Learning of Image Manifolds by Semidefinite
+       Programming
+     * Locally Linear Embedding
+     * A Global Geometric Framework for Nonlinear Dimensionality Reduction
+
+   Kategorieë: Statistiek • Masjienleer • Dimensie
+

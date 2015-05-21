@@ -1,0 +1,60 @@
+Intyds
+
+
+   'n Bewerking binne 'n groter dinamiese stelsel word 'n intydse
+   bewerking genoem as die gekombineerde reaksie- en bewerkingstyd van 'n
+   taak korter is as die maksimum toelaatbare vertraging ten opsigte van
+   die omstandighede buite die bewerking. Die taak moet dan ook uitgevoer
+   word voordat die stelsel wat beheer word onstabiel word. 'n Intydse
+   bewerking is nie noodwendig vinnig nie, aangesien stadige stelsels
+   stadige intydse bewerkings kan toelaat. Dit is van toepassing op alle
+   tipes dinamies veranderende stelsels. Die teenoorgestelde van 'n
+   intydse bewerking is 'n bondelverwerking met interaktiewe tydverdeling
+   wat iewers tussen die twee uiterstes val.
+
+   'n Tipiese voorbeeld kan die rekenaarbeheerde remstelsel in 'n kar
+   wees. As die bestuurder 'n kar kan stop voordat dit 'n muur tref, word
+   die werking as intyds beskou; as die kar die muur tref dan was dit
+   natuurlik nie so nie. Baie masjiene vereis intydse beheerders om
+   onstabiliteit te vermei, wat kan lei tot ongelukskade of vernietiging
+   van die stelsel, mense of voorwerpe.
+
+   Sommige intydse stelsels het nie so 'n beperking op vertraging nie
+   solank die inset data vinnig genoeg verwerk kan word sodat geen
+   opeenhoping plaasvind nie. In 'n intydse digitale seinverwerkingstelsel
+   kan die geanaliseerde (inset) of gegenereerde (uitset) monsters (of
+   hulle nou saam gegroepeer word of indiwidueel verwerk word) verwerk (of
+   gegenereer) word op 'n deurlopende basis in die tyd wat dit neem om die
+   in- en/of uitvoer van dieselfde stel monsters te verrig onafhanklik van
+   die verwerkingsvertraging. Beskou 'n oudio DSV as voorbeeld: as 'n
+   proses 2.01 sekondes neem om 2.00 sekondes se klank te verwerk of
+   analiseer dan is die bewerking nie intyds nie. As dit 1.99 sekondes
+   neem dan is dit (of kan dit verander word in) 'n intydse DSV (digitale
+   seinverwerkingsproses).
+
+   'n Alledaagse voorbeeld hiervan is een waar 'n mens in 'n tou staan by
+   die kassier van 'n supermark. As die tou asimptoties langer en langer
+   word sonder einde dan is die betaalproses nie intyds nie. As die lengte
+   van die tou beperk word, word kliënte verwerk en uitgelaat (uitset) net
+   so vinnig as wat hulle agter die tou inkom (inset) en kan die proses as
+   intyds beskryf word. Die bestuurder kan in die geval sy besigheid kwyt
+   wees of baie klandisie verloor as hy nie sy betaalproses intyds kan
+   maak nie (dit is dus fundamenteel belangrik dat die proses intyds is).
+
+   In die ekonomie is intydse stelsels basies inligtingstegnologieë, wat
+   intydse toegang tot inligting of data verskaf. Die vermoë van 'n
+   maatskappy om sy data intyds te verwerk verhoog die mededingendheid van
+   die maatskappy. Intydse verwerkingstelsels is nuwe tegnologieë en word
+   verwag om verder te verbeter in die komende dekades.
+
+[wysig] Sien ook
+
+     * Intydse berekening
+     * Intydse beheer
+     * Intydse bedryfstelsel
+     * Intydse video redigering
+     * Embedded system
+     * Frame rate
+
+   Kategorieë: Rekenaarwetenskap • Beheerstelsel
+

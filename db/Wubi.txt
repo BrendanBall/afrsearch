@@ -1,0 +1,75 @@
+Wubi
+
+
+   'n Skermknippie van Wubi 8.04
+   'n Skermknippie van Wubi 8.04
+
+   Wubi (Windows-based Ubuntu Installer) is 'n amptelike vrye sagteware,
+   Windows gebaseerde installeerder vir die Ubuntu bedryfstelsel.^[1]
+
+   Wubi is as 'n onafhanklike projek van Ubuntu gebore maar word sedert
+   weergawe 8.04 by Ubuntu ingesluit. Wubi kan ook op die Ubuntu Live CD
+   aangetref word ^[2] en is ook by Ubuntu 7.10 Gutsy Gibbon weergawe
+   ingesluit.^[3]^[4]
+
+   Die doel van die projek is om gebruikers van Windows bekend te stel aan
+   Linux deur Ubuntu te gebruik sonder om enige risiko te loop om data te
+   verloor as gevolg van formatering of segmentering van hul hardeskywe.
+   Wubi kan ook gebruik word om Ubuntu vanuit Windows te oninstalleer.
+
+   Wubi is nie 'n virtuele masjien nie, dit skep eerder 'n alleenstaande
+   installasie binne 'n lusgemonteerde toestel. Dit is nie opsigself 'n
+   Linux-verspreiding nie maar eerder 'n installeerder vir die Ubuntu
+   bedryfstelsel.^[1]
+
+   Wubi installeer nie Ubuntu direk op sy eie hardeskyf-partisie nie en
+   kan ook nie ongebruikte hardeskyfspasie gebruik om die bedryfstelsel te
+   installeer nie. 'n Mens sou egter bogenoemde kon vermag met die LVPM
+   (Loopmounted Virtual Partition Manager) gebruik om die
+   Wubi-gegenereerde Ubuntu installasie na 'n regte partisie te verskuif,
+   soos byvoorbeeld op 'n USB flitskyfie.^[1] Hierdie opstelling het die
+   voordeel dat gebruikers die bedryfstelsel en drywers kan toets voordat
+   hulle dit op 'n eie pasgemaakte partisie installeer (om sodoende
+   risikos rakende die loodsprogram en ander funksies van die bestaande
+   bedryfstelsel te vermy).
+
+   Wubi voeg 'n keuse by die standaard Windows loodsgids wat 'n mens in
+   staat stel om Linux te hardloop. Ubuntu word binne 'n lêer in die
+   Windows lêerstelsel (c:\ubuntu\disks\root.disk) gestoor eerder as op sy
+   eie partisie. Hierdie lêer word dan deur Linux gebruik asof dit 'n
+   werklike hardeskyf is.^[5]
+
+   'n Verwante projek, Lubi, gebruik Linux as die gasheerstelsel in plaas
+   van Windows.^[6] 'n Weergawe vir die Mac OS-bedryfstelsel, Mubi, word
+   ook in die vooruitsig gestel.
+
+[wysig] Beperkinge
+
+     * Hibernering word nie ondersteun nie.
+     * Wubi se lêerstelsel is meer kwesbaar vir probleme wat spruit uit
+       skielike kragonderbrekings as 'n normale lêerstelsel.
+
+[wysig] Verwysings en voetnotas
+
+    1. ^ ^1,0 ^1,1 ^1,2 http://wubi-installer.org/faq.php, Wubi - FAQ,
+       Wubi, nagegaan op 2007-06-23
+    2. ^ http://wubi.sourceforge.net/faq.php Wubi - FAQ
+    3. ^ http://ubuntuforums.org/showthread.php?t=425557, Discussions for
+       Wubi inclusion in Gutsy, Ubuntu Forums, Henrik, 2007-04-27,
+       nagegaan op 2007-06-23
+    4. ^ https://wiki.ubuntu.com/InstallerForWindows, "Installer For
+       Windows - Ubuntu Wiki", Ubuntu, nagegaan op 2007-06-23
+    5. ^ http://wubi.sourceforge.net/faq.php Wubi - FAQ
+    6. ^ http://lubi.sourceforge.net/lubi.html Inligting oor Lubi, LVPM,
+       UNetbootin, en Bubakup - Lubi
+
+[wysig] Eksterne skakels
+
+     * Wubi se amptelike webwerf
+     * Wubi-gids op die amptelike Ubuntu Wiki
+     * Meta-skakels
+     * Amptelike Wubi forum
+     * Die linux weergawe van die projek se webwerf.
+
+   Kategorie: Vrye sagteware
+

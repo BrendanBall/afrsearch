@@ -1,0 +1,457 @@
+Pi
+
+
+   Die kleinletter pi
+   Die kleinletter pi
+   Indien 'n sirkel se deursnee gelykstaande aan 1 is, is sy omtrek
+   gelykstaande aan π.
+   Indien 'n sirkel se deursnee gelykstaande aan 1 is, is sy omtrek
+   gelykstaande aan π.
+
+   Die wiskundige konstante π (geskryf as "pi" wanneer die Griekse letter
+   nie beskikbaar is nie, uitgespreek "pie") word algemeen in wiskunde en
+   fisika gebruik. In Euclidiese meetkunde word π gedefinieer as óf die
+   verhouding van 'n sirkel se omtrek tot sy deursnit, óf as die
+   oppervlakte van 'n sirkel van radius 1 (die eenheidsirkel). Meeste
+   moderne handboeke definieer π analities deur trigonometriese funksies
+   te gebruik, soos b.v. as die kleinste positiewe x waarvoor sin(x) = 0,
+   of twee maal die kleinste positiewe x waarvoor cos(x) = 0. Al hierdie
+   definisies is ekwivalent.
+
+   Pi is ook bekend as Archimedes se konstante (nie dieselfde as
+   Archimedes se getal nie) en Ludolph se getal.
+
+   Die numeriese waarde van π, afgerond tot 64 desimale plekke is: 3.14159
+   26535 89793 23846 26433 83279 50288 41971 69399 37510 58209 74944 5923
+
+   Inhoud
+
+        * 1 Eienskappe
+        * 2 Formules wat π betrek
+             + 2.1 Meetkunde
+             + 2.2 Analise
+             + 2.3 Komplekse analise
+             + 2.4 Aangehoude breuke
+             + 2.5 Getalteorie
+             + 2.6 Dinamiese stelsels / ergodiese teorie
+             + 2.7 Fisika
+             + 2.8 Waarskynlikheid en statistiek
+        * 3 Geskiedenis
+        * 4 Numeriese benaderings van π
+        * 5 Oop vrae
+        * 6 π-kultuur
+        * 7 Verwante artikels
+        * 8 Eksterne skakels
+             + 8.1 Syferbronne
+             + 8.2 Berekening
+             + 8.3 Algemeen
+             + 8.4 Memorisering
+
+[wysig] Eienskappe
+
+   Pi is 'n irrasionele getal: dit beteken dat dit nie as die verhouding
+   tussen twee heelgetalle geskryf kan word nie. Dié eienskap is in 1761
+   deur Johann Heinrich Lambert bewys. Daarbenewens is die getal
+   transendent, soos bewys deur Ferdinand von Lindemann in 1882: dit
+   beteken daar is geen polinoom met rasionele (of, ekwivalent,
+   heeltallige) koëffisiënte waarvan π 'n wortel is nie.
+
+   'n Belangrike gevolg van die transendentaliteit van π is die feit dat
+   dit nie konstrueerbaar is nie: dit beteken dat dit onmoontlik is om π
+   uit te druk met 'n eindige hoeveelheid heelgetalle, breuke en hul
+   vierkantswortels. Hierdie resultaat bewys dat dit onmoontlik is om 'n
+   sirkel te kwadreer: dit is onmoontlik om 'n vierkant te konstrueer,
+   deur net 'n liniaal en passer te gebruik, waarvan die area gelyk is aan
+   die area van 'n gegewe sirkel. Die rede is dat alle koördinate van
+   punte wat gekonstrueer kan word met 'n liniaal en passer,
+   konstrueerbare getalle is.
+
+   Terwyl die oorspronklike Griekse letter vir pi foneties ekwivalent aan
+   die Engelse letter p was, word dit deesdae soortgelyk aan die Engelse
+   pie uitgespreek.
+
+[wysig] Formules wat π betrek
+
+[wysig] Meetkunde
+
+   Pi kom voor in baie formules in meetkunde wat sirkels en sfere betrek.
+   Meetkundige vorm Formule
+   Omtrek van 'n sirkel met radius r C = 2 \pi r \,\!
+   Oppervlakte van 'n sirkel met radius r A = \pi r^2 \,\!
+   Oppervlakte van 'n ellips met halfasse a en b A = \pi a b \,\!
+   Volume van 'n sfeer met radius r V = \frac{4}{3} \pi r^3 \,\!
+   Oppervlakte van 'n sfeer met radius r A = 4 \pi r^2 \,\!
+   Volume van 'n silinder met hoogte h en radius r V = \pi r^2 h \,\!
+   Oppervlakte van 'n silinder met hoogte h en radius r A = 2 ( \pi r^2 )
+   + ( 2 \pi r ) h = 2 \pi r (r + h) \,\!
+   Volume van 'n keël van hoogte h en radius r V = \frac{1}{3} \pi r^2 h
+   \,\!
+   Oppervlakte van keël met hoogte h en radius r A = \pi r \sqrt{r^2 +
+   h^2} + \pi r^2 = \pi r (r + \sqrt{r^2 + h^2}) \,\!
+
+   Verder ook is die hoekmeting 180° (in grade) gelyk aan π radiale.
+
+[wysig] Analise
+
+   Baie formules in analise bevat π, insluitend oneindige reeks- en
+   produkvoorstellings, integrale en sogenaamde spesiale funksies.
+     * François Viète, 1593:
+
+          \frac2\pi= \frac{\sqrt2}2 \frac{\sqrt{2+\sqrt2}}2
+          \frac{\sqrt{2+\sqrt{2+\sqrt2}}}2\ldots
+
+     * Leibniz se formule (bewys):
+
+          \frac{1}{1} - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} +
+          \frac{1}{9} - \cdots = \frac{\pi}{4}
+          Hierdie gereeld-aangehaalde oneindige reeks word gewoonlik soos
+          bo geskryf, maar kan meer tegnies uitgedruk word as:
+          \sum_{n=1}^{\infty} (-1)^{n-1} \left (\frac{1}{2n-1}\right ) =
+          \frac{\pi}{4}
+
+     * Wallis se produk (bewys):
+
+          \frac{2}{1} \cdot \frac{2}{3} \cdot \frac{4}{3} \cdot
+          \frac{4}{5} \cdot \frac{6}{5} \cdot \frac{6}{7} \cdot
+          \frac{8}{7} \cdot \frac{8}{9} \cdots = \frac{\pi}{2}
+
+     * 'n Integraalformule vanuit calculus (sien ook die Errorfunksie en
+       Normaalverspreiding):
+
+          \int_{-\infty}^{\infty} e^{-x^2}\,dx = \sqrt{\pi}
+
+     * Basel se probleem, eerste opgelos deur Euler (sien ook Riemann zeta
+       funksie):
+
+          \zeta(2) = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} +
+          \frac{1}{4^2} + \cdots = \frac{\pi^2}{6}
+          \zeta(4)= \frac{1}{1^4} + \frac{1}{2^4} + \frac{1}{3^4} +
+          \frac{1}{4^4} + \cdots = \frac{\pi^4}{90}
+          en in die algemeen, ζ(2n) is 'n rasionele veelvoud van π^2n vir
+          positiewe heelgetal n.
+
+     * Gammafunksie geëvalueer by 1/2:
+
+          \Gamma\left({1 \over 2}\right)=\sqrt{\pi}
+
+     * Stirling se benadering:
+
+          n! \sim \sqrt{2 \pi n} \left(\frac{n}{e}\right)^n
+
+     * Euler se identiteit (deur Richard Feynman genoem "die mees
+       opmerklike formule in wiskunde"):
+
+          e^{\pi i} + 1 = 0\;
+
+     * Eienskap van Euler se tosiëntfunksie (sien ook Fareyreeks):
+
+          \sum_{k=0}^{n} \phi (k) \sim 3 n^2 / \pi^2
+
+     * Oppervlak van 'n kwart van die eenheidsirkel:
+
+          \int_0^1 \sqrt{1-x^2} = {\pi \over 4}
+
+[wysig] Komplekse analise
+
+     * 'n Spesiale geval van Euler se formule
+
+          e^{i\pi}\,\!+1=0
+
+     * 'n Toepassing van die residuteorema
+
+          \oint\frac{dz}{z}=2\pi i
+
+[wysig] Aangehoude breuke
+
+   Pi het vele aangehoude breukvoorstellings, onder andere:
+
+          \frac{4}{\pi} = 1 + \frac{1}{3 + \frac{4}{5 + \frac{9}{7 +
+          \frac{16}{9 + \frac{25}{11 + \frac{36}{13 + ...}}}}}}
+
+   (Sien ander voorstellings by The Wolfram Functions Site.)
+
+[wysig] Getalteorie
+
+   'n Paar resultate vanuit getalteorie:
+     * Die waarskynlikheid dat twee ewekansige heelgetalle kopriem is, is
+       6/π^2.
+     * Die waarskynlikheid dat 'n ewekansige heelgetal wortelvry is, is
+       6/π^2.
+     * Die gemiddelde hoeveelheid maniere om 'n positiewe heelgetal as die
+       som van twee perfekte vierkante (orde is belangrik) te skryf, is
+       π/4.
+
+   Hier word "waarskynlikheid", "gemiddeld" en "ewekansig" in die
+   beperking van 'n limiet geneem, d.w.s., ons oorweeg die waarskynlikheid
+   vir 'n stel heelgetalle {1, 2, 3, ..., N}, waar die limiet van N na
+   oneindigheid streef.
+
+[wysig] Dinamiese stelsels / ergodiese teorie
+
+   In dinamiese stelselteorie (sien ook ergodiese teorie), vir amper elke
+   reëele x[0] in die interval [0,1], geld
+
+          \lim_{n \to \infty} \frac{1}{n} \sum_{i = 1}^{n} \sqrt{x_i} =
+          \frac{2}{\pi}\,,
+
+   waar x[i] die iterate van die Logistieke kaart van r = 4 is.
+
+[wysig] Fisika
+
+   Formules uit fisika:
+     * Heisenberg se onsekerheidseienskap:
+
+          \Delta x \Delta p \ge \frac{h}{4\pi}
+
+     * Einstein se veldvergelyking van algemene relatiwiteit:
+
+          R_{ik} - {g_{ik} R \over 2} + \Lambda g_{ik} = {8 \pi G \over
+          c^4} T_{ik}
+
+     * Coulomb se wet vir elektriese krag:
+
+          F = \frac{\left|q_1q_2\right|}{4 \pi \epsilon_0 r^2}
+
+[wysig] Waarskynlikheid en statistiek
+
+   In waarskynlikheid en statistiek is daar baie verspreidings wat se
+   formule π bevat, insluitend:
+     * waarskynlikheidsdigtheidsfunksie (wdf) vir die normaalverspreiding
+       met gemiddelde μ en standaardafwyking σ:
+
+          f(x) = {1 \over \sigma\sqrt{2\pi} }\,e^{-(x-\mu )^2/(2\sigma^2)}
+
+     * wdf vir die (standaard) Cauchyverspreiding:
+
+          f(x) = \frac{1}{\pi (1 + x^2)}
+
+   Let daarop dat die boonste formules ander integraalformules vir π kan
+   voortbring omdat \int_{-\infty}^{\infty} f(x)\,dx = 1 vir enige wdf
+   f(x).
+
+   'n Interessante empiriese benadering van π is gebaseer op die probleem
+   van Buffon se naald. Beskou die val van 'n naald met lengte L
+   aanhoudend op 'n oppervlak met parallelle lyne S eenhede uit mekaar
+   (met S > L). Indien die naald n keer laat val word, en x keer tot ruste
+   kom en 'n lyn oorkruis (x > 0), dan kan π benader word deur:
+
+          \pi \approx \frac{2nL}{xS}
+
+[wysig] Geskiedenis
+
+   Die simbool "π" vir Archimedes se konstante is eerste in 1706 deur
+   William Jones voorgestel toe hy A New Introduction to Mathematics
+   gepubliseer het, alhoewel dieselfde simbool reeds vroeër gebruik was om
+   die omtrek van 'n sirkel aan te dui. Die skryfwyse het algemeen geword
+   ná dit deur Leonhard Euler aangeneem is. In iedergeval, π is die eerste
+   letter van περιμετρος (perimetros), wat beteken 'rondom meet' in
+   Grieks.
+
+[wysig] Numeriese benaderings van π
+
+   As gevolg van die transendente aard van π is daar geen geslote-vorm
+   uitdrukkings vir π nie. Daarom moet numeriese berekenings benaderings
+   tot die getal gebruik. Vir baie doeleindes is 3.14 of 22/7 naby genoeg,
+   alhoewel ingenieurs gereeld 3.1416 (5 beduidende syfers) of 3.14159 (6
+   beduidende syfers) gebruik vir beter akkuraatheid. Die benaderings 22/7
+   en 355/113, met 3 en 7 beduidende syfers respektiewelik, word verkry
+   uit die eenvoudige aangehoue breukuitbreiding van π.
+
+   'n Egiptiese skrywer genaamd Ahmes is die bron van die oudste bekende
+   teks wat 'n benadering vir π gee. Die papirusrol dateer terug na die
+   17de eeu v.C., en beskryf die waarde in só 'n manier dat die resultaat
+   verkry word uit 256/81 of 3.160.
+
+   Die Chinese wiskundige Liu Hui het π bereken tot 3.141014 (korrek tot
+   drie desimale plekke) in 263, en het voorgestel dat 3.14 'n goeie
+   benadering is.
+
+   Die Indiese wiskundige en sterrekundige Aryabhata het 'n akkurate
+   benadering vir π gegee. Hy skryf "Tel vier by eenhonderd,
+   vermenigvuldig met agt en tel dan twee-en-sestigduisend by. Die
+   resultaat is ongeveer die omtrek van 'n sirkel met deursnit van
+   twintigduisend. Deur hierdie reël word die verhouding van die omtrek
+   tot die diameter gegee." In ander woorde, (4+100)×8 + 62000 is die
+   omtrek van die sirkel met radius 20000. Dit verskaf 'n waarde van π =
+   62832/20000 = 3.1416, korrek tot vier desimale plekke.
+
+   Die Chinese wiskundige en sterrekundige Zu Chongzhi het π tot 3.1415926
+   en later tot 3.1415927 bereken, en het twee benaderings (355/113 en
+   22/7) gelewer in die 5de eeu.
+
+   Die Iranse wiskundige en sterrekundige Ghyath ad-din Jamshid Kashani
+   (1350-1439) het π tot 9 plekke bereken in die basis 60, wat ooreenstem
+   met 'n 16-syfer desimale getal as volg:
+
+          2 π = 6.2831853071795865
+
+   Die Duitse wiskundige Ludolph van Ceulen (rondom 1600) het die eerste
+   35 desimale plekke bereken. Hy was só trots op hierdie deurbraak gewees
+   dat hy dit op sy grafsteen laat skryf het.
+
+   Die Sloveense wiskundige Jurij Vega het in 1789 die eerste 140 desimale
+   plekke vir π bereken, waarvan die eerste 137 korrek was en die
+   wêreldrekord vir 52 jaar behou het, todat William Rutherford in 1841
+   208 desimale plekke bereken het, waarvan die eerste 152 korrek was.
+   Vega het John Machin se formule van 1706 verbeter, en sy metode word
+   steeds vandag genoem.
+
+   Geen van die bogenoemde formules kan gebruik word as 'n maklike manier
+   om π mee te benader nie. Vir vinnige berekenings kan mens formules soos
+   Machin s'n gebruik:
+
+          \frac{\pi}{4} = 4 \arctan\frac{1}{5} - \arctan\frac{1}{239} ,
+
+   tesame met die Taylorreeksuitbreiding van die funksie arctan(x).
+   Hierdie formule is maklik nagegaan deur poolkoördinate van komplekse
+   getalle te gebruik, beginnende met
+
+          (5+i)^4\cdot(-239+i)=-114244-114244i.
+
+   Uiters lang desimale uitbreidings van π word tipies deur die
+   Gauss-Legendre algoritme en Borwein se algoritme bereken; die
+   Salamin-Brent algoritme, wat in 1976 uitgevind is, is ook in die
+   verlede gebruik.
+
+   Die eerste een miljoen syfers van π en 1/π is beskikbaar van Project
+   Gutenberg (sien eksterne skakels hieronder). Die huidige rekord
+   (Desember 2002) staan by 1,241,100,000,000 syfers, wat in September
+   2002 op 'n 64-nodus Hitachi superrekenaar met 1 teragreep hoofgeheue
+   bereken, wat 2 triljoen berekenings per sekonde uitvoer, nagenoeg twee
+   keer soveel as die rekenaar gebruik vir die vorige rekord van 206
+   biljoen syfers. Die volgende Machin-agtige formules is gebruik
+   hiervoor:
+
+          \frac{\pi}{4} = 12 \arctan\frac{1}{49} + 32 \arctan\frac{1}{57}
+          - 5 \arctan\frac{1}{239} + 12 \arctan\frac{1}{110443}
+          K. Takano (1982).
+
+          \frac{\pi}{4} = 44 \arctan\frac{1}{57} + 7 \arctan\frac{1}{239}
+          - 12 \arctan\frac{1}{682} + 24 \arctan\frac{1}{12943}
+          F. C. W. Störmer (1896).
+
+   Hierdie benaderings het soveel syfers dat dit nie meer van praktiese
+   nut is nie, behalwe om nuwe superrekenaars te toets en (natuurlik) om
+   nuwe π-berekeningsrekords op te stel.
+
+   In 1996 het David H. Bailey, tesame met Peter Borwein en Simon Plouffe,
+   'n nuwe formule vir π ontdek as 'n oneindige reeks:
+
+          \pi = \sum_{k = 0}^{\infty} \frac{1}{16^k} \left( \frac{4}{8k +
+          1} - \frac{2}{8k + 4} - \frac{1}{8k + 5} - \frac{1}{8k +
+          6}\right)
+
+   Hierdie formule laat dit toe om maklik die k^e binêre of hexadesimale
+   syfer van π te bereken, sonder om die vorige k− 1 syfers hoef te
+   bereken het. Bailey se webwerf bevat die afleiding sowel as
+   implimentasies in verskeie programmeertale. Die PiHex-projek het 64
+   bits rondom die kwadriljoenste bit van π bereken, wat uitgedraai het om
+   'n 0 te wees.
+
+   Ander formules wat gebruik is om benaderings van π te bereken sluit in:
+
+          \frac{\pi}{2}= \sum_{k=0}^\infty\frac{k!}{(2k+1)!!}=
+          1+\frac{1}{3}\left(1+\frac{2}{5}\left(1+\frac{3}{7}\left(1+\frac
+          {4}{9}(1+...)\right)\right)\right)
+          Newton.
+
+          \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum^\infty_{k=0}
+          \frac{(4k)!(1103+26390k)}{(k!)^4 396^{4k}}
+          Ramanujan.
+
+          \frac{1}{\pi} = 12 \sum^\infty_{k=0} \frac{(-1)^k (6k)!
+          (13591409 + 545140134k)}{(3k)!(k!)^3 640320^{3k + 3/2}}
+          David Chudnovsky en Gregory Chudnovsky.
+
+          {\pi} = 20 \arctan\frac{1}{7} + 8 \arctan\frac{3}{79}
+          Euler.
+
+[wysig] Oop vrae
+
+   Die mees belangrike vraag oor π is of dit 'n normale getal is, d.w.s.,
+   of enige syferblok statisties net soveel voorkom in die uitbreiding van
+   π as in enige ander ewekansige produksie. Dit moet waar wees in enige
+   basis, nie net basis 10 nie. Huidige kennis in hierdie rigting is baie
+   swak; dit is byvoorbeeld nie bekend watter van die syfers 0,...,9
+   oneindig baie in die desimale uitbreiding van π voorkom nie.
+
+   Bailey en Crandall het in 2000 gewys dat die bestaan van die bogenoemde
+   Bailey-Borwein-Plouffeformule en soortgelyke formules impliseer dat die
+   normaliteit in basis 2 van π en verskeie ander konstante gereduseer kan
+   word na 'n geloofwaardige hipotese van chaosteorie. Sien Bailey se
+   bogenoemde webwerf vir meer details.
+
+   Dit is ook onbekend of π en e algebraïes onafhanklik is, d.w.s. of daar
+   'n polinoomverwantskap tussen π en e met rasionele koëffisiënte
+   bestaan.
+
+[wysig] π-kultuur
+
+   14 Maart (3/14) is "Pi Dag", wat deur baie liefhebbers van π gevier
+   word, en op 22 Julie (22/7) word "Pi Benaderingsdag" gevier.
+
+   In Engels word daar van "pi o'clock" gepraat, wat 3:14:15 voorstel.
+
+   'n Ander voorbeeld van wiskunde-humor is hierdie benadering van π: Neem
+   die getal "1234", en ruil die eerste twee syfers en die laaste twee
+   syfers om, sodat die getal "2143" word. Deel hierdie getal deur
+   "twee-twee" (22, sodat 2143/22 = 97.40909...). Neem die
+   twee-kwadraatste wortel (4de wortel) van hierdie getal. Die
+   uiteindelike getal is merkwaardig naby aan π: 3.14159265.
+
+[wysig] Verwante artikels
+
+     * Griekse letter pi
+     * Calculus
+     * Meetkunde
+     * Trigonometriese funksie
+
+[wysig] Eksterne skakels
+
+[wysig] Syferbronne
+
+     * Wikisource - Pi to 1,000 Places | 10,000 Places | 100,000 Places |
+       1,000,000 Places
+     * Project Gutenberg E-Text containing a million digits of Pi
+     * Archives of Pi calculated to 1,000,000 or 10,000,000 places.
+     * Search Pi for any sequence of digits
+     * Statistics about the first 1.2 trillion digits of Pi
+     * A banner of approximately 220 million digits of pi
+
+[wysig] Berekening
+
+     * Calculating Pi: The open source project for calculating Pi.
+     * PiFast: a fast program for calculating Pi with a large number of
+       digits
+     * PiHex Project
+     * Super Pi: another program to calculate Pi to the 33.55 millionth
+       digit. Also used a benchmark
+
+[wysig] Algemeen
+
+     * The Pi Pages
+     * J J O'Connor and E F Robertson: A history of Pi. Mac Tutor project
+     * A collection of Machin-type formulas for Pi
+     * A proof that Pi Is Irrational
+     * PiFacts-Record Broken
+     * The Joy of Pi-About the Book
+     * From the Wolfram Mathematics site lots of formulae for π
+     * PlanetMath: Pi
+     * The pi-hacks Yahoo! Group
+     * Finding the value of Pi
+     * Proof that Pi exists
+     * Friends of Pi Club (German and English)
+
+[wysig] Memorisering
+
+     * One of the more popular mnemonic devices for remembering pi
+     * Andreas P. Hatzipolakis: PiPhilology. A site with hundreds of
+       examples of π mnemonics
+     * Pi memorised as poetry
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+
+   Kategorie: Wiskunde
+

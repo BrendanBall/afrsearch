@@ -1,0 +1,105 @@
+MIV
+
+
+   'n Voorstelling van 'n deursnit van die MI-virus.
+   'n Voorstelling van 'n deursnit van die MI-virus.
+
+   Die Menslike Immuniteitsgebreksvirus (MIV) ("HIV" of Human
+   Immunodeficiency Virus in Engels) is die virus wat vigs veroorsaak
+   (AIDS in Engels).
+
+   Inhoud
+
+        * 1 Amptelike Suid-Afrikaanse Statistieke
+        * 2 Klassifikasie
+        * 3 Variante
+        * 4 Siektebeeld
+        * 5 Verspreiding
+        * 6 Eksterne skakels
+
+[wysig] Amptelike Suid-Afrikaanse Statistieke
+
+   Ten 1998 het Suid-Afrika een van die vinnigste groeiende MIV-epidemies
+   in die wêreld. Volgens 'n studie deur die Suid-Afrikaanse Departement
+   van Gesondheid in 2005, is 30.2% van swanger Suid-Afrikaanse vrouens
+   MIV-positief. 'n Soortgelyke studie (The South African National HIV
+   Survey) toon dat 16.2% van die bevolking tussen die ouderdomme van 15
+   en 49 MIV-positief is. Baie wetenskaplikes meen dat die eintlike
+   persentasie veel hoër mag wees (tot 40%).
+
+[wysig] Klassifikasie
+
+   MIV is 'n lid van 'n groep virusse wat bekend staan as die retroviridae
+   en is dus 'n retrovirus, so genoem omdat die virusse van 'n spesifieke
+   ensiem, tru-kranskriptase, (reverse ranscriptase in Engels) gebruik
+   maak om te vermenigvuldig in menslike selle. 'n Retrovirus besit nie sy
+   eie DNA nie (waarin die genetiese inligting van meeste organismes
+   gestoor word in die sel se kern) maar stoor sy genetiese materiaal in
+   die vorm van RNA. Wanneer 'n retrovirus soos MIV 'n gasheersel indring,
+   word die tru-transkriptase ensiem gebruik om die DNA van die gasheersel
+   te "kaap" en so kopieë van die oorspronklike virus te maak.
+
+[wysig] Variante
+
+   Tans bestaan daar 2 variante van die vigsvirus: MIV-1 is die klassieke
+   oorsaak van vigs, en is wydversprei dwarsdeur die wêreld. MIV-2
+   veroorsaak ook vigs, maar nie altyd nie en in 'n minder-ernstige vorm.
+   MIV-2 word hoofsaaklik in Wes-Afrika aangetref. MIV-2 is besonder
+   nouverwant aan SIV, 'n virus wat 'n vigs-soortgelyke siekte in ape
+   veroorsaak, en daar word gedink dat MIV vermoedelik onstaan het toe 'n
+   aap-retrovirus na mense oorgegaan het.
+
+[wysig] Siektebeeld
+
+   MIV veroorsaak vigs deur spesiale witbloedselle, die CD4+ T-selle, aan
+   te val en te vernietig. Die CD4-selle is limfosiete, 'n groep
+   witbloedselle wat normaalweg die menslike immuunstelsel koordineer in
+   geval van infeksie of ontsteking. Die virus vermenigvuldig binne-in die
+   CD4-selle en soos nuwe virusse vrygestel word, word die selle
+   vernietig.
+
+   Omdat die virus die immuunstelsel self aanval, kan die liggaam nie sy
+   gewone meganisme gebruik om homself te beskerm nie. Die sterk
+   vermindering van die normale aantal CD4-selle sorg daarvoor dat ander
+   patogene (virusse, bakterieë, parasiete en swamme), wat gewoonweg
+   sonder probleme deur die menslike immuunstelsel sou beveg word, in
+   staat is om ernstige sieketoestande te veroorsaak. Die siektebeeld van
+   vigs ontstaan dus wanneer die CD4-telling na 'n kritieke vlak daal. Die
+   CD4-telling is taamlik maklik om vas te stel met 'n roetine bloedtoets.
+   Dokters kan dus die CD4-telling gebruik om 'n pasiënt se benodiging om
+   antiretrovirale middels vas te stel.
+
+[wysig] Verspreiding
+
+   In 'n besmette individu is die virus teenwoordig in bloed, semen,
+   vaginale vog en borsmelk. Teoreties gesproke mag die virus ook
+   teenwoordig wees in speeksel, uriene en ontlasting.
+
+   Die mees algemene maniere van verspreiding is deur:
+     * Onbeskermde seksuele kontak (vaginaal, modelings of anaal). Die
+       gebruik van kondome laat die risiko aansienlik daal mits die
+       kondoom korrek gebruik word.
+     * Hergebruik van onsteriele naalde onder dwelmverslaafdes
+     * Verspreiding van moeder na fetus (waar die moeder MIV-positief is)
+     * Naaldprikongelukke onder mediese personeel (effektief voorkom met
+       die gebruik van handskoene en 'n kursus antiretrovirale middels in
+       diegene wat blootgestel is).
+
+   Die virus word nie oorgedra deur ongebroke vel of om eetgerei met 'n
+   besmette persoon te deel nie. Dit word ook nie oorgedra deur
+   muskietbyte nie.
+
+[wysig] Eksterne skakels
+
+     * LoveLife, die Suid-Afrikaanse organisasie wat daarna streef om
+       bewustheid oor VIGS in Suid-Afrika te bevorder.
+     * Die VIGS-stigting van Suid-Afrika (Aids Foundation of South
+       Africa), 'n nie regeringsorganisasie wat hom beywer om gemeenskappe
+       te help om maatreëls in plek te stel om nuwe besmettings te
+       minimiseer en die impak van die epidemie te verminder.
+     * Wêreld VIGS-dag se webwerf
+     * 'n Webwerf met meer inligting oor VIGS
+     * HIV InSite
+
+   Kategorie: Vigs
+

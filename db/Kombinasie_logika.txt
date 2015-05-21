@@ -1,0 +1,25 @@
+Kombinasie logika
+
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   In digitale stroombaan teorie, is kombinasie logika 'n tipe logiese
+   stroombaan wat se afvoer 'n funksie van die huidige toevoere aleenlik
+   is. Dit is in teenstelling met sekwensiële logika, waar die afvoer
+   afhangklik is van die huidige toevoer en die geskiedenis van die
+   toevoer.
+
+   Sekwensiële logika besit dus 'n geheue element wat kombinasie logika
+   nie het nie.
+
+   Kombinasie logika word in rekenaar stroombane gebruik om Boolse algebra
+   op toevoere en gestoorde inligting uit te voer. Praktiese rekenaar
+   stroombane bevat 'n vermenging van kombinasie logika en sekwensiële
+   logika. Soos byvoorbeeld in die Rekenkundige Logiese Eenheid (RLE)
+   (deel van die Sentrale verwerkingseenheid (SVE)) van 'n rekenaar, word
+   die gedeelte wat wiskundige bewerkings doen in ooreenstemming met
+   kombinasie logika gebou, terwyl die RLE beheer word deur 'n beheerder
+   wat gebou is in ooreenstemming met sekwensiële logika.
+   Kategorieë: Saadjies • Rekenaar • Elektronika
+

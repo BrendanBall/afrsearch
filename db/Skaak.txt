@@ -1,0 +1,31 @@
+Skaak
+
+
+   Skaak is 'n bordspel vir twee spelers, wat gespeel word op 'n
+   vierkantige bord wat verdeel is in agt rye en agt kolomme, met 64
+   individuele blokkies wat tradisioneel lig en donker gekleur is. Elke
+   speler het 16 stukke, wat bestaan uit agt pionne, twee torings, twee
+   lopers, twee ruiters, een dame en een koning. Elke stuk skuif op sy eie
+   manier. Die twee kante word onderskei deur kontrasterende kleure. Die
+   doel van die spel is om die koning van die opponent in skaakmat te
+   plaas.
+
+   FIDE is die organisasie wat wêreldkampioenskappe reël. Die huidige
+   wêreldkampioen is Vladimir Kramnik van Rusland.
+
+   Die woord 'skaak' kom van die Persiese woord 'sjah', wat koning
+   beteken. Ook die woord 'mat' is Persies en beteken 'dood'.
+   'n skaakstel en skaakklok
+   'n skaakstel en skaakklok
+
+[wysig] Eksterne skakels
+
+     * Amptelike FIDE Webwerf
+     * FICGS
+     * Aanhalings van Wikiquote (in Engels)
+     * Werf oor skaakvariante
+     * Werf om skaak te speel en meesters se spelle te bestudeer
+     * Online skaak databank
+
+   Kategorie: Skaak
+

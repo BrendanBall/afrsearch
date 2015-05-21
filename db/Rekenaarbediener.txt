@@ -1,0 +1,77 @@
+Rekenaarbediener
+
+
+   'n Rekenaarbediener is 'n rekenaarstelsel wat daarop gemik is om
+   spesifieke bedienersprogram/programme te loop. 'n Rekenaarbediener wat
+   slegs een spesifieke bedienerprogram hardloop word dikwels na verwys na
+   aanleiding van die soort bedienerprogram. Só byvoorbeeld sal 'n
+   rekenaar in 'n onderneming wat die Apache webbediener program loop as
+   die onderneming se webbediener bekend staan. Bedienerprogramme word oor
+   rekenaarbedieners verdeel na gelang van die lading wat op die masjien
+   geplaas word. Wanneer die lading lig is kan verskeie bedienerprogramme
+   gelyktydig op dieselfde rekenaar loop. As die lading hoog is kan
+   verskeie rekenaars vereis word om 'n enkele bedienerprogram
+   doeltreffend te loop. Met 'n mediumlading is dit gewoonlik die praktyk
+   om 'n enkele bedienerprogram per rekenaarbediener te loop, ten einde
+   die skade wat veroorsaak kan word deur die faling van 'n enkele
+   rekenaarbediener of die inbraak op sekuriteitsmeganismes van 'n
+   bedienerprogram te beperk. 'n Rekenaarbediener kan gewoonlik ook as 'n
+   werkstasie gebruik word maar dit is goeie praktyk om dit te vermy weens
+   sekuriteitsrisiko's wat dit inhou.
+
+   Die term rekenaarbediener word ook dikwels gebruik om na rekenaars te
+   verwys wat doelgemaak is met die oog daarop om bedienerprogramme te
+   loop met swaar werksladings en sonder toesig vir lang tye. Dikwels kan
+   gewone tafelrekenaars ook gebruik word om bedienerprogramme te loop
+   maar rekenaarbedieners het dikwels kenmerke wat hul meer geskik vir die
+   doeleinde maak. Kenmerke wat rekenaarbedieners van gewone persoonlike
+   rekenaars onderskei is onder andere vinniger verwerkers en -geheue,
+   meer geheue, groter hardeskywe, hoër betroubaarheid, bystandkragbronne,
+   bystandhardeskywe (RAID), kompakte vorm en 'n modulêre ontwerp (soos
+   bv. blade bedieners), rak- of kabinetmonteerbaarheid, afstandskonsoles,
+   ensovoorts.
+
+[wysig] Hardeware
+
+   Rekenaarbedieners kan dikwels gebou word uit goedkoop
+   kommoditeitstoerusting veral waar die toepassing nie kritiek is nie.
+   Waar die bediener egter aan 'n hoë werkslading onderworpe is en
+   bedienerprogramme loop wat kritiek is vir die organisasie/onderneming
+   word gespesialiseerde hardeware dikwels gebruik wat geoptimiseer is vir
+   bedienertoepassings. Estetiese oorwegings word dikwels geïgnoreer
+   aangesien die bedieners in rekenaarkamers weggesluit word en slegs
+   besoek word vir onderhouds- of hersteldoeleindes.
+
+   Rekenaarbedieners hoef dikwels glad nie 'n grafiese koppelvlak te
+   verskaf nie wat meer verwerkingsvermoë laat vir ander take.
+   Doelgemaakte rekenaarbedieners het ook dikwels meer as een sentrale
+   verwerkingseenheid om betroubaarheid en bystandvermoë te verhoog. Sulke
+   bedieners doen dus dikwels weg met die behoefte aan duur grafiese- en
+   klankverwerkingskaarte.
+
+   Die grootste verskil tussen gewone tafelrekenaars en rekenaarbedieners
+   is nie soseer in die hardeware nie maar eerder in die programmatuur wat
+   daarop gelaai word. Daar word gewoonlik 'n doelgemaakte bedryfstelsel
+   op 'n rekenaarbediener gelaai asook ander sagteware wat daarop gemik is
+   om bediener spesifieke take te verrig.
+
+[wysig] Bedienerbedryfstelsels
+
+   Verskeie doelgemaakte bedryfstelsels bestaan om netwerkbestuurstake te
+   vergemaklik. Microsoft het verskeie weergawes van hul Windows 2003
+   bedryfstelsel met die oog op verskillende segmente van die netwerkmark
+   (d.w.s. vanaf kleinsake-ondernemings tot groot ondernemings). Ander
+   netwerkbedryfstelsels sluit in die GNU/Linux verspreidings, FreeBSD en
+   Solaris.
+
+[wysig] Rekenaarbedeniers en die Internet
+
+   Die Internet is gebaseer op die Kliënt-bediener model. Daar is miljoene
+   rekenaarbedieners wat aan die internet verbind is. Van die dienste wat
+   deur Rekenaarbedieners op die internet verskaf word is: Web,
+   Domeinnaamstelsel, elektroniese pos, lêeroordrag, kitsboodskappe,
+   oudio- en videostrome, aanlyn speletjies en vele ander. Elke aksie wat
+   deur 'n internetgebruiker uitgevoer word vereis gewoonlik die
+   interaksie tussen baie rekenaarbedieners.
+   Kategorie: Rekenaar
+

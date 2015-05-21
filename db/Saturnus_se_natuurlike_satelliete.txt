@@ -1,0 +1,188 @@
+Saturnus se natuurlike satelliete
+
+
+   Saturnus het ses-en-vyftig bevestigde natuurlike satelliete, plus drie
+   onbevestigde mane.
+
+[wysig] Tabel van bevestigde mane
+
+   Die Saturniese mane word hier volgens wentelperiode gelys, van die
+   kortste tot die langste. Mane wat so groot is dat hulle oppervlak in 'n
+   sferoïde ingestort het word uitgelig deur 'n ligpers kleur. Titan, wat
+   die grootte van 'n planeet het, is met 'n donkerder kleur uitgewys. Die
+   ongewone (gevange) mane is in grys aangewys: lig grys vir satelliete
+   wat saam met die planeet wentel en donker grys vir planete wat teen die
+   planeet se wenteling wentel.
+   Orde Naam (sferoïdeise mane vetgedruk)
+   Beeld Diameter (km) Semi-belangrike
+   as (km) Wentel-
+   periode (d) Inklinasie (Graad °)
+   (tot Saturnus
+   se ewenaar) Posisie Ontdekking
+   1 XVIII Pan
+   30 (35 × 35 × 23) ^[1] 133,584 ^[2] +0.57505 ^[2] 0.000° In Encke-
+   divisie 1990
+   2 XXXV Daphnis
+   6 - 8 136,505 ^[2] +0.59408 ^[2] 0.000° In Keeler-
+   gaping 2005
+   3 XV Atlas
+   31 (46 × 38 × 19) ^[1] 137,670 ^[2] +0.60169 ^[2] Buitenste A-Ring
+   skaapwagter 1980
+   4 XVI Prometheus
+   86 (119 × 87 × 61) ^[1] 139,380 ^[2] +0.61299 ^[2] 0.000° Binneste
+   F-ring skaapwagter 1980
+   *   S/2004 S 6 ^[3]
+   ~3-5 140,130 ^[2] +0.61801 ^[2] *Twyfelagtige voorwerpe
+   om die F-ring 2004
+   *   S/2004 S 4 ^[4] ~3-5 ~140,100 ^[5] +0.619 ^[6] 2004
+   *   S/2004 S 3 ^[3]
+   ~3-5 ~140,300 ^[7] ~ +0.62 2004
+   5 XVII Pandora
+   81 (103 × 80 × 64) ^[1] 141,720 ^[2] +0.62850 ^[2] Buitenste F-ring
+   skaapwagter 1980
+   6 XI Epimetheus 113 (135 × 108 × 105) ^[1] 151,422 ^[2] +0.69433 ^[2]
+   0.335° Gedeelde wentelbane 1980
+   7 X Janus
+   179 (193 × 173 × 137) ^[1] 151,472 ^[2] +0.69466 ^[2] 0.165° 1966
+   8 I Mimas
+   397 (415 × 394 × 381) ^[8] 185,404 ^[9] +0.942422 ^[10] 1.566°   1789
+   9 XXXII Methone
+   3 194,440 ^[2] +1.00957 ^[2]   2004
+   10 XXXIII Pallene
+   4 212,280 ^[2] +1.15375 ^[2]   2004
+   11 II Enceladus
+   504 (513 × 503 × 497) ^[8] 237,950 ^[9] +1.370218 ^[10] 0.010° In die
+   middel van die E-ring 1789
+   12 III Tethys
+   1066 (1081 × 1062 × 1055) ^[8] 294,619 ^[9] +1.887802 ^[10] 0.168°
+   1684
+   12a XIII Telesto
+   24 (29 × 22 × 20) ^[1] 1.158° Lei Tethys 1980
+   12b XIV Calypso
+   21 (30 × 23 × 14) ^[1] 1.473° Op Tethys se spoor 1980
+   15 IV Dione
+   1123 (1128 × 1122 × 1121) ^[8] 377,396 ^[9] +2.736915 ^[10] 0.002°
+   1684
+   15a XII Helene
+   33 (36 × 32 × 30) 0.212° Lei Dione 1980
+   15b XXXIV Polydeuces
+   3.5 ^[11] Op Dione se spoor 2004
+   18 V Rhea
+   1529 (1535 × 1525 × 1526) ^[8] 527,108 ^[12] +4.518212 ^[12] 0.327°
+   1672
+   19 VI Titan
+   5151 1,221,930 ^[9] +15.94542 1.634°   1655
+   20 VII Hyperion
+   292 (360 × 280 × 225) 1,481,010 ^[9] +21.27661 0.568°   1848
+   21 VIII Iapetus
+   1472 (1494 × 1498 × 1425) ^[8] 3,560,820 +79.3215 ^[6] 7.570°   1671
+   22 XXIV Kiviuq ~16 11 294 800 ^[12] +448.16 ^[12] 49.087° Inuit groep
+   2000
+   23 XXII Ijiraq ~12 11 355 316 ^[12] +451.77 ^[12] 50.212° 2000
+   24 IX Phoebe
+   220 (230 × 220 × 210) 12 869 700 -545.09^[6]^[13] 173.047° Noorse groep
+   1899
+   25 XX Paaliaq ~22 15 103 400 ^[12] +692.98 ^[12] 46.151° Inuit groep
+   2000
+   26 XXVII Skathi ~8 15 672 500 ^[12] -732.52 ^[10]^[13] 149.084° Noorse
+   (Skathi) groep 2000
+   27 XXVI Albiorix ~32 16 266 700 ^[12] +774.58 ^[12] 38.042° Galliese
+   groep 2000
+   28 XXXVII S/2004 S 11 ~6 17 153 520 ^[12] +838.77 ^[12] 40.484° Inuit
+   groep 2004
+   29 XXVIII Erriapo ~10 17 236 900 ^[12] +844.89 ^[12] 38.109° Galliese
+   groep 2000
+   30 XLVII S/2006 S 8 ~6 17 473 800 ^[9] -862.37 ^[12] 155.624° Noorse
+   groep 2006
+   31 XXIX Siarnaq ~40 17 776 600 ^[12] +884.88 ^[12] 45.798° Inuit groep
+   2000
+   32   S/2004 S 13 ~6 18 056 300 ^[12] -905.85 ^[10]^[13] 167.379° Noorse
+   groep 2004
+   33   S/2006 S 4 ~6 18 065 700 ^[9] -906.56 ^[12] 172.666° 2006
+   34 XLIV S/2004 S 19 ~8 18 168 300 ^[9] -914.29 ^[12] 153.272° 2006
+   35   S/2006 S 6 ~6 18 556 900 ^[9] -943.78 ^[12] 162.861° 2006
+   36 XXI Tarvos ~15 18 562 800 ^[12] +944.23 ^[12] 34.679° Galliese groep
+   2000
+   37 XXV Mundilfari ~7 18 725 800 ^[12] -956.70 ^[10]^[13] 169.378°
+   Noorse groep 2000
+   38   S/2006 S 1 ~6 18 930 200 ^[9] -972.41 ^[12] 154.232° 2006
+   39   S/2004 S 17 ~4 19 099 200 ^[12] -985.45 ^[10]^[13] 166.881° 2004
+   40 XXXVIII S/2004 S 15 ~6 19 104 000 ^[12] -985.83 ^[10]^[13] 157.384°
+   Noorse (Skathi) groep 2004
+   41 XXXI Narvi ~7 19 395 200 ^[12] -1008.45 ^[10]^[13] 137.292° Noorse
+   groep 2003
+   42 XXIII Suttungr ~7 19 579 000 ^[12] -1022.82 ^[10]^[13] 174.321° 2000
+   43 XLIII S/2004 S 14 ~6 19 709 300 ^[12] -1033.05 ^[10]^[13] 163.131°
+   2004
+   44   S/2004 S 12 ~5 19 905 900 ^[12] -1048.54 ^[10]^[13] 164.042° 2004
+   45 XL S/2004 S 9 ~5 19 984 800 ^[12] -1054.78 ^[10]^[13] 158.361°
+   Noorse (Skathi) groep 2004
+   46 XXX Thrymr ~7 20 278 100 ^[12] -1078.09 ^[10]^[13] 174.524° Noorse
+   groep 2000
+   47 XXXVI S/2004 S 10 ~6 20 482 900 ^[12] -1094.46 ^[10]^[13] 167.425°
+   2004
+   48 XXXIX S/2004 S 18 ~7 20 570 000 ^[12] -1101.45 ^[10]^[13] 147.395°
+   Noorse (Skathi) groep 2004
+   49   S/2004 S 7 ~6 20 576 700 ^[12] -1101.99 ^[10]^[13] 165.596° Noorse
+   groep 2004
+   50   S/2006 S 3 ~6 21 076 300 ^[9] -1142.37 ^[12] 150.817° 2006
+   51 XLI S/2004 S 16 ~4 21 930 644 ^[12] -1212.53 ^[10]^[13] 162.832°
+   2004
+   52 XLVIII S/2006 S 7 ~6 22 288 916 ^[9] -1242.36 ^[12] 166.918° 2006
+   53 XLV S/2006 S 2 ~7 22 321 200 ^[9] -1245.06 ^[12] 148.384° 2006
+   54 XIX Ymir ~18 22 429 673 ^[12] -1254.15 ^[10]^[13] 172.143° 2000
+   55 XLVI S/2006 S 5 ~6 22 984 322 ^[9] -1300.95 ^[12] 166.539° 2006
+   56 XLII S/2004 S 8 ~6 24 504 879 ^[12] -1432.16 ^[10]^[13] 167.886°
+   2004
+    1. ^ ^1,0 ^1,1 ^1,2 ^1,3 ^1,4 ^1,5 ^1,6 ^1,7 Physical characteristics
+       and possible accretionary origins for Saturn's small satellites
+       deur C.C. Porco. Soos verskyn in die Bulletin of the American
+       Astronomical Society, 2006: 37, bl768.
+    2. ^ ^2,00 ^2,01 ^2,02 ^2,03 ^2,04 ^2,05 ^2,06 ^2,07 ^2,08 ^2,09 ^2,10
+       ^2,11 ^2,12 ^2,13 ^2,14 ^2,15 ^2,16 ^2,17 ^2,18 ^2,19 The orbits of
+       Saturn's small satellites derived from combined historic and
+       Cassini imaging observations deur J.N. Spitale et al. Soos verskyn
+       in The Astronomical Journal, 2006:132, bl. 692.
+    3. ^ ^3,0 ^3,1 Dit is nog nie bekend of hierdie regte satelliete of
+       net blywende klonte binne-in die F-ring is nie.
+    4. ^ S/2004 S4 was heel moontlik slegs 'n verbygaande klont - dit is
+       sedert die eerste waarneming nog nie weer gesien nie.
+    5. ^ PGJ Astronomie webpage (Gilbert Javaux). Die F-ring is in die
+       middel by ~140,180 km
+    6. ^ ^6,0 ^6,1 ^6,2 Bereken vanaf die semi-belangrike as deur middel
+       van die IAU-MPC Natural Satellites Ephemeris Service se µ-waarde
+    7. ^ Sien verwysings van S/2004 S 3
+    8. ^ ^8,0 ^8,1 ^8,2 ^8,3 ^8,4 ^8,5 Source: Shapes of the Saturnian Icy
+       Satellites. deur P.C. Thomas et al. 2006. Soos verskyn in Lunar and
+       Planetary Science XXXVII (2006).]
+    9. ^ ^9,00 ^9,01 ^9,02 ^9,03 ^9,04 ^9,05 ^9,06 ^9,07 ^9,08 ^9,09 ^9,10
+       ^9,11 ^9,12 ^9,13 ^9,14 Bereken vanaf die periode deur middel van
+       die IAU-MPC Natural Satellites Ephemeris Servicese µ-waarde
+   10. ^ ^10,00 ^10,01 ^10,02 ^10,03 ^10,04 ^10,05 ^10,06 ^10,07 ^10,08
+       ^10,09 ^10,10 ^10,11 ^10,12 ^10,13 ^10,14 ^10,15 ^10,16 ^10,17
+       ^10,18 ^10,19 ^10,20 Bron: NASA
+   11. ^ Source: Cassini Imaging Science: Initial Results on Saturn's
+       Rings and Small Satellites deur C.C. Porco et al. Soos verskyn in
+       Science, 25 February 2005: Vol. 307. no. 5713, bl. 1226-1236.
+   12. ^ ^12,00 ^12,01 ^12,02 ^12,03 ^12,04 ^12,05 ^12,06 ^12,07 ^12,08
+       ^12,09 ^12,10 ^12,11 ^12,12 ^12,13 ^12,14 ^12,15 ^12,16 ^12,17
+       ^12,18 ^12,19 ^12,20 ^12,21 ^12,22 ^12,23 ^12,24 ^12,25 ^12,26
+       ^12,27 ^12,28 ^12,29 ^12,30 ^12,31 ^12,32 ^12,33 ^12,34 ^12,35
+       ^12,36 ^12,37 ^12,38 ^12,39 ^12,40 ^12,41 ^12,42 ^12,43 Bron:
+       IAU-MPC Natural Satellites Ephemeris Service by die
+       Harvard-Smithsonian Center for Astrophysics se webwerf.
+   13. ^ ^13,00 ^13,01 ^13,02 ^13,03 ^13,04 ^13,05 ^13,06 ^13,07 ^13,08
+       ^13,09 ^13,10 ^13,11 ^13,12 ^13,13 ^13,14 ^13,15 ^13,16 ^13,17
+       Negatiewe wentelperiode dui op 'n omwentelingsrigting in
+       teenstelling met die planeet se omwenteling.
+
+                                  Die sonnestelsel
+   [USEMAP:Solar_System_XXVII.png] Beeldinligting
+   Die son · Mercurius · Venus · Aarde · Mars · Ceres · Jupiter · Saturnus
+   · Uranus · Neptunus · Pluto · Eris
+   Planete · Dwergplanete · Mane: Aarde · Mars · Asteroïdies · Jupiter ·
+   Saturnus · Uranus · Neptunus · Pluto · Eris
+   Klein hemelliggame:   Meteoroïdes · Asteroïdes (die astroïdegordel) ·
+   Centaurs · TNV's (Kuipergordel/Verstrooide skyf) · Komete (Oortwolk)
+   Kategorie: Hemelliggame
+

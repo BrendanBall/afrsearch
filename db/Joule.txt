@@ -1,0 +1,25 @@
+Joule
+
+
+   Die joule (J) is 'n energie-eenheid wat gebruik word om alle energie
+   mee te meet. Dit is na die 19de-eeuse wetenskaplike James Prescott
+   Joule vernoem.
+
+   Die joule is 'n betreklik klein energie-eenheid. 'n Huishoudelike
+   gloeilamp van 100 watt gebruik 100 J elektriese energie per sekonde.
+   Die meeste verskaffers van elektrisiteit meet elektriese energie in 'n
+   nie-SI-eenheid, die kilowatt-uur. Dit is gelyk aan 3 600 000 joule.
+   Maar die kilowatt-uur is 'n klein eenheid om die energieverbruik van 'n
+   land mee te meet. 'n Groter eenheid wat hiervoor gebruik word, is die
+   mtce. Dit is die energie wat verkry word uit 'n miljoen ton steenkool
+   en is gelyk aan ongeveer 10 miljard kilowatt-uur. In 1978 was die
+   totale energieverbruik van die Verenigde State 339,8 mtce.
+
+[wysig] Sien ook
+
+     * Energie
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Energie
+

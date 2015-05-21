@@ -1,0 +1,88 @@
+Swartwou
+
+
+                                 Swartwou
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   Milvus migrans migrans
+   Milvus migrans migrans
+                        Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Falconiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Milvus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     M. migrans
+     Subspesie:    {{{subspecies}}}
+                  [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                              Binomiale naam
+                              Milvus migrans
+   (Boddaert, 1783)
+                              Trinomiale naam
+                              {{{trinomial}}}
+                               Tipe Spesies
+                            {{{type_species}}}
+                                Subspesies
+
+                                  Sien teks
+
+   Verspreiding van die swartwou. Oranje: slegs somer. Groen: heel jaar.
+   Blou. slegs winter.
+   Verspreiding van die swartwou. Oranje: slegs somer. Groen: heel jaar.
+   Blou. slegs winter.
+                                 Sinonieme
+
+                Falco migrans Boddaert, 1783, Milvus affinis
+
+[wysig] Subspesies
+
+     * Milvus migrans migrans
+     * Milvus migrans lineatus
+     * Milvus migrans govinda
+     * Milvus migrans affinis
+     * Milvus migrans formosanus
+
+   Indiese Swartwou - Milvus migrans govinda.
+   Indiese Swartwou - Milvus migrans govinda.
+
+[wysig] Ander name
+
+     * Engelse naam: Black Kite
+     * Wetenskaplike naam: Milvus migrans
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

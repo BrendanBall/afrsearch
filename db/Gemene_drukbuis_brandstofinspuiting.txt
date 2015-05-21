@@ -1,0 +1,132 @@
+Gemene drukbuis brandstofinspuiting
+
+
+   Gemene drukbuis direkte brandstofinspuiting is 'n moderne weergawe van
+   'n direkte inspuitstelsel vir dieselenjins. Dit bestaan uit 'n hoëdruk
+   (1000+ bar) drukbuis wat indiwiduele solenoïedaangedrewe kleppe voer
+   eerder as 'n laedruk brandstofpomp wat 'n spuitstuk voer of 'n hoëdruk
+   brandstofvoerlyn met meganiese kleppe wat deur nokke op 'n nokas beheer
+   word. Derde generasie gemene drukbuis dieselenjins het deesdae
+   piëso-elektriese inspuiters wat selfs meer akkuraat is met
+   brandstofdrukke so hoog as 180 MPa / 1800 bar.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Gemene drukbuistegnologie vandag
+        * 3 Werking
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Die prototipe gemene drukbuisstelsel is in die laat 1960's deur Robert
+   Huber van Switserland ontwikkel. Daarna het Ganser van die Switserse
+   Federale Instituut van Tegnologie die tegnologie verder ontwikkel. In
+   die middel negentigs het Dr. Shohei Itoh en Masahiko Miyaki van Denso
+   Corporation, 'n Japannese vervaardiger van motoronderdele, die gemene
+   drukbuisstelsel vir swaarvoertuie ontwikkel en uiteindelik aangepas vir
+   hul eerste praktiese toepassing naamlik die ECD-U2 gemene
+   drukbuisstelsel, wat op die Hino Raising Ranger trok geïnstalleer is en
+   in 1995 verkoop is.
+
+   Die moderne elektronies beheerde gemene drukbuisstelsel werk op
+   dieselfde beginsel maar word beheer deur 'n elektroniese beheereenheid
+   wat die inspuiter elektronies, eerder as meganies, oopmaak. Hierdie
+   stelsel het baie prototipe toetse ondergaan in die 1990's in
+   samewerking met Magneti Marelli, Centro Ricerche Fiat en Elasis. Na
+   verdere navorsing en ontwikkeling deur die Fiat-motorgroep is die
+   ontwerp deur die Duitse maatskappy Robert Bosch GmbH gekoop en het
+   hulle die verdere ontwikkeling om dit geskik te maak vir massaproduksie
+   voltooi. In 1997 het hulle die gebruik daarvan na passasiersmotor
+   uitgebrei. Die eerste passasiersmotor om die gemene drukbuis-stelsel te
+   gebruik was die 1997 Alfa Romeo 156 met sy 1.9 JTD-enjin en later in
+   daardie selfde jaar in die Mercedes-Benz E 320 CDI.
+
+   Gemene drukbuisenjins is ook gebruik in seevaartuie en lokomotiewe vir
+   'n geruime tyd. Die Cooper-Bessemer GN-8 (circa 1942) is 'n voorbeeld
+   van 'n hidroulies beheerde gemene drukbuis-dieselenjin.
+
+[wysig] Gemene drukbuistegnologie vandag
+
+   Hoë-druk pomp van die Siemens VDO brandstofinspuitstelsel
+   Hoë-druk pomp van die Siemens VDO brandstofinspuitstelsel
+
+   Vandag se gemene drukbuis brandstofinspuitstelsels het 'n omwenteling
+   in dieselenjin-tegnologie meegebring. Robert Bosch GmbH, DENSO
+   Corporation, Siemens VDO en Delphi Automotive Systems is vandag van die
+   groot verskaffers van gemene drukbuis-stelsels. Die verskillende
+   motorvervaardigers gebruik verskillende benamings vir hulle enjins met
+   gemene drukbuisstelsels.
+
+   'n Paar voorbeelde is:
+     * BMW se D-enjins
+     * Daimler se CDI enjins
+     * Fiat se JTD enjins (ook soms MultiJet, JTDm of Ecotec CDTi genoem)
+     * Honda se i-CTDi
+     * Hyundai se CRDi
+
+[wysig] Werking
+
+   Solenoïede of piëso-elektriese kleppe maak dit moontlik om fyn
+   elektroniese beheer oor die hoeveelheid en tyd waarteen brandstof
+   ingespuit word uit te oefen en die hoër druk wat die gemene
+   drukbuistegnologie moontlik gemaak het, het fyner verdeling van die
+   brandstof moontlik gemaak. Ten einde enjingeraas te verminder kan die
+   enjin se elektroniese beheereenheid 'n klein hoeveelheid diesel inspuit
+   net voor die hoof inspuiting om sodoende die plofbaarheid en vibrasies
+   te verminder. Hierdie voorafinspuitings kan ook gebruik word om die
+   tydsberekening van inspuiting en hoeveelheid brandstof te optimiseer
+   vir koue aansit toestande. Sommige gevorderde gemene drukbuis-stelsels
+   kan soveel as vyf inspuitings per slag uitvoer.
+
+   Gemene drukbuisenjins vereis nie 'n verwarmingsperiode nie en het ook
+   laer uitlaatgaskonsentrasies tot gevolg vergeleke met ouer
+   dieselenjins.
+
+   In ouer dieselenjins is 'n verdeeltipe inspuitpomp gebruik wat deur die
+   enjin beheer is om sarsies brandstof na die inspuiters te stuur waar
+   basiese eenvoudige spuitstukke was wat die diesel in die enjin se
+   verbrandingskamer ingespuit het. Aangesien die brandstof by 'n lae druk
+   is, was die beheer oor die brandstoflewering nie baie presies nie en
+   was die sproei relatief grof gewees en was die verbrandingsproses
+   ondoeltreffend.
+
+   In gemene drukbuisstelsels word daar met die verdelende inspuitpomp
+   weggedoen. In plaas daarvan word 'n uiters hoë-druk pomp gebruik om die
+   brandstof teen 'n hoë druk van 200 MPa in 'n reservoir (die gemene
+   drukbuis) in te pomp. Die buis vertak dan na rekenaarbeheerde
+   inspuiterkleppe wat 'n presies gemasjineerde sproeikop en suier bevat
+   en deur 'n solenoïede aangedryf word. Dié kleppe eerder as die pomp
+   word gebruik om die presiese oomblik te beheer wanneer die brandstof in
+   die silinder ingespuit word en maak dit ook moontlik om die druk
+   waarteen die brandstof ingespuit word verder te verhoog. Die gevolg is
+   dat die ingespuite brandstof maklik geatomiseer word en skoon brand wat
+   daartoe lei dat die uitlaatgasse skoner is en die werkverrigting
+   verhoog word.
+
+   Die meeste Europese vervaardigers het gemene drukbuisdiesels in hul
+   modelreekse. Sommige Japannese vervaardigers, soos Isuzu, Toyota,
+   Nissan en meer onlangs ook Honda het ook gemene drukbuisenjins
+   ontwikkel. Sommige Indiese maatskappye het ook hierdie tegnologie
+   suksesvol geïmplementeer, onder andere Mahindra & Mahindra en Tata
+   Motors.
+
+[wysig] Sien ook
+
+     * Dieselenjin
+     * FSI
+
+[wysig] Eksterne skakels
+
+     * Common rail 101 - Artikel by die dieseltechnologyforum.org webwerf
+     * 'n Animasie wat die werking van die gemene drukbuis inspuiter
+       verduidelik
+     * Video oor die Gemene drukbuis inspuiter op die Sprinter 311 CDI
+       (Portugees)
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorie: Voertuigtegnologie
+

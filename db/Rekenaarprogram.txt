@@ -1,0 +1,88 @@
+Rekenaarprogram
+
+
+   Die terme rekenaarprogram, sagtewareprogram, of slegs program word
+   gebruik om te verwys na beide 'n uitvoerbare program of die stel
+   bronkode wat saamgestel word om 'n uitvoerbare program te skep.
+
+   Die uitvoerbare program word dan deur die rekenaar uitgevoer om die
+   betrokke taak te realiseer.
+
+   Inhoud
+
+        * 1 Programmering
+             + 1.1 Rekenaartale
+        * 2 Die stoor en uitvoer van 'n program
+        * 3 Verwysings
+
+[wysig] Programmering
+
+   Rekenaarprogrammering is die proses waardeur bronkode geskep of bewerk
+   word. Verskeie tegnieke word gebruik om die bronkode daar te stel en
+   die bronkode kan ook in verskeie vorms voorgestel word. Tipies behels
+   die skep or redigering van die bronkode, analise van die probleem, die
+   skep van spesifikasies, implementering van die spesifikasies, gevolg
+   deur die toets van die resultaat. Indien die resultaat nie na wense is
+   nie, word die proses herhaal om die bronkode sodoende te verfyn.
+
+   Namate die kompleksiteit van die verlange toepassing toeneem neem die
+   daarstel van benodigde stelsel, dus die programmeringstyd, ook toe.
+   Daar word dikwils na hierdie lang proses dan verwys as
+   sagtewareontwikkeling.
+
+   'n Persoon wat hom of haar toespits op sagtewareontwikkeling word 'n
+   programmeerder of sagtewareontwikkelaar genoem.
+
+[wysig] Rekenaartale
+
+   Die sentraleverwerkingseenheid (SVE) van 'n rekenaar kan slegs
+   instruksies uitvoer wat die spesifieke SVE verstaan. Dit behels tipes
+   'n nommer wat 'n instruksie voorstel. So indien die verwerker,
+   hipoteties gesproke, die nommer 132 teëkom dan weet die rekenaar hy
+   moet 'n kort klankie uit die rekenaar se luidspreker laat. Dit is nie
+   verskriklik gebruikersvriendelik om op so 'n manier met 'n rekenaar te
+   kommunikeer nie. Dit is ook moeilik.
+
+   Hierdie beslommernis het aanleiding gegee tot die volgende generasie
+   van interaksie tussen die mens en die rekenaar. Dus die tweede
+   generasie tale. Hierdie taal word saamsteltaal genoem. In pleks daarvan
+   om nou die nommers te onthou kon die programeerder nou werk met kort
+   simbole. 'n Voorbeeld is iets soos JMP wat die nommer voorstel wat die
+   verwerker die instruksie gee om na 'n ander punt in die program te
+   spring (Jump soos dit in Engels sal wees). Hoewel mens nou nie verder
+   die nommer hoef te onthou nie, is dit moeilik om in so 'n program die
+   struktuur te volg.
+
+   Om hierdie probleme aan te spreek het die ontstaan van die volgende
+   generasie tale genoodsaak. Hierdie tale, dus die derde generasie tale,
+   het dit aansienlik makliker gemaak om die instruksies oor te dra aan
+   die rekenaar. Voorbeelde van die vroegste derde generasie tale is C,
+   Ada, Smalltak, COBOL, en BASIC. Meer moderne (tussen die jaar 2000 en
+   2008) is Visual Basic.NET en C# (wat in Engels 'see-sharp' uitgespreek
+   word).
+
+[wysig] Die stoor en uitvoer van 'n program
+
+   Dit is slegs moontlik vir die sentraleverwerkingeenheid van 'n rekenaar
+   om 'n program uit te voer wanneer die betrokke program gelaai is in die
+   ewetoeganklike geheue (ETG) van die rekenaar.
+
+   Voordat die program dus in die ETG gelaai kan word, moet die program
+   beskikbaar wees op 'n niegeheuemedium. Dit word meerendeels op die
+   rekenaar se hardeskyf gestoor van waar dit dan gelaai word. Dit kan ook
+   op 'n eksterne hardeskyf, disket, of geheuestafie gestoor word.
+
+   Sodra die program dus gelaai is in die geheue, het die
+   sentraleverwerkingeenheid direk toegang tot die instruksies wat
+   uitgevoer moet word. Die sentraleverwerkingeenheid voer dan die program
+   uit, die een instruksie na die ander, tot die program voltooi of daar
+   'n fout onstaan, hetsy 'n sagteware fout of 'n hardeware fout.
+
+   'n Program wat besig is om uit te voer word 'n proses genoem.
+
+[wysig] Verwysings
+
+   Hierdie artikel is aanvanklik saamgestel deur die Engelse weergawe van
+   Wikipedia te gebruik as 'n beginpunt.
+   Kategorie: Rekenaar
+

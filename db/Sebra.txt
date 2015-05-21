@@ -1,0 +1,109 @@
+Sebra
+
+
+                        Sebra
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Perissodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Equidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Equus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die sebra is 'n soogdier van die familie van die perdagtiges wat
+   aangetref word in sentraal en suidelike Afrika. Hulle het swart en wit
+   strepe wat vertikaal loop oor die ligaam van die dier, en 'n wit pens.
+   Elke sebra se strepe is uniek. Meeste dierkundiges het voorheen gereken
+   dat die strepe vir kamoeflering is, en ander weer dat die strepe 'n rol
+   speel in sosiale interaksie (omdat klein variasies die diere in staat
+   stel om mekaar uit te ken). 'n Meer hedendaagse teorie, wat ondersteun
+   word deur eksperimente, stel voor dat die strepe 'n effektiewe metode
+   is om die visuele stelsel van die tsetsevlieg te verwar.
+
+   'n Sebra kan 'n topspoed van 55 km per uur behaal, stadiger as 'n perd.
+   Hulle het egter groter uithouvermoë. 'n Sebra kan in een dag 40 km ver
+   loop, net om weer in die aand na die trop terug te keer.
+
+[wysig] Spesies
+
+   Daar is drie spesies en verskeie subspesies. Sebrabevolkings in
+   verskillende dele verskil baie, en die wetenskaplike klassifikasie van
+   verskeie spesies is onduidelik.
+
+   Die mees algemene spesie is Equus quagga (voorheen Equus burchelli),
+   die bontsebra (En: Plains Zebra). Hierdie spesie het vyf subspesies in
+   suider- en oos-Afrika. Die mees bekende subspesie is die kwagga, Equus
+   quagga quagga, wat reeds uitgesterf het.
+
+   Die bergsebra (Equus zebra) van suid-wes Afrika het 'n slanker pels met
+   'n wit maag en nouer strepe as die bontsebra. Dit het twee subspesies
+   wat bedreig word.
+
+   Grevy se Sebra (Equus grevyi) is die grootste tipe sebra, met regop
+   maanhare, en 'n lang, nou kop wat dit na 'n esel laat lyk. Hierdie
+   sebras kom voor in die semi-bar grasvelde van Ethiopië, Somalië en
+   noordelike Kenia. Grevy se Sebra word ook bedreig.
+   Sebras in Botswana.
+   Sebras in Botswana.
+   'n Mak sebra wat gery word in Oos-Afrika.
+   'n Mak sebra wat gery word in Oos-Afrika.
+
+[wysig] Kruisteling
+
+   Sebras word soms gekruisteël met ander lede van die perdfamilie. 'n
+   Perd wat kruisgeteël is met 'n sebra word in Engels 'n zorse genoem, en
+   'n donkie-sebra kruisteling 'n zedonk.
+
+[wysig] Eksterne skakels
+
+     * PBS Nature: Horse Tigers (Sebras)
+     * Encarta artikel in Engels: Zebra
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Zebra
+   Kategorie: Perdagtiges
+

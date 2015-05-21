@@ -1,0 +1,162 @@
+De facto
+
+
+   De facto is 'n Latynse uitdrukking wat "feitlik", "in praktyk" of
+   "volgens gebruik" beteken wat nie uitdruklik in die wet voorgeskryf
+   word nie. Dit word algemeen gebruik in teenstelling tot de jure (wat
+   beteken "volgens wet") wanneer daar verwys word na sake aangaande die
+   wet, regering of tegnieke (soos onder andere standaarde), wat aangetref
+   word uit alledaagse ervaring soos geskep of ontwikkel sonder of in
+   stryd met 'n regulasie. Wanneer dit betrekking het op 'n wetlike
+   onderwerp verwys de jure na wat die wet sê, terwyl de facto verwys na
+   aksies wat gebeur in algemene praktyk.
+
+   Die term de facto mag ook gebruik word wanneer daar geen relevante wet
+   of standaard bestaan nie, maar die algemene praktyk goed gevestig is,
+   selfs al is dit nie heeltemal universeel nie.
+     * 'n De facto regering is een wat homself onderhou deur 'n
+       suksesvolle magsvertoon teen die wil van die regmatige wettige
+       regering, selfs al is dit net tydelik en dan sodoende die
+       instellinge van die regmatige wettige regering dwarsboom deur sy
+       eie instellinge daar te stel in die plek daarvan.^[1].
+
+   Inhoud
+
+        * 1 Standaarde
+        * 2 Nasionale taal
+        * 3 Politiek
+        * 4 Ander gebruike
+        * 5 Verwysings
+        * 6 Sien ook
+
+[wysig] Standaarde
+
+   'n de facto standaard is 'n tegniese of ander standaard wat so
+   oorheersend is dat almal dit oënskynlik navolg asof dit 'n goedgekeurde
+   standaard is. Die de jure standaard verskillend wees: een voorbeeld is
+   die oortreding van die spoedbeperking op snelweë. Alhoewel die de jure
+   standaard is om by die snelheidsperk of laer snelheid te ry, is die de
+   facto standaard in baie plekke om teen by die snelheidsperk of effe
+   vinniger te ry.
+
+   'n Ander voorbeeld: daar is geen wet wat die byvoeging van 'n 27ste
+   letter soos Þ tot die 26 letter Latynse alfabet verhoed nie. Die
+   byvoeging word verhoed deur die praktiese probleme wat daarmee verbind
+   word en daarom bestaan daar vandag 'n de facto beperking op die
+   verandering van die alfabet; dit is onprakties om 'n letter by te voeg
+   aangesien niemand dit sal erken nie.
+
+   'n de facto standaard word dikwels nie formeel gedefinieer nie en maak
+   eenvoudig staat op die feit dat iemand met 'n idee vorendag gekom het
+   wat so gewild is dat dit nageboots word. Tipiese skeppers van de facto
+   standaarde is indiwiduele maatskappye, korporasies en konsortiums. In
+   die rekenaarwese word de facto standaarde soms de jure standaarde as
+   gevolg van hulle markaandeel in 'n relevante mark. JavaScript deur
+   Netscape is gestandaardiseer as ECMAScript en dele van die DOM Vlak 0
+   is gestandaardiseer in die DOM Vlak 1/2 HTML spesifikasie.
+
+[wysig] Nasionale taal
+
+   Die aanvaarding van die de facto nasionale tale is 'n manier om
+   onbevooroordeeld te bly. In die Verenigde State het die federale
+   regering nie 'n amptelike nasionale taal verklaar nie. Engels word
+   aanvaar as die de facto nasionale taal. Om die situasie draaglik te
+   maak het die federale regering die verskillende deelstate die reg gegee
+   om amptelike tale te verklaar. Hierdie reg is al uitgeoefen met
+   Nieu-Meksiko wat beide Engels en Spaans as amptelike tale erken.
+   Louisiana gebruik Frans en Engels as amptelike tale en Hawaii gebruik
+   die Hawaiïs en Engels as amptelike tale.
+
+   Op soortgelyke wys was Russies nie die wetlike amptelike taal van die
+   voormalige Sowjet-unie nie, maar wel die de facto taal. 'n Soortgelyke
+   toestand heers in die Verenigde Koninkryk waar Engels die dominante
+   taal is. Swede is 'n ander geval van 'n land met geen de jure taal.
+   Engels word toenemend deur sy algemene gebruik en groei as lingua
+   franca as die de facto internasionale taal beskou.
+
+[wysig] Politiek
+
+   'n de facto regering is 'n regering is een waarvan al die kenmerke van
+   soewereiniteit deur oorname, oorgedra is vanaf die wettige regering na
+   'n ander groep wat hul posisie onderhou deur die gebruik van mag^[2].
+
+   In die politiek is 'n de facto leier van 'n land of gebied die persoon
+   wat die gesag aangeneem het, ongeag of dit deur wettige-, grondwetlike-
+   of regverdige metodes was; dikwels word die term slegs gebruik vir
+   diegene wie se mag deur die een of ander faksie as onwettig,
+   ongrondwetlik of andersins as onregverdig beskou word, dikwels deur die
+   afsetting van 'n vorige leier of die ondergrawing van 'n bestaande
+   regeerder se gesag. De facto leiers hoef nie noodwendig amptelike
+   posisie te beklee nie en kan dikwels hulle gesag op 'n informele manier
+   afdwing. Hulle gesag kan egter nie ontken word nie en word ander
+   gedwing om hulle posisie as regeerder te erken.
+
+   Nie alle diktators is de facto regeerders nie. Augusto Pinochet van
+   Chili het byvoorbeeld aanvanklik sy mag verkry as voorsitter van 'n
+   miltêre junta, wat hom vir 'n kortstondige tydperk die de facto leier
+   van Chili verklaar het, maar toe het hy later die grondwet aangepas en
+   homself die formele en wettige regeerder van Chili gemaak. Saddam
+   Hussein se formele heerskappy oor Irak word aangeteken as sou dit in
+   1979 begin het, die jaar toe hy president van Irak geword het. Sy de
+   facto heerskappy het egter reeds begin toe hy as vise-president 'n
+   groot mate van mag uitgeoefen het ten koste van die bejaarde Ahmed
+   Hassan al-Bakr.
+
+   'n Ander voorbeeld van 'n de facto heerser is iemand wat nie die
+   eintlike heerser is nie, maar baie groot invloed oor die ware heerser
+   uitoefen. Hierdie vorm van de facto heerskappy kom dikwels in monargieë
+   voor. 'n Paar voorbeelde van sulke de facto heersers is die Keiserin
+   Dowager Cixi van Sjina, Prins Alexander Menshikov van Rusland,
+   Kardinaal Richelieu van Frankryk en Koningin Marie Caroline van Napels
+   en Sisilië.
+
+   Ander noemenswaardige de facto heersers was Deng Xiaoping van die
+   Volksrepubliek van Sjina en Generaal Manuel Noriega van Panama. Beide
+   hierdie mans het bykans totale beheer oor hulle onderskeie volke gehad
+   vir baie jare, ten spyte daarvan dat hulle nie wettige grondwetlike
+   ampte of wettige magtiging gehad het om mag uit te oefen nie.
+
+   Die de facto grense van 'n land word gedefinieer as die gebied wat sy
+   regering in staat is om sy wette te laat geld en om teen ander lande te
+   verdedig wat daardie grondgebied moontlik de jure opeis; die lyn van
+   beheer in Kashmir is 'n voorbeeld van 'n de facto grens.
+
+   Op soortgelyke wyse kan 'n nase de facto onafhanklikheid geniet soos in
+   Somaliland, waar die onafhanklikheid nie deur ander nasies of
+   internasionale liggame erken word nie, al het dit sy eie regering wat
+   absolute beheer oor sy opgeëiste gebied uitoefen.
+
+[wysig] Ander gebruike
+
+   De facto rasseskeiding kom dikwels voor waar die gebruikers van 'n
+   gegewe fasiliteit soos 'n biblioteek of skool geneig is om uit daardie
+   buurt te kom en dus die etniese samestelling verteenwoordig. Die
+   fasiliteit word dan ras- of etnies geskei sonder dat daar 'n wet
+   bestaan wat die de jure skeiding afdwing.
+
+   'n De facto monopolie is 'n stelsel waar baie verskaffers van 'n produk
+   toegelaat word om dit te doen maar die mark word sodanig oorweldig deur
+   'n enkele verskaffer dat die ander verskaffers vir alle praktiese
+   doeleindes net sowel nie bestaan het nie. Mededigingswetgewing is
+   tipies gemik op hierdie soort situasie.
+
+   'n Paar wat saambly buite die raamwerk van die huwelik se maats word
+   dikwels na verwys as 'n de facto man of vrou deur sommige owerhede en
+   in sommige gevalle het so 'n verbintenis dieselfde wetlike implikasies
+   as 'n tradisionele huwelik.
+
+[wysig] Verwysings
+
+    1. ^ Wortham v. Walker, 133 Tex. 255, 128 S.W.2d 1138, 1145. Black’s
+       Law Dictionary 4th Edition (1951) page 504.
+    2. ^ 30 Am Jur 181. Law Dictionary, James A. Ballentine, Second
+       Edition, 1948, page 345.
+
+[wysig] Sien ook
+
+     * Lys van Latynse frases
+     * Status quo
+     * De jure
+
+   Kategorieë: Regsterme vanuit Latyn • Latynse uitdrukkings
+

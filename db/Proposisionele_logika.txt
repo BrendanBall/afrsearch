@@ -1,0 +1,44 @@
+Proposisionele logika
+
+
+   As ons kyk na die logiese vorm van sinne wat uit eenvoudige
+   ("atomiese") sinne opgebou is met behulp van die logiese woordjies,
+   konnektiewe, soos "nie", "en", "of" en "as ..., dan ...", dan het ons
+   te doen met proposisionele logika, waar 'n proposisie dit is wat 'n sin
+   sê, 'n bewering dus.
+
+   Om die logiese vorm van sinne duidelik na vore te bring, gebruik ons in
+   die proposisielogika 'n verkorte notasie, wat uit letters en spesiale
+   simbole bestaan. Die atomiese sinne word deur letters aangedui:
+   "Andries gaan" skryf ons net as A; en "Bettie gaan" as B.
+
+   Die konnektiewe word deur spesiale simbole aangedui:
+
+   "nie" deur ¬; "en" deur Ù; "of" ("en/of") deur Ú; "as ..., dan ..."
+   deur ®
+
+   Met hierdie afsprake kan ons nou ons voorbeeld van 'n argument in die
+   proposisielogika soos volg neerskryf:
+     * (1) A Ú B
+     * (2) ¬A
+     * (3) B
+
+   Wat ons hier het, is 'n geldige argumentvorm: vir enige twee sinne in
+   die plek van A en B kry ons 'n geldige argument. Ons kan die geldigheid
+   toets met 'n waarheidstabel: stel "waar" voor met die syfer 1 en
+   "onwaar" met 0; skryf dan al die moontlike kombinasies van die waarheid
+   of onwaarheid van A en B neer; kyk vir elk van hierdie (vier)
+   kombinasies wat die waarheid of onwaarheid van (1), (2) en (3) is;
+   kontroleer of vir al daardie gevalle waar (1) en (2) beide waar is, (3)
+   ook waar is; indien wel, dan is die argumentvorm geldig.
+   A (3) B (1) A Ú B (2) ¬A
+   1 1     1         0
+   1 0     1         0
+   0 1     1         1
+   0 0     0         1
+
+   Let op dat daar net een geval (een ry in die tabel) is waarin (1) en
+   (2) beide waar is, naamlik die derde van die vier rye. In daardie geval
+   is (3) ook waar, en ons het dus 'n geldige argument.
+   Kategorie: Taalkunde
+

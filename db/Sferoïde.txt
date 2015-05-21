@@ -1,0 +1,48 @@
+Sferoïde
+
+
+   Oblate (afgeplatte) sferoïde
+   Oblate (afgeplatte) sferoïde
+   Prolate sferoïde
+   Prolate sferoïde
+
+   'n Sferoïde is 'n kwadratiese oppervlak en die omwentelingsfiguur van
+   'n ellips. 'n Ellipsoïde waarvaan twee strale gelyk is is 'n sferoïde.
+   Wanneer die twee gelyke strale kleiner dan die derde is, word dit 'n
+   oblate, of afgeplatte sferoïde genoem, maar waneer die twee gelyke
+   strale langer as die derde straal is, is die resultaat 'n prolate
+   sferoïde.
+
+   Die aarde (en ook ander planete) word gereeld voorgestel as 'n
+   afgeplatte sferoïde.
+
+[wysig] Volume
+
+   Die volume van een prolate sferoïde is:
+     * V = \frac{4}{3}\pi a b^2
+
+   Die volume van 'n oblate sferoïde is:
+     * V = \frac{4}{3}\pi a^2 b
+
+   Waarin:
+     * a die grootste straal is en
+     * b die kortste straal is.
+
+[wysig] Oppervlakte
+
+   Die oppervlakte van 'n prolate sferoïde is by benadering:
+
+          A \approx \pi\left(2 a^2 + \frac{b^2}{e}
+          \ln\left(\frac{1+e}{1-e}\right) \right)
+
+   Vir 'n oblate sferoïde is die oppervlakte by benadering:
+
+          A \approx 2 \pi b \left(b + a
+          \frac{\operatorname{arctanh}{\left(e \right)}}{e} \right)
+
+   Waarin e die eksentrisiteit van die ellips is, gedefineerd as:
+
+          e = \left(1-(b^2/a^2)\right)^{1/2}
+
+   Kategorie: Ruimtemeetkunde
+

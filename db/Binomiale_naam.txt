@@ -1,0 +1,44 @@
+Binomiale naam
+
+
+   In biologie is binomiale name die formele metode waarvolgens spesies se
+   name gegee word. Soos die woord "binomiaal" suggereer, word die
+   wetenskaplike naam van 'n spesie gevorm deur die kombinasie van twee
+   terme: die genus naam en die spesie beskrywer. Alhoewel die fynere
+   detail kan verskil, is daar seker aspekte wat universeel aangeneem
+   word:
+     * Wetenskaplike name word gewoonlik kursief gedruk, soos Homo
+       sapiens. As dit met die hand geskryf word behoort dit onderstreep
+       te word.
+     * Die eerste term (genusnaam / geslagnaam / generiese naam) word
+       altyd met 'n hoofletter geskryf, terwyl die beskrywer nie met 'n
+       hoofletter geskryf word nie al is dit afkomstig van 'n eienaam.
+       Byvoorbeeld, Canis lupus of Anthus hodgsoni. (Maar let daarop dat
+       dit 'n mderne gebruik is: Linnaeus het altyd die spesifieke
+       beskrywer met 'n hoofletter geskryf, en tot die vroe 20ste eeu was
+       dit algemene gebruik om die spesifieke beskrywer met 'n hoofletter
+       te skryf as dit van 'n eienaam afkomstig was.)
+     * Wanneer dit saammet 'n gewone naam gebruik word, word die
+       wetenskaplike naam gewoonlik agterna in hakkies geskryf,
+       byvoorbeeld, "die Huismossie (Passer domesticus) is bedreig."
+     * Die wetenskaplike naam behoort in die algemeen voluit geskryf word
+       wanneer dit vir die eerste keer gebruik word of as verskeie spesies
+       van die selfde genus in 'n referaat of verslaggelys of bespreek
+       word . Dit kan afgekort word deur slegs die aanvanklike letter (en
+       'n punt) vir die genus te gebruik; byvoorbeeld Canis lupus word C.
+       lupus. In uitsonderlike gevalle het die afkorting tot meer algemene
+       gebruik versprei — byvoorbeeld die bakterie Escherichia coli word
+       gereeld slegs E. coli genoem, en Tyrannosaurus rex is moontlik meer
+       bekend as T. rex.
+     * Die afkorting "sp." (of "spec.") word gebruik wanneer die werklike
+       spefieke naam nie bekend is nie: byvoorbeeld Canis sp. dui "'n
+       spesie van die genus Canis" aan. Die afkorting "spp." (meervoud)
+       dui "verskeie onbekende spesies" aan.
+     * Die afkorting "cf." word gebruik wanneer die indentifikasie nie
+       bevestig is nie: byvoorbeeld Corvus cf. splendens dui aan dat daar
+       twyfel oor die spesie bestaan.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Wetenskaplike klassifikasie
+

@@ -1,0 +1,72 @@
+DVD
+
+
+   DVD-weergawe- (links) en -opnamemedia (regs) kan maklik onderskei word
+   DVD-weergawe- (links) en -opnamemedia (regs) kan maklik onderskei word
+
+   DVD is 'n formaat vir optiese stoorskywe, wat soos die kompakskyf (CD)
+   uit polikarbonaat bestaan, 'n deursnee van 12 sentimeter en 'n dikte
+   van 1,2 millimeter het. In teenstelling met die CD word dit egter uit
+   twee plate van 0,6 millimeter elk vervaardig, wat die aftasting met 'n
+   laserstraal minder moeilik maak. Die twee kante van 'n DVD-skyf kan
+   albei twee lae met inligting bevat en bied derhalwe 'n stoorkapasiteit
+   wat 25 keer groter kan wees as dié van die CD. Die oordragsnelheid van
+   die DVD is eweneens vertienvoudig.
+
+   Aanvanklik staan die afkorting DVD vir Digital Video Disc (Digitale
+   Videoskyf), maar dit word gewysig tot Digital Versatile Disc (Digitale
+   Veelsydige Skyf) nadat die medium ook as lees- en stoormedium vir
+   rekenaars en as medium vir oudio-toepassings bekend gestel word.
+
+   Die DVD-standaarde word ontwikkel en beheer deur die DVD-Forum, 'n
+   werkgroep van die vernaamste vervaardigers van harde- en sagteware.
+
+   Die formaat DVD-Video is in 1996 op die Japanse en Noord-Amerikaanse
+   markte ingevoer.
+
+[wysig] DVD-formate
+
+   DVDs is tans in nege verskillende formate beskikbaar (die HD-DVD word
+   in 2005 ingevoer, BluRay sal HD-DVD 'verfang' en is in 2008 befestig):
+
+   DVD-FORMAAT FUNKSIE
+   DVD-Video Weergawe van beeld en klank (agt ure in hoë kwaliteit)
+   DVD-Oudio Weergawe van musiek in hoë resolusie, dikwels met
+   bonusmateriaal soos video's, prentgalerye en diskografieë
+   DVD-ROM Stoormedium vir gegewens wat in DVD-aandrywers gelees, maar nie
+   oorskryf kan word nie
+   DVD-RAM Stoor- en opnamemedium vir alle soorte gegewens en
+   TV-programme, funksioneer soos 'n hardeskyf
+   DVD-R Stoor- en opnamemedium vir alle soorte gegewens en TV-programme
+   wat een keer beskryf kan word
+   DVD-RW Stoor- en opnamemedium vir alle soorte gegewens en TV-programme
+   wat tot 1 000 keer beskryf kan word
+   Mini-DVD Formaat wat videogegewens in DVD-kwaliteit op 'n CD-R of CD-RW
+   kan stoor (maksimaal sowat 30 minute speeltyd)
+   DualDisc Formaat wat uit 'n CD- en DVD-plaat saamgepers word, bied
+   CD-klank en DVD-Video- en/of DVD-Oudio-materiaal
+   HD-DVD Stoor- en opnamemedium vir groot hoeveelhede gegewens, geskik
+   vir TV-programme en video's in hoë resolusie
+   Blu-Ray Dics Stoor- en opnamemedium vir groot hoeveelhede gegewens,
+   geskik vir TV-programme en video's in hoë resolusie. 25 GB per laag,
+   maks. twee lae vir nou met 'n totaal van 50 GB
+
+[wysig] DVD-formate sonder goedkeuring van die DVD-Forum
+
+     * +R, +R-DL, +RW: Om lisensiegelde te bespaar en ook om een of ander
+       versoenbaarheidsprobleem op te los, het Philips variante - die
+       sogenaamde +RW-formate - ingevoer. Hulle is min of meer
+       vergelykbaar met die bogenoemde formate, word egter nie deur die
+       DVD-Forum erken nie (daar is dus ook geen "DVD"-kenteken op die
+       verpakking nie). Die +R-DL (Dual Layer) is 'n dubbellaag-formaat
+       wat sowat 8.54 GB in twee lae kan stoor. +R-DL-media en
+       DVD-aandrywers is sedert 2004 beskikbaar.
+     * Ondanks sy misleidende naam baseer ook die Super Audio CD op die
+       DVD-ROM-formaat.
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   DVD
+   Kategorie: DVD
+

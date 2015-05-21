@@ -1,0 +1,101 @@
+ATX
+
+
+   ATX vorm moederborde het gewild geword vanweē die voordele wat hulle
+   gebied het bo die ouer AT moederbord.
+   ATX vorm moederborde het gewild geword vanweē die voordele wat hulle
+   gebied het bo die ouer AT moederbord.
+
+   Die ATX (Advanced Technology Extended) moederbord vormfaktor is deur
+   Intel in 1995 geskep. Dit was die eerste groot verandering in
+   rekenaarkas en moederbord ontwerp vir baie jare. ATX het die AT
+   vormfaktor verbygesteek as die standaardstelsel in nuwe stelsels. ATX
+   het baie van die AT se probleme en frustrasies oorbrug. Ander
+   standaarde vir kleiner borde (insluitende microATX, flex-ATX en
+   mini-ITX) gebruik gewoonlik die basiese agterste uitleg van die ATX
+   moederbord maar maak die bord kleiner asook die aantal aansluiter
+   hegstukke. In 2003, het Intel die BTX standaard bekendgestel met die
+   oogmerk om ATX daarmee te vervang maar met ingang Februarie 2006 was
+   die ATX vormfaktor nog steeds die nywerheidstandaard vir selfbouers en
+   selfs vir rekenaarvervaardigers soos Dell, Gateway en HP.
+
+   AT-tipe rekenaarkaste het 'n kragskakelaar gehad wat direk aan die
+   stelsel se kragtoevoer eenheid gekoppel was. Die algemene konfigurasie
+   was 'n dubbelpool skakelaar op die hooftoevoer met die vier penne
+   gekonnekteer aan drade vanaf 'n vierkern kabel. Die drade was of aan
+   die kragskakelaar vasgesoldeer (wat dit moeilik gemaak het om 'n
+   kragtoevoer eenheid te vervang as dit gefaal het) of is met 'n hegstuk
+   daaraan gekoppel. 'n ATX se kragtoevoer word nie direk aan die stelsel
+   se kragskakelaar verbind nie wat dit moontlik maak om die rekenaar deur
+   middel van programmatuur af te skakel. Baie ATX kragtoevoere het 'n
+   skakelaar aan die agterkant om te verseker dat geen krag na die
+   moederbord vloei nie.
+
+   Die kragtoever se hegstuk aan die moederbord is ook verander. Die ouer
+   AT kragtoevoere het twee eenderse hegstukke gebruik wat soms per abuis
+   verkeerd om ingeprop kon word en kortsluitings tot gevolg kon hê wat
+   die moederbord kon beskadig. ATX gebruik een groter hegstuk wat
+   installasie makliker en veiliger maak. Die een hegstuk verskaf ook 'n
+   3.3 Volt hegstuk wat dit onnodig maak om 'n addisionele draad vir die
+   betrokke spanning te verskaf. Sommige moederborde, veral die latere AT
+   modelle het voorsiening gemaak vir beide AT en ATX kragtoevoere. Met
+   die bekendstelling van die Pentium 4 is hierdie hegstuk as onvoldoende
+   beskou en is 'n ekstra 4-pen hegstuk bygevoeg wat ook later by die
+   Athlon 64 stelsels ingebou is. Sommige hoë-vlak stelsels het ook ander
+   hegstukke gebruik om meer krag te verskaf. Sommige hoë-werkverrigting
+   grafiese kaarte benodig ook ekstra krag maar dié word gewoonlik deur 'n
+   4-pen molex hegstuk verskaf, soortgelyk aan dié wat vir hardeskyf en
+   CD-ROM kragtoevoere gebruik word.
+
+   Aan die agterkant van die stelsel is groot veranderinge aangebring. Die
+   AT-standaard het slegs 'n sleutelbord-hegstuk verskaf waar die
+   inpropkaarte gekom het. Alle ander aanboord koppelvlakke (soos
+   serie-poort en parallelle poorte) moes verbind word deur middel van
+   verlengingsdrade na hegstukke wat aan die agterkant van die rekenaarkas
+   verskaf is of koppelstukke wat in die plek van ongebruikte
+   aansluitergleuwe geplaas is. ATX maak dit vir elke moederbord
+   vervaardiger moontlik om hierdie poorte in 'n reghoekige area aan die
+   agterkant van die stelsel te plaas volgens 'n selfbepaalde rangskikking
+   (al volg die meeste vervaardigers dieselfde patroon in die verband).
+   Die agterkant van die rekenaarkas word gewoonlik voorien met
+   verwyderbare toevoer/afvoer panele. Sommige rekenaarkaste het ook
+   panele verskaf wat dit moontlik gemaak het om 'n AT-moederbord in 'n
+   ATX kas te installeer.
+
+   Die ATX ontwerp het ook gestandardiseer op die gebruik van PS/2
+   hegstukke vir sleuterborde en muise. Die AT stelsel het die 5 pen DIN
+   verbinding vir die sleutelbord gebruik en is gewoonlik saam met
+   serie-poort muise gebruik (al was 'n PS/2 muispoort dikwels ook
+   beskikbaar).
+
+   Die amptelike spesifikasie is in 1995 deur Intel vrygestel en is
+   sedertien verskeie kere aangepas, met die mees onlangse wysiging,
+   weergawe 2.2[1], wat in 2004 vrygestel is.
+
+   Die ATX vormfaktor het tot op hede vyf hoof kragtoevoerontwerpe gehad:
+     * ATX - 20-pen hegstuk (Gebruik tot en met die Pentium III en vroeë
+       Athlon XP SVE's)
+     * WTX - 24-pen hegstuk (Pentium II en III Xeon en Athlon MP)
+     * AMD GES - 24-pen hoof hegstuk, 8 pen sekondêre hegstuk (gebruik
+       deur sommige dubbelkernverwerker Athlon's)
+     * ATX12V - 20-pen hoof hegstuk, 4-pen sekondêre hegstuk, 8-pen
+       tersiêre hegstuk (Pentium 4 en middel/laat Athlon XP en Athlon 64
+       modelle)
+     * EPS12V - 24-pen hoof hegstuk, 8-pen sekondêre hegstuk, 8-pen
+       tersiêre hegstuk (Xeon en Opteron soos gedefinieer in die SSI
+       spesifikasie.
+     * ATX12V 2.0 - 24-pen hoof hegstuk, 4-pen sekondêre hegstuk (Pentium
+       4 en Athlon 64 met PCI Express)
+
+   'n Volgrootte ATX-bord is 305 mm breed en 244 mm diep. Dit maak dit
+   moontlik vir baie ATX onderstelle om microATX borde ook te aanvaar.
+
+[wysig] Eksterne skakels
+
+     * ATX Moederbord Spesifikasie, weergawe 2.2
+     * ATX12V Kragtoevoer Ontwerpersgids, weergawe 2.2
+     * EPS12V Kragtoevoer Ontwerpersgids, weergawe 2.91
+     * ATX kragtoevoer hegtukke met pengids
+
+   Kategorie: Rekenaar
+

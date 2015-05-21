@@ -1,0 +1,336 @@
+Sink
+
+
+
+   30                         koper ← sink → gallium
+    -
+   ↑
+   Zn
+   ↓
+   Cd
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                         Naam, Simbool, Getal sink, Zn, 30
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 12, 4, d
+                                     Voorkoms bleekgrys met blouerige tint
+                                                Atoommassa 65.409(4) g/mol
+                                      Elektronkonfigurasie [Ar] 3d^10 4s^2
+                                            Elektrone per skil 2, 8, 18, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 7.14 g/cm³
+                                  Vloeistof digtheid teen s.p. 6.57 g/cm³
+                                                        Smeltpunt 692.68 K
+                                                              (419.53 °C)
+                                                           Kookpunt 1180 K
+                                                                 (907 °C)
+                                               Smeltingswarmte 7.32 kJ/mol
+                                            Verdampingswarmte 123.6 kJ/mol
+                               Warmtekapasiteit (25 °C) 25.390 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                        P/Pa    1  10  100 1 k 10 k 100 k
+                                      teen T/K 610 670 750 852 990  (1185)
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 2
+                                                      (Amfoteriese oksied)
+                              Elektronegatiwiteit 1.65 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 906.4 kJ/mol
+                                                        2de: 1733.3 kJ/mol
+                                                         3rde: 3833 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 142 pm
+                                                   Kovalente radius 131 pm
+                                               Van der Waals radius 139 pm
+                                                                   Diverse
+                                      Magnetiese rangskikking diamagneties
+                                 Elektriese weerstand (20 °C) 59.0 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 116 W/(m·K)
+                              Termiese uitsetting (25 °C) 30.2 µm/(m·K)
+                       Spoed van klank (dun staaf) (k.t.) (gerol) 3850 m/s
+                                                  Young se modulus 108 GPa
+                                                       Skuifmodulus 43 GPa
+                                                       Massamodulus 70 GPa
+                                                    Poissonverhouding 0.25
+                                                      Mohs se hardheid 2.5
+                                                  Brinell hardheid 412 MPa
+                                              CAS-registernommer 7440-66-6
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van sink
+
+                                  iso   NV   halfleeftyd VM VE (MeV)  VP
+                                 ^64Zn 48.6% Zn is stabiel met 34 neutrone
+                                 ^65Zn syn   244.26 d    ε  -        ^65Cu
+                                                         γ  1.1155   -
+                                 ^66Zn 27.9% Zn is stabiel met 36 neutrone
+                                 ^67Zn 4.1%  Zn is stabiel met 37 neutrone
+                                 ^68Zn 18.8% Zn is stabiel met 38 neutrone
+                                 ^70Zn 0.6%  Zn is stabiel met 40 neutrone
+
+                                                                Verwysings
+
+   Sink (vanuit Duits Zink) is 'n chemiese element in die periodieke tabel
+   met die simbool Zn en atoomgetal van 30.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Biologiese rol
+             + 4.1 Voedselbronne
+             + 4.2 Sinktekort
+             + 4.3 Giftigheid van Sink
+             + 4.4 Psoriasis
+             + 4.5 Immuniteitstelsel
+        * 5 Verspreiding
+        * 6 Sinkproduksie
+        * 7 Verbindings
+        * 8 Isotope
+        * 9 Voorsorgmaatreëls
+        * 10 Verwysings
+        * 11 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Sink is 'n metaal met 'n matige reaktiwiteit wat met suurstof en ander
+   nie-metale verbindings kan vorm en reageer met verdunde sure met die
+   gepaardgaande vrystelling van waterstof. Die een algemene
+   oksidasietoestand van sink is +2.
+
+[wysig] Gebruike
+
+   Sink is die vierde mees algemene metaal in gebruik na yster, aluminium
+   en koper as die jaarlikse produksiesyfers in ag geneem word.
+     * Sink word gebruik in die galvanisasie (versinking) van metale soos
+       staal om hulle teen korrosie te beskerm.
+     * Sink word in legerings soos geelkoper, nikkelsilwer, verskeie
+       soldeersels ens. gebruik.
+     * Geelkoper vind verskeie toepassings waar dit gesog is vanweë sy
+       sterkte en weerstand tot korrosie.
+     * Sink word gebruik vir gietwerk, veral in die motornywerheid.
+     * Gerolde sink word gebruik as deel van die houers van draagbare
+       batterye.
+     * Sinkoksied word gebruik as wit pigment in watergebaseerde en ander
+       verwe en as 'n aktiveerder in die rubbernywerheid. Dit word ook as
+       'n sonbrandweerders gebruik in die vorm van 'n salf. Salwe wat
+       sinkoksied bevat word ook op babas se boudjies teen uitslag te
+       beskerm. Die verbinding word ook ingespan om ouderdomsverwante
+       oogsiektes te bekamp.
+     * Sinkchloried word gebruik as reukweerder en as preserveermiddel vir
+       hout.
+     * Sinksulfied word gebruik in lumineserende pigmente vir voorwerpe
+       wat in die donker gloei.
+     * Sinkmetiel (Zn(CH[3])[2]) word gebruik in organiese sintese.
+     * Sinkstearaat word as bymiddel in plastieke gebruik om
+       smeringseienskappe te verbeter.
+     * Kalamynmelk is 'n mengsel van Zn-(hidroksie-)karbonate en silikate
+       wat gebruik word om veluitslag te behandel.
+     * Sinkmetaal word in baie gepatenteerde vitamien- en
+       mineraalaanvullings gebruik. Saam met 'n paar ander metale word
+       daar gereken dat die metaal sekere anti-oksidant eienskappe besit,
+       wat die vroegtydige veroudering van die vel en spiere in die
+       liggaam teenwerk. Sommige mense glo dat indien dit in groter
+       hoeveelhede geneem word dit die herstelproses na 'n besering kan
+       versnel. Preparate wat in die verband gebruik word is sinkasetaat
+       en sinkglukonaat.
+     * Sinkglukonatglisien is in suigtabletvorm beskikbaar vir die
+       bestryding van gewone verkoue simptome.
+
+[wysig] Geskiedenis
+
+   Sink
+   Sink
+
+   Sinklegerings is eeue lank reeds in gebruik soos blyk uit geelkoper
+   artikels wat terugdateer tot 1000-1400 v.C. wat in Palestina gevind is
+   asook sinkvoorwerpe met 87% sinkinhoud wat in prehistoriese Trasilvanië
+   gevind is.
+
+   As gevolg van die lae kookpunt en hoogs reaktiewe aard van hierdie
+   metaal, is die ware aard van die metaal nie werklik in die antieke tye
+   verstaan nie. Die tegniek om geelkoper te vervaardig was reeds aan die
+   Antieke Romeine bekend rondom ongeveer 30 v.C.; die tegniek het basies
+   die verhitting van kalamyn en koper saam in 'n smeltkroes behels. Die
+   sinkoksiede in kalamyn is gereduseer en die vrye sinkmetaal dan deur
+   die koper vasgevang om 'n legering te vorm. Die kalamynkoper is dan óf
+   gegiet óf na die verlangde vorm gehamer.
+
+   Die smelt en ontginning van onsuiwer vorme van sink is reeds so vroeg
+   as die jaar 1000 n.C. in Indië en Sjina gedoen. Teen die einde van die
+   14de eeu, was die Hindus reeds bewus dat sink 'n afsonderlike metaal
+   was van die sewe metale wat toe aan die antieke mense bekend was. In
+   die Antieke Weste is daar ook dikwels onsuiwer sinkneerslae in
+   smeltoonde gevind maar is dit as nutteloos beskou en weggegooi. Strabo
+   maak daarvan melding as pseudo-arguros "valse silwer". Die Berne
+   Sinktablet is 'n plakket wat dateer uit die Romeinse Gallië en is
+   waarskynlik uit bogenoemde sinkoorskiet gemaak. Die ontdekking van
+   suiwer metaalagtige sink word dikwels an die Duitser Andreas Marggraf
+   in die jaar 1746 toegeskryf, maar die ware verhaal van die ontdekking
+   is egter meer ingewikkeld.
+
+   Geskrifte van Albertus Magnus rondom 1248 in Wes-Europa bestaan wat die
+   vervaardiging van geelkoper beskryf en teen die 16de eeu het die
+   verstaan en bewustheid van die nuwe metaal heelwat gegroei. Georg
+   Agricola het in 1546 waargeneem dat 'n wit metaal gekondenseer kon word
+   en van die mure van 'n oond afgeskraap kon word tydens die smelt van
+   sinkertse. Hy het in sy notas genoem dat 'n soortgelyke metaal "zincum"
+   in Silesië vervaardig was. Paracelsus († 1541) was die eerste
+   Westerling wat gesê het dat "zincum" 'n nuwe metaal was en dat dit sy
+   eie stel chemiese eienskappe gehad het. Twee jaar voor Marggraf sy
+   ontdekking gemaak het is sink reeds deur die chemikus, Anton von Swab
+   geïsoleer. Marggraf se verslae was egter deeglik in besonderhede en
+   metodies en die kwaliteit van sy navorsing het sy reputasie as die
+   ontdekker van sink gevestig.
+
+   Voor die ontdekking van die sinksulfiedflotasie tegniek was kalamyn die
+   enigste minerale bron van sinkmetaal.
+   Kos en speserye wat die noodsaaklike mineraal sink bevat
+   Kos en speserye wat die noodsaaklike mineraal sink bevat
+
+[wysig] Biologiese rol
+
+   Sink is 'n noodsaaklike element, wat noodsaaklik is vir alle lewe. Daar
+   word beraam dat 3000 van die honderde duisende proteïene in die
+   menslike liggaam sink bevat.
+
+[wysig] Voedselbronne
+
+   Die beste en oorvloedigste bron van natuurlike voedselbronne van sink
+   is oesters. Sink word in die meeste diereproteïene soos in die vleis
+   van bees, vark en pluimvee aangetref. Ander voedselbronne sluit bone,
+   neute, volgraan, pampoen- en sonneblomsade in. Phytate, wat in
+   volgraanbrood, graankosse, peulvrugte en ander soortgelyke voedsels
+   aangetref word kan moontlik die absorbsie van sink verlaag. Dit
+   gekoppel aan die feit dat die menslike liggaam sink makliker absorbeer
+   vanuit diere- as uit plantproteïene beteken dat vegetariërs meer daarop
+   moet let om seker te maak dat hulle voldoende bronne van sink inneem.
+
+[wysig] Sinktekort
+
+   Sinktekort in mense is dikwels die gevolg van 'n onvoldoende inname van
+   sink of onvoldoende absorpsie van sink in die liggaam in. Tekens van
+   Sinktekort sluit in haarverlies, letsels op die vel, diarree, die
+   verrotting van liggaamweefsels en uiteindelik die dood. Sig-, smaak-,
+   reuk- en geheueverlies word ook met sinktekort verbind.
+
+   Die voorsiening van voldoende sink aan ongebore en jong kinders is
+   dikwels 'n groot probleem veral onder mense wat nie voldoende vleis en
+   verskeidenheid van voedselsoorte kan bekostig nie. Die ontwikkeling van
+   die brein word vertraag by ongebore babas en jong kinders as die
+   sinkinname onvoldoende is.
+
+[wysig] Giftigheid van Sink
+
+   Al is sink 'n noodsaaklike element in 'n gesonde liggaam kan te veel
+   sink ook skadelik wees. Oormatige absorpsie van sink in die menslike
+   liggaam kan lei tot verlaagde ysterfunksie en ook die immuniteitstelsel
+   benadeel. Eksperimente wat uitgevoer is dui daarop dat oormatige
+   sinkinname kan lei tot naarheid en braking binne 30 minute na inname.
+
+[wysig] Psoriasis
+
+   Ioniese sink is 'n kragtige kiemdoder wat al sedert 2500 v.C. in
+   velrome gebruik is. Kalamynmelk, babarome en skilferbehandelings is
+   slegs 'n paar van die algemene kiemdodende toepassings. Teen lae
+   konsentrasies bevorder sinkione die heling van wonde. Sinkione
+   stimuleer ook die sinkontvangers op die selle van die vel wat die
+   gesondword van wonde dus bevorder.
+
+[wysig] Immuniteitstelsel
+
+   Volgens sekere bronne kan die inname van sinktablette help om
+   immuniteit teen verkoue en griep te verskaf. Dit word egter deur ander
+   bevraagteken. Die biologiese basis hiervan is dat daar vasgestel is dat
+   die immuniteitstelsel belemmer word deur 'n sinktekort en dus goed
+   reageer op sinkaanvullings. Die direkte impak van sink op bakterieë en
+   virusse is ook al deeglik bevestig. Die metode waarop sink aangewend
+   kan word om patogene (kieme) te bestry sonder om 'n mens se eie
+   weefsels te beskadig is egter problematies en word steeds ondersoek.
+
+[wysig] Verspreiding
+
+   Sink is die 23ste volopste element in die aarde se kors. Die erts wat
+   die meeste ontgin word bevat rofweg 10% yster en 40-50% sink. Minerale
+   waaruit sink ontgin word sluit sfaleriet, sinkblende, smithsoniet,
+   kalamyn en frankliniet in.
+
+[wysig] Sinkproduksie
+
+   Sinkmyne word oraloor die wêreld aangetref. Die grootste vervaardigers
+   is Australië, Kanada, Sjina, Peru en die V.S.A. Myne in Europa sluit in
+   Vieille Montagne in België, Tara in Ierland en Zinkgruvan in Swede in.
+
+   Sinkmetaal word ontgin deur ekstraktiewe metallurgie.
+   Sinksulfiedminerale (sfaleriet) word gekonsentreer deur van die
+   skuimflotasie metode gebruik te maak en word dan pirometallurgies
+   gerooster om die sinksulfied na sinkoksied te oksideer. Die sinkoksied
+   word dan geloog met swaelsuur en die resulterende oplossing word dan
+   met sinkstof gesuiwer. Die metaal word dan elektrolities onttrek as
+   katodiese neerslae. Sink katodes kan direk gegiet of saam met aluminium
+   in legerings gebruik word.
+
+   'n Ander proses wat gebruik word om sink te vervaardig is
+   flitssmelting, 'n pirometallurgiese proses. Die sinkoksied wat sodoende
+   vervaardig word se suiwerheid is egter laer as in die
+   hidromettalurgiese proses. Sinkoksied behandeling word deesdae minder
+   gebruik maar hoë-graad neerslae is al suksesvol benut om sink uit
+   sinkoksied en sinkkarbonate te vervaardig met behulp van
+   hidromettalurgie.
+
+[wysig] Verbindings
+
+   Sinkoksied is waarskynlik die welbekendste en mees gebruikte
+   sinkverbinding, aangesien dit 'n goeie basis vorm vir wit verfpigmente.
+   Dit vind ook heelwat nywerheidstoepassings in die rubberbedryf en word
+   as sonbrandweerder gebruik. 'n Verskeidenheid sinkverbindings word ook
+   in nywerheidstoepassings aangewend soos sinkchloried (in reukweerders),
+   sinksulfied (in glimmende verwe) en sinkmetiel in die organiese
+   laboratorium. Rofweg 'n kwart van alle sinkvervaardiging word in die
+   vorm van sinkverbindings aangewend.
+
+[wysig] Isotope
+
+   Sink kom in die natuur in 4 stabiele isotope voor naamlik Zn-64, Zn-66,
+   Zn-67 en Zn-68 met 64 as die volopste istoop (48.6% natuurlike
+   verspreiding). 33 Radio-isotope is al geëien met die volopste daarvan
+   Zn-65 met 'n halfleeftyd van 244.26 dae, en Zn-72 met 'n halfleeftyd
+   van 46.5 ure. Al die oorblywende radio-aktiewe isotope het halfleeftye
+   van minder as 14 uur en die meerderheid daarvan het halfleeftye van
+   minder as 1 sekonde. Die element het ook 4 meta-toestande.
+
+[wysig] Voorsorgmaatreëls
+
+   Metalliese sink word nie as giftig beskou nie maar daar bestaan wel 'n
+   aandoening wat veroorsaak kan word deur die oormatige inaseming van
+   nuut gevormde sinkoksied. Oormatige sinkinname van sink kan ook tekorte
+   van ander dieetkundige minerale in die hand werk.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Artikel oor Sink
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Zinc
+     * Artikel oor die geskiedenis en etimologie van sink
+     * Inligting oor Sink - Voordele, Tekort Simptome en Voedingsbronne
+     * WebElements.com – Artikel oor Sink
+     * Sink – Geskiedenis, bronne, vervaardiging, gebruike, gesondheid, en
+       Sinktekort
+     * Ontdek die 8^ste metaal
+     * Wêreldproduksiesyfers vir sink, volgens land
+
+   Kategorie: Chemiese elemente
+

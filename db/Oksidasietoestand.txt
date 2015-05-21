@@ -1,0 +1,130 @@
+Oksidasietoestand
+
+
+   In Chemie is die Oksidasietoestand 'n aanduiding van die graad van
+   oksidasie van 'n atoom in 'n chemiese verbinding. Die formele
+   oksidasietoestand is die hipotetiese lading wat 'n atoom sou gehad het
+   as al die verbindings tot andersoortige elemente 'n 100% ionies van
+   aard was. Volgens konvensie word oksidasietoestand aangedui met
+   Arabiese syfers en kan dit positief, negatief of nul wees.
+
+   Die proses waartydens die oksidasietoestand van 'n atoom toeneem word
+   oksidasie genoem; 'n afname in oksidasietoestand word reduksie genoem.
+   Sulke reaksies behels die oordrag van elektrone, 'n netto toename aan
+   elektrone is 'n reduksie en 'n netto afname is 'n oksidasie.
+
+   Die definisie van oksidasietoestand deur IUPAC is as volg:
+
+     "Oksidasietoestand :'n Mate van die graad van oksidasie van 'n atoom
+     in 'n stof. Dit word gedefinieer as die denkbeeldige lading wat 'n
+     atoom sou hê as elektrone getel word volgens 'n ooreengekome stel
+     reëls: (1) die oksidasietoestand van 'n vrye element (onverbonde
+     element) is nul; (2) vir 'n eenvoudige (monatomiese) ioon, is die
+     oksidasietoestand gelyk aan die netto lading op die ioon; (3)
+     waterstof het 'n oksidasietoestand van 1 en suurstof het 'n
+     oksidasietoestand van -2 wanneer hulle in die meeste verbindings
+     teenwoordig is. (Uitsonderings hierop is dat waterstof 'n
+     oksidasietoestand van -1 in hidriede van aktiewe metale het, bv.
+     LiH, en suurstof het 'n oksidasietoestand van -1 in peroksiede, bv.
+     H[2]O[2]; (4) die algebraïse som van oksidasietoestande van alle
+     atome in 'n neutrale molekuul moet nul wees, terwyl die algebraïse
+     som van oksidasietoestande van die atome waaruit 'n ioon bestaan
+     gelyk moet wees aan die lading van daardie ioon. Byvoorbeeld, die
+     oksidasietoestand van swael in H[2]S, S[8] (elementêre swael),
+     SO[2], SO[3], en H[2]SO[4] is respektiewelik: -2, 0, +4, +6 en +6.
+     Hoe hoër die oksidasietoestand van 'n gegewe atoom is, hoe groter is
+     sy graad van oksidasie; hoe laer die oksidasietoestand is, hoe
+     groter is die graad van reduksie."
+
+[wysig] Berekening van Oksidasietoestand
+
+   Daar is twee maniere waarop die oksidasietoestand van 'n atoom in 'n
+   verbinding bereken word. Die eerste metode word gebruik vir molekule
+   wat 'n Lewis-struktuur het, wat dikwels die geval is by organiese
+   molekule, terwyl die tweede een gebruik word vir eenvoudige verbindings
+   (molekulêr aldan nie) en vereis nie 'n Lewis-struktuur nie.
+
+   Daar moet onthou word dat die oksidasietoestand van 'n atoom nie die
+   "ware" lading op daardie atoom verteenwoordig nie: dit is veral waar by
+   hoë oksidasietoestande, waar die ionisasie-energie wat vereis word om
+   'n positiewe ioon met meer as 'n enkele positiewe lading baie groter is
+   as die energie beskikbaar in chemiese reaksies. Die toekenning van
+   elektrone tussen atome wanneer 'n oksidasietoestand bereken word is
+   suiwer konvensie. Dit bly egter 'n nuttige hulpmiddel om chemiese
+   reaksies te verstaan.
+
+[wysig] Vanaf 'n Lewis-struktuur
+
+   Wanneer die Lewis-struktuur van 'n molekule beskikbaar is, kan die
+   oksidasietoestand ondubbelsinnig toegeken word deur die verskil te
+   bereken tussen die aantal valenselektrone wat 'n neutrale atoom van
+   daardie element sou hê en die aantal elektrone wat "behoort" aan sy
+   Lewis-struktuur. Vir berekeningsdoeleindes behoort elektrone in 'n
+   verbinding tussen atome van verskillende elemente aan die mees
+   elektronegatiewe atoom; elektrone in 'n verbinding tussen atome van
+   dieselfde element word gelykop verdeel en elektrone in 'n alleenpaar
+   behoort slegs aan die atoom met die alleenpaar.
+
+   Beskou asynsuur as voorbeeld:
+
+   Die koolstofatoom van die metielgroep het 6 valenselektrone van sy
+   verbindings met die waterstofatome omdat die koolstof meer
+   elektronegatief is as waterstof. Verder kry dit 1 elektron by van sy
+   verbinding met die ander koolstof atoom omdat die elektronpaar in die
+   C-C verbinding gelykop verdeel word, wat 'n totaal van 7 elektrone gee.
+   'n Neutrale koolstofatoom sal 4 valenselektrone hê omdat koolstof in
+   groep 14 van die periokdieke tabel lê. Die verskil, 4 - 7 = -3 is die
+   oksidasietoestand van die koolstofatoom. Dit wil sê as die aanname
+   gemaak word dat al die verbindings 100% ionies is (wat hulle
+   inderwaarheid nie is nie), die koolstof kan beskryf word as C^3-.
+
+   Deur dieselfde reëls toe te pas op die karboksielsuur se koolstofatoom
+   toe te pas vind ons dat die oksidasietoestand van die atoom +3 is (Dié
+   koolstofatoom kry slegs een elektron vanaf die C-C verbinding; die
+   suurstofatome kry al die ander elektrone omdat suurstof meer
+   elektronegatief is as koolstof). Die suurstofatome het beide 'n
+   oksidasietoestand van -2; hulle kry elk 8 elektrone (4 vanaf die
+   alleenpare en 4 vanaf die verbindings), terwyl 'n neutrale
+   suurstofatoom 6 sou hê. Die waterstofatome het almal 'n
+   oksidasietoestand van +1 omdat hulle almal hulle elektron aan die meer
+   elektronegatiewe atome afstaan waaraan hulle verbind is.
+
+   Oksidasietoestande is 'n nuttige hulpmiddel om chemiese vergelykings
+   van redoksreaksies te balanseer, omdat die veranderinge in die
+   geoksideerde atome gebalanseer moet word met die veranderinge in die
+   gereduseerde atome. Die reaksie van asetaldehied met Tollen se reagens
+   om asynsuur te vorm (hierbenede getoon) verander die karbonielgroep se
+   koolstofatoom se oksidasietoestand van +1 tot +3 (oksidasie). Hierdie
+   oksidasie word gebalanseer deur die reduksie van twee ekwivalente
+   silweratome vanaf Ag^+ tot Ag^o.
+
+          Verandering in oksidasietoestand in die Tollens reaksie
+
+[wysig] Sonder 'n Lewis-struktuur
+
+   Die algebraïse som van oksidasietoestande van alle atome in 'n neutrale
+   molekuul moet nul wees, terwyl die algebraïse som van
+   oksidasietoestande van die atome in 'n ioon gelyk moet wees aan die
+   lading van die ioon. Hierdie reël tesame met die feit dat baie elemente
+   bykans altyd dieselfde oksidasietoestand het, maak dit vir 'n mens
+   moontlik om oksidasietoestande in eenvoudige verbindings te bereken. 'n
+   Paar tipiese reëls wat gebruik word om oksidasietoestande vir
+   eenvoudige verbindings toe te ken is as volg:
+     * Fluoor het 'n oksidasietoestand van −1 in al sy verbindings
+       aangesien dit die hoogste elektronegatiwiteit het van alle
+       reaktiewe elemente.
+     * Waterstof het 'n oksidasietoestand van +1 behalwe wanneer dit met
+       meer elektropositiewe elemente soos natrium, aluminium en boor
+       verbind is soos in die geval van NaH, NaBH[4] en LiAlH[4]
+     * Suurstof het 'n oksidasietoestand van −2 buiten waar dit 'n −1 in
+       peroksiede, −1/2 in superoksiede en 'n +2 in suurstofdifluoried,
+       OF[2] en 'n +1 in O[2]F[2] het.
+     * Alkaliemetale het 'n oksidasietoestand van +1 in byna al hul
+       verbindings (uitsondering, sien alkaliede).
+     * Alkalie-aardmetale het 'n oksidasietoestand van +2 in byna al hul
+       verbindings.
+     * Halogene het 'n oksidasietoestand van −1 buiten waar hulle aan
+       suurstof of 'n ander halogeen verbind is.
+
+   Kategorieë: Chemie • Fisika
+

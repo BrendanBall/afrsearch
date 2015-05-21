@@ -1,0 +1,45 @@
+Spesifieke brandstofverbruik
+
+
+   Spesifieke brandstofverbruik, is 'n ingenieursterm wat gebruik word om
+   die branstofdoeltreffendheid van 'n enjinontwerp aan te dui. Dit is 'n
+   mate van die hoeveelheid brandstof wat benodig word om 'n gegewe
+   hoeveelheid krag oor 'n gegewe tydperk te lewer.
+
+   Spesifieke brandstofverbruik hang af van die enjinontwerp, maar
+   verskille in die spesifieke brandstofverbruik tussen verskillende
+   enjins met dieselfde onderliggende tegnologie is geneig om baie klein
+   te wees. Tipiese petrolenjins se spesifieke brandstofverbruik is
+   ongeveer 0.3 kg/(kW·h) ongeag die onwerp van enige besondere enjin. Oor
+   die algemeen sal die spesifieke brandstofverbruik vir 'n klas enjins
+   toeneem saam met die samepersingsverhouding. Dieselenjins het 'n hoër
+   spesifieke brandstofverbruik as petrolenjins hoofsaaklik vanweë hulle
+   baie hoër samepersingsverhouding aangesien die manier waarop hulle
+   brandstof brand in der waarheid minder doeltreffend is.
+
+   In praktiese toepassings is daar verskeie faktore wat 'n betekenisvolle
+   rol speel in die bepaling van die brandstofdoeltreffendheid van 'n
+   spesifieke enjinontwerp in 'n betrokke toepassing. Vliegtuigturbines
+   (straal- en turboskroefenjins) byvoorbeeld is gewoonlik baie ligter en
+   kleiner as suierenjins met gelykwaardige kraglewering, wat die
+   sleurkrag op die vliegtuig verlaag asook die hoeveelheid krag benodig
+   om die vliegtuig aan te dryf. Turbines is daarom 'n baie meer
+   doeltreffende vliegtuigaandrywer as wat andersins sal blyk uit 'n
+   vergelyking soos in die onderstaande tabel:
+   Soort Enjin                                SBV
+   Ramjet                                     0.61 kg/(kW·h)
+   Turbo-prop                                 0.49 kg/(kW·h)
+   Otto-siklus                                0.3 kg/(kW·h)
+   Dieselsiklus                               0.24 kg/(kW·h)
+   Otto-saamgestelde enjin                    0.23 kg/(kW·h)
+   Turbo-aanjaer Diesel                       0.23 kg/(kW·h)
+   Turbo-aangejaagde & Tussenverkoelde Diesel 0.22 kg/(kW·h)
+   Diesel-saamgestelde enjin                  0.21 kg/(kW·h)
+
+[wysig] Sien ook
+
+     * Energie per eenheidsmassa
+     * Spesifieke impuls
+
+   Kategorie: Voertuigtegnologie
+

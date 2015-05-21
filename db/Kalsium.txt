@@ -1,0 +1,189 @@
+Kalsium
+
+
+
+                       kalium – kalsium – skandium
+            Mg
+            Ca
+            Sr
+
+
+              Kalsium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal Kalsium, Ca, 20
+                                        Chemiese reeks alkalie-aard metale
+                                       Groep, Periode, Blok 2 (IIA), 4 , s
+                                     Digtheid, Hardheid 1550 kg/m^3 , 1.75
+                                                     Voorkoms silwerig-wit
+                                                           Atoomeienskappe
+                                                     Atoomgewig 40.078 ame
+                                           Atoomradius (ber.) 180 (194) pm
+                                                   Kovalente radius 174 pm
+                                       van der Waals radius geen inligting
+                                             Elektronkonfigurasie [Ar]4s^2
+                                        e^− e per energievlak 2, 8, 8, 2
+                                Oksidasietoestande (Oksied) 2 (sterk basis
+                   Kristalstruktuur kubies vlakgesentreerd (by kamertemp.)
+                                               liggaamgesentreer (>448°C)
+                                                        Fisiese eienskappe
+                              Toestand van materie vastestof paramagneties
+                                             Smeltpunt 1115 K (841.85 °C)
+                                             Kookpunt 1757 K (1483.85 °C)
+                                      Molêre volume 26.20 ×10^-6 m^3/mol
+                                            Verdampingswarmte 153.6 kJ/mol
+                                               Smeltingswarmte 8.54 kJ/mol
+                                               Dampdruk 254 Pa teen 1112 K
+                                    Spoed van klank 3810 m/s teen 293.15 K
+                                                                   Diverse
+                                  Elektronegatiwiteit 1.00 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 632 J/(kg*K)
+                           Elektriese geleidingsvermoë 29.8 10^6/(m·ohm)
+                                    Termiese geleidingsvermoë 201 W/(m*K)
+                                    1^ste ionisasiepotentiaal 589.8 kJ/mol
+                                    2^de ionisasiepotentiaal 1145.4 kJ/mol
+                                    3^de ionisasiepotentiaal 4912.4 kJ/mol
+                                                     Mees stabiele isotope
+
+                               iso    NV    halfleeftyd VM   VE MeV
+                                                            [nie SI]  VP
+                              ^40Ca 96.941% Ca is stabiel met 20 neutrone
+                              ^41Ca sin.    103,000 j   ε   0.421    ^41K
+                              42Ca  0.647%  Ca is stabiel met 22 neutrone
+                              43Ca  0.135%  Ca is stabiel met 23 neutrone
+                              44Ca  2.086%  Ca is stabiel met 24 neutrone
+                              46Ca  0.004%  Ca is stabiel met 26 neutrone
+                              48Ca  0.187%  10^18 j     β^- 4.272    ^48Ti
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Kalsium is 'n chemiese element in die periodieke tabel met die simbool
+   Ca en atoomgetal van 20. Kalsium is 'n sagte grys alkalie-aard metaal
+   wat as reduseermiddel gebruik word in die onttrekking van torium,
+   sirkonium en uraan. Die element is ook die vyfste volopste element in
+   die aardkors. Dit is noodsaaklik vir alle lewende organismes en speel
+   'n belangrike rol in die fisiologie van selle.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Geskiedenis
+        * 3 Aanwendings
+        * 4 Verbindings
+        * 5 Voorbereiding
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Dit brand met 'n geelrooi vlam en vorm 'n wit nitried laag op die
+   oppervlak wanneer dit aan lug blootgestel word. Dit reageer met water
+   met die gepaardgaande vrystelling van waterstof en vorming van
+   kalsiumhidroksied.
+
+[wysig] Geskiedenis
+
+   Kalsium is in 1808 deur Sir Humphry Davy, J.J. Berzelius en Poutin
+   ontdek.
+
+[wysig] Aanwendings
+
+   Kalsium is 'n belangrike bestandeel van 'n gesonde dieet. 'n Effense
+   tekort daaraan kan been en tandgroei belemmer. 'n Oordosis daarvan kan
+   lei tot die vorming van nierstene. Vitamien D is noodsaaklik vir die
+   absorbsie van kalsium deur die liggaam. Melkprodukte het tipies 'n hoë
+   kalsium inhoud.
+
+   Vir meer inligting omtrent Ca in die natuur, sien kalsium in biologie.
+
+   Ander gebruike sluit in:
+     * Reduseermiddel vir die ekstraksie van ander metale soos uraan,
+       sirkonium en torium.
+     * Vir die verwydering van suurstof, swael en koolstof uit verskeie
+       yster- en nie-ysterbevattende legerings.
+     * Suiwer kalsium ward ingespan om die kwaliteit van staal te
+       verbeter.
+     * Word gebruik in die vervaardiging van onderhoudvrye
+       motorvoertuigbatterye. Verbeter die eienskappe van
+       loodsuurbatterye.
+     * Legeringsmiddel wat gebruik word in die produksie van aluminium-,
+       berillium-, koper-, lood- en magnesiumallooie.
+     * Dit word ook gebruik vir die vervaardiging van sement.
+
+[wysig] Verbindings
+
+   Ongebluste kalk (CaO) word in baie chemiese raffineringsprosesse
+   gebruik en word vervaardig deur die verhitting van kalk. CaO vorm maak
+   'n belangrike bestandeel van Portland sement uit.
+
+   Wanneer water deur kalksteen of ander oplosbare karbonaatgesteentes
+   syfer, word die rots gedeeltelik opgelos en word grotte gevorm asook
+   die kenmerkende stalaktiete en stalagmiete. Kalsiumsoute in water
+   veroorsaak ook die verskynsel wat as harde water bekend staan. Ander
+   belangrike kalsiumverbindings is kalsiumnitraat, -sulfied, -chloried,
+   -karbied, -siaanamied en -hipochloriet.
+
+[wysig] Voorbereiding
+
+   Voor die Tweede Wêreldoorlog is kalsium vervaardig deur die elektrolise
+   van kalsiumchloried. Die metode word egter nie meer gebruik nie. Die
+   proses tans in gebruik is die termiese reduksie van kalk met aluminium.
+   Aluminiumpoeier en kalk word gemeng in 'n hoëtemperatuuroond tot 'n
+   temperatuur van ongeveer 1200 °C onder vakuumtoestande en stel sodoende
+   'n kalsiumdamp vry wat dan herwin word deur middel van kondensasie.
+
+[wysig] Isotope
+
+   Kalsium het ses stabiele isotope, waarvan twee in die natuur voorkom:
+   stabiele Ca-40 en radio-aktiewe Ca-41 met 'n halfleeftyd van 103 000
+   jaar. 97% van die element kom in die Ca-40 vorm voor. Ca-40 is, saam
+   met Ar-40, een van die dogterprodukte van K-40 verval. Alhoewel K-Ar
+   datering al op groot skaal in die geologiese wetenskappe ingespan is,
+   het die oorvloed waarmee Ca-40 in die natuur voorkom die gebruik
+   daarvan beperk. Tegnieke wat gebruik maak van massa spektrometrie en
+   dubbelpiek isotoop verdunning is al gebruik vir K-Ca die
+   ouderdomsbepaling van gesteentes. Anders as kosmogeniese isotope wat in
+   die atmosfeer gevorm word, word Ca-41 deur neutron-aktivering van Ca-40
+   gevorm. Die grootste hoeveelheid daarvan word in die boonste meter of
+   so van die grond gevorm waar die kosmogeniese stroomdigtheid van die
+   neutronvloei nog voldoende sterkte het. Ca-41 het baie aandag geniet in
+   sterrekundige studies omdat Ca-41 na K-41 verval, 'n kritiese
+   aanduiding van afwykings in sterrestelsels se gedrag.
+
+[wysig] Voorsorgmaatreëls
+
+   Kalsium reageer met water en sure om waterstofgas, kalsiumoksied en
+   kalsiumhidroksied te vorm. Die reaksies is eksotermies. As
+   kalsium-metaal dus in kontak met die vel, oë of lugweg kom, kan dit
+   ernstige chemiese brande veroorsaak. Dus moet die stof so gou doenlik
+   verwyder word.
+
+   Indien dit per mond geneem word kan dit akute irritasie en brande in
+   die mond, keel en maag veroorsaak en braking veroorsaak.
+
+   As eerstehulpmaatreël moet die slagoffer so gou moontlik verwyder word
+   na waar daar vars lug is. Verwyder enige metaal met 'n droë lap en was
+   met groot hoeveelhede water.
+
+   Water moet onder geen omstandighede gebruik word om kalsiumvure te blus
+   nie. Droë poeier moet verkieslik gebruik word en indien die vuur baie
+   groot is moet die omgewing ontruim word en die metaal toegelaat word om
+   uit te brand.
+
+[wysig] Verwysings
+
+     * Artikel in die Engelse Wikipedia
+     * Ullman's Encyclopedia of Industrial Chemistry, 6de Uitgawe, John
+       Wiley & Sons (Elektroniese weergawe)
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Calcium
+     * EnvironmentalChemistry.com – Calcium
+
+   Kategorieë: Chemiese elemente • Alkalie-aard metale
+

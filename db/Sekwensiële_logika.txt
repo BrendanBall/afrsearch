@@ -1,0 +1,28 @@
+Sekwensiële logika
+
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   In Digitale stroombaan teorie, word sekwensiële logika beskryf as 'n
+   tipe logika stroombaan wat se afvoer afhangklik is van die huidige
+   toevoer sowel as die geskiedenis van die toevoer. Dit kontrasteer met
+   kombinasie logika, wat se afvoer 'n funksie van slegs die huidige
+   toevoer is. Anders gestel bevat sekwensiële logika geheue elemente wat
+   kombinasie logika nie doen nie.
+
+   Sekwensiële logika word dus ook gebruik om sommige tipes rekenaar
+   geheues te konstrueer, sekere tipes vertraging en stoor elemente, en
+   en:finite state machines. Meeste praktiese rekenaar stroombane is 'n
+   vermenging van sekwensiële en kombinasie logika.
+
+   Daar is twee tipes finite state machines wat met sekwensiële logika
+   gebou kan word:
+     * en:Moore machine: die afvoer is slegs afhangklik van die interne
+       status. (Aangesien die interne status slegs op 'n klokflank
+       verander, verander die afvoer ook slegs op 'n klokflank).
+     * en:Mealy machine: die afvoer is afhangklik kvan beide die interne
+       status en die huidige toevoer.
+
+   Kategorieë: Saadjies • Elektronika • Rekenaar
+

@@ -1,0 +1,100 @@
+Hadeda
+
+
+                        Hadeda
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Threskiornithidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Bostrychia
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. hagedash
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Bostrychia hagedash
+   (Latham, 1790)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die hadeda in Suider-Afrika
+   Die verspreiding van die hadeda in Suider-Afrika
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die hadeda, Bostrychia hagedash, is 'n groot (lengte 76-89 cm)
+   gryserige voël met kenmerkende glansende, bronskleurige vlerke.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+             + 5.1 Sien ook
+
+[wysig] Identifikasie
+
+   Die voël vertoon grys-bruin, met glansende (groen en brons) vlerke. Kop
+   is grys van kleur met 'n wit streep agter die snawel.
+
+[wysig] Habitat
+
+   Graslande, plase en voorstedelike tuine.
+
+[wysig] Verspreiding
+
+   Kom voor in die oostelike suidelike Afrika.
+
+[wysig] Geluid
+
+   ha-ha-ha-de-da .
+
+[wysig] Ander name
+
+     * Engels: Hadeda Ibis
+     * Duits: Hagedasch
+     * Wetenskaplike naam: Bostrychia hagedash
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Ibisse en lepelaars
+

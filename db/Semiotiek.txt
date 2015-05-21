@@ -1,0 +1,47 @@
+Semiotiek
+
+
+   Semiotiek is die studie van tekens en simbole.
+
+   Inhoud
+
+        * 1 Konsepte
+        * 2 Verdeling
+        * 3 Geskiedenis
+        * 4 Subklasse
+
+[wysig] Konsepte
+
+   Semiotiek bestudeer die manier hoe die mens tekens en simbole
+   produseer, interpreteer en kommunikeer. Dit sluit enige teken of
+   simbool in, nie net woorde (semantiek) nie, maar ook lyftaal en klank.
+   Konsepte, gedagte en idees kan ook as simbole gebruik word.
+
+[wysig] Verdeling
+
+     * Sintaks, element: teken,
+     * Sigmatiek, element: data,
+     * Semantiek, element: boodskap,
+     * Pragmatiek, element: informasie.
+
+[wysig] Geskiedenis
+
+     * John Locke het die woord "semeiotike" in 1690 eerste gebruik(Grieks
+       - σεμα, sema, "merk" of "teken")
+     * Charles Sanders Peirce (1839-1914)
+     * Ferdinand de Saussure (1857-1913)
+     * Charles W. Morris (1901-1979)
+     * Umberto Eco
+     * Algirdas Greimas
+     * Jay Forrester
+
+[wysig] Subklasse
+
+     * Biosemiotiek is die studie van kommunikasie in lewendige sisteme.
+     * Komputale semiotiek
+     * Literêre semiotiek
+     * Mediese semiotiek
+     * Kinematografiese semiotiek
+
+   Kategorie: Semiotiek
+

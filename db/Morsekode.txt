@@ -1,0 +1,66 @@
+Morsekode
+
+
+   Morsekode is 'n stelsel om letters, nommers, getalle en leestekens deur
+   middel van 'n onderbroke kodesein te stuur. Dit is deur Samuel Morse en
+   Alfred Vail in 1835 ontwerp.
+
+   Morsekode is 'n vroeë vorm van digitale kommunikasie; maar anders as
+   moderne binêre digitale kodes wat slegs twee state gebruik (0 en 1),
+   gebruik Morsekode vyf: kolletjie (·), strepie (–), kort rus (tussen
+   elke letter), medium rus (tussen woorde) en lang rus (tussen sinne).
+
+[wysig] Letters
+
+   Letter Internasionale
+          Kode          Amerikaanse
+                        Morse      Letter Internasionale
+                                          Kode          Amerikaanse
+                                                        Morse
+   A      · -           · -        N      - ·           - ·
+   B      - · · ·       - · · ·    O      - - -         - - -
+   C      - · - ·       · · _ · †  P      · - - ·       · · · · ·
+   D      - · ·         - · ·      Q      - - · -       · · - ·
+   E      ·             ·          R      · - ·         · _ · · †
+   F      · · - ·       · - ·      S      · · ·         · ·
+   G      - - ·         - - ·      T      -             -
+   H      · · · ·       · · · ·    U      · · -         · · -
+   I      · ·           · ·        V      · · · -       · · · -
+   J      · - - -       · - · -    W      · - -         · - -
+   K      - · -         - · -      X      - · · -       · - · ·
+   L      · - · ·       - - - -    Y      - · - -       · · _ · · †
+   M      - -           - -        Z      - - · ·       · · · _ · †
+
+   († Let wel: "_" beteken "spasie" en maak deel van die karakter uit)
+
+[wysig] Nommers
+
+   Internasionale   Amerikaanse
+   morsekode        morsekode
+0   -----            -----
+1   ·----            ·--·
+2   ··---            ··-··
+3   ···--            ···-·
+4   ····-            ····-
+5   ·····            ---
+6   -····            ······
+7   --···            --··
+8   ---··            -····
+9   ----·            -··-
+
+[wysig] Morsekode vertalers en programme
+
+   Daar is 'n aantal vertalers op die Web wat teks na morsekode kan
+   omskakel, en dit ook deur jou rekenaar kan terugspeel:
+     * Stephen C Phillips se Java vertaler (Oopbron)
+     * Stephen C Phillips se nie-Java vertaler
+     * Omnicron.com
+     * 'n Morsekode leerprogram vir Windows-masjiene (Oopbron)
+     * Morsekode vir Esperanto
+     * Morsekodekarakters van Russies / Grieks / Hebreeus / Arabies /
+       Japannees / Koreaans / Esperanto
+     * Morse Code Music (alternatief)
+
+   Kategorieë: Amateurradio • Enkodering • Geskiedenis van
+   telekommunikasie
+

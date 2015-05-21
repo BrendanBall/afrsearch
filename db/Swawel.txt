@@ -1,0 +1,325 @@
+Swawel
+
+
+
+                         fosfor – swael – chloor
+             N
+             S
+            Se
+
+
+              Swael in die periodieke tabel
+
+                                                 Volledige tabel
+
+                                                                  Algemeen
+                                         Naam, Simbool, Getal Swael, S, 16
+                                                 Chemiese reeks Nie-metale
+                                      Groep, Periode, Blok 16 (VIA), 3 , p
+                                        Digtheid, Hardheid 1960 kg/m^3 , 2
+                                                      Voorkoms Geel by STD
+                                                           Atoomeienskappe
+                                                     Atoomgewig 32.065 ame
+                                            Atoomradius (ber.) 100 (88) pm
+                                                   Kovalente radius 102 pm
+                                               van der Waals radius 180 pm
+                                        Elektronkonfigurasie [Ne]3s^2 3p^4
+                                           e^− e per energievlak 2, 8, 6
+                       Oksidasietoestande (Oksied) -1,±2,4,6 (sterk suur)
+                                              Kristalstruktuur ortorombies
+                                                        Fisiese eienskappe
+                                            Toestand van materie Vastestof
+                                           Smeltpunt 388.36 K (115.21 °C)
+                                            Kookpunt 717.87 K (444.72 °C)
+                                    Molêre volume 15.53 ×10^−6 m^3/mol
+                                               Verdampingswarmte geen data
+                                             Smeltingswarmte 1.7175 kJ/mol
+                                               Dampdruk 26.5 Pa teen 388 K
+                                                 Spoed van klank Geen Data
+                                                                  Algemeen
+                                  Elektronegatiwiteit 2.58 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 710 J/(kg*K)
+                                     Elektriese geleidingsvermoë 0.5 fS/m
+                                  Termiese geleidingsvermoë 0.269 W/(m*K)
+                                    1^ste ionisasiepotentiaal 999.6 kJ/mol
+                                      2^de ionisasiepotentiaal 2252 kJ/mol
+                                      3^de ionisasiepotentiaal 3357 kJ/mol
+                                      4^de ionisasiepotentiaal 4556 kJ/mol
+                                    5^de ionisasiepotentiaal 7004.3 kJ/mol
+                                    6^de ionisasiepotensiaal 8495.8 kJ/mol
+                                                     Mees stabiele isotope
+
+                                  iso    NV   halfleeftyd VM  VE MeV
+                                                                      VP
+                                  ^32P 95.02% S is stabiel met 16 neutrone
+                                  ^33S 0.75%  S is stabiel met 17 neutrone
+                                  ^34S 4.21%  S is stabiel met 18 neutrone
+                                  ^35S sin.   87.32 d     β^- 0.167 ^35Cl
+                                  ^36S 0.02%  S is stabiel met 20 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Swawel, oftewel swael, is die chemiese element in die periodieke tabel
+   met die simbool S en atoomgetal van 16. Dit kom wyd verspreid voor en
+   is 'n smaaklose, reuklose, multivalente nie-metaal. Swael, in sy
+   onverbonde vorm is 'n geel kristallyne vastestof. In die natuur kan dit
+   gevind word in suiwer vorm of as sulfied en sulfaat minerale. Dit is 'n
+   lewensnoodsaaklike element en word in verskeie aminosure aangetref.
+   Kommersiële gebruik van swael is hoofsaaklik vir kunsmis maar dit word
+   ook gebruik in buskruit, lakseermiddels, vuurhoutjies, pesdoders en
+   swamdoders.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Biologiese rol
+        * 4 Omgewingsimpak
+        * 5 Geskiedenis
+        * 6 Verspreiding
+        * 7 Verbindings
+        * 8 Isotope
+        * 9 Voorsorgmaatreëls
+        * 10 Sien ook
+        * 11 Verwysings
+        * 12 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Swael is 'n sagte en ligte stof met 'n heldergeel kleur. Alhoewel
+   waterstofsulfied (H[2]S) 'n kenmerkende vroteierreuk het, is dit
+   belangrik om kennis te neem dat elementêre swael reukloos is! Dit brand
+   met 'n helderblou vlam wat swaeldioksied vrystel, wat 'n kermerkende
+   verstikkende reuk het. Swael is nie oplosbaar in water nie maar wel
+   oplosbaar in koolstofdisulfied. Algemene oksidasietoestande van swael
+   sluit −2, +2, +4 en +6 in. Swael vorm stabiele verbindings met die
+   meeste elemente buiten die edelgasse.
+
+   Swael bestaan normaalweg as molekules in die vastestof, en neem
+   hoofsaaklik 'n sikliese kroonvormige S[8] struktuur aan. Swael het vele
+   allotrope buiten S[8]. Deur een atoom van die kroon te verwyder verkry
+   mens S[7], wat verantwoordelik is vir die heldergeel kleur wat met
+   swael geassosieer word. Ander ringstrukture is ook al voorberei, die
+   vernaamstes waarvan S[12] en S[18] insluit.
+
+   Die kristallografie van swael is kompleks. Afhangende van die
+   spesifieke toestande kan die swaelallotrope vele onderskeibare
+   kristalstrukture vorm, waarvan die rombiese en monokliniese S[8] die
+   bekendste is. In teenstelling daarmee bestaan sy ligter buurman op die
+   periodieke tabel uit slegs twee vorme van chemiese belang: O[2] en
+   O[3]. Selenium, die swaarder analoog van swael vorm 'n paar
+   ringstrukture maar is meer stabiel as 'n gryskleurige polimeer.
+
+   'n Noemenswaardige eienskap is dat die viskositeit (vloeibaarheid) van
+   gesmelte swael, anders as die meeste ander vloeistowwe toeneem met
+   temperatuurstyging vanweë die vorming van polimeerkettings.
+
+   Amorfe of plastiese swael kan voorberei word deur die snelle verkoeling
+   van gesmelte swael. X-straal kristallografiese ondersoeke het getoon
+   dat die amorfe vorm 'n heliese struktuur mag hê, met agt atome per
+   draai. Hierdie vorm is metastabiel by kamertemperatuur en keer
+   geleidelik terug na sy kristallyne vorm. Die proses gebeur binne 'n
+   kwessie van ure tot dae maar kan vinnig gekataliseer word deur geskikte
+   katalisators, onder andere menslike speeksel ('n hoofrede waarom 'n
+   mens nie swael in die mond moet plaas nie).
+
+[wysig] Aanwendings
+
+   Swael het vele industriële gebruike. Swaelsuur (H[2]SO[4]), een van die
+   belangrikste verbindings van swael, maak daarvan een van die
+   belangrikste elemente in gebruik as 'n industriële roumateriaal. Dit is
+   van groot belang in byna elke denkbare sektor van die wêreld se
+   ekonomieë. Swaelsuurproduksie is die grootste eindverbruik van swael en
+   verbruik daarvan word oraloor beskou as een van die beste indikatore
+   van 'n nasie se ontwikkelingsvlak. In die Verenigde state is swaelsuur
+   diè industriële chemikalie waarvan die meenste vervaardig word. Swael
+   word ook gebruik in batterye, reinigingsmiddels, die vulkanisering van
+   rubber, swamdoders en vir die vervaardiging van fosfaatbevattende
+   misstowwe. Sulfiet word gebruik as bleikmiddel in papiervervaardiging
+   en as preserveermiddel in wyn en gedroogde vrugte. Vanweë sy
+   vlambaarheid word swael ook gebruik in vuurhoutjies, buskruit en
+   vuurwerke. Natrium of ammonium tiosulfaat word gebruik in fotografiese
+   fikseermiddels. Magnesiumsulfaat, ook beter bekend as Engelse sout (en:
+   Epsom salts) word gebruik as lakseermiddel, 'n badsout, as
+   skilfermiddel of as 'n magnesiumaanvulling vir plante.
+
+[wysig] Biologiese rol
+
+   Die aminosure, sistien en metionien bevat swael, asook al die
+   polipeptiede, proteïne en ensieme wat hierdie aminosure bevat. Dit maak
+   swael 'n noodsaaklike komponent van alle lewende selle.
+   Disulfiedverbindings tussen polipeptiede is baie belangrik in die
+   samestelling van proteïne en strukture. Homosistien en taurien is ook
+   swaelbevattende aminosure maar maak nie deel uit van DNA of die primêre
+   struktuur van proteïne nie. Sommige vorms van bakterieë gebruik
+   waterstofsulfied (H[2]S) in plaas van water as die elektrondonor in 'n
+   primitiewe proses soortgelyk aan fotosintese. Swael in die vorm van
+   sulfaat-ione word deur plante vanuit die grond geabsorbeer.
+
+[wysig] Omgewingsimpak
+
+   Die brand van steenkool en ru-olie deur nywerhede en kragstasies stel
+   groot hoeveelhede swaeldioksied (SO[2]) in die lug vry wat met
+   atmosferiese water en suurstof reageer om swaelsuur te produseer. Dit
+   veroorsaak suur-reën wat die pH van grond en varswaterbronne verlaag.
+   Dit lei tot noemenswaardige skade aan die natuurlike omgewing asook
+   chemiese verwering van standbeelde en ander geskiedkundige
+   argitektoniese strukture. Brandstofstandaarde word toenemend strenger
+   gemaak en vereis 'n al laer swael-inhoud van produkte wat uit
+   fossielbrandstowwe vervaardig word om die vorming van suur-reën te
+   voorkom. Die swael wat sodoende onttrek word word geraffineer en maak
+   'n groot deel van swaelproduksie uit.
+
+[wysig] Geskiedenis
+
+   Swaelkristal
+   Swaelkristal
+
+   Swael is bekend sedert antieke tye en daar word daarna verwys in die
+   boek van Genesis in die Bybel.
+
+   Homer het verwys na peswerende swael in die 9de eeu v.C. In 424 v.C.
+   het die Boeotië-stam die mure van 'n stad vernietig deur 'n mengsel van
+   steenkool, swael en teer onder hulle te brand. In die 12de eeu het die
+   Sjinese buskruit uitgevind wat 'n mengsel van kaliumnitraat (KNO[3]),
+   koolstof en swael is. Vroeëre alchemiste het aan swael sy eie
+   alchemiese simbool toegeken wat bestaan het uit 'n driehoek bo-aan 'n
+   kruis. Laat in die 1770s, het Antoine Lavoisier gehelp om die
+   wetenskaplike gemeenskap daarvan te oortuig dat swael inderwaarheid 'n
+   element was en nie 'n verbinding nie. In 1867 is swael ontdek in
+   ondergrondse neerslae in Louisiana en Texas. Die boliggende grond was
+   onstabiel wat gewone mynboumetodes onmoontlik gemaak het. Die probleem
+   is egter oorkom met die ontwikkeling van die Frasch proses.
+
+[wysig] Verspreiding
+
+   Swael
+   Swael
+   Swaelkristalle by die Wai-o-tapu warmbronne, Nieu-Seeland
+   Swaelkristalle by die Wai-o-tapu warmbronne, Nieu-Seeland
+
+   Swael kom natuurlik in goot hoeveelhede as verbindings met ander
+   elemente in sulfiede (bv. piriet, cinnabar, galena, sfaleriet en
+   stibniet en sulfate (bv. gips) voor. Dit word in die onverbonde vorm
+   gevind naby warmbronne en vulkaniese streke. Daar is noemenswaardige
+   elementêre swaelneerslae langs die Gulf Coast van die V.S.A. Ander
+   hoofverskaffers is: Kanada, Japan, Frankryk, Pole en Meksiko.
+   Vulkaniese neerslae word ook tans in Indonesië en Chili ontgin.
+
+   Die kenmerkende kleure van Jupiter se vukaniese maan Io is vanweë
+   verskeie vorms van gesmelte en soliede swael en swaeldampe. Daar is ook
+   'n donker area naby die Maankrater, Aristarchus, wat 'n swaelneerslag
+   mag wees. Swael is ook teenwoordig in baie meteoriete.
+
+[wysig] Verbindings
+
+   Waterstofsulfied het die kenmerkende reuk van vrot eiers. Wanneer dit
+   in water opgelos word, is waterstofsulfied suur en sal met metale
+   reageer om 'n reeks metaalsulfiedes te vorm. Natuurlike metaalsulfiedes
+   kom ook algemeen voor, veral dié van yster. Ystersulfied word piriet
+   genoem en is al dikwels deur prospekteerders met goud verwar.
+
+   Baie van die onwelriekende reuke van organiese verbindings is vanweë
+   die feit dat die verbindings swael bevat. Etiel- en metielmerkaptaan
+   word gebruik om 'n reuk aan natuurlike gas te verleen sodat lekke
+   geruik kan word. Die reuk van knoffel en 'n muishond se afskeiding word
+   ook deur swaelbevattende organiese verbindings veroorsaak.
+
+   Polimeriese swaelnitried het metaaleienskappe al bevat dit nie enige
+   metaal-atome nie. Die verbinding het ook buitengewone elektriese en
+   optiese eienskappe.
+
+   Ander belangrike swaelverbindings sluit in:
+     * natriumditioniet, Na[2]S[2]O[4], 'n kragtige reduseermiddel.
+     * swaeligsuur, H[2]SO[3], word voorberei deur SO[2] in water op te
+       los. Swaeligsuur en die ooreenstemmende sulfiete is betreklik sterk
+       reduseermiddels. 'n Ander verbinding wat uit SO[2] verkry word is
+       die pirosulfiet-ioon (S[2]O[5]^2−).
+     * Die tiosulfate (S[2]O[3]^2−). Tiosulfate word gebruik as
+       fikseermiddel in fotografiese prosesse en is oksideermiddels en
+       ondersoek word ingestel na die moontlike vervanging van sianied met
+       ammonium tiosulfaat vir die loging van goud. [1]
+     * Verbindings van ditionoë-suur (H[2]S[2]O[6])
+     * Die politioniese sure, (H[2]S[n]O[6]), waar n kan wissel van 3 tot
+       80.
+     * Die sulfate, die soute van swaelsuur.
+     * Sulfiede is eenvoudige verbindings van swael met 'n ander chemiese
+       element.
+     * Swaelsuur reageer met SO[3] in ekwimolêre verhoudings om
+       piro-swaelsuur te vorm.
+     * peroksiemono-swaelsuur en peroksiedi-swaelsuur, wat deur die aksie
+       van SO[3] op gekonsentreerde H[2]O[2], en H[2]SO[4] op
+       gekonsentreerde H[2]O[2] onderskeidelik voorberei word.
+     * tetraswaeltetranitried S[4]N[4].
+     * Tiosianate is verbindings wat ide tiosinaat-ioon, SCN^- bevat.
+     * tiosianogeen, (SCN)[2].
+     * 'n tio-eter is 'n molekule met die vorm R-S-R', waar R en R'
+       organiese groepe verteenwoordig. Dit is die swaelekwivalente van
+       die eters.
+     * 'n Tiol (ook bekend as merkaptaan) is 'n molekule met 'n -SH
+       funksionele groep. Hierdie is die swaelekwivalente van die
+       alkohole.
+     * 'n Tiolaat ioon het 'n -S^- funksionele groep daaraan verbind.
+       Hierdie is die swaelekwivalente van die alkoksied ione.
+     * 'n Sulfoon is 'n molekule met 'n R-S(=O)-R' funksionele groep waar
+       R en R' organiese groepe verteenwoordig.
+     * 'n Sulfoksied is 'n molekule met 'n R-S(=O)(=O)-R' funksionele
+       groep. 'n Algemene voorbeeld van 'n sulfoksied is DMSO.
+
+[wysig] Isotope
+
+   Swael het 18 isotope waarvan vier stabiel is: ^32S (95.02%), ^33S
+   (0.75%), ^34S (4.21%) en ^36S (0.02%). Behalwe vir ^35S het die
+   radio-aktiewe isotope van swael almal baie kort leeftye. Swael-35 word
+   gevorm deur afsplintering deur kosmiese straling van argon-40 in die
+   atmosfeer. Dit het 'n halfleeftyd van 87 dae.
+
+   Wanneer sulfiedminerale gepresipiteer word kan die isotoop-ewewig
+   tussen die vastestof en vloestoffase klein verskille in die ds-34
+   waardes veroorsaak in minerale. Die dC-13 en dS-34 van karbonate en
+   sulfiede wat saam voorkom kan gebruik word om die pH en
+   suurstoffugasiteit van die ertsdraende vloeistof tydens ertsvorming te
+   bepaal.
+
+   In die ekostelsel van die meeste woude word sulfate hoofsaaklik vanuit
+   die atmosfeer verkry; die verwering en verdamping van ertsminerale dra
+   ook tot 'n mate by. Swael met 'n kenmerkende isotoop-samestelling is al
+   gebruik om die bronne van besoedeling te identifiseer. Verrykte swael
+   is ook al gebruik as spoormiddel in hidrologiese ondersoeke. Verskille
+   in die natuurlike verspreiding kan ook gebruik word om stelsels te
+   bestudeer waar daar 'n genoemsame variasie in die S-34 konsentrasie van
+   ekostelsels bestaan.
+
+[wysig] Voorsorgmaatreëls
+
+   Koolstofdisulfied, waterstofsulfied en swaeldioksied moet altyd
+   versigtig hanteer word.
+
+   Hoewel swaeldioksied veilig genoeg is om in klein hoeveelhede as
+   voedselbymiddel gebruik te word, sal dit in hoër konsentrasies met
+   water in die longe reageer om swaeligsuur daar te vorm; dit veroorsaak
+   dan onmiddelike bloeding en die longe vul met bloed wat versmoring tot
+   gevolg kan hê. In organismes sonder longe soos insekte of plante kan
+   dit ook respirasie verhoed.
+
+   Waterstofsulfied is betreklik toksies (meer giftig as sianied). Hoewel
+   dit aanvanklik baie sleg ruik is dit geneig om die reuksintuie vinnig
+   af te stomp sodat die potensiële slagoffer onbewus kan raak van die
+   teenwoordigheid daarvan totdat dit te laat is.
+
+[wysig] Sien ook
+
+     * swaelsiklus
+     * disulfiedverbinding
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Swael
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Sulfur
+     * EnvironmentalChemistry.com – Sulfur
+
+   Kategorieë: Chemiese elemente • Gedeege elemente • Nie-metale
+

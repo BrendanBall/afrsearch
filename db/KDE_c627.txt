@@ -1,0 +1,207 @@
+KDE
+
+
+   Die KDE-kenteken   Die KDE-Projek
+   KDE skermkiekie (3.5.7)
+     __________________________________________________________________
+
+   Ontwikkelaar KDE-ontwikkelaars
+   Mees onlangse weergawe 3.5.8 / 16 Oktober 2007
+   Laaste betaweergawe 4.0 beta 4 / 30 Oktober 2007
+   Bedryfstelsel Kruisplatform
+   Kategorie werkskermomgewing
+   Lisensie GPL en ander
+   Webtuiste http://www.kde.org/
+
+   KDE (K Desktop Environment) (ˌkeɪˌdiːˈiː) is 'n vrye-sagteware projek
+   wat poog om 'n kragtige sisteem vir 'n maklik bruikbare
+   werkskermomgewing te wees. Die doel van die projek is om basiese
+   werkskermfunksies en toepassingsprogrammatuur vir die gewone gebruiker
+   te skep, asook om die nodige nutsgoed en dokumentasie aan
+   programmeerders te verskaf sodat hulle hul eie toepassingsprogrammatuur
+   vir die omgewing kan ontwikkel. In hierdie opsig dien die KDE-projek as
+   'n oorkoepelende organiseringsnetwerk vir verskeie selfstandige
+   toepassingsprojekte soos bv. Amarok, K3b, KOffice en vele meer...
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Naam
+             + 1.2 Kenteken
+        * 2 Organisering van die KDE-projek
+        * 3 Argitektuur
+             + 3.1 Basistegnologieë wat in KDE 3 gebruik is
+        * 4 Vername KDE sagteware
+        * 5 Tydlyn
+        * 6 Verwysings
+
+[wysig] Geskiedenis
+
+   KDE is in 1996 begin deur Matthias Ettrich, terwyl hy studeer het aan
+   die Eberhard Karls Universiteit van Tübingen. Op daardie stadium was
+   daar sekere aspekte van die UNIX werkskerm wat hom struwelinge besorg
+   het. Een van sy grootste kwellings was dat geen van die
+   werkskermprogrammatuur eenvormig gelyk of opgetree het nie. Hy het toe
+   voorgestel dat daar 'n volledige werkskermomgewing geskep word wat
+   bestaan uit elemente wat die gebruiker kon aanvaar sou deurgaans
+   dieselfde lyk en optree. Hy wou ook hierdie omgewing so
+   gebruikersvriendelik as moontlik maak. Hierdie voorstel het baie
+   belangstelling op die internet gelok, en so was die KDE-projek toe
+   gebore.
+
+   Matthias het besluit om die QT-gereedskapbundel te gebruik vir die
+   KDE-projek. Ander programmeerders het vinnig begin om KDE/Qt
+   toepassingsprogrammatuur te skryf en teen vroeg 1997 het groot en
+   komplekse sagteware vir die omgewing begin verskyn. Op daardie stadium
+   is Qt nie onder vrye-sagteware-lisensie vrygestel nie, en daar was dus
+   lede van die GNU-projek wat bekommerd begin raak het oor die gebruik
+   van 'n geslote gereedskapbundel om 'n vrye-sagtware werkskerm te bou.
+   Die GNOME-projek het dus ontstaan, met die oogmerk om 'n nuwe
+   werkskermomgewing te bou sonder Qt en wat heeltemal bo-op
+   vrye-sagteware ontwikkel is.
+
+   Die Qt-gereedskapbundel is in November 1998 gelisensiëer onder die
+   vrye/oopbron QPL (Q Public License). Gedurende hierdie selfde jaar het
+   die KDE Vrye Qt-stigting ontstaan, wat sou waarborg dat Qt sou val
+   onder 'n variant van die uiters liberale BSD-lisensie indien Trolltech
+   sou ophou bestaan of geen vrye/oopbron weergawe van Qt in 12 maande
+   vrygestel is nie. Daar was egter nou steeds debat oor versoenbaarheid
+   met die GNU General Public License (GPL).
+
+   In September 2000 het Trolltech die Unix-weergawe van Qt vrygestel
+   onder die GPL, sowel as die QPL. Dit het die bekommernisse van die
+   Vrye-sagteware Stigting finaal uit die weg geruim. Die Qt 4.0
+   vrystelling (en latere vrystellings) is beskikbaar gemaak as vrye
+   sagteware vir Unix, Windows en Mac, wat aantoon dat toekomstige
+   KDE-weergawes moontlik inheemse vrystellings op hierdie platforms kan
+   hê.
+
+   Beide KDE en GNOME neem nou deel aan freedesktop.org, 'n poging om die
+   Unix-werkskerm te standardiseer, hoewel daar nog heelwat kompetisie
+   tussen die twee projekte bestaan.
+
+[wysig] Naam
+
+   Die naam KDE is oorspronklik bedoel as 'n woordspeling op die bestaande
+   Common Desktop Environment wat beskikbaar was vir Unix-sisteme. CDE was
+   'n X11-gebaseerde gebruikeromgewing wat gesamentlik deur HP, IBM en Sun
+   ontwikkel is. Dit het 'n koppelvlak en produktiwiteitsnutsgoed gehad
+   wat gebaseer was op die Motif-gebruikerskoppelvlakenjin en was
+   veronderstel om 'n maklik-bruikbare en intuïtiewe werkskermomgewing te
+   voorsien. Die K was bedoel om te staan vir Kool, maar daar is spoedig
+   besluit dat dit liewer niks in besonder moet beteken nie.
+
+[wysig] Kenteken
+
+   Konqi, kenteken van die KDE-projek
+   Konqi, kenteken van die KDE-projek
+
+   Die KDE-projek se kenteken is 'n groen draak genaamd Konqi. Konqi kan
+   in verskeie toepassings gevind word, en ook wanneer die gebruik sy
+   sessie afsluit of die "Oor KDE"-skerm raadpleeg.
+
+[wysig] Organisering van die KDE-projek
+
+   KDE is, soos baie ander vrye-/oopbronsagtewareprojekte, hoofsaaklik 'n
+   vrywilligerspoging, hoewel verkeie maatskappye, soos bv. Novel (in die
+   vorm van hul SuSE Linux-verspreiding), Trolltech en Mandriva, voltydse
+   werknemers het wat aan die projek bydra. Omdat groot hoeveelhede mense
+   op verskeie maniere (bv. bronkode, vertalings en grafika) tot KDE
+   bydra, is die organisering van die projek ingewikkeld. Die
+   KDE-ontwikkelaars maak veral van e-pos-besprekingslyste gebruik om
+   onderlangs probleme te bespreek.
+
+   Hoewel ontwikkelaars en gebruikers deesdae reg oor die wêreld gevind
+   kan word, behou die projek 'n sterk basis in Duitsland. Die
+   webbedieners is geleë by die Tübingen en Kaiserslautern universiteite,
+   'n Duitse nie-winsjaende organisasie (KDE e.v.) besit die
+   KDE-handelsmerk, en KDE-konferensies vind dikwels plaas in Duitsland.
+
+[wysig] Argitektuur
+
+   KDE is ontwikkel met Trolltech se QT-gereedskapbundel wat op die meeste
+   Unix-verwante (bv. Linux en Mac OS X) en Microsoft Windows werk. Alle
+   KDE 3-vrystellings is gebou op Qt 3, wat slegs vir Linux en
+   Unix-verwante bedryfstelsels onder die GPL beskikbaargestel is. As
+   gevolg hiervan is KDE 3 slegs op Windows beskikbaar deur van 'n X
+   bediener gebruik te maak.
+
+   KDE 4 gaan gebaseer wees op Qt 4 - wat onder die GPL vir Windows en Mac
+   OS X beskikbaargestel is. KDE 4-toepassingsprogrammatuur sal dus
+   inheems op hierdie bedryfstelsels kan hardloop.
+
+[wysig] Basistegnologieë wat in KDE 3 gebruik is
+
+     * aRts - klankbediener
+     * DCOP - sisteem vir interproseskommunikasie
+     * KDELibs
+     * KHTML - HTML-enjin
+     * KIO - uitbreibare netwerk-agnostiese lêertoegang
+     * Kiosk - laat toe dat sekere KDE-omgewingsfunksies afgeskakel kan
+       word om vir 'n meer gekontroleerde omgewing te sorg
+     * KParts - liggewig intydse grafiese komponentraamwerk
+     * KWin - vensterbestuurder
+     * XMLGUI - laat toe om gebruikerskoppelvlak-elemente met behulp van
+       XML-lêers te omskryf
+
+[wysig] Vername KDE sagteware
+
+   Toepassingsprogrammatuur vir KDE sluit in:
+     * Amarok - Musiekspeler
+     * Akregator - RSS-leser
+     * K3b - CD- en DVD-skeppingssagteware
+     * Kate - Teks wysiging
+     * KDevelop - Geïntegreerde ontwikkelingsomgewing
+     * KMail - E-pos-kliënt
+     * Konsole - Terminaal
+     * Kontact - E-pos-kliënt, RSS-leser, Persoonlike inligtingsbestuurder
+     * Kopete - Kitsboodskap-kliënt
+     * Konqueror - Lêerbestuurder and web deurblaaier
+     * KWord - Woordverwerker
+     * KWrite - Liggewig tekswysiging
+
+[wysig] Tydlyn
+
+         Datum                         Vrystelling
+   14 Oktober 1996   Projek aangekondig deur Matthias Ettrich
+   12 Julie 1998     KDE 1.0 vrysgestel^[1]
+   6 Februarie 1999  KDE 1.1 vrygestel^[2]
+   3 Mei 1999        KDE 1.1.1 vrygestel^[3]
+   13 September 1999 KDE 1.1.2 vrygestel^[4] (KDE 1.2 is beplan, maar
+                     nooit vrygestel nie ^[5]^[6]^[7])
+   15 Desember 1999  KDE 1.89, ook bekend as Krash (onstabiele
+                     ontwikkelaarsvrystelling)
+   23 Oktober 2000   KDE 2.0 vrygestel
+   26 Februarie 2001 KDE 2.1 vrygestel
+   15 Augustus 2001  KDE 2.2 vrygestel
+   3 April 2002      KDE 3.0 vrygestel
+   28 Januarie 2003  KDE 3.1 vrygestel
+   3 Februarie 2004  KDE 3.2 vrygestel
+   19 Augustus 2004  KDE 3.3 vrygestel
+   16 Maart 2005     KDE 3.4 vrygestel
+   29 November 2005  KDE 3.5 vrygestel
+   31 Januarie 2006  KDE 3.5.1 vrygestel
+   28 Maart 2006     KDE 3.5.2 vrygestel
+   31 Mei 2006       KDE 3.5.3 vrygestel
+   02 Augustus 2006  KDE 3.5.4 vrygestel
+   11 Oktober 2006   KDE 3.5.5 vrygestel
+   24 Januarie 2007  KDE 3.5.6 vrygestel
+   22 Mei 2007       KDE 3.5.7 vrygestel
+   16 Oktober 2007   KDE 3.5.8 vrygestel^[8]
+   11 Desember 2007  Verwagde vrystellingsdatum van KDE 4.0
+   11 Januarie 2008  KDE 4.0.0 vrygestel
+
+[wysig] Verwysings
+
+    1. ^ KDE persaankondiging vir weergawe 1.0
+    2. ^ KDE nuusargief vir Februarie 1999 wat verwys na die vrystelling
+       van weergawe 1.1
+    3. ^ KDE persaankondiging vir weergawe 1.1.1
+    4. ^ KDE persaankondiging vir weergawe 1.1.2
+    5. ^ Voorbereidings vir KDE 1.1.2
+    6. ^ Stephan Kulow oor 1.1.2 vs. 1.2
+    7. ^ KDE aankondigings
+    8. ^ Vrystellingsaankondiging vir weergawe 3.5.8
+
+   Kategorie: Sagteware
+

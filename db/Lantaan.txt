@@ -1,0 +1,200 @@
+Lantaan
+
+
+
+   57                        barium ← lantaan → serium
+    -
+   ↑
+   La
+   ↓
+   Ac
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal lantaan, La, 57
+                                                 Chemiese reeks Lantaniede
+                                              Groep, Periode, Blok 3, 6, f
+                                                   Voorkoms silwerig white
+                                             Atoommassa 138.90547(7) g/mol
+                                       Elektronkonfigurasie [Xe] 5d^1 6s^2
+                                     Elektrone per skil 2, 8, 18, 18, 9, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 6.162 g/cm³
+                                  Vloeistof digtheid teen s.p. 5.94 g/cm³
+                                                          Smeltpunt 1193 K
+                                                                 (920 °C)
+                                                           Kookpunt 3737 K
+                                                                (3464 °C)
+                                               Smeltingswarmte 6.20 kJ/mol
+                                            Verdampingswarmte 402.1 kJ/mol
+                                Warmtekapasiteit (25 °C) 27.11 J/(mol·K)
+
+   CAPTION: Dampdruk (extrapolated)
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2005 2208 2458 2772 3178 3726
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 3
+                                                    (sterk basiese oksied)
+                              Elektronegatiwiteit 1.10 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 538.1 kJ/mol
+                                                          2de: 1067 kJ/mol
+                                                       3rde: 1850.3 kJ/mol
+                                                        Atoomradius 195 pm
+                                                   Kovalente radius 169 pm
+                                                                   Diverse
+                                                Magnetiese rangskikking  ?
+                         Elektriese weerstand (r.t.) (α, poly) 615 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 13.4 W/(m·K)
+                                    Termiese uitstetting (r.t.) (α, poly)
+                                                           12.1 µm/(m·K)
+
+                            Sjabloon:Elementboks spoedvanklank staafteen20
+                                       Young se modulus (α form) 36.6 GPa
+                                           Skuifmodulus (α form) 14.3 GPa
+                                           Massamodulus (α form) 27.9 GPa
+                                         Poissonverhouding (α form) 0.280
+                                                      Mohs se hardheid 2.5
+                                                  Vickers hardheid 491 MPa
+                                                  Brinell hardheid 363 MPa
+                                              CAS-registernommer 7439-91-0
+                                                        Vernaamste isotope
+
+           CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                              iso     NV   halfleeftyd VM  VE (MeV)   VP
+                             ^137La syn    60,000 yrs  ε   0.600    ^137Ba
+                             ^138La 0.09%  105×10^9yrs ε   1.737    ^138Ba
+                                                       β^- 1.044    ^138Ce
+                             ^139La 99.91% La is stabiel met 82 neutrone
+
+                                                                Verwysings
+
+   Lantaan (IFA: /ˈlanθənəm/) is 'n chemiese element in die periodieke
+   tabel met die simbool La en atoomgetal 57.
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Isotope
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Merkbare eienskappe
+
+   Lanthanum.
+   Lanthanum.
+
+   Lantaan is 'n silwerige-wit metalliese element wat aan groep 3 van die
+   periodieke tabel behoort en word baie keer as deel van die lanthanides
+   gesien. Dit word in sommige seldsame aard minerale aangetref, gewoonlik
+   saam met cerium en ander seldsame aardelemente. Lantaan is smeebaar,
+   rekbaar en sag genoeg dat dit met 'n mes gesny kan word. Dit is een van
+   die mees reaktiewe van die seldsame aard metale. Die metaal reageer
+   direk met koolstof, stikstof, boor, selenium, silikon, fosfor, swael
+   elemente, en halogene. Dit oksideer vinnig as dit aan lug blootgestel
+   word. Koue water val lantaan stadig aan, terwyl warm water dit baie
+   vinniger aanval.
+
+[wysig] Toepassings
+
+   Gebruike van lantaan:
+     * Koolstof beligtingtoepassings, veral deur die filmbedryf vir
+       ateljeebeligting en projeksie.
+     * La[2]O[3] verbeter die alkaliweerstand van glas, en word gebruik in
+       die vervaardiging van spesiale optiese glasse, soos:
+          + Infrarooi absorberende glas.
+          + Kamera en teleskoop lense, as gevolg van die hoë refraksie
+            indeks daarvan en lae dispersie van seldsame aard glasse.
+     * Klein hoeveelhede lantaan wat by staal gevoeg word verbeter die
+       smeebaarheid, weerstand tot impak en rekbaarheid daarvan.
+     * Klein hoeveelhede lantaan wat by yster gevoeg word help om
+       knoetserige gietyster te vorm.
+     * Klein hoeveelhede lantaan wat by molibdenum gevoeg word verminder
+       die hardheid van die metaal en die sensitiwiteit daarvan ten
+       opsigte van verandering in temperatuur.
+     * Mischmetal, 'n piroforiese allooi wat in aansteker flinte gebruik
+       word bevat ongeveer 25% tot 45% lantaan.
+     * Lantaanoksied en die boried word in elektroniese vakuumbuise as
+       warmkatode materiale met sterk emissiwiteit van elektrone gebruik.
+       Kristalle van LaB[6] word in hoë helderheid, verlengde lewe,
+       termioniese elektron emissie bronne vir scanning electron
+       microscopes gebruik.
+     * in Gas tungsten arc welding electrodes, as 'n plaasvervanger vir
+       radioaktiewe thorium.
+     * Hydrogen sponge alloys kan lantaan bevat. Die allooie het die
+       vermoeë om tot 400 keer hulle eie volume waterstofgas in 'n
+       omkeerbare adsorpsie proses op te neem.
+     * Petroleum cracking katalisse.
+     * Gaslantern mantels.
+     * Glas and lapidarie poleer middel.
+     * La-Ba ouderdom datering van rotse en ertse.
+     * Lantaan carbonate word medies as 'n fosfaatverbinder vir die
+       behandeling van hyperphosphatemia gebruik. Kyk detail onder
+       Biologiese Rol.
+     * Lantaan nitraat word hoofsaaklik in spesialiteit glas,
+       waterbehandeling en katalise gebruik.
+     * Cerium geaktiveerde Lantaanbromied is die onlangse anorganiese
+       scintillator wat 'n kombinasie van hoë lig opbrengs en die beste
+       energie resolusie bied.
+
+[wysig] Geskiedenis
+
+   Lantaan is in 1839 deur die Sweedse chemikus Carl Gustav Mosander
+   ontdek toe hy 'n monster van cerium nitraat gedeeltelik onbind het deur
+   dit te verhit en die resulterende met verdunde nitric acid behandel
+   het. Uit die oplossing wat verkry is het hy 'n nuwe seldsame aard
+   metaal wat hy lantana genoem het geïsoleer. Lantaan is in 1923 na 'n
+   betrklik suiwer vorm verwerk.
+
+   Die woord lantaan kom van die Grieks λανθανω [lanthanō] = om verberg te
+   wees.
+
+[wysig] Voorkoms
+
+   Alhoewel lantaan tot die chemiese elemente groepering wat as seldsame
+   aardmetale behoort, is dit glad nie seldsaam nie. Lantaan word in
+   betreklik groot hoeveelhede aangetref (32 ppm in die Aardkors).
+
+   Monaziet (Ce, La, Th, Nd, Y)PO[4], en bastnasite (Ce, La, Y)CO[3]F, is
+   die belangrikste erste waarin lantaan voorkom in persentasies van 25
+   tor 38 persent.
+
+[wysig] Isotope
+
+   Natuurlik voorkomende lantaan bestaan uit een stabiele (^139La) en een
+   radioaktiewe (^138La) isotoop, met die stabiele isotoop, ^139La, wat
+   die vollopste is (99.91% natuurlike voorkoms). 38 radioisotope is
+   gekarakteriseer waarvan die stabielste ^138La met 'n halfleeftyd van
+   105×10^9 jaar , en ^137La met 'n halfleeftyd van 60 000 jaar is. Al die
+   ander radioaktiewe isotope het halfleeftye van minder as 24 uur en die
+   meeste het halfleeftye van minder as 1 minuut. Die element het ook 3
+   meta state.
+
+   Die isotope van lantaan wissel in atoommassa van 117 u (^117La) tot 155
+   u (^155La).
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Lantaan
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Lanthanum
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Lanthanum
+
+   Sjabloon:Wiktionary
+   Kategorieë: Chemiese elemente • Lantaniede
+

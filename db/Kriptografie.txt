@@ -1,0 +1,144 @@
+Kriptografie
+
+
+   Kriptografie (vanuit Grieks kryptòs, "Weggesteek", en gràphein, "om te
+   skryf") is tradisioneel, die studie van tegnieke om inligting vanaf die
+   normale leesbare formaat na 'n formaat om te skakel wat vir ongewenste
+   partye wat mag toegang verkry tot die kommunikasiekanaal,
+   onverstaanbaar te maak. Verder word gepoog om dit so moeilik as
+   moontlik te maak om te ontsyfer sonder die geheime kennis (sleutel) wat
+   as invoer tot die ontsyferingsalgoritme dien. In die verlede is
+   kriptografie ingespan om geheimhouding tydens strategies belangrike
+   kommunikasie te verseker (tipies kommunikasie van spioene, militêre
+   leiers, en diplomate).
+
+   In die laaste paar dekades van die 20^ste eeu het die toepassing van
+   kriptografie uitgebrei na die versekering van ander partye se
+   identiteit soos met digitale handtekeninge en digitale kontant. Verder
+   is kriptografie meer en meer ingespan om burgerlikes se privaatheid te
+   beskerm. Dikwels is die tegnologie ingebou in die infrastruktuur vir
+   rekenaar- en telekommunikasie en is die gebruikers nie eers bewus van
+   die gebruik daarvan nie.
+
+   Kripto-analise is die studieveld wat hom bemoei met die metodes om
+   kriptografie te ontsyfer. Kripto-analise en kriptografie word dikwels
+   saam gegroepeer onder die omvattende term kriptologie wat dus al die
+   fasette van die vakgebied beslaan. In praktyk word "kriptografie" egter
+   ook gebruik wanneer daar na dié vakgebied in sy geheel verwys word.
+
+   Kriptografie is 'n interdisiplinêre vak wat ontleen uit vele ander
+   studievelde. Voor die ontstaan van rekenaars was dit gewoonlik nou
+   verbind met taalkunde. Deesdae het die klem na die tegniese aspekte van
+   die wiskunde verskuif, veral getalteorie, inligtingsteorie, berekende
+   kompleksiteit, statistiek en diskrete wiskunde.
+
+   Verwante studievelde is steganografie — die studie van die verbloeming
+   van die bestaan van 'n boodskap, waar daar gekonsentreer word op
+   tegnieke om die bestaan van boodskappe te versteek eerder as om inhoud
+   te verander (bv. microdots, of onsigbare ink — en verkeersanalise, wat
+   die analise van kommunikasiepatrone, om geheime inligting te ontsyfer,
+   behels.
+
+   Inhoud
+
+        * 1 Terminologie
+        * 2 Kripto-analise
+        * 3 Geskiedenis van kriptografie
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Terminologie
+
+   Die oorspronklike inligting wat beskerm moet word deur kriptografie
+   word klare teks (Engels: plaintext) genoem. Versluiering
+   (Engels:Encryption) is die proses om die klare teks na 'n onleesbare
+   vorm ook syferteks of soms syfergram genoem, om te skakel.
+
+   Ontsyfering (Engels:Decryption) is die omgekeerde proses wat dan die
+   omskakeling van die syferteks na klare teks toe, behels. 'n Syferkode
+   is die algoritme vir versluiering en ontsyfering. Die syferkode word
+   normaalweg deur 'n sleutel beheer — 'n geheime stukkie inligting wat
+   bepaal hoe die syferteks geskep word. Die protokol spesifiseer die
+   besonderhede van hoe die syferkodes gebruik moet word om die taak te
+   verrig.
+
+   In alledaagse taal word 'n geheime "kode" en "syferkodes" dikwels in 'n
+   sinonieme verband gebruik. In kriptografie het die term egter 'n
+   spesiale tegniese betekenis: 'n Geheime kode is 'n metode wat gebruik
+   word in klassieke kriptografie waar kodewoorde die klare teks vervang
+   (bv. "Lekker braai" vervang "Val aan met eerste lig"). Klassieke
+   syferkode vervang of herrangskik individuele letters volgens 'n
+   algoritme (bv. "val aan met eerste lig" word nou "bsd vvd ssf klarde
+   ddo" deur vervanging). Die geheime inligting in 'n kode word
+   gespesifiseer deur 'n kodeboek.
+
+[wysig] Kripto-analise
+
+   'n Kripto-analis kan as die natuurlike vyand van die Kriptograaf gesien
+   word. Die rolle is egter aanvullend aangesien dit nodig is om
+   kripto-analise te verstaan om veilige kriptografie te kan skep.
+
+   Daar bestaan 'n wye verskeidenheid kripto-analitiese aanvalsmetodes: 'n
+   Belangrike onderskeid wat getref kan word draai rondom watter kennis
+   die aanvaller kan bekom en wat hy kan doen om meer geheime inligting te
+   verkry, bv. het die kripto-analis toegang tot die syferteks? Het hy of
+   kan hy van die gewone teks raai? Kan hy kies om klare teks te laat
+   versluier volgens dieselfde algoritme en sodoende die wiskundige
+   verband tussen die gewone teks en syferteks vas te stel?
+
+   Indien 'n kriptografiese stelsel 'n sleutel of sleutelwoord gebruik is
+   dit vatbaar vir 'n uitgebreide soektog metode en is tipies die swakste
+   skakel in sodanige stelsels.
+
+[wysig] Geskiedenis van kriptografie
+
+   Hoofartikel: Geskiedenis van kriptografie
+
+   Kriptografie het 'n lang en kleurvolle geskiedenis. Die vroegste vorms
+   van geheimskrif het slegs 'n pen en papier vereis. Vroeg in die
+   twintigste eeu is verskeie masjiene ontwerp om die versluiering van
+   inligting moontlik te maak wat die rotor tipe masjiene soos die bekende
+   Enigma wat in die Tweede Wêreldoorlog gebruik is, insluit. Die
+   syferkode wat deur hierdie tipe masjiene teweeg gebring is, het
+   kripto-analise baie ingewikkelder gemaak. Die Enigma se kode is
+   byvoorbeeld eers ontsyfer na 'n intensiewe poging en nadat 'n masjien
+   gekonfiskeer is.
+
+   Met die aanvang van digitale rekenaars en elektronika, kon baie
+   komplekse syferkodes geïmplementeer word. Omdat rekenaars met binêre
+   kombinasies werk en nie slegs afhanklik is van die 26 letters van die
+   alfabet wat tipes in die meganiese syfermasjiene gebruik is nie, bied
+   die syferkode meer weerstand teen kripto-analitiese aanvalle.
+
+   Uitgebreide akademiese navorsing na moderne kriptografie het eers
+   onlangs begin — Die algemene publiek het eers begin deelneem met die
+   spesifikasie van die DES en die ontwikkeling van die RSA. Baie
+   vooruitgang in die vakgebied het sedertien plaasgevind en vandag is
+   kriptografie 'n tegnologie waarop miljoene mense staatmaak vir
+   kommunikasie op die internet asook selfone.
+
+[wysig] Sien ook
+
+     * en:Topics in cryptography — an analytical list of articles and
+       terms.
+     * en:Books on cryptography — an annotated list of suggested readings.
+     * en:List of cryptographers — an annotated list of cryptographers.
+     * Important publications in cryptography — some cryptography papers
+       in computer science.
+     * en:List of cryptography topics — an alphabetical list of
+       cryptography articles.
+
+[wysig] Eksterne skakels
+
+     * Helger's cryptography pointers
+     * RSA Laboratories' FAQ About today's cryptography essentially
+       elementary coverage
+     * sci.crypt mini-FAQ (more recent)
+     * Savard's glossary an extensive and detailed view of cryptographic
+       history with emphasis on crypto devices
+     * Open source project CrypTool - Exhaustive educational tool about
+       cryptography and cryptanalysis, freeware.
+
+   Kategorieë: Toegepaste wiskunde • Kriptografie • Rekenaar en wiskundige
+   berekeninge
+

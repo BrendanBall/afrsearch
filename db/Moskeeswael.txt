@@ -1,0 +1,142 @@
+Moskeeswael
+
+
+                     Moskeeswael
+   Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hirundinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Cecropis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. senegalensis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Cecropis senegalensis
+   (Linnaeus, 1766)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+
+                            Hirundo senegalensis
+
+   Die moskeeswael (Cecropis senegalensis en Hirundo senegalensis) is 'n
+   lid van die swaelfamilie en een van die groter swaels.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Voedsel
+        * 3 Verspreiding
+        * 4 Habitat
+        * 5 Voortplanting
+        * 6 Ander name
+        * 7 Subspesies
+        * 8 Sien ook
+        * 9 Bronnelys
+
+[wysig] Identifikasie
+
+   Moskeeswaels lyk baie soos 'n reuse rooinekswael met 'n algemene lengte
+   van 25cm en 'n gewig van 45g by volwassenes. Hul bolywe is blou, anders
+   as die rooinekswael se rooi bolyf. Die moskeeswael se gesig en onderlyf
+   is wel rooierig, maar hul ondervlerke is wit met donker vliegvere. Die
+   stert is gevurk en kom iets ronder by die mannetjies voor. Onvolwasse
+   voëls is minder kleurvol en meer bruin, met aansienlik minder
+   kontrasterende kleure.
+
+   Die moskeeswael lyk ook baie op die rooiborsswael, maar is ietwat
+   groter en het korter sterte. Die donker kroon steek ook nie verby die
+   oë van 'n moskeeswael nie, maar wel by 'n rooiborsswael.
+
+   Hul vlug is swaar en stadig en kan, gepaard met hul grootte, die indruk
+   van 'n valk, eerder as 'n swael gee.
+
+[wysig] Voedsel
+
+   Die primêre voedsel van die moskeeswael is insekte wat uit die lug
+   tydens vlug gevang word.
+
+[wysig] Verspreiding
+
+   Die moskeeswael word aangetref in die meeste dele van Afrika, Suid van
+   die Sahara, maar is die algemeenste in die Weste. Die voëls migreer
+   nie, maar sal reëns tot 'n sekere mate volg.
+
+[wysig] Habitat
+
+   Moskeeswaels verkies oop velde met bome en beboude gebiede. Hulle word
+   gewoonlik in pare en swerms aangetref en selde as enkel voëls. Die
+   voëls bou toe modderneste met 'n buis-agtige opening; die nesse word
+   veral aangetref in die krake van, of onder brûe en soortegelyk
+   strukture, asook verlate geboue, gate in bome en grotte.
+
+[wysig] Voortplanting
+
+   Die wyfie lê tipies twee tot vier wit eiers. 'n Mannetjie sal slegs met
+   een wyfie paar tot en met haar dood. Na haar dood sal hy vir hom 'n
+   nuwe maat soek.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Hirundo senegalensis
+     * Engelse naam: Mosque Swallow
+
+[wysig] Subspesies
+
+     * Cecropis senegalensis senegalensis
+     * Cecropis senegalensis saturatior
+     * Cecropis senegalensis monteiri
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * IUCN 2006. 2006 IUCN Red List of Threatened Species.
+       <www.iucnredlist.org>. Laaste besoek 24 Mei 2007.
+     * Moskeeswael by Avibase, die wêreldse voëldatabasis. Laaste besoek
+       24 Mei 2007.
+     * "Mosque Swallow" by "The Kruger". Laaste besoek 27 Mei 2007.
+
+   Kategorie: Swaels
+

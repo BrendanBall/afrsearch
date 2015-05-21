@@ -1,0 +1,78 @@
+Plasma (fisika)
+
+
+   In fisika en chemie verwys 'n plasma na 'n geïoniseerde gas. Dit word
+   as 'n afsonderlike toestand van materie as 'n gas beskou. Ionisasie
+   verwys na die teenwoordigheid van vrye elektrone wat nie aan 'n atoom
+   of molekuul gebind is nie. Die vrye elektriese ladings maak 'n plasma
+   elektries geleidend en daarom reageer dit sterk in die teenwoordigheid
+   van elektromagnetiese velde. Plasmas word tipies gevorm deur 'n gas
+   sodanig te verhit dat die elektrone van die atome gestroop word. Daar
+   word gereken dat meer as 99% van die sigbare materie in die hemelruim
+   in 'n plasma-toestand bestaan. Die begrip plasma is deur die fisikus,
+   Irving Langmuir in 1928 vir die eerste keer gebruik. Die vakgebied wat
+   hom daarop toespits om plasmas as 'n gelaaide gas se interaksie met
+   elektriese velde te bestudeer staan bekend as magnetohidrodinamika.
+
+[wysig] Vorme van Plasma
+
+   Plasma is by verre die mees algemene toestand van materie in die
+   heelal. Al die sterre bestaan uit plasma. Die vermaerde fisikus, Hannes
+   Alfvén, het ook opgemerk dat baie klein deeltjies as gevolg van hulle
+   elektriese ladings ook soos ione optree en daarom ook as plasma beskou
+   behoort te word (sien stofplasmas).
+               Algemene vorme van plasma sluit in:
+
+                         Kunsmatig gevormde plasmas
+
+     * Soos gevind word in plasmaskerms, insluitende Televisies
+     * Binne fluoresserende buise (lae energie beligting), neonligte
+     * Vuurpyl uitlaat
+     * Die gebied voor 'n ruimtetuig se hitteskild tydens herintrede na
+       die aarde se atmosfeer
+     * Fusie-energie navorsing
+     * Die elektriese boog in 'n booglamp, tydens boogsweiswerk of 'n
+       plasmabrander
+     * 'n Plasmabal
+     * Plasma wat gebruik word om dielektriese lae in geïntegreerde
+       stroombane in te ets.
+
+   Plasmas op Aarde
+
+     * Weerlig
+     * Sint-Elmusvuur
+     * Die ionosfeer
+     * Die Aurora
+
+   Plasmas in die ruimte
+
+     * Die Son en ander sterre
+       (wat bestaan uit plasmas wat deur kernfusie (kersmelting) verhit
+       word)
+     * Die sonwind
+     * Sterrenewels
+
+[wysig] Plasma eienskappe
+
+   'n Plasma is 'n mengsel van neutrale en gelaaide deeltjies. In spesiale
+   gevalle kom slegs gelaaide deeltjies soos ione, elektrone en gelaaide
+   molekules daarin voor. Plasmas kan deur die volgende eienskappe
+   uitgeken word:
+     * Gelaaide partikels moet naby genoeg aanmekaar wees om baie ander
+       gelaaide deeltjies te beïnvloed en nie net die naaste partikel nie
+       (die saamgestelde interaksies is 'n onderskeidende kenmerk van
+       plasmas). 'n Plasma bestaan as die aantal elektrone binne 'n
+       partikel se invloedsfeer baie groot is (Die radius van die sfeer
+       staan bekend as die Debye-lengte). Die gemiddelde aantal partikels
+       binne die invloedsfeer word deur die parameter Λ aangedui.
+     * Die Debye-lengte is kort in vergelyking met die fisiese omvang van
+       die plasma. Hierdie kriterium beteken dat die massale interaksies
+       van die plasma belangriker is as dié aan die grense daarvan, waar
+       randverskynsels kan plaasvind.
+     * Die elektronplasma-frekwensie ('n mate die plasma-ossilasie) is
+       groot in vergelyking met die elktronneutrale botsingsfrekwensie ('n
+       mate van die frekwensie waarteen botsings tussen elektrone en
+       neutrale deeltjies) plaasvind.
+
+   Kategorieë: Fisika • Chemie
+

@@ -1,0 +1,78 @@
+Chordata
+
+
+   Chordata (of "gekoordes") is die phylumnaam vir 'n groep diere, wat die
+   gewerweldes, maar ook 'n groep nabyverwante ongewerweldes insluit. Die
+   gemeenskaplike faktore van al hierdie diere is dat hulle op een of
+   ander stadium van hulle lewens rugkoorde; hol dorsale senu-koorde;
+   faringeale splete; endostiele; en gespierde sterte wat verby die anus
+   strek; gehad het. Sommige wentenskaplikes redeneer egter dat die ware
+   kwalikasie faringeale sakkies eerder as gleuwe moet wees.
+
+   Die phylum Chordata word onderverdeel in drie subphylums:
+     * Urochordata – Die larwe het 'n rugkoord en 'n senukoord, maar dit
+       verdwyn teen volwassenheid.
+     * Cephalochordata – Die dier het 'n rugkoord en 'n senukoord, maar
+       geen werwels nie.
+     * Vertebrata – Behalwe vir in die geval van die slymprik, is die
+       dorsale hol senukoord omring deur kraakbeenagtige of benige werwels
+       in die dier. Die rugkoord is gewoonlik verklein of afwesig in die
+       volwassene.
+
+   Die chordate en twee suster phyla, die hemichordates en die
+   echinoderms, verteenwoordig die deuterostome, 'n superphylum.
+
+   Daar word bespiegel dat die phylum ontstaan het as gevolg van
+   paedomorfie wat in 'n primitiewe dier soos 'n spons of koraal
+   plaasgevind het.
+
+   Die ekstant groepe van chordate is verwant soos in die phylogenetiese
+   boom hieronder aangetoon word. Hulle pas nie goed in by die
+   tradisionele groepe nie, en as gevolg hiervan is vertebrate
+   klassifikasie in a vloeibare staat, alhoewel hulle verwantskappe nie
+   goed verstaan word nie.
+
+   Die nie-uitgestorwe Chordata word hieronder aangetoon soos hulle in
+   verhouding met mekaar staan in 'n filogenetiese stamboom:
+
+   Phylum Chordata
+     * Subphylum Urochordata
+     * Subphylum Cephalochordata
+     * Craniata (diere met skedels)
+          + Subphylum Myxini (slymprikke)
+          + Subphylum Vertebrata (diere met rugwerwels)
+               o Klas Cephalaspidomorphi (lampreie)
+               o Gnathostomata (gewerweldes met kake)
+                    # Klas Chondrichthyes (kraakbeenvis)
+                    # Teleostomi (vis met gebeendere, ~ Osteichthyes)
+                         @ Klas Acanthodii
+                         @ Klas Actinopterygii (rog-gevinde vis)
+                         @ Klas Sarcopterygii (kwab-gevinde vis)
+                              - Superklas Tetrapoda (vierpotige
+                                gewerweldes)
+                                   = Klas Amphibia (amfibieë)
+                                   = Amniota (amniotiese eier)
+                                   * Klas Synapsida (soogdieragtige
+                                     reptiele)
+                                   + Klas Mammalia (soogdiere)
+                                   * Klas Sauropsida (die meeste van die
+                                     hedendaagse reptiele)
+                                   + Subklas Anapsida
+                                   o Order Testudines (waterskilpaaie)
+                                   + Subklas Diapsida
+                                   o Order Lepidosauria (akkedisse,
+                                     slange, en die tuatara, 'n
+                                     likkewaanagtige dier van
+                                     Nieu-Seeland)
+                                   o Archosauria
+                                   # Order Crocodilia (krokodille,
+                                     alligators, kaaimanne, en gawiale)
+                                   # Superorder Dinosauria
+                                   @ Klas Aves (voëls)
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorieë: Wetenskaplike klassifikasie • Phyla
+

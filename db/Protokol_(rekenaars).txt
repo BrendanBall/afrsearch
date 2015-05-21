@@ -1,0 +1,81 @@
+Protokol (rekenaars)
+
+
+   In rekenaarwetenskap is 'n protokol 'n konvensie of standaard wat die
+   verbinding, kommunikasie, en data-oordrag tussen twee rekenaareindpunte
+   beheer of moontlik maak. Op sy eenvoudigste kan 'n protokol gedefinieer
+   word as die reëls wat die sintaks, semantiek en sinkronisasie van
+   kommunikasie beheer. Protokolle kan deur hardeware, sagteware of 'n
+   kombinasie van die twee geïmplementeer word. Op die laagste vlak kan 'n
+   protokol gedefinieer word as die gedrag van 'n hardeware verbinding.
+
+   Inhoud
+
+        * 1 Tipiese eienskappe
+        * 2 Belangrikheid
+        * 3 Algemene Protokolle
+        * 4 Sien ook
+
+[wysig] Tipiese eienskappe
+
+   Dit is moeilik om oor protokolle te veralgemeen omdat daar so 'n groot
+   verskeidenheid van doelle en grade van verfyning is. Die meeste
+   protokolle spesifiseer een of meer van die volgende eienskappe:
+     * Die opsporing van die onderliggende fisiese verbinding (bedraad of
+       draadloos) of die bestaan van die ander eindpunt of nodus.
+     * Handskud
+     * Onderhandeling oor die verskeie verbindingseienskappe
+     * Hoe om 'n boodskap te begin en te beëindig
+     * Hoe om 'n boodskap te formatteer
+     * Wat om te doen met korrupte of swak geformatteerde boodskappe
+       (foutregstelling)
+     * Hoe om onverwagte onderbreking in verbindings te hanteer en wat om
+       daarna te doen
+     * Die afsluit van die sessie of verbinding
+
+[wysig] Belangrikheid
+
+   Die wydverspreide gebruik en uitbreiding van kommunikasieprotokolle is
+   'n voorvereiste vir die Internet, asook 'n hoofbydraer tot die sukses
+   van hierdie medium. Die Internetprotokol (of IP) en
+   Transmissiebeheerprotokol (of TCP) is die belangrikste van almal en die
+   begrip TCP/IP verwys na die versameling van die mees gebruikte
+   protokolle. Die meeste van die Internet kommunikasieprotokolle word
+   beskryf in RFC-dokumente van die Internet Ingenieurstaakmag (oftewel
+   die IETF).
+
+   Objekgeoriënteerde programmering het die gebruik van die begrip
+   uitgebrei tot die protokolle wat beskikbaar is vir die verbinding en
+   kommunikasie tussen objekte.
+
+   Oor die algemeen word slegs die eenvoudigste protokolle op hul eie
+   gebruik. Die meeste protokolle, veral in die konteks van kommunikasie
+   en netwerke, word saamgevoeg in protokolstapels waar die verskeie take
+   hierbo gelys verdeel word onder die verskeie protokolle in die stapel.
+
+   Waar die protokolstapel na 'n spesifieke kombinasie van protokolle wat
+   saam werk verwys, verwys die Verwysingsmodel na 'n
+   sagteware-argitektuur wat elke laag en die dienste wat elkeen behoort
+   te lewer, lys. Die klassieke sewe-laag verwysingsmodel is die
+   OSI-model, wat gebruik word om die begrippe met betrekking tot 'n
+   protokolstapel te verbeeld. Die verwysingsmodel is ook 'n goeie
+   voorbeeld van meer algemene begrippe in sagteware-ingenieursweese soos
+   die versteking, modulariteit en delegering van take.
+
+[wysig] Algemene Protokolle
+
+     * HTTP (Hyper Text Transfer Protocol)
+     * POP3 (Post Office Protocol 3).
+     * SMTP (Simple Mail Transfer Protocol).
+     * FTP (File Transfer Protocol).
+     * IP (Internet Protocol).
+     * DHCP (Dynamic Host Configuration Protocol).
+     * IMAP (Internet Message Access Protocol).
+
+[wysig] Sien ook
+
+     * Internetprotokolsuite
+     * Lys van netwerkprotokolle
+
+   Kategorie: Rekenaar
+

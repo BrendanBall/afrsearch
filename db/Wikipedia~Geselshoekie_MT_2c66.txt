@@ -1,0 +1,643 @@
+Wikipedia:Geselshoekie/MT
+
+
+   < Wikipedia:Geselshoekie
+
+   Inhoud
+
+        * 1 Proposal
+             + 1.1 Responding to responses
+        * 2 Core topics
+        * 3 Hersiening
+
+[wysig] Proposal
+
+   Hi, sorry that I write in English. I ask if anyone minds if I produce
+   articles for the Afrikaans Wikipedia using machine translation from
+   English. If I make them, would you like me to tag them as "Unedited
+   Machine Translation", so they can be in a category and someone can look
+   to fix them? If people object I will stop my experiments. Thanks :) -
+   Francis Tyers 10:45, 17 Mei 2007 (UTC)
+
+          It will depend on how accurate the translation is, I suppose.
+          Maybe you would like to do one or two test articles? If the
+          amount of fixing it needs is equal to the amount of effort it
+          would take to write the article from scratch, then it obviously
+          would not be useful. See The Star-Spangled Banner for an example
+          of such an article (I don't know if it was automatically
+          translated, but it sure is a big mess).
+
+          I would like to see the results of one or two articles before I
+          made up my mind. Anrie 11:00, 17 Mei 2007 (UTC)
+
+                I wouldn't be intending to translate long articles (not
+                just yet anyway -- the system is not up to it). Some of
+                the articles I've translated can be found with:
+                Spesiaal:Contributions/Francis_Tyers, I would welcome your
+                comments. Btw, if you do try out the system, note that I
+                edit the output (to fix minor issues) — but am in no-way a
+                native or even proficient speaker. - Francis Tyers 11:12,
+                17 Mei 2007 (UTC)
+
+                      They look okay, but I would personally prefer to
+                      have more than one sentence in any article. Anrie
+                      11:15, 17 Mei 2007 (UTC)
+
+                            That can be arranged. Is there a minimum
+                            amount of sentences you would like to see?
+                            Also would you like to see them tagged?
+                            (either on the page or the talk page) -
+                            Francis Tyers 11:17, 17 Mei 2007 (UTC)
+
+                                  Well, I love tags, so you won't hear me
+                                  complaining. The main page should be
+                                  appropriate. I prefer at least a short
+                                  paragraph - maybe four or five
+                                  sentences? Of course, there is no
+                                  definite minimum. Let's give this a test
+                                  run with a few articles then we can see
+                                  what it looks like. Anrie 11:28, 17 Mei
+                                  2007 (UTC)
+
+                                        Ok. - Francis Tyers 12:17, 17 Mei
+                                        2007 (UTC)
+
+                                              Ok, have a look at
+                                              af:Khujand. I have to
+                                              simplify some of the
+                                              language (in English) as my
+                                              lexical coverage is
+                                              currently quite poor. Do you
+                                              think you could manage with
+                                              post-editing an article like
+                                              this per day? - Francis
+                                              Tyers 12:24, 17 Mei 2007
+                                              (UTC)
+
+                                              The article looks okay -
+                                              there are a few oddities
+                                              which I already corrected,
+                                              but for the most part it
+                                              seems okay.
+
+                                              Certainly an article (or
+                                              even two or three) per day
+                                              would be acceptable. I'm
+                                              sure you can appreciate that
+                                              a flood of such articles
+                                              would most certainly create
+                                              a bit of problem for the few
+                                              active editors here. But
+                                              your suggestion sounds more
+                                              than reasonable. Thank you
+                                              for your effort to help
+                                              improve our Wikipedia. Anrie
+                                              12:29, 17 Mei 2007 (UTC)
+
+                                              Great, thanks :) I certainly
+                                              wouldn't want to flood you,
+                                              which is why I bought it up
+                                              here first. I'll see if I
+                                              can take care of the
+                                              oddities in the system so
+                                              you will need to do less
+                                              editing next time. - Francis
+                                              Tyers 12:39, 17 Mei 2007
+                                              (UTC)
+
+   One question: could you, if possible, on the talk page or in the
+   summary mention from where you are translating. Sometimes it might not
+   be clear exactly what is meant by a certain phrase or sentence and then
+   it is helpful to be able to access the original text. Anrie 12:31, 17
+   Mei 2007 (UTC)
+
+          Yep, no problem. I mention it in the edit summary, but I can
+          leave a note on the talk page. Could you help me create a
+          template with something like "This page was translated from
+          en:Page using Apertium. Please fix the spelling and grammar
+          where appropriate". (You can decide what to put). - Francis
+          Tyers 12:39, 17 Mei 2007 (UTC)
+
+                Unless the program is directly affiliated with Wikimedia,
+                I'm afraid that mentioning it in the template will
+                constitute advertising, which isn't allowed. There's
+                nothing that prevents you from mentioning it on the talk
+                page though.
+
+                If you don't mind, I'd like to let this discussion set a
+                bit and allow other users to read it and voice their
+                opinions, if they have any. If there aren't any objections
+                to your method in the next day or two, I'll create the
+                tag. Anrie 12:43, 17 Mei 2007 (UTC)
+
+                      Ok, no problem, I understand. — also no problem with
+                      letting this stand for a few days. The more input
+                      the better. - Francis Tyers 12:48, 17 Mei 2007 (UTC)
+
+                            Yeah, totally, my vote goes for this project.
+                            Praat van projek, dalk moet ons 'n projek of
+                            'n ding stig? Ek't al baie op die Engelse
+                            Wikipedia gesien dat hulle groot projekte het
+                            soos "Wiki Bible" en "Music Articles" en goed
+                            soos dit; dalk kan ons 'n projek maak wat soos
+                            byvoorbeeld al die getagde artikels wat direk
+                            vertaal is wys en sê watter moet nog vertaal
+                            word, ensovoorts... dis maar net 'n oop idee,
+                            maar vir tyd en wyl is ek vir die vertaling
+                            van die artikels vanuit Engels na Afrikaans
+                            deur middel van 'n rekenaar. Ek dink hier is
+                            genoeg aktiewe mense op Wikipedia, en dit kan
+                            net meer word, plus Wikipedia is hier om
+                            ge-edit te word, so as daar so hier en daar
+                            probleme opduik met betrekking tot die
+                            verkeerdvertaalde woorde wat sal te voorskyn
+                            kom, sal dit vir ons rede gee om so 'n bietjie
+                            meer aktief te wees en edits te maak, al mag
+                            dit dalk hoe min wees... maar watookal. Ek
+                            praat seker nou te veel. Al wat ek sê is dat
+                            ek hierdie idee van Francis steun. ► Adriaan (
+                            Spreek ★ Bydraes ) ♪♫ 13:32, 17 Mei 2007 (UTC)
+
+          Ons moet darem net seker maak dat ons werk aan belangrike
+          goeters, en werk vanaf hoë kwaliteit artikels. Ons het vir eers
+          genoeg 5-sin artikels oor obskure onderwerpe. Thank you for your
+          interest, Francis. I think we should ensure that it actually
+          benefits our project in tangible ways. We had some bad
+          experience with MT-people before. Thanks for at least asking
+          first :-) I think we should just stay aware that most of our
+          editors don't just translate the English, but tries to compile
+          the best out of all languages they understand, often at least en
+          and nl, but for some of us also de and fr, apart from other
+          external sources. We try to do better than the English where
+          possible, and this will make it very easy to get lazy in doing
+          real encyclopaedic writing. But if this proves good enough, it
+          can be a great help. Ideally I think it should rather be a tool
+          used by the each editor, rather than the editors becoming a part
+          in an assembly line, if you understand what I mean. --Alias
+          16:21, 17 Mei 2007 (UTC)
+
+                      Yes, I understand. Actually, an nl-af system would
+                      make sense and would probably give even higher
+                      quality... but it would be harder for me to evaluate
+                      as I don't even speak one of the languages. There is
+                      a link from my page to where you can try it out, but
+                      I think that at least for now, the amount of
+                      post-editing I need to do (to fix some inflections
+                      and remove some debugging symbols) is more than it
+                      would take you to write the article from scratch. I
+                      hope in the future that it will become a useful tool
+                      for you guys (and girls), but for the moment it is
+                      definitely in the 'testing and development' phase. -
+                      Francis Tyers 23:10, 17 Mei 2007 (UTC)
+
+                Baie goed saamgevat, Alias. Ek het vandag eers hier
+                aangekom en was baie bekommerd oor die outomatiese
+                vertalery. Ons kan nie eksklusief wees nie, maar Wikipedia
+                in Afrikaans moet daarop konsentreer om 'n goeie
+                versameling van relevante, bruikbare artikels in goeie
+                Afrikaans op te bou. Pendoring 16:36, 17 Mei 2007 (UTC)
+
+                [Very good *saamgevat, *Alias. I have today first here
+                *aangekom and *was very anxious *oor the automatic
+                *vertalery. We can not exclusive be, but Wikipedia in
+                Afrikaans must *daarop concentrate *om a good collection
+                of relevant, useful articles in good Afrikaans on too
+                *bou.]
+
+                      I understand your sentiment (actually I machine
+                      translated it to get the 'gist' — see above for my
+                      benefit) :) — it is important to me that unedited
+                      machine translation output is not allowed to be
+                      viewed by the public at large — it would bring
+                      disrepute to the encyclopaedia. - Francis Tyers
+                      23:10, 17 Mei 2007 (UTC)
+
+          Vanaf Bespreking:Soedanese literatuur.
+
+   Hierdie vertaalmasjien is 'n onding wat baie meer moeite gaan meebring
+   as wat dit werd is. As die ding dan vervolmaak word, wat is nog die nut
+   van Afrikaanse gebruikers, buiten om alles wat reeds in ander tale
+   verskyn het, klakkeloos te láát vertaal. 2 000 000 artikels hier ons
+   kom - ek bedoel "hier kom ons", nie dat die vertaalmasjien die verskil
+   sal weet, ek bedoel "ken" nie. Morne 15:42, 18 Mei 2007 (UTC)
+
+          Gebruiker:Francis Tyers is besig om 'n paar toets-artikels te
+          probeer. As jy nie van die resultate hou nie, moet jy dit
+          asseblief in Engels in die gebruikershoekie gaan sê. Hy wil
+          graag terugvoering van die gebruikers hier hê. As te veel
+          gebruikers hierteen gekant is sal hy ophou. Anrie 15:50, 18 Mei
+          2007 (UTC)
+
+          Hy moet sommer sy vertaalmasjien gebruik om my woorde te
+          interpreteer. Ek sien hy het waarskynlik reeds, want hy het (op
+          my besprekingsblad) afgelei ek hou nie daarvan nie. Morne 16:11,
+          18 Mei 2007 (UTC)
+
+                Ek dink nie dit gaan regtig oor wie hiervan hou nie.
+                Indien artikels nie aanvaarbaar is nie, sal dit deur
+                admins verwyder word. Ek het nou sopas 'n paar vertalings
+                gedoen in die artikel, maar ek dink nie dis perfek reg
+                nie, want my kennis van Engels is ook nie te goed nie.
+                Wikipedia is hier om ge-edit te word. Edits wat nie deug
+                nie, word deur iemand anders ge-edit of verwyder. Ek gee
+                glad nie om om direkte vertalings te hervertaal nie. Dis
+                tog wat ek in elk geval sou doen as ek van die Engelse
+                wiki sou vertaal - en dan sou dit moeiliker wees omdat ek
+                nie Engelssprekend is nie. ► Adriaan ( Spreek ★ Bydraes )
+                ♪♫ 16:41, 18 Mei 2007 (UTC)
+
+          Vanaf Gebruikerbespreking:Francis Tyers.
+
+   I tried out your MT system and it looks like it might have potential.
+   How would one go about helping to impove the system or develop
+   translation in new language pairs? You mention in the geselshoekie that
+   Dutch-Afrikaans should have potential. I would also be ionetrested in
+   German-Afrikaans, particularly as the German Wikipedia is generally of
+   good qualitry (often better than the Engelish equivalents). Does the
+   online version have the latest language files?
+
+   Laurens 07:06, 20 Mei 2007 (UTC)
+
+   BTW - why did your project choose shallow-transfer machine translation?
+   There seems to be a lot of energy on Statitical Machine tranlation,
+   could one benefit from some of that work in your approach? Laurens
+   07:06, 20 Mei 2007 (UTC)
+
+                      Opa! Sorry for the late replies... I chose shallow
+                      transfer because 1) It is easy to get off the
+                      ground, 2) It is fast, 3) It is open source. There
+                      are open source statistical systems (e.g. Moses),
+                      but this seemed like the best option at the time. 4)
+                      I've been involved with the group producing the
+                      engine (at Alicante) in packaging their software for
+                      Debian. 5) Statistical systems require huge parallel
+                      corpora, and even if these were available for
+                      Afrikaans<->English, the chances are they wouldn't
+                      be free (as in libre). I'll respond to your other
+                      points below. I'll email you on your emailrespond
+                      also on your talk page. - Francis Tyers 16:13, 20
+                      Mei 2007 (UTC)
+
+[wysig] Responding to responses
+
+   It would seem that, while most users think Francis' system is a
+   potentially useful one, other are worried that:
+    1. It would amass to a flood of thousands of articles that:
+         1. Are poorly written (spelling and syntactical errors)
+         2. Would require a tremendous amount of effort to fix.
+         3. Aren't especially good prose
+         4. Concentrates on obscure objects.
+
+   There would also seem to be a slight man vs. machine argument.
+
+   It would indeed seem that some articles lend themselves better to
+   automatic translation: Khujand had relatively few errors, while
+   Soedanese literatuur had significantly more, so it's a bit of a gamble.
+
+   I am surprised that I feel like supporting this project, even though I
+   would normally support all of the above arguments.
+
+   I suppose that I can see the potential of something like this if it
+   were to concentrate on, perhaps, the subjects listed in
+   en:Wikipedia:Core topics - 1,000. Naturally I wouldn't dream of telling
+   others what they should write about - that is not Wikipedia's policy.
+   People are allowed to write on whichever subject they wish, no matter
+   how obscure some might think it is.
+
+   I don't know how you go about choosing your topics - your past
+   contributions have been so eclectic that it's been impossible for me to
+   recognise a trend or a pattern. I do however feel that this Wikipedia
+   is lacking articles on so many of the basic subjects, that a one or two
+   paragraph stub on them would be invaluable, even if I had to go
+   afterwards and "fix" everyone myself.
+
+   Regarding the other arguments listed above, I would like to say:
+    1. Francis has agreed to only do one stub/article a day, which would
+       hardly equal a flood of articles.
+         1. The articles would be naturally short, so the amount or errors
+            would be minimal, taking no more than a few minutes to
+            corrent.
+         2. See above.
+         3. Few of the stubs here are, but if they provide the relevant
+            information, that should suffice until they are expanded.
+         4. Since when are we allowed to tell people what they are allowed
+            to write about?
+
+   Even though I myself would not prefer to have articles on "obscure"
+   subjects (at this moment in time), I realise that this is not the way
+   Wikipedia works and that it would amount to a type of censorship to not
+   allow certain articles. Even so, I find that many of his stubs aren't
+   obscure - some people might find Soedanese literatuur obscure, but I
+   think it's important. I suppose it depends on your field of interest
+   and that everyone have different opinions on what is important and what
+   not.
+
+   Francis, I would really like to hear why you choose the articles you
+   do. If you choose specific ones for your own personal reasons, then I
+   am fine with it. If, however, it is somewhat random, I would again like
+   to point out the en:Wikipedia:Core topics - 1,000, which I myself try
+   to use (now and then, along with the featured articles) when trying to
+   decide which article to translate next.
+
+   Anrie 08:12, 20 Mei 2007 (UTC)
+
+                      Ok, I chose the articles partly because I worked on
+                      them on the English Wikipedia (Sudanese literature),
+                      and partly because I'm interested in the area
+                      (Tajikistan). The only pattern is my interests. I
+                      would be happy to adjust my translating to articles
+                      that you direct. Actually I think the 'Core topics'
+                      would be a good way of improving the quality of the
+                      dictionaries. I hadn't thought of that before, but
+                      it is a good idea. - Francis Tyers 16:28, 20 Mei
+                      2007 (UTC)
+
+                Ek dink alles wat almal nog oor die Afrikaanse Wikipedia
+                gesê het, kom neer op gehalte bo getalle. Wikipedia bied
+                'n platform aan mense om kreatief mee te werk aan 'n
+                ensiklopedie deur mense, oor mense (en visse, voëls,
+                diere, berge, mere ens.), vir mense. As vertaalmasjiene
+                (VM'S) in so 'n mate verfyn word dat hulle na aan volmaak
+                is, skakel dit amper geheel en al die rol van menslike
+                bydraers uit (buiten hier en daar regstellings), en sal al
+                die tale wat Wiki's en VM's het, oombliklik 1,7 miljoen
+                artikels kan hê (na die Engelse Wiki).
+                'n Beter oplossing sou wees dat gebruikers wat belang
+                stel, toegang tot die VM verkry en dit dan as hulpmiddel
+                by die skep van artikels gebruik, waar nodig. My Duits is
+                byvoorbeeld verroes, dus met die skep van die artikel oor
+                Curt von François sou dit gaaf wees om 'n VM te gehad het
+                (selfs uit Engels in Duits), wat met enkele moeilike,
+                onbekende woorde kon help. Anrie het eenmaal gesê ek moet
+                veral let op my taal, juis omdat ek so baie artikels skep.
+                Die VM kan van die Net afgelaai word. As ons dié werkswyse
+                toelaat, kán daar voorkant toe 'n stortvloed geradbraakte
+                artikels van ander gebruikers verskyn.
+                Boonop is dit meer dikwels meer tydrowend om ander se twak
+                reg te maak, as om sommer gou self 'n saadjie te skep want
+                dikwels lei dit weer tot meningsverskille en debatte soos
+                dié een. (Ek kon in die tyd dat die reaksie my geneem het,
+                reeds nog twéé Duitse kommissarisse van Suidwes-Afrika
+                ingesit het. Miskien moes ek . . . Morne 10:11, 20 Mei
+                2007 (UTC)
+
+          The above, translated for Francis, who doesn't speak a word of
+          Afrikaans... Anrie 10:28, 20 Mei 2007 (UTC)
+
+                I think that what most have said about the Afrikaans
+                Wikipedia, rests on quality above quantity. Wikipedia
+                provides a platform for people to work together creatively
+                on an encyclopaedia by people, about people (and fish,
+                birds, animals, mountains, lakes, etc.), for people. If
+                translation machines ("VMs") are refined to such a point
+                that they are near perfection, it would make the role of
+                all the human contributors redundant (except for a few
+                corrections here and there), and all the languages which
+                have Wikis and VMs could have 1.7 million articles
+                instantaneously (after the English Wiki).
+
+                A better solution would be for those users who are
+                interested, to have access to the VM and use it as an aid
+                when creating articles, where necessary. My German, for
+                example, is quite rusty, thus, with the creation of an
+                article on Curt von François it would have been nice to
+                have a VM (even from English to German), which could have
+                helped with 'n few difficult, unfamiliar words. Anrie has
+                once said that I should concentrate om my language,
+                especially since I create so many articles. The VM can be
+                downloaded from the Net. If we allow this method, it can
+                lead to a flood of messy articles from other users.
+
+                Notwithstanding that it is often more time-consuming to
+                fix another's bad work, as to quickly create a proper
+                stub, since it often leads to differing opinions and
+                debates like this one. (In the time this reaction took, I
+                could have added two more German commissaries from
+                Southwest Africa. Maybe I should have...) Signed, Morné.
+
+                      I have already responded to some of the points
+                      mentioned by Morné here, but he does make one very
+                      valid one: I have mentioned a few times that when a
+                      person continually contributes articles that are
+                      sub-par, they should be made aware of that and that
+                      we then expect of them to follow the guidelines on
+                      style, syntax, spelling, etc.
+
+                      My understanding was that this machine would be able
+                      to learn from it's mistakes as it went along, and
+                      that, after a while, the errors would be few and far
+                      in between. Certainly we can't go deliberately
+                      correcting an automatically translated article every
+                      day for the next year, since this would have been
+                      unacceptable if it was a human user who
+                      transgressed.
+
+                      Do you anticipate that your system will get better
+                      as time goes by, Francis, or what are your end goals
+                      with it? Anrie 10:35, 20 Mei 2007 (UTC)
+
+                                  Yes, it will get better, if it doesn't I
+                                  hope you'd tell me so I know where I'm
+                                  going wrong, and if I come up against an
+                                  impass then I'll have to re-evaluate
+                                  what I'm saying now. Currently the
+                                  software is in extreme pre-alpha. For
+                                  each article I translate from English, I
+                                  first tweak the wording slightly in
+                                  order for the machine to be able to
+                                  translate it better, then translate it,
+                                  then fix the formatting... as time goes
+                                  on, and it improves then I hope that
+                                  this pre-editing becomes unnecessary,
+                                  and the end result improves.
+
+                                  A much better pair using this system
+                                  (Spanish - Catalan), which has been in
+                                  development for a number of years
+                                  produces very good translations. I don't
+                                  expect to get to that quality with
+                                  English - Afrikaans for a few months
+                                  yet, but it should improve dramatically
+                                  as I add both vocabulary and transfer
+                                  rules.
+
+                                  Just a short note that it won't learn
+                                  automatically from the mistakes, I have
+                                  to program it. So I submit and article,
+                                  see what you change, and make the
+                                  necessary changes to the machine. If I
+                                  have any questions I'll ask you (if
+                                  thats ok). - Francis Tyers 16:28, 20 Mei
+                                  2007 (UTC)
+
+                            I would also like to point out that calling
+                            someone's work "twak" is derogatory and
+                            uncalled for and that users should refrain
+                            from deliberately using derogatory words when
+                            discussing another user or his/her work. Anrie
+                            11:02, 20 Mei 2007 (UTC)
+
+                                  Ek moet om vergifnis vra dat ek my aan
+                                  die onvergeeflike sonde van die
+                                  eufemisme skuldig gemaak het. Wat ek
+                                  eintlik wou gesê het, is dat dit
+                                  tydrowend is om ander se "kak" reg te
+                                  maak. There are, daar is, many ways,
+                                  baie maniere, to make others' work, om
+                                  andere se werk, sound like, na kak,
+                                  shit, te laat klink. Morne 21:05, 20 Mei
+                                  2007 (UTC)
+
+   Ek sal probeer, I shall endeavour, om voortaan, to hence forth, meer
+   direk, be more direct, te wees. Morne 21:08, 20 Mei 2007 (UTC)
+
+   As die Wikipedia, if the Wikipedia's, se hoofdoel, main aim is, om kak,
+   to improve, te verbeter, other's shit, wil ek geen deel daaraan, then I
+   want no part, hê nie, in it. Morne 21:11, 20 Mei 2007 (UTC)
+
+          Ek dink jy moet bietjie gaan afkoel en miskien môre weer na die
+          gesprek toe terugkom, Morné. Dit is heel duidelik dat iets jou
+          omgekrap het, maar ek dink nie dat jou huidige gemoedstoestand
+          enigsins jou vriend is op die oomblik nie. Anrie 21:18, 20 Mei
+          2007 (UTC)
+
+     * Sal dit nie miskien 'n goeie idee wees om hierdie gesprek na
+       Wikipedia:Geselshoekie/MT te skuif nie? Dit is darem nou al baie
+       lank. Anrie 21:42, 20 Mei 2007 (UTC)
+
+          Dankie vir die skuif. Morné, Francis het sy idee hier gegee en
+          eers begin toe mense hier aangedui het dat hulle dit sal regmaak
+          en hy kan voortgaan - ek is seker hy sou daarop ag geslaan het
+          as daar groot teenkanting was. Ek glo dus sy optrede was redelik
+          alhoewel ek ook nie mal is oor die idee van masjienvertaling vir
+          die Afrikaanse Wikipedia nie (ten minste nie op die huidige
+          standaard nie). Verder, soos wat sommige van ons nie hou van
+          masjienvertaling nie, hou sommige van ons nou weer nie van
+          sekere registers van Afrikaans nie. Ek hoop ons kan maniere kry
+          om mekaar te akkommodeer. --Alias 09:35, 21 Mei 2007 (UTC)
+
+          Ek vra om verskoning dat ek my humeur verloor het. Ek wil net
+          nie sien dat dubbele standaarde toegepas word nie. As ek nie by
+          die letter van die reëls hou nie, word ek gou tereggewys (met
+          woorde wat daarop neerkom dat ek nie moet twak aanjaag nie,
+          hoewel die T-woord nie gebruik word nie), maar nou is daar 'n 4
+          000-woorde-debat oor die wenslikheid van masjienvertalings, wat
+          'n klomp ekstra en onnodige werk gaan skep. Selfs Google in al
+          sy wysheid kan nie masjienvertaal dat dit na mensetaal klink
+          nie. Vgl. hierdie reëls uit die Duitse treffer Ich weiß, es wird
+          ein mal ein Wunder gescheh'n:
+
+   Die Duits: Ich weiß es wird einmal ein Wunder gescheh'n und dann werden
+   tausend Märchen wahr. Ich weiß so schnell kann keine Liebe vergeh'n die
+   so groß ist und so wunderbar! Wir haben beide den selben Stern und dein
+   Schicksal ist auch meins. Du bist mir fern und doch nicht fern denn
+   uns're Seelen sind eins. Die Engels (met hulp deur afkappingstekens uit
+   te haal): I white it once a miracle will happen and then will become
+   thousand fairy tales truely. I white so fast cannot offense love so
+   largely am so marvelous and! We do not have both same star and your
+   fate are meins you are far and nevertheless also me far from our souls
+   are one. Wat moes gewees het: I know one day a miracle will happen and
+   then a thousand fairy tales will come true. I know a love that is so
+   big and wonderful cannot fade so fast. We both have the same star and
+   your fate is also mine. You are far from me, and yet not far because
+   our souls are one. (Ek ek is seker hierop kan nog baie verbeter word.)
+   Morne 09:58, 21 Mei 2007 (UTC)
+
+[wysig] Core topics
+
+          It might be a good idea to create a subpage -- also, do you have
+          on Afrikaans Wikipedia a translation of the 'core topics' page?
+          It might be a good idea to create it (with links), so people
+          (myself included) can see what is done and what is not. Just an
+          idea though... - Francis Tyers 08:38, 21 Mei 2007 (UTC)
+
+                It's on my to-do list, you bet. I'm a bit busy with Real
+                Life stuff at the moment, but I should have more time
+                starting July. Even so, I'll see if I can translate it a
+                little bit at a time during off periods. It'll have to be
+                aproved afterwards by the community - I've seen the
+                English one has been accused in the past of being too
+                subjective or partial to certain topics. Even so, I think
+                it provides an extremely good base to work from.
+
+                I am curious as to why you have chosen Eng-Afr for this
+                project. You've mentioned the Spanish to Catalan system,
+                which sounds very promising. English differs so much from
+                Afrikaans regarding syntax and vocabulary, it seems like a
+                monumental project trying to develop a translating system
+                for such a little-spoken language. (Not that I'm dissing
+                my own language at all, just curious as to your reasons).
+                Anrie 09:30, 21 Mei 2007 (UTC)
+
+                      Ok thanks (on the core topics part).
+
+                      I've been working with the Apertium project for a
+                      while, doing packaging for Debian. I started
+                      English-Afrikaans after seeing a post on Meta [1]
+                      from User:Greenman. I was interested in starting up
+                      a pair of my own and decided to ask him if he was
+                      interested in joining me. I made a basic system to
+                      demonstrate it to him, and have since been improving
+                      it in my spare time. Unfortunately he is too busy to
+                      help me.
+
+                      English<->Afrikaans is not too bad a pair actually.
+                      The vocabulary is similar in many cases, although
+                      there are amiguities (prepositions as always are
+                      tricky). For Germanic languages, I'd say that they
+                      are the two that are closest together that are
+                      "widely spoken" (e.g. not Frisian, Plaatdutsch
+                      etc.). The morphology is greatly reduced in both in
+                      comparison to other Germanic languages, e.g. no
+                      cases, simple verb conjugation, favouring analytic
+                      over synthetic constructions.
+
+                      This reduced morphology makes writing the
+                      dictionaries easier, and although I think that there
+                      will be issues regarding word-order (SVO vs. SOV),
+                      it is a worthwhile project. It could (in the future)
+                      help speed up the localisation of free software into
+                      Afrikaans.
+
+                      Its worth remembering that almost any translation
+                      project is worthwhile, they can just have different
+                      focusses. For example, the Spanish-Catalan system
+                      focusses on 'assimilation and dissemination',
+                      whereas other more distance pairs might just focus
+                      on 'assimilation', e.g. understanding rather than
+                      producing high quality translations for publication.
+                      This is why we have a Welsh-English and
+                      Catalan-English projects in the pipeline too
+                      (actually the Catalan one is quite good too -- but
+                      not publishable quality). The aim is always for
+                      publishable quality, which is what I'm looking for,
+                      but 'assimilation' is a nice by-product. - Francis
+                      Tyers 12:40, 21 Mei 2007 (UTC)
+
+                            Wikipedia:Kernartikels <-- guess this is is. -
+                            Francis Tyers 21:19, 21 Mei 2007 (UTC)
+
+[wysig] Hersiening
+
+   Francis het die afgelope maande, in plaas daarvan om meer artikels by
+   te dra, eerder daarop gekonsentreer om sy program te verbeter.
+
+   Hy het onderneem om in die toekoms:
+    1. Op belangrike onderwerpe te konsentreer, bv. die by
+       Wikipedia:Kernartikels. Saadjies oor hierdie onderwerpe het 'n baie
+       goeie kans om deur ander gebruikers uitgebrei te word (anders as
+       sommige van die menigte 1-sin saadjies wat ons het).
+    2. Die saadjies sal van 'n aanvaarbare lengte wees, m.a.w. 'n paar
+       paragrawe i.p.v. net 'n sin of twee.
+    3. Daar sal slegs een so 'n artikel geskep word per week, indien so
+       baie.
+    4. Ek (of iemand anders) sal altyd byderhand wees om die artikel te
+       wysig. Daar sal twee dadelike wysigings wees: die eerste wysiging
+       is 'n wysiging wat bloot sal verseker dat die artikel 'n getroue
+       vertaling van die bronteks is, ten einde terugvoering aan Francis
+       te lewer waarvan hy sy vertaling kan evalueer en sy program
+       verander. Die tweede wysiging sal die taal en styl verbeter.
+
+   Ek plaas dit maar net hier vir diegene wat wonder wat van die saak
+   geword het op die ou einde. Anrie 21:13, 17 Augustus 2007 (UTC)
+

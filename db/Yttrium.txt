@@ -1,0 +1,227 @@
+Yttrium
+
+
+
+   39                     strontium ← yttrium → sirkonium
+   Sc
+   ↑
+   Y
+   ↓
+   Lu
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal yttrium, Y, 39
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 3, 5, d
+                                                     Voorkoms silwerig wit
+                                             Atoommassa 88.90585 (2) g/mol
+                                        Elektronkonfigurasie [Kr]4d^1 5s^2
+                                         Elektrone per skil 2, 8, 18, 9, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 4.472 g/cm³
+                                  Vloeistof digtheid teen s.p. 4.24 g/cm³
+                                                          Smeltpunt 1799 K
+                                                                (1526 °C)
+                                                           Kookpunt 3609 K
+                                                                (3336 °C)
+                                              Smeltingswarmte 11.42 kJ/mol
+                                              Verdampingswarmte 365 kJ/mol
+                                Warmtekapasiteit (25 °C) 26.53 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                              P/Pa    1    10   100    1 k    10 k  100 k
+                            teen T/K 1883 2075 (2320) (2627) (3036) (3607)
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 3
+                                                     (swak basiese oksied)
+                              Elektronegatiwiteit 1.22 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                   (meer) 1ste: 600 kJ/mol
+                                                          2de: 1180 kJ/mol
+                                                         3rde: 1980 kJ/mol
+                                                        Atoomradius 180 pm
+                                                 Atoomradius (ber.) 212 pm
+                                                   Kovalente radius 162 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                          Elektriese weerstand (k.t.) (a, poli) 596 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 17.2 W/(m·K)
+                                     Termiese uitstetting (k.t.) (a, poli)
+                                                           10.6 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3300 m/s
+                                                 Young se modulus 63.5 GPa
+                                                     Skuifmodulus 25.6 GPa
+                                                     Massamodulus 41.2 GPa
+                                                   Poissonverhouding 0.243
+                                                  Brinell hardheid 589 MPa
+                                              CAS-registernommer 7440-65-5
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Yttrium
+
+                               iso   NV  halfleeftyd VM   VE (MeV)    VP
+                               ^87Y sin  3.35 d      e   -           ^87Sr
+                                                     ?   0.48, 0.38D -
+                               ^88Y sin  106.6 d     e   -           ^88Sr
+                                                      ?  1.83, 0.89  -
+                               ^89Y 100% Y is stabiel met 50 neutrone
+                               ^90Y sin  2.67 d      ß^- 2.28        ^90Zr
+                                                      ?  2.18        -
+                               ^91Y sin  58.5 d      ß^- 1.54        ^91Zr
+                                                      ?  1.20        -
+
+                                                                Verwysings
+
+   Yttrium is 'n chemiese element in die periodieke tabel met die simbool
+   Y en atoomgetal van 39. Yttrium is 'n silwerige metaalagtige
+   oorgangsmetaal wat algemeen aangetref word in seldsame aardminerale en
+   twee van sy verbindings word gebruik in die rooi gekleurde
+   fosforeserende materiaal in katodestraalbuise soos dié wat in
+   televisiestelle gebruik word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Sien ook
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Yttrium is 'n silwer metaalagtige, glansende seldsame aardmetaal wat
+   relatief stabiel in lug is. Die voorkoms is baie soortgelyk aan
+   skandium en sy chemiese eienskappe stem ooreen met die lantaniede. Met
+   blootstelling aan lug verkry dit 'n effense pienk glans. Fyn snysels
+   van die materaail kan spontaan in lug ontbrand as dit warmer as 400 °C
+   verhit word. Fynverdeelde yttrium is hoogs onstabiel in lug. Die metaal
+   het 'n lae neutrondeursnee vir kernvangs. Die algemene
+   oksidasietoestand van yttrium is +3.
+
+[wysig] Gebruike
+
+   Yttrium(III)oksied is die belangrikste yttrium verbinding en word
+   algemeen gebruik om YVO[4]: Eu en Y[2]O[3]:Eu fosforeserende materiale
+   te vervaardig wat die rooi kleur gee in kleurtelevisiebuise. Ander
+   gebruike sluit in:
+     * Yttriumoksied word ook gebruik om yttriumystergranate te vervaardig
+       wat baie effektiewe mikrogolf-filters is.
+     * Yttriumyster-, alumnium- en gadoliniumgranate (bv. Y[3]Fe[5]O[12]
+       en Y[3]Al[5]O[12]) het interresante magnetiese eienskappe.
+       Yttriumystergranaat is ook 'n baie doeltreffende akoestiese energie
+       versender en oorvormer. Yttriumaluminiumgranaat het 'n hardheid van
+       8.5 en word ook gebruik as 'n edelsteen (kunsdiamant).
+     * Klein hoeveelhede van die element (0.1 tot 0.2%) is al gebruik om
+       die korrelgrootte van chroom, molibdeen, titaan en sirkonium te
+       verminder. Dit word ook gebruik om van aluminium- en
+       magnesiumlegerings te versterk.
+     * Word gebruik as 'n katalis vir die polimerisering van etileen.
+     * Yttriumaluminiumgranaat, yttriumlitiumfluoried en yttriumvanadaat
+       word in kombinasie met ander doopmiddels soos neodimium of erbium
+       in infrarooi lasers gebruik.
+     * Dit word in die elektrodes van sommige hoë werkverrigting
+       vonkproppe gebruik.
+     * Die metaal kan gebruik word om vanadium en ander nie
+       ysterbevattende metale te deoksideer.
+     * Yttrium word ook gebruik in die vervaardiging van gasmantels vir
+       propaanlanterns as 'n vervanging vir torium wat effe radio-aktief
+       is.
+     * Cerium-gedoopte yttriumaluminiumgranaat (YAG:Ce) kristalle word
+       gebruik as fosforeserende materiale om wit LED's te maak.
+     * Yttrium-90 mikrosfere blyk belowend te wees as behandeling vir
+       sekere kankers.
+     * Yttrium is gebruik as 'n element in die supergeleier wat deur die
+       Universiteit van Houston ontwikkel is, YBaCuO. Hierdie supergeleier
+       is bo 90K bedryf, wat 'n betekenisvolle ontwikkeling is omdat dit
+       hoër is as die kookpunt van vloeibare stikstof (-195.9°C).
+     * Yttriumoksied word gebruik om die kubiese vorm van sirkonia te
+       stabiliseer vir gebruik in juwele.
+
+[wysig] Geskiedenis
+
+   Yttrium (wat vernoem is na Ytterby, 'n Sweedse dorp naby Vaxholm) is
+   deur die Finse skeikundige, fisikus en mineraloog Johan Godolin in 1794
+   ontdek en is geïsoleer deur Friedrich Wöhler in 1828 as 'n onsuiwer
+   ekstrak van yttria deur die reduksie van anhidriese yttriumchloried
+   (YCl[3]) met kalium. Yttria (Y[2]O[3]) is die oksied van yttrium en is
+   deur Johan Gadolin in 1794 ontdek in 'n gadoliniet mineraal uit
+   Ytterby.
+
+   In 1843 het die Sweedse skeikundige Carl Mosander getoon dat yttria in
+   drie verskillende oksiedes (of aardes) geskei kon word. "Yttria" is die
+   naam wat behou is vir die mees basiese oksied wat dan ook die grootste
+   deel van die mengsel uitgemaak het (ongeveer twee derdes) en die ander
+   twee oksiede is erbia en terbia genoem.
+
+   Uitgrawings naby die dorp Ytterby het baie ongewone minerale opgelewer
+   wat seldsame aard- en ander elemente bevat het. Die elemente erbium,
+   terbium, ytterbium en yttrium is almal na hierdie selfde dorpie
+   vernoem.
+
+[wysig] Verspreiding
+
+   Die element kan gevind word in byna al die seldsame aardminerale en ook
+   in uraanertse maar word nooit in die natuur in onverbonde vorm
+   aangetref nie. Yttrium word kommersieël ontgin vanuit monasietsand (3%
+   inhoud, [(Ce, La, ens.)PO[4]]) en vanaf bastnäsiet (0.2% inhoud, [(Ce,
+   La, ens.)(CO[3])F]).
+
+   Dit word kommersieël vervaardig deur yttriumfluoried met kalsium-metaal
+   te reduseer maar kan ook deur ander metodes vervaardig word. Die
+   element wat moeilik is om van ander seldsame aardes geskei word kom
+   voor as 'n donker grys poeier.
+
+   Maanrotsmonsters wat deur die Apollo program geneem is het 'n relatief
+   hoë yttrium inhoud gehad.
+
+[wysig] Isotope
+
+   Natuurlike yttrium bestaan slegs uit een isotoop (Y-89). Die mees
+   stabiele radio-isotope is Y-88 met 'n halfleeftyd van 106.65 en Y-91
+   met 'n halfleeftyd van 58.51 dae. Al die ander isotope het halfleeftye
+   van minder as 'n dag behalwe vir Y-87 wat 'n halfleeftyd van 79.8 uur
+   het. Die dominante vervalmodus onder die stabiele Y-89 is elektronvangs
+   en die dominante modus daarna is beta-uitstraling. Ses-en-twintig
+   onstabiele isotope is al geëien.
+
+   Y-90 bestaan in ewewig met sy moederisotoop strontium-90, wat 'n produk
+   van kernontploffings is.
+
+[wysig] Voorsorgmaatreëls
+
+   Baie min mense kom verbindings wat hierdie element bevat teë, maar dit
+   behoort gewoonlik as baie giftig beskou word al is baie van die
+   verbindings nie baie skadelik nie. Yttrium soute kan karsinogenies
+   wees. Die element word nie gewoonlik in menslike weefsel aangetref nie
+   en het sover bekend geen biologiese rol nie.
+
+[wysig] Sien ook
+
+     * Erbium
+     * Terbium
+     * Ytterbium
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Yttrium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Yttrium
+     * WebElements.com – Yttrium
+
+   Kategorie: Chemiese elemente
+

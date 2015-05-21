@@ -1,0 +1,41 @@
+Freevo
+
+
+   Image:Freevo-logo.png   Freevo
+   {{{screenshot}}}
+   Freevo Tuisteater logo
+     __________________________________________________________________
+
+   Ontwikkelaar
+   Mees onlangse weergawe 1.7 /
+   Laaste betaweergawe /
+   Bedryfstelsel Kruisplatform
+   Kategorie
+   Lisensie GPL
+   Webtuiste {{{webtuiste}}}
+
+   Freevo is 'n oopbron sagteware program wat op Linux en BSD
+   bedryfstelsels gebruik kan word om 'n tuisteaterstelsel (en: home
+   theater system) te bedryf.
+
+   Die tuisteater word dan aan jou TV-stel gekoppel om programme op te
+   neem en later terug te speel en al jou media (fotos, musiek en videos)
+   op jou TV beskikbaar te maak. 'n Gewone afstandbeheer kan gebruik word
+   om die tuisteater te beheer.
+
+   'n Afrikaanse vertaling is beskikbaar sodat Afrikaanssprekendes die
+   program makliker kan gebruik.
+
+[wysig] Kompetisie
+
+   Ander tuisteaterstelsels wat soortgelyke funksionaliteit bied:
+     * LinuxMCE
+     * MythTV
+
+[wysig] Eksterne skakels
+
+     * Freevo webtuiste
+     * Freevo Hulp Webwerf
+
+   Kategorieë: Toepassingsagteware • Vrye sagteware
+

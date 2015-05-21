@@ -1,0 +1,97 @@
+Katakana
+
+
+   Katakana (片仮名, カタカナ of かたかな, Katakana^?) is 'n Japannese
+   lettergreepskrif, een van die onderdele van die moderne Japannese
+   skryfstelsel, te same met hiragana en kanji; en rōmaji; die gebruik van
+   die Latynse alfabet in Japannees.^[1] Hiragana en katakana is beide
+   kana-stelsels waarin elke simbool 'n mora (klankeenheid) voorstel. Die
+   woord katakana beteken "fragmentariese kana," aangesien die katakana
+   karakters afgelei is van komponente van die meer komplekse kanji.
+
+   Katakana word gekenmerk deur kort, reguit, hale en skerp hoeke, en is
+   die eenvoudigste van die Japannese skrifte.
+
+   Daar is twee hoof stelsels vir die rangskikking van katakana: die
+   outydse iroha-rangskikking, en die meer algemene gojūon-rangskikking.
+
+[wysig] Geskeidenis
+
+   Katakana is in die vroeë Heian-Tydperk ontwikkel uit dele van
+   man'yōgana karakters, die verkorte Sjinese karakters wat deur
+   Boeddhiste monnike gebruik is om die korrekte uitspraak van Sjinese
+   tekste aan te dui in die 9de eeu, as 'n soort fonetiese snelskrif.^[2]
+   Aanvanklik was daar baie verskillende simbole wat 'n enkele lettergreep
+   in gesproke Japannees voorgestel het, maar mettertyd is die stelsel
+   vereenvoudig. Teen die 14de eeu was daar oor die algemeen 'n eenduidige
+   ooreenkoms tussen gesproke en geskrewe lettergrepe.^[3]
+
+   'n Voorbeeld van die ontwikkeoing van katana is, ka カ wat afkomstig is
+   van die linkerkant van ka 加 "vermeerder". Die tabel na regs vertoon die
+   oorsprong van elke katakana: die rooi merke van die oorsponklike
+   Sjinese karakters het uiteiondelik die ooreenstemmnde simbool geword.
+
+[wysig] Katakanatabel
+
+   Die onderstaande tabel gee die katakana saam met hulle Hepburn
+   romanisering aan. Die eerste kaart vertoon die standaard katakana
+   (karakters in rooi is uitgedien, en karakters in groen is moderne
+   toeveogings tot die katakana wat hoofsaaklik gebruik word om klanke uit
+   ander tale voor te stel). Om katana te leer lees word bemoeilik deur
+   die ooreenkomste tussen die verskillende karakters. Shi シ en tsu ツ , so
+   wel as so ソ en n ン , lyk byvoorbeeld in gedrukte vorm baie soortgelyk
+   behalwe vir die helling en haal-vorm. (hierdie verkille in helling en
+   vorm is meer prominent wanneer met 'n inkborsel geskryf word as gevolg
+   van die rigtings van die hale.)
+                     klinkers                            yōon
+       ア a      イ i    ウ u       エ e       オ o    ya      yu      yo
+      カ ka      キ ki   ク ku     ケ ke      コ ko  キャ kya  キュ kyu  キョ kyo
+      サ sa     シ shi   ス su     セ se      ソ so  シャ sha  シュ shu  ショ sho
+      タ ta     チ chi  ツ tsu     テ te      ト to  チャ cha  チュ chu  チョ cho
+      ナ na      ニ ni   ヌ nu     ネ ne      ノ no  ニャ nya  ニュ nyu  ニョ nyo
+      ハ ha      ヒ hi   フ fu     ヘ he      ホ ho  ヒャ hya  ヒュ hyu  ヒョ hyo
+      マ ma      ミ mi   ム mu     メ me      モ mo  ミャ mya  ミュ myu  ミョ myo
+      ヤ ya             ユ yu               ヨ yo
+      ラ ra      リ ri   ル ru     レ re      ロ ro  リャ rya  リュ ryu  リョ ryo
+      ワ wa      ヰ wi            ヱ we     ヲ wo ^1
+                                           ン n
+      ガ ga      ギ gi   グ gu     ゲ ge      ゴ go  ギャ gya  ギュ gyu  ギョ gyo
+      ザ za      ジ ji   ズ zu     ゼ ze      ゾ zo   ジャ ja   ジュ ju   ジョ jo
+      ダ da     ヂ (ji) ヅ (zu)    デ de      ド do  ヂャ (ja) ヂュ (ju) ヂョ (jo)
+      バ ba      ビ bi   ブ bu     ベ be      ボ bo  ビャ bya  ビュ byu  ビョ byo
+      パ pa      ピ pi   プ pu     ペ pe      ポ po  ピャ pya  ピュ pyu  ピョ pyo
+      ヴァ va    ヴィ vi   ヴ vu     ヴェ ve     ヴォ vo ヴャ vya  ヴュ vyu  ヴョ vyo
+                               シェ she
+                                ジェ je
+                               チェ che
+               スィ si
+               ズィ zi
+               ティ ti  トゥ tu                             テュ tyu
+               ディ di  ドゥ du                             デュ dyu
+     ツァ tsa    ツィ tsi          ツェ tse    ツォ tso
+      ファ fa    フィ fi            フェ fe     フォ fo         フュ fyu
+               ^2 yi         ( ^2) イェ ye
+               ウィ wi  ^2 wu     ウェ we     ウォ wo
+   (クヮ) クァ kwa クィ kwi          クェ kwe    クォ kwo
+   (グヮ) グァ gwa グィ gwi          グェ gwe    グォ gwo
+
+          ^1: ヲ ("wo") klink dieselfde as オ ("o"), maar dit word selde
+          gebruik behalwe wanneer die ooreenstemmende hiragana in 'n
+          slegs-katana omgewing voorgestel moet word.
+          ^2: Hierdie katakana is in die onderwysstelsel ingevoer in die
+          vroeë Meiji-tydperk, maar het nooit wydverspreid geword
+          nie.^[4]^[5]
+
+[wysig] Verwysings
+
+    1. ^ Omniglot, Japanese (Nihongo), Besoek op 2 Februarie 2008
+    2. ^ Matthew White, The Japanese Writing System, California State
+       University, Chico, Besoek op 2 Februarie 2008
+    3. ^ Omniglot, Japanese Katakana, Besoek op 2 Februarie 2008
+    4. ^ 「いろは と アイウエオ」
+    5. ^ 伊豆での収穫
+
+    Hierdie artikel omtrent Japan is tans slegs 'n saadjie. Jy is welkom
+   om by te dra tot die Afrikaanse Wikipedia deur dit uit te brei.
+   Kategorie: Japan saadjies
+

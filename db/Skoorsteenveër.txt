@@ -1,0 +1,103 @@
+Skoorsteenveër
+
+
+                   Skoorsteenveër
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Threskiornithidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Threskiornis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. aethiopicus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+               Threskiornis aethiopicus
+   (Latham, 1790)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die skoorsteenveër is 'n groot (lengte 64-82cm) voël met wit vlerke,
+   rug en 'swart stert, met 'n veerlose kop en nek.
+
+   Die heilige voël van die Egiptenare, waar dit "Die Vader van die Sekel"
+   genoem is, omdat dit in duisende op landerye na oorstromings deur die
+   Nylrivier voorgekom het en as 'n aanduiding van 'n goeie oesjaar beskou
+   was. Waterinsekte, paddas, visse, sprinkane, ens. is hulle kos. Die
+   naam skoorsteenveër het hy gekry vanweë sy manier om die binnegoed van
+   dooie voëls uit te skraap.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+             + 4.1 Suid-Afrikaanse voëls
+
+[wysig] Identifikasie
+
+   Kop en nek 'n veerloos en swart van kleur. Vlerke en rug is with met 'n
+   swart stert.
+
+[wysig] Habitat
+
+   Damme, vlei-gebied, panne en moerasagtige areas.
+
+[wysig] Verspreiding
+
+   Verspreiding
+   Verspreiding
+
+   Kom voor in die oostelike suidelike Afrika.
+
+[wysig] Ander name
+
+     * Engels: African Sacred Ibis
+     * Wetenskaplike naam: Threskiornis aethiopicus
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Ibisse en lepelaars
+

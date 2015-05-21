@@ -1,0 +1,203 @@
+InfiniBand
+
+
+   InfiniBand is 'n raamgebaseerde rekenaarnetwerktegnologie vir plaaslike
+   netwerke (PN'e) (Engels: Local Area Networks of LAN). InfiniBand is 'n
+   hoogwaardige netwerktegnologie, dit bied sowel hoë bandwydte als lae
+   latensie.
+
+   Inhoud
+
+        * 1 Virtuele netwerkhardewareaansturing
+        * 2 Netwerkstruktuur
+        * 3 InfiniBand-spoed
+             + 3.1 Bandwydte
+             + 3.2 Latensie
+        * 4 InfiniBand versus 10 gigabps Ethernet
+             + 4.1 Voordele van InfiniBand ten opsigte van 10 gigabps
+               Ethernet
+             + 4.2 Voordele van 10 gigabps Ethernet ten opsigte van
+               InfiniBand
+        * 5 Programmering
+        * 6 Toepassinge
+        * 7 Produkte
+        * 8 Eksterne skakels
+
+[wysig] Virtuele netwerkhardewareaansturing
+
+   In die tradisionele opvattinge oor netwerke is die bedryfstelsel die
+   enige sagteware wat met die hardeware kommuniseer. Die bedryfstelsel
+   bied 'n aantal dienste aan die programmatuur aan, wat kommunikasie
+   mooglik maak. In die populêre BSD-socket-programmeermodel bied die
+   bedrijfstelsel 'n aantal primitiewes aan soos open, send, recv en
+   close. Hierdie model garandeer die stabiliteit van 'n rekenaar; deurdat
+   alleen die bedryfstelsel die hardeware kan aanstuur kan 'n korrekte
+   implementasie die stabiliteit van die stelse garandeer, 'n probleem in
+   'n programma het geen gevolge vir die res van die rekenaar nie.
+
+   Hierdie model het egter 'n aantal probleme:
+     * Vir iedere kommunikasiebewerking dien die verwerker van
+       gebruikersruimte, (user space) na kernelruimte (kernel space) te
+       skakel en weer terug.
+     * Die onderverdeling van die data in datarame vind plaas in die
+       kernel. Hierdeur is dit nodig die data in die rekenaargeheue te
+       kopieer.
+
+   Die gevolg van dit is dat in die versending van kleine databerigte,
+   baie tyd verlies word, waardeur die tradisionele model nie bruikbaar is
+   nie vir situasies waar op hoë spoed kleine berigte uitgewissel word.
+   Die latensie veroorsaak deur die tradisionele model is vir hierdie
+   toepassinge nie akseptabel nie.
+
+   By Infiniband word gebruik gemaak van gevirtualiseerde
+   netwerkhardeware. Die bedryfstelsel ken elk proses 'n virtuele
+   netwerkhardware toe, wat afgebeeld word in die lokale adresruimte van
+   'n proses. Infinibandhardeware is spesiaal vir hierdie doel ontwerp,
+   sodat 'n proses geen gevaarlike bewerkinge op die virtuele
+   netwerkhardeware kan uitvoer nie waardeur die stabiliteit van die
+   stelsel nie in gevaar kom nie.
+
+   'n Proses kan direk hardewareregisters manipuleer, waardeur versending
+   van 'n berig van enkele grepe met baie beperkte belasting van die
+   verwerker plaas kan vind. Die versending van data vind plaas via RDMA,
+   die netwerk transporteer data direk vanuit die virtuele adresruimte van
+   'n proses op 'n rekenaar naar die virtuele adresruimte van 'n proses op
+   'n andere rekenaar.
+
+   InfiniBand kan dus met 'n lae belasting van die verwerker inligtinge
+   verstuur tussen rekenaars, waarby by korte berigte 'n baie lae latensie
+   word gehaal.
+
+   Die gevirtualiseerde netwerkhardeware in Infiniband is conform die
+   Virtual Interface Architecture.
+
+[wysig] Netwerkstruktuur
+
+   In teenstelling tot ethernet, wat 'n hiërargiese geskakelde netwerk is,
+   is Infiniband 'n geskakeldeweefselnetwerk (switched fabric network).
+   Dit hou in dat daar nie slegs 1 roete tussen twee poorte kan wees nie,
+   maar meerdere. Die netwerk self bepaal die roete van 1 pakket.
+
+   Hierdie eieskap maak dit moontlik 'n hoë bandwydte tussen skakelaars te
+   voorsien. Twee 24-poorts skakelaars kan byboorbeeld verbind word deur 8
+   kabels, waardeur op die skakelaars 2*16 toestelle aangesluit kan word
+   en in die geval van SDR-Infiniband 'n bandwydte ontstaan van 80 gigabps
+   tussen die skakelaars.
+
+   'n Infinibandnetwerk word baie opgebou volgens 'n model wat 'n fat tree
+   genoem word. Hierby word die netwerk verdeel in 'n sogenoem edge-deel
+   en 'n spine-deel. Die edge-netwerk bestaan uit skakelaars waar 'n deel
+   van die beskikbare poorte word gebruik vir die aansluiting van
+   toestelle, 'n deel vir die verbinding met die spine-netwerk. Skakelaars
+   in die spine-netwerk het alleen verbindinge met die edge-netwerk.
+
+   Stel ons bou 'n netwerk vir 48 toestelle op uit skakelaars van
+   24-poorte. Vir die edge-netwerk gebruik ons 12 poorte van elke
+   skakelaar vir aansluiting van toestelle en 12 poort vir verbinding met
+   die spine-netwerk. Ons benodig dus 4 skakelaars vir die edge-netwerk.
+
+   Vir die spine-netwerk benodig ons kapasiteit vir 48 kabels, ofwel twee
+   skakelaars van 24 poorte. Om 'n edge-skakelaar met die spine-skakelaar
+   te verbind, verbind ons 6 kabels met die eerste spine-skakelaar en 6
+   kabels met die tweede spine-skakelaar.
+
+   Omdat vir ieder van die twaalf toestelle op 'n skakelaar, ook 'n kabel
+   naar die spine-netwerk loop, het hierdie oplossing 'n volledige
+   bandwydte: Alle 48 toestelle kan op die selfde moment op volledige
+   snelheid kommuniseer sonder dat opstoppinge in die netwerk ontstaan. In
+   vakjargon word 'n oplossing as hierdie 'n netwerk met volledige
+   konstante biseksionele bandwydte genoem (full constant bisectional
+   bandwidth).
+
+[wysig] InfiniBand-spoed
+
+[wysig] Bandwydte
+
+   InfiniBandverbindinge bestaan uit seriële dataverbindinge. Die mees
+   voorkomende InfiniBandverbinding gebruik 4 verbindinge in 1 kabel. Dit
+   word 'n Infiniband4x-kabel genoem. Alternatief bestaan ook kabels met
+   12 verbindinge, InfiniBand12x-kabels, hierdie verbindinge is bedoel om
+   skakelaars onderling te verbind.
+
+   'n Seriële verbinding kan op 4 snelhede kommuniseer: SDR, DDR en QDR.
+   SDR is 2,5 gigabps, DDR is 5 gigabps en QDR is 20 gigabps. 'n
+   Infiniband-4x-kabel wat op die DDR-snelheid kommuniseer, het dus 'n
+   bandwydte van 20 gigabps. Data oor InfiniBand word 8B/10B gekodeer,
+   waardeur 20% van die bandwydte nie bruikbaar is nie, die bruikbare
+   bandwydte van hierdie kabel is dus 16 gigabps.
+
+[wysig] Latensie
+
+   Die latensie tussen twee rekenaars in 'n Infiniband-netwerk is sowel
+   afhanklik van die skakelaars as die implementasie in die rekenaar. Twee
+   rekenaars met 'n Mellanox ConnectX-InfiniBand-kaart wat verbind is deur
+   'n InfiniScale III-skakelaar kan 'n latensie bereik van 1,5
+   mikrosekonde. Goedkoop betaalbaar InfiniBand het teenwordig 'n latensie
+   van minder as 4 mikrosecondes.
+
+[wysig] InfiniBand versus 10 gigabps Ethernet
+
+   InfiniBand is op dit moment een van die tegnieke wat vir hoogwaardige
+   netwerke gebruik word en is 'n direkte teenstrewer van 10 gigabps
+   Ethernet. Gebruik van InfiniBand het voordele en nadele in vergelyking
+   van 10 gigabps Ethernet.
+
+[wysig] Voordele van InfiniBand ten opsigte van 10 gigabps Ethernet
+
+     * Die opbou volgens die geskakeldeweefselnetwerk maak netwerke
+       moontlik waarby netwerk 'n baie hoë geaggregeerde bandwydte kan
+       verwerk. Die verklein die kans op opstoppinge, of in die geval van
+       'n netwerk met volledige konstante biseksionele bandwydte maak
+       hulle onmoontlik.
+     * Die latensie van InfiniBand is baie laag. Daar bestaan tegnieke vir
+       lae latensie op Ethernet (iWarp, Myri10G, maar standaard is 'n
+       latensie van 25 mikrosekondes. InfiniBand het altyd en standaard
+       lae latensie.
+     * InfiniBand is goedkoper as 10 gigabps Ethernet. Insteekkaarte vir
+       rekenaars is goedkoper, InfiniBand-skakelaars is baie goedkoper as
+       10-gigabps-skakelaars.
+
+[wysig] Voordele van 10 gigabps Ethernet ten opsigte van InfiniBand
+
+     * Ethernet is beter bruikbaar op lange afstand, vir lange afstand is
+       'n multimode glasvezelvariant beskikbaar. InfiniBand is alleen
+       gestandaardiseer met koperkabels. Vir lange afstand bestaan
+       oplossinge oor glasvezel, maar geen is gestandaardiseer.
+     * Baie toestelle het 'n Ethernetverbinding, 10-gigabps-skakelaars kan
+       eenvoudig in 'n dergelike netwerk ingeset word op plaatse waar dit
+       gewens is. InfiniBand is nie kompatibel met Ethernet nie. 'n
+       Koppeling met Ethernet kan alleen gerealiseer word met hoëre
+       protokolle, soos die internet protocol.
+     * Die Ethernetwêreld is groter as die InfiniBandwêreld. Daar is meer
+       produkte van meer fabrikante beskikbaar.
+
+[wysig] Programmering
+
+[wysig] Toepassinge
+
+[wysig] Produkte
+
+   Infinibandprodukte word deur verskillende bedrywe gelewer:
+
+   Halfgeleiders:
+     * Mellanox
+     * QLogic
+
+   Skakelaars:
+     * Cisco
+     * Flextronics
+     * QLogic
+     * Voltaire
+
+   Insteekkaarte vir rekenaars:
+     * Cisco
+     * Mellanox
+     * QLogic
+     * Voltaire
+
+[wysig] Eksterne skakels
+
+     * Infiniband Trade Association
+
+   Kategorie: Rekenaarnetwerke
+

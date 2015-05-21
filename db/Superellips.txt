@@ -1,0 +1,153 @@
+Superellips
+
+
+   Die superellips met n = 4, a = b = 1 benader 'n afgekante vierkant.
+   Die superellips met n = 4, a = b = 1 benader 'n afgekante vierkant.
+
+   Die superellips (of Lamékromme) is die meetkundige figuur wat in die
+   Cartesiese koördinaatstelsel gedefinieer word as die versameling punte
+   (x, y) met
+
+          \left|\frac{x}{a}\right|^n\! + \left|\frac{y}{b}\right|^n\! = 1
+
+   waar n > 0 en a en b die radiusse van die ovaal vorm is. Die geval n =
+   2 lewer die gewone ellips; vermeerdering van n na meer as 2 lewer die
+   hiperellipse, wat al hoe meer soos 'n reghoek lyk; vermindering van n
+   na minder as 2 lewer hipoellipse wat gepunte hoeke ontwikkel in die x
+   en y rigtingsen al hoe meer soos kruise lyk.
+
+   Inhoud
+
+        * 1 Effek van n
+        * 2 Veralgemening
+        * 3 Superellipsoïed
+        * 4 Geskiedenis
+        * 5 Kyk ook
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Effek van n
+
+   n = Sjabloon:Fraction, a = b = 1 lewer 'n ronder vorm wat soos 'n
+   afgekante vierkant lyk.
+   n = Sjabloon:Fraction, a = b = 1 lewer 'n vierpuntster.
+
+   Indien n 'n rasionele getal is met 'n ewe teller en onewe noemer dan is
+   die superellips 'n vlak algebraïese kromme. In besonder indien a en b
+   beide een is en n 'n ewe heelgetal is, dan is dit 'n Fermatkromme met
+   graad n. In die geval is dit nie-singulier, maar in die algemeen sal
+   dit singulier wees. Indien die teller nie ewe is nie, dan word die
+   kromme saamgeplak uit dele van dieselfde algebraïese kromme in
+   verskillende oriëntasies.
+
+   Byvoorbeeld, indien x^4/3 + y^4/3=1, dan is die kromme 'n algebraïese
+   kromme met graad twaalf en genus drie, wat gegee word deur die
+   vergelyking
+
+          (x^4 + y^4)^3 − 3(x^4 − 3x^2y^2 + y^4)(x^4 + 3x^2y^2 + y^4) +
+          3(x^4 + y^4) − 1 = 0.
+
+          x\left(\theta\right) = \plusmn a\cos^\frac{2}{n} \theta,
+          y\left(\theta\right) = \plusmn b\sin^\frac{2}{n} \theta;
+          0 \le \theta < \frac{\pi}{2}.
+
+[wysig] Veralgemening
+
+   Voorbeeld van die veralgemeende superellips met m ≠ n.
+   Voorbeeld van die veralgemeende superellips met m ≠ n.
+
+   Die superellips word verder veralgemeen as:
+
+          \left|\frac{x}{a}\right|^m + \left|\frac{y}{b}\right|^n = 1; m,
+          n > 0.
+
+[wysig] Superellipsoïed
+
+   Koper supereier deur Piet Hein.
+   Koper supereier deur Piet Hein.
+
+   In drie dimensies kan 'n superellipsoïed of supereier verkry word deur
+   'n superellips om die x-as te roteer wat die volgende generiese vorm
+   lewer:
+
+          \left ( |x|^\frac{2}{a} + |y|^\frac{2}{a} \right )^\frac{a}{b} +
+          |z|^\frac{2}{b} = 1
+
+   Met a,b > 0.
+
+[wysig] Geskiedenis
+
+   Hoewel die uitvinding van die superellips baie keer toegeskryf word aan
+   die Deense digter en wetenskaplike Piet Hein (1905-1996), het hy nie
+   die superellips ontdek nie. Die algemene Cartesiese notasie van die
+   vorm is afkomstig van die Franse wiskundige Gabriel Lamé (1795–1870)
+   wat die vergelyking vir die ellips veralgemeen het.
+
+   Piet Hein het egter gewildheid verleen aan die gebruik van die
+   superellips in argitektuur, stadsbeplanning en meubelontwerp, en hy het
+   wel die supereier of superellipsoïed uitgevind met die superellips te
+   begin
+
+          \left|\frac{x}{4}\right|^{2.5} + \left|\frac{y}{3}\right|^{2.5}
+          = 1
+
+   en dit om die x-as daarvan te wentel. Anders as 'n gewone ellipsoïed,
+   kan die superellipsoïed regop op 'n plat oppervlak staan.
+
+   Toe stadsbeplanners in Stockholm, Swede 'n oplossing vir 'n
+   verkeersirkel in die stadsplein Sergels Torg benodig het, het Piet Hein
+   se superellips die nodige estetiese en praktiese oplossing verskaf. In
+   1969 kon onderhandellaars in die Vietnamoorlogvredessamesprekinge in
+   Parys nie ooreenkom oor die vorm van die onderhandelingstafel nie. Piet
+   Hein het 'n reuse superelliptiese tafel ontwerp om die partye te
+   akkommodeer. Die superellips is ook gebruik vir die vorm van die 1968
+   Azteca Olympiese Stadion, in Meksiko Stad.
+
+   Hermann Zapf se lettertipe Melior, wat in 1952 uitgegee is, gebruik
+   superellipse vir letters soos o. Dertig jaar later ontwikkel Donald
+   Knuth die vermoë om tussen ware ellipse en superellipse te kies in sy
+   Computer Modern lettertipefamilie.
+
+          Die mensdier trek graag strepe wat hom dan self pootjie. In die
+          onwikkeling van die beskawing het twee neigings oorheers, die
+          een na reguit lyne en reghoekige patrone, en die ander na
+          sirkels. Daar is goeie praktiese en emosionele redes waarom dit
+          so is. Dinge wat reguit en haaks is pas mooi bymekaar en spaar
+          plek. En ons kan maklik rondbeweeg, fisies of intellektueel, om
+          dinge wat sirkelvormig is. Ons word egter vasgevang in
+          besluiteloosheid, asof ons die een of die ander moet kies,
+          wanneer ons iets tussenin nodig kry. Om sommer iets uit die lug
+          te gryp, soos die lappieskombersverkeerssirkel wat hulle in
+          Stockholm aangepak het, is nie goed genoeg nie. Dit is nie
+          vasgepen nie, dit is nie iets definitief soos 'n sirkel of 'n
+          vierkant nie. Ons weet nie wat dit is nie. Dit is nie esteties
+          bevredigend nie. Die superellips het die probleem opgelos. Dit
+          is nie rond of reghoekig nie, maar tog is dit vas, dit is
+          definitief, dit het eenheid. —Piet Hein
+
+[wysig] Kyk ook
+
+     * Astroïed, n' spesifieke superellips
+     * Ellips
+     * Ellipsoïed, 'n hoër dimensie analoog van 'n ellips
+     * Sferoïed, die ellipsoïed wat verkry word deur die ellips om die
+       hoof- of kortas te roteer
+     * Superkwadratika
+
+[wysig] Verwysings
+
+     * Gardner, Martin: Piet Hein's Superellipse. - in Gardner, Martin:
+       Mathematical Carnival. A New Round-Up of Tantalizers and Puzzles
+       from Scientific American. New York: Vintage, 1977, pp. 240-254.
+     * Johan Gielis: Inventing the circle. The geometry of nature. -
+       Antwerpen : Geniaal Press, 2003. - ISBN 90-807756-1-4
+
+[wysig] Eksterne skakels
+
+     * Superellips (MathWorld)
+     * Lamé se Superellips (Java-miniprgram)
+     * Superellipsoïed (Java-miniprogram)
+     * Johan Gielis en Bert Beirinckx se "Superformule".
+
+   Kategorieë: Krommes • Algebraïese krommes
+

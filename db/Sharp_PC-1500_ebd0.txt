@@ -1,0 +1,121 @@
+Sharp PC-1500
+
+
+   Die Sharp PC-1500 met drukker/dromplotter in reistas.
+   Die Sharp PC-1500 met drukker/dromplotter in reistas.
+
+   Die Sharp PC-1500 was 'n sakrekenaar wat met 'n 8-bis SVE
+   (sentraleverwerkingseenheid) en 8kB ingeboude geheue in 1982 op die
+   mark gekom het. 'n Ekstra CE-155 8kB geheuemodule was as opgradering
+   beskikbaar. Die programmeringstaal was BASIC en dit het ook heelwat
+   wetenskaplike funksies beheers. Later het 'n paar Duitse ingenieurs die
+   sisteem geknak en ook 'n saamsteltaal daarvoor te koop aangebied. Die
+   ontwerp was soortgelyk aan die Zylog Z80 SVE, maar alle elektroniese
+   kringe was in CMOS-tegnologie uitgevoer om 'n klein stroomverbruik en
+   dus 'n langer batterylewe te bied. Later het selfs die rekenaartaal, C,
+   gevolg.
+
+   Die oorspronklike vervaardiger was Sharp, maar dit is ook in die VSA
+   onder die naam TRS-80 PC-2 bemark. Die direkte opvolgmodel was die
+   PC-1500A, wat al goedkoper was en meer geheue gehad het.
+   Sharp PC-1500 Sakrekenaar (Pocket Computer)
+   Sharp PC-1500 Sakrekenaar (Pocket Computer)
+   Sharp PC-1500 Geheuemodule (8kB) (Memory Module)
+   Sharp PC-1500 Geheuemodule (8kB) (Memory Module)
+   Sharp PC-1500, 26 alfanumeriese karakter vloeistofkristalvertoon (LCD).
+   Die ses programmeerbare sleutels (toetse, programmable/function keys)
+   is ook goed sigbaar, met grys agtergrond.
+   Sharp PC-1500, 26 alfanumeriese karakter vloeistofkristalvertoon (LCD).
+   Die ses programmeerbare sleutels (toetse, programmable/function keys)
+   is ook goed sigbaar, met grys agtergrond.
+
+   Inhoud
+
+        * 1 Tegniese gegewens
+             + 1.1 Toebehore
+        * 2 Verwante Sharp-sakrekenaars
+        * 3 Voorbeeld van programmering in BASIC
+             + 3.1 Gebruik van veranderlikes:
+             + 3.2 Vertoon van die antwoorde is soos volg:
+             + 3.3 Beskrywing:
+        * 4 Eksterne skakels
+
+[wysig] Tegniese gegewens
+
+     * 26 alfanumeriese karakter vloeistofkristalvertoon, met 156x7
+       beeldelemente.
+     * Ingeboude luidspreker.
+     * Ingeboude intydse horlosie
+     * Uitbreidings poort vir drukker en bandspeler, ens.
+     * Batteryslot
+     * Aansluiting vir 'n eksterne kragbron (6V)
+
+[wysig] Toebehore
+
+     * CE-150 Drukker/Plotter en Kassetkoppelvlak in reistas
+     * CE-155 (8kB) Geheuemodule/kassetslot
+     * CE-158 Serie- (RS-232C) en parallelkoppelvlakke met 4 herlaaibare
+       (permanent ingeboude) NiCd-batterye (AA) as addisionele kragbron
+       vir die rekenaar.
+
+[wysig] Verwante Sharp-sakrekenaars
+
+     * Sharp PC-1210
+     * Sharp PC-1211
+     * Sharp PC-1251
+     * Sharp PC-1500
+     * Sharp PC-1500A met meer geheue
+     * Sharp PC-1501
+     * Sharp PC-1600 met meer geheue en 'n groter LCD-skerm met grafika
+
+[wysig] Voorbeeld van programmering in BASIC
+
+ 1 ARUN 10
+ 5 REM   "PC1500 VAT Program:"
+10 INPUT "Prys: ";R
+20 PRINT R;"  ";V*R;"  ";R*V*M
+30 GOTO 10
+40 END
+
+'n PC-1500 spesiale afgekorte sintaks kan soos volg lyk:
+20 PRINT R;"  ";VR;"  ";RVM
+
+[wysig] Gebruik van veranderlikes:
+
+   R = Rand-waarde aankoopprys
+   V = VAT (%/100) - (BTW) moet met die hand ingevoer word voor
+   berekenings begin, bv.: V=1.14 (Enter)
+   M = Prysverhoging (%/100) - moet met die hand ingevoer word voor
+   berekenings begin, bv.: M=1.15 (Enter)
+
+[wysig] Vertoon van die antwoorde is soos volg:
+
+   Antwoord1; Antwoord2; Antwoord3
+   Aankoopprys; BTW-prys; Verkoopsprys
+   Waarde: R; Waarde: R*V; Waarde: R*V*M
+
+[wysig] Beskrywing:
+
+   Reël 1 Die ARUN-bevel begin die program outomaties en gaan na reël 10
+   wanneer die rekenaar aangesit word.
+   Reël 5 Dit is die REMARK-stelling (gebruik om kommentaar in te voeg).
+   Reël 10 Die INPUT-bevel vra vir inset vanaf die gebruiker en stoor die
+   waardes in die veranderlike "R".
+   Reël 20 Die PRINT-bevel vertoon die berekende resultate soos volg,
+   bv.: 100   114   142.5. Die afgekorte skryfwyse is spesiaal vir PC-1500
+   toelaatbaar, omdat dit slegs enkel letter plekhouers en matrikse kan
+   verwerk. Dit spaar stoorplek!
+   Reël 30 Die GOTO-bevel laat die program terug spring na reël 10, om
+   weer oor te kan begin
+   Reël 40 Die END-bevel is die laste in die program, alhoewel dit hier
+   nie eintlik nogig is, is dit korrek om dit tog te gebruik.
+
+[wysig] Eksterne skakels
+
+   Sharp programeerbare rekenaars (oorsig) (engels: Sharp Programmables)
+   PC1500 Spesifikasies (engels: PC-1500 Data Sheet)
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Rekenaar • Sakrekenaar
+

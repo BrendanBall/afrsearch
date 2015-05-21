@@ -1,0 +1,113 @@
+Ununquadium
+
+
+
+    114                   ununtrium ← ununquadium → ununpentium
+    Pb
+   ↑
+   Uuq
+   ↓
+   (Uhq)
+
+                                                                periodieke tabel
+
+                                                                  Algemeen
+                                Naam, Simbool, Getal ununquadium, Uuq, 114
+                                     Chemiese reeks vermoedelik arm metale
+                                             Groep, Periode, Blok 14, 7, p
+                                   Voorkoms onbekend, waarskynlik silwerig
+                                                         wit of metaalgrys
+                                                    Atoommassa (298) g/mol
+                  Elektronkonfigurasie moontlik [Rn] 5f^14 6d^10 7s^2 7p^2
+                                               (raaiskoot gegrond op lood)
+                                Elektrone per skil 2, 8, 18, 32, 32, 18, 4
+                                         Toestand vermoedelik 'n vastestof
+                                             CAS-registernommer 54085-16-4
+                                                                Verwysings
+
+   Ununquadium (IFA: /ˌjuːˌnʌnˈkwɒdiəm/), of eka-lood, is die tydelike
+   naam van 'n radioaktiewe chemiese element in die periodieke tabel met
+   die tydelike simbool Uuq en atoomgetal 114.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Sintese
+             + 2.1 Sintese van isotoop 298
+        * 3 Stabiele(r) ununquadium
+        * 4 Verwysings
+        * 5 Eksterne skakels
+        * 6 Stabiele(r) ununquadium
+
+[wysig] Geskiedenis
+
+   Die ontdekking van ununquadium in Desember 1998 is in Januarie 1999
+   deur wetenskaplikes by Dubna (Gesamentlike Instituut vir Kernnavorsing)
+   in Rusland aangekondig.^[1] Dieselfde span het drie maande later 'n
+   ander isotoop van Uuq vervaardig ^[2] en die sintese in 2004 en 2006
+   bevestig.
+
+   In 2004 in het die Gesamentlike Instituut vir Kernnavorsing die sintese
+   van hierdie element deur 'n ander metode bevestig (die chemiese
+   identifisering op finale vervalprodukte van die element).
+
+   Ununquadium is 'n tydelike IUPAC sistematiese elementnaam. In party
+   oorde word dit eka-loodd genoem aangesien die eienskappe daarvan
+   volgens veronderstelling soortgelyk is as die van lood. Daar word
+   verwag dat dit 'n sgate, digte metaal is wat in lug verweer met 'n
+   smeltpunt van ongeveer 200 grade Celsius.
+
+[wysig] Sintese
+
+   Ununquadium kan gesintetiseer word deur plutonium 244 teikens met
+   kalsium 48 swaarioon strale te bombardeer.
+
+[wysig] Sintese van isotoop 298
+
+   Vervaardiging van Ununquadium-298 sou baie moeilik wees, omdat kerne
+   wat na 114 protone en 184 neutrone optel nie in weegbare hoeveelhede
+   beskikbaar is ie.
+
+   Dit kan agter moontlik wees om die isotoop 298 van Element 114 te
+   vervaardig, as kernoordragreaksies behaal kan word. Sjabloon:Fact Een
+   van die reaksies kan wees: ^204Hg + ^136Xe → ^298Unq + ^40Ca + 2n
+
+[wysig] Stabiele(r) ununquadium
+
+   Volgens die Eiland van stabiliteit teorie kan daar verwag word dat
+   sommige nukliede in die omgewing van 114 protone en 184 neutrone (i.e.
+   isotoop Uuq-298) betreklik stabiel behoort te wees in vergelyking met
+   die omliggende nukliede. Ununquadium kom nie natruurlik opp aarde voor
+   nie en dit word dus geheel en al in laboratoria gesintetiseer. Alle
+   isotope van ununquadium wat tot dusver gesintetiseer is is neutron-arm.
+   Dit beteken dat hulle beduidend minder neutrone as 184 bevat, wat een
+   van die magic number neutrone is wat gegloe word dat dit die isotoop
+   stabieler maak. Neutron-arm dui ook aan dat die isotope verval deur of
+   spontane splyting en 'n verskeidenheid radionukliede vervaardig, of
+   positron-uitstraling, of Elektronvangs om die element ununtrium te
+   lewer.
+
+[wysig] Verwysings
+
+    1. ^ Oganessian, Yu. Ts.; et al. (October 1999). "Synthesis of
+       Superheavy Nuclei in the ^48Ca + ^244Pu Reaction". Physical Review
+       Letters 83: 3154. DOI:10.1103/PhysRevLett.83.3154.
+    2. ^ Oganessian; et al. (July 1999). "Synthesis of nuclei of the
+       superheavy element 114 in reactions induced by ^48Ca". Nature 400:
+       242. DOI:10.1038/22281.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Ununquadium
+     * WebElements.com - Uuq
+     * Apsidium - Ununquadium
+     * First postcard from the island of nuclear stability
+     * Second postcard from the island of stability
+
+[wysig] Stabiele(r) ununquadium
+
+   Kategorieë: Chemiese elemente • Arm metale • Kernfisika
+

@@ -1,0 +1,116 @@
+Minimig
+
+
+   Minimig ('n afkorting van Mini Amiga) is 'n [oop bron]
+   her-implementasie van 'n Commodore-Amiga 500 op 'n field-programmable
+   gate array (FPGA).
+
+   Minimig is vanaf Jan-2005 in die geheim deur 'n Nederlandse elektriese
+   ingeneur, Dennis van Weeren ontwikkeld. In die nog bestaande Amiga
+   internet gemeenskap was daar gespekuleerd of 'n FPGA-versie van 'n
+   Amiga wel moontlik is. Hy het die uitdaging op zich geneem. Die eerste
+   versie van die Minimig is al gebouw. Na enige tyd is die projek
+   bronkode op 25 Julie 2007 onder versie 3 van die GNU General Public
+   Licence beskikbaar gestel.
+
+   Inhoud
+
+        * 1 Aanvanklike prototype
+        * 2 Doelwitte
+        * 3 Randapparatuur
+             + 3.1 Platform
+             + 3.2 Uit/invoer poort
+             + 3.3 Implementasie
+        * 4 Ook interresant
+        * 5 Eksterne webwerf
+
+[wysig] Aanvanklike prototype
+
+   Die oorspronklike Minimig prototype is gebou deur gebruik te maak van
+   'n Xilinx Spartan-3 Starter Kit, en oorspronklike Amiga flokkies wat
+   almal saamgesteld is op die FPGA. Twee PCB's word aand FPGA aangehand
+   om sodoende uitbreidingspoorte te kan maak. Die tweede PCB word gebruik
+   om geluid af te speel en ok die Amiga skyfaandrywer te beheer.
+     VGA-+-PS2  (stuurstang ens.)
+         |
+SVE <-> FPGA <-> Mikrobeheer <-> Stoorgeheue
+         |
+        RAM
+
+   Die prototipe kan jy op die HCC Net Commodore Gebruikersgroep webwerf
+   bekyk ([1] Amiga gebruikersgroep). Dennis ontwikkel die Amiga op 'n PC
+   met Xilinx Webpack waarmee hy die programma kode skryf.
+
+   Sommige Amiga gebruikers wil dat hy 'n stuurstangversie maak sodat mens
+   Amiga speletjies op 'n TV kan speel.
+
+[wysig] Doelwitte
+
+     * Draai Amiga programme en speletjies om programma op nuwe platforms
+       te kan speel.
+     * Om exklusief Amiga sagteware te draai.
+     * Opdoen van FPGA ontwikkelervaring met Verilog.
+     * Speletjies speel.
+     * As 'n geskenk aan die Amiga-gemeenskap.
+     * Laat sien dat 'n Amiga op 'n flokkie wel kan.
+     * Gebruikers kan nuwe spelletjies ontwikkel wat sneller loop omdat
+       die masjien veel sneller is as die oue.
+
+[wysig] Randapparatuur
+
+[wysig] Platform
+
+   Toepaslik op die Minimig rev1.0 bord:
+     * Xilinx Spartan-3 400k gate (XC3S400-4PQ208C) FPGA gebruik 82%
+       kapasiteit.
+     * Freescale MC68SEC000, 3,3V, teen 7.09379 MHz
+     * Amiga ChipRAM bus en FastRAM saamgesmelt in 'n enkele sinkroon bus
+       met snelheid van 7.09379 MHz.
+     * 2 MB 70 ns geskinkronsieerde SRAM saamgesteld as 2x 524288 x 16 bit
+       groepe.
+     * 3× LEDs om die MC68000 verwerkerstatus te laat sien.
+     * Video D/A bestaande uit 4 resistors vir elke kleur van rooi, groen
+       en blou.
+     * Geluid kom uit 'n 8 bit dithering sigma-delta omskakelaar met 2e
+       rangorde analoog filter.
+     * +5V DC elektrisiteit op (~100mA).
+
+[wysig] Uit/invoer poort
+
+     * Reserwe 4x generieke I/O van die fpga (GPIO)
+     * JTAG om flookies te programmer (TMS, TDI, TDO, TCK)
+     * RS232 serie poort
+     * 2x Stuurstang geskik om Atari 2600 DB9M stuurstange te gebruik.
+     * HD15F VGA video (om die Amiga op 'n SCART-aansluiting van 'n TV te
+       kan gebruik).
+     * Multi Media Card Stoorgeheue sleuf.
+     * PS/2 PS/2 verbinding toetsbord + Muis
+     * 3,5 mm geluidkoppeling
+     * +5V DC 2,1 mm DC plug elektrisiteit voorsiening.
+
+[wysig] Implementasie
+
+     * Motorola 68000 tipe SVE.
+     * Oorspronklike Amiga OCS-chipset met PAL video.
+     * 512 kB SRAM vir Kickstart besturingsisteem in ROM.
+     * 512 kB SRAM om as FastRAM te gebruik. Die Amiga program SysInfo kan
+       soms onsin vertel want 'n Amiga kan videogeheue vir video en
+       programme aanwys.
+     * 1024 kB SRAM ChipRAM.
+     * Op skerm kan jy kies om 'n disk-formaat soos ADF, disc images van
+       die MMC-kaart af te lees. Jy kan die toetsbord of stuurstang
+       daarvoor gebruik.
+
+[wysig] Ook interresant
+
+     * C64 Direct-to-TV
+
+[wysig] Eksterne webwerf
+
+     * Amptelike webwerf en bronkode 'download-link'
+     * Minimig Wiki werk dokumente
+     * Minimig word aangekondig
+     * 'n Foto van die Minimig rev 1.0 board (2006-11-15)
+
+   Kategorieë: Commodore Amiga • Retro rekenaars
+

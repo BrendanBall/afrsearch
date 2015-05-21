@@ -1,0 +1,60 @@
+MediaWikibespreking:Editundo
+
+
+   Hmmm, daar is tog 'n verskil tussen undo en rollback? Ek stel voor ons
+   verander hierdie boodskap na "maak ongedaan", soos by die Nederlands.
+   Dit is bietjie langer, maar dit impliseer nie dat mens net een knoppie
+   druk om die wysigings terug te rol nie. Want by die maak
+   ongedaan-knoppie gooi dit vir jou 'n wysigingsvenster, waar, as jy
+   terug rol, hoef jy nie eers na die wysigingsvenster toe te gaan
+   nie. — Adriaan (S★B) 04:02, 24 Januarie 2008 (UTC)
+
+          Akkoord. Jcb 07:21, 24 Januarie 2008 (UTC)
+
+          Dit klink nou vreeslik oulik, maar omdat dit lank is, pas dit
+          nie in op 'n reëltjie hier by by nie. Dan kry ek "(maak" en op
+          die volgende reël "ongedaan)" wat bietjie snaaks oorkom. Wat van
+          "ontdoen"? 'n Klomp Afrikaanse programme programme gebruik dit
+          (bv. die Afrikaanse Firefox). --Alias 08:45, 24 Januarie 2008
+          (UTC)
+
+                Wel, ek hou persoonlik nie van die term "ontdoen" nie, en
+                ek dink mens skerm moet nogal heel klein wees as die frase
+                oor twee lyne strek. Ek sou daarvan hou as ons dit kan hou
+                soos dit nou is, maar as dit nie anders kan nie, dan sal
+                ons dit maar moet verkort. — Adriaan (S★B) 13:22, 24
+                Januarie 2008 (UTC)
+
+                      Ek moet erken dat "ontdoen" vir my 'n té letterlike
+                      vertaling van die Engelse term is (en ek is nogal 'n
+                      persoon wat soms letterlike vertalings verdedig). Ek
+                      het vanoggend aan 'n kort term gedink, maar kan dit
+                      nie nou onthou nie. "Herstel" word ook hier in
+                      sommige plekke hier i.p.v. "undo" gebruik. Anrie
+                      14:19, 24 Januarie 2008 (UTC)
+
+                            Ons kan nou erg kreatief raak hierso, maar die
+                            saak is dat mense wat Afrikaanse
+                            rekenaarprogramme gebruik (ek self gebruik
+                            hulle heelwat) is al redelik gewoond aan
+                            "ontdoen". Hierdie terme word (hopelik) baie
+                            versigtig deur die vertalers uitgedink. Ek
+                            raai dat 'n rede hoekom 'n ander alternatief
+                            nie hiervoor gebruik is nie, is omdat "undo"
+                            en "redo" ideaalgesproke by mekaar moet pas.
+                            Ons kan nou ons eie ding hier doen, maar ek
+                            vermoed ons gaan maar net snaaks lyk en/of
+                            verkeerd vertaal. Ons herstel reeds geskrapte
+                            weergawes, bv. As "ontdoen" werklik boos is,
+                            moet ons miskien kontak maak met die mense wat
+                            Vry Sagteware vertaal in Afrikaans en bietjie
+                            kruisbestuiwing probeer. Ek voel nie so sterk
+                            hieroor (undo) nie, behalwe vir die huidige
+                            een wat nie inpas op my 15"-skerm nie. --Alias
+                            14:26, 24 Januarie 2008 (UTC)
+
+                                  "ontdoen" is vir my ook akkoord, ek het
+                                  die wysiging gemaak omdat "undo" Engels
+                                  is. Voel je vry die boodskap te wysig.
+                                  Jcb 17:05, 24 Januarie 2008 (UTC)
+

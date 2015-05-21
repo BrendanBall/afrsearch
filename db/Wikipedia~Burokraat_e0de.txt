@@ -1,0 +1,49 @@
+Wikipedia:Burokraat
+
+
+   'n Burokraat op Wikipedia is 'n Administrateur met drie ekstra
+   bevoegdhede. 'n Burokraat kan:
+     * administrateursregte gee aan 'n gekose administrateur,
+     * beurokraatregte gee aan 'n ander administrateur, en
+     * 'n gebruiker se gebruikernaam verander.
+
+   Wanneer 'n burokraat hierdie regte gebruik, is dit sigbaar by
+   Spesiaal:Log/Rights.
+
+   Burokrate word per projek gekies en het geen ekstra regte by ander
+   projekte nie. So byvoorbeeld het 'n burokraat by die Nederlandse
+   Wikipedia geen ekstra bevoegdhede by die Afrikaanse Wikipedia nie.
+   Burokrate help om die werkslas van waarde (stewards) te verlig deur
+   bogenoemde take te verrig, maar uitsluitlik by die burokraat se projek.
+   Waarde kan steeds hierdie take verrig, maar behoort dit vir plaaslike
+   burokrate te los sodat plaaslike beleid gevolg kan word en die waarde
+   hulle aandag kan toespits by projekte wat geen burokrate het nie. Die
+   eerste burokraat van 'n projek moet deur 'n waard aangestel word. Slegs
+   waarde en programmeerders (developers) kan administrateurs- en/of
+   burokraatstatus van iemand ontneem.
+
+   Burokrate tree in belang van die gemeenskap op en handel dus volgens
+   ooreengekome beleid en prosedure, en nie noodwendig slegs volgens eie
+   oordeel nie (behalwe in gevalle waar spoedige optrede vereis word). Vir
+   riglyne in hierdie verband, sien gerus die riglyne by die Nederlandse
+   Wikipedia (in Nederlands). Mettertyd sal plaaslike beleid en riglyne
+   ontwikkel word. Aangesien daar nie 'n groot werkslas is vir burokrate
+   nie, en al hulle take ook deur waarde en programmeerders gedoen kan
+   word, is daar geen nood dat 'n projek noodwendig baie burokrate hoef te
+   hê nie (of selfs enigsins een hoef te hê nie).
+
+   Aansoeke om burokraatregte, asook kommentaar van die gemeenskap op
+   hierdie aansoeke, word gedoen by Wikipedia:Aansoek om burokraatregte.
+
+    Outomatiese lys van huidige burokrate - Nominasies en selfnominasies
+                             vir Burokraatstatus
+
+[wysig] Sien ook
+
+     * Instruksies vir bogenoemde take (in Engels, onder aan die blad)
+     * Wikipedia:Administrateur
+     * m:Stewards
+     * m:Developers
+     * Spesiaal:Log/Rights - waar die aktiwiteite van burokrate aangeteken
+       word.
+

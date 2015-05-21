@@ -1,0 +1,121 @@
+Organiese chemie
+
+
+   Organiese chemie is die wetenskaplike studie van die struktuur,
+   eienskappe, samestelling, reaksies en sintese van organiese
+   verbindings.
+
+   Inhoud
+
+        * 1 Onderverdelings van Organiese chemie
+        * 2 Organiese nomenklatuur
+             + 2.1 Alifatiese verbindings
+             + 2.2 Aromatiese verbindings
+             + 2.3 Heterosikliese verbindings
+             + 2.4 Polimere
+        * 3 Begrippe
+        * 4 Kenmerke van organiese stowwe
+        * 5 Die bepaling van die molekulêre struktuur van 'n organiese
+          verbinding
+        * 6 Geskiedenis
+        * 7 Sien ook
+        * 8 Eksterne Skakels
+
+[wysig] Onderverdelings van Organiese chemie
+
+   Organiese sintese – Polimeerchemie – Organometaalchemie
+
+[wysig] Organiese nomenklatuur
+
+   Organiese nomenklatuur is die stelsel wat daargestel is vir die
+   benaming van groepe organiese verbindings.
+
+[wysig] Alifatiese verbindings
+
+   Alifatiese verbindings is organiese molekules wat nie aromatiese
+   verbindings bevat nie.
+
+   Koolwaterstowwe - Alkane - Alkene - Diene - Alkyne - Halogenoalkane -
+   Alkohole - Merkaptane - Eters - Aldehiede - Ketone - Karboksielsure -
+   Esters - Koolhidrate – Alisikliese verbindings - Amiede - Amiene -
+   Lipiede - Nitriele
+
+[wysig] Aromatiese verbindings
+
+   Aromatiese verbindings is organiese molekules wat een of meer
+   aromatiese ring bevat.
+
+   Benseen - Tolueen - Xileen - Anilien - Fenol - Asetofenoon -
+   Bensonitriel - Halogenoarene - Naftaleen - Antraseen - Fenantreen -
+   Benzopireen - Koroneen - Azuleen - Bifeniel - MTBE
+
+[wysig] Heterosikliese verbindings
+
+   Heterosikliese verbindings is sikliese organiese molekules waarvan die
+   ring(e) ten minste een hetero-atoom bevat.
+
+   Piridien - Pirrool - Tiofeen - Furaan - Imidasool
+
+[wysig] Polimere
+
+   'n Polimeer is 'n besonderse tipe molekule. Oor die algemeen word
+   polimere as "groot" molekules beskou en bestaan gewoonlik uit die
+   herhaling van kleiner segmente. Wanneer die segmente chemies identies
+   is word die polimeer 'n homopolimeer genoem en wanneer die segmente
+   verskillend is word dit 'n hetero-polimeer genoem. Polimere word beskou
+   as 'n subverdeling van die makromolekules wat 'n algemene klassifikasie
+   vir alle molekules is wat as baie groot beskou word.
+
+   Polimere kan organies of anorganies wees. Die polimere wat 'n mens
+   meestal teëkom is gewoonlik organies van aard (bv. Poli-etileen,
+   polipropileen, Plexiglas, ens).
+
+[wysig] Begrippe
+
+   Organiese nomenklatuur - Chemiese formule – Strukturele formule -
+   Skeletale formule – Organiese reaksie
+
+[wysig] Kenmerke van organiese stowwe
+
+   Die rede waarom daar so baie organiese verbindings is, is dat koolstof
+   die vermoë het om koolstofkettings van verskillende lengtes te vorm,
+   asook ringe van verskillende groottes. Baie koolstofverbindings is
+   uiters sensitief vir hitte en ontbind gewoonlik by temperature laer as
+   300°C. Hulle is geneig om minder oplosbaar te wees in water in
+   vergelyking met baie anorganiese soute. In teenstelling met die soute
+   is hulle weer baie meer oplosbaar in organiese oplosmiddels soos eter
+   of alkohol. Organiese stowwe se atome word kovalent verbind.
+
+[wysig] Die bepaling van die molekulêre struktuur van 'n organiese verbinding
+
+   Tans bestaan daar verskeie metodes om 'n organiese verbinding te
+   karakteriseer. Die tegnieke in algemene gebruik is as volg (in
+   alfabetiese volgorde):
+     * Elementêre analise: 'n Destruktiewe metode wat gebruik word om die
+       elementêre samestelling van 'n molekule te bepaal.
+     * Infrarooi spektrometrie: Hoofsaaklik gebruik om die teenwoordigheid
+       (of afwesigheid) van sekere funksionele groepe vas te stel.
+     * Kernspinresonansie spektrometrie
+     * Kristallografie: Die mees presiese metode, maar is nie van
+       praktiese nut nie aangesien dit moeilik en duur is.
+     * Massa spektrometrie: Word gebruik om die molêre massa van 'n
+       verbinding asook die fragmentasiepatroon vas te stel.
+
+   Sien Analitiese chemie vir verdere metodes.
+
+[wysig] Geskiedenis
+
+   Dit word algemeen aanvaar dat Organiese chemie as 'n wetenskap in 1828
+   begin is deur Friedrich Woehler se sintese van die organiese, en
+   biologies betekenisvolle stof, ureum deur per abuis 'n waterige
+   oplossing van ammoniumsianaat (NH[4]OCN) te verdamp.
+
+[wysig] Sien ook
+
+     * Belangrike publikasies in organiese chemie
+
+[wysig] Eksterne Skakels
+
+   Portaal oor organiese chemie (Engels)
+   Kategorieë: Chemie • Organiese chemie
+

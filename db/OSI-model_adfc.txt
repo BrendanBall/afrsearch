@@ -1,0 +1,227 @@
+OSI-model
+
+
+   Die OSI-model (Open systems interconnection) is 'n verwysingsmodel wat
+   'n abstrakte beskrywing vir kommunikasie en rekenaar
+   netwerk-protokolontwerp daarstel as deel van die Open Systems
+   Interconnection inisiatief.
+
+   Inhoud
+
+        * 1 Doel
+        * 2 Beskrywing van die OSI lae
+             + 2.1 Laag 7: Toepassingslaag
+             + 2.2 Laag 6: Aanbiederslaag
+             + 2.3 Laag 5: Sessielaag
+             + 2.4 Laag 4: Transportlaag
+             + 2.5 Laag 3: Netwerklaag
+             + 2.6 Laag 2: Dataverbindingslaag
+             + 2.7 Laag 1: Fisiese Laag
+        * 3 Koppelvlakke
+        * 4 Tabel van voorbeelde
+        * 5 Sien ook
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Doel
+
+   Die OSI-model verdeel die funksies van 'n protokol in 'n reeks lae in.
+   Elke laag het die eienskap dat dit slegs gebruik maak van die funksies
+   van die lae daarbenede en voer slegs funksionaliteit uit na lae
+   daarbowe. 'n Stelsel wat protokolgedrag implementeer wat bestaan uit 'n
+   reeks van hierdie lae staan bekend as 'n protokolstapel (en: protocol
+   stack). Protokolstapels kan óf in hardeware óf in programmatuur
+   geïmplementeer word, óf 'n mengsel van beide. Tipies word slegs die
+   onderste lae in hardeware geïmplementeer met die boonste lae wat in
+   sagteware geïmplementeer word.
+
+   Die rekenaar- en netwerkbedrywe voldoen grootliks aan die OSI-model.
+   Die hoofeienskap is die koppelvlak tussen die lae wat die spesifikasies
+   dikteer van hoe 'n laag met 'n ander saamwerk. Dit bring mee dat 'n
+   laag wat deur een vervaardiger geskryf is saam met 'n ander laag wat
+   deur 'n ander geskryf is kan saamwerk (met die aanname dat die
+   spesifikasies korrek vertolk is).
+
+   Die logiese skeiding van lae maak die ontwerp en beredenering oor die
+   gedrag van protokolstapels makliker en maak dit moontlik om
+   ingewikkelde dog hoogs betroubare protokolstapels te ontwerp. Elke laag
+   voer dienste uit vir die volgende hoër vlak en maak versoeke vir die
+   volgende laag daaronder.
+
+   Die OSI-verwysingsmodel is 'n hiërargiese struktuur van sewe lae wat
+   die vereistes vir kommunikasie tussen twee rekenaars definieer. Die
+   model is gedefinieer deur die Internasionale Standaarde Organisasie in
+   die ISO-standaard 7498-1. Dit is bedink om onderlinge werking tussen
+   verskeie platforms en handelaars te verseker. Die model laat alle
+   netwerk-elemente toe om saam te werk, onafhanklik van wie dit
+   vervaardig het. Teen die laat 1980's het die ISO die model as 'n
+   netwerk-standaard aanbeveel. Teen daardie tyd was die TCP/IP internet
+   protokolsuite reeds jare lank al in gebruik.
+
+   Slegs 'n onderdeel van die volledige OSI-model word deesdae gebruik.
+   Daar word deur baie geglo dat die spesfikasie te ingewikkeld was en dat
+   die volledige funksionaliteit te lank geneem het om te implementeer, al
+   bestaan daar baie sterk steun vir die model by andere.
+
+[wysig] Beskrywing van die OSI lae
+
+   Die OSI-model
+
+[wysig] Laag 7: Toepassingslaag
+
+   Die Toepassingslaag is die naaste aan die eindgebruiker. Dit verskaf
+   aan die gebruiker 'n manier om inligting op 'n netwerk te verkry deur
+   gebruik te maak van toepassingsagteware. Hierdie laag is die
+   hoofkoppelvlak vir gebruikers om met die netwerk kommunikeer. Sommige
+   voorbeelde van toepassingslaagprotokolle sluit in Telnet, FTP (File
+   Transfer Protocol), SMTP (Simple Mail Transfer Protocol) en HTTP
+   (Hypertext Transfer Protocol).
+
+[wysig] Laag 6: Aanbiederslaag
+
+   Die Aanbiederslaag skakel data om ten einde 'n standaard koppelvlak aan
+   die Toepassingslaag te verskaf. MIME enkodering, datakompressie, data
+   versluiering en soortgelyke manipulasie van die aanbieding word in
+   hierdie laag gedoen om die data te vertoon soos die diens- of
+   protokolontwikkelaar dit wil hê. Voorbeeld: die omskakeling van
+   ECBDIC-gekodeerde teks lêer na 'n ASCII-gekodeerde lêer.
+
+[wysig] Laag 5: Sessielaag
+
+   Die Sessielaag beheer die dialoë (sessies) tussen rekenaars. Dit is
+   verantwoordelik vir die opstel, bestuur en beëindiging van die
+   verbindings tussen die plaaslike en afgeleë rekenaar. Dit maak
+   voorsiening vir dupleks of half-duplekse werking en stel die
+   kontrolepunte, verdaging, beëindiging en herlaai prosedures op. Die
+   OSI-model het hierdie laag aangewys om sessies "netjies" te beëindig
+   wat 'n eienskap is van die TCP internet protokolsuite, maar ook vir die
+   sessie kontrolepunte en herwinning, wat nie normaalweg in die Internet
+   protokolsuite gebruik word nie.
+
+[wysig] Laag 4: Transportlaag
+
+   Die transportlaag verskaf die deursigtige oordrag van data tussen
+   eindgebruikers en verwyder hierdie las van die boonste lae terwyl dit
+   'n betroubare en kostedoeltreffende data-oordrag verskaf. Die
+   oordraglaag beheer die betroubaarheid van 'n betrokke verbinding.
+   Sommige protokolle is toestand en verbinding georienteer, wat beteken
+   dat die transportlaag kan tred hou van die datapakkies en hulle weer
+   kan stuur as die versending misluk het. Die mees bekende voorbeeld van
+   'n laag 4 protokol is die TCP (Transmission Control Protocol). Dit is
+   die laag waar boodskappe na TCP-, UDP- (User Datagram Protocol) en
+   SCTP-pakkies (Stream Control Transmission Protocol) omgeskakel word.
+
+[wysig] Laag 3: Netwerklaag
+
+   Die Netwerklaag verskaf die funksionele en prosedurele vermoë om
+   veranderlike lengte datareekse vanaf 'n bron na 'n bestemming deur een
+   of meer netwerke oor te dra en terselfdertyd die kwaliteit van diens te
+   verseker soos deur die Oordraglaag aangevra. Die Netwerklaag voer die
+   roetebepaling-, vloeibeheer-, segmentering/desegmentering- en
+   foutbeheerfunksies uit. Roetebeheerders (en: Routers) werk op hierdie
+   laag en versend data deur die uitgebreide netwerk en maak die internet
+   moontlik. Dit is 'n logiese adresseringskema - waardes word gekies deur
+   die netwerk ingenieur. Die adres-skema is hiërargies. Die mees bekende
+   voorbeeld van 'n laag 3 protokol is die Internet Protokol (IP).
+
+[wysig] Laag 2: Dataverbindingslaag
+
+   Die Dataverbindingslaag verskaf die funsionele en prosedurele vermoë om
+   data tussen netwerk eenhede oor te dra en om enige moontlike foute wat
+   in die Fisiese laag mag voorkom op te spoor en reg te stel. Die
+   adresseringskema is fisies wat beteken dat die adresse (MAC-adresse) in
+   die netwerk-kaarte se elektronika tydens vervaardiging ingekodeer is.
+   Die adresseringskema is plat. Let wel: Die mees bekende voorbeeld van
+   hierdie laag is Ethernet. Ander voorbeelde van protokolle in die
+   verbindingslaag is HLDC en ADCCP vir punt-tot-punt of pakkiegeskakelde
+   netwerke en Aloha vir lokale area netwerke. Op IEEE 802 lokale area
+   netwerke en sommige nie-IEEE 802 netwerke soos FDDI kan hierdie laag
+   geskei word in 'n MAC-laag (en: Media Access Control]] en die IEEE
+   802.2 Logiese Skakelbeheerlaag (en: LLC of Logical Link Control).
+
+   Hierdie laag is die laag waarin brûe en skakels werk. Verbinding word
+   voorsien slegs tussen plaaslik verbinde netwerknodes. Party mense
+   redeneer egter dat daar 'n tussenlaag (laag 2.5) moet wees vir
+   laasgenoemde toestelle.
+
+[wysig] Laag 1: Fisiese Laag
+
+   Die Fisiese laag definieer al die elektriese en fisiese spesifikases
+   vir toestelle. Dit sluit in die uitleg van verbindingspenne, spannings
+   en kabelspesifikasies. Ethernetnawe, herhalers en netwerkaansluiters en
+   gasheer busaansluiters is toestelle in die fisiese laag. Die hoof
+   funksies en dienste wat deur die fisiese laag verskaf word is:
+     * Die opstel en beëindiging van 'n elektriese verbinding tot 'n
+       oordragsmedium.
+     * Deelname in die proses waardeur die kommunikasie hulpbronne
+       doeltreffend deur veelvuldige gebruikers gedeel word. Onder andere
+       die opklaar van betwisde hulpbronne en vloeibeheer.
+     * Modulasie of die omskakeling van die digitale data in die gebruiker
+       se toerusting na die ooreenstemmende seine wat oorgedra word oor 'n
+       kommunikasiekanaal. Hierdie seine word oor fisiese kabels - hetsy
+       koper of optiese vesels of andersins oor 'n radioverbinding.
+
+   Paralelle SCSI-busse werk op hierdie vlak. Verskeie fisiese laag
+   Ethernet-standaarde werk ook op hierdie vlak; Ethernet sluit beide
+   hierdie laag en die dataverbindingslaag in. Dieselfde geld vir ander
+   lokale area netwerke soos byvoorbeeld Token ring, FDDI (en: Fiber
+   distributed data interface) en IEEE 802.11.
+
+[wysig] Koppelvlakke
+
+   Bykomend tot die standaarde vir indiwiduele protokolle is daar ook
+   standaarde vir die koppelvlakke vir die lae om met die lae daarbowe en
+   daarbenede te kommunikeer (Hierdie standaarde is gewoonlik
+   bedryfstelsel spesifiek). Microsoft Windows se Winsock en Unix se
+   Berkeley sockets en System V Transport Layer Interface is koppelvlakke
+   tussen toepassings (laag 5 en boontoe) en die oordragslaag (laag 4).
+   NDIS en ODI is koppelvlakke tussen die media (laag 2) en die
+   netwerkprotokol-laag (laag 3).
+
+[wysig] Tabel van voorbeelde
+
+   Laag Verskeie voorbeelde TCP/IP suite SS7 AppleTalk suite OSI suite IPX
+   suite SNA UMTS
+   # Naam
+   7 Toepassing HL7, Modbus, SIP HTTP, SMTP, SMPP, SNMP, FTP, Telnet, NFS,
+   NTP, RTP ISUP, INAP, MAP, TUP, TCAP AFP FTAM, X.400, X.500, DAP APPC
+   6 Aanbieder TDI, ASCII, EBCDIC, MIDI, MPEG XDR, SSL, TLS AFP ISO 8823,
+   X.226
+   5 Sessie Named Pipes, NetBIOS, SAP, SDP Sessie opstelling vir TCP ASP,
+   ADSP, ZIP, PAP ISO 8327, X.225 NWLink DLC?
+   4 Transport NetBEUI TCP, UDP, SCTP ATP, NBP, AEP, RTMP TP0, TP1, TP2,
+   TP3, TP4, OSPF SPX, RIP
+   3 Netwerk NetBEUI, Q.931 IP, ICMP, IPsec, ARP, RIP, BGP MTP-3, SCCP DDP
+   X.25 (PLP), CLNP IPX RRC (Radio Resource Control)
+   2 Dataverbinding Ethernet, 802.11 (WiFi), Token Ring, FDDI, PPP, HDLC,
+   Q.921, Frame Relay, ATM, Fibre Channel MTP-2 LocalTalk, TokenTalk,
+   EtherTalk, AppleTalk Remote Access, PPP X.25 (LAPB), Token Bus IEEE
+   802.3 framing, Ethernet II framing SDLC MAC
+   1 Fisiese RS-232, V.35, V.34, Q.911, T1, E1, 10BASE-T, 100BASE-TX,
+   ISDN, POTS, SONET, DSL, 802.11b, 802.11g MTP-1 Localtalk on shielded,
+   Localtalk on unshielded (PhoneNet) X.25 (X.21bis, EIA/TIA-232,
+   EIA/TIA-449, EIA-530, G.703) Twinax PHY (Fisiese Laag)
+
+[wysig] Sien ook
+
+     * DoD-model
+     * Lys van netwerk protokolle
+     * OSI-protokol
+     * Node
+
+[wysig] Verwysings
+
+   Artikel in die Engelse wikipedia oor die OSI-model
+
+[wysig] Eksterne skakels
+
+     * ISO standaard 7498-1:1994
+     * Cybertelecom :: Layered Model of Regulation
+     * OSI Model Tutorial
+     * OSI Model Tutorial In Flash
+     * OSI Reference Model—The ISO Model of Architecture for Open Systems
+       Interconnection, Hubert Zimmermann, IEEE Transactions on
+       Communications, vol. 28, no. 4, April 1980, pp. 425 - 432.
+
+   Kategorieë: Rekenaar • Standaarde
+

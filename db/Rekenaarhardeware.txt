@@ -1,0 +1,44 @@
+Rekenaarhardeware
+
+
+   Rekenaarhardeware (ook soms apparatuur genoem, teenoor sagteware of
+   programmatuur) behels die tasbare komponente waaruit 'n rekenaar
+   bestaan. Die onderskeid tussen hardeware en sagteware is soms
+   onduidelik, byvoorbeeld in die geval van fermware.
+
+   Sekere komponente kom in meeste rekenaars voor: verwerker, geheue,
+   kommunikasiebus(se), toevoer- en afvoertoestelle.
+
+[wysig] Persoonlike rekenaar
+
+   Persoonlike rekenaars bevat gewoonlik ten minste die volgende
+   hardeware:
+
+[wysig] Onderdele
+
+     * Monitor (skerm) (Buis CRT of LCD)
+     * Sleutelbord
+     * Muis
+     * Kas
+     * Hardeskyf
+     * CD- en/of DVD-aandrywer
+     * Geheue
+     * Moederbord
+     * Verwerker (engels: CPU)
+     * Grafikakaart
+     * Klankkaart
+     * Netwerkkaart en/of modem
+
+[wysig] Volledige eenhede
+
+   (Gesorteer van groot na klein)
+     * Dragbare rekenaar / Drarekenaar (engels: Portable PC)
+     * Skootrekenaar (engels: Laptop)
+     * Notaboekrekenaar (engels: Nootebook / Notebook PC)
+     * Handrekenaar (engels: Palmtop / Palm PC)
+     * Sakrekenaar (engels: Pocket Computer)
+     * Persoonlike Digitale-Assistent (engels: PDA / Personal Digital
+       Assistent)
+
+   Kategorie: Rekenaar
+

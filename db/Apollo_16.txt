@@ -1,0 +1,72 @@
+Apollo 16
+
+
+                                                        CAPTION: Apollo 16
+
+                                          Sendingwapen
+                                       Sendingstatistiek
+                                   Sendingnaam:                Apollo 16
+                                     Roepteken:     Beheermodule: Caspar
+                                                       Maanmodule: Orion
+                         Aantal bemanningslede:                        3
+                                     Lansering: 16 April 1972
+                                                            17:54:00 UTC
+                                                    Kennedy Space Center
+                                                                  LC 39A
+                                   Maanlanding: 21 April 1972
+                                                              02:23:35 UTC
+
+                                                          9,0° S 15,5° E
+                                                        Descartes-Cayley
+                               Maan EVA lengte:         20 uur 14 minute
+                          Tyd op maanoppervlak:           2 dae 23.0 uur
+                                       Landing:   27 April 1972
+                                                            19:45:05 UTC
+                                                    0° 43' S, 156° 13' W
+                                      Tydsduur: 12 dae, 13 ure 52 minute
+
+   Apollo 16 was die tiende bemande sending van die Apollo-program en die
+   vyfde sending om op die maan te land.
+
+   Die bemanningslede: John W. Young, komandeur; Ken Mattingly,
+   beheereenheid-vlieënier; en Charles Duke, maanmodule-vlieënier. Dit was
+   'n J-klas sending. Dit het 94,7 kg maanmonsters saam gebring.
+
+   Die Apollo 16-subsateliet is gelanseer vanaf die sentrale module terwyl
+   dit in 'n omwenteling om die maan was. Die subsateliet het eksperimente
+   uitgevoer op magnetiese velde. Dit is gelanseer op 24 April 1972 teen
+   21:56:09 UTC en was in 'n omwentelingsbaan om die maan vir 34 dae en
+   425 rewolusies. Dit het 'n massa van 36,3 kg gehad en bestaan uit 'n
+   sentrale silinder en drie 1,5 m lange stutte.
+
+[wysig] Bemanning
+
+     * John W. Young
+     * Ken Mattingly
+     * Charles Duke
+
+[wysig] Sendingparameters
+
+     * Massa:
+          + Lanseer massa: 2 921 005 kg
+          + Totaal ruimtetuig: 46 782 kg
+               o CSM massa: 30 354 kg, waarvan CM 5840 kg was, SM 24 514
+                 kg
+               o LM massa: 16 428 kg
+     * Aarde omwentelinge: 3 voor die vertrek na die maan, ongeveer een
+       tydens terugkeer
+     * Maan omwentelinge: 64
+
+   Die beheereenheid is tans in die U.S. Space and Rocket Center, in
+   Huntsville, Alabama.
+
+               Voorafgegaan deur :
+                    Apollo 15     Apollo-program Gevolg deur :
+                                                   Apollo 17
+
+[wysig] Eksterne skakel
+
+     * Apollo 16-inskrywing in Encylcopedia Astronautica
+
+   Kategorie: Ruimtevaart
+

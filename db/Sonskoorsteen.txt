@@ -1,0 +1,79 @@
+Sonskoorsteen
+
+
+   'n Sonskoorsteen is 'n toestel vir die omsetting van sonenergie deur
+   die konveksie van verhitte lug.
+
+   Die eenvoudigste vorm daarvan bestaan uit 'n swartgeverfde skoorsteen.
+   In daglig verhit die sonenergie die skoorsteen wat die lug daarbinne
+   verhit en 'n opwaartse stroom lug daarin bewerkstellig. Die suigkrag
+   wat deur die lugstroom by die skoorsteen se basis veroorsaak word kan
+   gebruik word om ventilasie en verkoeling van die gebou daaronder te
+   bewerkstellig. In die meeste wêrelddele is dit gewoonlik makliker om
+   windkrag vir sulke ventilasie doeleindes te benut, maar nie op warm
+   windlose dae wanneer so 'n toring ventilasie kan verskaf waar daar
+   andersins geen ventilasie sou wees.
+
+   Hierdie beginsel is al voorgestel vir die opwekking van elektriese
+   krag, wat 'n groot kweekhuis by die basis gebruik eerder as om op die
+   verhitting van die skoorsteen self staat te maak.
+
+   Die hoofprobleem met die benadering is die relatiewe klein
+   temperatuurverskil tussen die hoogste en laagste temperature in die
+   stelsel. Carnot se teorie beperk die doeltreffendheid van die omsetting
+   tot 'n groot mate onder hierdie omstandighede.
+
+   Inhoud
+
+        * 1 Kragstasie ontwerpe
+             + 1.1 Geskiedenis
+        * 2 Toekomstige ontwikkelinge
+        * 3 Eksterne skakels
+             + 3.1 Artikels
+
+[wysig] Kragstasie ontwerpe
+
+[wysig] Geskiedenis
+
+   In 1903 het 'n Spaanse Kolonel Isidoro Cabanyes die eerste
+   sonskoorsteen in die tydskrif "La energia eléctrica" ^[1] beskryf. Een
+   van die vroegste beskrywings van 'n sonskoorsteen kragstasie is in 1931
+   deur die Duitse skrywer, Hanns Günther gedoen. Vroeg in 1975 het Robert
+   E. Lucier aansoek om patente gedoen vir 'n sonskoorsteen toestel;
+   hierdie patente wat sedertien al verstryk het is tussen 1978 en 1981
+   toegestaan in die VSA^[2], Kanada^[3], Australiëē^[4] en Israel^[5].
+   Schlaich, Bergerman en Partner het meer onlangs onder leiding van die
+   Duitse Ingenieur Prof. Dr. Ing. Jörg Schlaich 'n kleinskaalse werkende
+   model van 'n sonskoorsteen in 1982 in Manzanares in Spanje, sowat 150
+   km suid van Madrid met bevondsing van die Duitse regering gebou.
+   Hierdie kragstasie is vir 8 jaar lank suksesvol bedryf en is in 1989
+   uit bedryf gestel. Die skoorsteen het 'n deursnee van 10 meter gehad
+   met 'n hoogte van 195 meter, met 'n kweekhuis van 46 000 m^2 (deursnee
+   van 244 m) gehad en 'n maksimum kraguitset van 50 kW gehad.
+
+[wysig] Toekomstige ontwikkelinge
+
+   Daar word tans studies gedoen by 'n ligging in Nieu Suid-Wallis,
+   Australië, waar beoog word om 'n werkende Sonskoorsteen kragstasie teen
+   2008 voltooi te hê. Die maksimum kraguitset van die voorgestelde projek
+   kan so hoog as 200 MW wees.
+
+[wysig] Eksterne skakels
+
+     * Schlaich, Bergerman en Partner se webwerf
+     * Oopbron Sonskoorsteen Energieprojek
+     * Environmission International EarthNews Online
+     * Sonskoorsteen artikel vanaf Global Warming Solutions
+     * EnviroMission Ltd. van Australië se webwerf
+     * Wentworth Shire, NSW - Sonskoorsteen webwerf
+     * Santa Clara University Kennedy Mall Commons
+     * 'n Werf met goeie beelde wat kunstenaarsindrukke vertoon
+
+[wysig] Artikels
+
+     * "Solar Tower of Power Finds Home" by Wired tydskrif
+     * "A Tower in Oz to Touch the Sun" by Wired tydskrif
+     * "A Technology to Save the Planet" by Daily Kos
+
+   Kategorie: Energie-omsetting
+

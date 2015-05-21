@@ -1,0 +1,78 @@
+Sesium
+
+
+
+   55                         xenon ← sesium → barium
+   Rb
+   ↑
+   Cs
+   ↓
+   Fr
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal sesium, Cs, 55
+                                             Chemiese reeks alkalie-metale
+                                              Groep, Periode, Blok 1, 6, s
+                                                   Voorkoms silwerige goud
+                                          Atoommassa 132.9054519 (2) g/mol
+                                            Elektronkonfigurasie [Xe] 6s^1
+                                     Elektrone per skil 2, 8, 18, 18, 8, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 1.93 g/cm³
+                                 Vloeistof digtheid teen s.p. 1.843 g/cm³
+                                                        Smeltpunt 301.59 K
+                                                               (28.44 °C)
+                                                            Kookpunt 944 K
+                                                                 (671 °C)
+                                             Kritieke punt 1938 K, 9.4 MPa
+                                               Smeltingswarmte 2.09 kJ/mol
+                                             Verdampingswarmte 63.9 kJ/mol
+                               Warmtekapasiteit (25 °C) 32.210 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 418 469 534 623 750   940
+
+                                                           Atoomeienskappe
+                                Kristalstruktuur kubies liggaamgesentreerd
+                                                      Oksidasietoestande 1
+                                                    (sterk basiese oksied)
+                              Elektronegatiwiteit 0.79 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 375.7 kJ/mol
+                                                        2de: 2234.3 kJ/mol
+                                                         3rde: 3400 kJ/mol
+                                                        Atoomradius 260 pm
+                                                 Atoomradius (ber.) 298 pm
+                                                   Kovalente radius 225 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 205 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 35.9 W/(m·K)
+                                Termiese uitsetting (25 °C) 97 µm/(m·K)
+                                                  Young se modulus 1.7 GPa
+                                                      Massamodulus 1.6 GPa
+                                                      Mohs se hardheid 0.2
+                                                 Brinell hardheid 0.14 MPa
+                                              CAS-registernommer 7440-46-2
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Sesium
+
+                              iso    NV   halfleeftyd  VM  VE (MeV)   VP
+                             ^133Cs 100%  Cs is stabiel met 78 neutrone
+                             ^134Cs sin   65.159 Ms
+                                          (2.0648j)    e   1.229    ^134Xe
+                                                       ß^- 2.059    ^134Ba
+                             ^135Cs spoor 73 Ts
+                                          (2,300,000y) ß^- 0.269    ^135Ba
+                             ^137Cs sin   948.9 Ms
+                                          (30.07j)     ß^- 1.176    ^137Ba
+
+                                                                Verwysings
+
+   Kategorie: Chemiese elemente
+

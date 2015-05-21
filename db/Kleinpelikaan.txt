@@ -1,0 +1,116 @@
+Kleinpelikaan
+
+
+                    Kleinpelikaan
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Pelecaniformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Pelecanidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Pelecanus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. rufescens
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Pelecanus rufescens
+   Gmelin, 1789
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kleinpelikaan (Pelecanus rufescens) is reuse-, wit watervoëls met
+   groot lywe, kort bene en gewebde voete, lang nekke, lang snawels en
+   kaal, rekbare keelsakke onder die ondermandibel. Hulle vang vis deur in
+   'n swerm saam te kom en 'n skool visse na die vlak water aan te keer
+   waar hulle die vís dan in hul keel-sakke opskep. Hulle loop koddig,
+   maar stygsweef soms sonder moeite hoog die lug in.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Volwassenes in nie-broeidrag het 'n grys rugkant, terwyl die kop en
+   onderkant gryserig-wit is. Die liggeel snawel het 'n pienk punt en die
+   pote is vaalgeel. Word in vlug aan die vlerke wat gryserig van onder is
+   en donkergrys (nie swart nie) vlugvere van die (Pelecanus onocmtalus),
+   onderskei. 'n Volwassene in broeidrag se snawelsak is 'n ryk geel kleur
+   en die bo-mandibel het 'n pienk rand; die pote is 'n ryk oranjegeel
+   kleur; die pienk vere op sy rug is van naby af sigbaar en het lang
+   pluimvere op die kop. Onvolwassenes het 'n roesbruin kop, nek en
+   rugkant, 'n wit onderkant, 'n liggeel snawel en keelsak; Hoewel baie
+   kleiner as die Witpelikaan, het die Kleinpelikaan steeds 'n vlerkspan
+   van ongeveer 2,4m en is 1,35m lank
+
+[wysig] Habitat
+
+   'n Seldsame, gelokaliseerde standvoël. Die nes bestaan uit 'n groot
+   hoop takke en stokke, waarin twee tot drie groot wit eiers gelê word.
+   Die kleintjies druk hulle koppe diep in die volwassene se bek om die
+   kos, wat bestaan uit halfverteerde vis en amfibiese diere by te kom.
+
+[wysig] Verspreiding
+
+   Bevolkings wat nes maak, kom in KwaZulu-Natal en Noord-Botswana voor;
+   elders 'n swerwer. Broei in Afrika, Suid-Arabië en Madagaskar in
+   moerasse en laagliggende mere.
+
+[wysig] Ander name
+
+     * Engels: Pink-backed Pelican
+     * Wetenskaplike naam: Pelecanus rufescens
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Pelikane
+

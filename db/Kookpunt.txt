@@ -1,0 +1,73 @@
+Kookpunt
+
+
+   Die kookpunt van 'n stof is die temperatuur waar dit van 'n
+   vloeistoftoestand na 'n gastoestand deur die hele vloeistofmassa heen
+   verander. 'n Vloeistof kan ook na 'n gas verander onder die kookpunt
+   deur die proses wat as verdamping bekend staan. Verdamping is 'n
+   oppervlakverskynsel waar slegs die molekules op die gas/vloeistof
+   intervlak kan verdamp (Soos water uit nat klere op 'n wasgoedlyn). Die
+   woord kook omskryf egter 'n proses waar die vloeistofmassa in geheel
+   begin verdamp met die vorming van borrels (soos in 'n ketel).
+
+   Die element met die laagste kookpunt is helium. Beide die kookpunte van
+   rhenium en wolfram oorskry 5000 K teen standaard-druk. Vanweë die
+   eksperimentele probleme om sulke uiters hoë temperature te meet,
+   bestaan daar teenstrydighede in die literatuur oor watter element die
+   hoogste kookpunt het.
+
+   Die kookpunt stem ooreen met die temperatuur waar die dampdruk van die
+   stof gelyk is aan die omgewingsdruk. Die kookpunt is dus drukafhanklik.
+   Gewoonlik word kookpunte met betrekking tot standaard-druk gepubliseer
+   (101.325 kilopascal of 1 atm). By hoër hoogtes waar die atmosferiese
+   druk baie laer is, is die kookpunt dus ook laer. Die kookpunt styg soos
+   die omgewingsdruk styg totdat die kritiese punt bereik word, waar daar
+   nie onderskeid meer tussen die gas en vloeistoffase getref kan word
+   nie. Die kookpunt kan nie hoër as die kritiese temperatuur wees nie. Op
+   soortgelyke wyse sal die kookpunt verlaag saam met verlagende
+   omgewingsdruk totdat die trippelpunt bereik word. Die kookpunt kan dan
+   ook nie verder as hierdie trippelpunt verlaag word nie.
+
+   Die veranderingsproses vanaf vloeistof na 'n gas verg 'n sekere
+   hoeveelheid warmte wat die latente verdampingswarmte genoem word. As 'n
+   vloeistof by sy kookpunt verhit word, word al hierdie hitte verbruik om
+   die faseverandering te bewerkstellig en bly die temperatuur van die
+   stof konstant ten spyte van die warmte wat bygevoeg word. Vandaar die
+   woord latent wat afgelei is van die latynse woord wat weggesteek
+   beteken.
+
+   Op 'n intermolekulêre vlak beskou is die kookpunt die punt waar die
+   vloeistofmolekules genoeg energie besit om die verskillende
+   intermolekulêre bindingskragte, wat die molekules in die vloeistoffase
+   hou, te oorkom (bv. dipool-dipool aantrekkingskrag, oombliklike-dipool
+   geïnduseerde-dipool aantrekkingskrag asook waterstofbindings. Die
+   kookpunt dien daarom ook as 'n aanduiding van hoe sterk hierdie
+   aantrekkingskragte vir 'n spesifieke stof is.
+
+   Die kookpunt van water is benaderd gelyk aan 100 °C teen
+   standaard-druk. Bo op die berg Everest is die druk ongeveer 260 mbar
+   (26 kPa) en is die kookpunt dus laer by 69 °C.
+
+   Vir puriste met 'n kennis van termodinamika, is die normale kookpunt
+   van water 99.97 grade Celsius (d.w.s. teen 'n druk van 1 atm of 101.325
+   kPa). Tot en met 1982 het dit ook as die standaard kookpunt van water
+   bekend gestaan maar beveel IUPAC nou aan dat 'n standaard-druk van 1
+   bar (100 kPa) gebruik word. Teen hierdie effe laer druk van 1 bar (100
+   kPa) is die standaard kookpunt van water gelyk aan 99.61 grade Celsius.
+
+[wysig] Verwysings
+
+   Cf. DeVoe, Howard, Thermodynamics and Chemistry. Prentice-Hall, 2001
+   Simon & McQuarrie Physical Chemistry a molecular approach, ISBN
+   0-935702-99-7 bladsy 928
+
+[wysig] Sien ook
+
+     * Leidenfrost effek
+     * flitspunt
+     * kookvertraging
+     * kritiese temperatuur
+     * trippelpunt
+
+   Kategorieë: Chemiese eienskappe • Termodinamika
+

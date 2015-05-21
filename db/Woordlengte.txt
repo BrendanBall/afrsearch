@@ -1,0 +1,126 @@
+Woordlengte
+
+
+   Woordlengte is 'n term waarmee die grootte van 'n masjienwoord in bisse
+   in 'n rekenaar aangegee word. Meestal word by die woordlengte gepraat
+   oor die woordlengte wat die mikroverwerker intern gebruik om sy
+   berekeninge uit te voer, so word gepraat van 4-, 8-, 16-, 32- en
+   64-bisverwerkers.
+
+[wysig] Woordlengte
+
+   Die woordlengte van 'n verwerker bepaal op hoeveel data die verwerker
+   per klokpuls bewerkinge kan uitvoer. 'n Verwerker met 'n grotere
+   woordlengte kan dus per klokpuls bewerkinge op meer data uitvoer. As
+   die verwerker besig is data te verplaas is kan 'n 32-bisverwerker
+   byvoorbeeld twee keer soveel data per klokpuls verplaas as 'n
+   16-bisverwerker.
+
+   Indien getalle opgetel word kan een 32-bisverwerker getalle van 0 tot
+   en met 4 294 967 295 optel (2^32 - 1) terwyl 'n 16-bisverwerker getalle
+   van 0 tot en met 65 535 (2^16 - 1) kan optel. In hierdie geval sal die
+   32-bisverwerker alleen vinniger wees as getalle groter as 65 535
+   voorkom, naamlik die 32-bisverwerker kan hierdie getalle met 1
+   optelinstruksie optel, terwyl die 16-bisverwerker geen instruksies het
+   om sulke groot getalle op te tel nie; hy sal die bewerking met losse,
+   afsonderlike instruksies moet simuleer.
+
+   Uit die bogenoemde blyk dat die vergroting van die woordlengte in 'n
+   verwerker 'n voordeel oplewer wat nogal afhanklik is van die
+   toepassing:
+     * By verplasing van data verdubbel die snelheid
+     * By optelling van klein getalle bly die snelheid onveranderd
+     * By optelling van groot getalle neem die snelheid baie keer toe
+       (baie afsonderlike instruksies word vervang deur 1 instruksie).
+
+   Vergroting van die woordlengte het ook nadele vir die snelheid, naamlik
+   daar moet grotere blokke data na die verwerker gevoer word. Omdat die
+   snelheid van geheue eindig is, is 'n verwerker met 'n grotere
+   woordlengte hier in die nadeel. 'n Grotere woordlengte het gewoonlik
+   ook tot gevolg dat die programkode meer plek in neem. 'n Laaste effek
+   is dat sommige instruksies traer word by 'n grotere woordlengte. Voer u
+   maar eens 'n vermenigvuldiging uit op papier onder mekaar soos as u dit
+   op skool geleer het. Indien u grotere getalle gebruik, het u meer werk.
+   Die rekenaar voer die vermenigvuldiging op presies dieselfde wyse uit.
+   By 'n optelbewerking word die opteleenheid twee keer so breed gemaak
+   sodat daar geen ekstra werk is nie. By vermenigvuldiging werk dit nie,
+   omdat u papiertjie by grotere getalle nie alleen breër word nie, maar
+   ook langer word.
+
+   In die algemeen het 'n verdubbeling van die woordlengte in die
+   rekenaargeskiedenis 'n voordelige effek gehad. Elke vergroting van die
+   woordlengte het egter telkens 'n kleiner effek gehad. Gevolglik sal
+   daar vermoedelik nog wel 128-bisverwerkers kom, maar of ons ooit
+   1024-bisverwerkers sal gebruik is ernstig te betwyfel.
+
+[wysig] Adresseerbare geheue
+
+   In die eenvoudigste ontwerp van 'n verwerker vir sowel die
+   programmeerder as die verwerkerontwerper bestaan 'n wyser uit die
+   nommer van een van die grepe in die geheue. As 'n verwerker dan 'n
+   woordlengte van 32 bisse het dan kan jy maksimaal 2^32 = 4294967296
+   verskillende grepe aanwys. Dit is dan die maksimale hoeveelheid geheue
+   wat so 'n verwerker kan aanspreek, in hierdie geval dus 4 gigagreep.
+
+   By 'n 16-bisverwerker is dit 64 kilogreep, by 'n 8-bisverwerker is dit
+   256 grepe. Hierdie is kleinere hoeveelhede as veelal gewens is en
+   daarom gebruik verwerker met kleine woordlengtes gewoonlik 'n
+   ingewikkelder stelsel.
+
+   Die 6502, 'n 8-bisverwerker, gebruik die eerste 256 grepe van die
+   geheue voor die sogenoemde "zeropage". Op 'n willekeurige plek in die
+   zeropage kan dan 'n 16-bis getal geplaas word en die verwerker beskik
+   oor 'n spesiale zeropageadresseermodus sodat wysers wat in hierdie
+   zeropage geplaas word doeltreffend gebruik kan word. Hiermee kan die
+   6502 64-kilogreep geheue aanspreek.
+
+   Die 8086, 'n 16-bisverwerker, gebruik die roemrugte
+   segment/offset-stelsel. By hierdie verwerker bestaan 'n wyser uit twee
+   16-biswaardes, 'n "segment" en 'n "offset". Die eintlike geheueposisie
+   word bereken as volg:
+
+   geheue-adres = 16 * segment + offset
+
+   Hiermee kan die 8086 maksimaal 1 megagreep geheue aanspreek. Deur 'n
+   ontwerpbeslissing van IBM is dit in die IBM PC verder teruggebring tot
+   640 kilogrepe.
+
+[wysig] Waarom het verwerkers by 4-bis begin?
+
+   Die redes waarom daar in die sewentigerjare nie met groter woordlengtes
+   begin is nie, het te doen met die beskikbare konstruksietegnieke van
+   destyds. Destyds kon maar net enkele duisende transistors op 'n vlokkie
+   geplaas word, met die gevolg dat 'n enorm suinige transistorbeleid by
+   die ontwerp gehandhaaf moes word. Deurdat 'n grotere woordlengte meer
+   transistors vereis (die ekstra bisse het tog ook logika nodig wat dit
+   verwerk), is ontwerpers genoop om suinig te wees met woordlengte.
+
+   In die begin van die tagtigerjare het die aantal transistors 'n minder
+   groot probleem geword, en in 32-bisverwerkers het dit moontlik geblyk
+   om ontwerpvereenvoudiginge deur te voer waarmee hierdie verwerkers nie
+   baie meer transistors vereis as 16-bisverwerkers nie. (Een van die
+   redes hiervoor was dat maksimum van 4 gigagreep voldoende geheue was en
+   die komplekse stelsels vir geheue-adressering soos hierbo beskryf is
+   oorbodig geword het.)
+
+   16-bisverwerkers is egter steeds verkies weens beperkinge wat
+   printplaatontwerpe teweeggebring het. Weens die streng vereistes vir
+   tydreëling wat vir geheues van destyds nodig was, was daar baie min
+   vryheid by die ontwerp van gedrukte stroombane en was dit baie lastig
+   om voldoende stroombane vir 'n 32-bisverwerker op die gedrukte
+   stroombaan te kry.
+
+   In daardie tyd het die tuisrekenaarrevolusie losgebars en was daar
+   ekstra druk op rekenaarvervaardigers om hulle gedrukte stroombane
+   eenvoudig te hou. Gevolglik moes die segetog van die 32-bisverwerker
+   wag tot die tweede helfte van die tagtigerjare.
+
+   Tans is die ontwerp van die stroombane op 'n moederbord steeds geen
+   eenvoudige kwessie nie. 'n Aantal tegnieke het dit moontlik gemaak dat
+   ons op die huidige stand van tegniek gekom het. Een belangrike
+   ontwikkeling is die moderne geheues wat met 'n bepaalde vertragingstyd
+   rekening kan hou. Moderne moederborde bestaan verder uit baie lae
+   stroombane watter bo-op mekaar geplak is, waarmee die stroombane in
+   goeie bane geleid.
+   Kategorie: Rekenaar
+

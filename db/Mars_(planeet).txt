@@ -1,0 +1,1352 @@
+Mars (planeet)
+
+
+   CAPTION: Mars    Mars se sterrekundige simbool
+
+   Die planeet Mars
+   Mars, soos waargeneem deur die Viking 1-wenteltuig
+   Wentelbaaneienskappe
+   Epoch J20000
+   Aphelium afstand: 249,209,300 km
+   Perihelium afstand: 206,669,000 km
+   1.381497 AE
+   Semi-belangrike as: 227,939,100 km
+   1.523679 AE
+   Eksentrisiteit: 0.093315
+   Wentelperiode: 686.971 dae
+   Sinodiese periode: 779.96 dae
+   Gem. omwentelingspoed: 24.077 km/s
+   Inklinasie: 1.850°
+   5.65° tot die Son se eweneaar
+   Lengteligging van stygende nodus: 49.562°
+   Periheliumargument: 286.537°
+   Natuurlike satelliete: 2
+   Fisiese eienskappe
+   Radius by die ewenaar: 3396,2 ± 0.1 km
+   0.533 Aardes
+   Radius na die pole: 3,376.2 ± 0.1 km
+   0.531 Aardes
+   Oppervlakte: 144,798,500 km²
+   0.284 Aardes
+   Volume: 1.6318×10^11 km³
+   0.151 Aardes
+   Massa: 6.4185×10^23 kg
+   0.107 Aardes
+   Gem. digtheid: 3.934 g/cm³
+   Oppervlak-
+   aantrekkingskrag: 3.69 m/s²
+   0.376 g
+   Ontsnappings-
+   snelheid: 5.027 km/s
+   Sideriese
+   rotasieperiode: 1.025957 day
+   24.62296 h
+   Rotasiespoed
+   by ewenaar: 868.22 km/h
+   Aksiale neiging: 25.19°
+   Regter styging van Noordpool: 21 h 10 min 44 s
+   317.68143°
+   Deklinasie: 52.88650°
+   Weerkaatsingsvermoë: 0.15
+   Oppervlak temp.:
+      Kelvin
+      Celsius
+   min    gem.   maks
+   186 K  227 K  268 K
+   -87 °C -46 °C -5 °C
+   Skyngrootte: +1.8 to -2.91^[1]
+   Hoekgrootte: 3.5" — 25.1"^[1]
+   Atmosfeer
+   Oppervlaksdrukte: 0.7–0.9 kPa
+   Samestelling: 95.72% Koolstofdioksied
+
+   2.7% Stikstof
+   1.6% Argon
+   0.2% Suurstof
+   0.07% Koolstofmonoksied
+   0.03% Water vapor
+   0.01% Stikstofmonoksied
+
+   Mars is die vierde planeet vanaf die Son in ons Sonnestelsel. Die
+   planeet is vernoem na Mars, die Romeinse god van oorlog. Daar word ook
+   na Mars as die "Rooi Planeet" verwys, aangesien die planeet rooierig
+   vertoon wanneer dit vanaf die aarde besigtig word.
+
+   Mars is 'n aardse planeet met 'n dun atmosfeer. Die planeet se
+   oppervlakeienskappe herinner beide aan die impakkraters van die Maan én
+   die vulkane, valleie, woestyne en poolkappe van die Aarde. Mars is ook
+   die tuiste van Olympus Mons, die hoogste bekende berg in die
+   Sonnestelsel, en van Valles Marineris, die grootste diepkloof. Behalwe
+   vir die planeet se geografiese eienskappe, is Mars se
+   omwentelingsperiode en seisoenale siklusse ook soortgelyk aan dié van
+   die Aarde.
+
+   Tot en met die eerste verbyvlug deur Mariner 4 in 1965, is daar
+   gespekuleer dat daar moontlik vloeibare water op die planeet se
+   oppervlak kan wees. Hierdie spekulasies is gebaseer op periodiese
+   wisselings in lig en donker dele, veral in die poolbreedteliggings, wat
+   soos seë en kontinente gelyk het, terwyl lang, donker groewe deur
+   sommige waarnemers geïnterpreteer is as besproeïngskanale vir vloeibare
+   water. Dit is later bewys dat hierdie reguit groewe of lyne nie werklik
+   bestaan nie, maar bloot 'n optiese illusie is. Van al die planete in
+   die Sonnestelsel, word Mars egter steeds beskou as die waarskynlikste
+   om vloeibare water te besit en miskien ook lewe.
+
+   Mars word tans omring deur drie werkende, omwentelende ruimtetuie: die
+   Mars Odyssey, Mars Express, en Mars Reconnaissance Orbiter. Geen ander
+   planeet, behalwe die Aarde, besit soveel wenteltuie nie. Die oppervlak
+   van die planeet is ook die tuiste van die twee Mars Exploration Rovers
+   (die Spirit en die Opportunity), asook die Phoenix-landingstuig.
+   Geologiese bewyse wat deur hierdie en voorafgaande missies versamel is,
+   stel voor dat Mars voorheen 'n groot-skaalse waterdekking gehad het,
+   terwyl waarnemings ook aandui dat klein, geyseragtige waterstromings
+   moontlik in onlangse jare plaasgevind het.^[2] Waarnemings deur Nasa se
+   Mars Global Surveyor wys dat dele van die suidelike poolkap aan die
+   afneem is.^[3]
+
+   Mars het twee mane: Phobos en Deimos. Beide die mane is klein en het
+   onreëlmatige vorms. Hulle is moontlik gevange asteroïdes, soortgelyk
+   aan 5261 Eureka, een van Mars se Trojaanse asteroïdes. Mars kan met die
+   blote oog van die Aarde af gesien word. Sy skyngrootte nader -2,9:^[1]
+   slegs Venus, die Maan en die Son is fisies helderder, alhoewel Jupiter
+   aan die blote oog gewoonlik helderder as Mars vertoon.
+
+   Inhoud
+
+        * 1 Fisiese eienskappe
+             + 1.1 Geologie
+             + 1.2 Hidrologie
+             + 1.3 Geografie
+             + 1.4 Atmosfeer
+             + 1.5 Klimaat
+        * 2 Wenteling en omwenteling
+        * 3 Mane
+        * 4 Lewe
+        * 5 Verkenning
+             + 5.1 Vorige missies
+             + 5.2 Huidige missies
+             + 5.3 Toekomstige missies
+             + 5.4 Sterrekunde op Mars
+        * 6 Besigtiging
+             + 6.1 2003 naaste nadering
+             + 6.2 Geskiedkundige waarnemings
+        * 7 Mars in kultuur
+             + 7.1 Geskiedkundige konneksies
+             + 7.2 Intelligente Marsmannetjies
+             + 7.3 In fiksie
+             + 7.4 In musiek
+        * 8 Verwysings en aantekeninge
+        * 9 Ekterne skakels
+
+[wysig] Fisiese eienskappe
+
+   Vergelyking van die grootte van die aardse planete (links na regs):
+   Mercurius, Venus, Aarde en Mars.
+   Vergelyking van die grootte van die aardse planete (links na regs):
+   Mercurius, Venus, Aarde en Mars.
+
+   Mars het ongeveer die helfte van die Aarde se radius en slegs een
+   tiende van sy massa; Mars het 'n laer digtheid, maar sy oppervlakte is
+   slegs 'n klein bietjie minder as die totaal oppervlakte van die Aarde
+   se droeë land.^[1] Alhoewel Mars groter en meer massief is as
+   Mercurius, het Mercurius 'n hoër digtheid. Dit beteken dat Mercurius 'n
+   ietwat sterker swaartekrag by sy oppervlak het. Die rooierige voorkoms
+   van Mars se oppervlak word veroorsaak deur yster(III)oksied, beter
+   bekend as roes.^[4]
+
+[wysig] Geologie
+
+   Na aanleiding van wentelwaarnemings en die bestudering van 'n
+   versameling meteoriet afkomstig van Mars, blyk dit dat Mars se
+   oppervlak hoofsaaklik uit basalt bestaan. Sommige bewyse dui daarop dat
+   'n deel van die planeet se oppervlak moontlik meer ryk aan silika is as
+   tipiese basalt en moontlik soortgelyk is aan andesietrotse op Aarde.
+   Hierdie rotsbelaaide oppervlak is deur die Mars Pathfinder afgeneem.
+   Hierdie rotsbelaaide oppervlak is deur die Mars Pathfinder afgeneem.
+
+   Alhoewel Mars nie 'n intrinsieke magnetiese veld het nie, het
+   waarnemings gewys dat dele van die planeet se kors gemagnetiseer is en
+   dat wisselende ommeswaaiing van die polariteit van sy dipoolveld in die
+   verlede plaasgevind het. Hierdie paleomagnetisme van magneties vatbare
+   minerale het eienskappe wat baie eenders is aan die wisselende
+   magnetiese bande wat op die oseaanbodem van die Aarde gevind word. Een
+   teorie, wat in 1999 gepubliseer is en in Oktober 2005 met behulp van
+   die Mars Global Surveyor opnuut bestudeer is, is dat hierdie bande
+   plaattektoniek vertoon wat 4 miljard jaar gelede op Mars verskyn het,
+   voor die planetêre dinamo opgehou het om te werk en veroorsaak het dat
+   die planeet se magnetiese veld weg kwyn.^[5]
+
+   Huidige modelle van die planeet se binnekant dui op 'n kern met 'n
+   radius van ongeveer 1,480 kilometer, wat hoofsaaklik uit yster bestaan
+   met omtrent 14–17% swawel. Hierdie kern van ystersulfied is deels
+   vloeistof en het twee maal die konsentrasie van die ligter elemente wat
+   by die Aarde se kern bestaan. Mars se kern word omring deur 'n
+   silikaatmantel, wat baie van die tektoniese en vulkaniese kenmerke van
+   die planeet gevorm het, maar nou egter onaktief blyk te wees. Die
+   gemiddelde dikte van die planeet se kors is ongeveer 50 km, met 'n
+   maksimum dikte van 125 km.^[6] Die Aarde se kors het 'n gemiddelde
+   dikte van 40 km, maar is slegs 'n derde so dik as dié van Mars,
+   relatief tot die groottes van die twee planete.
+
+   Die geologiese geskiedenis van Mars kan in baie epogge (tydvakke)
+   gedeel word, maar die volgende is die drie hoofepogge.
+     * Noachiese epog: Vorming van die oudste oorgeblewe oppervlaktes van
+       Mars, 3,8 miljard jaar gelede tot 3,5 miljard jaar gelede.
+       Oppervlaktes uit die Noachiese tydvak bevat baie impakkraters van
+       aansienlike groottes. Dit word geglo dat die Tharsis-vulkaniese
+       plato tydens hierdie periode gevorm is en later in die tydvak
+       aansienlik deur vloeibare water oorstroom is. Die tydvak is vernoem
+       na Noachis Terra, 'n landmassa op Mars.
+     * Hesperiese epog: 3,5 miljard jaar gelede tot 1,8 miljard jaar
+       gelede. Die Hesperiese epog word gekenmerk deur die vorming van
+       uitgestrekte lawavlaktes. Die tydvak is vernoem na Hesperia Planum,
+       'n streek op Mars.
+     * Amazoniese epog: 1,8 miljard gelede tot tans. Amazoniese streke het
+       min meteorietiese impakkraters, maar verskil in ander opsigte.
+       Olympos Mons is in hierdie periode gevorm. Die tydvak is vernoem na
+       Amazonis Planitia, een van die gladste vlaktes op Mars.
+
+[wysig] Hidrologie
+
+   'n Foto van mikroskopiese rotsvorms wat dui op tekens van water,
+   afgeneem deur die Opportunity-swerwer.
+   'n Foto van mikroskopiese rotsvorms wat dui op tekens van water,
+   afgeneem deur die Opportunity-swerwer.
+
+   Met die huidige lae atmosferiese druk, is dit onmoontlik dat vloeibare
+   water op die oppervlak van Mars kan bestaan, behalwe teen die laagste
+   laagstes - en dan ook slegs vir kort periodes.^[7]^[8] Water in ysvorm
+   is egter volop: die twee poolkappe bestaan hoofsaaklik uit ys.^[9] In
+   Maart 2007 het NASA aangekondig dat die volume (water)ys in die
+   suidelike poolkap genoeg sou wees om, indien dit sou smelt, die hele
+   oppervlak van die planeet te dek tot 'n diepte van 11 meter.^[10]
+   Verder strek daar ook 'n ysgrondmantel vanaf die pool tot 'n
+   breedteligging van ongeveer 60°.^[9]
+
+   Daar word geglo dat groter hoeveelhede water vasgevang is onder Mars se
+   dik kriosfeer (die dele van die oppervlak waar water in soliede vorm
+   is), waarvandaan dit dan vrygestel kan word deur vulkaniese aksie wat
+   die krake in die kors veroorsaak. Die grootste vrystelling van water op
+   hierdie manier was moontlik met die vorming van die Valles
+   Marineris-kloof, vroeg in Mars se geskiedenis, waartydens genoeg water
+   vrygestel is om die massiewe uitloopkanale van die kloof te vorm. 'n
+   Kleiner, meer onlangse, soortgelyke gebeurtenis het moontlik
+   plaasgevind toe die Cerberus Fossae-kloof ongeveer 5 miljoen jaar
+   gelede gevorm het en 'n veronderstelde see van ys agtergelaat het, wat
+   vandag steeds sigbaar is by Elysium Planitia, die grootste vulkaniese
+   streek op Mars.^[11] Die morfologie van hierdie streek strook egter
+   meer met die opdamming van lawastrome, wat 'n oppervlakkige eendersheid
+   met ysstrome veroorsaak.^[12] Hierdie lawastrome het moontlik die
+   terrein gedek wat vroeër deur katastrofiese oorstromings van die
+   Athabasca-vallei gevorm is.^[13] Hierdie tweede teorie word gesteun
+   deur die teenwoordigheid van aansienlik rowwe oppervlaktekstuur,
+   termiese traagheid en hidrovulkaniese kegels.^[13] Verder is die
+   stoïgiometriese massafraksie van H[2]O in hierdie omgewing tot tiendes
+   van sentimeterdieptes slegs ~4%,^[14] wat maklik aan gehidrateerde
+   minerale toegeskryf kan word^[15] en nie strook met die teenwoordigheid
+   van oppervlakkige ys nie.
+
+   Meer onlangs het die kamera van die Mars Global Surveyor hoë-resolusie
+   foto's geneem wat baie meer detail bied oor die geskiedenis van
+   vloeibare water op Mars se oppervlak. Ten spyte van die baie reuse
+   vloedkanale en 'n geassosieerde boomagtige netwerk van sytakke wat op
+   Mars gevind word, is daar egter geen strukture op 'n kleiner skaal wat
+   die oorsprong van vloedwater kan aandui nie. Dit is voorgestel dat
+   weerprosesse hulle blootgelê het, wat beteken dat die riviervalleie ou
+   kenmerke is. Hoër-resolusie waarnemings deur ruimtetuie soos die Mars
+   Global Surveyor het ook ten minste 'n paar honderd kenmerke langs
+   krater- en kloofmure gewys, wat soortgelyk te blyk aan aardse
+   syfervore. Die vore is meestal in die hooglande van die suidelike
+   halfrondte en na die ewenaar gerig; almal word op 'n breedteligging van
+   30° en poolwaarts aangetref.^[16] Navorsers het geen gedeelteliks
+   verweerde vore of gesuperponeerde impakkraters gevind nie, wat beteken
+   dat hierdie baie jong verskynsels is.
+   Veranderde voordeposito's op Mars
+   Veranderde voordeposito's op Mars
+
+   In 'n besonders opvallende voorbeeld (sien beeld hiernaas), wys twee
+   foto's, wat ses jaar uitmekaar geneem is, 'n voor op Mars en wat blyk
+   nuwe stortings of deposito's te wees. Michael Meyer, 'n vooraanstaande
+   wetenskaplike by NASA se Mars Exploration Program, redeneer dat slegs
+   die vloei van 'n materiaal met 'n hoë inhoud van vloeibare water so 'n
+   oorblywende patroon en verkleuring kan veroorsaak. Of die water die
+   oorsaak van neerslag, ondergrondse of ander bronne is, bly 'n ope
+   vraag.^[17] Alternatiewe teorieë is ook voorgestel, insluitende die
+   moontlikheid dat die deposito's veroorsaak word deur 'n yskors van
+   koolstofdioksied of deur die beweging van stof of Mars se
+   oppervlak.^[18]^[19]
+
+   Nog bewyse dat vloeibare water eens op Mars se oppervlak kon bestaan
+   het, kom van die bespeuring van spesifieke minerale soos hematiet en
+   goethiet, wat beide soms in die teenwoordigheid van water vorm.^[20]
+
+   Desondanks is sommige van die bewyse wat op antieke waterkomme en
+   stromings dui, weerspreek deur hoër-resolusie studies geneem teen 'n
+   resolusie van ongeveer 30 cm deur die Mars Reconnaissance Orbiter.^[21]
+
+[wysig] Geografie
+
+   Hierdie naastenbye ware kleur-beeld, geneem deur die
+   Opportunity-swerwer, wys die uitsig vanaf die Victoria-krater by Kaap
+   Verde. Dit is oor drie weke afgeneem, vanaf 16 Oktober - 12 November
+   2006.
+   Hierdie naastenbye ware kleur-beeld, geneem deur die
+   Opportunity-swerwer, wys die uitsig vanaf die Victoria-krater by Kaap
+   Verde. Dit is oor drie weke afgeneem, vanaf 16 Oktober - 12 November
+   2006.
+
+   Alhoewel hulle beter bekend is vir hulle kartering van die Maan, was
+   Johann Heinrich Mädler en Wilhelm Beer die eerste "lugkarteerders".
+   Hulle het begin deur die planeet se omwentelingsperiode vas te stel,
+   asook deur vir eens en altyd vas te stel dat die meeste van Mars se
+   oppervlakverskynsels permanent is. In 1840 het Mädler 10 jaar se
+   waarnemings gekombineer en die eerste kaart van Mars geteken. In plaas
+   daarvan dat hulle die verskeie verskynsels name gegee het, het hulle
+   dit slegs met letters gemerk: Sinus Meridiani (letterlik
+   "Meridiaanbaai"), was dus as "a." gemerk.^[22]
+
+   Vandag word verskynsels op Mars uit 'n aantal bronne benoem. Groot
+   verskynsels met 'n weerkaatsingsvermoë is reeds deur vroeë waarnemers
+   raakgesien en betitel: hierdie name is meestal gehou, maar sommige is
+   opgedateer om nuwe kennis van die verskynsels te weerspieël. Een
+   voorbeeld is Nix Olympica ("Sneeu van Olimpos"), wat Olympus Mons
+   ("Olimpos-berg") herdoop is om die bergagtige karakter van die
+   verskynsel in die naam weer te gee.^[23]
+
+   Mars se ewenaar word deur sy omwenteling gedefinieer, maar die ligging
+   van sy nulmeridiaan was gespesifiseer, net soos die Aarde s'n, by 'n
+   willekeurig gekose punt: Mädler en Beer het reeds in 1830 'n lyn gekies
+   vir hulle eerste kaarte van Mars. Na die ruimtetuig Mariner 9 in 1972
+   uitgebreide beelde van Mars verskaf het, is 'n klein krater (later
+   bekend as Airy-0), wat op die Sinus Meridian ("Meridiaanbaai") geleë
+   is, gekies vir die definisie van 0.0° lengteligging om met die
+   oorspronklike aanwysing van Mädler en Beer saam te val.
+   Olympus Mons
+   Olympus Mons
+
+   Siende dat Mars geen oseane het nie en dus ook geen "seevlak" nie, moes
+   'n "nulvlak" aangewys word. 'n Hoogte van 0 m word gedefinieer by die
+   hoogte waar daar 610,5 Pa (6,105 mbar) atmosferiese druk is. Hierdie
+   druk stem ooreen met die drievoudpunt van water, en is omtrent 0,6% van
+   die seevlak-oppervlakdruk op Aarde.^[24]
+
+   Die tweedeling van Mars se topografie is opvallend: die noordelike
+   vlaktes is deur die vloei van lawa afgeplat en kontrasteer met die
+   suidelike hooglande: pokagtig en vol kraters deur antieke impakte. Die
+   oppervlak, soos vanaf die Aarde gesien, kan dus in twee areas gedeel
+   word, met verskillende weerkaatsingsvermoëns (ook verwys na as
+   albedo's). Daar was vroeër geglo dat die valer vlaktes, wat bedek is
+   met stof en sand ryk aan rooierige ysteroksied, moontlik konintente was
+   en hulle het name ontvang soos Arabia Terra ("land van Arabië") en
+   Amazonis Planitia ("Amasoniese vlakte"). Daar was dan ook geglo dat die
+   donker verskynsels seë was, wat gevolg het tot name soos Erythraeum-see
+   en die Sirenum-see. Die donkerste verskynsel wat van die Aarde af
+   waargeneem kan word is Syrtis Major, 'n skildvulkaan.^[25]
+
+   Olympus Mons, ook 'n skildvulkaan, is met 26 km die hoogste berg in die
+   Sonnestelsel (sover bekend). Dit is 'n uitgedoofde vulkaan in die
+   uitgestrekte hooglandstreek Tharsis, wat ook 'n aantal ander groot
+   vulkane bevat. Dit is meer as drie keer so hoog as Mount Everest, wat
+   'n hoogte van 8,848 km het.
+
+   Mars dra ook die littekens van 'n aantal impakkraters: daar is reeds
+   43 000 kraters gevind wat 'n diameter van 5 km of meer het.^[26] Die
+   grootste krater is Hellas Planitia, 'n impakbekken met 'n diameter van
+   tussen 2100 en 2500 km (metings verskil). Hella Planitia is 'n ligte
+   verskynsel wat duidelik vanaf die Aarde sigbaar is.^[27] Danksy Mars se
+   kleiner massa is die kanse dat 'n voorwerp met die planeet sal bots die
+   helfte minder as dié van die Aarde. Mars lê egter nader aan die
+   asteroïdegordel en is dus meer dikwels 'n teiken van voorwerpe wat
+   daarvan afkomstig is. Dit is ook meer waarskynlik dat Mars deur
+   korttermyn komete getref kan word, soos dié wat in die omwentelingsbaan
+   van Jupiter lê.^[28] Ten spyte hiervan is daar baie minder kraters op
+   Mars as (byvoorbeeld) die Maan, aangesien Mars se atmosfeer beskerming
+   teen klein meteore bied. Die morfologie van sommige kraters dui daarop
+   dat die grond nat was toe die meterotiet die planeet getref het.
+
+   Die groot kloof Valles Marineris (ook bekend as "Agathadaemon" op ou
+   kaarte), het 'n lengte van 4000 km en 'n diepte van tot 7 km. Die
+   lengte van Valles Marineris is gelyk aan die lengte van Europa en strek
+   oor een vyfde van Mars se omtrek. Ter vergelyking is die Grand Canyon
+   op Aarde slegs 446 km lank en naastenby 2 km diep. Valles Marineris is
+   gevorm na aanleiding van die swelling van die Tharis-area, wat
+   veroorsaak het dat die kors in die area van Valles Marineris
+   inmekaarsak. 'n Ander groot kloof is Ma'adim Vallis ("Ma'adim" is
+   Hebreeus vir Mars). Dit is 700 km lank, met 'n wydte van 20 km en 'n
+   diepte van 2 km in sommige plekke. Dit is moontlik dat Ma'adim Vallis
+   in die verlede deur vloeibare water oorstroom was.^[29]
+   THEMIS-beeld van die grotingange op Mars
+   THEMIS-beeld van die grotingange op Mars
+
+   Beelde van die Thermal Emission Imaging System (THEMIS) aanboord NASA
+   se Mars Odyssey-wenteltuig het sewe moontlike grotingange gewys op die
+   flanke van die Arsia Mons-vulkaan.^[30] Die grotte is vernoem na sewe
+   persone wat dierbaar was aan die ontdekkers: Dena, Chloe, Wendy, Annie,
+   Abbey, Nikki en Jeanne, en staan saam bekend as die "sewe
+   susters".^[31] Die ingange is tussen 100 m en 252 m wyd en daar word
+   geglo dat hulle ten minste 73 m tot 96 m diep is. Siende dat die lig
+   nie die vloer van die grotte bereik nie, is dit moontlik dat hulle
+   dieper as die minimum beraming is en onder die oppervlak wyer word.
+   Dena is die enigste uitsondering: die vloer is sigbaar en die grot het
+   'n beraamde diepte van 130 m. Die binnekante van hierdie grotte word
+   moontlik beskerm van mikrometeoroïedes, ultravioletstrale, sonvlamme en
+   hoë-energie deeltjies wat die planeet se oppervlak bombardeer.^[32]
+   Sommige navorsers het voorgestel dat hierdie moontlike beskerming die
+   grotte goeie kandidate maak vir toekomstige pogings om water in
+   vloeistofvorm en tekens van lewe te soek.
+
+   Mars het twee permanente polêre yskappe: die noordelike een is geleë in
+   die noordelike poolstreek, Planum Boreum, en die suidelike yskap in
+   Planum Australe, die suidelike poolstreek.
+
+[wysig] Atmosfeer
+
+   Mars se dun atmosfeer is sigbaar op die horison van hierdie
+   lae-omwenteling-foto.
+   Mars se dun atmosfeer is sigbaar op die horison van hierdie
+   lae-omwenteling-foto.
+
+   Mars het omtrent 4 miljard jaar gelede sy magnetosfeer verloor, dus is
+   die sonwind in direkte wisselwerking met Mars se ionosfeer. Hierdie
+   direkte wisselwerking hou die atmosfeer dunner as wat dit andersins sou
+   wees, deur die stroping van atome vanuit die buitenste laag. Die
+   geïoniseerde atmosferiese deeltjies is in die ruimte agter Mars bespeur
+   deur beide die Mars Global Surveyor en die Mars Express.^[33]^[34]
+
+   As gevolg van die verlies van atome is Mars se atmosfeer relatief baie
+   dun. Atmosferiese druk op die oppervlak wissel van ongeveer 30 Pa
+   (0,03 kPa) op Olympus Mons tot meer as 1155 Pa (1.155 kPa) in die
+   dieptes van Hellas Planitia, met 'n gemiddelde oppervlakdruk van
+   600 Pa (0.6 kPa). Dit is minder as 1% van die oppervlakdruk op Aarde
+   (101.3 kPa). Mars se gemiddelde oppervlakdruk is gelyk aan die druk wat
+   35 km bo die aarde se oppervlak gevind word.
+
+   Mars se atmosfeer is stowwerig en bevat stofdeeltjies van omtrent
+   1,5 µm, wat die lug op Mars 'n bruingelerige kleur gee soos van die
+   oppervlak af gesien.^[35] Die atmosfeer bestaan uit 95%
+   koolstofdioksied, 3% stikstof, 1,6% argon en bevat spore van suurstof,
+   water, koolstofmonoksied en stikstofmonoksied, asook nog uiters klein
+   spore van neon, kripton, formaldehied, xenon, osoon en metaan.^[1] Die
+   teenwoordigheid van metaan word deur deur navorsers beweer wat verslag
+   gelewer het dat hulle die element teen 'n konsentrasie van ongeveer 10
+   deeltjies per miljard (volgens volume) bespeur het.^[36]^[37] Metaan is
+   'n onstabiele gas is wat deur ultravioletstraling afgebreek word en 'n
+   tipiese metaanmolekule het 'n leeftyd van ongeveer 340 jaar in Mars se
+   atmosfeer.^[38] Die teenwoordigheid van metaan sal dus 'n huidige of
+   onlangse bron van die gas op die planeet aandui. Vulkaniese aktiwiteit,
+   komeetimpakte en die teenwoordigheid van mikro-organismes wat metaan as
+   'n afvalproduk skep word onder moontlike bronne gereken. Dit is ook
+   aangetoon dat metaan moontlik deur 'n nie-biologiese proses soos die
+   vorming van serpentynsteen geproduseer kan word, wanneer dit plaasvind
+   tussen water, koolstofdioksied en olivien, 'n mineral wat op Mars
+   voorkom.^[39]
+
+   Tydens 'n pool se winter word dit deur voortdurende donkerte gedek: die
+   oppervlak verkoel en 25-30% van die atmosfeer kondenseer tot lae
+   koolstofdioksiedys (droeë ys).^[40] Wanneer die pole weer aan sonlig
+   blootgestel word, sublimeer die koolstofdioksied, wat reuse winde
+   veroorsaak wat vanaf die pole waai met snelhede tot 400 km/h. Hierdie
+   seisoenale gebeurtenisse vervoer groot hoeveelhede stof en waterdamp,
+   wat aanleiding gee tot ryp en groot cirruswolke wat aan die Aarde s'n
+   herinner. Wolke van waterys is deur die Opportunity-swerwer in 2004
+   afgeneem.^[41]
+
+[wysig] Klimaat
+
+   Mars, soos gesien deur die Hubble-ruimteteleskoop op 28 Oktober 2005,
+   met 'n sigbare stofstorm.
+   Mars, soos gesien deur die Hubble-ruimteteleskoop op 28 Oktober 2005,
+   met 'n sigbare stofstorm.
+
+   Van al die planete is Mars se seisoene die meeste soos die Aarde s'n,
+   as gevolg van die soortgelyke hellings van die twee planete se asse van
+   omwenteling. Die duur van die seisoene op Mars is egter amper twee keer
+   so lanks soos die van die Aarde: as gevolg van Mars se afstand van die
+   son is 'n Marsjaar amper twee keer die lengte van 'n Aardse jaar. Die
+   oppervlaktemperatuur op Mars wissel van ongeveer -140 °C tydens die
+   poolwinters tot 20 °C in die somers.^[7] Die wye reeks temperature is
+   as gevolg van die dun atmosfeer (wat nie die baie van die son se hitte
+   kan stoor nie), die lae atmosferiese druk en die lae termiese traagheid
+   van die grond.^[42]
+
+   Alhoewel Mars se seisoene die naaste aan die Aarde s'n is, verskil dit
+   tog aansienlik, as gevolg van die merkwaardige effek van die
+   eksentrisiteit van Mars se relatief groot wentelbaan. Mars nader
+   perihelium (die afstand naaste aan die son) wanneer dit somer in die
+   suidelike halfrondte is en winter in die noorde, en nader aphelium (die
+   afstand verste van die son) wanneer dit winter in die suidelike
+   halfrondte is en somer in die noorde. Die gevolg is dat die seisoene in
+   die suidelike halfrondte meer uitermatig is en die seisoene in die
+   noorde meer matig is as wat dit anders sou wees. Die somertemperature
+   in die suide kan tot 30 °C warmer wees as die gelykstaande
+   somertemperature in die noorde.^[43]
+   Mars se noordelike yskap
+   Mars se noordelike yskap
+
+   Mars het ook die grootste stofstorms in ons Sonnestelsel. Hierdie
+   storms kan wissel van 'n storm oor 'n klein area, tot reusagtige storms
+   wat die hele planeet dek. Hulle vind meestal plaas wanneer Mars die
+   naaste aan die Son is en daar is opgemerk dat hulle die globale
+   temperatuur verhoog.^[44]
+
+   Die poolkappe by altwee pole bestaan hoofsaaklik uit waterys. Daar is
+   egter droeë ys bo-op die oppervlak van die waterys. Bevrore
+   koolstofdioksied versamel as 'n laag van omtrent een meter dik op die
+   noordelike yskap (slegs in die noordelike winter), terwyl die suidelike
+   kap 'n permanente 8 m-hoë dekking van droë ys het.^[45] Die noordelike
+   poolkap het 'n deursnee van ongeveer 1000 kilometer tydens die
+   noordelike somer^[46] en bevat ongeveer 1,6 miljoen kubieke meter ys.
+   Indien hierdie ys in 'n eweredige laag oor die poolkap versprei sou
+   wees, sou dit twee kilometer dik wees.^[47] Die suidelike poolkap het
+   'n deursnee van 350 km en 'n dikte van 3 km.^[48] Die totale volume ys
+   in die suidelike poolkap plus die aangrensende lae deposito's, beslaan
+   'n beraamde 1,6 miljoen kubieke kilometer.^[49] Beide poolkappe toon
+   spiraalagtige slenke, wat moontlik 'n gevolg is van differensiële
+   sonverwarming en die sublimasie van ys en die kondensasie van
+   waterdamp.^[50]^[51] Altwee die poolkappe krimp en groei weer terug
+   soos die temperatuur saam met die seisoene wissel.
+
+[wysig] Wenteling en omwenteling
+
+   Hierdie beelde toon 'n vergelyking tussen die wentelbane van Mars
+   (rooi) en Ceres (geel). Die boonste beeld wys die wentelbane soos
+   gesien van die ekliptiese pool en onder is die baan soos van die
+   stygende nodus af gesien. Die segmente van wentelbane onder die
+   eklipties word in donkerder kleure aangetoon. Die periheliums en
+   apheliums (Q) is gemarkeer met die datum van die naaste verbygang.
+
+   Mars se gemiddelde afstand van die Son is rofweg 230 miljoen km en sy
+   omwentelingsperiode is 687 (Aardse) dae. 'n Marsdag of "sol" is net 'n
+   klein bietjie langer as 'n Aardse dag: 24 uur, 39 minute en 35,244
+   sekondes. 'n Marsjaar is gelyk aan 1,8809 Aardse jare, of 1 jaar, 320
+   dae en 18,2 uur.
+
+   Mars se aksiale helling is 25,19 grade, wat vergelykbaar is met die
+   Aarde se helling. Omdat Mars se jaar langer is, duur die seisoene daar
+   byna twee keer so lank as die seisoene op Aarde. Mars het sy laaste
+   perihelium, die afstand verste van die Son af, in Junie 2007
+   verbygesteek en sy aphelium, die afstand naaste aan die Son, in Mei
+   2008.
+
+   Mars het 'n relatief sterk wenteleksentrisiteit: 'n planeet se
+   wenteleksentrisiteit dui aan hoeveel 'n planeet se keëlvormige
+   wentelbaan afwyk van 'n sirkel. Mars het 'n eksentrisiteit van ongeveer
+   0,09, uit die ander planete in die Sonnestelsel het slegs Mercurius 'n
+   groter eksentrisiteit. Dit is egter bekend dat Mars se wentelbaan in
+   die verlede baie ronder was as wat dit vandag is. Omtrent 1,35 miljoen
+   Aardse jare gelede, het Mars 'n eksentrisiteit van rofweg 0,002 gehad,
+   minder selfs as die huidige eksentrisiteit van die Aarde.^[52] Die
+   eksentrisiteit van planete se wentelbane verander stadig, maar seker.
+   Terwyl daar elke 100 000 jaar 'n definitiewe verandering in die Aarde
+   se eksentrisiteit is, duur die eksentrisiteitsiklusse van Mars 96 000
+   (Aardse) jare. In die jaar 24100 word daar bereken dat Mars se
+   eksentrisiteit 0,1051 sal bereik.^[53] Mars se wentelbaan het die
+   laaste 35 000 jaar ietwat meer eksentries geraak, as gevolg van die
+   effek van die ander planete se aantrekkingskragte. Die naaste afstand
+   wat Mars telkens aan die Aarde bereik, sal vir die volgende 25 000 jaar
+   ietwat voortdurend afneem.^[54]
+
+[wysig] Mane
+
+          Hoofartikel: Mars se natuurlike satelliete
+
+   Phobos (links) en Deimos (regs)
+   Phobos (links) en Deimos (regs)
+
+   Mars het twee klein natuurlike satelliete, of mane, Phobos en Deimos),
+   wat baie naby aan die planeet wentel. Daar word geglo dat die twee mane
+   vasgevange asteroïdes is.^[55]
+
+   Beide satelliete is in 1877 deur Asaph Hall ontdek en is vernoem na
+   gode in die Griekse mitologie: Phobos (paniek/vrees) en Deimos
+   (terreur/angs) wat by hulle vader Ares, die god van oorlog, op die
+   slagveld aangesluit het. Ares het aan die Romeine as "Mars" bekend
+   gestaan.
+
+   Vanaf Mars se oppervlak lyk die beweging van Phobos en Deimos baie
+   anders as die van ons eie maan. Phobos sak in die ooste en kom dan na
+   slegs 11 uur in die weste op. Deimos is net buite sinkroniese
+   omwenteling, waar die wentelperiode van die maan met die wentelperiode
+   van die planeet sou ooreenstem. Alhoewel Deimos se wentelperiode slegs
+   30 uur is, neem dit 2,7 dae vir die planeet om in die weste te sak
+   (soos gesien vanaf die ewenaar), aangesien dit stadigaan agter Mars se
+   eie wentelspoed val, en neem dit net so lank om weer in die ooste op te
+   kom.^[56]
+
+   Aangesien Phobos vinniger om Mars wentel as wat die planeet self
+   wentel, is getykragte stadig maar seker besig om Phobos se
+   omwentelingsradius te verkort. In ongeveer 50 miljoen jaar sal die maan
+   óf teen Mars se oppervlak bots, óf uitmekaargeskeur word en 'n
+   ringstruktuur om die planeet vorm.^[56]
+
+   Dit is nie bekend hoe of wanneer Mars sy twee mane gevang het nie.
+   Beide het 'n ronde wentelbaan (hulle wenteleksentrisiteit is dus 0),
+   naby aan die ewenaar, wat opsigself baie ongewoon is vir gevange
+   voorwerpe. Phobos se onstabiele wentelbaan dui op 'n relatief onlangse
+   vangs. Daar is nie 'n meganisme (sover bekend) wat 'n luglose Mars sou
+   toelaat om 'n enkele asteroïde vas te vang nie, dus is dit waarskynlik
+   dat 'n derde liggaam betrokke was. Buite die asteroïdegordel is
+   asteroïdes so groot soos Phobos en Deimos is egter skaars en tweelinge
+   nog skaarser.^[57]
+
+[wysig] Lewe
+
+   Die huidige opvatting oor die moontlikheid om 'n wêreld te ontwikkel en
+   lewe te onderhou, is ten gunste van planete wat water in vloeistofvorm
+   het op hulle oppervlakke. Dit vereis dat die wentelbaan van 'n planeet
+   binne-in 'n bewoonbare sone val. In ons Sonnestelsel lê die Aarde in
+   hierdie sone en is Mars 'n halwe astronomiese eenheid agter hierdie
+   sone. Dít, plus die planeet se dun atmosfeer, veroorsaak dat water op
+   die oppervlak vries. Dat water wel in die verlede daar gevloei het, dui
+   op die planeet se potensiaal vir bewoonbaarheid. Onlangse bewyse het
+   voorgestel dat enige water op die oppervlak te sout en suur sou wees om
+   lewe te onderhou.^[58]
+
+   Die tekort aan 'n magnetosfeer en die uiters dun atmosfeer bied 'n
+   groter uitdaging: die planeet het min warmteoordrag oor sy oppervlak,
+   slegte insulasie teen bombarderings van buiteruimse voorwerpe en die
+   sonwind, asook ontoereikende atmosferiese druk om water in 'n
+   vloeistofvorm te behou (enige water sublimeer na 'n gasstaat). Mars is
+   ook byna, of miskien selfs geheel en al, geologies dood: die einde van
+   vulkaniese aktiwiteit het 'n stop gesit aan die herwinning van
+   chemikalieë en minerale tusse die oppervlak en binnekant van die
+   planeet.^[59]
+
+   Bewyse stel voor dat die planeet in die verlede aansienlik meer
+   bewoonbaar was as vandag, maar dit is nie duidelik of lewende
+   organismes ooit daar bestaan het nie. Die Viking-sondes van die 1970's
+   het eksperimente uitgevoer wat bedoel was om mikro-organismes in die
+   grond by hulle respektiewelike landingsterreine op te spoor. Hulle het
+   klaarblyklike positiewe resultate gehad, waaronder 'n tydelike toename
+   van CO[2]-produksie na blootstelling aan water en voedingstowwe.
+   Hierdie tekens is egter later deur baie wetenskaplikes in twyfel
+   getrek, wat gelei het tot 'n voortdurende debat. Die 30-jaar oue
+   Viking-data is onlangs opnuut geanaliseer en dit is voorgestel dat die
+   toetse moontlik nie gesofistikeerd genoeg was om enige vorms van lewe
+   te bespeur nie en dat dit selfs enige (teoretiese) vorm van lewe kon
+   dood maak.^[60]
+   Meteoriet ALH84001
+   Meteoriet ALH84001
+
+   By NASA se Johnson Space Center-laboratorium is organiese verbindings
+   in die meteoriet ALH84001 gevind; 'n meteoriet wat veronderstel is om
+   van Mars afkomstig te wees. Die konklusies was dat die verbindings
+   deposito's deur primitiewe vorms van lewe was, wat op Mars bestaan het
+   voor die meteoriet deur 'n meteoor die ruimte ingestuur is op 'n 15
+   miljoen-jaar reis na die Aarde. Klein hoeveelheide metaan en
+   formaldehied is onlangs deur wenteltuie om Mars ontdek en daar word
+   beweer dat hierdie tekens van lewe kan wees (m.a.w. afvalprodukte van
+   organismes), aangesien hierdie deeltjies baie vinnig sou afbreek in
+   Mars se atmosfeer.^[61]^[62] Dit is moontlik dat hierdie verbindings
+   aangevul word deur vulkaniese of geologiese maniere, byvoorbeeld die
+   vorming van serpentynsteen.^[39]
+
+[wysig] Verkenning
+
+   Talle ruimtetuie, waaronder wenteltuie, landingstuie en swerftuie, is
+   reeds na Mars gestuur deur die Sowjetunie, die V.S.A. (NASA), Europa
+   (ESA) en Japan (JAXA), met die doel om die planeet se oppervlak,
+   klimaat en geologie te bestudeer.
+
+[wysig] Vorige missies
+
+   Die landingsterrein van Viking 1
+   Die landingsterrein van Viking 1
+
+   Die eerste suksesvolle verbyvlug na Mars was NASA se Mariner 4, wat in
+   1964 gelanseer is. Die eerste suksesvolle voorwerpe om op die oppervlak
+   te land, was twee Sowjetse sondes, Mars 2 en Mars 3, wat in 1971
+   gelanseer is, maar beide het kontak binne sekondes van hul landing
+   verloor. NASA het in 1975 hulle Viking-program geloods, wat bestaan het
+   uit twee wenteltuie wat elk met 'n landingstuig voorsien is. Beide
+   landingstuie het in 1976 suksesvol geland en die landingstuig Viking 1
+   was vir 6 jaar in werking en Viking 2 vir 3 jaar. Die twee landingstuie
+   het die eerste kleurbeelde van Mars teruggestuur^[63] en hulle het die
+   oppervlak so goed gekarteer dat die beelde selfs vandag nog soms
+   gebruik word. Die Sowjetse sondes Phobos 1 en Phobos 2 is in 1988 na
+   Mars gestuur om die planeet en sy twee mane te bestudeer. Phobos 1 het
+   kontak verloor onderweg na Mars; Phobos 2 het daarin geslaag om Mars en
+   Phobos af te neem, maar het misluk net voordat dit twee landingstuie
+   sou vrystel wat bedoel was om op Phobos se oppervlak te land.
+
+   Na die 1992-mislukking van die Mars Observer-wenteltuig, het NASA die
+   Mars Global Surveyor in 1996 gelanseer. Die missie was 'n volslae
+   sukses en het vroeg in 2001 sy primêre karteringsmissie voltooi. In
+   November 2006, tydens die sonde se derde uitgebreide program, is kontak
+   verloor, wat 'n einde aan 10 werkende jare in die ruimte gebring het.
+   Slegs 'n maand na die lansering van die Mars Global Surveyor, het NASA
+   ook die Mars Pathfinder gelanseer, wat 'n robotverkenningstuig, die
+   Sojourner-swerwer, gedra het. Die Sojourner het suksesvol geland in die
+   Ares Vallis op Mars. Die missie self was ook 'n sukses en het baie
+   publisiteit ontvang, deels te danke aan die skouspelagtige beelde wat
+   terug na die Aarde gestuur is.^[64]
+
+[wysig] Huidige missies
+
+   Die Spirit-swerwe se landingstuig op Mars
+   Die Spirit-swerwe se landingstuig op Mars
+
+   In 2001 het NASA die suksesvolle Mars Odyssey-wenteltuig gelanseer, wat
+   met die ingang van 2008 steeds in werking was. Die einddatum van die
+   missie is uitgestel tot September 2008. Die Odyssey se
+   gammastraalspektrometer het aansienlike hoeveelhede waterstof gevind in
+   die (ongeveer) boonste meter van Mars se regoliet, die los,
+   ongelyksoortige en dikwels verweerde materiaal op die oppervlak van 'n
+   planeet. Daar word geglo dat hierdie waterstof moontlik deel vorm van
+   groot stortings waterys.^[65]
+
+   In 2003 het die European Space Agency (ESA) die Mars Express-tuig
+   gelanseer, wat bestaan het uit die Mars Expres Orbiter en die
+   landingstuig Beagle 2. Beagle 2 het misluk tydens sy daling en is vroeg
+   in Februarie 2004 as verlore verklaar.^[66] Vroeg in 2004 het die span
+   van die Planetary Fourier Spectrometer, 'n infrarooi spektrometer,
+   aangekondig dat hy metaan in Mars se atmosfeer gevind het. In Junie
+   2006 het die ESA aangekondig dat aurora ook op Mars ontdek is.^[67]
+
+   NASA het ook in 2003 hulle tweelingswerwers as deel van hulle Mars
+   Exporation Rover Mission gelanseer: die Spirit-swerwer (MER-A) en die
+   Opportunity-swerwer (MER-B). Altwee missies het suksesvolle landings
+   gehad in Januarie 2004 en het hulle doelteikens behaal of oortref.
+   Onder die merkwaardigste wetenskaplike data wat teruggestuur is, was
+   oortuigende bewys dat vloeibare water een of ander tyd in die verlede
+   by beide landingsterreine bestaan het. Stofwarrels en windstorms het
+   met tye die swerwers se sonpanele skoongemaak en sodoende hulle leeftyd
+   uitgerek.^[68]
+
+   Op 12 Augustus 2005 het NASA die Mars Reconnaissance Orbiter-sonde na
+   die planeet gelanseer. Die tuig het op 10 Maart 2006 wenteling om die
+   planeet bereik, vanwaar hy 'n twee-jaar opname sal maak. Die MOR sal
+   die terrein en weerspatrone van Mars karteer, om sodoende geskikte
+   landingsterreine vir toekomstige missies te vind. Hy bevat ook 'n
+   verbeterde telekommunikasieskakel na die Aarde, met meer bandwydte as
+   al die vorige missies saam. Wetenskaplikes het op 3 Maart 2008
+   aangekondig dat die wenteltuig ook die eerste foto van 'n reeks aktiewe
+   lawine's<---"lawine" is moontlik meer korrek as "sneeustorting" in
+   hierdie geval---> naby die planeet se noordpool afgeneem het.^[69]
+   Die Mars Reconnaissance Orbiter het hierdie foto van die Phoenix geneem
+   soos dit na die oppervlak van Mars daal. Alhoewel dit lyk asof dit in
+   die krater land, is dit egter 20 km vóór die krater. Dit is die eerste
+   keer dat 'n ruimtetuig 'n ander afneem tydens sy landing op Mars.
+   Die Mars Reconnaissance Orbiter het hierdie foto van die Phoenix geneem
+   soos dit na die oppervlak van Mars daal. Alhoewel dit lyk asof dit in
+   die krater land, is dit egter 20 km vóór die krater. Dit is die eerste
+   keer dat 'n ruimtetuig 'n ander afneem tydens sy landing op Mars.
+
+   Die onlangsste missie na Mars (die vlugtige verbyvlug van die
+   Dawn-ruimtetuig op pad na Ceres uitgesluit), is NASA se Phoenix, wat op
+   4 Augustus 2007 gelanseer is en op 25 Mei 2008 op die noordelike
+   poolstreek van Mars geland het.^[70] Die landingstuig het 'n robotarm
+   wat oor afstande van 2,5 m kan strek en daartoe in staat is om in die
+   grond op Mars te grawe. Die area waarin die landingstuig homself bevind
+   het 'n 80% kans dat daar ys minder as 30 cm onder die oppervlak sal
+   wees. Die Phoenix het ook 'n mikroskopiese kamera wat 'n
+   skeidingsvermoë van tot een duisende van die breedte van 'n menslike
+   haar het.^[71]
+
+[wysig] Toekomstige missies
+
+   Die Phoenix sal in 2009 gevolg word deur die Mars Science Laboratory:
+   'n groter, vinniger (90 m/uur) weergawe van die twee
+   verkenningswerwers. Eksperimente sluit in 'n laser wat chemiese
+   monsters vanaf 13 m kan neem, om sodoende die samestelling van rotse
+   vas te stel.^[72]
+
+   Die gesamentlike Russiese en Sjinese Fobos-Grunt-missie, wat monsters
+   vanaf Phobos sal terugbring, is beplan vir 'n 2009-lansering. Die ESA
+   beplan om in 2012 hulle eerste swerwer na Mars te lanseer, die
+   Exomars-swerwers sal daartoe in staat wees om 2 m diep in die grond te
+   boor, op soek na organiese molekules.^[73]^[74]
+
+   Die Fins-Russiese MetNet-missie beplan om 'n aantal klein landingstuie
+   na Mars te stuur om 'n wye oppervlaknetwerk te stig wat die planeet se
+   atmosferiese struktuur, fisika en meteorologie sal bestudeer.^[75] As
+   'n voorloper vir die missie sal een of twee landingstuie moontlik
+   tussen 2009 en 2011 gelanseer word. Dit is moontlik dat hulle deur die
+   Fobos-Grunt-tuig ge-abba kan word.^[76] Ander lanserings sal tot in
+   2019 plaasvind.
+
+   President George W. Bush het in 2004 aangekondig dat die Verenigde
+   State bemande missies na Mars geïdentifiseer het as 'n langtermyn doel
+   van hul beleid aangaande ruimteverkenning.^[77] NASA en 'n vervaardiger
+   van ruimtetuie, Lockheed Martin, het reeds begin met die
+   Orion-ruimteskip. Die doel van die Orion is 'n bemande tog na die Aarde
+   sa maan teen 2020, as 'n stap nader aan bemande missies na Mars.
+
+   Die ESA het die hoop uitgespreek om bemande landings tussen 2030 en
+   2035 uit te voer.^[78] Dit sal voorafgegaan word deur toenemend groter
+   sondes, beginnende met die lansering van die ExoMars.
+
+   NASA-administrateur Michael D. Griffin het op 28 September 2007
+   aangekondig dat NASA mik om 'n man teen 2037 op Mars te hê: in 2057
+   "behoort ons 20 jaar van die mens op Mars te vier".^[79]
+
+[wysig] Sterrekunde op Mars
+
+   Die Aarde en die Maan, soos vanaf Mars gesien.
+   Die Aarde en die Maan, soos vanaf Mars gesien.
+
+   Met die bestaan van verskeie wenteltuie, landingstuie en swerwers, is
+   dit nou moontlik om sterrekunde vanaf Mars te studeer. Die Aarde en sy
+   Maan is beide maklik sigbaar, terwyl Mars se een maan, Phobos, omtrent
+   'n derde die deursnee blyk te hê as wat die Maan van die Aarde af het.
+   Deimos vertoon steragtig, bietjie helderder as wat Venus van die Aarde
+   af vertoon.^[80]
+
+   Daar is ook verskeie verskynsels wat bekend is op Aarde en nou ook op
+   Mars waargeneem is, soos meteore en aurora.^[67]Die Aarde sal tussen
+   Mars en die Son beweeg op 10 November 2084, maar dit sal te klein
+   vertoon om as 'n sonsverduistering te kwalifiseer.
+
+[wysig] Besigtiging
+
+   Aan die blote oog vertoon Mars as 'n duidelike geel, oranje of
+   rooierige voorwerp. Vanaf die Aarde waargeneem, wissel die helderheid
+   van die planeet meer as enige ander planeet deur die loop van sy
+   wenteling. Die skyngrootte van Mars wissel van +1,8 konjunksie tot -2,9
+   in periheliese opposisie. Wanneer Mars op sy verste van die Aarde af
+   is, is dit meer as sewe keer so ver as wat dit is wanneer dit op sy
+   naaste is. Op ongunstige tye (vir besigtiging) kan dit vir maande deur
+   die Son se lig weggesteek word. Die gunstigste tye om die planeet te
+   besigtig is slegs twee keer elke 32 jaar is, met 15- en 17-jaar
+   tusseposes, tussen laat Julie en laat September. Op hierdie tye kan 'n
+   magdom oppervlak detail met behulp van 'n teleskoop waargeneem word.
+   Veral die poolkappe is duidelik, selfs met lae vergroting.^[81]
+
+   Die punt van Mars se naaste benadering aan die Aarde staan bekend as
+   opposisie. Die tydperk tussen opvolgende opposisies, ook genoem die
+   sinodiese periode, is 780 dae. As gevolg van die eksentrisiteit van
+   beide planete se wentelbane, kan die tye van opposisie en die minimum
+   afstande tot 8,5 dae verskil. Die minimum afstand wissel tussen
+   ongeveer 55 en 100 miljoen km, as gevolg van die planete se elliptiese
+   wentelbane.^[1] Die volgende opposisie is op 29 Januarie 2010.
+
+   Soos Mars nader aan opposisie beweeg, begin dit 'n periode van
+   oënskynlike agteruitbeweing, wat beteken dat dit sal lyk asof dit
+   agteruit beweeg in vergelyking met die sterre op die agtergrond.
+
+[wysig] 2003 naaste nadering
+
+   Die omwentling van Mars, soos gesien deur 'n klein teleskoop in 2003.
+   Die omwentling van Mars, soos gesien deur 'n klein teleskoop in 2003.
+   Die opposies van Mars van 2003-2018, gesien vanaf die eklipties met die
+   Aarde in die middel.
+   Die opposies van Mars van 2003-2018, gesien vanaf die eklipties met die
+   Aarde in die middel.
+
+   Op 27 Augustus 2003, 9:51:13 UT, het Mars die naaste aan die Aarde
+   gekom in naastenby 60 000 jaar: 55,758,006 km. Dit het gebeur toe Mars
+   een dag van opposisie af was en ongeveer drie dae van sy perihelium,
+   wat beteken dat dit baie maklik was om Mars van die Aarde af te sien.
+   Die vorige keer wat dit so naby aan die Aarde verby gekom het, was in
+   57 617 v.C. en die volgende keer sal eers in 2287 wees. Hierdie
+   rekordafstand is egter slegs 'n klein bietjie nader as ander nabye
+   naderings: die minimum afstand op 22 Augustus 1924 (byvoorbeeld) was
+   0,37284 AE, vergeleke met die 0,37271 AE op 27 Augustus 2003. Die
+   minimum afstand op 24 Augustus 2208 sal 0,37278 AE wees..^[82] Die
+   veranderinge in die Aarde en Mars se wentelbane beteken dat die twee
+   planete telkens nader aan mekaar verbyweeg. Teen die jaar 4000 sal die
+   2003-rekord reeds 22 keer oorskry wees.
+
+[wysig] Geskiedkundige waarnemings
+
+   Die geskiedkundige waarnemings van Mars word gekenmerk deur sy
+   opposisie, wanneer die planeet die naaste aan die Aarde is en dus ook
+   die sigbaarste; iets wat elke paar jaar gebeur. Aristoteles was tussen
+   die eerste bekende skrywers wat sy waarnemings van Mars beskryf het. Hy
+   het genoem dat Mars verder weg is as oorspronklik gedink, gebaseer op
+   waarnemings van wanneer Mars agter die Maan verby beweeg.
+
+   Die enigste waarneming van 'n verduisteing van Mars deur Venus was op 3
+   Oktober 1590, soos gesien deur Michael Maestlin in Heidelberg,
+   Duitsland.^[83]
+
+   Galileo was in 1609 die eerste persoon om Mars deur 'n teleskoop te
+   sien.
+   'n Kaart van Mars deur Giovanni Schiaparelli.
+   'n Kaart van Mars deur Giovanni Schiaparelli.
+
+   Teen die 19de eeu het die resolusies van telekope só gevorder dat
+   oppervlakverskynsels geïdentifiseer kon word. In September 1887 het 'n
+   periheliese opposisie van Mars op 5 September plaasgevind. In Milaan
+   het die Italiaanse sterrekundige, Giovanni Schiaparelli, daardie jaar
+   'n 22 cm teleskoop gebruik in die skepping van die eerste
+   gedetailleerde kaart van Mars. Hierdie kaarte het verskynsels bevat
+   waarna Schiaparelli as "canali" verwys het, wat later as 'n optiese
+   illusie verduidelik sou word. Hierdie "canali" was veronderstel om
+   lang, reguit lyne op Mars se oppervlak te wees en Schiaparelli het aan
+   hulle die name van bekende riviere op Aarde gegee.
+   'n Skets van Mars soos waargeneem deur Lowell voor 1914.
+   'n Skets van Mars soos waargeneem deur Lowell voor 1914.
+
+   Percival Lowell, 'n wiskundige en sterrekundige, het die
+   Lowell-observatorium gesitg, wat 'n 300- en 450 mm-teleskoop gehad het.
+   Die observatorium was gebruik vir die verkenning van Mars tydens die
+   laaste gunstige tyd daarvoor in 1894 en die daaropvolgende minder
+   gunstige opposisies. Hy het verskeie boeke oor Mars en lewe op die
+   planeet uitgee, wat 'n groot invloed op die publiek gehad het.
+   Schiaparelli se "canali" is ook deur Lowell waargeneem, asook deur die
+   sterrekundiges Henri Joseph Perrotin en Louis Thollon in Nice, wie een
+   van die grootste teleskope van die tyd gebruik het.
+
+   Die seisoenale veranderinge (bestaande uit die krimp van die poolkappe
+   en die donker areas sigbaar tydens 'n somer) in kombinasie met die
+   kanale, het gelei tot spekulasies oor lewe op Mars; dit was reeds lank
+   geglo dat Mars uitgestrekte seë en plantegroei bevat. Die teleskoop het
+   nooit die vereisde resolusie bereik wat hierdie spekulasies kon bewys
+   of ontken nie. Soos beter en groter teleskope beskikbaar geword het, is
+   daar minder lang, reguit kanale waargeneem. Tydens 'n waarneming in
+   1909 deur Camille Flammarion met 'n 840 mm-teleskoop, is onreëlmatige
+   patrone waargeneem, maar daar was geen spoor van die kanale nie.^[84]
+   Kaart van Mars van die Hubble-ruimteteleskoop, soos gesien naby die
+   1999-opposisie.
+   Kaart van Mars van die Hubble-ruimteteleskoop, soos gesien naby die
+   1999-opposisie.
+
+   Selfs in die 1960's is artikels oor die biologie van Mars gepubliseer,
+   waarin geen of min aandag geskenk is aan ander verduidelikings behalwe
+   die teenwoordigheid van lewe as 'n rede vir die seisoenale veranderinge
+   nie. Gedetailleerde scenario's vir die metabolisme en chemiese siklusse
+   vir 'n funksionele ekostelsel op Mars is ook gepubliseer.^[85]
+
+   Dit was eers met die eerste besoek van die Mariner-ruimteskepe in die
+   1960's wat hierdie mites weerspreek is. Die resultate van die
+   Viking-eksperimente het 'n tussenpose ingelui waarin die teorie van 'n
+   onbewoonbare, dooie planeet algemeen aanvaar was.
+
+   Sommige kaarte van Mars is saamgestel deur gebruik te maak van data uit
+   hierdie missies, maar dit was eers met die missie van die Mars Global
+   Surveyor (1996-2006), wat die eerste voltooide en uiters gedetailleerde
+   kaarte verkry kon word. Hierdie kaarte is tans op die Internet
+   verkrygbaar.^[86]
+
+[wysig] Mars in kultuur
+
+[wysig] Geskiedkundige konneksies
+
+   Mars is vernoem na die Romeinse god van oorlog. In Babiloniese
+   sterrekunde is die planeet na Nergal, die god van vuur, oorlog en
+   verwoesting vernoem, moontlik as gevolg van die planeet se rooierige
+   voorkoms.^[87] Toe die antieke Grieke Nergal met húlle god van oorlog,
+   Ares, gelyk gestel het, het hulle die planeet (Areos aster) of "ster
+   van Ares" genoem. Na die gelykstelling van Romeinse en Griekse gode is
+   dit na Latyn vertaal as stella Martis, die "ster van Mars", of
+   gewoonweg "Mars". Die Grieke het ook na die planeet as Pyroeis verwys,
+   wat "vurig" beteken.
+
+   Die planeet se simbool, afkomstig van die planeet se simbool soos
+   gebruik in sterrewiggelary, is 'n sirkel met 'n klein pyl wat na buite
+   wys. Dit is 'n gestileerde voorstelling van die skild en spies wat deur
+   die Romeinse god Mars gebruik is. Dis simbool word ook in biologie
+   gebruik om die manlike geslag voor te stel en in alchemie om yster voor
+   te stel: vroeër is dit geglo dat dié element deur Mars gedomineer
+   word.^[88]
+
+[wysig] Intelligente Marsmannetjies
+
+   'n Seepadvertensie uit 1893 gebruik die toe gewilde idee dae Mars
+   bewoon is.
+   'n Seepadvertensie uit 1893 gebruik die toe gewilde idee dae Mars
+   bewoon is.
+
+   Laat in die 19de eeu het die idee dat Mars deur intelligente
+   Marsmannetjies bewoon word groot houvas gekry. Die Italiaanse
+   sterrekundige Giovanni Schiaparelli se waarneming van die kanale op
+   Mars, gepaard met Percival Lowell se boek oor die onderwerp, het die
+   nosie geskep van 'n sterwende planeet wat besig is om uit te droog en
+   af te koel, met 'n antieke beskawing besig om besproeïngskanale te
+   bou.^[89]
+
+   Baie ander waarnemings en bewerings deur noemenswaardige persoonlikhede
+   het bygedra tot wat vandag bekend staan as "Marskoors".^[90] In 1899
+   het Nikola Tesla atmosferiese radiogedruis met sy ontvangers in sy
+   Colorado Spring laboratorium ondersoek. Hy het herhalende seine
+   waargeneem wat hy later vermoed het moontlik radiokommunikasie van 'n
+   ander planeet was, moontlik van Mars. In 'n onderhoud in 1901 het Tesla
+   gesê:
+
+
+   Mars (planeet)
+
+      Dit was 'n tydjie later wat die gedagte by my opgekom het dat die
+     verstorings wat ek waargeneem het moontlik aan intelligente beheer
+   toegeskryf kan word. Alhoewel ek nie hulle betekenis kon ontsyfer nie,
+     was dit vir my onmoontlik om aan hulle as geheel en al toevallig te
+    dink. Die gevoel kry hoe langer hoe meer vat op my dat ek die eerste
+       een was om die groet van een planeet aan 'n ander te hoor.^[91]
+
+
+   Mars (planeet)
+
+   Tesla se teorieë het ondersteuning van die Ierse fisikus Baron Kelvin
+   ontvang. Kelvin het die Verenigde State in 1902 besoek en volgens een
+   verslag het hy gesê het dat hy van mening is dat Tesla seine ontvang
+   het wat van Mars aan die Verenigde State gestuur is.^[92] Kort voor hy
+   die V.S.A. verlaat het, het Kelvin hierdie die verslag se bewerings met
+   nadruk ontken: "Wat ek regtig gesê het, is dat die inwoners van Mars,
+   indien daar enige is, sonder twyfel New York sou kon raak sien, veral
+   die gluur van die elektrisiteit".^[93]
+
+   In 'n artikel in die New York Times in 1901, het Edward Charles
+   Pickering, die direkteur van die Harvard Kollege-observatorium gesê dat
+   hulle 'n telegram van die Lowell-observatorium in Arizona ontvang het,
+   wat blyk te bevestig dat Mars probeer om met die Aarde te kommunikeer:
+
+
+   Mars (planeet)
+
+   Vroeg in Desember van 1900 het ons van Lowell-observatorium in Arizona
+      'n telegram ontvang dat daar gesien is dat 'n ligkolom vanaf Mars
+         geprojekteer is (die Lowell-observatiorium maak van Mars 'n
+    spesialiteit) wat sewentig minute geduur het. Ek het hierdie feite na
+   Europa gesein en neostylkopieë deur hierdie land gestuur. Die waarnemer
+   daar is 'n versigtige, betroubare man en daar is geen rede om te twyfel
+       dat die lig bestaan het nie. Dit was gegee as vanaf 'n bekende
+   geografiese punt op Mars. Dit was al. Nou het die storie die wêreld oor
+    gereis. In Europa is dit gesê dat ek in kommunikasie met Mars was en
+    allerhande oordrywings het ontstaan. Wat ook al die lig was, ons het
+     geen manier om te weet nie. Of dit intelligensie gehad het of nie,
+          niemand kan sê nie. Dit is volkome onverklaarbaar.^[94]
+
+
+   Mars (planeet)
+
+   Pickering het later voorgestel dat 'n stel spieëls in Texas opgestel
+   word, met die bedoeling om met Marsbewoners te kommunikeer.
+
+   Pulsars (of eerder neutronsterre) straal elektromagnetiese straling
+   uit, gewoonlik in lae frekwensie golwe, soos radiogolwe. Hulle doen dit
+   redelik reëlmatig en word selfs deur sommige observatoriums as
+   horlosies gebruik. Nikola Tesla het moontlik nie 'n boodskap van
+   ruimtewesens ontvang nie, want hy het slegs 'n lesing van 'n enkele
+   teleskoop tot sy beskikking gehad: hy kon slegs die rigting van die
+   sein vasstel, nie die presiese plek van oorsprong nie. Om die posisie
+   in drie dimensies vas te stel, word twee waarnemers benodig, of twee
+   verskillende waarnemings, ten einde die oorsprong van die sein te
+   trianguleer. Radioteleskoopvelde het nie in Tesla se tyd bestaan nie,
+   dus is dit hoogs onwaarskynlik dat hy radioseine van twee verskillende
+   plekke waargeneem het. Die seine was dus moontlik afkomstig vanaf 'n
+   pulsar wat in dieselfde rigting as Mars geleë was.
+
+[wysig] In fiksie
+
+   Danksy Mars se dramatiese rooi kleur en vroeë spekulasies oor die
+   oppervlaktoestande wat moontlik intelligente lewe kan ondersteun, is
+   die planeet dikwels uitgebeeld in fiksie.
+   'n Buiteruimse driepoot - 'n illustrasie uit 'n 1906 Franse weergawe
+   van H.G. Wells se The War of the Worlds".
+   'n Buiteruimse driepoot - 'n illustrasie uit 'n 1906 Franse weergawe
+   van H.G. Wells se The War of the Worlds".
+
+   Die planeet kom dikwels voor in wetenskapfiksie, die bekendste
+   voorbeeld is waarskynlik H. G. Wells se The War of the Worlds (1898).
+   Wells se verhaal bevat Marsbewoners wat hulle sterwende planeet wil
+   ontsnap deur die Aarde in te neem. 'n Radioweergawe van die verhaal is
+   op 30 Oktober 1938 in die V.S.A in die vorm van 'n regstreekse
+   nuusuitsending uitgesaai; baie luisteraars het dit vir werklikheid
+   aangeneem en uit hulle huise gevlug.^[95]
+
+   Ander invloedryk verhale was onder andere Ray Bradbury se The Martian
+   Chronicles, Edgar Rice Burroughs se Barsoom-reeks en 'n aantal van
+   Robert A. Heinlein se romans voor die middel van die sestigerjare.
+
+   Ook Jonathan Swift het na Mars se mane verwys: 150 jaar voor hulle
+   ontdek is deur Asaph Hall. Swift het 'n redelike akkurate beskrywing
+   van die mane se omwentelings in die 19de hoofstuk van Gulliver's
+   Travels ingesluit.^[96]
+   Die "Gesig van Mars", soos afgeneem in 1976
+   Die "Gesig van Mars", soos afgeneem in 2007
+
+   Na die Mariner- en Viking-ruimtetuie met foto's van Mars teruggekeer
+   het, het die beelde van 'n blykbaar lewelose planeet vroeë idees oor
+   Mars laat weg kwyn en plek gemaak vir meer akkurate en realistiese
+   uitbeeldings van menslike kolonies op die planeet. Die bekendste
+   hiervan is moontlik Kim Stanley Robinson se Mars-trilogie.
+   Skynwetenskaplike spekulasies oor die "Gesig van Mars" en ander
+   raaiselagtige landmerke beteken dat antieke beskawings op Mars egter
+   steeds 'n gewilde tema in wetenskapfiksie is, veral in rolprente.^[97]
+
+   'n Ander gewilde tema, veral onder Amerikaanse skrywers, is die
+   Marskolonie wat veg vir onafhanklikheid van die Aarde. Hierdie is 'n
+   hooftema in die romans van Greg Bear en Kim Stanley Robinson, asook in
+   die rolprent Total Recall (gebaseer op 'n kortverhaal deur Philip K.
+   Dick) en die televisiereeks Babylon 5.
+
+[wysig] In musiek
+
+   In Gustav Holst se The Planets, word Mars as die "brenger van oorlog"
+   uitgebeel.
+
+[wysig] Verwysings en aantekeninge
+
+     * Hierdie artikel, of gedeeltes daarvan, is vertaal vanaf die Engelse
+       Wikipedia-artikel "Mars"
+
+    1. ^ ^1,0 ^1,1 ^1,2 ^1,3 ^1,4 ^1,5 David R. Williams: Mars Fact Sheet
+       vir die National Space Science Data Center: NASA, 1 September 2004.
+       Verkry op 2006-06-24
+    2. ^ NASA/JPL (6 Decsmber 2006): NASA Images Suggest Water Still Flows
+       in Brief Spurts on Mars. Verkry op 2007-01-04.
+    3. ^ NASA (20 September 2005); Webster, G.; Beasley, D.: Orbiter's
+       Long Life Helps Scientists Track Changes on Mars. Verkry op
+       2007-02-26.
+    4. ^ Peplow, Mark: How Mars got its rust. Verkry op 2007-03-10.
+    5. ^ Goddard Space Flight Center: New Map Provides More Evidence Mars
+       Once Like Earth. Verkry op 2006-03-17.
+    6. ^ Dave Jacqué: APS X-rays reveal secrets of Mars' core. Argonne
+       National Laboratory: 26 September 2003. Verkry op 2006-07-01.
+    7. ^ ^7,0 ^7,1 Haberle, R. M, en ander (2001): On the possibility of
+       liquid water on present-day Mars, soos verskyn in die Journal of
+       Geophysical Research. 106(E10), 23,317–23,326. Verkry op
+       2006-10-06. 'n Uittreksel is (hier verkrygbaar, die volledige
+       verslag is slegs beskikbaar aan AGU-intekenaars of vereis die
+       aankoop daarvan.
+    8. ^ Journal of Geophysical Research, 7 Maart 2005: Formation of
+       Martian gullies by the action of liquid water flowing under current
+       Martian environmental conditions, deur Jennifer L. Heldmann en
+       ander. Volume 110. Verkry op 2007-08-12. Uit die teks: "conditions
+       such as now occur on Mars, outside of the temperature-pressure
+       stability regime of liquid water" ... "Liquid water is typically
+       stable at the lowest elevations and at low latitudes on the planet
+       because the atmospheric pressure is greater than the vapor pressure
+       of water and surface temperatures in equatorial regions can reach
+       273 K for parts of the day [Haberle et al., 2001]'
+    9. ^ ^9,0 ^9,1 V.-P. Kostama, M.A. Kreslavsky en J.W. Head: Recent
+       high-latitude icy mantle in the northern plains of Mars:
+       Characteristics and ages of emplacement. Geophysical Research
+       Letters, 3 Junie 2006. 33: L11201. Verkry op 2007-08-12.
+   10. ^ NASA, 15 Maart 2007: Mars' South Pole Ice Deep and Wide. Verkry
+       op 2007-03-16.
+   11. ^ John B. Murray en ander: Evidence for a frozen sea close to Mars'
+       equator. Nature: 434: 352–355, 17 Maart 2005. Verkry op 2007-03-11.
+   12. ^ Kerr, Richard A.: Ice or Lava Sea on Mars? A Transatlantic Debate
+       Erupts. Science, 307: 1390–1391, 4 Maart 2005. Verkry op 16
+       November 2007.
+   13. ^ ^13,0 ^13,1 W. L. Jaeger en ander: Athabasca Valles, Mars: A
+       Lava-Draped Channel System. Science, 317: 1709 - 1711. 21 September
+       2007. Laaste besoek op 16 November 2007.
+   14. ^ W.V. Boynton en ander: Concentration of H, Si, Cl, K, Fe, and Th
+       in the low and mid latitude regions of Mars, in die Journal of
+       Geophysical Research, Planets.
+   15. ^ W. C. Feldman en ander Topgraphic control of hydrogen deposits at
+       low latitudes to midlatitudes of Mars, in die Journal of
+       Geophysical Research, 30 November 2005, vol. 110. Verkry op 16
+       November 2007.
+   16. ^ Michael C. Malin: Evidence for Recent Groundwater Seepage and
+       Surface Runoff on Mars, in Science, 288: 2330-2335. 30 Junie 2000.
+   17. ^ [http://www.nasa.gov/mission_pages/mars/news/mgs-20061206.html
+       NASA Images Suggest Water Still Flows in Brief Spurts on Mars, 6
+       Desember 2006. Verkry op 2006-12-06.
+   18. ^ Water flowed recently on Mars, by BBC-nuus. 6 Desember 2006.
+       Verkry op 2006-12-06.
+   19. ^ Water May Still Flow on Mars, NASA Photo Suggests, deur NASA. 6
+       Desember 2006.
+   20. ^ [http://www.jpl.nasa.gov/releases/2004/88.cfm Mineral in Mars
+       'Berries' Adds to Water Story deur NASA. 3 Maart 2004. Verkry op
+       2006-06-13.
+   21. ^ A. S. McEwen en ander: A Closer Look at Water-Related Geologic
+       Activity on Mars. Soos verskyn in Science, vol 317: 1706-1709. 21
+       September 2007.
+   22. ^ Sheehan, William:
+       [http://www.uapress.arizona.edu/onlinebks/mars/chap04.htm
+       Areographers - The Planet Mars: A History of Observation and
+       Discovery]. Verkry op 2006-06-13.
+   23. ^ Viking and the Resources of Mars (PDF) as deel van Humans to
+       Mars: Fifty Years of Mission Planning, 1950–2000. Verkry op
+       2007-03-10.
+   24. ^ Think Quest: Topography. Verkry op 2007-03-13.
+   25. ^ Frommert, H.; Kronberg, C.: Christiaan Huygens. Verkry op
+       2007-03-10.
+   26. ^ Wright, Shawn: [Infrared Analyses of Small Impact Craters on
+       Earth and Mars, by die webwerf van die University of Pittsburgh. 4
+       April 2003. Verkry op 2007-02-26.
+   27. ^ Mars Global Geography, deel van Windows to the Universe. Verkry
+       op 2006-06-13.
+   28. ^ Wetherill, G. W.: Problems Associated with Estimating the
+       Relative Impact Rates on Mars and the Moon, uit Earth, Moon, and
+       Planets. 1999: 9, bl. 227. Verkry op 2007-02-26.
+   29. ^ Lucchitta, B. K.; Rosanova, C. E., 26 Augustus 2003. Valles
+       Marineris; The Grand Canyon of Mars, by die webwerf van die USGS.
+       Verkry op 2007-03-11.
+   30. ^ Themis Observes Possible Cave Skylights on Mars (PDF), deur G. E.
+       Cushing, T. N. Titus, J. J. Wynne en P. R. Christensen. 2007: Lunar
+       and Planetary Science XXXVIII. Verkry op 2007-08-02.
+   31. ^ Cave entrances' spotted on Mars. Northern Arizona University.
+       Verkry op 2007-05-28.
+   32. ^ Researchers find possible caves on Mars, deur Paul Rincon van die
+       BBC-nuus. Verkry op 2007-05-28.
+   33. ^ Philips, Tony: The Solar Wind at Mars (2001), by die webwerf van
+       Science@NASA. Verkry op 2006-10-08
+   34. ^ R. Lundin, S. Barabash, H. Andersson en ander: Solar Wind-Induced
+       Atmospheric Erosion at Mars: First Results from ASPERA-3 on Mars
+       Express soos verskyn in Science. 2004, volume 305, bls. 1933–1936
+   35. ^ Lemmon , en ander: Atmospheric Imaging Results from Mars Rovers,
+       soos verskyn in Science. Volume 306, bls. 1753 - 1756 (2004).
+   36. ^ V. Formisano, S. Atreya, T. Encrenaz, N. Ignatiev, M. Giuranna:
+       Detection of Methane in the Atmosphere of Mars, soos verskyn in
+       Science. Vol. 306, bls. 1758–1761 (2006).
+   37. ^ ESA: Mars Express confirms methane in the Martian atmosphere, 30
+       Maart 2004.. Verkry op 2006-03-17.
+   38. ^ Martin Baucom: Life on Mars?, soos verskyn in American Scientist.
+       2006, volume 94. Verkry op 2008-05-29.
+   39. ^ ^39,0 ^39,1 Christopher Oze en Mukul Sharma: Have olivine, will
+       gas: Serpentinization and the abiogenic production of methane on
+       Mars, soos verskyn in die Geophysical Research Letters 32: L10203
+       (2005)
+   40. ^ J. T. Mellon, W. C. Feldman, T. H. Prettyman: The presence and
+       stability of ground ice in the southern hemisphere of Mars, soos
+       verskyn in Icarus. 169:2, bls. 324-340 (2003). Verkry op 2007-02-26
+   41. ^ Nasa, 13 Des. 2004: Mars Rovers Spot Water-Clue Mineral, Frost,
+       Clouds. Verkry op 2006-03-17.
+   42. ^ MGCM/NASA: Mars' desert surface.... Verkry op 2007-02-25.
+   43. ^ Goodman, Jason C The Past, Present, and Possible Future of
+       Martian Climate (22 September 1997), op die webwerf van die
+       Massachusetts Institute of Technology. Verkry op 2007-02-26.
+   44. ^ Philips, Tony Planet Gobbling Dust Storms (16 Julie 2001), by die
+       webwerf van Science @ NASA. Verkry op 2006-06-07.
+   45. ^ Darling, David: Mars, polar caps, ENCYCLOPEDIA OF ASTROBIOLOGY,
+       ASTRONOMY, AND SPACEFLIGHT. Verkry op 2007-02-26.
+   46. ^ Mira.org: MIRA's Field Trips to the Stars Internet Education
+       Program. Verkry op 2007-02-26.
+   47. ^ Carr, Michael H. Oceans on Mars: An assessment of the
+       observational evidence and possible fate, soos verskyn in die
+       Journal of Geophysical Research, 2003, 108:5042, bl. 24. Verkry op
+       2007-02-26.
+   48. ^ Dr. Tony Phillips: Mars is Melting, by die Science @
+       NASA-webwerf. Verkry op 2007-02-26.
+   49. ^ J. J. Plaut, G. Picardi, A. Safaeinili, A. B. Ivanov en ander:
+       Subsurface Radar Sounding of the South Polar Layered Deposits of
+       Mars, soos verskyn in Science. 2007, volume 315.
+   50. ^ Pelletier, J. D.: How do spiral troughs form on Mars?, soos
+       verskyn in Geology. 2004, vol. 32, bls. 365–367. Verkry op
+       2007-02-27
+   51. ^ Mars Polar Cap Mysery Solved, by die webwerf van MarsToday.Com.
+       Verkry op 2007-01-23.
+   52. ^ Mars' Orbital eccentricity over time by die webwerf van die
+       Universita' degli Studi di Napoli Federico II (2003). In Italiaans.
+       Verkry op 2007-07-20.
+   53. ^ Jean Mees (Maart 2003): When Was Mars Last This Close?, by die
+       webwerf van die International Planetarium Society. Verkry op
+       2008-05-29.
+   54. ^ Ron Baalke, 22 Aug 2003: Mars Makes Closest Approach In Nearly
+       60,000 Years.
+   55. ^ ESA: Close Inspection for Phobos. Verkry op 2006-06-13.
+   56. ^ ^56,0 ^56,1 Arnett, Bill: Phobos, by nineplanets.org. 20 November
+       2004. Verkry op 2006-06-13
+   57. ^ cott Ellis,
+       [http://calspace.ucsd.edu/Mars99/docs/library/science/geological_hi
+       story/moons1.html Geological History: Moons of Mars. Verkry op
+       2007-08-02.
+   58. ^ 15 Februarie 2008: Early Mars 'too salty' for life, deur Helen
+       Briggs, die BBC se wetenskapverslaggeefster. Verkry op 2008-02-16.
+   59. ^ Hannsson, Anders (1997). Mars and the Development of Life. ISBN
+       0-471-96606-1.
+   60. ^ Physorg.com (7 Januarie 2007). New Analysis of Viking Mission
+       Results Indicates Presence of Life on Mars. Verkry op 2007-03-02.
+   61. ^ Vladimir A. Krasnopolsky, Jean-Pierre Maillard en Tobias C. Owen
+       (2004). Detection of methane in the Martian atmosphere: evidence
+       for life?, soos verskyn in Icarus. Volume 172, bls. 537–547.
+   62. ^ 25 Februarie 2005. Formaldehyde claim inflames Martian debate.
+       Verkry op 2006-03-19.
+   63. ^ through the galaxy: Other Mars Missions. Verkry op 2006-06-13.
+   64. ^ CNN - Destination Mars: Mars Global Surveyor. Verkry op
+       2006-06-13.
+   65. ^ Britt, Robert. Odyssey Spacecraft Generates New Mars Mysteries,
+       by die webwerf van Space.com. 14 Maart 2003. Verkry op 2006-06-13.
+   66. ^ Wardell, Jane. Europe's Beagle 2 Mars Probe Stays Ominously
+       Silent, by die webwerf van Space.com. 26 Januarie 2004. Vekry op
+       2006-06-13.
+   67. ^ ^67,0 ^67,1 Jean-Loup Bertaux en ander Discovery of an aurora on
+       Mars, soos verskyn op die webwerf van Nature Magazine op 9 Junie
+       2005. Verkry op 2006-06-13.
+   68. ^ Mars Exploration Rovers, by die webwer van NASA se MER-program.
+       Verkry op 2006-06-13.
+   69. ^ CNN:
+       [http://edition.cnn.com/2008/TECH/space/03/03/mars.avalanche.ap/ind
+       ex.html Photo shows avalanche on Mars. Verkry op 2008-03-04.
+   70. ^ Mars Pulls Phoenix In, by die webwerf van die University of
+       Arizona . Verkry op 2008-5-25.
+   71. ^ NASA:
+       [http://www.nasa.gov/missions/solarsystem/phoenix_water.html
+       Phoenix: The Search for Water. Verkry op 2007-03-03.
+   72. ^ Mars Science Laboratory, by NASA se MSL-webwerf. Verkry op
+       2007-03-03.
+   73. ^ ESA: [http://www.esa.int/SPECIALS/Aurora/SEM1NVZKQAD_0.html/
+       ExoMars. Verkry op 2007-03-03.
+   74. ^ Paul Rincon,
+       [http://news.bbc.co.uk/2/hi/science/nature/6133712.stm European
+       Mars launch pushed back. 10 November 2006. Verkry op 2006-10-10.
+   75. ^ MetNet Mars Mission
+   76. ^ MetNet Mars Precursor Mission
+   77. ^ Robert Britt When do we get to Mars?, by die Webwerf van
+       Space.com. Verkry op 2006-06-1.
+   78. ^ ESA: [http://www.esa.int/SPECIALS/Aurora/ESAONKTHN6D_0.html
+       Liftoff for Aurora: Europe’s first steps to Mars, the Moon and
+       beyond, 11 Oktober 2002. Verkry op 2007-03-03.
+   79. ^ NASA aims to put man on Mars by 2037. Yahoo.com.
+   80. ^ Deimos, deel van Planetary Societies's Explore the Cosmos. Verkry
+       op 2006-06-13.
+   81. ^ Mars Observing FAQ, by die webwerf van Shallow Sky. Verkry op
+       2006-06-15.
+   82. ^ Joe Rao. NightSky Friday – Mars and Earth: The Top 10 Close
+       Passes Since 3000 B.C., by die webwerf van Space.com. 22 Augustus
+       2003. Verkry op 2006-06-13.
+   83. ^ Stephen Breyer, Mutual Occultation of Planets. Soos verskyn in
+       Sky and Telescope. Maart 1979. Vol.57 #3, bl. 220.
+   84. ^ Zahnle K. Decline and fall of the Martian empire. Soso verskyn in
+       Nature. Vol. 412, bls. 209-213. 2001
+   85. ^ F.B. Salisbury. Martian Biology. Soos verskyn in Science (1962).
+       Volume 136: 3510, bls. 17–26. Verkry op 2007-02-26.
+   86. ^ Google Mars, besoek op 2007-02-26.
+   87. ^ Sheeham, William; 2 February 1997:
+       http://www.uapress.arizona.edu/onlinebks/mars/chap01.htm Motions of
+       Mars], deel van The Planet Mars: A History of Observation and
+       Discovery. Verkry op 2006-06-13.
+   88. ^ Planet Symbols, deel van NASA solar system exploration. Verkry op
+       2006-06-13.
+   89. ^ Percivel Lowell's Canals, verkry op 2007-03-01.
+   90. ^ Charles Fergus: Mars Fever van Research/Penn State. Mei 2004.
+       Vol. 24, uitgawe 2. Verkry op 2007-08-02.
+   91. ^ Nikola Tesla: [http://earlyradiohistory.us/1901talk.htm Talking
+       with the Planets. 19 Februarie 1901, gepubliseer deur Collier's
+       Weekly. Verkry op 2007-05-04.
+   92. ^ Cheney, Margaret: Tesla, man out of time. Prentice-Hall, 1981:
+       Englewood Cliffs, New Jersey. Bl. 162. ISBN 978-0-13-906859-1
+   93. ^ "Departure of Lord Kelvin", The New York Times, 11 Mei, 1902,
+       bl.29.
+   94. ^ Professor Pickering: The Light Flash From Mars] in die New York
+       Times van 16 Januarie 1901. Aanlyn weergawes is verkrygbaar by [1]
+       en [2] (PDF). Verkry op 2008-05-28.}}
+   95. ^ Radio's War of the Worlds Broadcast (1938). Verkry op 2007-03-01.
+   96. ^ David Darling: Swift, Jonathan and the moons of Mars. Verkry op
+       2007-03-01.
+   97. ^ Kathy Miles en Charles F Peters II: Unmasking the Face. Verkry op
+       2007-03-01.
+
+[wysig] Ekterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Category:Mars
+     * 3D-kaarte van Mars in NASA se World Wind
+     * Google Mars – Interaktiewe beelde van Mars
+     * Flight Into Mariner Valley – NASA/JPL/Arizona Staatsuniversiteit
+       bied 'n 3D-verbyvlug van Valles Marineris
+     * Marsgeo.com – Mars Rover: Foto's, video's en oppervlakgeologie
+     * Guide to Mars – inligting oor Mars, asook hoe om die vanaf die
+       Aarde te besigtig
+     * On Mars: Exploration of the Red Planet 1958–1978 van NASA se
+       History Office.
+     * Mars - artikels oor die Rooi Planeet by die webwerf van Planetary
+       Science Research Discoveries
+
+                                  Die sonnestelsel
+   [USEMAP:Solar_System_XXVII.png] Beeldinligting
+   Die son · Mercurius · Venus · Aarde · Mars · Ceres · Jupiter · Saturnus
+   · Uranus · Neptunus · Pluto · Eris
+   Planete · Dwergplanete · Mane: Aarde · Mars · Asteroïdies · Jupiter ·
+   Saturnus · Uranus · Neptunus · Pluto · Eris
+   Klein hemelliggame:   Meteoroïdes · Asteroïdes (die astroïdegordel) ·
+   Centaurs · TNV's (Kuipergordel/Verstrooide skyf) · Komete (Oortwolk)
+   Kategorie: Planete
+

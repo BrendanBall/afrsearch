@@ -1,0 +1,27 @@
+Elektroniese skakelaar
+
+
+   'n Elektroniese skakelaar is 'n skakelaar wat 'n elektroniese komponent
+   gebruik vir die skakelaksie, dikwels 'n transistor. Die transistors kan
+   van die Veldeffek- of die Bipolêre spervlaksoort wees. Elektroniese
+   skakelaars word gebruik in digitale stroombane.
+
+[wysig] Bipolêre transistorskakelaar
+
+   NPN Transistorsimbool
+   NPN Transistorsimbool
+
+   'n Bipolêre (NPN) transistor kan as 'n skakelaar gebruik word deur die
+   spanningsverskil oor die basis (B) en die Emittor (E), V[BE] groot
+   genoeg te maak (tipies 0.7V) sodat die versadigingstroom oor die
+   Kollektor (C) en die Emittor (E) bereik word wanneer daar 'n spanning
+   V[CE] oor C en E uitgeoefen word deur 'n spanningsbron. Die skakelaar
+   is dan aangeskakel. Indien die spanningsverskil V[BE] gelyk is aan nul,
+   vloei daar geen stroom nie en is die skakelaar in die af posisie.
+
+[wysig] Verwysings
+
+   [1] Verduideliking van hoe 'n Bipolêre spervlaktransistor gebruik word
+   as 'n skakelaar.
+   Kategorie: Elektronika
+

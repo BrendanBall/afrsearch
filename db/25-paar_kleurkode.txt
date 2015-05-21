@@ -1,0 +1,82 @@
+25-paar kleurkode
+
+
+   25-Paar Kleurkode Kaart
+
+   Die 25-paar kleurkode is 'n kleurkode wat gebruik word om indiwiduele
+   geleiers in 'n soort elektriese kommunikasiekabel naamlik gedraaide
+   draadpaarkabels te identifiseer. Die kleure word op die isolasie
+   aangebring wat die geleiers bedek. Die eerste kleur word gekies uit 'n
+   groep van vyf kleure en die ander vanuit 'n tweede groep van vyf kleure
+   wat 'n totaal van 25 moontlike kombinasies van twee kleure gee.
+     * Die eerste groep van kleure is, in volgorde: wit, rooi, swart,
+       geel, pers.
+     * Die tweede groep van kleure is, in volgorde: blou, oranje, groen,
+       bruin, grys.
+
+   Die 25 kombinasies word op die beeld hier aan die regterkant aangedui.
+
+   Die 25 kombinasies word ook op die onderstaande tabel aangetoon en toon
+   die kleur vir elke draad ("1" en "2") en die paarnommer sowel as die
+   kaart na die paarnommer soos vertoon in die beeld verder ondertoe.
+
+   Die eerste vyf kombinasies word baie algemeen in telekommunikasie- en
+   datakabels aangetref.
+   nommer in die sel is die paarnommer
+   Kleurkodes 2^de kleur
+   Blou Oranje Groen Bruin Grys
+   Draad # in paar-> 1 2 1 2 1 2 1 2 1 2
+   1^ste kleur Wit 1   2   3   4   5
+   Rooi 6   7   8   9   10
+   Swart 11   12   13   14   15
+   Geel 16   17   18   19   20
+   Pers 21   22   23   24   25
+
+   Soms sal elke draad in 'n paar 'n gekleurde streep of ringe hê met die
+   kleur van sy ooreenstemmende gepaarde draad. Dit maak dit maklik om te
+   identifiseer tot watter paar 'n gegewe draad behoort. Anders sou mens
+   die kleurkaart moet gebruik om vas te stel watter kleure fisies
+   saamgedraai moet word.
+   Paar # Eerste draad Tweede draad
+   1      Wit          Blou
+   2                   Oranje
+   3                   Groen
+   4                   Bruin
+   5                   Grys
+   6      Rooi         Blou
+   7                   Oranje
+   8                   Groen
+   9                   Bruin
+   10                  Grys
+   11     Swart        Blou
+   12                  Oranje
+   13                  Groen
+   14                  Bruin
+   15                  Grys
+   16     Geel         Blou
+   17                  Oranje
+   18                  Groen
+   19                  Bruin
+   20                  Grys
+   21     Pers         Blou
+   22                  Oranje
+   23                  Groen
+   24                  Bruin
+   25                  Grys
+
+   Wanneer dit gebruik word vir gewone analoë dienste, word die eerste
+   draad gewoonlik as die gronddraad gebruik, die positiewe kant van die
+   gelykstroom stroombaan, terwyl die tweede draad aan die negatiewe kant
+   van die stroombaan verbind word.
+
+   Vir kabels wat meer as 25 pare bevat, word die eerste 25 pare gemerk
+   met 'n Wit/Blou lint, die tweede 25 pare met 'n Wit/Oranje lint
+   ensovoorts tot by die 25ste verbindingsgroep (625 pare), wat 'n
+   Pers/Grys lint sal hê. Die patroon begin dan weer van voor af en word
+   dan weer herhaal.
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Color code
+   Kategorieë: Telekommunikasie • Rekenaarnetwerke
+

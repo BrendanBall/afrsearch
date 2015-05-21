@@ -1,0 +1,129 @@
+Meter
+
+
+   Die meter (simbool: m) is die SI-basiseenheid van lengte. Dit word
+   gedefinieer as die lengte van die pad wat lig in 'n absolute vakuum in
+   'n tydsinterval van 1 / 299 792 248 van 'n sekonde.
+
+   Deur 'n SI-voorvoegsel voor die meter te voeg kan veelvoude en
+   breukdele aangedui word; byvoorbeeld kilometer (1000 meter; kilo- =
+   1000) en nanometer (een miljardste van 'n meter; nano- = 1 / 1 000 000
+   000).
+
+   Inhoud
+
+        * 1 Omskakelings
+        * 2 Geskiedenis
+        * 3 SI veelvoude
+        * 4 Sien ook
+        * 5 Eksterne skakels
+
+[wysig] Omskakelings
+
+   1 meter is gelykstaande aan:
+     * presies 1/0.9144 jaart (ongeveer 1.0936 jaart)
+     * presies 1/0.3048 voet (ongeveer 3.2808 voet)
+     * presies 10000/254 duim (ongeveer 39.370 duim)
+
+[wysig] Geskiedenis
+
+   Die woord self is afkomstig vanaf die Franse woord mètre wat op sy
+   beurt afkomstig is vanaf die Griekse woord metron (μετρον), wat "'n
+   mate" beteken.
+
+   In die agtiende eeu was daar by voorkeur twee benaderings tot die
+   definisie van die standaard eenheid van lengte. Een voorstel was om die
+   meter as die lengte van 'n pendulum met 'n periode van een sekonde. Die
+   ander voorstel was om 'n meter as 'n tien miljoenste van die lengte van
+   'n kwadrant van die aarde se meridiaan te definieer. In 1791 het die
+   Franse akademie vir wetenskap die meridionale definisie bo die
+   pendulum-definisie aanvaar vanweë die effense veranderinge in
+   swaartekrag oor die aardoppervlak wat dan die periode van die pendulum
+   beïnvloed. In 1793 het Frankryk die meter met hierdie definisie as hul
+   amptelike eenheid vir lengte aanvaar. Al is dit later vasgestel dat die
+   eerste prototipe meterstaaf te kort was met 'n vyfde van 'n millimeter
+   vanweë 'n berekeningsfout wat die mate waartoe die aarde afwyk van 'n
+   sfeer (afplatting by die pole), is hierdie lengte as standaard aanvaar.
+   Die omtrek van die Aarde deur die pole is dus ongeveer veertig miljoen
+   meter.
+   Internasionale Prototipe Meter standaardstaaf uit platinum-iridium
+   vervaardig. Hierdie was die standaard tot en met 1960, toe die nuwe
+   SI-stelsel die kripton-spektrum mate as basis aanvaar het. In 1983 is
+   die definisie verander na 'n verband tussen die spoed van lig in 'n
+   vakuum en 'n sekere tydsinterval.
+   Internasionale Prototipe Meter standaardstaaf uit platinum-iridium
+   vervaardig. Hierdie was die standaard tot en met 1960, toe die nuwe
+   SI-stelsel die kripton-spektrum mate as basis aanvaar het. In 1983 is
+   die definisie verander na 'n verband tussen die spoed van lig in 'n
+   vakuum en 'n sekere tydsinterval.
+
+   In die 1870s en in die lig van meer akkurate meettegnologie is 'n reeks
+   internasionale konferensies gehou om 'n nuwe metriese standaard daar te
+   stel. Die Meter Konvensie (Convention du Mètre) van 1875 het 'n mandaat
+   uitgereik vir die daarstel van 'n permanente Internasionale Buro van
+   Mates en Gewigte (BIPM: Bureau International des Poids et Mesures) wat
+   te Sèvres, Frankryk geleë is. Hierdie nuwe organisasie sou die nuwe
+   prototipe meter en kilogram huisves wanneer dit vervaardig is en ook
+   die nasionale metriese prototipes versprei en sou ook vergelykings
+   tussen hulle en nie-metriese standaarde op 'n deurlopende grondslag
+   doen.
+
+   Hierdie organisasie het 'n nuwe prototipe staaf in 1889 vervaardig by
+   die eerste Algemene Konferensie oor Mates en Gewigte (CGPM: Conférence
+   Générale des Poids et Mesures), wat die Internasionale Prototipe Meter
+   as die afstand tussen twee lyne op 'n standaardstaaf van 'n legering
+   bestaande uit 90% platinum en 10% iridium soos gemeet by die smeltpunt
+   van ys.
+
+   In 1893 is die standaardmeter vir die eerste keer met behulp van 'n
+   interferometer deur Albert. A. Michelson gemeet, die uitvinder van die
+   toestel en voorsntander van die gebruik van 'n besondere golflengte van
+   lig as 'n standaard mate vir afstand. Teen 1925 was interforometrie in
+   algemene gebruik by die BIPM. Die Internasionale Prototipe Meter het
+   egter die standaard gebly tot in 1960, toe die elfde CGPM die meter
+   volgens die nuwe SI-stelsel gedefinieër het as gelykstaande aan 1 650
+   763.73 golflengtes van die oranje-rooi emissielyn in die
+   elektromagnetiese spektrum van kripton-86 atome in 'n vakuum. Die
+   oorspronklike prototipe van die meter word steeds by die BIPM gehou
+   onder dieselfde toestande wat in 1889 gespesifiseer is.
+
+   Om verder onsekerheid uit die weg te ruim het die sewentiende CGPM van
+   1983 die definisie vervang tot sy huidige een en daarmee die lengte van
+   die meter in terme van tyd en die spoed van lig uitgedruk:
+
+          Die meter is die padlengte wat lig aflê in 'n vakuum tydens 'n
+          tydsinterval van 1 /299 792 458 van 'n sekonde.
+
+   Neem kennis dat hierdie definisie die spoed van lig in 'n vakuum teen
+   presies 299 792 459 meter vasstel. Definisies gebaseer op die fisiese
+   eienskappe van lig is meer presies en reproduseerbaar omdat die
+   eienskappe van lig as universeel konstant beskou word.
+
+[wysig] SI veelvoude
+
+   Veelvoud    Naam    Simbool Veelvoud    Naam    Simbool
+   10^0     meter      m
+   10^1     dekameter  dam     10^–1    decimeter  dm
+   10^2     hektometer hm      10^–2    sentimeter cm
+   10^3     kilometer  km      10^–3    millimeter mm
+   10^6     megameter  Mm      10^–6    mikrometer µm
+   10^9     gigameter  Gm      10^–9    nanometer  nm
+   10^12    terameter  Tm      10^–12   picometer  pm
+   10^15    petameter  Pm      10^–15   femtometer fm
+   10^18    exameter   Em      10^–18   attometer  am
+   10^21    zettameter Zm      10^–21   zeptometer zm
+   10^24    yottameter Ym      10^–24   yoctometer ym
+
+[wysig] Sien ook
+
+     * Metrieke stelsel
+     * SI
+
+[wysig] Eksterne skakels
+
+     * Geskiedenis van die meter by die U.S. National Institute of
+       Standards and Technology (NIST)
+     * Bureau International des Poids et Measures - Lengte
+
+   Kategorie: Eenhede
+

@@ -1,0 +1,81 @@
+Archimedesspiraal
+
+
+   Drie 360° draaie van een arm van 'n Archimedesspiraal
+   Drie 360° draaie van een arm van 'n Archimedesspiraal
+
+   'n Archimedeanspiraal (ook rekenkundige spiraal), is 'n spiraal wat
+   vernoem is na die 3de eeu v.C. Griekse wiskundige Archimedes; dit is
+   die lokus van punte wat ooreenkom met die ligging oor tyd van 'n punt
+   wat weg van 'n vaste punt beweeg teen 'n konstante spoed langs 'n lyn
+   wat teen konstante hoeksnelheid roteer. In poolkoördinate (r, θ) kan
+   dit beskryf word deur die vergelyking
+
+          \, r=a+b\theta
+
+   met reële getalle a en b. Verandering van die parameter a sal die
+   spiraal draai, terwyl b die afstand tussen opeenvolgende draaie bepaal.
+
+   Archimedes het so 'n spiraal beskryf in sy boek Oor Spirale.
+
+   Hierdie Archimedesspiraal word ondersky van die logaritmiese spiraal
+   deurdat opeenvolgende draaie van die spiraal 'n konstante afstand van
+   mekaar is (gelyk aan 2πb as θ in radiale gemeet word), terwyl hierdie
+   afstande in 'n logaritmiese spiraal meetkundige vermeerder.
+
+   Let daarop dat die Archimedese spiraal twee arms het, een vir θ > 0 en
+   een vir θ < 0. Die twee arms is glad verbind by die oorsprong. Slegs
+   een arm word op die meegaande grafiek vertoon. Die spieëlbeeld om die
+   y-as sal die ander arm lewer.
+
+   Een metdode vir die kwadratuur van die sirkel, deur die streng
+   beperkings tot die gebruik van 'n liniaal en 'n passer te verslap, in
+   antieke Griekse meetkundige bewyse, maak gebruik van 'n
+   Archimedesspiraal.
+
+   Soms word die term Archimedesspiraal vir die meer algemene groep
+   spirale gebruik:
+
+          r=a+b\theta^{1\!/\!x}.
+
+   Die normale Archimedesspiraal kom voor wanneer x = 1. Ander spirale wat
+   in die groep val sluit die hiperboliese spiraal, Fermat se spiraal, en
+   die lituus in. So te sê alle statiese spirale wat in die natuur voorkom
+   is logaritmiese spirale, nie Archimedesspirale nie. baie dinamiese
+   spirale (soos die Parkerspiraal van die solar wind, of die patroon wat
+   deur 'n Catherine's wheel gemaak word is Archimedesspriraal.
+
+[wysig] Toepassings
+
+   Meganisme van 'n krulpomp
+   Meganisme van 'n krulpomp
+
+   Die Archimedesspiraal het 'n oorvloed van gebruike. Rolkompressor
+   (Engels: Scroll compressor) of pomp, gemaak uit twee tussengelaagde
+   Archimedesspirale van dieselfde grootte, word gebruik vir die
+   saampersing van vloeistowwe en gasse.^[1] Die groewe van die eerste
+   grammofoonplate het 'n Archimedesspiraal gevorm, wat beteken dat die
+   groewe eweredig gespasieer is wat die hoeveelheid musiek wat op die
+   plaat kon pas gemaksimeer is (dit is later terwille van musiekkwaliteit
+   verander).^[2] Archimedesspirale word ook gebruik in Digitale
+   Ligprosessering projeksiestelsels om die "Reënboogeffek" te verminder,
+   deur dit te laat lyk of al die kleure gelyk vertoon word al word rooi,
+   groen, en blou in werklikheid geweldig vinnig gewissel word.^[3]
+
+[wysig] Verwysings
+
+    1. ^ Sakata, Hirotsugu and Masayuki Okuda. "Fluid compressing device
+       having coaxial spiral members." URL besoek op 2006-11-25.
+    2. ^ Penndorf, Ron. "Early Development of the LP." URL besoek op
+       2005-11-25.
+    3. ^ Wilson, Tracy V.. "Adding Color and the Reliability of DLP." URL
+       besoek op 2005-11-25.
+
+[wysig] Eksterne skakels
+
+     * Weisstein, Eric W., Archimedes' Spiral op MathWorld.
+     * Page with Java application to interactively explore the Archimedean
+       spiral and its related curves
+
+   Kategorie: Meetkunde
+

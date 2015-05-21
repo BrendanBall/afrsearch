@@ -1,0 +1,164 @@
+Uranus (planeet)
+
+
+
+   CAPTION: Uranus
+
+                             Klik op beeld vir groter weergawe
+                             Wentelbaaneienskappe (Epoch J2000)
+                   Deursnitradius           2,870,972,220 km
+                                            19.191 263 93 AE
+                   Omtrek                   120.515 AE
+                   Eksentrisiteit           0.047 167 71
+                   Perihelium               2,735,555,035 km
+                                            18.286 055 96 AE
+                   Aphelium                 3,006,389,405 km
+                                            20.096 471 90 AE
+                   Rewolusieperiode         30,707.4896 dae
+                   Sinodiese periode        369.65 dae
+                   Gemiddelde wentelspoed   6.795 km/s
+                   Maksimum wentelspoed     7.128 km/s
+                   Minimum wentelspoed      6.486 km/s
+                   Inklinasie               0.769 86°
+                                            (6.48° tot die son se ewenaar)
+                   Aantal satelliete        27
+                                     Fisiese eienskappe
+                   Ewenaardeursnee          51,118 km
+                                            (4.007 aardes)
+                   Pooldeursnee             49,946 km
+                                            (3.929 aardes)
+                   Afgeplatheid             0.0229
+                   Oppervlakte              8.084×10^9 km^2
+                                            (15.849 aardes)
+                   Volume                   6.834×10^13 km^3
+                                            (63.086 aardes)
+                   Massa                    8.6832×10^25 kg
+                                            (14.536 aardes)
+                   Mediaandigtheid          1.318 g/cm^3
+                   Ewenaar aantrekkingskrag 8.69 m/s^2
+                                            (0.886g)
+                   Ontsnappingssnelheid     21.29 km/s
+                   Rotasieperiode           −0.718 33 dae
+                                            (17 h 14 min 24 s)
+                   Rotasiespoed             9320 km/h by ewenaar
+                   Aksiale neiging          97.77°
+                   Albedo                   0.51
+                   Oppervlaktemperatuur
+                   - minimum
+                   - mediaan
+                                            59 K
+                                            68 K
+
+   Uranus is die sewende planeet van die son. Dit is 'n gas reus met die
+   derde grootste diameter en vierde grootste massa. Dit is vernoem na die
+   Griekse god van die hemel.
+
+   Die enigste ruimtetuig om Uranus te besoek was NASA se Voyager 2.
+
+   William Herschel het Uranus ontdek op 13 Maart 1781. Dit is uniek
+   aangesien alle planete tot Saturnus vanaf antieke tye af reeds bekend
+   was. Dit is ook die eerste planeet wat ontdek is deur tegnologie te
+   gebruik in plaas van met die blote oog te sien.
+
+   Inhoud
+
+        * 1 Ontdekking en benaming
+        * 2 Natuurlike satelliete
+        * 3 Sigbaarheid
+        * 4 Bronne
+
+[wysig] Ontdekking en benaming
+
+   Uranus is die eerste planeet wat ontdek is wat nie vanaf antieke tyd
+   bekend was nie. Die vorige kere wat Uranus gesien was, was dit verwar
+   met 'n ster. Die eerste opgetekende besigtiging van die ster was in
+   1690 toe John Flamsteed dit gekatalogiseer het as 34 Tauri. Hy het
+   Uranus ten minste 'n verdere ses kere gesien. Die rekord behoort egter
+   aan 'n Fraanse astonoom, Pierre Lemonnier, wat Uranus ten minste twalf
+   keer tussen 1750 en 1771 gesien het.
+
+   William Herschel het die planeet formeel ondek op 13 Maart 1781. Hy het
+   dit egter geraporteer as 'n komeet op 26 April 1781^[1].
+
+   Die oorspronklike naam wat Herschel aan die planeet gegee het was
+   Georgium Sidus (George se ster), vernoem ter vir Koning George III. Hy
+   het dit egter verander na die Georgian Planet. Die naam is selfs so
+   laat as 1850 gebruik, maar was egter nie aanvaarbaar buite Britanje
+   nie. Lalande het die naam Herscel voorgestel in 1784. Na heelwat
+   alternatiewe name voorgestel is, het Bode, redigeer van die Berliner
+   Astronomisches Jahrbuch, die naam Uranus begin gebruik.
+
+   In Sjinees, Japannees, Koreaans en Vietnamees beteken die naam van die
+   planeet letterlik "Hemel koning ster" (天王星).^[2]
+
+[wysig] Natuurlike satelliete
+
+   Mane van Uranus
+   Mane van Uranus
+
+   Uranus het 27 natuurlike satelliete. Die name is gekies as karakters
+   uit Shakespeare en Alexander Pope. Die vyf grootstes is Miranda, Ariel,
+   Umbriel, Titania en Oberon.
+   Die grootste mane van Uranus
+   (in vergelyking met die Aarde se maan)
+   Naam
+   Diameter
+   (km) Massa
+   (kg) Orbitale radius
+   (km) Orbitale periode
+   (d)
+                                 Miranda 470
+                                  (14%) 0.7
+                               (0.1%) 129,000
+                                  (35%) 1.4
+                                    (5%)
+                                 Ariel 1160
+                                  (33%) 14
+                               (1.8%) 191,000
+                                  (50%) 2.5
+                                    (10%)
+                                Umbriel 1170
+                                  (34%) 12
+                               (1.6%) 266,000
+                                  (70%) 4.1
+                                    (15%)
+                                Titania 1580
+                                  (45%) 35
+                               (4.8%) 436,000
+                                 (115%) 8.7
+                                    (30%)
+                                 Oberon 1520
+                                  (44%) 30
+                               (4.1%) 584,000
+                                 (150%) 13.5
+                                    (50%)
+
+[wysig] Sigbaarheid
+
+   Groottes van die Aarde en Uranus
+   Groottes van die Aarde en Uranus
+
+   Uranus se helderheid is tussen +5.5 en +6.0, wat beteken dat dit op 'n
+   goeie aand gesien kan word met die blote oog as 'n ligte ster. Dit kan
+   maklik gevind word met verkykers. Met 'n amateur teleskoop gee die
+   planeet 'n ligte blou skynsel en twee van die mane (Titania en Oberon)
+   kan van tyd tot tyd gesien word.
+
+[wysig] Bronne
+
+    1. ^ Account of a Comet, By Mr. Herschel, F. R. S.; Communicated by
+       Dr. Watson, Jun. of Bath, F. R. S., Philosophical Transactions of
+       the Royal Society of London, Volume 71, pp. 492-501.
+    2. ^ "Sailormoon Terms and Information." The Sailor Senshi Page. URL
+       besoek op 2006-03-05.
+
+                                  Die sonnestelsel
+   [USEMAP:Solar_System_XXVII.png] Beeldinligting
+   Die son · Mercurius · Venus · Aarde · Mars · Ceres · Jupiter · Saturnus
+   · Uranus · Neptunus · Pluto · Eris
+   Planete · Dwergplanete · Mane: Aarde · Mars · Asteroïdies · Jupiter ·
+   Saturnus · Uranus · Neptunus · Pluto · Eris
+   Klein hemelliggame:   Meteoroïdes · Asteroïdes (die astroïdegordel) ·
+   Centaurs · TNV's (Kuipergordel/Verstrooide skyf) · Komete (Oortwolk)
+   Kategorie: Planete
+

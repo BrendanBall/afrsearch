@@ -1,0 +1,61 @@
+Elektromagnetisme
+
+
+   Elektromagnetisme of elektromagnetika, is die studie van elektriese en
+   magnetiese velde.
+
+   In elektromeganiese energie-oordrag, transmissiestelsels wat teen RF
+   radiofrekwensies funksioneer, golfleiers wat teen mikrogolf of optiese
+   frekwensies funksioneer en die ontwerp van antennas, is 'n deeglike
+   kennis van die gedrag van elektriese en magnetiese velde essensieel.
+   Stroombaanteorie beskryf die verband tussen spanning en stroom en is
+   grotendeels gebaseer op Ohm se wet. Terwyl dit dikwels voldoende is in
+   elektriese ontwerpstoepassings, word hierdie wette omver gewerp wanneer
+   daar teen hoë frekwensies gewerk word. Om hier agter die kap van die
+   byl in te kom, moet elektromagnetiese veldteorie verstaan word. Ohm se
+   wet is as't ware 'n spesiale geval in veldteorie.
+
+[wysig] Geskiedenis
+
+   'n Magdom navorsers was direk en indirek betrokke by die ontwikkeling
+   van die beginsels van elektromagnetiese teorie. Hulle sluit onder
+   andere die volgende in: Oersted, Lorentz, Karl Friedrich Gauss, Charles
+   Coulomb, André-Marie Ampére, Michael Faraday, Maxwell sowel as Hertz.
+
+   In 1820 het Hans Christian Oersted, 'n Sweedse professor van fisika, 'n
+   verband tussen elektrisiteit en magnetisme aangekondig.
+
+   James Clerk Maxwell, 'n Skotse professor van natuurlike filosofie,
+   staan egter kop en skouers bo alle wetenskaplikes in hierdie rigting
+   uit. Hy het breedvoerige wiskundige analises uitgevoer en dié stel
+   vergelykings opgestel waarin al die verskeie bydraes van sy voorlopers
+   op die terrein van elektrisiteit en magnetisme saamgevat word. Hierdie
+   stel vergelykings is dan ook na hom vernoem.
+
+   Maxwell se vergelykings beskryf die evolusie van elektromagnetiese
+   velde in drie dimensies soos wat tyd verloop. Sy vergelykings is
+   elegant en eenvoudig en sowaar 'n intellektuele prestasie vergelykbaar
+   met dié van Isaac Newton - iets waarvan alle studente van fisika bewus
+   moet wees.
+
+   In 1888 het 'n Duitse fisikus, Heinrich Rudolph Hertz, deur middel van
+   eksperimentele ondersoek van lae-frekwensie elektromagnetiese golwe,
+   Maxwell se voorspellings en vergelykings gestaaf.
+
+[wysig] Teorie
+
+   Elektromagnetiese teorie is 'n gevorderde vakgebied en 'n deeglike,
+   analitiese verduideliking daarvan behels die oplossing Maxwell se
+   vergelykings vir verskillende gevalle. Die wat belangstel word verwys
+   na bron [1]. 'n Meer grafiese, eenvoudige verduideliking sal hier
+   gebied word.
+
+[wysig] Verwysings
+
+     * [1] Hermann A. Haus and James R. Melcher, "Electromagnetic Fields
+       and Energy", pp.1-37, Prentice Hall Inc. 1989.
+     * [2] http://www.lightandmatter.com/area1book4.html - 'n e-boek (HTML
+       of pdf) oor elektrisiteit en magnetisme
+
+   Kategorie: Elektromagnetisme
+

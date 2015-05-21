@@ -1,0 +1,94 @@
+SAT-3/WASC
+
+
+   Die SAT-3/WASC/SAFE-stelsel.
+   Die SAT-3/WASC/SAFE-stelsel.
+
+   SAT-3/WASC, kort vir South Atlantic 3/West Africa Submarine Cable is 'n
+   ondersese kommunikasiekabel wat Portugal en Spanje aan Suid-Afrika
+   verbind, asook verskeie ander Wes-Afrikalande wat aan die roete van die
+   kabel geleë is. Die kabel vorm deel van die
+   SAT-3/WASC/SAFE-kabelstelsel, waar die SAFE-kabel Suid-Afrika aan Asië
+   verbind. Die SAT-3/WASC/SAFE-stelsel bied 'n alternatiewe roete tussen
+   Asië en Europa vir telekommunikasieverkeer as die kabeltoetes wat deur
+   die Midde-Ooste lê, soos die SEA-ME-WE 3 en die Fiber-Optic Link Around
+   the Globe (FLAG). SAT-3/WASC bied die enigste optiese vesel-skakel
+   tussen Wes-Afrika en die res van die wêreld.
+
+   Inhoud
+
+        * 1 Eienaarskap
+        * 2 Bandwydtetariewe
+        * 3 Vaste punte
+        * 4 Tegnologie
+        * 5 Geskiedenis
+
+[wysig] Eienaarskap
+
+   Die SAT-3/WASC-kabel aan die weskus van Afrika.
+   Die SAT-3/WASC-kabel aan die weskus van Afrika.
+
+   Die SAT-3-stelsel tesame met die SAFE-stelsel is deur 'n konsortium van
+   operateurs geïnstalleer wat tans 'n totaal van 36 aandeelhouers het.
+   Die grootste drie beleggers in SAT-3/WASC was, in volgorde, TCI, 'n
+   subsidiêr van AT&T in die VSA, France Telecom in Frankryk, en VSNL in
+   Indië en Singapoer. Die elf Afrika-aandeelhouers is, in alfabetiese
+   volgorde, Angola Telecom, Camtel, Côte d'Ivoire Telecom, Ghana Telecom,
+   Maroc Telecom, Nitel, OPT Benin, OPT Gabon, Sonatel, Telecom Namibia en
+   Telkom Suid-Afrika.
+
+[wysig] Bandwydtetariewe
+
+   Die kostes van die bandwydte vir SAT-3 in die Afrika-lande waar dit 'n
+   diens lewer is hoog, van USD$4 500 tot USD$12 000 per Mgps per maand,
+   meer as vyftig keer duurder as bandwydtepryse in die VSA. Hierdie hoë
+   pryse word grotendeels aan die monopolieë van die operateurs
+   teogeskryf. Die laagste tariewe kom in Ghana voor, waar die Ghana
+   Internet Service Providers Association (GISPA) 'n twee jaar-ooreenkoms
+   met Ghana Telecom gsluit het. SAT-3 monopolieë verval in November 2007
+   en onderhandelinge aangaande lisensie-ooreenkomste vind tans plaas.
+   Vele organisasies, insluitende die Association of African Universities,
+   het prysverlagings en vrye toegang aangevra.
+
+[wysig] Vaste punte
+
+   Die SAT-3 is aan die volgende punte in Europa gekoppel:
+     * Sesimbra, Portugal.
+     * Chipiona, Spanje (hierdie vaste punt word egter as deel van die
+       Telefonica-netwerk beskou)
+     * Altavista, Gran Canaria in Spanje.
+
+   In Afrika is dit aan die volgende punte gekoppel:
+     * Dakar, Senekal.
+     * Abidjan, Ivoorkus.
+     * Accra, Ghana.
+     * Cotonou, Benin.
+     * Lagos, Nigerië.
+     * Douala, Kameroen.
+     * Libreville, Gaboen.
+     * Cacuaco, Angola.
+     * Melkbosstrand, Suid-Afrika, waar dit ook met die SAFE-stelsel
+       verbind.
+
+   Alhoewel Telecom Namibia 'n aandeel in SAT-3/WASC besit, koppel die
+   kabel nie aan Namibië nie. Namibiese internetgebruikers het gevolglik
+   geen toegang tot die SAT-3/WASC-netwerk nie, omdat Telecom Namibia
+   bandwydte by Telkom moet koop. Weens Telkom se hoë tariewe het Telecom
+   Namibia tot sover geweier om toegang tot SAT-3/WASC te koop.
+
+[wysig] Tegnologie
+
+   Die kabel bestaan uit vier vesels wat van Erbiumgedoopte
+   veselversterkerherhaalders en golflengtedivisie multipleksering gebruik
+   maak.
+
+[wysig] Geskiedenis
+
+   SAT-3 het in 2001 met bedrywighede begin, waar dit vir die eerste keer
+   Wes-Afrikaners en Suid-Afrikaners met Europa verbind het. Dit het die
+   vorige SAT-2 verplaas wat nie meer die ewiggroeiende internetverkeer
+   kon dra nie. SAT-2 is in die vroeë 1990`s in bedryf gebring as `n
+   verplasing vir die oorpsronklike ondersese kabel SAT-1, wat weer in die
+   1960`s geïnstalleer is.
+   Kategorie: Telekommunikasie
+

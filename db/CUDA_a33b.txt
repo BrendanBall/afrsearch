@@ -1,0 +1,94 @@
+CUDA
+
+
+   CUDA (Afkorting in Engels vir:"Compute Unified Device Architecture") is
+   `n tegnologie om algoritmes te skryf, wat op die beeld
+   verwerkingseenheid (BVE) hardloop, in die C programmeringstaal. Dit
+   verskil van die normale GPGPU metodes wat die grafikakaart se drywers
+   gebruik om in saamsteltaal algoritmes te skryf. CUDA is ontwikkel deur
+   Nvidia vir hulle Geforce 8 reeks, Tesla 870 en hul Quadro reeks. Nvidia
+   sê dat hulle dit gaan implementeer in al hulle toekomende beeld
+   verwerkingseenhede.
+
+   Die CUDA SDK is op die 15 Februarie vrygestel. Die huidige weergawe van
+   die SDK is 2.0Beta.
+
+   Inhoud
+
+        * 1 Voordele
+        * 2 Hardeware benodig
+        * 3 Physx
+        * 4 Spoed Voordeel teenoor SVE's
+
+[wysig] Voordele
+
+     * `n Programmeringstaal wat baie dieselfde is as ANSI C, met `n paar
+       nuwe funksies om spesifieke take op die BVE te doen.
+     * `n Klein en vinnige verdeelde geheue gebied (16KB) kan
+       geprogrammeer word om gebruik te word in CUDA.
+     * Optimiseerde aflaaings en skrywings van die SVE (Sentrale
+       verwerkingseenheid) na en van af die grafikakaart.
+     * Willekeurige skrywings en lesings van die geheue is moontlik.
+
+[wysig] Hardeware benodig
+
+   CUDA kan slegs hardloop op sekere BVE's wat CUDA bevat nl. die Geforce
+   8 reeks. Alle nuwe BVE's wat Nvidia maak sal CUDA ingebou hê sonder
+   enige veranderings aan die funksies wat hy dien, dus gaan net
+   optimalisering plaasvind en programmeerders sal versekerd wees dat hul
+   programme op alle vorige en toekomende BVE's sal werk.
+
+   CAPTION: BVE's wat CUDA bevat
+
+   Geforce    Tesla Quadro
+   9800 GX2   C870  FX 5600
+   9800 GTX   D870  FX 4600
+   9600 GT    S870  FX 3700
+   8800 Ultra       FX 1700
+   8800 GTX         FX 570
+   8800 GTS         FX 370
+   8800 GT          NVS 290
+   8800 GS          FX 3600M
+   8600 GTS         FX 1600M
+   8600 GT          FX 570M
+   8500 GT          FX 360M
+   8400 GS          Quadro Plex 1000 Model IV
+   8800M GTX        Quadro Plex 1000 Model S4
+   8800M GTS        NVS 320M
+   8700M GT         NVS 140M
+   8600M GT         NVS 135M
+   8600M GS         NVS 130M
+   8400M GT
+   8400M GS
+   8400M G
+
+[wysig] Physx
+
+   Nvidia het vir Ageia oorgekoop in vroeg 2008 om hul Physx enjin oor te
+   skryf om met CUDA op die BVE te hardloop. Dit beteken dat alle rekenaar
+   speletjies wat die Physx aandrywer bevat, sal dan deur die BVE versnel
+   word sonder enige verandering aan die speletjie se kode. Volgens Nvidia
+   is die proses om Physx enjin oor te skryf, amper klaar en sal in die
+   einde van Mei 2008 voltooi wees. Die spoed waarteen die projek voltooi
+   gaan word, is `n aanduiding van hoe maklik dit is om met CUDA te
+   programmeer. Nvidia het `n demonstrasie gehou met die Physx enjin wat
+   60 000 partikels simuleer.
+
+[wysig] Spoed Voordeel teenoor SVE's
+
+   Daar is geen spoed voordeel of nadeel van CUDA en ander GPGPU
+   tegnologie nie, maar wanneer mens dit vergelyk met die spoed van die
+   SVE is die CUDA implementasie 15 tot 20 keer die spoed van `n
+   gedemonstreerde Intel Nehalem SVE wat teen 3.2 GHZ hardloop met 4
+   kerns. Die Intel demonstrasie het gewys hoe hy 50 000 tot 60 000
+   partikels simuleer teen 15-20 RPS (rame per sekonde), by `n later
+   demonstrasie deur Nvidia het hulle `n soortgelyke partikel simulasie
+   met dieselfde aantal partikels gewys wat teen 300 RPS hardloop. Die
+   spoed voordeel kom van om die groot aantal stroom verwerkers en baie
+   drade te gebruik om in parallel die simulasie kalkulasies te doen. `n
+   SVE is optimaliseer om so min as moontlik vertraging met geheue
+   skrywings en lesings te hê om so vinnig as moontlik `n enkele draad te
+   voltooi, waar `n BVE optimaliseer is om `n groot aantal ander drade te
+   voltooi terwyl hy wag vir sy stadiger geheue om te skryf of te lees.
+   Kategorie: Rekenaar
+

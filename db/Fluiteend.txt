@@ -1,0 +1,108 @@
+Fluiteend
+
+
+                      Fluiteend
+   Onbedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Dendrocygna
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     D. bicolor
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Dendrocygna bicolor
+   (Vieillot, 1816)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die fluiteend is 'n algemene standvoël in Suidelike Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   43-53cm. Hierdie spesie het 'n lang grys snawel, lang kop en langerige
+   bene, met 'n goud-bruin kop en kroon. Die rug en vlerke is donker bruin
+   tot swart, en aan die onderkant swart hoewel die flanke prominente wit
+   lyne vertoon. Die nek kleur is groud-bruin met donker lyne in die
+   middel van die nek. Jong voëls se stert kleure is minder kontrasterend
+   as die van volwassenes.
+
+[wysig] Habitat
+
+   Die habitat is varswater mere, damme en reservoirs, met baie plante,
+   waar die eende snags sade en ander plant-materiaal eet.
+
+[wysig] Verspreiding
+
+   Die Fluiteend kom voor in die ooste en noorde van Suidelike-Afrika.
+   Hulle broei in Afrika suid van die Sahara, die tropiese gebiede van
+   sentraal- en Suid-Amerika, Indië en die VSA se golf-kus. Die fluiteend
+   kom ook wydverspreid voor in die tropiese dele van Afrika, waar
+   reuse-troppe van die voëls in die uitgestrekte vloedvlaktes aangetref
+   word.
+
+[wysig] Geluid
+
+   'n Sagte maar duidelike kee-wee-ooo fluit.
+
+[wysig] Ander name
+
+     * Nederlandse naam: Fluiteend
+     * Engelse naam: Fulvous Duck / Fulvous Whistling Duck
+     * Wetenskaplike naam: Dendrocygna bicolor
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

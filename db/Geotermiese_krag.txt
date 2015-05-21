@@ -1,0 +1,157 @@
+Geotermiese krag
+
+
+   Geotermiese krag verwys na die elektrisiteit wat opgewek word deur
+   voordeel te trek uit die natuurlike ondergrondse hitte in die aarde.
+   Verskeie metodes word gebruik om die geotermiese energie in elektriese
+   energie om te skakel.
+
+   Inhoud
+
+        * 1 Die opwekking van elektrisiteit
+        * 2 Skematies van 'n geoterniese kragstasie
+        * 3 Tipes geotermiese installasies
+        * 4 Waar kan geotermiese energie benut word?
+        * 5 Nuwe duitse geotermiese kragstasie word in gebruik geneem
+        * 6 Oorsig van geotermiese kragstasies in Middeleuropa
+        * 7 Sien ook
+
+[wysig] Die opwekking van elektrisiteit
+
+   Prins Piero Conti het in 1904 te Laradello, Italië, die eerste
+   kragopwekker aan 'n stoomenjin gekoppel wat deur natuurlike stoom
+   aangedryf is en só die eeu van geotermiese elektrisiteit ingelui. Om
+   elektrisiteit op te wek, moet die druk van die warm stoom en ander
+   geotermiese vloeistowwe hoog genoeg wees om die turbines aan te dryf.
+   Deur gater duisende meter in die aardkors te sink, is dit moontlik om
+   deur te breek na die natuurlike ondergrondse reservoirs wat water en
+   stoom onder hoë druk berg. Die stoom borrel dan uit na die oppervlak,
+   waar dit gebruik word om die elektrisiteitopwekkers aan te dryf. Hoewel
+   sulke kragsentrales duur is om op te rig, sal hulle, wanneer hulle eers
+   gevestig is, 'n stabiele voorraad elektrisiteit vir die toekoms
+   voorsien. Die VSA, Nieu-Seeland, en Japan het groot geotermiese
+   kragsentrales wat elektrisiteit aan hul nasionale netwerke verskaf.
+
+[wysig] Skematies van 'n geoterniese kragstasie
+
+   Skematiese diagram van 'n geotermiese kragstasieVerklaaring:1: Warm
+   water bron2: Warm water uit die Aarde3: Elektriese kragopwekking dmv.
+   generator4: Die opgewekte elektrisiteit word in die netwerk ingevoer5:
+   Daarna kan die res van die warm water nog gebruik word vir verwarming6:
+   Termiese energie kan vêrder benut word7: Koue water word teruggevoer in
+   die kringloop, om weer deur die Aarde verwarm te kan word
+   Skematiese diagram van 'n geotermiese kragstasie
+   Verklaaring:
+   1: Warm water bron
+   2: Warm water uit die Aarde
+   3: Elektriese kragopwekking dmv. generator
+   4: Die opgewekte elektrisiteit word in die netwerk ingevoer
+   5: Daarna kan die res van die warm water nog gebruik word vir
+   verwarming
+   6: Termiese energie kan vêrder benut word
+   7: Koue water word teruggevoer in die kringloop, om weer deur die Aarde
+   verwarm te kan word
+
+[wysig] Tipes geotermiese installasies
+
+   Vier basiese tipes geotermiese kraginstallasies word benut in verskeie
+   lande oor die hele wêreld: die suidwestelike VSA het 'n hoë
+   konsentrasie van sodanige installasies (en is die wêreld se grootste
+   produsent van geotermiese krag per jaar), en so ook die Verre Ooste,
+   Maleisië en Nieu-Seeland. Daar is ook individuele installasies in
+   Sentraal-Afrika, Australië en Suid-Amerika. Hierdie tipes is droë
+   stoom-installasies, blitsstoom-installasies, binêre kraginstallasies en
+   hibriede kraginstallasies.
+     * Droë stoom-installasies is dié wat bo-op reservoirs wat meesal
+       stoom en min water vat, geplaas is. Die installasies bestaan reeds
+       sedert die vroeë 1900's, en die grootste in die wêreld – by die
+       Geysers droë stoom-reservoir in Kalifornië – wek reeds sedert 1960
+       krag op.
+     * Blitsstoominstallasies is geplaas op reservoirs wat baie warm water
+       bevat. Hierdie water word deur skeiers geprosesseer wat dit vinnig
+       en ploffend laat kook om sodoende die stoom wat onafwendbaar die
+       turbines aandryf, vry te stel. Sodanige installasies bied die
+       bykomende voordeel dat dit die ongebruikte stoom herbenut.
+     * Binêre kraginstallasies maak gebruik van reservoirs wat meesal
+       water bevat, maar is effens meer kompleks as
+       blitsstoominstallasies, aangesien hulle twee aparte meganiese en
+       chemiese prosesse benodig om elektrisiteit op te wek: die water
+       vanaf die reservoir word deur 'n hittewisselaar gestuur, wat dan
+       die hitte-energie oordra na die volgende prosesseringskomponent.
+       Dit is 'n binêre vloeistof in 'n aanliggende kamer of pyp. Die
+       binêre vloeistof is gewoonlik 'n chemikalie wat maklik kook (teen
+       'n laer kookpunt as water), so doeltreffendheid word geoptimaliseer
+       selfs teen laer temperature. In hierdie geval word die hitte van
+       die reservoir gebruik, eerder as die eintlike water. Binêre
+       kraginstallasies laat nie enige damp of skadelike gasse uit nie,
+       wat van hulle die mees geskikte installasies om te benut, maak – al
+       is hulle veel duurder as die ander.
+     * Hibriede kraginstallasies kombineer elemente van die twee van die
+       tipes hierbo genoem: beide blits- en binêre elemente word gebruik
+       in 'n poging om die voordele van beide te maksimaliseer. 'n
+       Voorbeeld van een van hierdie installasies is op Hawaii se Big
+       Island te vinde.
+
+[wysig] Waar kan geotermiese energie benut word?
+
+   Geotermiese energie kan op plekke waar daar vulkaniese aktiwiteit is,
+   of vroeër was, benut word. In die Verenigde State, Meksiko, Ysland,
+   Italië, Rusland, Nieu-Seeland, die Filippyne, Japan en, meer onlangs,
+   Duitsland en Kenia - lande wat aktiewe vulkaanaktiwiteit ondervind of
+   naby vulkaniese gebiede lê - boor ingenieurs diep in die gesteentes in
+   waar warm water en stoom vasgevang is en lei dié regstreeks na turbines
+   om elektrisiteit op te wek.
+
+[wysig] Nuwe duitse geotermiese kragstasie word in gebruik geneem
+
+   Op 23 November 2007 is 'n nuwe geotermiese kragstasie in Landau
+   (Duitsland) in gebruik geneem. Dit lewer 22 MW geotermiese krag en ±
+   2.5 MW elektriese krag en genoeg elektrisiteit vir sowat 6000
+   huishoudings. Verder word die 160°C warme water uit 'n diepte van
+   3000 m nie net gebruik om elektrisiteit op te wek nie, maar ook om in
+   die koue wintersdae die huise te verwarm.
+
+[wysig] Oorsig van geotermiese kragstasies in Middeleuropa
+
+   Hierdie gegewens is hier geplaas om die moontlikhede en effekte van
+   geotermie te wys
+   Beplande en operasionele geotermiese kragstaties (vir
+   elektriesekragopwekking) in Middeleuropa
+   Geotermiese lewering
+   in MW Elektriese lewering
+   in MW Temperatuur
+   in °C Vloeivermoë
+   in m³/h Boorgatdiepte
+   in m Beplande ingebruikneming
+   jaar
+   Duitsland
+   Bremerhaven 0,5 0,065 90 5.000 toegemaak/gestaak
+   Groß Schönebeck 10 1,0 150 < 50 4.294 2008
+   Neustadt-Glewe 1,3 - 3,5 0,21 98 119 2.250 Kragstasie is in gebruik
+   sedert 2003
+   Bad Urach 6-10 ± 1,0 170 48 4.500 toegemaak/gestaak
+   Bruchsal 4,0 ± 0,5 118 86 2.500 2007
+   Karlsruhe 28,0 >150 270 3.100 2007
+   Landau 22 ± 2,5 150 250 3.000 Kragstasie in gebruik
+   sedert 23 November 2007
+   Offenbach 30-45 4,8 - 6,0 160 360 3.500 2008
+   Riedstadt 21,5 ± 3,0 250 3.100 2008
+   Speyer 24-50 4,8 - 6,0 150 450 2.900 2009
+   Isar Süd (München) 30,0 2,0 toegemaak/gestaak
+   Unterhaching > 30 3,4 122 > 540 3.577 2007
+   Aschheim, Feldkirchen, Kirchheim geen 82 - 85 40 - 65 2.000 - 2.200
+   2009
+   Frankryk
+   Soultz-sous-Forêts 30,0 6,0 200 240 8.084 2007
+   Switserland
+   Basel 17,0 6,0 200 5.000 voorlopend gestaak (aardbewing)
+   Bron: Greenpeace 2000MW - skoon! + opdatering
+
+[wysig] Sien ook
+
+     * Elektrisiteit
+     * Geotermiese energie
+     * Hernieubare energie
+
+   Kategorieë: Elektrisiteit • Energie-omsetting
+

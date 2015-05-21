@@ -1,0 +1,102 @@
+Piëso-elektrisiteit
+
+
+   Piëso-elektrisiteit is die vermoë van sommige materiale (veral
+   kristalle en sekere keramieke) om 'n elektriese potensiaalverskil te
+   veroorsaak^[1] wanneer daar 'n meganiese spanning daarop uitgeoefen
+   word. Dit kan die vorm neem van 'n skeiding van elektriese lading oor
+   'n kristalrooster. As die materiaal nie gekortsluit word nie,
+   veroorsaak die uitgeoefende spanning 'n elektriese potensiaalverskil
+   oor die materiaal. Die woord is afgelei van die Griekse woord piezein
+   wat om te druk of te pers beteken.
+
+   Die piëso-elektriese effek is omkeerbaar deurdat materiale wat die
+   direkte piëso-elektriese effek vertoon (die ontstaan van 'n elektriese
+   potensiaalverskil onder meganiese spanning) ook die omgekeerde
+   piëso-elektriese effek (die ontstaan van meganiese spanning wanneer 'n
+   elektriese veld toegepas word). Loodzirkontitanaatkristalle sal
+   byvoorbeeld 'n vervorming van ongeveer 0.1% ondergaan (vergeleke met
+   oorspronklike vorm) wanneer sodanige elektriese spanning daarop
+   uitgeoefen word.
+
+   Die verskynsel word nuttig ingespan in toepassings soos die produksie
+   en nasporing van klanke, die skep van hoë spannings, die skepping van
+   hoë elektroniese frekwensies, mikro-weegskale en ultrafyn verstellings
+   aan die fokus van optiese samestellings. Dit vorm ook die basis van
+   verskeie wetenskaplike instrumentele tegnieke.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Ontdekking en vroeë navorsing
+             + 1.2 Die Eerste Wêreldoorlog en na-oorlogse tydperk
+        * 2 Verwysings
+
+[wysig] Geskiedenis
+
+[wysig] Ontdekking en vroeë navorsing
+
+   Die piro-elektriese effek, waar 'n elektriese potensiaalverskil in 'n
+   materiaal ontstaan wanneer dit 'n temperatuursveranering ondergaan is
+   deur Carolus Linnaeus en Franz Aepinus in die middel 18^de eeu
+   bestudeer. Met hierdie kennis het René Just Haüy en Antoine César
+   Becquerel 'n moontlike verwantskap tussen meganiese spanning en
+   elektriese lading voorgestel; nie een van die twee navorsers kon egter
+   onomwonde bewys lewer van so 'n verskynsel nie.
+
+   Die eerste demonstrasie van die direkte piëso-elektriese effek was in
+   1880 deur die broers Pierre Curie en Jacques Curie. Hulle het hulle
+   kennis van piro-elektrisiteit gekombineer met hulle kennis van die
+   onderliggende kristalstrukture wat aanleiding gegee het tot
+   piro-elektrisiteit om kristalgedrag te voorspel en die verskynsel
+   gedemonstreer deur kristalle van toermalien, kwarts, topaas, rietsuiker
+   en Rochelle sout (natriumkaliumtartraat-tetrahidraat). Kwarts en
+   Rochelle sout het die sterkste piëso-elektriese eienskappe vertoon.
+   'n Piëso-elektriese skyf laat 'n spanningsverskil ontstaan wanneer dit
+   vervorm word (vervorming word oordryf)
+   'n Piëso-elektriese skyf laat 'n spanningsverskil ontstaan wanneer dit
+   vervorm word (vervorming word oordryf)
+
+   Die Curies het op dié tydstip egter nie die omgekeerde verskynsel
+   voorspel nie. Die omgekeerde effek is wiskundig afgelei vanuit
+   fundamentele termodinamiese beginsels deur Gabriel Lippman in 1881. Die
+   Curies het daarna onmiddelik die bestaan van die omgekeerde effek
+   bevestig en verder kwantitatiewe bewys van die omkeerbaarheid van
+   elektro-elastiese-meganiese vervormings in piëso-elektriese kristalle
+   gelewer.
+
+   In die daaropvolgende dekades was piëso-elektrisiteit bloot 'n
+   verskynsel wat in die laboratorium bestudeer is. Meer werk is gedoen om
+   die kristalstrukture te verstaan wat tekens van piëso-elektrisitiese
+   aktiwiteit getoon het. Die hoogtepunt van hierdie werk het in 1910
+   plaasgevind toe Woldemar Voigt sy Lehrbuch der Kristallphysik (handboek
+   van kristalfisika) gepubliseer het, wat 20 klasse van natuurlike
+   kristalle wat piëso-elektriese aktiwiteit getoon het en die
+   piëso-elektriese konstantes deeglik gedefinieer het deur van
+   tensoranalise gebruik te maak.
+
+[wysig] Die Eerste Wêreldoorlog en na-oorlogse tydperk
+
+   Die eerste praktiese toepassing van piëso-elektriese toestelle was
+   sonar, wat vir die eerste keer in die Eerste Wêreldoorlog in 1917
+   ontwikkel is. In 1917 het Paul Langevin en medewerkers 'n ultrasoniese
+   duikboot-opspoorder in Frankryk ontwikkel. Die opspoorder het bestaan
+   uit 'n oorvormer wat vervaardig is uit dun kwartskristalle wat
+   versigtig tussen twee staalplate vasgegom is en 'n hidrofoon om die
+   eggo waar te neem. Deur 'n hoë-frekwensie klank vanaf die oorvormer uit
+   te stuur en die tydsinterval te meet wat dit neem om die ego te hoor
+   kan 'n mens die afstand na daardie voorwerp bepaal.
+
+   Die gebruik van piëso-elektrisiteit in sonar en die sukses van daardie
+   projek het intense belangstelling in die ontwikkeling van
+   piëso-elektriese toestelle laat ontstaan. In die daaropvolgende dekades
+   is nuwe piëso-elektriese materiale en nuwe toepassings vir daardie
+   materiale ondersoek.
+
+[wysig] Verwysings
+
+    1. ^ Principles of Instrumental Analysis. 6^de Uitgawe, 2007. Skoog,
+       Holler, en Crouch. Hoofstuk 1, Afdeling. 1C-4, Bl. 9.
+
+   Kategorie: Fisika
+

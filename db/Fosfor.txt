@@ -1,0 +1,227 @@
+Fosfor
+
+
+
+                         silikon – fosfor – swael
+             N
+             P
+            As
+
+
+              Fosfor in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                   General
+                                        Naam, Simbool, Getal Fosfor, P, 15
+                                                 Chemiese reeks Nie-metale
+                                       Groep, Periode, Blok 15 (VA), 3 , p
+                           Digtheid, Hardheid 1823 kg/m^3 , Geen Inligting
+                                      Voorkoms kleurloos/rooi/silwerig wit
+                                                           Atoomeienskappe
+                                                  Atoomgewig 30.973761 ame
+                                            Atoomradius (ber.) 100 (98) pm
+                                                   Kovalente radius 106 pm
+                                               Van der Waals radius 180 pm
+                                       Elektron konfigurasie [Ne]3s^2 3p^3
+                                           e^− e per energievlak 2, 8, 5
+                         Oksidasietoestande (Oksied) ±3, 5, 4 (swak suur)
+                                              Kristalstruktuur monoklinies
+                                                        Fisiese eienskappe
+                                            Toestand van materie Vastestof
+                                             Smeltpunt 317.3 K (44.15 °C)
+                                               Kookpunt 550 K (276.85 °C)
+                                    Molêre volume 17.02 ×10^−6 m^3/mol
+                                           Verdampingswarmte 12.129 kJ/mol
+                                              Smeltingswarmte 0.657 kJ/mol
+                                               Dampdruk 20.8 Pa teen 294 K
+                                                 Spoed van klank Geen Data
+                                                                  Algemeen
+                                  Elektronegatiwiteit 2.19 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 769 J/(kg*K)
+                           Elektriese geleidingsvermoë 1.0 10^-9/(m·ohm)
+                                  Termiese geleidingsvermoë 0.235 W/(m*K)
+                                  1^ste ionisasie potentiaal 1011.8 kJ/mol
+                                     2^de ionisasie potentiaal 1907 kJ/mol
+                                   3^de ionisasie potentiaal 2914.1 kJ/mol
+                                   4^de ionisasie potentiaal 4963.6 kJ/mol
+                                   5^th ionisasie potentiaal 6273.9 kJ/mol
+                                                     Mees stabiele isotope
+
+                                  iso   NV  Langste t[½] is 25.34 d (P-33)
+                                  ^31P 100% P is stabiel met 16 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Fosfor (Latyn: Phosforum), is die chemiese element in die periodieke
+   tabel met die simbool P en atoomgetal van 15.
+
+   Fosfor is 'n multivalente, nie-metaal van die stikstofgroep en word
+   dikwels gevind in anorganiese fosfaatrotse asook in alle lewendige
+   selle. Vanweë sy hoë reaktiwiteit, word dit nooit in die vrye
+   onverbonde vorm in die natuur gevind nie. Dit straal 'n effense gloed
+   uit wanneer dit aan suurstof blootgestel word en kom in verskillende
+   allotropiese vorms voor. Fosfor is 'n noodsaaklike element vir alle
+   lewendige organismes. Die belangrikste kommersiële gebruik van fosfor
+   is vir die vervaardiging van kunsmis. Dit word ook gebruik in die maak
+   van plofstowwe, vuurhoutjies, vuurwerke, pesdoders, tandepasta en
+   skoonmaakmiddels.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+             + 1.1 Vorms
+        * 2 Aanwendings
+        * 3 Biologiese rol
+        * 4 Geskiedenis
+        * 5 Verspreiding
+        * 6 Voorsorgmaatreëls
+        * 7 Isotope
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Fosfor vorm normaalweg 'n wasagtige wit vastestof wat met 'n
+   kenmerkende slegte reuk. Suiwer vorms van die element is kleurloos en
+   deursigtig. Hierdie nie-metaal is nie oplosbaar in water nie, maar is
+   wel oplosbaar in koolstofdisulfied. Suiwer fosfor ontbrand spontaan in
+   lug en vorm fosforpentoksied na ontbranding.
+
+[wysig] Vorms
+
+   Fosfor kom voor in vier allotropiese vorms: wit (of geel), rooi en
+   swart (of donkerpers). Ander allotropiese vorme mag dalk ook bestaan.
+   Die mees algemene vorms van fosfor is rooi- en wit fosfor, waarvan
+   beide bestaan uit netwerke van tetrahdraal gerangskikte groepe van vier
+   fosfor atome. Die tetrahedra van wit fosfor vorm afsonderlike groepe;
+   terwyl die tetrahdra van rooi fosfor verbind is in kettings. Wit fosfor
+   brand in kontak met lug en met blootstelling aan hitte of lig word dit
+   omgeskakel na rooi fosfor.
+
+   Fosfor bestaan ook in kineties en termodinamies stabiele vorms. Hulle
+   word geskei deur 'n oorgangstemperatuur van -3.8 °C. Een staan bekend
+   as die alfa vorm en die ander as beta. Rooi fosfor is relatief gesproke
+   stabiel en sublimeer teen 'n dampdruk van 1 atm teen 170 °C maar brand
+   wanneer dit aan skok of wrywing blootgestel word. 'n Swart fosfor
+   allotroop bestaan wat 'n struktuur het soortgelyk aan die van grafiet –
+   die atome word gerangskik in heksagonale lae en gelei elektriesiteit.
+
+[wysig] Aanwendings
+
+   Gekonsentreerde fosforsure wat soveel as 70% tot 75% P[2]O[5] kan bevat
+   is baie belangrike grondstowwe vir die landboubedryf in die vorm van
+   misstowwe. Die wêreldwye vraag na misstowwe het gelei tot grootskaalse
+   produksie van fosfate (PO[4]^3-) in die tweede helfte van die 20ste
+   eeu. Ander gebruike sluit in;
+     * Fosfate word gebruik vir die maak van spesiale glassoorte wat
+       gebruik word vir natriumlampe.
+     * Been-as, kalsiumfosfaat, word gebruik in die vervaardiging van
+       porselein en om mono-kalsiumfosfaat te maak wat as bakpoeier
+       ingespan word.
+     * Hierdie element is ook 'n belangrke komponent in die vervaardiging
+       van staal, vir die maak van fosforbrons en vele verwante produkte.
+     * Trinatriumfosfaat word ook dikwels gebruik in skoonmaakmiddels om
+       water te versag en om pyp-/ketelbuiskorrosie te bekamp.
+     * Wit fosfor word gebruik vir militêre toepassings soos Brandbomme,
+       rookpotte en -bomme en in ligspoorkoeëls.
+     * Rooi fosfor is noodsaaklik vir die vervaardiging van vuurhoutjies,
+       fakkels en die berugte dwelm, metamfetamien (ook bekend as speed of
+       ice).
+
+[wysig] Biologiese rol
+
+   Fosfor speel 'n sleutelrol in die lewensprosesse van die meeste
+   lewensvorme. Anorganiese fosfate PO[4]^3- speel 'n groot rol in
+   biologiese molekules soos DNA en RNA waar dit deel vorm van die
+   strukturele fondament van hierdie molekules. Lewende selle gebruik ook
+   fosfaat om sellulêre energie te vervoer via adenosientrifosfaat (ATP).
+   Byna elke sellulêre proses wat energie gebruik verkry dit vanaf ATP.
+   Fosfolipiede vorm die hoof strukturele komponent van alle selmembrane.
+   Kalsiumfosfaatsoute word deur diere gebruik om hulle bene te versterk.
+
+[wysig] Geskiedenis
+
+   Fosfor (Grieks phosphoros beteken draer van lig wat dan ook die antieke
+   naam vir die planeet Venus was) is deur die Duitse alchemis Hennig
+   Brand in 1669 in uriene ontdek. Brand het gepoog om soute te verkry
+   deur uriene te verdamp en in die proses het hy 'n wit materiaal verkry
+   wat in die donker gegloei het en helder gebrand het. Sedertien word die
+   term fosforessensie gebruik om alle stowwe wat in die donker gloei,
+   sonder om te brand, te beskryf.
+
+   Vroeëre vuurhoutjies het wit fosfor gebruik in hulle samestelling, wat
+   gevaarlik was vanweë die giftigheid daarvan. Moorde, selfmoorde en
+   vergiftigings was dikwels die gevolg van die gebruik daarvan ('n
+   Apokriewe verhaaltjie vertel van 'n vrou wat haar man wou vergiftig
+   deur wit fosfor in sy kos te gooi maar is toe uitgevang toe die stoom
+   in die donker gloei!). Verder het die blootstelling aan die dampe
+   werkers by vuurhoutjiefabrieke nekrose van die gebeentes in die kaak
+   gegee. Toe rooi fosfor ontdek is met sy baie laer vlambaarheid en
+   giftigheid, is dit ingespan as 'n veiliger alternatief vir vuurhoutjie
+   vervaardiging.
+
+[wysig] Verspreiding
+
+   Vanweë sy reaktiwiteit tot lug en vele ander suurstofbevattende stowwe
+   word fosfor nie in vrye vorm in die natuur gevind nie, maar kom dit wyd
+   verspreid in baie minerale voor. Fosfaatrots, wat deels uit apatiet ('n
+   onsuiwer trikalsiumfosfaat-mineraal) betaan is 'n belangrike
+   kommersiële bron van hierdie element. Groot neerslae kan gevind word in
+   Rusland, Morokko, Florida, Idaho, Tennessee, Utah en elders.
+
+   Die wit allotroop kan vervaardig word deur verskeie metodes. In een
+   proses word trikalsiumfosfaat, wat uit fosfaatrots verkry word, verhit
+   in 'n elektriese- of brandstofoond in die teenwoordigheid van koolstof
+   en silika. Elementêre fosfor word dan vrygestel in dampvorm en word dan
+   onder fosforsuur gekondenseer.
+
+[wysig] Voorsorgmaatreëls
+
+   Hierdie is 'n buitengewoon giftige element met 'n gemiddelde dodelike
+   dosis van 50 mg (wit fosfor word algemeen as die dodelike vorm beskou
+   terwyl fosfaat en ortofosfaat noodsaaklike voedingstowwe is). Die wit
+   fosfor allotroop moet te alle tye onder water geberg word vanweë sy
+   uiters hoë reaktiwiteit tot suurstof in die atmosfeer. Dit moet slegs
+   met tange hanteer word aangesien kontak met die vel kan lei tot
+   ernstige brande. Kroniese wit fosfor vergiftiging van onbeskermde
+   werkers lei tot nekrose van die kaak bekend as phossy-jaw. Inname van
+   wit fosfor kan lei tot 'n mediese toestand wat bekend staan as Rokende
+   Stoelgang Sindroom. Fluorofosfaatesters is van die dodelikste
+   neurotoksiene bekend maar andersins is die meeste anorganiese fosfate
+   relatief skadeloos. Fosfaat besoedeling vind plaas waar misstowwe of
+   skoonmaakmiddels in die grond in dreineer.
+
+   Wanneer die wit vorm aan sonlig blootgestel word of in sy eie damp tot
+   250 °C verhit word, word dit omgeskakel na die rooi vorm, wat nie in
+   lug fosforesseer nie. Die rooi allotroop ontbrand nie spontaan in lug
+   nie en is nie so gevaarlik soos die wit vorm nie. Dit moet egter steeds
+   versigtig hanteer word aangesien dit na wit fosfor kan omskakel onder
+   sekere temperatuurtoestande en gee ook hoogs toksiese dampe af wat
+   fosforoksiede bevat wanneer dit verhit word.
+
+[wysig] Isotope
+
+   Sommige algemene isotope van fosfor sluit in:
+     * ^32P (radio-aktief). Fosfor-32 is 'n beta-straler (1.71 MeV) met 'n
+       halfleeftyd van 14.3 dae. Dit word gereeld in biologiese
+       laboratoriums gebruik, hoofsaaklik vir radio-etiket sporings.
+     * ^33P (radio-aktief). Fosfor-33 is 'n beta-straler (0.25 MeV) met 'n
+       halfleeftyd van 25.4 dae. Dit word gebruik in biologiese
+       laboratoriums vir toepassings waar 'n laer beta-uitstraling
+       voordelig is, soos byvoorbeeld, DNA ontleding.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Phosphorus
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Phosphorus
+     * EnvironmentalChemistry.com – Phosphorus
+     * http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMe
+       d&list_uids=946251&dopt=Abstract; Entrez PubMed - Acute Yellow
+       Phosphorus Poisoning]
+
+   Kategorie: Chemiese elemente
+

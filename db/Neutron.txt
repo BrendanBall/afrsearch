@@ -1,0 +1,227 @@
+Neutron
+
+
+                                                                Neutron
+                                                             Klassifikasie
+
+
+                                Subatomiese partikel
+                                      Fermioon
+                                      Hadroon
+                                      Baryoon
+                                      Nukleoon
+                                      Neutron
+
+                                                               Eienskappe
+
+
+                                         Massa:          939.573 MeV/c²
+                                   Elektriese lading:         0 C
+                                         Spin:                 ½
+                                Magnetiese dipoolmoment: -1.91304 μ[N]
+                                  Quark samestelling:      2 Af, 1 Op
+
+   In fisika is die neutron 'n subatomiese partikel met geen netto
+   elektriese lading nie en 'n massa van 939.573 MeV/c^2 wat dit effens
+   swaarder as 'n proton maak. Sy spin is ½. Sy anti-partikel word die
+   anti-neutron genoem. Die neutron en proton is albei voorbeelde van 'n
+   nukleoon.
+
+   Die kern van die meeste atome (behalwe vir die mees algemene isotoop
+   van waterstof, wat slegs uit 'n enkele proton bestaan) bestaan uit
+   protone en neutrone.
+
+   Inhoud
+
+        * 1 Eienskappe
+        * 2 Neutron interaksies
+        * 3 Neutronsporing
+        * 4 Gebruike van Neutrone
+        * 5 Neutronbronne
+        * 6 Ontdekking
+        * 7 Huidige verwikkelinge
+        * 8 Anti-neutrone
+        * 9 Sien ook
+
+[wysig] Eienskappe
+
+   Buite die kern is neutrone onstabiel en het 'n gemiddelde leeftyd van
+   886 sekondes (ongeveer 15 minute), waar dit ontbind deur 'n elektron en
+   'n antineutrino afgee om 'n proton te vorm. Neutrone in hierdie
+   onstabiele toestand staan bekend as vrye neutrone. Dieselfde
+   vervalmetode (beta-verval) vind in sommige kerne plaas. Partikels binne
+   die kern is tipies resonante tussen neutrone en protone, wat in na
+   mekaar toe verander deur hetsy die emissie of absorpsie van pione. Die
+   neutron se anti-materie eweknie is die antineutron.
+
+   Die aantal neutrone bepaal die isotoop van 'n element (die koolstof-12
+   isotoop het byvoorbeeld 6 protone en 6 neutrone, terwyl die koolstof-14
+   isotoop 6 protone en 8 neutrone het). Isotope is atome van dieselfde
+   element wat dieselfde atoomgetal het maar verskillende massas as gevolg
+   van die verskillend aantal neutrone in die kern teenwoordig.
+
+[wysig] Neutron interaksies
+
+   Die neutron se interaksie met sy omgewing vind plaas deur al vier die
+   algemene klassifikasies van fisiese interaksie, naamlik:
+   elektromagnetiese-, swak kern-, sterk kern- en swaartekrag interaksies.
+
+   Al is dit waar dat die neutron 'n nul netto lading het, bestaan dit
+   nogtans uit elektries gelaaide quarke op dieselfde manier as wat 'n
+   neutrale atoom uit protone en elektrone bestaan. Die neutron ervaar as
+   sulks die elektromagnetiese interaksies. Die beweging van die ladings
+   binne 'n neutron word egter nie uitgekanselleer nie en om hierdie rede
+   het 'n neutron 'n magneties moment groter as nul.
+
+   Swaartekrag word dikwels nie bespreek wanneer daar oor neutrone gepraat
+   word nie. Dit is omdat die interaksies van neutrone dikwels slegs op
+   die subatomiese vlak bestudeer word. Op 'n subatomiese vlak is die
+   invloed van swaartekrag so klein relatief tot die ander kragte betrokke
+   dat dit glad nie bespeur kan word nie. Ten spyte hiervan sal 'n neutron
+   dieselfde swaartekragversnelling as gevolg van die aarde se
+   swaartekragveld ondergaan as 'n baksteen wat van lood gemaak is.
+
+   Gelaaide partikels (soos protone, elektrone of alfa partikels) en
+   elektromagnetiese straling (soos gamma-strale) verloor energie as hulle
+   deur materie beweeg. Hulle oefen elektriese kragte uit wat die atome,
+   van die materiaal waardeur hulle beweeg, ioniseer. Die energie wat
+   sodoende opgeneem word om die ionisasie te bewerkstellig is gelyk aan
+   die energie wat deur die gelaaide partikel verloor word. Die partikel
+   word dan vertraag of in die gamma-straal geabsorbeer of verstrooiing
+   (sien compton verstrooiing). Die neutron daarenteen het geen elektriese
+   lading nie en veroorsaak gevolglik dus geen ionisasie nie.
+
+   Met kernkrag interaksies is dit egter 'n heel ander saak. Kernkragte
+   speel die leidende rol wanneer neutrone deur gewone materie beweeg.
+   Gevolglik beweeg 'n neutron onverstoord deur materie totdat dit 'n
+   "kop-aan-kop" botsing maak met 'n atoomkern.
+
+   Wanneer dit gebeur word die neutrone en teiken kern verstrooi
+   (gedeflekteer of vertraag), geabsorbeer, of verander na iets heel
+   anders. In die geval van die reaksie n + ^3He → ^1H + ^3H (n:neutron;
+   ^3He: kern wat bestaan uit twee protone en twee neutrone; ^3H: kern wat
+   bestaan uit een proton en twee neutrone) kom dit voor asof die proton
+   en neutron byvoorbeeld plekke geruil het met die vrystelling van
+   kinetiese energie. In baie gevalle word sekondêre partikels geskep en
+   word energie verbruik of vrygestel.
+
+   Neutrone, soos ander partikels, kan elastiese botsings ondergaan. 'n
+   Botsing is elasties onder die spesiale geval waar kinetiese energie
+   behou word. Snoekerballe ondergaan byvoorbeeld ook elasties botsings.
+   Die wet van die behoud van momentum geld hier ook soos met enige ander
+   botsing. As die kern wat tydens 'n elastiese botsing getref word swaar
+   is, word dit relatief min versnel, maar as dit 'n proton is wat getref
+   word met ongeveer dieselfde massa as 'n neutron word dit versnel om 'n
+   groot deel van die oorspronklike snelheid van die neutron t bereik, wat
+   dan natuurlik 'n ooreenstemmende vertraging ondergaan.
+
+[wysig] Neutronsporing
+
+   Die mees algemene metode om 'n gelaaide partikel op te spoor deur te
+   kyk na die ionisasie-baan wat dit agterlaat werk nie direk vir neutrone
+   nie. Neutrone wat elasties vanaf 'n ander atoom verstrooi word kan
+   egter 'n ionisasie naspeurbare ionisasie-baan agterlaat, maar sulke
+   eksperimente is nie maklik om uit te voer nie en is ander tegnieke waar
+   hlle interaksies met atoomkerne bestudeer word, meer algemeen in
+   gebruik.
+
+   'n Algemene tegniek vir die opspoor van neutrone behes die omskakeling
+   van die energie wat vrygestel word deur sodanige interaksies na
+   elektriese seine. Die kerne ^3He, ^6Li, ^10B, ^233U, ^235U en ^239Pu is
+   nuttig vir sodanige eksperimente. 'n Goeie bespreking oor
+   neutronsporing kan gevind word in hoofstuk 14 in die boek Radiation
+   Detection and Measurement deur Glenn F. Knoll (John Wiley & Sons,
+   1979).
+
+[wysig] Gebruike van Neutrone
+
+   Die neutron speel 'n belangrike rol in baie kernreaksies. Neutronvangs
+   lei dikwels byvoorbeeld tot neutron aktivering wat radio-aktiwiteit tot
+   gevolg het. Kennis oor neutrone en hulle gedrag het 'n belangrike rol
+   gespeel in die ontwikkeling van kernreaktore en kernwapens. Die
+   ontwikkeling van "neutron-lense" wat gebaseer is op die totale interne
+   weerkaatsing binne 'n hol kapillêre glasbuis of deur weerkaatsing vanaf
+   gerimpelde aluminium plate het die dryfkrag verskaf vir verdere
+   navorsing in neutron-microskopie en neutron/gamma-straal tomografie.
+
+   Een gebruik van neutron-uistralers is die naspeur van ligte kerne,
+   veral die waterstof wat in water molekules gevind word. Wanneer 'n
+   vinnige neutron met 'n ligte kern bots, verloor dit 'n groot deel van
+   sy energie. Deur die vertragingstempo van die neutrone wat teen die
+   kerne bots en dan na die analiseerder terugkeer, te bepaal, kan 'n
+   neutron-analiseerder die water-inhoud in grond bepaal.
+
+[wysig] Neutronbronne
+
+   Vanweë die feit dat vrye neutrone onstabiel i, kan hulle
+   (neutronstraling slegs verkry word deur die verval van kerne,
+   kernreaksies en hoë energie reaksies (soos in die geval van kosmiese
+   straling of versnellers). Vrye neutronbundel word verkry vanaf
+   neutronbronne deur middel van neutronvervoer.
+
+   Neutrone se gebrek aan elektriese lading verhoed ingenieurs of
+   eksperimentele wetenskaplikes om hulle te beheer of te versnel.
+   Gelaaide deeltjies van versnel, vertraag of gedeflekteer word deur
+   elektriese- of magnetiese velde. Hierdie metodes het egter geen invloed
+   op neutrone nie (Let wel dat daar wel 'n klein invloed deur magnetiese
+   velde op 'n vrye neutron is vanweë sy magnetiese moment).
+
+[wysig] Ontdekking
+
+   In 1930 het Walther Bothe en H. Becker in Duitsland ontdek dat wanneer
+   die baie energieryke alfa-partikels wat vanaf polonium uitgestraal word
+   op 'n sekere aantal ligte elemente, spesifiek berillium, boor of
+   litium, sou val dit 'n ongewone straling met 'n hoë deurdringingsvermoë
+   ontstaan het. Eers is gereken dat dit gamma-straling was al het dit toe
+   'n hoër deurdringingsvermoë getoon as enige ander bekende
+   gamma-straling en het hulle gevind dat die resultate op grond van die
+   aanname baie moeilik was om te interpreteer.
+
+   Die volgende groot deurbraak is in 1932 in Parys deur Irène
+   Joliot-Curie en Frédéric Joliot gemaak]]. Hulle het gewys dat as die
+   onbekende straling op parafien of enige ander waterstof-bevattende stof
+   sou val, dit energieryke protone vrygestel het. Dit op sigself het nie
+   die aanname dat dit 'n soort gamma-straling was weerlê nie, maar het
+   dit toenemend moeilik gemaak om die gedetaïlleerde kwantitatiewe
+   analisies van die data met die hipotese te vereenselwig. James Chadwick
+   het later daardie selfde jaar in Engeland met 'n reeks eksperimente
+   bewys dat die gamma-straal hipotese onversoenbaar was met die
+   eksperimentele waarnemings. Hy het voorgestel dat die nuwe straling
+   eerder bestaan het uit ongelaaide partikels met ongeveer dieselfde
+   massa van 'n proton en het toe verdere eksperimente uitgevoer om sy
+   voorstel te ondersteun. Hierdie ongelaaide deeltjies is toe uiteindelik
+   neutrone gedoop, skynbaar vanuit die Latyns vir neutraal en die Griekse
+   agtervoegsel -on (soortgelyk aan elektron en proton).
+
+[wysig] Huidige verwikkelinge
+
+   Die bestaan van stabiele trosse van vier neutrone, of tetraneutrone is
+   voorgestel deur 'n span onder leiding van Francisco-Miguel Marqués van
+   die CNRS Laboratorium vir Kernfisika op grond van waarnemings van die
+   verval van berillium-14 kerne. Wat die hipotese interessant maak is dat
+   die aanvaarde teorie voorspel dat sulke trosse nie stabiel behoort te
+   wees nie en daarom nie kan bestaan nie.
+
+[wysig] Anti-neutrone
+
+   Die anti-neutron is die anti-partikel van die neutron. Dit is deur
+   Bruce Cork in 1956, slegs 'n jaar na die anti-proton, ontdek.
+
+[wysig] Sien ook
+
+     * partikelfisika
+     * subatomiese partikel
+     * lys van partikels
+     * quark model
+     * chemie
+     * neutronster
+     * neutronvervoer
+     * neutronstraling
+     * termiese neutron
+     * vinnige neutron
+     * pulsende neutron-generator
+     * Splitsende Neutronbron
+     * tetraneutron
+
+   Kategorieë: Nukleoon • Fisika • Chemie
+

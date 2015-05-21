@@ -1,0 +1,24 @@
+Magnetohidrodinamika
+
+
+   Magnetohidrodinamika is die vakgebied wat hom bemoei met die studie van
+   die dinamika van elektries geleidende vloeiers. Voorbeelde van sulke
+   vloeiers sluit in plasmas, vloeibare metale en soutwater. Die vakgebied
+   is deur Hannes Alfvén^[1] begin, waarvoor hy dan ook die Nobelprys vir
+   fisika in 1970 verwerf het.
+
+   Die idee van Magnetohidrodinamika (MHD) is dat 'n magnetiese veld
+   elektriese strome in 'n geleidende vloeier kan induseer, wat kragte in
+   die vloeier tot gevolg het en ook die magnetiese veld beïnvloed. Die
+   stel vergelykings wat MHD beskryf is 'n kombinasie van die
+   Navier-Stokes vergelykings vanaf vloeidinamika en Maxwell se
+   vergelykings vanaf elektromagnetisme. Die differensiaalvergelykings
+   moet gelyktydig opgelos word, hetsy analities of numeries.
+
+[wysig] Verwysings
+
+    1. ^ Alfven, H., "Existence of electromagnetic-hydrodynamic waves"
+       (1942) Nature, Vol. 150, bladsy. 405
+
+   Kategorie: Fisika
+

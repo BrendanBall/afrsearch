@@ -1,0 +1,32 @@
+Motor
+
+
+   'n Motor is 'n stuk gereedskap wat een of ander vorm energie omskep in
+   meganiese energie. Meeste motors werk in 'n draai beweging, alhoewel
+   liniêre motors ook algemeen is. Tipies word die woord enjin gebruik vir
+   'n motor wat 'n voertuig aandrywe.
+
+   Daar word gewoonlik onderskei tussen watter tipes drywing 'n motor of
+   enjin gebruik. So kry ons:
+     * stoomenjin wat die druk van onstnappende stoom gebruik om 'n
+       turbine te draai.
+     * binnebrandenjin wat die verbranding (of kompressie, in die geval
+       van dieselenjins) van 'n plofstop in beweging omskep
+     * elektriese motor wat elektrisiteit gebruik om 'n magneetveld te
+       skep wat 'n wield draai
+     * stirling motor wat temperatuurverskille gebruik om gas deur
+       turbines te stuur.
+
+   Die 'stirling motor' en stoomenjin is voorbeelde van 'n
+   buitebrandenjin.
+
+   Nog voorbeelde:
+     * gasturbine
+     * veermotor
+     * straalenjin
+     * Wankelenjin
+
+   Soms word die woord 'motor' gebruik as kort vir motorkar, alhowel dit
+   baie meer algemeen as kar verkort word.
+   Kategorie: Voertuigtegnologie
+

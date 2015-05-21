@@ -1,0 +1,75 @@
+Kh-25
+
+
+                                                                    Kh-25
+
+                              Kh-25ML Missiel
+                       'n gemonteerde Kh-25ML missiel
+
+                            Missiel:                                 Kh-25
+                            Herkoms:                    Russiese Federasie
+                       Operasioneel:                                  1975
+                        Gebruik vir: Lug-tot-grond missiel, anti-lugafweer
+                      In gebruik op: Ka-52, Su-24, Su-25/-T, MiG-23, Su-34
+                        Reikafstand:       MP - 25Km, MR - 10Km, ML - 20Km
+                            Plofkop:           90Kg TNT (gelykstaande aan)
+
+   Die Kh-25 is 'n Russies vervaardigde geleide lug-tot-grond missiel wat
+   soos die meeste Russiese wapentuig, op byna alle Russiese vervaardigde
+   aanvalsvliegtuie gebruik kan word. Die Kh-25 is ontwikkel deur
+   Zvezda-Strela, en is in diens gestel om as plaasvervanger van die
+   vroeëre Kh-23 missiel. Alle variante gebruik die Kh-25 missiellugraam
+   maar het verskillende geleidingsstelsels. Die 'M'-variant (Russies:
+   Modulnaya / Afrikaans: Modulêr) word die meeste ontplooi.
+
+   Inhoud
+
+        * 1 Variante
+             + 1.1 Kh-25ML
+             + 1.2 Kh-25MP
+        * 2 Aanwending
+        * 3 Eksterne skakels
+
+[wysig] Variante
+
+   Die Kh-25 bestaan uit die volgende variante;
+     * Kh-25MP anti-radar stasie (Anti-lugafweer missiel), selfstandig
+       geleid.
+     * Kh-25MR het radio-beheerde geleiding.
+     * Kh-25ML is toegerus met semi-akiewe laser geleiding
+     * Kh-25MLT is hitte geleid
+
+   Alle missiele word deur NAVO as die AS-10 Karen geklassifiseer, behalwe
+   die Kh-25MP wat as die AS-12 Kegler bekendstaan.
+
+[wysig] Kh-25ML
+
+   Die Kh-25ML is geskik om gepanserde en/of bewegende teikens soos
+   gepanserde voertuie (byvoorbeeld tenks, vaartuie, klein bruê, vliegtuie
+   op die grond, of artilleriestellings uit te skakel. Die missiel is
+   geskik vir dag-/nag gebruik maar wel tydens goeie weersomstandighede.
+   Die missiel het 'n rigtingroer met vlerke wat in 'n kruisvorm agter op
+   die missiel gemonteer is.
+
+[wysig] Kh-25MP
+
+   Dit is 'n variant wat gebruik kan word om vyandige radar-, lugafweer
+   installasies te vernietig.
+
+[wysig] Aanwending
+
+   Die missielbegeleiding kan deur die lanseer vliegtuig, 'n ander
+   vliegtuig, of visueel deur grondtroepe met laser aanwysers, behartig
+   word. Wanneer die teiken belig word, en die teiken binne die
+   reikafstand van die missiel is, kan die vlieënier die missiel lanseer.
+   Die missiel volg dan die gekaatste lig deur sensors op die voorpunt
+   daarvan. Die missiel kan in 'n horisontale posisie of tot maksimaal 40°
+   hoek gelanseer word. 'n Opwaartse lanseerhoek verhoog die akkuraatheid
+   van die missiel.
+
+[wysig] Eksterne skakels
+
+    1. http://www.fas.org/man/dod-101/sys/missile/row/as-10.htm
+
+   Kategorie: Wapens
+

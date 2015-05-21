@@ -1,0 +1,86 @@
+Protea
+
+
+                        Protea
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Protea lepidocarpodendron x nerifola
+   Protea lepidocarpodendron x nerifola
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae, eudicots
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      {{{classis}}}
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Proteales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Proteaceae
+     Subfamilie:   Proteoideae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Protea
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+
+                                Sien artikel
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Protea of suikerbos is 'n blommegeslag in die familie Proteaceae,
+   bestaande uit tropiese Afrikastruike.
+
+[wysig] Uitgesoekte spesies
+
+     * afdeling protea (die koningsprotea):
+          + koningsprotea (Protea cynaroides)
+     * afdeling leiocephalae (grasveldproteas):
+          + gewone protea (Protea caffra)
+     * afdeling melliferae (suikerbosse)
+          + gewone suikerbos (Protea repens)
+     * afdeling speciosae (bebaarde proteas):
+          + blou suikerbos (Protea neriifolia)
+
+   Terwyl proteas op verskeie plekke rondom die wêreld groei kom hulle
+   prominent in die fynbosgebied van Suid-Afrika voor.
+
+[wysig] Eksterne skakels
+
+   'n Groot projek is aan die gang om proteas in Suid-Afrika te
+   katalogiseer, bekend as die Atlasprojek vir Proteas. Heelwat
+   uitstekende afbeeldings van proteas en verwante plante en diere is ook
+   daar te vinde.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

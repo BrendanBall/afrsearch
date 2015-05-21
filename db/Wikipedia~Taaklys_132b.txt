@@ -1,0 +1,121 @@
+Wikipedia:Taaklys
+
+
+   Voorbeeld van 'n Taaklys: (Let wel - sal normaalweg nie in die artikel
+   self gebruik word nie maar in die Besprekings blad)
+
+   Uitstaande take vir Wikipedia:Taaklys:
+                                         wysig - hou dop - purge
+     * Doen taalversorging
+     * Skep template wat deur die artikel gebruik word
+
+   Kortpad:
+   WP:TDL
+
+   Die Taaklys (sjabloon {{Taaklys}}) van 'n artikel wys, soos die naam
+   impliseer, die lys van verbeterings wat vir die artikel voorgestel
+   word. Die lys word onderhou deur redigeerders, skrywers, resensente of
+   lesers soos jy, as 'n meganisme om gesamentelike pogings te fokus. As
+   sodaanig verteenwoordig die taaklyste 'n mate van konsensus en help dit
+   om die doeltreffendheid van die redigeer proses verbeter.
+
+   Vir 'n lys van artikels met taaklyste, kyk Category:Taaklys. Hou die
+   kategorie bladsye dop as jy na artikels soek om mee te help. Dit kan 'n
+   uistekende manier wees om by te dare tot die kwalitiet van die
+   Afrikaanse wikipedia.
+
+   Die "taaklys" meganisme het die volgende voordele:
+     * die lsy van take is permanent sigbaar in die besprekings blad van
+       die artikel - waar meeste redigeerders dit sal raak sien.
+     * artikels met taaklyste word outomaties gelys in die lys van
+       artikels met Taaklyste, sodat redigeerders wat moontlik onbewus is
+       van die artikel dan so ingetrek word om die artikel te help
+       verbeter.
+
+   Bespreek gerus die taaklyste in die besprekings lyste van die artikels,
+   stel nuwe take voor, of bespreek werk aan uitstaande take.
+
+   Let wel dat die taaklyste in 'n spesiale taaklys bladsy, apart van die
+   besprekingsblad, bewrek word. Die inhoud verskyn egter wel outomaties
+   boaan die besprekingsblad. Dus kan jy nie 'n gewone besprekings blad
+   verander/redigeer om die taaklys te verander nie - dit word hieronder
+   verder verduidelik.
+
+   Sjabloon:Versoeke vir samewerking
+
+[wysig] Metdode
+
+   Om 'n taak te bespreek en konsesnsus te help kweek:
+     * in meeste gevalle, redigeer mens net die taak soos hieronder
+       beskryf, som die verandering en rede vir die verandering op ins die
+       redigeer opsomming.
+     * as meer bespreking nodig is, skep 'n nuwe hofie aan die onderkant
+       van die besprekings blad van die atrikel (nie in die taak lys nie -
+       dit is slegs vir take waaroor daar konsesnsus is) om 'n nuwe
+       bespreking te begin.
+
+   Om 'n nuwe taaklys te begin:
+     * gaan na die besprekings blad van die artikel
+     * wysig dit
+     * boaan die redigeer areatik in {{taaklys}}
+     * stoor jou verandering: die besprekingsbladsy word nou met 'n leë
+       taaklys vertoon
+     * klik op die "edit" skakel boaan die taaklys
+     * tik 'n "*" gevolg deur die taak beskrywing. Begin liefs met 'n
+       werkwoord soos "verduidelik", "bespreek", "motiveer" om die taak
+       duidelik te beskryf.
+     * tik 'n opssoming soos van toepassing en kies Hou bladsy dop. Stoor
+       die taaklys.
+     * gaan terug na die besprekingsblad om seker te maak alles het glad
+       verloop. Indien nodig klik op die purge skakel om die bladsy te
+       verfris.
+
+   Om 'n taak by te voeg tot die taaklyst:
+     * klik die "edit" skakel boaan die taaklys
+     * tik 'n "*" gevolg deur die taak beskrywing. Begin liefs met 'n
+       werkwoord soos "verduidelik", "bespreek", "motiveer" om die taak
+       duidelik te beskryf.
+     * tik 'n opssoming soos van toepassing en kies Hou bladsy dop. Stoor
+       die taaklys.
+     * gaan terug na die besprekingsblad om seker te maak alles het glad
+       verloop. Indien nodig klik op die purge skakel om die bladsy te
+       verfris.
+
+   Op soortgelyke wyse om 'n taak te redigeer of te verwyder (van die
+   taaklys af):
+     * klik die "edit" skakel boaan die taaklys
+     * redigeer of verwyder die taak of take in die redigeer area
+     * tik 'n opssoming soos van toepassing en kies Hou bladsy dop. Stoor
+       die taaklys.
+     * gaan terug na die besprekingsblad om seker te maak alles het glad
+       verloop. Indien nodig klik op die purge skakel om die bladsy te
+       verfris.
+
+   Om 'n items (taak) te merk as in ontwikkeling:
+     * op die besprekings blad van die artikel klik die "edit" skakel op
+       die taaklys
+     * voeg "''In ontwikkeling'' ~~~~ aan die einde van die item wat
+       betrekking het by.
+     * stoor jou wysiging
+     * onthou om die merker weer te verwyder as jy nie meer aan die taak
+       werk nie, en om dit te skrap as jy dit gedoen hetd
+
+[wysig] Wat 'n taaklys is
+
+     * Plek om te help duidelik rigting gee aan 'n bladsy
+          + algemene doielstellings vir 'n artikel
+          + lys van nuwe afdelings wat bygevoeg moet word
+     * 'n Plek om feite wat vir die artikel gevind moet word of
+       geverifieer moet word te lys
+     * 'n Plek om aan te dui watter afdelings uitgebrei moet word of wat
+       ander veranaderinge moet ondergaan.
+
+[wysig] Wat 'n taaklys nie is nie
+
+     * Dit is nie 'n plak vir bespreking nie (gebruik die besprekingsblad
+       daarvoor)
+     * Dit is nie 'n plek om eksperimentele idees voor te stel nie (dit
+       erg eers die bereik van konsesnsus op die besprekingsblad)
+
+   Kategorie: Taaklys
+

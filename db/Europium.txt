@@ -1,0 +1,217 @@
+Europium
+
+
+
+   63                    samarium ← europium → gadolinium
+    -
+   ↑
+   Eu
+   ↓
+   Am
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal europium, Eu, 63
+                                                Chemiese reeks lanthanides
+                                            Groep, Periode, Blok nvt, 6, f
+                                                   Voorkoms silwerig white
+                                               Atoommassa 151.964(1) g/mol
+                                       Elektronkonfigurasie [Xe] 4f^7 6s^2
+                                     Elektrone per skil 2, 8, 18, 25, 8, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 5.264 g/cm³
+                                  Vloeistof digtheid teen s.p. 5.13 g/cm³
+                                                          Smeltpunt 1099 K
+                                                                 (826 °C)
+                                                           Kookpunt 1802 K
+                                                                (1529 °C)
+                                               Smeltingswarmte 9.21 kJ/mol
+                                              Verdampingswarmte 176 kJ/mol
+                                Warmtekapasiteit (25 °C) 27.66 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                       P/Pa    1  10  100  1 k  10 k 100 k
+                                     teen T/K 863 957 1072 1234 1452 1796
+
+                                                           Atoomeienskappe
+                                     Kristalstruktuur kubies body centered
+                                                    Oksidasietoestande 3,2
+                                                      (mildly basic oxide)
+                            Elektronegatiwiteit  ? 1.2 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 547.1 kJ/mol
+                                                          2de: 1085 kJ/mol
+                                                         3rde: 2404 kJ/mol
+                                                        Atoomradius 185 pm
+                                                 Atoomradius (ber.) 231 pm
+                                                                   Diverse
+                                           Magnetiese rangskikking no data
+                         Elektriese weerstand (k.t.) (polie) 0.900 µΩ·m
+                     Termiese geleidingsvermoë (300 K) est. 13.9 W/(m·K)
+                                        Termiese uitstetting (r.t.) (poly)
+                                                           35.0 µm/(m·K)
+                                                 Young se modulus 18.2 GPa
+                                                      Skuifmodulus 7.9 GPa
+                                                      Massamodulus 8.3 GPa
+                                                   Poissonverhouding 0.152
+                                                  Vickers hardheid 167 MPa
+                                              CAS-registernommer 7440-53-1
+                                                        Vernaamste isotope
+
+           CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                               iso    NV   halfleeftyd VM  VE (MeV)   VP
+                              ^150Eu syn   36.9 y      ε   2.261    ^150Sm
+                              ^151Eu 47.8% Eu is stabiel met 88 neutrone
+                              ^152Eu syn   13.516 y    ε   1.874    ^152Sm
+                                                       β^- 1.819    ^152Gd
+                              ^153Eu 52.2% Eu is stabiel met 90 neutrone
+
+                                                                Verwysings
+
+   Europium (IFA: /jʊˈrəʊpiəm/) is 'n chemiese element in die periodieke
+   tabel met die simbool Eu en atoomgetal 63. Dit is na die kontinent
+   Europa vernoem.
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Verwysings
+        * 9 Externe skakels
+        * 10 Voetnotas
+
+[wysig] Merkbare eienskappe
+
+   Europium is die reaktieftse van die seldsame aardelemente; dit oksideer
+   onmiddelik in lug, en kom ooreen met kalsium in terme van reaksie met
+   water; die metaal element in vastetoestand vorm is selde blink selfs
+   wanneer dit in mineraalolie geberg word. Europium ontsteek in lug by
+   omtrent 150 °C tot 180 °C. Dit is omtrent so hard soos lood en heel
+   pletbaar.
+
+[wysig] Toepassings
+
+   Daar is min kommersiële teopassings van europium metaal. Dit is egter
+   al gebruik om sommige tipes glas om lasers te maak, so wel as om vir
+   Down sindroom en sommige ander genetiese siektes te toets. As gevolg
+   van die element se vermoeë om neutrone te absorbeer word dit ook
+   bestudeer vir gebruik in kernreaktors. Europiumoksied (Eu[2]O[3]) word
+   algemeen gebruik as 'n rooi fosfor in televisiestelle en fluoressent
+   ligte, en as 'n aktiveerder vir yttrium-gebaseerde fosfors. Dit word
+   ook gebruik as 'n middel om vir die vervaardiging van fluoresserende
+   glas. Europium fluoressensie word gebruik om biomolekulêre interaksies
+   in geneesmiddelontdekking toetse te ondersoek . Dit word ook gebruik
+   anti-vervalsingfosfors in Euro banknote. ^[1]
+
+   Europium word algemeen ingesluit in spoor element studies in geochemie
+   en petrologie om die prosesse wat stollingsgesteentes (rotse wat gevrom
+   is uit magma of lawa wat afgekoel het) vorm te bestudeer. Die aard van
+   die europium anomalie wat gevind word, word gebruik om die verhouding
+   binne 'n stel stollingsgesteentes te herkonstrueer.
+
+[wysig] Geskiedenis
+
+   Europium is vir die eerstekeer deur Paul Émile Lecoq de Boisbaudran in
+   1890 waargeneem toe hy basic fraction van samarium-gadolinium
+   konsentrate verkry het wat spektrale lyne gehad het wat nie verklaar
+   kan word uit die teenwoordigheid van samarium of gadolinium nie; die
+   ontdekking van europium word egter gewoonlik toegeskryf aan die Franse
+   chemikus Eugène-Antole Demarçay, wat vermoed het dat monsters van die
+   onlangs ontdekte element samarium besoedel is met 'n element wat in
+   1896 onbekend is en wat in 1901 daarin geslaag het om europium te
+   isoleer.
+
+[wysig] Voorkoms
+
+   Europium word nooit in die natuur as 'n vrye element aangetref nie;
+   daar is egter verskeie minerale wat europium bevat, waarvan die
+   belangrikste bronne bastnasiet en monaziet is. Europium is ook in die
+   spektra van die son en sekere ander sterre geïdentifiseer.
+
+[wysig] Verbindings
+
+   Europium verbindings sluit in:
+     * Fluorides
+          + EuF[2]
+          + EuF[3]
+     * Chlorides
+          + EuCl[2]
+          + EuCl[3]
+     * Bromides
+          + EuBr[2]
+          + EuBr[3]
+     * Iodiede
+          + EuI[2]
+          + EuI[3]
+     * Oxides
+          + Eu[2]O[3]
+          + Eu[3]O[4]
+     * Sulfides
+          + EuS
+     * Selenides
+          + EuSe
+     * Tellurides
+          + EuTe
+     * Nitrides
+          + EuN
+
+   Europium(II) verbindings neig om die algemeenste te wees, wat 'n
+   effense uitsondering is aangesien meeste lanthanides verbindings met 'n
+   oksidasie toestand van +3 vorm. Europium(II) chemie is baie soortgelyk
+   aan barium(II) chemie, aangesien hulle soortgelyke ioniese radiuse het.
+
+[wysig] Isotope
+
+   Natuurlik voorkomende europium bestaan uit twee tabiele isotope, 151-Eu
+   en 153-Eu, waarvan 153-Eu die vollopste is (52.2%). 35 radioisotope is
+   gekarakteriseer, waarvan die stabielste 150-Eu is met 'n halfleeftyd
+   van 36,9 jaar is, 152-Eu met 'n halfleeftyd van 13,516 jaar, en 154-Eu
+   met 'n halfleeftyd van 8,593 jaar. Al die ander radioaktiewe isotope
+   het halflewes minder as 4,7612 jaar, en die meeste het halfleeftye
+   minder as 12,2 sekondes. Die element het ook 8 meta state, waarvan die
+   stabielste 150m-Eu (t[½] 12,8 ure), 152m1-Eu (t[½] 9,3116 ure) en
+   152m2-Eu (t[½] 96 minute) is.
+
+   Die primêre vervalmode voor die vollopste stabiele isotoop, 153-Eu, is
+   electronvang, en die primêre mode daarna is beta-minusverval. Die
+   primêre vervalproduk voor 153-Eu is element Sm (samarium) isotope en
+   die primêre produkte daarna is element Gd (gadolinium) isotope.
+
+[wysig] Voorsorgmaatreëls
+
+   Die toksisiteit van europium verbindings is nog nie ten volle ondersoek
+   nie, maar daar is geen duidelike aanduidings dat europium hoogtoksies
+   is in vergelyking met ander swaarmetale nie. Die metaalstof
+   verteenwoordig 'n vuur- en ontploffingsgevaar. Europium het geen
+   bekende biologiese rol nie.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Europium
+
+[wysig] Externe skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Europium
+
+   Sjabloon:Wiktionary
+     * WebElements.com – Europium
+     * It's Elemental – Europium
+
+[wysig] Voetnotas
+
+    1. ^ Europium and the Euro [1]
+
+   Kategorieë: Chemiese elemente • Lanthanides
+

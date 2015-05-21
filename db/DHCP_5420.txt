@@ -1,0 +1,115 @@
+DHCP
+
+
+   Die DHCP-protokol (vanaf engels Dynamic Host Configuration Protokol
+   oftewel Dinamiese Gasheeropstellingsprotokol) is 'n stel reëls wat deur
+   kommunikasietoestelle (soos 'n rekenaar, roetebeheerders of
+   netwerk-kaarte) gebruik word om die toestel toe te laat om 'n
+   Internet-adres vanaf 'n bediener te versoek wat 'n lys adresse
+   beskikbaar het vir toekenning.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 Oorsig
+        * 3 Implementerings
+        * 4 IP-adrestoekenning
+        * 5 DHCP en brandmure
+
+[wysig] Inleiding
+
+   DHCP is 'n protokol wat deur rekenaars op 'n netwerk (kliënte) gebruik
+   word om 'n unieke IP-adres te verkry asook ander parameters soos die
+   standaard roetebeheerder, die subnetmasker en IP-adresse vir
+   DNS-bedieners vanaf 'n DHCP-bediener. Hierdie protokol word gebruik
+   wanneer rekenaars aan 'n netwerk toegevoeg word omdat hierdie
+   verstelling benodig word vir 'n gasheer om aan 'n netwerk deel te neem.
+   Hierdie verstelling moet periodies verfris word (dit verval, wat
+   beteken dat die kliënt 'n ander toekenning moet ontvang) met tipiese
+   intervalle wat kan wissel vanaf een uur tot verskeie maande en kan,
+   indien verlang, tot oneindig verstel word (verval nooit). Die tydsduur
+   waartydens die adres beskikbaar sal wees vir die toestel word deur die
+   bediener bepaal.
+
+   Die DHCP-bediener verseker dat alle IP-adresse uniek is, d.w.s. dat
+   geen IP-adres aan 'n toestel toegeken word terwyl 'n ander toestel se
+   toekenning nog geldig is nie. Die bestuur van die poel van IP-adresse
+   word dus deur die bediener beheer en nie deur 'n menslike
+   administrateur nie.
+
+   DHCP is vanaf Oktoker 1993 die standaard protokol vir die internet. Die
+   nuutste DHCP spesifikasie word in RFC 2131 uiteengesit. DHCP is in wese
+   die opvolger van die ouer BOOTP-protokol wat addresse vir 'n onbeperkte
+   tydperk uitgegee het. Bitter min netwerke gebruik egter nog BOOTP.
+
+[wysig] Oorsig
+
+   DHCP outomatiseer die toeken van IP-adresse. 'n Kliënt op die netwerk
+   stuur 'n versoek uit na 'n DHCP-bediener op 'n plaaslik verbinde
+   netwerk. Die DHCP-bediener stuur dan 'n antwoord aan die kliënt met sy
+   toegekende IP-adres, subnetmasker, DNS-bediener en standaard
+   roetebeheerders.
+
+   Die toekenning van IP-adresse verval gewoonlik na 'n voorafbepaalde
+   tydperk, waarna die DHCP-kliënt en -bediener weer 'n ooreenkoms moet
+   bereik oor 'n nuwe IP-adres vanuit die bediener se voorafgedefinieerde
+   adrespoel. DHCP is 'n uitsaai-protokol. Soos met ander uitsaaiverkeer
+   op 'n netwerk gaan dit nie deur 'n roetebeheerder nie tensy dit
+   spesifiek sodanig opgestel is nie. Gebruikers wat hierdie funksies
+   verlang moet hulle roetebeheerders opstel om DHCP verkeer oor
+   UDP-poorte 67 en 68 deur te laat.
+
+[wysig] Implementerings
+
+   Microsoft het DHCP op hulle NT-bedieners bekendgestel vanaf weergawe
+   3.5 in laat 1994. Windows 2000 en Windows 2003 sluit ook DHCP as 'n
+   kenmerk in.
+
+   Die ISC DHCP-bediener is 'n oopbron DHCP-bediener wat in baie
+   Linux-verspreidings en baie kommersiële implementerings benut word.
+
+   Novell het 'n DHCP-bediener in hulle NetWare bedryfstelsel ingesluit
+   sedert weergawe 5 wat in 1998 vrygestel is. Dit word egter as 'n
+   bykomende diens ingesluit aangesien Netware steeds die IPX/SPX
+   protokolsuite gebruik en daarom word dit nie gereeld op Novell-netwerke
+   gebruik nie.
+
+[wysig] IP-adrestoekenning
+
+   Afhangende van die implementering, kan die DHCP-bediener drie metodes
+   gebruik om IP-adresse toe te ken:
+     * handmatige toekenning, waar die DHCP-bediener die toekenning doen
+       aan die hand van 'n tabel met MAC-adres en IP-adrespare wat per
+       hand deur die bediener se administrateur ingevul word. Slegs
+       kliënte met 'n MAC-adres wat in die tabel gelys word, word
+       IP-adresse toegestaan.
+     * outomatiese toekenning, waar die DHCP-bediener 'n IP-adres
+       permanent toeken aan 'n kliënt uit 'n reeks wat deur die
+       administrateur vasgestel is.
+     * dinamiese toekenning, waar die netwerk-administrateur 'n reeks
+       IP-adresse aan die DHCP-bediener toeken, elkeen van die kliënte op
+       die LAN se TCP/IP-sagteware is opgestel om IP-adresse vanaf 'n
+       DHCP-bediener te versoek wanneer daardie kliëntrekenaar se
+       netwerk-kaart aanskakel.
+
+   Die versoek-en-toekenproses gebruik 'n uitleenmetode met 'n beheerbare
+   tydsduur. Dit vergemaklik die netwerk-installasie prosedure op die
+   kliëntrekenaarkant baie.
+
+   Hierdie besluit bly egter deursigtig vir die kliënte op die netwerk.
+   Sommige DHCP-bedieners kan ook die DNS-naam wat met die kliëntrekenaar
+   verbind word opdateer om die nuwe IP-adres te reflekteer. Hulle maak
+   gebruik van die DNS opdateerprotokol wat in RFC 2136 gedefinieer.
+
+[wysig] DHCP en brandmure
+
+   Brandmure moet gewoonlik doelbewus opgestel word om DHCP-verkeer deur
+   te laat. Die spesifikasie van die DHCP kliënt-bediener protokol beskryf
+   verskeie gevalle waar die pakette die bronadres van 0x00000000 of die
+   teikenadres van 0xffffffff moet hê. Brandmure wat met streng reëls
+   opgestel is om aanvalle met vervalste IP-adresse af te weer, verhoed
+   dikwels dat sulke pakette deurgelaat word. DHCP-bedieners met
+   veelvuldige netwerkaansluitings (engels: multihoming) maak die
+   opstelling nog meer ingewikkeld en vereis 'n omsigtige benadering.
+   Kategorieë: Rekenaarnetwerke • Internet
+

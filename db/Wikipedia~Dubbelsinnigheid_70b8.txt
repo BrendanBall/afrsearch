@@ -1,0 +1,80 @@
+Wikipedia:Dubbelsinnigheid
+
+
+   In Wikipedia en ander Wikimediaprojekte is daar altyd 'n risiko van
+   dubbelsinnigheid wanneer 'n enkele term met twee of meer artikels
+   geassosieer kan word. In sommige gevalle is hierdie term dan ook die
+   natuurlike naam (sien Titelriglyne) van twee of meer artikels. In
+   Wikipedia word dubbelsinnigheidsblaaie gebruik om hierdie
+   dubbelsinnigheid op te klaar.
+
+   'n Voorbeeld hiervan is Ceres. Verwys die term na die dorp, Ceres, in
+   die Wes-Kaap? Of Ceres vrugtesappe, wat van Ceres afkomstig is? Miskien
+   vewys die term na die dwergplaneet Ceres, of na die Romeinse godin na
+   wie die dorp en dwergplaneet vernoem is.
+
+   Wanneer daar dus 'n risiko van verwarring is, is dit handig om 'n
+   dubbelsinnigheidsblad te skep.
+
+   Inhoud
+
+        * 1 Skepping van 'n dubbelsinnigheidsblad
+        * 2 Gesogte artikels
+        * 3 Samesmelting
+        * 4 Sien ook
+
+[wysig] Skepping van 'n dubbelsinnigheidsblad
+
+   In die bogenoemde geval verwys die skakel Ceres na die dorp in die
+   Wes-Kaap. Vanuit die oogpunt van 'n Wikipedia wat hoofsaaklik deur
+   Suid-Afrikaners gebruik word, kan dit as die meer gesogte of primêre
+   artikel beskou word en verwys die skakel in sy eenvoudigste vorm (slegs
+   "Ceres") dus na dié artikel. (Sien ook "Gesogte artikels" hier onder.)
+
+   As dubbelsinnigheidsbladsy skep ons dus Ceres (dubbelsinnig), waar ons
+   skakels na al die gelyknamige artikels plaas. Hulle is Ceres (die
+   dorp), Ceres (dwergplaneet) en Ceres (godin).
+
+   Wanneer 'n dubbelsinnigheidsblad geskep word is dit behulpsaam om 'n
+   kort verduideliking na die verskillende skakels te plaas, om die
+   verskille tussen die artikels uit te wys, soos byvoorbeeld:
+
+   Die term "Paris" kan moontlik verwys na:
+     * Paris (mitologie), 'n Trojaanse prins uit die Ilias.
+     * Count Paris, 'n karakter in William Shakespeare se toneelstuk,
+       Romeo and Juliet.
+     * Tom Paris, karakter in die televisiereeks Star Trek: Voyager.
+     * Paris Hilton, 'n sosiale vlinder, aktrise, model en sangeres.
+     * "Paris" is ook die Franse (en Engelse) naam vir die Franse hoostad,
+       Parys.
+
+   Aan die onderkant van 'n dubbelsinnigheidsblad word die volgende word
+   die dubbelsinnigheidsjabloon geplaas deur te tik: {{Dubbelsinnig}}. Dit
+   plaas die bladsy in Kategorie:Dubbelsinnig en plaas dan ook die
+   volgende boodskap aan die onderkant van die bladsy.
+   Hierdie is 'n dubbelsinnigheidsbladsy: 'n lys van artikels wat met
+   dieselfde titel geassosieer word. Indien 'n interne skakel u hierheen
+   verwys het, kan u gerus daardie skakel verander sodat dit direk na die
+   gewenste artikel wys.
+
+[wysig] Gesogte artikels
+
+   In die meerderheid van dubbelsinnigheidsgevalle kan daar nie werklik
+   beweer word dat een artikel meer gesog is as 'n ander nie. Soos in die
+   geval van Athene (godin) en Athene (stad), verwys die skakel in sy
+   eenvoudigste vorm, Athene, na die dubbelsinnigheidsblad en word daar
+   vandaar geskakel na die twee soortgename artikels.
+
+[wysig] Samesmelting
+
+   Let daarop dat hierdie proses nie verwar moet word met die samesmelting
+   van duplikaatartikels (artikels met verskillende titels, maar wat
+   handel oor dieselfde onderwerp, soos byvoorbeeld "Gas Turbine", "Gas
+   turbine" en "Gasturbine", of "hyser" en "hysbak") nie.
+
+[wysig] Sien ook
+
+     * Wikipedia:Titelriglyne
+
+   Kategorie: Dubbelsinnig
+

@@ -1,0 +1,71 @@
+Kelvin-Helmholtz-meganisme
+
+
+   Die Kelvin-Helmholtzmechanisme is 'n astronomiese effek wat plaasvind
+   wanneer die oppervlak van 'n ster of planeet afkoel. Die drukking
+   verlaag as gevolg van die afkoeling en die hemelligaam word saamgepers
+   om op te maak vir die drukverlaging. Deur die samepersing styg die
+   temperatuur in die kern van die hemelliggaam; die effek is (onder
+   andere) sigbaar op Jupiter en Saturnus - Jupiter straal meer energie
+   uit as wat hy van die son ontvang.
+
+   Die meganisme was oorspronklik aan die einde van die 19de eeu
+   voorgestel deur Baron Kelvin en Hermann von Helmholtz as 'n
+   verduideliking van die son se bron van energie. Dit is tans bekend dat
+   die effek van die styging van energie as gevolg van die
+   Kevin-Helmholtz-meganisme heeltemal te klein is om die energieproduksie
+   van die son te verklaar.
+
+[wysig] Energievrystelling tydens Kelvin-Helmholtz-samepersing
+
+   Daar was geteoriseer dat die potensiële swaartekragenergie van die
+   samepersing van die son die bron van sy energie is. Dus, om die totale
+   hoeveelhed energie wat die son uitstraal te bereken (waarby die
+   digtheid konstant bly), word aangeneem dat die son 'n perfekte sfeer
+   was wat uit konsentriese skywe bestaan. Die swaartekragenergie kan dan
+   benader word as die integraal oor al die skywe van die middelpunt tot
+   die buitenste radius.
+
+   Potensiële swaartekragenergie word volgens Newtoniese meganika
+   gedefiniëerd as:
+
+   U = -\frac{Gm_1m_2}{r}
+
+   Waar G die swaartekragkonstante is en die twee massas is die massas van
+   die skyws met die dikte dr en die massa binne-in die radius r wat
+   geïntegreer word tussen 0 (nul) en die radius van die sfeer. Dit gee:
+
+   U = -G\int_{0}^{R} \frac{m(r) 4 \pi r^2 \rho}{r}\, dr
+
+   Waar R die buitenste radius van die bol is en m(r) die massa binne die
+   radius r (van die hele sfeer). Deur m(r) te omskryf as die produk van
+   volume en digtheid kan die integraal as sulks opgelos word:
+
+   U = -G\int_{0}^{R} \frac{4 \pi r^3 \rho 4 \pi r^2 \rho}{3r}\, dr =
+   -\frac{16}{15}G \pi^2 \rho^2 R^5
+
+   Deur dit dan weer te omskryf na die massa van die sfeer word die
+   uiteindelik oplossing:
+
+   U = -\frac{3M^2G}{5R}
+
+   Alhoewel die aanname dat die digtheid konstant bly nie korrek is nie,
+   kan daar op hierdie manier wel 'n beraamde skatting verkry word van die
+   lewensduur van die son, deur die (bekende) waarde van die massa en die
+   radius van die son in te vul en dan te deel deur die bekende ligsterkte
+   van die son.
+
+   Hier word egter nog 'n benadering ingesluit, aangesien die ligsterkte
+   van die son nie altyd konstant is nie. Die berekening is as volg:
+
+   \frac{U}{L_\bigodot} \approx \frac{2.3 \times 10^{41}}{4 \times
+   10^{26}} \approx 18,220,650\ yrs
+
+   Waar L die ligsterkte van die son is. Alhoewel dit 'n langer lewensduur
+   vir die son voorspel as ander metodes (soos elektrochemiese energie,
+   was dit steeds nie die korrekte waarde nie en veels te kort (aangesien
+   die teendeel reeds bewys was). Die raaisel was eers opgelos nadat daar
+   ontdek was dat die son (en ander sterre) se energie afkomstig is van
+   kernfusie.
+   Kategorieë: Sterrekunde • Termodinamika
+

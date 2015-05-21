@@ -1,0 +1,77 @@
+Enjinverplasing
+
+
+   Enjinverplasing word gedefinieer as die totale volume
+   lug/brandstofmengsel wat 'n enjin kan insuig tydens een volledige
+   enjinsiklus; dit word normaalweg in kubieke sentimeter of liter
+   aangegee. In 'n suierenjin is hierdie die volume wat gevee word soos
+   die suier vanaf die boonste middelpunt tot die onderste middelpunt
+   beweeg.
+
+[wysig] Standaard enjins
+
+   In 'n standaard suierenjin ('n Otto- of Dieselsiklus enjin), word
+   verplasing bereken deur die aantal silinders in die enjin met die
+   oppervlakte van 'n suierkop en die lengte van die slag. Met ronde
+   suiers kan die verplasing vanaf die deursnee van die silinderholte en
+   die slag bereken word met die volgende formule:
+
+          {\pi\over 4} \times \mbox{deursnee}^2 \times \mbox{slaglengte}
+          \times \mbox{aantal silinders} = \mbox{verplasing}
+
+   Die berekening van verplasing in ander enjinsoorte (veral dié van die
+   Wankelenjin) is heelwat meer ingewikkeld.
+
+   Verplasing is gelyk aan die volume van die brandbare
+   lug/brandstofmengsel wat tydens een siklus van al die silinders teen
+   100% volumetriese rendement ingesuig word. Dus sal 'n vierslagenjin sy
+   aangeduide enjinverplasing in twee omwentelinge van die enjin inneem,
+   terwyl 'n tweeslagenjin slegs een omwenteling van die enjin benodig om
+   dit te doen.
+
+   Die enjinkrag is dus afhanklik van die hoeveelheid van die
+   lug/brandstofmengsel wat ingesuig word en die doeltreffendheid waarmee
+   dit verbrand word en die energie na meganiese krag omgeskakel word. Om
+   die hoeveelheid van die mengsel wat verbrand word te verhoog, kan die
+   enjin se verplasing verhoog word of deur die toere waarteen die enjin
+   bedryf word te verhoog of die mengsel kan teen 'n hoër druk gelewer
+   word, soos in die geval van toestelle soos turbo-aanjaers. Sien
+   enjinverstelling.
+
+   As alle ander faktore gelyk gestel word is 'n enjin met 'n groter
+   verplasing dus kragtiger as 'n kleiner een. Dit is dan ook die
+   maklikste manier om meer kraglewering te voorsien aangesien dit nie 'n
+   hoër omwentelingsnelheid of die byvoeging van duur toebehore vereis
+   nie. Die groter massa en grootte verminder verminder egter so 'n
+   voertuig se hanteerbaarheid en in toepassings waar dit belangrik is
+   moet alternatiewe metodes aangewend word om kraglewering te verhoog. Bo
+   en behalwe laasgenoemde probleme sal die brandstofverbruik ook
+   dramaties toeneem omdat die doeltreffendheid van die masjien nie
+   verhoog word nie.
+
+   In motors was enjins met verplasings groter as 8 liter verplasing
+   uiters skaars in die afgelope gewees en gebruik die meeste moderne
+   motors veel kleiner enjins: In die Verenigde State is motors met 3 tot
+   6 liter algemeen te vinde; maar in Europa is karre met verplasings
+   groter as 2 liters baie skaars vanweë belastingskoerse wat spesifieke
+   daarop gemik is om die gebruik van voertuie met lae
+   enjindoeltreffendheid te vermy.
+
+   5 tot 10 liter enjins word in baie enkel en dubbelmotorige
+   skroefaangedrewe vliegtuie benut. Veel groter enjins neig eerder om
+   dieselenjins te wees wat op vragmotors, skepe, spoorweglokomotiewe
+   asook in kragopwekkers. Die verplasing van elke silinder van so 'n
+   enjin is soms groter as die hele verplasing van 'n gewone motorenjin.
+
+[wysig] Sien ook
+
+     * kompressieverhouding
+     * enjinverstelling
+     * veranderlike verplasing
+
+[wysig] Eksterne skakels
+
+     * Bereken verplasing
+
+   Kategorie: Voertuigtegnologie
+

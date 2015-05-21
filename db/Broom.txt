@@ -1,0 +1,195 @@
+Broom
+
+
+
+   35                       selenium ← broom → kripton
+   Cl
+   ↑
+   Br
+   ↓
+   I
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal broom, Br, 35
+                                                   Chemiese reeks halogene
+                                             Groep, Periode, Blok 17, 4, p
+                                         Voorkoms gas/vloeistof: rooibruin
+                                                    vastestof: metaalglans
+                                               Atoommassa 79.904 (1) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^5
+                                            Elektrone per skil 2, 8, 18, 7
+                                                        Fisiese Eienskappe
+                                                        Toestand vloeistof
+                            Digtheid (naby k.t.) (vloeistof) 3.1028 g/cm³
+                                                         Smeltpunt 265.8 K
+                                                                (-7.3 °C)
+                                                          Kookpunt 332.0 K
+                                                                (58.8 °C)
+                                            Kritieke punt 588 K, 10.34 MPa
+                                      Smeltingswarmte (Br[2]) 10.57 kJ/mol
+                                    Verdampingswarmte (Br[2]) 29.96 kJ/mol
+                                         Warmtekapasiteit (25 °C) (Br[2])
+                                                          75.69 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 185 201 220 244 276   332
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur ortorombies
+                                                 Oksidasietoestande ±1, 5
+                                                       (sterk suur oksied)
+                              Elektronegatiwiteit 2.96 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                (meer) 1ste: 1139.9 kJ/mol
+                                                          2de: 2103 kJ/mol
+                                                         3rde: 3470 kJ/mol
+                                                        Atoomradius 115 pm
+                                                  Atoomradius (ber.) 94 pm
+                                                   Kovalente radius 114 pm
+                                               Van der Waals radius 185 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                            Elektriese weerstand (20 °C) 7.8×10^10 Ω·m
+                         Termiese geleidingsvermoë (300 K) 0.122 W/(m·K)
+                                        Spoed van klank (20 °C) ? 206 m/s
+                                              CAS-registernommer 7726-95-6
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van broom
+
+                                 iso    NV   halfleeftyd VM VE (MeV)  VP
+                                ^79Br 50.69% Br is stabiel met 44 neutrone
+                                ^81Br 49.31% Br is stabiel met 46 neutrone
+
+                                                                Verwysings
+
+   Broom (vanaf die Griekse woord βρωμος (brómos), wat stank beteken; is
+   'n chemiese element in die periodieke tabel met die simbool Br en
+   atoomgetal van 35. Broom is 'n halogeen wat rooi van kleur is en is 'n
+   vlugtige vloeistof by kamertemperatuur wat maklik met chloor en jodium
+   reageer. Die element is korrosief ten opsigte van menslike weefsel in
+   'n vloeistoftoestand en die dampe veroorsaak irritasie van die oë en
+   die keel. Broomdampe is baie giftig wanneer dit ingeasem word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Voorsorgmaatreëls
+        * 6 Herwinning
+        * 7 Verbindings
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Broom is die enigste vloeibare nie-metaal element by kamertemperatuur
+   en slegs een van twee elemente op die periodieke tabel wat in 'n
+   vloeistoftoestand voorkom by kamertemperatuur (Kwik is die ander een).
+   Die suiwer chemiese element het die fisiese vorm van 'n diatomiese
+   molekule, Br[2]. Dit is 'n swaar rooibruin vloeistof wat maklik verdamp
+   by standaardtemperatuur en -druk om 'n rooi damp te vorm (die kleur
+   stem baie ooreen met stikstofdioksied) en het 'n sterk brandende reuk
+   soortgelyk aan chloorgas. Broom is chemies baie na aan chloor wat ook
+   'n halogeen is, maar is minder reaktief. Dit is egter meer reaktief as
+   jodium. Broom is effens oplosbaar in water en hoogs oplosbaar in
+   koolstofdisulfied, alifatiese alkohole (soos metanol) en asynsuur. Dit
+   bind maklik met baie elemente en is 'n sterk bleikmiddel.
+
+   Broom is hoogs reaktief en is 'n kragtige oksideermiddel in
+   teenwoordigheid van water. Dit reageer heftig met amiene, alkene en
+   fenole asook alifatiese en aromatiese koolwaterstowwe, ketone en sure
+   (hierdie verbindings word gebromineer deur óf addissie reaksies óf
+   substitusie reaksies). Watervrye broom is minder reaktief met ander
+   elemente as nat broom; droë Broom sal egter heftig met aluminium,
+   titaan, kwik, alkalie-aard metale en alkalie-metale reageer.
+
+[wysig] Gebruike
+
+   Elementêre broom word gebruik om 'n verskeidenheid broomverbindings te
+   vervaardig wat in die nywerheid en landbou gebruik word. Tradisioneel
+   was die grootste verbruik van broom die vervaardiging van
+   1,2-dibromometaan wat op sy beurt gebruik is as 'n teenklopmiddel vir
+   gelode petrol voordat dit as gevolg van omgewingsredes uitgefaseer is.
+
+   Broom word ook gebruik in die vervaardiging van berokingsmiddelle,
+   vuurbestande middelle, watersuiweringsmiddelle, kleurstowwe, medisynes,
+   ontsmettingsmiddelle, anorganiese bromiede vir fotografie, ens. Dit
+   word ook gebruik as tussenganger in organiese sintese, waar dit verkies
+   word bo jodium as gevolg van die laer koste daarvan.
+
+   Broom word gebruik om gebromeerde plantolie te vervaardig wat gebruik
+   word as emulsifiseerder in baie sitrus-gegeurde koeldranke.
+
+   Waterige broom is oranje en kan gebruik word om vir alkene en fenole te
+   toets.
+     * Wanneer dit by 'n alkeen gevoeg word sal dit sy kleur verloor soos
+       dit reageer om 'n kleurlose bromo-alkaan te vorm. Die reaksie met
+       etileen sal byvoorbeeld 1,2-dibromo-etaan lewer.
+     * Wanneer dit by fenol gevoeg word vorm 'n wit presipitaat in die
+       vorm van 2,4,6-tribromofenol. Met anilien vorm 2,4,6
+       tribromoanilien (selfs in water).
+
+[wysig] Geskiedenis
+
+   Broom is deur Antoine Balard by die soutpanne van Montpellier in 1826
+   ontdek maar is eers in 1860 in groot maat vervaardig. Die Franse
+   chemikus en fisikus Joseph-Louis Gay-Lussac het die naam broom
+   voorgestel vanweë die kenmerkende reuk van die dampe.
+
+[wysig] Verspreiding
+
+   Broom kom in die natuur as bromiedsoute in klein hoeveelhede in
+   korsrots voor. Bromiedsoute het as gevolg van loging in seewater
+   versamel (85 dpm) en kan ekonomies uit mineraalbronne ontgin word asook
+   die Dooie See (waar tot 5000 dpm aangetref word).
+
+   Ongeveer 500 miljoen kilogram broom word jaarliks wêreldwyd vervaardig
+   (2001) met die die Verenigde State en Israel as die hoofprodusente. Die
+   grootste broomreserwe in die Verenigde State is in Columbia- en Union
+   County, Arkansas geleë.
+
+[wysig] Voorsorgmaatreëls
+
+   Elementêre broom veroorsaak irritasie op die vel en slymvliese en sal
+   in gekonsentreerde vorm pynlike blase op die blootgestelde vel en veral
+   die slymvliese veroorsaak. Broomdamp kan selfs in lae konsentrasies
+   (vanaf 10 dpm) asemhaling beïnvloed en sal die inaseming van
+   noemenswaardige hoeveelhede broom die asemhalingstelsel ernstig
+   beskadig.
+
+   Daareenvolgens moet veiligheidsbrille gedra word en voldoende
+   ventilasie voorsien word wanneer broom hanteer word.
+
+[wysig] Herwinning
+
+   Vanweë die hoë koste van broom word dit normaalweg herwin eerder as om
+   daarmee in die omgewing weg te doen.
+
+[wysig] Verbindings
+
+   Aluminiumbromied (AlBr[3]), ammoniumbromied (NH[4]Br),
+   broom-monofluoried (BrF), broompentafluoried (BrF[5]), broomtrifluoried
+   (BrF[3]), tetrabromometaan (CBr[4]), Broomsuur (HBr), yster(III)bromied
+   (FeBr[3]), litiumbromied (LiBr), fosforpentabromied (PBr[5]),
+   fosfortribromied (PBr[3]), kaliumbromied (KBr), kaliumbromaat
+   (KBrO[3]), silwerbromied (AgBr), natriumbromied (NaBr), natriumbromaat
+   (NaBrO[3]).
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Broom
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Broom
+     * Theodoregray.com – Broom
+
+   Kategorie: Chemiese elemente
+

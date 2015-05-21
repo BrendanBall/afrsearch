@@ -1,0 +1,170 @@
+DVD-Oudio
+
+
+   Die logo van die DVD-Oudio
+   Die logo van die DVD-Oudio
+
+   DVD-Oudio (Engels: DVD Audio) is die suster-medium van DVD-Video en een
+   van die moontlike opvolgers van die CD.
+
+   Inhoud
+
+        * 1 Tegniese gegewens
+        * 2 2+2+2-opnames
+        * 3 DualDisc
+        * 4 DVD-Oudio-titels
+        * 5 'n Vergelyking met die kompakskyf
+        * 6 Sien ook
+        * 7 Eksterne skakels
+
+[wysig] Tegniese gegewens
+
+   DVD-Oudio-skywe bevat meestal 5.1-ruimteklank
+   DVD-Oudio-skywe bevat meestal 5.1-ruimteklank
+
+   Die DVD-Oudio baseer op die DVD-ROM en bevat tussen 4.7 (eenlaag-DVD)
+   tot 17 (tweesydige dubbellaag-DVD) GB data in die PCM-formaat wat
+   gebruik word om musiek in twee, vier, vyf of ses kanale van hoë
+   kwaliteit te stoor. Aangesien die hoeveelheid data vir 'n gewone
+   dubbellaag-DVD-ROM nog te groot sou wees word meestal gebruik gemaak
+   van Meridian se Verliesvrye Pakmetode (Meridian Lossless Packing, MLP).
+   Tweesydige een- of dubbellaag-DVD's word gewoonlik gebruik om aparte
+   data vir DVD-Video- en DVD-Oudio-spelers te stoor.
+
+   In vergelyking met die CD - wat sowat 44 100 keer per sekonde afgetas
+   word - styg hierdie getal by die DVD-Oudio tot 96 000 vir seskanaal- en
+   192 000 vir stereo-opnames; die bis-woordlengte van die CD met net 16
+   is tot 24 verhoog. Frekwensies tot by 96 kHz kan nou gebruik word, en
+   die sinjaal-/ruisverhouding is verhoog tot 144 dB. Dit maak 'n besonder
+   ruimtelike en outentieke weergawe van musiek moontlik.
+
+   Klankingenieurs soos Elliot Scheiner het daarin geslaag om selfs ouer
+   opnames soos die Beach Boys se Pet Sounds, die Doors se L.A. Woman en
+   America se debuutalbum in die kristalheldere klank van die DVD-Oudio af
+   te meng.
+
+   Die musiekopname van die kunstenaar word gereeld met bonusmateriaal
+   soos video's, fotogalerye, tekste en Internetskakels voorsien.
+   Agtergrondfoto's en videomateriaal wat op DVD-Oudio verskyn is meestal
+   in NTSC-kleure opgeneem. Spesiale DVD-Oudio-spelers met 'n dekodeerder
+   vir die bogenoemde MLP-gepakte data is noodsaaklik om hierdie skywe in
+   die beste kwaliteit te kan weergee. DVD-Oudio-skywe wat nie oor 'n
+   aparte stereo-meng beskik nie, kan deur die DVD-Oudio-speler van die
+   meerkanaal- tot stereo-weergawe teruggemeng word sodat ook die eienaar
+   van 'n tweekanaal-hoëtroustel dit maklik kan geniet. Daar is meestal
+   addisionele Dolby-Digital-, soms ook dts-klankbane vir gewone
+   DVD-Video-spelers.
+
+   Die gebiedskodes (regional codes) van die DVD-Video word nie op die
+   DVD-Oudio-formaat toegepas nie sodat oorsese DVD-Oudio-skyfies in
+   Suid-Afrika sonder probleem verkoop en gespeel kan word. 'n Gevorderde
+   digitale kopieerbeskerming (watermerk) kan egter wél toegepas word.
+
+   Die eerste DVD-Oudiospelers wat in die jaar 2000 op die mark verskyn
+   het word met 2.0- of 5.1-RCA-cinch-kabels aan stereo- of
+   meerkanaalversterkers aangesluit. Hierdie spelers het hul eie
+   MLP-dekodeerders en stuur analoë sinjale aan die versterker. Die nuwe
+   generasie spelers wat byvoorbeeld Panasonic en Denon sedert 2004
+   aanbied kan digitale sinjale in die High-Definition Multimedia
+   Interface (HDMI)-standaard aan soortgelyke versterkers stuur.
+
+[wysig] 2+2+2-opnames
+
+   In 'n poging om die ruimtelike weergawe beter aan die behoeftes van
+   musiek aan te pas - die gewone ruimteklank is eerder gemik op die
+   horisontale geluide van 'n rolprent - het Duitse klankingenieurs die
+   2+2+2-opnamestelsel ontwikkel. In plaas van drie luidsprekers voor en
+   twee agter die luisteraar word twee front-, twee hoogte- en twee
+   agterkanale gebruik wat nie alleen 'n driedimensionele klank soos in 'n
+   konsertgebou kan naboots nie. Hierdie klankstelsel maak die luisteraar
+   ook onafhanklik van die "soet plek" met gelyke afstand van alle
+   luidsprekers. Hy kan vry in sy musiekkamer beweeg en orals dieselfde
+   ruimtelike indruk van sy musiek kry. 'n Reeks DVD-Oudio-titels wat
+   alternatiewe 5.1- en 2+2+2-kanaal-weergawe moontlik maak, is al in
+   Duitsland en Switserland vrygestel.
+
+[wysig] DualDisc
+
+   DualDisc is die naam van 'n nuwe soort gekombineerde CD/DVD-skyf wat in
+   2004 op die Amerikaanse mark ingevoer is. Dit is net so dik soos 'n
+   gewone DVD maar bevat 'n CD-gedeelte op die bo- en 'n DVD-gedeelte aan
+   die onderkant, waarby ook DVD-Oudio-klankkwaliteit gestoor kan word.
+   Musiekliefhebbers kan hierdie DVD's gerus in gewone CD-spelers
+   (byvoorbeeld in hul kar) én DVD-Oudio- of DVD-Video-spelers gebruik.
+
+   Weens patentkwessies (daar bestaan reeds 'n formaat met CD-gedeelte aan
+   die bo- en DVD-Video-gedeelte aan die onderkant wat as DVDplus bemark
+   word) is hierdie nuwe formaat aanvanklik slegs in Kanada en die
+   Verenigde State beskikbaar. In Februarie 2005 vermeld die eerste
+   Europese vervaardiger van DVD's in Oostenryk dat hy nou oor die
+   noodsaaklike regte beskik om DualDiscs en verwante produkte plaaslik te
+   produseer. Die eerste deurskynende etikette wat vir DualDiscs in
+   aanmerking sal kom is tydens die Consumer Electronics Show 2005 in Las
+   Vegas (Verenigde State) bekend gestel.
+
+   Daar is verskeie etikette in die musiekbedryf soos Sony Music wat
+   verkies om hulle DualDiscs sonder DVD-Oudio-gedeelte vry te stel; die
+   DVD-gedeelte bevat dan net gewone DVD-Video-klankkwaliteit.
+
+   Die groep Simple Plan van Montréal (Kanada) is 2004/2005 die eerste
+   kunstenaars ter wêreld wat 'n platinatoekenning vir die verkoop van
+   meer dan een miljoen eenhede van hulle DualDisc-album Still Not Getting
+   Any ontvang het (hierdie skyfie bevat 'n DVD-Oudio-klankbaan met 88.2
+   kHz/16 bis-klankkwaliteit). In Junie 2005 vermeld ook Warner Music die
+   eerste platinatoekenning vir Rob Thomas se DualDisc "Something To Be",
+   wat die album in gewone CD- en DVD-Oudio-klankkwaliteit met 96 kHz/24
+   bis in stereo en 5.1-ruimteklank bevat.
+
+[wysig] DVD-Oudio-titels
+
+   Die getal beskikbare DVD-Oudio- en DualDisc-titels het intussen tot
+   nagenoeg 1000 gestyg; maatskappye wat DVD-Oudio- en DualDisc-titels
+   aanbied sluit Warner Music, Universal Music en EMI in.
+   DVD-Oudio-skyfies is nie orals in winkels beskikbaar nie, en buite
+   Noord-Amerika is dit veral elektroniese handelaars soos Kalahari.net
+   wat 'n pioniersrol op hierdie gebied speel.
+
+   Die eerste album van die legendariese Beatles, wat in 5.1-ruimteklank
+   afgemeng is, het in November 2006 verskyn. Love, 'n musiekprojek van
+   die Kanadese Cirque du Soleil, bevat oorspronklike Beatles-opnames en
+   het naas die gewone CD-uitgawe ook as 'n CD/DVD-Oudio-kompilasie
+   verskyn, wat Beatles-opnames in ongekende klankgehalte bevat.
+
+[wysig] 'n Vergelyking met die kompakskyf
+
+   DVD-Oudio-skywe bied langer speeltye as gewone kompakskywe:
+
+                     CAPTION: CD-Oudio ►► DVD-Oudio
+
+                     CD    →
+                            16bis
+                         PCM-Stereo
+                              @
+                           44.1kHz
+                             →     DVD5  DVD9  DVD10 DVD18
+                   80 min
+                                          ♪ LPCM ♪
+                                   ~7 h  ~12 h ~14 h ~24 h
+                                          ♫ MLP ♫
+                                   ~14 h ~24 h ~28 h ~48 h
+
+[wysig] Sien ook
+
+     * DVD
+
+[wysig] Eksterne skakels
+
+     * DVD-Audioinfo.com is die offisiële tuisblad van die DVD Audio
+       Council met inligting oor harde- en sagteware (Engels)
+     * M7Records.de - Die tuisblad van die Duitse etiket M7 Records bied
+       'n nuusoorsig en meer inligting oor DVD-Oudio (Duits)
+     * DVD-Audiobahn - Die Amerikaanse kuberklets-forum DVD-Audiobahn is
+       'n gewilde geselshoekie vir vriende van die nuwe medium (Engels)
+     * Highfidelityreview.com lewer nuus en besprekings van nuwe
+       DVD-Oudio-titels (Engels)
+     * 2+2+2info - Hierdie werbwerf het meer inligting aangaande die
+       2+2+2-ruimteklank, beskikbare titels en hardeware (Duits, Engels,
+       Spaans, Frans, Italiaans)
+
+   Kategorie: DVD
+

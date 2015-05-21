@@ -1,0 +1,59 @@
+Vlak
+
+
+   Twee vlakke wat mekaar sny.
+   Twee vlakke wat mekaar sny.
+
+   'n Meetkundige vlak is 'n plat, oneindige vlak, met 'n oneindige
+   oppervlakte. Dit deel 'n driedimensionele ruimte in twee. Hierdie twee
+   deelruimtes word halfruimtes genoem.
+
+   Inhoud
+
+        * 1 Voorstellinge
+             + 1.1 Normaalvektor en punt
+             + 1.2 Drie punte
+             + 1.3 Vlakvergelyking
+        * 2 Sien ook
+
+[wysig] Voorstellinge
+
+   Jy kan 'n vlak op verskeie maniere voorstel. Ons beskryf hier die mees
+   gebruikte metode:
+
+[wysig] Normaalvektor en punt
+
+   'n Vektor loodreg op die vlak N(x,y,z), die normaalvektor, bepaal die
+   oriëntasie van die vlak. Die presiese ligging van die vlak is hiermee
+   nog nie vasgestel nie, maar dit kan gedoen word deur 'n punt
+   P(x0,y0,z0) in die vlak te benoem.
+
+[wysig] Drie punte
+
+   As jy drie punte het wat nie almal op een lyn in 'n vlak geleë is nie,
+   dan is die vlak daarmee eenduidig vasgestel.
+
+[wysig] Vlakvergelyking
+
+   Elke vlak voldoen aan die vergelyking:
+a*x + b*y + c*z + d = 0
+
+   Hierby is (a,b,c) die normaalvektor van hierdie vlak. As daar soos in
+   die eerste beskrywing 'n punt P(x0,y0,z0) in die vlak bekend is, kan jy
+   die waarde d hieruit bepaal met die volgende formule:
+d = -a*x0 - b*y0 - c*z0
+
+   As daar soos in die tweede vergelyking drie punte bekend is, dan kan jy
+   die normaalvektor bepaal deur van die driehoek wat die punte vorm twee
+   sye te neem. Hierdie twee sye is twee rigtingsvektore in die vlak. Deur
+   die uitwendige produk tussen hierdie vektore te neem verkry jy 'n
+   normaalvektor, waarna jy die prosedure hierbo kan gebruik.
+
+[wysig] Sien ook
+
+     * Tweedimensioneel
+     * Driedimensioneel
+     * Oppervlakte
+
+   Kategorie: Meetkunde
+

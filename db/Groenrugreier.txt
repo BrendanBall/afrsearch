@@ -1,0 +1,109 @@
+Groenrugreier
+
+
+                    Groenrugreier
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Butorides
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. striatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Butorides striatus
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die groenrugreier is 'n algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Dieet
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Soos die naam van die groenrugreier dui, het die voël 'n rugkant wat
+   grysgroen voorkom. Sy vere het roomkleurige rande. Die kante van sy nek
+   en sy flanke is grys en hy het 'n swart mus. As hy opvlieg, is sy geel
+   pote opvallend. Jonge voëls word aan hul donker rugkante en wit kolle
+   op die gevoude vlerke uitgeken. Die algemene lengte van 'n volwasse
+   groenrugreier is 41cm.
+
+[wysig] Habitat
+
+   Dit is 'n algemene klein reiertjie wat een-een by dig-beboste riviere,
+   groot damme, panne en riviermondings of strandmere met wortelbome
+   voorkom. Daglewend; jag al langs die oewer of van 'n lae tak of dooie
+   boom wat in die water staan. Vlieg in 'n boom in as hy opgejaag word.
+
+[wysig] Verspreiding
+
+   Kom voor in groot dele van die Vrystaat, KwaZulu-Natal, Namibië en
+   Botswana en oor die hele Mpumalanga Noord-Wes, Mpumalanga, Limpopo,
+   Mosambiek en Zimbabwe.
+
+[wysig] Dieet
+
+   Groenrugreiers eet meestal klein visse en skaaldiere (veral krappe),
+   asook ander waterbewoners, insekte en enige ander eetbare happies,
+   insluitende klein soogdiere.
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klassifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826.
+     * Inskrywing van die groenrugreier by die webwerf van die Sungei
+       Buloh Natuurreservaat.
+
+   Kategorie: Reiers
+

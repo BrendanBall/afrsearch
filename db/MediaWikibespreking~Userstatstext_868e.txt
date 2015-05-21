@@ -1,0 +1,27 @@
+MediaWikibespreking:Userstatstext
+
+
+   Voorstel:
+
+   Daar is '''$1''' [[Spesiaal:Listusers|geregistreerde gebruikers]],
+   waarvan '''$2''' (of $4%) [[Spesiaal:Listusers/sysop|administrateurs]]
+   is (sien ook $3). *[http://www.wikipedia.org/wikistats/EN/Sitemap.htm
+   Verdere statistiek oor alle Wikipediaprojekte]
+   *[[:en:Wikipedia:Statistics|Groeistatistiek van die Engelse Wikipedia]]
+   *[http://stats.wikimedia.org/wikipedia/EN/TablesWikipediaAF.htm
+   Gebruikerstatistiek van die Afrikaanse Wikipedia in tabelvorm]
+   *[http://stats.wikimedia.org/wikipedia/EN/ChartsWikipediaAF.htm
+   Gebruikerstatistiek van die Afrikaanse Wikipedia in kolomgrafiekvorm]
+
+   Bogenoemde teks sal só verskyn:
+
+   Daar is $1 geregistreerde gebruikers, waarvan $2 (of $4%)
+   administrateurs is (sien ook $3).
+     * Verdere statistiek oor alle Wikipediaprojekte
+     * Groeistatistiek van die Engelse Wikipedia
+     * Gebruikerstatistiek van die Afrikaanse Wikipedia in tabelvorm
+     * Gebruikerstatistiek van die Afrikaanse Wikipedia in
+       kolomgrafiekvorm
+
+    — Adriaan (S★B) 12:28, 25 Augustus 2007 (UTC)
+

@@ -1,0 +1,39 @@
+Aktueerder
+
+
+   'n Aktueerder is in die kunsmatige intelligensie die meganisme waarmee
+   'n agent op 'n omgewing inwerk. Die agent kan òf 'n kunsmatig
+   intelligente agent wees of enige ander outonome wese (mens, ander dier,
+   ens.)
+
+   'n Meganisme wat iets in 'n outonome aksie omskep word 'n aktueerder
+   genoem.
+
+   Voorbeelde van aktueerders van verkeie egente sluit in:
+     * Mens - Arms, hande, vingers, bene
+     * Onderdeeluitsoekrobot - Vat meganisme, bewegende onderdele.
+       Voorbeelde sluit solenoïdes en stemspoelaktueerders in.
+     * Posoorlaaiagent - Opdateringsagteware
+     __________________________________________________________________
+
+   In ingenieurswese is aktueerders 'n ondervedeling van omsetters. 'n
+   Omsetter is apparaat wat 'n intreesein (hoofsaaklik 'n elektriese sein)
+   in beweging omskakel. Elektriese motors, pneumatiese aktueerders,
+   hidroliese suiers, releës, kamaandrywer, piëzoelektriese aktueerders,
+   termiese koppels, digitale mikrospieëlapparaat en elektroaktiewe
+   polimere is 'n paar voorbeelde van sulke aktueerders.
+
+   Motors word meestal gebruik wanneer sirkulêre beweging benodig word,
+   maar kan ook vir liniêre toepassings gebruik word, deur sirkulêre na
+   liniêre beweging omskakeling te bewerkstellig met 'n bout- en
+   skroefomsetter. Daarteenoor is sekere aktueerders intrinsiek liniêr,
+   soos piëzoelektriese aktueerders.
+
+   In virtuele instrumentasie is aktueerders en sensore die
+   hardewarekomplemente van virtuele intrumente. Rekenaarprogramme van
+   virtuele instrumente gebruik aktueerders om op objekte van die egte
+   wêreld in te werk.
+
+   Vertaal vanuit [1]
+   Kategorie: Tegnologie
+

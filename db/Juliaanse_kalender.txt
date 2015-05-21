@@ -1,0 +1,75 @@
+Juliaanse kalender
+
+
+   Die Juliaanse kalender het die Romeinse kalender in 45 v.C. vervang
+   nadat Julius Caesar dit die vorige jaar bekendgestel het. Dit is
+   waarskynlik ontwerp om ooreen te stem met die tropiese jaar (die jaar
+   gebaseer op die verloop van die seisoene). Die Juliaanse kalender het
+   ’n normale jaar van 365 dae wat in twaalf maande verdeel word, met ’n
+   skrikkeljaar wat elke vier jaar by Februarie gevoeg word. Die Juliaanse
+   jaar is dus gemiddeld 365,25 dae lank.
+
+   Die Juliaanse kalender is tussen die 16de en 20ste eeu geleidelik
+   vervang deur die Gregoriaanse kalender, wat eintlik net ’n aanpassing
+   van eersgenoemde is.
+
+[wysig] Die maande
+
+   In die ou Romeinse kalender het die jaar op 1 Martius begin. Dit kan
+   steeds gesien word in die name van die maande September ('septem' =
+   sewe), Oktober ('octo' = agt), November ('novem' = nege) en Desember
+   ('decem' = tien).
+
+   In die Juliaanse kalender is die maande van die ou kalender behou, maar
+   hulle is aangepas en die begin van die jaar op 1 Januarie vasgestel.
+   Die skrikkeljaar van die ou kalender het ook verdwyn.
+        Voor Julius Caesar          Tydens Caesar        Vanaf Augustus
+       Naam          Duur          Naam       Duur       Naam       Duur
+   Martius      31              Martius    31         Martius    31
+   Aprilis      29              Aprilis    30         Aprilis    30
+   Maius        31              Maius      31         Maius      31
+   Iunius       29              Iunius     30         Iunius     30
+   Quintilis    31              Iulius     31         Iulius     31
+   Sextilis     29              Sextilis   30         Augustus   31
+   Septembris   29              Septembris 31         Septembris 30
+   Octobris     31              Octobris   30         Octobris   31
+   Novembris    29              Novembris  31         Novembris  30
+   Decembris    29              Decembris  30         Decembris  31
+   Ianuarius    29              Ianuarius  31         Ianuarius  31
+   Februarius   28 of 22/23     Februarius 29 of 30   Februarius 28 of 29
+   Intercalaris 0 of 27
+      totaal    355, 376 of 377            365 of 366            365 of 366
+
+[wysig] Gebruik
+
+   Die Juliaanse kalender is in amper die hele Romeinse Ryk gebruik. Met
+   die opkoms van die Christendom is dit ook gebruik om die tyd van die
+   Christelike feesdae, veral Paasfees, te bepaal. Die kerk het dus
+   besondere waarde aan die kalender geheg.
+
+   Die Juliaanse kalender word tans nog gebruik deur kerke soos dié van
+   Jerusalem, die Russies- en Serwies-Ortodokse gelowe en die kloosters
+   van die Athos-skiereiland. In sulke kerke val Kersfees op 7 Januarie,
+   wat volgens die Juliaanse kalender 25 Desember van die vorige jaar is.
+
+   Onder invloed van die kerk het Rusland die Juliaanse kalender nog tot
+   in 1918 gebruik. So het die Russiese Revolusie van 1917, wat in Russies
+   die Oktober-revolusie (октябрьская революция, Oktjabrskaja
+   revoljoetsia) genoem word, in die Westerse maand November plaasgevind.
+   Wanneer na datums voor 1918 verwys word, word ou styl vir die Juliaanse
+   kalender en nuwe styl vir die Gregoriaanse kalender dikwels tussen
+   hakies aangegee.
+
+[wysig] Eksterne skakels
+
+     * Calendars through the ages op WebExhibits.
+     * Calendar FAQ
+     * Roman Dates
+     * The Roman Calendar
+     * Synoptical Julian-Gregorian Calendar – vergelyk die Juliaanse en
+       die Gregoriaanse kalender.
+     * Date Conversion
+     * Calendar Converter — Berekenings tussen verskeie kalenders
+
+   Kategorie: Kalenders
+

@@ -1,0 +1,81 @@
+Audioscrobbler
+
+
+   Audioscrobbler is 'n bedryf, gestig deur Richard Jones, wat gerig is op
+   die analisering van die luistergedrag van mense wat musiek op rekenaars
+   luister. Die Last.fm-projek is tans die enigste projek van
+   Audioscrobbler.
+
+[wysig] Last.fm
+
+   'n Skermkiekie van die Last.fm-program terwyl dit gebruik word.
+   'n Skermkiekie van die Last.fm-program terwyl dit gebruik word.
+
+          Hoofartikel: Last.fm.
+
+   Last.fm is die resultaat van 'n fusie van die oorspronklike
+   Audioscrobblermusieksisteem en www.last.fm. Dit is 'n gratis diens met
+   met die doel om data te versamel ten opsigte van mense wat op die diens
+   ingeteken is se luistergewoontes, en dit dan te verwerk in inligting en
+   statistieke. Via spesiale sagteware kan die program die titel en
+   kunstenaar aflei van die musiek wat op 'n digitale mediaspeler op die
+   rekenaar gespeel word, en dit dan in die databasis opskryf. Hierdie
+   gegewens word dan behou en op die Internet gepubliseer, waar
+   verskillende mense deur middel van musieksmaak met mekaar kan
+   kommunikeer. Die webwerf beskik ook oor 'n gesofistikeerde
+   privateboodskapfunksie waarmee enige persoon 'n ander kan kontak. Op
+   hierdie manier word musiek versprei en kan mense in aanraking kom met
+   minder bekende musiek deur te soek na gieliefde genres. Last.fm het in
+   die luistergedrag van miljoene gebruikers baie verandering
+   teweeggebring, en het al 'n Europrix-toekenning ontvang vir beste
+   multimediaprojek.
+
+   Die webwerf het oor die jare sterk ontwikkel en bewat tans nie net
+   statistieke oor luistergedrag nie, maar ook 'n Last.fm radio, waarop
+   stasies gekies kan word met betrekking tot 'n ander gebruiker se smake
+   (d.w.s. die luisteraar beluister 'n ander gebruiker se persoonlike
+   radio, of sy eie), verskillende genres, vriendlyste, bure (gebruikers
+   met ooreenkomstige luistergedrag), konsertagendas, groepe (waarby enige
+   persoon kan aansluit), en etikette (onderverdeling in die musiek van 'n
+   bepaalde gebruiker, bv. per genre).
+
+[wysig] Sagteware
+
+   Last.fm maak gebruik van sagteware, wat die gebruiker vanaf die webwerf
+   op die rekenaar moet laai en installeer om sodoende die gegewens van
+   die musiekprogram af te lees en aan te stuur na die webwerf. Hierdie
+   sagteware is primêr geskik vir Microsoft se bekende Windows
+   operateurstelsel, Linux, en Apple. Die verskillende mediaspelers wat
+   gebruik kan word is:
+     * amaroK
+     * AmigaAMP
+     * Beep Media Player
+     * Exaile
+     * foobar2000
+     * iTunes
+     * J. River Media Center
+     * MediaMonkey
+     * MPD
+     * Muine
+     * musikCube
+     * Noatun
+     * Quintessential Player/QCD
+     * Quod Libet
+     * Rhythmbox
+     * Winamp
+     * Windows Media Player
+     * Xbox Media Center
+     * XMMS
+     * SlimServer
+
+   Die sagteware werk gewoonlik rustig in die agtergrond, en teen 'n lae
+   gebruik van rekenaarhulpbronne, maar dit kan ook oopgemaak word om van
+   die verskillende funksies, soos Last.fm Radio en inligting rakende die
+   spesifieke lied/kunstenaar, gebruik te maak.
+
+[wysig] Eksterne skakels
+
+     * Amptelike webwerf
+
+   Kategorie: Musiekwebwerwe
+

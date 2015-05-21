@@ -1,0 +1,160 @@
+Bok
+
+
+          Hierdie artikel is gemoeid met die bok as lid van die familie
+          Caprinae (Engels goat); vir ander gebruike van die woord sien
+          bok (dubbelsinnig).
+
+                        Bokke
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   'n Bok
+   'n Bok
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bovidae
+     Subfamilie:   Caprinae
+                   Gray, 1821
+                   Pantholopinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   'n Bok is enige lid van die spesies van beesagtige diere wat die
+   subfamilie Caprinae vorm, maar sluit ook die enkele spesie in die
+   subfamilie Pantholopinae in. Die skaapgroepe en die boerbok is ook deel
+   van hierdie groep diere. Die familie waaraan hulle almal behoort sluit
+   op ander takke die wildsbokke en beeste in.
+
+   Die meeste ontwikkeling van die groep het plaasgevind ten tye van die
+   laaste ystydperke, toe baie van die lede gespesialiseerd begin raak het
+   vir oorlewing in gemarginaliseerde, onherbergsame omstandighede, soos
+   berghange, woestyne en die sub-Arktiese gebied. Daarom vorm die meeste
+   bokke troppe en is hulle stewiggeboude diere.
+
+   Daar is 'n groot grootteverskil onder lede van die groep, vanaf net
+   langer as 'n meter in die geval van die volgroeide grysgoral,
+   Nemorhaedus goral, tot omtrent 2,5m in die geval van 'n muskusbees.
+
+   Die diere word in twee groot groepe verdeel op grond van hul gewoontes,
+   die hulpbronverdedigers en die weiers. Eersgenoemde is gebiedsgebonde
+   en verdedig hul klein, voedselryke area teen ander diere van dieselfde
+   spesie, en laasgenoemde wei vrylik in groot troppe oor 'n groter,
+   relatief meer onvrugbare gebied.
+
+[wysig] Klassifikasie
+
+   Beeld:Oreamnos americanus 2.jpg
+   'n Rotsgebergte-bok, Oreamnos americanus
+   Turkse skape (Ammotragus Lervia)
+   Turkse skape (Ammotragus Lervia)
+
+   FAMILIE BOVIDAE
+     * Subfamilie Bovinae: die beeste, die buffels en die wildsbokke met
+       spiraalhorings; 24 spesies in nege genera
+     * Subfamilie Cephalophinae: die duikers; 19 spesies in twee genera
+     * Subfamilie Hippotraginae: die weiende wildsbokke; 23 spesies in 11
+       genera
+     * Subfamilie Antilopinae: die gaselle, die dwergwildsbokke en die
+       saiga; 38 spesies in 14 genera
+     * Subfamilie Caprinae
+          + Genus Ammotragus
+               o Turkse skaap, Ammotragus lervia
+          + Genus Budorcas
+               o Takin, Budorcas taxicolor
+          + Genus Capra
+               o Wilde bok, Capra aegagrus
+               o Wes-Kaukasiese tur, Capra caucasia
+               o Oos-Kaukasiese tur, Capra cylindricornis
+               o Markhor, Capra falconeri
+               o Alpynse steenbok, Capra ibex
+               o Nubiese steenbok, Capra nubiana
+               o Spaanse steenbok, Capra pyrenaica
+               o Siberiese steenbok, Capra sibirica
+               o Waliese steenbok, Capra walie
+          + Genus Hemitragus
+               o Nilgiriaanse tahr, Hemitragus hylocrius
+               o Arabiese tahr, Hemitragus jayakari
+               o Himalaja-tahr, Hemitragus jemlahicus
+          + Genus Nemorhaedus
+               o Rooigoral, Nemorhaedus baileyi
+               o Sjinese goral, Nemorhaedus caudatus
+               o Japanese serou, Nemorhaedus crispus
+               o grysgoral, Nemorhaedus goral
+               o kontinentale serou, Nemorhaedus sumatraensis
+               o Taiwan-serou, Nemorhaedus swinhoei
+          + Genus Oreamnos
+               o Rotsgebergte-bok, Oreamnos americanus
+          + Genus Ovibos
+               o Muskusbees, Ovibos moschatus
+          + Genus Ovis
+               o Argalie, Ovis ammon
+               o Skaap, Ovis aries
+               o Amerikaanse groothoringskaap, Ovis canadensis
+               o Dall-skaap, Ovis dalli
+               o Europese moeflon, Ovis musimon
+               o sneeuskaap, Ovis nivicola
+               o urial, Ovis orientalis
+          + Genus Pseudois
+               o Himalaja-blouskaap, Pseudois nayaur
+               o dwergblouskaap, Pseudois schaeferi
+          + Genus Rupicapra
+               o Pirenese gems, Rupicapra pyrenaica
+               o gems, Rupicapra rupicapra
+     * Subfamilie Pantholopinae
+          + Genus Pantholops
+               o Tibetaanse wildsbok, Pantholops hodgsoni
+
+[wysig] Sien ook
+
+     * Suider-Afrikaanse soogdiere en hul ordes
+     * Lys van Suider-Afrikaanse soogdiername
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Soogdiere
+

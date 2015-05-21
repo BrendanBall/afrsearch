@@ -1,0 +1,21 @@
+Wikipedia:Hulpmiddels/HotCat
+
+
+   Hotcat is 'n hulpmiddel vir diegene wat dikwels artikels
+   (her)kategoriseer. Die laat gebruikers toe om kategorieë vinniger by
+   artikels toe te voeg/te verwyder/te wysig, sonder dat die artikel self
+   gewysig hoef te word.
+     * Slegs 1 kategorie kan per keer bygevoeg/gewysig/verander word.
+     * Slegs kategorieë wat met "Kategorie:" begin word raakgesien.
+       Kategorieë wat met "Category:" begin, kan nie met hierdie funksie
+       verwyder of gewysig word nie.
+     * Kategorieë wat d.m.v. sjablone toegeken word (bv. {{saadjie}} kan
+       nie met hierdie funksie gewysig/verwyder word nie.
+     * Blyk ook 'n probleem te hê met kategorieë wat nog nie bestaan nie:
+       a.g.v. die mouse-over teks wat lees "nog nie geskryf nie", word dit
+       dan deel van die kategorieskakel wat die script soek, bv.
+       "Kategorie:Amerikaanse filmkuns (nog nie geskryf nie)".
+
+   Die funksie kan aangestel word by Voorkeure -> Gadgets. Selekteer dan
+   <gadget-HotCat> en "stoor voorkeure".
+

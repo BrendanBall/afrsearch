@@ -1,0 +1,112 @@
+Web-inhoudsbestuurstelsel
+
+
+   'n Web-inhoudsbestuurstelsel (WIBS) is sagteware om die inhoud van 'n
+   webwerf te bestuur. Dit word gewoonlik geïmplementeer as 'n
+   webtoepassing vir die skep van HTML-inhoud. Dit word gebruik om groot-,
+   dinamiese versamelings van webmateriaal (HTML dokumente en verwante
+   beeldmateriaal) te bestuur en te beheer. 'n WIBS fasiliteer die skep
+   van inhoud, die beheer van inhoud, redigering, gebruikersbestuur en
+   vele ander noodsaaklike onderhoudsfunksies.
+
+   Die sagteware verskaf gewoonlik gereedskap om redigering en verrigting
+   van ander funksies maklik te maak vir gebruikers wat min of geen kennis
+   van programmeertale of markeertale het nie.
+
+   Die meeste stelsels gebruik 'n databasis om inhoud, metadata en ander
+   media te stoor wat deur die stelsel benodig mag word. Inhoud word
+   dikwels, maar nie altyd, in XML gestoor om die hergebruik te fasiliteer
+   en om buigsame vertoonopsies in die hand te werk.^[1]^[2]
+
+   'n Vertoonlaag vertoon die inhoud aan gewone besoekers tot die webwerf
+   gebaseer op 'n stel sjablone. Die sjablone is dikwels in de vorm van
+   XSLT lêers.^[3]
+
+   Administrasie word gewoonlik vanaf 'n webblaaiergebaseerde koppelvlak
+   af gedoen, maar sommige stelsels vereis die gebruik van sagteware op 'n
+   gebruiker se rekenaar.
+
+   'n Inhoudsbestuurstelsel verskil wesenlik van webwerfbouers soos
+   Microsoft FrontPage of Adobe Dreamweaver. 'n WIBS laat nie-tegniese
+   gebruikers toe om veranderinge aan 'n bestaande webwerf te maak met min
+   of geen opleiding nie. WIBS'e vereis tipies 'n ervare programeerder om
+   die webwerf op te stel en kenmerke by te voeg, maar dit is primêr 'n
+   onderhoudstelsel vir nie-tegniese administrateurs.
+
+[wysig] Vermoeëns van Web-inhoudsbestuurstelsels
+
+   'n WIBS fasiliteer dokumentbeheer, oudits, redigering en tydlynbestuur.
+   'n WIBS verkaf die volgende sleutelfunksies:
+
+   Outomatiese sjablone
+          Die skep van standaard sjablone (gewoonlik HTML en XML) wat
+          outomatiese toegepas kan word op nuwe en bestaande inhoud. Dit
+          skep daarmee 'n sentrale plek waar die voorkoms van 'n groep
+          inhoud verander kan word.
+
+   Maklik redigeerbare inhoud
+          As die inhoud van 'n werf eers geskei word van die visuele
+          aanbieding van die werf, word dit gewoonlik heelwat makliker om
+          te redigeer en te manipuleer. Die meeste WIBS sagteware sluit
+          Wat-jy-sien-is-wat-jy-kry tipe redigeergereedskap in sodat
+          nie-tegniese gebruikers inhoud kan skep en kan aanpas.
+
+   Uitbreibare kenmerke
+          Die meeste WIBS'e het inpropprogramme of modules wat maklik
+          geïnstalleer kan word om 'n bestaande werf se funksionaliteit
+          uit te brei.
+
+   Webstandaard-opgraderings
+          Aktiewe WIBS'e ontvang gewoonlik dikwels opgraderings wat nuwe
+          kenmerke insluit en die stelsel in lyn hou met die nuutste
+          webstandaarde.
+
+   Werkvloei bestuur
+          Werkvloei is die pros om siklusse van agtereenvolgende of
+          gelyklopende take te skep wat in die WIBS verrig moet word. 'n
+          Voorbeeld is wanneer 'n skrywer 'n artikel voorlê maar dit nie
+          op die webwerf gepubliseer word alvorens die redaksie dit eers
+          nagegaan het nie en die hoofredakteur dit goedgekeur het nie.
+
+   Dokumentbestuur
+          WIBS'e mag ook 'n stelsel verskaf vir die bestuur van dokumente
+          se lewensiklus vanaf die aanvanklike skep daarvan, deur die
+          verskillende weergawes, tot die publikasie daarvan, argivering
+          en uiteindelike vernietiging daarvan.
+
+   Virtualisering van inhoud
+          WIBS'e kan die vermoë bied om elke gebruiker toe te laat om
+          binne 'n virtuele kopie van die algehele webwerf,
+          dokumentversameling en/of kodebasis te werk. Dit maak
+          veranderinge aan veelvuldige interafhanklike hulpbronne moontlik
+          vir vertoning en/of uitvoering binne konteks voordat dit
+          voorgelê word.
+
+[wysig] Voorbeelde
+
+   'n Paar welbekende WIBS'e is:
+     * Mediawiki
+     * Joomla
+     * Drupal
+     * WordPress ^[4]
+     * PHP-Nuke
+     * Xoops
+     * Geeklog ^[4]
+
+[wysig] Verwysings
+
+    1. ^ www.managingenterprisecontent.com;Ethier, Kay, en Scott Abel;
+       Introduction to Structured Content Management with XML; CMS Watch;
+       nagegaan op 2007-11-12
+    2. ^
+       www.bluestream.com/xdbres/Content/Business/whitepaper/XmlCms/Outlin
+       e.html; Tivy, Jim, et al. ; The XML Content Management System for
+       Document Centric XML; Bluestream Database Software Corporation;
+       nagegaan op 2007-11-12
+    3. ^ http://woric.net/wsg_presentation/Part1_using_xslt.xf; Woric
+       Faithfull; Using XSLT to Make Websites; woric.net; nagegaan op
+       2007-11-08
+    4. ^ ^4,0 ^4,1 Afrikaanse lokalisering beskikbaar
+
+   Kategorie: Sagteware
+

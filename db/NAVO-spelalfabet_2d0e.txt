@@ -1,0 +1,201 @@
+NAVO-spelalfabet
+
+
+   Die NAVO-spelalfabet is 'n algemene naam vir die
+   radiotelefonie-spelalfabet van die Internasionale
+   Burgerlugvaartorganisasie (ICAO), wat woorde aan letters in die alfabet
+   toeken sodat kritiese kombinasies van letters uitgespreek en verstaan
+   kan word deur vliegtuigbemannings en lugvaartkontroleurs ongeag van
+   hulle moedertaal. Die Internasionale Telekommunikasie-unie (ITU), die
+   Federal Aviation Administration (FAA) van die V.S.A asook die American
+   National Standards Institute (ANSI) het soortgelyke weergawes.
+
+   Inhoud
+
+        * 1 Alfabet en uitspraak
+        * 2 Geskiedenis en gebruik
+        * 3 Variasies
+        * 4 Bibliografie
+        * 5 Eksterne skakels
+
+[wysig] Alfabet en uitspraak
+
+   Letter Woord                   Uitspraak
+     A    Alfa (ICAO, ITU, FAA)
+          Alpha (ANSI)            AL FA
+     B    Bravo                   BRA WO
+     C    Charlie                 CHAR LEE
+                                  or SHAR LIE (ICAO, ITU)
+     D    Delta                   DEL TA
+     E    Echo                    ÊK KOE
+     F    Foxtrot                 FOKS TROT
+     G    Golf                    GHOLF
+     H    Hotel                   HOU TEL
+     I    India                   IEN DIE A
+     J    Juliett (ICAO, ITU, FAA)
+          Juliet (ANSI)           JOE LIE ET
+     K    Kilo                    KIE LOU
+     L    Lima                    LIE MA
+     M    Mike                    MAAIK
+     N    November                NOU WEM BIR
+     O    Oscar                   OS KAR
+     P    Papa                    PA PA
+     Q    Quebec                  Q BÊK
+     R    Romeo                   ROU MIE OU
+     S    Sierra                  SIE Ê RA
+     T    Tango                   TÊNG GO
+     U    Uniform                 JOE NIE VORM
+     V    Victor                  WIEK TAR
+     W    Whiskey                 HOE IS KIE
+     X    X-ray                   EKS RY
+     Y    Yankee                  JÊNG KIE
+     Z    Zulu                    ZOE LOE
+     0    Zero (ICAO, FAA)
+          Nadazero (ITU)          ZEE ROU (ICAO, FAA)
+                                  NA-DA-ZY-ROU (ITU)
+     1    One (ICAO, FAA)
+          Unaone (ITU)            HOE AN (ICAO, FAA)
+                                  OE-NA-WAN (ITU)
+     2    Two (ICAO, FAA)
+          Bissotwo (ITU)          TOE (ICAO, FAA)
+                                  BIES-SOU-TOE (ITU)
+     3    Three (ICAO, FAA)
+          Terrathree (ITU)        TRIE (ICAO, FAA)
+                                  TY-RA-TRIE (ITU)
+     4    Four (ICAO, FAA)
+          Kartefour (ITU)         VOW IR (ICAO, FAA)
+                                  KAR-TY-VOWIR (ITU)
+     5    Five (ICAO, FAA)
+          Pantafive (ITU)         FAAIF (ICAO, FAA)
+                                  PAN-TA-FAAIF (ITU)
+     6    Six (ICAO, FAA)
+          Soxisix (ITU)           SIEKS (ICAO, FAA)
+                                  SOK-SIE-SIEKS (ITU)
+     7    Seven (ICAO, FAA)
+          Setteseven (ITU)        SÊ WIN (ICAO, FAA)
+                                  SY-TEI-SÊWIN (ITU)
+     8    Eight (ICAO, FAA)
+          Oktoeight (ITU)         YT (ICAO, FAA)
+                                  OK-TOU-YT (ITU)
+     9    Nine (ICAO, FAA)
+          Novenine (ITU)          NAAIN IR (ICAO, FAA)
+                                  NOU-WEI-NAAINIR (ITU)
+
+   Tensy anders gespesifiseer, is die spelling en uitspraak soos amptelik
+   deur die ICAO voorgeskryf en aanvaar deur die FAA en die ITU. Die ICAO
+   dui onbeklemtoonde numeriese lettergrepe in kleinletters aan (en
+   beklemtoonde lettergrepe in Hoofletters). In belang van eenvormigheid,
+   word beklemtoonde lettergrepe hier, net soos met die FAA
+   lettergreepstyl, in VETLETTERS aangedui.
+
+   Let wel bogenoemde uitspraak is nie die amptelike FAA se uitspraakwyse
+   nie maar slegs die skrywer se poging om die korrekte weergawe weer te
+   gee volgens Afrikaanssprekendes se spraakgewoontes.
+
+[wysig] Geskiedenis en gebruik
+
+   Ondanks sy algemene naam, verskyn die alfabet skynbaar nêrens in enige
+   amptelike publikasies van die Noord-Atlantiese Verdragsorganisasie nie.
+   Dit mag dalk sy naam Navo spelalfabet gekry het vanweë die wye
+   aanvaarding daarvan deur elkeen van NAVO se hooflande en word dus
+   gebruik tydens NAVO-oefeninge.
+
+   Al hierdie woorde is herkenbaar deur Engelse moedertaalsprekers en
+   omdat Engels die voertaal moet wees waar 'n vliegtuig en beheertoring
+   van twee verskillende nasies betrokke is, ongeag van wat hulle
+   onderskeie moedertale is. Dit is egter nie 'n vereiste vir plaaslike
+   vlugte nie, in welke geval die nasie sy eie spelalfabet mag gebruik.
+
+   Die eerste internasionale spelalfabet is deur die ITU in 1927
+   aangeneem. Die ervaring wat sodoende opgedoen is met die alfabet het
+   tot gevolg gehad dat verskeie verandering deur die ITU in 1932 gemaak
+   is. Die gevolglike alfabet is deur die voorloper van die ICAO in
+   gebruik geneem en is in burgerlugvaartkringe gebruik tot en met die
+   Tweede Wêreldoorlog. Dit was in gebruik deur die internasionale mariene
+   diens tot ongeveer 1959:
+
+          Amsterdam Baltimore Casablanca Denmark Edison Florida Gallipoli
+          Havana Italia Jerusalem Kilogramme Liverpool Madagascar New_York
+          Oslo Paris Quebec Roma Santiago Tripoli Upsala Valencia
+          Washington Xanthippe Yokohama Zurich
+
+   Tydens die Tweede Wêreldoorlog, het die vereistes van gesamentlike
+   operasies deur Geallieerde magte gelei tot die ontwikkeling van die
+   "Joint Army/Navy Phonetic Alphabet" (able baker), alhoewel die Britse
+   lugmag nog hulle eie weergawe gebruik het. Na die oorlog met die baie
+   lede van die Geallieerde gewapende magte wat as lug- en grondpersoneel
+   vir lugrederye gaan werk het, is able baker steeds gebruik vir
+   burgerlugvaart. Baie van die klanke was egter uniek aan Engels en dus
+   is 'n alternatiewe Ana Brazil ontwikkel vir gebruik in Latyns Amerika.
+   Die Internasionale Lugvervoer Assosiasie (IATA) het egter die behoefte
+   aan 'n enkele universele alfabet erken en 'n konsepvoorstel aan die
+   ICAO in 1947 voorgestel wat klanke bevat het wat dieselfde in Engels,
+   Frans en Spaans geklink het. Ná verdere studie en veranderinge deur
+   elke goedkeuringsinstansie, is die veranderde alfabet op 1 November
+   1951 geïmplementeer:
+
+          Alfa Bravo Coca Delta Echo Foxtrot Golf Hotel India Juliett Kilo
+          Lima Metro Nectar Oscar Papa Quebec Romeo Sierra Tango Union
+          Victor Whisky Extra Yankee Zulu
+
+   Onmiddelik is probleme met die lys ervaar—sommige gebruikers het gevoel
+   dat dit ernstig genoeg was dat hulle weer teruggeslaan het na die able
+   baker-alfabet. Om die gebreke te identifiseer is toetse uitgevoer onder
+   sprekers van 31 verskillende nasies, hoofsaaklik deur die regerings van
+   die Verenigde Koninkryk en die Verenigde State. Verwarring tussen
+   woorde soos Delta, Nectar, Victor en Extra of die uitlaat van woorde
+   onder swak opvangstoestande was die hoofprobleme gewees. Na vele studie
+   is slegs vyf woorde wat die letters C, M, N, U en X vervang. Die finale
+   weergawe is op 1 Maart, 1956 geïmplementeer en is ongetwyfeld kort
+   daarna aanvaar deur die ITU aangesien dit in hulle "Radio regulasies"
+   van 1959 verskyn as 'n gevestigde fonetiese alfabet. Omdat die ITU alle
+   internasionale radiokommunikasie beheer, is dit ook aangeneem deur alle
+   radio-operateurs, hetsy militêre, burgelike of amateur operateurs.
+
+   In die amptelike internasionale weergawe van die alfabet, word die
+   nie-engelse spellings van Alfa en Juliett gevind. "Alfa" word met 'n
+   "f" gespel omdat Spaanse sprekers die "ph" meer soos die "p-klank"
+   uitspreek. "Juliett" word met twee t's ("tt") gespel aangesien
+   Franssprekendes 'n enkele t aan die einde van 'n woord nie uitspreek
+   nie.
+
+   Die alfabet word gebruik om dele van 'n boodskap of roepsein wat van
+   kritiese belang is, uit te spel tydens woordelikse kommunikasie. 'n
+   Boodskap soos gaan na koördinaat DH98 kan uitgespreek word as beweeg na
+   koördinaat Delta-Hotel-Niner-Eight en 'n C-130 Hercules vliegtuig kan
+   beskryf word as 'n Charlie-One-Three-Zero op twaalfuur. Verskeie
+   letterkodes en afkortings wat die Navo spelalfabet gebruik, het baie
+   bekend geword soos Bravo Zulu (letterkode BZ) vir Goed gedoen,
+   Checkpoint Charlie (Checkpoint C) in Berlyn, en Zulu vir Greenwich Mean
+   Time of Coordinated Universal Time.
+
+[wysig] Variasies
+
+   By sommige lughawes in die V.S.A word die gebruik van Delta vir D vermy
+   aangesien dit ook gebruik word vir die lugredery met dieselfde naam.
+   Dixie word dan as plaasvervanger gebruik.
+
+   Die Britse polisiemag gebruik Indigo in plaas van India.
+
+[wysig] Bibliografie
+
+     * L.J. Rose, "Aviation's ABC: The development of the ICAO spelling
+       alphabet", ICAO Bulletin 11/2 (1956) 12-14
+     * Aeronautical Telecommunications: Annex 10 to the Convention on
+       International Civil Aviation, Volume II, Chapter 5
+     * International Telecommunication Union, "Appendix 16: Phonetic
+       Alphabet and Figure Code", Radio Regulations (Geneva, 1959) 430-431
+
+[wysig] Eksterne skakels
+
+     * ICAO Radiotelephony Spelling Alphabet (pp A-6 & A-10) (an official
+       source, but in Microsoft Word format (332KB), not HTML)
+     * ICAO Phonetics by the FAA
+     * American National Standard T1.523-2001, Telecom Glossary 2000
+       (English version of alphabet)
+     * ICAO phonetic alphabet by Canada
+     * ITU Phonetic Alphabet and Figure Code
+     * Most comprehensive collection of phonetic alphabets
+
+   Kategorie: Kommunikasie
+

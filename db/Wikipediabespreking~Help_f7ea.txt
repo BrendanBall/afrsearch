@@ -1,0 +1,166 @@
+Wikipediabespreking:Help
+
+
+   Hier is nou 'n klomp rooi skakels, en dit lyk of die bladsy baie
+   soortgelyke dinge probeer doen as Wikipedia:Gebruikersportaal. Iets
+   soos 'n navraagstoonbank kan net werk as iemand dit beman. Ek vermoet
+   ons ons nog klein genoeg dat die geselshoekie vir amper alles gebruik
+   kan word. As iemand nuwe goeters beman, piekfyn. Maar ons moet nie
+   lesers bedrieg deur "dienste" aan te bied wat ons nie kan lewer nie. Ek
+   dink ons moet goeters byvoeg soos 'n behoefte daarna ontstaan. Sommer
+   my gedagtes. --Alias 21:16, 27 April 2006 (UTC)
+
+          Alias, toe jy hierop kommentaar lewer, kom ek agter ek het die
+          ding wat ek wou doen aangekondig op die verkeerde
+          besprekingsbladsy. Sien miskien as jy wil, wat ek gesê het
+          daaroor op Wikipediabespreking:Redigeer. Wat betref jou gedagtes
+          hieroor, sure, soos wat ek die behoefte gehad het om hulp met
+          "permanente skakel" te kry op my eie, en (as jy nie die moeite
+          gedoen het om dit vir my so geduldig en ordentlik te verduidelik
+          nie) dit glad nie in die uitgebreide hulpdoolhof van
+          en:wikipedia kon kry nie. Dis dié dat ek voel ons moet so
+          stadigaan 'n bietjie goed hier by ons begin bysit. Ek het geen
+          probleem dat ons nie ons dienste adverteer wat nog nie bestaan
+          nie, ek voel net ek is besig om die grondleggingsvertaalwerk van
+          die uitgebreide hulpsjabloon solank reg te kry. As ons dit dan
+          in die toekoms begin benodig, aktiveer ons dit so maklik as wat
+          dit is om die <!-- --> programmeringskode uit te vee. Of anders
+          gesê: dis hoekom ek op die oomblik 'n groot "Onder konstruksie"
+          teken vooraan die werk geplaas het, totdat ek (en enigiemand wat
+          wil help, help gerus) genoeg grondwerk gedoen het dat die
+          basiese sjabloon bestaan, maar dat ons die (weens
+          mannekragtekort) nie-bemande dienste eers wegsteek, met 'n
+          skraler spyskaartkeuse as elders, geen vals beloftes nie, maar
+          met ten minste 'n paar goeie volgbare blou skakels wat logies en
+          konsekwent die antwoord op 'n hulpvraag gee. As ek in die
+          metafoor van universiteitstudente mag praat: Vir 'n nuwejaar is
+          die paar redigeringswenke wat 'n mens kry wanneer jy die
+          "hulp"knoppie aktiveer heeltemal goed genoeg. Vir die vierdejaar
+          is die vermoë om ingewikkelde hulpverwysings elders te kry
+          vanselfsprekend. Die behoefte wat tans bestaan en vir my die
+          drang verskaf om die diens te genereer, is vir die tweedejaar
+          wat dink hy weet iets, maar baie dikwels nie regtig 'n benul het
+          nie, en nie bekwaam genoeg, tyd genoeg, ens. het om dit elders
+          op te spoor nie; en ooglopend en moeiteloos nie die antwoord kry
+          by Wikipedia:Gebruikersportaal nie. Sekerlik help dit om ouens
+          soos jy rond te hê, en het ek die meeste van wat ek al hier
+          geleer het, geleer deur te kyk wat die seniors doen. Dié dan my
+          gedagtes daaroor. --Nomdeplume 22:41, 27 April 2006 (UTC)
+
+                Alias, ek het nou probeer doen wat ek probeer verduidelik
+                het hierbo. M.a.w. die aparte ontwikkelende Hulpbladsy
+                onderaan die Wikipedia:Help wys tans min of meer net dié
+                skakels wat êrens heen lei, en ek het toe een rooi skakel
+                van vroeër vandag daarop verblou (die VRA-deel) en verder,
+                ter wille van my poging om te probeer wys dat 'n
+                algoritmiese skakelsisteem bestaanreg het langs die
+                huidige een, en m.i. dit nog meer kan aanvul, weer net een
+                rooi skakel daarop verblou en eers al die ander weggesteek
+                totdat hulle geaktiveer word. Maak dit vir jou sin? As jy
+                -- of 'n ander konsensusgroep -- aanhou sterk hierteen
+                voel, sal ek die werk uithaal, met nie die minste kwade
+                gevoelens daaroor nie, dan skrap ons net die blaaie wat ek
+                so rond en bont geskep het, en dan is sake weer terug soos
+                dit was voordat ek hiermee weggespring het. --Nomdeplume
+                02:29, 28 April 2006 (UTC)
+
+          Ek is nou so deurmekaar met watter hulp waar is en watter
+          bespreking waar is! Ek voel 'n ernstige behoefte om dinge erg te
+          vereenvoudig. Daar is bv nou twee plekke wat wiki-sintaks
+          verduidelik. Dit op hierdie blad sal saamgesmelt moet word in
+          Wikipedia:Redigeer. Wikipedia:Redigeer moet miskien ook geskuif
+          word na die Hulp-naamruimte. Ons sal moet besluit wat hoort in
+          die Wikipedia-naamruimte (Wikipedia:....) en wat hoort in die
+          Hulp-naamruimte (Hulp:....). Administrateurskap word nou ook op
+          twee plekke verduidelik. Die idee van dinge wegsteek kan werk,
+          maar wat ek vrees is dat iemand iets soortgelyk (dalk êrens
+          anders) gaan skep omdat hulle hierdie bloot nie sien nie.
+          Persoonlik wil ek dinge regtig eenvoudig hou en eerder aan
+          inhoud werk - maar dis elkeen se reg om aan sy eie goeters te
+          werk. Die Engelse hulpblad kan werk - daar is seker baie dinge
+          moontlik. Vir die Hulp-skakel onder "navigasie" hou ek nogal ook
+          bietjie van m:Help:Help (meta) - Hulp vir lesers, redigeerders,
+          en elke ander belangegroep. Maar vir ons natuurlik erg
+          eenvoudig.
+
+          Wat my bekommer is dit: Ek het net al 'n paar keer gesien dat
+          ons 'n probleem het met verouderde dokumentasie. Iemand begin
+          daarmee ("dit is belangrik" - en ek stem saam) maar as dit nie
+          onderhou word nie, is dit moontlik van minder waarde as iets wat
+          mens bloot verwys na die Nederlandse of Engelse bladsye. 'n
+          Leser kan nie oordeel of dokumentasie op datum is nie. Daar is
+          duisende mense wat werk aan die groot Wikipedias. Ons is
+          enkelinge. Daar is ongelooflik baie beleid, tegniek, hulp, nuus,
+          ens. om te vertaal. Ons kan eenvoudig nie alles doen presies
+          soos wat dit by Engels gedoen word nie. Ek stem saam dat ons
+          juis iets lekker kan aanbied deur vereenvoudigde dokumentasie
+          aan te bied. Ek voel dit is baie belangrik dat mense weet hoe om
+          daarby te kom en waar om daarby by te las. Anders kry ons
+          duplikasie. Die gebruikersportaal het al begin om so-iets te
+          gee, maar dit kan natuurlik baie netjieser. (Dit is wel op die
+          oomblik waarskynlik die beste versameling projekskakels wat ons
+          het.)
+
+          Kyk gerus na die skakel by meta wat ek bo noem. Dis natuurlik
+          nie vir my om voor te skryf nie, maar ek hou van die idee van:
+          Inhoud, Hulp vir lesers, Hulp vir nuwelinge, Hulp vir
+          redigeerders ens. Ag, dis sommer 'n idee. Maar ek vermoet ons
+          moet 'n kennisgewing boaan elke bladsy sit wat iets sê soos:
+          "Hierdie is dokumentasie wat moontlik al verouder het. Sien die
+          Engelse en Nederlandse dokumentasie wat waarskynlik meer op
+          datum is." (met die skakels daarheen) Só kan mense altyd weet
+          waar om die nuutste inligting te kry. Hierdie is natuurlik net
+          my idees, maar dit sal vir my jammer wees as 'n klomp tyd
+          spandeer word aan 'n reuse hulpstelsel wat min gebruik word en
+          wat oor 6 maande tekens van veroudering begin wys. Daar is
+          soveel belangrike dinge om te doen (afgesien van die werk aan
+          inhoud, natuurlik). Persoonlik voel ek net nie dat hierdie baie
+          belangrik is nie. Soos ek sê: my opinie. Ek wil jou nie afsit
+          nie, maar wil graag alle beskikbare krag kanaliseer soos wat ek
+          (moontlik verkeerdelik) dink goed is. Ek sou nie sê ek voel baie
+          sterk nie, maar dalk flous ek myself :-) Gits, mens, waar bly
+          jy? Ek dink ons moet eerder bel of iets - ek gaan nog moeg getik
+          raak ;-) Groete, Alias 07:59, 28 April 2006 (UTC)
+
+          Ek besef ek sukkel om mooi te bewoord: nog 'n gedagte: Deur nou
+          klomp goeters te vertaal wat nie vertoon nie, voel reeds jammer,
+          maar dit kan ook wees dat daar 'n ander/beter manier is waarop
+          mense dinge wil doen teen die tyd dat ons wel 'n toonbank of
+          iets daar wil stel. Dit is hoekom ek voel: kom ons skep goeters
+          waarvoor daar 'n aanbod is, en waarvoor daar skakels is. Ek
+          vermoet rooi skakels in hulpbladsye is nie nuttig soos met
+          artikels nie, behalwe miskien in hulpbladsye aan redigeerders.
+          --Alias 08:26, 28 April 2006 (UTC)
+
+                Hai Alias!
+                Dit was nou vir my lekker om 'n kans te kry om jou
+                gedagtes hieroor so breedvoerig te hoor. Terugvoer
+                daaroor.
+
+               o Die bel is 'n blink idee, maar ek dink ek bly 'n bietjie
+                 te ver weg van jou af (betreffende beide befondsing en
+                 tydsones) :). Sal jy gemaklik wees daarmee as ek eerder
+                 vir jou e-pos? Dan kan jy en ek mekaar in die hande kry
+                 as ons dit nodig het? Ek is nogal ook aan die paranoïes
+                 raak oor my privaatheid :)
+               o Ek het nie só aan die saak gedink soos jy dit uiteengesit
+                 het nie, maar jou gedagtes is goed, en maak vir my sin.
+                 Ek het dit so geniet om Hulp: Permanente skakel(s) te
+                 doen, dat ek steeds jeuk om iets sinvol vir ons almal
+                 daar te gee, vir waarvoor dalk nou reeds 'n aanbod is, en
+                 met die minimum/geen rooi skakels.
+               o Hier's my voorstel: ek gaan die goeters wat ek gedoen
+                 het, ongedaan maak -- wat die rede is dat ek die grootste
+                 deel net onderaan die Wikipedia:Help geplaas het sonder
+                 om iets anders uit te vee -- behalwe vir die FAQ-tipe
+                 administrateursvrae stukkie, omdat ek dink daar is tog 'n
+                 bietjie Afrikaanse Wikipedia-spesifieke détail in. Maar
+                 as jy vir my so sê, dan haal ek dit met plesier ook uit.
+               o As jy of die ander administrateurs dan 'n behoefte voel
+                 vir 'n spesifieke hulptaak, of 'n touwysingstipe ding
+                 (soos met Hulp:Permanente skakels), en julle self het nie
+                 tyd daarvoor nie, druk dan op my (gebruikers)knoppie.
+
+                Laat my asseblief weet hoe jy daaroor voel.
+                Groete, --Nomdeplume 22:32, 29 April 2006 (UTC)
+

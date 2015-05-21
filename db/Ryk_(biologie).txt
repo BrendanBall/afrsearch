@@ -1,0 +1,35 @@
+Ryk (biologie)
+
+
+   In die biologie is 'n ryk (soms: koninkryk) die hoogste taxon in die
+   wetenskaplike klassifikasie. Oorspronklik is daar twee ryke onderskei:
+   die diere en die plante. Teenwoordig word ses ryke gebruik:
+     * Die archaea, prokaryote met 16S rRNA (rRNA is ribosomaal-RNA).
+     * Die bacterieë, prokaryote met 5S rRNA.
+     * Die protiste is eenselliges met selkern (eukaryote).
+     * Die plante. Dit is veelsellige eukaryote wat hulle eie voedsel
+       aanmaak d.m.v. fotosintese.
+     * Die diere. Dit is veelsellige eukaryote wat voedsel ekstern opneem.
+       Sy kan hulle beweeg.
+     * Die skimmels. Dit is veelsellige eukaryote wat voedsel ekstern
+       opneem.
+
+   Ook word organismes ingedeel in drie superryke, die archaea, die
+   bakterieë en die eukaryote.
+
+   In die begin was daar ook 'n derde ryk vir die minerale bedink. Die
+   oorspronklike onderverdelinge in taxons word nie meer gebruik nie omdat
+   die insigte hieroor gewysig is.
+   Haeckel (1894)
+   Drie ryke     Whittaker (1959)
+                 Vyf ryke        Woese (1977)
+                                 Ses ryke     Woese (1990)
+                                             Drie superryke
+   Protiste      Monere          Eubakterieë Bakterieë
+                                 Archaea     Archaea
+                 Protiste        Protiste    Eukaryote
+   Plante        Skimmels        Skimmels
+                 Plante          Plante
+   Diere         Diere           Diere
+   Kategorie: Wetenskaplike klassifikasie
+

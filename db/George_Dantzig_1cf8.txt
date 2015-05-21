@@ -1,0 +1,55 @@
+George Dantzig
+
+
+   George Dantzig was 'n Amerikaanse wiskundige en operasionele navorser.
+   Gebore 8 November 1914 in Portland, Oregon, VSA, en oorlede op 13 Mei
+   2005 in Palo Alto, Kalifornië.
+
+   Hy het sy doktorsgraad in wiskunde van die Universiteit van Kalifornië,
+   Berkeley, in 1946 ontvang. In dieselfde jaar is hy aangewys as wiskunde
+   raadgewer vir die VSA-Lugmaghoofkwartier. Die deurbraak wat Dantzig
+   beroemd gemaak het was sy ontdekking van die simpleksmetode vir lineêre
+   programmering (LP).
+
+   Sy betrokkenheid by die Amerikaanse oorlogspoging in en na die Tweede
+   Wêreldoorlog het hom in aanraking gebring met 'n aantal
+   optimeringsprobleme wat dieselfde lineêre eienskappe gehad het. Sy
+   deurbraak in die ontwikkeling van die simpleksmetode het hom gelei tot
+   die sistematisering van die veld. Dantzig was dan ook die eerste
+   persoon om die algemene lineêre programmeringsprobleem te formuleer
+   (1947) en sy wiskundige eienskappe te ondersoek.
+
+   Die ontwikkeling van die simpleksmetode is opgevolg met 'n reeks
+   algoritmiese verbeterings wat sinvolle probleme binne die (uiters
+   beperkte) berekeningsvermoë van korporatiewe en akademiese gebruikers
+   van die tyd gebring het. Dit was nou vir gebruikers moontlik om 'n
+   verskeidenheid van probleme in LP-vorm te giet en meganisties op te
+   los.
+
+   Dantzig kan met reg die vader van lineêre programmering genoem word.
+
+   Die ontstaan van lineêre programmering as studieveld het byna
+   onmiddellik gelei tot die veralgemening wiskundige programmering wat 'n
+   omvattender definisie is waarin lineêre programmering net een veld is.
+   Wiskundige programmering is vandag nog een van die twee of drie
+   belangrikste velde in operasionele navorsing.
+
+   Hy het die gebruik van lineêre programmering ywerig aangemoedig deur
+   onder meer 'n handboek oor die onderwerp te skryf - "Linear Programming
+   and Extensions". Dié werk het in 1963 as 'n navorsingstudie van die
+   Rand Corporation verskyn en is uitgegee deur Princeton University
+   Press. In die tweede hoofstuk noem Dantzig die ekonome en wiskundiges
+   wat tot die veld bygedra het en hulle werk. 'n Klassifisering van velde
+   binne die omvattende veld van wiskundige programmering word hier
+   aangetref; waarskynlik die eerste. (Dit is waarskynlik die enigste
+   hoofstuk wat vandag nog gelees sal word - maar deur geskiedskrywers.)
+
+   Dantzig het vir dekades lank voortgegaan om nuwe toepassings vir
+   lineêre programmering te soek en die ontwikkeling van spesiale
+   algoritmes (bv om groot probleme te hanteer) te ondersteun. Hy het ook
+   jonger navorsers aangemoedig om op hierdie probleme te werk.
+
+   Onder die eerbetonings wat Dantzig te beurt geval het tel die Von
+   Neumann-prys vir operasionele navorsing in 1975.
+   Kategorie: Wiskundiges
+

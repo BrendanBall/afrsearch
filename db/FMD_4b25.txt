@@ -1,0 +1,61 @@
+FMD
+
+
+   Hierdie artikel is geskep deur 'n anderstalige gebruiker en moet
+   nagegaan word vir spelling, sinsbou en woordkeuse. Indien die artikel
+   nie binne die volgende twee weke versorg word nie, mag dit vir
+   verwydering kwalifiseer.
+
+   FMD: Fluorecent Multilayer Disc (engels)
+
+   FMS: Fluoreseerende Multilaag Skyf (afrikaans)
+
+[wysig] Werkings Prinsiep
+
+   Die induikings of holtes (engels: pits) in 'n FMD is gevul met
+   fluoreseer materiaal. Indien koherente lig vanaf the laser op die
+   induiking (engels: pit) val gloei die materiaal en gee 'n inkoherente
+   lig (met'n ander kleur), of 'n ander golflengte, af. FMDs is kleurloos,
+   die laserlig gebruik, kan dus baie lae deurdring. Die kleurlose skyf,
+   gekombineer met die moontlikheid om laserlig the kan uitfiltreer
+   (gebaseer op golflengte en koherensie), gee 'n baie grooter
+   sein-tot-geraas verhouding (engels: signal-to-noise ratio) teenoor die
+   reflektiewe media. Dit is wat dit toelaat dat FMDs so baie lae kan hê.
+   Die hoof limitasie op die aantal lae is die gesamentlike dikte (van
+   1.2mm maksimaal) wat die skyf mag oplewer. Teoreties sal dan sowat 25
+   GB per laag, 50 GB (by 2 lae), ±100 GB (by 4 lae), ±150 GB (by 6 lae)
+   en selfs ±250 GB (by 10 lae) - en meer - daarop gestoor kan word.
+   Hierdie tegnologie saal aangaan, waar die huidige HD-DVD en Blu-ray
+   Disc ophou.
+
+[wysig] Verwandte tegnologieë
+
+   FMK / FMC:
+   FMDs maak gebruik van FMT (Fluoreseerende Multilaag Tegnologie, wat ook
+   op kredietkaart-groote plastiekkaarte toegepas kan word. Hierdie kaarte
+   staan dan bekend as FMK (engels: FMC, Fluorescent Multilayer Card). Wie
+   weet - miskien sal ons kredietkaarte eendag daarmee toegerus word.
+
+[wysig] Ontwikkeling
+
+   'n 50 GB prototipe skyf was gedemonstreer by die COMDEX industrieskou
+   in November 2000 in die VSA. Die eerste generasie FMDs sou 'n 650 nm
+   rooi laser gebruik het met 'n kapasiteit van sowat 140 GB per skyf. Die
+   tweede en derde generasie FMDs sou 'n 405 nm blou laser gebruik het,
+   met kapasiteite van tot 'n 1 TB (Teragreep: 1 TB = 1024 GB).
+
+   Na die Constellation 3D sluiting as gevolg van 'n skandaal (the
+   skandaal was hoofsaaklik gemoeid met die prototipe "gedemonstreer" by
+   die COMDEX 2000 was 'n foefie was — die inhoud is einlik vanaf 'n
+   hardeskyf gespeel — die toerusting was 'n bluf) en die firma het as
+   gevolg daarvan bankrot gespeel.^[verwysing benodig]
+
+   'n Nuut gevormde firma met die naam D Data Inc. het die patent
+   'portfolio' van Constellation 3D in 2003 oorgeneem, en beplan om die
+   tegnologie van nuuts af te loods onder die nuwe naam van Digital
+   Multilayer Disk (DMD).^[1]
+
+   Sien ook: FMT
+   Kategorieë: Gaan taal na • Artikels met stellings wat verwysings
+   ontbreek • Rekenaar • Tegnologie • Stoormedia • Databerging
+

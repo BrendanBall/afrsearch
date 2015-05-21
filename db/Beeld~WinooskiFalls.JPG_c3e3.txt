@@ -1,0 +1,123 @@
+Beeld:WinooskiFalls.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:WinooskiFalls.JPG
+   Grootte van hierdie voorskou: 800 × 600 pixels
+   Volle resolusie (3 264 × 2 448 pixel, file size: 2,25 MG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   Moved
+
+         This image was moved to Wikimedia Commons from en.wikipedia using a bot
+         script. All source information is still present. It requires review
+         because CommonSense could not categorise the image during transfer.
+         Additionally, there may be errors in any or all of the information
+         fields; information on this image should not be considered reliable and
+         the image should not be used until it has been reviewed and any needed
+         corrections have been made. Once the review has been completed, this
+         template should be removed. For details, see below.
+       Description
+                        English: Mill and Falls in Winooski
+          Source
+
+                        Transferred from en.wikipedia
+                        (Original text : Self-made)
+           Date
+
+                        2006-10-07 (original upload date)
+                        (Original text : Created August 9, 2006)
+          Author
+
+                        Original uploader was Hortont424 at en.wikipedia
+                        (Original text : Tim Horton Tim Horton)
+        Permission
+   (Reusing this image)
+
+                        CC-BY-SA-2.5.
+
+[edit] License information
+
+   Creative Commons License
+   Creative Commons Attribution icon Creative Commons Share Alike icon
+   This file is licensed under the Creative Commons
+   Attribution ShareAlike 2.5 License. In short: you are free to share and
+   make derivative works of the file under the conditions that you
+   appropriately attribute it, and that you distribute it only under a
+   license identical to this one. Official license
+
+[edit] Original upload log
+
+   The original description page is/was here. All following user names
+   refer to en.wikipedia.
+     * 2006-10-07 16:23 Hortont424 3264×2448×8 (2358882 bytes)
+       {{Information| |Description = Mill and Falls in Winooski |Source =
+       Self-made |Date = Created August 9, 2006 |Author = Tim Horton
+       [[User:Hortont424|Tim Horton]] |Permission = Just use it - don't
+       forget who took it! }}
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 14:32, 6 Mei 2008 3 264×2 448 (2,25 MG) File Upload Bot (Magnus
+   Manske) ( {{BotMoveToCommons|en.wikipedia}} {{Information
+   |Description={{en|Mill and Falls in Winooski}} |Source=Transferred from
+   [http://en.wikipedia.org en.wikipedia]<br/> (Original text :
+   ''Self-made'') |Date=2006-10-07 (original upload date)<br/> (Original
+   tex)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Winooski
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        NIKON
+             Camera model           E8700
+            Beligtingstyd           10/819 sek (0.012210012210012)
+               F-getal              f/3.7
+   Date and time of data generation 19:26, 9 Augustus 2006
+          Lens focal length         11.6 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       300 dpi
+         Vertikale resolusie        300 dpi
+            Software used           E8700v1.2
+      File change date and time     19:26, 9 Augustus 2006
+         Y and C positioning        2
+           Exposure Program         Normal program
+           ISO speed rating         50
+             Exif version           2.2
+     Date and time of digitizing    19:26, 9 Augustus 2006
+        Image compression mode      3
+            Exposure bias           0
+        Maximum land aperture       3
+            Metering mode           Pattern
+             Light source           Onbekend
+                Flash               16
+             Kleurruimte            sRGB
+       Custom image processing      Normal process
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Digital zoom ratio        0
+      Focal length in 35 mm film    46
+          Scene capture type        Standard
+               Kontras              Normal
+              Saturation            Normal
+              Sharpness             Normal
+        Subject distance range      Unknown
+

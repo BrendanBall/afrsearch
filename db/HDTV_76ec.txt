@@ -1,0 +1,75 @@
+HDTV
+
+
+   'n NTSC-televisieprogram in lae (Standard Definition TV/SDTV - links)
+   en hoë resolusie (HDTV - regs)
+   'n NTSC-televisieprogram in lae (Standard Definition TV/SDTV - links)
+   en hoë resolusie (HDTV - regs)
+
+   HDTV (High Definition Television) is 'n nuwe TV-standaard wat die
+   hoogste kwaliteit kan bied. In teenstelling met die ou PAL-, NTSC- en
+   SECAM-standaarde wat geskik is vir gewone beeldbuise tot by 72 cm, eis
+   nuwe tegnologieë soos plasma en vloeikristalle wat vir groter skerms
+   gebruik word meer beeldlyne en hoër resolusies.
+
+   HDTV bied teenswoordig 720 of 1080 beeldlyne. Op geskikte skerms maak
+   skerper en meer plastiese beelde nou fynste details sigbaar.
+
+   Inhoud
+
+        * 1 Aanbieders
+        * 2 HDTV-resolusies
+        * 3 Internasionale standaard-resolusies
+        * 4 Eksterne skakel
+        * 5 Verwysings
+
+[wysig] Aanbieders
+
+   HDTV word reeds in die Verenigde State, Japan, Suid-Korea, Meksiko,
+   Brasilië en Australië uitgesaai. In Europa, waar in 2004 slegs een
+   Belgiese betaalkanaal (HD1) via die satelliet Astra opgevang kan word,
+   sal HDTV vanaf 2005 ingevoer word. Vanaf 1 Junie 2005 word HD1 se
+   programme ook in die nuwe MPEG-4-standaard uitgesaai.
+
+   Tydens die Consumer Electronics Show (CES) 2005 in Las Vegas is 'n
+   verskeidenheid nuwe HDTV-toerusting vir TV-ateljees en verbruikers
+   bekend gestel, en die statistieke gegewens oor die verspreiding van die
+   tegnologie is bemoedigend. In die Verenigde State het die aantal
+   TV-kanale wat HDTV-programme uitsaai in 2004 tot 1 000 gestyg; die
+   TV-netwerk CBS bied sy aandprogram tussen 8 en 11 uur nm gereeld in hoë
+   resolusie aan, en ook kabel-TV-aanbieders soos HBO en Discovery saai 'n
+   aansienlike gedeelte van hul programme in HDTV uit. DirecTV het aan die
+   einde van die jaar 39 satellietkanale in HDTV-kwaliteit in bedryf.
+
+   In Europa het 'n aantal satelliet- en kabeltelevisiestasies begin om
+   programme in hoë resolusie te beeldsaai. Ook die spele van die
+   Sokker-Wêreldkampioenskap, wat 2006 in Duitsland plaasgevind het, is in
+   hoë resolusie aangebied.
+
+   Die eerste HDTV-kanaal in Suid-Afrika sal volgens die maatskappy
+   Sentech in 2010 beskikbaar wees.^[1]
+
+[wysig] HDTV-resolusies
+
+   Formaat Resolusie: Pixels/Lyne Aftasting Beelde per sekonde Beelde
+   verskyn as Aspekverhouding
+   720p 50 1280 x 720 Progressief 50 Volbeelde 16:9
+   720p 60 1280 x 720 Progressief 60 Volbeelde 16:9
+   1080i 25 1920 x 1080 Interlaced 50 Halfbeelde 16:9
+   1080i 30 1920 x 1080 Interlaced 60 Halfbeelde 16:9
+
+[wysig] Internasionale standaard-resolusies
+
+   Standaard-resolusies
+   Standaard-resolusies
+
+[wysig] Eksterne skakel
+
+     * Die Europese HDTV-Forum
+
+[wysig] Verwysings
+
+    1. ^ www.iol.co.za - HDTV channel to be ready by 2010
+
+   Kategorie: Televisie
+

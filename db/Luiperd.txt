@@ -1,0 +1,92 @@
+Luiperd
+
+
+                       Luiperd
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   African Leopard in Serengeti, Tanzania
+   African Leopard in Serengeti, Tanzania
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Felidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Panthera
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. pardus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Panthera pardus
+   Linnaeus, 1758
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die luiperd
+   Die verspreiding van die luiperd
+                      Sinonieme
+
+                         Felis pardus Linnaeus, 1758
+
+   Die luiperd (Panthera pardus) is 'n lid van die katfamilie en kom in 'n
+   verskeidenheid van habitats voor in Afrika sowel as Asië. Luiperds is
+   na tiers, leeus en jaguars die vierde grootste groot-kat. Die puma, die
+   volgende grootste van die groot-katte, bereik byna dieselfde grootte as
+   luiperds. Luiperds is nagdiere en kan tot 21 jaar oud word.
+
+[wysig] Identifikasie
+
+   Die luiperd se pels het swart vlekke in die vorm van sirkels. Sommige
+   is donker van kleur en andere heeltemal swart. Die luiperd kan verwar
+   word met die jagluiperd wat 'n ander katspesie is, maar die jagluiperd
+   verskil in dat sy kolle onderbroke en rosetvormig is. Die luiperd het
+   'n kort, stewig en katagtige liggaamsbou. Hy kan sy kop massief en
+   liggaamsbou heeltemal terugtrek. 'n Volwasse luiperd weeg ongeveer
+   60 kg en bereik 'n algemene hoogte van 60 cm.
+
+[wysig] Voortplanting
+
+   Die wyfie is telkens vir 'n periode van 3 maande dragtig en skenk
+   geboorte aan twee tot drie welpies op 'n keer.
+
+[wysig] Bronnelys
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Katagtiges
+

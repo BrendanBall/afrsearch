@@ -1,0 +1,211 @@
+Rijndael
+
+
+   Rijndael is 'n kriptografiese algoritme ontwikkel deur Joan Daemen en
+   Vincent Rijmen. In November 2001 het die Amerikaanse NIST hierdie
+   algoritme gekies as die nuwe Advanced Encryption Standard, die opvolger
+   van die Data Encryption Standard. Die naam Rijndael is afgelei uit die
+   skrywers se name nl. "Rijmen" en "Daemen".
+
+   Rijndael is 'n verfyning van die Square kriptografiese algoritme,
+   terwyl Square op sy beurt 'n verfyning van die Shark algoritme is. Die
+   grootste voordeel van Rijndael ten opsigte van DES is dat dit in
+   hardeware sowel as in sagteware effektief geïmplementeer kan word. In
+   die DES-algoritme is dit byvoorbeeld die geval dat in baie stappe bisse
+   verwissel word. Verwerkers werk egter op greep-niveau en moet met
+   aparte opdragte elke keer 'n los bis uit 'n versluieringsblok haal en
+   op die korrekte bestemming plaas. In hardeware kan hierdie wel opgelos
+   word met die korrekte stroombane.
+
+   Rijndael werk daarenteen met hele grepe sodat 'n verwerker eenvoudig 'n
+   greep kan lees en op die korrekte plek wegskryf. Nie alleen word só 'n
+   hele greep op 'n slag verwerk nie (dus 8 keer soveel), daar is ook geen
+   instruksies nodig om los bisse te hanteeer nie. In hardeware is dit
+   steeds 'n kwessie van gepaste stroombane.
+
+   Inhoud
+
+        * 1 Werking
+        * 2 Uitvoer van 'n ronte
+             + 2.1 Subbytes
+             + 2.2 Shiftrow
+             + 2.3 Mix Column
+             + 2.4 Addkey
+        * 3 Veiligheid
+        * 4 Eksterne skakels en bronne
+
+[wysig] Werking
+
+   Om Rijndael toe te pas word die teks wat geïnkripteer moet word eers in
+   blokke opgedeel. Hierdie blokke word vervolgens in matriksvorm geplaas.
+   Hierna word 'n aantal rontes toegepas. Die aantal rontes is afhanklik
+   van die lengte van die sleutel en van die blok:
+     * 9 rontes as beide die sleutel en die blok 128-bis is
+     * 11 rontes as sleutel of blok 192-bis is en geen van hulle groter is
+       nie
+     * 13 rontes andersins
+
+   Om 'n blok te inkripteer word die blok eers met 'n XOR-operasie op die
+   sleutel verwerk, hierna word die bogenoemde aantal rontes uitgevoer, en
+   hierna word nog 1 ronte uitgevoer waarby die laatste stap (die
+   "mix-column" stap) oorsteek word.
+
+[wysig] Uitvoer van 'n ronte
+
+   'n Ronte bestaat uit 'n aantal stappe. Hulle word afsonderlik bespreek:
+
+[wysig] Subbytes
+
+   In die subbytes-stap word elke greep met 'n ander greep vervang. Die
+   greepwaarde word in 'n tabel gesoek, die S-boks, en die waarde in die
+   S-bokstabel is die vervangwaarde. Die S-boks sien so daaruit:
+   (neergeskryf in 16 by 16):
+99 124 119 123 242 107 111 197  48   1 103  43 254 215 171 118
+202 130 201 125 250  89  71 240 173 212 162 175 156 164 114 192
+183 253 147  38  54  63 247 204  52 165 229 241 113 216  49  21
+  4 199  35 195  24 150   5 154   7  18 128 226 235  39 178 117
+  9 131  44  26  27 110  90 160  82  59 214 179  41 227  47 132
+ 83 209   0 237  32 252 177  91 106 203 190  57  74  76  88 207
+208 239 170 251  67  77  51 133  69 249   2 127  80  60 159 168
+ 81 163  64 143 146 157  56 245 188 182 218  33  16 255 243 210
+205  12  19 236  95 151  68  23 196 167 126  61 100  93  25 115
+ 96 129  79 220  34  42 144 136  70 238 184  20 222  94  11 219
+224  50  58  10  73   6  36  92 194 211 172  98 145 149 228 121
+231 200  55 109 141 213  78 169 108  86 244 234 101 122 174   8
+186 120  37  46  28 166 180 198 232 221 116  31  75 189 139 138
+112  62 181 102  72   3 246  14  97  53  87 185 134 193  29 158
+225 248 152  17 105 217 142 148 155  30 135 233 206  85  40 223
+140 161 137  13 191 230  66 104  65 153  45  15 176  84 187  22
+
+[wysig] Shiftrow
+
+   Soos vroër genoem is die grepe in 'n matriksvorm geplaas. In hierdie
+   matriks word die rye op die volgende manier geskuif:
+    1  2  3  4
+    5  6  7  8
+    9 10 11 12
+   13 14 15 16
+
+                word
+                     1  2  3  4
+                     6  7  8  5
+                     9 10 11 12
+                    16 13 14 15
+
+[wysig] Mix Column
+
+   In die "mix-column" stap word die blok vermenigvuldig met die volgende
+   matriks:
+2 3 1 1
+1 2 3 1
+1 1 2 3
+3 1 1 2
+
+   Hierdie vermenigvuldiging word egter uitgevoer oor GF(2^8). Dit beteken
+   dat die grepe as polinome i.p.v. getalle behandel word. Die
+   onderliggende wiskunde is buite die bestek van hierdie artikel. 'n
+   Vermenigvuldiging kan uitgevoer word met behulp van die volgende
+   tabelle:
+
+   E-tabel
+ 0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0 01 03 05 0F 11 33 55 FF 1A 2E 72 96 A1 F8 13 35
+1 5F E1 38 48 D8 73 95 A4 F7 02 06 0A 1E 22 66 AA
+2 E5 34 5C E4 37 59 EB 26 6A BE D9 70 90 AB E6 31
+3 53 F5 04 0C 14 3C 44 CC 4F D1 68 B8 D3 6E B2 CD
+4 4C D4 67 A9 E0 3B 4D D7 62 A6 F1 08 18 28 78 88
+5 83 9E B9 D0 6B BD DC 7F 81 98 B3 CE 49 DB 76 9A
+6 B5 C4 57 F9 10 30 50 F0 0B 1D 27 69 BB D6 61 A3
+7 FE 19 2B 7D 87 92 AD EC 2F 71 93 AE E9 20 60 A0
+8 FB 16 3A 4E D2 6D B7 C2 5D E7 32 56 FA 15 3F 41
+9 C3 5E E2 3D 47 C9 40 C0 5B ED 2C 74 9C BF DA 75
+A 9F BA D5 64 AC EF 2A 7E 82 9D BC DF 7A 8E 89 80
+B 9B B6 C1 58 E8 23 65 AF EA 25 6F B1 C8 43 C5 54
+C FC 1F 21 63 A5 F4 07 09 1B 2D 77 99 B0 CB 46 CA
+D 45 CF 4A DE 79 8B 86 91 A8 E3 3E 42 C6 51 F3 0E
+E 12 36 5A EE 29 7B 8D 8C 8F 8A 85 94 A7 F2 0D 17
+F 39 4B DD 7C 84 97 A2 FD 1C 24 6C B4 C7 52 F6 01
+
+
+   L-tabel
+  0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0    00 19 01 32 02 1A C6 4B C7 1B 68 33 EE DF 03
+1 64 04 E0 0E 34 8D 81 EF 4C 71 08 C8 F8 69 1C C1
+2 7D C2 1D B5 F9 B9 27 6A 4D E4 A6 72 9A C9 09 78
+3 65 2F 8A 05 21 0F E1 24 12 F0 82 45 35 93 DA 8E
+4 96 8F DB BD 36 D0 CE 94 13 5C D2 F1 40 46 83 38
+5 66 DD FD 30 BF 06 8B 62 B3 25 E2 98 22 88 91 10
+6 7E 6E 48 C3 A3 B6 1E 42 3A 6B 28 54 FA 85 3D BA
+7 2B 79 0A 15 9B 9F 5E CA 4E D4 AC E5 F3 73 A7 57
+8 AF 58 A8 50 F4 EA D6 74 4F AE E9 D5 E7 E6 AD E8
+9 2C D7 75 7A EB 16 0B F5 59 CB 5F B0 9C A9 51 A0
+A 7F 0C F6 6F 17 C4 49 EC D8 43 1F 2D A4 76 7B B7
+B CC BB 3E 5A FB 60 B1 86 3B 52 A1 6C AA 55 29 9D
+C 97 B2 87 90 61 BE DC FC BC 95 CF CD 37 3F 5B D1
+D 53 39 84 3C 41 A2 6D 47 14 2A 9E 5D 56 F2 D3 AB
+E 44 11 92 D9 23 20 2E 89 B4 7C B8 26 77 99 E3 A5
+F 67 4A ED DE C5 31 FE 18 0D 63 8C 80 C0 F7 70 07
+
+   Om 'n vermenigvuldiging van twee getalle uit te voer, soek ons beide
+   getalle op in die L-tabel. Vervolgens word beide getalle by mekaar
+   opgetel en word die 9de bis dat deur die optelling ontstaan kan
+   weggegooi. Die oorblyvende getal word in die E-tabel opgesoek.
+
+   Sê ons wil die heksadesimale getal B6 met 3 vermenigvuldig. Ons soek B6
+   op in die L-tabel, dit gee B1. Ons soek 3 op, dit gee 32. Ons tel
+   hierdie getalle by mekaar: B1+32=E3. Ons soek E3 op in die E-tabel en
+   ons vind EE.
+
+[wysig] Addkey
+
+   In hierdie stap word 'n XOR-bewerking op die tussenantwoord met die
+   sleutel uitgevoer.
+
+[wysig] Veiligheid
+
+   Tot op hede, Oktober 2004, het niemand nog 'n suksesvolle aanval op die
+   Rijndael-algoritme uitgevoer nie. Die mees gebruikte aanval teen
+   blokinkripsie-algoritme as Rijndael is die uitvoer van 'n aanval op 'n
+   taamlik aangepaste weergawe met minder rontes. Vandag die dag is daar
+   met sukses aanvalle uitgevoer op weergawes met 7 rontes vir 128-bis
+   sleutel, 8 vir 192-bis sleutel en 9 vir 256-bis sleutel (Ferguson et
+   al, 2000).
+
+   Sommige kriptoanaliste maak sig sorge om die veiligheid van die
+   Rijndael algoritme, tussen die aantal rontes wat gebruik word en die
+   aantal rontes waar aanvalle op uitgevoer is, sit volgens hulle 'n te
+   klein gaping om jou op jou gemak te laat voel. Indien hierdie aanvalle
+   verbeter kan word sou hierdie beteken dat die algoritme gebreek kan
+   word, dus, mens sou vinniger kan ontsyfer as om al die moontlike
+   sleutelkombinasies te deursoek. As mens egter "slegs" 2^120 berekeninge
+   benodig om 'n 128-bis sleutel te bepaal, dan sou die algoritme tegnies
+   gebreek wees, maar aangesien daar in die praktyk geen rekenaars is om
+   soveel berekeninge uit te voer nie, sou so 'n lekasie prakties weinig
+   beteken.
+
+   Verder word baie ondersoek ingestel na die wiskundige struktuur van die
+   Rijndael-algoritme. In teenstelling tot andere algoritmes kan die
+   algoritme wiskundig netjes beskryf word. Daar word gevrees dat dit
+   moontlik sal wees om as gevolg hiervan wiskundige vereenvoudigings uit
+   te voer.
+
+   In 2002 het Nicolas Courtois en Josef Pieprzyk die teoretiese
+   XSL-aanval beskryf. Ook hierdie aanval verg veral baie berekenings om
+   prakties uitvoerbaar te wees. Alhoewel daar inmiddels beweringe is dat
+   die berekeninge drasties verlaag kan word, is daar inmiddels swakhede
+   in die wiskunde agter die aanval gevind, en kan dit die geval wees dat
+   die aanval in die geheel nie werk nie. Voorlopig bly die vraag oor of
+   die XSL-aanval teen Rijndael gebruik kan word onbeantwoord.
+
+[wysig] Eksterne skakels en bronne
+
+     * Die Rijndael webwerf (Engels)
+     * Die AES webwerf (Engels)
+     * Uitleg van die Rijdael algoritme (Engels)
+     * N. Ferguson, J. Kelsey, S. Lucks, B. Schneier, M. Stay, D. Wagner,
+       and D. Whiting. Improved Cryptanalysis of Rijndael (Postscript)
+       (PDF). In Seventh Fast Software Encryption Workshop (2000).
+       Springer Verlag, pp. 213-230, ISBN:3-540-41728-1
+
+   Kategorieë: Algoritmes • Kriptografie
+

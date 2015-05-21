@@ -1,0 +1,108 @@
+Meteorologie
+
+
+   Meteorologie is die wetenskaplike ondersoek van die Aarde se atmosfeer
+   wat fokus op weerprosesse en weervoorspelling. Meteorologiese
+   verskynsels is waarneembare gebeure wat verlig en verduidelik word deur
+   die wetenskap van meteorologie. Hierdie gebeure word beïnvloed deur die
+   veranderlikes wat bestaan in die Aarde se atmosfeer; hierdie is
+   temperatuur, lugdruk, waterdamp, die gradiënte en interaksies van elke
+   veranderlike, asook hoe hulle oor tyd verander. Die groot meerderheid
+   van die Aarde se waargenome weer is in die troposfeer te vinde.
+
+   Meteorologie, klimatologie, atmosferiese fisika en atmosferiese chemie
+   is disiplines binne die atmosferiese wetenskappe.
+
+[wysig] Geskiedenis van meteorologie
+
+   Verwys ook na die Kronologie van meteorologie
+
+   Die term meteorologie dateer terug na die boek Meteorologica (sowat 340
+   v.C.) deur Aristoteles, wat waarnemings met spekulasie gekombineer het
+   as die oorsprong van hemelgebeurtenisse. Die Griekse woord meteoron
+   verwys na dinge "hoog in die lug", oftewel tussen die Aarde en die
+   sterreryk, terwyl logos "studie" beteken. 'n Soortgelyke werk, genaamd
+   die "Boek van Tekens", is deur Theophrastus, een van sy studente,
+   gepubliseer, wat meer op weervoorspelling deur die interpretasie van
+   hemelgebeurtenisse, soos 'n ligkrans rondom die maan, gefokus het,
+   sonder om verduidelikings te soek.
+
+   Verdere vooruitgang in die meteorologiese veld moes wag todat meer
+   akkurate instrumente beskikbaar geraak het. Galileo Galilei het 'n
+   termometer in die 1500s gebou, gevolg deur Torricelli se uitvinding van
+   die barometer in 1643. Die afhanklikheid van atmosferiese druk op
+   hoogte is eerste deur Blaise Pascal en René Descartes getoon. Die
+   anemometer vir die meet van windspoed is in 1667 deur Robert Hooke
+   gebou, terwyl Horace de Saussure hierdie lys van die mees belangrike
+   meteorologiese instrumente voltooi deur in 1780 die haar-higrometer,
+   wat humiditeit meet, te bou.
+
+   Ander belangrike gebeure wat gewoonlik as deel van die vooruitgang van
+   fisika beskou word, was Robert Boyle se navorsing oor die verwantskap
+   tussen 'n gas se volume en druk, wat on sy beurt gelei het na
+   termodinamika, en Benjamin Franklin se vlieëreksperimente met weerlig.
+
+   Die eerste feitelik korrekte verduideliking van atmosferiese sirkulasie
+   was die 1735 bestudering van die Handelswinde deur George Hadley. In
+   1835 besef Gaspard-Gustave Coriolis dat die rotasie van die Aarde 'n
+   snelheidsafhanklike krag op liggame in die verwysingsraamwerk van 'n
+   nie-roterende Aarde uitoefen.
+
+   Sinoptiese weerobservasies was steeds belemmer deur die probleme om
+   sekere weereienskappe soos wolke of wind te klassifiseer. Hierdie
+   probleem is opgelos toe Luke Howard en Francis Beaufort hulle
+   klassifikasiestelsels vir wolke (1803) en windspoed (1806)
+   respektiewelik ontwikkel het. Die werklike draaipunt was die uitvindsel
+   van die telegraaf in 1843, wat die uitruil van weerinligting met
+   ongekende spoed moontlik gemaak het.
+
+   Vroeg in die 20ste eeu is teoretiese studie van atmosferiese
+   gebeurtenisse gewoonlik analities gedoen; dit wil sê, deur die
+   vloei-dinamiese vergelykings vir atmosferiese vloei te neem, hulle te
+   vereenvoudig deur kleinere terme uit te laat, en vir oplossings vir
+   hierdie vergelykings te soek. Byvoorbeeld, Vilhelm Bjerknes het die
+   model ontwikkel wat die opwek, versterk en uiteindelike wegsterf (die
+   lewensiklus) van siklone verduidelik, en die idee ontwikkel van fronte,
+   wat skerp-gedefinieerde skeidings tussen lugmassas is.
+
+   Beginnende in die 1950s het numeriese eksperimente met rekenaars
+   moontlik geword. Die eerste weervoorspellings wat só afgelei is het
+   barotropiese (wat 'n enkele vertikale vlak beteken) modelle gebruik, en
+   kon suksesvol die grootskaalse beweging van Rossbygolwe, wat die
+   patroon van atmosferiese lae en atmosferiese hoë is, voorspel.
+
+   In die 1960s word die chaotiese natuur van die atmosfeer vir die eerste
+   keer deur Edward Lorenz verstaan, wat die veld van chaosteorie begin
+   het. Die wiskundige vooruitgang wat hier gemaak is het later
+   teruggefilter na meteorologie, en het dit moontlik gemaak om die
+   beperkings van voorspelbaarheid inherent aan atmosferiese modellering
+   te kan beskryf. Dit is bekend as die skoenlappereffek, omdat die groei
+   van versteurings oor tyd beteken dat selfs iets so klein as die
+   vlerkklap van 'n skoenlapper later groot versteurings elders kan
+   teweegbring.
+
+   In 1960, met die lansering van TIROS-1, die eerste suksesvolle
+   weersatelliet, is 'n nuwe era begin waar weerinligting wêreldwyd
+   beskikbaar raak. Weersatelliete, tesame met meer algemene
+   Aarde-waarnemende satelliete, wat op verskeie hoogtes om die aarde
+   wentel is deesdae 'n onontbeerlike instrument waarmee vele verskynsels,
+   van veldbrande tot El Niño, mee bestudeer kan word.
+
+   In onlangse jare is klimaatmodelle ontwikkel wat 'n resolusie
+   soortgelyk aan ouer weervoorspellingsmodelle lewer. Hierdie modelle
+   word gebruik om langtermyn klimaatverskuiwings te ondersoek, soos
+   watter effek kweekhuisgasse mag hê.
+
+[wysig] Weer-verwante skakels
+
+     * Weather.org het baie gratis hulpmiddels.
+     * Australia Severe Weather het 'n verreikende fotoversameling oor
+       weerverskynsels.
+     * Glossary of Meteorology from the American Meterological Society, 'n
+       uitstekende verwysing van terme, vergelykings en konsepte vir die
+       amateurleser.
+     * Storm2k.org 'n Uitstekende interaktiewe bron van huidige weer en
+       weeronderwerpe.
+
+   Kategorieë: Meteorologie • Onderwerplyste
+

@@ -1,0 +1,152 @@
+Berlyn (gemeentes)
+
+
+   Berlyn word nie verdeel in gemeentes nie, maar is verdeel in
+   administrasie-gebiede, en weer onderverdeel in oordsgebiede
+   (voorstede).
+     * Administrasie-gebied
+          + Voorstad (Oordsgebied)
+               o verdere onderverdeling
+
+     * 01 Mitte (sien Berlin-Mitte)
+          + 0101 Mitte
+          + 0102 Moabit
+          + 0103 Hansaviertel
+          + 0104 Tiergarten
+          + 0105 Wedding
+          + 0106 Gesundbrunnen
+
+     * 02 Friedrichshain-Kreuzberg
+          + 0201 Friedrichshain
+          + 0202 Kreuzberg
+               o SO 36
+               o SW 61
+
+     * 03 Pankow
+          + 0301 Prenzlauer Berg
+          + 0302 Weißensee
+          + 0303 Blankenburg
+          + 0304 Heinersdorf
+          + 0305 Karow
+          + 0306 Stadtrandsiedlung Malchow
+          + 0307 Pankow
+          + 0308 Blankenfelde
+          + 0309 Buch
+          + 0310 Französisch Buchholz
+          + 0311 Niederschönhausen
+          + 0312 Rosenthal
+          + 0313 Wilhelmsruh
+
+     * 04 Charlottenburg-Wilmersdorf
+          + 0401 Charlottenburg
+               o Halensee
+               o Jungfernheide
+               o Paul-Herz-Siedlung
+               o Pichelsberg
+               o Plötzensee
+               o Ruhleben
+               o Siedlung Charlottenburg-Nord
+               o Siedlung Eichkamp
+               o Siedlung Heerstraße
+               o Westend
+               o Witzleben
+          + 0402 Wilmersdorf
+          + 0403 Schmargendorf
+          + 0404 Grunewald
+
+     * 05 Spandau
+          + 0501 Spandau
+               o Altstadt
+               o Neustadt
+               o Stresow
+          + 0502 Haselhorst
+          + 0503 Siemensstadt
+          + 0504 Staaken
+          + 0505 Gatow
+          + 0506 Kladow
+          + 0507 Hakenfelde
+          + 0508 Falkenhagener Feld
+          + 0509 Wilhelmstadt
+
+     * 06 Steglitz-Zehlendorf
+          + 0601 Steglitz
+          + 0602 Lichterfelde
+          + 0603 Lankwitz
+          + 0604 Zehlendorf
+          + 0605 Dahlem
+          + 0606 Nikolassee
+          + 0607 Wannsee
+
+     * 07 Tempelhof-Schöneberg
+          + 0701 Schöneberg
+               o Bayerisches Viertel
+               o Insel
+               o Kielgan-Viertel
+               o Lindenhof
+          + 0702 Friedenau
+          + 0703 Tempelhof
+          + 0704 Mariendorf
+          + 0705 Marienfelde
+          + 0706 Lichtenrade
+
+     * 08 Neukölln
+          + 0801 Neukölln
+               o Rixdorf
+               o Böhmisches Dorf
+               o Rollbergviertel
+          + 0802 Britz
+               o Hufeisensiedlung
+          + 0803 Buckow
+          + 0804 Rudow
+
+     * 09 Treptow-Köpenick
+          + 0901 Alt-Treptow
+          + 0902 Plänterwald
+          + 0903 Baumschulenweg
+          + 0904 Johannisthal
+          + 0905 Niederschöneweide
+          + 0906 Altglienicke
+          + 0907 Adlershof
+          + 0908 Bohnsdorf
+          + 0909 Oberschöneweide
+          + 0910 Köpenick
+          + 0911 Friedrichshagen[1]
+          + 0912 Rahnsdorf
+          + 0913 Grünau
+          + 0914 Müggelheim
+          + 0915 Schmöckwitz
+
+     * 10 Marzahn-Hellersdorf
+          + 1001 Marzahn
+          + 1002 Biesdorf
+          + 1003 Kaulsdorf
+          + 1004 Mahlsdorf
+          + 1005 Hellersdorf
+
+     * 11 Lichtenberg
+          + 1101 Friedrichsfelde
+          + 1102 Karlshorst
+          + 1103 Lichtenberg
+          + 1104 Falkenberg
+          + 1105 Hohenschönhausen
+          + 1106 Malchow
+          + 1107 Wartenberg
+          + 1108 Weißensee
+
+     * 12 Reinickendorf
+          + 1201 Reinickendorf
+          + 1202 Tegel
+          + 1203 Konradshöhe
+          + 1204 Heiligensee
+          + 1205 Frohnau
+          + 1206 Hermsdorf
+          + 1207 Waidmannslust
+          + 1208 Lübars
+          + 1209 Wittenau
+          + 1210 Märkisches Viertel
+          + 1211 Borsigwalde
+          + 1212 Tegelort
+          + 1213 Tegel-Süd
+
+   Kategorie: Berlyn
+

@@ -1,0 +1,112 @@
+Swartkopwielewaal
+
+
+                  Swartkopwielewaal
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Oriolidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Oriolus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     O. larvatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Oriolus larvatus
+   (Lichtenstein, 1823)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die swartkopwielewaal is 'n algemene standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Word aan sy swart kop en pienk snawel uitgeken; vergelyk met die
+   kleiner Swartkeelgeelvink wat 'n swart snawel het. Die geslagte lyk
+   eners.
+
+   25 cm
+
+[wysig] Habitat
+
+   Kom een-een of in pare in klam, goed ontwikkelde boomveld of gemengde
+   bosveld, oewerbos en uitheemse bome voor. 'n Lawaaierige, opvallende
+   voël. Vermy die droë sentrale en westelike streke.
+
+[wysig] Verspreiding
+
+   Kom voor in die suidelike dele van die Wes-Kaap en Oos-Kaap,
+   KwaZulu-Natal, Swaziland, Mpumalanga, Limpopo Provinsie, Mosambiek,
+   Zimbabwe, die noord-oostelike deel var Botswana, die Kaprivi-strook en
+   die noordelike deel van Namibië.
+
+[wysig] Geluid
+
+   Sy gewone geroep is 'n helder "fioee"; uiter ook 'n skor alarmroep
+   "tjurr".
+
+[wysig] Ander name
+
+     * Engels: "Black-headed Oriole"
+     * Wetenskaplike naam: Oriolus larvatus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Wielewale
+

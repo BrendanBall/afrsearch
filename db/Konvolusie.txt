@@ -1,0 +1,158 @@
+Konvolusie
+
+
+   Hierdie artikel behandel die wiskundige konsep van konvolusie. Sien
+   konvolusie vir die gebruik in rekenaarwetenskap.
+     __________________________________________________________________
+
+   In wiskunde, en spesifiek funksionaalanalise, is konvolusie 'n
+   wiskundige bewerking wat twee funksies f en g neem en 'n derde funksie
+   h skep. Hierdie kombinasie stel, in 'n sekere sin, die hoeveelheid
+   oorvleueling voor wat tussen f en 'n omgekeerde weergawe van g bestaan.
+   'n Konvolusie is 'n soort algemene bewegende gemiddelde, soos wat
+   gesien word wanneer een funksie as 'n aanduidingsfunksie oor 'n
+   interval geneem word.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Definisie
+        * 3 Eienskappe
+             + 3.1 Kommutatiwiteit
+             + 3.2 Assosiatiwiteit
+             + 3.3 Distributiwiteit
+             + 3.4 Assosiatiwiteit met skalaarvermenigvuldiging
+             + 3.5 Konvolusiestelling
+        * 4 Konvolusie van groepe
+        * 5 Sien ook
+        * 6 Eksterne skakels
+
+[wysig] Gebruike
+
+   Konvolusie en verwante bewerkings word in baie toepassings van
+   ingenieurswese en wiskunde gevind:
+     * In statistiek, soos bo genoem, as 'n geweegde bewegende gemiddelde.
+     * In statistiek is die waarskynlikheidsverspreiding van die som van
+       twee toevalsveranderlikes gelyk aan die konvolusie van die twee
+       verspreidings.
+     * In optika word baie soorte verdowwing deur konvolusie beskryf. 'n
+       Skaduwee (soos wat byvoorbeeld gevorm word deur jou hand wanneer
+       dit tussen 'n ligbron en 'n tafel gehou word) is die konvolusie van
+       die vorm van die ligbron en die voorwerp wat die skaduwee gooi. 'n
+       Foto wat swak gefokus is, is die konvolusie van die skerp beeld met
+       die verdowwingsirkel wat deur die irisdiafragma veroorsaak word.
+     * In akoestiek is 'n eggo die konvolusie van die oorspronklike klank
+       met 'n funksie wat die verskeie voorwerpe voorstel wat hierdie
+       klank weerkaats.
+     * In elektriese ingenieurswese en ander disiplines is die uittree
+       (respons) van 'n lineêre (d.w.s., stasionêre of
+       tyd-/ruimte-invariante) stelsel die konvolusie van die intree (of
+       opwekking) van 'n stelsel se optrede met 'n impuls of Dirac
+       delta-funksie as intree. Sien LTI-stelselteorie.
+     * In fisika verskyn daar altyd konvolusie wanneer 'n lineêre stelsel
+       met 'n superposisie-eienskap ter sprake is.
+
+[wysig] Definisie
+
+   Die konvolusie van f en g word geskryf f * g. Dit word gedefinieer as
+   die integraal van die produk van twee funksies nadat een omgekeer en
+   geskuif is.
+
+          (f * g )(t) = \int f(\tau) g(t - \tau)\, d\tau
+
+   Die integrasiegrense hang af van die definisieversameling waaroor die
+   funksies gedefinieer is. In die geval van eindige integrasiegrense word
+   daar algemeen geneem dat f en g periodies uitgebrei is in beide
+   rigtings, sodat die term g(t − τ) nie 'n grensoortreding impliseer nie.
+   Die gebruik van periodiese definisieversamelings word soms sikliese,
+   sirkelvormige of periodiese konvolusie genoem. Natuurlik is dit ook
+   moontlik om die funksies uit te brei deur dit bloot nul te maak. Die
+   gebruik van nul-uitgebreide of oneindige definisieversamelings word
+   soms lineêre konvolusie genoem, veral in die diskrete geval hieronder.
+
+   As X en Y twee onafhanklike toevalsveranderlikes met
+   waarskynlikheidsdigthede f en g respektiewelik is, dan word die
+   waarskynlikheidsdigtheid van die som X + Y gegee deur die konvolusie f
+   * g.
+
+   Vir diskrete funksies kan 'n diskrete weergawe van konvolusie gebruik
+   word, wat gedefinieer is deur
+
+          (f * g)(m) = \sum_n {f(n) g(m - n)} \,
+
+   Wanneer twee polinome vermenigvuldig word, word die koëffisiënte van
+   die produk gelewer deur die konvolusie van die oorspronklike
+   koëffisiëntreekse in hierdie diskrete sin (asook deur nul-uitbreiding
+   te gebruik, soos hierbo genoem).
+
+   Deur die boonste twee gevalle te veralgemeen kan konvolusie gedefinieer
+   word vir enige twee integreerbare funksies wat op 'n plaaslike kompakte
+   topologiese groep gedefinieer is. 'n Ander veralgemening is die
+   konvolusie van verspreidings.
+
+[wysig] Eienskappe
+
+   Die verskeie konvolusie-operators besit almal die volgende eienskappe:
+
+[wysig] Kommutatiwiteit
+
+          f * g = g * f \,
+
+[wysig] Assosiatiwiteit
+
+          f * (g * h) = (f * g) * h \,
+
+[wysig] Distributiwiteit
+
+          f * (g + h) = (f * g) + (f * h) \,
+
+[wysig] Assosiatiwiteit met skalaarvermenigvuldiging
+
+          a (f * g) = (a f) * g = f * (a g) \,
+
+   vir enige reëele of komplekse getal a.
+
+   Differensiasiereël:
+
+          \mathcal{D}(f * g) = \mathcal{D}f * g = f * \mathcal{D}g \,
+
+   waar Df die afgeleide van f aandui, of, in die diskrete sin, die
+   verskiloperator
+
+          Df(n) = f(n+1) - f(n).
+
+[wysig] Konvolusiestelling
+
+          \mathcal{F}(f * g) = \sqrt{2\pi} (\mathcal{F} f) \cdot
+          (\mathcal{F} g)
+
+   waar \mathcal{F} f die Fourier-transform van f aandui. Weergawes van
+   hierdie stelling geld ook vir die Laplace-transform, dubbelsydige
+   Laplace-transform en Melling-transform.
+
+[wysig] Konvolusie van groepe
+
+   Indien G 'n geskikte groep is wat maat m het (byvoorbeeld, 'n plaaslike
+   kompakte Hausdorff topologiese groep met die Haar-maat), en as f en g
+   reële of komplekse m-integreerbare funksies van G is, kan ons hul
+   konvolusie definieer as
+
+          (f * g)(x) = \int_G f(y)g(xy^{-1})\,dm(y) \,
+
+   In hierdie geval is dit ook moontlik om, byvoorbeeld, 'n
+   Konvolusiestelling te gee, maar dit is baie moeiliker om te fraseer en
+   verg voorstellingsteorie vir hierdie tipes groepe en die
+   Peter-Weyl-stelling van harmoniese analise. Dit is baie moeilik om
+   hierdie berekenings sonder meer struktuur te doen, en Lie-groepe is die
+   raamwerk waarin hierdie berekenings gedoen word.
+
+[wysig] Sien ook
+
+     * Dekonvolusie
+
+[wysig] Eksterne skakels
+
+     * Konvolusie-verwante artikels in comp.dsp, 'n DSP usenet-groep.
+
+   Kategorie: Rekenaarvisie
+

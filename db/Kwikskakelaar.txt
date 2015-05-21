@@ -1,0 +1,77 @@
+Kwikskakelaar
+
+
+   'n Enkelpool, Enkelskakeling (EPES) kwikskakelaar
+   'n Enkelpool, Enkelskakeling (EPES) kwikskakelaar
+
+   'n Kwikskakelaar is 'n skakelaar wat bedoel is om 'n elektriese stroom
+   in 'n elektriese stroombaan te laat vloei of dit te onderbreek op so 'n
+   wyse dat dit afhanklik is van die skakelaar se fisiese oriëntasie ten
+   opsigte van die rigting van die aarde se swaartekrag.
+
+   Kwikskakelaars bestaan uit een of meer stelle kontakte in 'n verseëlde
+   glashouer wat ook 'n druppel kwik bevat. Die houer kan verder ook lug,
+   'n inerte gas of 'n vakuum bevat. Swaartekrag trek die druppel kwik
+   voortdurend na die laagste punt in die houer.
+
+   Wanneer die skakelaar gekantel word na 'n geskikte posisie, raak die
+   kwik aan die stel kontakte en sluit daarmee die elektriese stroombaan.
+   Deur die skakelaar in die teenoorgestelde rigting te kantel beweeg die
+   kwik weg vanaf die kontakte en word die stroombaan gebreek. Die
+   skakelaar kan veelvuldige kontakte bevat wat dit moontlik maak dat
+   verskillende stelle kontakte by verskillende kantelhoeke geraak word.
+
+   Inhoud
+
+        * 1 Gebruike
+             + 1.1 Rolsensors
+             + 1.2 Termostate
+             + 1.3 Muntoutomate
+             + 1.4 Bomme
+        * 2 Giftigheid
+
+[wysig] Gebruike
+
+[wysig] Rolsensors
+
+   Kantelskakelaars kan gebruik word om te waarsku as
+   konstruksietoerusting of vragvoertuie wat in ruwe terrein beweeg gevaar
+   staan om om te slaan. Verskeie metodes bestaan wat nie kwik gebruik
+   nie, maar hulle is baie keer vatbaar vir skok en vibrasie wat kan lei
+   tot vals alarms of klinke.
+
+[wysig] Termostate
+
+   Kwikskakelaars was algemeen in gebruik in bimetaal termostate. Die
+   gewig van die beweeglike kwikdruppel verskaf 'n mate van histerese deur
+   die bimetaalveer effe verder van die punt af waar dit normaalweg tot
+   rus sou kom, en sal daarom die termostaat effens langer neem om na die
+   aan of af toestand te beweeg. Die kwik het dit ook moontlik gemaak om
+   'n baie positiewe aan/af skakelaksie te bewerkstellig wat miljoene
+   siklusse kon weerstaan sonder dat die kontakte agteruitgaan.
+
+[wysig] Muntoutomate
+
+   Kwikskakelaars word steeds dikwels gebruik in meganiese stelsels wat
+   elektries beheer word waar die fisiese oriëntasie van die aandrywers of
+   rotors 'n faktor is. Hulle word ook gebruik in muntoutomate vir
+   kantelalarms. Wanneer die masjien gekantel word deur iemand wat toegang
+   tot die produk in die masjien wil verkry, aktiveer die masjien 'n
+   alarm.
+
+[wysig] Bomme
+
+   Die IRL het dikwels kwikskakelaars gebruik om motorbomme te ontsteek
+   tydens die onluste in Noord-Ierland. Ander terroriste groepe het ook
+   soortgelyke ontstekingsmeganismes gebruik.
+
+[wysig] Giftigheid
+
+   Aangesien kwik giftige eienskappe het, moet foutiewe toestelle wat
+   kwikskakelaars bevat as chemiese afval behandel word. As gevolg hiervan
+   is kwikskakelaars grootliks uitgefaseer in die meeste gevalle; moderne
+   termostate gebruik deesdae eerder termistors of ander elektroniese
+   toestelle om die temperatuur te meet en 'n relê verskaf dan die
+   skakelaksie wat voorheen deur 'n kwikskakelaar voorsien is.
+   Kategorie: Elektroniese komponente
+

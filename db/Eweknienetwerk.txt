@@ -1,0 +1,79 @@
+Eweknienetwerk
+
+
+   In die algemeen verwys 'n Eweknienetwerk (Engels: peer-to-peer network
+   of P2P) na 'n rekenaarnetwerk wat nie vaste werkstasies en bedieners
+   bevat nie, maar 'n aantal gelykwaardige rekenaars wat aanmekaar
+   gekoppel is en terselftertyd as 'n bediener en werkstasie dien vir
+   ander aansluitings tot die netwerk.
+
+   Inhoud
+
+        * 1 Kenmerke
+        * 2 Uitruilnetwerke
+        * 3 Eweknienetwerke, -protokolle en -programme
+        * 4 Eksterne skakels
+
+[wysig] Kenmerke
+
+   Die eweknienetwerkmodel staan in kontras met die
+   werkstasie-bedienermodel. Elke aansluiting is in staat om 'n
+   ondersteunde oordrag te begin en te beëindig. Eweknie-aansluitings kan
+   verskil in hul plaaslike opstelling, verwerkingsnelheid en bandwydte
+   van die netwerk asook die stoorkapasiteit beskikbaar.
+
+[wysig] Uitruilnetwerke
+
+   Die term kan tegnies gesproke ook toegepas word op 'n aantal
+   netwerktegnologieë en -programme wat gebruik maak van die model (soos
+   byvoorbeeld die NNTP-protokol, wat gebruik word deur
+   Usenet-nuusgroepe). Die term word dikwels gebruik om uitruilnetwerke
+   soos Gnutella, FastTrack,WinMX, BitTorrent en EDonkey2000. Hierdie
+   netwerke bied die moontlikheid om gratis en grotendeels anoniem lêers
+   of dele daarvan tussen persoonlike rekenaars wat met die internet
+   verbind is, uit te ruil. Die Engelse benaming hiervoor is filesharing.
+
+[wysig] Eweknienetwerke, -protokolle en -programme
+
+   Verloop van die geskatte aantal aantal gebruikers van die gewildste
+   drie Eweknienetwerke: FastTrack-, eDonkey- en die Gnutellanetwerk,
+   tussen Januarie 2003 en einde Mei 2006
+   Verloop van die geskatte aantal aantal gebruikers van die gewildste
+   drie Eweknienetwerke: FastTrack-, eDonkey- en die Gnutellanetwerk,
+   tussen Januarie 2003 en einde Mei 2006
+   Netwerk/Protokol Programme wat van die netwerk gebruik maak
+   BitTorrentnetwerk BitTorrent, BitTorrent++, ABC,
+
+   Azureus, BitAnarch, BitComet, BitLord, BitTorrent.Net, BitTornado,
+   MLDonkey, µTorrent, Shareaza, SimpleBT
+   Direct Connect netwerk NeoModus Direct Connect, DC++, BCDC++, CZDC++
+   eDonkeynetwerk eDonkey2000, eMule, MLDonkey, Shareaza
+   FastTrack protokol KaZaA , Grokster, iMesh, giFT, gift-fasttrack,
+   Mammoth P2P
+   Freenet netwerk Freenet, Frost, Entropy
+   Gnutella netwerk Acquisition, BearShare, Gnucleus, Limewire, Morpheus,
+   gift-gnutella (prop), Phex, Swapper, Shareaza, MLDonkey, XoloX,
+   gtk-gnutella, GnucDNA
+   Gnutella2 Shareaza, MLDonkey, GnucDNA
+   MANOLITO (MP2P) netwerk Blubster, Piolet, RockItNet
+   Napster (OpenNAP) netwerk OpenNap, WinMX, Napigator, FileNavigator
+   WPNP netwerk WinMX
+   Ares Galaxy Ares Galaxy, Warez, Gift-Ares (prop)
+
+   Ander protokolle:
+
+   FileTopia, Mute, Waste, AntsP2P, Soulseek, Muscle (BeShare), Akamai,
+   Alpine, Audiogalaxy netwerk, Carracho, Chord, The Circle, Dexter,
+   EarthStation 5 netwerk, Evernet, GNUnet, Groove, Hotwire, JXTA,
+   MojoNation, Overnet netwerk, Scribe, SongSpy netwerk, Squid, Swarmcast
+
+[wysig] Eksterne skakels
+
+     * Zeropaid (Engels)
+     * Slyck (Engels)
+     * P2P Info Centre (Engels)
+     * p2punited (Engels)
+     * eDonkey P2P (Engles|PL)
+
+   Kategorie: Rekenaarnetwerke
+

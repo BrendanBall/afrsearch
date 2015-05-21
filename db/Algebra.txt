@@ -1,0 +1,42 @@
+Algebra
+
+
+   Algebra is die afdeling van wiskunde waar simbole gebruik word om
+   verhoudings aan te dui.
+
+   Klassieke algebra het uit die algemene metode van oplos van verhoudings
+   gekom. Hierin kom getalle en simbole voor wat met die volgende
+   bewerkings bewerk word: maal, deel, optel en aftrek, sowel as ander
+   bewerkings soos vierkante en magte.
+
+   Onthou net altyd dat aritmetika of ook genoem rekeningkunde, nie as die
+   selfde tipe vergelykings gesien moet word as Pythagoras se stelling
+   nie.
+
+   In wiskunde kom magte by voor. 'n Voorbeeld hiervan is kwadraat. Enige
+   getal maal met homself is 'n kwadraat. Byvoorbeeld is die getal 9 'n
+   kwadraat, want 9=3\times3=3^2 . So ook die kwadraat a\times a=a^2
+
+   Moderne algebra het ontwikkel uit klassieke algebra, maar daar word
+   baie meer gekonsentreer op die struktuur daarvan.
+
+   Algebra kan dus beskryf word as die taal van wiskunde.
+
+[wysig] Geskiedenis
+
+   Die geskiedenis van algebra het begin in Egipte en Babilonië, waar
+   mense geleer het om lineêre (soos ax = b) en kwadratiese (soos ax^2 +
+   bx = c vergelykings, sowel as intermediêre vergelykings soos x^2 + y^2
+   = z^2, waar 'n paar onbekendes voorkom, op te los.
+
+   Hierdie manier van werk het 'n lang ruk so gebly tot in die tyd van
+   Islam. Islamiese mense het algebra beskryf as die wetenskap vir
+   vervanging en balansering en dit is hoogswaarskynlik hoe rekenkunde sy
+   verskyning gemaak het. Die Islam woord vir algebra is al-jabru. In die
+   9de eeu het Arabiese wiskundige al-Khwarizmi een van die eerste
+   arabiese vergelykings geskryf. Hy het die wette van algebra so goed
+   ontleed dat hy 'n baie ingewikkelde vergelyking soos om x,y en z te
+   vind om die volgende te balanseer: x + y + z = 10, x^2 + y^2 = z^2, en
+   xz = y^2.
+   Kategorie: Wiskunde
+

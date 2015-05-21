@@ -1,0 +1,35 @@
+Unified Modeling Language
+
+
+[wysig] Unified Modeling Language
+
+   UML is 'n afkorting vir Unified Modeling Language. Dit is 'n
+   modelmatige taal wat deur Grady Booch, James Rumbaugh en Ivar Jacobson
+   ontwerp was, om objek-georiënteerde analises en ontwerpe vir 'n
+   informasiesisteem te kan maak. Vanaf 1997 bestaan daar 'n standaard vir
+   UML. Kenmerkend is dat UML modelle 'n grafiese weergave is van bepaalde
+   aspekte van die informasiesisteem.
+
+[wysig] Algemeen
+
+   Dat die taal as standaard breed aanvaar word, is te sien aan die feit
+   dat dit in die jare negentig van die twintigste eeu daar 'n
+   UML-konsortium was opgerig met as deelnemers o.a. die volgende bekende
+   organisasies: DEC, Microsoft, Oracle, HP en Texas Instruments. Die
+   konsortium is die Object Management Group (OMG) en het die standaard
+   vir UML vasgelê.
+
+   Met UML kan mens ondermeer beskrywinge maak van statistiese
+   verskynsels, ook kan mens dinamiese prosesse beskryf. Dit dien veral as
+   'n veelsydige instrument wat in verkillende fases van die sisteembou
+   toegepas kan word. Een van die krachtige aspekten van UML is dat er, op
+   'n relatief eenvoudige manier, meta-beskrywinge gemaak kan word.
+
+   Teenstrydig oor wat daar vaak gednk word, is UML self geen methode,
+   maar een notasiewyse wat by verkillende methodes gebruik kan word. 'n
+   Metode wat gebruik maakt van UML is die RUP (Rational Unified Proces).
+
+   Object Constraint Language (OCL) is een tekstuele taal waarmee in UML
+   diverse randvoorwaarde, toestanden en beperkinge aangegee kan word.
+   Kategorie: Inligtingstegnologie
+

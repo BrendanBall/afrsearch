@@ -1,0 +1,333 @@
+Rekenaarbus
+
+
+   PCI Express bus aansluiters (vanaf bo na onder: x4, x16, x1 and x16),
+   vergeleke met die tradisionele 32-bis PCI-bus aansluiter (onder)
+   PCI Express bus aansluiters (vanaf bo na onder: x4, x16, x1 and x16),
+   vergeleke met die tradisionele 32-bis PCI-bus aansluiter (onder)
+
+   In rekenaarargitektuur is 'n bus 'n substelsel wat data of krag tussen
+   komponente in 'n rekenaar of tussen rekenaars oordra. Anders as
+   punt-tot-punt verbindings (poorte) kan 'n bus verskeie randtoestelle
+   (bybehore) oor dieselfde stel drade verbind. Elke soort bus definieer
+   'n stel verbinders wat toestelle, kaarte of kabels aanmekaar koppel.
+
+   Vroeë rekenaarbusse was letterlik parallelle elektriese busse met
+   veelvuldige verbindings, maar die term word nou gebruik vir enige
+   fisiese rangskikking wat dieselfde logiese funksionaliteit as 'n
+   parallelle elektriese bus verrig. Moderne rekenaarbusse kan beide
+   parallelle en bis-serieverbinders gebruik en kan bedraad word op so 'n
+   wyse dat dit 'n veelvuldige verbindingtopologie (elektries parallel) of
+   'n kettingtopologie vorm of kan deur 'n geskakelde bus verbind word
+   soos in die geval van USB.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Eerste generasie
+             + 1.2 Tweede generasie
+             + 1.3 Derde generasie
+        * 2 Beskrywing
+        * 3 Bustopologie
+        * 4 Bus versus poort
+        * 5 Voorbeelde van interne rekenaarbusse
+             + 5.1 Parallel
+             + 5.2 Serie
+        * 6 Voorbeelde van eksterne rekenaarbusse
+             + 6.1 Parallel
+             + 6.2 Serie
+             + 6.3 Fabriekseie busse
+        * 7 Voorbeelde van interne/eksterne rekenaarbusse
+        * 8 Eksterne skakels
+
+[wysig] Geskiedenis
+
+[wysig] Eerste generasie
+
+   Vroeë rekenaarbusse was bondels draad wat geheue en randtoestelle
+   verbind het. Hulle is vernoem na die elektriese busse of
+   verbindingstawe. Daar is bykans altyd voorsiening gemaak vir 'n
+   geheuebus en ander randtoestelle en toegang tot hulle is deur
+   afsonderlike instruksies verkry met geheel en al verskillende
+   tydreëlings en protokolle.
+
+   Een van die eerste probleme wat ontstaan het was die gebruik van
+   onderbrekingsversoeke (interrupts). Vroeë rekenaars het Invoer/uitvoer
+   (I/O) verwerk deur in 'n lus te wag tot 'n randtoestel beskikbaar
+   geword het. Dit het 'n groot tydvermorsing teweeg gebring vir programme
+   wat ander take kon uitvoer. As die programme verder ook gepoog het om
+   daardie take te verrig het dit soms te lank geneem vir die programme om
+   weer te kyk vir die beskikbaarheid van randtoestelle met die gevolglike
+   dataverlies. Ingenieurs het daarom die randtoestelle opgestel om die
+   Sentrale verwerkingseenheid (SVE) te onderbreek. Die onderbrekings moes
+   geprioritiseer word omdat die SVE slegs kode vir een randtoestel op 'n
+   slag kon verwerk en sommige toestelle was meer tyd-afhanklik as ander.
+
+   Later het rekenaars begin om geheue tussen verskeie SVE'e te deel. Op
+   hierdie rekenaars moes toegang tot die bus ook geprioritiseer word.
+
+   Die klassieke eenvoudige manier om onderbrekings of bustoegang te
+   prioriritiseer was deur middel van 'n ketting.
+
+   DEC het weggedoen met die twee busse en te duur vir massaproduksie
+   rekenaars en het die randtoestelle ook in die geheuebus ingesluit sodat
+   dit ook soos geheue-adresse gelyk het. Op daardie tydstip was mense
+   baie skepties oor die ontwerp en het baie mense voorspel dat die
+   argitektuur sou misluk.
+
+   Vroeë mikrorekenaars se busstelsels was eintlik 'n passiewe stroombaan
+   wat aan die penne van die SVE gekoppel was. Geheue en ander toestelle
+   is by die bus gevoeg deur dieselfde adres- en datapenne as die SVE self
+   gebruik het waar dit in parallel gekoppel was.
+
+   In baie mikrobeheerders en ingeboude stelsels bestaan 'n
+   Invoer-/Uitvoerbus nie. Kommunikasie word beheer deur 'n SVE wat data
+   vanaf toestelle lees en skryf asof hulle geheueblokke is, alles onder
+   beheer van 'n sentrale klok wat die spoed van die SVE beheer. Toestelle
+   vra vir diens deur seine op van die ander penne op die SVE te aktiveer,
+   tipies in die vorm van een of ander onderbrekingsversoek.
+
+   'n Skyfaandrywer se beheerder sal tipies 'n sein na die SVE stuur om te
+   laat weet dat nuwe data gereed is om gelees te word, op welke tydstip
+   die SVE die data sal skuif deur die geheue te lees wat ooreenstem met
+   die skyf. Bykans alle vroeë rekenaars is op hierdie wyse gebou, sedert
+   die S-100-bus in die Altair en het voortgeduur tot en met die IBM
+   persoonlike rekenaars in die 1980s.
+
+   Hierdie eenvoudige busstelsel het 'n ernstige nadeel vir rekenaars vir
+   algemene doeleindes. Al die toerusting op die bus moet noodgedwonge
+   teen dieselfde snelheid kommunikeer en het 'n enkele tydreëlaar gehad.
+
+   Om die spoed van die SVE te verhoog is nie eenvoudig nie, omdat die
+   spoed van alle toestelle ook moes toeneem. Dit het dikwels gelei tot
+   situasies waar baie vinnige SVE's stadiger moes loop om met ander
+   toestelle in die rekenaar te kon kommunikeer. Terwyl dit by ingeboude
+   stelsels aanvaarbaar is, kon die probleem nie langer in kommersiële
+   rekenaars aanvaar word nie.
+
+   'n Ander probleem is dat die SVE benodig was om alle verwerkings te
+   doen, dus as dit met ander take besig geraak het, het die werklike
+   deurset van die bus ook dramaties daaronder gely.
+
+   Sulke busstelsel is moeilik om saam te stel wanneer dit uit komponente
+   wat van die rak af beskikbaar is gebou word. Elke gedrukte stroombaan
+   vereis tipies baie brugskakelaars (jumpers) om die geheueadresse,
+   Invoer-/Uitvoeradresse, onderbrekingsprioriteite en -nommers op te
+   stel.
+
+[wysig] Tweede generasie
+
+   "Tweede generasie" busstelsels soos NuBus het verskeie van hierdie
+   probleme aangespreek. Hulle het tipies die rekenaar in twee "wêrelde"
+   geskei, met die SVE en geheue aan die een kant en die verskeidenheid
+   toestelle aan die ander kant en 'n busbeheerder tussenin. Dit het die
+   SVE toegelaat om vinniger te hardloop sonder om die bus te beïnvloed.
+   Dit het ook baie van die las vir die skuif van data vanaf die SVE na
+   die kaarte en beheerder geskuif, sodat die toestelle met mekaar kon
+   kommunikeer sonder ingryping deur die SVE. Dit het ook die
+   werkverrigting verhoog maar het egter meer ingewikkelde kaarte vereis.
+   Hierdie busse het ook dikwels spoedkwessies aangespreek deur eenvoudig
+   groter te wees in soverre dit die datapad aangaan deur te beweeg vanaf
+   die 8-bis parallel busse van die eerste generasie tot 16- of 32-bis in
+   die tweede en ook deur sagteware opstellings te verskaf (nou
+   gestandardiseer met Plug-n-play) om die brugskakelaars te vervang.
+
+   Hierde nuwer stelsels het egter een ding met hul voorsate gehad, in die
+   sin dat elke toestel op die bus teen dieselfde spoed moes kommunikeer.
+   Terwyl die SVE nou geïsoleer is en sonder probleme kon versnel het, het
+   SVE's en geheue se spoed baie groter geword as die busse waarmee hulle
+   moes kommunikeer. Die gevolg was dat die bussnelhede nou baie stadiger
+   was as wat moderne stelsels benodig het en het die masjiene gebrekkige
+   toegang tot data gehad. 'n Algemene voorbeeld van die probleem was dat
+   videokaarte spoedig so vinnig was dat selfs die vinnigste busstelsels
+   soos PCI nie kon byhou nie met die gevolg dat rekenaars van AGP-poorte
+   voorsien het bloot om die videokaart aan te dryf. Teen 2004 is die AGP
+   weereens oorweldig deur die hoë spoed videokaarte met die gevolg dat
+   dit tans met die PCI Express-poorte vervang word.
+
+   'n Toenemende aantal eksterne toestelle het verder ook begin om hulle
+   eie busstelsels te gebruik. Wanneer skyfaandrywers eerstens
+   bekendgestel is, kon hulle by 'n masjien bygevoeg word deur 'n kaart in
+   die bus in te prop en is ook die rede waarom rekenaars so baie gleuwe
+   op die bus voorsien. Tydens die 1980s en 1990s is nuwe stelsels soos
+   SCSI en IDE bekendgestel om in hierdie behoefte te voorsien, met die
+   gevolg dat die meeste gleuwe in moderne stelsels leeg gelaat word.
+   Vandag is daar tipies soveel as vyf verskillende busse in 'n tipiese
+   rekenaar wat verskeie toestelle bedien.
+
+   'n Nuttige onderskeid het ook gewild geword naamlik die begrip van 'n
+   plaaslike bus (local bus) teenoor 'n eksterne bus. Die eersgenoemde
+   verwys na busstelsels wat ontwerp is om saam met interne toestelle
+   gebruik te word soos grafiese kaarte en die laasgenoemde na busse wat
+   ontwerp is vir die koppeling van eksterne toestelle soos
+   beeldskandeerders.
+
+[wysig] Derde generasie
+
+   "Derde generasie" busse word nou aan die mark bekendgestel, insluitend
+   HyperTransport en InfiniBand. Hulle sluit tipies eienskappe in wat
+   hulle in staat stel om teen die baie hoë snelhede te hardloop wat
+   benodig word om geheue- en videokaarte te ondersteun terwyl dit ook
+   laer snelhede ondersteun vir stadiger toestelle soos skyfaandrywers.
+   Hulle neig ook om hoogs plooibaar te wees ten opsigte van die fisiese
+   verbindings wat hulle in staat stel om as interne busse te funksioneer
+   maar ook verskillende masjiene aanmekaar te koppel. Dit kan
+   ingewikkelde probleme tot gevolg hê wanneer daar gepoog word om aan
+   verskillende versoeke te voldoen, dus word baie van die werk op hierdie
+   stelsels op sagteware-ontwerp gefokus eerder as op die
+   hardeware-ontwerp self. Oor die algemeen lyk die derde generasie busse
+   meer soos 'n netwerk eerder as na die oorspronklike buskonsep, met meer
+   hulpbronne vir protokolverwerking as vroeëre stelsels maar met die
+   voordeel dat veelvuldige toestelle van die bus gebruik kan maak.
+
+[wysig] Beskrywing
+
+   Eens op 'n tyd het die term "bus" verwys na 'n elektries parallelle
+   stelsel, met elektriese geleiers soortgelyk of identies aan die penne
+   op die SVE. Dit is nie meer die geval nie en word die grens tussen
+   busse en netwerke al hoe vaer.
+
+   Busse kan parallelbusse wees wat datawoorde oor verskeie drade versprei
+   dra of seriebusse wat data in bis-serie vorm dra. Die byvoeg van ekstra
+   krag en beheerverbindings, differensiële aandrywers en dataverbindings
+   in elke rigting beteken dat die meeste seriebusse meer geleiers het as
+   die minimum van twee wat in die I²C seriebus gebruik word. Soos
+   datatempos verhoog begin die probleme as gevolg van tydsverskuiwing en
+   oorspraak in parallelle busse al hoe moeiliker om te oorkom. Een
+   gedeeltelike oplossing tot hierdie probleem is die dubbeldatatempobus.
+   Dikwels kan 'n seriebus teen hoër oorhoofse datatempos bedryf as
+   parallelle busse, ten spyte van die feit dat hulle oor minder
+   elektriese verbindings beskik, omdat 'n seriebus uit die aard van die
+   ontwerp geen tydsverskuiwing of oorspraak het nie. USB, FireWire en
+   Serial ATA is voorbeelde hiervan. Veelvuldige verbindings werk nie goed
+   in vinnige seriebusse nie, dus gebruik seriebusse tipies
+   kettingverbindings (daisy chain) of spilontwerpe (hub).
+
+   Die meeste rekenaars het beide interne en eksterne busse. 'n Interne
+   bus verbind a die interne komponente van 'n rekenaar aan die moederbord
+   (dus ook die SVE en interne geheue). Hierdie soort busse word ook na
+   verwys as 'n plaaslike bus omdat hulle bedoel is om plaaslike toestelle
+   te verbind en nie daardie in ander masjiene of ekstern tot die rekenaar
+   nie. 'n Eksterne bus verbind randtoestelle aan die moederbord.
+
+   Netwerkverbindings soos Ethernet word nie normaalweg as busse beskou
+   nie al is die verskil grootliks eerder teoreties as prakties. Die koms
+   van tegnologieë soos InfiniBand en HyperTransport vervaag die grense
+   tussen die twee begrippe nog verder. Selfs die onderskeid tussen intern
+   en eksterne busse begin al vervaag, I²C kan byvoorbeeld as 'n interne
+   of 'n eksterne bus gebruik word en InfiniBand is bedoel om interne
+   busse soos PCI sowel as eksterne busse soos Fibre Channel te vervang.
+
+   Moderne neigings in persoonlike rekenaars, veral skootrekenaars, beweeg
+   meer en meer na die wegdoen van alle eksterne verbindings buiten vir
+   die modemverbinder, Kategorie 5-kabel, USB, oorfoonverbinder, en die
+   opsionele VGA of Firewire verbindings.
+
+[wysig] Bustopologie
+
+   In 'n netwerk beheer die meesterskeduleerder die dataverkeer. As data
+   oorgedra moet word stuur die rekenaar wat dit aanvra 'n boodskap na die
+   skeduleerder wat die versoek in 'n tou plaas. Hierdie boodskap bevat 'n
+   identifikasiekode wat na al die nodes in die netwerk uitgesaai word.
+   Die skeduleerder bereken die prioriteite en stel die ontvanger in
+   kennis sodra die bus beskikbaar word.
+
+   Die geïdentifiseerde node neem die boodskap en vour die data-oordrag
+   tussen die twee rekenaars uit. Met die voltooiïing van die oordrag is
+   die bus weer beskikbaar vir die volgende versoek in die skeduleerder se
+   tou.
+
+   Voordeel van die bus: Daar kan direk toegang tot enige rekenaar verkry
+   word en boodskappe kan in 'n relatief eenvoudige en vinnige manier
+   gestuur word.
+
+   Nadeel van die bus: Benodig 'n skeduleerder om frekwensies toe te ken
+   en om prioriteite te bereken om verkeer te beheer.
+
+[wysig] Bus versus poort
+
+   'n Bus is een van die tegnieke waarmee eksterne apparatuur met 'n
+   rekenaar verbind kan word. Die andere tegniek is 'n rekenaarpoort. Die
+   verskil tussen 'n bus is dat 'n bus gemaak is om 'n willekeurig aantal
+   apparate aan te sluit en dus voorsieninge aanwesig is om die bestemming
+   van verkeer oor die bus te bepaal, terwyl 'n poort 'n verbinding is
+   waar slegs één enkel apparaat op aangesluit word en hierdie
+   voorsieninge hierom nie nodig is nie. Poorte is normaliter eenvoudiger
+   van opbou.
+
+   AGP en PCI Express is poorte wat in die daaglikse gebruik foutief busse
+   genoem word, maar eintlik poorte is.
+
+[wysig] Voorbeelde van interne rekenaarbusse
+
+[wysig] Parallel
+
+     * CAMAC vir instrumentstelsels
+     * Extended ISA of EISA
+     * Industry Standard Architecture or ISA
+     * Low Pin Count of LPC
+     * MicroChannel of MCA
+     * MBus
+     * Multibus vir Nywerheidstelsels
+     * NuBus of IEEE 1196
+     * Peripheral Component Interconnect of PCI
+     * S-100 bus of IEEE 696, gebruik in die Altair en soortgelyke
+       mikrorekenaars
+     * SBus of IEEE 1496
+     * VESA Local Bus of VLB of VL-bus (vir Videokaarte)
+     * VMEbus, die VERSAmodule Eurocard bus
+     * STD Bus vir 8- en 16-bis mikrorekenaarstelsels
+
+[wysig] Serie
+
+     * 1-Wire
+     * HyperTransport
+     * I²C
+     * PCI Express or PCIe
+     * Serial Peripheral Interface Bus of SPI bus
+
+[wysig] Voorbeelde van eksterne rekenaarbusse
+
+[wysig] Parallel
+
+     * Advanced Technology Attachment of ATA (ook PATA, IDE, EIDE, ATAPI,
+       etc.) skyf/band randtoestel verbindings
+     * HIPPI High Performance Parallel Interface
+     * IEEE-488 (ook GPIB, Algemene doel , en HPIB, Hewlett-Packard
+       Instrumentasie Bus)
+     * PCMCIA, nou bekend as PC card, word baie in skootrekenaars gebruik,
+       maar begin verdwyn met USB.
+     * SCSI Small Computer System Interface, skyf/band bus.
+
+[wysig] Serie
+
+     * ACCESS.bus (A.b)
+     * Apple Desktop Bus (ADB)
+     * Controller Area Network (CAN)
+     * Serial Peripheral Interface (SPI)
+     * I²C
+     * Fibre Channel
+     * IEEE 1394 (FireWire)
+     * RS-485
+     * Serial Attached SCSI (SAS)
+     * Serial Storage Architecture (SSA)
+     * Universele Serie Bus (USB)
+
+[wysig] Fabriekseie busse
+
+     * Sagteskyfaandrywerverbinder
+
+[wysig] Voorbeelde van interne/eksterne rekenaarbusse
+
+     * Futurebus
+     * InfiniBand
+     * QuickRing
+     * SCI
+
+[wysig] Eksterne skakels
+
+     * Chip Weems se Klasnotas oor Busse
+     * http://dmoz.org/Computers/Hardware/Buses/
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,429 @@
+Supernova
+
+
+   Oorblyfsel van Kepler se Supernova, SN 1604.
+   Oorblyfsel van Kepler se Supernova, SN 1604.
+
+   Supernovas verwys na verskeie tipes sterontploffings wat geweldige
+   helder plasma produseer, waarna dit dan oor 'n tydperk van weke of
+   maande tot onsigbaarheid taan.
+
+   Daar is twee moontlike roetes na die eindpunt: 'n massiewe ster kan
+   ophou om kernsmeltingsenergie in sy kern te skep en dan ineenstort
+   onder sy eie swaartekrag, of 'n witdwergster kan materiaal van 'n
+   metgeselster versamel tot dit die Chandrasekharlimiet bereik en 'n
+   kernontploffing ondergaan. In beide gevalle spu die
+   supernova-ontploffing, wat veroorsaak word, baie van of al die ster se
+   stermateriaal met geweldige krag uit.
+
+   Die ontploffing veroorsaak 'n skokgolf in die omliggende ruimte wat lei
+   tot die vorm van 'n supernova-oorblyfsel. 'n Beroemde voorbeeld hiervan
+   is die oorblyfsel van SN 1604 regs vertoon. Supernova ontploffings is
+   die hoofbron van al die elemente swaarder as suurstof, en is die
+   enigste bron van baie belangrike elemente. Al die kalsium in ons bene
+   en al die yster in ons hemoglobien is byvoorbeeld biljoene jare gelede
+   deur 'n supernova-ontploffing gemaak. Supernovas spuit hierdie swaar
+   elemente in die interstermedium in en verryk sodoende die molekulêre
+   wolke wat die plekke is waar sterformasie plaasvind. Hierdie
+   verrykingsproses het die samestelling van die sonnestelsel 4,5 miljard
+   jaar gelede bepaal, en daarmee saam die chemiese boustene vir lewe op
+   aarde.
+
+   Supernovas verwek enorme temperature, en onder die regte omstandighede
+   kan die kernreaksies wat tydens die hoogtepunt van die supernova
+   plaasvind van die swaarste elemente soos onder andere kalifornium laat
+   ontstaan.
+
+   "Nova" (meervoud novas) is Latyns vir "nuut", wat verwys na wat soos 'n
+   baie helder nuwe ster in die hemel lyk; die voorvoegsel "super"
+   onderskei dit van 'n gewone nova, 'n woord wat ook verwys na 'n ster
+   met vermeerderde helderheid. Dit is egter misleidend om 'n supernova te
+   sien as 'n nuwe ster aangesien dit eintlik die dood van 'n ster
+   verteenwoordig (of ten minste die radikale transformasie daarvan in
+   iets anders in).
+
+   Inhoud
+
+        * 1 Klassifikasie
+             + 1.1 Opsomming
+             + 1.2 Tipe Ia
+             + 1.3 Tipe Ib en Ic
+             + 1.4 Tipe II
+        * 2 Benaming van supernovas
+        * 3 Noemenswaardige supernovas
+        * 4 Die rol van supernovas in sterevolusie
+        * 5 Eksterne skakels
+
+[wysig] Klassifikasie
+
+   In 'n poging om supernovaontploffings beter te verstaan het
+   sterrekundiges hulle geklassifisseer volgens die lyne van verskillende
+   chemiese elemente wat in hulle spektra voorkom. Kyk na "Optical Spectra
+   of Supernovas" deur Filippenko (Annual Review of Astronomy and
+   Astrophysics, Volume 35, 1997, pp. 309-355) vir 'n goeie bespreking van
+   die klasse.
+
+   Die eerste onderskeiding is tussen die teenwoordigheid of afwesigheid
+   van 'n lyn vir waterstof. As 'n supernova se spektrum 'n waterstoflyn
+   bevat word dit as 'n Tipe II, geklassifiseer, andersins as 'n Tipe I.
+
+   Onder hierdie groepe is daar afdelings gegrond op die teenwoordigheid
+   al dan nie, van ander lyne en die ligkurwevorm daarvan.
+
+[wysig] Opsomming
+
+   Die Supernova 1994D in die sterrestelsel NGC4526
+   Die Supernova 1994D in die sterrestelsel NGC4526
+
+   Tipe I
+          Geen waterstof Balmerlyne
+
+        Tipe Ia
+                Si II lyn by 615,0 nm
+
+        Tipe Ib
+                He I lyn by 587,6 nm
+
+        Tipe Ic
+                Swak of geen Helium lyne
+
+   Tipe II
+          Het waterstof Balmer lyne
+
+        Tipe II-P
+                Plato
+
+        Tipe II-L
+                Lineêr
+
+[wysig] Tipe Ia
+
+   Tipe Ia supernovas bevat nie helium nie en vertoon 'n
+   silikon-absorpsielyn in hulle spektra naby pieklig. Die mees algemeen
+   aanvaarde teorie oor dié tipe supernovas is dat hulle ontstaan het
+   weens die assimilasie deur 'n witdwerg van die materiaal van 'n
+   metgeselster, gewoonlik 'n rooireus, totdat dit die Chandrasekharlimiet
+   bereik. Die hoofkomponente van die witdwergster is gewoonlik suurstof
+   en stikstof. Die vermeerdering in druk laat die temperature naby die
+   kern styg en 'n tydperk van konveksie, wat ongeveer 100 jaar aanhou,
+   begin. Op 'n stadium tydens die prutfase, word 'n deflagrasievlamfront,
+   aangedryf deur kernsmelting gebore. Die besonderhede van die ontsteking
+   -- die ligging en aantal punte waar die vlam begin -- is egter steeds
+   onbekend. Die ontvlamming versnel dramaties, as gevolg van
+   Rayleigh-Taylor onstabiliteit en interaksies met turbulensie. Daar word
+   steeds heelwat debat gevoer oor of die vlam oorgaan van 'n subsoniese
+   ontvlamming na 'n supersoniese ontsteking. Die energie wat deur
+   kernbranding (~10^44 joules) vrygestel word, veroorsaak dat die ster
+   gewelddadiglik ontplof en 'n skokgolf vrystel waarin materie tipies
+   teen snelhede in die omgewing van 10 000 km/s uitgeskiet word. Die
+   energie wat in die ontploffing vrygestel word, veroorsaak ook 'n
+   ekstreme vermeerdering in ligsterkte.
+
+   Die teorie oor hierdie tipe supernovas is soortgelyk aan dié oor novas,
+   waar 'n witdwerg materie stadiger assimileer, en nie die
+   Chandrasekharlimiet bereik nie. In die geval van 'n nova veroorsaak die
+   invallende materie 'n kernsmeltingsreaksie van materiaal naby die
+   oppervlak daarvan, maar dit lei nie daartoe dat die ster ineenstort
+   nie.
+
+   Tipe Ia supernovas het 'n kenmerkende ligkurwe ('n grafiek van
+   helderheid as 'n funksie van tyd ná die ontploffing). Naby die tydstip
+   van maksimum ligsterkte bevat die spektraallyne van tussenliggende
+   massa elemente van suurstof tot kalsium; hierdie is die hoofbestanddele
+   van die buitenste lae van die ster. Maande ná die ontploffing , wanneer
+   die buitenste lae uitgebrei het tot by die deursigtigheidspunt, word
+   die spektrum oorheers deur lig uitgestraal naby die kern van die ster:
+   swaar elemente gesintetiseer tydens die ontploffing, veral die
+   yster-groep elemente. Die radioaktiewe afbreek van Nikkel-56 deur
+   Kobalt-56 tot Yster-56 produseer hoë-energie fotone wat die
+   energie-uitset van uitgeskiete partikels teen middel en latere tye
+   oorheers.
+
+   Anders as ander tipes supernovas, word Tipe Ia supernovas in die
+   algemeen in alle soorte sterrestelsels, insluitend elliptiese
+   sterrestelsels aangetref. Hulle vertoon geen voorkeur vir gebiede van
+   huidige stervorming nie.
+
+   Die ooreenkoms in die vorms van die ligsterkteprofiel van alle bekende
+   Tipe Ia supernovas het daartoe gelei dat 'n standaardkers in
+   buite-sterrestelselsterrekunde gebruik word. Die oorsaak van die
+   ooreenkoms in die ligsterktekromme is steeds 'n ope vraag. In 1998 het
+   waarnemings van Tipe Ia supernovas gedui op die onverwagte resultaat
+   dat die heelal 'n versnellende uitbreiding skyn te ondergaan.
+
+   'n Type Ia supernova stel die grootste hoeveelhede energie vry van alle
+   bekende klassifikasies van supernovas. Die verste enkele voorwerp wat
+   ooit in die heelal waargeneem is -- sterrestelsels of bolhope tel nie
+   -- was 'n Tipe Ia supernova, wat biljoene ligjare (tien yottameter) ver
+   van ons aarde af geleë is.
+
+[wysig] Tipe Ib en Ic
+
+   Die vroeë spektra van Tipes Ib en Ic vertoon nie waterstoflyne nie en
+   ook nie die eienskap van sterk silikonabsorpsie naby 615 nanometer nie.
+   Hierdie verskynsels , soos Tipe II supernovas, is waarskynlik massiewe
+   sterre waarvan die brandstof in hulle kerns opraak; die voorlopers van
+   Tipes Ib en Ic het meeste van hulle omhulsels verloor as gevolg van
+   sterk sterwinde of interaksie met 'n metgesel. Tipe Ib supernovas word
+   gereken as die resultaat van die ineenstorting van 'n Wolf-Rayetster.
+   Daar is aanduidings dat Tipe Ic supernovas die bron van
+   gammastraaluitbarstings kan wees. Daar word egter ook geglo dat dat
+   enige supernova die bron van 'n gammastraaluitbarsting kan wees
+   afhangend van die vorm van die ontploffing.
+
+[wysig] Tipe II
+
+   Sterre baie meer massief as ons son ontwikkel op baie meer komplekse
+   maniere. In die kern van ons son kernsmelt 589 miljoen ton waterstof
+   elke sekonde in 584 miljoen ton helium, die ekstra 4,3 miljoen ton
+   massa word in suiwer energie omskep wat dan na buite uitgestraal word.
+   Die helium wat in die kern vervaardig word, versamel daar aangesien
+   temperature in die kern nog nie hoog genoeg is om dit te laat kernsmelt
+   nie. Uiteindelik wanneer die waterstof in die kern opgebruik is, omdat
+   dit in helium verander het of as gevolg van geleidelike verdunning deur
+   die aanhoudende opbou van helium "ah", begin kernsmelting stadiger word
+   en veroorsaak swaartekrag dat die kern begin saampers. Hierdie
+   saampersing laat die temperature hoog genoeg opskiet om 'n korter fase
+   van heliumkernsmelting te inisieer, wat minder as 10% van die ster se
+   algehele leeftyd beslaan. In sterre met minder as ongeveer 10
+   sonmassas, kernsmelt die koolstof wat vervaardig word nie saam nie en
+   die ster koel geleidelik af tot 'n witdwerg. Witdwerg sterre kan Tipe I
+   supernovas word soos hierbo beskryf.
+
+   'n Baie groter ster het egter genoegsame swaartekrag om temperatuur en
+   druk te skep wat veroorsaak dat die koolstof in die kern begin
+   kernsmelt wanneer die ster saamtrek. Die kern van hierdie massiewe
+   sterre raak gelaagd soos 'n ui met opeenvolgend swaarder atoomkern wat
+   in die middel opbou en met 'n buitenste laag van waterstofgas, wat
+   neerdaal op 'n laag waterstof wat in helium in kernsmelt, en helium wat
+   weer verder daal in 'n laag waar helium helium wat in kooltof in
+   kernsmelt, en koolstof wat dan weer sink en in selfs swaarder elemente
+   kernsmelt. Hierdie sterre gaan deur opeenvolgende stadiums waar die
+   kern krimp, opgehoopte kerne wat voorheen onkernsmeltbaar begin
+   kernsmelt, en die kern terugkeer na ewewig met swaartekrag. Dit
+   veroorsaak dat hulle onreëlmatige veranderlikes is—soos elke nuwe burst
+   of kernsmelting elemente uit die kernsmelting kern stoot in na wat die
+   "steromhulsel" genoem word, en die ster verdof, wat swaartekragmassa
+   terug laat trek in die kernsmeltende kern en die siklus weer aan die
+   gang sit.
+
+   Die beperkende faktor in die proses is die hoeveelheid energie energy
+   wat deur kernsmelting vrygestel word, wat afhang van die
+   bindingsenergie van hierdie atomoomkerne. Elke addisionele stap
+   vervaardig opeenvolgend swaarder kerne, wat ook al hoe stywer met die
+   sterkkrag gebind word. Dit beteken dat dit minder energie per
+   kernsmeltingreaksie vrystel as wanneer ligter elemente kernsmelt.
+
+   Die styfsgebinde van alle kerne is yster. Dit verteenwoordig die
+   "bottom of the hill" vir ligter elemente om te kernsmelt, en vir
+   swaarder elemente om te splyt. Ligter elemente stel energie vry wanneer
+   hulle kernsmelt en swaarder elemente wanneer hulle splyt. Soos yster
+   "as" in die kern van die ster begin versamel, trek swaartekrag meer en
+   meer massa in die kernsmelting gebied, wat weer deur al die
+   kernsmeltings stappe gaan: waterstof na helium volgens die
+   protonketting, helium na koolstof volgens die drievoud-alpha-proses,
+   koolstof en helium kombineer om suurstof te vrom, suurstof kernsmelt om
+   neon te vorm, neon kernsmelt om magnesium te vrom en, magnesium om
+   silikon te vrom en silikon wat yster vorm.
+
+   Die yster (Fe) kern verkeer onder geweldige swaartekragdruk, en
+   aangesien daar geen kernsmelting en dit nie deur gewone gas druk
+   ondersteun kan word nie, word dit deur elektron ontaardingsdruk
+   ondersteun, elektrone wat teen ander elektrone druk. As dit opbou tot
+   by die Chandrasekhar limiet waar elektron ontaardingsdruk dit nie kan
+   instandhou nie, begin die yster kern ineen stort. Die ineenstortende
+   kern produseer hoë energie gammastrale, wat sommige yster kerne na 13
+   He plus 4 neutrone laat afbreek, 'n proses wat bekend staan as
+   foto-ontbinding. Geen kern reaksie van 'n yster kern kan egter energie
+   skep nie; dit kan dit slegs absorbeer. Reaksies in die kern wat vir
+   miljoene jare energie na buite uitgestraal het en die ster se balans
+   met swaartekrag in stand gehou het, begin nou skielik energie na binne
+   suig en span saam met swaartekrag om te veroorsaak dat die kern, 'n
+   massiewe struktuur so groot soos ons son, binne 'n breukdeel van 'n
+   sekonde ineenstort.
+
+   Soos die digtheid in die ineenstortende kern hemelhoog opskiet word
+   elektrone en protone saam gedruk totdat hulle elektriese aantrekking
+   hulle inherente kern afstoting van mekaar te bowe kom. Hierdie
+   kombinasie, 'n proses wat as elektronvang bekend staan, skep 'n neutron
+   en stel 'n neutrino vry. Die neutrino's ontsnap uit die kern, neem
+   energie weg en dra by tot verdere versnelling van die ineenstorting,
+   Wat in millisekondes vooruitgang maak soos die kern van die buitenste
+   lae van die ster los raak en die digtheid van kernmateriaal bereik,
+   waar die neutrone teen mekaar druk en die hele kern die digtheid van 'n
+   atoomkern bereik. Dit is die kernineenstorting. Op hierdie tydstip is
+   neutron ontaardingsdruk genoeg om swaartekrag te balanseer; maar
+   aangesien die kern die ewewigspunt verby geskiet het en effens bons,
+   word 'n skokgolf geskep wat teen die buitenste lae van die ster vas
+   bots. 'n "Proto-neutron ster" begin by die kern vorm wat as dit groot
+   genoeg is verder sal ineenstort om 'n swartgat te vorm.
+
+   Dit is bekend dat die kernineenstortings fase so dig en energiek is dat
+   slegs neutrino's uit die ineenstortende ster kan ontsnap. Meeste van
+   die gravitasionele potensiële energie wat uit die ineenstrorting
+   onstaan word omskep in 'n 10 sekonde lange neutrino vlaag wat omtrent
+   10^46 joule (100 foes) vrystel. Van die energie word onegeveer 10^44 J
+   (1 foe) deur die ster herabsorbeer wat 'n ontploffing veroorsaak. Die
+   energie per partikel in 'n supernova is tipies 1 tot 150 picojoules
+   (tiene tot honderde MeV). Die neutrino's wat duer 'n supernova
+   geproduseer word is al waargeneem in die geval van Supernova 1987A wat
+   sterrekundiges tot die gevolgtrekking laat lei dat die
+   kernineenstorting teorie basies korrek is. Verskeie tans operasionele
+   neutrino detektors het 'nSupernovavroeëwaarskuwingstelsel gevestig, wat
+   sal poog om die sterrekundige gemeenskap in kennis te stel van 'n
+   supernova gebeurtenis in ons sterrestelsel.
+   Oorblyfsel van die supernova Cassiopeia A van 1667 of 1680
+   Oorblyfsel van die supernova Cassiopeia A van 1667 of 1680
+
+   Hierdie energie is klein genoeg dat die standaardmodel van deeltjie
+   fisika waarskynlik korrek is, maar die hoë digthede mag regstellings in
+   die the standaard model aanbring. Aardgebaseerde versnellers kan
+   partikel interaksies produseer met baie hoër energie as dié wat in
+   supernovas aangetref word, maar eksperimente betrek individuele
+   partikels wat met individuele interaksie het, en dit is waarskynlik dat
+   die hoë digthede in supernovas unieke nuwe gevolge kan hê. Die
+   interaksies tussen neutrino's en die ander partikels in die supernova
+   vind plaas met die swakkernkrag wat goed verstaan word. Die interaksies
+   tussen die protone en neutrone behels die strekkernkrag wat minder goed
+   verstaan word.
+
+   Die hoof onopgeloste probleem met tipe II supernovas is dat daar nie
+   verstaan word hoe die uitbarsting van neutrino's hulle energie oordra
+   aan die res van die ster wat die skokgolf produseer wat die ster laat
+   ontplof nie. Volgens bostaande bespreking, hoef slegs een persent van
+   die energie oorgedra te word om 'n ontploffing te veroorsaak, maar om
+   die een persent oordrag te verkry is baie moeilik. In die 1990's het
+   een model hiervoor op koneksieomkering berus, wat voorstel dat
+   konveksie, van neutrino' van onder af of invallende materie van bo,
+   voltooi die proses van vernietiging van die voorloper ster. Swaarder
+   elemente as yster word gevorm tydens die ontploffing deur neutronvang,
+   en uit die druk van die neutrino's wat in die grensvlak van die
+   "neutrinosfeer" druk, saai die omringende ruimte met 'n wolk van gas en
+   stof wat ryker is aan swaar elemente as die een ster waaruit dit
+   oorspronklik gevorm het.
+
+   Neutrino fisika, wat gemoddeleer word deur die standaard model, is
+   noodsaaklik om hierdie proses te verstaan. Die ander noodsaaklike
+   ondersoekgebied is hidrodinamika van die plasma waaruit die sterwende
+   ster bestaan, hoe dit optree tydens die kernineenstorting bepaal
+   wanneer en hoe die "skokgolf" vorm en wanneer en hoe dit "gaan staan"
+   en en weer energie verkry. Rekenaar modelle behaal baie sukses met die
+   berekening van die optrede van tipe II supernovas nadat die skok geskep
+   is. Deur die eerste sekonde van die ontploffing te ignoreer, en aan te
+   neem dat 'n ontploffing begin het, kon astrofisiesie detail
+   voorspellings oor die elemente wat deur supernovas geproduseer word en
+   die verwagte ligkurwe van die supernovas.
+
+   Die oorblywende kern van die ster kan 'n neutron ster of 'n swartgat
+   word, afhangende van die massa daarvan, maar omdat die prosesse van
+   supernova ineenstorting swak verstaan word , is dit nie bekend wat die
+   afsny massa is nie.
+
+   Tipe II supernovas kan verder geklassifiseer word volgens die vorm van
+   hulle ligkurwes in Tipe II-P en Type II-L. Tipe II-P bereik 'n "plato"
+   in hulle ligkurwe terwyl II-Ls 'n "lineêre" afname in hulle ligkurwe
+   het. ("lineêr" in grootte versus tyd, of eksponensieel in ligsterkte
+   versus time). Daar word geglo dat dit die gevolg van verskille in die
+   omhulsel van sterre is. II-Ps het 'n groot waterstofomhulsel wat
+   energie vrygestel in die vorm van gammastrale vang en dit stadig
+   vrystel, terwyl II-L'le baie kleiner omhulsels het wat minder
+   gammastraalenergie in sigbare lig omskep.
+
+   'n Mens kan Tipe II supernovas ook verdeel volgens hulle spektra.
+   Terwyl meeste Tipe II supernovas baie breë emissie lyne vertoon wat
+   uiterste snelhede van baie duisende km/s aandui, het sommige betreklik
+   nou kenmerke wat geproduseer kan word deur die interaksie tussen die
+   deeltjies wat uitgewerp en omliggende ster materiaal; hierdie word Type
+   Iin genoem, waar "n" vir "narrow" (nou) staan.
+
+   'n Paar supernovas, soos SN 1987K en 1993J, lyk of dit van tipe
+   verwissel: hulle vertoon waterstof lyne op vroeë stadiums, maar oor 'n
+   tydperk van weke tot maande oorheers helium lyne heeltemal. Die term
+   "Tipe IIb" word gebruik om die kombinasie van kenmerke wat normaalweg
+   met tipe Tipes II en Ib geassosieer word te beskryf. Hierdie is
+   waarskynlik massiewe sterre wat meeste, maar nie al, hulle
+   waterstofomhulsels verloor het. Soos die uigworpe materiaal uitsit,
+   word die waterstoflaag vinnig opties dun en word die dieper lae onthul.
+
+   Bespiegelinge word gemaak dat party van die besonder groot sterre
+   eerder 'n "hipernova" kan veroorsaak wanneer hulle doodgaan. In die
+   voorgestelde hipernova meganisme, stort die kern van 'n baie groot ster
+   direk in 'n swart gat ineen en twee vreeslik groot plasmaspuite word
+   uitgestraal van die rotasie pole af teen baie na-aan die spoed van lig.
+   Hierdie spuite straal intense gammastrale uit en is een van baie
+   kandidaat verduidelikings van gammastraaluitbarstings.
+
+[wysig] Benaming van supernovas
+
+   Supernova ontdekkings word vermeld aan die International Astronomical
+   Union's Central Bureau for Astronomical Telegrams, wat 'n omsendbrief
+   met die naam wat daaraan toeken is uitstuur. Die naam word gevorm deur
+   die jaar van ontdekking, en 'n een- of twee letter aanwysing. Die
+   eerste 26 supernovas van die jaar kry 'n letter van A tot Z. Na Z,
+   begin dit met aa, ab, en so aan..
+
+[wysig] Noemenswaardige supernovas
+
+   Beeld:Crab.nebula.arp.750pix.jpg
+   Die Krapnewel is 'n uitsettende gaswolk deur die 1054 supernova geskep.
+
+   Let daarop dat die jare aangegee slegs wys op die jaar waarin die
+   supernovas vir die eerste keer op aarde waargeneem is. Die supernovas
+   self is op afstande van honderde of duisende ligjare van die aarde, wat
+   'n groot verskil maak aan hoe lank dit neem voor die lig van elke
+   supernova hier aankom.
+     * 1006 – SN 1006 – Baie helder supernova; berrigte aangetref in
+       Egipte, Irak, Italië, Switserland, Sjina, Japan, en moontlik
+       Frankryk en Sirië
+     * 1054 – SN 1054 – die vroming van die Krapnewel, aangeteken deur
+       Sjinese sterrekundiges en moontlik deur Inheemse Amerikaners.
+     * 1181 – SN 1181 – Aangeteken deur Sjiinese en Japanse
+       sterrekundiges, supernova in die Cassiopeia waarskuynlik
+       agtergelaat as die oorblyfsel van die vreemde ster 3C 58.
+     * 1572 – SN 1572 – Supernova in Cassiopeia, waargeneem deur Tycho
+       Brahe, wie se boek De Nova Stella oor die onderwerp aan ons die
+       woord "nova" gegee het.
+     * 1604 – SN 1604 – Supernova in Ophiuchus, waargeneem deur Johannes
+       Kepler; jongste supernova wat in die Melkweg waargeneem is.
+     * 1885 – S Andromedae in die Andromeda sterrestelsel, deur Ernst
+       Hartwig ontdek
+     * 1987 – Supernova 1987A in die Groot Magellaanwolk, waargeneem binne
+       ure na die aanvang daarvan, dit was die eerste geleentheid waar
+       moderne teorieë oor supernova vorming getoets kon word teen
+       waarnemings.
+     * – Cassiopeia A – Supernova in Cassiopeia, nie op aarde waargeneem
+       nie maar geskat om ~300 jaar oud te wees. Dit is die helderste
+       oorblyfsel in die radio band.
+
+   Die 1604 supernova is deur Galileo gebruik as getuienis teen die
+   Aristoteliaanse dogma van sy tyd dat die hemel nooit verander nie.
+
+   Supernovas laat gereeld supernova-oorblyfsels agter; die studie van
+   hierdie voorwerpe het gehelp om ons kennis oor supernovas te verbreed.
+
+[wysig] Die rol van supernovas in sterevolusie
+
+   Supernovas neig om die omliggende tussenstermedium met metale (vir
+   sterrekundiges is metale al die elemente na helium). Elke ster
+   generasie het 'n effens ander samestelling wat begin met byna suiwer
+   mengsels van waterstof en helium en ontwikkel tot 'n meer metaalryke
+   samestelling. Die verskillende chemiese vresperioedings het belangrike
+   invloede op die ster se lewe en kan 'n beslissende invloed hê op die
+   waarskynlikheid dat dit planete sal hê wat daarom wentel.
+
+[wysig] Eksterne skakels
+
+     * Supernova produseer kosmiese strale
+     * Lys van onlangse supernovas
+     * The SNEWS project (SuperNova Early Warning System) gebruik neutrino
+       detektors om 'n netwerk te bou wat (hopelik) voorafkennisgewing van
+       'n supernova ontploffing sal gee
+     * 'n review article op SNEWS
+     * 'n Tegniese review artikel oor Tipe Ia supernovas
+     * A Science article on a mechanism of explosion of Type Ia supernovae
+     * Another good review of supernova events.
+     * An article on the connection between Supernovae and neutrinos.
+
+   Vir woordeboekinligting, sien die bladsy supernova op WikiWoordeboek
+   Kategorieë: Sterrekunde • Fisika
+

@@ -1,0 +1,64 @@
+Klankgrens
+
+
+   VSA Vloot F/A-18 teen transsoniese spoed. Die wolk is as gevolg van die
+   Prandtl-Glauert Singulariteit.
+   VSA Vloot F/A-18 teen transsoniese spoed. Die wolk is as gevolg van die
+   Prandtl-Glauert Singulariteit.
+
+   In aërodinamika neem die hoeveelheid energie wat nodig is om 'n groot
+   voorwerp te versnel (in 'n medium soos lug) aansienlik toe hoe nader
+   die voorwerp se spoed kom aan dié van die spoed van klank (in daardie
+   medium). Die spoed van klank is dus 'n skynbare grens of limiet wat
+   moeilik is om verby te kom.
+
+   Die woord klankgrens het tydens die Tweede Wêreldoorlog in algemene
+   gebruik gekom toe 'n groot aantal vliegtuie vir die eerste keer naby
+   die klankgrens begin vlieg het en allerlei probleme begin ondervind
+   het. Die woord word nie meer baie gebruik sedert die 1950's nie,
+   aangesien vliegtuie toe gereeld begin slaag het om vinniger as klank te
+   vlieg. In idiomatiese spraak, "breek" hulle deur die klankgrens.
+
+   Soos 'n vliegtuig al vinniger vlieg en die spoed van klank nader,
+   verander die vloei van lug oor die vliegtuig se oppervlaktes, en
+   verander die lug in 'n saamgeperste vloeistof. Die lugweerstand skiet
+   dan die hoogte in en kan beter beskryf word as golfweerstand.
+
+   Die sterkte van die golfweerstand neem eksponensieël toe vir 'n
+   beperkte strekking van snelhede rondom die klankgrens. Met slegs die
+   beperkte krag van suierbinnebrandenjins beskikbaar, kon die vroëe
+   vliegtuie die hierdie vinnige toename in weerstand oorkom nie, en selfs
+   groot verbeterings in die kraguitset van die enjin kon slegs minimale
+   verbeterings in topspoed. Dit het geblyk dat 'n oneindige hoeveelheid
+   krag sou nodig wees om supersoniese spoed te bereik.
+
+   'n Deurbraak het gekom uit die studie van artillerie. Ernst Mach het in
+   die 19de eeu gevind dat 'n koeël se lugweerstand vermeerder soos wat
+   die spoed vermeerder, tot op 'n punt, en dan weer verminder. Mach het
+   hieruit afgelei en ook eksperimenteel bewys dat 'n skokgolf ontstaan in
+   die medium, in die vorm van 'n horing (konus) met die projektiel by die
+   skerp punt en die horing word groter agter die projektiel. Die
+   verhouding tussen die spoed van die projektiel (=v) en die spoed van
+   klank (=c) word nou die Mach nommer (=v/c) genoem. So beteken "Mach 2"
+   dus twee keer die spoed van klank.
+
+   Die uitdaging was toe om genoeg krag te voorsien om deur die klankgrens
+   te breek. Frank Whittle het die straalenjin ontwerp in Engeland, en
+   Duitse navorsers het gevind dat sweepvlerke minder weerstand bied teen
+   hoë spoed. Teen die 1950's het 'n aantal vliegtuie hierdie twee
+   gekombineer om met relatiewe gemak supersonies te vlieg.
+
+   Chuck Yeager (toe 'n majoor in die VSA lugmag) was die eerste persoon
+   om die klankgrens te breek in gelykvlug op 14 Oktober 1947 in die
+   eksperimentele vuurpyl-aangedrewe Bell X-1 teen Mach 1 op 'n hoogte van
+   2 126 meter.
+
+[wysig] Sien ook
+
+     * Spoed van klank
+     * Soniese Knal
+     * Mach nommer
+     * Bell X-1
+
+   Kategorieë: Aërodinamika • Lugvaart
+

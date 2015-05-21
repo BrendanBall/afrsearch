@@ -1,0 +1,78 @@
+Waarskynlikheidsaksiomas
+
+
+   In waarskynlikheidsleer, word die waarskynlikheid P van 'n gebeurtenis
+   E, aangedui as P(E), so gedefinieer dat P voldoen aan die Kolmogorov
+   aksiomas.
+
+   Inhoud
+
+        * 1 Eerste aksioom
+        * 2 Tweede aksioom
+        * 3 Derde aksioom
+        * 4 Gevolge
+        * 5 Sien ook
+        * 6 Eksterne skakels
+
+[wysig] Eerste aksioom
+
+   Die waarskynlikheid van 'n gebeurtenis is 'n nie-negatiewe reële getal:
+
+          P(E)\geq 0 \qquad \forall E\subseteq \Omega
+
+   waar Ω die steekproefruimte is.
+
+[wysig] Tweede aksioom
+
+   Die waarskynlikheid dat een of ander elementêre gebeurtenis in die hele
+   steekproefruimte sal gebeur, is 1. Meer spesifiek is daar geen
+   elementêre gebeurtenisse wat buite die steekproefruimte lê nie.
+
+          P(\Omega) = 1.\,
+
+   Hierdie word dikwels misgekyk in sommige verkeerde
+   waarskynlikheidsberekenings; as mens nie presies die hele
+   steekproefruimte kan definieer nie, kan die waarskynlikheid van enige
+   subversameling ook nie gedefineer word nie.
+
+[wysig] Derde aksioom
+
+          Enige aftelbare reeks paarsgewyse disjunkte gebeurtenisse
+          E[1],E[2],... bevredig P(E_1 \cup E_2 \cup \cdots) = \sum_i
+          P(E_i).
+
+   Hierdie staan bekend as σ-addisie. Sommige outeurs neem slegs
+   eindige-addisie waarskynlikheidsruimtes in ag, in welke geval mens net
+   'n algebra van versamelings benodig, eerder as 'n σ-algebra.
+
+[wysig] Gevolge
+
+   Van die Kolmogorov-aksiomas kan mens ander nuttige reëls vir die
+   berekening van waarskynlikhede aflei:
+
+          P(A \cup B) = P(A) + P(B) - P(A \cap B)
+
+   Hierdie staan bekend as die addisie-wet van waarskynlikheid, of net die
+   som reël. D.w.s. die waarskynlikheid dat A of B sal plaasvind is die
+   som van die waarskynlikhede dat A sal plaasvind en dat Bsal plaasvind,
+   minus die waarskynlikheid dat beide A en B sal plaasvind. Hierdie kan
+   uitgebrei word na die insluiting-uitsluitings-beginsel.
+
+          P(\Omega\setminus E) = 1 - P(E)
+
+   D.w.s. dat die waarskynlikheid dat 'n gebeurtenis nie sal plaasvind nie
+   is 1 minus die waarskynlikheid dat dit sal plaasvind.
+
+[wysig] Sien ook
+
+     * Cox se stelling
+
+[wysig] Eksterne skakels
+
+     * The Legacy of Andrei Nikolaevich Kolmogorov Curriculum Vitae en
+       Biografie. Kolmogorov School. Ph.D. studente en nasate van A.N.
+       Kolmogorov. A.N. Kolmogorov se werke, boeke, en artikels. Fotos en
+       portrette van A.N. Kolmogorov.
+
+   Kategorieë: Waarskynlikheidsleer • Wiskundige aksiomas
+

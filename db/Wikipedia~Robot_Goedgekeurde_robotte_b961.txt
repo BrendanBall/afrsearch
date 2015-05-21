@@ -1,0 +1,168 @@
+Wikipedia:Robot/Goedgekeurde robotte
+
+
+   < Wikipedia:Robot
+
+   Inhoud
+
+        * 1 User:Escarbot
+        * 2 Request bot flag for Alexbot
+        * 3 Synthebot
+        * 4 Bot flag request for VolkovBot
+        * 5 Aansoek om botstatus vir EivindBot
+
+[wysig] User:Escarbot
+
+   Hello,
+
+   I am a French Wikpedian fr:User:Vargenau (where I am sysop), here
+   User:Vargenau, and I ask for permission to use robot User:Escarbot.
+
+   This robot will only be used to make interwikis (using pywikipedia
+   interwiki.py). I already have robot status on fr: nl: sr: ht: da: pt:
+   is: it: li: sv: sk: na: be: ja: ro: lb: zh-min-nan: de: bg: bs: la: mk:
+   hr: pl: ru: fa: eo: tr: ku:
+
+   You can check the edit already made by my bot in
+   Special:Contributions/Escarbot
+
+   Thank you for you support
+
+   Vargenau 18:43, 26 Augustus 2006 (UTC)
+
+          Can you please mark all changes made by your robot as specific
+          'robot changes'? Fdt 19:47, 26 Augustus 2006 (UTC)
+
+                Request done on
+                meta:Requests_for_bot_status#af:User:Escarbot Vargenau
+                20:14, 30 Augustus 2006 (UTC)
+
+                      The meta-request is not necessary - there is a
+                      burocrat here. Please also indicate the detail of
+                      your robot on the user page of the robot, and please
+                      explain what your robot does that is not yet done by
+                      other interwiki robots. There already so many :-)
+                      --Alias 22:16, 30 Augustus 2006 (UTC)
+
+   Hello,
+
+   Sorry to have made the request on meta, af: was not listed on
+   meta:Requests for bot status as having a bureaucrat. I have made the
+   modification.
+
+   My bot uses standard pywikipedia interwiki.py.
+
+   My bot is used in automatic mode, and then if the automatic mode fails
+   because of inconsistent interwikis, I run the bot manually to correct
+   the wrong links.
+
+   Yes, there are other people/bots doing the same, but not enough. There
+   are so many missing or incorrect links.
+
+   Regards,
+
+   Vargenau 19:27, 5 September 2006 (UTC)
+
+          Kan ons asb bot status vir Gebruiker:Escarbot gee sodat dit nie
+          so baie op die onlangse wysigings met verstek verstellings
+          verskyn nie? Laurens 06:57, 7 Oktober 2006 (UTC)
+
+          Goed, ek gee botstatus, maar wens steeds dat ons 'n manier kan
+          kry om nie elke week vir die volgende ou robotstatus te gee wat
+          'n bietjie wil rondspeel nie. Ons vertrou nou al soveel robotte,
+          en ek twyfel of enigeen hulle werk nagaan - die operateurs
+          ingesluit. --Alias 07:10, 7 Oktober 2006 (UTC)
+
+                Gebruiker:Escarbot lyk darem redelik betroubaar - meestal
+                byvoeg van interwikiskakels wat mens beslis nie met die
+                hand kan doen nie. Laurens 08:03, 7 Oktober 2006 (UTC)
+
+                      Thank you for the bot flag. Vargenau 19:34, 16
+                      Oktober 2006 (UTC)
+
+[wysig] Request bot flag for Alexbot
+
+   I request the bot flag for Alexbot:
+
+          Operator:zh:User:Alexsh
+          Programming Language:Pywikipedia SVN
+          Functions:Interwiki(+autonomous), double redirect fix, featured
+          article interwiki link.
+          Other languages:All statistics in here
+
+   Thank you--Alexsh 14:05, 1 Februarie 2008 (UTC)
+     * Diegene wat belangstel kan die robot se keuringsprosesse by die
+       volgende anderstalige Wikipedias nagaan:
+          + Engelse keuringsproses #1
+          + Engelse keuringsproses #2
+          + Duitse keuringsproses (as "Botalex")
+          + Nederlandse keuringsproses
+
+     * Ondersteun - laurens 18:04, 1 Februarie 2008 (UTC)
+     * Ondersteun - Anrie 08:48, 5 Februarie 2008 (UTC)
+
+   Botstatus verleen. - Anrie 12:09, 18 Februarie 2008 (UTC)
+
+[wysig] Synthebot
+
+   Dear all, this is to request a bot flag for Synthebot. It has already
+   made some test contributions. Its technical information is summarized
+   below.
+     * Operator: Julian Mendez
+     * Automatic or Manually Assisted: It runs mostly automatic in
+       "-autonomous" mode; sometimes it runs manually assisted to solve
+       interwiki conflicts.
+     * Programming Language(s): pywikipedia
+     * Function Summary: interwiki links
+     * Already has a bot flag on: ar, ast, ay, ca, cs, da, de, el, en, eo,
+       es, eu, fi, fr, gl, gn, he, hi, hu, ia, id, io, is, it, ja, ko, la,
+       lmo, nl, no, pl, pt, qu, ro, ru, simple, sk, sl, sv, to, tr, uk,
+       vec, vi, vo, zh.
+
+   Further technical information is available on its main page. Thank you
+   in advance. Regards, --Julian 10:42, 17 Februarie 2008 (UTC)
+
+          Diegene wat belangstel kan hierdie robot se keuringsprosesse
+          nagaan by die Engelse, Nederlandse en Duitse Wikipedias. Anrie
+          15:42, 17 Februarie 2008 (UTC)
+
+     * Ondersteun Gebruiker:Synthebot herstel of voeg slegs
+       interwikiskakels by. Die wat ek na gegaan het was almal akkuraat.
+       laurens 10:47, 17 Februarie 2008 (UTC)
+     * Ondersteun - Anrie 15:43, 17 Februarie 2008 (UTC)
+
+          Het botvlaggie ontvang. - Anrie 12:01, 18 Februarie 2008 (UTC)
+
+[wysig] Bot flag request for VolkovBot
+
+   Hello! I'd like to request a flag for this bot --VolkovBot 09:48, 4
+   Februarie 2008 (UTC)
+     * Botmaster: ru:User:Volkov (talk)
+     * Bot's name: User:VolkovBot (contributions)
+     * List of botflags on other wikipedias: an, ar, be, be-x-old, bg,
+       bpy, bs, ca, cdo, ceb, crh, cs, cv, da, de, en, eo, es, et, eu, fi,
+       fr, frp, fy, gl, gu, ha, he, hr, hsb, hu, hy, ia, id, is, it, ka,
+       kk, kn, ku, ln, lt, lv, mi, ml, ms, na, nl, nn, no, os, pl, pt, ro,
+       ru, simple, sk, sl, sr, tg, th, tr, tt, uk, uz, vec, zea, zh-yue
+     * Purpose: interwiki
+     * Technical details: use pywikipedia framework; registered in 200+
+       wiki versions
+
+     * Diegene wat belangstel kan die robot se keuringsproses by die
+       Engelse Wikipedia en die Nederlandse Wikipedia nagaan. Dit wil lyk
+       of hy nie aansoek gedoen het om 'n vlaggie by die Duitse wikipedia
+       nie, maar dat hulle hom maar een gegee het omdat hy die dophoulyste
+       besoedel het.
+
+     * Ondersteun Anrie 09:21, 7 Februarie 2008 (UTC)
+     * Ondersteun laurens 06:45, 17 Februarie 2008 (UTC)
+
+          Botstatus verleen. Anrie 12:08, 18 Februarie 2008 (UTC)
+
+[wysig] Aansoek om botstatus vir EivindBot
+
+   Ondersteun Hierdie robot het al 'n vlaggie by die Noorse (Bokmål)
+   Wikipedia gekry, en ek dink dit is betroubaar genoeg om ook by ons
+   Wikipedia "amptelike botstatus" aan hom te verleen. --Voyageur (kontak)
+   19:03, 23 April 2008 (UTC)
+

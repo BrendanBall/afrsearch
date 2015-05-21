@@ -1,0 +1,28 @@
+Anemometer
+
+
+   'n Anemometer is 'n instrument wat gebruik word om windsnelheid te
+   meet. Die mees algemene soort bestaan uit drie klein bakkes wat op 'n
+   vertikale draaispil gemonteer word. Hoe groter die windsnelheid, hoe
+   vinniger roteer die bakkies. Ervare waarnemers kan die windsnelheid
+   taamlik akkuraat skat sonder die gebruik van instrumente. Sulke
+   skattings word gewoonlik aangedui as punte op die Beaufortskaal, wat
+   wissel van windsterkte 0 (kalm) tot windsterkte 12 (orkaan).
+
+   Die sterkte van die wind hang af van die derde mag van die windsnelheid
+   (v³), en dit beteken dat geringe fluktuasies in die windsnelheid groot
+   veranderinge ten opsigte van die beskikbare energie sal veroorsaak. 'n
+   Twintigpersent-afname in die windsnelheid sal byvoorbeeld die
+   windenergie met ongeveer die helfte verminder. Ligte winde is nie in
+   staat om die generators te draai nie, terwyl skade aangerig kan word
+   indien die masjien in winde sterker as 30 m·s^-1 gebruik word.
+
+[wysig] Sien ook
+
+     * Wind
+     * Windenergie
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Fisika
+

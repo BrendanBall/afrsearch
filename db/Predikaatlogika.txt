@@ -1,0 +1,36 @@
+Predikaatlogika
+
+
+   Dikwels is dit nodig om die atomiese sinne verder te ontleed in die
+   ekwivalent van naamwoorde en werkwoorde. So kan ons die individu
+   Andries aandui met a, die eienskap of aksie "om te gaan" met G( ), en
+   die sin "Andries gaan" met G(a). Ons noem a 'n objeksimbool of
+   konstante en G( ) 'n eenledige predikaat- of relasiesimbool. Enige
+   letters kan gebruik word. In die predikaatlogika sal ons ons eerste
+   argument hierbo só skryf:
+     * (1) G(a) Ú G(b)
+     * (2) ¬G(a)
+     * (3) G(b)
+
+   Twee- en drieledige predikaatsimbole word gebruik om relasies tussen
+   twee of drie objekte of individue uit te druk: P(a,b) kan beteken "a is
+   groter as b"; en Q(a,b,c) kan beteken "a en b is onderskeidelik die pa
+   en die ma van c".
+
+   Verder het ons nog name, genoem veranderlikes, nodig. Hiervoor gebruik
+   ons gewoonlik x,y,z,... en hulle verwys nie na 'n spesifieke objek nie,
+   maar na enigeen van al die objekte of individue onder bespreking. Die
+   simbole ("x) lees ons as "vir alle x (uit die besprekingsdomein) geld
+   dat ..." en ($x) lees ons as "daar bestaan (in die besprekingsdomein
+   ten minste een) x sodanig dat ...". Ons kan dus "Iemand is ryk" weergee
+   as ($x)R(x), "Almal is siek" as ("x)S(x), en "Elkeen het 'n pa en 'n
+   ma" as ("z)($x)($y)Q(x,y,z).
+
+   Die predikaatlogika 'n baie beperkte uitdrukkingsvermoë in vergelyking
+   met 'n natuurlike taal (soos Afrikaans of Zoeloe of Engels) Dit kan
+   byvoorbeeld nie vrae of bevele of uitroepe weergee nie; kan alle
+   wiskundige argumente (aksiomas, bewyse en stellings) daarin uitgedruk
+   word. Dit speel ook 'n groot rol wanneer mens 'n rekenaar programmeer
+   om te redeneer en 'n programmeertaal soos Prolog is daarop geskoei.
+   Kategorie: Logika
+

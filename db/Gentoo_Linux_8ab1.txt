@@ -1,0 +1,30 @@
+Gentoo Linux
+
+
+   CAPTION: Gentoo
+
+   Webwerf:                       www.gentoo.org
+   Maatskappy/
+   ontwikkelaar:                  Gentoo Foundation
+   Bedryfstelsel-familie:         Linux
+   Bronkodemodel:                 Vrye en Oopbron Sagteware
+   Jongste stabiele uitgawe:      2006.1 / 30 Augustus 2006
+   Paketbestuurder:               Portage
+   Platforms wat ondersteun word: i386, x86-64
+   Kerntipe:                      Monolithic kernel
+   Lisensie:                      GPL
+
+   Gentoo Linux is 'n Linux verspreiding wat ontwerp is om vinnig te wees,
+   maklik om in stand te hou, en om geoptimiseer te wees vir die gebruiker
+   se rekenaar. Meeste, indien nie alle, programme word gebou vanaf die
+   bronkode, in teenstelling tot meeste ander verspreidings wat slegs
+   vooraf-geboude pakette beskikbaar stel. Sekere groter sagteware
+   pakette, soos OpenOffice.org en Mozilla Firefox word egter ook
+   beskikbaar gemaak as vooraf-geboude weergawes vir sekere argitekture,
+   as gevolg van die lang tyd wat dit neem vir hierdie pakette om vertaal
+   te word. Om sagteware te installeer word die Portage sisteem gebruik,
+   wat spesifiek vir Gentoo ontwerp is.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Linux verspreidings • Saadjies
+

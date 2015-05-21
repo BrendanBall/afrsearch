@@ -1,0 +1,109 @@
+Witborskraai
+
+
+                Witborskraai
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Corvidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corvus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. albus
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+                Corvus albus
+   Statius Muller, 1776
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die witborskraai
+   Die verspreiding van die witborskraai
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die witborskraai is 'n algemene, wydverspreide standvoël. 'n Vrypostige
+   soort wat gewoonlik in bewoonde gebiede voorkom waar hulle stukkies
+   weggooikos soek.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Word aan sy wit bors en kraag uitgeken.
+
+   46-52 cm.
+
+[wysig] Habitat
+
+   Word veral by vullis-hope, speelterreine, langs hoofpaaie en by
+   landerye gesien. Boer meestal in los swerms en oornag dikwels in groot
+   getalle saam.
+
+[wysig] Verspreiding
+
+   Namibië, Botswana, Zimbabwe, Mosambiek en die hele Suid-Afrika, met
+   uitsondering van die Kalahari en die noordelike dele van die Vrystaat.
+
+[wysig] Geluid
+
+   Uiter 'n harde "kwaak".
+
+[wysig] Ander name
+
+     * Engels: "Pied Crow"
+     * Wetenskaplike naam: Corvus albus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826.
+
+   Kategorie: Kraaiagtiges
+

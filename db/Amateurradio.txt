@@ -1,0 +1,276 @@
+Amateurradio
+
+
+   'n Radioamateur se antennas
+   'n Radioamateur se antennas
+   'n Amateurradio
+   'n Amateurradio
+
+   Radioamateurs is mense wat tweerigtingradio gebruik om met ander
+   radioamateurs oral oor die wêreld te gesels. Vir sommige is die gesels
+   die ding wat hulle geniet, vir ander is dit die tegnologie waarmee
+   hulle kan speel. Al die nodige toerusting kan gekoop word maar baie
+   amateurs geniet dit om van hulle eie toerusting te ontwerp en te bou.
+   Van die doelwitte van die stokperdjie is om eksperimentering aan te
+   moedig en om noodkommunikasie te verskaf wanneer ander
+   kommunikasiemiddele vaal vanweë storms of ander rampe.
+
+   Amateurradio word deur meeste regerings in die wêreld toegelaat. In
+   sulke lande bestaan nasionale organisasies soos die Suid-Afrikaanse
+   Radioliga wat help met opleiding en ander sake wat die amateurs
+   saambind.
+
+   Elke amateur moet eksamens slaag om 'n lisensie te bekom. Daar is
+   gewoonlik verkillende liksensies wat verskillende voorregte toelaat.
+   Die lisensie word gewoonlik uitgereik deur die nasionale departement
+   waaronder radiokommunikasie val. In Suid-Afrika word lisensies deur die
+   Onafhanklike Kommunikasie Owerheid van Suid-Afrika[1] (OKOSA)
+   uitgereik. Elke lisensie is gepaard met 'n roepsein soos ZS6BTV. Die
+   letter(s) voor die nommer identifiseer die land waar die amateur
+   gelisensieër is. Suid-Afrikaanse roepseine begin met ZU, ZR en ZS. Die
+   roepsein is die primêre manier waarop die amateur homself of haarself
+   op die lug identifiseer.
+
+   Radiogolwe neem hulle plek in in die elektromagnetiese spektrum.
+   Behalwe radiogolwe sluit die spektrum ook verskynsels in soos lig,
+   x-strale, gammastrale, en so aan. Amateurs het, deur intenasionale
+   ooreenkoms, klein stukkies van die radiodeel van die spektrum wat hulle
+   mag gebruik. Elke deel van die spektrum het ander
+   radiopropagasie-eienskappe en kan dus vir 'n ander kommunikasiemetode
+   gebruik word. So kan mens dus toerusting en radio frekwensies kies wat
+   jou met jou buurman 'n paar kilometer in die pad af kan laat praat of
+   jy kan jou sein oor 'n paar duisend kilometer laat reik deur die
+   ionosfeer as 'n spieël te gebruik of deur van 'n amateursatelliet
+   gebruik te maak.
+
+   Amateurs gebruik 'n verskeidenheid toerusting van klein draagbare
+   radio's met 'n paar watt uitset tot radio's met versterkers wat
+   om-en-by 'n 1000 Watt na die antenna toe kan stuur. Rekenaars is ook
+   gereeld deel van 'n amateur se stasie.
+
+   Inhoud
+
+        * 1 Toerusting
+        * 2 Herhalers
+        * 3 Amateursatelliete
+        * 4 Kortgolf-amateurradio
+        * 5 Nooddiens
+        * 6 Suid-Afrikaanse lisensiestruktuur
+        * 7 QSL Kaartjies
+        * 8 Toekennings
+             + 8.1 Plaaslik
+                  o 8.1.1 Die Hele Afrika (All Africa Award)
+                  o 8.1.2 Alle ZS Bestemmings (Worked All ZS Award - WAZS)
+                  o 8.1.3 Hoë Band Sertifikaat (Top Band Certificate)
+             + 8.2 Uit die VSA
+                  o 8.2.1 Al die State (in die VSA)(WAS)
+                  o 8.2.2 Een Honderd DX Bestemmings (DXCC)
+                  o 8.2.3 Velddag
+        * 9 Kompetisies
+        * 10 Eksterne skakels
+
+[wysig] Toerusting
+
+   'n Amateurradio stasie bestaan ten minste uit die volgende:
+
+          ∙ 'n radio vir ontvangs en uitsending. Dit kan twee aparte
+          eenhede wees of alles in een kassie.
+          ∙ 'n kragbron vir die radio. Die kragbron kan 'n battery wees of
+          wisselstroom van die kragstasie af.
+          ∙ 'n antenna vir die frekwensieband(e) wat jy wil gebruik.
+          Gewoonlik is 'n antenna wat vir net een band ontwerp is die mees
+          effektiewe keuse maar antennas wat vir meer as een band ontwerp
+          is werk ook puik.
+          ∙ 'n toring van een of ander aarde. Die antenna moet so hoog as
+          wat jy kan geïnstalleer word, hoër as enige nabygeleë bome of
+          geboue as dit moontlik is.
+          ∙ kabel om die radio aan die antenna te koppel
+          ∙ 'n manier om jou toerusting aan 'n goeie grond te koppel
+
+   By hierdie lys kan jy ook toerusting voeg wat jou in staat stel om
+   Morsekode of digitale kommunikasie van een of ander aard te gebruik.
+   Mens kan versterkers gebruik om jou sein meer hoorbaar te maak en, soos
+   alreeds genoem, 'n rekenaar is 'n baie nuttige stukkie toerusting. 'n
+   Antennainstemmer laat jou toe om enige stuk draad as 'n antenna te
+   gebruik.
+
+   Selfs die maan kan as 'n stukkie amateurradio toerusting beskou word:
+   seine kan van die maan af weerkaats word na die ander kant van die
+   wêreld toe (mits jy 'n groot genoeg versterker en antennastelsel het).
+
+[wysig] Herhalers
+
+   'n Herhaler is 'n gewilde stuk toerusting. Dis 'n ontvanger en sender
+   wat gewoonlik aan 'n antenna gekoppel is wat iewers hoog in die lug
+   geïnstalleer is. Die sender versterk en saai outomaties uit wat die
+   ontvanger hoor maar op 'n ander frekwensie. Dit stel mens in staat om
+   met 'n klein handradiotjie baie vêr te praat omdat die herhaler jou oor
+   'n lang afstand kan hoor en met sy kragtige sender en hoë antenna jou
+   boodskap weid kan strooi. So kan mens byvoorbeeld met jou handradio
+   gemaklik van Johannesburg met iemand in Pretoria gesels. Herhalers
+   behoort dikwels aan plaaslike radioklubs.
+
+[wysig] Amateursatelliete
+
+   Amsat Oscar 40 Amateursatelliet
+   Amsat Oscar 40 Amateursatelliet
+
+   Groepe radioamateurs bou elke nou en dan 'n satelliet. Hulle ry dan
+   duim om 'n plek vir die satteliet te vind op 'n kommersiële vuurpyl
+   sodat dit so in 'n wentelbaan geplaas kan word. Die satelliete
+   funksioneer as herhalers maar dek groot dele van die aarde sodat jy van
+   Pretoria met iemand in die Kaap en verder kan gesels. Van die
+   satelliete dra ook telemetriese senders wat aanhoudend inligting oor
+   die satelliet en sy omgewing aarde toe stuur.
+
+[wysig] Kortgolf-amateurradio
+
+   Bogenoemde herhalers gebruik baie hoë frekwensies en ultra-hoë
+   frekwensies en meeste van die satelliete doen dieselfde. 'n Eienskap
+   van die frekwensies is dat hulle net gebruik kan word mits jou
+   ontvangsantenna binne sig van die senderantenna is.
+
+   Die langer golflengte hoë frekwensies (kortgolf) stel mens egter in
+   staat om sonder herhaler of satteliet met amateurs in ander lande te
+   praat. Vir hoëfrekwensieseine werk die geïoniseerde lae hoog in die
+   atmosfeer soos 'n spieël en buig hulle die radiosein weer terug af na
+   die aarde toe. So 'n radiosein kan dus tussen die geïoniseerde lae en
+   die oppervlak van die aarde heen-en-weer bons sodat mens met 'n
+   kortgolfradio van kontinent tot kontinent kan gesels. Die vorige
+   genoemde hoërfrekwensieseine ignoreer die ionosfeer en verdwyn die
+   ruimte in.
+
+[wysig] Nooddiens
+
+   Een van die redes vir die bestaan van amateurradio is dat baie
+   radioamateurs hulle laat oplei om noodkommunikasie te verskaf na rampe
+   soos orkane waar ander radio- en telefoonkommunikasie ontwrig is.
+   Amateurs kan na 'n ramp vinniger as telefoon- en radio-maatskappye
+   reageer deur maste, antennes en radios op te stel wat van sonkrag,
+   batterye, draagbare opwekkers of ander vorms van noodkrag kan werk.
+   Vanweë die wye bestek van frekwensies waarop amateurs kan werk kan
+   hulle plaaslike en internasionale kommunikasie verskaf. Wanneer
+   kommersiële en regerings radio- en telefoondienste weer op die been is
+   kan hulle dan weer oorneem.
+
+   Amateurs is ook gedurig aan die luister en dus gebeur dit dikwels dat
+   as 'n vaartuig soos 'n seiljag ter see in die moeilikheid beland dan
+   word hy met die hulp van 'n radioamateur gered.
+
+[wysig] Suid-Afrikaanse lisensiestruktuur
+
+   Daar is drie lisensiepeile in Suid-Afrika. Elke peil het sy eie
+   roepseinvoorvoegsel.
+     * Vir 'n beperkte (ZR voorvoegsel) lisensie moet 'n Klas A-eksamen en
+       'n praktiese operateurstoets geslaag word.
+     * Vir 'n Klas B (ZU) lisensie moet 'n Klas B-eksamen en 'n praktiese
+       operateurstoets geslaag word.
+     * Vir 'n Klas A (ZS) lisensie moet 'n Klas A-eksamen, 'n praktiese
+       operateurstoets en 'n voorgeskrewe evaluering geslaag word.
+
+   'n ZR-lisensie word aan iemand toegeken wat al die Radio Amateur
+   Eksamen (RAE) geslaag het maar nog nie die voorgeskrewe evaluering
+   deurgekom het nie.
+
+[wysig] QSL Kaartjies
+
+   Om kontak te bevestig stuur radioamateurs dikwels aan mekaar 'n
+   kaartjie per pos, of deesdae per internet, met inligting van hulle
+   kontak. "QSL" is een van 'n aantal drie-letter kodes wat amateurs
+   gebruik as afkortings veral wanneer hulle Morsekode gebruik. Dit kom
+   van die vroeë dae van die telegraafdiens in die VSA as 'n manier om
+   boodskappe kort te hou.
+   'n Voorbeeld van 'n qsl kaart wat kontak bevestig tussen 'n
+   Suid-Afrikaanse amateur en een in die Oostenreik.
+   'n Voorbeeld van 'n qsl kaart wat kontak bevestig tussen 'n
+   Suid-Afrikaanse amateur en een in die Oostenreik.
+
+[wysig] Toekennings
+
+   'n Radioamateur kan 'n paar uitdagings aanpak om toekennings te
+   verdien.
+
+[wysig] Plaaslik
+
+[wysig] Die Hele Afrika (All Africa Award)
+
+   Die toekenning word deur die Suid-Afrikaanse Radioliga geborg en is
+   bedoel om kontak met die lande van Afrika aan te moedig. Om die
+   toekenning te ontvang moet 'n amateur bewys dat hy kontak gemaak het
+   met al ses roepsein areas in Suid-Afrika (ZS1-ZS6) en ten minste een
+   kontak in elk van die 25 lande in Afrika.
+
+[wysig] Alle ZS Bestemmings (Worked All ZS Award - WAZS)
+
+   Hierdie toekenning is beskikbaar aan alle amateurradio operateurs en
+   ook kortgolf luisteraars. Om vir hierdie toekenning te kwalifiseer moet
+   jy bewys lewer van of twee-rigting kommunikasie of kortgolf luister
+   rapporte met 'n honderd Suid-Afrikaanse roepseine. Die aantal roepseine
+   nodig word as volg verdeel tussen die roepsein areas:
+     * ZS1 - 16 kontakte
+     * ZS2 - 8 kontakte
+     * ZS3 - 1 kontakte
+     * ZS4 - 6 kontakte
+     * ZS5 - 13 kontakte
+     * ZS6 - 56 kontakte
+
+   'n Operateur kan die toekenning aanvul deur 200, 300, en so aan,
+   kontakte te maak om sodoende die WAZS-200, WAZS-300 en so voorts te
+   bekom.
+
+[wysig] Hoë Band Sertifikaat (Top Band Certificate)
+
+   Hierdie toekenning is bedoel om meer gebruik van die 160 meter band aan
+   te moedig deur te vereis dat 'n operateur met ses verskillende suider
+   Afrikaanse roepseingebiede sal kontak maak. Ten minste vyf van hulle
+   moet in Suid-Afrika wees. Die ander kan met operateurs in Botswana,
+   Lesotho, Mosambiek, Namibië, Swaziland of Zimbabwe wees.
+
+   Die 160 meter band is een van die oudste radio frekwensie bande omdat
+   radio histories by die lang golflengtes begin het en soos tegnologie
+   ontwikkel het so het die korter en korter golflengtes bruikbaar geword.
+
+[wysig] Uit die VSA
+
+[wysig] Al die State (in die VSA)(WAS)
+
+   Om hierdie toekenning te kry moet mens bevestiging hê van elk van die
+   vyftig state van die VSA. Spesiale byvoegsels tot die toekenning kan
+   verdien word deur spesiale metodes to gebruik byvoorbeeld satelliet,
+   TV, Morsekode en deur jou tot net een frekwensie band te beperk.
+
+[wysig] Een Honderd DX Bestemmings (DXCC)
+
+   Die is moontlik die mees gesogte amateurradio toekenning. Om dit te kry
+   moet 'n operateur bewys lewer van kontakte met 'n honderd van die
+   plekke in die Amerikaanse Radio Liga se DXCC Lys. Ook verkrygbaar is 'n
+   lae krag DXCC toekenning waar met 'n honderd lande kontak gemaak word
+   maar jou sender is beperk tot net 5 Watt uitsetkrag.
+
+[wysig] Velddag
+
+   Daar is ook 'n dag wat opsy gesit word waar die idee is om 'n
+   radiostasie op te stel en te gebruik weg van jou hooflyn elektrisiteit
+   af. Mens moet dus 'n kragopwekker, sonkrag, of ander bron van
+   elektrisiteit gebruik en tipies is jou antenne ook 'n draagbare een wat
+   enigeplek opgestel kan word.
+
+   Dis beide 'n kompetisie en oefening vir noodoperasie.
+
+[wysig] Kompetisies
+
+   Een van die interessantste kompetisies waaraan radioamateurs deelneem
+   is sendersoektogte. Iemand gaan kruip weg met 'n klein sendertjie en
+   die res van die operateurs moet dan hom of haar soek met spesiale
+   direksionele toerusting. Dit word gewoonlik per motor oor 30 of 40
+   vierkante kilometer gedoen. In Europa meng hulle atletiek met so 'n
+   soektog waar mens te voet tot vyf verskillende senders moet vind.
+
+[wysig] Eksterne skakels
+
+     * Suid-Afrikaanse Radioliga
+     * Radio Society of Great Britain
+     * American Radio Relay League
+
+   Kategorie: Amateurradio
+

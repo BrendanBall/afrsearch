@@ -1,0 +1,291 @@
+Waterstof
+
+
+
+                                      waterstof – helium
+
+                                       H
+                                      Li
+
+
+                                        Volledige Tabel
+
+                                   Algemeen
+           Naam, Simbool, Getal                             Waterstof, H, 1
+                 Chemiese reeks                                  nie-metale
+           Reeks, Periode, Blok                               1 (IA), 1 , s
+             Digtheid, Hardheid                           0.0899 kg/m^3, NA
+                       Voorkoms                  kleurloos
+                             Atomiese eienskappe
+                     Atoommassa                                 1.00794 ame
+          Atoomradius (bereken)                                  25 (53) pm
+               Kovalente radius                                       37 pm
+            Van der Waalsradius                                      120 pm
+           Elektronkonfigurasie                                        1s^1
+           e^- per energie vlak                                           1
+     Oksidasietoestand (Oksied)                              1 (amfoteries)
+               Kristalstruktuur                                 heksagonaal
+                              Fisiese eienskappe
+           Toestand van materie                                         gas
+                      Smeltpunt                           14.025 K (−434°F)
+                       Kookpunt                          20.268 K (−423 °F)
+                  Molêre volume                        11.42 ×10^-6 m^3/mol
+      Latente verdampingswarmte                              0.44936 kJ/mol
+        Latente smeltingswarmte                              0.05868 kJ/mol
+                       Dampdruk                              209 Pa at 23 K
+                Spoed van klank                      1270 m/s teen 298.15 K
+                                   Diverse
+            Elektronegatiwiteit                          2.2 (Paulingskaal)
+   Spesifieke warmte kapasiteit                              14304 J/(kg*K)
+    Elektriese geleidingsvermoë                             __ 10^6/(m·ohm)
+      Termiese geleidingsvermoë                              0.1815 W/(m*K)
+           Ionisasie potentiaal                                 1312 kJ/mol
+                            Mees stabiele isotope
+
+
+   iso   NV    halfleeftyd VM  VE MeV  VP
+   ^1H 99.985% H is stabiel met 0 neutrone
+   ^2H 0.015%  H is stabiel with 1 neutron
+   ^3H {sin.}  12.33 y     β^- 0.019  ^3He
+   ^4H {sin.}  onbekend    n   2.910  ^3H
+
+             SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Waterstof (Latyn: hydrogenium), is die chemiese element in die
+   periodieke tabel met die simbool H en atoomgetal 1.
+
+   By standaard temperatuur en druk (STD) is dit 'n kleurlose, reuklose
+   nie-metaal, univalente, en hoogs ontvlambare diatomiese gas. Waterstof
+   is die ligste element wat die meeste voorkom in die heelal. Dit is
+   teenwoordig in water en in al die organiese stowwe en lewende
+   organismes. Waterstof kan chemies reageer met die meeste ander
+   elemente. Sterre in hul hoofstadium, se samestelling is hoofsaaklik
+   waterstof in die plasmatoestand. Die element word gebruik in ammoniak
+   produksie, as 'n dryfgas, 'n alternatiewe brandstof en meer onlangs as
+   'n kragbron deur middel van brandstofselle.
+
+   In die laboratorium word waterstof voorberei deur die reaksie van sure
+   met metale soos sink. Vir kommersiële massaproduksie-doeleindes word
+   waterstof vervaardig deur die omsetting van natuurlike gas deur 'n
+   metaanhervormingsproses. Elektroliese van water is 'n eenvoudige dog
+   oneffektiewe metode. Wetenskaplikes doen tans navorsing op nuwe metodes
+   vir waterstofproduksie. Een van die metodes maak van groen alge
+   gebruik. 'n Ander belowende metode behels die omsetting van bio-massa
+   derivate soos glukose of sorbitol by lae temperature deur gebruik te
+   maak van 'n nuwe katalis.
+
+   Inhoud
+
+        * 1 Kenmerkende Eienskappe
+             + 1.1 Die Waterstof atoom
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Verbindings
+        * 6 Vorms
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Sien Ook
+        * 10 Verwysings
+        * 11 Eksterne skakels
+
+[wysig] Kenmerkende Eienskappe
+
+   Waterstof is die ligste chemiese element en die algemeenste isotoop
+   bestaan uit slegs 'n enkele proton en 'n elektron. By STD toestande
+   vorm waterstof 'n diatomiese gas, H[2], met 'n kookpunt so laag as
+   20.27 K en 'n smeltpunt van 14.02 K. Onder uitsonderlik hoë drukke,
+   soos die wat mens by die kern van gasreuse vind verloor die molekules
+   hulle identiteit en word die waterstof 'n vloeibare metaal (sien
+   metallic hydrogen). Onder uitsonderlik lae druktoestande wat in die
+   ruimte ervaar word, is Waterstof geneig om as enkele atome te bestaan,
+   om die eenvoudige rede dat daar nie ander atome is om mee te kombineer
+   nie; wolke H[2] vorm in die ruimte en is is betrokke by stervorming.
+
+   Die element speel 'n noodsaaklike rol in die energie opwekking in die
+   heelal deur die proton-proton reaksie asook die koolstof-stikstof
+   siklus (Daar is kernfusie prosesse wat groot hoeveelhede energie
+   vrystel deur die kombinasie van twee Waterstof atome om een helium
+   atoom te vorm).
+
+[wysig] Die Waterstof atoom
+
+   Die waterstof atoom is 'n atoom van die element Waterstof. Dit bestaan
+   uit 'n enkele negatief gelaaide elektron, wat rondom 'n positief
+   gelaaide proton wentel, wat die kern van die waterstof atoom vorm. Die
+   elektron word aan die proton gebind deur Coulombiese kragte.
+
+[wysig] Gebruike
+
+   Groot hoeveelhede waterstof word benodig in die chemiese nywerheid,
+   veral in die Haberproses vir die vervaardiging van ammoniak, die
+   hidrogenasie van vette en olies en die produksie van metanol. Verder
+   word Waterstof gebruik in hidro-dealkielering,hidro-ontswaeling en
+   hidrokrakingsprosesse.
+
+   Ander gebruike van Waterstof is:
+     * Die element word gebruik in die vervaardiging van soutsuur,
+       sweiswerk en die reduksie van metaal erts.
+     * Dit word gebruik as vuurpylbrandstof.
+     * Vloeibare Waterstof word in kriogeniese navorsing gebruik,
+       insluitende supergeleier-studies.
+     * Aangesien waterstof veertien en 'n half keer ligter as lug is, was
+       dit eens algemeen gebruik as 'n dryfgas in lugballonne en
+       lugvaartuie. Die gebruik daarvan is egter gestaak na die
+       Hindenburg-ramp die publiek oortuig het dat die gas te gevaarlik
+       was vir die doeleinde. Nogtans oorweeg deskundiges ná die
+       oliekrisis van die jaar 1973 om waterstofaangedrewe
+       passasiersvliegtuie as 'n alternatief tot kerosienenjins te
+       ontwikkel. Die eerste Russiese passasiersvliegtuig, wat vloeibare
+       waterstof as brandstof gebruik, die Tupolev-155 ('n gemodifiseerde
+       Tupolev-154-straler), is op 15 April 1988 suksesvol getoets.
+     * Deuterium, 'n waterstof isotoop (waterstof-2) word gebruik in
+       kernfissie aanwendings as 'n moderator om neutrone te vertraag en
+       word ook gebruik in kernfusie reaksies.
+     * Deuterium bevattende stowwe vind ook toepassing in chemie en
+       biologie asook in studies van isotoop effekte in reaksies.
+     * Tritium (waterstof-3), word vervaardig in kernreaktore en word
+       gebruik om waterstofbomme te vervaardig.
+     * Dit word ook gebruik as 'n isotoop merker in die biologiese
+       wetenskappe en as 'n bestralingsbron in weerkaatsende verwe.
+     * Waterstof kan verbrand word in interne verbrandingsmotors, en 'n
+       vloot waterstof brandende motors word tans deur Chrysler-BMW
+       aangehou. Waterstof in brandstofselle word ondersoek as moontlike
+       goedkoop, besoedelingsvrye kragbronne.
+
+[wysig] Geskiedenis
+
+   Waterstof is die eerste keer as 'n suiwer chemiese stof geïdentifiseer
+   in 1776 deur Henry Cavendish. Antoine Lavoisier het die element in 1787
+   sy naam gegee in Frans, naamlik Hydrogen wat letterlik watermaker
+   beteken. Deur middel van 'n spektraalanalise bewys die Duitse navorsers
+   Kirchhoff en Bunsen in 1861 dat waterstof 'n bestanddeel van die son is
+   - en gevolglik dié element moet wees wat die meeste in ons sonnestelsel
+   voorkom.
+
+[wysig] Voorkoms
+
+   Waterstof is die element wat die meeste in die natuur voorkom en meer
+   as 75% van die massa van alle materie en meer as 90% van al die atome
+   bestaan uit Waterstof. Die element kom in oorvloed voor in sterre en in
+   planete wat ook gasreuse genoem word.
+
+   Relatief tot sy groot oorvloed elders in die heelal is suiwer waterstof
+   baie skaars in die aarde se atmosfeer (1 dpm op 'n volumebasis). Die
+   algemeenste bron vir die element op aarde is water wat bestaan uit twee
+   dele waterstof en een deel suurstof (H[2]O). Ander bronne sluit in die
+   meeste vorms van organiese stowwe (insluitende alle lewende wesens),
+   fossielbrandstowwe nl (steenkool en ru-olie) asook natuurlike gas.
+   Metaan (CH[4]) wat verkry kan word as byproduk uit die ontbinding van
+   organiese materiaal en wat ook 'n hoofkomponent van natuurlike gas is,
+   is 'n toenemend belangrike energiebron en is 'n belangrike bron van
+   waterstof.
+
+   Waterstof kan voorberei word op verskeie maniere: stoom wat met
+   verhitte koolstof reageer, koolwaterstof ontbinding deur blootstelling
+   aan hitte, reaksie van 'n sterk basis in 'n waterige oplossing met
+   aluminium, elektrolise van water, of die verplasing van sure met sekere
+   metale.
+
+   Kommersiële massaproduksie van waterstof geskied hoofsaaklik deur die
+   ontbinding van natuurlike gas teen hoë temperature in die
+   teenwoordigheid van stoom en suurstof. Die proses staan bekend as
+   metaanhervorming.
+
+[wysig] Verbindings
+
+   Waterstof vorm verbindings met die meeste elemente. Waterstof het 'n
+   elektronegatiwiteit van 2.2 dus vorm dit verbindings waar dit die meer
+   nie-metaalagtige, asook waar dit die meer metaalagtige element is.
+   Eersgenoemde verbindings word hidriede genoem, waar waterstof bestaan
+   uit H^- ione of slegs as 'n opgeloste stof binne-in 'n ander element
+   soos in palladium hidried. Laasgenoemde verbinding neig egter na 'n
+   kovalente verbinding, aangesien die H^+ ioon 'n ontblote kern met geen
+   elektrone sal wees, het dit 'n sterk geneigdheid om elektrone na
+   homself aan te trek. Beide die tipe verbindings vorm sure. Dus sal 'n
+   mens selfs in 'n suuroplossing ione soos hidronium (H[3]O^+) kry vanweë
+   die proton se sterk geneigdheid om aan iets te bind.
+
+   Waterstof verbind met suurstof om water te vorm, H[2]O, en die reaksie
+   stel baie energie vry, soveel so dat die verbranding van waterstof in
+   lug eerder as 'n ontploffing beskryf kan word. Deuterium Oksied, of
+   D[2]O, word ook dikwels swaar water genoem. Waterstof vorm ook 'n groot
+   verskeidenheid verbindings met koolstof. As gevolg van hulle noue
+   verbintenis met lewendige organismes, word hierdie stowwe organiese
+   verbindings genoem en die studie van die verbindings word organiese
+   chemie genoem.
+
+[wysig] Vorms
+
+   Onder normale toestande is waterstofgas 'n mengsel van twee
+   verskillende soorte molekules wat van mekaar verskil ten opsigte van
+   die relatiewe spin van die nukleone. Die twee vorms staan bekend as
+   orto en para-waterstof (dit verskil van isotope soos hieronder
+   beskryf). In orto-waterstof is die spin van die nukleone parallel,
+   terwyl dit in para-waterstof anti-parallel is. Teen standaard toestande
+   bestaan waterstof uit ongeveer 25% van die para-vorm en 75% van die
+   orto-vorm (ook bekend as die "normale" vorm). Die ewewigsverhouding
+   tussen die twee vorms hang van temperatuur af maar aangesien die
+   orto-vorm 'n hoër energie vlak het, kan dit nie stabiel wees in die
+   suiwer vorm nie. Teen lae temperature (omtrent by kookpunt), bestaan
+   die ewewigsamestelling amper uitsluitlik uit die para-vorm.
+
+   Die omsettingsproses tussen die vorms is stadig en as waterstof vinnig
+   verkoel en gekondenseer word, kan dit nog groot hoeveelhede van die
+   para-vorm atome bevat. Die verskynsel is belangrik vir die
+   voorbereiding en stoor van vloeibare waterstof aangesien die orto-para
+   omsetting meer hitte genereer as die verdampingshitte van waterstof en
+   kan 'n groot hoeveelheid waterstof verloor word deur verdamping etlike
+   dae na vervloeiing. Daarom word kataliste ingespan om die orto-para
+   omsetting te versnel tydens die waterstof verkoelingproses. Daar is ook
+   'n effense verskil tussen die fisiese eienskappe van die twee vorms.
+   Die smelt en kookpunte van para-waterstof is byvoorbeeld ongeveer 0.1 K
+   laer as die van die "normale" orto-vorm.
+
+[wysig] Isotope
+
+   Die mees algemene isotoop van waterstof is ^1H. Dié stabiele isotoop
+   het 'n kern wat bestaan uit 'n enkele proton; daarvandaan die
+   beskrywende term (selde gebruik) protium vir ^1H.
+
+   Die ander stabiele isotoop is deuterium, ^2H, met 'n ekstra neutron in
+   die kern. Deuterium beslaan 0.0184-0.0082% van alle waterstof (IUPAC);
+   verhoudings van deuterium tot protium word gerapporteer relatief tot
+   die VSMOW standaard verwysingswater.
+
+   Die derde waterstof isotoop is die radioaktiewe tritium, ^3H. Die
+   tritium kern bevat twee neutrone en 'n proton.
+
+   Waterstof is die enigste element met verskillende name vir sy isotope.
+   Die simbole D en T (i.p.v. ^2H and ^3H) word somtyds gebruik vir
+   deuterium en tritium, hoewel dit nie amptelik goedgekeurde gebruik is
+   nie (Die simbool P word reeds gebruik om die element Fosfor aan te dui
+   en kan dus nie gebruik word vir protium nie).
+
+[wysig] Voorsorgmaatreëls
+
+   Waterstof is 'n hoogs ontvlambare gas wat brand teen konsentrasies so
+   laag as 4% in lug. Dit reageer ook heftig met chloor en fluoor. Wanneer
+   waterstof met suurstof gemeng word brand dit met 'n ontploffing.
+
+[wysig] Sien Ook
+
+     * Periodieke tabel
+     * waterstofbinding
+     * waterstof atoom
+     * waterstof voertuig
+     * fotowaterstof
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Hydrogen
+
+[wysig] Eksterne skakels
+
+     * Wiktionary – Hydrogen in different languages
+     * WebElements.com – Hydrogen
+     * EnvironmentalChemistry.com – Hydrogen
+     * It's Elemental – Hydrogen
+
+   Kategorie: Chemiese elemente
+

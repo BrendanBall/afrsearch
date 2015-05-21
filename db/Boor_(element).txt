@@ -1,0 +1,202 @@
+Boor (element)
+
+
+
+                       berillium – boor – koolstof
+
+                B
+               Al
+
+
+                 Klik vir beskrywing
+
+                                               Volledige tabel
+
+                                                                  Algemeen
+                                           Naam, Simbool, Getal Boor, B, 5
+                                                       Reeks Metaalagtiges
+                                      Groep, Periode, Blok 13 (IIIA), 2, p
+                                       Digtheid, Hardheid 2460 kg/m^3, 9.3
+                                                            Voorkoms Swart
+                                                         Atomic properties
+                                                     Atoommassa 10.811 ame
+                                           Atoomradius (bereken) 85 (87)pm
+                                                    Kovalente radius 82 pm
+                                            van der Waals radius geen data
+                                         Elektronkonfigurasie [He]2s^22p^1
+                                              e^- 'e per energie vlak 2, 3
+                                 Oksidasietoestande (Oksied) 3 (effe suur)
+                                             Kristalstruktuur Rombohedraal
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (nie-magneties)
+                                                          Smeltpunt 2349 K
+                                                           Kookpunt 4200 K
+                                               Molêre volume 4.39 ×10^-6
+
+                                                                   m^3/mol
+                                            Verdampingswarmte 489.7 kJ/mol
+                                               Smeltingswarmte 50.2 kJ/mol
+                                               Dampdruk 0.348 Pa at 2573 K
+                                   Spoed van klank 16200 m/s teen 293.15 K
+                                                                   Diverse
+                                  Elektronegatiwiteit 2.04 (Pauling skaal)
+                                 Spesifieke warmtekapasiteit 1026 J/(kg*K)
+                           Elektriese geleidingsvermoë 1.0 10^-4/(m·ohm)
+                                   Termiese geleidingsvermoë 27.4 W/(m*K)
+                                   1^ste ionisasie potensiaal 800.6 kJ/mol
+                                    2^de ionisasiepotensiaal 2427.1 kJ/mol
+                                   3^rde ionisasiepotensiaal 3659.7 kJ/mol
+                                   4^de ionisasiepotensiaal 25025.8 kJ/mol
+                                   5^de ionisasiepotensiaal 32826.7 kJ/mol
+                                                     Mees stabiele isotoop
+
+                                    iso   NV   halfleeftyd VM VE MeV  VP
+                                    ^10B 19.9% B is stabiel met 5 neutrone
+                                    ^11B 80.1% B is stabiel met 6 neutrone
+
+                              SI-eenhede & STD buiten waar anders vermeld.
+
+   Boor (Latyn:Borium), is die chemiese element in die periodieke tabel
+   met die simbool B en atoomgetal van 5.
+
+   Dit is 'n trivalente metaalagtige element. Boor kom in oorvloed voor in
+   die erts genaamd boraks. Daar bestaan twee allotrope van boor; amorfe
+   boor is 'n bruin poeier, maar metalliese boor is swart. Die metalliese
+   vorm is hard (9.3 op die Moh skaal) en 'n slegte geleier van
+   elektrisiteit by kamertemperatuur. Dit kom nie in die suiwer vorm in
+   die natuur voor nie.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Boor is 'n elektron-arme element met 'n vakante p-orbitaal. Verbindings
+   van boor gedra hulle dikwels as Lewis sure, wat geredelik verbind met
+   elektron-ryke stowwe in 'n poging om boor se dors vir elektrone te les.
+
+   Optiese eienskappe van die element sluit in die deurskeidenheid tot
+   infrarooi lig. By standaardtemperatuur is boor 'n swak geleier van
+   elektrisiteit maar by hoë temperature is dit 'n goeie geleier.
+
+   Boor het die hoogste breekkrag van enige bekende element. Boornitried
+   kan gebruik word om materiale te maak wat net so hard as diamant is.
+   Die nitried tree ook op as 'n elektriese isoleerder maar sy
+   warmtegeleidingsvermoë is soortgelyk aan metale. Die element het ook
+   smeringseienskappe wat soortgelyk is aan grafiet. Boor is soortgelyk
+   aan koolstof ten opsigte van sy vermoë om stabiele kovalent verbinde
+   molekulêre netwerke te vorm.
+
+[wysig] Aanwendings
+
+   Die mees ekonomies belangrike verbinding van boor is natrium
+   tetraboraat dekahidraat Na[2]B[4]O[7] · 10H[2]O, oftewel boraks, wat in
+   groot maat gebruik word in die vervaardiging van isolerende veselglas
+   en natrium perboraat bleikmiddel. Ander gebruike sluit in:
+     * Vanweë sy kenmerklike groen kleur, word amorfe boor gebruik vir
+       vuurwerke.
+     * Boorsuur is 'n belangrike stof wat in die tekstielnywerheid gebruik
+       word.
+     * Verbindings van boor vind uitgebreide aanwending in organiese
+       sintese en in die vervaardiging van boorsilikaat glase.
+     * Ander verbindings word gebruik as houtpreserveermiddels en is
+       besonder aantreklik in hierdie verband as gevolg van sy lae
+       giftigheid.
+     * Boor-10 word gebruik om te help met die beheer van kernreaktore, 'n
+       skild teen straling en as neutronverklikker.
+     * Boorfilamente is hoë sterkte, liggewig materiale wat hoofsaaklik
+       gebruik word vir gevorderde lugvaart- en ruimtevaartstrukture.
+
+   Boorverbindings word oorweeg vir gebruik in 'n wye reeks aanwendings
+   insluitende as komponente in suiker-deurlaatbare membrane,
+   koolhidraatsensors en biovervoegings. Medisinale gebruike wat ondersoek
+   word sluit in boor-neutron-vangsterapie en medisynetoediening. Daar is
+   boorverbindings wat belowend lyk vir die behandeling van artritis.
+
+   Hidriede van boor word geredelik geoksideer en stel aansienlike
+   hoeveelhede energie vry. Hulle is daarom bestudeer vir moontlike
+   gebruik vir vuurpylbrandstof.
+
+[wysig] Geskiedenis
+
+   Verbindings van boor (Arabies Buraq, Persies Burah) was vir duisende
+   jare bekend gewees. In vroeë Egipte het mumifisering staatgemaak op die
+   erts bekend as natron, wat borate bevat het sowel as ander algemene
+   soute. Boraks glase was in Sjina gebruik vanaf die jaar 300, en
+   boorverbindings is ook gebruik in glasvervaarding in antieke Rome.
+
+   Die element is eers geïsoleer in 1808 deur Sir Humphry Davy, Gay-Lussac
+   en L.J.Thenard, tot 'n 50% suiwerheid. Die mans het nie die stof as 'n
+   element erken nie. Dit was Jöns Jacob Berzelius wat boor in 1824 as 'n
+   element geïdentifiseer het. Die eerste suiwer boor was deur die
+   Amerikaanse chemikus W. Weintraub in 1909 geproduseer.
+
+[wysig] Voorkoms
+
+   Die Verenigde State en Turkye is die wêreld se grootste produsente van
+   boor. Boor kom nie in elementale vorm in die natuur voor nie maar in
+   kombinasie in boraks, boorsuur, kolemaniet, kerniet, uleksiet en
+   borate. Boorsuur word soms in vulkaniese fonteinwaters gevind. Uleksiet
+   is 'n boraatmineraal wat natuurlike veseloptiese eienskappe het.
+
+   Ekonomies belangrike bronne van die erts rasoriet (kerniet) en tincal
+   (borakserts) wat beide in die Mojave Woestyn in Kalifornië (met
+   borakserts die belangrikste bron daar). Uitgebreide boraksneerslae word
+   ook in Turkye gevind.
+
+   Suiwer elementale boor is nie maklik om voor te berei nie. Die vroegste
+   metode wat gebruik is, het die reduksie van booroksied met metale soos
+   magnesium of aluminium behels. Die produk sodoende voorberei is egter
+   amper altyd met metaalboriede besoedel. Suiwer boor kan voorberei word
+   deur vlugtige boorhalogeniede met waterstof te reageer teen hoë
+   temperature.
+
+   In 1997 het kristallyne boor (99% suiwer) ongeveer 5 VS dollar per gram
+   gekos en amorfe boor het ongeveer 2 VS dollar per gram gekos.
+
+[wysig] Isotope
+
+   Boor het twee stabiele isotope wat natuurlik voorkom, B-11 (80.1%) en
+   B-10 (19.9%).
+
+   Die massaverskil lei tot 'n wye verskil δB-11 waardes in natuurlike
+   waters, wat wissel van -16 tot +59. Isotoopfraksionering van boor word
+   beheer deur die uitruilreaksies van die boorspesie B(OH)[3] and
+   B(OH)[4]. Boor isotope word ook gefraksioneer tydens
+   mineraalkristallisasie, tydens H[2]O faseverandering in hidrotermiese
+   stelsels en tydens hidrotermiese verander van rots. Die laaste effek
+   (spesie voorkeur verwydering van die ^11B(OH)[3] ioon op kleie wat lei
+   tot oplossings verreik in ^11B(OH)[3]) mag verantwoordelik wees vir die
+   groot ^11B verryking in seewater relatief tot die oseaniese kors en die
+   kontinentale kors.
+
+[wysig] Voorsorgmaatreëls
+
+   Elementale boor en borate is nie-toksies en daarom word geen spesiale
+   voorsormaatreëls vereis tydens hantering nie. Sommige meer eksotiese
+   boor-waterstof-verbindings is egter toksies en vereis versigtige
+   hantering.
+
+   Sien ook: Boortekort
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Boron
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Boron
+     * EnvironmentalChemistry.com – Boron
+     * It's Elemental – Boron
+     * Boron
+
+   Kategorie: Chemiese elemente
+

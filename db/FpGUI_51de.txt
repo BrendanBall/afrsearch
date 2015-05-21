@@ -1,0 +1,33 @@
+FpGUI
+
+
+   : Om tegniese redes begin die titel van hierdie artikel met 'n
+   hoofletter. Die korrekte skryfwyse is fpGUI.
+   Beeld:Fpgui.png  fpGUI
+   {{{screenshot}}}
+   {{{onderskrif}}}
+     __________________________________________________________________
+
+   Ontwikkelaar {{{ontwikkelaar}}}
+   Mees onlangse weergawe {{{laaste_weergawe}}} /
+   {{{laaste_vrystellingsdatum}}}
+   Laaste betaweergawe {{{laaste_betaweergawe}}} /
+   {{{laaste_betavrystellingsdatum}}}
+   Bedryfstelsel Unix/Linux/BSD (X11), Windows
+   Kategorie {{{kategorie}}}
+   Lisensie GNU Lesser General Public License
+   Webtuiste opensoft.homeip.net/fpgui/
+
+   Die Free Pascal GUI Toolkit (of meer algemene naam, fpGUI) is 'n
+   'cross-platform' grafiese ontwikkelingshulpmiddel wat ontwerp is deur
+   Graeme Geldenhuys. fpGUI is vrye programmatuur of oopbron sagteware en
+   is met 'n gemodifiseerde GNU Lesser General Public License (LGPL)
+   gelisensieer. fpGUI is ontwikkel met die Free Pascal kompileerder wat
+   beteken dat dit gebruik maak van the Object Pascal programmerings taal.
+
+[wysig] Verwysings
+
+   Hierdie artikel is aanvanklik saamgestel deur die Engelse weergawe van
+   Wikipedia te gebruik as 'n beginpunt.
+   Kategorieë: Rekenaar • Rekenaartale
+

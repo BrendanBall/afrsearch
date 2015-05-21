@@ -1,0 +1,238 @@
+Tin
+
+
+
+   50                         indium ← tin → antimoon
+   Ge
+   ↑
+   Sn
+   ↓
+   Pb
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                          Naam, Simbool, Getal tin, Sn, 50
+                                                Chemiese reeks swak metale
+                                             Groep, Periode, Blok 14, 5, p
+                                         Voorkoms silwerige glansende grys
+                                              Atoommassa 118.710 (7) g/mol
+                                 Elektronkonfigurasie [Kr] 4d^10 5s^2 5p^2
+                                        Elektrone per skil 2, 8, 18, 18, 4
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                   Digtheid (naby k.t.) (wit) 7.265 g/cm³
+                                  Digtheid (naby k.t.) (grys) 5.769 g/cm³
+                                  Vloeistof digtheid teen s.p. 6.99 g/cm³
+                                                        Smeltpunt 505.08 K
+                                                              (231.93 °C)
+                                                           Kookpunt 2875 K
+                                                                (2602 °C)
+                                         Smeltingswarmte (wit) 7.03 kJ/mol
+                                      Verdampingswarmte (wit) 296.1 kJ/mol
+                                           Warmtekapasiteit (25 °C) (wit)
+                                                         27.112 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1497 1657 1855 2107 2438 2893
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur tetragonaal
+                                                   Oksidasietoestande 4, 2
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1.96 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 708.6 kJ/mol
+                                                        2de: 1411.8 kJ/mol
+                                                       3rde: 2943.0 kJ/mol
+                                                        Atoomradius 145 pm
+                                                 Atoomradius (ber.) 145 pm
+                                                   Kovalente radius 141 pm
+                                               Van der Waals radius 217 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                   Elektriese weerstand (0 °C) 115 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 66.8 W/(m·K)
+                              Termiese uitsetting (25 °C) 22.0 µm/(m·K)
+                       Spoed van klank (dun staaf) (k.t.) (gerol) 2730 m/s
+                                                   Young se modulus 50 GPa
+                                                       Skuifmodulus 18 GPa
+                                                       Massamodulus 58 GPa
+                                                    Poissonverhouding 0.36
+                                                      Mohs se hardheid 1.5
+                                                   Brinell hardheid 51 MPa
+                                              CAS-registernommer 7440-31-5
+                                                        Vernaamste isotope
+
+                    CAPTION: Hoofartikel: Isotope van Tin
+
+                              iso     NV   halfleeftyd VM  VE (MeV)   VP
+                             ^112Sn 0.97%  Sn is stabiel met 62 neutrone
+                             ^114Sn 0.66%  Sn is stabiel met 64 neutrone
+                             ^115Sn 0.34%  Sn is stabiel met 65 neutrone
+                             ^116Sn 14.54% Sn is stabiel met 66 neutrone
+                             ^117Sn 7.68%  Sn is stabiel met 67 neutrone
+                             ^118Sn 24.22% Sn is stabiel met 68 neutrone
+                             ^119Sn 8.59%  Sn is stabiel met 69 neutrone
+                             ^120Sn 32.58% Sn is stabiel met 70 neutrone
+                             ^122Sn 4.63%  Sn is stabiel met 72 neutrone
+                             ^124Sn 5.79%  Sn is stabiel met 74 neutrone
+                             ^126Sn sin    ~1 E5 j     β^- 0.380    ^126Sb
+
+                                                                Verwysings
+
+   Tin is 'n Chemiese element met die simbool: Sn, vanuit die Latyn:
+   Stannum en atoomgetal van 50. Hierdie silwerkleurige, smeebare swak
+   metaal word nie geredelik in lug geoksideer nie en bied weerstand teen
+   korrosie. Die element word gebruik in legerings wat aangewend word om
+   ander metale te bedek om hulle teen korrosie te beskerm. Tin word
+   hoofsaaklik uit die mineraal kasseriet ontgin, waar dit in 'n
+   oksiedvorm aangetref word. Dit kan saam met koper vermeng word om 'n
+   die legering wat algemeen as brons bekend staan te vorm.
+   Piouterlegerings kan soveel as 85% tot 99% tin bevat.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Allotrope
+        * 3 Gebruike
+        * 4 Geskiedenis
+        * 5 Verspreiding en vervaardiging
+        * 6 Verwysings
+
+[wysig] Kenmerkende eienskappe
+
+   Tin is 'n smeebare, pletbare, hoogs kristallyne silwerwit metaal;
+   wanneer 'n staaf tin gebuig word kan 'n vreemde kraakgeluid gehoor word
+   as gevolg van die breek van die kristalle. Die metaal weerstaan
+   korrosie deur gedistilleerde-, see- asook sagte water maar kan deur
+   sterk sure, alkalies en suursoute aangeval word. Tin tree op as 'n
+   katalis wanneer suurstof in oplossing is en dit help om die chemiese
+   aanval op die metaal te versnel. Tin vorm die dioksied SnO[2] as dit in
+   die teenwoordigheid van lug verhit word. SnO[2] is op sy beurt 'n baie
+   swak suur en vorm tinsoute (SnO[3]^2-) met basiese oksiede. Tin kan
+   blink gepoleer word en word gebruik as beskermende laag vir ander
+   metale om hulle teen korrosie of chemiese aanval te beskerm. Die metaal
+   verbind direk met chloor en suurstof en verplaas waterstof uit verdunde
+   sure. Tin is smeebaar teen gewone temperature maar is bros as dit
+   verkoel word.
+
+[wysig] Allotrope
+
+   Tin se chemiese eienskappe val tussen dié van metale en nie-metale net
+   soos die halfgeleiers silikon en germanium. Tin het twee allotrope teen
+   normale drukke en temperature: gys- en wit tin.
+
+   Onder 13.2 °C bestaan dit as 'n grys of alfa tin wat 'n kubiese
+   kristalstruktuur het soortgelyk aan silikon en germanium. Grys tin het
+   geen metaaleienskappe nie en is 'n dowwe grys poeieragtige materiaal
+   met min gebruike buiten vir 'n paar gespesialiseerde
+   halfgeleiertoepassings.
+
+   Alhoewel die oorgangstemperatuur 13.2°C is, vind die verandering nie
+   plaas nie tensy die metaal baie suiwer is nie en slegs as die
+   blootstellingstemperatuur ver onder 0°C is.^[1] Kommersiële grade van
+   tin (99.8%) weerstaan die oorgang as gevolg van die inhiberende effek
+   van die klein hoeveelhede bismut, antimoon, lood en silwer wat
+   teenwoordig is as onsuiwerhede. Legeringselemente soos koper, antimoon,
+   bismut, kadmium en silwer verhoog die hardheid van tin. Tin vorm
+   geredelik harde, bros intermediêre fases wat dikwels ongewens is. Dit
+   los oor die algemeen nie goed op in ander metale nie en daar is baie
+   min metale wat vastetoestand oplossings in tin sal vorm. Eenvoudige
+   eutektiese stelsels kan egter met bismut, gallium, lood, tallium en
+   sink.^[2]
+
+[wysig] Gebruike
+
+   Tin verbind geredelik met yster en is al gebruik om lood of sink en
+   staal te bedek om korrosie te voorkom. Tingeplateerde staalhouers word
+   dikwels gebruik vir voedselbewaring en hierdie gebruik maak 'n groot
+   deel van die mark vir tin uit.
+
+   Ander gebruike:
+     * Tin word gebruik in verskeie legerings soos brons, piouter,
+       fosforbrons, sagte soldeersel en dies meer.
+     * Die belangrikste sout tinchloried word as reduseermiddel en om die
+       vaslegging van kleurstowwe in die calico drukproses te verseker.
+       Elektries geleidende bedekkings as tinsoute op glas gesproei word.
+       Hierdie bedekkings is gebruik in paneelligte en in die
+       vervaardiging van vrieswerende motorruite.
+     * Die metaalpype in pyporrels word meestal gemaak met legerings wat
+       tin/loodlegerings bevat. Die hoeveelheid tin in die pyporrel speel
+       'n rol in die toonhoogte van die pyp, aangesien tin die mees
+       resonante metaal is.
+     * Vensterglas word dikwels gemaak deur gesmelte glas wat bo op
+       gesmelte tin dryf om sodoende 'n baie plat oppervlak te verkry
+       (Hierdie proses staan as die "Pilkington-proses" bekend).
+     * Tin word ook gebruik in soldeersels om pype te las of elektroniese
+       stroombane te bou. Dit word ook gebruik as legeringsmetaal in laers
+       asook 'n verskeidenheid chemiese toepassings. Alhoewel suiwer tin
+       'n hoër smeltpunt het as 'n lood-tinlegering word dit al hoe meer
+       gebruik om loodlegerings te vervang (soms saam met ander metale in
+       legering) in vele toepassings vanweë die giftigheid van lood.
+     * Tinfoelie was voorheen dikwels gebruik om voedsel en medisynes in
+       toe te draai; maar is vroeg in die 20^ste eeu vervang met
+       aluminiumfoelie.
+
+   Tin word 'n supergeleier by enige temperatuur laer as 3.72 K. Tin was
+   om die waarheid te sê een van die eerste supergeleiers wat bestudeer
+   is; die Meissnerverskynsel, 'n kenmerk van supergeleiers, is vir die
+   eerste keer ontdek tydens supergeleiertoetse op tinkristalle. Die
+   niobium-tin verbinding Nb[3]Sn word in die handel gebruik as drade vir
+   supergeleidende magnete, vanweë die materiaal se hoë kritieke
+   temperatuur (18K) en kritiese magnetiese veld (25 Tesla). 'n
+   Supergeleidende magneet wat slegs 'n paar kilogram weeg is in staat om
+   magnetiese velde te skep wat vergelykbaar is aan dié wat met
+   konvensionele elektromagnete opgewek kan word wat etlike tonne weeg.
+
+[wysig] Geskiedenis
+
+   Tin is een van die vroegste metale aan die mens bekend en is gebruik as
+   'n bestandeel in brons sedert antieke tye. Tin is in brons implemente
+   gebruik so vroeg as 3 500 v.C. hoofsaaklik te wyte aan die
+   hardheidseienskappe wat dit aan brons verleen. Die metaal in sy suiwer
+   vorm is egter eers rondom 600 v.C. gebruik.
+
+[wysig] Verspreiding en vervaardiging
+
+   Beeld:Tin (mined)2.PNG
+   Tinproduksie in 2005
+
+   In 2007 was die Volksrepubliek van Sjina die grootste tinprodusent met
+   43% van die wêreldaandeel, gevolg deur Indonesië en Peru volgens die
+   USGS.
+
+   Tin word vervaardig deur die erts met steenkool in 'n hoogoond te
+   reduseer. Die metaal is 'n relatief skaars element met 'n natuurlike
+   verspreiding in die Aarde se Aardkors van ongeveer 2 dpm vergeleke met
+   die 94 dpm van sink, 63 dpm van koper en 12 dpm vir lood. Die meeste
+   van die wêreld se tin word ontgin vanuit sedimentêre neerslae. Die
+   enigste mineraal van handelsbelang is kasseriet (SnO[2]). Daar word
+   egter klein hoeveelhede tin herwin vanuit sulfiedkomplekse soos
+   stanniet, silindriet, frankeïet, kanveldiet en tealliet ontgin.
+   Herwinning is ook 'n baie belangrike bron van tin.
+
+   Tasmanië bevat ook neerslae van geskiedkundige belang, veral Mount
+   Bischoff en Renison Bell.
+
+   Daar word geraam dat teen die huidige verbruikstempo, die aarde se
+   tinreserwes oor sowat 40 jaar uitgeput sal wees.^[3] Lester Brown het
+   egter beraam dat met 'n uiters konserwatiewe ekstrapolasie van 2% groei
+   per jaar dat tinreserwes selfs binne 20 jaar uitgeput kan word.^[4]
+
+[wysig] Verwysings
+
+    1. ^ Mel Schwartz.Encyclopedia of Materials, Parts and Finishes, 2de
+       uitgawe, afdeling Tin and Alloys, Properties. CRC Press,2002.ISBN
+       1-56676-661-3
+    2. ^ Mel Schwartz.Encyclopedia of Materials, Parts and Finishes, 2de
+       uitgawe, afdeling Tin and Alloys, Properties. CRC Press,2002.ISBN
+       1-56676-661-3
+    3. ^ 26 Mei, 2007, New Scientist, volume 194, uitgawe 2605, bladsye
+       38-39, issn = 0262 4079, How Long Will it Last?
+    4. ^ Brown, Lester Plan B 2.0, New York: W.W. Norton, 2006. bl. 109
+
+   Kategorie: Chemiese elemente
+

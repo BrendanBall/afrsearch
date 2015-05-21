@@ -1,0 +1,229 @@
+Antimoon
+
+
+
+   51                        tin ← antimoon → telluur
+   As
+   ↑
+   Sb
+   ↓
+   Bi
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal antimoon, Sb, 51
+                                              Chemiese reeks metaalagtiges
+                                             Groep, Periode, Blok 15, 5, p
+                                         Voorkoms silwerige glansende grys
+                                              Atoommassa 121.760 (1) g/mol
+                                 Elektronkonfigurasie [Kr] 4d^10 5s^2 5p^3
+                                        Elektrone per skil 2, 8, 18, 18, 5
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 6.697 g/cm³
+                                  Vloeistof digtheid teen s.p. 6.53 g/cm³
+                                                        Smeltpunt 903.78 K
+                                                              (630.63 °C)
+                                                           Kookpunt 1860 K
+                                                                (1587 °C)
+                                              Smeltingswarmte 19.79 kJ/mol
+                                           Verdampingswarmte 193.43 kJ/mol
+                                Warmtekapasiteit (25 °C) 25.23 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                       P/Pa    1  10  100  1 k  10 k 100 k
+                                     teen T/K 807 876 1011 1219 1491 1858
+
+                                                           Atoomeienskappe
+                                             Kristalstruktuur rombohedraal
+                                             Oksidasietoestande −3, 3, 5
+                              Elektronegatiwiteit 2.05 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                   (meer) 1ste: 834 kJ/mol
+                                                        2de: 1594.9 kJ/mol
+                                                         3rde: 2440 kJ/mol
+                                                        Atoomradius 145 pm
+                                                 Atoomradius (ber.) 133 pm
+                                                   Kovalente radius 138 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 417 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 24.4 W/(m·K)
+                              Termiese uitsetting (25 °C) 11.0 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3420 m/s
+                                                   Young se modulus 55 GPa
+                                                       Skuifmodulus 20 GPa
+                                                       Massamodulus 42 GPa
+                                                      Mohs se hardheid 3.0
+                                                  Brinell hardheid 294 MPa
+                                              CAS-registernommer 7440-36-0
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van antimoon
+
+                              iso     NV   halfleeftyd VM  VE (MeV)   VP
+                             ^121Sb 57.36% Sb is stabiel met 70 neutrone
+                             ^123Sb 42.64% Sb is stabiel met 72 neutrone
+                             ^125Sb sin    2.7582 j    β^- 0.767    ^125Te
+
+                                                                Verwysings
+
+   Antimoon is 'n chemiese element met die simbool Sb met 'n atoomgetal
+   van 51. Antimoon is 'n metaalagtige element met vier allotropiese
+   vorms. Die stabiele vorm van antimoon is 'n blouwit metaalagtige stof.
+   Geel en swart antimoon is onstabiele nie-metale. Antimoon word gebruik
+   vir brandwerende bedekkings, verwe, keramieke, emaljes, 'n wye
+   verskeidenheid legerings, elektroniese komponente en rubber.
+
+   Inhoud
+
+        * 1 Eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Ontginingsbronne
+        * 5 Voorsorgmaatreëls
+        * 6 Verwysings
+        * 7 Bibliografie
+
+[wysig] Eienskappe
+
+   Antimoon
+   Antimoon
+
+   Antimoon in sy elementêre vorm is 'n silwerige wit, bros,
+   laagsmeltende, kristallyne vastestof wat oor swak elektriese- en
+   termiese geleidingsvermoë beskik en by lae temperature verdamp.
+   Antimoon is 'n metaalagtige wat ooreenkomste met 'n metaal toon ten
+   opsigte van sy voorkoms en in baie van sy fisiese eienskappe, maar
+   reageer nie chemies soos 'n metaal nie. Dit word ook aangeval deur
+   oksiderende sure en halogene. Antimoon en sommige van sy legerings is
+   ongewoon in die opsig dat hulle uitsit wanneer hulle verkoel word.
+   Antimoon is geochemies gekategoriseer as 'n kalsofiel en kom voor saam
+   met swael en die swaarmetale lood, koper en silwer.
+
+   Ramings oor die hoeveelheid antimoon in die Aarde se kors wissel van
+   0.2 tot 0.5 dele per miljoen.
+
+[wysig] Gebruike
+
+   Antimoon word toenemend in die halfgeleierbedryf gebruik vir die
+   vervaardiging van diodes, infrarooisensors en Hall-effek toestelle. As
+   'n legering dra hierdie element baie by tot lood se hardheid en
+   meganiese sterkte. Die belangrikste gebruik van Antimoon is as 'n
+   verharder in lood opgaarbatterye. Ander gebruike sluit in:
+     * Lae wrywing legerings
+     * Drukkersmetaal
+     * Kleingeweer en Ligspoorammunisie
+     * Kabelskede
+     * Vuurhoutjies
+     * Soldeersels - sommige "loodvrye" soldeersels bevat sowat 5% Sb
+     * Laers in binnebrandenjins
+
+   Antimoonverbindings in die vorm van oksiede, sulfiede,
+   natriumantimonaat en antimoontrichloried word gebruik in die
+   vervaardiging van brandbestande materiale, keramiekemaljes, glas, verwe
+   en pottebakkery. Antimoontrioksied is die belangrikste
+   antimoonverbinding en word hoofsaaklik gebruik in brandbestande
+   toepassings. Dit word ook gebruik in die veselglasnywerheid as 'n
+   bymiddel tot poli-ester harse. Die harse sal brand terwyl dit aan 'n
+   vlam blootgestel word maar sal onmiddelik geblus word as die vlam
+   verwyder word. Antimoonsulfied is ook een van die bestandele van
+   veilige vuurhoutjies.
+
+[wysig] Geskiedenis
+
+   Antimoon se sulfiedverbindings, antimoontrisulfied, Sb[2]S[3] is al so
+   vroeg as 3000 jaar v.C. gebruik. Mengsels van Sb[2]S[3] poeier in
+   vet^[1] of ander materiale is sedert hierdie vroeë datum gebruik as
+   grimeermiddel. 'n Kunswerk wat uit antimoon vervaardig is rondom 3000
+   v.C. is naby Tello, Chaldea in die teenswoordige Irak gevind en 'n
+   kopervoorwerp wat met antimoon bedek is en rondom 2500 v.C. tot 2200
+   v.C. vervaardig is, is in Egipte gevind.^[2]
+
+   Volgens metallurgiese geskiedkundiges kom die eerste beskrywing vir 'n
+   prosedure om antimoon te skei voor in die Italiaanse boek De la
+   pirotechnia wat dateer uit 1540 en deur Vannoccio Biringuccio geskryf
+   is. Hierdie boek het die meer bekende boek van Agricola, De re
+   metallica vooruitgeloop, al word die ontdekking verkeerdelik aan
+   Agricola toegeskryf. Ander persone word ook soms aangehaal as sou hulle
+   antimoon voor Biringuccio ontdek het maar die bewyse ter stawing
+   daarvan word bevraagteken.
+
+[wysig] Ontginingsbronne
+
+   Antimoonproduksie in 2005
+   Antimoonproduksie in 2005
+   Wêreldneiging ten opsigte van antimoonontginning
+   Wêreldneiging ten opsigte van antimoonontginning
+
+   Alhoewel hierdie element nie volop is nie, word dit in meer as 100
+   mineraalspesies aangetref. Antimoon word soms in suiwer vorm aangetref
+   maar meer dikwels word dit as die sulfied stibniet (Sb[2]S[3]) wat die
+   belangrikste ertsbron is. Kommersiële vorme van antimoon is gewoonlik
+   stawe, gebreekte stukkies, korrels of gegote koek. Ander vorms is
+   poeier, skerwe en enkele kristalle.
+
+   In 2005 was Sjina die top produsent van antimoon met ongeveer 84% van
+   die wêreldmark gevolg deur Suid-Afrika, Bolivië en Tajikistan alvorens
+   die British Geological Survey.
+             Land           Tonnemaat  % van totaal
+   Volksrepubliek van Sjina  126 000      84,0
+         Suid-Afrika          6 000        4,0
+           Bolivië            5 225        3,5
+          Tajikistan          4 073        2,7
+           Rusland            3 000        2,0
+            Top 5            144 298      96,2
+         Wêreldtotaal        150 000      100,0
+
+   Chiffres de 2003, métal contenue dans les minerais et concentrés, Bron:
+   L'état du monde 2005
+
+   Die grootste myn in Sjina is die Xikuangshan myn in die Hunan
+   provinsie.
+
+[wysig] Voorsorgmaatreëls
+
+   Antimoon en baie van sy verbindings is giftig. Klinies is
+   antimoonvergiftiging baie soortgelyk aan arseenvergiftiging. In klein
+   hoeveelhede veroorsaak antimoon hoofpyn, duiseligheid en depressie.
+   Groter toedienings veroorsaak heftige en gereelde braking en lei tot
+   die dood binne 'n paar dae.
+
+[wysig] Verwysings
+
+    1. ^ Priesner en Figala
+    2. ^ Kirk-Othmer, inskrywing "Antimony"
+
+[wysig] Bibliografie
+
+     * W. F. Albright "Notes on Egypto-Semitic Etymology. II", The
+       American Journal of Semitic Languages and Literatures, Vol. 34, No.
+       4. (Jul., 1918), pp. 215-255. JSTOR link. esp p.230
+     * Endlich, F.M. "On Some Interesting Derivations of Mineral Names",
+       The American Naturalist, Vol. 22, No. 253. (Jan., 1888), pp. 21-32.
+       JSTOR link. p.28
+     * Kirk-Othmer Encyclopedia of Chemical Technology, 5th ed. 2004.
+       Entry for antimony.
+     * Lippmann, E O von [Edmund Oscar]. 1919. Entstehung und Ausbreitung
+       der Alchemie, teil 1. Berlin: Julius Springer. In German.
+     * Moorey, PRS. 1994. Ancient Mesopotamian Materials and Industries:
+       the Archaeological Evidence. New York: Clarendon Press.
+     * Priesner, Claus and Figala, Karin, eds. 1998. Alchemie. Lexikon
+       einer hermetischen Wissenschaft. München: C.H. Beck. 412 p. In
+       German.
+     * Sarton, George. 1935. Review of Al-morchid fi'l-kohhl, ou Le guide
+       d'oculistique, translated by Max Meyerhof. Isis (Feb. 1935),
+       22(2):539-542 (The journal Isis is in the JSTOR archive.) In
+       French.
+     * Shotyk, William; Krachler, Michael; Chen, Bin. Contamination of
+       Canadian and European bottled waters with antimony from PET
+       containers J. Environ. Monit 2006, 8:288-292 DOI: 10.1039/b517844b
+     * Los Alamos National Laboratory – Antimony
+     * Public Health Statement for Antimony
+     * Wakayama, Hiroshi, "Revision of Drinking Water Standards in Japan",
+       Ministry of Health, Labor and Welfare (Japan), 2003
+
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,44 @@
+Kliënt-bediener argitektuur
+
+
+   Kliënt-bediener is 'n model in netwerkargitektuur waar die kliënt
+   (dikwels met 'n grafiese koppelvlak) van die bediener geskei word. Elke
+   instansie van die kliëntsagteware kan versoeke stuur aan 'n bediener of
+   programbediener.
+
+   Alhoewel hierdie idee toegepas word op 'n verskeidenheid maniere op 'n
+   groot verskeidenheid programmatuur, is die maklikste voorbeeld vir
+   visualiseringsdoeleindes die huidige gebruik van webbladsye op die
+   internet. As u byvoorbeeld 'n artikel op Wikipedia lees, kan u rekenaar
+   en webblaaier beskou word as 'n kliënt en die rekenaars, databasisse en
+   programme wat Wikipedia uitmaak kan beskou word as 'n bediener. Wanneer
+   u blaaier 'n spesifieke artikel vanaf Wikipedia versoek, spoor die
+   Wikipedia bediener al die inligting op wat benodig word om die artikel
+   in die databasis te vertoon, stel dit saam in 'n webblad en stuur dit
+   na u webblaaier terug vir u om dit te besigtig.
+
+[wysig] Eienskappe
+
+   'n Kliënt-bediener argitektuur is bedoel om 'n opskaalbare argitektuur
+   te verskaf, waardeur elke rekenaar of proses op die netwerk òf 'n
+   kliënt òf 'n bediener kan wees. Bedienersagteware loop dikwels (maar
+   nie altyd) op kragtige rekenaars wat toegewy is om uitsluitlik die
+   betrokke besigheidsprogrammatuur te loop. Kliëntsagteware aan die ander
+   kant loop gewoonlik op algemene persoonlike rekenaars of werkstasies.
+   Kliënte kry al, of die meeste van hul inligting vanaf die bediener
+   insluitend konfigurasielêers, besigheidsprogramme ensomeer. Verder kan
+   hulle ook van die programmatuur wat 'n hoë werklas meebring afstaan aan
+   die bediener sodat die kliëntrekenaar ander take kan uitvoer.
+
+   Eienskappe van 'n bediener:
+     * Passief (Slaaf)
+     * Wag vir versoeke
+     * Reageerop versoeke, voer hulle uit en stuur 'n antwoord
+
+   Eienskappe van 'n kliënt:
+     * Aktief (Meester)
+     * Stuur versoeke
+     * Wag tot 'n antwoord ontvang word
+
+   Kategorie: Rekenaar
+

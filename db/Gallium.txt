@@ -1,0 +1,225 @@
+Gallium
+
+
+
+   31                       sink ← gallium → germanium
+   Al
+   ↑
+   Ga
+   ↓
+   In
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal gallium, Ga, 31
+                                            Chemiese reeks Hoofgroepmetale
+                                             Groep, Periode, Blok 13, 4, p
+                                                        Voorkoms silwerwit
+
+   Tipies (gesmelte bol)
+   Tipies (gesmelte bol)
+
+
+   Kristallyne vorm
+   Kristallyne vorm
+
+                                                Atoommassa 69,723(1) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^1
+                                            Elektrone per skil 2, 8, 18, 3
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 5,91 g/cm³
+                                 Vloeistof digtheid teen s.p. 6,095 g/cm³
+                                                      Smeltpunt 302,9146 K
+                                                             (29,7646 °C)
+                                                           Kookpunt 2477 K
+                                                                (2204 °C)
+                                               Smeltingswarmte 5,59 kJ/mol
+                                              Verdampingswarmte 254 kJ/mol
+                                Warmtekapasiteit (25 °C) 25,86 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1310 1448 1620 1838 2125 2518
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur ortorombies
+                                                      Oksidasietoestande 3
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1,81 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 578,8 kJ/mol
+                                                        2de: 1979,3 kJ/mol
+                                                         3rde: 2963 kJ/mol
+                                                        Atoomradius 130 pm
+                                                 Atoomradius (ber.) 136 pm
+                                                   Kovalente radius 126 pm
+                                               Van der Waals radius 187 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                          Termiese geleidingsvermoë (300 K) 40,6 W/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 2740 m/s
+                                                      Mohs se hardheid 1,5
+                                                   Brinell hardheid 60 MPa
+                                              CAS-registernommer 7440-55-3
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van gallium
+
+                                 iso    NV   halfleeftyd VM VE (MeV)  VP
+                                ^69Ga 60,11% Ga is stabiel met 38 neutrone
+                                ^71Ga 39,89% Ga is stabiel met 40 neutrone
+
+                                                                Verwysings
+
+   Gallium is 'n chemiese element in die periodieke tabel met die simbool
+   Ga en atoomgetal van 31.
+
+   Gallium is 'n baie skaars sagte silwerige metaal en is 'n bros
+   vastestof teen lae temperature maar vervloei teen temperature bietjie
+   hoër as kamertemperatuur en sal inderdaad selfs in 'n mens se hand
+   smelt. Dit kom as spoorelement in bauxiet en sinkertse voor. 'n
+   Belangrike aanwending is in die galliumarseniedverbinding wat gebruik
+   word as 'n halfgeleier, veral vir lig-emmisie diodes (LED)s.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Voorsorgmaatreëls
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Baie suiwer gallium het 'n asemrowende silwerkleur en die soliede
+   metaal breek konkoïdaal soos glas. Gallium metaal sit met 3.1% uit
+   wanneer dit stol en moet daarom nie in glas of metaal houers gestoor
+   word nie. Gallium korrodeer ook die meeste metale deurdat in hulle
+   metaalraamwerk in diffundeer.
+
+   Gallium is een van die vier metale (saam met sesium, kwik en frankium)
+   wat vloeibaar is naby aan kamertemperatuur en daarom kan dit ook in hoë
+   temperatuur termometers gebruik word. Dit het ook die uitstaande
+   eienskap dat dit die wydste vloeibare bereik van enige metaal het en
+   (anders as kwik) het ook 'n baie lae dampdruk teen hoë temperature.
+
+   Hierdie metaal het 'n sterk neiging tot superverkoeling onder sy
+   smeltpunt wat dit nodig om saadkristalle by te voeg om dit te laat
+   stol. Hoë suiwerheid gallium word stadig deur minerale sure aangeval.
+   Die smeltpunt is baie laag, T = 30 °C en die digtheid van die vloeistof
+   is hoër as in die kristallyne toestand (net soos water maar anders as
+   die meeste ander materiale).
+
+   Gallium het nie 'n eenvoudige kristalstruktuur nie. Die stabiele fase
+   onder normale toestande is ortorombies met 8 atome in die konvensionele
+   eenheidsel. Elke atoom het slegs een naaste atoom (op 'n afstand van
+   244 pm) en ses ander naburige atome binne 39 pm daarvandaan. Baie
+   stabiele en metastabiele fases is teenwoordig by verskillende
+   temperature en drukke.
+
+   Die verbinding tussen die naaste atome het 'n kovalente aard en daarom
+   word Ga[2] dimere as die fundamentele boublokke van die kristal beskou.
+   Die verbindings met arseen, galliumarsenied, is 'n halfgeleier wat
+   algemeen gebruik word in lig-emissie diodes.
+
+[wysig] Gebruike
+
+   Analoë geïntegreerde stroombane is die mees algemene gebruik van
+   gallium, met opto-elektroniese toestelle (meestal laser diodes en
+   lig-emissie diodes) as die tweede grootste gebruik.
+
+   Ander gebruike sluit in:
+     * Aangesien dit glas of porselein benat, kan gallium gebruik word om
+       baie helder spieëls te vervaardig.
+     * Dit word gereeld gebruik om halfgeleiers te doop om vaste-toestand
+       toestelle soos transistors te vervaardig.
+     * Gallium vorm geredelik legerings met die meeste metale en is al
+       gebruik om laagsmeltende legerings te vervaardig. Die
+       plutoniumputte van kernwapens gebruik 'n legering met gallium om
+       die allotrope van plutonium te stabiliseer. Baie navorsing word ook
+       gedoen rondom die gebruik van gallium legerings om kwikamalgame vir
+       tandheelkundige gebruike te vervang, maar sulke verbindings word
+       nog nie in die bedryf aanvaar nie.
+     * Gallium wat bygevoeg word in hoeveelhede van soveel as 2% in gewone
+       soldeersels kan die benattings- en vloei-eienskappe verbeter.
+     * Gallium word gebruik in sommige hoë-temperatuurtermometers en 'n
+       eutektiese legering van gallium, indium en tin is algemeen
+       beskikbaar in koorstermometers as vervanging vir kwiktermometers.
+       Hierdie legering met die handelsnaam Galinstan het 'n friespunt van
+       −20 °C.
+     * Magnesiumgallaat wat onsuiwerhede (soos Mn^+2) bevat, word al meer
+       gebruik in ultraviolet-geaktiveerde fosforpoeier.
+     * Daar is al voorgestel dat 'n vloeibare Gallium-Tinlegering gebruik
+       moet word om rekenaars se stroombane te verkoel in plaas van water.
+       Dit gelei hitte ongeveer 65 keer beter as water wat dit 'n
+       uitstekende verkoelingsmiddel maak.[1]
+     * Galliumsoute soos galliumsitraat en galliumnitraat word as
+       radiokontraserende middels gebruik in meidiese verbeelding. Die
+       radio-aktiewe isotoop ^67Ga word gebruik vir die toepassing.
+
+[wysig] Geskiedenis
+
+   Gallium (Latyn Gallia wat Gallië beteken; en gallus wat hoenderhaan
+   beteken) is in 1875 ontdek met behulp van spektroskopie deur Lecoq de
+   Boisbaudran aan die hand van sy kenmerkende spektrum (twee pers lyne)
+   tydens 'n analise van sinkblende vanuit die Pirenese berge. Die element
+   se bestaan is voor die ontdekking daarvan reeds deur Dmitri Mendelejev
+   voorspel en van die eienskappe daarvan beskryf aan die hand van sy
+   ligging in die periodieke tabel. Boisbaudran het die element later in
+   1875 geïsoleer deur die elektrolise van die hidroksied in 'n KOH
+   oplossing. Hy het die element na sy geboorteland, Frankryk vernoem en
+   deur die woordspeling ook na homself aangesien 'Lecoq' die haan beteken
+   in Frans.
+
+[wysig] Verspreiding
+
+   Gallium kom nie in die suiwer vorm in die natuur voor nie. Gallium word
+   ontgin as 'n spoorelement in bauxiet, steenkool, diaspore, germaniet en
+   sfaleriet. Die USGS beraam die gallium reserwes gebaseer op 'n aanname
+   van 'n inhoud van 50 ppm konsentrasie op 'n massabasis in bekende
+   reserwes van bauxiet en zinkertse. Sommige fyn steenkoolas is al gevind
+   wat soveel as 1.5 percent gallium bevat het.
+
+   Die meeste gallium word onttrek vanuit die rou aluminiumhidroksied
+   oplossing van die Bayer proses. 'n Kwiksel elektrolise en hidrolise van
+   die amalgaam met natriumhidroksied lewer natriumgallaat. Elektrolise
+   lewer 'n suiwerheid wat laer is as wat vereis word vir
+   halfgeleiervervaardiging en daar word van suiweringsprosesse gebruik
+   soortgelyk aan die vir silikon vir halfgeleiers soos onder ander
+   sonesmelting en die Czochralski proses.
+
+[wysig] Voorsorgmaatreëls
+
+   Gallium word normaalweg nie as toksies beskou nie. Sommige bronne
+   beweer dat dit moontlik dermatitis kan veroorsaak by langdurige
+   blootstelling; toetse het dit egter nog nie bevestig nie. Dit vlek
+   egter jou vel indien dit met die kaal hande vasgehou word.
+
+   Aangesien aluminium en gallium 'n laagsmeltende eutektiese mengsel
+   vorm, verteenwoordig die vervoer van gallium 'n risiko in die
+   lugvaartbedryf in die sin dat as die gallium uit sy houer sou lek dit
+   moontlik die aluminiumstruktuur van die vliegtuig kan aanval en dit
+   verswak met potensieël katastrofiese gevolge. Dis om hierdie rede dat
+   lugvervoerregulasies streng vereistes stel vir die verpakking en
+   maksimum hoeveelhede gallium wat vervoer mag word.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Gallium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Gallium
+     * WebElements.com – Gallium
+     * Foto in die Elementversameling van Heinrich Pniok
+
+   Kategorie: Chemiese elemente
+

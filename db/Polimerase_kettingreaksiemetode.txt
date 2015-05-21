@@ -1,0 +1,63 @@
+Polimerase kettingreaksiemetode
+
+
+   Die polimerase-kettingreaksie (PKR) of DNS-amplifikasie is 'n metode
+   wat gebruik word om DNS te vermeerder sodat dit makliker bestudeer kan
+   word. Deur dié proses word miljoene identiese replikas van 'n stuk DNS
+   binne enkele ure vervaardig. Wanneer dié drade behandel en langs mekaar
+   gelê word, kan 'n duidelike patroon van ligte en donker bande verkry
+   word.
+
+   Voor PKR in 1983 deur 'n Amerikaanse wetenskaplike, Kary Mullis,
+   uitgevind is, moes heelwat weefsel gebruik word om 'n DNS-profiel te
+   verkry. Dit het ernstige praktiese probleme geskep: tensy die bloed of
+   ander weefsel vrywillig geskenk is en behoorlik geberg is nadat dit die
+   liggaam verlaat het, was daar selde genoeg genetiese materiaal
+   beskikbaar vir bestudering.
+
+   Boonop was ouer ontledingsmetodes omslagtig, sodat DNS-studie 'n
+   beperkte plek in genetiese navorsing gehad het. Danksy PCR is dit nou
+   moontlik om DNS uit baie klein hoeveelhede weefsel - byvoorbeeld selle
+   uit speeksel agter op 'n gebruikte seël, of 'n enkele bloedspatsel - te
+   bestudeer. DNS van 'n swak gehalte kan ook ontleed word, wat beteken
+   dat selfs genetiese materiaal van mummies en van uitgestorwe diere soos
+   mammoete en kwaggas nou toeganklik is. Daarby is dit moontlik om
+   ooreenstemmende gene van 'n groot aantal spesies met mekaar te vergelyk
+   en duidelikheid te verkry oor hul verwantskappe met mekaar.
+
+   Die diagnose van genetiese siektes is verder aansienlik vergemaklik,
+   asook die bepaling van die menslike genoom se struktuur.
+
+   Een rede vir die sukses van PCR is dat dit 'n betreklik eenvoudige
+   proses is wat nie hoogs gespesialiseerde toerusting vereis nie. As 'n
+   wetenskaplike 'n bepaalde stuk DNS - byvoorbeeld 'n sekere geen by 'n
+   pasiënt - wil bestudeer, is dit nie nodig vir hom om die geen te
+   isoleer nie. Wat hy wel benewens DNS van die pasiënt nodig het, is die
+   boustowwe van DNS, die ensiem DNS-polimerase en oligonukleotiede.
+
+   Laasgenoemde is stukke DNS - bestaande uit sowat 20 nukleotiede elk -
+   wat op bepaalde plekke op chromosome voorkom. Om die gewenste stuk DNS
+   te vermeerder, gebruik die navorser eksemplare van twee
+   oligonukleotiede wat aan weerskante daarvan voorkom. Dié
+   oligonukleotiede definieer eindpunte van die DNS wat vermeerder moet
+   word.
+
+   Om die proses aan die gang te sit, word die mengsel van DNS en
+   boustowwe verhit. Dit laat die drade van die dubbelheliks waaruit DNS
+   bestaan, skei. Die mengsel word weer afgekoel, en die
+   oligonukleotiedhelftes heg hulself aan die ooreenstemmende DNS-helftes.
+   Die oligonukleotiede dien as afspringplekke waarvandaan die polimerase
+   basisse een vir een byvoeg:
+
+   Slegs die gedeelte tussen die oligonukleotiede word gerepliseer. Die
+   proses van verhitting en verkoeling word oor en oor herhaal tot genoeg
+   kopieë van die gewenste stuk DNS verkry is. Om te voorkom dat die
+   ensiem deur hitte afgebreek word, gebruik navorsers DNS-polimerase uit
+   die warmwaterlewende bakterie Thermus aquaticus.
+
+   Na afloop van een siklus - wat 'n minuut of twee duur - is daar twee
+   stukke DNS, na twee siklusse vier, na drie siklusse agt en na vier
+   siklusse sestien. Danksy dié eksponensiële toename kan meer as 'n
+   miljoen kopieë in minder as 'n uur verkry word.
+   Kategorie: Biochemie
+

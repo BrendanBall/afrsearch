@@ -1,0 +1,35 @@
+Databasisbestuurstelsel
+
+
+   'n Databasisbestuurstelsel (DBBS) is programmatuur wat ontwerp is met
+   die doel om databasisse te bestuur. Tipiese voorbeelde van sulke
+   programmatuur is Oracle, DB2, Microsoft Access, Microsoft SQL Server,
+   Firebird, PostgreSQL, MySQL, SQLite, FileMaker, Sybase Adaptive Server
+   Enterprise. Databasisbestuurstelsels word tipies deur
+   databasisadministrateurs om databasisstelsels te skep.
+
+[wysig] Beskrywing
+
+   'n DBBS is 'n reeks komplekse rekenaarprogramme wat die organisasie-,
+   stoor-, bestuur- en herwinning van data in 'n databasis. 'n DBBS sluit
+   in:
+    1. 'n Modeleertaal om die skema van elke databasis te definieer wat
+       deur die DBBS aangebied word volgens die datamodel.
+          + Die vier algemeenste soorte organisasies is hiërargiese,
+            netwerk, relasioneel en objek. Omgekeerde lyste en ander
+            metodes word ook gebruik. 'n Gegewe DBBS kan een of meer van
+            die stelsels aanbied. Die optimale struktuur hang af van die
+            natuurlike organisasie van die toepassing se data en die
+            toepassing se spesifieke vereistes (wat kan insluit die
+            transaksietempo, betroubaarheid, instandhoudingsvermoë,
+            skaalvermoë en koste).
+          + Die dominante model in gebruik is die ad hoc een soos in SQL
+            vervat. Baie DBBS'e ondersteun die Open Database Connectivity
+            API wat 'n standaard wyse ondersteun waarop programmeurs
+            toegang verkry tot die DBBS.
+    2. Datastrukture (velde, rekords, lêers en objekte) wat geoptimiseer
+       is om baie groot hoeveelhede data te hanteer wat op permanente
+       stoortoestelle gestoor is.
+
+   Kategorie: Sagteware
+

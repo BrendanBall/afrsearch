@@ -1,0 +1,424 @@
+Vergasser
+
+
+   Die vergasser is 'n toestel wat lug en brandstof meng vir 'n
+   binnebrandenjin. Vergassers kan nog steeds aangetref word in klein
+   enjins en in ouer of gespesialiseerde voertuie. Die meeste voertuie
+   word egter deesdae toegerus met brandstofinspuitingstelsels eerder as
+   vergassers. Die oorgrote meerderheid motorfietse word egter steeds van
+   vergassers voorsien as gevolg van die laer gewig en koste daarvan. Ten
+   spyte daarvan is die nuwe tendens om nuwe motorfiets modelle ook met
+   brandstofinspuiting te voorsien.
+
+   Die vergasserenjins het 'n enkele vergasser, maar sommige hoë
+   werkverrigtingsenjins gewoonlik met meer as 4 silinders gebruik
+   veelvuldige vergassers. Ouer enjins het stygstroomvergassers gehad waar
+   die lugvloei van onder die vergasser ingevloei het en die vergasser aan
+   die bokant verlaat het. Die voordeel van hierdie konfigurasie is dat
+   stolling van die enjin deur 'n oorlading brandstof vermy is deurdat
+   enige brandtofdruppels terug in die vergasser sou inval eerder as om in
+   die inlaat verdeelpyp te val; dit het dit ook moontlik gemaak om 'n
+   oliebad te gebruik as lugfilter. Die lug is deur 'n poel olie onder 'n
+   gaas onder die vergasser gesuig en was 'n baie doeltreffende stelsel
+   gewees voor die ontwikkeling van papierfilters. Vandag is die meeste
+   valstroom vergassers met die lugvloei na onder of systroom met 'n
+   sywaartse lugvloei. Klein skroefaangedrewe vliegtuigenjins asook ander
+   klein enjins, soos op grassnyers, gebruik nog stygstroomvergassers.
+
+   Die vergasser werk op die Bernoulli-beginsel: die feit dat hoe vinniger
+   lug beweeg, hoe laer word die druk daarvan [1]. Die versnelklep of
+   versneller beheer nie die vloei van brandstof nie maar eerder die
+   lugvloei na die vergasser. Hoe vinniger die lug vloei hoe meer
+   brandstof word in die vergasser ingetrek vanweë die gedeeltelike vakuum
+   wat ontstaan.
+
+   Inhoud
+
+        * 1 Werking
+             + 1.1 Basiese werking
+             + 1.2 Luiermeganisme
+             + 1.3 Gedeeltelike ladingmeganisme
+             + 1.4 Die hooftoevoermeganisme
+             + 1.5 Versnellerklep
+             + 1.6 Smoorklep (wurgklep)
+             + 1.7 Ander elemente
+        * 2 Brandstofvoorsiening
+             + 2.1 Vlotterkamer
+        * 3 Veelvuldige-keel vergassers
+        * 4 Vergasser verstelling
+        * 5 Geskiedenis en ontwikkeling
+        * 6 Vervaardigers
+        * 7 Verdere leesstof
+
+[wysig] Werking
+
+   Vergasser is gewoonlik een van twee soorte:
+     * Konstante smoring/Veranderlike drukval (Venturi) – die veranderende
+       lugdruk verander die brandstofvloei; dit is die mees algemene
+       valstroom vergassers wat op die meeste Amerikaanse en Japannese
+       fabrikate gevind word.
+
+     * Veranderlike smoring/Konstante drukval- die lugvloei verander die
+       sproeier om sodoende die brandstofvloei te beheer; die mees
+       algemene veranderlike smoring (konstante drukval) soort vergasser
+       is die systroom vergassers wat in beginsel eenvoudig was om te
+       verstel en te onderhou. Hierdie soort vergasser het baie gewild
+       geword in die Verenigde Koninkryk om hierdie rede. Ander
+       soortgelyke ontwerpe is gebruik in sommige Europese en 'n paar
+       Japannese fabrikate.
+
+   'n Vergasser moet:
+     * Die enjin se lugvloei beheer.
+     * Die regte hoeveelheid brandstof verskaf om die lug/brandstofmengsel
+       in die regte bestek te hou (met aanpassings vir faktore soos
+       temperatuur)
+     * Die brandstof eweredig en fyn in die lug vermeng
+
+   Hierdie taak sou eenvoudig wees as lug en petrol beide ideale vloeiers
+   was; in praktyk vereis die afwykings van ideale gedrag vanweë
+   viskositeit, sleurkragte, traagheid ens. 'n hoë mate van kompleksiteit
+   om te kompenseer vir buitengewone hoë of lae enjinsnelhede. 'n
+   Vergasser moet die regte lug/brandstofmengsel onder 'n wye bestek van
+   verskillende omstandighede en enjinsnelhede voorsien:
+     * Koue aanskakeling
+     * Luier of stadig loop
+     * Versnelling
+     * Hoë snelheid/of hoë kraglewering met vol oop versnelklep
+     * Ry teen gedeeltelike smoring (ligte lading)
+
+   Bowenal moet moderne vergassers dit doen terwyl dit terselfdertyd lae
+   uitlaatgasvlakke handhaaf.
+
+   Om korrek te funksioneer onder al hierdie omstandighede bevat
+   vergassers ingewikkelde meganismes om die verskeie bedryfstoestande te
+   ondersteun.
+
+[wysig] Basiese werking
+
+   Bo-aansig van 'n reeks 21L Nikki-vergasser soos geïnstalleer op 'n 1993
+   model Nissan Sentra 160
+   Bo-aansig van 'n reeks 21L Nikki-vergasser soos geïnstalleer op 'n 1993
+   model Nissan Sentra 160
+
+   Met brandstofinspuiting word die werk om lugvloei te beheer en die
+   regte volume brandstof te lewer en dan te meng in aparte komponente
+   hanteer maar in 'n vergasser word dit alles outomaties gedoen deur die
+   venturi beginsel in te span.
+
+   'n Vergasser eenvoudig beskou bestaan uit 'n oop pyp of die
+   "vergasserkeel" waardeur die lug vloei na die inlaatverdeelpyp van die
+   enjin. Die pyp het die vorm van 'n venturi – wat in die middel vernou
+   en dan weer wyer word, wat veroorsaak dat die snelheid in die nouste
+   gedeelte versnel. Onder die venturi is 'n vleuelklep of versnelklep –
+   'n wentelskyf wat gedraai kan word om die lugvloei ongehinderd deur te
+   laat of dit byna geheel en al te smoor. Hierdie klep beheer die
+   lugvloei deur die vergasserkeel en sodoende ook die hoeveelheid
+   lug/brandstofmengsel en daarmee saam die enjin se kraglewering en
+   spoed. Die versnelklep is aan die versneller gekoppel deur 'n kabel of
+   meganiese skakel.
+
+   Brandstof word in die lugstroom ingesuig vanuit klein gaatjies naby die
+   nouste dele van die venturi. Die verhouding van brandstof vloei tot
+   drukval oor die venturi word verstel deur van klein koperskroewe met
+   fyn geykte gaatjies ("sproeiers" genoem) gebruik te maak.
+
+[wysig] Luiermeganisme
+
+   Wanneer die vleuelklep toe of byna toe is, is die vergasser se
+   luiermeganisme aktief. Die geslote versnelklep verminder die lugvloei
+   deur die venturi sodanig dat dit nie die weerstand tot vloei van die
+   brandstof kan oorkom nie en daar vorm ook 'n betekenisvolle vakuum
+   agter die geslote vleuelklep. Hierdie vakuum is voldoende om brandstof
+   deur klein openinge wat agter die vleuelklep geplaas word te suig.
+   Slegs 'n klein hoeveelheid lug en brandstof kan op hierdie wyse
+   deurgelaat word. Omdat hierdie klein volume van die
+   lug/brandstofmengsel so min krag lewer om die enjin aan die draai te
+   hou, is dit moeiliker om te keer dat die enjin stol as teen hoër
+   snelhede.
+
+   Aangesien die lugvloei te laag is vir die vergasser om enigsins te
+   reageer kan dit nie vir wisselings kompenseer nie; in plaas daarvan
+   word die lugvloei vir luiertoestande handmatig deur 'n werktuigkundige
+   verstel deur die verstelskroef so te stel dat die smoorklep effens oop
+   bly om 'n minimum hoeveelheid lug deur te laat asook 'n ander
+   verstelskroef wat as brandstofklep dien en wat bepaal hoeveel brandstof
+   deurgelaat word wanneer die enjin luier. Hierdie verstellings beïnvloed
+   mekaar asook die vakuum in die verdeelpyp wat op sy beurt die
+   vonkverdeler se vonkvervroeging beïnvloed wat dan weer op sy beurt die
+   luierspoed beïnvloed. Hierdie interafhanklikheid van die verstellings
+   maak dit geen maklike taak om 'n enjin na sy optimum (hoogste moontlike
+   verdeelpypvakuum vir die spesifieke luierspoed van die enjin) te
+   verstel nie. Om 'n optimum verstelling te bewerkstellig moet van 'n
+   tachometer en 'n vakuum-meter gebruik word. Sedert die aanvang van
+   uitlaatgasbeheermaatreëls in fabrieksmotors, het dit gebruik geword om
+   die brandstofvloei ten tye van luiering effe armer as die optimum vloei
+   te stel. Die luierbrandstofvloei word ook dikwels verseël om te
+   verseker dat daar nie mee gepeuter kan word nie.
+
+[wysig] Gedeeltelike ladingmeganisme
+
+   Soos die versnelklep effens groter oopgemaak word vanaf die ten volle
+   toe posisie beweeg die vleuelklep se plaat dikwels verby bykomende
+   brandstofleweringsgatjies wat effens hoër op in die vergasserkeel is;
+   hierdie gate laat toe dat meer brandstof invloei en kompenseer ook vir
+   die verlaagde vakuum in die verdeelpyp onder die vergasser en
+   vergemaklik die oorskakeling vanaf luier na die meganisme vir vol oop
+   brandstoftoevoer.
+
+[wysig] Die hooftoevoermeganisme
+
+   Soos die versnelklep geleidelik oopgemaak word verminder die vakuum in
+   die verdeelpyp aangesien daar nou minder weerstand teen lugvloei is,
+   wat veroorsaak dat die brandstofvloei deur die luier- en gedeeltelike
+   ladingmeganisme verminder word. Dit is op hierdie stadium dat die
+   venturi vorm van die vergasserkeel as gevolg van die Bernoulli beginsel
+   in werking begin tree. Die verhoogde lugvloeisnelheid veroorsaak 'n
+   laer druk in die nouer deel van die vergasserkeel wat veroorsaak dat
+   brandstof in die lugstroom ingesuig word deur 'n sproeier in die middel
+   van die venturi. Dikwels word 'n tweede aanjaer-venturi binne-in die
+   hoof venturi geplaas om die effek te verhoog.
+
+   As die versnelklep weer toegemaak word, val die lugvloei deur die
+   venturi totdat die verlaagde druk onvoldoende is om die lugvloei te
+   handhaaf en neem die luiermeganisme weer oor soos hierbo beskryf.
+
+[wysig] Versnellerklep
+
+   Onderaansig van die Nikki 21L reeks vergasser. Die dubbelkeelvergasser
+   het 'n primêre versnelklep wat met 'n kabel aan die versneller verbind
+   is en 'n sekondêre vakuumbeheerde versnelklep.
+   Onderaansig van die Nikki 21L reeks vergasser. Die dubbelkeelvergasser
+   het 'n primêre versnelklep wat met 'n kabel aan die versneller verbind
+   is en 'n sekondêre vakuumbeheerde versnelklep.
+
+   Die feit dat die vloeibare brandstof 'n hoër traagheid het as dit met
+   die lug vergelyk word beteken dit dat as die versnelklep skielik
+   oopgemaak word, die lugvloei vinniger sal toeneem as die brandstofvloei
+   wat 'n tydelike arm mengsel teweeg bring en veroorsaak dat die enjin 'n
+   kortstondige kragverlies ervaar (die teenoorgestelde van wat
+   veronderstel was om te gebeur). Dit word reggestel deur 'n klein
+   meganiese pompie te verskaf (dikwels 'n eenvoudige suiertjie wat in 'n
+   klein buisie gestoot word om petrol in die vergasserkeel in te
+   forseer). Sodoende word 'n klein hoeveelheid ekstra brandstof in die
+   vergasser ingevoer vir daardie arm mengsel periode. 'n Meganisme word
+   gewoonlik voorsien om hierdie hoeveelheid te verstel al is dit soms net
+   deur die koppelstangetjie te buig. As hierdie pompie slytasie ondergaan
+   word die pompie se lewering beïnvloed en kan die kenmerkende
+   kragverlies waargeneem word wanneer die versneller skielik getrap word.
+   Diafragma pompies word ook soms gebruik in hierdie toepassing.
+
+[wysig] Smoorklep (wurgklep)
+
+   As die enjin koud is, is die petrol minder geneig om te verdamp en neig
+   dit om teen die wande van die verdeelpyp te klou wat veroorsaak dat die
+   silinders nie voldoende brandstof kry nie en gevolglik is dit moeilik
+   om die enjin aan te skakel; 'n Ryker mengsel (hoër brandstof tot lug
+   verhouding) word vereis om die enjin aan te skakel en aanvanklik te
+   laat loop tot tyd en wyl die enjin warm geword het.
+
+   Om die ekstra brandstof te verskaf word die vergasser van 'n smoorklep
+   voorsien; 'n toestel wat die lugvloei na die vergasser opstroom van die
+   venturi beperk. Met die weerstand in plek ontstaan 'n hoër vakuum (laer
+   druk) in die vergasserkeel wat die brandstof deur die venturi's insuig
+   om die luier en gedeeltelike ladingmeganisme se brandstofvloeie aan te
+   vul. Sodoende word daar 'n ryk mengsel verskaf wat vereis word om die
+   enjinbedryf by lae temperature vol te hou.
+
+   Die smoorklep word gewoonlik dan ook verder aan 'n vinnige luiernok of
+   soortgelyke toestel verbind wat keer dat die versnelklep ten volle
+   toemaak en die venturi se vakuum laat wegval en die enjin laat stol.
+   Dit dien ook as 'n manier om die enjin vinnig warm te maak deur die
+   enjin aanvanklik hoër as die normale spoed te laat luier. Dit
+   veroorsaak dan ook dat die lugvloei deur die inlaatstelsel hoër is as
+   normaal en meebring dat die koue brandstof fyn verdeel en vermeng word
+   en dus 'n gladde luiering tot gevolg het.
+
+   In ouer motors met vergassers is die smoorklep deur 'n kabel wat aan 'n
+   knop in die kajuit verbind was wat dan deur die bestuurder beheer kon
+   word. Latere modelle het egter 'n outomatiese termostaat beheerde
+   smoorklep gekry wat of deur die enjin se hitte, die verkoelingsmiddel
+   se temperatuur of 'n klein elektriese element geaktiveer is.
+   Laasgenoemde toestel kan dikwels faal en veroorsaak dat die smoorklep
+   in die oop of geslote posisie vassteek wat probleme veroorsaak tydens
+   die aanskakel van die motor of dat die enjin sleg hardloop wanneer hy
+   warm is.
+
+   Sommige vergassers het nie 'n smoorklep nie maar maak eerder gebruik
+   van 'n verrykingsmeganisme. Dit word tipies op kleiner enjins veral
+   motorfietse gebruik. Die verrykingsmeganisme werk deur 'n sekondêre
+   brandstofvoorsieningsgate onder die versnelkleppe oop te maak, op
+   dieselfde wyse as wat die luiermeganisme werk.
+
+   Klassieke Britse motorfietse het 'n ander toestel gebruik vir koue
+   aanskakeling. Die toestel is 'n tickler genoem wat basies 'n
+   veerbelaaide staaf was wat die vlotter afgedruk het en sodoende
+   veroorsaak het dat die oormaat brandstof die vlotterkamer gevul het en
+   dan oorgeloop het in die inlaatstelsel in. Dit het dikwels vloeding van
+   die vergasser veroorsaak en selfs 'n paar brande so veroorsaak.
+
+[wysig] Ander elemente
+
+   Die interaksie tussen elke meganisme kan deur verskeie meganiese- of
+   lugdruk-koppelinge geaktiveer word en ook deur temperatuursensitiewe en
+   elektriese komponente. Hulle word vir verskeie redes ingebou waaronder
+   tel die reaksiesnelheid, brandstofdoeltreffendheid of voertuig
+   uitlaatgasbeheer. Verskeie lugbloeigange (dikwels net soos die
+   sproeiers presies geyk) laat toe dat lug in verskeie brandstofgange
+   ingelaat word om die verdamping en voorsiening van die brandstof te
+   beïnvloed. Verdere verfynings kan ook aan die vergasser en verdeelpyp
+   aangebring word soos byvoorbeeld 'n verhittingsmeganisme om die
+   verdamping van die brandstof aan te help. Sommige voertuie het 'n
+   uitlaatgashersirkulasiestelsel om die stikstofoksied vlakke in die
+   uitlaatgasse te verminder wat dan dikwels in die vergasser ingebou of
+   daaraan verbind is.
+
+[wysig] Brandstofvoorsiening
+
+[wysig] Vlotterkamer
+
+   Om te verseker dat die brandstofvoorsiening geredelik beskikbaar is het
+   die vergasser 'n vlotterkamer wat 'n hoeveelheid brandstof bevat wat
+   onmiddelik vir gebruik beskikbaar is. Die vlotterkamer is voorsien van
+   'n vlotter wat aan 'n naaldklep verbind is en die invloei van brandstof
+   beheer soortgelyk aan die vlotterklep wat 'n mens in 'n toilet se tenk
+   kry. Die vlak van die brandstof in die vlotterkamer word verstel deur
+   'n stelskroef of soms bloot deur 'n armpie te buig wat aan die vlotter
+   verbind is. Indien die vlotter beskadig word of die naald verweer raak
+   veroorsaak dit dikwels dat die vlotterkamer se vlak te hoog word wat
+   dan tot gevolg het dat brandstof oorloop tot in die inlaatstelsel van
+   die vergasser en dus vloeding veroorsaak wat die enjin laat stol. Die
+   naaldklep word ook soms vuil as gevolg van sediment, residu of
+   vernis/gom wat deur die verdampende petrol agtergelaat word en verhoed
+   dat die naaldklep sy funksie doeltreffend verrig. Gewoonlik word
+   spesiale ontlugterbuise ook voorsien om te verseker dat lug kan ontsnap
+   soos die vlotterkamer gevul of leeg word. Dit verseker dat atmosferiese
+   druk binne in die vlotterkamer gehandhaaf word. Hierdie buise steek
+   gewoonlik tot in die vergasserkeel in. Die plasing van hierdie buise is
+   baie belangrik om te verhoed dat brandstof in die vergasserkeel beland
+   as die voertuig rondskud. Sulke ontlugterbuise kan dus nie in 'n
+   vergasserkeel ingelaat word waar die opstroomdruk deur 'n turbo-aanjaer
+   verhoog is nie. In sulke gevalle moet die vergasser in 'n lugdigte
+   drukomhulsel gehuisves word om te kan werk. Dit is nie nodig wanneer
+   die vergasser opstroom van die aanjaer is nie en dis ook dan die rede
+   waarom hierdie stelsel meer dikwels gebruik word. Die nadeel hiervan is
+   egter dat die aanjaer met 'n saamgeperste lug/brandstofmengsel gevul is
+   wat 'n sterk neiging het om te ontplof as die enjin sou kets; hierdie
+   soort ontploffing kan dikwels in sleeprenne waargeneem word waar
+   verskeie veiligheidsmeganismes rondom die aanjaers ingebou word.
+
+   In enjins wat in meer as een oriëntasie bedryf moet word (bv
+   kettingsae) kan 'n vlotterkamer nie werk nie. 'n Diafragma kamer word
+   dan gebruik. 'n Plooibare diafragma vorm die een kant van die
+   brandstofkamer en word so gerangskik dat as brandstof in die enjin
+   ingesuig word die diafragma deur die buitenste lugdruk na binne getrek
+   word. Die diafragma is aan die naaldklep gekoppel wat meer brandstof
+   inlaat wanneer dit so ingetrek word om die brandstof aan te vul. Soos
+   die kamer dan weer gevul word, word die naaldklep dan weer toegedruk.
+
+[wysig] Veelvuldige-keel vergassers
+
+   Colombo Tipe 125 "Testa Rossa" enjin in 'n 1961 Ferrari 250TR Spyder
+   met 6 Weber 2 keel vergassers wat lug inlaat deur 12 trompette wat
+   bo-aan die enjinkap sigbaar is, een indiwidueel verstelbare keel vir
+   elke silinder; 'n hoogs verstelbare opstelling.
+   Colombo Tipe 125 "Testa Rossa" enjin in 'n 1961 Ferrari 250TR Spyder
+   met 6 Weber 2 keel vergassers wat lug inlaat deur 12 trompette wat
+   bo-aan die enjinkap sigbaar is, een indiwidueel verstelbare keel vir
+   elke silinder; 'n hoogs verstelbare opstelling.
+
+   Terwyl lae werkverrigting vergassers dikwels net een keel het, het die
+   meeste vergassers meer as een venturi of keel, gewoonlik 'n dubbelkeel
+   met 4 keels vir die baie groter verplasing, hoë werkverrigtingsenjins.
+
+   Veelvuldige-keel vergassers kan primêre en sekondêre keels van
+   verskillende groottes en uitleg hê wat gekalibreer is om mengsels met
+   verskillende lug/branstofverhoudings te lewer. Hulle kan deur die
+   versnellerskakel of deur enjinvakuum beheer word in 'n toenemende mate
+   sodat die sekondêre keels eers begin oopmaak wanneer die primêre keels
+   byna heeltemal oopgemaak het. Hierdie uitleg verseker maksimum lugvloei
+   deur die primêre keels teen die meeste enjinsnelhede en maksimeer
+   sodoende die sein van die venturi's en verminder die weerstand teen
+   lugvloei teen hoër snelhede deur meer deursnee-oppervlak vir hoër
+   lugvloei beskikbaar te stel.
+
+[wysig] Vergasser verstelling
+
+   Wanneer daar te veel brandstof in die lug-brandstofmengsel is word daar
+   gesê dat die mengsel te ryk is; as daar te min brandstof is, is die
+   mengsel te arm. Die mengsel word normaalweg met twee verstelskroewe
+   beheer op 'n motorvoertuig se vergasser of deur 'n leierklep
+   geaktiveerde hefboom op 'n skroefaangedrewe vliegtuig (aangesien die
+   mengsel drukafhanklik is (a.g.v. Hoogte)). Die korrekte lug tot petrol
+   verhouding is ongeveer 14.6:1, wat beteken dat vir elke gewigseenheid
+   petrol daar 14.6 eenhede lug gebrand moet word; sien stoichiometrie.
+   Streng gesproke is dit die doeltreffendste verhouding maar om meer krag
+   te verkry moet 'n 11:1 mengsel gebruik word en om brandstofdoeltreffend
+   te wees moet 'n 18:1 mengsel gebruik word. Vergasserverstellings kan
+   nagegaan word deur die koolstofmonoksied, koolwaterstof en suurstof
+   vlakke in die uitlaatgasse te meet. 'n Meer gesofistikeerde manier wat
+   in moderne brandstofinspuitingenjins gebruik word, is om die korrekte
+   mengsel te bepaal deur 'n lambda sensor te gebruik om die oorblywende
+   suurstof in die uitlaatgas te meet. Die lambda sensor se uitset word
+   dan na 'n enjinbeheerstelsel gevoer wat op sy beurt die hoeveelheid
+   brandstof wat ingespuit word aanpas.
+
+   Die mengsel kan ook beoordeel word aan die hand van die kleur van die
+   vonkproppe: swart proppe met droë roet daarop dui 'n te ryk mengsel
+   aan, wit tot liggrys neerslae dui op 'n te arm mengsel. Die korrekte
+   kleur behoort 'n bruinerige grys kleur te wees.
+
+[wysig] Geskiedenis en ontwikkeling
+
+   Die vergasser is in 1893 deur die Hongaarse ingenieur Donát Bánki
+   ontdek.
+
+[wysig] Vervaardigers
+
+   Sommige vervaardigers van vergassers is/was
+     * Amal Ltd, Verenigde koninkryk, hoofsaaklik motorfiets vergassers.
+     * Autolite, 'n afdeling van die Ford Motormaatskappy
+     * Bing Vergasser (word gebruik op BMW motorfietse, vliegtuie, bote)
+     * Briggs and Stratton, klein enjins (bv. Petrolaangedrewe grassnyers)
+     * Carter carburetor
+     * Edelbrock AVS Carburetors
+     * Hitachi, Ltd., word op Japannese voertuie aangetref
+     * Holley
+     * Keihin, ook algemeen op Japannese en ander motorfietse aangetref
+     * Mikuni, algemeen op Japannese motorfietse veral in die 1980s
+     * Pierburg carburetor
+     * ProForm Carburetors
+     * Rochester carburetor, VSA ('n General Motors afdeling; het ook al
+       Weber/Magneti-Marelli vergassers onder lisensie verkoop)
+       (Inligting)
+     * Solex carburetor
+     * Stromberg carburetor
+     * SU carburetor – Verenigde Koninkryk
+     * Villiers – Verenigde Koninkryk Motorfietse en klein enjins
+     * Walbro en Tillotson vir klein enjins Inligting
+     * Weber carburetor, Italiaans, deur Magneti-Marelli besit.
+     * Zenith Carburetters – Verenigde Koninkryk, vervaardig ook die
+       Zenith-Stromberg Vergassers
+     __________________________________________________________________
+
+   Vir woordeboekinligting, sien die bladsy vergasser op WikiWoordeboek
+
+[wysig] Verdere leesstof
+
+     * Heldstab, Wayne, "The secret of the super mileage caburator : how
+       they work, how to build them".
+
+   Patente
+     * G.B. Рatent 11119 --
+
+   Mixing chamber -- Donát Bánki
+     * VSA Patent no. 610040 -- Carburetor -- Henry Ford
+     * VSA Patent no. 1750354 -- Carburetor -- Charles Nelson Pogue
+     * VSA Patent no. 1938497 -- Carburetor -- Charles Nelson Pogue
+     * VSA Patent no. 1997497 -- Carburetor -- Charles Nelson Pogue
+     * VSA Patent no. 2026798 -- Carburetor -- Charles Nelson Pogue
+     * VSA Patent no. 2982528 -- Vapor fuel system -- Robert S. Shelton
+     * VSA Patent no. 4177779 -- Fuel economy system for an internal
+       combustion engine -- Thomas H. W. W. Ogle
+
+   Kategorie: Voertuigtegnologie
+

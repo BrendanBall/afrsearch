@@ -1,0 +1,26 @@
+Kubus
+
+
+          Vir ander betekenisse van die woord "kubus", sien gerus Kubus
+          (dubbelsinnig).
+
+   'n Kubus met die breedtelyn = a, die dieptelyn = b, die hoogtelyn = c
+   en die diagonaal = d.
+   'n Kubus met die breedtelyn = a, die dieptelyn = b, die hoogtelyn = c
+   en die diagonaal = d.
+
+   'n Kubus is 'n platoniese veelvlak wat uit ses vlakke bestaan wat almal
+   vierkante is. 'n Kubus het agt hoeke wat almal gelyk is aan 90°.
+
+   Die inhoud van 'n kubus word bereken deur die formule a³ (dus a.a.a),
+   waar "a" gelykstaande aan die hoogte van die kubus is.
+
+   Die oppervlak word bereken deur die formule 6 × a², waar "a", weereens,
+   gelykstaande aan die hoogte van die kubus is.
+
+   Die diagonaal van 'n kubus kan bereken word deur die formule
+   \sqrt[2]{3a^2} , met "a" gelykstaande aan die hoogte van die kubus.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Meetkunde
+

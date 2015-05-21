@@ -1,0 +1,78 @@
+Dampdruk
+
+
+   Die dampdruk is die druk (in die geval van 'n gasmengsel, die parsiële
+   druk) van 'n damp. By enige gegewe temperatuur is daar vir 'n bepaalde
+   stof 'n druk waar die damp van die stof in ewewig is met sy vloeistof-
+   of vastestofvorm. Hierdie word die ewewigsdampdruk of
+   versadigingsdampdruk van die stof by daardie temperatuur genoem. Die
+   term dampdruk word dikwels gebruik om na hierdie versadigingsdampdruk
+   te verwys. 'n Stof met 'n hoë dampdruk teen normale temperature word 'n
+   vlugtige stof genoem.
+
+   Inhoud
+
+        * 1 Ewewigsdampdruk van vastestowwe
+        * 2 Verwantskap tussen vastestof- en vloeistofdampdrukke
+        * 3 Water se dampdruk
+        * 4 Sien ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Ewewigsdampdruk van vastestowwe
+
+   Die ewewigsdampdruk kan gedefinieer word as die druk wat bereik word
+   wanneer 'n gekondenseerde fase in ewewig is met sy eie damp. In geval
+   van 'n vastestof in ewewig (d.w.s. kristallyne stof) kan dit
+   gedefinieer word as die druk waar die tempo van sublimasie van 'n
+   vastestof dieselfde is as die tempo waarteen die dampfase neerslaan.
+   Die druk in die geval van die meeste vastestowwe is baie laag met 'n
+   paar noemenswaardige uitsonderings soos naftaleen en ys. Alle
+   vastestowwe het 'n dampdruk. Meting daarvan is egter baie moeilik
+   vanweë die uiterste lae waardes. Tipiese tegnieke wat gebruik word is
+   termogravimetrie en gastranspirasie.
+
+[wysig] Verwantskap tussen vastestof- en vloeistofdampdrukke
+
+   Daar moet kennis geneem word van die feit dat die dampdruk van 'n stof
+   in die vloeistofvorm gewoonlik verskillend is van die dampdruk van
+   dieselfde stof se vastestofvorm. As die temperatuur sodanig is dat die
+   dampdruk van die vloeistof hoër is as dié van die vastestof, sal die
+   vloeistof verdamp maar sal die damp kondenseer na 'n vastestof, d.w.s.
+   die vloeistof vries. As die temperatuur sodanig is dat die dampdruk van
+   die vloeistof laer is as dié van die vastestof, sal die vastestof
+   verdamp, maar sal die damp kondenseer om 'n vloeistof te vorm, d.w.s.
+   die vastestof is besig om te smelt. By die temperatuur waar die twee
+   dampdrukke dieselfde is, sal daar 'n ewewig tussen die vastestof en
+   vloeistof bestaan. Hierdie temperatuur word die smeltpunt genoem.
+
+[wysig] Water se dampdruk
+
+   Die kookpunt van water vir drukke rondom 100 kPa kan benader word deur
+   die volgende vergelyking:
+
+   T_v = 100 + 0.0002772 \cdot (p - 101000) - 1.24 \cdot 10^{-9} \cdot (p
+   - 101000)^2 ,
+
+   waar die temperatuur in grade Celsius en die druk p in pascal aangegee
+   word. Die dampdruk word verkry deur die vergelyking op te los vir p.
+
+   Raoult se wet bepaal by benadering die dampdrukke van
+   vloeistofmengsels.
+
+[wysig] Sien ook
+
+     * Relatiewe humiditeit
+     * Absolute humiditeit
+
+[wysig] Verwysings
+
+     * Ooreenstemmende artikel in die Engelstalige Wikipedia.[1]
+
+[wysig] Eksterne skakels
+
+     * MVDS Dampdruk (Engelstalig)
+     * Hyperphysics
+
+   Kategorie: Chemiese eienskappe
+

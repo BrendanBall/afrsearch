@@ -1,0 +1,447 @@
+Fotosintese
+
+
+   'n Blaar, die plek waar fotosintese hoofsaaklik in plante plaasvind.
+   'n Blaar, die plek waar fotosintese hoofsaaklik in plante plaasvind.
+
+   Fotosintese is 'n belangrike biochemiese proses waarmee plante, alge,
+   en sommige bakterieë die energie van sonlig benut om voedsel te
+   vervaardig. Die meeste lewende organismes is per slot van rekening
+   direk of indirek afhanklik van fotosintese vir hulle voedsel. Dit is
+   verantwoordelik vir die vervaardiging van suurstof wat 'n groot deel
+   van die aarde se atmosfeer uitmaak. Organismes wat energie omskakel
+   deur middel van fotosintese word fototrowe genoem. Daar word geraam dat
+   meer as die helfte van alle fotosintese wat op aarde plaasvind nie
+   vanaf plante afkomstig is nie maar vanaf bakterieë en alge.
+
+   Inhoud
+
+        * 1 Plantfotosintese
+        * 2 Fotosintese in alge en bakterieë
+        * 3 Molekulêre vervaardiging
+             + 3.1 Lig na chemiese energie
+             + 3.2 Z-skema
+                  o 3.2.1 Waterfotolise
+                  o 3.2.2 Suurstof en fotosintese
+                  o 3.2.3 Bakteriese variasies
+             + 3.3 Koolstofvaslegging
+        * 4 Ontdekking
+        * 5 Termodinamika van fotosintese
+        * 6 Faktore wat fotosintese beïnvloed
+             + 6.1 Ligintensiteit (stralingsdigtheid), golflengte en
+               temperatuur
+             + 6.2 Koolstofdioksied
+             + 6.3 Bykomstige faktore
+        * 7 Verwysings
+        * 8 Sien ook
+        * 9 Eksterne skakels
+
+[wysig] Plantfotosintese
+
+   Plante is foto-outotrowe, wat beteken dat hulle hul voedsel sintetiseer
+   vanuit anorganiese verbindings deur gebruik te maak van ligenergie, in
+   plaas daarvan om ander organismes te verorber of om op materiaal deur
+   hulle vervaardig staat te maak. Hulle moet onderskei word van die
+   chemo-outotrowe wat nie op ligenergie staatmaak nie maar die energie
+   wat in anorganiese verbindings opgesluit is om hulle voedsel te maak.
+
+   Die energie vir die fotosintese proses is uiteindelik afkomstig vanaf
+   die geabsorbeerde fotone en behels 'n reduseermiddel, water in die
+   geval van plante met suurstof wat as afvalproduk uitgeskei word. Die
+   ligenergie word omgeskakel na chemiese energie in die vorm van ATP en
+   NADPH deur gebruik te maak van die lig-afhanklike reaksies waar dit dan
+   beskikbaar gemaak word vir die vaslegging van koolstof. Die bekendste
+   reaksies gebruik die chemiese energie om koolstofdioksied in
+   koolhidrate en ander organiese verbindings vas te lê deur
+   lig-afhanklike reaksies. Die oorhoofse chemiese vergelyking vir
+   fotosintese in groen plante is:
+
+          n CO[2] + 2n H[2]O + lig energie → (CH[2]O)[n] + n O[2] + n
+          H[2]O
+
+   Waar n gedefinieer word na aanleiding van die struktuur van die
+   gevolglike koolhidraat. Heksose, suikers en stysel is egter die primêre
+   produkte en daarom word die volgende veralgemeende vergelyking gebruik
+   om fotosintese voor te stel:
+
+          6 CO[2] + 12 H[2]O + ligenergie → C[6]H[12]O[6] + 6 O[2] + 6
+          H[2]O
+
+   Om meer spesifiek te wees het fotosintese reaksies gewoonlik 'n
+   intermediêre produk tot gevolg wat daarna na die finale heksose
+   koolhidraat produkte omgeskakel word. Hierdie koolhidraatprodukte word
+   dan gebruik om ander organiese verbindings te maak, soos die
+   boumateriaal sellulose, as voorganger vir lipied- en
+   aminosuur-biosintese of as brandstof in selrespirasie. Laasgenoemde
+   vind nie net in plante plaas nie maar ook in diere wanneer die energie
+   afkomstig vanuit plante deur die voedselketting verwerk word.
+   Vereenvoudig gesproke is selrespirasie die teenoorgestelde van
+   fotosintese: glukose en ander verbindings word geoksideer om
+   koolstofdioksied, water en chemiese energie vry te stel. Die twee
+   prosesse vind egter deur verskillende reaksiestappe plaas en in
+   verskillende dele van die sel.
+
+   Plante gebruik hoofsaaklik die pigment chlorofil om ligenergie vas te
+   lê, wat dan ook die hoofrede is waarom die meeste plante 'n groen kleur
+   het. Die werking van chlorofil word ondersteun deur ander bykomende
+   pigmente soos karotenoïede en xantofille. Beide chlorofil en bykomende
+   pigmente is geleë in organelle (kompartemente in die sel) wat
+   chloroplaste genoem word. Alhoewel alle selle in die groen dele van
+   plante chloroplaste bevat word die meeste energie in die blare
+   omgeskakel. Die sell in die binneste weefsels van 'n blaar, wat die
+   mesofiel genoem word, bevat ongeveer 'n halfmiljoen chloroplaste vir
+   elke vierkante millimeter van 'n blaaroppervlak. Die oppervlak van 'n
+   blaar word eenvormig bedek met 'n waterbestande wasagtige kutikula wat
+   die blaar teen oormatige verdamping van water beskerm en ook die
+   absorpsie van ultraviolet of blou lig verhinder om oorverhitting teen
+   te werk. Die deursigtige kleurlose epidermis laat lig deur die palisade
+   mesofilselle waar die meeste fotosintese dan plaasvind.
+
+[wysig] Fotosintese in alge en bakterieë
+
+   Alge wissel vanaf veelsellige vorms soos kelp tot mikroskopiese
+   enkelsellige organismes. Alhoewel hulle nie so kompleks is soos plante
+   op land nie vind fotosintese op dieselfde manier in hulle plaas. Soos
+   plante het alge ook chloroplaste en chlorofil, maar bevat hulle ook
+   ander bykomstige pigmente wat 'n wye verskeidenheid kleure aan hulle
+   verleen. Alle alge vervaardig suurstof en vele is outotrofies. Sommiges
+   is egter heterotrofies, en maak ook staat op materiale wat deur ander
+   organismes vervaardig is.
+
+   Fotosintetiese bakterieë bevat nie chloroplaste nie. In plaas daarvan
+   vind fotosintese direk aan die binnekant van die sel plaas. Die
+   sianobakterieë bevat chlorofil en suurstof op dieselfde wyse as
+   chloroplaste en daar word gereken dat chloroplaste waarskynlik ontstaan
+   het vanuit die sianobakterieë deur endosimbiose. Die ander
+   fotosintetiese bakterieë bevat 'n verskeidenheid pigmente, wat
+   bakteriochlorofil genoem word en vervaardig nie suurstof nie.
+
+[wysig] Molekulêre vervaardiging
+
+[wysig] Lig na chemiese energie
+
+   'n Fotostelsel: 'n Tros ligversamelende fotosintetiese pigmente in 'n
+   chloroplaste tikaloïede membraan
+   'n Fotostelsel: 'n Tros ligversamelende fotosintetiese pigmente in 'n
+   chloroplaste tikaloïede membraan
+   Die 'Z-skema' van elektronvloei in lig-afhanklike reaksies
+   Die 'Z-skema' van elektronvloei in lig-afhanklike reaksies
+
+   Die ligenergie word omgeskakel na chemiese energie deur van
+   lig-afhanklike reaksies gebruik te maak. Die produkte van die reaksies
+   is ATP deur fotofosforilasie en NADPH
+   (nikotienadeniendinukleotiedfosfaat) vanuit fotoreduksie. Beide word
+   dan as energiebron benut vir die lig-onafhanklike reaksies.
+
+[wysig] Z-skema
+
+   In plante vind die lig-afhanklike reaksies in die tikaloïedmembrane van
+   die chloroplaste plaas en word die ligenergie gebruik om ATP en NADPH
+   te sintetiseer. Die fotone word vasgevang in die antennakomplekse van
+   fotosisteem I en II deur chlorofil en bykomstige pigmente (sien diagram
+   regs). Wanneer 'n chlorofil a molekule by 'n fotosisteem se
+   reaksiepunt, energie absorbeer word 'n elektron opgewek en oorgedra na
+   'n ander elektronontvanger-molekule deur middel van 'n proses wat
+   fotogeïnduseerde ladingskeiding genoem word. Hierdie elektrone word
+   vervoer deur 'n elektronoordragketting wat eerstens 'n chemiese
+   osmotiese potensiaal oor die membraan daarstel, die sogenaamde
+   “Z-Skema” wat in die diagram aangetoon word. 'n ATP sintase ensiem
+   gebruik hierdie chemiese osmotiese potensiaal om die ATP te maak tydens
+   die fotofosforilasie terwyl NADPH 'n produk is van die terminale
+   redoksreaksie in die Z-skema.
+
+[wysig] Waterfotolise
+
+   Die NADPH is die hoof reduseermiddel in chloroplaste, wat 'n bron van
+   energieke elektrone aan ander reaksies verskaf. Die vervaardiging
+   daarvan laat chlorofil met 'n tekort aan elektrone (geoksideer), wat
+   dan weer deur 'n ander reduseermiddel vervang moet word. Die opgewekte
+   elektrone wat vanaf die chlorofil verlore gaan in fotosisteem I word
+   vervang vanaf die elektronvervoerketting deur plastosianien. Aangesien
+   fotosisteem II die eerste stappe van die Z-skema insluit, word 'n
+   eksterne bron van elektrone benodig om die geoksideerde chlorofil a
+   molekules te reduseer. Hierdie rol word deur water vervul tydens 'n
+   reaksie wat bekend staan as fotolise en het die splitsing van water tot
+   gevolg om elektrone, suurstof en waterstofione te lewer. Fotosisteem II
+   is die enigste bekende biologiese ensiem wat hierdie oksidasie van
+   water bewerkstellig. Aanvanklik dra die waterstofione vanaf die
+   fotolise by tot die chemiese osmotiese potensiaal maar uiteindelik bind
+   hulle aan die waterstofdraermolekule NADP^+ om NADPH te vorm. Suurstof
+   is 'n afvalproduk van fotosintese maar speel 'n belangrike rol in die
+   selrespirasie van die oorgrote meerderheid lewende organismes.
+
+[wysig] Suurstof en fotosintese
+
+   Met betrekking tot suurstof en fotosintese bestaan daar twee belangrike
+   begrippe.
+     * Plant- en algselle gebruik ook suurstof vir selrespirasie, maar
+       lewer egter 'n netto oormaat suurstof aangesien hulle meer
+       vervaardig as wat hulle gebruik.
+     * Suurstof is 'n produk van die fotolise reaksie en nie van die
+       vaslegging van koolstofdioksied tydens lig-afhanklike reaksies nie.
+       Gevolglik is die bron van die suurstof tydens fotosintese water en
+       NIE koolstofdioksied nie.
+
+[wysig] Bakteriese variasies
+
+   Die begrip dat suurstofproduksie nie direk met die vaslegging van
+   koolstofdioksied verband hou nie is eerste deur Cornelis Bernadus van
+   Neil, wat fotosintetiese bakterieë bestudeer het, in die 1930s
+   voorgestel. Behalwe vir die sianobakterieë het bakterieë net een
+   fotosisteem en gebruik ander reduseermiddels as water. Hulle kry hulle
+   elektrone vanaf 'n verskeidenheid anorganiese chemikalieë wat sulfiede
+   of waterstof insluit, dus word suurstof nie by die meerherheid
+   fotosintetiese bakterieë vervaardig nie.
+
+   Ander, soos die halofiele ('n Archeae) produseer sogenaamde pers
+   membrane waar die bakteriorodopsien die lig kan versamel en energie kan
+   omskakel. Die persmembrane was een van die eerste wat gebruik is om die
+   chemiese osmotiese teorie te demonstreer: lig tref die membrane en die
+   pH van die oplossing wat die pers membrane bevat het, het geval soos
+   die protone deur die membraan uitgeskei is.
+
+[wysig] Koolstofvaslegging
+
+   Die vaslegging van koolstofdioksied is 'n lig-afhanklike proses waarin
+   koolstofdioksied met 'n vyf-koolstofsuiker, ribulosebifosfaat (RuBP),
+   om twee molekules van 'n drie-koolstofverbinding, gliseraat 3-fosfaat
+   (GP). Hierdie verbinding staan ook bekend as 3-fosfogliseraat (PGA).
+   GP, in die teenwoordigheid van ATP en NADPH vanuit die lig-afhanklike
+   stappe word gereduseer na gliseraldehied 3-fosfaat (G3P). Hierdie
+   produk ook na verwys as 3-fosfogliseraldehied (PGAL) of selfs as triose
+   fosfaat (a drie-koolstofsuiker). Hierdie is die punt waar koolhidrate
+   gevorm word tydens fotosintese. Sommige van die triose fosfate
+   kondenseer om heksose-fosfate, sukrose, stysel en sellulose te vorm of
+   word andersins omgeskakel na asetielkoensieme A om aminosure en lipiede
+   te vorm. Ander gaan verder om RuBP te hergenereer sodat die proses kan
+   voortduur (sien Calvin siklus).
+
+[wysig] Ontdekking
+
+   Al word sommige van die stappe in fotosintese steeds nie volkome
+   verstaan nie, is die oorhoofse chemiese vergelyking van fotosintese al
+   sedert die 1800s bekend. Jan van Helmont het navorsing oor die proses
+   in die middel 1600s begin doen toe hy versigtige metings gedoen het oor
+   die massa van die grond wat deur 'n plant gebruik word en die massa van
+   die plant self soos dit gegroei het. Nadat hy opgemerk het dat die
+   grondmassa baie min verander het, het hy die hipotese voorgestel dat
+   die massa van die groeiende plant vanaf die water moes kom, die enigste
+   stof wat tot die plant in die pot toegevoeg is. Dit was 'n gedeeltelik
+   akkurate hipotese – baie van die massa wat begekom het kom vanaf die
+   koolstofdioksied asook de water. Hierdie was egter 'n keerpunt en is
+   die idee gevestig dat die meeste van die plant se biomassa afkomstig
+   was vanuit die insette van fotosintese en nie die grond alleen nie.
+
+   Joseph Priestly, 'n chemikus en prediker, het ontdek dat wanneer hy 'n
+   hoeveelheid lug onder 'n omgekeerde fles vasgevang het en 'n kers
+   daarin gebrand het, dat die kers vinnig sou uitbrand, lank voordat die
+   kerswas verbruik was. Hy het ook ontdek dat 'n muis die lug op
+   soortgelyke wyse kon "beskadig". Hy het toe getoon dat die lug wat
+   sodoende deur 'n muis of 'n kers "beskadig" is, weer deur 'n plant
+   herstel kon word.
+
+   In 1778 het Jan Ingenhousz, 'n dokter verbonde aan die hof van die
+   Oostenrykse Keiserin, Priestly se eksperimente herhaal. Hy het ontdek
+   dat dit die invloed van die son en lig op die plant was wat veroorsaak
+   het dat 'n muis onder die omstandighede gered kon word.
+
+   In 1796 het Jean Senebier, 'n Franse pastoor, getoon dat CO[2] die
+   "beskadiging" van die lug veroorsaak het en dat dit deur plante
+   opgeneem is tydens fotosintese. Kort daarna het Nicholas-Théodore de
+   Saussure getoon dat die toename in massa van die plant soos dit groei
+   nie alleen deur die opname van CO[2] verduidelik kon word nie maar ook
+   deur die insluiting van water. Die basiese reaksie waardeur fotosintese
+   gebruik is om voedsel (soos glukose) te vorm is dus toe reeds
+   vasgestel.
+
+   Moderne wetenskaplikes bou op die fondasie van kennis wat eeue gelede
+   deur daardie wetenskaplikes gelê is en het hulle in staat gestel om
+   veel meer te ontdek.
+
+   Cornelius van Niel het deurslaggewende ontdekkings gemaak wat die
+   chemie van fotosintese verder toegelig het. Deur die pers
+   swaelbakterieë en groenbakterieë te bestudeer was hy die eerste
+   wetenskaplike om te toon dat fotosintese 'n lig-afhanklike redoks
+   reaksie was waarin waterstof koolstofdioksied reduseer.
+
+   Verder eksperimente om te bewys dat die suurstof wat vrygestel word
+   tydens fotosintese van groen plante van water afkomstig was is deur
+   Robert Hill in 1937 en 1939 gedoen. Hy het getoon dat geïsoleerde
+   chloroplast suurstof afgegee het in die teenwoordigheid van
+   onnatuurlike reduseermiddels soos ysteroksalaat, ystersianied of
+   benzokinoon na blootstelling aan lig. Die Hill reaksie is as volg:
+
+          2 H[2]O + 2 A + (lig, chloroplast) → 2 AH[2] + O[2]
+
+   waar A die elektronontvanger is. Dus word die elektronontvanger in lig
+   gereduseer met die gepaardgaande vrystelling van suurstof.
+
+   Samuel Ruben en Martin Camen het radio-aktiewe isotope gebruik om te
+   bepaal dat die suurstof wat vrygestel is tydens fotosintese vanaf die
+   water afkomstig was.
+
+   Melvin Calvin en sy vennoot Benson was in staat om elke stadium van die
+   donker of lig-onafhanklike fases van fotosintese uit te pluis en die
+   donker-reaksies staan bekend as die Calvin siklus.
+
+   'n Nobelpryswenner, Rudolph A. Marcus, het die belangrikheid en funksie
+   van die elektronvervoerketting ontdek.
+
+[wysig] Termodinamika van fotosintese
+
+   Fotosintese is 'n fisiologiese verskynsel waar sonenergie na
+   fotochemiese-energie omgeskakel word. Hierdie fisiologiese verskynsel
+   kan termodinamies beskryf word in terme van die veranderinge in
+   energie, entropie en vrye energie. Die termodinamika van fotosintese
+   behels die omsetting van ligenergie om 'n entropie verandering teweeg
+   te bring om sodoende 'n bruikbare bron van energie vir die plant te
+   verskaf.
+
+   Die volgende chemiese vergelyking som die produkte en reaktante van
+   fotosintese in tipiese groen fotosinterende plante op:
+
+   CO[2] + H[2]O → O[2] + (CH[2]O) + 112 kcal/mol CO[2]
+
+   Vrye energiebronne op aarde kan afkomstig wees vanaf lig vanaf die son
+   of dit kan aardgebonde bronne soos vulkane, warmbronne en die
+   radio-aktiewe straling vanaf sekere elemente wees. Sigbare lig, wat
+   deur groen plante vir fotosintese aangewend word, het die opwekking van
+   elektrone in seker stowwe wat pigmente genoem word tot gevolg. Die
+   Chlofil a pigment byvoorbeeld dien as 'n katalis wat sonenergie na
+   fotochemiese energie omskakel wat noodsaaklik is vir fotosintese.
+
+   Die teenwoordigheid van sonenergie op die aardoppervlak verskaf aan
+   plante 'n bruikbare bron van energie, wat die vrye energie (G) van die
+   stelsel genoem word. Termiese energie is egter nie volledig
+   omskakelbaar nie wat beteken dat uit die aard van die sonenergie daar
+   beperkte vorme is wat deur die plant benut kan word. Dit hou verband
+   met die gevolgtrekkings uit die werk wat deur Josiah Willard Gibbs
+   gedoen is: naamlik dat die verandering in vrye energie (Δ[r]G) verband
+   hou met beide die veranderinge in entropie (Δ[r]S) en die verandering
+   in entalpie (Δ[r]H) van die stelsel en word wiskundig as volg
+   uitgedruk:
+
+   Gibbs vrye energie vergelyking: Δ[r]G = Δ[r]H – TΔ[r]S
+
+   Eksperimente het in die verlede aangetoon dat die totale energie wat
+   deur fotosintese geproduseer word 112 kcal/mol is. Die vrye energie van
+   die lig was egter 120 kcal/mol. 'n Totale verlies van 8 kcal/mol kon
+   toegeskryf word aan die entropieverandering soos beskryf deur die Gibbs
+   vergelyking. Met ander woorde aangesien die bruikbare energie van die
+   stelsel direk verwant is aan die entropie en temperatuur van die
+   stelsel, is die beskikbare hoeveelheid termiese energie vir omskakeling
+   na bruikbare energievorme (wat meganiese en chemiese energie insluit)
+   kleiner. Die begrip hou verband met die tweede wet van termodinamika in
+   die sin dat 'n toename in entropie noodwendig met die omskakeling van
+   ligenergie na die chemiese energie in die plant gepaard moet gaan.
+
+[wysig] Faktore wat fotosintese beïnvloed
+
+   Daar is drie hoof faktore wat fotosintese beïnvloed. Die drie
+   vernaamstes hiervan is:
+     * Stralingsdigtheid en golflengte van die lig.
+     * Koolstofdioksied konsentrasie
+     * Temperatuur
+
+[wysig] Ligintensiteit (stralingsdigtheid), golflengte en temperatuur
+
+   In die vroeë 1900's het F.F. Blackman die impak van lig intensiteit
+   (stralingsdighteid) en temperatuur op die snelheid van die fotosintese
+   reaksie bestudeer. By konstante temperature neem die reaksie aanvanklik
+   toe soos die stralingsdigtheid toeneem. By hoër stralingsdigthede
+   bereik die snelheid van fotosintese egter 'n plato. Die effek van
+   temperatuur op die snelheid van fotosintese teen 'n konstante
+   stralingsdigtheid word deur die beeld hier links geïllustreer. Teen hoë
+   stralingsdigtheid neem die snelheid oor 'n beperkte gebied toe met 'n
+   styging in die temperatuur. By lae stralingsdigthede het 'n styging in
+   die temperatuur min invloed op die snelheid van die fotosintese
+   reaksie. Hierdie twee eksperimente illustreer belangrike punte:
+   eerstens, is dit uit navorsing bekend dat fotochemiese reaksies oor die
+   algemeen nie deur temperatuur beïnvloed word nie. Hierdie eksperimente
+   toon egter duidelik dat temperatuur wel die snelheid van fotosintese
+   beïnvloed, wat beteken dat totale reaksie uit twee verskillende
+   reaksiestappe bestaan naamlik die lig-afhanklike 'fotochemiese'
+   reaksiestap en die lig-onafhanklike, temperatuur-afhanklike stap.
+   Tweedens het Blackman se eksperimente die begrip van beperkende faktore
+   geïllustreer. 'n Beperkende faktor is die golflengte van lig.
+   Sianobakterieë wat etlike meters onder die water woon kan nie die
+   golflengtes ontvang wat nodig is om fotogeïnduseerde ladingskeidings
+   soos in konvensionele fotosintetiese reaksies te veroorsaak nie. Om
+   hierdie probleem te oorkom het hulle 'n reeks proteïene met
+   verskillende fluoreserende pigmente rondom die reaksiepunte. Hierdie
+   eenheid word 'n fikobilisoom genoem.
+
+[wysig] Koolstofdioksied
+
+   Soos koolstofdioksiedkonsentrasies styg, styg die tempo waarteen
+   suikers deur die lig-onafhanklike reaksies gemaak word totdat ander
+   beperkende faktore intree. Een rede hiervoor is dat RuBisCO, die ensiem
+   wat koolstofdioksied vaslê tydens die lig-afhanklike reaksies, 'n
+   bindingsaffiniteit het vir beide koolstofdioksied en suurstof. Dus sal
+   'n toename in die koolstofdioksiedkonsentrasie die waarskynlikheid
+   verhoog dat RuBisCO die koolstofdioksied sal vaslê eerder as die
+   suurstof.
+
+   'n Verlaagde RuBisCO oksigenase aktiwiteit is voordelig vir plante vir
+   verskeie redes.
+    1. 'n Produk van oksigenase aktiwiteit is fosfoglikolaat (2
+       koolstowwe) in plaas van 3-fosfogliseraat (3 koolstowwe).
+       Fosfoglikolaat kan nie deur die Calvin siklus gemetaboliseer worrd
+       nie en verteenwoordig dus koolstof wat uit die siklus verlore gaan.
+       'n Hoë oksigenase aktiwiteit dreineer dus die suikers wat benodig
+       word om ribulose 5-bifosfaat te hersirkuleer en vir die
+       voortsetting van die Calvin siklus.
+    2. Fosfoglikolaat word vinnig gemetaboliseer na glikolaat wat giftig
+       is vir 'n plant teen hoë konsentrasies; dit verhinder fotosintese.
+    3. Die herwinning van glikolaat is 'n energie-intensiewe proses wat
+       die glikolaat pad volg en het tot gevolg dat slegs 75% van die
+       koolstof na die Calvin siklus teruggestuur word as
+       3-fosfoglikogliseraat.
+
+                'n Hoogs vereenvoudigde opsomming hiervan is:
+
+                      2 glikolaat + ATP → 3-fosfogliseraat +
+                      koolstofdioksied + ADP +NH[3]
+
+   Die herwinnigsproses vir die produkte van RuBisCO oksigenase aktiwiteit
+   staan meer algemeen bekend as fotorespirasie aangesien dit gekenmerk
+   word deur lig-afhanklike suurstof verbruik en die vrystelling van
+   koolstofdioksied.
+
+[wysig] Bykomstige faktore
+
+   Ander faktore wat die fotosintese reaksie beïnvloed is:
+     * Die hoeveelheid water
+     * Blaarvorm
+     * Stikstof inhoud van die blaar
+     * Molekulêre draers soos NADP en FAD
+
+[wysig] Verwysings
+
+     * Govindjee. Bioenergetics of Photosynthesis. New York: Academic
+       Press, 1975.
+     * Gregory, R.P.F. Biochemistry of Photosynthesis. Belfast:
+       Universities Press, 1971.
+     * Rabinowitch, Eugene and Govindjee. Photosynthesis. New York: John
+       Wiley & Sons, Inc., 1969.
+
+[wysig] Sien ook
+
+     * Kunsmatige fotosintese
+     * Calvin siklus
+     * Selrespirasie
+
+[wysig] Eksterne skakels
+
+     * Metabolism, Cellular Respiration and Photosynthesis - The Virtual
+       Library of Biochemistry and Cell Biology
+     * Overall examination of Photosynthesis at an intermediate level
+     * Overall Energetics of Photosynthesis
+     * How does the temperature affect plant's photosynthetic rates?
+     * Wat is fotosintese?
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorie: Biochemie
+

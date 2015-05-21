@@ -1,0 +1,102 @@
+Halfleeftyd
+
+
+   Die halfleeftyd van 'n radio-aktiewe stof is die tyd wat dit neem vir
+   die helfte van 'n monster om radio-aktiewe verval te ondergaan. Die
+   term word ook in die farmaseutiese en ander bedrywe gebruik.
+
+   Die halfleeftyd kan ook meer algemeen beskryf word as die tyd wat dit
+   neem vir 'n grootheid wat onderworpe is aan eksponensiële verval, om na
+   die helfte van sy oorspronklike waarde te verval.
+
+                                              Na #
+                                       Halfleeftye Oorblywende persentasie
+                                                             van grootheid
+                                                 0                    100%
+                                                 1                     50%
+                                                 2                     25%
+                                                 3                   12.5%
+                                                 4                   6.25%
+                                                 5                  3.125%
+                                                 6                 1.5625%
+                                                 7                0.78125%
+                                               ...                     ...
+                                                 N       \frac{100%}{2^N}
+                                               ...                     ...
+
+   Die tabel hier regs toon die vermindering in die grootheid aan in terme
+   van die aantal halfleeftye wat verbygegaan het.
+
+   Groothede wat onderworpe is aan eksponensiële verval word algemeen
+   aangedui met die simbool N (Hierdie konvensie impliseer 'n verval in 'n
+   aantal diskrete items. Die vertolking is geldig in baie, maar nie alle,
+   gevalle van eksponensiële verval nie). As die grootheid met die simbool
+   N aangedui word, dan word die waarde van N op 'n tyd t deur die
+   volgende vergelyking aangegee:
+
+          N(t) = N_0 e^{-\lambda t} \,
+
+   waar
+     * N[0] die aanvanklike waarde van N is (op t=0)
+     * λ die positiewe konstante is (die vervalkonstante).
+
+   Wanneer t=0, is die eksponent gelyk aan 1 en is N(t) gelyk aan N[0]. As
+   t na oneindigheid strewe, neig die eksponent na nul.
+
+   Daar bestaan 'n tyd t_{1/2} \, sodanig dat:
+
+          N(t_{1/2}) = N_0\cdot\frac{1}{2}
+
+   Deur dit in die vergelyking hierbo te vervang, verkry ons:
+
+          N_0\cdot\frac{1}{2} = N_0 e^{-\lambda t_{1/2}} \,
+
+          e^{-\lambda t_{1/2}} = \frac{1}{2} \,
+
+          - \lambda t_{1/2} = \ln \frac{1}{2} = - \ln{2} \,
+
+          t_{1/2} = \frac{\ln 2}{\lambda} \,
+
+   Dus is die halfleeftyd 69.3% van die gemiddelde leeftyd.
+
+[wysig] Verval deur twee of meer prosesse
+
+   'n Radio-aktiewe element mag deur twee of meer prosesse verval. Hierdie
+   prosesse kan verskillende waarskynlikhede aan die moontlikheid dat
+   hulle sal plaasvind gekoppel hê en dus bestaan daar ook 'n afsonderlike
+   halfleeftyd wat met elke proses verbind word.
+
+   As voorbeeld kan daar vir twee vervalmodusse, die hoeveelheid van 'n
+   stof wat oorbly na 'n tyd t gegee word deur:
+
+          N(t) = N_0 e^{-\lambda _1 t} e^{-\lambda _2 t} = N_0
+          e^{-(\lambda _1 + \lambda _2) t}
+
+   Soortgelyk aan die vorige afdeling kan ons die nuwe totale halfleeftyd
+   T _{1/2} \, bereken en sal ons vind dat dit gelyk is aan:
+
+          T_{1/2} = \frac{\ln 2}{\lambda _1 + \lambda _2} \,
+
+   of in terme van die twee halfleeftye gestel
+
+          T_{1/2} = \frac{t _1 t _2}{t _1 + t_2} \,
+
+   Waar t _1 \, die halfleeftyd van die eerste proses is en t _2 \, die
+   halfleeftyd van die tweede proses is.
+
+[wysig] Verwante artikels
+
+     * Eksponensiële verval
+     * Gemiddelde leeftyd
+     * Radio-aktiewe verval
+     * Radiometriese datumvasstelling
+     * Tabelle van nukliede met kleurkodering van halfleeftye:
+          + Isotooptabel (verdeel)
+          + Isotoop tabel (volledig)
+
+[wysig] Verwysings
+
+     * Ooreenstemmende artikel in die engelstalige Wikipedia [1].
+
+   Kategorieë: Fisika • Wiskunde
+

@@ -1,0 +1,53 @@
+Lemniskaat van Bernoulli
+
+
+   A lemniscate of Bernoulli
+   A lemniscate of Bernoulli
+
+   In wiskunde, is die Lemniskaat van Bernoulli 'n agtvormige algebraïese
+   kromme wat deur die Cartesiese vergelyking met die onderstaande vrom
+   beskryf word:
+
+          (x^2 + y^2)^2 = a^2 (x^2 - y^2)\,
+
+   'n Grafiek van die vergelyking lewer 'n kromme soortgelyk aan die
+   \infty simbool. The simbool self word soms 'n lemniskaat genoem. Die
+   simbool se Unicode voorstelling is ∞ (&#8734;).
+
+   Die lemniskaat is vir die eerstekeer in 1694 deur Jakob Bernoulli as 'n
+   aanpassing van 'n ellips beskryf. 'n Ellips is die lokus van punte
+   waarvan die som van die afstande na elk van twee vatse brandpunte 'n
+   konstante is. 'n Lemniskaat is in teenstelling daarmee die lokus van
+   punte waarvan die produk van die twee afstande konstant is. Bernoulli
+   het dit die lemniscus genoem wat Latyn is vir 'hangertjielint'.
+   Bernoulli was onbewus daarvan dat die kromme 'n spesiale geval is van
+   die Cassini ovale wat in 1680 deur Cassini beskryf is.
+
+   Die lemniskaat kan verkry word as die inverse transformasie van 'n
+   hiperbool, met die inversie sirkel se middelpunt by die middelpunt van
+   die hiperbool (halfpad tussen die twee brandpunte).
+
+[wysig] Ander vergelykings
+
+   'n Lemniskaat kan ook deur die poolkoördinaatvergelyking voorgestel
+   word:
+
+          r^2 = a^2 \cos 2\theta\,
+
+   of die bipolêre vergelyking
+
+          rr' = \frac{a^2}{2}
+
+[wysig] Booglengte en elliptiese funksies
+
+   Die bepaling van die booglengte van leminskaatboë lei na die elliptiese
+   integrale, soos in die agtiende eeu ontdek is. In omtrent 1800 is die
+   elliptiese funksies wat die integrale omkeer deur C. F. Gauss bestudeer
+   (dit het op daardie stadium grootliks ongepublisseer gebly, maar daar
+   is daarna verwys in die aantekeninge vir sy Disquisitiones
+   Arithmeticae). Die period lattices het 'n baie besondere vrom aangesien
+   dit eweredig is aan die Gauss integers. Om die rede word die geval van
+   elliptiese funksies met komplekse vermenigvuldiging met die
+   vierkantswortel van minus een ook die lemniskatiese geval genoem.
+   Kategorieë: Krommes • Algebraïese krommes • Spiric snydings
+

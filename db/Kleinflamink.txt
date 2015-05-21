@@ -1,0 +1,110 @@
+Kleinflamink
+
+
+                     Kleinflamink
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Phoenicopteriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Phoenicopteridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Phoenicopterus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     P. minor
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Phoenicopterus minor
+   Geoffroy Saint-Hilaire, 1798
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die kleinflamink is 'n spesie in die flaminkfamilie wat in Afrika,
+   Pakistan en Noordwes Indië voorkom. Alhoewel dit die volopste van die
+   flaminkspesies is, is die bevolking steeds kwesbaar vir bedreiging.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Gallery
+        * 7 Sien ook
+        * 8 Bronnelys
+
+[wysig] Identifikasie
+
+   Die meeste van die vere is pient-wit. Die duidelikeste verskil van die
+   Grootflamink is die addisionele swart op die snawel.
+
+[wysig] Habitat
+
+   Dié flamink eet hoofsaaklik di alge Spirulina plantensis, wat voorkom
+   in mere met 'n baie hoë sout gehalte. Hulle snawels is goed aangepas
+   vir klein voedsel items. Sos die meeste flaminke word 'n enkele
+   kalk-wit eier gelê op 'n klein modderhoop.
+
+[wysig] Verspreiding
+
+   Die kleinflamink kom voor in Afrika, hoofsaaklik in die Groot
+   Skeurvallei en in die noord-weste van Indië. Dit is die kleinste van
+   die flamink spesies.
+
+[wysig] Geluid
+
+[wysig] Ander name
+
+     * Engelse naam: Lesser Flamingo
+     * Wetenskaplike naam: Phoenicopterus minor
+
+[wysig] Gallery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+   Kategorie: Flaminke
+

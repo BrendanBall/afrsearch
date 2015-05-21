@@ -1,0 +1,82 @@
+Tantaal
+
+
+
+   73                       hafnium ← tantaal → wolfram
+   Nb
+   ↑
+   Ta
+   ↓
+   Db
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal tantaal, Ta, 73
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 5, 6, d
+                                                         Voorkoms blougrys
+                                            Atoommassa 180.94788 (2) g/mol
+                                 Elektronkonfigurasie [Xe] 4f^14 5d^3 6s^2
+                                    Elektrone per skil 2, 8, 18, 32, 11, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 16.69 g/cm³
+                                    Vloeistof digtheid teen s.p. 15 g/cm³
+                                                          Smeltpunt 3290 K
+                                                                (3017 °C)
+                                                           Kookpunt 5731 K
+                                                                (5458 °C)
+                                              Smeltingswarmte 36.57 kJ/mol
+                                            Verdampingswarmte 732.8 kJ/mol
+                                Warmtekapasiteit (25 °C) 25.36 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 3297 3597 3957 4395 4939 5634
+
+                                                           Atoomeienskappe
+                               Kristalstruktuur kubies liggaamsgesentreerd
+                           Oksidasietoestande 5, 4, 3 (matige suur oksied)
+                               Elektronegatiwiteit 1.5 (Skaal van Pauling)
+                                      Ionisasie energieë 1ste: 761 kJ/mol
+                                                          2de: 1500 kJ/mol
+                                                        Atoomradius 145 pm
+                                                 Atoomradius (ber.) 200 pm
+                                                   Kovalente radius 138 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 131 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 57.5 W/(m·K)
+                               Termiese uitsetting (25 °C) 6.3 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3400 m/s
+                                                  Young se modulus 186 GPa
+                                                       Skuifmodulus 69 GPa
+                                                      Massamodulus 200 GPa
+                                                    Poissonverhouding 0.34
+                                                      Mohs se hardheid 6.5
+                                                  Vickers hardheid 873 MPa
+                                                  Brinell hardheid 800 MPa
+                                              CAS-registernommer 7440-25-7
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Tantaal
+
+                            iso     NV    halfleeftyd  VM  VE (MeV)   VP
+                          ^177Ta  sin     56.56 h      e   1.166    ^177Hf
+                          ^178Ta  sin     2.36 h       e   1.910    ^178Hf
+                          ^179Ta  sin     1.82 j       e   0.110    ^179Hf
+                          ^180Ta  sin     8.125 h      e   0.854    ^180Hf
+                          ^180Ta  sin     8.125 h      ß^- 0.708    ^180W
+                          ^180mTa 0.012%  >1.2×10^15 y e   0.929    ^180Hf
+                                                       ß^- 0.783    ^180W
+                                                       IO  0.075    ^180Ta
+                          ^181Ta  99.988% Ta is stabiel met 108 neutrone
+                          ^182Ta  sin     114.43 d     ß^- 1.814    ^182W
+                          ^183Ta  sin     5.1 d        ß^- 1.070    ^183W
+
+                                                                Verwysings
+
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,43 @@
+Atoomradius
+
+
+   Die atoomradius is die afstand vanaf die atoomkern tot die orbitaal van
+   die buitenste stabiele elektron in 'n atoom wat in ewewig verkeer. Dit
+   word gemeet in eenhede van picometer of Ångstrom.
+
+   Die Atoomradius word dikwels die kovalente radius genoem ('n verwysing
+   na die soort kovalente verbindings wat gevorm word) wanneer daar na
+   nie-metale verwys word en na die metalliese radius wanneer daar na
+   metale verwys word. Tegnies gesproke is die atoomradius een helfte van
+   die afstand tussen die kerne van twee aangrensende atome (wat of
+   kovalent gebind kan wees of dig in 'n kristalraamwerk gepak kan wees)
+   van 'n element.
+
+   'n Kovalente radius is een helfte van die afstand tussen die kerne van
+   twee van dieselfde soort atome wat aan mekaar verbind is. Kovalente
+   radiusse vir elemente waarvan die atome nie aanmekaar kan bind nie word
+   beraam word deur die afstande van andersoortige atome in molekules te
+   gebruik. 'n Metalliese radius is een helfte van die naastne interkern
+   afstand in 'n metalliese kristal. Die radius word gemeet deur gebruik
+   te maak van X-straaldiffraksie tegnieke.
+
+   In die periodieke tabel, neem atoomradiusse toe soos mens teen 'n groep
+   afbeweeg en 'n nuwe skil bygevoeg word en verminder ook van links na
+   regs soos die kerlading (of aantal protone) verhoog.
+
+[wysig] Verwysings
+
+     * Ooreenstemmende artikel in die Engelstalige Wikipedia radius.
+
+[wysig] Sien ook
+
+     * atoomgetal
+     * atoommassa
+     * kovalente verbinding
+
+[wysig] Eksterne skakels
+
+     * Periodic Table of the Elements Atomic Radius
+
+   Kategorie: Chemiese eienskappe
+

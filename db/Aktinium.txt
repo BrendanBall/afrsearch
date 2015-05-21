@@ -1,0 +1,146 @@
+Aktinium
+
+
+
+   89                        radium ← Aktinium → torium
+   La
+   ↑
+   Ac
+   ↓
+   Ute
+
+                                                              periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal Aktinium, Ac, 89
+                                                  Chemiese reeks actinides
+                                              Groep, Periode, Blok 3, 7, f
+                                                         Voorkoms silwerig
+                                                    Atoommassa (227) g/mol
+                                       Elektronkonfigurasie [Rn] 6d^1 7s^2
+                                 Elektrone per skil 2, 8, 18, 32, 18, 9, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                            Digtheid (naby k.t.) 10 g/cm³
+                                                  Smeltpunt (circa) 1323 K
+                                                                (1050 °C)
+                                                           Kookpunt 3471 K
+                                                                (3198 °C)
+                                                 Smeltingswarmte 14 kJ/mol
+                                              Verdampingswarmte 400 kJ/mol
+                                 Warmtekapasiteit (25 °C) 27.2 J/(mol·K)
+                                                           Atoomeienskappe
+                                     Kristalstruktuur kubies face centered
+                                                      Oksidasietoestande 3
+                                                         (neutrale oksied)
+                               Elektronegatiwiteit 1.1 (Skaal van Pauling)
+                                      Ionisasie energieë 1ste: 499 kJ/mol
+                                                          2de: 1170 kJ/mol
+                                                        Atoomradius 195 pm
+                                                                   Diverse
+                                           Magnetiese rangskikking no data
+                            Termiese geleidingsvermoë (300 K) 12 W/(m·K)
+                                              CAS-registernommer 7440-34-8
+                                                        Vernaamste isotope
+
+   CAPTION: Hoofartikel: Isotope van Aktinium
+
+                                iso    NV  halfleeftyd VM  VE (MeV)   VP
+                               ^225Ac sin  10 dag|ds]] α   5,935    ^221Fr
+                               ^226Ac sin  29,37 hours β^- 1,117    ^226Th
+                                                       ε   0,640    ^226Ra
+                                                       α   5,536    ^222Fr
+                               ^227Ac 100% 21,773 jaar β^- 0,045    ^227Th
+                                                       α   5,042    ^223Fr
+
+                                                                Verwysings
+
+   Aktinium (IFA: /akˈtɪniəm/) is 'n chemiese element in die periodieke
+   tabel met die simbool Ac en atoomgetal 89.
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Merkbare eienskappe
+
+   Aktinium is 'n silwerige baie radioaktiewe metalliese element. As
+   gevolg van die element se intense radioaktiwiteit, aktinium gloei in
+   die donker met 'n bleek blou lig. Dit word selgs in spoor hoeveelhede
+   in uraanerts as ^227Ac, 'n α en β-uitstraler met 'n halfleeftyd van
+   21,773 jaar. Een ton uraanerts bevat omtrent 'n tiende van 'n gram
+   aktinium.
+
+[wysig] Toepassings
+
+   Aktinium is omtrent 150 keer so radioaktief as radium, wat dit 'n
+   waardevolle neutronbron maak. Andersins het dit geen beduidende
+   industriële toepassings nie.
+
+   ^225Ac is word in geneeskunde gebruik om ^213Sjabloon:Bismut te
+   vervaardig in herbruikbare generator of dit kan alleen gebruik word as
+   'n middel vir radio-immunoterapie.
+
+[wysig] Geskiedenis
+
+   Aktinium is in 1899 deur André-Louis Debierne, 'n Franse chemikus
+   ontdek, wat dit van pikblende geskei het. Friedrich Otto Giesel het
+   aktinium onafhanklik in 1902 ontdek. Die chemiese gedrag van aktinium
+   is soortgelyk aan díe van die seldsame aardelement lanthanum.
+
+   Die woord aktinium kom van die Grieks aktis, aktinos wat straal
+   beteken.
+
+[wysig] Voorkoms
+
+   Aktinium word in spoor hoeveelhede in uraanerts aangetref, maar word
+   meer algemeen in milligram hoeveelhede deur die neutronbestraling van
+   ^226Sjabloon:Radium in 'n kernreaktor vervaardig. Aktiniummetaal is
+   voorberei deur die reduksie van aktiniumfluoried met litiumdamp teen
+   omngeveer 1100 tot 1300ºC.
+
+[wysig] Isotope
+
+   Natuurlikvoorkomende aktinium bestaan uit een radioaktiewe isotoop;
+   ^227Ac. 36 radioisotope is gekaraktiriseer met die stabielste ^227Ac
+   met 'n halfleeftyd van 21,772 jaar, ^225Ac met 'n halfleeftyd van 10,0
+   dae, en ^226Ac met 'n halfleeftyd van 29,37 ure. Al die ander
+   radioaktiewe isotope het halfleeftye minder as 10 ure en meeste hiervan
+   het halfleeftye van minder as een minuut. Die isostoop met die kortste
+   halfleeftyd is ^217Ac wat deur alfaverval en elektronvang verval. Dit
+   het 'n halfleeftyd van 69 ns. Aktinium het ook twee meta-state.
+
+   Gesuiwerde ^227Ac bereik ekwilibrium met die element se verval produkte
+   na 185 dae, en verval dan volgens die 21,773-jaar halflewe.
+
+   Die isotope van aktinium wissel in atoommassa van 206 ame (^206Ac) to
+   236 ame (^236Ac).
+
+[wysig] Voorsorgmaatreëls
+
+   ^227Ac is geweldig radioaktief, en is in terme van die potensiaal vir
+   stralinggeïnduseerde gesondheidseffekte is ^227Ac selfs gevaarliker as
+   plutonium. Inname van selfs 'n klein hoeveelheid ^227Ac sou 'n ernstig
+   gesondheidsgevaar inhou.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Actinium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Actinium
+     * WebElements.com - Actinium
+
+   Kategorieë: Chemiese elemente • Aktiniedes
+

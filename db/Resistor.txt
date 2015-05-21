@@ -1,0 +1,153 @@
+Resistor
+
+
+                                        Beeld:Potentiometer symbol.png
+       Beeld:Resistor symbol.png      Beeld:Variable resistor symbol.png
+                Resistor                          Veranderlike
+                                                    Resistor
+                      Resistor simbole - V.S.A. en Japan
+                                     Beeld:Potentiometer symbol Europe.svg
+    Beeld:Resistor symbol Europe.svg     Beeld:Variable resistor symbol
+                                                  Europe.svg
+                Resistor                          Veranderlike
+                                                    resistor
+                        Resistor simbole (Europa, IEC)
+
+   'n Verskeidenheid resistors
+   'n Verskeidenheid resistors
+
+   'n Resistor (of 'n weerstand) is 'n twee terminaal elektroniese
+   komponent wat weerstand bied teen 'n elektriese stroom en 'n
+   spanningsval tussen sy terminale veroorsaak in ooreenstemming met Ohm
+   se wet. (Sekere ultrahoë presisie resistors het 2 addisionele
+   terminale).
+
+          R=\frac {V}{I}
+
+   Die elektriese weerstand is gelyk aan die spanningsval oor die resistor
+   gedeel deur die stroom wat deur die resistor vloei. Resistors word
+   gebruik as deel van elektriese netwerke en elektroniese stroombane.
+
+   Inhoud
+
+        * 1 Gebruike
+        * 2 Die ideale resistor
+        * 3 Nie-ideale eienskappe
+        * 4 Soorte resistors
+             + 4.1 Vaste resistors
+        * 5 Sien ook
+        * 6 Eksterne skakels
+
+[wysig] Gebruike
+
+     * Oor die algemeen word resistors gebruik om 'n bekende spanning tot
+       stroomsterkte-verhouding in 'n elektriese stroombaan te
+       bewerkstellig. As die stroomsterkte in 'n stroombaan bekend is dan
+       kan 'n weerstand gebruik word om 'n bekende spanningsverskil in
+       verhouding tot daardie stroomsterkte te bewerkstellig. Omgekeerd as
+       die spanningsverskil tussen twee punte bekend is, kan 'n weerstand
+       gebruik word om 'n bekende stroomsterkte in verhouding tot die
+       potensiaalverskil in daardie stroombaan te bewerkstellig.
+
+     * Stroombeperking. Deur 'n resistor in serie met 'n ander komponent
+       te skakel, soos byvoorbeeld 'n ligemissie-diode, sal die stroom
+       deur daardie komponent verminder word na 'n bekende veiliger
+       waarde.
+
+     * 'n Serieresistor kan gebruik word vir die beheer van 'n
+       gelykstroommotor soos die wat op lokomotiewe gebruik word.
+
+     * 'n Stroomdemper (en: attenuator) is 'n netwerk van twee of meer
+       resistors ('n spanningsverdeler) wat gebruik word om die spanning
+       van 'n sein te verminder.
+
+     * 'n Resistor word ook aan die einde van transmissielyne of
+       kettingbus (soos SCSI) geplaas en is ontwerp om die impedansie te
+       paar en sodoende die weerkaatsing van seine te minimiseer.
+
+     * Alle resistors stel hitte vry. Dit is die beginsel waarop
+       elektriese verwarmers werk.
+
+[wysig] Die ideale resistor
+
+   Die SI-eenheid van elektriese weerstand is die ohm (Ω). 'n Komponent
+   het 'n weerstand van 1 Ω as 'n spanning van 1 volt oor die komponent,
+   'n stroomsterkte van 1 ampère tot gevolg het, wat gelykstaande is aan
+   'n vloei van een coulomb elektriese lading per sekonde. Die veelvoude
+   kilo-ohm (1 kΩ = 1000 Ω) en mega-ohm (1 MΩ = 10^6 Ω) word ook dikwels
+   gebruik.
+
+   In 'n ideale resistor, bly die weerstand konstant ongeag van die
+   spanning of stroom wat deur die komponent vloei. Werklike resistors kan
+   nie hieraan voldoen nie, maar word ontwerp om so min moontlik
+   veranderinge in elektriese weerstand te hê as hulle aan hierdie
+   veranderinge of aan ander omgewingsfaktore soos temperatuur en ander
+   omgewingsfaktore blootgestel word.
+
+[wysig] Nie-ideale eienskappe
+
+   'n Resistor het 'n maksimum bestek van spanning en stroom waarbuite die
+   weerstand kan verander (in sommige gevalle drasties) of die resistor
+   fisies beskadig kan word (deur oorverhitting onder andere). Alhoewel
+   sommige resistors spanning en stroomspesifikasies het, word die meeste
+   aangeslaan volgens die maksimum drywing wat hoofsaaklik afhanklik is
+   van die fisiese grootte daarvan.
+
+   Die algemene drywingsvermoë vir koolstof saamgestelde- en
+   metaalfilmresistors is 1/8 watt, 1/4 watt en 1/2 watt. Metaalfilm en
+   koolstof-filmresistors is meer stabiel as koolstofresistors met
+   veranderende temperatuur en ouderdom. Groter resistors kan meer hitte
+   weglei vanweë hulle groter oppervlakarea. Draadgewinde resistors en
+   resistors wat in keramiek ingebou word, word gebruik waar 'n hoër
+   drywingsvermoë vereis word.
+
+   Verder het alle resistors ook 'n mate van induktansie, asook 'n klein
+   hoeveelheid kapasitansie, wat die dinamiese gedrag van 'n resistor van
+   die ideaal laat afwyk.
+
+[wysig] Soorte resistors
+
+   'n Paar soorte resistors
+   'n Paar soorte resistors
+
+[wysig] Vaste resistors
+
+   Sommige resistors het 'n silindriese vorm met die weerstandmateriaal in
+   die middel (saamgestelde resistors) of op die oppervlak van die
+   silinder (filmresistors) met terminale wat uit geleidende metaal
+   bestaan wat in die aksiale rigting uit die silinder uitkom.
+
+   Daar bestaan koolstof- en metaalfilmresistors. Hoë drywingresistors is
+   beskikbaar in groter verpakkings wat ontwerp is om die hitte
+   doeltreffend weg te lei. Vir hoë drywing word draadspoelsoortegebruik.
+   Resistors wat in rekenaars en ander toestelle gebruik word is tipies
+   baie kleiner, dikwels in oppervlakgemonteerde verpakkings sonder
+   draadverbindings. Resistors kan ook in geïntegreerde stroombane (GS)
+   ingebou word, deur die halfgeleiermateriaal as resistor te gebruik. Dit
+   is egter moeilik om resistors op die manier te vervaardig en dit neem
+   dikwels waardevolle spasie op die skyf in beslag, dus sal
+   GS-vervaardigers 'n transistor-transistor of 'n resistor-transistor
+   konfigurasie as alternatief gebruik om die benodigde resistor na te
+   maak.
+
+[wysig] Sien ook
+
+     * Geleidingsvermoë
+
+[wysig] Eksterne skakels
+
+     * 4-terminal resistors - Hoe ultra-presiese weerstande werk (engels)
+     * 'n Goeie gids vir weerstans beskrywings, gemeenskaplike waardes, en
+       kleurcodes (engels)
+     * Beginners gids tot potensiometers, insluitende beskrywing van
+       verskillende afgrypers (engels)
+     * 'n Artikel wat verskeie aspekte van weerstande insluitend
+       materiale, afgrypers en kleurkodes beskryf (engels)
+     * "Die oorspronklike kleurkode rekenaar" (engels)
+     * Weerstand-Kleurkode Ontsyfering (engels)
+     * Weerstand tipes - Maak dit saak? (engels)
+     * Vra 'n ingineur (engels) — verskille tussen tiepes van weerstande
+     * Weerstande ein hulle gebruik (engels)
+
+   Kategorie: Elektroniese komponente
+

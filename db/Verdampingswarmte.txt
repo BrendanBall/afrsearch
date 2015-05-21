@@ -1,0 +1,31 @@
+Verdampingswarmte
+
+
+   Die verdampingswarmte is 'n fisiese eienskap van 'n stof. Dit word
+   gedefinieer as die warmte wat per eenheidsmassa van 'n stof geabsorbeer
+   moet word om 'n hoeveelheid van 'n stof geheel en al te laat verdamp.
+   Verdampingswarmte is afhanklik van die kookpunt van die stof wat op sy
+   beurt afhanklik is van die omgewingsdruk. Daarom moet die temperatuur
+   en druk van die proses vermeld word wanneer 'n waarde weergegee word.
+   In die literatuur word die verdampingswarmte by 1 bar of 1 atm dikwels
+   aangegee.
+
+   Die verdampingswarmte word dikwels uitgedruk as kJ/mol 'n Ander eenheid
+   wat ook gebruik word is kJ/kg. BTU/lb kan veral in Amerikaanse tegniese
+   publikasies nog gevind word. Verdamping is die teenoorgestelde proses
+   as kondensasie en daar kan ook gepraat word van kondensasiewarmte.
+   Laasgenoemde se waarde is dan ook dieselfde as eersgenoemde en word
+   gedefinieer as die hoeveelheid warmte per eenheidsmassa wat vrygestel
+   moet word om 'n sekere hoeveelheid van 'n stof in sy geheel te laat
+   kondenseer.
+
+   Water se verdampingswarmte is ongeveer 2 260 kJ/kg of dan 40,8 kJ/mol.
+   Die latente verdampingswarmte van water is hoog: vyf keer die energie
+   wat benodig word om water vanaf 0 tot 100 grade Celsius te verhit.
+
+[wysig] Sien ook
+
+     * Smeltingswarmte
+
+   Kategorieë: Chemiese eienskappe • Fisiese groothede
+

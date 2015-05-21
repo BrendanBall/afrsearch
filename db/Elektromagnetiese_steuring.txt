@@ -1,0 +1,42 @@
+Elektromagnetiese steuring
+
+
+   Elektromagnetiese steuring is die gevolg van elektromagnetiese straling
+   wat uitgestraal word deur elektriese stroombane wat vinnig veranderende
+   seine dra as 'n neweproduk van hulle normale werking en sodoende
+   ongewenste seine (geraas) in ander stroombane veroorsaak. Dit kan
+   doelbewus gedoen word, soos in die geval von elektroniese oorlogvoering
+   of onbedoeld plaasvind. Elektromagnetiese steuring kan ook veroorsaak
+   word deur dinge wat nie as stroombane beskou kan word nie, soos in die
+   geval van die Son of die Noorderligte. Elektromagnetiese steuring
+   beïnvloed ook die ontvangs van AM-radio in woongebiede en tot in 'n
+   mindere mate FM-radio en televisie-toestelle.
+
+   Die belangrikste maatreëls wat geneem kan word om Elektromagnetiese
+   steuring te verminder is:
+     * Die gebruik van 'n "ontkoppelende" kapasitor op elke aktiewe
+       toestel (oor die kragbron gekoppel en so na as moontlik aan die
+       toestel)
+     * Stygtydbeheer op die hoëspoedseine deur gebruik te maak van 'n
+       reeks resistors en filters op die geïntegreerde stroombane se
+       kragvoorsiening.
+     * Skerms word gewoonlik as laaste uitweg gebruik nadat ander tegnieke
+       misluk het omdat dit die koste van toestelle beduidend verhoog.
+
+   Die doeltreffendheid van die straling hang af van die hoogte bo die
+   grond en die lengte van die geleier relatief tot die golflengte van die
+   seinkomponent. Teen laer frekwensies, bv. 133 MHz, is die bron van die
+   straling bykans uitsluitlik deur toevoer/afvoer-kabels.
+
+   Die meeste lande het wetlike vereistes waaraan elektroniese en
+   elektriese hardeware moet voldoen in terme van die hoeveelheid
+   elektromagnetiese steurings wat hulle moet kan weerstaan en hoeveel
+   hulle mag uitstraal.
+
+[wysig] Eksterne skakels
+
+     * Engelse woordelys van Elektromagnetiese steurings- en
+       afskermingsbegrippe
+
+   Kategorie: Elektronika
+

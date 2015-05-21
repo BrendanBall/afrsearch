@@ -1,0 +1,63 @@
+Wikipediabespreking:Landbladsyriglyne
+
+
+[wysig] Landtabel2 -> Landtabel
+
+   Sjabloon:Landtabel is so pas aangepas met inhoud uit landtabel2 en is
+   nou die bepalende uitgawe. Greenman 13:17, 23 Julie 2005 (UTC)
+
+[wysig] Vertaling sagteware
+
+   Ek het 'n program geskryf wat my help met vertaling van die Engelse
+   Infobox Country template na die Afrikaanse Landtabel. Ek sny die
+   Englese 'template', sit dit in die box by [1], en die resultaat is 'n
+   vertaling wat amper gereed is vir die Afrikaans. Dis baie rof, maar dit
+   het my baie gehelp met die lande! Miskien vind anders ook so. Greenman
+   21:37, 11 Augustus 2005 (UTC)
+
+[wysig] Huidige sjabloon
+
+   Die landboks sjablone het vreeslik baie aansture en dubbelaansture, en
+   baie van hulle >>verwys<< nog net na die nuwe sjabloon, pleks van om 'n
+   behoorlike #REDIRECT te wees. Die Engelse Wikipedia het die volgende
+   oor sjabloon aansture te sê, maar ek is nie presies seker wat hulle
+   voorstel is nie:
+
+     Template redirects A template T2 can be redirected to another
+     template T1. This creates an alias (T2 is an alias for T1). The
+     alias name T2 can be used instead of the "real" template T1. Aliases
+     for templates can cause confusion and make migrations of template
+     calls more complicated. For example, assume calls to T1 are to be
+     changed ("migrated") to some new template TN1. To catch all calls,
+     articles must be searched for T1 and all aliases of T1 (T2 in this
+     case).
+
+   Hulle sê ook oor mens kan 'n sjabloon nomineer vir verwydering as:
+
+     The template is redundant to another better-designed template
+
+   Ek wonder ook oor die nuwe sjabloon se naam: moet dit nie dalk
+   {{Inligtingskas land}} pleks van {{Inligtingskas Land}} wees nie? Kan
+   ons hierop standariseer? En wat is die regte prosedure rakende die
+   ander sjablone - stuur ons dit aan, of verwyder ons dit (nadat ons al
+   die lande met die verkeerde sjablone reggemaak het)? --Leviel 09:54, 30
+   September 2007 (UTC)
+
+          Ek is ten gunste van "Inligtingskas land" (sonder die
+          hoofletter). Verkieslik moet geen sjablone aansture wees nie,
+          maar min mense het tyd of lus om duisende artikels met die hand
+          te wysig. Sjablone wat oortollig is - m.a.w. glad nêrens gebruik
+          word nie, kan tog gerus verwyder word. Veral as hulle vervang is
+          deur ander sjablone. So kan ons verwarring vermy. Anrie 07:06, 1
+          Oktober 2007 (UTC)
+
+                Ja, beide probleme is erg baie moeite. Waar is die bots
+                wanneer mens hulle nodig het!? Dis eintlik so vermorsing
+                van tyd... maar dit pla my. Sal maar besluit of ek vir
+                myself en die res van julle die moeite wil maak...
+                Laat ek net seker maak: as mens 'n sjabloon aanstuur na 'n
+                identiese sjabloon met net 'n ander naam, dan werk dit nog
+                op die artikelblad, nè? Sal natuurlik moet seker maak die
+                sjablone is wél identies, maar behoort dit in beginsel te
+                werk? --Leviel 23:08, 1 Oktober 2007 (UTC)
+

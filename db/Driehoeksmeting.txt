@@ -1,0 +1,33 @@
+Driehoeksmeting
+
+
+   Di
+
+   Driehoeksmeting of trigonometrie is 'n vertakking van die wiskunde wat
+   oor driehoeke handel. Dit ondersoek veral driehoeke waarvan een hoek
+   90° is (reghoekige driehoeke), asook die verhoudings tussen hoeke en
+   sylengtes — byvoorbeeld die trigonometriese funksies soos sinus (sin),
+   cosinus (cos) en tangens (tan). Afgesien van gewone driehoeke in 'n
+   plat vlak, word driehoeke op 'n sfeer ook ondersoek in sferiese
+   trigonometrie.
+
+   'n Trigonometriese sirkel is 'n sirkel met 'n straal van 1 en die
+   middelpunt as oorsprong van die assestelsel. Die cosinus van die hoek
+   \alpha\! is die waarde van \alpha\! op die sirkel op die x-as en die
+   sinus van \alpha\! is die waarde op de y-as. Daarin word de volgende
+   verwantskappe sigbaar
+
+          \sin (-\alpha\ ) = - \sin \alpha\!
+          \cos (-\alpha\ ) = \cos \alpha\!
+
+   Die tangens van 'n hoek is gedefinieer as die verhouding tussen die
+   teenoorstaande en die aanliggende sye van 'n reghoekige driehoek en is
+   dus:
+
+          \tan \alpha\ = \frac{ \sin \alpha\ }{ \cos \alpha\ }
+          \tan (-\alpha\ ) = - \tan \alpha\!
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Wiskunde
+

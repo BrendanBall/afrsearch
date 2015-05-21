@@ -1,0 +1,111 @@
+Geel
+
+
+   Geel seilvindoktersvis (Zebrasoma flavescens)
+   Geel seilvindoktersvis (Zebrasoma flavescens)
+
+   Geel is die kleur wat opgewek word deur lig wat beide die L en M (lang-
+   en medium-golflengte) keëlselle van die retina omtrent ewe veel
+   stimuleer, maar die S (kort-golflengte) keëlselle nie beduidend
+   stimuleer nie. Dit wil sê, lig wat baie rooi en groen bevat, maar nie
+   veel blou nie.^[1] Lig met 'n golflengte van 570–580 nm is geel
+   aangesien die lig die regte mengsel van effens langer en korter
+   golflengtes bevat. Geel se komplementêre kleur in terme van kleur
+   vermenging deur die gebruik van lig is blou.
+
+   Inhoud
+
+        * 1 Variasies van geel
+             + 1.1 Elektriese geel
+             + 1.2 Prosesgeel
+        * 2 Komplemente van geel
+
+[wysig] Variasies van geel
+
+   SONNEBLOMME in Fargo, Noord-Dakota
+   SONNEBLOMME in Fargo, Noord-Dakota
+                       Geel
+   About these coordinates— Kleur koördinate —
+     Heksdrietal    #FFFF00
+   sRGB^B (r, g, b) (255, 255, 0)
+         Bron       HTML/CSS^[2]
+   B: Genormaliseer na [0–255] (greep)
+   Reflektansie spektra van geel pigmente, as 'n persentasie van wit
+   (Abney 1891)
+   Reflektansie spektra van geel pigmente, as 'n persentasie van wit
+   (Abney 1891)
+
+[wysig] Elektriese geel
+
+   Die kleur raampie regs wys een van die mees intense geel wat in die
+   8-bis RGB kleurmodel verteenwoordig kan word; geel is 'n sekondêre
+   kleur in 'n additiewe RGB ruimte.
+
+   Die gemete lig spektrum van geel pixels op 'n tipiese rekenaarskerm is
+   kompleks, en baie anders as die reflektansie spektrum van 'n geel
+   voorwerp soos 'n piesang.^[3]
+
+[wysig] Prosesgeel
+
+   Proses geel (ook bekend as pigment geel, drukkers geel of kanarie geel)
+   is een van die drie subtraktiewe kleure, te same met magenta en siaan.
+   Die CMYK stelsel vir kleurdruk is gegrond op die gebruik van vier
+   soorte ink, waarvan een 'n geel kleur is. Dit is nie opsig self 'n
+   standaard kleur nie, hoewel 'n redelik nou band geel inke of pigmente
+   gebruik word. Prosesgeel is gegrond op 'n kleursel wat die meeste rooi
+   en groen lig weerkaats, en meeste blou lig absorbeer, soos gewys word
+   in die reflektansie spektra wat in die figuur na regs vertoon word.
+
+   Omdat die eienskappe van verfpigmente en die gebruik van verskillende
+   kleurwiele, beskou skilders tradisioneel indigo of blou-violet as die
+   komplement van geel.
+
+   Prosesgeel is nie 'n RGB-kleur nie. Daar is daarom geen vaste
+   omskakeling van CMYK primêre kleure na RGB nie. Verskillende mengsels
+   word gebruik vir drukkersink en daar kan dus variasies wees in die
+   gedrukte kleur van 'n suiwer geelink.
+
+[wysig] Komplemente van geel
+
+   Die groen lyne wys verskeie moontlike pare komplementêre kleure met
+   betrekking tot verskillende swartliggaam kleurtemperatuur neutrale.
+   Drie voorbeelde word vertoon: 'n 580 nm geel word gekomplementeer deur
+   'n 435 nm indigo met betrekking tot 'n 2800 K wit; 'n 580 nm geel is
+   komplementêr tot 'n 480 nm blou met betrekking tot 'n 5000 K wit; en 'n
+   475 nm geel is komplementêr tot 'n uiterste violet met betrekking tot
+   'n 3600 K wit.
+   Die groen lyne wys verskeie moontlike pare komplementêre kleure met
+   betrekking tot verskillende swartliggaam kleurtemperatuur neutrale.
+   Drie voorbeelde word vertoon: 'n 580 nm geel word gekomplementeer deur
+   'n 435 nm indigo met betrekking tot 'n 2800 K wit; 'n 580 nm geel is
+   komplementêr tot 'n 480 nm blou met betrekking tot 'n 5000 K wit; en 'n
+   475 nm geel is komplementêr tot 'n uiterste violet met betrekking tot
+   'n 3600 K wit.
+
+   Hunt^[4] definieer dat "twee kleure is komplementêr as dit moontlik is
+   om die tristimulus waardes van 'n gespesifiseerde achromatiese stimulus
+   te reproduseer deur 'n additiewe mengsel van twee stimuli." Dit is, as
+   twee kleure lig gemeng kan word om 'n spesifieke wit (achromaties,
+   nie-gekleurd) lig te produseer, is die kleure van die twee ligte
+   komplementêr. Die definisie, beperk egter nie watter weergawe wit
+   gespesifiseer sal word nie. In die 19de eeu het die wetenskaplikes
+   Grassmann en Helmholtz eksperimente uitgevoer waarin hulle die
+   gevolgtrekking maak dit moeilk is om 'n goeie komplement vir spektrale
+   geel te vind, maar dat die resultaat indigo was, dit wil sê, 'n
+   golflengte wat vandag se kleurwetenskaplikes violet sou noem. Helmholtz
+   sê "Geel en indigo blou" is komplemente.^[5] Grassman rekonstrueer
+   Newton se kategorie grens in terme van golflengtes en sê "Hierdie
+   indigo val dus binne die perke van kleur waartussen, volgens Helmholtz,
+   die komplementêre kleur van geel lê."^[6] Newton se eie kleursirkel het
+   geel direk oorkant die grens tussen indigo en violet geplaas. Hierdie
+   resultate, dat die komplement van geel 'n golflengte korter as 450 nm
+   is, kan afgelei word van die moderne CIE 1931 stelsel van colorimetry
+   as daar aangeneem word dat geel omtrent 580 nm of korter golflengte, en
+   die gespesifiseerde wit is die kleur van 'n swartliggaamuitstraler met
+   temperatuur 2800 K of laer is (dit is, die wit van 'n gewone
+   gloeilamp). Meer tipies, met 'n daglig-gekleurde wit van omtrent 5000
+   tot 6000 K, sal die komplement van geel in die blou golflengte bereik
+   wees, wat die standaard moderne antwoord vir die komplement van geel
+   is.
+   Kategorie: Kleure
+

@@ -1,0 +1,43 @@
+GNU/Linux
+
+
+   GNU/Linux is die naam vir die bedryfstelsel wat bestaan uit programme
+   van die GNU-projek en die Linux-kern. Hierdie is 'n effens omstrede
+   naam aangesien hierdie stelsels gewoonlik slegs "Linux" genoem word, en
+   die gesamentlike naam hoofsaaklik deur die GNU-projek en hulle
+   ondersteuners aangemoedig word.
+
+   Die GNU-projek se doel om 'n volledig vrye bedryfstelsel te skep het
+   eers moontlik geword met die eerste vrye kern, Linux, wat in die 1990's
+   beskikbaar geword het. GNU is 'n projek van die Stigting vir Vrye
+   Sagteware en Linux is (aanvanklik) deur Linus Torvalds geskryf.
+   Aangesien GNU en Linux geen amptelike verbintenis het nie, en Linux nie
+   'n bedryfstelsel is nie, maar bloot 'n kern, het die stigting aangedui
+   dat dit nie heeltemal korrek is om die gesamentlike stelsel bloot
+   "Linux" te noem nie.
+
+   Richard Stallman, die stigter van die stigting, is al hiervoor
+   gekritiseer, maar hou vol dat Linux slegs een deel van die volledige
+   stelsel is, en dat die volledige naam mense sal herinner aan die
+   idiologiese redes vir die onstaan van die GNU-projek, naamlik dié van
+   Vrye Sagteware. Linus Torvalds het al aangedui dat die gesamentlike
+   naam geregverdig is as die GNU-projek 'n Linux-verspreiding sou maak
+   (dus GNU/Linux net soos Redhat Linux), maar meen dat om die
+   gesamentlike naam in die algemeen te gebruik "belaglik" is.
+
+   Alhoewel die gesamentlike stelsels gereeld slegs "Linux" genoem word,
+   word die volledige naam wel soms gebruik, veral deur die Debian-projek.
+
+   'n Linux-verspreiding (Engels: distribution) is die algemene manier
+   waarop 'n GNU/Linux-stelsel beskikbaar gestel word. 'n Tipiese
+   verspreiding sal veel meer programme as bloot dié van die GNU-projek
+   insluit. Dit is 'n verdere rede waarom die gesamentlike naam dalk nooit
+   algemeen aanvaar sal word nie.
+
+[wysig] Eksterne skakels en bronne
+
+     * GNU/Linux naming controversy by die Engelse Wikipedia
+     * http://www.gnu.org/philosophy/linux-gnu-freedom.html
+
+   Kategorie: Rekenaar
+

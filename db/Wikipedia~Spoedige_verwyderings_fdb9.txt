@@ -1,0 +1,74 @@
+Wikipedia:Spoedige verwyderings
+
+
+   In teenstelling met Wikipedia se proses om onensiklopediese artikels
+   vir verwydering te nomineer, is daar ook artikels wat kwalifiseer vir
+   spoedige verwydering. Hierdie bladsye is hoofsaaklik nuwe bladsye, wat
+   van hul ontstaan af een van die onderstaande reëls oortree. Vir
+   bestaande bladsye wat gevandaliseer is, sien gerus
+   Wikipedia:Vandalisme.
+
+   Hier volg 'n lys van die soort artikels wat moontlik vir spoedige
+   verwydering gemerk kan word.
+
+   Inhoud
+
+        * 1 Geen nuttige inligting
+        * 2 Totale onsin
+        * 3 Ernstige vandalisme
+        * 4 Verkeerdelike genaamd
+        * 5 Hoe om 'n bladsy te merk
+        * 6 Sien ook
+
+[wysig] Geen nuttige inligting
+
+   As 'n artikel geen nuttige inligting bevat nie, beteken dit dat hy
+   slegs 'n paar woorde of sinne bevat wat geen verduideliking van die
+   veronderstelde onderwerp gee nie. Wanneer 'n artikel met die naam
+   "Joernalistiek" slegs die woord "joernalistiek" bevat, word dit beskou
+   as geen nuttige inligting nie.
+
+[wysig] Totale onsin
+
+   'n Bladsy wat totale onsin bevat is maklik om te herken: "Groete aan
+   Jens, die is ziek" of "123lkjsddi" is byvoorbeeld nie passende
+   inligting vir die artikel oor die bloukraanvoël nie. Sulke bladsye kan
+   vir spoedige verwydering gemerk word.
+
+[wysig] Ernstige vandalisme
+
+   Somtyds word 'n bladsy geskep met die hoofdoel om kru taal of
+   boodskappe van veronderstelde kuberkrakers ten toon te stel (hulle
+   besef blykbaar nie wat "vry om te redigeer" beteken nie). Hierdie
+   bladsye kan vir spoedige verwydering gemerk word.
+
+[wysig] Verkeerdelike genaamd
+
+   Almal maak soms'n tikfout en dit gebeur nou en dan dat die naam van 'n
+   artikel, tydens skepping, verkeerd ingetik word, byvoorbeeld "voel" in
+   plaas van "voël", of "Pieter Jackson" in plaas van "Peter Jackson". In
+   die geval dat dit 'n splinternuwe blad is wat nog nie werklik 'n
+   redigeringsgeskiedenis het nie, kan die bladsy oorweeg word vir
+   spoedige verwydering. Indien dit al 'n bestaande blad is met 'n
+   redigeringsgeskiedenis, kan u dit oorweeg om eerder 'n aanstuurbladsy
+   te skep.
+
+[wysig] Hoe om 'n bladsy te merk
+
+   Dit is baie belangrik dat daar seker gemaak word dat die artikel nie 'n
+   reeds-bestaande artikel is waarvan die oorspronklike inhoud slegs
+   vervang is nie. U kan dit sien deur na die bladsy se geskiedenis te kyk
+   (bo-aan die bladsy, regs van "wysig"). Indien dit die geval is, is dit
+   moontlik dat die bladsy slegs teruggerol hoef te word na 'n vroeër
+   weergawe wat nie die vandalisme bevat nie. Vir meer hieroor, sien gerus
+   Wikipedia:Vandalisme.
+
+   Die sjabloon wat gebruik word om 'n bladsy vir spoedige verwydering te
+   merk is {{skrap|rede}}, waar "rede" 'n plekhouer is waar u 'n rede kan
+   gee vir die gebruik van die sjabloon, byvoorbeeld {{skrap|geen nuttige
+   inligting}} of {{skrap|vandalisme}}.
+
+[wysig] Sien ook
+
+     * Kategorie:Kandidate vir spoedige verwydering
+

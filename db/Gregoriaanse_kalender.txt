@@ -1,0 +1,82 @@
+Gregoriaanse kalender
+
+
+   Die Gregoriaanse kalender is tans dwarsdeur die westerse wêreld in
+   gebruik, en is 'n wysiging van die Juliaanse kalender. Dit is eerste
+   voorgestel deur die Napolese dokter Aloysius Lilius, en is uitgevaardig
+   deur die vernoemde Pous Gregorius XIII op 24 Februarie 1582 (hierdie
+   dokument is gedateer 1581 aangesien die kalenderjaar in daardie tyd in
+   Maart begin het).
+
+   Die Gregoriaanse kalender was ontwerp omdat die gemiddelde jaar in die
+   Juliaanse kalender effe té lank was, wat veroorsaak het dat die
+   dag-en-nag-eweninge geleidelik vroeër in die kalenderjaar verskuif het.
+
+   Inhoud
+
+        * 1 Akkuraatheid
+        * 2 Numeriese feite
+        * 3 Sien ook
+        * 4 Eksterne skakels
+
+[wysig] Akkuraatheid
+
+   Die Gregoriaanse kalender verbeter die Juliaanse benadering deur 3
+   Juliaanse skrikkeldae elke 400 jaar oor te slaan, wat 'n gemiddelde
+   jaar met 365,2425 sonnedae gee.
+
+   Dit sal 'n fout lewer van 1 dag elke 3000 jaar, wat 'n aansienlike
+   verbetering op die Juliaanse fout van 1 dag elke 138 jaar is. Oor
+   hierdie lang tydskale is dit ook te verwagte dat wisselings in die
+   Aarde se wentelbaan en onvoorspelbare rotasie dit onwaarskynlik maak
+   dat enige langtermyn akkuraatheid deur 'n skrikkeldag-reël ingewin sou
+   word.
+
+[wysig] Numeriese feite
+
+   Die gemiddelde jaar is 365,2425 dae = 52,1775 weke = 8 765,82 uur =
+   525 949,2 minute = 31 556 952 sekondes.
+
+   'n Gewone jaar is 365 dae = 8 760 uur = 525 600 minute = 31 536 000
+   sekondes.
+
+   'n Skrikkeljaar is 366 dae = 8 784 uur = 527 040 minute = 31 622 400
+   sekondes.
+
+   Party jare mag ook 'n skrikkelsekonde bevat.
+
+   Die 400-jaar siklus van die Gregoriaanse kalender het 146.097 dae en
+   dus presies 20.871 weke. So byvoorbeeld was die dae van die week in
+   1603 presies dieselfde as in 2003.
+
+   Dit veroorsaak ook meer maande om op 'n Sondag te begin (en dus 'n
+   Vrydag die dertiende te hê) as enige ander dag van die week. 688 uit
+   elke 4 800 maande (of 172 uit 1.200) begin op 'n Sondag, terwyl net 684
+   uit elke 4 800 maande (171 uit 1 200) begin op een van 'n Saterdag of
+   Maandag, die mins-algemene gevalle.
+
+   'n Kleiner siklus is 28 jaar (1 461 weke), indien geen oorgeslane
+   skrikkeljare daarin bevat is nie. Dae van die week in jare mag ook
+   herhaal ná 6, 11, 12, 28 of 40 jaar. Intervalle van 6 en 11 is slegs
+   moontlik met gewone jare, terwyl intervalle van 28 en 40 slegs moontlik
+   is met skrikkeljare. 'n Interval van 12 jaar kan gebeur met beide
+   tipes, maar slegs indien daar 'n oorgeslane skrikkeljaar tussen-in is.
+
+   Die Doomsday algoritme is 'n metode waarmee jy kan bepaal watter van
+   die 14 kalendervariasies gebruik behoort te word in enige gegewe jaar
+   ná die Gregoriaanse reformasie. Dit is gebaseer op die laaste dag in
+   Februarie, ook bekend as die Doomsday.
+
+[wysig] Sien ook
+
+     * Skrikkeljaar
+
+[wysig] Eksterne skakels
+
+     * Die Juliaanse en Gregoriaanse kalenders
+     * Algemene vrae oor kalenders
+     * The Perpetual Calendar Hierdie gee die datums waarop baie lande
+       oorgeskakel het na die Gregoriaanse kalender.
+
+   Kategorie: Datum
+

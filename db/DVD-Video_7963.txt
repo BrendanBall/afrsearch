@@ -1,0 +1,41 @@
+DVD-Video
+
+
+   DVD-Video is die opvolger van die CD-Video- en VHS-formaat en het
+   danksy verbeterde digitale beeld- en klankkwaliteit die gewildste
+   medium vir tuisteaterstelsels geword. Die DVD-Video-formaat baseer op
+   die DVD-ROM. Die maksimale speeltyd van 'n DVD-rolprent varieer na
+   gelang van die tipe DVD-ROM waarop dit gestoor word; tweesydige
+   DVD-Video's met twee lae op elke sy het 'n verlengde speeltyd van sowat
+   agt ure.
+
+[wysig] Gebiedskodes (regional codes)
+
+   Die Amerikaanse rolprentnywerheid behou die reg voor om films in die
+   buiteland op 'n later tyd vry te stel as in Noord-Amerika. By die
+   invoering van die DVD-formaat vir rolprente dring die filmateljees
+   daarop aan dat gebiedskodes op die skywe gestoor word, wat die gebruik
+   van die DVD tot die ooreenstemmende gebied beperk.
+   Die gebiedskodes van die DVD-Video
+   Die gebiedskodes van die DVD-Video
+   Kode                                Gebied
+    1   VSA, Kanada en VSA-besittings
+    2   Europa, Groenland, Suid-Afrika, Japan, Egipte en Midde-Ooste
+    3   Suidoos-Asië, Suid-Korea, Hongkong, Indonesië, Filippyne, Republiek
+        van Sjina
+    4   Australië, Nieu-Seeland, Mexiko, Sentraal-Amerika, Suid-Amerika
+    5   Rusland en GOS-lande, Oos-Europa, Indië, Afrika
+    6   Volksrepubliek van Sjina
+    7   Gereserveer vir toekomstige gebruik
+    8   Internasionale terreine, soos byvoorbeeld op skepe en in vliegtuie
+
+[wysig] DVD-tipes, stoorkapasiteit en video-speeltyd
+
+   DVD-tipe       Lae       Stoorkapasiteit Video-speeltyd
+    DVD-5   een laag        4,7 GB          120 minute
+    DVD-9   dubbellaag      8,54 GB         240 minute
+    DVD-10  een laag        9,4 GB          270 minute
+    DVD-14  een of twee lae 13,24 GB        360 minute
+    DVD-18  twee lae        17 GB           480 minute
+   Kategorie: DVD
+

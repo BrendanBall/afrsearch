@@ -1,0 +1,268 @@
+RAID
+
+
+   RAID is 'n afkorting van Redundant Arrays of Independent Disks, ook
+   bekend as Redundant Array of Inexpensive Disks en is die benaming vir
+   'n stel metodes vir die fisiese stoor van data op hardeskywe waardeur
+   die gegewens oor meer as een skyf verdeel word of op meer as een skyf
+   gestoor word of beide ten behoewe van 'n verhoogde spoed en/of om die
+   data op die skywe te beveilig.
+
+   RAID het ontstaan vanweë die behoefte aan meer stoorspasie teen 'n laer
+   koste en aangesien die meeste kleiner hardeskywe goedkoper was (rondom
+   1987) as 1 grote, is daar gesoek na 'n manier om 'n aantal fisiese
+   skywe te kombineer om een denkbeeldige skyf daarvan te maak. Omdat die
+   kosteverskille tussen groot- en klein hardeskywe nie meer so groot is
+   nie, word RAID deesdae meestal gebruik vir die beveiliging van data en
+   om die skryfspoed te verhoog. Dis dan ook die rede waarom die
+   oorspronklike betekenis van die I vir inexpensive in die afkorting
+   verander is na independent. RAID het sy oorsprong aan die Universiteit
+   van Kalifornië te Berkeley gehad.
+
+   Inhoud
+
+        * 1 Sonder RAID
+        * 2 RAID
+        * 3 RAID-beheerders
+        * 4 RAID-opstellings
+             + 4.1 JBOD
+             + 4.2 RAID-0
+             + 4.3 RAID-1
+             + 4.4 RAID-2
+             + 4.5 RAID-3
+             + 4.6 RAID-4
+             + 4.7 RAID-5
+                  o 4.7.1 Voorbeeld van pariteitsberekening RAID 5
+             + 4.8 RAID-6
+             + 4.9 RAID-10
+        * 5 Reference
+
+[wysig] Sonder RAID
+
+   Normaalweg word elke hardeskyf deur die bedryfstelsel van 'n rekenaar
+   as 'n afsonderlike eenheid benader. In Windows kan dit herken word aan
+   die skyfaanduiding C, D, E ens; In Unix en Unix-verwante bedryfstelsels
+   soos Linux en BSD waar die lêerstelsel as 'n logiese geheel aan die
+   gebruiker getoon word, is die skyfeenhede herkenbaar aan die sogenaamde
+   'mount points'.
+
+   Sonder RAID word die data deur die data wat die gebruiker verskaf na
+   die skyf aangestuur en word die data agtereenvolgend op die skyf
+   geskryf. Alle hierdie data word dus op een en dieselfde fisiese skyf
+   gestoor.
+
+[wysig] RAID
+
+   In 'n RAID-stelsel word veelvuldige hardeskywe gekombineer tot 'n groep
+   van skywe (Engels: Disk Arrays). Die programmatuur wat in die stelsel
+   ingebou is sorg dat daarvoor dat die rekenaar net een logiese skyf
+   sien. In die agtergrond word die data deur die beheerder oor die
+   betrokke skywe verdeel. So 'n matriks van skywe kan uit 'n willekeurige
+   aantal skywe bestaan. Deur die kombinasie van skywe kan 'n stelsel data
+   vinniger en/of veiliger verwerk as in die geval van 'n enkele skyf.
+
+[wysig] RAID-beheerders
+
+   Dit is moontlik om RAID uitsluitlik deur programmatuur te implementeer.
+   Sagteware RAID is moontlik met Linux en die eenvoudiger
+   RAID-opstellings is ook moontlik met tafelrekenaar-uitgawes van Windows
+   NT, 2000 en XP. Die bedenierweergawes van Windows kan ook die meer
+   komplekse kombinasies hanteer. Die sagteware oplossing neem egter ook
+   heelwat meer SVE-tyd in beslag.
+
+   'n Doeltreffende oplossing is die sagteware RAID met hardeware bystand,
+   waarby 'n spesiale verwerker die pariteitsberekeninge doen (sien RAID-5
+   hieronder), maar waar die uitvoer van die RAID self nog steeds deur
+   sagteware gedoen word.
+
+   Daar bestaan ook intelligente RAID-beheerders wat alle funksies met hul
+   eie ingeboude verwerkers versorg en waar die stelsel se SVE geen ekstra
+   werk hoef te verrig nie.
+
+   Daar bestaan verskillende RAID-opstellings, elk met sy eie
+   toepassingsgebied.
+
+[wysig] RAID-opstellings
+
+   RAID-opstelling Aantal skywe Pluspunte Minuspunte
+   JBOD minimum 2 Eenvoudige opstelling, eenvoudig om uit te voer Geen
+   foutregstelling, foutiewe skyf = data op foutiewe skyf gaan verlore
+   0 minimum 2 Vinnigste skryfspoed vir data, eenvoudige opstelling,
+   eenvoudig om uit te voer Geen foutregstelling, foutiewe skyf = data op
+   alle skywe is verlore
+   1 minimum 2 100% foutregstelling, eenvoudige opstelling relatief duur
+   2 minimum 3 Foutregstelling, ook vir skywe sonder ingeboude
+   foutregstelling Geen praktiese toepassing
+   3 minimum 3 Vinnige deurvoer van opeenvolgende data, doeltreffende
+   foutregstelling Kan nie gelyktydig lees en skryf nie
+   4 minimum 3 Vinnige lees van alle data, doeltreffende foutregstelling
+   Stadige skryfspoed
+   5 minimum 3 Vinnige lees van alle data, doeltreffende foutregstelling,
+   beste vir netwerktoepassings Stadiger as RAID-0 en RAID-1,
+   rekenintensief dus 'n relatief duur beheerder
+   6 minimum 4 Robuuste foutregstelling, kan twee falende skywe hanteer
+   Nog meer rekenintensief as RAID-5 dus relatief duur beheerder
+
+   Kombinasies van RAID kom ook voor, so kan RAID-1 en RAID-0 gekombineer
+   word om RAID-10 te gee (waarvoor 'n minimum van 4 skywe benodig word)
+   of RAID-0+1, RAID-3 en RAID-0 om RAID-53 te gee, RAID-5 en RAID-0 om
+   RAID-50 te gee en RAID-5 en RAID-1 om RAID-51 te gee.
+
+[wysig] JBOD
+
+   JBOD (van 'Just a Bunch Of Disks') is bloot eenvoudig die
+   agtermekaarvoeging van 'n aantal skywe waar die totale grootte van die
+   denkbeeldige skyf die som is van die spasie op al die skywe. Dit is op
+   sigself nie 'n RAID implentering nie maar word wel deur baie
+   RAID-beheerders ondersteun.
+
+[wysig] RAID-0
+
+   RAID-0 (ook bekend as striping); 'n Aantal skywe word in 'n string
+   geplaas en word as 'n groter skyf benader. Die gegewens word in klein
+   blokke (ook 'stripes' genoem) verdeel en om die beurt op verskillende
+   skywe gestoor. Dit bring 'n verhoogde skryfspoed mee omdat baie skywe
+   tergerlykertyd gegewens kan lees of skryf. Teoreties sou die verhoging
+   in spoed eweredig wees met die aantal skywe maar in die praktyk is dit
+   egter dikwels nie die geval nie.
+
+   RAID-0 bied geen foutregstelling nie. Die term 'reduntant' (oortollige)
+   is eintlik ook nie hier van toepassing nie. As een skyf sou faal dan
+   sou alle gegewens op die hele string verlore wees!
+
+   Die kleinste skyf in die string bepaal ook die omvang van die
+   RAID-stelsel. As daar byvoorbeeld 50 GB-, 100 GB- en 250 GB-skywe in 'n
+   RAID-0 opstelling geplaas word, sal die beheerder 'n skyf aan die
+   stelsel aanbied wat 150 GB (50 GB × 3) groot is. Hiermee gaan effektief
+   250 GB verlore. Sommige beheerders kan egter die oorblywende spasie vir
+   'n ander RAID-stel gebruik.
+
+   Sagteware RAID-0 word soms ook na verwys as Volume Sets.
+
+[wysig] RAID-1
+
+   RAID-1 (ook bekend as mirroring) skryf die data twee (of meer) keer op
+   verskillende skywe.
+
+   As 'n skyf sou faal sal die rekenaarstelsel nie beïnvloed word nie en
+   doodgewoon aanhou werk. Die beheerder sal dan alle toever/afvoer laat
+   loop op die ander skyf (of skywe). Die beheerder sal die gebruiker
+   natuurlik wel waarsku dat daar 'n fout is. Die logiese skyf in die
+   opstelling sal dan so groot wees as wat die kleinste skyf in die stel
+   is.
+
+   Alhoewel RAID-1 die minste doeltreffende manier is om data te beveilig
+   en vir die konvensionele SCSI RAID-stelsels 'n taamlik duur oplossing
+   is, bied dit vir IDE-stelsels 'n eenvoudig dog baie betroubare
+   oplossing as dit bloot gaan om die beveiliging van data.
+
+   As daar 1-tot-1 mirroring toegepas word met twee 160 GB-skywe, sal die
+   stelsel slegs een 160 GB skyf sien.
+
+   Ook hier is die kleinste skyf bepalend vir die uiteindelike
+   stoorkapasiteit van die RAID-stelsel in sy geheel.
+
+[wysig] RAID-2
+
+   RAID-2 gebruik parallelle datatransport (sien ook striping by RAID-0)
+   wat aangevul word met 'n sogenaamde Hamming foutregstellende kode
+   (Engels: Hamming Error Correction Code of ECC), en is bedoel vir skywe
+   wat nie hulle eie foutregstelling kan doen nie.
+
+   Alle moderne hardeskywe het egter wel foutregstelling ingebou. Omdat
+   die gebruik van 'n Hammingkode ekstra bisse bygevoeg word, het 'n mens
+   meer as 1 skyf nodig vir die stoor van die kode. Hierdie RAID-variant
+   het geen voordele bo RAID-3 nie.
+
+[wysig] RAID-3
+
+   RAID-3 werk byna dieselfde as RAID-2 met dié verskil dat 'n mens slegs
+   een skyf gebruik vir die stoor van die berekende pariteit van die
+   Hamming Kode. Ook hier ward parallelle verwerkings gedoen soos in die
+   geval van striping in die RAID-0 geval. Die pariteit word vir 'n stel
+   grepe (A0, A1, en A2) bereken en gestoor.
+
+   As een skyf uitval, kan 'n mens terugbereken en vasstel wat die verlore
+   grepe moet wees. Vanweë hierdie pariteitsdata kan 'n RAID-3 stelsel
+   egter nie gelyktydig lees en skryf nie.
+
+[wysig] RAID-4
+
+   RAID-4 is identies aan RAID-3 maar die pariteit word hier nie per greep
+   maar per datablok (stripe) bereken. 'n Datablok kan byvoorbeeld 32 of
+   64 kGrepe groot wees. Sodoende kan daar gelyktydig gelees en geskryf
+   word mits daar geen oorvleueling plaasvind nie. Dit is egter so dat die
+   skyf wat gebruik word om pariteit te stoor deur iedereen van die
+   bewerkinge aangespreek moet word en is daarom 'n spoedbeperkende
+   faktor.
+
+[wysig] RAID-5
+
+   RAID-5 werk identies aan RAID-4 met die verskil dat die pariteitsblokke
+   nie op 'n enkele skyf gestoor word nie maar verdeel word oor die skywe
+   in die string. Hiermee word die beperking van die pariteitskyf wat die
+   spoed beperk nie meer nie. In die praktyk word RAID-5 dan ook meer
+   dikwels gebruik as die ander RAID-variante met pariteit.
+
+   Voorbeelde van RAID-5 stoor op 4-skywe:
+
+             skyf1      skyf2      skyf3      skyf4
+   stripe 1: Data01     Data02     Data03     Par010203
+   stripe 2: Data04     Data05     Par040506  Data06
+   stripe 3: Data07     Par070809  Data08     Data09
+   stripe 4: Par101112  Data10     Data11     Data12
+   stripe 5: Data13     Data14     Data15     Par131415
+   stripe n: ...        ...        ...        ...
+
+[wysig] Voorbeeld van pariteitsberekening RAID 5
+
+   Die pariteitsberekening werk heel eenvoudig, al die bisse van 'n stel
+   wat nagegaan moet word, word deur 'n XOR-funksie met mekaar
+   gekombineer. Die XOR-funksie kyk in wese slegs na die aantal bisse met
+   'n waarde van 1 en stel die pariteitsbis dan dat die totale aantal ene
+   'n ewe getal is. Vir die bostaande voorbeeld kan die berekening
+   byvoorbeeld as volg verloop:
+   blok      greep
+   Data01    00101001
+   Data02    10010101
+   Data03    00101011
+   Par010203 10010111
+
+   As enige skyf sou wegval kan die verlore inligting bloot herbou word
+   deur die XOR-funksie op die oorblywende data uit te voer. Solank as wat
+   die skyf stukkend is sal die berekening uitgevoer word wanneer data
+   aangevra word en sal die spoed negatief beïnvloed word. As die skyf
+   vervang word sal die nuwe skyf eenmalig blok vir blok herbou word en
+   daarna sal die string weer normaal funksioneer.
+
+[wysig] RAID-6
+
+   RAID-6 is vergelykbaar met RAID-5 maar gebruik twee pariteitsblokke wat
+   oor alle skywe verdeel word. Die effektief bruikbare spasie neem dan
+   ook met twee skywe af. Die pariteitsberekening is ook heelwat meer
+   ingewikkeld as vir RAID-5 en is slegs op 'n beperkte aantal
+   RAID-beheerders beskikbaar. Met hierdie opstelling kan twee skywe faal
+   sonder dat die data verlore gaan.
+
+[wysig] RAID-10
+
+   RAID-10 verskaf 'n hoë beskikbarheid deur 'n kombinasie van eienskappe
+   van RAID-0 en RAID-1.
+
+   Sien (eksterne engelse skakels):
+     * RAID 10 provides high availability by combining features of RAID 0
+       and RAID 1
+     * RAID 10 ensures that if a disk in any constituent. mirrored set
+       fails, its contents can be .... it is always preferable to use a
+       traditional RAID 10!
+     * They might call the RAID 0 and then RAID 1 technique "RAID 1/0" or
+       "RAID 10" (perhaps out of fear that people would think "RAID 01"
+       and "RAID 1" were the same
+     * RAID-5 versus RAID-10
+
+[wysig] Reference
+
+     * http://www.raid-controller.info Duitstalige artikel
+
+   Kategorie: Rekenaar
+

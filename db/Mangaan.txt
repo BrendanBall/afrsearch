@@ -1,0 +1,277 @@
+Mangaan
+
+
+
+   25                        chroom ← mangaan → yster
+    -
+   ↑
+   Mn
+   ↓
+   Tc
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal mangaan, Mn, 25
+                                             Chemiese reeks oorgangsmetaal
+                                              Groep, Periode, Blok 7, 4, d
+                                               Voorkoms silwermetaal kleur
+                                             Atoommassa 54.938049(9) g/mol
+                                       Elektronkonfigurasie [Ar] 3d^5 4s^2
+                                            Elektrone per skil 2, 8, 13, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 7.21 g/cm³
+                                  Vloeistof digtheid teen s.p. 5.95 g/cm³
+                                                          Smeltpunt 1519 K
+                                                                (1246 °C)
+                                                           Kookpunt 2334 K
+                                                                (2061 °C)
+                                              Smeltingswarmte 12.91 kJ/mol
+                                              Verdampingswarmte 221 kJ/mol
+                                Warmtekapasiteit (25 °C) 26.32 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1228 1347 1493 1691 1955 2333
+
+                                                           Atoomeienskappe
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                          Oksidasietoestande 7, 6, 4, 2, 3
+                                                       (sterk suur oksied)
+                              Elektronegatiwiteit 1.55 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 717.3 kJ/mol
+                                                        2de: 1509.0 kJ/mol
+                                                         3rde: 3248 kJ/mol
+                                                        Atoomradius 140 pm
+                                                 Atoomradius (ber.) 161 pm
+                                                   Kovalente radius 139 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                                Elektriese weerstand (20 °C) 1.44 µΩ·m
+                          Termiese geleidingsvermoë (300 K) 7.81 W/(m·K)
+                              Termiese uitsetting (25 °C) 21.7 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 5150 m/s
+                                                  Young se modulus 198 GPa
+                                                      Massamodulus 120 GPa
+                                                      Mohs se hardheid 6.0
+                                                  Brinell hardheid 196 MPa
+                                              CAS-registernommer 7439-96-5
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van mangaan
+
+                            iso   NV  halfleeftyd  VM    VE (MeV)     VP
+                           ^52Mn sin  15.591 d     ε   -             ^52Cr
+                                                   β^+ 0.575         ^52Cr
+                                                   γ   0.7, 0.9, 1.4 -
+                           ^53Mn sin  3.74 ×10^6 j ε   -             ^53Cr
+                           ^54Mn sin  312.3 d      ε   -             ^54Cr
+                                                   γ   0.834         -
+                           ^55Mn 100% Mn is stabiel met 30 neutrone
+
+                                                                Verwysings
+
+   Mangaan is 'n chemiese element in die periodieke tabel met die simbool
+   Mn en atoomgetal van 25.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Biologiese rol
+        * 5 Verspreiding
+        * 6 Verbindings
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Sien ook
+        * 10 Verwysings
+        * 11 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Mangaan is 'n gryswit metaal wat soos yster lyk. Dit is 'n harde metaal
+   en is baie bros, smelt met moeite maar word maklik geoksideer.
+   Mangaan-metaal toon ferromagnetiese eienskappe slegs na spesiale
+   behandeling. Die mees algemen oksidasietoestande van mangaan is +2, +3,
+   +4, +6 en +7, maar toestande van +1 regdeur tot +7 word wel aangetref.
+   Mn^2+ ding dikwels mee met Mg^2+ in biologiese stelsels.
+   Mangaanverbindings waar die mangaan in die +7 oksidasietoestand verkeer
+   is kragtige oksideermiddels.
+
+[wysig] Aanwendings
+
+   Manganiet, 'n mangaanoksied
+   Manganiet, 'n mangaanoksied
+
+   Mangaan is 'n noodsaaklike element vir yster en staal produksie uit
+   hoofde van sy swaelvestiging, deoksidering en legeringseienskappe.
+   Staalvervaardiging, insluitend die ystervervaardigingstap is
+   verantwoordelik vir die grootste vraag na mangaan, tans rondom 85% tot
+   90% van die totale vraag. Mangaan is 'n sleutelkomponent in die
+   vervaardiging van lae-koste vlekvrye staal formulerings en word ook
+   algemeen gebruik in aluminiumlegerings. Dit word ook by petrol gevoeg
+   om enjinklop te verminder. Mangaan(IV)oksied (mangaandioksied) is
+   gebruik vir die eerste droë-sel batterye. Mangaandioksied word ook as
+   katalis aangewend. Mangaan word verder gebruik om kleur in glas te
+   verwyder (verwydering van die groen tint wat deur die teenwoordigheid
+   van yster veroorsaak word) en, by hoër konsentrasies, om perskleurige
+   glas te maak. Mangaanoksied is 'n bruin pigment wat gebruik kan word om
+   verf te maak en is 'n natuurlike bestandeel van omber.
+   Kaliumpermanganaat is 'n uiters sterk oksideermiddel en word in chemie
+   en geneeskunde as ontsmettingsmiddel gebruik.
+
+[wysig] Geskiedenis
+
+   Mangaan (Latyn magnes, wat "magneet" beteken) is al sedert die oertyd
+   in gebruik; verwe wat met mangaandioksied gepigmenteer is kan so ver as
+   17 000 jaar teruggespoor word. Die Egiptenare en Romeine het
+   mangaanverbindings in glasvervaardiging geburik, hetsy om kleeur te
+   verwyder of om dit te kleur. Mangaan kan in ysterertse van die Spartane
+   gevind word. Sommige spekuleer dat die buitengewone hardheid van
+   Spartaanse stale, die gevolg van onbewustelike vervaardiging van
+   yster-mangaanlegerings is.
+
+   In die 17de eeu, het die Duitse skeikundige Johan Glauber (daar word
+   egter deur sommige mense geglo dat dit deur Ignites Kaim in 1770 ontdek
+   is) die permanganaat vir die eerste keer voorberei. Teen die middel
+   18de eeu, is mangaandioksied gebruik in die vervaardiging van chloor.
+   Die sweedse skeikundige Scheele was die eerste om vas te stel dat
+   mangaan 'n element is, en sy kollega, Johan Gottlieb Gahn, het die dit
+   in 1774 as 'n suiwer element voorberei deur reduksie van die dioksied
+   met koolstof. Rondom die begin van die 19de eeu, het wetenskaplikes
+   begin om met die gebruik van mangaan in staalvervaardiging te
+   eksperimenteer, en is die eerste patente vir sodanige toepassings van
+   mangaan uitgereik. In 1816 is daar opgemerk dat die byvoeging van
+   mangaan tot yster dit harder gemaak het, sonder om dit brosser te maak.
+   In 1837 het die Britse akademikus Couper opgelet dat daar 'n verband
+   bestaan het tussen 'n hoë blootstelling aan mangaan in die myne en
+   Parkinson se siekte.
+
+[wysig] Biologiese rol
+
+   Mangaan is 'n noodskaaklike spoorvoeding vir alle lewensvorme.
+
+   Die verskeidenheid klasse ensieme wat mangaan kofaktore het is groot en
+   sluit klasse soos oksiedoreduktase, transferase, hidrolase, liase,
+   isomerase, ligase, lektiene en integriene in. Die mees bekende
+   mangaan-bevattende polipeptiede is waarskynlik arginase, 'n
+   Mn-bevattende superoksied dismutase en die difteria toksien.
+
+[wysig] Verspreiding
+
+   Mangaanerts
+   Mangaanerts
+
+   Mangaan kom hoofsaaklik as pirolusiet (MnO[2]) en tot 'n mindere mate
+   as rhodochrosiet (MnCO[3]) voor. Landgebaseerde neerslae is groot maar
+   onreëlmatig verspreid; dié van die Verenigde State is van 'n lae
+   gehalte wat 'n baie hoë ontginningskoste meebring. Suid-Afrika en die
+   Oekraïne se neerslae verteenwoordig meer as 80% van die wêreld se
+   bekende bronne terwyl Suid-Afrika se produksie 80% van die totale
+   wêreldproduksie verteenwoordig as Sjina en die Ukraïne buite rekening
+   gelaat word. Mangaan word ook in Burkina Faso ontgin.
+
+   Geweldige groot neerslae van mangaan bestaan in mangaanknobbels op die
+   seebodem. Pogings om ekonomies lewensvatbare metodes te ontwikkel om
+   mangaanknobbels te ontgin is in die 1970's gestaak.
+
+[wysig] Verbindings
+
+   Kaliumpermanganaat word dikwels as reagens in die laboratorium gebruik
+   vanweë sy oksideringseienskappe en vind ook gebruike as medisinale
+   salwe (byvoorbeeld, vir die behandeling van vissiektes).
+
+   Mangcaan(IV)oksied (mangaandioksied) word in droë-sel batterye gebruik
+   en kan ook gebruik word om glas wat met spoorhoevelhede yster besoedel
+   is te ontkleur. Mangaanverbindings kan ook gebruik word om glas 'n
+   ametis kleur te gee en is dan ook verantwoordelk vir die kleur van
+   ametis. Mangaandioksied word ook gebruik in die vervaardiging van
+   suurstof en chloor en om swart verwe te droog.
+
+   Die mees stabiele oksidasietoestand van mangaan is +2 en daarom word
+   baie mangaan(II)verbindings aangetref, soos onder andere
+   mangaan(II)sulfaat (MnSO[4]) en mangaan(II)chloried (MnCl[2]). Hierdie
+   oksidasietoestand word dan ook waargeneem in die mineraal rhodochrosiet
+   (mangaan(II)karbonaat). Die +3 oksidasietoestand kom ook voor in
+   verbindings soos mangaan(II)asetaat, maar hierdie is nogal sterk
+   oksideermiddels.
+
+[wysig] Isotope
+
+   Mangaan wat natuurlik voorkom bestaan uit 1 stabiele isotoop; ^55Mn. 18
+   radio-isotope is al uitgeken, waarvan die mees stabiele een ^53Mn is
+   met 'n halfleeftyd van 3.7 miljoen jaar, ^54Mn met 'n halfleeftyd van
+   312.3 dae en ^52Mn met 'n halfleeftyd van 5.591 dae en die oorblywende
+   isotope halfleeftye wat halfleeftye van minder as 3 ure het waar die
+   oorgrote meerderheid daarvan halfleeftye van minder as 'n minuut het.
+   Die element het ook 3 meta-toestande.
+
+   Mangaan is deel van die ystergroep van elemente en daar word gereken
+   dat dit in groot sterre net voor 'n supernova gevorm word. Mangaan-53
+   verval na ^53Cr met 'n halfleeftyd van 3.7 miljoen jaar. Vanweë sy
+   relatiewe kort halfleeftyd, is ^53Mn 'n uitgestorwe radionuklied.
+   Mangaan isotope word dikwels in kombinasie met chroom isotope aangetref
+   en word gebruik in isotoopgeologie.
+
+   Mn-Cr isotoopverhoudings versterk die teoretieë oor die vroeëre
+   geskiedenis van die sonnestelsel soos afgelei uit ^26Al en ^107Pd.
+   Variasies in die ^53Cr/^52Cr en Mn/Cr verhoudings in verskeie
+   meteoriete dui op 'n aanvanklike ^53Mn/^55Mn verhouding wat daarop dui
+   dat die Mn-Cr isotope onderhewig was aan in-situ verval van ^53Mn in
+   planetêre liggame. ^53Mn verskaf dus verdere bewys dat nukleosintetiese
+   prosesse plaasgevind het net voor die vorming van die sonnestelsel.
+
+   Die isotope van mangaan wissel in atoomgewig tussen 46 ame (^46Mn) tot
+   65 ame (^65Mn). Die primêre vervalmodus voor die mees algemene isotoop,
+   ^55Mn, is elektronvangs en die primêre modus daarna is beta verval.
+
+[wysig] Voorsorgmaatreëls
+
+   Mangaan in oormaat is toksies. Blootstelling aan mangaanstof en dampe
+   behoort nie die vlak van 5 mg/m^3 selfs vir kort tydperke oorskry nie
+   vanweë die uiters toksiese aard daarvan.
+
+   Suur permanganaat oplossings sal baie soorte organiese materiaal
+   waarmee hulle in kontak kom oksideer. Hierdie oksidasie proses kan
+   selfs genoeg warmte vrystel om sommige organiese stowwe aan die brand
+   te steek.
+
+   In 2005 het 'n studie 'n moontlike verband tussen die inaseming van
+   mangaan en toksiese effekte op die sentrale senuweestelsel van rotte
+   vasgestel. Daar word vermoed dat langtermyn blootstelling aan die
+   mangaan wat natuurlik in stortwater voorkom ook 'n risiko inhou.
+
+   'n Vorm van senuweestelsel verval soortgelyk aan Parkinson se siekte,
+   genaamd "manganisme" is al sedert die vroeë 19de eeu aan mangaan
+   verbind. Die sweisnywerheid is al daarvan beskuldig dat dit
+   verantwoordelik is vir gevalle van manganisme deur die inaseming van
+   mangaandampe. Mangaan verskein op die OSHA se Gevaarlike stowwe lys en
+   word beheer as gevolg van sy hoë vlak van toksisiteit.
+
+[wysig] Sien ook
+
+     * Kaliumpermanganaat
+     * Magneet
+     * Chemiese element
+     * Periodieke tabel
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Mangaan by die Los
+       Alamos National Laboratory se werf.
+     * Ooreenstemmende artikel in die Engelstalige Wikipedia
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – se artikel oor Mangaan
+     * Internasionale Mangaan Instituut
+     * Parkinson se siekte en Mangaan
+     * Artikel oor die moontlike Neurotoksiese gevare van mangaan
+       inaseming deur stortwater.
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale
+

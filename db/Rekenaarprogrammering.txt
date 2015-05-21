@@ -1,0 +1,35 @@
+Rekenaarprogrammering
+
+
+   Rekenaarprogrammering (of sommer net programmering) is die ontwerp en
+   skryf van programme in programmeertale sodat dit op 'n rekenaar
+   uitgevoer kan word. In meer besonderhede is dit die implementering van
+   een of meer verwante abstrakte algoritmes en/of datastrukture, deur
+   gebruik te maak van 'n programmeertaal om 'n werkende rekenaarprogram
+   te skep. Programmering bevat elemente van kuns, wetenskap, wiskunde en
+   ingenieurswese.
+
+   Programmering vind plaas in 'n taal omdat rekenaars binêre syfers
+   (bisse) verstaan en mense taal. Die tale is geskep om te dien as 'n
+   taal wat deur beide rekenaars en mense verstaan word. Daar is 'n paar
+   hoof soorte. Daar is op die heel onderste vlak saamsteltaal of
+   assembler en dit is uniek tot elke soort mikroverwerker. Saamsteltaal
+   is baie amper dieselfde as masjientaal maar in plaas van bv. 10110110
+   te tik word die opdrag as teks geskryf bv. add en 'n ander program
+   vertaal dit na die korrekte binêre kode. Die volgende is tale wat
+   vertaal word. Dit sluit tale soos C, C++, Pascal, Delphi en vele meer
+   in. Hierdie tale het 'n sintaks en mens kan veranderlikes en strukture
+   soos while en for gebruik. 'n Vertaler word gebruik om die tale na
+   masjientaal te vertaal. Dan op die heel boonste vlak bestaan
+   geïnterpreteerde tale. Dis tale wat opdrag vir opdrag uitgevoer word
+   soos Perl, Python en Basic. 'n Program of interpreteerder loop in die
+   agtergrond en ontvang opdragte vanaf die geïnterpreteerde taal en voer
+   die opdragte uit.
+
+[wysig] Sien ook
+
+     * Rekenaarwetenskap
+     * Lys van programmeertale
+
+   Kategorie: Rekenaarwetenskap
+

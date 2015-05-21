@@ -1,0 +1,104 @@
+Rooinekswael
+
+
+                     Rooinekswael
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hirundinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Cecropis
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. daurica
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Cecropis daurica
+   (Linnaeus, 1771)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+
+                               Hirundo daurica
+
+   Die rooinekswael (Cecropis daurica, sinoniem: Hirundo daurica) is 'n
+   klein voël in die swaelfamilie en lyk baie soos Europese swaels.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+
+[wysig] Identifikasie
+
+   Rooinekswaels het blou bolywe en rooi-bruin onderlywe, nek en gesig.
+   Hulle het ook swart ondervere. Soos baie ander swaels, is hulle vinnige
+   vlieërs en duik na die grond tydens vlug om insekte op te pik. Hulle
+   vlerke is breed met 'n punt.
+
+[wysig] Habitat
+
+   Die rooinekswael bou sy nes gewoonlik aan die onderkant van 'n afgrond
+   se oorhang, maar is vinnig om aan te pas en rooinekswaelnesse word
+   gereëld by geboue soos moskees en brûe aangetref. Die nes van 'n
+   rooinekswael lyk op 'n sfeerkwart, met 'n tonnel-ingang wat met modder
+   versterk word. Die wyfie lê 3 tot 6 eiers. Hulle vorm nie as 'n reël
+   groot broeikolonies nie, maar is baie sosiaal buite die broeiseisoen.
+
+[wysig] Verspreiding
+
+   Die voëls broei in oop, heuwelagtige gebiede in matige dele van
+   Suid-Europa en Asië, van Portugal en Spanje tot Japan, Indië en
+   tropiese Afrika. Die voëls in Afrika en Indië migreer nie, terwyl die
+   res hulle winter in Afrika en Indië spandeer.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Hirundo daurica
+     * Engelse naam: Red-rumped Swallow
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Swaels
+

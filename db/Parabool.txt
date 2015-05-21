@@ -1,0 +1,334 @@
+Parabool
+
+
+   'n Parabool
+   'n Parabool
+
+   Die parabool (uit Grieks: παραβολή) is 'n keëlsnit wat gegenereer word
+   deur die snyding van 'n regtesirkelkeëloppervlak en 'n vlak parallel
+   aan 'n generator lyn van die keël. 'n Parabool kan ook gedefinieer word
+   as die lokus van punte in 'n vlak wat ewe ver van 'n gegewe punt (die
+   brandpunt) en 'n gegewe lyn (die direktriks) is.
+
+   'n Besondere geval kom voor wanneer die vlak 'n raakvlak tot die
+   keëlvlak is. In die geval is die snyding 'n ontaarde parabool wat
+   bestaan uit 'n reguit lyn.
+
+   Inhoud
+
+        * 1 Definisies en oorsig
+             + 1.1 Analitiese meetkundige vergelykings
+             + 1.2 Ander meetkundige definisies
+             + 1.3 Vergelykings
+                  o 1.3.1 Cartesies
+                       # 1.3.1.1 Vertikale simmetrieas
+                       # 1.3.1.2 Horisontale simmetrieas
+                  o 1.3.2 Semi-latus rectum en poolkoördinate
+                  o 1.3.3 Gauss-kaart vorm
+        * 2 Bepaling van die brandpunt
+        * 3 Weerkaatsingseienskap van die raaklyn
+        * 4 Parabole in die fisiese wêreld
+        * 5 Kyk ook
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Definisies en oorsig
+
+   'n Grafiek wat die weerkaatsing eienskap vertoon, die direktriks
+   (groen), en die lyne wat die brandpunt en die direktriks aan die
+   parabool verbind (blou)
+   'n Grafiek wat die weerkaatsing eienskap vertoon, die direktriks
+   (groen), en die lyne wat die brandpunt en die direktriks aan die
+   parabool verbind (blou)
+
+[wysig] Analitiese meetkundige vergelykings
+
+   In Cartesiese koördinate het 'n parabool met 'n as parallel aan die
+   y-as met topunt (h, k), brandpunt (h, k + p), en direktriks y = k - p,
+   waar p die afstand is van die toppunt na die brandpunt is, die
+   vergelyking
+
+          (x - h)^2 = 4p(y - k) \,
+
+   of, alternatiewelik
+
+          (y - k) = \frac{1}{4p}(x-h)^2 \,
+
+   Meer algemeen is 'n parabool 'n kromme in die Cartesiese vlak
+   gedefinieer deur 'n onverminderbare vergelyking van die vorm
+
+          Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
+
+   sodat B^2 = 4AC, waar al die koëffisiënte reël is, waar A en/of C
+   nie-nul is, en waar meer as een oplossing bestaan wat die punte paar
+   (x, y) op die parabool definieer. Met die onverminderbaarheid van die
+   vergelyking word bedoel dat dit nie na die produk van twee nie
+   noodwendig verskillende lineêre faktore gefaktoriseer kan word nie.
+
+[wysig] Ander meetkundige definisies
+
+   'n Parabool kan ook gedefinieer word as 'n këlsnit met eksentrisiteit
+   1. As gevolg hiervan is all parabole soortgelyk. 'n Parabool kan ook
+   verkry word as die limiet van 'n reeks ellipse waar een brandpunt by 'n
+   vaste punt gehou word terwyl die ander toegelaat word om arbitrêr ver
+   in een rigting te beweeg. In die sin kan 'n parabool beskou word as 'n
+   ellips wat een brandpunt by oneindigheid het. Die parabool is 'n
+   inverse transformasie van 'n kardioïed.
+
+   'n Parabool het 'n enkele as van reflektiewe simmetrie wat deur die
+   brandpunt daarvan gaan en reghoekig tot die direktriks daarvan is. Die
+   snydings punt van die as en die parabool word die toppunt genoem. 'n
+   Parabool wat in drei dimensies om die as gedraai word trek 'n vorm wat
+   as 'nomwentelingsparaboloïed bekend staan af.
+
+   Die parabool kom in talle omstandighede in die fisiese wêreld voor.
+
+[wysig] Vergelykings
+
+   (met toppunt (h, k) en afstand p tussen die toppunt en die brandpunt –
+   let wel dat indien die toppunt onder die brandpunt is, of
+   ekwivalentsgewys bo die direktriks, is p positief, andersins is p is
+   negatief; op soortgelyke manier is p met horisontale simmetrieas
+   positief as die toppunt links van die brandpunt is of ekwivalentsgewys
+   regs van die direktriks)
+
+[wysig] Cartesies
+
+[wysig] Vertikale simmetrieas
+
+          (x - h)^2 = 4p(y - k) \,
+
+          y = a(x-h)^2 + k \,
+
+          y = ax^2 + bx + c \,
+
+                \mbox{waar }a = \frac{1}{4p}; \ \ b = \frac{-h}{2p}; \ \ c
+                = \frac{h^2}{4p} + k; \ \
+                h = \frac{-b}{2a}; \ \ k = \frac{4ac - b^2}{4a} .
+
+          x(t) = 2pt + h; \ \ y(t) = pt^2 + k \,
+
+[wysig] Horisontale simmetrieas
+
+          (y - k)^2 = 4p(x - h) \,
+
+          x = a(y - k)^2 + h \,
+
+          x = ay^2 + by + c \,
+
+                \mbox{waar }a = \frac{1}{4p}; \ \ b = \frac{-k}{2p}; \ \ c
+                = \frac{k^2}{4p} + h; \ \
+                h = \frac{4ac - b^2}{4a}; \ \ k = \frac{-b}{2a} .
+
+          x(t) = pt^2 + h; \ \ y(t) = 2pt + k \,
+
+[wysig] Semi-latus rectum en poolkoördinate
+
+   In poolkoördinate word 'n parabool met brandpunt by die oorsprong en
+   toppunt op die negatiewe x-as, gegee deur die vergelyking
+
+          r (1 - \cos \theta) = l \,
+
+   waar l die semi-latus rectum is: die afstand van die brandpunt na die
+   parabool self, gemeet langs 'n lyn loodreg tot die as. Let wel dat dit
+   dubbel die afstand van die brandpunt tot by die toppunt van die
+   parabool is of die reghoekige afstand van die brandpunt tot by die
+   latus rectum.
+
+[wysig] Gauss-kaart vorm
+
+   'n Gauss-kaart vorm: (tan^2φ,2tanφ) het die normaal (cosφ,sinφ).
+
+[wysig] Bepaling van die brandpunt
+
+   Gegee 'n parabool parallel aan die y-as met toppunt (0,0) en met
+   vergelyking
+
+          y = a x^2, \qquad \qquad \qquad (1) Beeld:Parabola.jpg
+
+          Paraboliese kromme wat die Direktriks vertoon. Die vergelyking
+          daarvan is: x^2 = 8y
+
+   dan is daar 'n punt (0,f) — die brandpunt — sodat enige punt P op die
+   parabool ewe ver van beide die brandpunt en die en 'n lyn reghoekig tot
+   simmetrie-as van die parabool (die linea directrix), in die geval
+   parallel aan die x-as. Aangesien die toppunt een van die moontlike
+   punte P is, volg dit dat die linea directrix deur die punt (0,-f) gaan.
+   Dus viur enige punt P=(x,y), sal dit ewe ver van (0,f) en (x,-f) wees.
+   Die probleem is om die waarde van f te vind wat die eienskap het.
+
+   Laat F die brandpunt aandui, en laat Qdie punt by (x,-f) aandui. Lyn FP
+   het die selfde lengte as lyn QP.
+
+          \| FP \| = \sqrt{ x^2 + (y - f)^2 },
+          \| QP \| = y + f.
+          \| FP \| = \| QP \|
+          \sqrt{x^2 + (a x^2 - f)^2 } = a x^2 + f \qquad
+
+   Kwadreer beide kante,
+
+          x^2 + (a x^2 - f)^2 = (a x^2 + f)^2 \qquad
+
+                      = a^2 x^4 + f^2 + 2 a x^2 f \quad
+
+          x^2 + a^2 x^4 + f^2 - 2 a x^2 f = a^2 x^4 + f^2 + 2 a x^2 f
+          \quad
+
+   Cancel out terms from both sides,
+
+          x^2 - 2 a x^2 f = 2 a x^2 f, \quad
+          x^2 = 4 a x^2 f. \quad
+
+   Cancel out the x^2 from both sides (x is generally not zero),
+
+          1 = 4 a f \quad
+          f = {1 \over 4 a }
+
+   Nou laat p=f en die vergelyking van die parabool word
+
+          x^2 = 4 p y \quad
+
+   Q.E.D.
+
+[wysig] Weerkaatsingseienskap van die raaklyn
+
+   Die raaklyn van die parabool beskryf deur vergelyking (1) het helling
+
+          {dy \over dx} = 2 a x = {2 y \over x}
+
+   Die lyn sny die y-as by die punt (0,-y) = (0, - a x^2), en die x-as by
+   die punt (x/2,0). Laat die punt G genoem word. Punt G is ook die
+   middelpunt van punte F en Q:
+
+          F = (0,f), \quad
+          Q = (x,-f), \quad
+          {F + Q \over 2} = {(0,f) + (x,-f) \over 2} = {(x,0) \over 2} =
+          ({x \over 2}, 0).
+
+   Aangesien G die middelpunt van die lyn FQ is, beteken dit dat
+
+          \| FG \| \cong \| GQ \|,
+
+   en dit is reed bekend dat P ewe ver van beide F en Q is:
+
+          \| PF \| \cong \| PQ \|,
+
+   en, derdens, lyn GP is gelyk aan ditself, daarom:
+
+          \Delta FGP \cong \Delta QGP
+
+   Dit volg dat \angle FPG \cong \angle GPQ .
+
+   Lyn QP kan verby P verleng word na 'n punt T, en lyn GP kan verleng
+   word verby P na 'n punt R. Dan is \angle RPT en \angle GPQ vertikaal,
+   dus is hulle gelyk (kongruent). Maar \angle GPQ is gelyk aan \angle FPG
+   . Daarom is \angle RPT gelyk aan \angle FPG .
+
+   Die lyn RG is 'n raaklyn aan die parabool by P, dus sal enige ligstraal
+   wat van punt P weerkaats word optree asof RG 'n spieël is en van die
+   spieël weerkaats word.
+
+   Laat 'n ligstraal langs die vertikale lyn TP beweeg en van 'n punt P
+   weerkaats word. Die straal se invalshoek op die spieël is \angle RPT ,
+   dus wanneer dit weerkaats word moet die invalshoek gelyk wees aan
+   \angle RPT . Maar daar is reeds gewys dat \angle FPG gelyk is aan
+   \angle RPT . Daarom weerkaats die straal langs die lyn FP: direk in die
+   na die brandpunt.
+
+   Gevolgtrekking: Enige ligstraal wat vertikaal afwaarts in die holte van
+   die parabool beweeg (parallel aan die simmetrie-as) sal direk na die
+   branpunt van die parabool af weerkaats word. (Kyk paraboliese
+   weerkaatser.)
+
+[wysig] Parabole in die fisiese wêreld
+
+   Ponte Hercilio Luz, Florianópolis, Brasilië. 'n Hangbrug vorm 'n
+   paraboliese kromme nie 'n kettinglyn nie
+   Ponte Hercilio Luz, Florianópolis, Brasilië. 'n Hangbrug vorm 'n
+   paraboliese kromme nie 'n kettinglyn nie
+
+   In die natuur word benaderings van parabole en paraboloïede in 'n
+   verskeidenheid van omstandighede aangetref. Die bekendste voorbeeld van
+   die parabool in die geskiedenis van fisika is die trajek van 'n
+   deeltjie of liggaam wat onder die invloed van 'n eenvormige gravitasie
+   veld sonder lugweerstand beweeg (byvoorbeeld 'n krieketbal wat deur die
+   lug trek as lugwrywing weggelaat word). Die paraboliese trajek van
+   projektiele is in die begin van die 17de eeu eksperimenteel deur
+   Galileo, wat eksperimente met die rol van balle op skuins vlakke
+   uitgevoer het, ontdek. Die paraboliese vorm van projektielbeweging is
+   later wiskundig deur Isaac Newton bewys. Vir voorwerpe wat oor ruimte
+   uitgestrek is, soos 'n duiker wat van 'n duikplank af spring, volg die
+   voorwerp self 'n ingewikkelde pad terwyl dit roteer, maar die
+   massamiddelpunt van die voorwerp volg steeds 'n paraboliese pad. Soos
+   in alle gevalle in die fisiese wêreld is die trajek altyd 'n benadering
+   van 'n parabool. Die teenwoordigheid van lug vervorm byvoorbeeld altyd
+   die pad. Teen lae snelhede is die vorm egter 'n goeie benadering van 'n
+   parabool. Teen hoër snelhede soos in ballistiek, is die pad hoogs
+   vervorm en lyk dit nie soos 'n parabool nie.
+   Paraboliese vorm gevorm deur die oppervlak van 'n vloeistof onder
+   rotasie
+   Paraboliese vorm gevorm deur die oppervlak van 'n vloeistof onder
+   rotasie
+
+   'n Ander geval waar 'n parabool in die natuur kan voorkom is in
+   twee-liggaam wentelbane, byvoorbeeld wanneer 'n klein planeetjie of
+   ander voorwerp onder die invloed van die son beweeg. Sulke paraboliese
+   wentelbane is spesiale gevalle wat selde in die natuur aangetref word.
+   Wentelbane wat 'n hiperbool of 'n ellips vorm is baie meer alegemeen.
+   Om die waarheid te sê, die paraboliese wentelbaan is die grensgeval
+   tussen die twee tipes bane.
+
+   Benaderings van parabole word ook aangetref in die vorm van kabels van
+   hangbrûe. Vryhangende kabels beskryf nie parabole nie maar eerder
+   kettinglyne. Onder die invloed van 'n eenvormige lading (soos 'n
+   brugdek byvoorbeeld), word dit egter tot 'n parabool vervorm.
+
+   Paraboloïede word ook in verskeie fisiese omstandighede aangetref. Die
+   bekendste hier onder is die paraboliese weerkaatser, wat 'n spieël of
+   soortgelyke weerkaatsende toestel is wat lig of ander vorme van
+   elektromagnetiese straling na 'n gemene brandpunt weerkaats. Die
+   begeinsel van 'n paraboliese weerkaatser is in die 3de eeu v.C. deur
+   die meetkundige Archimedes ontdek. Volgens oorlewering ^[1] het hy
+   paraboliese spieëls gebruik om Syracuse teen die Romeinse vloot te
+   verdedig deur die son se strale te konsentreer om die Romeinse skepe
+   aan die brand te steek. Die beginsel is van die 17de eeu toegepas in
+   teleskope. vandag word paraboliese weerkaatsers algemeen gebruik in
+   mikrogolf antennas, satellietskottels ens. Dit word ook omgekeerd in
+   beligting gebruik om 'n punt bron soos 'n gloeilamp se uitstraling in
+   'n nou bundel te fokus.
+
+   Paraboloïedd word ook waargeneem in die oppervlak van 'n vloeistof
+   beperk tot 'n houer en geroteer om 'n sentrale as. In die geval
+   veroorsaak die middelpuntvlietende krag dat die vloeistof teen die
+   wande van die houer op beweegom 'n paraboliese oppervlak te vrom. Dit
+   is die beginsel agter die vloeistofspieëlteleskoop.
+
+[wysig] Kyk ook
+
+     * Paraboloïed
+     * Ellips
+     * Hiperbool
+     * Keëlsnit
+     * Kettinglyn
+
+[wysig] Verwysings
+
+   Sjabloon:Wikisource1911Enc
+    1. ^ Middleton, W. E. Knowles (December 1961). "Archimedes, Kircher,
+       Buffon, and the Burning-Mirrors" (GIF). Isis 52 (4): 533–543.
+       Retrieved on 2006-08-08.
+
+[wysig] Eksterne skakels
+
+     * Weisstein, Eric W., Parabola op MathWorld.
+     * Archimedes Triangle and Squaring of Parabola at cut-the-knot
+     * Two Tangents to Parabola at cut-the-knot
+     * Parabola As Envelope of Straight Lines at cut-the-knot
+     * Parabolic Mirror at cut-the-knot
+     * Three Parabola Tangents at cut-the-knot
+     * Two Tangents to Parabola at cut-the-knot
+     * Focal Properties of Parabola at cut-the-knot
+     * Parabola As Envelope II at cut-the-knot
+
+   Kategorieë: Keëlsnitte • Krommes
+

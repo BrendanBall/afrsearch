@@ -1,0 +1,31 @@
+Lemniskaat van Gerono
+
+
+   Die Lemniskaat van Gerono
+   Die Lemniskaat van Gerono
+
+   In algebraïese meetkunde is die Lemniskaat van Gerono 'n algebraïese
+   vlakkromme van graad vier en genus nul met agtvormige vorm of die vorm
+   van 'n ∞-simbool. Dit het die vergelyking
+
+          x^4 − x^2 + y^2 = 0.
+
+   Dit is deur Camille-Christophe Gerono bestudeer.
+
+   Omdat die kromme van genus nul is, kan dit deur rasionele funksies
+   geparameteriseer word; een manier om dit te doen is
+
+          x = \frac{t^2-1}{t^2+1},\ y = \frac{2t(t^2-1)}{(t^2+1)^2}.
+
+   Anders as die Lemniskaat van Bernoulli of die Lemniskaat van Booth is
+   die dubbelpunt by die oorprong van die Lemniskaat van Gerono nie 'n
+   gewone dubbelpunt nie aangesien dit 'n delta invariant van twee het.
+   Die dualis kromme, wat onder vertoon word het as gevolg hiervan 'n
+   redelike ander karakter. Die vergelyking daarvan is
+
+          (x^2 − y^2)^3 + 8y^4 + 20x^2y^2 − x^4 − 16y^2 = 0.
+
+   Dualis van die Lemniskaat van Gerono
+   Dualis van die Lemniskaat van Gerono
+   Kategorieë: Algebraic curves • Spiric sections
+

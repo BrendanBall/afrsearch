@@ -1,0 +1,23 @@
+Hipotrogoïed
+
+
+   'n Hipotrogoïed is 'n roulette afgetrek deur 'n punt op 'n sirkel met
+   straal r wat aan die binnekant van 'n stilstaande sirkel met radius R
+   rol, waar die punt 'n afstand d van die middelpunt van die binneste
+   sirkel is.
+
+   Die parametriese vergelykings vir 'n Hipotrogoïed is:
+
+          x = (R - r)\cos\theta + d\cos\left({R - r \over r}\theta\right)
+          y = (R - r)\sin\theta - d\sin\left({R - r \over r}\theta\right)
+
+   Spesiale gevalle sluit die hiposikloïed in waar d = r en die ellips met
+   R = 2r.
+
+   Die klassieke Spirograph speelgoed trek Hipotrogoïede kurwes.
+
+   Kyk ook: epitrogoïed
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Krommes
+

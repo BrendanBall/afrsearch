@@ -1,0 +1,257 @@
+BASIC
+
+
+   BASIC is 'n hoëvlak programmeertaal. Die naam is 'n akroniem wat staan
+   vir Beginners All-purpose Symbolic Instruction Code. Die oorspronklike
+   BASIC is ontwerp in 1963 deur John George Kemeny en Thomas Eugene Kurtz
+   te Dartmouth Kollege om toegang te bied tot programmering aan studente
+   wat nie vertroud was met hierdie wetenskap nie. Rondom hierdie tyd is
+   die gebruik van rekenaars beperk tot wetenskaplikes en wiskundiges
+   omdat dit nodig was om doelgemaakte sagteware te skryf. Die taal het
+   wye aanklank gevind onder die mikrorekenaargemeenskap in die 1970's en
+   word toe ook wyd gebruik op tuisrekenaars in die 1980's. BASIC is tot
+   vandag toe nog baie gewild, alhoewel dit voorkom in ietwat ander
+   gedaantes.
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Die beginjare - die minirekenaar-era
+             + 1.2 Wye aanvaarding - die tuisrekenaar-era
+             + 1.3 Volwassenheid - die persoonlikerekenaar-era
+        * 2 Notas
+        * 3 Verwysings
+
+[wysig] Geskiedenis
+
+   Voor die middel van die 1960's was rekenaars verskriklike duur apparate
+   en is hulle slegs gebruik om gespesialiseerde take te verrig. 'n Enkele
+   bondelverwerking het slegs een taak uitgevoer te enige een oomblik, die
+   een na die ander. Gedurende die 1960's het die prys van rekenaars begin
+   sak en het hulle spoed ook toegeneem. Met hierdie ekstra
+   verwerkingskrag het dit begin gebeur dat rekenaars nie tot hul volle
+   kapasiteit gebruik kon word nie en het hulle soms gewag om take uit te
+   voer.
+
+   Die programmeringstale tydens hierdie era is ontwerp om spesifieke take
+   te verrig soos om wetenskaplike formules uit te werk of om
+   besigheidsdata te verwerk tot uiteindelik selfs woordverwerking. Selfs
+   hierdie nuwe, vinniger rekenaars was steeds 'n groot belegging en daar
+   was die neiging om te verseker dat die rekenaar doeltreffend gebruik
+   word. In die algemeen was hierdie gespesialiseerde tale wat gebruik is
+   dus moeilik om te gebruik en was daar ook groot verskille in die
+   sintaks van die tale.
+
+   Mettertyd het die koste van rekenaars afgeneem tot op 'n punt waar die
+   deel van 'n rekenaar nie meer alleenlik in die navorsingarena moontlik
+   was nie maar ook kommersieel. Die nuwe rekenaarstelsels het tyddeel
+   moontlik gemaak deur toe te laat dat verskeie gebruikers toegelaat het
+   om die verwerker en geheue te deel. Binne so omgewing skep die
+   bedryfstelsel die gevoel dat die gebruiker alleen op die rekenaar werk
+   deur te roteer deur elke proses en aan elk uitvoertyd te gee op die
+   rekenaar voor dit na die volgende een oorskakel. Hierdie meganisme het
+   die koste van die rekenaar dramaties laat sak aangesien een rekenaar
+   deur tot honderde mense gebruik kon word.
+
+[wysig] Die beginjare - die minirekenaar-era
+
+   Die oorspronklike BASIC-programmeertaal is in 1963 deur John George
+   Kemeny en Thomas Eugene Kurtz ontwerp en is deur 'n span studente van
+   Dartmouth geïmplementeer onder hulle wakende oog. Die doel van hierdie
+   nuwe taal was om die kompleksiteit van die beskikbare programmeertale
+   van daardie tyd aan te spreek om sodoende minder tegniese gebruikers,
+   sonder die wiskundige agtergrond van die tradisionele ontwikkelaars,
+   toe te laat om programmatuur te ontwikkel. Die moontlikheid om
+   rekenaars te gebruik in opleiding en navorsing was inderdaad aanloklik.
+   In die daaropvolgende jare het verskeie dialekte van BASIC te voorskyn
+   gekom en het Kemeny and Kurtz se oorspronklike BASIC naderhand bekend
+   gestaan as Dartmouth BASIC.
+
+   Die agt ontwerpbeginsels van BASIC was:
+    1. Dit moet maklik wees vir beginners om te verstaan.
+    2. Dit moet nie fokus op 'n spesifieke taak nie.
+    3. Om dit moontlik te maak om gevorderde funksies by te voeg vir
+       kenners.
+    4. Om interaktief te wees.
+    5. Dit moet vriendelike en insiggewende fout foudskappe vertoon.
+    6. Dit moet vinnig terugvoering gee vir klein programme.
+    7. Dit moet nie kennis benodig van rekenaarhardeware nie.
+    8. Dit moet die gebruiker beskerm teen die bedryfstelsel.
+
+   Die taal was gedeeltelik gebaseer op FORTRAN II en Algol 60 tesame met
+   tyddeel byvoegings. Die tyddeel glanspunte van ander stelsel soos JOSS,
+   CORC, en tot 'n mindere mate Lisp, is ook in aanmerking gebring. Dit is
+   voorafgegaan deur ander leertaal eksperimente by Dartmouth soos
+   DARSIMCO (1956) en DOPE (1062). DOPE was 'n implementasie van SAP en 'n
+   vereenvoudigde FORTRAN II byname DART (1963). Aanvanklik het BASIC hom
+   toegespits op die steun van wiskundige werk en het in 1965 string
+   funksionaliteit bygekry. BASIC is vir die eerste keer geïmplementeer op
+   die GE-265 hoofraam wat meervoudige terminale gesteun het. Wat sommige
+   mense sal verbaas is dat BASIC aanvanglik 'n vertaalde taal was. Dit
+   was ook 'n baie doeltreffende taal wat FORTRAN II en ALGOL 60 op
+   verskeie wiskundig intensiewe verwerkings geklop het op die GE-265.
+
+   Die ontwerpers van hierdie nuwe taal het besluit om die vertaler gratis
+   beskikbaar te stel om wye blootstelling te bewerkstellig. Hulle het
+   verder dit ook beskikbaar gestel aan verskeie hoërskole in die
+   Dartmouth-omgewing en het baie moeite gedoen om die taal te bevorder.
+   Die resultaat hiervan was dat BASIC taamlik bekend geraak het (vir 'n
+   rekenaartaal) en dat BASIC toe deur 'n aantal vervaardigers
+   geïmplementeer is waar dit populêr geword het op die nuwer
+   minirekenaars soos die DEC PDP en die Data General Nova. BASIC was ook
+   sentraal tot die ontwikkeling van HP Time-Shared BASIC van die laat
+   1960's en vroeë 1970's wat beskikbaar was as 'n geïnterpreteerde taal
+   eerder as, of bykomend tot, 'n vertaler.
+
+   Etlike jare na die vrystelling van BASIC het verskeie rekenaarkundiges
+   hulle misnoëe met die taal uitgespreek. Die gebruik van die GOTO
+   stelling het volgens hulle gelei tot swak ontwikkelingsbeginsels.^[1].
+   Sekeres het ook al BASIC bespot as te stadig (meeste geïnterpreteerde
+   weergawes is wwel heelwat stadiger as hul vertaalde ewekniëe) or te
+   eenvoudig aangesien baie weergawes (veral die gemik op klein rekenaars)
+   belangrike glanspunte en funksies uitgelaat het.
+
+[wysig] Wye aanvaarding - die tuisrekenaar-era
+
+   Nieteenstaande die wye gebruik van BASIC op die minirekenaar was dit
+   die bekendstelling van die MITS Altair 8800 mikrorekenaar in 1975 wat
+   die weg gebaan het tot die universaliteit van BASIC. Die meeste
+   rekenaartale het meer geheue en/of skyfspasie benodig as wat die klein
+   rekenaars, wat die algemene man op straat kon bekostig, beskikbaar
+   gehad het. Die stadige toegang tot geheue wat bande toegelaat het
+   tesame met 'n tekort aan bevoegde teksredigeerders het BASIC, wat
+   hierdie tekortkominge bevredig het, 'n aanloklike opsie gemaak. Nog 'n
+   voordeel was dat dit bekend was aan die jong ontwikkelaars wat 'n
+   belangstelling in programmering getoon het. Kemeny en Kurtz se
+   bekeerdery het in hierdie verband die taal goed bekend gestel. Een van
+   die eerste weergawes van die taal wat op die rekenaars soos die Altair
+   verskyn het was Tiny BASIC wat 'n heel eenvoudige implementasie was en
+   geskryf is deur Dr. Li-Chen Wang wat toe later na die Altair oorgedra
+   is deur Dennis Allison op versoek van Bob Albrecht (wat toe ook later
+   Dr. Dobb's Journal geskep het). Die Tiny BASIC ontwerp tesame met die
+   volledige bronkode is in 1976 op Dr. Dobbs Journal gepubliseer.
+
+   MITS het in 1975 Altair BASIC vrygestel. Dit is ontwikkel deur Bill
+   Gates en Paul Allen onder die toe Micro-Soft vaandel. Die eerste Altair
+   weergawe is deur Gates, Allen en Monte Davidoff ontwikkel.
+   Gelisensieerde weergawes van Microsoft BASIC het kort daarna op
+   verskeie platforms hulle buiging gemaak. Miljoene kopieë en variante
+   was blitsig in gebruik en dit het een van die standaard tale op die
+   Apple II geword. Teen 1979 was Microsoft in gesprekke met verskeie
+   hardewareverskaffers, onder ander IBM, om gelisensieerde weergawe van
+   die BASIC-interpreteerder op hul rekenaars te versprei. 'n Weergawe is
+   toe ingesluit in die IBM PC LAG (Leesalleengeheue) skyfies en rekenaars
+   sonder slapskywe het automaties in BASIC in selfgelaai net soos talle
+   ander mikrorekenaars.
+
+   Deur nuwe maatskappye wat die sukses van MITS, IMSAI, North Star en
+   Apple probeer naboots het, is die tuisrekenaarindustrie gevestig. In
+   die tussentyd het BASIC 'n algemene glanspunt van bykans elke
+   tuisrekenaar geword. Die meerderheid is toegerus met 'n
+   BASIC-interpreteerder wat gestoor is in LAG en het sodoende die duur
+   hardeskyfprobleem opgelos. Nie lank nie of daar was miljoene
+   tuisrekenaars wat toegerus was met BASIC reg rondom die wêreld en dit
+   was moontlik meer as al die gebruikers van al die ander beskikbare tale
+   saam. Daar is meer dialekte van BASIC as wat bestaan vir enige ander
+   rekenaartaal.
+
+   Die BBC het hul eie weergawe laat ontwikkel deur Acorn Computers Ltd en
+   dit het as BBC BASIC bekend gestaan. Dit het verskeie nuwe
+   sleutelwoorde bevat wat gebruik is om die struktuur van die program te
+   beheer asook omvattende en veelsydige toegang tot die bedryfstelsel.
+   Dit het ook 'n ten volle geïntegreerde samesteller bevat. BBC BASIC is
+   hoog geag en het die oorgang gemaak vanaf die oorspronklike BBC Micro
+   rekenaar tot meer as 30 ander platforms.
+
+   Gedurende hierdie groeiperiode is daar verskeie tydskrifte, soos
+   Creative Computing Magazine, gepubliseer wat gemik was op BASIC en het
+   by tye die volledige bronkode bevat vir spelletjies, nuts- en ander
+   programme. Aangesien BASIC relatief eenvoudig was het die gebruikers
+   maklik die bronkode sommer gou ingetik en die program uitgevoer.
+   Verskeie tydskrifte is gepubliseer wat hul toegespits het op spesifieke
+   rekenaars en dus programme vir daardie weergawes van BASIC alhoewel
+   daar by tye programme voorgekom het wat so universeel was dat dit in
+   bykans enige rekenaar wat BASIC gebruik het. ingevoer kon word.
+   Verskeie boeke het ook te voorskyn gekom.
+
+[wysig] Volwassenheid - die persoonlikerekenaar-era
+
+   Heelwat nuwe weergawes van BASIC is ontwikkel gedurende hierdie
+   periode. Microsoft het ook verskeie weergawes verkoop vir MS-DOS en
+   PC-DOS wat ingesluit het BASICA, GW-BASIC en QuickBASIC. Borland, wat
+   ook Turbo Pascal geskep het, het op hul beurt Turbo BASIC 1.0 in 1985
+   vrygestel en die nuwer weergawes word steeds versprei deur Borland
+   onder die PowerBASIC handelsnaam.
+
+   Hierdie nuwe tale het verskeie verbeterings bevat soos beter
+   stringmanipulasie en grafiese steun, toegang tot die lêerstelsel asook
+   addisionele datatipes. Meer belangrik was die fasiliteite vir
+   gestruktureerde programmering wat bykomende beheerstrukture en
+   behoorlike subroetines, wat plaaslike veranderlikes kon bevat,
+   ingesluit het.
+
+   Teen die einde van die 1980's was nuwer rekenaars meer opgewasse en het
+   hulle heelwat meer hulpbronne gehad. Terselfdertyd het persoonlike
+   rekenaars hul opgang gemaak vanaf 'n stokperdjie tot gereedskap wat
+   gebruik is om programme uit te voer wat deur andere ontwikkel is. BASIC
+   moes toe maar die knie buig en het minder belangrik geword. Ten spyte
+   hiervan het verskeie weergawes beskikbaar gebly en word Compiled BASIC
+   (of CBASIC) tot vandag toe nog op verskeie IBM 4690 OS
+   betaalpuntstelsels gebruik.
+
+   BASIC het weer na vore getree met die bekendstelling van Visual Basic
+   deur Microsoft. Dit is moeilik om Visual Basic as BASIC te beskou
+   aangesien die taal nou objekgeörienteerd was en gebruik gemaak het van
+   gebeurtenisgedrewe programmering. Die enigste ooreenkoms met die ouer
+   BASIC-taal was die bekende sintaks. Die sintaks het ook nie meer die
+   taal ten volle definieer nie aangesien verskeie elemente soos knoppies
+   en invoerelemente as objekte gedefinieer is om hergebruik te bevorder.
+   Hierdie elemente hoef in meeste gevalle nie eens in dieselfde taal as
+   dié waarin dit gebruik word, geskryf te wees nie. Terwyl mens hierdie
+   verwikkelinge kan beskou as 'n evolusie van die taal het min van die
+   unieke eienskappe van die Dartmouth BASIC voortbestaan. Voorbeelde
+   hiervan is die lynnommers en die INPUT sleutelwoord. INPUT is wel nog
+   te vinde in Visual Basic maar word nou vir lêermanipulasie gebruik
+   terwyl INPUTBOX vir direkte gebruikerinvoere gebruik kan word.
+   Lynnommers kan opsioneel gebruik word in alle vorms van VB, selfs
+   VB.NET alhoewel daar beperkings is op hierdie gebruik in sekere dele.
+
+   Gegewe die oorsprong van BASIC as 'n taal vir "beginners" en blykbaar
+   selfs vir diegene by Microsoft wat Visual Basic (of VB) beskou as 'n
+   taal wat gebruik word as 'n stokperdjie is dit ironies dat vanaf VB se
+   weergawe 3.0 (wat beskou kan word as die eerste stabiele weergawe) dit
+   wyd gebruik is vir die ontwikkeling van klein besigheidstoepassings.
+   Alhoewel meer gesofistikeerde programmeerders neergekyk op VB, het die
+   taal die vereistes bevredig in gevalle waar besigheidstoepassings die
+   maklike ontwikkeling verkies het bo verwerkingspoed. Rondom hierdie
+   tydstip van Windows 3.1 was rekenaars reeds so kragtig dat
+   besigheidsprosesse in 'n oogwink afgehandel kon word al het mens 'n
+   "stadige" taal gebruik solank daar nie massas data betrokke was nie.
+   Baie klein besigheidseienaars het gevind dat hulle vir hulself 'n
+   oplossing kon skryf binne 'n paar aande om hul spesifieke benodigdhede
+   te bevredig. VB 3.0 het 'n relatiewe lang lewe geniet en het sodoende
+   'n bemarkbare vaardigheid geword.
+
+[wysig] Notas
+
+    1. ^ In 'n 1968 brief het die Nederlandse rekenaarweteskaplike Edsger
+       Dijkstra rekenaartale wat gebruik gemaak het van GOTO stellings om
+       programme te struktureer beskou as nadelig vir die produktiwiteit
+       van die programmeerder asook vir die kwaliteit van die kode ("Go To
+       Statement Considered Harmful", Communications of the ACM Volume 11,
+       147-148. 1968). Die brief het nie melding gemaak van enige
+       spesifieke taal nie maar het wel genoem dat die oorbenutting van
+       GOTO nadelig is en daar is tegniese redes aangevoer waarom dit so
+       is. In 'n skertsende 1975 artikel, "How do We Tell Truths that
+       Might Hurt", Sigplan Notices Volume 17 No. 5, gee Dijkstra 'n lys
+       ongemaklike "waarhede" wat sy opinie oor verskeie tale van die tyd
+       weergee, onder andere BASIC. Alhoewel GOTO baie na aan BASIC
+       verbonde is word BASIC geensins in 'n swakker lig gestel as PL/I,
+       COBOL of APL nie.
+
+[wysig] Verwysings
+
+   Hierdie artikel is aanvanklik saamgestel deur die Engelse weergawe van
+   Wikipedia te gebruik as 'n beginpunt.
+   Kategorieë: Rekenaar • Programmeertale
+

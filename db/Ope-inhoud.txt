@@ -1,0 +1,137 @@
+Ope-inhoud
+
+
+   Ope-inhoud is 'n byvoeglike naamwoord, 'n nuutskepping wat enige
+   skeppende werk, insluitende artikels, prente, luister- en kykmateriaal,
+   beskryf wat gepubliseer word in ‘n formaat wat eksplisiet toelaat dat
+   die materiaal gepubliseer en herversprei mag word. Die inhoud mag val
+   in die publieke domein, of onder lisensie, soos met die GNU/FDL
+   Lisensie. Waarskynlik was die eerste gedokumenteerde geval van
+   "ope-inhoud" navorsing die poging van die Koninklike Vereniging om, as
+   ‘n publieke onderneming, inligting dwarsoor die wêreld te versprei en
+   te deel.
+
+[wysig] Ope-inhoud projekte (in alfabetiese rangorde)
+
+     * Aozora Bunko - gratis digitale Japanese boek
+     * Asian Open Source Centre (http://www.asiaosc.org/) - bevat ‘n
+       ope-inhoud GFDL wiki op ‘n oop bron
+       (http://www.asiaosc.org/enwiki/)
+     * Authorama Public Domain Books (http://www.authorama.com) - XHTML
+       CSS publieke domein boeke met ‘n wiki-agtige annotasiesisteem vir
+       nie-geregistreerde gebruikers
+     * Berlios
+       (http://openfacts.berlios.de/index-en.phtml?title=Main_Page)
+     * Bitzi – gratis gemeenskapsgeboude katalogus van digitale lêers
+     * Bruce Perens' Open Source Series (http://perens.com/Books/) - Boeke
+       omtrent Linux en ander Oopbron sagteware
+     * California Open Source Textbook Project
+       (http://www.opensourcetext.org) - K-12 handboeke en ander
+       jaargangmateriaal
+     * Common Content (http://commoncontent.org/) - ‘n oop katalogus van
+       Creative Commons gelisensiëerde inhoud
+     * Connexions Repository (http://cnx.rice.edu/content/) - Rice
+       Universiteit se kursus-studiemateriaal
+     * Creative Commons
+     * Disinfopedia
+     * Eldritch Press (http://www.eldritchpress.org/) - boeke
+     * ExtinctionLevelEvent.com – Oop-inhoud Web Komediant
+       (http://www.extinctionlevelevent.com/)
+     * Free High School Science Texts (http://www.nongnu.org/fhsst)
+       (FHSST) is ‘n projek om gratis wetenskaphandboeke te skep, om
+       sodoende die koste te verminder van handboeke, veral in die Derde
+       Wêreld en ontwikkelende lande
+     * FreeMedia
+       (http://web2.unt.edu/weblibrary/freemedi/gallery/index.php) -
+       voorraadfoto’s van die Universiteit van Noord-Texas
+     * GrokDoc (http://grokdoc.net) - Bruikbaarheidstudie van die werk van
+       GNU/Linux nuwelinge
+     * Jake (http://jake-db.org/) - Navorsingsagteware en ‘n databasis
+       waarin die inhoud in ‘n Oopbron-metode geberg is
+     * GNUtemberg (http://www.gnutemberg.org/) in Italiaans.
+     * ibiblio (http://www.ibiblio.org/)
+     * Libre Society (http://www.libresociety.org/) - ‘n
+       oopkultuurwerfbladsy
+     * Linux documentation project (http://www.tldp.org/) - ‘n
+       Inhoudsprojek om documentasie vir Linux te ontwikkel
+     * LOCA Records (http://www.locarecords.com/) - ‘n oop-inhoud
+       platemaatskappy
+     * Magnatune (http://www.magnatune.com/) - ‘n oop-inhoud
+       platemaatskappy
+     * Mediaweapon (http://mediaweapon.net/) - ‘n oop-inhoud met die doel
+       om politieke deursigtigheid in die rewolusionêre teorie te bedryf
+     * Mieliestronk [1] - open content with general, educational, comic
+       and entertainment information in Afrikaans
+     * MOAK47(http://moak47.net/) - ‘n oop-inhoud vir die skep en herskep
+       van van ‘n samewerkende, weerstandige kultuur
+     * Nupedia (http://www.nupedia.com) - ‘n eweknie-hersiende
+       ensiklopedie
+     * Opart (http://www.opart.org) - ‘n oop kunspoel
+     * Open Clip Art Library (http://www.openclipart.org/) - ‘n oop
+       kunsknippiebiblioteek
+     * Opencode (http://eon.law.harvard.edu/opencode) - ‘n konsortium vir
+       ope navorsing en inhoud
+     * OpenContent (http://www.opencontent.org) - ‘n oopbron
+       lisensiëringskema vir informasie-inhoud
+     * Open Content for Education (http://www.life-open-content.org/)
+     * Open Directory Project (http://dmoz.org) - ‘n webinhoudsopgawe soos
+       Yahoo!
+     * Open-education.org (http://www.open-education.org) - ‘n deurgangs-
+       en beyweringswerfblad vir die samewerkende skepping van Oop-inhoud
+       Opvoedingsmateriaal
+     * Open Gaming Center (http://open-gaming-center.com) - ‘n oop-inhoud
+       proefneming om speletjies en ‘n speletjies-ensiklopedie te skep
+     * Openlaw (http://eon.law.harvard.edu/openlaw) - ‘n proefneming in
+       die ope beoefening van wetlike argumente
+     * Open Music Registry (http://www.openmusicregistry.org) - ope
+       musiekdeling deur middel van ‘n “Open Audio License”
+     * Open Photo (http://openphoto.net/) - voorraadfoto’s
+     * Open-Songs (http://www.open-songs.com) - gratis MP3'e
+     * Opsound (http://www.opsound.org/opsound.html) - ‘n oop klankpoel
+       van ‘n platemaatskappy
+     * OYEZ (http://www.oyez.org/oyez/resource/nitf/273/) - multimedia van
+       die Hooggeregshof van die Verenigde State
+     * Pickings.de (http://www.pickings.de/) - daaglikse oorsig oor die
+       nuus
+     * Prelinger Archives (http://www.archive.org/details/prelinger) -
+       regerings- en advertensiefilms
+     * Project Gutenberg (http://www.gutenberg.net)
+     * PlanetMath (http://planetmath.org/) - Wiskunde vir die volk, deur
+       die volk
+     * Sodipodi Clipart
+       (http://www.sodipodi.com/index.php3?section=clipart) - ‘n groot
+       versameling van die wêreld se vlae, en ander kunsknippies
+     * Wikimedia (http://www.wikimedia.org/)
+          + Wikibooks (http://www.wikibooks.org/)
+          + Wikipedia (http://www.wikipedia.com) - vrye ensiklopedie
+          + Wikiquote (http://quote.wikipedia.org/)
+          + Wiktionary (http://wiktionary.org/)
+     * Wikitravel (http://www.wikitravel.org/article/Main_Page) - ‘n
+       reisgids (maar nie deel van Wikimedia nie)
+     * Woochi – ‘n wynensiklopedie
+     * World66 (http://www.world66.com) - ‘n oop-inhoud reisgids
+     * World Lecture Hall (http://www.utexas.edu/world/lecture/) -
+       aanlyn-studiekursusmateriaal
+     * The Worldwide Lexicon
+
+[wysig] Lisensies
+
+     * Creative Commons License (11 weergawes)
+     * Design Science License
+     * GNU Free Documentation License
+     * Open Content License
+     * Open Directory Project License gebruik deur die Open Directory
+       Project
+     * Open Game License – onder lisensie van die Open Gaming Foundation,
+       soos opgestel deur die Wizards of the Coast.
+     * Open Publication License – onder lisensie van die Open Content
+       Project
+
+[wysig] Erkenning
+
+   Die lys van oop-inhoud projekte is gedeeltelik gebaseer op die The
+   Institutional Design of Open Source Programming
+   (http://www.firstmonday.org/issues/issue8_1/schweik/index.html)
+   beskikbaar by Firstmonday
+   Kategorie: Rekenaar
+

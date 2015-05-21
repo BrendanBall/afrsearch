@@ -1,0 +1,65 @@
+DVD-opnemer
+
+
+   'n DVD-opnemer met 'n geïntegreerde hardeskyf
+   'n DVD-opnemer met 'n geïntegreerde hardeskyf
+
+   'n DVD-opnemer is 'n DVD-masjien wat televisieprogramme en opnames van
+   digitale videokamera's op DVD-skywe kan skryf, maar ook as gewone DVD-
+   en CD-speler kan dien. Die mees gevorderde DVD-opnemers, wat tans onder
+   meer deur die Japannese vervaardiger Panasonic aangebied word, is in
+   staat om op alle beskikbare DVD-formate (DVD-R, DVD-RW, DVD-RAM, +R en
+   +RW) te skryf, speel DVD-Oudio-opnames en kan danksy hulle
+   HDMI-koppelvlak DVD-opnames in hoë resolusie weergee, wat veral geskik
+   is vir LCD- en plasmavertooneenhede.
+
+   Inhoud
+
+        * 1 DVD-formate vir opnames
+        * 2 Tegnologie
+        * 3 DVD-opnemer versus bandmasjien
+        * 4 Sien ook
+
+[wysig] DVD-formate vir opnames
+
+   Die agtersy van DVD-opnameskywe
+   Die agtersy van DVD-opnameskywe
+
+   DVD-opnemers is in staat om videosnitte van televisie en videokamera's
+   op DVD-skywe te stoor. Gevorderde masjiene beskik ook oor 'n hardeskyf
+   en kan op DVD-RAM-skywe skryf, sodat TV-programme met 'n tydverskuiwing
+   geniet kan word: Die DVD-opnemer kan tegelykertyd die begin van 'n
+   program weergee, terwyl hy nog steeds besig is om die res van die
+   program op te neem. TV-programme kan ook op die hardeskyf gestoor en
+   later op DVD geskryf of uitgewis word.
+
+[wysig] Tegnologie
+
+   Terwyl videomasjiene 'n magneetband gebruik om TV-opnames te stoor,
+   beskik DVD-opnemers, net soos CD- en DVD-skrywers, oor 'n laser, wat
+   nie-reflekterende gaatjies in die spieëllaag van 'n DVD-skyf inbrand.
+   Hierdie gaatjies bevat data, wat deur 'n swakker laser gelees en as
+   beeld en geluid weergegee kan word.
+
+[wysig] DVD-opnemer versus bandmasjien
+
+   DVD-opnemer Videomasjien
+   Aard van data digitaal analoog
+   Tegnologie inbrand van gaatjies deur middel van 'n laser magneties
+   Tydverskuiwing (Time-shift, Time Slip) gevorderde modelle met DVD-RAM
+   en/of hardeskyf nie beskikbaar nie
+   Snelheid van opnames: Videoband na DVD afhanklik van DVD-formaat en
+   -opnemer; sneller as speeltyd neem so lank soos die speeltyd
+   Uitwis- en bewerkbaarheid van opnames DVD±R-opnames kan nie gewysig of
+   uitgewis word nie; DVD±RW-opnames kan uitgewis word om plek te maak vir
+   nuwe opnames; DVD-RAM-opnames kan gewysig en uitgewis word kan volledig
+   uitgewis of verander word
+
+[wysig] Sien ook
+
+     * DVD-speler
+     * DVD
+     * DVD-RAM
+
+   Kategorieë: Elektroniese verbruikersware • DVD
+

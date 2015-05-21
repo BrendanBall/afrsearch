@@ -1,0 +1,269 @@
+Sirkonium
+
+
+
+   40                      yttrium ← sirkonium → niobium
+   Ti
+   ↑
+   Zr
+   ↓
+   Hf
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal sirkonium, Zr, 40
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 4, 5, d
+                                                     Voorkoms silwerig wit
+                                               Atoommassa 91.224 (2) g/mol
+                                       Elektronkonfigurasie [Kr] 4d^2 5s^2
+                                        Elektrone per skil 2, 8, 18, 10, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 6.52 g/cm³
+                                   Vloeistof digtheid teen s.p. 5.8 g/cm³
+                                                          Smeltpunt 2128 K
+                                                                (1855 °C)
+                                                           Kookpunt 4682 K
+                                                                (4409 °C)
+                                                 Smeltingswarmte 14 kJ/mol
+                                              Verdampingswarmte 573 kJ/mol
+                                Warmtekapasiteit (25 °C) 25.36 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2639 2891 3197 3575 4053 4678
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 4
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 1.33 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 640.1 kJ/mol
+                                                          2de: 1270 kJ/mol
+                                                         3rde: 2218 kJ/mol
+                                                        Atoomradius 155 pm
+                                                 Atoomradius (ber.) 206 pm
+                                                   Kovalente radius 148 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 421 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 22.6 W/(m·K)
+                               Termiese uitsetting (25 °C) 5.7 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3800 m/s
+                                                   Young se modulus 68 GPa
+                                                       Skuifmodulus 33 GPa
+                                                    Poissonverhouding 0.34
+                                                      Mohs se hardheid 5.0
+                                                  Vickers hardheid 903 MPa
+                                                  Brinell hardheid 650 MPa
+                                              CAS-registernommer 7440-67-7
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van Sirkonium
+
+                            iso    NV   halfleeftyd    VM   VE (MeV)  VP
+                           ^88Zr sin    83.4 d       e      -        ^88Y
+                                                     ?      0.392 D  -
+                           ^89Zr sin    78.4 h       e      -        ^89Y
+                                                     ß^+    0.902    ^89Y
+                                                     ?      0.909D   -
+                           ^90Zr 51.45% Zr is stabiel met 50 neutrone
+                           ^91Zr 11.22% Zr is stabiel met 51 neutrone
+                           ^92Zr 17.15% Zr is stabiel met 52 neutrone
+                           ^93Zr sin    1.53×10^6y   ß^-    0.060    ^93Nb
+                           ^94Zr 17.38% Zr is stabiel met 54 neutrone
+                           ^96Zr 2.8%   > 3.9×10^20y ß^-ß^-  ?       ^96Mo
+
+                                                                Verwysings
+
+   Sirkonium is 'n chemiese element in die periodieke tabel met die
+   simbool Zr en atoomgetal van 40. Sirkonium is 'n sterk, glansende grys
+   oorgangsmetaal wat ooreenkomste toon met titaan. Sirkonium word
+   hoofsaaklik uit sirkon ontgin en het 'n baie hoë weerstand teen
+   korrosie. Sirkonium word hoofsaaklik gebruik in kernreaktore vanweë sy
+   weerstand teen korrosie en lae neutrondeursnee.
+
+   Inhoud
+
+        * 1 Kenmerke
+        * 2 Gebruike
+             + 2.1 Ander gebruike
+             + 2.2 Hafnium vrye sirkonium
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne Skakels
+
+[wysig] Kenmerke
+
+   Sirkonium is 'n glansende gryswit metaal en het 'n buitengewone hoë
+   weerstand teen korrosie. Sirkonium is ligter as staal met 'n hardheid
+   soortgelyk aan dié van koper. As die metaal fyn verdeel word kan dit
+   spontaan ontbrand in kontak met lug, veral by hoë temperature (die
+   soliede metaal is brand egter nie so maklik nie).
+   Sirkonium-sinklegerings word magneties by temperature onder 35 K. Die
+   oksidasietoestand van sirkonium is gewoonlik +4, maar die +3 en +2
+   toestande kan ook verkry word.
+
+[wysig] Gebruike
+
+   Kubiese sirkonia, ZrO2
+   Kubiese sirkonia, ZrO[2]
+
+   Die hoofgebruike vir sirkon (ZrSiO[4]) is in vuurbestande voerings,
+   gietsand en in keramieke. Sirkon word ook as 'n natuurlike
+   edelgesteente bemark vir gebruik in juwele en die oksied daarvan word
+   verwerk om kubiese sirkonia (hier links in beeld) te maak, wat 'n
+   skitterende, helder kristal vorm en as plaasvervanger vir diamant
+   gebruik word.
+
+[wysig] Ander gebruike
+
+     * Sirkonium het 'n lae absorpsiedeursnee vir termiese neutrone^[1],
+       wat dit ideaal maak vir aanwendings in die kernenergiebedryf soos
+       vir die voering van brandstofelemente. Meer as 90% van
+       sirkonium-metaalvervaardiging word vir kommersiële
+       kernkragopwekking benut. Moderne kommersiële skaal reaktore kan
+       soveel as 150 000 meters se buise gebruik wat uit
+       sirkoniumlegerings (Zircaloy) vervaardig is. Reaktor-graad
+       sirkonium moet gesuiwer word van sy hafnium-inhoud, wat 'n
+       neutroneursnee het wat 600 keer groter is as dié van sirkonium; 'n
+       hafniumvrye sirkonium kan 10 keer duurder wees as 'n sirkonium wat
+       nog die 1-5% hafnium bevat wat natuurlik voorkom.
+     * Menslike weefsels kan hierdie metaal maklik verwerk wat dit geskik
+       maak vir gebruik in inplantings. Een so 'n toepassing is die
+       gebruik van oxinium, 'n sirkonium-niobium legering wat doelbewus
+       geoksideer word om 'n verweringsbestande, hoë integriteit
+       sirkoniumoksied oppervlak te lewer vir gebruik in heup of
+       kniegvervangingstoestelle. Die keramiekoppervlak verminder die
+       verwering van die poli-etileen teenoppervlak terwyl die substraat
+       die sterkte en smeebaarheid van 'n metaal behou.
+     * Word baie gebruik in die chemiese nywerheid vir pypwerk in
+       korrosiewe omgewings.
+     * Sirkonium is pirofories (vlambaar) en is al gebruik in militêre
+       brandbomme.
+     * Onsuiwer sirkoniumoksied, sirkonia, word gebruik om kroesies te
+       vervaardig wat in laboratoriums gebruik word en wat hitteskok moet
+       kan weerstaan, vir voerings in metalurgiese oonde en in die
+       keramiek- en glasnywerhede as 'n brandbestande voeringsmateriaal.
+     * Word ook gebruik in hitteruilers in vakuumbuise en lampfilamente en
+       'n verskeidenheid spesiale legerings.
+     * Wanneer dit saam met niobium gelegeer word, raak sirkonium
+       supergeleidend by lae temperature en word dus gebruik om
+       supergeleier magnete te maak en toon belofte in grootskaalse
+       elektriese krag gebruike.
+     * Sirkonium Diamied-Diamien komplekse kan gebruik word om die
+       polimerisasie van alkene te kataliseer, veral eteen wat deur
+       Tritiel-BArF geaktiveer is.
+     * Sirkoniumnitried is onlangs gebruik as alternatief vir
+       titaniumnitried vir die bedekking van boorpunte. Beide bedekkings
+       is veronderstel om die boor skerper en koeler te hou gedurende die
+       snyproses.
+     * Bis(siklopentadiëniel)sirkonium(IV)chloriedhidried (Schwartz se
+       Reagens) is 'n kommersieël beskikbare metalloseen wat gebruik word
+       in die hidrosirkonisasie van alkene en alkyne.
+     * Fietsvervaardigers sluit sirkonium-aluminiumlegerings by hul
+       hoëgraadse fietsrame in. Hierdie kombinasie maak die raam sterker
+       en duursamer en ook ligter.
+     * Sirkonium word ook gebruik in die molekule
+       Aluminium-Sirkonium-Oktachlorohydrex GLY, wat as reukweermiddel
+       gebruik word.
+     * Sirkonium word ook gebruik as voerings in gevormde plofstofladings.
+
+   In 2007, het Sirkonium ongeveer $150/kg gekos.
+
+[wysig] Hafnium vrye sirkonium
+
+   Reaktorgraad sirkoniumlegerings moet van hafniumvrye sirkonium
+   vervaardig word aangesien hafnium 'n baie hoë neutron absorpsiedeursnee
+   het wat 600 keer hoër is as dié van sirkonium is. Kommersiële sirkonium
+   bevat gewoonlik 1-5% hafnium wat verwyder moet word. Hierdie
+   verwyderingsproses is uiters moeilik (sirkonium en hafnium is twee van
+   die moeilikste elemente om van mekaar te skei). Twee hoofprosesse wat
+   gebruik word is: vloeistof-vloeistof ekstraksie wat die verskil in
+   oplosbaarheid metaaltiosianate in metielisobutielketoon (MIBK) uitbuit
+   en ekstraktiewe distillasie. Die resulterende reaktorgraad sirkonium
+   word gebruik in die vervaardiging van beheerstawe.
+
+[wysig] Geskiedenis
+
+   Sirkonium (afkomstig vanuit die Arabiese woord zarkûn of die Persiese
+   woord zargûn wat "goudagtig" beteken) is in 1789 ontdek deur Martin
+   Heinrich Klaproth en in 1824 geïsoleer deur Jöns Jakob Berzelius.
+
+   Daar word reeds in Bybelse geskrifte na die sirkonium-bevattende
+   mineraal sirkon verwys. Die feit dat die mineraal 'n nuwe element bevat
+   het was onbekend totdat Klaproth 'n monster uit Ceylon in die Indiese
+   Oseaan geanaliseer het. Hy het die nuwe element Zirkonertz (sirkonia)
+   gedoop. Die onsuiwer metaal is vir die eerste keer deur Berzelius
+   geïsoleer deur 'n mengsel van kalium en kaliumsirkoniumfluoried te
+   verhit in 'n ysterbuis. Suiwer sirkonium is eers in 1914 voorberei.
+
+   Die kristalstaafproses (of Jodiumproses), is deur Anton Eduard van
+   Arkel en Jan Hendrik de Boer in 1925 ontdek en was die eerste
+   nywerheidsproses vir die kommersiële voorbereiding van suiwer pletbare
+   metalliese sirkonium. Dit is later deur die Kroll-proses vervang.
+
+[wysig] Verspreiding
+
+   Sirkonium word nooit in die natuur as 'n vrye metaal aangetref nie. Die
+   hoof ekonomies ontginbare bron van sirkonium is die
+   sirkoniumsilikaatmineraal, sirkon (ZrSiO[4]), wat aangetref word in
+   neerslae in Australië, Brasilië, Indië, Rusland en die Verenigde State.
+   Sirkonium en hafnium word in sirkon aangetref in 'n verhouding van
+   ongeveer 50 tot 1 en is moeilik om te skei. Sirkon is 'n byproduk van
+   die ontginnig en prosesering van die titaanbevattende
+   mineraalsandsoorte, ilmeniet en rutiel of tinmateriale. Sirkonium word
+   ook in 30 ander bekende mineraalspesies aangetref onder andere
+   baddelejiet. Die metaal word kommersieël voorberei deur die reduksie
+   van Sirkonium(IV)chloried met magnesium in die Kroll-proses en ander
+   metodes. Kommersiële graad sirkonium het steeds 'n 1 tot 3% hafnium
+   inhoud.
+
+   Die element is ook volop in S-tipe sterre en is in die son en
+   meteoriete bespeur. Maanrotsmonsters wat deur die Apollo program
+   sendings na die maan teruggebring is toon 'n baie hoë sirkoniumoksied
+   inhoud relatief tot aardrotse.
+
+[wysig] Isotope
+
+   Sirkonium soos dit in die natuur voorkom bestaan uit vier stabiele
+   isotope en een baie langlewende radio-isotoop (^96Zr). Die tweede mees
+   stabiele radio-isotoop is ^93Zr met 'n halfleeftyd van 1.53 miljoen
+   jaar. Agtien ander radio-isotope is ook al geëien. Die meeste hiervan
+   het halfleeftye van minder as 'n dag buiten ^95Zr (64.02 dae), ^88Zr
+   (63.4 dae) en ^89Zr (78.41 ure). Die primêre vervalmodus voor ^92Zr en
+   die primêre modus daarna is beta verval.
+
+[wysig] Voorsorgmaatreëls
+
+   Sirkoniumstaaf
+   Sirkoniumstaaf
+
+   Sirkoniumverbindings is gewoonlik nie giftig nie. Die metaalstof kan
+   spontaan in lug ontbrand en behoort as 'n groot vuur- en
+   ontploffingsrisiko hanteer te word. Sirkonium speel geen biologiese rol
+   nie.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Sirkonium
+
+    1. ^ NIST center for neutron research
+
+[wysig] Eksterne Skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Zirconium
+     * WebElements.com – Zirconium
+
+   Kategorie: Chemiese elemente
+

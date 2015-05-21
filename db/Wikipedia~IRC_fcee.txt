@@ -1,0 +1,55 @@
+Wikipedia:IRC
+
+
+   IRC is 'n internet-kommunikasieprotokol wat gebruik kan word vir
+   kletskamers. By die Afrikaanse Wikipedia kan dit vir verskillende
+   doeleindes gebruik word. Vir die gebruik van kletskamers regoor die
+   Wikimediaprojekte, asook instruksies en wenke, sien gerus m:IRC en
+   m:IRC channels (Engels). Vir inligting oor hoe om aan die gang te kom,
+   sal m:IRC instructions dalk nuttig wees. Daar is byvoorbeeld
+   kletskamers waar die ouens wat die bedieners versorg en ook die
+   programmeerders van die MediaWiki-sagteware gekontak kan word. Hierdie
+   blad beskryf die kamers wat spesifiek op die Afrikaanse Wikipedia van
+   toepassing is.
+
+[wysig] Onlangse wysigings
+
+   irc://irc.wikimedia.org/af.wikipedia kan gebruik word om die onlangse
+   wysigings na te gaan. Hier word die wysigings intyds na die kletskamer
+   gestuur vir almal om te sien. Dit wys
+     * die artikelnaam
+     * 'n aanduiding van of dit 'n nuwe artikel (N) of 'n klein wysiging
+       (M) is
+     * 'n skakel na die verskil
+     * die gebruiker/IP-adres
+     * die aantal karakters bygevoeg(+) of verwyder(-)
+     * die opsomming.
+
+   'n Voorbeeldinskrywing lyk só:
+[[639]] M http://af.wikipedia.org/w/index.php?title=639&diff=0&oldid=74805 * Chl
+ewbot * (+11) robot Bygevoeg: an
+
+   Geen boodskappe kan gestuur word nie - slegs die boodskappe van die
+   robot word ontvang.
+
+[wysig] Klets met ander Wikipediane
+
+   irc://irc.freenode.net/wikipedia-af kan gebruik word om met ander
+   Wikipediane te gesels. Hierdie kletskamer word spesifiek gebruik vir
+   sake rakende die Afrikaanse Wikipedia, maar mense van ander Wikipedias,
+   of ander Afrikaanse projekte soos Wikiwoordeboek, Wikibronne, ens. is
+   waarskynlik ook welkom. (Indien u sukkel om na die kletskamer toegang
+   te verkry kan u die volgende skakel probeer:
+   irc://chat.freenode.net:8001/wikipedia-af .)
+
+   Altwee kamers sal waarskynlik van die UTF-8-karakterstel gebruikmaak.
+   (Hierdie beïnvloed hoofsaaklik diakritiese tekens soos kappies en
+   deeltekens.)
+
+   Terwyl die kletskamer vir Wikipediane nog nie baie aktief is nie, kan
+   Wikipediane hulle beskikbaarheid of versoeke vir geselsgeleenthede op
+   hierdie besprekingsblad meld.
+
+   Daar is sprake daarvan dat al die kletskamers se name gaan verander by
+   Freenode. Sien gerus m:IRC channel renaming.
+

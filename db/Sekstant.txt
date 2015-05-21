@@ -1,0 +1,219 @@
+Sekstant
+
+
+   'n Sekstant is 'n meetinstrument wat gebruik word om die hoek of hoogte
+   van 'n hemelliggaam bo die horison te meet. Die hoek en tyd waarop die
+   meting gemaak word kan gebruik word op 'n posisielyn op 'n kaart vas te
+   stel. Die sekstant kan gebruik word om die son op sy hoogste punt van
+   die dag waar te neem en dan die meting gebruik om jou breedtegraad vas
+   te stel. As die sekstant horisontaal gehou word kan dit ook gebruik
+   word om die hoek tussen enige twee voorwerpe te meet, soos byvoorbeeld
+   tussen twee vuurtorings wat 'n mens dan op soortgelyke wyse in staat
+   sal stel om 'n posisielyn op 'n kaart te bereken.
+
+   Die skaal van 'n sekstant het 'n lengte van 1/6 van 'n volle sirkel;
+   60°, daarvandaan die sekstant se naam. 'n Oktant is 'n soortgelyke
+   instrument met 'n korter skaal (1/8 van 'n sirkel, of 45°).
+
+   Sir Isaac Newton het die beginsel van die dubbele reflekterende
+   navigasie-instrument uitgevind, maar dit nooit gepubliseer nie. Die
+   sekstant is onafhanklik rondom 1730 ontwikkel deur John Hadley
+   (1682-1744), 'n Engelse wiskundige en Thomas Godfrey (1704-1749), 'n
+   Amerikaanse uitvinder. Die sekstant, saam met die oktant het die
+   astrolabium as die belangrikste instrument vir navigasie vervang.
+   Oktant en skeepsjoernaal aan boord van die fregat Grand Turk
+   Oktant en skeepsjoernaal aan boord van die fregat Grand Turk
+
+   Inhoud
+
+        * 1 Voordele
+        * 2 Verstelling
+             + 2.1 1. Haaksheid
+             + 2.2 2. Kantfout
+             + 2.3 3. Kollimasiefout
+             + 2.4 4. Indeksfout
+        * 3 Bou van 'n sekstant
+        * 4 Sien ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Voordele
+
+   Die spesifieke voordeel wat die sekstant bo die astrolabium gehad het
+   was dat die hemelliggame relatief tot die horison gemeet is eerder as
+   relatief tot die instrument. Dit het 'n veel hoër akkuraatheid moontlik
+   gemaak.
+
+   Aangesien die meting relatief tot die horison is, is die meetaanduiding
+   'n ligstraal vanaf die horison. Die meting word dus beperk deur die
+   akkuraatheid waarteen die hoek gemeet kan word.
+
+   Die horison en hemelliggaam bly in 'n vaste posisie ten opsigte van
+   mekaar, selfs al is die gebruiker op 'n bewegende skip. Verder vereis
+   die sekstant nie elektriese strome nie (soos in die geval van moderne
+   navigasie-instrumente). Om hierdie rede word 'n sekstant steeds as 'n
+   nuttige tweede navigasietoerusting beskou vir skepe.
+
+[wysig] Verstelling
+
+   Vanweë die sensitiwiteit van die instrument is dit maklik om die
+   spieëls se verstellings per abuis uit te stel en daarom moet 'n
+   sekstant gereeld verstel word om foute reg te stel.
+
+   Daar bestaan vier meetfoute wat deur die navigator verstel kon word en
+   dié moet in die volgende volgorde verstel word:
+
+[wysig] 1. Haaksheid
+
+   Hierdie fout kom voor wanneer die indekspieël nie loodreg is ten
+   opsigte van die sekstant nie. Daar kan vir haaksheid getoets word deur
+   die indeksarm by ongeveer 60° op die gradeboog te plaas en dan die
+   sekstant horisontaal op 'n armlengte van jou af weg te hou en in die
+   indekspieël in te kyk. Die gradeboog van die sekstant moet voorkom asof
+   dit ononderbroke in die spieël aangaan. As daar 'n fout is sal die twee
+   beeld gebroke voorkom. Die spieël kan dan verstel word om te verseker
+   dat die weerkaatsing en die gradeboog van die sekstant nie meer gebroke
+   lyk nie.
+
+[wysig] 2. Kantfout
+
+   Dit gebeur wanneer die horisonspieël nie loodreg is ten opsigte van die
+   meetinstrument se vlak nie. Om hiervoor te toets moet die indeksarm op
+   nul gestel word en 'n ster moet dan deur die sekstant waargeneem word.
+   Die skroef op die raaklyn word dan vorentoe en agtertoe gestel totdat
+   die weerkaatsing alternatiewelik bo en onder die direkte waarneming
+   verbybeweeg. As die weerkaatste beeld direk oor die direkte waarneming
+   beweeg wanneer die posisie verander word bestaan daar nie 'n kantfout
+   nie. As dit aan die kant daarvan verbybeweeg bestaan daar wel 'n fout.
+   Die gebruiker kan die sekstant ook op sy kant hou en die horison
+   waarneem om die sekstant bedags te toets. As twee horisonne waargeneem
+   word, bestaan daar 'n kantfout; die horisonspieël kan verstel word
+   totdat die sterre of die twee horisonne in een beeld verenig word.
+
+[wysig] 3. Kollimasiefout
+
+   Hierdie fout gebeur as die teleskoop nie parralel is ten opsigte van
+   die vlak van die sekstant nie. Om hierdie fout na te gaan moet 'n mens
+   twee sterre 90° of meer uitmekaar waarneem. Die twee sterre moet dan
+   teenoor mekaar in die linkerste en regterkantste veld van die beeld.
+   Die sekstant moet dan effens beweeg word sodat die sterre na die
+   anderkant van die beeld beweeg. As hulle dan uitmekaar beweeg bestaan
+   daar 'n kollimasiefout.
+
+[wysig] 4. Indeksfout
+
+   Die fout kom voor wanneer die indeks- en horisonspieëls nie parallel
+   ten opsigte van mekaar is wanneer die indeksarm op nul staan nie. Om
+   vir 'n indeksfout te toets moet die indeksarm op nul gestel word en die
+   horison moet waargeneem word. As die weerkaatste en direkte beelde op
+   die horison oplyn bestaan daar nie 'n indeksfout nie. As die een beeld
+   bo die ander is moet die indeksspieël verstel word totdat die twee
+   horisonne oplyn. Snags kan dieselfde aksie uitgevoer word deur 'n ster
+   of die maan te gebruik.
+
+[wysig] Bou van 'n sekstant
+
+   Skeepssekstant
+   Skeepssekstant
+   Gebruik van die sekstant om die hoogte van die Son bo die horison te
+   meet
+   Gebruik van die sekstant om die hoogte van die Son bo die horison te
+   meet
+
+   Die arm word gebruik om die indekspieël te skuif. Die Wyser dui die
+   meting op die gradeboog aan. Die raam hou al die onderdele aanmekaar.
+   Dar bestaan twee soorte sekstante. Beide instrumente gee goeie
+   resultate en die keuse is basies 'n persoonlike voorkeur.
+
+   Tradisionele sekstante het 'n halwe horisonspieël. Dit verdeel die
+   sigveld in twee dele. Aan die een kant kan 'n mens die horison sien;
+   aan die ander kant kan 'n mens die hemelliggaam waarneem. Die voordeel
+   van hierdie soort sekstant is dat beidie die horison en hemelliggaam
+   helder en duidelik sigbaar is. Dit bied heelwat voordele in die nag en
+   in mistige weer, wanneer die horison moeilik waarneembaar is.
+
+   Heel-horison sekstante gebruik 'n half gesilwerde horisonspieël om 'n
+   volle uitsig oor die horison te verskaf. Dit maak dit maklik om te sien
+   wanneer die onderste deel van die hemelliggaam die horison raak.
+   Aangesien die son en die maan dikwels gebruik word en mistigheid in die
+   afwesigheid van oortrokke eer seldsaam is, is die lae lig voordele van
+   die halwe horisonspieël selde in die praktyk belangrik.
+
+   In beide soorte kan groter spieëls 'n groter sigveld lewer en dit
+   makliker maak om die hemelliggaam op te spoor. Moderne sekstante het
+   gewoonlik 5 cm or groter spieëls, terwyl die 19^de eeuse sekstante
+   selde spieëls van groter as 2.5 cm gehad het. Die grootste rede
+   hiervoor is dat die koste verbonde aan die vervaardiging van groot plat
+   hoë presisie spieëls deesdae heelwat laer is.
+
+   'n Kunsmatige horison is nuttig wanneer die horison nie sigbaar is nie.
+   Proffesionele sekstante het 'n kunsmatige horison hegstuk wat aangeheg
+   kan word in die plek van die horisonspieël samestelling. 'n Kunsmatige
+   horison bestaan gewoonlik uit 'n spieël wat 'n vloeistof gevulde buisie
+   met 'n borrel in weerspieël. Die meeste sekstante het ook filters wat
+   gebruik word wanneer die son besigtig word of om die effek van
+   wasigheid te verminder.
+
+   Die meeste sekstante het 'n enkellens teleskoop van 1 tot 3 maal
+   vergroting vir besigtiging. Baie gebruikers verkies 'n eenvoudige
+   sigbuis wat 'n wyer en helder sigveld verleen en makliker is om snags
+   te gebruik. Sommige navigators bring 'n ligversterkende teleskoop aan
+   om die horison op maanlose nagte makliker sigbaar te maak. Ander weer
+   verkies die gebruik van 'n beligte kunsmatige horison.
+
+   Proffesionele sekstante gebruik 'n stopmeganisme op die gradeboog en 'n
+   wurmwiel om verstellings te doen tot op die naaste minuut, oftewel
+   1/60^ste van 'n graad. Die meeste sekstante sluit ook 'n vernier op die
+   wurmwiel in wat dit moontlik maak om die hoek tot die naaste 0.2 minute
+   af te lees. Aangesien 'n 1 minuut fout ongeveer 'n seemyl is, is die
+   beste moontlike akkuraatheid wat verkry kan word ongeveer 0.1 seemyl.
+   Dit is ongeveer 200 meter. Op die oop see is 'n resultaat wat akkurater
+   is as 'n paar seemyl aanvaarbaar aangesien dit gewoonlik binne
+   sigafstand is.
+
+   'n Verandering in temperatuur kan die gradeboog se dimensies beïnvloed
+   en onakuraathede teweeg bring. Baie navigators koop gewoonlik
+   weerbestande tasse om hulle sekstant in te bewaar sodat die sekstant
+   buite die kajuit gestoor kan word en die gradeboog se temperatuur
+   dieselfde is as die temperatuur buite. Maatreëls word dikwels ook
+   getref in die keuse van die materiale van sommige sekstante om die
+   termiese uitsetting van die gradeboog so laag as moontlik te hou.
+
+   Na 'n meting geneem is kan 'n mens jou ligging vasstel deur van
+   verskeie wiskundige metodes gebruik te maak.
+
+[wysig] Sien ook
+
+     * Astrolabium
+     * Sterrekundige navigasie
+     * Lengtegraad
+     * Breedtegraad
+     * Navigasie
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Sextant
+
+[wysig] Verwysings
+
+     * Die Tuisblad van Mr Sven Yrvind: [1] en sy outobiografie in Sweeds,
+       "Konstruktören", ISBN 91-518-4154-1.
+
+[wysig] Eksterne skakels
+
+     * Britse werf oor navigasie
+     * Hierdie aanlyn handelaar verkoop sekstante, bybehore en boeke
+     * Cassens & Plath GmbH vervaardig en verkoop sekstante, hier is die
+       Bris-Minisekstant
+     * Yachting Monthly magazine van Junie 1997 het 'n drieblad artikel
+       oor die Bris-sestant gepubiseer
+     * Instruments for Celestial Navigation. 'n Hoofstuk uit die aanlyn
+       weergawe van Nathaniel Bowditch se American Practical Navigator
+     * CD-Sextant - Build your own sextant 'n Eenvoudige selfdoen projek.
+     * Lunars webwerf. Aanlyn berekeninge
+     * Volledige boek oor die teorie van sterrekundige navigasie,
+       insluitende Lunars
+
+   Kategorie: Meetinstrumente
+

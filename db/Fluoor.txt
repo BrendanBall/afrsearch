@@ -1,0 +1,204 @@
+Fluoor
+
+
+
+                         suurstof – fluoor – neon
+
+             F
+            Cl
+
+
+              Fluoor in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                   General
+                                         Naam, Simbool, Getal Fluoor, F, 9
+                                                   Chemiese reeks Halogene
+                                     Groep, Periode, Blok 17 (VIIA), 2 , p
+                               Digtheid, Hardheid 1.696 kg/m^3 (273K), NVT
+                               Voorkoms bleek geel gas met groenerige tint
+                                                           Atoomeienskappe
+                                                    Atoomgewig 18.9984 ame
+                                             Atoomradius (ber.) 50 (42) pm
+                                                    Kovalente radius 71 pm
+                                               van der Waals radius 147 pm
+                                        Elektronkonfigurasie [He]2s^2 2p^5
+                                              e^− e per energievlak 2, 7
+                               Oksidasietoestande (Oksied) -1 (sterk suur)
+                                                   Kristalstruktuur kubies
+                                                        Fisiese eienskappe
+                                  Toestand van materie Gas (nie-magneties)
+                                        Smeltpunt 53.53 K (−-219.62 °C)
+                                         Kookpunt 85.03 K (−-188.12 °C)
+                                    Molêre volume 11.20 ×10^−6 m^3/mol
+                                           Verdampingswarmte 3.2698 kJ/mol
+                                             Smeltingswarmte 0.2552 kJ/mol
+                                                        Dampdruk Geen Data
+                                                 Spoed van klank Geen Data
+                                                                  Algemeen
+                                  Elektronegatiwiteit 3.98 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 824 J/(kg*K)
+                                    Elektriese geleidingsvermoë Geen Data
+                                 Termiese geleidingsvermoë 0.0279 W/(m*K)
+                                  1^ste ionisasie potensiaal 1681.0 kJ/mol
+                                   2^de ionisasie potensiaal 3374.2 kJ/mol
+                                   3^de ionisasie potensiaal 6050.4 kJ/mol
+                                   4^de ionisasie potensiaal 8407.7 kJ/mol
+                                  5^th ionisasie potensiaal 11022.7 kJ/mol
+                                  6^th ionisasie potensiaal 15164.1 kJ/mol
+                                    7^th ionisasie potensiaal 17868 kJ/mol
+                                  8^th ionisasie potensiaal 92038.1 kJ/mol
+                                 9^th ionisasie potensiaal 106434.3 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso   NV  halfleeftyd VM VE MeV    VP
+                                 ^19F 100% F is 'n stabiel met 10 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Fluoor (Latyn: Fluere, wat om te vloei beteken), is 'n chemiese element
+   in die periodieke tabel met die simbool F en atoomgetal van 9.
+
+   Dit is 'n giftige bleek geel - groen, univalente halogene gas wat die
+   mees chemies reaktiewe en elektronegatiewe elemente van almal is. In
+   die suiwer vorm is dit hoogs gevaarlik en kan ernstige chemiese brande
+   veroorsaak met velkontak.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verbindings
+        * 5 Voorsorgmaatreëls
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Suiwer fluoor is 'n korrosiewe bleek gelerige gas en is 'n kragtige
+   oksideermiddel. Dit is die mees reaktiewe en elektronegatiewe element
+   en vorm geredelik verbindings met die meeste ander elemente. Fluoor
+   kombineer selfs met die edelgasse xenon en radon. Selfs in donker, koue
+   toestande kan fluoor plofbaar met waterstof reageer. In 'n stroom
+   fluoorgas brand glas, metale, water en ander stowwe met 'n helder vlam.
+   Dit is veels te reaktief om in elementêre vorm in die natuur aangetref
+   te word en dit toon 'n affiniteit vir die meeste elemente, veral
+   silikon, wat beteken dat dit nie voorberei of in glashouers gestoor kan
+   word nie. In vogtige lug reageer dit met die water om ewe gevaarlike
+   fluoorsuur te vorm.
+
+   In waterige oplossings, kom fluoor algemeen voor as die fluoried ioon
+   F^-. Ander vorms is die fluoro-komplekse (soos [[[Fe]]F[4]]^-) of
+   H[2]F^+
+
+   Fluoriede is verbindings waar fluoor kombineer met 'n positief gelaaide
+   molekule. Hulle bestaan dikwels uit ione. Fluoor verbindings met metale
+   is van die mees stabiele soute wat bestaan.
+
+[wysig] Aanwendings
+
+   Fluoor word gebruik in die vervaardiging van lae wrywing plastieke soos
+   Teflon en in halone soos Freon. Ander gebruike sluit in:
+     * Fluoorsuur (chemiese vergelyking HF) word gebruik om glas in
+       gloeilampe en soortgelyke produkte te ets.
+     * Mono-atomiese Fluoor word gebruik vir plasma verassing in die
+       vervaardiging van halfgeleiers.
+     * Saam met sy verbindings word Fluoor gebruik in die verryking van
+       uraan (vanaf die heksafloried) en in meer as 100 verskillende
+       kommersiële flouro-chemikalieë, insluitend baie hoë-temperatuur
+       plastieke.
+     * Fluorochloro-koolwaterstowwe word op groot skaal gebruik vir
+       lugversorging en verkoeling. Chlorofluorokoolstowwe is verbied vir
+       hierdie aanwendings omdat daar vermoed word dat hulle 'n bydra
+       lewer tot die vergroting van die ozoongat. Swaelheksafluoried is 'n
+       uiters inerte (buitengewoon vir 'n fluoor verbinding) nie-toksiese
+       gas. Hierdie klas verbindings is kragtige kweekhuis gasse.
+     * Kaliumheksafluoroaluminaat, die sogenaamdie krioliet, word gebruik
+       vir die elektrolise van aluminium.
+     * Natrium fluoried is al gebruik as 'n insekdoder, veral teen
+       kakkerlakke.
+     * Ander fluoriede word dikwels by tandepasta bygevoeg en (ietwas
+       omstrede) tot munisipale water om tandbederf te voorkom.
+     * Dit is in die verlede gebruik om gesmelte metaal meer vloeibaar te
+       maak, vandaar die naam.
+
+   Sommige navorsers – insluitend V.S.A ruimtewetenskaplikes het
+   elementêre fluoorgas ondersoek as 'n moontlike vuurpylbrandstof vanweë
+   sy buitengewoon hoë spesifieke impuls. Eksperimente het egter misluk
+   aangesien fluoor uiters moeilik is om te hanteer.
+
+[wysig] Geskiedenis
+
+   Fluoor (L fluere wat beteken vloei of fluks) in die vorm van vloeispaat
+   (kalsiumfluoried) is in 1529 deur Georigius Agricola beskrywe vir
+   gebruik as 'n smeltmiddel (mettalurgie) wat 'n stof is wat gebruik word
+   om die smelt van metale te bevorder. In 1670 het Schwandhard ontdek dat
+   glas geëts word wanneer dit aan vloeispaat, wat met suur behandel is,
+   blootgestel word. Karl Scheele en baie ander latere navorsers, wat
+   onder andere Humphry Davy, Gay-Lussac, Antoine Lavoisier en Louis
+   Thenard insluit het met fluoorsuur geeksperimenteer wat maklik verkry
+   kan word deur kalsiumfluoried (vloeispaat) met gekonsentreerde
+   swaelsuur te behandel.
+
+   Daar is uiteindelik tot die besef gekom dat fluoorsuur 'n voorheen
+   onbekende element bevat het. Hierdie element kon vir baie jare nie
+   geïsoleer word nie vanweë sy uiters hoë reaktiewiteit. Dit kan baie
+   moeilik van sy verbindings geskei word en val dan onmiddelik enige
+   oorblywende materiale aan. Fluoor is uiteindelik in 1886 deur Henri
+   Moissan geïsoleer na byna 74 jaar se deurlopende inspanning. Die poging
+   het verskeie navorsers hulle gesondheid of selfs hul lewens gekos. Dit
+   het egter gesorg dat Moissan die Nobelprys vir chemie in 1906 gewen
+   het.
+
+   Die eerste kommersiële produksie van fluoor het nodig geword met die
+   ontwikkeling van die atoombom deur die Manhattan projek in die Tweede
+   Wêreldoorlog waar die verbinding uraanheksafluoried (UF[6]) gebruik is
+   om die isotope van uraan U-235 en U-238 van mekaar te skei.
+
+   Vandag gebruik beide die gasdiffusie proses en die gas sentrifuge
+   proses (UF[6]) om verrykte uraan vir kernkragtoepassings te produseer.
+
+[wysig] Verbindings
+
+   Fluoor kan dikwels waterstof verplaas soos dit in organiese verbindings
+   voorkom. Deur hierdie meganisme is dit moontlik vir fluoor om 'n baie
+   groot aantal verbindings te vorm. Fluoor verbindings van die edelgasse
+   is vir die eerste keer deur Howard Claassen, Henry Selig en John Malm
+   in 1962 gesintetiseer – waarvan xenontetrafluoried die eerste was.
+   Fluoriede van kripton en radon is ook al voorberei. Die element word
+   ontgin vanuit flouriet, krioliet en fluoro-apatiet.
+
+   Sien ook: Fluorokoolstof
+
+[wysig] Voorsorgmaatreëls
+
+   Beide Fluor en HF moet met groot sorg gehanteer word en enige kontak
+   met die vel en oë moet vermy word.
+
+   Beide elementêre fluoor en fluoried ione is hoogs toksies. Wanneer
+   fluoor 'n vry element is het dit 'n karakteristieke skerp reuk wat
+   bespeurbaar is teen konsentrasies so laag as 20 dpb. Die maksimum
+   toelaatbare konsentrasie wat aanbeveel word vir 'n daaglikse
+   tyd-geweegde 8 uur blootstelling is 1 dpm (laer as vir bv.
+   waterstofsianied).
+
+   Veilige hanteringsprosedures maak dit egter moontlik om vloeibare
+   fluoor in tonnemate te vervoer.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Fluorine
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Fluorine
+     * EnvironmentalChemistry.com – Fluorine
+     * It's Elemental – Fluorine
+     * Picture of liquid fluorine – chemie-master.de
+     * Waterfluooridasie - geloof en waarheid (PowerPoint-leêr) (Engels:
+       WATER FLUORIDATION: Myths vs reality)
+
+   Kategorie: Chemiese elemente
+

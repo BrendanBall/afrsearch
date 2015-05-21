@@ -1,0 +1,111 @@
+Muis
+
+
+                        Muise
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Rodentia
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  Muroidea
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+   'n Wilde muis
+   'n Wilde muis
+
+   'n Muis is 'n knaagdier wat aan een van twee families behoort: die
+   Muridae (vanaf Latyn mus wat muis beteken) en die Cricetidae (vanaf
+   Nieu-Latyn cricetus wat kleiner hamster beteken).
+
+   Alhoewel muise vir tot twee jaar lank kan lewe in
+   laboratoriumtoestande, is die gemiddelde lewensduurte in die natuur
+   slegs drie maande lank, omdat hulle so gejag word deur roofdiere. Veral
+   katte, wildehonde, roofvoëls en slange vang hulle.
+
+   Muise kan 'n pes wees, deurdat hulle aanplantings kan beskadig en
+   opvreet, en ook omdat hulle siekte kan versprei deur middel van
+   muisparasiete en die bakterieë in hul mis. Die makmaking van die kat
+   duisende jare gelede het waarskynlik juis gebeur om muise en rotte te
+   beheer.
+
+   Muise kan nie kleur onderskei nie, en sien slegs in
+   swart-en-witskakering.
+
+   Inhoud
+
+        * 1 Voedsel
+        * 2 Sien ook
+        * 3 Eksterne skakel
+        * 4 Bron
+
+[wysig] Voedsel
+
+   Muise is gewoonlik herbivore, maar eet wel vleis: selfs die dooie
+   liggame van ander muise, en in die geval van verhongeringstoestande,
+   hul eie sterte. Graansoorte en vrugte is die stapelvoedsel.
+
+[wysig] Sien ook
+
+     * Lys van Suider-Afrikaanse soogdiere
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+     * Suider-Afrikaanse soogdiere en hul ordes
+
+[wysig] Eksterne skakel
+
+     * Muise as troeteldiere
+
+[wysig] Bron
+
+     * 'Smither's Mammals of Southern Africa. A field guide'. Redakteur
+       Peter Apps. Derde uitgawe, 2000.
+     * 'Veldgids tot die soogdiere van Suider-Afrika'. Chris en Tilde
+       Stuart. Eerste uitgawe, 1988.
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Soogdiere
+

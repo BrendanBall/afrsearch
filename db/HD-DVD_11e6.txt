@@ -1,0 +1,161 @@
+HD-DVD
+
+
+   Die logo van die HD-DVD ()
+   Die logo van die HD-DVD ( )
+
+   HD-DVD (High Definition Digital Versatile Disc) was naas die Blu-ray
+   Disc een van die twee nuwe DVD-standaarde vir High Definition-televisie
+   en -rolprente, wat deur die DVD Forum as die opvolger van die
+   DVD-standaard voorgestel is. Die HD-DVD het die voordele van die DVD,
+   wat tot dusver die mees suksesvolle oudio-video-produk is, met
+   verbeterde funksionaliteit, 'n groter stoorkapasiteit en realistiese
+   weergawe van beeld en klank verbind.
+
+   Inhoud
+
+        * 1 Stoorkapasiteit en resolusie
+        * 2 Klankformate
+        * 3 Opnames en verenigbaarheid
+        * 4 Hardeware
+        * 5 Sagteware
+        * 6 Ander formate met hoë resolusie
+        * 7 Eksterne skakels
+        * 8 Verwysings
+
+[wysig] Stoorkapasiteit en resolusie
+
+   'n Groter kapasiteit van sowat 15 GB (eenlaag-HD-DVD) en 30 GB
+   (dubbellaag-HD-DVD) het verseker dat die miljoene kleure, skerpe
+   details en ruimtelike indruk van die HDTV-standaard met HD-DVD-spelers
+   weergegee kon word. Danksy die nuwe blou-laser-tegnologie kon tot by 8
+   ure se HD-rolprente met 1 125 beeldlyne of 48 ure se gewone
+   standaard-DVD-resolusie met 525 (NTSC) of 625 beeldlyne (PAL) gestoor
+   word.
+
+   Die HD-DVD-formaat het 'n groot verskeidenheid resolusies behels, wat
+   van lae-resolusie standaard-televisie (soos in die geval van die
+   oorspronklike DVD-formaat) tot by HDTV-formate met 720p, 1080i en 1080p
+   gestrek het. Vir die enkodering van video-data is net soos in die geval
+   van DVD-rolprente MPEG-2 asook nuut ontwikkelde formate soos VC-1 en
+   AVC gebruik. Die meeste vrygestelde rolprente is in 1080p-enkodering
+   aangebied, terwyl die bonusmateriaal in 480i of 480p gestoor is. Die
+   oorgrote meerderheid van titels het oor VC-1-enkodering beskik.
+
+[wysig] Klankformate
+
+   HD-DVD-klankbane kon in verskillende oudioformate geproduseer word en
+   maksimaal 7.1 kanale bevat. Vir enkodering-doeleindes is die
+   oorspronklike DVD-oudioformate soos lineêre PCM, Dolby Digital, Dolby
+   Digital EX, DTS en DTS-ES of nuut ontwikkelde gekomprimeerde formate
+   soos Dolby Digital Plus en DTS-HD High Resolution Audio of
+   ongekomprimeerde formate soos Dolby TrueHD en DTS-HD Master Audio
+   gebruik.
+
+   Lineêre PCM, DTS en alle Dolby-formate (Dolby Digital, Dolby Digital
+   Plus en Dolby TrueHD) was verpligte klankformate vir HD-DVD-titels en
+   kon ook die as enigste standaard op 'n HD-DVD-skyf gebruik word,
+   aangesien alle HD-DVD-spelers oor dekodeerders beskik het wat hierdie
+   bisstrome kon verwerk.
+
+   Vir ongekomprimeerde klank in lineêre PCM-, Dolby TrueHD- of DTS-HD
+   Master Audio-kwaliteit is 24-bis/192-kHz-enkodering vir tweekanaal- of
+   24-bis/96-kHz-enkodering vir maksimaal agt ruimteklank-kanale gebruik.
+
+[wysig] Opnames en verenigbaarheid
+
+   Die nuwe HD-DVD-RW-standaard wat deur die DVD Forum goedgekeur is kan
+   op 'n skyf van 20 GB 5.5 ure se HDTV-programme stoor. Hierdie skywe is
+   bestem vir HD-DVD-opnemers. Met hul HD-DVD-aandrywers, -spelers en
+   -opnemers sal verbruikers ook CD's en DVD's kan speel.
+
+[wysig] Hardeware
+
+   Toshiba se HD-DVD-speler HBS A 001 is tydens die IFA 2005 in Berlyn
+   vertoon
+   Toshiba se HD-DVD-speler HBS A 001 is tydens die IFA 2005 in Berlyn
+   vertoon
+
+   Toshiba het sy prototipes van HD-DVD-spelers al vroeg in 2004 bekend
+   gestel. Die spelers gebruik HD-DVD-skywe met 'n stoorkapasiteit van
+   respektiewelik 30 en 45 GB, waarby die laasgenoemde sy gegewens in drie
+   lae stoor. Sanyo en NEC kondig in Desember 2004 aan dat hulle 'n
+   DVD-aandrywer ontwikkel het wat die formate HD-DVD, DVD en CD sal kan
+   lees. Hiervoor word die laseropnemer se liggolflengte aan die
+   verskillende formate aangepas. Die nywerheid bedoel om sodoende vir die
+   verbruiker 'n maklike oorgang van CD en DVD tot HD-DVD moontlik te
+   maak.
+
+   Toshiba het sy HD-DVD-spelers in laat 2006 naas Noord-Amerika en Japan
+   ook op Europese markte ingevoer. Skootrekenaars met HD-DVD-aandrywers
+   en Full HD-beeldresolusies is eweneens beskikbaar. Microsoft se Xbox
+   360 kan met 'n opsionele HD-DVD-aandrywer toegerus word, alhoewel dit
+   nie oor 'n digitale HDMI-koppelvlak beskik nie.
+
+[wysig] Sagteware
+
+   Die HD-DVD-formaat was aanvanklik in 'n wedstryd met Blu-Ray betrokke,
+   'n tweede hoë-resolusie-formaat. Die twee formate was nie versoenbaar
+   nie, alhoewel universele spelers albei formate sou kon hanteer het. Die
+   Suid-Koreaanse vervaardiger LG Electronics was die eerste maatskappy
+   wat 'n dergelike speler in 2007 aangebied het.
+
+   Die Amerikaanse porno-rolprentbedryf was net soos in die geval van die
+   videoband-formaatwedstryd van die sewentigerjare 'n beslissende faktor
+   in die wedstryd. 'n Aantal aanbieders het tydens die CES 2007, die
+   jaarlikse Amerikaanse handelskou van elektroniese verbruikersware,
+   aangekondig dat hulle rolprente vanweë sy laer produksiekoste by
+   voorkeur in die HD-DVD-formaat sou vrystel.
+
+   In Augustus 2007 het die rolprent-ateljee Paramount Pictures saam met
+   sy dogtermaatskappy Dreamworks, Inc. aangekondig dat hulle HD-rolprente
+   in die toekoms uitsluitlik as HD-DVD-skywe vrygestel sal word. Maar
+   vroeg in 2008 het met Warner reeds die vierde rolprent-ateljee Blu-ray
+   as sy eksklusiewe formaat vir die vrystelling van
+   hoë-resolusie-rolprente gekies. Hierdie besluit het die
+   HD-DVD-voorstanders Toshiba en Microsoft 'n ernstige nekslag
+   toegedien.^[1]^[2]
+
+   In Februarie 2008 het die president van die Japannese Toshiba
+   Corporation, Atsutoshi Nishida, aangekondig dat die maatskappy die
+   vervaardiging en bemarking van HD-DVD-spelers sal staak aangesien die
+   meeste rolprent-ateljees besluit het om eerder die mededingende formaat
+   Blu-ray te steun.^[3]
+
+[wysig] Ander formate met hoë resolusie
+
+   WMV-HD is 'n spesiale formaat wat gebruik maak van die Windows
+   Media-speler en nuwe codecs met 'n verbeterde kwaliteit wat die van
+   DVD-Video duidelik oortref. In 2004 het 'n reeks rolprente in die
+   WMV-HD-formaat verskyn wat op gewone DVD-aandrywers 'n resolusie van
+   1280 x 544 pixels bied (slegs die aktiewe gedeelte van die beeld word
+   geënkodeer). Die klankbaan word in die Windows Media Audio pro-formaat
+   gestoor; die kwaliteit is vergelykbaar met MP3 of Dolby Digital en is
+   geskik vir alle soorte oudiomeng van stereo- tot 7.1-kanaal-weergawe.
+   Die eerste twee DVD-spelers wat ook WMV-HD kan lees word vanaf
+   April/Mei 2005 deur die Deense vervaardiger Kiss aangebied.
+
+   Belangstellendes kan uitstalklas-video's met 'n resolusie van
+   onderskeidelik 720 en 1080 beeldlyne vir die Windows Media-speler hier
+   aflaai (ADSL-internetverbinding en 'n snelle verwerker met 2.6 GHz of
+   meer en 512 MB geheue word aanbeveel).
+
+   Sien ook: Blu-ray Disc, DVD-formate, HDTV
+
+[wysig] Eksterne skakels
+
+     * HD DVD and DVD specification and Comparison of HD DVD and DVD disc
+       structures (engels)
+
+     * The Authoritative HD DVD FAQ by Hugh Bennett (engels)
+
+[wysig] Verwysings
+
+    1. ^ www.welt.de: Warner se beslissing maak moontlik 'n einde aan die
+       stryd oor hoë-resolusie-formate
+    2. ^ HD-DVD at the Consumer Electronics Show CES 2008 in Las Vegas
+    3. ^ Kageyama, Yuri (Associated Press): Toshiba Quits HD DVD Business.
+       In: The Washington Post Online, 19 Februarie 2008
+
+   Kategorie: DVD
+

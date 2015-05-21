@@ -1,0 +1,265 @@
+Padafhanlikheid
+
+
+   Padafhanklikheid is 'n term wat verwys na een van twee konsepte
+   (Pierson 2004). Sommige skrywers gebruik die term net om aan te dui dat
+   "die geskiedenis saak maak - 'n wye interpretasie - terwyl ander
+   skrywers daarmee bedoel dat instellings selfversterkend is - 'n noue
+   interpretasie. Hierdie noue interpretasie dra die meeste
+   ophelderingswaarde, waarvan die besprekings hieronder voorbeelde is.
+   Die "geskiedenis maak saak" stelling is voor die hand liggend en kan
+   gereduseer word na "als het oorsake".
+
+   Neem as voorbeeld die verskyning van die videomasjien vir tuis
+   verbruik. Dit word gemeen dat bestuursfoute en klein ontwerpskeuses van
+   Sony gemaak het dat die Betamax formaat verslaan is deur die kompetisie
+   wat die VHS in die 1980s gebied het. Twee meganismes kan verklaar hoe
+   die klein maar vroeë voorsprong wat die VHS geniet het, groter geword
+   het met die mars van tyd. Die eerste is die bandwagoneffek van
+   VHS-vervaardigers ten gunste van die VHS-formaat in die V.S.A. en in
+   Europa, wie oorgeskakel het omdat hulle verwag het dat VHS die
+   standaarde slag sou wen. Die tweede was 'n netwerkeffek: videowinkels
+   het opgemerk dat meer mense VHS-masjiene gehad het, en het dus
+   VHS-voorraad aangekoop; dit het gemaak dat ander mense weer
+   VHS-masjiene gekoop het, en so voorts, totdat daar 'n totale VHS
+   "vendor lock-in" geheers het. 'n Alternatiewe verklaring, is dat die
+   VHS beter voldoen het aan die markvereistes (veral die vereiste na
+   langer kassette vir die opneem van sportwedstryde) en dat
+   padafhanklikheid min te doen gehad het met die VHS se sukses.
+
+   Positiewe terugvoer meganismes, soos die "bandwagon-" en netwerkeffekte
+   is grondbeginsels van padafhanklikheid. Hulle veroorsaak
+   selfversterkende patrone wat industrieë 'knik' na een of ander
+   produkontwerp. Ongekoördineerde standardisering kan gesien word in vele
+   ander omstandighede.
+
+   Voorbeelde van ekonomie, geskiedenis, sagteware en biologie word hier
+   onder verskaf.
+
+   Inhoud
+
+        * 1 Ekonomie
+        * 2 Geskiedenis en die geesteswetenskappe
+             + 2.1 Kritiese punt-raamwerk
+             + 2.2 Reaktiewe reekse
+        * 3 Notas
+        * 4 Verwysings
+        * 5 Eksterne skakels
+
+[wysig] Ekonomie
+
+   Padafhanklikheidsteorie was oorspronklik ontwikkel deur ekonome om
+   tegnologiese ingebruiknemingsprosesse en nywerheidsontwikkeling te
+   verduidelik. Die teoretiese idees het 'n strek invloed gehad op
+   ewolusionêre ekonomie (b.v. Nelson & Winter 1982).
+
+   Daar is baie modelle en empiriese gevalle waar ekonomiese prosesse nie
+   na 'n voorafbepaalde, unieke ewewig konvergeer nie, sodat die
+   eienskappe van enige ewewig wat bereik is gedeelte afhang van die
+   proses wat daartoe gelei het. Die uitkoms van 'n padafhanklike proses
+   sal dikwels nie na 'n unieke ewewig konvergeer nie maar eerder na een
+   van verskeie ewewigte (wat partykeer bekend staan as absorberende
+   toestande).
+
+   Hierdie dinamiese uitkyk van ekonomiese evolusie is baie anders as die
+   tradisie van neo-klassieke ekonomie, wat in sy eenvoudigste vorm
+   aanneem dat slegs een uitkoms bereik kan word, ongeag die aanvanklike
+   voorwaardes of oorgangsgebeure. Betreffende padafhanklikheid, kan albei
+   die beginpunt en 'toevallige' gebeurtenisse (geraas) verreikende
+   effekte op die eventuele uitkoms hê. In elk van die volgende voorbeelde
+   is dit moontlik om sommige lukrake gebeurtenisse, wat die ontknopinge
+   onherroeplik versteur het, uit te sonder:
+     * In die 1980s het die V.S. dollar wisselkoers in waarde gestyg, wat
+       die wêreldprys van verhandelbare goedere laat sak het tot 'n vlak
+       wat laer was as wat die produksiekoste van baie (voorheen
+       suksusvolle) V.S. vervaardigers was. Sommige van die fabrieke wat
+       as gevolg toegemaak het, kon nou teen 'n (kontantvloei) wins
+       bestuur word, omdat die dollar se waarde geval het. Nietemin, sou
+       hul heropeninge te duur gewees het. Hierdie is 'n voorbeeld van
+       histerese en onherroeplikheid.
+
+     * In ekonomiese ontwikkeling, word dit gesê (aanvanklike deur Paul
+       David in 1985) dat 'n standaard wat die eerste op die mark is,
+       verskans word (soos die QWERTY uitleg wat in tikmasjiene gebruik is
+       en vandag steeds vir rekenaarsleutelborde gebruik word). Hy het
+       hierdie "padafhanklikheid" genoem en het geredeneer dat mindere
+       standaarde kan volhard eenvoudig te danke aan hul nalatenskap. Die
+       argumente teen QWERTY het kritiek gewerf (b.v. deur The Fable of
+       the Keys), maar standaarde is sonder twyfel baie belangrik in
+       moderne ekonomieë en die beduidendheid van padafhanklikheid in die
+       bepaling van hoe hulle tot stand kom, is 'n onderwerp vir
+       ekonomiese debatvoering.
+
+     * Ekonome vanaf Adam Smith het gelet dat sekere tipes besighede 'n
+       geneigdheid toon om geografies saam te drom, waar hulle werknemers
+       met vaardighede in die betrokke veld lok, wat meer besighede, wat
+       soek vir werknemers met ervaring, trek. Daar mag dalk geen
+       besondere rede gewees het vir die voorkeur gegee aan een plek of
+       die ander voor die ontwikkeling van die industrie nie, maar soos
+       wat dit meer gekonsentreerd in een area word, sal enige nuwe
+       besigheid elders benadeel wees, en sal neig om na die middelpunt te
+       beweeg as dit moontlik is, wat die besigheidsmiddelpunt se
+       doeltreffendheid vermeerder. Die onderliggende meganisme is 'n
+       netwerkeffek. New Trade Teorie en Krugman se "New Economic
+       Geography" is albei deels geskoei op hierdie storie.
+
+     * As die anpasbare verwagtinge 'n rol speel in die ekonomie, sal
+       toekomstige inflasie gedeeltelik bepaal word deur vorige ervaringe
+       met inflasie, omdat die ervaringe die verwagte inflasie bepaal wat
+       'n groot bepaler van gerealiseerde inflasie.
+
+     * 'n Tydelike hoë vlak van werkloosheid gedurende 'n resessie kan lei
+       tot 'n permanente hoër werkloosheidsyfer a.g.v. 'n verlies van
+       vaardighede (of die veroudering van vaardighede) van die werkloses,
+       met 'n gepaardgaande agteruitgang van werksingesteldheid. M.a.w.
+       kan sikliese werkloosheid lei tot strukturele werkloosheid. Die
+       negatiewe effekte word versterk deur potensiële werkgewers se
+       negatiewe houding teenoor die vaardighede van werk-soekers wie lank
+       sonder werk was. Hierdie model van strukturele histerese in die
+       arbeidsmark verskil van die voorspelling van 'n "natuurlike"
+       werkloosheidsyfer of die nie-versnellende inflasiesyfer van
+       werkloosheid; in hierdie modelle is die beweging van 'sikliese'
+       werkloosheid lukraak. Omdat strukturele werkloosheid endogeen is,
+       is die nie-versnellende inflasiesyfer van werkloosheid ook endogeen
+       (sien die artikel deur Hargreaves Heap waarna hier onder verwys
+       word).
+
+   Liebowitz and Margolis onderskei tussen verskillende tipes
+   padafhanklikheid. Sommige tipes van padafhaklikheid impliseer nie
+   ondoeltreffendheid nie en, alhoewel hulle van belang mag wees a.g.v.
+   ander redes, bevraagteken hulle nie die implikasies van neoklassieke
+   ekonomie nie. Slegs wat hulle 'n "derde-graadse" padafhanklik noem -
+   b.v. die situasie waar die hele samelewing sal baat as almal
+   tegelykertyd van standaarde verander, waar die verandering gekeer word
+   omdat dit deur geen sentrale owerheid afgedwing word nie en omdat die
+   samelewing nie kan koördineer nie - verg so 'n bevraagtekening. Hulle
+   redeneer dat sulke situasies, om teoretiese redes, selde behoort te
+   geskied en dat die korrektheid van hierdie voorspelling gesien kan word
+   in die onoortuigende voorbeelde wat gewoonlik in hierdie konteks
+   bespreek word (hoofsaaklik VHS vs. Beta en QWERTY vs. Dvorak).
+
+   In die konteks van statistiese modellering, word 'n padafhanklike
+   stogastiese sisteem gedefinieer as "'n sisteem wat 'n asimptotiese
+   verspreiding besit wat ontwikkel as 'n gevolg (funksie) van die proses
+   se eie geskiedenis". So 'n proses staan ook bekend as 'n nie-ergodiese
+   stogastiese proses. 'n Moontlike bron van verwarring is die gebruik van
+   term "padafhanklik" om arbeidsmark histerese te beskryf, omdat dit hier
+   die teenoorgestelde betekenis dra van die term in die konteks van die
+   aanpasbare verwagtingsmodel van inflasie. In arbeidsmark-ekonomie sal
+   daar in sommige "padafhanklike" modelle 'n periode van werkloosheid
+   voorkom na 'n lukrake stap sonder drywing, wat slegs afhang van sy
+   vorige vlak ('n Markov-proses).
+
+[wysig] Geskiedenis en die geesteswetenskappe
+
+   Sjabloon:Seealso
+
+   Die geskiedenis van die mens is amper per definisie padafhanklik.
+   Toevallige gebeurtenisse soos die vroeë dood van groot geskiedkundige
+   figure soos Napoleon of Hitler sou waarskynlik die politiese landskap
+   van Europa verander het en selfs die tale wat in vandag in die
+   verskillende lande gepraat word.
+
+   Onlangse metodologiese werk in vergelykende politiek en sosiologie het
+   die konsep van padafhanklikheid aangepas vir die analise van politiese
+   en sosiale verskynsels. Padafhanklikheid is histories hoofsaaklik
+   gebruik in vergelykende-historiese analises om die ontwikkeling en
+   voortbestaan van instellings, of hulle sosiaal, polities of kultureel
+   mag wees. Daar is twee moontlike (en betwisbare) tipes padafhanklike
+   prosesse, wat in hierdie afdeling bespreek word.
+
+[wysig] Kritiese punt-raamwerk
+
+   Die eerste is die "kritiese punt"-raamwerk, insonderheid deur Ruth en
+   David Collier in politieke wetenskap gebruik. In die kritiese
+   punt-raamwerk definieer en beperk voorafgaande omstandighede
+   bemiddeling gedurende 'n kritiese punt waarin rolspelers keuses maak
+   wat die koers vir die ontwikkeling en konsolidasie van instellings
+   bepaal wat moeilik herroep word. Dit is soortgelyk aan die konsep van
+   "vendor lock-in" of positiewe terugvoer wat kom van padafhanklikheid in
+   ekonomie.
+
+   Die kritiese punt-raamwerk is al gebruik om die ontwikkeling en
+   voortbestaan van welsynstaat verduidelik, arbeidsinkorporasie in
+   Latynsamerika en die variasies van ekonomiese ontwikkeling tussen
+   lande, onder andere.
+
+   'n Invloedryke poging om 'n meer formele basis aan padafhanklikheid in
+   politiese wetenskap is insonderheid dié van Paul Pierson. Pierson
+   baseer sy idees gedeeltelik op ekonomie. Sy pogings in hierdie verband
+   is bevraagteken deur Herman Schwartz, wie redeneer dat kragte wat
+   ooreenkomstig is met daardie wat in die ekonomiese literatuur uitgeken
+   is, nie deurtrekkend in die politiese ryk is nie, waar groter kragte en
+   die strategiese beoefening van mag lei tot die skepping, onderhoud en
+   omvorming van instellings.
+
+   Soortgelyk, het geleerdes soos Kathleen Thelen gewaarsku dat die
+   historiese determinisme in padafhanklike raamwerke die konstante
+   heronderhandelinge van die konfigurasies van instellings ignoreer. Sy
+   stel voor dat instellings oomblikke van instellingsontwikkeling
+   ondergaan waartydens hoofrolspelers die konfigurasie en doel van die
+   instellings heronderhandel.
+
+[wysig] Reaktiewe reekse
+
+   Die ander padafhanklike proses handel oor "reaktiewe reekse" waar 'n
+   primêre gebeurtenis 'n ketting van gebeurtenisse wat tyd- en nouliks
+   volgens oorsake geskakel is en wat amper onbelemmerbaar is. Hierdie
+   reaktiewe reekse is al gebruik om die dood van Martin Luther King, Jr.
+   te skakel aan welsynsuitbreiding en die industriële rewolusie in
+   Engeland met die ontwikkeling van die stoomenjin.
+
+[wysig] Notas
+
+[wysig] Verwysings
+
+     * Arrow, Kenneth J. (1963), 2nd ed. Social Choice and Individual
+       Values. Yale University Press, New Haven, pp. 119-120
+       (constitutional transitivity as alternative to path dependence on
+       the status quo).
+     * Arthur, W. Brian (1994), Increasing Returns and Path Dependence in
+       the Economy, Ann Arbor, Michigan: University of Michigan Press.
+     * David, Paul A. (2000), "Path dependence, its critics and the quest
+       for ‘historical economics’", in P. Garrouste and S. Ioannides
+       (eds), Evolution and Path Dependence in Economic Ideas: Past and
+       Present, Edward Elgar Publishing, Cheltenham, England.
+     * Liebowitz, S.J. and Stephen E. Margolis (1990), "The Fable of the
+       Keys", Journal of Law & Economics vol. XXXIII (April 1990)
+     * Mahoney, James (2000), “Path Dependence in Historical Sociology,”
+       Theory and Society 29:4, pp. 507-548.
+     * Stephen E. Margolis and S.J. Liebowitz (2000), "Path Dependence,
+       Lock-In, and History"
+     * Nelson, R. & S. Winter (1982), An evolutionary theory of economic
+       change. Harvard University Press.
+     * Pierson, Paul (2000). "Increasing Returns, Path Dependence, and the
+       Study of Politics." American Political Science Review, June.
+     * _____ (2004), "Politics in Time"
+     * Puffert, Douglas J. (1999), ["Path Dependence in Economic History"]
+       (based on the entry “Pfadabhängigkeit in der
+       Wirtschaftsgeschichte,” in the Handbuch zur evolutorischen
+       Ökonomik)
+     * _____ (2001), "Path Dependence in Spatial Networks: The
+       Standardization of Railway Track Gauge"
+     * Schwartz, Herman. "Down the Wrong Path: Path Dependence, Increasing
+       Returns, and Historical Institutionalism."
+       http://www.people.virginia.edu/~hms2f/Path.pdf
+
+[wysig] Eksterne skakels
+
+     * Artikel oor padafhanklikheid van EH.NET se ensiklopedie
+     * "QWERTY, Lock-in, and Path Dependence" Webblad wat redeneer dat
+       "lock-in" lei tot markmislukking en verskaf 'n lys van verwysings,
+       alhoewel dit kort mette maak met artikels van die ander kant.
+     * Shawn Hargreaves Heap (1980), "Choosing the Wrong 'Natural' Rate:
+       Accelerating Inflation or Decelerating Employment and Growth?"
+       Economic Journal 90(359) (Sept): 611-20 (ISSN 0013-0133) ontwikkel
+       die idee dat deurlopende hoë werkloosheid kan veroorsaak dat die
+       "natuurlike" werkloosheidsyfer styg.
+     * "Doctoral Program Research on Organizational Paths" Webblad van die
+       Freie Universitaet Berlin se fakulteit van Bedryfsadministrasie en
+       Ekonomie.
+     * "Our Love Of Sewers: A Lesson in Path Dependence"
+
+   Kategorieë: Kompetisie • Industriële organisasie • Teorieë van
+   geskiedenis • Sosiokulturele evolusie • Markmislukking
+

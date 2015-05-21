@@ -1,0 +1,78 @@
+Atoommassa
+
+
+   Die atoommassa, met verwysing na sekere isotope van 'n chemiese
+   element, is die massa van een atoom van die isotoop uitgedruk in
+   atoommassa-eenhede (ame). Die atoommassa is so gedefinieër dat die
+   atoommassa van koolstof-12 presies 12 ame is. Geen ander isotoop se
+   massa werk uit tot 'n heelgetal nie vanweë die effek van die
+   bindingsenergie in die kern.
+
+   Die atoommassa van 'n isotoop is by benadering 'n heelgetal: in die
+   meeste gevalle is die eerste getal na die desimaal 'n 0 of 'n 9. Die
+   heelgetal word die atoomgetal genoem en is die som van die aantal
+   protone en die aantal neutrone in die atoomkern.
+
+   Die patroon in die hoeveelhede waarmee die atoommassas van hulle
+   atoomgetalle afwyk is as volg: die afwyking begin positief by
+   waterstof-1 en word negatief totdat 'n minimum bereik word by yster-56,
+   waarna dit met toenemende atoomgetalle toeneem tot positiewe waardes
+   vir die swaar isotope. Dit stem ooreen met die volgende: kernfisie
+   (klowing) in 'n ligter element swaarder as yster stel energie vry en
+   fisie van enige element ligter as yster vereis energie; die
+   teenoorgestelde is waar vir kernfusie (versmelting) reaksies - fusie
+   van elemente ligter as yster stel energie vry, terwyl fusie van
+   elemente swaarder as yster energie vereis.
+
+   Die atoommassa (ook die relatiewe atoommassa of gemiddelde atoommassa)
+   soos dit op die periodieke tabel verskyn, is die gemiddelde atoommassa
+   van al die chemiese element se stabiele isotope. Dit is 'n geweegde
+   gemiddelde wat die relatieve natuurlike verspreiding van die isotope
+   reflekteer. Die syfer verteenwoordig dan die massa in gram van een mol
+   van die element se atome, dikwels ook na verwys as die molmassa. Die
+   term atoomgewig word tans uitgefaseer.
+
+   'n Soortgelyke definisie het betrekking op molekules; wat die
+   molekulêre massa genoem word. 'n Mens kan die molekêre massa bereken
+   deur die som van die produk van die atoommassas van elke element
+   waaruit die molekule saamgestel word en die verhouding waarin dit in
+   die molekule voorkom soos weergegee in sy chemiese vergelyking.
+   Soortgelyk bestaan daar 'n formule-massa vir stowwe wat nie molekules
+   vorm nie.
+
+   'n Direkte vergelyking en meting van die massas van atome en molekules
+   word moontlik gemaak deur massa-spektrometrie.
+
+   Een mol van 'n stof bevat altyd 'n hoeveelheid van daardie stof
+   gelykstaande aan die atoom- of molekulêre massa van die stof in gram
+   uitgedruk. Neem byvoorbeeld yster met 'n atoommassa van 55.847: Dit
+   beteken dat een mol ysteratome 'n massa van 55.847 gram sal hê.
+
+[wysig] Geskiedenis
+
+   Voor die 1960s is die hoeveelheid gedefinieer op so 'n manier dat die
+   suurstof-16 isotoop 'n atoommassa van 16 gehad het. Die isotope,
+   suurstof-17 en suurstof-18, teenwoordig in suurstof in die natuur is
+   egter nie deur sommige wetenskaplikes buite rekening gelaat nie en het
+   daartoe gelei dat daar twee verskillende tabelle vir atoommassa
+   ontstaan het.
+
+   Chemici en fisici het voorheen dus twee verskillende massa-skale
+   gebruik. Die chemici het 'n skaal gebruik waar aanvaar is dat die
+   natuurlike mengsel van suurstof-isotope 'n atoommassa van 16 gehad het,
+   terwyl die fisici 'n getal van 16 aan die mees algemene isotoop (die
+   een met agt protone en 8 neutrone) toegeken het. Die verenigde skaal
+   wat op koolstof-12, ^12C, gebaseer is het aan die fisici se behoefte
+   aan 'n skaal wat op 'n suiwer isotoop gebaseer is bevredig terwyl dit
+   ook numeries naby aan die chemici se skaal was.
+
+[wysig] Sien ook
+
+     * isotope
+
+[wysig] Eksterne skakels
+
+     * Atomic masses of all isotopes
+
+   Kategorieë: Chemiese eienskappe • Chemie
+

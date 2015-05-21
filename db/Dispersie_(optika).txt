@@ -1,0 +1,36 @@
+Dispersie (optika)
+
+
+   Dispersie deur 'n prisma
+   Dispersie deur 'n prisma
+
+   Dispersie is die verskynsel waar die brekingsindeks van 'n materiaal
+   nie vir alle golflengtes van lig (kleur) dieselfde is nie. Deur
+   dispersie val wit lig (wat uit alle kleure bestaan) deur 'n prisma en
+   gaan dit weer uiteen in die kleure van die reënboog, oftewel die
+   kleurspektrum. Die studie van die kleurspektrum is 'n belangrike
+   ontledingsmiddel by die bestudering van minerale in die astronomie. By
+   die gebruik van 'n tralie onstaan daar ook 'n kleurspektrum, maar dit
+   kom deur middel van ligbreking voor, en nie as gevolg van dispersie
+   nie.
+
+   Dispersie is die oorsaak van chromatiese abberasie in lense. Die effek
+   van dispersie kan (gedeeltelik) teëgegaan word deur materiale met
+   verskillende dispersies te kombineer. As die dispersie vir twee kleure
+   (meestal geel en blou) gekorrigeer is, noem mens só 'n lens 'n
+   achromaat; as die korrigering vir meer kleure toegepas is, noem mens só
+   'n lens 'n apochromaat. In hierdie laaste geval moet daar spesiale
+   glassoorte met lae dispersie (LD of ED glas) gebruik word.
+
+   Die mate van ligbreking word in die getal van Abbe uitgedruk; hoe hoër
+   die waarde is, hoe kleiner is die dispersie. Die dispersie varieer ook
+   met die brekingsindeks: hoogbrekende glassoorte het 'n groter dispersie
+   en 'n kleiner getal van Abbe. Die onderstaande tabel geld vir die
+   mineraal glas - vir ander materiale geld ander getalle.
+   Brekingsindeks Getal van Abbe
+   1,5            58,6
+   1,6            41,7
+   1,7            39,3
+   1,8            35,4
+   Kategorie: Optika
+

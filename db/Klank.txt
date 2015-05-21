@@ -1,0 +1,44 @@
+Klank
+
+
+   Klank word gedefinieer as meganiese saampersing of longitudinale
+   verplasingsgolwe wat deur 'n medium (vastestof, vloeistof of gas)
+   propageer. Meeste klanke is kombinasies van seine, maar 'n teoretiese
+   suiwer klank kan gedefinieer word as iets met 'n sekere tempo van
+   ossilasie of frekwensie wat in Hertz (Hz) gemeet word, asook 'n
+   amplitude of klankdruk wat gemeet word in desibel (dB). Die omvang van
+   klank wat vir die menslike oor hoorbaar is val ongeveer tussen 20 Hz en
+   20 kHz. Bo en onder hierdie omvang lê onderskeidelik ultraklank en
+   infraklank. Klank beweeg teen 332 m s ^− 1 by 273 K in lug. (Sien die
+   spoed van klank.)
+
+   Mense en heelwat diere neem klank waar met die sintuig van gehoor met
+   hulle ore, maar klanke met lae frekwensie kan ook deur ander
+   liggaamsdele waargeneem word. Klank word op verskeie maniere gebruik,
+   veral vir kommunikasie deur middel van spraak of, byvoorbeeld, musiek.
+   Klankwaarneming kan ook gebruik word om inligting te versamel oor die
+   omliggende omgewing soos ruimtelike eienskappe en die teenwoordigheid
+   van ander diere of voorwerpe. Vlermuise, byvoorbeeld, gebruik 'n soort
+   eggo-plasing om te vlieg. Skepe en duikbote gebruik sonar. Mense
+   versamel en gebruik ruimtelike inligting wat in klanke waargeneem word.
+
+   Die gehooromvang varieer tussen verskillende diere: Vlermuise het 'n
+   buitengewoon groot omvang, terwyl paddas 'n klein omvang het. Tipiese
+   frekwensies (in Hertz) word hier gegee:
+     * Vlermuis: 100 - 100,000 Hz
+     * Hond: 10 - 35,000 Hz
+     * Olifant: 1 - 20,000 Hz
+     * Padda: 100 - 2,500 Hz
+     * Mens: 20 - 20,000 Hz
+
+[wysig] Sien ook
+
+     * Musiek
+     * Klankproduksie
+
+[wysig] Eksterne verwysings
+
+     * HyperPhysics: Sound and Hearing
+
+   Kategorie: Gehoor
+

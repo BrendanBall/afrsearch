@@ -1,0 +1,108 @@
+Dwergrietreier
+
+
+                    Dwerglangtoon
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ixobrychus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     I. sturmii
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Ixobrychus sturmii
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die dwergrietreier is 'n skaars somerstandvoël en besoeker.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+        * 6 Bronnelys
+
+[wysig] Identifikasie
+
+   Die volwassenes het 'n leikleurige rugkant en 'n swaar gestreepte
+   onderkant, maar lyk donker van ver af; die oranjegeel pote hang as
+   hulle vlieg. Jonges, wat 'n rooierige onderkant en rugvere met rooi
+   punte het, verskil verder van ander jong reiers deurdat hul pote ook
+   oranjegeel is. Dwergrietreiers vlieg reguit en nogal soos duiwe. Hulle
+   neem soms 'n regop houding aan as hulle versteur word en vlieg dikwels
+   in 'n boom in as hulle opgejaag word.
+
+   25 cm.
+
+[wysig] Habitat
+
+   Hou gewoonlik een-een, maar maak soms in yl kolonies nes en is veral
+   teen skemer en snags aktief. Verkies dig-beboste riviere en oorstroomde
+   bosse.
+
+[wysig] Verspreiding
+
+   Kom yl voor in groot dele van die Wes-Kaap, Oos Kaap, KwaZulu-Natal,
+   Namibië en Botswana en oor die hele Mpumalanga Noord-Wes, Mpumalanga,
+   Limpopo, Mosambiek en Zimbabwe.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Ixobrychus sturmii
+     * Engelse naam: Dwarf Bittern
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Reiers
+

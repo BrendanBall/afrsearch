@@ -1,0 +1,140 @@
+Ununoctium
+
+
+
+    118                   ununseptium ← ununoctium → ununennium
+    Rn
+   ↑
+   Uuo
+   ↓
+   (Uho)
+
+                                                                periodieke tabel
+
+                                                                  Algemeen
+                                 Naam, Simbool, Getal ununoctium, Uuo, 118
+                                                  Chemiese reeks edelgases
+                                             Groep, Periode, Blok 18, 7, p
+                                  Voorkoms onbekend, waarskynlik kleurloos
+                                          Atoommassa voorspel, (314) g/mol
+                  Elektronkonfigurasie moontlik [Rn] 5f^14 6d^10 7s^2 7p^6
+                                               (geraai op grond van radon)
+                                Elektrone per skil 2, 8, 18, 32, 32, 18, 8
+                                               Toestand vermoedelik 'n gas
+                                             CAS-registernommer 54144-19-3
+                                                                Verwysings
+
+   Ununoctium (IFA: /ˌjuːnəˈnɒktiəm/ ^[1]) is die tydelike IUPAC naam vir
+   die superswaarelement met die atoomgetal 118, tans die hoogste
+   atoomgetal toegeken aan 'n beweerde ontdekte element (kyk elemente wat
+   in die 21ste eeu ontdek is). Dit het die tydelike IUPAC elementsimbool
+   Uuo.
+
+   Ununoctium deel waarskynlik eienskappe soortgelyk aan die van die
+   element se groep, die edelgasse, en kom waarnskynlik ooreen met radon
+   in terme van chemiese eienskappe. Sommige navorser verwys daarom daarna
+   as eka-radon. Dit is waarskynlik die tweede radioaktiewe gasagtige
+   element en die eerste standaard halfgeleidende gas.
+
+   As kernonstabilitiet as gevolg van radioaktiwiteit weg gelaat word,
+   verwag wetenskaplikes dat ununoctium chemies baie meer reaktief is as
+   xenon of radon. Dit sou waarskynlik stabiele oksiede (UuoO[3], etc.) so
+   wel as chloriede en fluoriede vorm.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Kyk ook
+        * 3 Verwysings
+        * 4 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   In 1999 het navorsers by die Lawrence Berkeley National Laboratory die
+   ontdekking van elemente 116 en 118, in a artikel gepubliseer in
+   Physical Review Letters aangekondig. ^[2]
+
+   Die navorser het beweer dat hulle die reaksie uitgevoer het:
+
+          \,^{86}_{36}\mathrm{Kr} + \,^{208}_{82}\mathrm{Pb} \, \to
+          \,^{293}_{118}\mathrm{Uuo} + 1 \; ^1_0\mathrm{n} \;
+
+   Die jaar daarna het hulle die bewering teruggetrek nadat ander
+   navorsers nie daarin kons slaag om hulle resultate te herhaal nie.^[3]
+   In Junie 2002, het die direkteur van die laboratorium aangekondig dat
+   die aanvanklike bewering omtrent die ontdekking van die twee element
+   gegrond was op data wat deur die hoofouteur, Victor Ninov, versin is.
+
+   Die Amerikaanse groep wou die element ghiorsium noem na Albert Ghiorso
+   voordat hulle die bewering moes terugtrek.
+
+   Op 10 Oktober 2006, kondig navorsers by die Gesamentlike Instituut vir
+   Kernnavorsing in Dubna, Rusland, in Physical Review C dat hulle
+   ununoctium-294 vervaardig deur botsing van kalifornium-249 atome en
+   kalsium-48 ione indirek waargeneem het ^[4]^[5]:
+
+          \,^{249}_{98}\mathrm{Cf} + \,^{48}_{20}\mathrm{Ca} \, \to
+          \,^{294}_{118}\mathrm{Uuo} + 3 \; ^1_0\mathrm{n} \;
+
+   Die navorsingspan het bestaan uit werknemers van die Gesamentlike
+   Instituut vir Kernnavorsing en die Lawrence Livermore National
+   Laboratory in Kalifornië, VSA. Die vervalprodukte van drie atome van
+   ununoctium, nie die atome self nie, is in Dubna waargeneem. 'n
+   Halfleeftyd van 0,89 ms is waargeneem: ^294Uuo verval na ^290Uuh deur
+   alfaverval. ^290Uuh is bie onstabiel en verval binne 'n breukdeel van
+   'n sekonde na ^286Uuq, wat ook spontane splyting kan ondergaan of kan
+   alfaverval na ^282Uub, wat spontane splyting sal ondergaan. ^[6]
+
+[wysig] Kyk ook
+
+     * Ontdekking van die chemiese elemente
+     * Eiland van stabiliteit
+     * Ununennium
+     * Ununhexium
+     * Ununseptium
+
+[wysig] Verwysings
+
+    1. ^ Pronounced yoo'nànŏk`tēàm at Columbia Encyclopedia
+    2. ^ Ninov, Viktor; K. E. Gregorich, W. Loveland, A. Ghiorso, D. C.
+       Hoffman, D. M. Lee, H. Nitsche, W. J. Swiatecki, U. W. Kirbach, C.
+       A. Laue, J. L. Adams, J. B. Patin, D. A. Shaughnessy, D. A.
+       Strellis, and P. A. Wilk (1999-05-27). "Observation of Superheavy
+       Nuclei Produced in the Reaction of ^86Kr with ^208Pb". Physical
+       Review Letters 83 (6-9): 1104–1107.
+       DOI:10.1103/PhysRevLett.83.1104. Retrieved on 2006-10-20.
+    3. ^ Public Affairs Department. "Results of element 118 experiment
+       retracted", Berkeley Lab, 2001-7-21. URL besoek op 2006-10-17.
+    4. ^ Sanderson, Katherine (17 Oktober 2006). "Heaviest element made -
+       again." nature@news.com. Nature (joernaal). URL besoek op
+       2006-10-19.
+    5. ^ Phil Schewe and Ben Stein (17 October 2006). "Elements 116 and
+       118 Are Discovered." Physics News Update. American Institute of
+       Physics. URL besoek op 2006-10-19.
+    6. ^ Oganessian, Yu. Ts.; Utyonkov, V.K.; Lobanov, Yu.V.; Abdullin,
+       F.Sh.; Polyakov, A.N.; Sagaidak, R.N.; Shirokovsky, I.V.; Tsyganov,
+       Yu.S.; Voinov, Yu.S.; Gulbekian, G.G.; Bogomolov, S.L.; B. N.
+       Gikal, A. N. Mezentsev, S. Iliev; Subbotin, V.G.; Sukhov, A.M.;
+       Subotic, K; Zagrebaev, V.I.; Vostokin, G.K.; Itkis, M. G.; Moody,
+       K.J; Patin, J.B.; Shaughnessy, D.A.; Stoyer, M.A.; Stoyer, N.J.;
+       Wilk, P.A.; Kenneally, J.M.; Landrum, J.H.; Wild, J.H.; and
+       Lougheed, R.W. (2006-10-09). "Synthesis of the isotopes of elements
+       118 and 116 in the ^249Cf and ^245Cm+^48Ca fusion reactions".
+       Physical Review C 74 (4): 044602. DOI:10.1103/PhysRevC.74.044602.
+       Retrieved on 2006-10-16.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Ununoctium
+     * Livermore persverklaring omtrent die ontdekking
+     * WebElements.com - Uuo
+     * Apsidium - Ununoctium
+     * "U.S., Russian scientists discover new element", Reuters/ABC News,
+       2006-10-16.
+     * Theory of atomic-mass calculation
+
+   Kategorieë: Chemiese elemente • Edelgasse
+

@@ -1,0 +1,135 @@
+Waterdikkop
+
+
+                     Waterdikkop
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Charadriiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Burhinidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Burhinus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. vermiculatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Burhinus vermiculatus
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die waterdikkop (Burhinus vermiculatus) is 'n lid van die dikkopfamilie
+   en 'n nagvoël, nes ander lede van die familie, maar meer aktief oordag
+   as die ander dikkoppe. Dit kan oordag naby die oewers van riviere en
+   mere gesien word, waar die voëls se natuurlike kamoeflering hulle byna
+   onsigbaar maak tussen die rotse.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Verspreiding
+        * 3 Habitat
+        * 4 Voortplanting
+        * 5 Dieet
+        * 6 Geluid
+        * 7 Ander name
+        * 8 Sien ook
+        * 9 Bronnelys
+        * 10 Eksterne skakels
+
+[wysig] Identifikasie
+
+   'n Volwasse waterdikkop het 'n algemene lengte van ongeveer 41cm en
+   weeg ongeveer 270g. Die voël het 'n bruin kop met geel oë, 'n swart
+   snawel en wit keel. Sy rug is ook bruin en sy bene grys van kleur. Die
+   voël het 'n gehunkerde postuur.
+
+[wysig] Verspreiding
+
+   Waterdikkoppe kom algemeen in Afrika voor: Suid van 5°N van Liberië tot
+   Suid-Somalië tot by Suid-Afrika. Hulle kom egter nie voor in die
+   suidwestelike woestyngebiede van hierdie area nie.
+
+[wysig] Habitat
+
+   Die voëls word oor die algemeen in moerasagtige gebiede en nabye mere
+   en riviere aangetref. Die voëls word selde alleen aangetref en verskyn
+   oor die algemeen in pare of in 'n swerm.
+
+[wysig] Voortplanting
+
+   Waterdikkoppe is monogaam, maar indien die maat van 'n waterdikkop
+   sterf, sal hy of sy 'n nuwe maat soek. Hul neste word in die grond
+   gebou waarin die wyfie tipies 1 tot 3 roomkleurige eiers sal lê.
+
+[wysig] Dieet
+
+   Waterdikkoppe eet meestal insekte en ander ongewerweldes, asook klein
+   water goggas
+
+[wysig] Geluid
+
+   Die klaende, fluitende roep van die waterdikkop kan snags gehoor word.
+
+[wysig] Ander name
+
+     * Engelse naam: Water Thick-knee (Dikkop)
+     * Wetenskaplike naam: Burhinus vermiculatus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826.
+     * Water Thick-Knee, by die webwerf van Kenya Birds. Laaste besoek op
+       30 Mei 2007.
+     * Water Thick-knee, by die webwerf van The Kruger.com. Laaste besoek
+       op 30 Mei 2007.
+     * The Nature Trail, by die webwerf van die Mbweni Ruins Hotel in
+       Zanzibar. Laaste besoek op 30 Mei 2007.
+
+[wysig] Eksterne skakels
+
+     * YouTube-video van 'n dagbesigting van 'n waterdikkop.
+
+   Kategorie: Dikkoppe
+

@@ -1,0 +1,113 @@
+Swarteend
+
+
+                      Swarteend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anas
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. sparsa
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Anas sparsa
+   Eyton, 1838
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Subspesies
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die swarteend is 'n algemene standvoël in Suidelike Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Subspesies
+        * 6 Ander name
+        * 7 Sien ook
+
+[wysig] Identifikasie
+
+   48-57cm. Die Swarteend is omtrent totaal swart, met wit vlekke op die
+   rug en helder oranje bene en pote.
+
+[wysig] Habitat
+
+   Die habitat is hoofsaaklik riviere en vloeiende water strome gedurende
+   die dag en groot oop oppervlaktes water gedurende die nag. Die eende
+   eet larwes en papies wat normaalweg onder klippe voorkom, klein water
+   diertjies, plantmeteriaal, sade, klein visse en slakke.
+
+[wysig] Verspreiding
+
+   Hierdie eende kom voor in Sentraal-Afrika en Suidelike-Afrika. Die
+   witrugeend kom veral in die oostelike dele van Suider-Afrika voor.
+
+[wysig] Geluid
+
+   Die eend uiter hoë-noot fluit.
+
+[wysig] Subspesies
+
+     * A. s. sparsa
+     * A. s. leucostigma
+
+[wysig] Ander name
+
+     * Engelse naam: African black duck / Black duck / black river duck /
+       West African black duck / South African black duck / Ethiopian
+       black duck
+     * Duitse naam: Schwarzente
+     * Wetenskaplike naam: Anas sparsa
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

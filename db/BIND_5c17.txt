@@ -1,0 +1,94 @@
+BIND
+
+
+   BIND (Berkeley Internet Name Domain) is die mees algemeen gebruikte
+   Domein-naam stelsel bediener op die internet, veral op Unix-tipe
+   stelsels, waar dit 'n de facto standaard. Die programmatuur word
+   ondersteun deur die Internet Systems Consortium. BIND is oorspronklik
+   geskep deur vier gegradueerde studente by die Universiteit van
+   Kalifornië, Berkeley en is oorspronklik saam met 4.3BSD vrygestel. Paul
+   Vixie het die programmatuur in 1988 begin ondersteun terwyl hy nog by
+   DEC werksaam was.
+
+   'n Nuwe weergawe van BIND (BIND 9) is van voor af geskryf om verskeie
+   probleme met die ouer weergawe veral sekuriteitskwessies aan te spreek.
+   Ander belangrike kenmerke van BIND 9 sluit in: TSIG, DNS notify,
+   nsupdate, IPv6, rndc flush, views, multiverwerker ondersteuning en
+   verbeterde oordraagbare argitektuur. Dit word baie algemeen op
+   Linux-stelsel gebruik.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Kritiek
+        * 3 GeoDNS
+        * 4 Verwysings
+        * 5 Eksterne skakels
+        * 6 Werwe met hulp oor opstelling
+
+[wysig] Geskiedenis
+
+   BIND is oorspronklik geskryf in die vroeë tagtigs met behulp van 'n
+   DARPA-skenking. In die middel tagtigs het werknemers van DEC verdere
+   ontwikkeling van BIND oorgeneem. Een van die werknemers was Paul Vixie,
+   wat aangehou het om aan BIND te werk nadat hy DEC se diens verlaat het.
+   Hy was uiteindelik een van die stigterslede van die Internet Systems
+   Consortium, at uiteindelik die organisasie geword het wat
+   verantwoordelik was vir die onderhoud van BIND.
+
+   Die ontwikkeling van BIND 9 is gedoen deur 'n kombinasie van
+   kommersiële en militêre kontrakte. Die ontwikkeling van die meeste BIND
+   9 kenmerke is bevonds deur UNIX-handelaars wat wou verseker dat BIND
+   kompeterend bly met Microsoft se aanbiedinge; die DNSSEC-kenmerke is
+   bevonds deur die V.S.A se militêre magte wat DNS sekuriteit wou
+   verseker.
+
+[wysig] Kritiek
+
+   Soos Sendmail, WU-FTPD en ander stelsels wat terugdateer tot vroeëre
+   laissez-faire tye op die Internet, het BIND 4 en BIND 8 'n groot aantal
+   kwesbaarhede gehad ten opsigte van sekuriteit en word die gebruik van
+   hierdie vroeëre stelsels ten sterkste afgeraai.^[1] BIND 9, wat geheel
+   en al herskryf is, is 'n baie veiliger stelsel.
+
+[wysig] GeoDNS
+
+   GeoDNS is 'n 40-lyn byvoeging tot BIND om 'n gesplete horison
+   Domein-naam stelsel toe te laat, wat beteken dat verskillende
+   versoekers verskillende antwoorde sal kry afhangende van hul nabyheid
+   ten opsigte van die bediener.
+
+   Op hierdie wyse kan 'n webwerf byvoorbeeld Franse gebruikers na hul
+   Franse bediener en Koreaanse gebruikers na 'n Koreaanse bediener
+   verwys. Dit verleen 'n beter werkverrigting en moontlik laer kostes as
+   'n bediener wat op 'n enkele plek geleë is of 'n rondomtalie DNS
+   opstelling.
+
+   Aangesien die stelsel DNS gebaseer is, is dit makliker om uit te rol as
+   BGP anycast. Geen ondersteuning word van die ISP verwag nie en
+   bestaande verbindings sal nie gebreek word as die bediener wat vir 'n
+   spesifieke kliënt geselekteer is, verander nie.
+
+[wysig] Verwysings
+
+    1. ^ P. Hudson, A. Hudson, B. Ball, H. Duff: Red Hat® Fedora 4
+       Unleashed, page 723. Sams Publishing, 2005 ISBN 0-672-32792-9
+
+[wysig] Eksterne skakels
+
+     * Die amptelike BIND werf by Internet Systems Consortium (ISC.org)
+     * CircleID Onderhoud met Cricket Liu, skrywer van 'DNS and BIND'
+     * DNS & BIND Hulpbronne by Bind9.net
+     * DNS Security Extensions (DNSSEC) by DNSSEC.net
+     * 'n Kort geskiedenis van BIND by ISC
+     * BIND, the Buggy Internet Name Daemon deur Daniel J. Bernstein
+     * Tuilblad van GeoDNS
+
+[wysig] Werwe met hulp oor opstelling
+
+     * BIND for the Small LAN
+     * Using DNS with BIND
+     * BIND 9 Administrator Reference Manual
+
+   Kategorie: Rekenaar
+

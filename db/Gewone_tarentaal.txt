@@ -1,0 +1,84 @@
+Gewone tarentaal
+
+
+                        Gewone tarentaal
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+                  Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Galliformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Numididae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Numida
+                   Linnaeus, 1766
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     N. meleagris
+     Subspesie:    {{{subspecies}}}
+            [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                         Binomiale naam
+                        Numida meleagris
+   Linnaeus, 1758
+                        Trinomiale naam
+                        {{{trinomial}}}
+                          Tipe Spesies
+                       {{{type_species}}}
+                    {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die gewone tarentaal in Suider-Afrika
+   Die verspreiding van die gewone tarentaal in Suider-Afrika
+                           Sinonieme
+   {{{synonyms}}}
+
+   Die Gewone tarentaal (Numida meleagris) is die bekendste van die
+   tarentaal familie, Numididae. Hulle broei in Afrika, hoofsaaklik suid
+   van die Sahara. Daar is ook populasies in die Wes-Indies en die suide
+   van Frankryk.
+
+[wysig] Identifikasie
+
+   Groot (60-68cm) voël met 'n ronde ligaam en 'n klein kop. Die voorkoms
+   is wit-gespikkel op swart-grys vere.
+
+[wysig] Ander name
+
+     * Afrikaanse naam: Pulpetaan
+     * Wetenskaplike naam: Numida meleagris
+     * Engelse naam: Helmeted Guineafowl
+     * Nederlandse naam: Parelhoen
+     * Portugese naam: Galinha-d'angola
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Tarentale
+

@@ -1,0 +1,30 @@
+Vertalerkonstruksie
+
+
+   'n Vertaler is 'n rekenaarprogram wat 'n ander rekenaarprogram vertaal
+   vanaf 'n bronformaat na 'n teikenformaat. Vertalers word gewoonlik
+   gebruik om 'n uitvoerbare program te skep vanaf 'n bronlêer wat in een
+   of ander programmeertaal geskryf is. Vertalerkonstruksie is die
+   afdeling van rekenaarwetenskap wat vertalers en interpreteerders
+   bestudeer.
+
+[wysig] Sien ook
+
+     * Interpreteerder
+
+[wysig] Bronnelys
+
+     * Vertalerkonstruksie. Martin S Olivier. 2000
+
+[wysig] Eksterne skakels
+
+     * What is "compile"? vanaf the developer's encyclopedia
+     * Building and Testing gcc/glibc cross toolchains
+     * The comp.compilers newsgroup and RSS feed
+     * Let's Build a Compiler by Jack Crenshaw (1988 to 1995) "a
+       non-technical introduction to compiler construction"
+     * Simple compiler source from the "Compilers 101" group. Een
+       eenvoudige bladsy.
+
+   Kategorie: Rekenaarwetenskap
+

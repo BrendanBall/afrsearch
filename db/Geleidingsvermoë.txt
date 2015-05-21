@@ -1,0 +1,34 @@
+Geleidingsvermoë
+
+
+   Die geleidingsvermoë of konduktiwiteit word in die eenheid Siemens
+   gemeet. Dit is die omgekeerde van weerstand (resistansie), d.w.s. 1/R.
+
+                      \frac{1}{R}=\frac {I}{U}
+
+          Vergelyk: {R}=\frac {U}{I}
+
+   I = stroomsterke R = weerstand U = spanningverskil
+
+   Die geleidingswaarde is die omgekeerde van die weerstand. Die
+   geleidingsvermoë van 'n genormeerde gedimensioneerde stuk van 'n
+   geleier is gevolglik die omgekeerde van die spesifieke weerstand ρ
+   (grieks: rho) en word as die spesifieke geleidingswaarde σ benoem
+   (Geleidingsvermoë = spesifieke geleidingsvermoë).
+   Albei word in die formule vervat:
+
+          \sigma=\frac {1}{\varrho}
+
+   Die afgeleide SI-eenheid van elektriese geleidingsvermoë is S/m
+   (Siemens per meter), ook A/(V·m). Gebruiklik is ook S/cm, m/Ω·mm² en
+   S·m/mm², waarby die samehang 1 S/cm = 100 S/m en 1 m/Ω·mm² = S·m/mm² =
+   106 S/m geld.
+
+[wysig] Sien ook
+
+     * Resistor
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Elektronika
+

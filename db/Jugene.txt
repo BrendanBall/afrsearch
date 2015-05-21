@@ -1,0 +1,42 @@
+Jugene
+
+
+   'n gedrukte stroombaanbord uit JUGENE met 'n sentraleverwerkingseenheid
+   van die "BlueGene/P"
+   'n gedrukte stroombaanbord uit JUGENE met 'n sentraleverwerkingseenheid
+   van die "BlueGene/P"
+
+   JUGENE (Jülich Blue Gene) is 'n superrekenaar van die tiepe BlueGene/P
+   in die Navorsingsentrum Jülich (Duitsland) en die opvolger van die
+   JUBL, wat ook daar bedryf word. Die rekenaar behoort aan die Instituut
+   "Jülich Supercomputing Centre" (JSC) en aan die virtuële Gauss Centre
+   for Supercomputing.
+
+   In hierdie superrekenaar werk 65.536 SVEs teen 'n frekwensie van 850
+   MHz. Die tiepe SVEs gebruik is die Power PC 450 wat in 16 kabinette
+   gehuisves is en die rekenaar 'n topkapasiteit van 222,8 TFLOPS
+   (R[peak]) laat lewer. Met 'n offisiële Linpack-kapasiteit van 167,3
+   TFLOPS (R[max]) het JUGENE as die vinnigste siviele rekenaar plek 2 in
+   die TOP500-lys van November 2007 behaal.^[1]
+
+   Hierdie rekenaar is gefinansieer van die Navorsingsentrum, die
+   provinsie Noordryn-Wesfaale (Nordrhein-Westfalen), en die
+   Bondsministerie vir Navorsing en Onderwys as ook die
+   Helmholtz-Gesellskap (Helmholtz-Gesellschaft). Die leier van die JSC,
+   Thomas Lippert, het beklemtoon, "dat die besonder aan ons JUGENE die
+   vergelyk tot ander sisteme die uiters spaarsame verbruik van elektriese
+   krag selfs by maksimum rekenaar kapasiteit is“^[1] – 'n
+   BlueGene/P-Systeem lewer volgend die vervaardiger omtrent 0,35
+   GFLOP/Watt en is daarmeer amper dubbel so effektief as sy voorganger
+   model wat op dieselfde plek gebruik is.^[2]
+
+[wysig] Konsep
+
+   Die idee van hierdie rekenaar is juis om met 'n stadiger spoed (850
+   Mhz) met meer SVEs (65.536) tog vinnige verwerkings te verkry en
+   elektriese krag (onderhoud) te bespaar. Die effektiwiteit was eerste
+   prioriteit.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Rekenaar • Superrekenaar • Saadjies
+

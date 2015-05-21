@@ -1,0 +1,31 @@
+Spoed
+
+
+   Spoed is 'n aanduiding van hoe vinnig beweging plaasvind, dit wil sê
+   hoe ver 'n voorwerp in 'n bepaalde tyd beweeg. Die spoedmeter van 'n
+   motor meet byvoorbeeld hoe vinnig sy beweging plaasvind. Spoed is dus
+   die tempo waarteen afstand afgelê word. Die woord tempo impliseer dat
+   iets per tydeenheid, dit wil sê per uur of per sekonde, geskied. Die
+   spoedmeter gee egter geen aanduiding van die rigting waarin die
+   beweging plaasvind nie. Spoed is dus 'n skalaar, en dit kan bereken
+   word uit die verwantskap Spoed = \frac{Afstand\ afgele}{Tyd\ verloop} .
+   In die daaglikse lewe word spoed gemeet in kilometer per uur (km·h^-1),
+   byvoorbeeld die spoed van motors, vliegtuie en bote. Seespoed word soms
+   aangedui in knope: 1 knoop is benaderd = 1,85 km·h^-1 of 0,514 m·s^-1.
+   In die wetenskap word spoed egter in die SI-eenheid aangegee, naamlik
+   meter per sekonde (m·s^-1).
+
+   Spoed is uniform of konstant wanneer gelyke afstande in gelyke tye
+   afgelê word. Sulke ideale omstandighede kom selde in die daaglikse lewe
+   voor. Wanneer spoed bepaal word met behulp van bostaande verwantskap,
+   is dit gewoonlik die gemiddelde spoed wat oor die betrokke afstand
+   gehandhaaf word, wat in werklikheid bereken word. Die verwantskap is
+   dan eerder: Gemiddelde\ spoed = \frac{Afstand\ afgele}{Tyd\ verloop} ,
+   of in simbole: \tilde{v} = \frac{\Delta s}{\Delta t} .
+
+   Die simbool Δ (delta) beteken "verandering in" of "verskil in". Die lyn
+   bokant die v dui 'n gemiddelde waarde aan.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Meganika
+

@@ -1,0 +1,172 @@
+Menslike ontwikkelingsindeks
+
+
+   Wêreldkaart wat die Menslike Ontwikkelingsindeks vir 2004 aangee.
+   ██ hoog (0,800–1) ██ medium (0,500–0,799) ██ laag (0,300–0,499) ██ n/a
+   Wêreldkaart wat die Menslike Ontwikkelingsindeks vir 2004 aangee.
+   ██ hoog (0,800–1) ██ medium (0,500–0,799) ██ laag (0,300–0,499) ██ n/a
+
+   Die Menslike ontwikkelingsindeks (MOI, Engels: Human Development Index
+   (HDI)) is 'n vergelykende maatstaf van lewensverwagting, geletterdheid,
+   opvoeding, en lewenstandaard vir al die lande van die wêreld. Dit bied
+   'n standaard wyse om welstand te meet, veral kinderwelstand. Dit word
+   gebruik om te bepaal en aan te dui of 'n land ontwikkelde,
+   ontwikkelende, of onderontwikkelde land is en om die impak wat
+   ekonomiese beleide op lewensgehalte het, te meet.^[1] Die indeks is in
+   1990 deur die Indiese Nobelpryswenner Amartya Sen, Pakistanse ekonoom
+   Mahbub ul Haq, met ondersteuning van Gustav Ranis van Yale Universiteit
+   en Lord Meghnad Desai van die London School of Economics ontwikkel en
+   word sedertdien deur die ontwikkelingsprogram van die Verenigde Nasies
+   in die organisasie se jaarlikse menslike ontwikkelingsverslag gebruik.
+   Hoewel dit deur Sen as 'n "growwe meting", beskryf is as gevolg van die
+   beperkings daarvan, vestig dit nogtans aandag op aspekte van
+   ontwikkelings wat nie deur per capita-inkomste gedek word nie.
+
+   Die indeks meet gemiddelde prestasie in 'n land in drie basiese
+   dimensies van menslike ontwikkeling:
+     * 'n Lang en gesonde lewe soos gemeet deur lewensverwagting met
+       geboorte.
+     * Kennis, soos gemeet deur die volwassegeletterheidstydskoers (met
+       twee-derdes gewig) en die gekombineerde primêre, sekondêre, en
+       tersiêre bruto inskrywingsverhouding (met een-derde gewig).
+     * 'n Ordentlike lewenstandaard soos gemeet deur die logaritme van
+       bruto binnelandse produk (BBP) per capita teen Koopkragpariteit
+       (KKP) in VSA dollars.
+
+   VN-lidlande word elke jaar volgens die metings gelys en rangskik. Lande
+   wat hoog op die lys verskyn gebruik dit om geskoolde immigrante te lok
+   of emigrasie te ontmoedig^[2]
+
+   'n Alternatiewe maatstaf, die Menslike Armoede-indeks, fokus op die
+   mate van armoede in 'n land.
+
+[wysig] Metodologie
+
+   MOI-neigings tussen 1975 en 2004    OECD    Sentraal- en Oos-Europa, en
+   die CIS    Latyns-Amerika en die Karibbiese Gebied    Oos-Asië
+      Arabiese State    Suid-Asië    Afrika suid van die Sahara
+   MOI-neigings tussen 1975 en 2004
+
+      OECD
+
+      Sentraal- en Oos-Europa, en die CIS
+
+      Latyns-Amerika en die Karibbiese Gebied
+
+      Oos-Asië
+
+                                                    Arabiese State
+
+                                                    Suid-Asië
+
+                                                    Afrika suid van die Sahara
+
+   In die algemeen om 'n rou-veranderlike, sê maar x, na 'n eenheidslose
+   indeks om te skakel (wat toelaat dat verskillende indekse by mekaar
+   getel kan word), word die volgende formule gebruik:
+     * x-index = \frac{x - \min\left(x\right)}
+       {\max\left(x\right)-\min\left(x\right)}
+
+   waar \min\left(x\right) en \max\left(x\right) onderskeidelik die
+   laagste en hoogste waardes is wat die veranderlike x kan bereik.
+
+   Die Menslike Ontwikkelingsindeks verteenwoordig dan die gemiddeld van
+   die volgende drie algemene indekse:^[3]
+     * Lewesnverwagtingindeks = \frac{LW - 25} {85-25}
+     * Opvoedingsindeks = \frac{2} {3} \times VGI + \frac{1} {3} \times
+       GEI
+          + Volwassegeletterheidsindeks (VGI) = \frac{VGV - 0} {100 - 0}
+          + Bruto Inskrywingsindeks (BII) = \frac{GBIV - 0} {100 - 0}
+     * BBP Indeks = \frac{\log\left(BBPpc\right) - \log\left(100\right)}
+       {\log\left(40000\right) - \log\left(100\right)}
+
+   LW: Lewensverwagting teen geboorte
+   VGI: Volwassegeletterheidsindeks (ouderdomme 15 en ouer)
+   GBIV: Gekombineerde bruto inskrywingsverhouding vir primêre, sekondêre
+   en tersiêre opvoeding
+   BBPpc: BBP per capita teen Koopkragpariteit in VSD
+
+[wysig] 2006-verslag
+
+   Gekleurde wêreldkaart wat Menslike Ontwikkelingsindeks waardes vir 2004
+   illustreer    0,950 en hoër    0,900–0,949    0,850–0,899
+      0,800–0,849    0,750–0,799    0,700–0,749    0,650–0,699
+      0,600–0,649    0,550–0,599    0,500–0,549    0,450–0,499
+      0,400–0,449    0,350–0,399    0,300–0,349    onder 0,300    nie
+   beskikbaar nie (kleurblindheid aanpasbare kaart)
+   Gekleurde wêreldkaart wat Menslike Ontwikkelingsindeks waardes vir 2004
+   illustreer
+
+      0,950 en hoër
+
+      0,900–0,949
+
+      0,850–0,899
+
+      0,800–0,849
+
+      0,750–0,799
+
+      0,700–0,749
+
+                           0,650–0,699
+
+                           0,600–0,649
+
+                           0,550–0,599
+
+                           0,500–0,549
+
+                           0,450–0,499
+
+                           0,400–0,449
+
+                                               0,350–0,399
+
+                                               0,300–0,349
+
+                                               onder 0,300
+
+                                               nie beskikbaar nie
+   (kleurblindheid aanpasbare kaart)
+
+   Die verslag vir 2006 is in Kaapstad, Suid-Afrika, op 9 November 2006
+   bekendgestel. Die fokus van die verslag was op "mag, armoede en die
+   globale waterkrisis." ^[4] Meeste van die data wat vir die verslag
+   gebruik is, dateer uit 2004 of te vore, wat dus 'n indeks vir 2004
+   verskaf. Nie alle VN-lidlande kies, of is in staat, om die statistiek
+   wat benodig word, te verskaf nie.
+
+   Die verslag rapporteer 'n vertraging in wêreldwye Menslike
+   Ontwikkelingsindeks aangesien die volgehoue verbeterings in ontwikkelde
+   lande geneutraliseer is deur 'n algemene daling in die ontwikkelende
+   lande. Lande in Afrika suid van die Sahara en Suid-Asië het beduidende
+   dalings in die indeks beleef teenoor die waardes in die vorige verslag.
+   Ander ontwikkelende lande het min of geen vooruitgang getoon nie.
+
+   'n Indekswaarde van minder as 0,5 word as verteenwoordigend van lae
+   ontwikkeling gesien. 29 van die 31 lande in die kategorie is in Afrika,
+   die ander twee in die kategorie is Haïti en Jemen. Die lande in Afrika
+   suid van die Sahara wat die hoogste telling behaal het,
+   Ekwatoriaal-Guinee en Suid-Afrika, het onderskeidelik die 120ste en
+   121ste plekke behaal met 'n waarde van 0.653).
+
+   'n Waarde van 0,8 of meer word as verteenwoordigend van hoë
+   ontwikkelling gesien. Dit sluit in alle ontwikkelde lande soos die in
+   Noord-Amerika, Wes-Europa, Oseanië, en Oos-Asië, asook sommige van die
+   ontwikkelende lande in Oos-Europa, Sentraal en Suid-Amerika,
+   Suidoos-Asië, die Karibbiese Gebied, en die olieryke Arabiese
+   Skiereiland.
+
+[wysig] Verwysings
+
+    1. ^ Davies, A. and G. Quinlivan (2006), A Panel Data Analysis of the
+       Impact of Trade on Human Development, Journal of Socioeconomics
+    2. ^ Toespraak deur Jean Chrétien, voormalige Eerste Minister van
+       Kanada
+    3. ^ Technical note explaining the definition of the HDI, Besoek op 14
+       Julie 2007
+    4. ^ The 2006 Human Development Report
+
+   Kategorie: Menslike ontwikkelingsindeks
+

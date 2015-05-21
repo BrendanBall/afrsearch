@@ -1,0 +1,55 @@
+Hiperboloïed
+
+
+   Hiperboloïed van een vlak
+   Hiperboloïed van een vlak
+   Hiperboloïed van twee vlakke
+   Hiperboloïed van twee vlakke
+
+   In wiskunde is 'n hiperboloïed 'n kwadratiese vorm, 'n soort oppervlak
+   in drie dimensies wat deur die volgende vergelyking beskryf word
+
+          {x^2 \over a^2} + {y^2 \over b^2} - {z^2 \over c^2}=1
+          (hiperboloïed van een vlak),
+
+   of
+
+          - {x^2 \over a^2} - {y^2 \over b^2} + {z^2 \over c^2}=1  (
+          hiperboloïed van twee vlakke)
+
+   As, en slegs as, a = b, is dit 'n omwentelingshiperboloïed. 'n
+   Hiperboloïed van een vlak kan verkry word deur 'n hiperbool om sy
+   transversale as te roteer. Alternatiewelik kan 'n hiperboloïed van twee
+   vlakke van die as AB beskryf word as die versameling punte P sodat
+   AP−BP 'n konstante, AP wat die afstand tussen A en P is. Punte A en B
+   is die brandpunte van die hiperboloïed. 'n Hiperboloïed van twee vlakke
+   kan verkry word deur die hiperbool om sy brandpuntas te roteer.
+
+   'n Hiperboloïed van een vlak is 'n dubbele reëloppervlak; as dit 'n
+   omwentelings hiperboloïed is, kan dit ook verkry word deur 'n lyn om 'n
+   skewe lyn te roteer.
+   'n Elliptiese hiperboloïed van een vlak. Die drade is reguit lyne. Vir
+   enige punt op die oppervlak is daar twee reguit lyne wat geheel en al
+   op die oppervlak van die hiperboloïed lê wat deur die punt gaan. Dit
+   illustreer die dubbele reëloppervlak aard van die oppervlak.
+   'n Elliptiese hiperboloïed van een vlak. Die drade is reguit lyne. Vir
+   enige punt op die oppervlak is daar twee reguit lyne wat geheel en al
+   op die oppervlak van die hiperboloïed lê wat deur die punt gaan. Dit
+   illustreer die dubbele reëloppervlak aard van die oppervlak.
+
+   'n Ontaarde hiperboloïed het die vorm
+
+          {x^2 \over a^2} + {y^2 \over b^2} - {z^2 \over c^2}=0;
+
+   as a = b sal dit 'n keël gee, indien nie gee dit 'n elliptiese keël.
+
+[wysig] Kyk ook
+
+     * Ellipsoïed
+     * Paraboloïed
+     * Hyperboloïde struktuur
+
+   Wikimedia Commons Meer media omtrent hierdie onderwerp kan gevind word
+                     onder die kategorie Hyperboloid by die Wikimedia Commons.
+   Kategorieë: Oppervlaktes • Kwadratiese vorms • Krommes
+

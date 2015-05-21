@@ -1,0 +1,76 @@
+Lutetium
+
+
+
+   71                     ytterbium ← lutetium → hafnium
+    Y
+   ↑
+   Lu
+   ↓
+   Lr
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal lutetium, Lu, 71
+                                                 Chemiese reeks lantaniede
+                                            Groep, Periode, Blok nvt, 6, d
+                                                     Voorkoms silwerig wit
+                                              Atoommassa 174.967 (1) g/mol
+                                   Elektronkonfigurasie Xe 6s^2 4f^14 5d^1
+                                     Elektrone per skil 2, 8, 18, 32, 9, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 9.841 g/cm³
+                                   Vloeistof digtheid teen s.p. 9.3 g/cm³
+                                                          Smeltpunt 1925 K
+                                                                (1652 °C)
+                                                           Kookpunt 3675 K
+                                                                (3402 °C)
+                                             Smeltingswarmte ca. 22 kJ/mol
+                                              Verdampingswarmte 414 kJ/mol
+                                Warmtekapasiteit (25 °C) 26.86 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                P/Pa    1    10  100   1 k    10 k  100 k
+                              teen T/K 1906 2103 2346 (2653) (3072) (3663)
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 3
+                                                     (swak basiese oksied)
+                              Elektronegatiwiteit 1.27 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 523.5 kJ/mol
+                                                          2de: 1340 kJ/mol
+                                                       3rde: 2022.3 kJ/mol
+                                                        Atoomradius 175 pm
+                                                 Atoomradius (ber.) 217 pm
+                                                   Kovalente radius 160 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                             Elektriese weerstand (k.t.) (poli) 582 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 16.4 W/(m·K)
+                         Termiese uitstetting (k.t.) (poli) 9.9 µm/(m·K)
+                                                 Young se modulus 68.6 GPa
+                                                     Skuifmodulus 27.2 GPa
+                                                     Massamodulus 47.6 GPa
+                                                   Poissonverhouding 0.261
+                                                 Vickers hardheid 1160 MPa
+                                                  Brinell hardheid 893 MPa
+                                              CAS-registernommer 7439-94-3
+                                                        Vernaamste isotope
+
+           CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                              iso     NV   halfleeftyd VM  VE (MeV)   VP
+                             ^173Lu sin    1.37 j      e   0.671    ^173Yb
+                             ^174Lu syn    3.31 j      e   1.374    ^174Yb
+                             ^175Lu 97.41% Lu is stabiel met 104 neutrone
+                             ^176Lu 2.59%  3.78×10^10j ß^- 1.193    ^176Hf
+
+                                                                Verwysings
+
+   Kategorie: Chemiese elemente
+

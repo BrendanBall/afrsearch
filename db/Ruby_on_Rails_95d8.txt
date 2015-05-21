@@ -1,0 +1,30 @@
+Ruby on Rails
+
+
+   Ruby on Rails is 'n raamwerk geskryf in die Ruby programmeringstaal met
+   die doel om die skryf van webtoepassings te vergemaklik en te versnel.
+   Dit bestaan uit vyf hoofmodules wat elk 'n ander aspek van 'n tipiese
+   webtoepassing implementeer: Active Record, Action Pack, Active Support,
+   Action Mailer, en Action Web Service. Die nuutste weergawe van Rails is
+   1.2.2, wat op die 6de Februarie, 2007 beskikbaar gestel is.
+
+[wysig] Active Record
+
+   Active Record laat die ontwikkelaar toe om met min moeite die tabelle
+   en rekords in 'n databasis te modelleer. Dit rus op die beginsel van
+   "konvensie, nie konfigurasie nie", wat bloot beteken dat in plaas
+   daarvan dat die ontwikkelaar moet spesifiseer hoe die databasis uitleg
+   lyk, word tabelle en kolomme net op 'n spesifieke wyse benoem, sodat
+   Active Record self die uitleg kan bepaal deur die databasis se
+   struktuur te ondersoek.^[1]
+
+[wysig] Verwysings
+
+    1. ^ http://api.rubyonrails.org/classes/ActiveRecord/Base.html
+
+     * Full Ruby on Rails Tutorial
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

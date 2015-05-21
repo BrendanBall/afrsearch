@@ -1,0 +1,210 @@
+Magnetisme
+
+
+   Selfs in die oertyd het mense ontdek dat magnetietkristalle mekaar
+   aantrek of afstoot afhangende van hul oriēntasie. Die natuurkundige
+   verskynsel word magnetisme genoem. Die woord magnetisme vind sy
+   oorsprong dan ook uit Magnetiet wat op sy beurt afkomstig is van
+   Magnesia, 'n gebied in Thessalië in antieke Griekeland (Tans Manisa,
+   Turkye), waar neerslae van die mineraal gevind is.
+
+   Die element wat verantwoordelik is vir die magnetisme van magnetiet is
+   yster. Baie ysterlegerings vertoon magnetiese eienskappe. Naas yster
+   vertoon nikkel en kobalt ook magnetiese eienskappe.
+
+   Voorwerpe wat sterk magnetiese eienskappe vertoon word dan ook magnete
+   genoem. Daar bestaan natuurlike en kunsmatige magnete (AlNiCo, Fernico,
+   Ferriete ens.). Alle magnete het twee pole wat onderskeidelik die
+   noordpool en suidpool genoem word. Die noordpool van 'n magneet stoot
+   die noordpool van 'n ander magneet af en trek die suidpool van 'n ander
+   magneet aan. Twee suidpole stoot mekaar ook af. Omdat die aarde ook oor
+   'n magneetveld beskik met 'n suid- en 'n noordpool (magnetiese suidpool
+   naby die noordpool en die suidpool naby die aarde se noordpool), sal 'n
+   vrydraaiende kompas altyd 'n noord-suidrigting aanneem. Die benaming
+   van die pole van 'n magneet is hieruit afgelei. Daar word vir gemak,
+   alhoewel dit uiters verwarrend kan wees, na die "aardmagneet" se
+   suidpool as die magnetiese noordpool verwys en die noordpool van die
+   aarde se magneet is dan die "aardmagneet" se magnetiese suidpool.
+
+   'n Verwante verskynsel is elektromagnetisme, magnetisme wat ontstaan as
+   gevolg van 'n elektriese stroom.
+   Illustrasie van 'n magnetiese veld rondom 'n staafmagneet
+   Illustrasie van 'n magnetiese veld rondom 'n staafmagneet
+
+   Inhoud
+
+        * 1 Agtergrond
+        * 2 Magnetiese veld
+        * 3 Magnetiese gedrag van metariale
+        * 4 Magnetisme en materiale
+        * 5 Elektromagnetisme
+        * 6 Die aarde se magnetiese veld
+        * 7 Toepassings van magnetisme
+             + 7.1 Elektromagnetiese straling
+             + 7.2 Kompas
+             + 7.3 Supergeleiermagnete
+             + 7.4 Magnetiese swewing
+        * 8 Verwysings
+
+[wysig] Agtergrond
+
+   By nadere ondersoek blyk dit dat die magnetisme in natuurlik magnetiese
+   of magnetiseerbare materiale, net soos by elektromagnetisme, ook
+   veroorsaak word deur bewegende elektriese ladings. James Maxwell het,
+   voortbouend op die ondersoeke van onder andere Michael Faraday reeds in
+   die negentiende eeu 'n baie elegante wiskundige formulering van die
+   verband tussen elektrisiteit en magnetisme gegee, wat later deur
+   Heaviside bygewerk is tot slegs vier differensiaalvergelykings, die
+   vergelykings van Maxwell waarmee alle makroskopiese elektriese en
+   magnetiese verskynsels beskryf kan word.
+
+   Die teorie van magnetisme sluit nie die moontlikheid uit dat daar ook
+   sogenaamde magnetiese monopole bestaan nie: d.w.s. magnete wat slegs 'n
+   noordpool of slegs 'n suidpool het. Die magnetisme van sulke monopole
+   sou egter van 'n geheel en al ander orde wees as die bogenoemde
+   magnetisme wat immers steeds sy oorsprong vind in bewegende elektriese
+   ladings. Tot nou toe is daar egter geen aanduiding/bewyse dat sulke
+   magnetiese monopole werklik kan bestaan nie.
+
+[wysig] Magnetiese veld
+
+   Magnete wat vryelik in die ruimte kan beweeg blyk om deur magnetisme
+   beïnvloed te word, sodanig dat hul 'n bepaalde rigting aanneem en 'n
+   sekere krag in daardie rigting ondervind. Kennelik is daar aan elke
+   punt van die ruimte 'n magnetiese werking verbonde ('n veld) met 'n
+   bepaalde rigting en grootte. Dié vektorveld is die magnetiese veld,
+   meestal aangedui met die simbool \vec{B} en word die magnetiese
+   veldsterkte, magnetiese fluksdigtheid of magnetiese induksie genoem;
+   die sterkte daarvan word gemeet in die SI-eenheid, tesla. Die
+   magnetiese veld kan veroorsaak word deur magnete, elektromagnete en
+   elektriese strome.
+
+[wysig] Magnetiese gedrag van metariale
+
+   Wanneer 'n materiaal blootgestel word aan 'n magnetiese veld kan dit op
+   verskillende maniere daarop reageer. 'n Mens kan die volgende
+   verskynsels onderskei:
+     * diamagnetisme
+     * ferromagnetisme
+     * antiferromagnetisme
+     * ferrimagnetisme
+     * paramagnetisme
+          + Pauli-paramagnetisme
+          + superparamagnetisme
+     * spinglas-magnetisme
+
+   Wanneer 'n mens in normale spreektaal sê dat 'n materiaal magneties is,
+   word daar meestal bedoel dat dit ferromagnetiese gedrag vertoon. Die
+   kragte wat by dia- en paramagnetiese gedrag betrokke is, is baie
+   kleiner en die materiale hierby betrokke vertoon ook geen spontane
+   magnetiese velde nie. Rofweg kan 'n mens hul dus nie as nie-magneties
+   beskou. Diamagnetiese materiale het die neiging om veldlyne uit hulle
+   binneste te verdring, terwyl ferro-, ferri- en paramagnetiese materiale
+   hul juis in 'n mindere of meerdere mate konsentreer.
+
+[wysig] Magnetisme en materiale
+
+   Die bekendste vorm van magnetisme is ferromagnetisme wat soos die naam
+   aandui in yster voorkom asook in 'n aantal metale en 'n groot aantal
+   legerings. Daar bestaan slegs vier ferromagnetiese elemente, naamlik
+   yster, nikkel, kobalt en gadolinium. Daar is egter baie meer
+   ferromagnetiese legerings en ander gesinterde materiale wat ook
+   magneties is, soos ferriet onder andere.
+
+   Yster kan gemagnetiseer word deur die materiaal in 'n magnetiese veld
+   te plaas wat byvoorbeeld deur 'n elektriese klos opgewek word.
+
+   Veldlyne is denkbeeldige lyne wat die rigting van die magnetiese veld
+   op 'n bepaalde punt aandui. Die lyne kan by magnete sigbaar gemaak word
+   deur 'n blad papier op 'n magneet te lê en fyn ystervysels daarop te
+   strooi - die vysels sal dan oplyn om die veldlyne sigbaar te vertoon.
+
+   In ferromagnetiese materiale word die magnetiese effek opgewek deurdat
+   elektronebane in die atome hulself parallel ten opsigte van mekaar rig
+   sodat die magnetisme van die afsonderlike atome mekaar nie meer
+   uitkanselleer nie maar versterk. Wanneer 'n magneet verhit word gaan
+   hierdie oriēntasie verlore en word die voorwerp gedemagnetiseer. Die
+   temperatuur waarby dit gebeur is afhanklik van die soort materiaal en
+   word die Curietemperatuur genoem. Bo hierdie temperatuur vertoon dié
+   materiaal paramagnetiese gedrag. Naas magnetiese vastestowwe is daar
+   ook magnetiese vloeistowwe. Dit is vloeistowwe met magnetiese deeltjies
+   in suspensie wat kan reageer op 'n magnetiese veld. Die vloeistowwe kan
+   onderverdeel word in magnetorheologiese vloeiers, waar die viskositeit
+   verander en ferrovloeiers wat sterk gepolariseer word in die
+   teenwoordigheid van 'n magnetiese veld.
+
+[wysig] Elektromagnetisme
+
+   Rondom 'n geleidende draad waardeur 'n elektriese stroom vloei, word 'n
+   magnetiese veld opgewek. Die opgewekte magnetiese vloed kan as volg
+   uitgedruk word:
+
+                Φ = L * I
+
+          waar Φ die magnetiese fluks uitgedruk word in Weber
+          L die selfinduksie in Henry
+          en I die stroomsterkte in ampère
+
+   'n Sterk magnetiese veld word verkry deur groter strome of 'n hoë mate
+   van selfinduksie. Groot strome is nie altyd haalbaar nie en daarom daar
+   meestal gebruik gemaak van selfinduksie deur 'n draad in die vorm van
+   'n klos te wikkel - die velde van elke winding word dan sodoende
+   bymekaar getel.
+
+[wysig] Die aarde se magnetiese veld
+
+   Ook die aarde gedra homself soos 'n groot magneet met veldlyne wat
+   vanaf die (magnetiese) noordpool na die suidpool strek. Daar word
+   vermoed dat daar diep binne die aarde groot elektriese strome vloei wat
+   die magnetisme tot gevolg het. Daar is afdoende bewys dat die aarde se
+   magnetiese veld met tye omkeer in 'n proses wat bekend staan as
+   paleomagnetisme. Dit wil voorkom asof die proses al etlike male
+   plaasgevind het sedert die vorming van die aarde na aanleiding van die
+   magnetiseringsrigtings in sedimentêre gesteentes van verskillende
+   ouderdomme. Dit mag dalk selfs ook verband hou met die uitsterwing van
+   spesies in die Perm- en Kryt-tydperke.
+
+[wysig] Toepassings van magnetisme
+
+[wysig] Elektromagnetiese straling
+
+   In elektromagnetiese straling kom 'n ossilerende elektriese sowel as 'n
+   ossilerende magnetiese veld voor.
+
+[wysig] Kompas
+
+   'n Kompas is 'n meetinstrument waarmee die rigting van 'n magneetveld
+   bepaal kan word. Omdat die aarde 'n magnetiese veld het, kan 'n mens
+   die rigting van die noord- en suidpole van die veld daarmee vasstel. 'n
+   Kompas bestaan uit 'n vryhangende magnetiese naald waarvan sy
+   magnetiese noordpool na die magnetiese suidpool van die aarde wys,
+   omdat die noord- en suidpole mekaar aantrek. Die magnetiese suidpool
+   van die aarde word die noorde genoem, omdat die magnetiese noordpool
+   van die kompas na die noorde wys. Die magnetiese noordpool van die
+   aarde word die suide genoem.
+
+   Sien ook: skeepskompas
+
+[wysig] Supergeleiermagnete
+
+   'n Besondere vorm van magneet is een wat met supergeleidende elektriese
+   klosse gebou word. Daarmee kan oor die algemeen sterk magneetvelde
+   opgewek word sonder elektriese weerstandsverliese. As die magneetveld
+   egter te sterk word dring die veld die supergeleierdrade van die klos
+   binne en hou die supergeleidende materiale vervolgens op om
+   supergeleidend te wees. Dié verskynsel waar die magnetiese veld geblus
+   word, beperk die toepasbaarheid van supergeleidende magnete.
+
+[wysig] Magnetiese swewing
+
+   Daar bestaan treine (sonder wiele) wat op 'n magnetiese baan sweef, die
+   sogenaamde magneetsweeftreine. Daar bestaan tans twee ondernemings
+   wêreldwyd wat sulke treine vervaardig (in Japan en Duitsland), maar die
+   tegnologie word nog min toegepas.
+
+[wysig] Verwysings
+
+     * Die ooreenstemmende artikel in die Nederlandstalige Wikipedia
+
+   Kategorie: Wetenskap
+

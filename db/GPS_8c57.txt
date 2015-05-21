@@ -1,0 +1,33 @@
+GPS
+
+
+   Die Globale Posisioneringstelsel (GPS) is 'n "konstellasie" van 32
+   sateliete, wat seine uitstuur wat deur 'n GPS ontvanger op aarde
+   ontvang kan word. Hierdie inligting word deur die GPS ontvanger verwerk
+   om die posisie daarvan te bereken. GPS ontvangers wat deur burgerlike
+   persone aangekoop kan word, kan onder ideale toestande 'n posisie met
+   'n akkuraatheid van 3 meter aandui. Seine vanaf minstens 4 GPS
+   sateliete is nodig om 'n posisie (lengte- en breedtegraad en hoogte bo
+   seespieël) te bepaal.
+
+   Die GPS sateliette is deur die VSA weermag gelanseer en word deur hulle
+   instand gehou. Die Europese Unie het vroeg in 2003 'n projek
+   aangekondig om hulle eie sateliet posisionering stelsel te lanseer.
+
+[wysig] Karteringsagteware
+
+   Die meeste GPS-ontvangers het 'n standaard basiskaart - 'n eenvoudige
+   diagram van die wêreld wat lande, groot stede en geografiese kenmerke
+   aandui. Karteringsagteware is digitale kaarte van 'n hoër gehalte wat
+   ontwerp is om op 'n GPS-toestel gelaai te word.
+
+[wysig] Eksterne skakels
+
+     * Peter H. Dana: Global Positioning System Overview
+     * FAA FAQ
+     * USA Army Corps of Engineers manual
+     * Greg Goebel's "Navigation Satellites and GPS"
+     * Gpsdrive - GNU Map-based navigation system
+
+   Kategorieë: Elektroniese verbruikersware • Geografie
+

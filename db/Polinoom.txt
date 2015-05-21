@@ -1,0 +1,63 @@
+Polinoom
+
+
+   In Wiskunde is 'n polinoom 'n uitdrukking wat saamgestel word uit een
+   of meer veranderlikes en konstantes deur gebruik te maak van optel,
+   aftrek, vermenigvuldiging en konstante positiewe heelgetaleksponente.
+   x^2 - 4x + 7\, is 'n voorbeeld van 'n polinoom, maar x^2 - 4/x +
+   7x^{3/2}\, is nie omdat dit deling met 'n veranderlike insluit en 'n
+   eksponent bevat wat nie 'n positiewe heelgetal bevat nie.
+
+   Polinome is een van die belangrikste begrippe in algebra en wiskunde in
+   die algemeen en vind baie toepassings in die wetenskap. Hulle word
+   gebruik om polinoomvergelykings te vorm, wat 'n wye reeks probleme kan
+   voorstel, vanaf elementêre woordprobleme tot ingewikkelde probleme in
+   die wetenskap; hulle word gebruik om polinoomfunksies te definieer wat
+   gebruik word in vakgebiede wat wissel van chemie, fisika tot by
+   ekonomie en word gebruik in analise en numeriese analise om ander
+   vergelykings te benader. Polinome word gebruik om polinoomringe saam te
+   stel, een van die kragtigste begrippe in algebra en algebraïse
+   meetkunde.
+
+[wysig] Oorsig
+
+   'n Polinoomis of nul of kan as uitgedruk word as die som van een of
+   meer nie-nul terme ('n veelterm). Die getal terme is beperk. Hierdie
+   terme bestaan uit 'n konstante (wat die koëffisiënt van die term genoem
+   word) wat vermenigvuldig word met nul of meer veranderlikes (gewoonlik
+   deur letters verteenwoordig). Elke veranderlike kan 'n eksponent hê wat
+   'n nie-negatiewe heelgetal is. Die eksponent van 'n veranderlike in 'n
+   term is gelyk aan die orde van daardie veranderlike in die term.
+   Aangesien x = x^1, is die orde van die veranderlike sonder 'n eksponent
+   gelyk aan een. 'n Term met geen veranderlikes word 'n konstante term
+   genoem, insluitende fraksies, irreële getalle, negatiewe getalle en
+   komplekse getalle.
+
+   Byvoorbeeld,
+
+          -5x^2y\,
+
+   is 'n term. Die koëffisiënt is –5, die veranderlikes is x en y, die
+   orde van x is twee en die orde van y is een.
+
+   Die orde van die term in sy geheel is die som van die ordes van elke
+   veranderlike daarin. In die voorbeeld hierbo is dit 2 + 1 = 3.
+
+   'n Polinoom is 'n som van terme. Onderstaande is byvoorbeeld 'n
+   polinoom:
+
+          3x^2 - 5x + 4\,.
+
+   Dit bestaan uit drie terme: die eerste se orde is twee, die tweede se
+   orde is een en die derde se orde is nul. Hier staan "− 5x" vir "+
+   (−5)x", dus is die koëffisiënt van die middelste term −5.
+
+   Wanneer 'n polinoom in een veranderlike gerangskik word in die
+   tradisionele volgorde, word die terme met die hoër orde geskryf voor
+   die terme met die laer ordes. In die eerste term hierbo is die
+   koëffisiënt 3, die veranderlike is x en die eksponent is 2. In die
+   tweede term is die koëffisiënt –5. Die derde term is 'n konstante. Die
+   orde van 'n nie-nul polinoom is die hoogste orde van enige van die
+   terme. In bostaande voorbeeld is die polinoom 'n 2^de orde polinoom.
+   Kategorie: Wiskunde
+

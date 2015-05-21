@@ -1,0 +1,109 @@
+Bontvisvanger
+
+
+                    Bontvisvanger
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Coraciiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Cerylidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ceryle
+                   Boie, 1828
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. rudis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Ceryle rudis
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Bontvisvanger (Ceryle rudis) is 'n algemene standvoël en visvanger
+   wat wyd versprei is in Afrika Suid van die Sahara en suidelike Asië
+   vanaf Turkye tot Sjina.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+
+[wysig] Identifikasie
+
+   Dit is 'n groot visvanger, 28-29cm in lengte, maar kleiner as die
+   Reusevisvanger, met 'n uitsluitlike swart-en-wit veredrag. Die geslagte
+   verskil van kleurpatrone. As hy visvang, fladderhang hy gewoonlik oor
+   die water en duik dan af om sy prooi te vang.
+
+[wysig] Habitat
+
+   Hou in pare of klein familiegroepies by binnelandse riviere, mere,
+   strome, damme en by strandmere riviermondings en rotspoele langs die
+   kus.
+
+[wysig] Verspreiding
+
+   Is wyd verspreid in Afrika, suid van die Sahara en suidelike Asië vanaf
+   Turkye tot Sjina.
+
+[wysig] Geluid
+
+   Uiter 'n hoë gekwetter; twee of meer voëls roep dikwels tegelyk.
+
+[wysig] Ander name
+
+     * Engelse naam: Pied Kingfisher
+     * Wetenskaplike naam: Ceryle rudis
+
+[wysig] Sien ook
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Ceryle rudis
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

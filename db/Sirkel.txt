@@ -1,0 +1,24 @@
+Sirkel
+
+
+   'n Sirkel met middelpunt m, deursnee d en radius r.
+   'n Sirkel met middelpunt m, deursnee d en radius r.
+
+   'n Sirkel is 'n twee-dimensionele figuur wat gevorm word deur alle die
+   punte van die vorm dieselfde afstand van 'n gekose punt te hê. Dié punt
+   is die middelpunt en die gekose afstand staan bekend as die radius.
+
+   Die mate van 'n sirkel word soms aangegee deur na die deursnee te
+   verwys: die deursnee is die grootste afstand tussen twee punte van die
+   sirkel is presies twee keer so groot as die radius.
+
+   Die omtrek van 'n sirkel kan bereken word deur die formule: O = 2 \cdot
+   π \cdot r of O = d \cdot π met r as die radius van die sirkel en d as
+   die deursnee van die sirkel.
+
+   Die oppervlak van die ruimte binne-in die sirkel kan bereken word met
+   die formule: A = π \cdot r^2
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Keëlsnitte • Meetkunde
+

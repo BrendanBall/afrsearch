@@ -1,0 +1,281 @@
+Tweede Germaanse klankverskuiwing
+
+
+   Klankverskuiwinge in die Germaanse tale
+   Eerste Germaanse klankverskuiwing
+   Wet van Grimm
+   Wet van Verner
+   Tweede Germaanse klankverskuiwing
+   Ingveonismes
+   Sjabloon:Ed
+
+   Die tweede Germaanse klankverskuiwing is 'n klankverskuiwing wat in die
+   suidelike Germaanse tale (as gevolg hiervan ook bekend as die
+   Hoogduitse klankverskuiwing) plaasgevind het. Die klankverskuiwing het
+   waarskynlik tussen die 3de en 5de eeu begin, en was byna voltooi toe
+   die eerste Duitse tekste in die 9de eeu op skrif gestel is. Die
+   verskuiwing het nie in een beweging plaasgevind nie maar in
+   verskillende fases oor verskillende eeue. Die taalverskuiwing het die
+   skeiding tussen Hoogduits (wat weer bestaan uit Opperduits en
+   Middelduits) en Nederduits te weeg gebring. Die lyn (isoglos) wat die
+   Hoogduitse tale van die Nederduitse tale skei staan bekend as die
+   Benrather Lyn.
+
+   Die Benrather Lyn is in werklikheid eintlik eerder 'n bundel
+   verskillende isoglosse. Die verskillende Germaanse tale het almal in
+   verskillende mate die tweede taalverskuiwing deurgemaak, en sommige
+   klankverskuiwinge geld daarom vir byna alle Germaanse tale, en sommige
+   slegs vir enkele. Hoe meer suidooswaarts in Europa die taal gespraat
+   word, des te meer kenmerke van die tweede klankverskuiwing kom daar in
+   die taal voorvoor (Opperduits), en hoe meer noordweswaarts die taal
+   gespraat word des te minder kenmerke van die tweede klankverskuiwing
+   kom daar in die taal voor (Engels). Die meeste klankverskuiwinge, maar
+   nie almal nie, maak deel uit van die huidige Standaardduits, terwyl in
+   westelike Duitse dialekte veel minder klankverskuiwinge voorkom.
+
+   Inhoud
+
+        * 1 Chronologiese volgorde
+             + 1.1 fase 1
+             + 1.2 fase 2
+             + 1.3 fase 3
+             + 1.4 fase 4
+        * 2 Oorsigtabel
+        * 3 Geografiese verspreding
+             + 3.1 Voorbeeldtekste
+
+[wysig] Chronologiese volgorde
+
+   Die klankverskuiwing het waarskynlik in vier fases, waarvoor daar
+   growwe tydskattings gemaak kan word, plaasgevind. Die datering is
+   steeds onder bespreking omdat alle klankverskuiwinge, afgesien van þ→d,
+   voor die ter skrif stelling van 'n Germaanse taal plaas gevind het.
+   Skattings wat hieronder weergegee word is meestal afkomstig van die DTV
+   Atlas zur deutschen Sprache (pag. 63). Soms help historiese feite met
+   die datering; die feit dat Attila die Hun in Duits Etzel genoem word
+   dui aan dat die tweede fase aan die gang moes wees of aan die gebeur
+   tydens die inval van die Hunne in die 5de eeu. Die feit dat sommige
+   Latynse leenwoorde in Duits van klank verskuif het (bv. Latyn
+   strata→Duits Straße) en ander nie (bv. Latyn poena→Duits Pein) maak dit
+   moontlik om die klankverskuiwing te dateer voor of na die waarskynlike
+   invoering van die woord in die Germaanse tale. Mees bruikbaar is egter
+   die aangehaalde Duiste woorde in laat-klassieke en begin-middeleeuse
+   Latynse tekste.
+
+   Presiese datering is baie moeilik omdat een klankverskuiwing begint met
+   'n woord of 'n groep woorde in 'n plaaslike dialek wat vervolgens
+   versprei na ander woorde met dieselfde fonologiese patroon en daarna
+   oor 'n langer tydsbestek stadigaan versprei oor 'n groter geografiese
+   oppervlak.
+
+[wysig] fase 1
+
+   De eerste fase, wat ongeveer in die 4de eeu begin het en alle tale in
+   die hele Hoogduitse taalgebied beïnvloed het, behels die verandering
+   van stemlose plofklanke na verdubbelde (dit wil sê langer uitgesproke)
+   frikatiewe indien in 'n posisie ná 'n klinker, óf tot enkele frikatiewe
+   in die laatste posisie.
+
+          p→ff of laatste f
+          t→zz (latere Duitse ss) of laatste z (s)
+          k→hh (latere Duitse ch)
+
+   Voorbeelde:
+
+          Oud Engels slǽpan : Oud Hoogduits slāfan (Engels sleep, Duits
+          schlafen)
+          OE strǽt : OHD strāzza (Engels street, Duits Straße)
+          OE rīce : OHD rīhhi (Engels rich, Duits reich)
+
+[wysig] fase 2
+
+   Die tweede fase word voltooi in die 8ste eeu en is gekonsentreer op die
+   Allemaniese en Beierse dialekte. In die fase word medeklinkers
+   affrikate van dieselfde klank.
+
+          p→pf (in sommige woorde word dit later f in laaste posisie)
+          t→tz
+          k→kch
+
+   In die volgende kombinasies het die verskuiwing egter nie plaas gevind
+   nie: sp, st, sk, ft, ht, tr.
+
+[wysig] fase 3
+
+   Die derde fase was geografies die mees beperkte. In die tale en
+   dialekte wat aan die klankverskuiwing deelneem word stemhebbende
+   plofklanke stemloos.
+
+          b→p
+          d→t
+          g→k
+
+   Die verskuiwing moet plaasgevind het na die voltooiing van die eerste
+   en tweede fase, anders sou die resulterende stemlose plofklanke verder
+   moes transformeer na frikatiewe en affrikate. Daarom word geglo dat die
+   fase in omtrent die agtste en negende eeu plaasgevind het.
+
+[wysig] fase 4
+
+   Ten laatste verskuif die vierde fase þ→d. Die fase verskil van die
+   ander fase daarin dat dit hier om slegs een klank gaan, en nie 'n reeks
+   klanke nie. Wat ook verskil van die ander fase is dat met die
+   klankverskuiwing ook die meeste Nederduitse tale, waaronder Nederlands
+   (en dus Afrikaans), ook deelneem. Sommige taalkundiges praat daarom
+   eerder van 'n aparte klankverskuiwing buite die tweede Germaanse
+   taalverskuiwings. Die fase moet plaas gevind het na die derde fase,
+   want anders sou die resulterende d verander het tot t.
+
+   De vierde fase was nog nie voltooi toe die eerste tekste in Duits
+   opgestel is nie. Daardeur is daar Oud Hoogduitse voorbeelde te vinden
+   waarin 'n þ geskryf word in plaas van die hedendaags Duitse d. 'n baie
+   bekende voorbeeld hiervan is, ook as gevolg van die vreemde verandering
+   van betekenis is die Oud Hoogduitse thiorna (maagd) → Modern Duits
+   Dirne (Nederlands: deerne. betekenis: hoer). Ander voorbeelde:
+
+          vroeg OHD thaz → klassiek OHD daz (Engels that, Duits das,
+          Nederlands/Afrikaans dat)
+          vroeg OHD thenken → klassiek OHD denken (Engels think, Duits,
+          Nederlands denken, Afrikaans dink)
+          vroeg OHD thegan → klassiek OHD degan (English thane, German,
+          Nederlands Degen)
+          vroeg OHD thurstag → klassiek OHD durstac (English thirsty,
+          German durstig, Nederlands dorstig, Afrikaans dors)
+          vroeg OHD bruather → klassiek OHD bruoder (English brother,
+          German Bruder, (formeel) Nederlands broeder, alledaags
+          Nederlands/Afrikaans broer)
+          vroeg OHD munth → klassiek OHD mund (English mouth, German Mund,
+          Nederlands/Afrikaans mond)
+
+[wysig] Oorsigtabel
+
+   Di gevolge van die klankverskuiwinge kom ten beste aan die lig as
+   woorde uit moderne Duits vergelyk word met onverskuifde Nederlandse of
+   Engelse woorde. Die volgende oorsig is gerangskik volgens die
+   oorsrponklike Indo-Europese foneme. (G=Wet van Grimm; V=Wet van Verner)
+   PIE→Germaans Fase Hoogduitse verskuiwing
+   Germaans→OHD Voorbeelde (Moderne Duits) Eeuw Geografiese verbreiding
+   Standaard
+   Duits?
+   G: *b→*p 1 *p→ff schlafen, Schiff
+   vgl. slaap, schip 4/5 Opper- en Middelduits ja
+   2 *p→pf Pflug, Apfel, Kopf, scharf ^1
+   vgl. ploeg, appel, kop, scherp 6/7 Opperduits ja
+   G: *d→*t 1 *t→zz essen, dass, aus ^2
+   vgl. eten, dat, uit 4/5 Opper- en Middelduits ja
+   2 *t→tz Zeit, Katze
+   vgl. tijd, kat 5/6 Opperduits ja
+   G: *g→*k 1 *k→hh machen, ich
+   vgl. maken, ik 4/5 Opper- en Middelduits ja
+   2 *k→(k)ch Switserse Duits: Chind, Werch
+   vgl. Standaardduits Kind, Werk 7/8 Beiers/Allemannies nee
+   G: *b^h→*b
+   V: *p→*b 3 *b→p Beiers: perg, pist
+   vgl. Duits Berg, bist "bent" (in: "jij bent") 8/9 Beiers/Allemannies
+   nee
+   G: *d^h→*d
+   V: *t→*d 3 *d→t Tag, Vater
+   vgl. dag, vader 8/9 Opperduits ja
+   G: *g^h→*g
+   V: *k→*g 3 *g→k Beiers: Kot
+   vgl. Duits Gott "God" 8/9 Beiers/Allemannies nee
+   G: *t→þ 4 þ→d Dorn, Distel, durch, drei, Bruder
+   vgl. Engels: thorn, thistle, through, three, brother 8/9 In Duits en
+   Nederlands ja
+
+   (Aantekeninge: ^1 Oud Hoogduits scarph, Middel Hoogduits scharpf. ^2
+   Oud Hoogduits ezzen, daz, ūz.
+
+[wysig] Geografiese verspreding
+
+   Dialekte en isoglosse van die Rheinischer Fächer
+   (Gerangskik van noord na suid: dialekte in donkler velde, isoglosse in
+   ligte velde)
+   Isoglos Noord Suid
+   Nederduits
+   Uerdinger Lyn (Uerdingen) ik ich
+   Düsseldorfer Platt (Limburgisch-Bergisch)
+   Benrather Lyn
+   (Grens: Nederduits - Middelduits) maken machen
+   Ripuaries (Kölsch, Bönnsch, Öcher Platt)
+   Bad Honnef lyn
+   (Staatgrens NRW-RP) (Eifel-Schranke) Dorp Dorf
+   Luxemburgisch
+   Linz-lyn (Linz am Rhein) tussen zwischen
+   Bad Hönningen lyn op auf
+   Koblenzer Platt
+   Boppard-lyn (Boppard) Korf Korb
+   Sankt Goar-lyn (Sankt Goar)
+   (Hunsrück-Schranke) dat das
+   Rheinfränkisch (e.g. Pfälzisch, Frankfurterisch)
+   Speyer lyn (Rivier Main lyn)
+   (Grens: Middelduits - Opperduits) Appel Apfel
+   Opperduits
+
+   'n Mens kan rofweg sê dat die veranderinge in fase 1 Opper- en
+   Middelduits beïnvloed het, die van fase 2 en 3 slegs Opperduits, en die
+   van fase 4 die hele Duitse en Nederlandssprekende gebied. Die algemeen
+   aanvaarde grens tussen Middel- en Nederduits is die maken-machen lyn,
+   of Benrather lyn, wat deur die Düsseldorf voorstad Benrath loop, terwyl
+   die hoofgrens tussen Middel- en Opperduits, die Appel-Apfel lyn of die
+   Speyer lyn is, wat naby die dorp Speyer, sowat 200 kilometer verder
+   suid, loop.
+
+   'n Presiese beskrywing van die geografiese strekking van die
+   veranderinge is egter meer ingewikkeld. Individuele klankverskuiwings
+   binne 'n fase varieer egter nie net in terme van hulle verspreiding nie
+   (fase 3 affekteer byvoorbeeld gedeeltelik die hele Opperduits en
+   gedeeltelik slegs die mees suidelike dialekte in Opperduits), maar daar
+   is selfs effense variasies van woord tot woord in die verspreiding van
+   die klankverskuiwing. Die ik-ich lyn lê byvoorbeeld verder noord as die
+   maken-machen lyn, al vertoon beide die selfde /k/→/x/ verskuiwing.
+   Verder kan die lyn met die tyd verskuif. Sedert die Duitse-hereniging
+   is 'n noordwaartse beweging van die oostelike punt van die Benrather
+   lyn waargeneem.
+
+   Die verdeling van Wes-MiddFor a map of the boundaries elduits in 'n
+   reeks dialekte volgens die verskillende mate waartoe die fase 1
+   verskuiwings uitgepreek word is veral opmerklik. Dit staan in Duits as
+   die Rheinischer Fächer ("Rynse waaier") bekend omdat die grense van die
+   dialekgrense op 'n kaart 'n waaier vrom aanneem. Hier loop nie minder
+   as agt isoglosse rofweg van Wes na Oos om gedeeltelik saam te vloei in
+   'n eenvoudiger stelsel van grense in Oos-Middelduits. Die tabel na regs
+   gee 'n lys van die isoglosse (vetgedruk) en die hoof dialekte
+   (skuinsgedruk) wat daaruit voortspruit van noord na suid gerangskik.
+
+   Vir 'n kaart van die grense van 'n aantal sleutel klanke sien die
+   eksterne skakels:
+   Algemene kaart
+   Rheinischer Fächer
+
+[wysig] Voorbeeldtekste
+
+   As 'n voorbeeld van die gevolge van die verskuiwing kan die volgende
+   twee tekste uit die laat Middeleeue vergelyk word. Links is 'n
+   Middel-Nederduitse sitaat van die Sachsenspiegel (1220), wat nie de
+   verskuiwing ondergaan het nie, en regs dieselfde teks van die
+   Middelhoogduitse Deutschenspiegel (1274), waarin klankverskuiwing wel
+   ter sprake is.
+   Sachsenspiegel Deutschenspiegel
+   De man is ok vormunde sines wives,
+   to hant alse se eme getruwet is.
+   Dat wif is ok des mannes notinne
+   to hant alse se in sin bedde trit,
+   nach des mannes rehte. Der man ist auch vormunt sînes wîbes
+   zehant als si im getriuwet ist.
+   Daz wîp ist auch des mannes genozinne
+   zehant als si an sîn bette trit
+   na des mannes dode is se ledich van des mannes rechte.)
+
+          (Vertalingen:
+          Sachsenspiegel: "De man is ook beschermer van zijn vrouw / zodra
+          zij getrouwd is met hem. / De vrouw is ook de metgezel van de
+          man / zodra ze naar zijn bed gaat / volgens de rechten van de
+          man."
+          Deutschenspiegel: "De man is ook beschermer van zijn vrouw /
+          zodra zij getrouwd is met hem. / De vrouw is ook de metgezel van
+          de man / zodra ze naar zijn bed gaat / Na de dood van de man is
+          ze vrij van de rechten van de man.")
+
+   Kategorieë: Germaanse tale • Fonologie • Historiese taalkunde
+

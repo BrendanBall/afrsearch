@@ -1,0 +1,25 @@
+Speelkaart
+
+
+   'n Stel van 52 speelkaarte
+   'n Stel van 52 speelkaarte
+
+   Speelkaarte is tipies handgrootte stukke papier wat met dun plastiek
+   oorgetrek is. 'n Pak kaarte bestaan uit 52 unieke kaarte. Een of meer
+   pakke kaarte word gebruik in 'n verskeidenheid van kaartspeletjies,
+   sommige wat dobbelary insluit.
+
+   Die gesig van elke kaart is uniek en bepaal watter kaart dit is. Die
+   agterkant van elke kaart is identies en word gewoonlik gebruik vir
+   bemarking van die vervaardiger van die pak speelkaarte.
+
+   In die meeste kaartspeletjies word die kaarte deurmekaar gemaak deur 'n
+   proses wat skommel genoem word. 'n Aantal kaarte word dan aan elke
+   speler gedeel waarna elke speler na die gesig van sy kaarte sal kyk en
+   die ander spelers slegs die agterkant van die ander spelers se kaarte
+   kan sien.
+
+   Die wyse hoe die kaarte in elke kaartspeletjie gebruik word, word
+   bepaal deur die reëls van elke kaartspeletjie.
+   Kategorie: Kaartspeletjies
+

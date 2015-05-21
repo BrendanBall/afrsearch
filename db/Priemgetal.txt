@@ -1,0 +1,20 @@
+Priemgetal
+
+
+   In wiskunde is 'n priemgetal 'n natuurlike getal groter as 1 waarvan
+   die enigste positiewe delers 1 asook die getal self is. Alternatiewelik
+   is 'n priemgetal 'n natuurlike getal met presies net twee natuurlike
+   delers.
+
+   'n Natuurlike getal wat nie 'n priemgetal is nie, word 'n saamgestelde
+   getal genoem.
+
+   Die getalle nul en een is uitsonderings op die bogenoemde reëls en is
+   nie priemgetalle nie en ook nie saamgestelde getalle nie.
+
+   Die reeks van priemgetalle begin sò:-
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41...
+
+   Die getal twee is die enigste ewe getal wat ook 'n priemgetal is.
+   Kategorie: Getalle
+

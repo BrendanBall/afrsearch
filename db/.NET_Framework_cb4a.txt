@@ -1,0 +1,198 @@
+.NET Framework
+
+
+   Die Microsoft .NET Framework is 'n sagtewarekomponent wat deel vorm van
+   die Microsoft Windows bedryfstelsel. Dit bestaan uit 'n groot
+   versameling van voorafgeskrewe oplossings tot algemene programvereistes
+   en bestuur die uitvoer van programme wat spesifieke ontwikkel is vir
+   die raamwerk. Die .NET Framework is een van Microsoft se
+   kernaanbiedinge en is die gedagte is dat dit gebruik sal word deur die
+   meeste nuwe toepassings wat vir die Windows platvorm ontwikkel word.
+
+   Die voorafgeskrewe oplossings wat deel vorm van die raamwerk se Basis
+   klasversameling dek 'n wye verskeidenheid programmeringsbehoeftes op
+   gebiede wat onder ander insluit: gebruikerskoppelvlak, datatoegang,
+   Databasisverbinding, kriptografie, webtoepassing-ontwikkeling,
+   numeriese algoritmes en netwerkkommunikasie. Die klasversameling word
+   deur programmeerders saam met hulle eie bronkode gebruik om toepassings
+   te skep.
+
+   Programme wat geskryf is vir die .NET Framework loop in 'n
+   sagtewareomgewing wat die program se vereistes tydens uitvoering
+   beheer. Hierdie omgewing wat ook deel is van die .NET Framework, staan
+   bekend as die Common Language Runtime (CLR). Die CLR verskaf 'n
+   virtuele masjien vir toepassings sodat programmeerders nie die vermoë
+   van 'n spesifieke SVE in gedagte hoef te hou nie. Die CLR verskaf ook
+   ander belangrike dienste soos sekuriteitsmeganismes, geheuebestuur en
+   fouthantering. Die klasversameling en die CLR maak saam die .NET
+   Framework uit.
+
+   Die .NET Framework word ingesluit by Windows Server 2003, Windows
+   Server 2008 en Windows Vista en kan op die meeste ouer weergawes van
+   Windows geïnstalleer word indien nodig.
+
+   Inhoud
+
+        * 1 Ontwerpsdoelwitte en hoofkenmerke
+        * 2 Argitektuur
+             + 2.1 CLI
+             + 2.2 Assemblies
+             + 2.3 Metadata
+             + 2.4 Klasversameling
+             + 2.5 Sekuriteit
+        * 3 Verwysings en Voetnotas
+
+[wysig] Ontwerpsdoelwitte en hoofkenmerke
+
+   Microsoft .NET Framework is ontwerp met verskeie doelwitte voor oë:
+     * Versoenbaarheid - Omdat interaksie tussen nuwer en ou toepassings
+       dikwels vereis word, verskaf die .NET Framework die middele om
+       toegang te verkry tot funksionaliteit wat in programmme buite die
+       .NET omgewing geïmplementeer is. Toegang tot COM-komponente word
+       verskaf vanaf die System.Runtime.InteropServices- en
+       System.EnterpriseServices naamruimtes van die raamwerk en toegang
+       tot ander funksionaliteit word verskaf deur gebruik te maak van die
+       Platform Invocation Services kenmerke.
+     * Common Runtime Engine - Programmeertale op die .NET Framework
+       vertaal na 'n intermediêre taal, wat bekend staan as die Common
+       Intermediate Language. in Microsoft se implementering word hierdie
+       taal nie geïnterpreteer nie maar eerder vertaal op 'n wyse wat
+       bekend staan as just-in-time vertaling na moederkode (native code).
+       Die kombinasie van hierdie begrippe staan bekend as 'n Common
+       Language Infrastructure (CLI) spesifikasie; Microsoft se
+       implementering van die CLI staan bekend as die Common Language
+       Runtime (CLR).
+     * Rekenaartaalonafhanklikheid - Die .NET Framework stel 'n Common
+       Type System of CTS bekend. Die CTS spesifikasie definieer alle
+       moontlike datatipes en programmeringskonstrukte wat deur die CLR
+       ondersteun word en hoe hulle mag of nie met mekaar mag interaksie
+       hê nie. Vanweë hierdie kenmerk ondersteun die .NET Framework
+       ontwikkeling in 'n verskeidenheid rekenaartale.
+     * Basisklasversameling - Die Base Class Library (BCL) deel van die
+       Framework Class Library (FCL) is 'n versameling van funksionaliteit
+       wat aan alle tale beskikbaar gemaak word wat die .NET Framework
+       gebruik. Die BCL verskaf klasse wat 'n aantal algemene funksies
+       verpak insluitende die lees en skryf van rekenaarlêers, die
+       verbeelding van grafika, databasis-interaksies en die manipulasie
+       van XML-dokumente.
+     * Vereenvoudigde Ontplooiïng - Die installeer van
+       rekenaarprogrammatuur moet versigtig bestuur word om te verseker
+       dat dit nie inmeng met voorheen geïnstalleerde sagteware nie en dat
+       dit voldoen aan die toenemende streng sekuriteitsvereistes. Die
+       .NET Framework sluit ontwerpskenmerke en hulpmiddele in wat help om
+       hierdie vereistes aan te spreek.
+     * Sekuriteit - Die ontwerp is bedoel om sommige van die kwesbaarhede
+       aan te spreek soos onder andere bufferoorloop, wat al voorheen
+       uitgebuit is deur kwaadwillige sagteware. Verder verskaf .NET 'n
+       gemene sekuriteitsmodel vir alle toepassings.
+     * Oordraagbaarheid - 'n Ontwerpsdoelwit van die .NET Framework is om
+       neutraal ten opsigte van sy platvorm te wees en dus kruisplatvorm
+       versoenbaar te wees. Dit wil sê die program wat geskryf is om die
+       raamwerk te gebruik behoort op enige stelsel te kan werk waar die
+       raamwerk geïmplementeer is. Microsoft se kommersiële
+       implementerings van dié raamwerk dek tans Windows, Windows CE en
+       die Xbox 360.^[1] Microsoft lê ook die spesifikasies vir die Common
+       Language Infrastructure (wat die kern klasversameling, Common Type
+       System en die Common Intermediate Language insluit)^[2]^[3]^[4]
+       asook die C#^[5] en die C++/CLI^[6] rekenaartale aan beide ECMA en
+       die ISO voor, wat hulle as oop standaarde beskikbaar maak. Dit maak
+       dit dus moontlik vir derde partye om versoenbare implementerings
+       van die raamwerk en sy tale op ander platvorms te ontwikkel.
+
+[wysig] Argitektuur
+
+[wysig] CLI
+
+   Die kern van die .NET Framework lê in wese by die Common Language
+   Infrastructure of CLI. Die doel van die CLI is om 'n neutrale platvorm
+   ten opsigte van rekenaartale daar te stel vir die ontwikkeling van
+   toepassings, die uitvoer van programme insluite funksies wat
+   fouthantering, geheuebestuur, sekuriteit en versoenbaarheid in die hand
+   werk. Microsoft se implementering van die CLI word die Common Language
+   Runtime of CLR genoem.
+
+   Die CLR bestaan uit vier primêre onderdele:
+     * Common Type System (CTS)
+     * Common Language Specification (CLS)
+     * .NET metadata
+     * Virtual Execution System (VES)
+
+[wysig] Assemblies
+
+   Die intermediêre CIL-kode word in .NET assemblies gehuisves. Die
+   spesifikasie skryf voor dat assemblies in die Portable
+   Execution-formaat gestoor word, wat dieselfde is vir alle DLL en EXE
+   lêers op die Windows bedryfstelsel. Die assembly bestaan uit een of
+   meer lêers maar elkeen moet die manifes bevat wat die metadata vir die
+   assembly bevat. Die volledige naam van die assembly bevat sy eenvoudige
+   teksnaam, weergawe nommer, kultuur en publiekesleutel datagreep. Die
+   publiekesleutel datagreep bevat 'n unieke hash wat geskep word wanneer
+   die assembly gekompileer word; dus sal twee assemblies met dieselfde
+   publieke sleutel datagreep gewaarborg wees om identies te wees. 'n
+   Privaatsleutel kan ook gespesifiseer word wat slegs aan die skepper van
+   die assembly bekend is en kan gebruik word om te waarborg dat die
+   assembly afkomstig is vanaf dieselfde skrywer wanneer 'n nuwe weergawe
+   van die assembly saamgestel word.
+
+[wysig] Metadata
+
+   Die CIL is selbeskrywend deur .NET metadata. Die CLR gaan die metadata
+   na om te verseker dat die korrekte metode geroep word. Metadata word
+   gewoonlik geskep deur die taalsamestellers (compilers) maar
+   ontwikkelaars kan hulle eie metadata skep deur hul eie kenmerke
+   (attributes) te definieer. Metadata bevat ook inligting oor die
+   assembly. Metadata word ook gebruik om die reflektiewe
+   programmeringsvermoëns van die .NET Framework te implementeer.
+
+[wysig] Klasversameling
+
+   Die Basis klasversameling (Base Class Library of BCL) is 'n versameling
+   van klasse wat aan alle tale beskikbaar is deur die .NET Framework. Die
+   BCL verskaf klasse wat 'n aantal algemene funksies verpak soos die
+   lees- en skryf van lêers, verbeelding van grafika, databasisinteraksie,
+   manipulasie van XML-dokumente ensovoorts.
+
+[wysig] Sekuriteit
+
+   .NET het sy eie sekuriteitsmeganisme wat twee algemene kenmerke
+   insluit: Code Access Security (CAS) asook kontrole en
+   geldigheidsversekering. Code Access Security is gebaseer op bewyse wat
+   verbind word met 'n spesifieke assembly. Die bewyse is tipies die bron
+   van die assembly. Code Access Security gebruik bewyse om die
+   toestemming wat aan die kode verleen word vas te stel. Ander kode kan
+   vereis dat die kode wat dit aanvra 'n spesifieke toestemming moet hê.
+   Die aanvraag veroorsaak dat die CLR 'n call stack walk uitvoer, elke
+   assembly word nagegaan om te verseker dat elke metode in die call stack
+   die vereiste toestemming het en indien die toestemming nie verleen is
+   nie word 'n sekuriteitsfout gegenereer.
+
+   Wanneer 'n assembly gelaai word, onderneem die CLR 'n verskeidenheid
+   toetse. Twee sulke toetse is geldigheidsversekering en kontrolering.
+   Tydens die geldigheidsversekeringstoets maak die CLR seker dat die
+   assembly geldige metadata en CIL bevat en maak seker dat die interne
+   tabelle korrek is. Kontrole is nie so noukeurig nie. Die
+   kontrolemeganisme gaan na om te sien of die kode enigiets doen wat
+   onveilig is. Die algoritme wat gebruik word is nogal konserwatief en
+   kan soms veroorsaak dat veilige kode afgekeur word. Onveilige kode sal
+   slegs uitgevoer word as die assembly die skip verification toestemming
+   gegee is, wat gewoonlik beteken dat die kode op 'n plaaslike masjien
+   geïnstalleer is.
+
+[wysig] Verwysings en Voetnotas
+
+    1. ^ Microsoft het ook voorheen implementerings van .NET 1.0 vrygestel
+       wat op Unix-gebaseerde platvorms kon werk soos FreeBSD en ook op
+       Mac OSX, maar lisensievereistes het die gebruik daarvan beperk tot
+       opvoedkundige gebruik en is die implementerings nie meer sedert
+       .NET 1.1 beskikbaar nie.
+    2. ^ ECMA 335 - Standaard ECMA-335 Common Language Infrastructure
+       (CLI), 01-06-2006, nagegaan op 19-12-2007, ECMA
+    3. ^ ISO/IEC 23271:2006
+    4. ^ Tegniese Verslag TR/84 Common Language Infrastructure (CLI) -
+       Inligting vanaf Deel IV XML Lêer, 01-06-2006, ECMA
+    5. ^ ECMA-334 C# Rekenaartaalspesifikasie, 01-06-2006, ECMA
+    6. ^ Standaard ECMA-372 C++/CLI Rekenaartaalspesifikasie, 01-12-2005,
+       ECMA
+
+   Kategorie: Sagteware
+

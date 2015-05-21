@@ -1,0 +1,100 @@
+Eland
+
+
+                        Eland
+   Bedreigingstatus: Van beskerming afhanklik
+   Tydperk: {{{fossil_range}}}
+   Eland
+   Eland
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bovidae
+     Subfamilie:   Bovinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Taurotragus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     T. oryx
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Taurotragus oryx
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Eland, (Taurotragus oryx), ook Kaapse Eland of Kleinere Eland, is
+   'n wildsbok wat op savannas in Oos-Afrika en Suidelike Afrika aangetref
+   word.
+
+   Die eland se skouerhoogte is ongeveer twee meter en hulle kan enigiets
+   van 300 tot 1,000 kilogram weeg. Dit maak die eland die grootste van
+   die boksoorte. Elandbulle is gewoonlik donkerbruin of grys, terwyl
+   elandkoeie bruin of ligbruin is. Elande het dikwels ook 'n wit streep
+   vertikaal oor die lyf aan albei kante. Beide die bul en koei het reguit
+   horings wat ongeveer 65 sentimeter lank kan wees. Die koei se horings
+   is gewoonlik langer maar dunner.
+
+   Elande eet gras, takke en blare. Hulle leef gewoonlik in troppe van
+   dertig tot tagtig, maar groter troppe van by die vierhonderd is al
+   aangetref. Ten spyte van hul grootte, kan 'n eland maklik oor 'n
+   heining van 1.5 m spring sonder 'n aanloop.
+
+   Elande kan hulself goed verdedig teen roofdiere en is in staat om selfs
+   'n leeu te dood. Dit is waarskynlik die rede hoekom elande 'n mistieke
+   of spirituele kwaliteit verkry het deur die geskiedenis. Elande is
+   algemeen in rotskuns uitgebeeld, wat aandui dat hulle gesien is as
+   diere met 'n sterk verbintenis tot 'n ander wêreld. Elandvet is ook
+   gebruik in die teken van rotskuns en ook in die maak van medisyne.
+
+   Die vroeëre reisigers na die Kaap het geglo die eland en die eenhoring
+   is verwant, waarskynlik omdat sommige reisigers aangeteken het dat
+   eenhoring-elande in die Kaap voorgekom het. Daar is ook die geval van
+   'n horing in die McLeodkasteel in Skotland wat as die horing van 'n
+   eenhoring bewaar is, maar later identifiseer is as die horing van 'n
+   eland.
+
+[wysig] Sien ook
+
+     * Lys van Suider-Afrikaanse soogdiere
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+     * Suider-Afrikaanse soogdiere en hul ordes
+
+[wysig] Eksterne skakels
+
+     * Eland: Beskrywing deur die African Wildlife Foundation
+
+   Kategorie: Soogdiere
+

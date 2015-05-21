@@ -1,0 +1,40 @@
+Celestia
+
+
+   Jupiter
+   Jupiter
+   Saturnus
+   Saturnus
+
+   Celestia is 'n 3D-astronomieprogram vir Windows, Mac OS X en Linux
+   ontwikkel deur Chris Laurel. Die program word gelisensieer onder die
+   GPL en is Vrye Sagteware. Die program maak dit moontlik om voorwerpe
+   van die grootte van die internasionale ruimtestasie (ISS) tot
+   sterrestelsels net soos die melkweg, driedimensioneel te simuleer. Die
+   program gebruik OpenGL as 3D-biblioteek.
+
+[wysig] Funksies
+
+     * "Toergids"
+     * Die tyd kan gestel word beide in die toekoms en in die verlede.
+     * Konstelasies en wentelbaane van planete, mane, asteroïdes en
+       satelliete kan vertoon word.
+     * Name van die heelalvoorwerpe word vertoon.
+     * Name van stede, berge, mere, landingpunte word vertoon.
+     * Kennisgewings van die radius, afstande, die lengte van die dag en
+       die temperatuur van die planete word vertoon.
+     * Die skerm kan verdeel word om meerdere voorwerpe gelyktydig waar te
+       neem.
+
+[wysig] Ekserne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Celestia
+     * http://www.shatters.net/celestia/
+     * http://www.celestiamotherlode.net/
+     * http://en.wikibooks.org/wiki/Celestia
+
+   Kategorie: Toepassingsagteware
+

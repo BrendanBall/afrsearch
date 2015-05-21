@@ -1,0 +1,110 @@
+Genetika
+
+
+   Genetika of erflikheidsleer is 'n deel van biologie wat die studie
+   behels van erflike eienskappe: die aangebore verskille en ooreenkomste
+   tussen opeenvolgende generasies. In 1865 publiseer Gregor Mendel die
+   resultate van sy ondersoek na die oorerwing van verskillende eienskappe
+   van ertjies. Die publikasie verdwyn in die vergetenheid, maar word in
+   1901 herontdek deur Hugo de Vries, Carl Correns, en Erich von
+   Tschermak. Die reëls vir oorerwing wat Mendel in sy ondersoek beskryf
+   het, staan nou bekend as die Wette van Mendel. Enkele jare daarna word
+   chromosome geïdentifiseer as die fisiese draers van erflike eienskappe.
+   Die ontdekking lei tot die ontstaan van die neo-Darwinisme, waarin die
+   evolusieteorie van Charles Darwin 'n fisiese basis kry. Die gene is
+   geleë op die chromosome.
+
+   Inhoud
+
+        * 1 Klassieke genetika
+        * 2 Molekulêre genetika
+        * 3 Kliniese genetika
+        * 4 Genetiese manipulasie
+        * 5 Genomika
+        * 6 Enkele begrippe uit die genetika
+        * 7 Homosigoot en heterosigoot
+        * 8 Dominant en resessief
+
+[wysig] Klassieke genetika
+
+   Klassieke genetika verwys na die oorerfingsreëls wat bekend was voor
+   die ontrafeling van die chemiese struktuur van DNS en die ontwikkeling
+   van die molekulêre biologie. Die reëls van die Wette van Mendel het
+   verskynsels beskryf en nie begrippe soos mutasie, oorkruising en
+   rekombinasie. Die wette van die klassieke genetika verklaar verskynsels
+   sonder die begrip van die molekulêre basis van chromosome en DNS.
+
+[wysig] Molekulêre genetika
+
+   (Sien die artikel molekulêre genetika). Die ontdekking van die
+   struktuur van DNS deur James D. Watson en Francis Crick in 1953 lei die
+   opkoms van molekulêre genetika in. 'n Onderwerp wat ondersoek word is
+   die (molekulêre) meganisme van die geen uitdrukking. Dus word
+   byvoorbeeld vrae gevra soos waarom in selle verskillende weefsels van
+   die selfde individu (met die selfde gene) tot uitdrukking kom. Die
+   proses van uitdrukking van gene verloop via transkripsie (uitlese van
+   DNS na RNS) na die produksie van proteïene (sien ook genetiese kode).
+
+[wysig] Kliniese genetika
+
+   Kliniese genetika is 'n tak binne die mediese wetenskap wat risiko
+   bepaling van erflike siektes bestudeer. Deur middel van DNS toetse
+   meestal in kombinasie met analisering van familie stambome kan 'n
+   eventuele kliniese siekte beeld vastgestel word vir hoe groot die kans
+   is dat 'n pasiënt 'n bepaalde siekte sal kry in die toekoms. Veral by
+   oorerflike vorms van borskanker en dêrmkanker kan die risiko moontlik
+   goed bepaal word en kan 'n pasiënt ondersoek word vir die voorkoming
+   van 'n siekte. As die siekte inderdaad vasgestel kan word kan dit in 'n
+   vroeë stadium behandel word. Net so speel die kliniese genetika 'n
+   belangrike rol by prenatale diagnostiek. Mense wat weet dat hulle 'n
+   oorerflike siekte het of dit waarskynlik is dat hulle 'n geen dra wat
+   daartoe kon lei dat een van hulle kinders siek word kan hulle in die
+   eerste helfte van 'n swangerkap 'n DNS-toets laat doen op weefsel wat
+   afkomstig is van die ongebore kind. Ouers kan dan besluit of hulle die
+   swangerkap wil beëindig.
+
+[wysig] Genetiese manipulasie
+
+   (sien artikel Genetiese manipulasie). Met genetiese manipulasie word 'n
+   proses aangedui waarby bewustelike kunsmatige genetiese veranderinge in
+   'n organisme aangebring word.
+
+[wysig] Genomika
+
+   In genomika is die totale genoom (genepakkies) van een organisme die
+   onderwerp van ondersoek. Dus moet die totale genoom van die organisme
+   op 'n kaart aangebring word. Dit het gebeur met die mens genoom in die
+   menslike-genoom-projek.
+
+[wysig] Enkele begrippe uit die genetika
+
+   haploide, diploide en polyploide
+
+   Organisme het in die algemeen 'n dubbele stel chromosome: 'n Stel van
+   beide ouers. So 'n organisme noem 'n mens diploid. 'n Voortplantings
+   sel (gameet) het slegs één stel chromosome en word haploid genoem .
+   Daar bestaan ook organisme waarvan die selle meer as twee stelle
+   chromosome het. Byvoorbeeld triploid, tetraploid, hexaploid en
+   octoploid selle. Dit noem 'n mens polyploid. By die gekweekte
+   suikerbeet is daar byvoorbeeld naas diploid ook triploid rasse. Die
+   gekweekte aartappel is tetraploid en die gekweekte aarbei octoploid.
+
+[wysig] Homosigoot en heterosigoot
+
+   Omdat daar in diploid organisme 'n dubbele stel chromosome aanwesig is,
+   is daar van elke geen twee stringe aanwesig. Dit kan wees dat beide
+   gene identies is. Dan is die organisme homosigoot vir die eienskap op
+   daardie geen. As beide gene vir die eigenskap verskil is dit
+   heterosigoot. Vir één geen kan 'n aantal variteite bestaan. Die
+   variteite van die selfde geen word allele genoem.
+
+[wysig] Dominant en resessief
+
+   As 'n organisme heterosygoot is (twee verskillende gene het) Dan kan
+   een of die ander verskyn. As daar 'n geen vir rooi blomme en 'n geen
+   vir wit blomme is. Maar as die gene kodominant is kan die blomme pink
+   wees. Maar dit kan ook wees dat één van die twee gene die ander
+   volledig oorheers (byvoorbeeld rooi blomme). Die oorheersende geen word
+   dan dominant en die ander geen resessief genoem.
+   Kategorie: Genetika
+

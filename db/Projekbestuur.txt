@@ -1,0 +1,496 @@
+Projekbestuur
+
+
+   Projekbestuur is die dissipline wat hom bemoei met die organisering en
+   bestuur van hulpbronne op so 'n wyse dat hierdie hulpbronne ál die werk
+   lewer wat vereis word om 'n projek binne die bepaalde werksomvang, tyd-
+   en kostebeperkings te voltooi. 'n Projek word gesien as 'n tydelike en
+   eenmalige poging om 'n unieke produk of diens te skep. Die feit dat dit
+   eenmalig en tydelik is onderskei dit van prosesse of bedrywe wat
+   permanente of semi-permanente voortdurende funksionele werk is om
+   dieselfde produk of diens oor-en-oor te vervaardig. Die bestuur van
+   hierdie twee stelsels is dikwels baie verskillend en vereis anderste
+   tegniese vaardighede en filosofie, wat dus die ontwikkeling van
+   projekbestuur as 'n dissipline opsigself noodsaak.
+
+   Die eerste uitdaging van projekbestuur is om te verseker dat 'n projek
+   gelewer word binne die raamwerk van die bepaalde beperkinge. Die
+   tweede, meer ambisieuse, uitdaging is die optimale toekenning van
+   hulpbronne en die integrasie van hierdie insette benodig om die
+   voorafbepaalde doelwitte te bereik. Die projek is daarom 'n versigtig
+   gekose stel aktiwiteite wat gekies word met die doel om die hulpbronne
+   (tyd, geld, mense, materiale, energie, ruimte, voorrade, kommunikasie,
+   kwaliteit, risiko ens.) sodanig in te span dat die voorafbepaalde
+   doelwitte bereik word.
+
+   Inhoud
+
+        * 1 Die Projekbestuurder
+        * 2 Die Projekdriehoek
+             + 2.1 Tyd
+             + 2.2 Koste
+             + 2.3 Werksomvang
+        * 3 Projekbestuursaktiwiteite
+        * 4 Projekbestuursdokumentasie
+        * 5 Projekbeheer veranderlikes
+        * 6 Geskiedenis van Projekbestuur
+        * 7 Benaderinge
+             + 7.1 Die tradisionele benadering
+             + 7.2 Kritieke pad
+             + 7.3 Prosesgebaseerde (flinke) bestuur
+        * 8 Projekstelsels
+             + 8.1 Projekbeheerstelsels
+             + 8.2 Ontwikkelingsfases
+                  o 8.2.1 Aanvangsfase
+             + 8.3 Beplanning en ontwerp
+             + 8.4 Produksie of uitvoering
+             + 8.5 Afsluiting en onderhoud
+        * 9 Projekbestuur - Korporatiewe Standaarde
+        * 10 Projekbestuursverenigings
+             + 10.1 Internasionale Standaarde
+        * 11 Sien ook
+        * 12 Literatuurverwysings
+        * 13 Eksterne skakels
+
+[wysig] Die Projekbestuurder
+
+   Pojekbestuur is dikwels die verantwoordelikheid van 'n enkele
+   projekbestuurder. Hierdie indiwidu neem selde direk aan die aktiwiteite
+   deel wat die eindproduk lewer, maar strewe eerder daarna om die
+   vordering en onderlinge produktiewe samewerking van die verskeie partye
+   op so 'n manier te bevorder dat die algehele risiko vir mislukking
+   verminder word.
+
+   Enige tipe produk of diens – geboue, voertuie, elektronika,
+   rekenaarsagteware, finansiële dienste ens. - se implementering kan deur
+   'n projekbestuurder hanteer word en die bedryf daarna deur 'n
+   produkbestuurder.
+
+[wysig] Die Projekdriehoek
+
+   Soos enige menslike onderneming, is die uitvoer van projekte onderhewig
+   aan sekere beperkinge. Tradisioneel is hierdie beperkinge gelys as:
+   omvang, tyd en koste. Ander verfyn die model verder deur
+   produkkwaliteit en/of werkverrigting in die werksomvang van mekaar te
+   onderskei en dit dus in 'n vierkantige model verander.
+
+   Die tydbeperkinge verwys na die hoeveelheid tyd wat beskikbaar is om 'n
+   projek te voltooi. Die kostebeperking verwys na die begrote hoeveelheid
+   fondse wat beskikbaar is vir die projek. Die beperking op werksomvang
+   verwys na die werk wat gedoen moet word om die projek te voltooi.
+   Hierdie beperkinge is dikwels strydig met mekaar: 'n vergrote
+   werksomvang beteken gewoonlik dat die tyd en geld vir die projek
+   vermeerder moet word, as min tyd beskikbaar is vir die uitvoer van die
+   projek, beteken normaalweg dat meer geld gespandeer sal moet word en
+   die werksomvang verminder moet word en 'n klein begroting beteken dat
+   die tyd vermeerder sal moet word en die werksomvang verminder sal moet
+   word. Projekbestuur as vakgebied behels die verskaffing van die
+   gereedskap en tegnieke wat die projekspan (nie alleen die
+   projekbestuurder nie) in staat stel om hul werk te organiseer sodat
+   hulle hul werk binne die gegewe beperkinge suksesvol kan uitvoer.
+
+[wysig] Tyd
+
+   Die tyd word vir analitiese redes opgebreek in die tyd wat vereis word
+   om die komponente van die projek te voltooi en dan weer verder
+   afgebreek na die tyd wat vereis word vir elke taak wat bydra tot die
+   voltooiïng van daardie betrokke komponent.
+
+[wysig] Koste
+
+   Die koste verbonde aan die ontwikkeling van 'n projek hang af van
+   verskeie veranderlikes wat hoofsaaklik insluit: lone, materiaalkostes,
+   risikobestuur, aanlegte (geboue, masjiene ens.), toerusting en wins.
+
+[wysig] Werksomvang
+
+   Die werksomvang spesifiseer die eindresultaat. Die oorhoofse definisie
+   van wat die projek veronderstel is om te bereik en 'n spesifieke
+   beskrywing van wat die resultaat moet wees. 'n Belangrike komponent van
+   die omvang is die kwaliteit van die finale produk. Die hoeveelheid tyd
+   wat belê word om die indiwiduele take te voltooi, speel gewoonlik 'n
+   belangrike rol in die uiteindelike kwaliteit van die oorhoofse projek.
+   Sommige take kan in 'n sekere tyd bevredigend voltooi word, maar kan
+   dalk met meer tyd buitengewoon goed afgehandel word. Oor die tydsduur
+   van 'n groot projek, kan kwaliteit 'n betekenisvolle impak op die
+   tydsduur en koste van 'n projek hê (en ook andersom).
+
+[wysig] Projekbestuursaktiwiteite
+
+   Projekbestuur bestaan uit verskeie soorte aktiwiteite soos onder
+   andere:
+    1. Beplanning van die werk en doelwitte
+    2. Analise en Ontwerp van doelwitte
+    3. Risikobepaling en -voorkoming
+    4. Raming van benodigde hulpbronne
+    5. Die toeken van hulpbronne
+    6. Organisering van die werk
+    7. Die aanskaf van materiële- en menslike hulpbronne
+    8. Die taakverdeling
+    9. Die bestuur van aktiwiteite
+   10. Die beheer van projekuitvoering
+   11. Die tredhou van en verslagdoening oor vordering
+   12. Die analiseer van die resultate bereik, gebaseer op die feite
+
+[wysig] Projekbestuursdokumentasie
+
+   Alle suksesvolle projekte lewer bevredigende dokumentasie oor doelwitte
+   en aflewerbares. Hierdie dokumente is 'n meganisme om te verseker dat
+   diegene wat die projek onderskryf, die kliënte en projekspan almal
+   dieselfde verwagtinge koester oor die projek.
+    1. Projekhandves
+    2. Lewensvatbaarheidstudie
+    3. Werksomvangbeskrywing
+    4. Werkverdelingstruktuur
+    5. Veranderingsbeheerplan
+    6. Risikobestuursplan
+    7. Kommunikasieplan
+    8. Bestuursmodel
+    9. Risiko-register
+   10. 'n Joernaal oor kwessies hanteer
+   11. Hulpbronbestuursplan
+   12. Projekskedule
+   13. Statusverslag
+   14. Gantt-grafiek
+   15. Verantwoordelikheidsverdelingsmatriks
+   16. Databasis van risikos
+   17. Databasis van lesse geleer
+   18. Analise van belanghebbendes
+
+   Hierdie dokumentasie word gewoonlik geredelik beskikbaar gemaak aan die
+   belanghebbendes (soos bv. op 'n intranet) sodat hulle dit kan nagaan.
+   Die prosedure vir veranderinge en opdaterings van sodanige dokumente
+   word duidelik uitgestip op die projek se konfigurasiebestuur- (of
+   veranderingsbeheerplan).
+
+[wysig] Projekbeheer veranderlikes
+
+   Projekbestuur poog om die invloed van eksterne veranderlikes op die
+   projekuitvoering te bestuur. Die veranderlikes kan wees:
+
+   Risiko
+          Moontlike punte waar falings/mislukkings kan voorkom. Die
+          risikos kan oorkom of afgeweer word, gegewe voldoende
+          beplanning, tyd en hulpbronne.
+
+   Geleenthede
+          Tydens uitvoering van 'n projek kan geleenthede opduik wat benut
+          kan word as die projek goed bestuur word ('n Geleentheid kan hom
+          byvoorbeeld voordoen om 'n skielike prysstyging van die
+          toekomstig beplande produk wat die projek gaan fasiliteer, uit
+          te buit, deur die projekomvang te vergroot of vinniger klaar te
+          maak).
+
+   Kliënte (hetsy interne of eksterne ondersteuners van die projek),
+   eksterne organisasies (soos regeringsinstansies en wetgewers) kan enige
+   van die drie belangrike veranderlikes dikteer, nl. tyd, koste en
+   omvang.
+
+   Die risikoveranderlike word deur die projekspan bestuur, verkieslik
+   deur gebruik te maak van weldeurdagte beramings- en
+   reaksiebeplanningstegnieke. Deur middel van 'n onderhandelingsproses
+   onder die rolspelers in die projek word 'n ooreenkoms bereik oor die
+   finale doelwitte in terme van die tyd, koste, omvang en risiko en word
+   gewoonlik in die projekhandves of kontrak uiteengesit.
+
+   Om goeie beheer oor hierdie veranderlikes uit te oefen moet 'n
+   projekbestuurder goed onderlê wees en ervare wees in dié drie
+   belangrike velde (tyd, koste, omvang en risiko) asook in ses ander
+   gebiede naamlik integrasie, kommunikasie, menslike hulpbronne,
+   kwaliteitsversekering, ontwikkeling van skedules en aankope.
+
+[wysig] Geskiedenis van Projekbestuur
+
+   Projekbestuur as 'n vakgebied het uit verskeie ander vakgebiede
+   ontwikkel, insluitende konstruksie, meganiese ingenieurswese, militêre
+   projekte ensovoorts. Henry Gantt word as een van die vaders van
+   projekbestuur beskou en het heelwat beplannings- en beheertegnieke
+   ontwikkel en is veral bekend vir sy gebruik van die Gantt-grafiek as 'n
+   projekbestuurshulpmiddel. Hy word ook geassosieer met Frederick Winslow
+   Taylor se teorieë van wetenskaplike bestuur en sy studie oor die werk
+   betrokke by skeepsbou en die bestuur daarvan. Sy werk het die grondslag
+   gedien vir die ontwikkeling van baie moderne
+   projekbestuurshulpmiddelle, insluitind werksverdelingstrukture en
+   hulpbrontoekenning.
+
+   Die 1950s het die era van moderne projekbestuur ingelui. Projekte is
+   voorheen op 'n ad-hoc basis bestuur deur meestal van Gantt-grafieke
+   gebruik te maak en informele tegnieke en hulpmiddelle. In daardie tyd
+   is twee wiskundige projekskeduleringsmodelle ontwikkel: (1) die Program
+   Evaluasie en Hersieningstegniek (in Engels afgekort as PERT) en (2) die
+   kritieke padmetode. Hierdie tegnieke is vinnig deur privaat
+   ondernemings in gebruik geneem.
+
+   Die Project Management Institute (PMI) is in 1969 in die V.S.A gestig
+   om die belange van projekbestuurders in die nywerheid te dien. 'n
+   Plaaslike tak van die PMI is in 1982 in Suid-Afrika gestig, maar is
+   sedert 1997 herdoop tot Project Management South Africa na 'n
+   hersiening van die samewerkingsooreenkoms tussen die PMI en PMISA,
+   hoofsaaklik vanweë die hoë koste van lidmaatskap vir Suid-Afrikaanse
+   lede. Die hersiene ooreenkoms het meegebring dat bande met die PMI
+   behou word, al is dit dan met verminderde voordele (geen afslag op PMI
+   produkte ensomeer).
+
+[wysig] Benaderinge
+
+   Daar bestaan verskillende benaderinge ten opsigte van die bestuur van
+   die aktiwiteite van 'n projek naamlik: flinke-, iteratiewe-,
+   inkrementele- en gefaseerde benaderings.
+
+   Ongeag die benadering wat gevolg word, moet versigtige oorweging
+   geskenk word om duidelikheid te verkry rondom die projek se doelwitte
+   en baie belangrik wat die rolle en verantwoordelikhede van alle
+   rolspelers en belanghebbendes gaan wees.
+
+[wysig] Die tradisionele benadering
+
+   Met 'n tradisionele benadering word 'n reeks stappe bepaal wat voltooi
+   moet word. In die tradisionele benadering kan ons onderskei tussen 5
+   komponente (4 stadia plus beheer) in die ontwikkeling van 'n projek:
+    1. projek aanvang;
+    2. projekbeplanning
+    3. produksie- of uitvoer stadium
+    4. monitering of beheerstelsel
+    5. voltooiïng van die projek
+
+   Baie nywerhede gebruik variasies van hierdie stadia. By bouprojekte
+   gaan 'n projek tipies deur Voorafbeplanning-, Konsepontwerp-,
+   Skematiese ontwerp-, Ontwerpsontwikkeling-, Konstruksietekening- (of
+   Kontrakdokumentasie) en Konstruksiebeheerfases. In die ontwikkeling van
+   programmatuur word daar na die benadering as 'n waterval benadering
+   verwys d.w.s. 'n reeks take wat opmekaar volg op 'n reglynige volgorde.
+   Waterval-ontwikkeling werk goed vir kleiner, goed gedefinieërde
+   projekte, maar vir groot projekte met onbepaalde of onbekende omvang is
+   dit minder geskik. Al verskil die name vir die stadia van nywerheid tot
+   nywerheid word dieselfde stappe vir probleemoplossing gevolg --
+   definisie van die probleem, die opweeg van alternatiewe, die keuse van
+   'n rigting, implementering en evaluasie.
+
+[wysig] Kritieke pad
+
+   Die kritieke ketting is 'n uitbreiding op die tradisionele kritieke
+   padmetode.
+
+   Tydens studies van projekbestuur is daar opgemerk dat verskeie
+   PERT-gebaseerde modelle nie baie geskik is vir die multi-projek
+   maatskappy omgewing van vandag nie. Die meeste van die modelle is gemik
+   op grootskaalse, eenmalige projekte wat nie op 'n roetine grondslag
+   uitgevoer word nie. Deesdae word baie soorte bestuurstake egter as
+   projekte uitgevoer. Om komplekse modelle vir projekte te gebruik wat 'n
+   paar weke duur het dikwels gelei tot onnodige kostes en beperkte
+   buigsaamheid in sekere gevalle. Om die probleem reg te stel het
+   projekbestuurders probeer om liggewig modelle te identifiseer, soos
+   onder andere die Ekstreme Programmering vir die ontwikkeling van
+   programmatuur en skrumtegnieke.
+
+[wysig] Prosesgebaseerde (flinke) bestuur
+
+   'n Verdere uitbreiding op die begrip van projekbeheer is die insluiting
+   van prosesgebaseerde bestuur. Hierdie veld word omsluit deur die
+   gebruik van rypheidsmodelle soos CMMI en ISO/IEC15504 (SPICE) modelle.
+   Ratse projekbestuursbenaderinge is gebaseer op die beginsels van
+   menslike interaksiebestuur wat gegrond is op 'n prosesbenadering tot
+   menslike samewerking. Dit vorm 'n skerpe kontras met die tradisionele
+   benadering. In flinke programmatuurontwikkeling of plooibare
+   produkontwikkelingsbenaderinge, word die projek gesien as 'n reeks
+   kleiner takies wat bedink en uitgevoer word soos die situasie vereis op
+   'n aanpasbare manier, eerder as 'n volledig voorafbeplande proses.
+
+[wysig] Projekstelsels
+
+   Soos hierbo genoem, sluit tradisionele projekontwikkeling vyf elemente
+   in: beheerstelsels en vier stadia.
+
+[wysig] Projekbeheerstelsels
+
+   Projekbeheer is daardie element van 'n projek wat verseker dat die
+   projek koers hou, op tyd en binne begroting bly. Projekbeheer begin
+   reeds vroeg in die projek tydens die beplanningsfase en eindig laat in
+   die projek met die nabetragtingsproses. Elke projek vereis gewoonlik 'n
+   geskikte mate van beheer, te veel daarvan kan tydrowend wees en te min
+   daarvan kan baie duur wees. Daar moet duidelikheid verkry word oor die
+   koste verbonde indien beheer nie voldoende is nie in terme van foute,
+   regstellingsaksies en bykomende oudit fooie.
+
+   Beheerstelsels word benodig ten opsigte van koste, risiko, kwaliteit,
+   kommunikasie, tyd, verandering, aankope en menslike hulpbronne. Verder
+   moet ouditeure in aanmerking neem hoe belangrik die projekte vir die
+   finansiële state is, hoe afhanklik die rolspelers is op beheermaatreëls
+   en hoeveel daarvan bestaan. Ouditeure behoort ook die
+   ontwikkelingsproses en prosedures waarop dit geïmplementeer word, na te
+   gaan. Die proses van ontwikkeling en die kwaliteit van die finale
+   produk behoort ook aangeslaan te word indien nodig of wanneer dit
+   aangevra word. Ondernemings mag dalk vereis dat ouditersfirmas regdeur
+   die proses betrokke is om probleme vroeg op te tel sodat hulle makliker
+   reggestel kan word.
+
+   Ondernemings gebruik soms 'n formele ontwikkelingsproses vir stelsels.
+   Dit help om te verseker dat stelsels suksesvol ontwikkel word. 'n
+   Formele proses is meer doeltreffend in die daarstel en sterk
+   beheermaatreëls en dit is die taak van die ouditeur om te verseker dat
+   die proses goed ontwerp is en in praktyk ook toegepas word. 'n Goeie
+   formele ontwikkelingsplan vir projekbeheerstelsels bepaal:
+     * 'n Strategie om die ontwikkeling met die organisasie se breër
+       doelwitte te vereenselwig
+     * Standaarde vir nuwe stelsels
+     * Projekbestuursbeleid ten opsigte van tydsberekening en begroting
+     * Prosedures wat die proses beskryf
+
+[wysig] Ontwikkelingsfases
+
+   Ongeag die metodologie wat gebruik word, sal die ontwikkelingsproses
+   van 'n projek 'n sekere aantaal fases insluit: aanvangsfase, produksie
+   of uitvoering en die afsluitings/onderhoudsfase.
+
+[wysig] Aanvangsfase
+
+   Die aanvangsfase bepaal die aard en omvang van die ontwikkeling. As
+   hierdie fase nie na behore uitgevoer word nie, is dit onwaarskynlik dat
+   die projek suksesvol gaan wees in die voldoening aan die besigheid se
+   behoeftes. Die sleutel hier tot goeie beheer is 'n goeie verstaan van
+   die besigheidsomgewing en om te verseker dat al die nodige
+   beheermaatreëls by die projek ingesluit word.
+
+   Die aanvangsfase behoort 'n deeglike plan in te sluit wat die volgende
+   gebiede dek:
+     * 'n Studie wat die besigheidsbehoefte in meetbare doelwitte
+       analiseer.
+     * 'n Hersiening van die bestaande bedryf se werking.
+     * 'n Konsepontwerp van die bedryf van die finale produk.
+     * Toerustingsvereistes.
+     * 'n Finansiële analise van die kostes en voordele insluitende 'n
+       begroting.
+     * 'n Keuse van rolspelers, insluitende gebruikers en
+       ondersteuningspersoneel vir die projek.
+     * 'n Handves vir die projek wat koste, take, aflewerbares en skedules
+       uitstip.
+
+[wysig] Beplanning en ontwerp
+
+   Na die aanvangsfase, word die stelsel ontwerp, soms deur 'n kleiner
+   prototipe/loodsaanleg van die finale produk te bou en te toets.
+   Toetswerk word gewoonlik deur 'n kombinasie van toetsers en gebruikers
+   gedoen en kan plaasvind na die prototipe gebou is of selfs daartydens.
+   Die resultaat van die ontwerpsfase behoort die volgende in te sluit:
+     * 'n Produk moet die borge van die projek en gebruikers se
+       goedkeuring wegdra en in besigheidsbehoeftes voorsien.
+     * Dit moet werk soos bedoel is
+     * Moet sodanig vervaardig kan word dat dit aan kwaliteitstandaarde
+       voldoen
+     * Moet binne die tyds- en begrotingsperke vervaardig kan word.
+
+[wysig] Produksie of uitvoering
+
+   Die uitvoeringsfase sluit die werklike implementering van die ontwerp
+   of plan in. In programmeringstelsels sluit dit die omskakeling (oordrag
+   van data vanaf ouer stelsels na nuwer stelsels), dokumentasie en
+   opleiding in. Vanaf 'n ouditeur se oogpunt is opleiding belangrik omdat
+   dit gebruikers help om die programmatuur korrek te gebruik. Die meeste
+   van 'n projek se werk en die meeste kapitaaluitgawes word op die
+   stadium aangegaan.
+
+[wysig] Afsluiting en onderhoud
+
+   Die afsluit van 'n projek sluit die formele aanvaarding van die projek
+   en die beëindiging daarvan in. Administratiewe aktiwiteite sluit in die
+   opslaan van die lêers in argiewe en die dokumentasie van die lesse wat
+   geleer is tydens uitvoering.
+
+   Onderhoud is 'n voortdurende proses en sluit in:
+     * Voortdurende ondersteuning van die eindgebruikers
+     * Die regstel van foute
+     * Die opdateer van programmatuur met tyd
+
+   Op hierdie stadium moet ouditeure gewoonlik aandag skenk aan hoe
+   doeltreffend en vinnig gebruikersprobleme opgelos word.
+
+[wysig] Projekbestuur - Korporatiewe Standaarde
+
+   Daar is baie maatskappye wêreldwyd wat standaarde vir projekbestuur
+   ontwikkel het waarop hulle uitsluitlike besitreg het, asook ander wat
+   op oop standaarde gegrond is. Die mees prominente maatskappye in dié
+   verband is:
+     * Openstandards Project Management & Consulting Services Inc. (Meer
+       oor die Openstandards Projekbestuursmetode)
+     * IBM (RUP)
+     * HSBC (Risikogebaseerde projekbestuur (RBPM))
+     * CGI
+     * ITIL
+
+   Hierdie maatskappye bied ook proffesionele sertifiseringskemas.
+
+[wysig] Projekbestuursverenigings
+
+   Verskeie nasionale en professionele verenigings bestaan wat hul ten
+   doel stel om die ontwikkeling van projekbestuur as vakgebied en as
+   beroep te bevorder. Die mees prominente verenigings sluit in:
+     * The Australian Institute of Project Management (AIPM)
+     * The International Project Management Association (IPMA)
+     * The Project Management Institute (PMI)
+     * The International Association of Project & Program Management
+       (IAPPM)
+     * The International Project Management Commission (IPMC)
+     * Project Management South Africa (PMSA)
+
+[wysig] Internasionale Standaarde
+
+     * Openstandards Project Management & Consulting Services Inc. (Die
+       Openstandards Projekbestuursmetode)
+     * 'n Gids tot die PMBOK databasis van projekbestuurskennis
+       (PMBOK-Gids)
+     * APM Body of Knowledge 5th ed. (APM - Association for Project
+       Management (UK))
+     * PRINCE2 (PRojects IN a Controlled Environment)
+     * P2M (A guidebook of Project & Program Management for Enterprise
+       Innovation, 'n derde-generasie Japanese projekbestuursmetode)
+     * V-Modell ('n Duitse projekbestuurstegniek)
+     * HERMES (Die Switserse algemene projekbestuursmetode)
+
+[wysig] Sien ook
+
+     * Algemene bestuur as sakefunksie in ondernemings
+
+[wysig] Literatuurverwysings
+
+     * Scott Berkum, 2005, Art of Project Management, O'Reilly Media,
+       Cambridge, MA, ISBN 0-596-00786-8 [1]
+     * Fred Brooks, 1995, The Mythical Man-Month, 20ste Gedenkuitgawe,
+       Adison Wesley, ISBN 0-201-83595-9
+     * Gary Heerkens, 2001, Project Management (The Briefcase Book
+       Series), McGraw-Hill, ISBN 0-07-137952-5
+     * Harold Kerzner, 2003, Project Management: A Systems Approach to
+       Planning, Scheduling, and Controlling, Wiley, ISBN 0-471-22577-0
+     * James Lewis, 2002, Fundamentals of Project Management, 2de uitgawe,
+       American Management Association, ISBN 0-8144-7132-3
+     * Meredith, Jack R. and Mantel, Samuel J., 2002, Project Management:
+       A Managerial Approach, 5th ed., Wiley, ISBN 0-471-07323-7
+     * Project Management Institute, A Guide To THe Project Management of
+       Knowledge, 2003, 3de uitgawe, Project Management Institute, ISBN
+       1-930699-45-X [2]
+     * Stellman, Andrew en Greene, Jennifer; 2005, Applied Software
+       Project Management, O'Reilly Media, Cambridge, MA; ISBN
+       0-596-00948-8 [3]
+     * Thayer, Richard H. en Yourdon, Edward; 2000, Software Engineering
+       Project Management, 2de Uitgawe, Wiley-IEEE Computer Society Press,
+       ISBN 0-8186-8000-8
+     * Stephen Jonathan Whitty, A Memetic Paradigm of Project Management,
+       2005, International Journal of Project Management, 23 (8) 575-583
+       [4]
+
+[wysig] Eksterne skakels
+
+     * American Academy of Project Management
+     * Association for the Advancement of Cost Engineering, International
+     * Association for Project Management
+     * Interactive Project Management Wiki
+     * International Research Network on Organizing by Projects
+     * International Project Management Association
+     * International Project Management Commission
+     * Project Management Association of America
+     * The Australian Institute of Project Management
+     * The Institute of Project Management of Ireland
+     * The Project Management Institute
+
+   See also: Project management best practices
+   Kategorieë: Ingenieurswese • Projekbestuur
+

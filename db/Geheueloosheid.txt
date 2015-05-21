@@ -1,0 +1,112 @@
+Geheueloosheid
+
+
+   In waarskynlikheidsleer is geheueloosheid 'n eienskap van sekere
+   waarskynlikheidsverspreidings: die eksponensiële verspreidings en die
+   meetkundige verspreidings.
+
+   Inhoud
+
+        * 1 Diskrete geheueloosheid
+        * 2 Voorbeelde en motivering vir die naam geheueloosheid
+             + 2.1 'n Algemene misverstand
+        * 3 Kontinue geheueloosheid
+        * 4 Karakterisering deur geheueloosheid
+
+[wysig] Diskrete geheueloosheid
+
+   Veronderstel X is 'n diskrete willekeurige veranderlike met 'n waarde
+   in die versameling { 0, 1, 2, ... } of in die versameling { 1, 2, 3,
+   ... }. Die waarskynlikheidsverspreiding van X is geheueloos as vir
+   enige x, y in { 0, 1, 2, ... } of in { 1, 2, 3, ... }, (soos die geval
+   mag wees), ons
+
+          \Pr(X>x+y \mid X>x)=P(X>y) het.
+
+   Hier dui Pr(X > x + y | X > x) die voorwaardelike waarskynlikheid dat
+   die waarde van X groter as x + y is gegee dat dit groter as x is.
+
+   Dit kan geredelik aangetoon word dat die enigste
+   waarskynlikheidsverspreidings met diskrete geheueloosheid
+   meetkundigeverspreidings is. Dit is die verspreidings van die aantal
+   onafhanklike Bernoulli eksperimente nodig om een "sukses" te kry met 'n
+   vaste waarskynlikheid van sukses, p, vir elke poging.
+
+[wysig] Voorbeelde en motivering vir die naam geheueloosheid
+
+   Byvoorbeeld, veronderstel 'n dobbelsteen word soveel keer gegooi as wat
+   dit vat om 'n "1" te kry, sodat die waarskynlikheid van "sukses" vir
+   elke poging 1/6 is, en die willekeurige veranderlike X die aantal kere
+   is wat die dobbelsteen gegooi moet word. Dan het X 'n
+   meetkundigeverspreiding, en die voorwaardelike waarskynlikheid dat die
+   dobbelsteen ten minste nog vier keer gegooi moet word om 'n "1" te kry,
+   gegee dat dit reeds 10 keer gegooi is sonder dat 'n "1" waargeneem is,
+   geensins verskillend van die oorspronklike waarskynlikheid dat die
+   dobbelsteen ten minste vier keer gegooi moet word nie. Die willekeurige
+   proses onthou as't ware nie hoeveel pogings tot dusver gefaal het nie.
+
+[wysig] 'n Algemene misverstand
+
+   Geheueloosheid word baie keer verkeerd verstaan deur
+   waarskynlikheidsleerstudente: die feit dat Pr(X > 13 | X > 10) = Pr(X >
+   3) beteken nie dat die gebeurtenisse X > 13 en X > 10 onafhanklik is
+   nie; i.e., dit beteken nie dat Pr(X > 13 | X > 10) = Pr(X > 13). Om op
+   te som: "geheueloosheid" van die waarskynlikheidsverspreiding van die
+   aantal pogings X tot die eerste sukses beteken
+
+          \mathrm{(Right)}\ \Pr(X>13 \mid X>10)=\Pr(X>3).\,
+
+   Die beteken nie
+
+          \mathrm{(Wrong)}\ \Pr(X>13 \mid X>10)=\Pr(X>13).\, nie
+
+   (Dit sou onafhanklikheid wees - hierdie twee gebeurtenisse is nie
+   onafhanklik nie).
+
+[wysig] Kontinue geheueloosheid
+
+   Veronderstel dat eerder as om die diskrete aantal pogings tot die
+   eerste sukses te beskou, ons die kontinue wagtyd T tot die aankoms van
+   die eerste telefoon oproep na 'n skakelbord beskou. Om te sê dat die
+   waarskynlikheidsverspreiding van T geheueloos is, beteken dat vir enige
+   positiewe reële getalle s en t
+
+          \Pr(T>t+s \mid T>t)=\Pr(T>s).\,
+
+   Die enigste verskil tussen hierdie weergawe en die diskrete weergawe is
+   dat in plaas daarvan dat vereis word dat s en t positiewe (of, in
+   sommige gevalle nie-negatiewe) heelgetalle moet wees, om diskreetheid
+   te bereik, laat ons hulle toe om reële getalle te wees wat nie
+   noodwendig heelgetalle is nie.
+
+[wysig] Karakterisering deur geheueloosheid
+
+   Geheueloosheid karakteriseer die eksponensialeverspredings geheel en
+   al., i.e. die enigste waarskynlikheidsverspreidings wat (kontinue)
+   geheueloosheid geniet is eksponensialeverspreidings.
+
+   Om dit te sien, laat
+
+          G(t) = \Pr(X > t).\,
+
+   Dan volg uit basies wette van waarksynlikheidsleer dat G(t) kleiner
+   word soos t groter word. Uit die relasie
+
+          \Pr(X > t + s | X > t) = \Pr(X > s)\,
+
+   en die definisie van voorwaardelike waarskynlikheid, kry ons
+
+          {\Pr(X > t + s) \over \Pr(X > t)} = \Pr(X > s).
+
+   Dus het ons die funksionele vergelyking
+
+          G(t + s) = G(t) G(s)\,
+
+   en G is 'n monotone verminderende funksie.
+
+   Die funksionele vergelyking alleen sal impliseer dat G beperk is tot
+   rasionele veelvoude van enige besondere getal 'n eksponensiale funksie
+   is. Gekombineer met die feit dat G monotone is, impliseer dit dat G oor
+   sy hele domein 'n eksponensiale funksie is.
+   Kategorieë: Waarskynlikheidsleer • Wiskunde
+

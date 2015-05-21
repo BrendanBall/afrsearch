@@ -1,0 +1,44 @@
+Bruto binnelandse produk
+
+
+   'n Gebied se Bruto binnelandse produk of BBP, is een van die meganismes
+   waarmee die grootte van die ekonomie daarvan gemeet kan word. Die BBP
+   van 'n land word gedefinieer as die algehele markwaarde van al die
+   finale goedere en dienste wat binne 'n land geproduseer word in 'n
+   gegewe tydperk, gewoonlik 'n kalenderjaar. Dit word ook beskou as die
+   som van waarde toegevoeg in elke produksiestadium van al die finale
+   produkte en dienste wat oor 'n gegewe tydperk binne 'n land geproduseer
+   word.
+
+   Die mees algemene benadering tot die meting en verduideliking van BBP
+   is die uitgawe metode:
+
+          BBP = verbruik + bruto belegging + regeringsbesteding + uitvoere
+          − invoere,
+
+   "Bruto" beteken waardevermindering van kapitaalvoorraad word nie
+   afgetrek nie. As bruto belegging deur netto belegging vervang word (wat
+   bruto belegging minus waardevermindering is) in die bostaande
+   vergelyking word die formule vir Netto binnelandse produk verkry.
+   Verbruik en belegging in hierdie vergelyking is uitgawes op finale
+   goedere en dienste. Die uitvoere minus invoere deel van die vergelyking
+   (baie keer netto uitvoere genoem) pas dit dan aan deur die deel van
+   besteding wat nie binnelands geproduseer word nie (die invoere) af te
+   trek, en dan die binnelandse gedeelte (die uitvoere) terug te voeg.
+
+   Ekonome verkies om die verbruik gedeelte in twee dele te deel; private
+   verbruik, en openbare sektor (of regerings-) besteding. Twee voordele
+   van die benadering in teoretiese makroekonomie is:
+     * Privaat verbruik is 'n sentrale aangeleentheid van
+       welvaartekonomie. Die private belegging en handel gedeeltes van die
+       ekonomie word uiteindelik (in hoofstroom ekonomiese modelle) bepaal
+       deur stygings in lang-termyn privaatverbruik.
+     * Wanneer dit van endogene privaatverbruik geskei word kan
+       regeringsverbruik as eksogeen beskou word sodat verskillende
+       openbare besteding vlakke sinvol binne 'n makroekonomiese raamwerk
+       beskou kan word.
+
+    Hierdie artikel omtrent Ekonomie is tans slegs 'n saadjie. Jy is
+   welkom om by te dra tot die Afrikaanse Wikipedia deur dit uit te brei.
+   Kategorie: Ekonomie saadjies
+

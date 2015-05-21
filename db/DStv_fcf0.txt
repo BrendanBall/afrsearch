@@ -1,0 +1,151 @@
+DStv
+
+
+   CAPTION: DStv
+
+       Tipe:      Publiek
+      Gestig:     1995
+   Hoofkwartiere: Ferndale, Randburg, Suid-Afrika
+     Industrie:   Telekommunikasie
+     Produkte:    Satelliettelevisiediens
+     Webtuiste:   www.dstv.com
+
+   DStv is MultiChoice se multi-kanaal digitale satelliettelevisiediens in
+   Afrika, en het die lig gesien in 1995. In Suid-Afrika en sy buurstate,
+   saai dit uit op ku-Band, wat slegs 'n klein satellietskottel benodig,
+   terwyl daar in die res van Afrika op C-Band uitgesaai word. Die dienste
+   van DSTV word uitgesaai vanuit die steerable beams op die satelliete
+   Eutelsat W4 en Eutelsat Sesat 1 op 36° oosterlengte in DVB-S met
+   IRDETO-2-versyfering. Intekenaars in Suid-Afrika ontvang ook die SAUK
+   se drie landgebonde kanale, SABC1, 2 en 3. Hierdie kanale is nie
+   beskikbaar vir intekenare oral nie, as gevolg die regte daarop,
+   alhoewel hulle die SABC Africa kanaal ontvang.
+
+   DStv het ook aparte "bouquets" van kanale in Portugees, Duits, en in
+   Indiese tale.
+
+   Inhoud
+
+        * 1 Kanale
+             + 1.1 Portugese bouquet
+             + 1.2 Duitse bouquet
+             + 1.3 Indiese bouquet
+        * 2 Eksterne skakels
+
+[wysig] Kanale
+
+          Nota: DStv verander soms hul kanaalstruktuur.
+
+   0/1 - Kanaalgids
+   101 - M-Net
+   150 - M-Net Movies 1
+   151 - M-Net Movies 2
+   6 - actionX
+   8 - Hallmark Channel
+   9 - TCM
+   10 - GO
+   20 - SuperSport Active
+   21 - SuperSport 1
+   22 - SuperSport 2
+   23 - SuperSport 3
+   24 - SuperSport 4
+   25 - SuperSport 5
+   26 - SuperSport 6
+   27 - SuperSport 7
+   28 - SuperSport Max
+   33 - ESPN
+   34 - TellyTrack
+   35 - kykNET
+   36 - M-Net Series
+   37 - Event
+   40 - BBC Prime
+   41 - E!
+   42 - Zone Reality
+   45 - Games (Interactive)
+   46 - SABC 1
+   47 - SABC 2
+   48 - SABC 3
+   149 - e.tv
+   280 - BBC World
+   51 - CNN International
+   52 - Sky News
+   53 - SABC Africa
+   54 - CNBC
+   55 - Summit TV
+   56 - Bloomberg
+   57 - Weather (Interaktief)
+   58 - Parliamentary Service
+   59 - News24
+   60 - Fin24
+   61 - EuroNews
+   62 - Al Jazeera English
+   65 - Discovery Channel
+   66 - National Geographic Channel
+   67 - Animal Planet
+   68 - History Channel
+   69 - Crime & Investigation Network
+   70 - BBC Food
+   71 - Travel Channel
+   72 - Fashion TV
+   75 - AstroScope (Interactive)
+   134 - TBN
+   78 - Rhema Network
+   80 - K-All Day
+   81 - Boomerang
+   82 - Cartoon Network
+   83 - Disney Channel
+   85 - MTV Middle-East and Africa
+   86 - Video Hits 1
+   87 - Channel O
+   88 - MTV Base
+   89 - MK89
+   90 - TV5 Monde
+   91 - BVN-TV
+   92 - RTPi
+   93 - RAI International
+   94 - IQRAA
+   95 - CCTV 4
+   96 - DW
+   97 - ERT
+   100 - Learning Channel
+   102 - Africa Magic
+   106 - CCTV - 9
+   107 - ZNBC TV
+   108 - Russia Today
+   113 - "Shopping Chanel"
+   121 - "Shopping Chanel"
+   123 - "Shopping Chanel"
+
+[wysig] Portugese bouquet
+
+     * RTP Internacional
+     * SIC Internacional
+     * TV Globo Internacional
+
+[wysig] Duitse bouquet
+
+     * DW TV
+     * ARD
+     * ZDF
+     * RTL
+     * SAT.1
+     * 3sat
+     * Pro 7
+
+[wysig] Indiese bouquet
+
+     * Zee TV
+     * B4U Movies
+     * Sony Entertainment Television Asia - SET Asia
+     * NDTV 24x7 (News)
+     * Sun TV (South Indian)
+     * KTV (South Indian)
+
+[wysig] Eksterne skakels
+
+     * DStv-tuisblad
+     * DStv Afrika-tuisblad
+
+   Kategorieë: Media van Suid-Afrika • Suid-Afrikaanse televisie •
+   Televisie
+

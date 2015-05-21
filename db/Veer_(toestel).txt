@@ -1,0 +1,79 @@
+Veer (toestel)
+
+
+   'n Spiraal- of krulveer.
+   'n Spiraal- of krulveer.
+
+   'n Veer is 'n buigsame elastiese voorwerp wat gebruik word om meganiese
+   energie te stoor. Vere word tipies uit staal of geelkoper vervaardig.
+
+   Inhoud
+
+        * 1 Tipe vere
+        * 2 Teorie
+        * 3 Verwysings
+        * 4 Sien ook
+
+[wysig] Tipe vere
+
+   Die mees algemene tipe vere is:
+     * die spiraal- of krulveer (wat gemaak word deur 'n draad rondom 'n
+       silinder te draai) – dit is 'n tipe wringveer, omdat die draad self
+       vervorm word wanneer die veer saamgedruk of uitgerek word. (Neem
+       kennis dat die gebruiklike term hier streng tegnies gesproke nie
+       korrek is nie aangesien die veer eerder in die vorm van 'n heliks
+       is).
+     * die bladveer (plat veerkragtige plaat, wat veral in veringstelsels,
+       elektriese skakelaars en boë gebruik word)
+     * die plat spiraalveer (soos gebruik in horlosies en galvanometers)
+
+   Ander tipies sluit in:
+     * die Belleville-veer, 'n skyfvormige veer wat gewoonlik gebruik word
+       om spanning op 'n voorwerp uit te oefen asook in die
+       ontstekingsmeganismes van drukgeaktiveerde landmyne.
+     * die veerwasser, wat gebruik word om 'n konstante trekspanning teen
+       die as van 'n sluitstuk af toe te pas.
+     * die wringveer (enige veer wat ontwerp is om gedraai/vervorm te word
+       eerder as om gerek of saamgepers te word)
+     * die gasveer, 'n volume gas wat saamgepers word
+     * Rek, 'n spanveer waar die energie gestoor word deur die materiaal
+       uit te rek.
+
+[wysig] Teorie
+
+   In klassieke fisika word 'n veer gesien as 'n toestel wat potensiële
+   energie stoor deur die bindings tussen atome van 'n elastiese materiaal
+   aan spanning te onderwerp.
+
+   Hooke se wet van elastisiteit bepaal dat die verlenging van 'n
+   elastiese staaf (die uitgerekte lengte minus die lengte van die
+   ontspanne staaf) lineêr eweredig is aan die trekspanning, die krag wat
+   gebruik word om dit uit te rek. Soortgelyk is die krimping (negatiewe
+   verlenging) eweredig aan die saampersing (negatiewe trekspanning).
+
+   Hierdie wet is egter gewoonlik net geldig wanneer die vervorming
+   (verlenging of krimping), klein is in vergelyking met die staaf se
+   lengte. Vir groot vervormings word die atoombindings gebreek of
+   herrangskik en kan die staaf breek, buig of permanent vervorm word.
+   Selfs as daardie limiet nie oorskry word nie, kan die krag heelwat van
+   Hooke se wet afwyk.
+
+   Hooke se wet is eintlik 'n wiskundige gevolg van die feit dat die
+   potensiële energie van die staaf 'n minimum is wanneer dit by die
+   onstpanne lengte is. Enige gladde funksie van een veranderlike kan
+   benader word deur 'n kwadratiese funksie wanneer dit naby aan die
+   minimumpunt evalueer word; daarom kan die krag — wat die afgeleide van
+   energie is met betrekking tot die verplasing — deur 'n lineêre funksie
+   benader word.
+
+[wysig] Verwysings
+
+   Artikel in die Engelse Wikipedia
+
+[wysig] Sien ook
+
+     * Springs (Physics Study Guide)
+     * Veringstelsel
+
+   Kategorieë: Meganiese toestelle • Fisika
+

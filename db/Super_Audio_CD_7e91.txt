@@ -1,0 +1,50 @@
+Super Audio CD
+
+
+   Die Super Audio CD (SACD) is in 1999 deur Sony en Philips as die
+   opvolger van die Compact Disc (CD) onthul. Die nuwe formaat is gebaseer
+   op die DVD-ROM, dit word egter - in teenstelling met die DVD-Oudio -
+   nie amptelik deur die DVD-Forum erken nie.
+
+   Desondanks is die Super Audio CD baie gewild in oudiofiele kringe,
+   veral by liefhebbers van klassieke en jazz-musiek. Daarenteen neem die
+   aantal vrystellings van rock- en pop-albums sedert 2004 geleidelik af.
+   Net soos die DVD-Oudio kan die Super Audio CD slegs 'n klein stukkie
+   van die CD se markaandeel wegneem.
+
+[wysig] Tegnologie
+
+   Die Super Audio CD maak nie gebruik van die CD en DVD-Oudio se Pulse
+   Code Modulation (PCM)-opnametegnologie nie, maar word met die
+   1-bit-formaat Direct Stream Digital (DSD) opgeneem. DSD kom sonder die
+   oversampling- en desimasiefilters van die CD klaar. Die analoë sein
+   word 2 822 400 keer per sekonde afgetas (= 2,8224 MHz), en frekwensies
+   van 0 tot by 100 kHz kan gestoor word, terwyl die dinamiek by die
+   weergawe van musiek tot by 120 dB strek. Musiek kan met 'n hoër
+   resolusie weergegee word, waardeur ook die atmosferiese besonderhede
+   van die opname en 'n groter ruimtelikheid bewaar word.
+
+   'n Onsigbare watermerk word as kopieerbeskerming gebruik en met behulp
+   van die nuut ontwikkelde Pit Signal Processing-tegnologie by elke Super
+   Audio CD toegepas.
+
+   Om versoenbaarheid met gewone CD-spelers te verseker, word baie Super
+   Audio CD's as hibried-skyfies vrygestel, wat naas die stereo- en/of
+   meerkanaal-laag van die Super Audio CD ook 'n gewone CD-laag vir CD- en
+   DVD-spelers bevat. Om die beter kwaliteit van 'n DSD-opname te kan
+   geniet, is 'n SACD- of gekombineerde CD/SACD-, DVD-Video/SACD- of
+   CD/DVD-Oudio/DVD-Video/SACD-speler noodsaaklik.
+
+[wysig] Vrystellings
+
+   In Maart 2007 is daar sowat 4 000 opnames wêreldwyd beskikbaar.
+
+[wysig] Eksterne skakels
+
+     * Die Amerikaanse Audio Asylum se Hi-Rez Highway is die geselshoekie
+       vir SACD-liefhebbers
+     * SA-CD Net: Australiese webwerf met 'n volledige lys van
+       SACD-vrystellings
+
+   Kategorieë: Klanktegnologie • Optiese stoormedia
+

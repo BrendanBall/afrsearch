@@ -1,0 +1,218 @@
+Roetering
+
+
+   By rekenaarnetwerke verwys die term roetering na die paaie waarlangs
+   data in 'n rekenaarnetwerk versend word.
+
+   Roetering behels die aanstuur van pakkette, d.w.s. die aanstuur van
+   logies geaddresseerde pakkette vanaf hul bron na hul uiteindelike
+   bestemming deur intermediêre nodusse (oftewel die roeteerders). Die
+   roeteringsproses stuur die pakkette aan aan die hand van roetetabelle
+   in die roeteerders, wat 'n rekord hou van die beste roetes na verskeie
+   netwerkbestemmings. Die saamstel van roetetabelle is baie belangrik vir
+   doeltreffende roetering.
+
+   Roetering verskil van 'n netwerkbrug in die opsig dat dit aanvaar dat
+   adresstrukture wat soortgelyk aan mekaar is nabyheid aanmekaar
+   impliseer, wat dit moontlik maak om 'n enkele roetetabel-inskrywing te
+   gebruik om 'n roete na 'n groep adresse te verteenwoordig. Daarom is
+   roetering meer doeltreffend as netwerkstrategie vir groot netwerke en
+   het dit die belangrikste metode vir die ontdekking van datapaaie op die
+   Internet geword.
+
+   Klein netwerke kan klein handopgestelde roetetabelle bevat. Groter
+   netwerke behels komplekse netwerktopologieë en kan voortdurend
+   verander, wat die handmatige opstel van roetetabelle baie problematies
+   maak. Nietemin gebruik die meeste openbare geskakelde telefoonnetwerke
+   gebruik voorafberekende roetetabelle, met alternatiewe rugsteunroetes
+   as die mees direkte roete nie beskikbaar is nie. Dinamiese roetering
+   probeer om die probleem op te los roetetabelle outomaties op te stel,
+   gebaseer op inligting wat deur roeteringsprotokolle oorgedra word en
+   stel die netwerk in staat om bykans onafhanklik netwerkfalings en
+   blokkasies te omseil.
+
+   Dinamiese roetering is die dominante roeteringstrategie op die
+   Internet. Die verstelling van die roeteringsprotokol vereis egter
+   dikwels 'n hoë mate van vaardigheid en kan daar nie goedsmoeds aanvaar
+   word dat netwerktegnologie sover gevorder is dat roetering geheel en al
+   outomaties kan plaasvind nie.
+
+   Pakket-geskakelde netwerke, soos die Internet, verdeel data op in
+   pakkette, wat elkeen 'n etiket kry wat die volledige bestemmingsadres
+   bevat en word dan afsonderlik oor 'n bepaalde roete versend.
+   Stroombaangeskakelde netwerke, soos die telefoonnetwerk, doen ook
+   roetering ten einde geskikte paaie vir stroombane te vind (soos vir 'n
+   telefoonoproep) waaroor groot hoeveelhede data versend kan word sonder
+   om voortdurend die bestemmingsadres te herhaal.
+
+   Die hardeware wat gebruik word tydens roetering is Ethernet-skakelaars
+   en roeteerders.
+
+   In ‘n draadlose netwerk word betroubare data-aflewering beheer deur
+   middel van meganismes soos ontvangserkennings, sekwensiële numering en
+   vloeibeheer.
+
+   Die IEEE 802.11-standaard spesifiseer die gebruik van die
+   CSMA/CA-protokol (Carrier Sense Multiple Access with Collision
+   Avoidence). Ingevolge hierdie protokol sal ‘n nodus wat ‘n datapakkie
+   wat gestuur moet word ontvang, eers seine soek om seker te maak geen
+   ander nodus saai uit nie.
+
+   Indien die kanaal skoon is, sal dit die datapakkie uitsaai, anders sal
+   dit lukraak ‘n tyd bepaal wat die nodus moet wag totdat dit toegelaat
+   word om die pakkie uit te saai. Gedurende die tye wanneer die kanaal
+   skoon is, sal die uitsaaiende nodus sy terugstaanteller sistematies
+   laat aftel (wanneer die kanaal besig is sal die terugstaanteller
+   stilstaan). Wanneer die terugstaanteller nul bereik sal die nodus weer
+   probeer om die datapakkie te stuur. Aangesien die waarskynlikheid dat 2
+   nodusse dieselfde terugstaantydfaktor sal kies baie skraal is, word die
+   kans op ‘n botsing tussen datapakkies dus geminimiseer.
+
+   Botsingsopsporing, soos deur die Ethernet gebruik, kan nie gebruik word
+   by die radiofrekwensietransmissie van IEEE 802.11 nie, aangesien ‘n
+   nodus wat uitsaai nie enige ander nodus in die stelsel wat ook besig is
+   om uit te saai kan hoor nie (sy eie sein sal enige ander sein wat
+   opdaag uitdoof).
+
+   Wanneer ‘n datapakkie uitgesaai gaan word, sal die transmiterende nodus
+   eers ‘n kort gereed-om-uit-te-saai (RTS) pakkie uitstuur wat inligting
+   oor die lengte van die datapakkie bevat. Wanneer die ontvangende nodus
+   die RTS hoor, sal dit reageer met ‘n kort gereed-om-te-stuur (CTS)
+   pakkie. Na hierdie uitruiling stuur die transmiterende nodus die
+   datapakkie. Wanneer die datapakkie suksesvol ontvang word, soos
+   vasgestel deur ‘n sikliese oortolligheidstoets (CRC), sal die
+   ontvangende nodus ‘n ontvangserkenning terugstuur.
+
+   Die volgende logiese problem word dus oorkom met bogenoemde protokol:
+   Nodus A kommunikeer met nodus B en nodus B kan weer kommunikeer met
+   nodus C. Dit beteken dat nodus A mag dink die kanaal is oop terwyl
+   nodus C besig is om uit te saai na nodus B. Die protokol soos hierbo
+   beskryf stel nodus A in kennis dat nodus B besig is en daarom word daar
+   gewag met die uitsaai van die datapakkie.
+
+   Inhoud
+
+        * 1 Dinamiese roeteringsbeginsels
+             + 1.1 Afstandsvektor-algoritmes
+             + 1.2 Skakeltoestand-algoritmes
+             + 1.3 Vergelyking van roeteringsalgoritmes
+        * 2 Roeteringsprotokol
+
+[wysig] Dinamiese roeteringsbeginsels
+
+   As 'n aangeduide pad onbeskikbaar word, moet die bestaande nodus 'n
+   alternatiewe roete bepaal om sy data by sy bestemming uit te kry. Hulle
+   verrig die taak gewoonlik deur gebruik te maak van 'n
+   roeteringsprotokol uit een van twee breër klasse van
+   roeteringsalgoritmes: afstandsvektor-algoritmes en
+   skakeltoestand-algoritmes, wat saam bykans al die roeteringsalgoritmes
+   wat op die Internet in gebruik is omskryf.
+
+[wysig] Afstandsvektor-algoritmes
+
+   Afstandsvektor-algoritmes gebruik die Bellman-Ford algoritme. Hierdie
+   benadering maak gebruik van 'n getal, die koste, van elkeen van die
+   skakels tussen elke node in die netwerk. Nodusse sal inligting vanaf
+   punt A na punt B stuur volgens 'n pad wat die laagste totale koste tot
+   gevolg sal hê (d.w.s. die somtotaal van die kostes van elkeen van die
+   skakels tussen die nodusse langs die betrokke roete).
+
+   Die algoritme werk op 'n baie eenvoudige manier. Wanneer 'n node
+   aanvanklik inskakel, is dit slegs bewus van sy onmiddelike bure en die
+   direkte koste daaraan verbonde om hulle te bereik. (Hierdie inligting,
+   die lys van bestemmings, die totale koste na elkeen en die volgende
+   sprong waarna data versend moet word om daar uit te kom maak die
+   roetetabel uit.) Elke nodus stuur op 'n gereelde basis inligting aan sy
+   onmiddelike bure rondom sy idee van die totale koste om by elkeen van
+   die bestemmings, waarvan dit bewus is, uit te kom. Die naburige nodusse
+   analiseer hierdie inligting en vergelyk dit met wat hulle reeds 'weet';
+   enige inligting wat 'n verbetering verteenwoordig op dit wat hulle
+   reeds het word in hulle roetetabelle ingesluit. Mettertyd sal al die
+   nodusse in die netwerk die beste volgende sprong vir al die bestemmings
+   ontdek om die laagste oorhoofse "koste" te bereik.
+
+   Wanneer een van die nodusse betrokke van lyn af gaan, sal daardie
+   nodusse wat die nodus gebruik het as hul volgende sprong vir sekere
+   bestemmings, daardie inskrywings verwyder en 'n nuwe roetetabel opstel.
+   Hulle stuur dan hierdie inligting aan na alle aangrensende nodusse,
+   waar die proses dan herhaal word. Uiteindelik sal al die nodusse op die
+   netwerk die opgedateerde inligting ontvang en nuwe paaie na die
+   bestemmings ontdek wat hulle kan "bereik".
+
+[wysig] Skakeltoestand-algoritmes
+
+   Wanneer daar van skakeltoestand-algoritmes gebruik gemaak word, gebruik
+   elke nodus 'n kaart van die netwerk in die vorm van 'n grafiek. Om die
+   grafiek te skep moet elke nodus die hele netwerk van inligting verskaf
+   oor watter nodusse waarheen dit kan skakel en elke nodus bou dan
+   hierdie inligting in 'n kaart in. Deur van hierdie kaart gebruik te
+   maak kan elke roeteerder onafhanklik die beste roete van homself af na
+   'n ander nodus bepaal.
+
+   Die algoritme wat gebruik word om dit te doen, die Dijkstra algoritme,
+   doen dit deur 'n ander datastruktuur, 'n boom, te bou met homself as
+   die wortel en wat elke ander nodus in die netwerk bevat. Dit begin met
+   'n boom waar slegs die nodus alleen ingesluit is. Dan word die ander
+   nodusse een op 'n slag bygevoeg vanuit die versameling van nodusse wat
+   nog nie bygevoeg is nie. Om die beurt word die nodus met die laagste
+   koste om 'n nodus wat reeds in die boom verskyn te bereik, bygevoeg.
+   Die proses word dan herhaal totdat elke nodus in die boom verskyn.
+
+   Hierde boom dien dan as bron vir die roetetabel, wat dan inligting soos
+   die beste volgende sprong ens. insluit om die nodus aan enige ander in
+   die netwerk te verbind.
+
+[wysig] Vergelyking van roeteringsalgoritmes
+
+   Afstandsvektor-algoritmes is eenvoudig en doeltreffend in klein
+   netwerke en vereis weinig indien enige bestuur. Hulle kan egter nie
+   baie goed opskaal nie en het baie swak konvergensie eienskappe, wat
+   gelei het tot die ontwikkeling van beter skaalbare skakeltoestand
+   roeteringsprotokolle vir gebruik in groot netwerke. Afstandsvektor
+   protokolle lei ook aan die tel-tot-oneindigheidsprobleem [1].
+
+   Die hoofvoordeel van skakeltoestand-roetering is dat dit vinniger
+   reageer tot veranderings in verbindingstoestande. Die
+   skakeltoestand-pakkette wat oor die netwerk versend word is ook kleiner
+   as die pakkette wat gebruik word in afstandsvektor roetering.
+   Afstandsvektor roetering vereis die versending van 'n nodus se volle
+   roetetabel, terwyl skakeltoestand roetering slegs inligting oor die
+   nodus se onmiddelike bure versend. Daarom is die pakkies klein genoeg
+   om nie betekenisvolle inbreuk te maak op die netwerk se beskikbare
+   bandwydte nie. Die hoofnadeel van skakeltoestand roetering is dat meer
+   stoorspasie en meer berekening vereis word as afstandsvektor roetering.
+
+[wysig] Roeteringsprotokol
+
+   'n Roeteringsprotokol maak die uitruil van roeteringsinligting tussen
+   netwerke moontlik en stel sodoende roeteerders in staat om roetetabelle
+   dinamies saam te stel. Die tradisionele IP-roetering bly eenvoudig
+   omdat dit slegs die volgende sprong roetering gebruik waar enige
+   roeteerder slegs hoef vas te stel waarheen om die pakket volgende te
+   stuur en hom nie hoef te steur aan die opvolgende paaie wat die pakkie
+   moet volg op die oorblywende spronge nie.
+
+   Alhoewel hierdie dinamiese roetering baie ingewikkeld kan raak, maak
+   dit die internet baie buigsaam en het dit die ongekende groei daarvan
+   toegelaat.
+
+   'n Roeteringsmeting (metric in Engels) bestaan uit enige waarde wat
+   deur roeteringsalgoritmes gebruik word om te bepaal watter roete beter
+   as 'n ander sal wees. Metings kan inligting insluit soos bandwydte,
+   vertraging, sprongtelling, padkoste, lading, MTU, betroubaarheid en
+   kommunikasiekoste. Die roetetabelle stoor slegs die beste moontlike
+   roetes, terwyl skakeltoestand-algoritmes of topologiese databasisse
+   alle ander moontlike inligting ook mag stoor.
+
+   Roeteerders gebruik die kenmerk bekend as administratiewe afstand om
+   die beste pad te kies as hulle "weet" van twee of meer verskillende
+   roetes na dieselfde bestemming vanaf twee verskillende
+   roeteringsprotokolle. Administratiewe afstand definieer die
+   betroubaarheid van 'n roeteringsalgoritme. Elke roeteringsprotokol word
+   geprioritiseer in volgorde van die meeste tot die minste betroubare na
+   aanleiding van 'n administratiewe-afstandswaarde.
+
+   Afhangende van die verwantskap van die roeteerder relatief tot ander
+   outonome stelsels, bestaan verskeie klasse van roeteringsprotokolle:
+   Kategorie: Rekenaarnetwerke
+

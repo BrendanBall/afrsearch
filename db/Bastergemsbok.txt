@@ -1,0 +1,73 @@
+Bastergemsbok
+
+
+                    Bastergemsbok
+   Status: van beskerming afhanklik
+   Tydperk: {{{fossil_range}}}
+   'n Bastergemsbok in Zambië
+   'n Bastergemsbok in Zambië
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bovidae
+     Subfamilie:   Hippotraginae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Hippotragus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. equinus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                 Hippotragus equinus
+   Desmarest, 1804
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die bastergemsbok (Hippotragus equinus) is 'n grasveld wildsbok wat
+   aangetref word in Wes-, Sentraal-, Oos- en Suidelike Afrika. Die
+   bastergemsbok is ongeveer 'n meter en 'n half hoog by die skouer en
+   weeg ongeveer 250 kilogram. Hulle is ligbruin van kleur met 'n
+   ligkleurige maag, wit ooghare en wange met 'n swart gesig. Kort regop
+   maanhare word aangetref en 'n ligte baard. Die horings is gering en kan
+   tot 'n meter lank word by bulle, bietjie korter by koeie. Die horings
+   buig ietwat na agter.
+
+   Die bastergemsbok word aangetrek in grasvelde waar hulle mid-lengte
+   gras vreet. Hulle vorm haremgroepe van vyf tot vyftien diere met een
+   dominante bul. Hulle veg dikwels ondermekaar vir dominansie van die
+   trop deur horings te stamp terwyl daar op die knieë gekniel word.
+   Kategorie: Soogdiere
+

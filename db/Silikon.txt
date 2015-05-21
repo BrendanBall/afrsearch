@@ -1,0 +1,277 @@
+Silikon
+
+
+
+                       aluminium – silikon – fosfor
+             C
+            Si
+            Ge
+
+
+              Silikon in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal Silikon, Si, 14
+                                              Chemiese reeks metaalagtiges
+                                      Groep, Periode, Blok 14 (IVA), 3 , p
+                                       Digtheid, Hardheid 2330 kg/m^3, 6.5
+                                      Voorkoms donkergrys met 'n blou tint
+                                                           Atoomeienskappe
+                                                    Atoomgewig 28,0855 ame
+                                         Atoomradius (ber.) 110 (111) pm]]
+                                                   Kovalente radius 111 pm
+                                               van der Waals radius 210 pm
+                                        Elektronkonfigurasie [Ne]3s^2 3p^2
+                                           e^− e per energievlak 2, 8, 4
+                                Oksidasietoestande (Oksied) 4 (amfoteries)
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (nie-magneties)
+                                               Smeltpunt 1687 K (1414 °C)
+                                                Kookpunt 3173 K (2900 °C)
+                                    Molêre volume 12.06 ×10^−6 m^3/mol
+                                           Verdampingswarmte 384.22 kJ/mol
+                                              Smeltingswarmte 50.55 kJ/mol
+                                              Dampdruk 4.77 Pa teen 1683 K
+                                        Spoed van klank ___ m/s teen ___ K
+                                                                  Algemeen
+                                  Elektronegatiwiteit 1.90 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 700 J/(kg*K)
+                          Elektriese geleidingsvermoë 2.52 10^-4/(m·ohm)
+                                    Termiese geleidingsvermoë 148 W/(m*K)
+                                    1^ste ionisasiepotensiaal 786.5 kJ/mol
+                                    2^de ionisasiepotensiaal 1577.1 kJ/mol
+                                    3^de ionisasiepotensiaal 3231.6 kJ/mol
+                                    4^de ionisasiepotensiaal 4355.5 kJ/mol
+                                     5^de ionisasiepotensiaal 16091 kJ/mol
+                                     6^de ionisasiepotensiaal 19805 kJ/mol
+                                     7^de ionisasiepotensiaal 23780 kJ/mol
+                                    8^ste ionisasiepotensiaal 29287 kJ/mol
+                                     9^de ionisasiepotensiaal 33878 kJ/mol
+                                    10^de ionisasiepotensiaal 38726 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso    NV   halfleeftyd VM  VE MeV   VP
+                                ^28Si 92.23% Si is stabiel met 14 neutrone
+                                ^29Si 4.67%  Si is stabiel met 15 neutrone
+                                ^30Si 3.1%   Si is stabiel met 16 neutrone
+                                ^32Si sin    276 jaar    β^- 0.224  ^32P
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Silikon (Latyn: Silicium) is die chemiese element in die periodieke
+   tabel met die simbool Si en atoomgetal van 14.
+
+   As 'n Tetravalente metaalagtige element is silikon minder reaktief as
+   sy chemiese analoog, koolstof. Dit is die tweede volopste element in
+   die Aarde se kors en maak 25.7% daarvan uit in gewig. Dit kom voor in
+   klei, veldspaat, graniet, kwarts en sand, hoofsaaklik in die vorm van
+   silikondioksied (ook bekend as silika) en silikate (verbindings wat
+   silikon, suurstof en metale bevat). Silikon is die hoofbestanddeel van
+   glas, sement, keramieke, die meeste halfgeleiermateriale en silikone.
+   Laasgenoemde plastiese stof word dikwels verwar met silikon. Silikon
+   word meer algemeen as Germanium gebruik as halfgeleier, omdat Germanium
+   probleme het met terugwaartse lekstroom vloei.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Vervaardiging
+        * 6 Suiwering
+             + 6.1 Fisiese metodes
+             + 6.2 Chemiese metodes
+             + 6.3 Kristallisasie
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   In sy kristallyne vorm het silikon 'n metaalglans en 'n gryserige
+   kleur. Selfs al is dit 'n relatief inerte element, reageer silikon
+   steeds met halogene en verdunde alkalieë, maar die meeste sure (behalwe
+   vir 'n kombinasie van salpetersuur en fluoorsuur het geen invloed
+   daarop nie. Elementêre silikon is deurlaatbaar vir 95% van die
+   golflengtes van infrarooi lig. Suiwer silikon kristalle word selde in
+   die natuur aangetref, aangesien natuurlike silikon gewoonlik as silika
+   (SiO[2]) voorkom. Suiwer silikon kristalle kan gevind word as
+   insluitsels in goud of in vulkaniese uitbarstings. Dit het 'n negatiewe
+   temperatuur weerstandskoëffisiënt.
+
+[wysig] Aanwendings
+
+   Silikon is 'n baie nuttige element wat noodsaaklik is vir baie menslike
+   bedrywighede. Silikondioksied in die vorm van sand en klei is 'n
+   belangrike bestanddeel van beton en bakstene en word ook gebruik in die
+   vervaardiging van Portland sement. Silikon is 'n baie belangrike
+   bousteen in plant- en dierelewe. Diatome onttrek silika uit water om
+   hulle beskermende selwande te bou. Ander aanwendings is:
+     * Erdewerk/Emalje - Dit is 'n vuurvaste materiaal wat gebruik word
+       vir hoë temperatuur vervaardiging van materiale en die silikate
+       word gebruik vir die maak van emaljes en erdewerk.
+     * Staal - Silikon is 'n belangrike bestanddeel van sommige
+       staalsoorte.
+     * Glas - Silika uit sand is die hoofkomponent van glas. Glas kan in
+       'n verskeidenheid vorms gegiet word en word onder andere gebruik om
+       vensterglas, houers en isolators te maak.
+     * Skuurmiddels - Silikonkarbied is een van die belangrikste
+       skuurmiddels.
+     * Halfgeleiers - Ultra-suiwer silikon kan met arseen, boor, gallium
+       of fosfor gedopeer word om silikon meer geleidend te maak vir
+       gebruik in transistors, sonselle en ander halfgeleier apparate.
+     * Fotonika - Silikon kan gebruik word in lasers om koherente lig met
+       'n golflengte van 456 nm te produseer.
+     * Geneeskundige materiale - Silikone is buigbare stowwe wat
+       silikon-suurstof en silikon-koolstof verbindings bevat; hulle word
+       baie gebruik vir aanwendings soos kunsmatige bors-inplantings en
+       vir kontaklense.
+     * Vloeibare kristalskerms (LCD's) en sonselle - Gehidrogineerde
+       amorfe silikon toon belofte vir die vervaardiging van lae koste,
+       groot-oppervlak elektronikatoepassings soos rekenaarskerms asook
+       vir laekoste sonselle.
+     * Konstruksie - Silika is 'n hoofbestandeel in bakstene vanweë sy lae
+       chemiese aktiwiteit.
+
+[wysig] Geskiedenis
+
+   Silikon (Latyn silex, silicis wat vuursteen beteken) is eerste deur
+   Antoine Lavoisier in 1787 geïdentifiseer en is later deur Humphry Davy
+   in 1800 verkeerdelik met 'n chemiese verbinding verwar. In 1811 het Gay
+   Lussac en Thénard waarskynlik 'n onsuiwere mengsel van amorfe silikon
+   berei deur kalium saam met silikon tetrafluoried te verhit. In 1824 het
+   Berzelius amorfe silikon voorberei deur ongeveer dieselfde metode te
+   gebruik. Berzelius het ook die produk verder gesuiwer deur dit
+   herhaaldelik te was.
+
+[wysig] Verspreiding
+
+   Silikon is die hoofkomponent van aeroliete wat 'n klas van meteoroïde
+   is en ook van tektiete wat 'n natuurlike glas is.
+
+   Per gewig, maak silikon ongeveer 25.7% van die Aarde se kors uit en na
+   suurstof is dit ook die tweede volopste element. Elementêre silikon
+   word nie in die natuur aangetref nie. Dit kom meestal as oksiede en
+   silikate voor. Sand, ametis, agaat, kwarts, rotskristal, vuursteen
+   (flint), jaspis en opaal is sommige van die vorms waarin die oksied
+   voorkom. Graniet, asbes, veldspaat, klei, hoornblende en mika is maar
+   'n paar van die vele silikaat bevattende minerale.
+
+[wysig] Vervaardiging
+
+   Silikon word kommersieel vervaardig deur die verhitting van hoë
+   suiwerheid silika in 'n elektriese boogoond met koolstof elektrodes. By
+   temperature hoër as 1900 °C word die silika na silikon gereduseer deur
+   die koolstof volgens die chemiese vergelyking
+
+          SiO[2] + C → Si + CO[2]
+
+   Vloeibare silikon versamel dan in die bodem van die oond en word dan
+   gedreineer en verkoel. Die silikon wat so geproduseer word, word
+   metallurgiese graad silikon genoem en het 'n suiwerheid van ten minste
+   99%. In 1997, het metallurgiese graad silikon ongeveer $ 0.50 per g
+   gekos; in 2000 het die gemiddelde prys vir silikonmetaal gedaal na 56
+   Amerikaanse sent per pond [1].
+
+[wysig] Suiwering
+
+   Die gebruik van silikon in halfgeleier apparatuur vereis 'n baie hoër
+   suiwergheidsgraad as wat toelaatbaar is vir mettalurgiese graad
+   silikon. Geskiedkundig is verskeie tegnieke gebruik om hoë suiwerheid
+   silikon te vervaardig.
+
+[wysig] Fisiese metodes
+
+   Vroeëre silikonsuiweringsmetodes was gebaseer op die feit dat wanneer
+   vloeibare silikon begin stol, dit die onsuiwerste silikon is wat laaste
+   stol. Die vroegste metode van silikonsuiwering, wat eerste in 1919
+   beskryf is en in beperkte hoeveelhede gebruik is om radarkomponente
+   tydens die Tweede Wêreldoorlog te vervaardig, het die maal van
+   mettalurgiese graad silikon en dan gedeeltelike oplossing daarvan in 'n
+   suur behels. Wanneer dit gemaal is het die silikon gekraak op sodanige
+   wyse dat die swakker onsuiwer liggings aan die buitekant van die
+   silikonkorrels voorgekom het. Die gevolg was dat die onsuiwere silikon
+   eerste opgelos is as dit met 'n suur behandel is en daarom die
+   suiwerder silikon produk agtergelaat het.
+
+   Met die sonesmeltingstegniek, die eerste metode wat industrieel
+   aangewend is, word stawe metallurgiese graad silikon verhit totdat die
+   een kant begin smelt. Die verhitter word dan stadig teen die lengte van
+   die staaf afbeweeg en sodoende word 'n kort lengte van die staaf
+   heeltyd in die gesmelte toestand gehou soos die silikon daaragter weer
+   verkoel en stol. Aangesien die meeste onsuiwerhede geneig is om in die
+   gesmelte toestand te wil bly is dit geneig om heeltyd in die gesmelte
+   sone te bly. Wanneer die proses dus afgehandel is, het die meeste
+   onsuiwerhede dus na die punt wat laaste gesmelt is beweeg. Hierdie punt
+   word dan afgesny en weggegooi en die proses word dan weer herhaal
+   indien 'n hoër suiwerheid verlang word.
+
+[wysig] Chemiese metodes
+
+   Vandag word silikon eerder gesuiwer deur dit na 'n silikonverbinding om
+   te skakel wat makliker gesuiwer kan word as die silikon self en die
+   suiwer verbinding weer om te skakel na silikon. Trichlorosilaan is die
+   silikonverbinding wat mees dikwels gebruik word, al word
+   silikontetrachloried en silaan ook gebruik. Wanneer hierdie gasse oor
+   silikon geblaas word teen hoër temperature ontbind hulle na silikon met
+   'n hoë suiwerheidsgraad.
+
+   In die Siemens proses word hoë suiwerheid silikonstawe blootgestel aan
+   trichlorosilaan teen 1150°C. Die trichlorosilaangas ontbind en vorm 'n
+   addisionele silikon neerslag op die stawe volgens die volgende chemiese
+   reaksie:
+
+          2 HSiCl[3] → Si + 2 HCl + SiCl[4]
+
+   Silikon vervaardig met hierdie en ander soortgelyke prosesse word
+   poli-kristallyne silikon genoem. Die vlakke van onsuiwerheid in
+   Poli-kristallyne silikon is tipies in die omgewing van 1 deel per
+   biljoen of minder.
+
+   DuPont het op 'n tyd 'n ultra-suiwer silikon vervaardig deur
+   silikontetrachloried met hoë suiwerheid sinkdampe te reageer teen
+   950°C, en sodoende silikon geproduseer het volgens die vergelyking:
+
+          SiCl[4] + 2 Zn → Si + 2 ZnCl[2]
+
+   Die tegniek was egter besaai met praktiese probleme (soos die
+   sinkchloried byproduk wat gestol het en die lyne geblokkeer het) en is
+   uiteindelik uitgefaseer ten gunste van die Siemens proses
+
+[wysig] Kristallisasie
+
+   Die Czochralski proses word dikwels gebruik om hoë suiwerheid silikon
+   kristalle te maak vir gebruik in vastetoestand/halfgeleier apparate.
+
+[wysig] Isotope
+
+   Silikon het nege isotope, met massagetalle tussen 25 en 33. Si-28 (die
+   volopste isotoop, teen 92.23%), Si-29 (4.67%) en Si-30 (3.1%) is
+   stabiel; Si-32 is 'n radio-aktiewe isotoop wat geproduseer word deur
+   die verval van argon. Si-32 se halfleeftyd na vele debat is vasgestel
+   om as ongeveer 276 jaar, en dit verval deur beta-emissie na P-32 (wat
+   'n 14.28 jaar halfleeftyd het) en dan na S-32.
+
+[wysig] Voorsorgmaatreëls
+
+   'n Ernstige longsiekte wat bekend staan as silikose (stoflong) kom
+   dikwels voor in myners, steensnyers en ander mense wat werk in 'n
+   omgewing waar silikahoudende stof in groot hoeveelhede ingeasem word.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Silicon
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Silicon
+     * EnvironmentalChemistry.com – Silicon
+     * Mineral.Galleries.com – Silicon
+
+   Kategorie: Chemiese elemente
+

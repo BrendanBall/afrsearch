@@ -1,0 +1,170 @@
+NASDAQ
+
+
+   NASDAQ ('n akroniem vir National Association of Securities Dealers
+   Automated Quotations) is 'n elektroniese effektebeurs in die V.S.A. Dit
+   is deur die National Association of Security Dealers (NASD) in die
+   V.S.A gestig wat dit in 'n reeks transaksies in 2000 en 2001 van die
+   hand gesit het. Dit word tans besit en bestuur deur The Nasdaq Stock
+   Market Inc. wat in 2002 op sy eie beurs genoteer is. Die NASDAQ is die
+   grootste elektroniese skerm gebasseerde elektroniese effektebeurs in
+   die Verenigde State. Meer maatskappye (~3200) is daar genoteer as in
+   enige ander V.S.A beurs en daar word daagliks ook meer aandele
+   verhandel as op enige ander mark in die V.S.A. Die huidige uitvoerende
+   direkteur is Robert Greifeld.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Besigheid
+        * 3 Eienaars
+        * 4 Markte
+        * 5 Indekse
+
+[wysig] Geskiedenis
+
+   Toe daar begin is met aandeleverhandeling op 8 Februarie 1971 was dit
+   die wêreld se eerste elektroniese effektebeurs. Op 17 Julie 1995 het
+   die NASDAQ vir die eerste keer die 1 000 punt merk verbygesteek. Die
+   indeks het sy hoogtepunt van 5132.52 op 10 Maart 2000 bereik wat dan
+   ook die teken was dat die einde van die dot-com oplewing. Toe die
+   borrel bars het die indeks die helfte van sy waarde in minder as 'n
+   halwe jaar verloor en staan nog steeds op minder as die helfte van sy
+   waarde tydens sy hoogtepunt. [1] Die NASDAQ bly egter steeds die V.S.A
+   se grootste elektroniese effektebeurs.
+   Die NASDAQ saamgestelde indeks wat swaar gelaai is met tegnologie
+   aandele het sy hoogtepunt Maart 2000 bereik wat ooreengestem het met
+   die hoogtepunt van die dot-com borrel. In minder as 'n jaar het dit
+   gedaal tot minder as die helfte van sy piekwaarde.
+   Die NASDAQ saamgestelde indeks wat swaar gelaai is met tegnologie
+   aandele het sy hoogtepunt Maart 2000 bereik wat ooreengestem het met
+   die hoogtepunt van die dot-com borrel. In minder as 'n jaar het dit
+   gedaal tot minder as die helfte van sy piekwaarde.
+
+[wysig] Besigheid
+
+   Die NASDAQ laat veelvuldige markdeelnemers toe om handel te dryf oor sy
+   elektroniese kommunikasie netwerkstukture, wat kompetisie verhoog. Die
+   verwerkingstelsel vir klein bestellings is nog 'n kenmerk van die
+   NASDAQ wat in 1984 bekend gestel is om te verseker dat klein
+   bestellings in 'n besige mark nie vergete raak nie maar outomaties
+   verwerk word. Met ongeveer 3200 maatskappy genoteer, lys dit meer
+   maatskappy en verhandel dit ook meer aandele as enige ander beurs ter
+   wêreld. Die maatskappy daar genoteer is leiers in allerlei
+   besigheidsvelde insluitend tegnologie, kleinhandel, kommunikasie,
+   finansiële dienste, vervoer, media en biotegnologie.
+
+[wysig] Eienaars
+
+   Yahoo! data
+     * NATIONAL ASSOCIATION OF SEC. DEALERS INC.: 30 persent
+
+[wysig] Markte
+
+     * NASDAQ National Market
+     * NASDAQ Capital Market
+
+[wysig] Indekse
+
+   Die volgende soorte effekte kwalifiseer vir insluiting by die indekse.
+   Daar word nie onderskeid getref tussen die NASDAQ National Market of
+   die NASDAQ SmallCap Market nie en ook nie tussen plaaslike en
+   buitelandse effekte nie.
+
+   Klas van Effekte
+     * American Depositary Receipts (ADRs)
+     * Common
+     * Limited Partnership Interests
+     * Gewone Aandele
+     * Vaste Eiendom Bellegingstrusts
+     * Shares of Beneficial Interest (SBIs)
+     * Tracking Stocks
+
+   Die volgende tipes effekte kan nie by die indekse ingesluit word nie:
+   closed-end funds, convertible debentures, exchange traded funds,
+   voorkeuraandele, rights, warrants, units en ander derivative
+   securities.
+
+   NASDAQ-100 Indeks
+
+   Die NASDAQ-100 Indeks sluit 100 van die grootste (volgens
+   markkapitalisasie) nie-finansiële maatskappye in wat op die NASDAQ
+   genoteer is. Die Indeks dek maatskappye oor hoof industriële sektore
+   wat rekenaarhardeware en -sagteware, telekommunikasie, klein- en
+   groothandel en biotegnologie insluit. Dit sluit geen finansiële
+   maatskappye in nie. Die NASDAQ-100 indeks word bereken volgens 'n
+   kapitalisasie geweegde metode.
+
+   Op 31 Januarie 1985 het die NASDAQ-100 Indeks begin vanaf 'n basis van
+   250.00. Op 1 Januarie 1994 is die NASDAQ-100 basis herset na 125.00
+   deur dit met 'n faktor van 2.00 te deel.
+
+   NASDAQ Finansiële-100 Indeks Die NASDAQ Finansiële-100 indeks sluit 100
+   van die grootste finansiële maatskappye in wat op die NASDAQ
+   effektebeurs genoteer is. Hulle sluit in maatskappye wat deur die ICB
+   (Industry Classification Benchmark) geklassifiseer word as Finansiële
+   maatskappye wat ook ingesluit is by die NASDAQ Bank, Versekering en
+   ander Finansiële indekse.
+
+   Op 31 Januarie 31 1985 het die NASDAQ Finansiële-100 Indeks begin vanaf
+   'n basis van 250.00 punte.
+
+   NASDAQ Saamgestelde Indeks
+
+   Die NASDAQ Saamgestelde Indeks meet al die plaaslike en buitelandse
+   aandele wat op die NASDAQ beurs genoteer is. Vandag sluit die NASDAQ
+   Saamgestelde Indeks meer as 3000 maatskappye in. Omdat dit so 'n breë
+   basis het, is dit een van die groot markindekse wat die meeste
+   aangehaal word.
+
+   Op 5 Februarie 1971 het die NASDAQ Saamgestelde Indeks afgeskop met 'n
+   basis van 100.00 punte.
+
+   NASDAQ Nasionale Mark Saamgestelde Indeks
+
+   Die NASDAQ Nasionale Mark Saamgestelde Indeks is 'n onderafdeling van
+   die NASDAQ Saamgestelde Indeks en bestaan uit al die maatskappye wat in
+   die op die Nasionale Mark groep van die NASDAQ genoteer is.
+
+   Op 10 Julie 1984 het die NASDAQ Nasionale Mark Saamgestelde Indeks
+   vanaf 'n 100.00 basispunte afgeskop.
+
+   NASDAQ Bankindeks
+
+   Die NASDAQ Bank Indeks sluit die NASDAQ genoteerde maatskappye in wat
+   volgens die ICB as banke geklassifiseer is. Hulle sluit banke in wat 'n
+   wye reeks finansiële dienste aanbied met 'n groot kleinhandelsbank- en
+   geldwisselaarskomponent insluit.
+
+   Op 5 Februarie 1971 het die NASDAQ Bank Indeks met 100.00 basispunte
+   afgeskop.
+
+   NASDAQ Biotegnologie Indeks
+
+   Die NASDAQ Biotegnologie indeks bevat maatskappye wat volgens die ICB
+   as biotegnologies of farmaseuties geklassifiseer is. Die NASDAQ
+   Biotegnologie Indeks word bereken volgens 'n kapitalisasie geweegde
+   metode.
+
+   Op 1 November 1993 het die NASDAQ Biotegnologie Indeks met 200.00
+   basispunte afgeskop.
+
+   NASDAQ Rekenaarindeks
+
+   Die NASDAQ Rekenaarindeks bevat NASDAQ genoteerde maatskappye wat
+   volgens die ICB as Rekenaarhardeware verskaffers,
+   Halfgeleierkomponentvervaardigers asook Sagteware en
+   Rekenaardiensteverskaffers geklassifiseer is. Hulle sluit ondernemings
+   in wat rekenaars en verwante elektroniese dataproseseringstoerusting
+   vervaardig, halfgeleierkapitaaltoerusting, vervaardigers en verskaffers
+   van silikonskywe en geïntegreerde stroombane, verskaffers van
+   rekenaardienste en IT konsultante, Internet toegangverskaffers,
+   internet sagteware-ontwikkelaars en aanlyn diensteverskaffers asook
+   vervaardigers en verspreiding van internetsagteware en internet
+   diensteverskaffers.
+
+   Op 1 November 1993 het die NASDAQ Rekenaarindeks afgeskop met 200.00
+   basispunte.
+   Kategorieë: Ekonomie • Verenigde State van Amerika •
+   Effektebeurs-indekse
+

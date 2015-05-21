@@ -1,0 +1,31 @@
+Elektroniese komponent
+
+
+   Verskeie komponente
+   Verskeie komponente
+
+   'n Elektroniese komponent is 'n basiese elektroniese element wat
+   gewoonlik in 'n diskrete vorm verpak word met twee of meer
+   verbindingsdrade of metaalgeleiers. Die komponente is bedoel om
+   aanmekaar verbind te word, gewoonlik deur soldeerwerk op 'n gedrukte
+   stroombaan om 'n elektroniese stroombaan te skep wat 'n besondere
+   funksie verrig (byvoorbeeld 'n versterker, radio-ontvanger of 'n
+   ossilator). Komponente kan een een verpak word (resistor, kapasitor,
+   transistor, diode ens.) of in meer of minder komplekse groeperinge in
+   geïntegreerde stroombane (operasionele versterkers, resistor-roosters,
+   logiese hekke ens.)
+
+   Dikwels word elektroniese komponente meganies gestabiliseer, die
+   isolasie eienskappe verbeter en beskerm teen omgewingsfaktore deur dit
+   in 'n hars te omhul.
+
+   Komponente kan passief of aktief wees:
+     * Passiewe komponente is daardie komponente wat nie 'n versterking of
+       rigtingsgebondenheid het nie.^[1] In die elektroniese bedrywe word
+       na hul verwys as elektriese elemente of elektriese komponente.
+     * Aktiewe komponente is daardie wat versterking of
+       rigtingsgebondenheid het. Hulle sluit halfgeleiertoestelle en
+       termioniese kleppe (Vakuumbuise) in.
+
+   Kategorie: Elektronika
+

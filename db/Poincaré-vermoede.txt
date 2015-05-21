@@ -1,0 +1,23 @@
+Poincaré-vermoede
+
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   In 1904 het die Franse wiskundige Henri Poincaré die volgende vraag
+   gestel (in die terme van die topologie):
+
+          Is dit moontlik vir 'n drie-dimensionele kompakte menigvoud
+          (Engels: manifold) sonder rand om enkelvoudig samehangend te
+          wees en nié homeomorf aan die drie-dimensionele sfeer nie?
+
+   Hierdie probleem is tot op hede nie opgelos nie, hoewel daar teen die
+   einde van 2003 berig is dat die wiskundige Perelman, oorspronlik van
+   Rusland, dié vermoede kon bevestig met 'n korrekte bewys. Die
+   bevestiging of weerspreking van die Poincaré-vermoede sal beloon word
+   met 'n prys van een miljoen VS-dollar deur die Clay-instituut vir
+   wiskunde.
+
+   Die homoloog van dié probleem in twee dimensies is natuurlik opgelos.
+   Kategorieë: Saadjies • Wiskunde
+

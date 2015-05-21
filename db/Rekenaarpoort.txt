@@ -1,0 +1,41 @@
+Rekenaarpoort
+
+
+   Poorte op die Apple iBook (Vroeg 2003)
+   Poorte op die Apple iBook (Vroeg 2003)
+
+   In rekenaarhardeware dien 'n poort as 'n koppelvlak tussen die rekenaar
+   en ander rekenaars of toestelle in die vorm van 'n elektries bedrade
+   hegstuk op 'n stuk toerusting waarin 'n prop of kabel gekonnekteer
+   word. Hierdie hardeware poorte het verskillende fisiese vorme, groottes
+   en eienskappe soos onder andere manlik, vroulik, rond, vierkantig,
+   langwerpig ensovoorts. Daar bestaan verskeie standaarde ten opsigte van
+   die fisiese eienskappe en funksies van poorte. Die meeste rekenaars het
+   byvoorbeeld 'n poort vir 'n sleutelbord (tans meestal 'n ronde DIN6
+   vroulike poort).
+
+   Hardeware poorte kan bykans altyd in twee groepe verdeel word:
+     * Serie-poorte stuur en ontvang een bis op 'n slag deur 'n enkele
+       draadpaar (Grond en +/-).
+     * Parallelle poorte stuur veelvuldige bisse op dieselfde tyd oor
+       verskeie stelle drade.
+
+   Die stelselbus wat die stroombane insluit van 'n rekenaar se Moederbord
+   is 'n vorm van 'n parallelle poort.
+
+   Daar bestaan ook tegnologie om veelvuldige hardeware poorte in 'n
+   enkele groep saam te voeg en sodoende 'n enkele verbinding te skep met
+   'n hoër bandwydte (Engels: Hardware port trunking of HPT). Hierdie
+   tegnologie verskaf ook 'n hoër mate van foutspeling.
+
+[wysig] Sien ook
+
+     * FireWire
+     * USB(1.1)/(2.0)
+     * Bluetooth
+     * Wifi
+     * Parallelle poort
+     * Serie-poort
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,67 @@
+Bepaaldheid
+
+
+   Bepaaldheid is in grammatika 'n eienskap van naamwoordfrases en
+   onderskei tussen entiteiete wat spesifiek en identifisserbaar is in 'n
+   gegewe konteks (bepaalde naamwoordfrase) en entitiete wat nie is nie
+   (onbepaalde naamwoordfrases).
+
+   Daar is heelwat wisseling in die uitdruk van bepaaldheid oor
+   verkillende tale. In smoggige tale, soos Afrikaans, word 'n bepaalde
+   (die) of onbepaalde ('n) lidwoord gebruik om beplaaldheid aan te dui.
+   In die algemeen kan 'n lidwoord vrye vorm hê, 'n frasale klitikum wees,
+   of 'n affiks (toevoeging) tot die selfstandige naamwoord om die
+   bepaalde naamwoordfrase te merk. Voorbeelde sluit in:
+     * Vrye vorm: Afrikaans die seun;
+     * Frsale klitikum: soos in Baskies: Cf. emakume ("vrou"), emakume-a
+       (vrou-LIDWOORD: "die vrou"), emakume ederr-a (vrou mooi-LIDWOORD:
+       "die mooi vrou")
+     * Selfstandige naamwoord affiks: soos in Roemeens: om ("man"), om-ul
+       (man-LIDWOORD: "die man"); om-ul bun (man-LIDWOORD goed: "die goeie
+       man")
+     * Voorvoegsel op beide selfstandige naamwoord en byvoeglike
+       naamwoord: Arabies al-kitāb al-kabīr الكتاب الكبير met twee
+       voorkomste van al- (BEPAALD-book-BEPAALD-big, letterlik, "die boek
+       die groot")
+
+   Germaanse, Romaanse, Keltiese, Semitiese, en hulp tale het gewoonlik 'n
+   bepaalde lidwoord, wat soms as 'n postposisie gebruik word. Baie ander
+   tale het nie 'n bepaalde lidwoord nie. Sommige voorbeelde daarvan is
+   Sjinees, Japannees, Fins, en die Slawiese tale behalwe Bulgaars en
+   Macedonies. Indien nodig mag sulke tale bepaaldheid aandui deur aander
+   meganismes soos aanwysende voornaamwoorde.
+
+   Bepaaldheid koppel baie keer met die merk van naamvalle in sekere
+   sintaktiese kontekste. In baie tale verkry direkte voorwerpe duidelike
+   merke selgs as dit bepaald is. Byvoorbeeld in Turks word die direkte
+   voorwerp in die sin adamları gördüm ("Ek het die mans gesien") gemerk
+   met die agtervoegsel -ı om bepaaldheid aan te dui. Die gebrk aan die
+   agtervoegsel sou beteken dat die direkte voorwerp onbeplaad sou wees
+   ("Ek het mans gesien").
+
+   In Serwies-Kroaties, en tot 'n mibdere mate in Sloweens, kan
+   bepaaldheid morfologies uitgedruk word op prenominale byvoeglike
+   naamwoorde. Die verkorte vorm van die byvoeglike naamwoord word
+   geïnterpreteer as onbepaald (nov grad "'n nuwe stad"), terwyl die lang
+   vorm bepaald en/of spesifiek is (novi grad "die nuwe stad, 'n skere
+   nuwe stad").
+
+   In Japannees, 'n taal wat selfstandige naamwoord funksies met
+   postposisies aan dui, kan die "topic marker" (wa) bepaaldheid insluit.
+   Byvoorbeeld, "uma wa" kan beteken "die perd", terwyl "uma ga" kan
+   beteken "'n perd".
+
+   In sommige tale affekteer die bepaaldheid van die voorwerp die
+   oorganklikheid van die [[werkwoord.
+
+[wysig] Verwysings
+
+     * Aljović, Nadira (2002). "Long adjectival inflection and specificity
+       in Serbo-Croatian". Recherches linguistiques de Vincennes 31:
+       27–42. Retrieved on 2007-03-30.
+     * Hawkins, J.A. (1978) Definiteness and indefiniteness: a study in
+       reference and grammaticality prediction. London:Croom Helm.
+     * Lyons, Christopher (1999) Definiteness. Cambridge University Press.
+
+   Kategorie: Taalkunde
+

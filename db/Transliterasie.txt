@@ -1,0 +1,53 @@
+Transliterasie
+
+
+   Transliterasie is die omskakeling van een alfabet in ’n ander,
+   byvoorbeeld die Cyrilliese alfabet in die Latynse alfabet. Die
+   belangrikste vereiste van ’n transliterasie-stelsel is dat ’n leser die
+   oorspronklike uitspraak van ’n woord wat in ’n vreemde alfabet gespel
+   is, korrek sal kan aflei. Dus moet dit getranslitereer word volgens die
+   reëls van sy eie taal.
+
+   Dit lei tot verskillende spellings in verskillende tale, want elke taal
+   spel die woord eie aan sy taalreëls. Die Russiese van Хрущёв kan
+   byvoorbeeld op die volgende maniere getranslitereer word: Chroesjtsjof
+   (Afrikaans), Khrushchev (Engels), Chroesjtsjov (Nederlands),
+   Chruschtschow (Duits), Khrouchtchev (Frans), Chrusjtjov (Sweeds),
+   Chruščëv (Italiaans), Hruščov (Kroaties), חרושצ'וב (Hebreeus) en
+   خوروشوف (Arabies).
+
+[wysig] Transliterasie-tabel
+
+   Hieronder volg voorbeelde van hoe die Afrikaanse en Engelse
+   transliterasie van Russiese name en woorde verskil.
+
+   CAPTION: Verskil tussen Afrikaanse en Engelse transliterasie
+
+   Cyrilliese
+   letter(s)  Engelse
+             letter(s) Afrikaanse
+                       letter(s)   Russiese
+                                 spelling       Engelse
+                                             spelling       Afrikaanse
+                                                           spelling
+   у         u         oe        Путин       Putin         Poetin
+   ш         sh        sj        Пушкин      Pushkin       Poesjkin
+   ч         ch        tsj       чай         chay          tsjai
+   щ         shch      sjtsj     Хрущёв      Khrushchev    Chroesjtsjof
+   х         kh        ch        Михаил      Mikhail       Michail
+   ж         zh        zj        Брежнев     Brezhnev      Brezjnef
+   дж        j         dj        Таджикистан Tajikistan    Tadjikistan
+   кс        x         ks        Александр   Alexander     Aleksander
+   й         y         j of
+                       i         район
+                                 трамвай     rayon
+                                             tramvay       rajon
+                                                           tramwai
+   ы         y         i         Кырилл      Kyrill        Kirill
+   в         v         w of
+                       f         Правда
+                                 Горбачёв    Pravda
+                                             Gorbachev     Prawda
+                                                           Gorbatsjof
+   Kategorieë: Taalkunde • Russies • Rusland
+

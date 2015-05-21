@@ -1,0 +1,40 @@
+Ontwerpspatroon (rekenaarwetenskap)
+
+
+   'n Ontwerpspatroon identifiseer en isoleer die sleutelaspekte van
+   algemene ontwerpsprobleme en verskaf algemene oplossings vir hierdie
+   probleme binne die gegewe probleemdomein.
+
+   In die geval van objekgeoriënteerde programontwerp, verskaf
+   ontwerpspatrone algemene abstraksies vir die skepping van herbruikbare
+   objekgeoriënteerde ontwerpe.
+
+   Ontwerpspatrone identifiseer:
+     * Deelnemende klasse
+     * Konkrete instansies van hierdie klasse
+     * Die rolverdelings en interaksies tussen klasse en objekte
+     * Verdeling van verantwoordelikheid tussen klasse en objekte
+
+[wysig] Oorsprong
+
+   Die konsep van ontwerpspatrone is aanvanklik deur die argitek
+   Christopher Alexander et al gepubliseer. Hy het die oplossings vir
+   algemene ontwerpsprobleme in argitektuur en stadsbeplanning
+   geïdentifiseer.
+
+   In 1987 het Kent Beck and Ward Cunningham begin eksperimenteer met die
+   toepassing van ontwerpspatrone in programontwerp en het hulle
+   bevindinge voorgedra by die OOPSLA-konverensie van daardie jaar.
+
+   Ontwerpspatrone het baie populêre byval begin vind na die publikasie
+   van die boek Design Patterns: Elements of reusable Object-Orientated
+   Software deur Erich Gamma, Richard Helm, Ralph Johnson en John
+   Vlissides
+
+[wysig] Verwysing
+
+     * Gamma, Helm, Johnson, Vlissides. Design Patterns: Elements of
+       reusable Object-Orientated Software. Addison-Wesley
+
+   Kategorie: Rekenaarwetenskap
+

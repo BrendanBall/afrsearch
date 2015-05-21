@@ -1,0 +1,83 @@
+Xenon
+
+
+
+   54                         jodium ← xenon → sesium
+   Kr
+   ↑
+   Xe
+   ↓
+   Rn
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                        Naam, Simbool, Getal xenon, Xe, 54
+                                                  Chemiese reeks edelgasse
+                                             Groep, Periode, Blok 18, 5, p
+                                                        Voorkoms kleurloos
+                                              Atoommassa 131.293 (6) g/mol
+                                 Elektronkonfigurasie [Kr] 4d^10 5s^2 5p^6
+                                        Elektrone per skil 2, 8, 18, 18, 8
+                                                        Fisiese Eienskappe
+                                                              Toestand gas
+                                             Digtheid (0 °C, 101.325 kPa)
+                                                                 5.894 g/L
+                                                         Smeltpunt 161.4 K
+                                                              (-111.7 °C)
+                                                         Kookpunt 165.03 K
+                                                             (-108.12 °C)
+                                         Kritieke punt 289.77 K, 5.841 MPa
+                                               Smeltingswarmte 2.27 kJ/mol
+                                            Verdampingswarmte 12.64 kJ/mol
+                               Warmtekapasiteit (25 °C) 20.786 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                           P/Pa   1  10 100 1 k 10 k 100 k
+                                         teen T/K 83 92 103 117 137   165
+
+                                                           Atoomeienskappe
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                  Oksidasietoestande 0, +1, +2, +4, +6, +8
+                                                       (selde groter as 0)
+                                                        (swak suur oksied)
+                               Elektronegatiwiteit 2.6 (Skaal van Pauling)
+                                   Ionisasie energieë 1ste: 1170.4 kJ/mol
+                                                        2de: 2046.4 kJ/mol
+                                                       3rde: 3099.4 kJ/mol
+                                                 Atoomradius (ber.) 108 pm
+                                                   Kovalente radius 130 pm
+                                               Van der Waals radius 216 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                         Termiese geleidingsvermoë (300 K) 5.65 mW/(m·K)
+                                      Spoed van klank (vloeistof) 1090 m/s
+                                              CAS-registernommer 7440-63-3
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van Xenon
+
+                              iso     NV   halfleeftyd VM  VE (MeV)   VP
+                             ^124Xe 0.1%   1.1×10^17j  ε ε no data  ^124Te
+                             ^125Xe sin    16.9 h      ε   1.652    ^125I
+                             ^126Xe 0.09%  Xe is stabiel met 72 neutrone
+                             ^127Xe sin    36.4 d      ε   0.662    ^127I
+                             ^128Xe 1.91%  Xe is stabiel met 74 neutrone
+                             ^129Xe 26.4%  Xe is stabiel met 75 neutrone
+                             ^130Xe 4.1%   Xe is stabiel met 76 neutrone
+                             ^131Xe 21.29% Xe is stabiel met 77 neutrone
+                             ^132Xe 26.9%  Xe is stabiel met 78 neutrone
+                             ^133Xe sin    5.243 d     β^- 0.427    ^133Cs
+                             ^134Xe 10.4%  Xe is stabiel met 80 neutrone
+                             ^135Xe sin    9.10 h      β^- 1.16     ^135Cs
+                             ^136Xe 8.9%   2.36×10^21j β^- no data  ^136Ba
+
+                                                                Verwysings
+
+   Xenon is 'n chemiese element in die perodieke tabel met die simbool Xe
+   en atoomgetal van 54.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Chemiese elemente
+

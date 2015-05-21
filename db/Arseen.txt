@@ -1,0 +1,297 @@
+Arseen
+
+
+
+   33                      germanium ← arseen → selenium
+    P
+   ↑
+   As
+   ↓
+   Sb
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal arseen, As, 33
+                                              Chemiese reeks metaalagtiges
+                                             Groep, Periode, Blok 15, 4, p
+                                                       Voorkoms metaalgrys
+                                             Atoommassa 74.92160 (2) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^3
+                                            Elektrone per skil 2, 8, 18, 5
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 5.727 g/cm³
+                                  Vloeistof digtheid teen s.p. 5.22 g/cm³
+                                                          Smeltpunt 1090 K
+                                                                 (817 °C)
+                                                      Kookpunt subl. 887 K
+                                                                 (614 °C)
+                                               Kritiese temperatuur 1673 K
+                                       Smeltingswarmte (grys) 24.44 kJ/mol
+                                         Verdampingswarmte  ? 34.76 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.64 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 553 596 646 706 781   874
+
+                                                           Atoomeienskappe
+                                             Kristalstruktuur rombohedraal
+                                                 Oksidasietoestande ±3, 5
+                                                        (effe suur oksied)
+                              Elektronegatiwiteit 2.18 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 947.0 kJ/mol
+                                                          2de: 1798 kJ/mol
+                                                         3rde: 2735 kJ/mol
+                                                        Atoomradius 115 pm
+                                                 Atoomradius (ber.) 114 pm
+                                                   Kovalente radius 119 pm
+                                               Van der Waals radius 185 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                  Elektriese weerstand (20 °C) 333 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 50.2 W/(m·K)
+                                                    Young se modulus 8 GPa
+                                                       Massamodulus 22 GPa
+                                                      Mohs se hardheid 3.5
+                                                 Brinell hardheid 1440 MPa
+                                              CAS-registernommer 7440-38-2
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van arsenic
+
+                           iso   NV  halfleeftyd VM     VE (MeV)      VP
+                          ^73As sin  80.3 d      ε   -               ^73Ge
+                                                 γ   0.05D, 0.01D, e -
+                          ^74As sin  17.78 d     ε   -               ^74Ge
+                                                 β^+ 0.941           ^74Ge
+                                                 γ   0.595, 0.634    -
+                                                 β^- 1.35, 0.717     ^74Se
+                          ^75As 100% As is stabiel met 42 neutrone
+
+                                                                Verwysings
+
+   Arseen is 'n chemiese element in die periodieke tabel met die simbool
+   As en atoomgetal van 33. Dit is berug as 'n uiters giftige metaalagtige
+   element met vele allotroopvorme; geel, swart en grys is van die kleure
+   wat dit kan hê. Arseen en sy verbindings word gebruik as pesdoders,
+   onkruiddoders, insekdoders en ook in verskeie legerings.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Voorsorgmaatreëls
+        * 6 Sien ook
+        * 7 Verbindings
+        * 8 Verwysings
+        * 9 Voetnotas
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Arseen is chemies verwant aan fosfor sy voorganger op die periodieke
+   tabel, tot so 'n mate dat dit fosfor in biochemiese reaksies kan
+   vervang en is daarom 'n giftige stof. Wanneer dit vinnig verhit word
+   oksideer dit tot arseentrioksied wat 'n knoffelreuk het. Arseen en
+   sommige arseenverbindings kan ook sublimeer wanneer dit verhit word en
+   direk omskakel na die gasvorm. Suiwer arseen kan in twee vastestofvorme
+   aangetref word: geel en metaalgrys met soortlike gewigte van 1.97 en
+   5.73 respektiewelik.
+
+[wysig] Gebruike
+
+   Loodarsenaat is tot laat in die twintigste eeu ingespan as insekdoder
+   op vrugtebome (met gevolglike breinskade in werkers wat op die
+   sproeiers gewerk het) en Scheele se groen is selfs in die negentiende
+   eeu gebruik as kleurmiddel in lekkergoed. In die laaste halfeeu het
+   monosodium metielarsenaat (MSMA), 'n minder giftige vorm van arseen
+   loodarsenaat se rol in die landbou oorgeneem.
+
+   Die gebruik wat die meeste kommer onder die publiek veroorsaak het was
+   waarskynlik die behandeling van hout met verchroomde koperarsenaat (ook
+   bekend as Tanalith). Die metode van houtbehandeling word nog steeds in
+   baie lande gebruik en is in die laaste deel van die twintigste eeu baie
+   gebruik vir strukturele hout wat as buitemuurse boumateriaal ingespan
+   is, waar die gevaar van verrotting of insekbesmetting op onbehandelde
+   hout bestaan het.
+
+   Al is die gebruik van hierdie behandelingsmetode in baie lande verban
+   na die publikasie van studies wat aangetoon het dat daar lae vlakke van
+   loging van arseen vanuit die hout plaasvind is die grootste gevaar nog
+   dat sodanig behandelde hout verbrand kan word. Verskeie noodlottige
+   vergiftigings van diere en ernstige vergiftigings van mense het
+   voorgekom as gevolg van die direkte of indirekte inname van die as van
+   sulke houtprodukte (die noodlottige dosis in mense is rofweg 20 gram as
+   - ongeveer 'n teelepel vol). Arseenbehandelde hout word steeds gebrand
+   as gevolg van onkunde in kommersiële asook huishoudelike vure. Die
+   veilige wegdoen van arseenbehandelde hout bly nog steeds 'n kwessie wat
+   kommer wek.
+
+   Tydens die 18^de, 19^de en 20^ste eeue is verskeie arseenverbindings as
+   medisynes gebruik, insluitend arsfenamien (deur Paul Ehrlich en
+   arseentrioksied (deur Thomas Fowler). Arsfenamien sowel as Neosalvarsan
+   is gebruik om sifilis en tripanosomiasis te behandel maar is sedertien
+   met antibiotika vervang.
+
+   Arseentrioksied is die afgelope 200 jaar op 'n verskeidenheid van
+   maniere gebruik maar meer algemeen in die behandeling van kanker. Die
+   FDA in Amerika het in 2000 goedkeuring verleen tot die gebruik van die
+   middel vir behandeling van pasiēnte met akute promelositiese leukemie
+   wat weerstand bied tot behandeling met retinoësuur^[1] It was also used
+   as Fowler's solution in psoriasis.^[2]
+
+   Koper aseto-arseniet is onder verskillende name as 'n groen pigment
+   gebruik. Dit het ook verskeie gevalle van arseenvergiftigings tot
+   gevolg gehad.
+
+   Ander gebruike:
+     * Verskeie landboukundige insekdoders en giwwe.
+     * Galliumarsenied is 'n belangrike halfgeleiermateriaal wat in
+       geïntegreerde stroombane gebruik word. Stroombane vervaardig met
+       die stof is heelwat vinniger (maar ook heelwat duurder) as dié wat
+       met silikon vervaardig is. Anders as silikon het dit 'n direkte
+       bandgaping en kan dus gebruik word in laserdiodes en LEDs om
+       elektrisiteit direk na lig om te skakel.
+     * Arseen word ook gebruik in verbronsing en pirotegnieke.
+
+[wysig] Geskiedenis
+
+   Die woord arseen het sy oorsprong in die Persiese woord زرنيخ Zarnikh
+   wat na "geel orpiment" ('n mineraal wat arseen bevat) verwys. Zarnikh
+   is deur die Grieke as arsenikon vertaal. Arseen is reeds sedert antieke
+   tye in Persië gebruik. Omdat die simptome van arseenvergiftiging nie
+   goed onderskei kon word nie, is dit dikwels gebruik om moord te pleeg
+   tot en met die ontwikkeling van die Marsh toets, 'n baie sensitiewe
+   chemiese toets om die teenwoordigheid van Arseen vas te stel ('n Ander
+   minder sensitiewe maar meer algemeen gebruikte toets is die Reinsch
+   toets). Vanweë die gebruik in die geledere van die heersersklas om
+   mekaar te vermoor en sy uiterste giftigheid en onopvallendheid, is
+   arseen die Gif van die Konings en die Koning van giwwe gedoop.
+
+   Tydens die Bronstydperk is arseen dikwels in brons ingesluit (meestal
+   toevallig as 'n onsuiwerheid), wat die legering harder gemaak het.
+
+   Daar word geglo dat Albertus Magnus die eerste was om die element in
+   1250 te suiwer. In 1649 het Johann Schroeder twee maniere om arseen
+   voor te berei gepubliseer.
+   Alchemie simbool vir Arseen
+   Alchemie simbool vir Arseen
+
+   Tydens die Victoriaanse tydperk het vrou arseen met asyn en kalk gemeng
+   en geëet om hul gelaatskleur te verbeter en hul vel ligter te maak as
+   bewys dat hulle nie in die lande gewerk het nie. Vroue het ook arseen
+   op hulle gesigte en arms gevryf vir dieselfde rede.
+
+   'n Grootskaalse epidemie van arseenvergiftiging is onlangs in
+   Bangladesh ontdek^[3], waar na raming ongeveer 57 miljoen mense
+   grondwater drink met arseenkonsentrasies ver bo die
+   Wêreldgesondheidsorganisasie se standaard van 50 dele per biljoen. Die
+   arseen is van natuurlike oorsprong en word vrygestel vanuit die
+   sediment na die grondwater as gevolg van die suurstofarme toestande
+   ondergrond.
+
+[wysig] Verspreiding
+
+   'n Massa natuurlike arseen
+   'n Massa natuurlike arseen
+
+   Arsenopiriet (FeSAs) is die mees algemeenste mineraal waaruit arseen
+   verkry kan word deur dit te verhit en die arseen dan sublimeer en
+   ystersulfaat agterlaat. Ander arseenminerale sluit realgar, mimetiet,
+   kobaltiet en eritriet.
+
+   Die belangrikste verbindings van arseen is wit arseen, orpiment,
+   realgar, Parysgroen, kalsiumarsenaat en loodarsenaat. Parysgroen,
+   kalsiumarsenaat en loodarsenaat is in die landbou as insekdoder en gif
+   gebruik. Orpiment en realgar is voorheen gebruik as verfpigment maar is
+   sedertien uitgefaseer as gevolg van hulle hoë reaktiwiteit en giftige
+   aard. Arseen kom soms in sy suiwer vorm in die natuur voor maar meestal
+   in verbindings saam met silwer, kobalt, nikkel, yster, antimoon of
+   swael.
+
+   Verder kom arseen ook in verskeie organiese vorme in die natuurlike
+   omgewing voor. Wanneer Anorganiese arseen en sy verbindings die
+   voedselketting binnedring, word dit geleidelik gemetaboliseer na minder
+   giftige vorme van arseen deur 'n proses wat metielering genoem word.
+
+[wysig] Voorsorgmaatreëls
+
+   Arseen en baie van sy verbindings is buitengewoon giftige stowwe.
+   Arseen se giftigheid is te wyte aan die allosteriese verhindering van
+   die belangrike metaboliese ensiem lipotiamied pirofosfotase wat lei tot
+   die dood as gevolg van veelvuldige orgaanversaking. 'n Nadoodse
+   ondersoek toon baksteenrooi gekleurde slymvliese as gevolg van
+   bloeding.
+
+   Suiwer arseen en arseenverbindings word as toksies en gevaarlik vir die
+   omgewing geklassifiseer in die Europese Unie ingevolge bevel
+   67/548/EEC. Die IARC lys arseen en arseenverbindings as groep 1
+   karsinogene en die Europese Unie lys arseentrioksied, arseenpentoksied
+   en arsenaatsoute as kategorie 1 karsinogene.
+
+   'n Sekere varingspesie genaamd Pteris vittata kan gebruik word om
+   arseen uit die grond te verwyder.
+
+   Arseen kan ook arsenikose tot gevolg hê as gevolg van sy
+   teenwoordigheid in drinkwater, "die mees algemeenste ioonspesies is
+   arsenaat [HAsO[4]^2- ; As(V)] en arseniet [H[3]AsO[3];As(III)]”.
+
+[wysig] Sien ook
+
+     * Aqua Tofana
+     * Fowler se oplossing
+     * Arsenikose
+     * Grainger uitdaging
+
+[wysig] Verbindings
+
+     * Arseensuur (H[3]AsO[4])
+     * Arsenoësuur (H[3]AsO[3])
+     * Arseentrioksied (As[2]O[3])
+     * Arsien (ArseenTrihidraat AsH[3])
+     * Kadmiumarsenied (Cd[3]As[2])
+     * Galliumarsenied (GaAs)
+     * Loodarsenaat (PbHAsO[4])
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Artikel oor Arseen
+     * Engelse weergawe van wikipedia
+
+[wysig] Voetnotas
+
+    1. ^ Antman, Karen H. (2001). The History of Arsenic Trioxide in
+       Cancer Therapy. Introduction to a supplement to The Oncologist. 6
+       (Suppl 2), 1-2. PMID 11331433.
+    2. ^ Huet et.al. Noncirrhotic presinusoidal portal hypertension
+       associated with chronic arsenical intoxication. Gastroenterology
+       1975;68(5 Pt 1):1270-7. PMID 1126603
+    3. ^ Andrew Meharg, Venomous Earth - How Arsenic Caused The World's
+       Worst Mass Poisoning, Macmillan Science, 2005.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Arsenic
+     * A Small Dose of Toxicology
+     * Case Studies in Environmental Medicine: Arsenic Toxicity
+     * National Pollutant Inventory - Arsenic
+     * WebElements.com – Arsenic
+     * origen.net – CCA wood and arsenic: toxicological effects of arsenic
+     * Contaminant Focus: Arsenic by the EPA.
+     * Environmental Health Criteria for Arsenic and Arsenic Compounds,
+       2001 by the WHO.
+     * A summary of the above report by GreenFacts.
+     * Evaluation of the carcinogenicity of arsenic and arsenic compounds
+       by the IARC.
+
+   Kategorie: Chemiese elemente
+

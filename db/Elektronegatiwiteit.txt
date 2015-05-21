@@ -1,0 +1,170 @@
+Elektronegatiwiteit
+
+
+   Elektronegatiwiteit is die maatstaf van 'n atoom of molekule se vermoë
+   om elektrone aan te trek in 'n chemiese verbinding. Die soort
+   verbinding wat gevorm word hang hoofsaaklik af van die verskille in die
+   elektronegatiewiteite van die atome betrokke. Atome met soortgelyke
+   elektronegatiwiteite sal voortdurend elektrone by mekaar 'steel' en
+   vorm dan 'n kovalente verbinding. As die verskille te groot is, sal die
+   elektron permanent van die een atoom na die ander oorgedra word en vorm
+   daar sodoende 'n ioniese verbinding. In gevalle waar die een atoom die
+   elektrone effe sterker aantrek as die ander word daar 'n polêre
+   kovalente verbindings gevorm.
+
+   Twee skale word algemeen gebruik vir elektronegatiewiteite: die
+   Paulingskaal (in 1932 voorgestel) en die Mullikenskaal (in 1934
+   voorgestel). 'n Ander voorgestelde skaal is die Allred-Rochowskaal.
+
+[wysig] Paulingskaal
+
+   Die Paulingskaal is in 1932 ontwikkel. Op hierdie skaal word daar aan
+   die mees elektronegatiewe chemiese element (Fluoor) 'n
+   elektronegatiwiteit van 3.98 toegeken; die element met die laagste
+   elektronegatiwiteit (frankium) kry 'n waarde van 0.7 en die oorblywende
+   elemente kry dan waardes tussenin. Waterstof kry 'n willekeurig
+   toegekend waarde van 2.1 of 2.2 op die Paulingskaal.
+
+   δEN is die verskil in elektronegatiwiteite tussen twee atome of
+   elemente. As 'n reël word verbindings tussen atome met
+   elektronegatiwiteitverskille (groter of gelyk aan 1.7) as ionies van
+   aard beskou, terwyl verbindings met waardes tussen 0.4 en 1.7 as polêre
+   kovalente verbindings beskou word en indien daar geen
+   elektronegatiwiteitsverskille is nie word die verbinding as 'n suiwer
+   nie-polêre kovalente verbinding beskou.
+
+[wysig] Mullikenskaal
+
+   Op die Mullikenskaal word die getalle verkry deur 'n gemiddeld te neem
+   van die ionisasiepotensiaal en die elektronaffiniteit. Gevolglik kan
+   Mulliken elektronegatiwiteite direk in energie-eenhede uitgedruk word
+   (gewoonlik in elektronvolt. Hierdie skaal is deur Robert S. Mulliken in
+   1934 voorgestel.
+
+[wysig] Tendense in elektronegatiwiteite
+
+   Elke element het 'n kenmerkende elektronegatiwiteit wat wissel van 0
+   tot 4 op die Paulingskaal. Die mees elektronegatiewe element, Fluoor
+   het 'n elektronegatiwiteit van 3.98 terwyl swak elektronegatiewe
+   elemente soos litium waardes nader aan 1 het. Die element met die
+   laagste elektronegatiewiteit is Frankium by 0.7. "Oor die algemeen",
+   verlaag die elektronegatiwiteite van bo na onder teen die groepe af en
+   neem toe van links na regs oor die periodes heen soos hieronder
+   aangedui word. Nie-metale neig om elektrone by te kry oor 'n periode en
+   metale is weer geneig om hulle te verloor as gevolg van die neiging van
+   die atome om 'n stabiele oktet te probeer vorm. Teen 'n groep af het
+   die kernlading 'n al kleiner wordende invloed op die buitenste skille.
+   Daarom word die mees elektronegatiewe elemente aan die regterboonste
+   hoek van die periodieke tabel aangetref en die minste elektronegatiewe
+   elemente aan die linkeronderkantste hoek. Gevolglik neem die
+   atoomradius "oor die algemeen" af van links na regs oor die tabel maar
+   neem die ionisasie-energieë toe.
+
+        → Atoomradius verminder → Ionisasie-energie neem toe →
+                      Elektronegatiewiteit neem toe →
+             Groep 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+                                   Periode
+                                     1 H
+                                   2.20 He
+
+                                    2 Li
+                                   0.98 Be
+                                   1.57 B
+                                   2.04 C
+                                   2.55 N
+                                   3.04 O
+                                   3.44 F
+                                   3.98 Ne
+
+                                    3 Na
+                                   0.93 Mg
+                                   1.31 Al
+                                   1.61 Si
+                                   1.90 P
+                                   2.19 S
+                                   2.58 Cl
+                                   3.16 Ar
+
+                                     4 K
+                                   0.82 Ca
+                                   1.00 Sc
+                                   1.36 Ti
+                                   1.54 V
+                                   1.63 Cr
+                                   1.66 Mn
+                                   1.55 Fe
+                                   1.83 Co
+                                   1.88 Ni
+                                   1.91 Cu
+                                   1.90 Zn
+                                   1.65 Ga
+                                   1.81 Ge
+                                   2.01 As
+                                   2.18 Se
+                                   2.55 Br
+                                   2.96 Kr
+                                    3.00
+                                    5 Rb
+                                   0.82 Sr
+                                   0.95 Y
+                                   1.22 Zr
+                                   1.33 Nb
+                                   1.6 Mo
+                                   2.16 Tc
+                                   1.9 Ru
+                                   2.2 Rh
+                                   2.28 Pd
+                                   2.20 Ag
+                                   1.93 Cd
+                                   1.69 In
+                                   1.78 Sn
+                                   1.96 Sb
+                                   2.05 Te
+                                    2.1 I
+                                   2.66 Xe
+                                     2.6
+                                    6 Cs
+                                   0.79 Ba
+                                   0.89 Lu
+                                   1.27 Hf
+                                   1.3 Ta
+                                    1.5 W
+                                   2.36 Re
+                                   1.9 Os
+                                   2.2 Ir
+                                   2.20 Pt
+                                   2.28 Au
+                                   2.54 Hg
+                                   2.00 Tl
+                                   1.62 Pb
+                                   2.33 Bi
+                                   2.02 Po
+                                   2.0 At
+                                   2.2 Rn
+
+                                    7 Fr
+                                   0.7 Ra
+                                   0.9 Lr
+                                      Rf
+                                      Db
+                                      Sg
+                                      Bh
+                                      Hs
+                                      Mt
+                                      Ds
+                                      Rg
+                                      Uub
+                                      Uut
+                                      Uuq
+                                      Uup
+                                      Uuh
+                                      Uus
+                                      Uuo
+
+        Periodieke tabel van elektronegatiwiteite met gebruik van die
+                                Paulingskaal
+
+              Sien ook Periodieke tabel en Elektropositiwiteit
+
+   Kategorie: Chemiese eienskappe
+

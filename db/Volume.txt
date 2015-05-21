@@ -1,0 +1,47 @@
+Volume
+
+
+   Bepaling van die inhoud van 'n onreëlmatige voorwerp deur middel van
+   waterverplasing.
+   Bepaling van die inhoud van 'n onreëlmatige voorwerp deur middel van
+   waterverplasing.
+
+   Volume, (ook genoem kapasiteit of inhoud) is die hoeveelheid spasie wat
+   'n voorwerp (liggaam, ruimtelike figuur) inneem. As basis geld dit dat
+   die inhoud van 'n reghoekige blok gelyk is aan lengte × breedte ×
+   hoogte. Volume word gemeet in kubieke meter (m³), sentimeter (cm³),
+   millimeter (mm³), ensovoorts. Om vloeistowwe se volume te meet, word 'n
+   maatsilinder gebruik. 'n Vloeistof word versigtig in die silinder
+   gegooi en so word die volume bepaal.
+
+   Mens bepaal die volume van 'n voorwerp V deur die ruimte op te deel in
+   volumes ΔV van 1 eenheid, en die eenhede wat in V lê op te tellen.
+   Omdat nie elke eenheid presies in V lê nie, gee dit 'n benadering:
+
+          I(V)\approx\sum_V \Delta V .
+
+   Deur die eenhede steeds kleiner te neem word hierdie benadering
+   noukeuriger. Die limietproses lei tot 'n ruimtelike integraal wat in
+   die onderstaande formule gegee is.
+
+   Die SI-eenheid van volume is die kubieke meter, m³.
+
+[wysig] Formule
+
+   Die inhoud van 'n willekeurige voorwerp kan bereken word uit
+   \int\int\int_V dv .
+
+[wysig] Voorbeeld
+
+   Die volume I van die silinder met hoogte h en straal r vanaf die
+   grondvlak, met die z-as as silinderas en staande op die xy-vlak,
+   bereken ons as volg:
+
+          I=\int_{x=-r}^r
+          \int_{y=-\sqrt{r^2-x^2}}^{\sqrt{r^2-x^2}}\int_{z=0}^h dzdydx =
+          2h\int_{-r}^r \sqrt{r^2-x^2}dx=\pi r^2h
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Fisika • Meetkunde
+

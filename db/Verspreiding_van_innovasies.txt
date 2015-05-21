@@ -1,0 +1,96 @@
+Verspreiding van innovasies
+
+
+   Die studie van die verspreiding van innovasie is die studie van hoe,
+   hoekom, en teen watter tempo nuwe idees en tegnologie deur kulture
+   versprei.
+
+   Inhoud
+
+        * 1 Die S-Kurwe en die ingebruikneming van tegnologie
+        * 2 Uitsonderings en kritiek
+        * 3 See also
+        * 4 Verwysings
+        * 5 Eksterne skakels
+             + 5.1 Engelse skakels
+
+[wysig] Die S-Kurwe en die ingebruikneming van tegnologie
+
+   Die ingebruiknemingskurwe word 'n S-kurwe as kumulatiewe
+   ingebruikneming gebruik is.
+   Die ingebruiknemingskurwe word 'n S-kurwe as kumulatiewe
+   ingebruikneming gebruik is.
+
+   Rogers het gemeen dat innovasies deur die samelewing versprei volgens
+   'n S-kurwe. Eers neem die vroeë ingebruiknemers die innovasie aan, dan
+   volg die meerderheid totdat die innovasie algemeen in gebruik is.
+
+   Die tempo van tegnologie ingebruikneming word bepaal deur twee
+   parameters:
+     * p is die spoed waarmee die innovasie aanvanklik in gebruik geneem
+       word, terwyl
+     * q die spoed is waarteen latere groei plaasvind.
+
+   'n Goedkoop tegnologie mag dalk b.v. 'n hoë p waarde hê, wat maak dat
+   dit vinnig in gebruik geneem word. 'n Tegnologie wat 'n netwerkeffek
+   het mag weer 'n hoër q waarde hê; 'n voorbeeld van so 'n tegnologie is
+   die faksmasjien, omdat die waarde van die besit van so 'n masjien
+   toeneem soos wat meer mense faksmasjiene aankoop.
+
+[wysig] Uitsonderings en kritiek
+
+   Kritici van hierdie model hou voor dat dit 'n oorvereenvoudigde
+   voorstelling van 'n komplekse realiteit weergee.^[verwysing benodig]
+
+   Ander verskynsels van ook die tempo van die ingebruikneming van 'n
+   innovasie affekteer -
+    1. Verbruikers sal dikwels 'n tegnologie aanpas vir hul eie doele,
+       sodat die innovasie van gedaante verander vanaf die vroeë
+       ingebruiknemers teenoor die latere meerderheid van verbruikers.
+    2. Omvergooiende tegnologieë kan radikaal die verspreidingspatrone van
+       bestaande tegnologie verander deur 'n kompeterende S-kurwe daar te
+       stel.
+    3. Padafhanlikheid kan sekere tegnologieë byna onherroeplik bevestig,
+       soos wat die geval is met die QWERTY sleutelbord.
+
+[wysig] See also
+
+     * Bass verspreidingsmodel
+     * Kreatiwiteitstegnieke
+     * Crossing the Chasm
+     * Sosio-kulturele evolusie
+     * Ontwikkelingskommunikasie
+     * Omvergooiende tegnologie
+     * Dubbeloorerwingsteorie
+     * Vroeë ingebruiknemer
+     * Logistieke funksie
+     * Meem
+     * Padafhanklikheid
+     * Perkolasie
+     * Tegnologieaanvaardingsmodel
+     * Tegnologie leeftyd
+     * TRIZ
+     * Twee-stap vloei van kommunikasie
+
+[wysig] Verwysings
+
+     * Rogers, Everett M. (1962). Diffusion of Innovations.
+     * Rogers, Everett M. (2003). Diffusion of Innovations, Fifth Edition.
+       New York, NY: Free Press. ISBN 0-7432-2209-1.
+
+[wysig] Eksterne skakels
+
+[wysig] Engelse skakels
+
+     * 'n Historiese blik op die Tegnologie Ingebruiknemingleefsiklus
+     * Die Verspreiding Simulasiespeletjie (Dit handel oor die aanneming
+       van 'n innovasie in opvoeding.)
+     * Die Potlood Metafoor van innovasie verspreiding, veral m.b.t. IT in
+       opvoeding
+     * Modellering van Markaanneming in Excel met 'n vereenvoudigde
+       S-kurwe
+
+   Kategorieë: Artikels met stellings wat verwysings ontbreek • Innovation
+   • Diffusion • Marketing • Product management • Anthropology • Memetics
+   • Books about public opinion
+

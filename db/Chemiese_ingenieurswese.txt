@@ -1,0 +1,57 @@
+Chemiese ingenieurswese
+
+
+   Chemiese ingenieurswese is die toepassing van wetenskap, wiskunde en
+   ekonomie tot die omskakelingsproses van rou materiale of chemikalieë
+   tot meer waardevolle produkte. "Ekonomie" is 'n kernwoord in die
+   verband.
+
+   Chemiese ingenieurswese behels die ontwerp en onderhoud van chemiese
+   prosesse vir grootskaalse vervaardiging. Die naam skep baie verwarring
+   aangesien die werk van 'n chemiese ingenieur dikwels selfs meer kennis
+   van fisika behels as chemie. Die term "Prosesingenieur" word dus
+   dikwels gebruik aangesien dit 'n meer beskrywende term is en dit
+   makliker maak om onderskeid te tref tussen die rol van die chemikus en
+   dié van die chemiese ingenieur.
+
+     Die verskil tussen die chemiese ingenieur en die chemikus kan
+     geïllustreer word deur 'n vereenvoudigde voorbeeld van die produksie
+     van lemoensap te gebruik. 'n Chemikus sal tipies in 'n laboratorium
+     ondersoeke doen en verskeie metodes ontwikkel om lemoensap uit die
+     lemoen te skei. Die eenvoudigste meganisme is tipies om die lemoen
+     middeldeur te sny en die halwe lemoen in 'n handversapper te druk om
+     die sap uit te haal. 'n Meer komplekse metode kan dan ook ontwikkel
+     word in die laboratorium wat die afskil van die lemoen en die
+     papdruk van die res van die vrug behels. 'n Chemiese Ingenieur word
+     dan tipies as deel van 'n multi-dissiplinêre span aangewend om die
+     laboratoriumtegnieke op te skaal vir ekonomies lewensvatbare
+     massaproduksie. Dikwels sal die tegnieke wat die eenvoudigste werk
+     in die laboratorium nie noodwendig die maklikste opskaal en/of die
+     mees ekonomiese metode vir massa produksie toepassings wees nie. So
+     kan die skil en pers metode dalk baie goedkoper wees as om duisende
+     mense aan te stel om met handversappers sap te vervaardig al is dit
+     die maklikste proses op laboratoriumskaal.
+
+   Die individuele prosesse wat deur chemiese ingenieurs gebruik word (bv.
+   onder andere Distillasie en Chlorering) word eenheidswerking genoem
+   (en: Unit Operations). Eenheidswerkinge bestaan uit Chemiese reaksie-,
+   Massa-oordrag-, Hitte-oordrag-, Vloeidinamika- en
+   Momentum-oordragstappe. Die eenheidswerkinge word dan op verskeie
+   metodes gekombineer vir die doeleindes van chemiese sintese en/of die
+   skeiding van mengsels van chemikalieë.
+
+   Twee primêre natuurwette onderliggend aan chemiese ingenieursontwerp is
+   die Behoud van Massa en die Behoud van energie. Die beweging van massa
+   en energie in 'n chemiese proses word geëvalueer deur van massa- en
+   energiebalanse gebruik te maak wat die wette dan toepas op aanlegte,
+   eenheidswerkinge of selfs diskrete komponente/toerusting in die aanleg.
+   Die chemiese ingenieurs pas dan die beginsels van termodinamika,
+   reaksie kinetika, en oordragverskynsels toe. Deesdae word die taak
+   vergemaklik deur gebruik te maak van prosessimulators. Die
+   prosessimulators is komplekse rekenaarprogramme wat die vele wiskundige
+   vergelykings, wat die natuurwette soos dit van toepassing is op die
+   eenheidswerkinge beskryf, kan oplos. Dikwels word die vergelykings nie
+   uit eerste beginsels afgelei nie maar word empiries vasgestel deur
+   waarnemings in 'n laboratorium of loodsaanlegte.
+   Kategorieë: Chemie • Ingenieurswese
+

@@ -1,0 +1,46 @@
+Seshoek
+
+
+   'n Gewone seshoek.
+   'n Gewone seshoek.
+
+   'n Seshoek of heksagoon is 'n figuur met ses hoeke en ses sye. "Hexa"
+   is die Griekse woord vir "ses", terwyl "gonos" Grieks is vir "hoek". 'n
+   Gewone seshoek se binnehoeke is gelyk aan 120° en sy sye is ewe lank.
+   Sulke seshoeke pas perfek langsmekaar en 'n plat vlak kan met seshoeke
+   gebou word sonder dat daar enige oop spasies bestaan. Die waskoeke van
+   bye is 'n voorbeeld hiervan in die natuur.
+
+   Die oppervlak van 'n gewone seshoek met die sylengte gelyk aan a\,\!
+   kan voorgestel word deur: A = \frac{3 \sqrt{3}}{2}a^2 \simeq 2.59808
+   a^2.
+
+   Die omtrek van 'n gewone seshoek met die sylengte gelyk aan a\,\! is
+   6a\,\! , die maksimum deursnee is 2a\,\! en die minimum deursnee
+   a\sqrt{3}\,\! .
+
+[wysig] Konstruksie van 'n seshoek
+
+   'n Gewone seshoek kan met behulp van 'n passer en liniaal geteken word.
+   Die volgende is 'n stap-vir-stap animasie wat u wys hoe om dit te doen.
+   Hexagon Construction Animation
+
+[wysig] Seshoeke in die natuur
+
+   'n Waskoek binne-in 'n byenes.
+
+   'n Seshoekige wolkpatroon waargeneem by die Noordpool van Saturnus
+
+   'n Mikrograaf van 'n sneevlokkie.
+
+   Die skilde van 'n skilpad se karapaks (die geskubde dop).
+
+   Natuurlikgevormde basaltkolomme by Giant's Causeway in Ierland.
+
+[wysig] Eksterne skakels
+
+     * Definition and properties of a hexagon - Met interaktiewe animasie.
+     * Saturn's Strange Hexagon by die NASA-webwerf.
+
+   Kategorie: Meetkunde
+

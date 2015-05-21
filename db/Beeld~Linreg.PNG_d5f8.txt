@@ -1,0 +1,77 @@
+Beeld:Linreg.PNG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+
+   Beeld:Linreg.PNG
+   Geen hoëre resolusie beskikbaar nie.
+   Linreg.PNG (351 × 258 pixel, file size: 3 KG, MIME type: image/png)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+
+   Moved
+
+         This image was moved to Wikimedia Commons from nl.wikipedia using a bot
+         script. All source information is still present. It requires review
+         because CommonSense could not categorise the image during transfer.
+         Additionally, there may be errors in any or all of the information
+         fields; information on this image should not be considered reliable and
+         the image should not be used until it has been reviewed and any needed
+         corrections have been made. Once the review has been completed, this
+         template should be removed. For details, see below.
+       Description
+                        Nederlands: Lineaire regressie
+          Source
+
+                        Transferred from nl.wikipedia
+           Date
+
+                        2003-08-27 (original upload date)
+          Author
+
+                        Original uploader was Jan Arkesteijn at nl.wikipedia
+        Permission
+   (Reusing this image)
+
+                        Released into the public domain (by the author).
+
+[edit] License information
+
+   Public domain This image has been (or is hereby) released into the
+   public domain by its author, Jan Arkesteijn at the wikipedia project.
+   This applies worldwide.
+
+   In case this is not legally possible:
+   Jan Arkesteijn grants anyone the right to use this work for any
+   purpose, without any conditions, unless such conditions are required by
+   law.
+
+[edit] Original upload log
+
+   The original description page is/was here. All following user names
+   refer to nl.wikipedia.
+     * 2003-08-27 13:59 Jan Arkesteijn 351×258×8 (3223 bytes) Lineaire
+       regressie
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 22:06, 11 Maart 2008 351×258 (3 KG) BotMultichill (
+   {{BotMoveToCommons|nl.wikipedia}} {{Information
+   |Description={{nl|Lineaire regressie}} |Source=Transferred from
+   [http://nl.wikipedia.org nl.wikipedia] |Date=2003-08-27 (original
+   upload date) |Author=Original uploader was [[:nl:User:Jan
+   Arkesteijn|Jan Ar)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Kleinste-kwadratemetode
+

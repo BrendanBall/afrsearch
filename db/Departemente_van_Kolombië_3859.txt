@@ -1,0 +1,45 @@
+Departemente van Kolombië
+
+
+  #         Departement              Hoofstad        Oppervlakte Bevolking Kaart
+  1  Amazonas                  Leticia                   109.665    80.360
+  2  Antioquia                 Medellín                   63.612 5.750.478
+  3  Arauca                    Arauca                     23.818   282.302
+  4  Atlántico                 Barranquilla                 3388 2.365.663
+  5  Bolívar                   Cartagena                  25.978 2.229.967
+  6  Boyacá                    Tunja                      23.189 1.411.239
+  7  Caldas                    Manizales                    7888 1.170.187
+  8  Caqueta                   Florencia                  88.965   463.333
+  9  Casanare                  Yopal                      44.640   325.713
+  10 Cauca                     Popayán                    29.308 1.363.054
+  11 Cesar                     Valledupar                 22.905 1.050.303
+  12 Chocó                     Quibdó                     46.530   413.173
+  13 Córdoba                   Montería                   25.020 1.392.905
+  14 Cundinamarca              Bogota                     24.210 9.467.562
+  15 Guainía                   Puerto Inírida             72.238    43.314
+  16 Guaviare                  San José del Guaviare      53.460   133.236
+  17 Huila                     Neiva                      19.890   994.218
+  18 La Guajira                Riohacha                   20.848   524.619
+  19 Magdalena                 Santa Marta                23.188 1.403.318
+  20 Meta                      Villavicencio              85.635   771.089
+  21 Nariño                    Pasto                      33.268 1.775.139
+  22 Norte de Santander        Cúcuta                     21.658 1.493.932
+  23 Putumayo                  Mocoa                      24.885   378.483
+  24 Quindío                   Armenia                      1845   613.375
+  25 Risaralda                 Pereira                      4140 1.024.362
+  26 San Andrés en Providencia San Andrés                     52    83.491
+  27 Santander                 Bucaramanga                30.537 2.085.084
+  28 Sucre                     Sincelejo                  10.917   868.648
+  29 Tolima                    Ibagué                     23.562 1.312.972
+  30 Valle del Cauca           Cali                       22.140 4.524.678
+  31 Vaupés                    Mitú                       54.135    33.152
+  32 Vichada                   Puerto Carreño            100.242    97.276
+                        District                     Oppervlakte Bevolking
+  33 Bogotá                                                 1587 7.117.984
+
+[wysig] Sien ook
+
+     * Vlae van departemente van Kolombië
+
+   Kategorie: Kolombië
+

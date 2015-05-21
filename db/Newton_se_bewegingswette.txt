@@ -1,0 +1,155 @@
+Newton se bewegingswette
+
+
+   Newton se Eerste en Tweede wette in Latyn uit die oorspronklike 1687
+   uitgawe van die Principia Mathematica.
+   Newton se Eerste en Tweede wette in Latyn uit die oorspronklike 1687
+   uitgawe van die Principia Mathematica.
+
+   Newton se bewegingswette bestaan uit drie natuurwette wat 'n direkte
+   verwantskap verskaf tussen die krag wat op 'n liggaam uitgeoefen word
+   en die beweging van daardie liggaam. Hulle is eerste deur Sir Isaac
+   Newton saamgestel in sy werk Philosophiae Naturalis Principia
+   Mathematica (1687). Die wette vorm die basis vir klassieke meganika en
+   Newton het dit self gebruik om baie waarnemings oor die beweging van
+   fisiese voorwerpe te verduidelik. In die derde volume van die teks het
+   hy aangetoon hoe hierdie wette saam met sy universele swaartekragwet
+   Kepler se planetêre bewegingswette kon verklaar.
+
+   Die tradisionele uitdrukking van die drie wette lui as volg:
+    1. 'n Fisiese liggaam sal in rus bly of aanhou om teen 'n konstante
+       snelheid te beweeg tensy 'n netto krag daarop uitwerk.
+    2. Die netto krag op 'n liggaam is gelykstaande aan sy massa
+       vermenigvuldig met sy versnelling.
+    3. Vir elke aksie is daar 'n gelyke en teenoorgestelde reaksie.
+
+[wysig] Besonderhede oor die wette
+
+   Newton se bewegingswette beskryf die versnelling van partiekels met
+   massa. In moderne taal kan die wette as volg uitgedruk word:
+
+   Eerste Wet
+          As geen netto krag op 'n partiekel uitgeoefen word nie, dan is
+          dit moontlik om 'n stel verwysingsraamwerke te kies (die
+          traagheidsverwysingsraamwerke) soos waargeneem vanaf die
+          partiekel in beweging waar die partiekel beweeg sonder enige
+          verandering in snelheid. Hierdie wet word dikwels vereenvoudig
+          deur te sê: "'n Voorwerp sal in rus bly of aanhou om teen 'n
+          konstante snelheid te beweeg tensy 'n ongebalanseerde uitwendige
+          krag daarop uitwerk."
+
+   Tweede Wet
+          Soos waargeneem vanaf 'n traagheisverwysingsraamwerk is die
+          netto krag op 'n partiekel eweredig aan die tydsgebonde tempo
+          van verandering van sy lineêre momentum: F = d[mv] / dt.
+          Momentum is die produk van massa en snelheid. Wanneer die massa
+          konstant is, kan hierdie wet vereenvoudig word na F = ma (die
+          netto krag wat op 'n liggaam uitwerk is gelykstaande aan die
+          massa van die liggaam vermenigvuldig met sy versnelling).
+
+   Derde Wet
+          Wanneer 'n partikel A 'n krag op 'n ander partiekel B uitoefen,
+          oefen B tergelykertyd 'n gelykstaande krag op A in die
+          teenoorgestelde rigting uit. Die sterk vorm van die wet
+          postuleer verder dat hierdie twee kragte in dieselfde lyn werk.
+          Hierdie wet word dikwels vereenvoudig na die sin "Elke aksie het
+          'n gelyke en teenoorgestelde reaksie".
+
+   In die gegewe interpretasie word aangeneem dat massa, versnelling en
+   belangriker, krag uitwendig gedefinieerde groothede is. Hierdie is die
+   mees algemeenste interpretasie: 'n mens kan die wette as 'n definisie
+   van hierdie groothede beskou. Neem kennis dat die tweede wet slegs
+   geldig is as die waarneming gemaak word vanaf 'n traagheidsraamwerk en
+   aangesien 'n traagheidsraamwerk gedefinieer word deur die eerste wet is
+   'n bewys van die eerste wet wat berus op die tweede wet 'n logiese
+   fout.
+
+[wysig] Newton se eerste wet: wet van traagheid
+
+     Lex I: Corpus omne perseverare in statu suo quiescendi vel movendi
+     uniformiter in directum, nisi quatenus a viribus impressis cogitur
+     statum illum mutare.
+
+     Elke liggaam volhou in sy rustoestand of om uniform reguit vorentoe
+     te beweeg behalwe as dit gedwing word om sy toestand te verander
+     deur 'n krag daarop.^[1]
+
+   Hierdie wet word ook die traagheidswet genoem.
+
+   Soos deur Newton geformuleer, is die eerste wet meer van 'n spesiale
+   geval van die tweede wet. Newton het sy wette in volgorde gerangskik
+   vir 'n goeie rede (sien Gailili & Tseitlin 2003).^[2] Die eerste wet
+   stel basies die verwysingsraamwerk daar waarvoor die ander wette van
+   toepassing is, die sogenaamde traagheidsraamwerke. Om te verstaan
+   waarom dit nodig is kan 'n mens dink aan 'n bal wat in rus is binne in
+   'n versnellende liggaam: 'n vliegtuig op 'n aanloopbaan is 'n voldoende
+   voorbeeld. Vanuit die perspektief van enigeen binne in die vliegtuig
+   (dit wil sê vanuit die vliegtuig se verwysingsraamwerk) sal dit voorkom
+   asof die bal agteruit beweeg soos die vliegtuig vorentoe versnel
+   (dieselfde gevoel word deur passasiers ervaar wat in hulle sitplekke
+   vasgedruk word wanneer die vliegtuig vernsel). Uit die oogpunt van die
+   passasiers is dit teenstrydig met Newton se tweede wet aangesien daar
+   skynbaar geen krag op die bal uitgeoefen word wat veroorsaak dat dit
+   beweeg nie. Die rede hiervoor is egter nie 'n teenstrydigheid nie omdat
+   Newton se tweede wet (onveranderd) nie op die situasie van toepassing
+   is nie. Dit is daarom belangrik om vas te stel wanneer die verskeie
+   wette van toepassing is aldan nie aangesien hulle nie in alle gevalle
+   geld nie.
+
+   Op 'n meer tegniese punt, alhoewel Newton se wette nie van toepassing
+   is op verwysingsraamwerke buite die traagheidsraamwerke nie, soos in
+   die geval van die versnellende vliegtuig, kan hulle gewysig word om wel
+   van toepassing te wees deur die toevoeging van 'n "denkbeeldige krag"
+   wat op die hele stelsel uitwerk: basies deur 'n krag toe te voeg wat
+   die onverklaarde beweging van voorwerpe binne daardie stelsel verlklaar
+   (soos in die geval van die bal wat beweeg sonder 'n waarneembare krag
+   in die voorbeeld hierbo).
+
+   Die netto krag op 'n voorwerp is die vektorsom van al die kragte wat op
+   daardie voorwerp uitgeoefen word. Newton se eerste wet stel dat as die
+   som nul is, sal die bewegingstoestand van daardie voorwerp nie verander
+   nie. Die volgende twee punte word in wese gestel:
+     * 'n Voorwerp wat nie beweeg nie sal nie beweeg totdat 'n netto krag
+       daarop uitgeoefen word nie.
+
+     * 'n Voorwerp wat beweeg sal nie sy snelheid verander (versnel) nie
+       totdat 'n netto krag daarop uitwerk nie.
+
+   Die eerste punt is vir die meeste mense vanselfsprekend, maar die
+   tweede vereis om deeglik deurdink te word aangesien ons nie in die
+   alledaagse lewe dinge ervaar wat vir ewig aanhou beweeg nie (behalwe
+   hemelliggame). As 'n mes 'n yshokkieskyf oor 'n tafel laat gly beweeg
+   dit nie vir altyd nie, dit word stadiger en kom uiteindelik tot
+   stilstand. Maar volgens Newton se wet is dit omdat daar 'n uitwendige
+   krag daarop uitoefen en daardie krag is inderdaad die wrywingskrag
+   tussen die tafel en die skyf wat in die teenoorgestelde rigting as die
+   beweging uitgeoefen word. Dit is hierdie krag wat veroorsaak dat die
+   voorwerp tot stilstand gebring word. In die afwesigheid van so 'n krag
+   soos benader word deur 'n skyf op ys, sal die skyf nie tot stilstand
+   kom nie. Newton se eerste wet is basies 'n herhaling in ander woorde
+   van wat Galileo reeds waargeneem het.
+
+   Dit verskil van Aristoteles se siening dat alle voorwerpe 'n natuurlike
+   plek in die heelal het. Aristoteles het geglo dat swaar voorwerpe soos
+   rotse op die aarde wou rus en dat ligte voorwerpe soos rook in die lug
+   wou rus en dat sterre in die hemel wou bly. 'n Sleutelverskil tussen
+   Galileo se idee en Aristoteles s'n is dat Galileo besef het dat krag
+   wat op 'n liggaam uitwerk versnelling bepaal het en nie snelheid nie.
+   Hierdie insig het gelei tot Newton se eerste wet wat beteken dat geen
+   krag geen versnelling beteken nie en daarom dat 'n liggaam sy snelheid
+   sal behou.
+
+   Die traagheidswet het is skynbaar onafhanklik deur verskeie natuur-
+   filosowe en wetenskaplikes bedink. Die traagheid tot beweging is in die
+   3^de eeu v.C. der die Sjinese filosoof Mo Tzu en in die 11^de eeu deur
+   die Moslem wetenskaplike, Alhazen^[3] en Avicenna^[4] beskryf. Die
+   17^de eeuse filosoof René Descartes het ook die wet geformuleer maar
+   geen eksperimente uitgevoer om dit te bevestig nie.
+
+   Daar is geen perfekte demonstrasie van die wet nie, aangesien wrywing
+   gewoonlik as 'n krag op 'n bewegende liggaam teenwoordig is en selfs in
+   die ruimteis daar swaartekrag wat op voorwerpe uitwerk, die wet dien
+   egter om die basiese oorsake van veranderinge in 'n voorwerp se
+   beweging aan te toon.
+   Kategorieë: Meganika • Fisika
+

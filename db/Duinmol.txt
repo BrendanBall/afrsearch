@@ -1,0 +1,149 @@
+Duinmol
+
+
+                      Duinmolle
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Rodentia
+      Suborde:     Hystricomorpha
+     Infraorder:   Hystricognathi
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Bathyergidae
+                   Waterhouse, 1841
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die duinmol is 'n knaagdier. Die dier is nie verwant aan 'n mol nie.
+   Die naaste verwantskap met 'n ander diergroep is met die ystervark. Die
+   familie kom slegs voor in Afrika, suid van die Saharawoestyn. In
+   Suider-Afrika is daar ses verskillende spesies, in drie genera.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Genera
+        * 3 Verspreiding
+        * 4 Habitat
+        * 5 Gedrag
+        * 6 Geluide
+        * 7 Kos
+        * 8 Voortplanting
+        * 9 Spoor en veldtekens
+        * 10 Galery
+        * 11 Sien ook
+        * 12 Bronne
+
+[wysig] Identifikasie
+
+   'n Duinmol het klein ogies, en die ore is ook klein. Die pote en stert
+   is kort. Die dier het enorme snytande wat uit die bek uithang.
+
+[wysig] Genera
+
+     * Georychus
+     * Fukomys
+     * Cryptomys
+     * Heliophobius
+     * Bathyergus
+     * Heterocephalus
+
+[wysig] Verspreiding
+
+   Sien die verskillende spesies vir spesifieke verspreidingskaarte.
+
+[wysig] Habitat
+
+   Die dier leef slegs ondergronds. Dit word selde bogronds gewaar.
+
+[wysig] Gedrag
+
+   Die duinmol se kloutjies en tande is aangepas om goed te kan grawe; die
+   tande maak die grond los, en die pote skop die klonte grond weg. Van
+   bogronds gewaar 'n mens niks van hulle gedrag nie. Die dier het slegs
+   las van vyande wanneer dit naby aan die grondoppervlakte 'n hopie grond
+   uitstoot. Slange, roofdiere en roofvoëls kan dit dan vang. Verder open
+   so 'n grondhopie nie direk op die hooftonnelgebied van die duinmol nie,
+   maar op 'n sytonnel. Tonnels om kos te soek word gegrawe wanneer die
+   grond nat en sag is. Tydens die droeë seisoen herskuif die dier baie
+   grondmateriaal ondergronds en blokkeer groot gedeeltes van die
+   tonnelsisteem waarin dit lewe.
+
+[wysig] Geluide
+
+   Onbekend.
+
+[wysig] Kos
+
+   Die diersoort eet knolle en bolle wat dikwels dodelik gifitg is vir
+   ander soogdiere.
+
+[wysig] Voortplanting
+
+   Dit blyk of duinmol lank leef in die natuur, besonder lank in
+   gevangenskap; en of die vrugbaarheid met ouderdom vermeerder. (Sien ook
+   Ou duinmolle stimuleer navorsing op veroudering)
+
+[wysig] Spoor en veldtekens
+
+   Die hopies grond wat opgestoot word, is die enigste teken daarvan.
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Lys van Suider-Afrikaanse soogdiere
+     * Lys van Suider-Afrikaanse soogdiere volgens wetenskaplike name
+     * Suider-Afrikaanse soogdiere en hul ordes
+
+[wysig] Bronne
+
+     * 'Smither's Mammals of Southern Africa. A field guide'. Redakteur
+       Peter Apps. Derde uitgawe, 2000.
+     * 'Veldgids tot die soogdiere van Suider-Afrika'. Chris en Tilde
+       Stuart. Eerste uitgawe, 1988.
+
+   Kategorie: Duinmolle
+

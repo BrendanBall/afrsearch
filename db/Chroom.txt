@@ -1,0 +1,279 @@
+Chroom
+
+
+
+   24                       vanadium ← chroom → mangaan
+    -
+   ↑
+   Cr
+   ↓
+   Mo
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal chroom, Cr, 24
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 6, 4, d
+                                                     Voorkoms metaalsilwer
+                                               Atoommassa 51.9961(6) g/mol
+                                       Elektronkonfigurasie [Ar] 3d^5 4s^1
+                                            Elektrone per skil 2, 8, 13, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 7.15 g/cm³
+                                   Vloeistof digtheid teen s.p. 6.3 g/cm³
+                                                          Smeltpunt 2180 K
+                                                                (1907 °C)
+                                                           Kookpunt 2944 K
+                                                                (2671 °C)
+                                               Smeltingswarmte 21.0 kJ/mol
+                                            Verdampingswarmte 339.5 kJ/mol
+                                Warmtekapasiteit (25 °C) 23.35 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1656 1807 1991 2223 2530 2942
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                Oksidasietoestande 6, 3, 2
+                                                       (sterk suur oksied)
+                              Elektronegatiwiteit 1.66 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 652.9 kJ/mol
+                                                        2de: 1590.6 kJ/mol
+                                                         3rde: 2987 kJ/mol
+                                                        Atoomradius 140 pm
+                                                 Atoomradius (ber.) 166 pm
+                                                   Kovalente radius 127 pm
+                                                                   Diverse
+                                 Magnetiese rangskikking AFM (eerder: SDG)
+                                  Elektriese weerstand (20 °C) 125 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 93.9 W/(m·K)
+                               Termiese uitsetting (25 °C) 4.9 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 5940 m/s
+                                                  Young se modulus 279 GPa
+                                                      Skuifmodulus 115 GPa
+                                                      Massamodulus 160 GPa
+                                                    Poissonverhouding 0.21
+                                                      Mohs se hardheid 8.5
+                                                 Vickers hardheid 1060 MPa
+                                                 Brinell hardheid 1120 MPa
+                                              CAS-registernommer 7440-47-3
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van chroom
+
+                                iso    NV    halfleeftyd VM VE (MeV)  VP
+                               ^50Cr syn     > 1.3 E18 j εε -        ^50Ti
+                               ^51Cr sin     27.7025 d   ε  -        ^51V
+                                                         γ  0.320    -
+                               ^52Cr 83.789% Cr is stabiel met 28 neutrone
+                               ^53Cr 9.501%  Cr is stabiel met 29 neutrone
+                               ^54Cr 2.365%  Cr is stabiel met 30 neutrone
+
+                                                                Verwysings
+
+   Chroom is 'n chemiese element in die periodieke tabel met die simbool
+   Cr en atoomgetal van 24.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Biologiese rol
+        * 5 Verspreiding
+        * 6 Verbindings
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Chroom is 'n staalgrys, harde, blink metaal wat 'n hoë glans verkry met
+   polering, smelt met moeite en vlek met tyd.
+
+   Die mees algemene oksidasietoestande van chroom is +2, +3, en +6 met +3
+   as die mees stabiele toestand. +4 en +5 is relatief skaars.
+   Chroomverbindings met die +6 oksidasietoestand is baie kragtige
+   oksideermiddels.
+
+   Chroom(0) is onstabiel in suurstof en produseer onmiddelik 'n dun
+   oksiedlagie wat ondeurdringbaar is tot suurstof en beskerm sodoende die
+   onderliggende metaal.
+
+[wysig] Aanwendings
+
+   Gebruike van Chroom:
+     * In metallurgie, word dit gebruik om korrosieweerstand te gee en 'n
+       glansafwerking:
+          + as 'n komponent van 'n legering, bv. in vlekvrye staal,
+          + in geanodiseerde aluminium (waar die oppervlak van die
+            aluminium letterlik in robyn verander word).
+     * As kleurstowwe in verwe.
+          + Chroom(III)oksied is 'n metaalpoleermiddel wat bekend staan as
+            Groen blanket.
+          + Chroomsoute word gebruik om glas smarag groen te kleur.
+          + Chroom is die element wat aan 'n robyn sy rooi kleur verleen
+            en word daarom gebruik om sintetiese robyne te vervaardig.
+     * As 'n katalis.
+     * Chromiet word gebruik om gietvorms vir die maak van bakstene.
+     * Chroomsoute word gebruik vir leerlooiery.
+     * Kaliumdichromaat is 'n chemiese reagens wat gebruik word om
+       laboratorium glasware skoon te maak en as 'n middel vir titrasies.
+       Dit word as beits vir die vaslegging van kleur in weefstowwe
+       gebruik.
+     * Chroom(IV)oksied (CrO[2]) word gebruik vir die vervaardiging van
+       magnetiese band, waar die hoër dwangvermoë as ysteroksied band
+       beter werkverrigting verseker.
+     * In boormodders by olieboorgate word dit gebruik as
+       korrosieweermiddel.
+
+[wysig] Geskiedenis
+
+   In 1761, het Johann Gottlob Lehman 'n oranje-rooi mineraal in die Oeral
+   berge ontdek wat hy Siberiese rooi-lood genoem het. Die mineraal wat
+   aanvanklik verkeerdelik as 'n loodverbinding met selenium en
+   ysterkomponente daarin geïdentifiseer is, is daar bevind dat die
+   materiaal inderwaarheid loodchromaat (PbCrO[4]) was en staan tans as
+   die mineraal krokoïet bekend.
+
+   In 1770 het Peter Simon Pallas dieselfde plek as Lehmann besoek en die
+   rooi "lood" mineraal gevind wat uitstekende eienskappe gehad het as 'n
+   verfpigment. Die gebruik van Siberiese rooilood as 'n verfpigment het
+   daarna vinnig ontwikkel. 'n Helder geel kleurstof wat ook van krokoïet
+   vervaardig is, het baie gewild geword.
+
+   In 1797 het Nicolas- Louis Vauquelin verskeie monsters van krokoïeterts
+   ontvang. Hy het chroomoksied (CrO[3]) daaruit verkry deur krokoïet met
+   soutsuur te vermeng. In 1798 het Vauquelin ontdek dat hy metalliese
+   chroom kon berei deur die oksied in 'n houtskooloond te verhit. Hy het
+   ook die teenwoordigheid van spoorhoeveelhede chroom in edelgesteentes
+   soos robyn en smarag vasgestel.
+
+   Tydens die 1800s is chroom hoofsaaklik as 'n verfkomponent gebruik maar
+   tans is die hoofgebruik daarvan vir metaallegerings (85%), met die
+   oorblywende vraag wat in die chemiese nywerheid, vir vuurvaste
+   materiale en in smelterye gebruik word.
+
+   Chroom verkry sy naam uit die Griekse woord chroma wat kleur beteken,
+   vanweë die vele kleurryke verbindings wat daaruit voorberei kan word.
+
+[wysig] Biologiese rol
+
+   Trivalente chroom is 'n noodsaaklike spoormetaal en word vereis vir die
+   behoorlike metabolisme van suiker in mense. Chroom tekorte kan die
+   doeltreffendheid van insulien beïnvloed met betrekking to die beheer
+   van die suikerbalans. Anders as ander noodsaaklike spoormetale is
+   chroom nie gevind in 'n metalloproteïen met biologiese aktiwiteit nie.
+   Om hierdie rede bly die funksionele basis vir die behoefte aan chroom
+   in die menslike dieet steeds onbekend. Glukose weerstandigheidsfaktor
+   (GWF) chroom word verkoom as 'n voedselaanvulling. Daar word beweer dat
+   die sterkste mineraal is om die omskakelingsproses van suiker na
+   energie aan te help voordat dit na ongewenste vet in die liggaam
+   omgesit word. Chraampikolinaat is die mees algemeen gebruikte
+   sintetiese aanvulling om wanbalanse in glukose metabolisme "reg te
+   stel".
+
+[wysig] Verspreiding
+
+   Chroom word ontgin as chromieterts(FeCr[2]O[4]). Chroom word
+   kommersieël voorberei deur die verhitting van die erts in die
+   teenwoordigheid van aluminium of silikon. Rofweg die helfte van die
+   wêreldwye chromiet erts produksie kom uit Suid-Afrika. Kasakstan, Indië
+   en Turkye produseer ook noemenswaardige hoeveelhede. Baie onbenutte
+   neerslae bestaan en is hoofsaaklik in Kasakstan en Suidelike Afrika
+   geleë. Ongeveer 15 miljoen ton bemarkbare chromieterts is in 2000
+   geproduseer wat na ongeveer 4 miljoen ton ferrochroom ter waarde van
+   rofweg 2.5 miljard V.S.A dollar.
+
+   Al is suiwer chroomneerslae baie skaars is die metaal al in suiwer vorm
+   ontdek. Die Udachnaya myn in Rusland produseer monsters van die suiwer
+   metaal. Die myn is 'n kimberlietpyp ryk aan diamante en die reduserende
+   omgewing daarvan het gehelp om beide elementêre chroom en diamante te
+   produseer.
+
+[wysig] Verbindings
+
+   Kaliumdichromaat is 'n kragtige oksideermiddel en is die verbinding wat
+   by voorkeur gebruik word vir die skoonmaak van laboratorium glasware
+   wat organiese materiale bevat het. Chroomgroen is die groen oksied van
+   chroom, Cr[2]O[3], wat gebruik word in emalje verf en die kleur van
+   glas. Chroomgeel is 'n helder geel pigment, PbCrO[4], wat deur verwers
+   gebruik word.
+
+   Chroomsuur het die hipotetiese struktuur H[2]CrO[4]. Chroom of
+   dichroomsuur word in die natuur aangetref nie, maar hulle anione word
+   wel in 'n verskeidenheid verbindings aangetref. Chroomtrioksied,
+   CrO[3], die suur anhidried van chroomsuur, word industrieël as
+   "chroomsuur" bemark.
+
+[wysig] Isotope
+
+   Chroom in die natuur bestaan uit 3 stabiele isotope; ^52Cr, ^53 en
+   ^54Cr met ^52 wat die meeste voorkom (83.789% natuurlike verspreiding).
+   19 radio-isotope is geëien met die mees stabiele daarvan ^50Cr met 'n
+   halfleeftyd van meer as 1.8x10^17 jaar en ^51Cr met 'n halfleeftyd van
+   27.7025 dae. Die oorblywende radio-aktiewe isotope het halfleeftye van
+   minder as 24 uur en die meerderheid hiervan het halfleeftye van korter
+   as 'n minuut. Hierdie element het ook 2 meta-toestande.
+
+   Chroom-53 is die radiogeniese vervalproduk van ^53Mn. Chroom se
+   isotoopinhoud kom tipies in kombinasie met mangaan isotoopinhoud voor
+   en het al toepassings gevind in isotoopgeologie. Mn-Cr
+   isotoopverhoudings versterk die teoretieë oor die vroeëre geskiedenis
+   van die sonnestelsel soos afgelei uit 26Al en 107Pd. Variasies in die
+   ^53Cr/^52Cr en Mn/Cr verhoudings in verskeie meteoriete dui op 'n
+   aanvanklike ^53Mn/^55Mn verhouding wat daarop dui dat die Mn-Cr isotope
+   onderhewig was aan in-situ verval van ^53Mn in planetêre liggame. ^53Cr
+   verskaf dus verdere bewys dat nukleosintetiese prosesse plaasgevind het
+   net voor die vorming van die sonnestelsel.
+
+   Die isotope van chroom wissel in atoomgewig vanaf 43 ame (^43Cr) tot by
+   67 ame (^67Cr). Die primêre vervalmodus voor die mees algemene stabiele
+   istotoop, ^52Cr, is elektronvangs en die primêre modus daarna is
+   betaverval.
+
+[wysig] Voorsorgmaatreëls
+
+   Chroom-metaal en chroom(III)verbindings word nie normaalweg as 'n
+   gesondheidsgevaar beskou nie, maar chroom(VI)verbindings kan toksies
+   wees indien dit per mond ingeneem word. Die noodlottige dosis van
+   giftige chroom(VI)verbindings is ongeveer 'n halwe teelepel van die
+   stof. Die meeste chroom(VI)verbindings veroorsaak irritasie van die oë,
+   vel en neusmembrane. Kroniese blootstelling aan chroom(VI)verbindings
+   kan permanente oogskade veroorsaak indien dit onbehandeld gelaat word.
+   Daar is vasgestel dat Chroom(VI) 'n menslike karsinogeen is.
+   Blootstelling aan giftige chemiese heksavalente chroom in drinkwater
+   vorm die basis van die rolprent Erin Brokovich.
+
+   In 1958 het die Wêreldgesondheidsorganisasie 'n maksimum toelaatbare
+   konsentrasie van 0.05 milligram per liter (mg/L) vir Chroom(VI) in
+   drinkwater aanbeveel op grond van gesondheidsvrese. Aangesien
+   chroomverbindings gebruik word/was in kleurstowwe en verwe, asook vir
+   die looiery van leer, word hierdie verbindings dikwels in die grond en
+   grondwater by nywerheidsterreine gevind, wat skoonmaak en herstelaksies
+   vereis.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Artikel oor Chroom
+     * Engelstalige Wikipedia artikel oor Chroom
+
+[wysig] Eksterne skakels
+
+     * Gevallestudies in omgewingsmedisyne: Chroom toksisiteit
+     * WebElements.com – artikel oor Chroom
+     * Internasionale Chroom Ontwikkeling Assosiasie
+     * It's Elemental – Artikel oor Chroom
+     * Native Chromium
+     * The Merck Manual – Artikel oor mineraaltekort en toksisiteit
+     * IARC Monograph Artikel oor Chroom en Chroomverbindings
+     * MiracleBurn is comprised of three different types of ingredients...
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale
+

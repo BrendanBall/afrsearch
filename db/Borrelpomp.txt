@@ -1,0 +1,38 @@
+Borrelpomp
+
+
+   'n Borrelpomp is 'n tipe vloeistofpomp. 'n Borrelpomp bestaan eenvoudig
+   net uit 'n vertikale pyp wat aan beide kante oop is met die onderkant
+   van die pyp onder die vloeistof wat gepomp moet word se vlak gedompel
+   is. Saamgeperste gas word aan die onderkant van die pyp ingespuit. Die
+   gas meng met die vloeistof en verlaag die digtheid van die mengsel
+   sodanig dat die gewig van die gas-vloeistof mengsel laer is as die
+   opwaartse krag veroorsaak deur die gasdruk onder aan die pyp/buis. Dus
+   met die korrekte verstelling van gas- en vloeistofvloei verhouding kan
+   die nodige stuwingshoogte (hoogte van vloeistofoppervlak na
+   uitlaatpunt) bereik word.
+
+   Die vloeitempo kan bereken word deur parameters soos dompeldiepte
+   (afstand van vloeistofoppervlak tot die gasinspuitpunt), gasvloei,
+   pypdeursnee en ander fisiese eienskappe van die vloeiers in korrelasies
+   te gebruik (Sien Bronnelys).
+
+   Die pompe word tipies ingespan om olie te ontgin. 'n Alledaagse
+   voorbeeld van 'n pomp wat op die beginsel werk is die borrelpompie in
+   'n koffieperkoleerder wat die borrels ,wat onstaan wanneer die water
+   kook, inspan om die warm water tot bo in die filter in te pomp.
+
+[wysig] Bronnelys
+
+   Perry's Chemical Engineers' Handbook - Sixth Edition, Robert H. Perry,
+   Don Green, McGraw Hill 1984.
+
+[wysig] Sien ook
+
+     * Sentrifugale Pomp
+     * Resiprokerende pompe
+     * Dompelpomp
+     * Peristaltiese pomp
+
+   Kategorie: Pompe
+

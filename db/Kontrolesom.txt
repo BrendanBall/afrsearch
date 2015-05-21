@@ -1,0 +1,70 @@
+Kontrolesom
+
+
+          Hierdie artikel bespreek die gebruik van kontrolesomme op binêre
+          getalle. Kontrolesomme op desimale getalle word bespreek onder
+          kontrolesyfer.
+
+   'n Kontrolesom is 'n vorm van oortolligheidstoets, 'n eenvoudige manier
+   om die integriteit van data te verseker deur foutsporing te doen op
+   data wat versend is (telekommunikasie) of op data wat gestoor is
+   (Rekenaarberging). Dit word gedoen deur die basiese onderdele van 'n
+   boodskap bymekaar te tel, tipies die aangeskakelde bisse, en die stoor
+   van die resulterende waarde. Later kan enigeen dieselfde bewerking op
+   die data uitvoer en die resultaat met die kontrolesom vergelyk en
+   indien die resultate ooreenstem kan daar afgelei word dat daar geen
+   korrupsie van die data plaasgevind het nie.
+
+   Die eenvoudigste vorm van kontrolesom is waar die aangeskakelde bisse
+   (die 1^ne) in die data bymekaargetel word. Met hierdie soort
+   kontrolesom kan die aantal of soorte foute nie bespeur word nie. So 'n
+   kontrolesom word veral nie deur die volgende foute verander nie:
+     * die herrangskikking van die bisse in die boodskap
+     * die invoeging of uitvee van nulwaarde bisse
+     * veelvuldige foute wat optel tot nul
+
+   'n Voorbeeld van 'n eenvoudige kontrolesom is:
+
+   Gegewe 4 grepe data : 25h, 62h, 3Fh, 52h
+
+          Stap 1: Die bymekaartel van al die grepe gee 118h.
+          Stap 2: Laat die halwe greep wat oorgedra word weg om 18h te
+          lewer.
+          Stap 3: Verkry die komplement van twee van die 18h wat E8h
+          lewer. Dit is dan die kontrolesomgreep.
+
+   Om die Kontrolesomgreep te toets voeg dit eenvoudig by die
+   oorspronklike groep grepe. Dit behoort die getal 200h te lewer. Laat
+   weer die halwe greep wat oorgedra is weg en dit sal 00h lewer.
+   Aangesien dit 00h is beteken dit dat die grepe waarskynlik onveranderd
+   is.
+
+   Meer verfynde soorte oortolligheidstoetse bestaan, insluitend Fletcher
+   se kontrolesom, Adler-32 en sikliese oortolligheidstoetse wat ontwerp
+   is om die gebreke aan te spreek deur nie net die waarde van elke greep
+   in berekening te bring nie, maar ook die posisie daarvan. Die nadeel
+   verbonde aan die vermoë om meer soorte foute te kan opspoor is die
+   gevolglike verhoogde kompleksiteit verbonde aan die berekening van die
+   kontrolesom.
+
+   Hierdie soorte oortolligheidstoetse is nuttig in die opspoor van
+   veranderings in data wat per abuis plaasvind soos tydens die korrupsie
+   van gestoorde data of foute tydens die oordrag van 'n kommunikasiesein.
+   Hulle beskerm egter nie teen die kwaadwillige verandering van data nie
+   aangesien hulle eenvoudige wiskundige struktuur dit maklik maak om
+   hulle te flous. Om hierdie vlak van data-integriteit te verseker word
+   die gebruik van 'n kriptografiese hashfunksie, soos SHA-256, benodig.
+   In Unix is daar 'n hulpmiddel genaamd "cksum" wat beide 'n 32 bis CRC
+   (sikliese oortolligheidstoets) en 'n greeptelling vir enige toevoerlêer
+   kan lewer.
+
+[wysig] See also
+
+     * Kontrolesyfer
+     * Hamming kode
+     * Lys van kontrolesom algoritmes
+     * Luhn algoritme
+     * Pariteitsbis
+
+   Kategorie: Rekenaar
+

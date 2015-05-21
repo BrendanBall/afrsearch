@@ -1,0 +1,109 @@
+Knobbeleend
+
+
+                        Knobbeleend
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+   'n Knobbeleendwyfie(Sarkidiornis melanotos melanotos)
+   'n Knobbeleendwyfie
+   (Sarkidiornis melanotos melanotos)
+                Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Anseriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Anatidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Sarkidiornis
+                   Eyton, 1838
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     S. melanotos
+     Subspesie:    {{{subspecies}}}
+          [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                      Binomiale naam
+                  Sarkidiornis melanotos
+   (Pennant, 1769)
+                      Trinomiale naam
+                      {{{trinomial}}}
+                       Tipe Spesies
+                    {{{type_species}}}
+                        Subspesies
+
+                      S. m. melanotos; S. m. sylvicola
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                         Sinonieme
+   {{{synonyms}}}
+
+   Die knobbeleend is 'n algemene standvoël in Suid-Afrika.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Sien ook
+
+[wysig] Identifikasie
+
+   'n Manlike knobbeleend
+   'n Manlike knobbeleend
+
+   Hierdie eend is onverwisselbaar. Hulle het 'n swart nek, kop en
+   onderlyf en glansende blou-swart onderkante. Die kop is gespikkeld met
+   donker kolle. Die manlike voël is groter as die vroulike voël en het 'n
+   groot swart knop op die snawel. Beide die manlike en vroulike voël het
+   wit onderkante.
+
+[wysig] Habitat
+
+   Die Knobbeleend kom voor by varswater moerasse, damme en mere. Die eend
+   eet hoofsaaklik plantaardige materiaal sowel as sade.
+
+[wysig] Verspreiding
+
+   Hierdie eend broei in die trope in Suid-Amerika, Afrika suid van die
+   Sahara en Indië. Die voëls broei hoofsaaklik in holtes van bome, en lê
+   7 tot 15 eiers.
+
+[wysig] Ander name
+
+   'n Gedetailleerde skets van 'n kobbeleendmannetjie se kop.
+   'n Gedetailleerde skets van 'n kobbeleendmannetjie se kop.
+     * Engelse naam: Comb Duck / Knob-billed Duck
+     * Wetenskaplike naam: Sarkidiornis melanotos
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Eendvoëls
+

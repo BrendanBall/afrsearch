@@ -1,0 +1,61 @@
+Vlerkprofiel
+
+
+   'n Vlerkprofiel is die vorm van 'n vlerk (lugvaart) of die lem van 'n
+   skroef (soos die van 'n skip of vliegtuig) in deursnit beskou. Dit word
+   aangewend om stukrag of drukkrag te verleen. Afhangende van die
+   toepassing daarvan het vlerkprofiele vir subsoniese vlug 'n kenmerklike
+   vorm met 'n geronde opstroomkant en skerp afstroomkant wat dikwels ook
+   'n welwing (ronding) insluit.
+   Die geleidelike ontwikkeling van vlerkprofiele, 1908 - 1944, NASA
+   Die geleidelike ontwikkeling van vlerkprofiele, 1908 - 1944, NASA
+   Stu- en sleurkragkurwes vir vlerkprofiele
+   Stu- en sleurkragkurwes vir vlerkprofiele
+
+   Buiten die vlerke van 'n vliegtuig, het die horisontale en vertikale
+   stabiliseerders van 'n vliegtuig ook 'n vlerkprofiel. Vlerkprofiele
+   word ook in motorboot- en vliegtuigskroewe, Waaierlemme, kompressors en
+   turbines aangetref. Seile vorm ook 'n vlerkprofiel en die onderwater
+   vinne van seilbote werk op dieselfde beginsel as vlerkprofiele. Selfs
+   in die natuur word vlerkprofiele aangetref by voëls se vlerke (waar die
+   inspirasie waarskynlik vandaan gekom het).
+
+   'n Omgekeerde vlerkprofiel veroorsaak afwaartste druk op 'n
+   motorvoertuig of ander voertuie wat sy klouvermoë op die pad verbeter.
+   Die term stukrag verwys na die krag wat ontstaan as gevolg van die
+   beweging van 'n vlerkprofiel in enige medium. 'n Dun voorwerp met 'n
+   positiewe aanvalshoek soos 'n plat plaat of die loopvlak van 'n brug
+   sal stukrag veroorsaak. Vlerkprofiele is egter meer doeltreffend en
+   veroorsaak stukrag met die minste moontlike sleurkrag. 'n Stukrag
+   teenoor sleurkragkurwe soos hier regs vertoon kan opgestel word deur
+   toetse in 'n windtonnel te doen.
+
+   Die ontwerp van vlerkprofiele is 'n belangrike aspek van aërodinamika.
+   Verskeie vlerkprofiele word in verskillende vlugtoestande aangewend. 'n
+   Superkritiese vlerkprofiel met sy kleiner welwing, verminder
+   supersoniese sleurversteurings, terwyl 'n simmetriese vlerkprofiel meer
+   geskik is vir dikwelse onderstebo vlugtoestande (soos met akrobatiese
+   vliegkuns). Supersoniese vlerkprofiele het 'n baie meer hoekige vorm en
+   het dikwels 'n baie skerp opstroomkant. Vlerkprofiele met skerper
+   opstroomrondings veroorsaak stewiger en ligter vlerke. 'n Groter
+   ronding aan die voorkant verskaf egter meer volume vir die stoor van
+   brandstof. Bewegende dele word in baie vliegtuie se vlerke ingebou (bv.
+   Flappe) om 'n dinamiese vlerkprofiel daar te stel deur die vorm te
+   verander om by die vlugsnelheid aan te pas.
+
+   Verskeie stelsels is al ontwikkel om verskillende vlerkprofiele te
+   beskryf en te karakteriseer — waarvan die mees gebruikte die NACA
+   stelsel is. Voor hierdie stelsel is verskeie ad-hoc stelsels gebruik.
+   'n Voorbeeld van 'n algemene doel vlerkprofiel wat wye toepassing in
+   die lugvaartbedryf vind is die ouer Clark-Y-stelsel.
+
+[wysig] Sien ook
+
+     * Stukrag
+     * Aanvalshoek
+     * Stuwingskoëffisiënt
+     * Stol (lugvaart)
+     * Superkritiese vlerkprofiel
+
+   Kategorieë: Aërodinamika • Lugvaart
+

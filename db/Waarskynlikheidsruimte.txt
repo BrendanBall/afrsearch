@@ -1,0 +1,58 @@
+Waarskynlikheidsruimte
+
+
+   Die definisie van die waarskynlikheidsruimte is 'n grondslag van
+   waarskynlikheidsleer. Dit was voorgestel deur Kolmogorov in die 1930's.
+
+   Inhoud
+
+        * 1 Definisie
+             + 1.1 Steekproef ruimte
+             + 1.2 Gebeurtenisse
+             + 1.3 Waarskynlikheidsmaat
+
+[wysig] Definisie
+
+   'n Waarskynlikheidsruimte (\Omega, \mathcal F, P) is 'n maatruimte met
+   'n maat P wat die waarskynlikheidsaksiomas bevredig.
+
+[wysig] Steekproef ruimte
+
+   Die steekproef ruimte Ω, is a nie-lêe versameling waarvan die elemente
+   as uitkomste of natuurtoestande bekend staan en waarna dikwels met die
+   simbool ω verwys word.
+
+   Die versameling van alle moontlike uitkomste van 'n eksperiment staan
+   bekend as die steekproef ruimte van die eksperiment.
+
+[wysig] Gebeurtenisse
+
+   Die tweede item, \mathcal F , is 'n σ-algebra van subversamelings van
+   Ω. Die elemente van \mathcal F word gebeurtenisse genoem. 'n
+   Gebeurtenis is 'n versameling van uitkomste, waarvan die
+   waarskynlikheid kan bepaal word.
+
+   Omdat \mathcal F 'n σ-algebra is, bevat dit Ω; verder is die komplement
+   van 'n gebeurtenis ook 'n gebeurtenis, en die vereniging van enige
+   (eindige of aftelbaar oneindige) reeks gebeurtenisse is 'n gebeurtenis.
+
+   Gewoonlik is die gebeurtenisse die Lebesgue-meetbare of Borel-meetbare
+   versamelings van reële getalle.
+
+[wysig] Waarskynlikheidsmaat
+
+   Die waarskynlikheidsmaat P is 'n funksie van \mathcal F tot die reële
+   getalle wat aan elke gebeurtenis 'n waarskynlikheid tussen 0 en 1
+   toeken. Dit moet voldoen aan die waarskynlikheidsaksiomas.
+
+   Omdat P 'n funksie is wat gedefinieer is oor \mathcal F en nie oor Ω
+   nie, word daar nie van die versameling van gebeurtenisse vereis om 'n
+   volledige magsversameling van die steekproefruimte te wees nie; m.a.w.
+   is nie elke versameling uitkomste noodwendig 'n gebeurtenis nie.
+
+   Wanneer meer as een maat bespreek word, word waarskynlikheidsmates
+   dikwels met "Blackboard bold" geskryf om hulle te onderskei. Wanneer
+   daar slegs een waarskynlikheidsmaat bespreek word, word dit aangedui
+   deur Pr, wat "waarskynlikheid van" beteken.
+   Kategorie: Waarskynlikheidsleer
+

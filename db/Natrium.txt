@@ -1,0 +1,177 @@
+Natrium
+
+
+
+                           natrium – magnesium
+            Li
+            Na
+             K
+
+
+              Natrium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                   General
+                                      Naam, Simbool, Getal natrium, Na, 11
+                                             Chemiese reeks alkalie-metaal
+                                        Groep, Periode, Blok 1 (IA), 3 , s
+                                        Digtheid, Hardheid 968 kg/m^3, 0.5
+                                           Voorkoms wit met silwer skynsel
+                                                           Atoomeienskappe
+                                                  Atoomgewig 22.989770 amu
+                                           Atoomradius (ber.) 180 (190) pm
+                                                   Kovalente radius 154 pm
+                                               van der Waals radius 227 pm
+                                            Elektron konfigurasie [Ne]3s^1
+                                           e^− e per energievlak 2, 8, 1
+                              Oksidasietoestande (Oksied) -1 (sterk basis)
+                                  Kristalstruktuur kubies vlak gesentreerd
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (paramagneties)
+                                            Smeltpunt 370.87 K (97.72 °C)
+                                              Kookpunt 1156 K (882.85 °C)
+                                    Molêre volume 23.78 ×10^−6 m^3/mol
+                                            Verdampingswarmte 96.96 kJ/mol
+                                              Smeltingswarmte 2.598 kJ/mol
+                                        Dampdruk 1.43×10^-5Pa teen 1234 K
+                                    Spoed van klank 3200 m/s teen 293.15 K
+                                                                  Algemeen
+                                  Elektronegatiwiteit 0.93 (Pauling skaal)
+                                 Spesifieke warmtekapasiteit 1230 J/(kg*K)
+                             Elektriese geleidingsvermoë 21 10^6/(m·ohm)
+                                    Termiese geleidingsvermoë 141 W/(m*K)
+                                   1^ste ionisasie potentiaal 495.8 kJ/mol
+                                     2^de ionisasie potentiaal 4562 kJ/mol
+                                   3^de ionisasie potentiaal 6910.3 kJ/mol
+                                     4^de ionisasie potentiaal 9543 kJ/mol
+                                    5^de ionisasie potentiaal 13354 kJ/mol
+                                    6^de ionisasie potentiaal 16613 kJ/mol
+                                    7^de ionisasie potentiaal 20117 kJ/mol
+                                   8^ste ionisasie potentiaal 25496 kJ/mol
+                                    9^de ionisasie potentiaal 28932 kJ/mol
+                                  10^de ionisasie potentiaal 141362 kJ/mol
+                                                     Mees stabiele isotope
+
+                                iso   NV  halfleeftyd   VM    VE MeV  VP
+                               ^22Na sin. 2.602 y     epsilon 2.842  ^22Ne
+                               ^23Na 100% Na is 'n stabiel met 12 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Natrium is die chemiese element in die periodieke tabel met die simbool
+   Na en atoomgetal van 11.
+
+   Natrium is 'n sagte, wasagtige, silwerwit, reaktiewe metaal wat aan die
+   alkalie-metale behoort en kom in oorvloed voor in natuurlike stowwe
+   (veral haliet). Dit is hoogs reaktief, brand met 'n geel vlam, word in
+   lug geoksideer en reageer heftig met water wat meebring dat dit onder
+   olie gestoor moet word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Verbindings
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Fisiologie van Na-ione
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Soos die ander alkalie-metale is natrium 'n sagt, baie ligte, silwerig
+   wit, reaktiewe element wat nooit as 'n suiwer element in die natuur
+   aangetref word nie. Natrium dryf in water, en ontbind dit ook om
+   waterstofgas en hidroksied ione vry te stel. Wanneer dit fyn genoeg
+   gemaal word sal natrium spontaan ontbrand in die teenwoordigheid van
+   water. Dit ontbrand egter nie normaalweg spontaan in lug onder 338
+   Kelvin oftewel 64.85 °C nie.
+
+[wysig] Aanwendings
+
+   Natrium in sy metaalvorm is 'n belangrike komponent vir die maak van
+   esters en vir die vervaardiging van organiese verbindings. Hierdie
+   alkalie-metaal is ook 'n komponent van natriumchloried (NaCl) wat
+   noodsaaklik is vir lewe. Ander gebruike sluit in:
+     * Word gebruik in sekere legerings om hul struktuur te verbeter,
+     * Word in seepvervaardiging gebruik (saam met vetsure)
+     * Om metale se oppervlaktes blink en glad te maak
+     * Die suiwering van gesmelte metale.
+     * In natriumdamp-lampe, wat 'n effektiewe manier is om lig vanuit
+       elektrisiteit te verkry.
+
+   NaK, 'n legering van natrium en kalium, is 'n belangrike hitte-oordrag
+   materiaal.
+
+[wysig] Geskiedenis
+
+   Natrium word al lank reeds as 'n komponent van verbindings geëien, maar
+   is eers in 1807 deur Sir Humphry Davy geïsoleer deur die elektrolise
+   van bytsoda. In Europa tydens die middel-eeue is 'n verbinding van
+   natrium met die Latynse naam sodanum gebruik as hoofpynstiller.
+
+[wysig] Verspreiding
+
+   Natrium is volop in die sterre en die D spektraallyne van hierdie
+   element is van die mees prominente in sterlig. Natrium maak ongeveer
+   2.6% van die Aardkors uit, wat dit die vierde mees volopste element
+   daarin maak en die volopste alkalie-metaal. Dit word tans kommersieël
+   geproduseer deur die elektrolise van droë gesmelte natriumchloried. Die
+   metode is minder duur as die proses van vervaardiging deur die
+   elektrolise van natriumhidroksied. Metalliese natrium het ongeveer 0.30
+   tot 0.45 Amerikaanse Dollar per kg gekos in 1997 en reagensgraad (ACS)
+   natrium het in 1990 $75/kg (VSA) gekos. Op 'n volume basis is dit dus
+   die goedkoopste metaal beskikbaar.
+
+[wysig] Verbindings
+
+   Natriumchloried, ook beter bekend as gewone tafelsout, is die mees
+   algemene verbinding van natrium. Natrium kom egter ook in baie ander
+   minerale, soos amfibool, krioliet, haliet, soda niter, zeoliet
+   ensovoorts voor. Natriumverbindings is belangrik vir die chemiese-,
+   glas-, metaal-, papier-, petroleum-, seep- en tekstielnywerhede. Seep
+   is gewoonlik 'n natriumsout van sekere vetsure.
+
+   Die belangrikste industriële natriumverbindings is gewone tafelsout
+   (NaCl), soda-as (Na[2]CO[3]), koeksoda (NaHCO[3]), Bytsoda (NaOH),
+   Salpeter (NaNO[3]), die di- en trifosfate van natrium,
+   natriumtiosulfaat (hipo, Na[2]S[2]O[3] · 5H[2]O) en boraks
+   (Na[2]B[4]O[7] · 10H[2]O).
+
+[wysig] Isotope
+
+   Daar is dertien isotope van natrium wat al geëien is. Die enigste
+   stabiele isotoop is Na-23. Natrium het twee radio-aktiewe kosmogeniese
+   isotope (Na-22, halfleeftyd = 2.605 jaar; Na-24, halfleeftyd = ~15
+   ure).
+
+[wysig] Voorsorgmaatreëls
+
+   In sy poeiervorm is natrium plofbaar in water en 'n gif in verbinding
+   of onverbind met baie ander elemente. Die metaal moet te alle tye
+   versigtig gehanteer word. Natrium moet gestoor word in of 'n inerte
+   atmosfeer of onder minerale olie.
+
+[wysig] Fisiologie van Na-ione
+
+   Natrium-ione speel 'n diverse rol in vele fisiologiese prosesse.
+   Prikkelbare selle maak byvoorbeeld staat op die inname van Na^+ om 'n
+   depolarisasie te bewerkstellig. 'n Voorbeeld hiervan is die seinoordrag
+   in die menslike sentrale senuwee-stelsel.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Sodium
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Sodium
+     * EnvironmentalChemistry.com – Sodium
+     * The Wooden Periodic Table Table's Entry on Sodium
+
+   Kategorie: Chemiese elemente
+

@@ -1,0 +1,309 @@
+Kadmium
+
+
+
+   48                        silwer ← kadmium → indium
+   Zn
+   ↑
+   Cd
+   ↓
+   Hg
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal kadmium, Cd, 48
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 12, 5, d
+                                            Voorkoms silwerige grys metaal
+                                              Atoommassa 112.411 (8) g/mol
+                                      Elektronkonfigurasie [Kr] 4d^10 5s^2
+                                        Elektrone per skil 2, 8, 18, 18, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 8.65 g/cm³
+                                 Vloeistof digtheid teen s.p. 7.996 g/cm³
+                                                        Smeltpunt 594.22 K
+                                                              (321.07 °C)
+                                                           Kookpunt 1040 K
+                                                                 (767 °C)
+                                               Smeltingswarmte 6.21 kJ/mol
+                                            Verdampingswarmte 99.87 kJ/mol
+                               Warmtekapasiteit (25 °C) 26.020 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 530 583 654 745 867  1040
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                                      Oksidasietoestande 2
+                                                   (matige basiese oksied)
+                              Elektronegatiwiteit 1.69 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 867.8 kJ/mol
+                                                        2de: 1631.4 kJ/mol
+                                                         3rde: 3616 kJ/mol
+                                                        Atoomradius 155 pm
+                                                 Atoomradius (ber.) 161 pm
+                                                   Kovalente radius 148 pm
+                                               Van der Waals radius 158 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                 Elektriese weerstand (22 °C) 72.7 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 96.6 W/(m·K)
+                              Termiese uitsetting (25 °C) 30.8 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 2310 m/s
+                                                   Young se modulus 50 GPa
+                                                       Skuifmodulus 19 GPa
+                                                       Massamodulus 42 GPa
+                                                    Poissonverhouding 0.30
+                                                      Mohs se hardheid 2.0
+                                                  Brinell hardheid 203 MPa
+                                              CAS-registernommer 7440-43-9
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van Kadmium
+
+                            iso     NV   halfleeftyd   VM  VE (MeV)   VP
+                          ^106Cd  1.25%  >9.5×10^17 y ee2? -        ^106Pd
+                          ^108Cd  0.89%  >6.7×10^17 y ee2? -        ^108Pd
+                          ^109Cd  sin    462.6 d      e    0.214    ^109Ag
+                          ^110Cd  12.49% Cd is stabiel met 62 neutrone
+                          ^111Cd  12.8%  Cd is stabiel met 63 neutrone
+                          ^112Cd  24.13% Cd is stabiel met 64 neutrone
+                          ^113Cd  12.22% 7.7×10^15 y  ß^-  0.316    ^113In
+                          ^113mCd sin    14.1 y       ß^-  0.580    ^113In
+                                                      IO   0.264    ^113Cd
+                          ^114Cd  28.73% >9.3×10^17 y ßß2? -        ^114Sn
+                          ^116Cd  7.49%  2.9×10^19 y  ßß2? -        ^116Sn
+
+                                                                Verwysings
+
+   Cadmium is 'n chemiese element met die simbool Cd en atoomgetal van 48.
+   Kadmium is 'n betreklik skaars, blouerige wit oorgangsmetaal en is 'n
+   bekende karsinogeniese (kankerwekkende) stof wat in sinkertse voorkom.
+   Kadmium word hoofsaaklik in batterye en pigmente (byvoorbeeld in
+   plastiekprodukte) gebruik
+
+   Inhoud
+
+        * 1 Ontginning
+        * 2 Kenmerkende eienskappe
+        * 3 Gebruike
+        * 4 Geskiedenis
+        * 5 Verspreiding
+        * 6 Isotope
+        * 7 Giftigheid
+        * 8 Voorsorgmaatreëls
+        * 9 Verwysings
+        * 10 Eksterne skakels
+
+[wysig] Ontginning
+
+   Kadmium is 'n algemene onsuiwerheid in sink en word dikwels onttrek
+   tydens die vervaardiging van sink. Sinksulfiedertse word in die
+   teenwoordigheid van suurstof gerooster om die sinksulfied na die oksied
+   om te skakel. Sinkmetaal word dan vervaardig deur die oksied saam met
+   koolstof te smelt of deur elektrolise in swaelsuur. Kadmium word
+   geïsoleer vanuit die sinkmetaal deur vakuumdistillasie van die gesmelte
+   in sink of dit kan verkry word deur kadmiumsulfaat uit die
+   elektrolitiese oplossing neer te slaan.^[1]
+
+[wysig] Kenmerkende eienskappe
+
+   Kadmium is 'n sagte, smeebare, pletbare, giftige, blouerig-wit
+   bivalente metaal. Die eienskappe daarvan is soortgelyk aan sink maar
+   dit reageer om meer komplekse verbindings te vorm. Die algemeenste
+   oksidasietoestand van kadmium is +2, maar daar is seldsame voorbeelde
+   van +1 verbindings met kadmium bekend.
+
+[wysig] Gebruike
+
+   Ongeveer driekwart kadmium word gebruik in Batterye (veral Ni-Cd
+   batterye) en die grootste hoeveelheid van die res word hoofsaaklik
+   benut vir pigmente, bedekkings en platerings en as stabiliseerders vir
+   plastieke. Ander gebruike sluit in:
+     * In baie laagsmeltende legerings
+     * In legerings vir laers, vanweë 'n lae wrywingskoëffisiënt en baie
+       goeie vermoeidheidsweerstand
+     * In elektroplatering (6% kadmium)
+     * In baie soorte soldeersel
+     * As 'n versperring om kernfisie (kernsplitsing) te beheer
+     * In swart en wit televisie-fosfors en in die blou en groen fosfors
+       vir kleurtelevisiebuise
+     * In verfpigmente: Kadmium vorm verskeie soute met kadmiumsulfied die
+       algemeenste. Hierdie sulfied word gebruik as 'n geel pigment.
+       Kadmiumselenied kan gebruik word as 'n rooi pigment.
+     * In sommige halfgeleiers soos kadmiumsulfied, kadmiumselenied en
+       kadmiumtelluried, wat gebruik kan word as ligbespeuring of
+       sonselle. HgCdTe is sensitief vir infrarooilig.
+     * In PVC as stabiliseerders.
+     * In molekulêre biologie word dit gebruik om die spanningsafhanklike
+       kalsiumkanale te blokkeer teen kalsiumioonvloei.
+
+[wysig] Geskiedenis
+
+   Kadmium (Latyns cadmia, Grieks καδμεία wat "kalamyn" beteken, wat 'n
+   kadmiumdraende mengsel van minerale is en vernoem is na die Griekse
+   mitologiese karakter, Κάδμος (Kadmos)) is in Duitsland ontdek in 1817
+   deur Friedrich Strohmeyer. Strohmeyer het die nuwe element in 'n
+   onsuiwerheid van sinkkarbonaat (kalamyn) gevind en vir 100 jaar was
+   Duitsland die enigste betekenisvolle produsent van die metaal gewees.
+   Die metaal is vernoem na kalamyn omdat die metaal in hierdie verbinding
+   ontdek is. Strohmeyer het opgemerk dat sommige onsuiwer kalamynmonsters
+   die neiging gehad het om van kleur te verander as dit verhit is, anders
+   as suiwer kalamyn.
+
+   Ten spyte daarvan dat kadmium en sy verbindings baie giftig is
+   kalsiumjodied in die verlede as 'n medisyne gebruik. In 1927 het die
+   Internasionale Buro vir Gewigte en Mates die meter in terme van die
+   rooi kadmium spektrumlyn (1m = 1 553 164.13 golflengtes) gedefinieer.
+   Hierdie definisie is sedertdien verander (sien krypton).
+
+[wysig] Verspreiding
+
+   Kadmiummetaal
+   Kadmiummetaal
+   Wêreldproduksie tendense
+   Wêreldproduksie tendense
+
+   In 2001 was Sjina die hoofprodusent van kadmium met byna 'n sesde
+   aandeel van wêreldproduksie gevolg deur Suid-Korea en Japan alvorens
+   die British Geological Survey.
+
+   Kadmiumdraende ertse is seldsaam en kom in klein hoeveelhede voor.
+   Greenokiet (CDS), die enigste betekenisvolle mineraal kom bykans altyd
+   saam met sfaleriet (ZNS) voor. Gevolglik word kadmium hoofsaaklik
+   vervaardig as 'n byproduk van die ontginning van sulfiedertse van sink
+   en tot 'n mindere mate van lood en koper. Klein hoeveelhede kadmium,
+   ongeveer 10% van totale verbruik, word verkry vanuit sekondêre bronne,
+   hoofsaaklik uit die stof wat vrygestel word deur die herwinning van
+   yster- en staalskroot.
+
+[wysig] Isotope
+
+   Beeld van die pers lig vanaf 'n helium-kadmium metaaldamplaser. Die
+   hoogs monochromatiese kleur spruit uit die 441.563 nm oorgangslyn van
+   kadmium.
+   Beeld van die pers lig vanaf 'n helium-kadmium metaaldamplaser. Die
+   hoogs monochromatiese kleur spruit uit die 441.563 nm oorgangslyn van
+   kadmium.
+
+   Kadmium wat in die natuur voorkom bestaan uit 8 isotope. By twee van
+   hierdie isotope is radio-aktiwiteit waargeneem en daar is voorspel dat
+   drie ander radio-aktief moet wees maar daar is tot op hede geen verval
+   waargeneem nie, vanweë hulle uiters lang halfleeftye.
+
+   Die twee natuurlik radio-aktiewe isotope is ^113Cd (beta-verval,
+   halfleeftyd van 7.7 × 10^15 jaar) en ^116Cd (twee-neutrino dubbele
+   beta-verval, halfleeftyd van 2.9 × 10^19 jaar). Die ander drie is
+   ^106Cd, ^108Cd (dubbele elektronvangs en ^114Cd (dubbele beta-verval).
+   Ten minste drie ander isotope - ^110Cd, ^111Cd en ^112Cd - is geheel en
+   al stabiel. Van die isotope wat afwesig is in natuurlike kadmium is die
+   langslewende ^109Cd met 'n halfleeftyd van 462.6 dae en ^115Cd met 'n
+   halfleeftyd van 53.46 uur. Al die oorblywende radio-aktiewe isotope het
+   halfleeftye van minder as 2.5 uur, en die meerderheid van hulle se
+   halfleeftye is selfs korter as 5 minute. Hierdie element het ook 8
+   bekende metatoestande met die stabielste hiervan ^113mCd (t[½] 14.1
+   jaar), ^115mCd (t[½] 44.6 dae)en ^117mCd (t[½] 3.36 uur).
+
+   Die bekende isotope van kadmium wissel in atoommassa van 94.950 (^95Cd)
+   tot 131.946 (^132Cd). Die primêre vervalmodus voor die tweede volopste
+   stabiele isotoop, ^112Cd, is elektronvangs en die primêre modus daarna
+   is betaverval en elektronvangs. Die primêre vervalproduk voor ^112Cd is
+   element 47 (silwer) en die primêre produk daarna is element 49
+   (indium).
+
+[wysig] Giftigheid
+
+   Kadmium hou 'n beroepsgevaar in wat verband hou met nywerheidsprosesse
+   soos die metaalplatering en die vervaardiging van nikkel-kadmium
+   batterye, pigmente, plastieke en ander sintetiese materiale. Die
+   hoofroete vir blootstelling in nywerheidsomgewings is deur inaseming.
+   Inaseming van kadmiumbevattende dampe kan aanvanklik koors tot gevolg
+   hê maar later vererger tot chemiese pneumonitis, pulmonary edema en
+   selfs die dood.^[2]
+
+   Kadmium is ook 'n element wat omgewingsgevare inhou. Menslike
+   blootstelling tot kadmium in die omgewing is hoofsaaklik as gevolg van
+   die verbranding van fossielbrandstowwe en munisipale afval.^[3] Daar
+   was noemenswaardige gevalle van vergiftiging wat die resultaat was van
+   langtermyn blootstelling aan kadmium besmette voedsel en water. In die
+   dekades na die Tweede Wêreldoorlog het Japanese mynboubedrywighede die
+   Jinzu-rivier met kadmium en spore van ander giftige metale besmet. As
+   gevolg daarvan het kadmium opgebou in rysgewasse wat al langs die
+   rivier afstroom van die myne gegroei het. Die plaaslike landelike
+   gemeenskappe het die besmette rys geëet en Itai-tai siekte asook
+   verskeie nierafwykings ontwikkel.^[4] Kadmium is een van ses stowwe wat
+   deur die Europese Unie se ROHS lys van beperkte stowwe voorkom wat
+   karsinogeniese stowwe in rekenaars verbied.
+
+   Kadmium en verskeie kadmiumbevattende verbindings is ook bekende
+   karsinogene en kan vele soorte kankers verwek.^[5]
+
+   Huidige navorsing het bevind dat kadmiumtoksisiteit in die liggaam
+   ingedra kan word deur sinkverbindende proteïene. Sink en kadmium val in
+   dieselfde groep in die periodieke tabel en bevat 'n gemeenskaplike (+2)
+   oksidasietoestand en is bykans dieselfde grootte in 'n geïoniseerde
+   toestand. Om hierdie rede kan kadmium vir sink in baie biologiese
+   stelsels vervang, veral stelsels wat sagter ligande soos swael bevat.
+   Kadmium kan soveel as tien keer sterker aan sekere biologiese stelsels
+   verbind en is buitengewoon moeilik om te verwyder. Verder kan kadmium
+   ook vir magnesium en kalsium in sekere biologiese stelsels vervang.
+   Sodanige vervangings is egter seldsaam.
+
+   Die rook van tabak is die belangrikste enkele bron van
+   kadmiumblootstelling onder bevolkings in die algemeen. Daar word geraam
+   dat ongeveer 10% van die kadmium-inhoud van 'n sigaret ingeasem word.
+   Die absorpsie van kadmium in die longe is baie meer doeltreffend as in
+   die spysverteringskanaal en daar word sowat 50% van die kadmium wat in
+   sigaretrook ingeasem word, geabsorbeer
+
+   Rokers se kadmiumkonsentrasies in hul bloed is sowat 4-5 keer hoër en
+   die konsentrasie kadmium in hul niere is sowat 2-3 keer meer as in dié
+   van nie-rokers. Ten spyte va die hoë kadmium inhoud in sigaretrook wil
+   dit voorkom asof daar min blootstelling aan kadmium voorkom as gevolg
+   van passiewe rook. Geen beduidende effek in kadmiumkonsentrasies in
+   bloed kon by kinders wat aan tabakrook in hul omgewing blootgestel word
+   bespeur word nie.
+
+[wysig] Voorsorgmaatreëls
+
+   Wanneer daar met kadmium gewerk word is dit belangrik dat dit onder 'n
+   dampkas gedoen word of dat daar van 'n geskikte asemhalingstoestel
+   gebruik gemaak word om 'n mens teen die gevaarlike dampe te
+   beskerm.^[6] Soldeersels kan byvoorbeeld kadmium bevat en moet met sorg
+   hanteer word.
+
+[wysig] Verwysings
+
+    1. ^ Kadmium artikel by WebElements.com
+    2. ^ [1] Principles and Methods of Toxicology (vierde uitgawe). A.
+       Wallace Hayes. Taylor and Francis Publishing Inc.; Philadelphia,
+       2001.
+    3. ^ Die Amerikaanse departement vir omgewingsbeskerming se opsomming
+       oor kadmium
+    4. ^ [2] Environmental cadmium exposure, adverse effects, and
+       preventative measures in Japan. Nogowa et al. Biometals. 2004 Okt;
+       17(5):581-7.
+    5. ^ 11th Report on Carcinogens provided by the National Toxicology
+       Program
+    6. ^ OSHA Solutions for workplace cadmium exposure
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Cadmium
+     * IARC Monograph "Cadmium and Cadmium Compounds"
+     * National Pollutant Inventory - Cadmium and compounds
+     * WebElements.com – Cadmium
+     * Los Alamos National Laboratory – Cadmium
+     * [3] Warning Moose and Deer Liver
+     * National Institute for Occupational Safety and Health - Cadmium
+       Page
+
+   Kategorie: Chemiese elemente
+

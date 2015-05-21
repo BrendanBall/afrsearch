@@ -1,0 +1,199 @@
+Transistor
+
+
+   Soorte transistors
+   Soorte transistors
+
+   'n Transistor is 'n halfgeleier elektroniese komponent wat algemeen
+   gebruik word as seinversteker of elektronies beheerder skakelaar. Die
+   transistor is die fundamentele boublok van rekenaar, sellulêre telefone
+   en ander moderne elektroniese stroombane.
+
+   Die transistor word gebruik in 'n verskeidenheid van digitale en
+   analoog funkies, insluitende seinversterkers, skakelstroombane,
+   spannings regeleerders, seinmodulasie en ossillators. Transistors word
+   afsonderlik of as geïntegreerde stroombaan verpak. 'n Geïntegreerde
+   stroombaan kan biljoene transistors binne 'n baie klein area huisves.
+
+   Inhoud
+
+        * 1 Inleiding
+        * 2 Waarde van Transistor
+             + 2.1 Voordeel van transistors bo vakuumbuise
+        * 3 Geskiedenis
+        * 4 Soorte Transistors
+        * 5 Bronnelys
+
+[wysig] Inleiding
+
+   Moderne transistors word verdeel tussen twee kategorieë: bipolêre
+   spervlaktransistors (BSTs) en veldeffektransistors (VETs). Die
+   geleidingsvermoë tussen die transistor se uitgang en gemene terminale
+   neem toe waneer 'n elektriese stroom vir BVT of 'n elektriese spanning
+   vir VET tussen die inset en gemene terminale toegepas word. Die
+   stroomvloei deur die uitgang en gemene terminaal van die transistor
+   word dus beheer deur die stroom (BST) of spanning (VET) tussen die
+   inset en gemene terminale van die transistor. Die eienskappe van die
+   transistor word bepaal deur die soort transistor.
+
+   Die term "transistor" het oorspronklik verwys na puntkontaktransistors,
+   maar is vinnig vervang met die meer praktiese bipolêre
+   spervlaktransistor in die vroeë 1950s. Net so het die simbool vir die
+   transistor verwys na hierdie lank reeds verouderde toestelle. Vir 'n
+   kort tyd tydens die vroeë 1960s het sommige vervaardigers en
+   elektroniese tydskrifte begin om simbole te gebruik wat die konstruksie
+   van verskillende BST meer akkuraat uitgebeeld het, maar dit is later
+   laat vaar.
+
+   In analoë stroombane word transistors gebruik as seinversterkers
+   (geleikstroomversterkers, klankversterkers of
+   radiofrekwensieversterkers) en lineêr gereguleerde spanningsbronne.
+   Transistors word ook gebruik in digitale stroombane as elektroniese
+   skakelaars, selde as afsonderlike komponent, maar meestal as 'n
+   geïntegreerde stroombaan. Digitale stroombane sluit in: logiese hekke,
+   rekenaargeheue, mikroverwerkers en digitale seinverwerkers (DSV).
+
+[wysig] Waarde van Transistor
+
+   Die transistor word beskou as een van die belangrikste uitvindsels van
+   die twintigste eeu. ^[1] Die transistor is die sleutel komponent van
+   prakties alle moderne elektronika. Die sukses van die transistor rus op
+   die geoutomatiseerde massa produksie van transistors teen 'n baie lae
+   per-transistor koste.
+
+   Hoewel miljoene afsonderlike transistors (bekend as diskrete
+   transistors) nog gebruik word, word die meerderheid in
+   geïntegreedestroombane gebruik saam met diodes, resistor, kapasitors en
+   ander elektroniese komponente om voledige elektroniese stroombane te
+   vorm. 'n Logiese hek bestaan uit ongeveer twintig transistors terwyl
+   moderne mikroverwerkers biljoene transistors bevat.
+
+   Die transistor se lae koste, aanpasbaarheid en betroubaarheid maak dit
+   die algemene toestel vir gebruik in nie maganiese toepassings.
+   Transistor stroombane vervang ook elektromeganies komponente vir die
+   beheer van toestelle en masjinerie. Die is some goedkoper en meer
+   efektief om mikrobeheerders met die toepaslike sagteware te gebruik om
+   funksies te beheer as die ekwivalente maganiese beheer stelsel.
+
+   Aangesien die koste van transistors laag is, is daar 'n neiging om
+   imformasie te digitaliseer. Die vermoë van rekenaars om vinnige
+   soektogte, sorteer en prosesseering met digitale informasie te kan
+   verig maak die meer effekfief om informasie te digitaliseer. As 'n
+   resultaat word die meeste media vandag in digitale vorm gelewer vir
+   omskakeling na analoog deur gebruik te maak van rekenaar hardeware.
+
+[wysig] Voordeel van transistors bo vakuumbuise
+
+   Voor die uitvinding van die transistor was vakuuumbuise die hoof
+   aktiewe komponent in elektroniese toerusting. Die sleutel voordele van
+   transistors bo vakuumbuise is die volgende:
+     * Die klein grootte en lae gewig van transistor het verdwerging in
+       elektroniese toestelle te weeg gebring.
+     * Transistor vervaardeging is geoutomatiseer wat lae eenheids koste
+       te transistor te weeg bring.
+     * Lae spannings werkverigting maak battery aangedrewe toestelle
+       moontlik.
+     * Vakuumbuise benodig 'n opwarmings periode voor hulle begin
+       funksioneer.
+     * Transistors is meer energie effektief en het laer drywings
+       verbruik.
+     * Transistors is meer betroubaar en het 'n hoër ruheid as
+       vakuumbuise.
+     * Transistors het 'n langer lewensduur.
+     * Daar is meer verskeidendheid van transistors deur die doteerings
+       vlak van sperlaag, geometrie en tiepe halfgeleier materiaal te
+       verander.
+     * Transistors het die vermoë om hoë stroom te hanteer.
+     * Transistors se werkverrigting is nie sensitief vir skok en vibrasie
+       nie.
+
+[wysig] Geskiedenis
+
+   Die eerste drie patente vir die veldeffektransistor beginsel was
+   geregistreer in Duitsland in 1928 deur die fisikus Julius Edgar
+   Lilienfeld, maar hy het geen navorsings artikel gepubliseer nie, dus is
+   die uitvinding deur industrie geïgnoreer. In 1934 het nog 'n Duitse
+   fisikus Dr. Oskar Heil 'n ander veldeffektransistor gepatenteer. Daar
+   is geen bewys dat hierdie toestelle vervaardig is nie, maar daar is in
+   die 1990 gewys dat een van Lilienfeld se ontwerpe wel werk soos
+   beskryf. Regs documente van die Bell Labs patent wys dat Shockley en
+   Pearson werkende weergawes van die Lilienfeld patent vervaardig het,
+   maar het nogtans nie verwys na die patent in enige van die navorsings
+   of historiese artiekels wat gevolg het nie. The Other Transistor, R. G.
+   Arns
+
+   Op die 16 Desember 1947 het William Shockley, John Bardeen en Walter
+   Brattain die eerste praktiese puntkontaktransistor vervaardig. Hierdie
+   werk het gevolg uit die oorlogtyd pogings om suiwer germanium "kristal"
+   meng diodes te vervaardig vir gebruik as 'n frekwensie menger in
+   mikrogolfradar eenhede. 'n Parallelle projek oor germanium diodes aan
+   die Purdue Universiteit het daarin geslaag om die goeie kwaliteit
+   germanium halfgeleier kristalle te vervaardig wat deur Bell Labs
+   gebruik is. [1] Vroë vakuumbuis tegnologie het nie vinnig genoeg
+   geskakel nie, wat gelei het na die gebruik van halfgeleir diodes deur
+   die Bell Labs span. Met die kennis ter hande het hulle na die ontwerp
+   van die triode gekyk, maar dit nie maklik gevind nie. Bardeen het
+   uiteindelik 'n nuwe vertakking van oppervlak fisika ontwikkel om die
+   vreemde gedrag wat hulle waargeneem het te beskryf. Bardeen en Brattain
+   het uiteindelik daarin geslaag om 'n werkende toestel te vervaardig.
+
+   Dieselfde tyd was Europese wetenskaplikes gelei deur die idee van 'n
+   halfgeleier versterker. In Augustus 1948 het Duitse fisici Herbert F.
+   Mataré en Heinrich Welker, werkend by "Companie des Freins et Signaux
+   Westinghoude" in Parys, Frankryk aansoek gedoen vir 'n patent van 'n
+   versterker wat berus het op 'n minderheids draer invoering prosses wat
+   hulle "transistron" genoem het. Aangesien Bell Labs eers 'n publieke
+   bekendstelling van die transistor in Junie 1948 gemaak het, word die
+   transistron beskou as 'n onafhanklike ontwikkeling. Mataré het die
+   transkonduktansie verskynsel vir die eerste keer waargeneem tydens die
+   vervaardiging van germanium dubbeldiodes vir Duitse radar tydens die
+   Tweede Wêreld Oorlog. Transistrons was kommersieel vervaardig vir die
+   Franse telefoon maatskappy en die militêre, en in 1953 is 'n
+   halfgeleier radio ontvanger met vier transistrons gedemonstreer by die
+   Düsseldorf Radio Skou.
+
+   Bell Labs het 'n generiese naam nodig gehaat vir die nuwe uitvinding.
+   'n Verskeidenheid name is voorgestel, maar die voorstel van transistor
+   deur John R. Pierce het 'n interne lotting gewen.
+
+   Bell het dadelik die puntkontak transistor begin vevaardig in lae
+   volumes. Prototiepes van net-transistor AM radios is gedemonstreer,
+   maar was in werklikheid net laboratorium ekspremente. In 1950 het
+   Shockley 'n radikaal verskillende transistor, die bipolêre
+   voegvlaktransistor, ontwerp. Hoewel die werking van 'n puntkontak
+   transistor en bipolere voegvlaktransistor verskil verwys die term
+   "transistor" vandag meestal na die bipolere voervlaktransistor.
+   Transistor radio vervaardeging is ook deur ander maatskapye vervaardig
+   onder lisensie. Ou transistors was chemies onstabiel en slegs bruikbaar
+   vir lae spanning en lae frekwensie toepassings, maar hierdie
+   tekortkomings is met tyd oorbrug.
+
+[wysig] Soorte Transistors
+
+   Transistors word gekatogoriseer deur:
+     * Tiepe halfgeleir materiaal: germanium, silikon, gallium arseniet,
+       silikon karbied, ens.
+     * Struktuur: BVT, VVET, MOVET, en ander
+     * Palariteid: NPN, PNP vir BVTs; N-kanaal, P-kanaal vir VETs
+     * Maksimum drywing verbruik: laag, gemiddeld, hoog
+     * Maksimum werkende frekwensie: laag, gemiddeld, hoog, radio
+       frekwensie, microgolf. (Die maksimum effektiewe frekwensie van 'n
+       transistor word voorgestel deur f[T], 'n afkorting van "frekwensie
+       van oorgang (transition)". Die frekwensie van oorgang is die
+       frekwensie waar die transistor eenheids versterking lewer.
+     * Toepassings: skakelaar, algemeene toepassings, klank, hoë spanning,
+       super-beta
+     * Verpakking: Deursteek montering ("Through-hole"), oppervlak
+       montering, hoë drywing eenhede.
+
+[wysig] Bronnelys
+
+    1. ^ Dennis F. Herrick (2003). Media Management in the Age of Giants:
+       Business Dynamics of Journalism. Blackwell Publishing. ISBN
+       0813816998.
+
+          Hierdie artikel is groottendeels 'n vertaling van die Engelse
+          Wikipedia artikel "Transistor".
+
+   Kategorie: Elektroniese komponente
+

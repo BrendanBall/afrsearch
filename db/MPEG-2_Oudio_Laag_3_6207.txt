@@ -1,0 +1,32 @@
+MPEG-2 Oudio Laag 3
+
+
+[wysig] MPEG-2 Oudio Laag 3 (mp3PRO)
+
+   MPEG-2 Oudio Laag 3 (mp3PRO), (engels: MPEG-2 Audio Layer 3) is die
+   nuwe formaat, wat 'n konsekwente vêrdere ontwikkeling meegebring het en
+   omtrent 50% dataspasie benodig vir dieselfde kwaliteit gehalte en
+   terugkompatiebel is. Dit beteken dat mp3PRO lêers sonder probleme deur
+   ouer produkte wat slegs die gewone (oorspronklike) MP3-formaat
+   ondersteun teruggespeel kan word.
+
+   Indien 'n mp3PRO-lêer ook deur 'n mp3PRO afspeler teruggespeel word,
+   sal dit die volle spektrum klank bied wat heelwat beter is as die
+   MP3-standaard. Dit is ook 'n stroomformaat (streaming format).
+
+[wysig] Gratis sagteware
+
+   Thomson mp3PRO Opnemer/Speler mp3PRO-sone
+
+   Thomson mp3PRO Opnemer/Speler
+
+[wysig] Eksterne Internet skakels
+
+     * Offisiële mp3PRO-Webwerf met produkinligting
+     * Freeware-mp3PRO-Player (V1.4.0) (insl. omsitter (converter)
+       WAV-formaat <-> 64-kbps-mp3PRO) en ook mp3PRO-Plugin vir WinAMP en
+       XMMS
+     * Coding Technologies Kodering tegnologie
+
+   Kategorie: Klanktegnologie
+

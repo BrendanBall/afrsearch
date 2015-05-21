@@ -1,0 +1,170 @@
+Warmtekapasiteit
+
+
+   Warmtekapasiteit (word gewoonlik aangedui met 'n hoofletter C, dikwels
+   met onderskrifte) is 'n meetbare fisiese hoeveelheid wat die vermoë van
+   'n liggaam om warmte op te gaar met veranderende temperatuur kenmerk.
+   Dit word gedefinieer as die tempo waarteen die temperatuur verander met
+   byvoeging van hitte teen die gegewe toestande waarin die liggaam
+   verkeer (veral die temperatuur daarvan). Volgens die SI-stelsel word
+   warmtekapasiteit uitgedruk in eenhede van joule per kelvin.
+
+   Dit word 'n ekstensiewe hoeveelheid genoem omdat dit sensitief is ten
+   opsigte van die grootte/hoeveelheid van die voorwerp/stof ('n bad vol
+   water het 'n groter warmtekapasiteit as 'n koppie water). Deur die
+   warmtekapasiteit met die liggaam se massa te deel word die soortlike
+   warmtekapasitiet (soms ook spesifieke warmtekapasiteit genoem) verkry,
+   wat 'n intensiewe hoeveelheid is, wat beteken dat die hoeveelheid nie
+   meer afhanklik is van die hoeveelheid materiaal nie en meer afhanklik
+   is van die soort materiaal asook die fisiese toestande tydens die
+   verhittingsproses.
+
+   Inhoud
+
+        * 1 Definisie
+        * 2 Warmtekapasiteit van saampersbare liggame
+        * 3 Spesifieke warmtekapasiteit
+        * 4 Dimensielose warmtekapasiteit
+        * 5 Sien ook
+
+[wysig] Definisie
+
+   Warmtekapasiteit word wiskundig gedefinieër as die verhouding van 'n
+   klein hoeveelheid hitte δQ wat by 'n liggaam gevoeg word en die
+   ooreenstemmende klein verandering in die temperatuur dT daarvan:
+
+          C = \left( \frac{\delta Q}{dT} \right)_{toest.} = T \left(
+          \frac{d S}{d T} \right)_{toest.}
+
+   Die regterkantste uitdrukking is afgelei vanuit die definisie van
+   entropie (S)
+
+   Vir termodinamiese stelsels met meer as een fisiese dimensie, gee die
+   bogaande definisie nie 'n eenduidige, unieke hoeveelheid nie tensy 'n
+   besondere infinitesimale pad deur die stelsel se faseruimte gedefinieër
+   is (dit beteken dat 'n mens ten alle tye moet weet waar al die dele van
+   die stelsel hul bevind, hoeveel massa hulle bevat en hoe vinnig hulle
+   beweeg).
+
+   Hierdie inligting word dan gebruik om die verskillende maniere waarop
+   warmte as kinetiese energie (bewegingsenergie) en potensiële energie
+   (energie wat in kragvelde gestoor word) gestoor kan word te verklaar
+   soos die liggaam uitsit of krimp. Vir alle werklike stelsels moet die
+   pad deur hierdie veranderinge eksplisiet gedefinieer word, aangesien
+   die waarde van warmtekapasiteit afhang van die pad wat gevolg is vanaf
+   die een temperatuur na die ander te beweeg. Van besondere belang in
+   hierdie verband is die waardes van warmtekapasiteit waar die
+   verandering by konstante volume plaasvind, C[V], en waar die
+   verandering by konstante druk, C[P], plaasvind soos later in die
+   artikel verduidelik word.
+
+[wysig] Warmtekapasiteit van saampersbare liggame
+
+   Die toestand van 'n eenvoudige saampersbare liggaam met 'n vaste massa
+   word beskryf deur twee termodinamiese parameters naamlik temperatuur T
+   en druk P, wat 'n mens in staat stel om te onderskei tussen
+   warmtekapasiteit teen konstante volume, C[V] en warmtekapasiteit teen
+   konstante druk, C[P] soos in bogenoemde paragraaf bespreek:
+
+          C_V=\left(\frac{\delta Q}{dT}\right)_V=T\left(\frac{\partial
+          S}{\partial T}\right)_V
+          C_P=\left(\frac{\delta Q}{dT}\right)_P=T\left(\frac{\partial
+          S}{\partial T}\right)_P
+
+   waar δQ is die infinitesimale hoeveelheid warmte wat bygevoeg word en
+   waar dT die ooreenstemmende styging in temperatuur is.
+
+   Die inkrement interne energie is die warmte en die werk wat bygevoeg
+   word:
+
+          dU=T\,dS-P\,dV
+
+   Dus is die warmtekapasiteit by konstante volume (aangesien tweede term
+   in vergelyking hierbo nul is)
+
+          C_V=\left(\frac{\partial U}{\partial T}\right)_V
+
+   Die entalpie word gedefinieer deur H = U + PV. Die inkrement entalpie
+   is
+
+          dH = dU + (PdV+VdP) \! wat deur vervanging van die vergelyking
+          vir dU hierbo vereenvoudig na:
+          dH=T\,dS+V\,dP
+
+   En aangesien die tweede term hierbo gelyk is aan nul by konstante druk
+   is die warmtekapasiteit by konstante druk gelyk aan
+
+          C_P=\left(\frac{\partial H}{\partial T}\right)_P
+
+   Laasgenoemde definisie is ietwat oorbodig aangesien die begrip entalpie
+   opsigself uitgevind was om 'n mate te wees van die warmte wat
+   geabsorbeer of vrygestel word by konstante drukke (die toestande
+   waarteen chemici gewoonlik werk). As sulks verteenwoordig die entalpie
+   die ekstra warmte wat geproduseer of geabsorbeer word deur druk-volume
+   werk by 'n konstante druk. Dit is dus geensins 'n verrassing dat
+   konstante druk warmtekapasiteite in terme van entalpie uitgedruk word
+   nie, aangesien entalpie in die eerste plek sodanig gedefinieer is.
+
+[wysig] Spesifieke warmtekapasiteit
+
+   Die spesifieke warmtekapasiteit (meer akkuraat die massa-spesifieke
+   warmtekapasiteit is)
+
+          c={\partial C \over \partial m}
+
+   wat in die afwesigheid van fase-oorgange gelyk is aan
+
+          c=c_m={C \over m} = {C \over {\rho V}} -- aangesien ({\rho} = {m
+          \over V})
+
+     * C is die warmtekapasiteit van 'n liggaam wat bestaan uit die
+       betrokke materiaal (J·K^−1)
+     * m is die massa van die liggaam (kg)
+     * V is die volume van die liggaam (m^3)
+     * ρ = mV^−1 is die digtheid van die materiaal (kg·m^−3)
+
+   Vir gasse, asook vir ander materiale wat aan hoë drukke onderwerp word,
+   bestaan daar 'n behoefte om te onderskei tussen die grenstoestande vir
+   die prosesse onder oorweging (aangesien die waardes betekenisvol kan
+   verskil tussen verskillende toestande). Tipiese prosesse waarvoor
+   warmtekapasiteit gedefinieer kan word sluit in isobariese- (konstante
+   druk, dP = 0) en isokoriese (konstante volume, dV = 0) prosesse wat per
+   konvensie vir gasse geskryf word:
+
+          c_P=\left(\frac{\partial C}{\partial m}\right)_P
+          c_V=\left(\frac{\partial C}{\partial m}\right)_V
+
+   Eenhede hier vertoon is SI-eenhede.
+
+   'n Verwante parameter aan c is CV^-1, die volumetriese
+   warmtekapasiteit, (J·m^-3·K^-1 in SI-eenhede). In ingenieurswese word
+   c[V] dikwels gebruik om die volumetriese warmtekapasiteit vir vaste- en
+   vloeistowwe aan te dui, eerder as 'n konstante volume warmtekapasiteit.
+   In sulke gevalle word die massa-spesifieke warmtekapasiteit duidelik
+   aangedui met die onderskrif m as c[m]. Vanuit die bostaande verhouding
+   kan 'n mens dan natuurlik vir vastestowwe skryf:
+
+          c_m={C \over m} = {c_V \over {\rho }}
+
+[wysig] Dimensielose warmtekapasiteit
+
+   Die dimensielosie warmtekapasiteit van 'n materiaal is
+
+          C^*={C \over nR} = {C \over {Nk}}
+
+   waar
+     * C die warmtekapasiteit van 'n liggaam bestaande uit die betrokke
+       materiaal is (J·K^−1)
+     * n die hoeveelheid materie in die liggaam is (mol)
+     * R die gaskonstante (J·K^−1·mol^−1) is
+     * nR=Nk die hoeveelheid materie in die liggaam is (J·K^−1)
+     * N die aantal molekules in die liggaam is (dimensieloos)
+     * k Boltzmann se konstante is (J·K^−1·molekule^−1)
+
+[wysig] Sien ook
+
+     * Termodinamika
+     * Spesifieke warmtekapasiteit
+
+   Kategorie: Chemiese eienskappe
+

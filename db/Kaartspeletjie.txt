@@ -1,0 +1,25 @@
+Kaartspeletjie
+
+
+   'n Kaartspeletjie is enige speletjie wat gespeel word deur die gebruik
+   van speelkaarte.
+
+   'n Standaard pak kaarte bestaan uit 'n stel van 52 kaarte. Verskillende
+   tipe kaartspeletjies gebruik 1 of meer pakke kaarte.
+
+   Kaartspeltjies word oor die algemeen gespeel vir
+   vermaaklikheidsdoeleindes en sluit in gevalle dobbelary in.
+
+[wysig] Tipe kaartspeletjies
+
+   Die bekendste kaartspeletjies sluit in:
+     * Brug
+     * Poker
+     * Rummy
+     * Canasta
+     * Cribbage
+     * Blackjack
+     * Solitaire
+
+   Kategorie: Speletjies
+

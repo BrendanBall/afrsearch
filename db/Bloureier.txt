@@ -1,0 +1,138 @@
+Bloureier
+
+
+                       Bloureier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+              Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ardea
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. cinerea
+     Subspesie:    {{{subspecies}}}
+        [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                     Ardea cinerea
+   Linnaeus, 1758
+                    Trinomiale naam
+                    {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Liggroen: somerDonkergroen: hele jaarBlou: winter
+   Liggroen: somer
+   Donkergroen: hele jaar
+   Blou: winter
+                       Sinonieme
+   {{{synonyms}}}
+
+   Die bloureier is 'n standvoël van die familie Ardeidae en inheems aan
+   die matige klimaat dele van Europa en Asië asook dele van Afrika. Die
+   bloureier se Engelse naam is Grey heron.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Gedrag
+        * 5 Subspesies
+        * 6 Galery
+        * 7 Sien ook
+             + 7.1 Suid-Afrikaanse voëls
+        * 8 Bronne
+
+[wysig] Identifikasie
+
+   Die bloureier is 'n groot voël: 90-100 cm lank met 'n 175-195 cm
+   vlerkspan en 'n gewig van 1-2 kg. Sy vere is meestal blou-grys bo-op en
+   'n vuilwit aan die onderkant. Volwassenes het 'n wit kop met 'n breë
+   wit voorkop, terwyl jong voëls 'n grys kop het. Die voël het 'n
+   kragtige pienk-geel bek, wat breër is by parende volwassenes. Die
+   bloureier vlieg stadig, met sy lang nek in 'n "S"-vorm teruggetrek.
+
+[wysig] Habitat
+
+   Die spesie paar in kolonies in bome naby mere, die strand of ander
+   moeraslande. Reiers sal ook soms hul nesse in die riete in
+   riverbeddings bou. Die nes is groot en lywig en word uit stokkies
+   gebou.
+
+[wysig] Verspreiding
+
+   Die bloureier verkies matige klimate en word dus gevind in die dele van
+   Europa wat so 'n klimaat kan bied, sowel as Asië. Dit word ook in die
+   suidelike en westelike dele van Afrika gevind. Baie voëls sal egter
+   migreer tydens die winter om ys in kouer areas te vermy.
+
+[wysig] Gedrag
+
+   Die bloureier jag in vlak water, waar dit visse of paddas vang met sy
+   lang bek. Soms sal dit ook klein soogdiere of ander voëls van. Die
+   reier wag gewoonlik vir sy prooi om stil te staan voor hy dit vang, of
+   sal dit baie stadig agtervolg.
+
+   Die voël maak 'n lang "fraaank" geluid.
+
+[wysig] Subspesies
+
+     * Ardea cinerea cinerea. Linnaeus, 1758. Europa, Afrika, Wes-Asië.
+     * Ardea cinerea jouyi. Clark, 1907. Oos-Asië.
+     * Ardea cinerea firasa. Hartert, 1917. Madagaskar.
+     * Ardea cinerea monicae. Jouanin & Roux, 1963. Mauritanië.
+
+[wysig] Galery
+
+   'n Onvolwasse reier
+
+                      'n Vlieënde bloureier
+
+                                            'n Bloureier in vlak water
+
+[wysig] Sien ook
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronne
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+     * Handbook of the Birds of the World. Josep del Hoyo, Andrew Elliott
+       en Jordi Sargatal (red). 1: 405. Lynx Edicions.
+
+   Kategorie: Reiers
+

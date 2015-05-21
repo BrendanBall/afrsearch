@@ -1,0 +1,246 @@
+Magnesium
+
+
+
+                     natrium – magnesium – aluminium
+           Be
+           Mg
+           Ca
+
+
+             Magnesium in die periodieke tabel
+
+                                                  Volledige tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal magnesium, Mg, 12
+                                        Chemiese reeks alkalie-aard metaal
+                                       Groep, Periode, Blok 2 (IIA), 3 , s
+                                       Digtheid, Hardheid 1738 kg/m^3, 2.5
+                                                     Voorkoms silwerig-wit
+                                                           Atoomeienskappe
+                                                     Atoomgewig 24.305 amu
+                                           Atoomradius (ber.) 150 (145) pm
+                                                   Kovalente radius 130 pm
+                                               van der Waals radius 173 pm
+                                            Elektron konfigurasie [Ne]3s²
+                                           e^− e per energievlak 2, 8, 2
+                               Oksidasietoestande (Oksied) 2 (sterk basis)
+                                              Kristalstruktuur Heksagonaal
+                                                        Fisiese eienskappe
+                            Toestand van materie Vastestof (paramagneties)
+                                              Smeltpunt 923 K (649.85 °C)
+                                             Kookpunt 1363 K (1089.85 °C)
+                                    Molêre volume 14.00 ×10^−6 m^3/mol
+                                            Verdampingswarmte 127.4 kJ/mol
+                                              Smeltingswarmte 8.954 kJ/mol
+                                                Dampdruk 361 Pa teen 923 K
+                                    Spoed van klank 4602 m/s teen 293.15 K
+                                                                  Algemeen
+                                  Elektronegatiwiteit 1.31 (Pauling skaal)
+                                 Spesifieke warmtekapasiteit 1020 J/(kg*K)
+                           Elektriese geleidingsvermoë 22.6 10^6/(m·ohm)
+                                    Termiese geleidingsvermoë 156 W/(m*K)
+                                   1^ste ionisasie potensiaal 737.7 kJ/mol
+                                   2^de ionisasie potensiaal 1450.7 kJ/mol
+                                   3^de ionisasie potensiaal 7732.7 kJ/mol
+                                                     Mees stabiele isotope
+
+                                 iso    NV   halfleeftyd VM VE MeV   VP
+                                ^24Mg 78.99% Mg is stabiel met 12 neutrone
+                                ^25Mg 10%    Mg is stabiel met 13 neutrone
+                                ^26Mg 11.01% Mg is stabiel met 14 neutrone
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Magnesium is die chemiese element in die periodieke tabel met die
+   simbool Mg en atoomgetal van 12. Magnesium is die elemente met die
+   agste grootste verspreiding en beslaan ongeveer 2% van die Aardkors en
+   is die element wat die derde meeste voorkom in oplossing in seewater.
+   Hierdie alkalie-aard metaal word hoofsaaklik gebruik as legeringsmiddel
+   om aluminium-magnesium legerings (allooie) te vervaardig.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Bronne
+        * 5 Verbindings in lewende organismes
+        * 6 Voedselbronne
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Magnesium is 'n betreklik sterk, silwerige wit en liggewig metaal ('n
+   derde ligter as aluminium) wat effens verdof wanneer dit aan lug
+   blootgestel word. In 'n poeiervorm word die metaal warm en ontbrand
+   wanneer dit aan lug blootgestel word en brand met 'n wit vlam. Dit is
+   moeilik om die metaal in massale vorm te ontsteek maar is maklik om
+   wanneer dit in dun vysels gesny word. Wanneer dit eers ontsteek het, is
+   dit moeilik om te blus aangesien dit in beide stikstof (met vorming van
+   magnesiumnitried) en koolstof kan brand.
+
+[wysig] Aanwendings
+
+   Magnesium verbindings, primêr magnesiumoksied, word hoofsaaklik as 'n
+   vuurvaste materiaal gebruik vir oondvoerings in die produksie van yster
+   en staal, nie ysterhoudende metale, glas en sement.
+
+   Magnesiumoksied en ander verbindings word ook in die landbou-,
+   chemiese- en konstruksiebedrywe gebruik. Die element se hoofaanwending
+   is as legeringsbymiddel tot aluminium wat op sy beurt weer hoofsaaklik
+   vir die vervaardiging van koeldrankblikkies gebruik word. Magnesium
+   legerings word ook gebruik as strukturele komponent van motors en
+   masjinerie. 'n Ander gebruik van die metaal is om behulpsaam te wees
+   met die verwydering van swael vanuit yster en staal.
+
+   Ander gebruike sluit in:
+     * Magnesium, soos aluminium, is sterk en lig, dus word dit dikwels
+       gebruik vir hoë graad motorwiele, dikwels ook "mag wheels" genoem.
+     * Fotogegraveerde plate vir die drukwerknywerheid.
+     * Gekombineerde legerings van hierdie metaal is noodsaaklik in
+       vliegtuig- en missielkonstruksie.
+     * Wanneer dit as 'n legeringsmiddel gebruik word, bevorder dié metaal
+       die meganiese-, bewerkbaarheids- en sweis eienskappe van aluminium.
+     * Bymiddel vir konvensionele dryfmiddels en word gebruik om
+       grafietknobbels in gietyster te vorm.
+     * Reduseermiddel vir die vervaardiging van suiwer uraan en ander
+       metale vanuit hulle soute.
+     * Die hidroksied in magnesiawater, die chloried en die sulfaat in
+       Engelse sout, en die sitrate het medisinale gebruike.
+     * Geskroeide magnesiet word gebruik vir vuurvastheid doeleindes soos
+       stene en voerings vir oonde en omsetters.
+     * Magnesium is ook vlambaar en brand teen 'n temperatuur van ongeveer
+       2200°C. Hierdie hoë temperatuur waarteen Magnesium brand word
+       dikwels benut.
+     * Magnesiumkarbonaat (MgCO[3]) poeier word ook deur atlete soos
+       gimnaste en gewigoptellers gebruik om hulle greep op apparate te
+       verbeter.
+     * Ander gebruike sluit in vir flitsligte in fotografie, fakkels en
+       pirotegnieke asook vir brandbomme.
+
+[wysig] Geskiedenis
+
+   Magnesium staaf
+   Magnesium staaf
+
+   Die naam word ontleen uit die Griekse woord vir 'n distrik in Thessaly
+   genaamd Magnesia. Joseph Black uit Engeland het magnesium as element in
+   1755 geëien en Sir Humphrey Davey het suiwer magnesium elektrolities
+   geïsoleer in 1808 vanuit 'n mengsel van magnesia en HgO en Bussy het
+   dit in 'n duidelik uitkenbare vorm voorberei in 1831. Magnsium is die
+   agste mees volopste element in die aardkors. Dit is 'n alkalie-aard
+   metaal en kom daarom nie as 'n suiwer element in die natuur voor nie.
+   Dit kan gevind word in groot neerslae van magnesiet, dolomiet en ander
+   minerale.
+
+[wysig] Bronne
+
+   Dit word hoofsaaklik verkry vanuit die elektroliese van gesmelte
+   magnesiumchloried wat herwin word uit pekelwater, fonteine en seewater.
+   Alhoewel magnesium in meer as 60 minerale gevind kan word, is slegs
+   dolomiet, magnesiet, brusiet, karnaliet, talk en olivine van
+   kommersiële belang.
+
+   Herwinningsproses (* volg):
+   katode: Mg^2+* + 2e^- → Mg
+   anode: 2Cl^-* → Cl[2] (gas) + 2e^-
+
+[wysig] Verbindings in lewende organismes
+
+   Organiese magnesium is belangrik vir beide plant- en dierlewe.
+   Chlorofil (Bladgroen) is magnesiumgesentreerde porfiriene.
+
+   Die daaglikse vereiste inname vir volwassenes, wat beïnvloed word deur
+   verskeie faktore insluitende geslag, gewig en grootte; is 300-400
+   mg/dag. Baie ensieme vereis die teenwoordigheid van magnesium ione om
+   hulle katalitiese werking te verrig. 'n Magnesiumgebrek veroorsaak
+   dikwels spierkrampe en is al gekoppel aan kardiovaskulêre siekte,
+   suikersiekte, hoë bloeddruk en osteoporose.
+
+[wysig] Voedselbronne
+
+   Groentes soos spinasie verskaf magnesium omdat die midde van die
+   chlorofil molekule magnesium bevat. Neute, sade en sommige volgraan
+   gewasse is ook goeie bronne van magnesium.
+
+   Alhoewel magnesium teenwoordig is in baie voedsels, kom dit gewoonlik
+   in klein hoeveelhede voor. Soos met die meeste voedingstowwe kan die
+   daaglikse magnesium behoefte nie van 'n enkele voedselsoort verkry word
+   nie. Deur 'n groot verskeidenheid voedsels te eet, insluitende vrugte
+   en groente en volgraangewasse kan 'n mens verseker dat voldoende
+   magnesium ingeneem word.
+
+   Die magnesium inhoud van verwerkte voedsels is gewoonlik laag. Volgraan
+   brood bevat byvoorbeeld twee keer soveel magnesium as wit brood omdat
+   die magnesiumryke kern en kaf verwyder word wanneer witmeel vervaardig
+   word.
+
+   Water kan ook 'n bron van magnesium wees, maar die hoeveelhede wissel
+   na aanleiding van die bron. Harde water bevat meer magnesium as sagte
+   water. Dieetkundige opnames neem normaalweg nie magnesium inname uit
+   water in ag nie wat mag lei tot 'n onderskatting van die totale
+   magnesium inname en die wisseling daarvan.
+
+   Hier is 'n lys van voedselsoorte met hulle magnesium inhoud:
+     * spinasie (1/2 koppie) = 80 milligrams (mg)
+     * grondboontjiebotter (2 teelepels) = 50 mg
+     * ertjies (black-eyed peas) (1/2 koppie) = 45 mg
+     * melk, lae vet (1 koppie) = 40 mg
+
+[wysig] Isotope
+
+   Magnesium-26 is 'n stabiele isotoop wat aangewend word in
+   isotoopgeologie soortgelyk aan die van aluminium. Mg-26 is 'n
+   radiogeniese susterproduk van Al-26 met 'n halfleeftyd van 717000 jaar.
+   Groot verrykte konsentrasies van stabiele Mg-26 is al waargeneem in
+   Ca-Al ryke insetsels in koolstofbevattende chondriet meteoriete. Die
+   onreëlmatige verspreiding van Mg-26 word toegeskryf aan die verval van
+   Al-26 in die insetsels waaruit dit gevorm word. Die gevolgtrekking is
+   dat die meteoriet dus gevorm moes gewees het in die sterrenewel van die
+   son gevorm moes gewees het, voordat die Al-26 kon verval het. Dus is
+   hierdie voorwerpe van die oudstes in die sonnestelsel en is baie
+   inligting oor die vroegste geskiedenis van die sonnestelsel daarin
+   vasgevang.
+
+   Dit is gebruiklik om die Mg-26/Mg-24 verhouding teenoor die Al/Mg
+   verhouding te skets. Op 'n isochroniese grafiek, word die Al-27/Mg-24
+   verhouding geskets. Die helling van die isochroniese grafiek het nie
+   enige betekenis ten opsigte van ouderdom nie, maar dui die aanvanklike
+   Al-26/Al-27 verhouding van die monster aan ten tye van die verwydering
+   daarvan vanuit 'n gemeenskaplike poel.
+
+[wysig] Voorsorgmaatreëls
+
+     * Magnesium metaal en legerings is hoogs vlambaar en smelt in
+       poeiervorm. Magnesium metaal reageer vinnig en eksotermies in
+       kontak met lug of water en moet met sorg gehanteer word. Dit word
+       aanbeveel dat veiligheidsbrille gedra word. Die helder wit lig
+       (insluitende ultraviolet) wat wat uitgestraal word wanneer
+       magnesium brand kan die oë beskadig. Water moet nie gebruik word om
+       die brand te blus nie aangesien dit die brand kan stook deur die
+       reaksie:
+
+          Mg[(s)] + 2 H[2]O[(l)] → Mg(OH)[2][(aq)] + H[2][(g)]
+
+   Koolstofdioksied brandblussers moet ook nie gebruik word nie, aangesien
+   magnesium ook daarin kan brand.
+     * Die boonste limiete vir die inname van magnesium in dieetkundige
+       aanvullings is 350 mg/dag. Die mees algemene simptome van oormatige
+       magnesium inname is diarree. Babas behoort nie magnesium
+       aanvullings te kry nie.
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Magnesium
+     * EnvironmentalChemistry.com – Magnesium
+     * – Oor Magnesiumgebrek
+     * – The Magnesium Website
+     * Magnesium
+     * Dietary Reference Intake
+
+   Kategorie: Chemiese elemente
+

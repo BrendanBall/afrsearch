@@ -1,0 +1,56 @@
+Kavitasie
+
+
+   Kavitasie (Latyn cavitare "ondermyn") is die vorming en vernietiging
+   van borrels in vloeistowwe deur drukveranderinge. Daar kan tussen twee
+   grensgevalle onderskei word met baie oorgangsvorme daartussenin. By
+   damp- of harde kavitasie bestaan die borrels hoofsaaklik uit die damp
+   van die omliggende vloeistof. Sulke borrels sal dan onder die invloed
+   van eksterne druk inplof. In sagte- of gaskavitasie bestaan die borrels
+   uit opgeloste gasse in die vloeistof wat onder invloed van eksterne
+   druk van grootte kan wissel maar nie vinnig vernietig word soos in die
+   eerste geval nie.
+
+[wysig] Oorsake
+
+   Die mees algemene oorsake van kavitasie is vinnig bewegende voorwerpe
+   in water, soos die stuwers van sentrifugale pompe, waterturbines of
+   -skroewe. Volgens die Bernoulli beginsel neem die statiese druk van 'n
+   vloeistof af, hoe hoër die snelheid daarvan. As die spoed so hoog word
+   dat die statiese druk laer word as die dampdruk van die vloeistof sal
+   stoom- of gasborrels vorm. As die statiese druk weer toeneem sal die
+   damp in die borrels weer oombliklik kondenseer wat uiterste druk- en
+   temperatuurwisselinge tot gevolg het (sien skokgolf).
+
+   Die oorsake van kavitisie kan veral by die sentrifugale pompe opgemerk
+   word waar daar groot drukverlagings voorkom by die oog van die stuwer
+   met gepaardgaande borrelvorming. Die energieoordrag van die stuwerlemme
+   aan die vloeistof lei dan tot verhoogde drukke en gevolglike
+   vernietiging van die borrels. Kavitasie kan ook in ander dele van so 'n
+   pomp voorkom waar die plaaslike druk tydelik verlaag word.
+
+   Ander bydraende faktore van kavitasie by 'n sentrifugale pomp is die
+   verhoging van die vloeistoftemperatuur, 'n verlaging in die
+   suigkantdruk of die vernouing van die inlaat.
+
+[wysig] Uitwerking van Kavitasie
+
+[wysig] Meganiese Skade
+
+   As kavitasie op die oppervlakte van 'n vastestof voorkom (soos by 'n
+   skeepspropeller), word die oppervlak dikwels weggevreet. Dit gebeur
+   omdat die mikroskopiese deeltjies in die oppervlak deur die hoë
+   meganiese ladings vervorm word en dit dan na 'n tyd vanaf die groter
+   massa losbreek. Die presiese meganisme waarop dit plaasvind is tot op
+   hede nog nie uitgeklaar nie. Kavitasie is daarom gewoonlik 'n
+   ongewenste verskynsel in hidrouliese stelsels. Eerstens het verlaag dit
+   die doeltreffendheid van hierdie stelsels en tweedens veroorsaak dit
+   materiaalskade as gevolg van die uiters hoë versnellings, temperature
+   en drukwisselinge wat dit meebring. Om kavitasie in pompe te voorkom is
+   dit belangrik om te verseker dat die temperatuur van die vloeistof in
+   die pomp nie te hoog is of die suigingsdruk van die pomp nie te laag is
+   nie. Hoë temperature kan byvoorbeeld voorkom wanneer die pomp loop maar
+   die vloeistof nie verwyder word nie (soos in die geval waar die
+   uitlaatklep toegemaak word).
+   Kategorieë: Fisika • Chemie • Energie • Natuur
+

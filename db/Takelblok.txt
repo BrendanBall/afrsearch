@@ -1,0 +1,75 @@
+Takelblok
+
+
+   Hierdie takelblok word gebruik om 'n boot te water te laat.
+   Hierdie takelblok word gebruik om 'n boot te water te laat.
+
+   'n Takelblok is 'n toestel wat gebruik maak van een of meer katrolle
+   met 'n tou of kabel daaroor gespan en word gebruik om swaar laste op te
+   lig of te trek.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Meganiese voordeel
+        * 3 Wrywing
+        * 4 Takelwerk tegnieke
+        * 5 Sien ook
+        * 6 Verwysings
+        * 7 Eksterne skakel
+
+[wysig] Oorsig
+
+   Daar is vele gebruike vir takelblokke maar hulle mees algemene gebruik
+   is op bote en seilskepe. Die takelblok is deur Archimedes uitgevind.
+
+[wysig] Meganiese voordeel
+
+   Die mees algemene opstelling is om 'n vasgestelde aantal katrolle te hê
+   wat almal op 'n enkele as gemonteer word en 'n ander stel wat kan
+   beweeg. Die meganiese voordeel wat deur 'n takelblok verkry word is
+   gelykstaande aan die aantal toue wat tussen die twee blokke gespan is.
+   As 'n takelblok byvoorbeeld bestaan uit drie vaste en drie bewegende
+   katrolle is daar ses kabels/toue wat tussen hulle gespan is, wat 'n
+   meganiese voordeel van 6 lewer. Dit maak dit moontlik om gewigte op te
+   lig wat ses keer swaarder is as wat 'n mens/masjien normaalweg sou kon
+   optel (as wrywingsverliese en die gewig van die bewegende blok as
+   nalaatbaar klein beskou word).
+
+[wysig] Wrywing
+
+   Die verhoogde krag wat deur die takelblok geskep word, word teengewerk
+   deur die langer lengte van die tou wat benodig word en die wrywing in
+   die stelsel. Om 'n gewig op te lig met 'n takelblok met 'n meganiese
+   voordeel van 6 oor 'n hoogte van 1 meter, is dit nodig om 6 meter tou
+   deur die blokke te laat beweeg. Wrywingsverliese beteken ook dat daar
+   'n punt bereik word waar die byvoeging van verdere katrolle nie meer
+   prakties is nie.
+
+[wysig] Takelwerk tegnieke
+
+   'n Takelblok kan opgestel word sodat die krag uitgeoefen in dieselfde
+   rigting is as die krag wat deur die las uitgeoefen word of so opgestel
+   dat die krag uitgeoefen in die teenoorgestelde rigting is as die krag
+   wat deur die las uitgeoefen word. Die presiese opstelling van die
+   takelwerk berus gewoonlik op ergonomiese oorwegings.
+
+[wysig] Sien ook
+
+     * Hyskraan
+     * Windas
+
+[wysig] Verwysings
+
+     * * Rescue Technician: Operational Readiness for Rescue Providers,
+       geredigeer deur Claire Merrick et al., gepubliseer deur Mosby,
+       Inc., St. Louis, Mo., 1998, kopiereg deur die Maryland Fire and
+       Rescue Institute. ISBN 0-8151-8390-9 Sien Hoofstukke 4 en 5, p. 41
+       en ff.
+
+[wysig] Eksterne skakel
+
+     * Model en demonstrasie
+
+   Kategorieë: Gereedskap • Meganika
+

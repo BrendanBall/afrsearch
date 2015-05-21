@@ -1,0 +1,952 @@
+Airbus A380
+
+
+   Airbus A380
+   Die eerste GP7000-aangedrewe A380 wat op die eerste besoek daarvan aan
+   die Airbus fabriek by Getafe land
+   Tipe Passasiersvliegtuig
+   Vervaardiger EADS (Airbus S.A.S.)
+   Nooiensvlug 27 April 2005
+   Bekendstelling Beplan vir Okt 2007 met Singapore Airlines
+   Status Gesertifiseer 12 Desember 2006
+   Aantal gebou 9 teen Julie 2007
+   Programkoste VS$ 10,7 biljoen
+   Eenheidskoste VS$ 296 – 316 miljoen 2006
+
+   Die Airbus A380 is 'n dubbeldek, vierenjin-passasiersvliegtuig wat deur
+   EADS (Airbus S.A.S.) vervaardig word. Dit is die grootste
+   passasiersvliegtuig ter wêreld. Dit het vir die eerste keer op 27 April
+   2005 van Toulouse, Frankryk opgestyg.^[1] Na 'n aantal oponthoude word
+   die eerste kommersiële vlugte vir die einde van 2007 beplan. Vir 'n
+   groot deel van die vliegtuig se ontwikkeling het dit bekend gestaan as
+   die Airbus A3XX. Die bynaam Superjumbo word met die A380 geassosieer.
+
+   Die A380 se boonste dek strek oor die hele lengte van die romp. Dit
+   laat 50% meer kajuitvloerspasie toe as in die volgende grootste
+   passasiersvliegtuig, die Boeing 747-400,^[2] en verskaf sitplek aan 525
+   passasiers in standaardkonfigurasie of tot 853 passasiers in volledige
+   ekonomieklas-konfigurasie.^[3] Twee A380 modelle word te koop
+   aangebied. Die A380-800, die passasiersmodel, is die grootste
+   passasiersvliegtuig ter wêreld, groter selfs as die Boeing 747, en die
+   A380-800F, die vragmodel, wat ontwerp is as een van die grootste
+   vragvliegtuie met 'n gelyste vragkapasiteit wat slegs deur die Antonov
+   An-225 oortref word.^[4] Die A380-800 het 'n ontwerpte vliegbereik van
+   15 200 km (8 200 seemyl), genoeg om ononderbroke van New York na Hong
+   Kong te vlieg, en 'n kruissnelheid van Mach 0,85 (ongeveer 900 km/h
+   teen kruishoogte).^[3]
+
+   Inhoud
+
+        * 1 Ontwerp
+             + 1.1 Beskrywing
+             + 1.2 Spesifikasie bepaling
+             + 1.3 Kajuit
+             + 1.4 Stuurkajuit
+             + 1.5 Motore
+             + 1.6 Gevorderde materiale
+             + 1.7 Avionika
+             + 1.8 Stelsels
+             + 1.9 Passasiersgeriewe
+             + 1.10 Lughaweaanpasbaarheid
+        * 2 Geskiedenis
+             + 2.1 Geskiedkundige agtergrond en die rol van die Europese Unie
+             + 2.2 Openbare bekendstelling
+             + 2.3 Eerste vlug
+             + 2.4 Toetse en sertifikasie
+             + 2.5 Belangrike datums
+             + 2.6 Opleiding
+        * 3 Produksie
+        * 4 Bestellings
+        * 5 Verwysings
+
+[wysig] Ontwerp
+
+[wysig] Beskrywing
+
+   Die Airbus A380 is die grootste burgerlike vliegtuig wat ooit ontwerp
+   is en volgens die dimensies daarvan die derde grootste^[5] vliegtuig in
+   die geskiedenis van lugvaart. Dit is ook die eerste vliegtuig wat 'n
+   volledige integrale dubbeldek het (die vliegtuig se mededinger, die
+   Boeing 747, het slegs 'n gedeeltelike dubbeldek). Die koste van die
+   ontwikkelingsprogram is 10,7 miljard dollar, dit wil sê die ekwivalent
+   van die Kanaaltonnel.
+
+   Die projek is in 1993 geloods en is Airbus A3XX gedoop. Die eerste
+   voorbeelde het op 27 April 2005 opgestyg, die vliegtuig het op 12
+   Desember 2006 sy navigasiesertifikaat ontvang na 800 vlugte en 2 600
+   vliegure uitgevoer met vyf prototipes.
+
+   Teen die einde van Junie 2007 is 165 vliegtuie bestel en beoog Airbus
+   om die eerste A380 aan die einde van 2007 aan Singapore Airlines af te
+   lewer, wat dit tussen die Heathrow-lughawe in Londen en die
+   Changi-lughawe in Singapoer sal gebruik (met die afskop van die projek
+   was die eerste aflewerings vir 2006 beplan).
+
+[wysig] Spesifikasie bepaling
+
+   Vergelyking tussen die A380 en ander groot vliegtuie
+   Vergelyking tussen die A380 en ander groot vliegtuie
+
+   Die spesifikasies vir die grootte van die A380 is deur Airbus vasgestel
+   in oorleg met die hoof lugrederye, lugvaartowerhede en die
+   verteenwoordigers van omtrent sestig internasionale lughawens.^[6] Om
+   die gebruik van bestaande lughawe infrastruktuur moontlik te maak
+   sonder radikale veranderings aan infrastruktuur, moes die A380 in 'n
+   "vierkant met sye van 80 meter" pas.^[7] Die dimensies van die vaartuig
+   moes dus nie meer as 80 m in lengte en 80 meter in wydte wees nie, die
+   maksimum hoogte is op 24 m vasgestel. Die beperkings laat toe dat die
+   A380 op enige plek waar die Boeing 747 geakkommodeer kan word, gebruik
+   kon word en beteken dat die vliegtuig maklik in die parkeerplekke en
+   lane op lughawens kan beweeg.
+
+   Uiteindelik was die A380 baie groot in vergelyking met bestaande
+   vliegtuie. Dit is 73 meter lank, 79,80 meter wyd en 24,10 meter hoog.
+   Dit het die heel grootste van die Boeings, die B-747, wat sedert die
+   vliegtuig se indiensneming in 1970 die grootste kommersiële vliegtuig
+   ter wêreld was, onttroon. Dit word in dimensie selgs oortref deur:
+     * die vragvliegtuig, Antonov An-225, (84 meter lank) vervaardig deur
+       die Oekraïnse Antonov wat slegs een voorbeeld gebou het en
+     * die reuse seevliegtuig, H-4 Hercules (97,5 meter wyd), beter bekend
+       as die Spruce Goose, wat slegs een keer in 1947 gevlieg het.
+
+   Die luginlaat van elkeen van die vier enjins van die A380 is byna 3,20
+   meter groot (2,94 meter in die geval van die Rolls-Royce Trent 900 en
+   3,16 meter vir die GP7270), wat in deursnee vergelykbaar is met die
+   romp van 'n Airbus A320 (3,96 meter). Ter vergelyking, die krag van net
+   een van die enjins is ekwivalent aan 1 500 motors. Die enjins maak dit
+   vir die A380 moontlik om teen meer as 900 km/h te vlieg ten spyte van
+   die imposante massa van die vliegtuig.
+
+   Ondanks die grootte daarvan is die vliegtuig ontwerp om te kan opstyg
+   of land op die bestaande aanloopbane van die belangrikste
+   internasionale lughawens. Die vliegtuig se 562 ton (met volle
+   vraggewig) word versprei oor die 20 wiele van die hoof landingstoestel,
+   die twee neuswiele word sleg op sekondêre wyse benut. Die aantal
+   hoofwiele beteken dat die gewig wat deur elke wiel ondersteun word
+   minder is as wat deur elke wiel van 'n Boeing 747 ondersteun word.
+   Aanloopbane hoef dus nie versterk te word nie.
+
+   Aanpassings wat deur lughawens gemaak moet word, hou dus hoofsaaklik
+   verband met die fasiliteite wat benodig word om 800 passasiers op 'n
+   slag toe te laat om aan boord te stap en na landing weer af te stap,
+   sowel as werksareas wat effens groter gemaak moet word.
+
+[wysig] Kajuit
+
+   Vergelyking van die deursnee van die A380 en die Boeing 747
+   Vergelyking van die deursnee van die A380 en die Boeing 747
+
+   Die romp van die A380 het 'n ovaal vorm en is nie rond soos in meeste
+   ander groot passasiersvleigtuie nie. Die keuse van argitektuur laat toe
+   dat twee dekke bo mekaar vir die hele lengte van die vliegtuig geplaas
+   kan word, teenoor die Boeing 747 waar die boonste dek slegs 'n gedeelte
+   van die vliegtuig beslaan.
+
+   Die dimensies van die romp (ongeveer 8,40 meter hoog en 7,15 meter wyd)
+   maak dit moontlik om 'n totale oppervlak van 555 m² te skep: 250 m² op
+   die boonste dek en 305 m² op die hoofdek. Dit laat toe dat die A380 555
+   passasiers in drie klasse kan vervoer, ongeveer 1 m² per passasier. In
+   ekonomie konfigurasie, of as huurvliegtuig, kan die aantal passasiers
+   tot 853 styg.
+   Maket van die kajuit van 'n A380
+   Maket van die kajuit van 'n A380
+   Ekonomieklas sitplekke in 'n A380
+   Ekonomieklas sitplekke in 'n A380
+
+   Die boonste dek van die A380 is soortgelyk aan die van 'n Airbus A340.
+   Die onderste dek is egter 49% groter as die van 'n Boeing 747 en laat
+   die vervoer van 35% addisionele passasiers toe: die passasiers het dus
+   meer spasie en gemak. Die basiese konfigurasie vir drie klasse met 555
+   passasiers het 22 eerste klaspassasiers in en 334
+   ekonomieklaspassasiers op die onderste dek. Die boonste dek vervoer 96
+   besigheidsklaspassasiers en 103 ekonomieklaspassasiers.^[8]
+
+   Die dimensies van die kajuit is van so aard dat dit moontlik is om
+   ruskamers, luukse en selfs kroeë vir passasiers in te rig. Dié
+   fasiliteite word egter nie op die stadium deur Airbus aangebied
+   nie.^[9]
+
+   As lugrederye dit sou verkies, is dit ook moontlik om die 13 houers,
+   wat waarskynlik op die onderste dek geakkommodeer sal word, weg te laat
+   om addisionele toerusting soos kroeë, biblioteke, restaurants, kajuite
+   met beddens, storte, ens. te installeer.^[10]
+
+[wysig] Stuurkajuit
+
+   A380 Stuurkajuit in Sydney afgeneem
+   A380 Stuurkajuit in Sydney afgeneem
+
+   Airbus het 'n soortgelyke stuurkajuituitleg, prosedures en
+   hanteereienskappe in die A380 gebruik as wat in ander Airbusvliegtuie
+   gebruik word, ten einde bemanningsopleidingskoste te beperk. Die A380
+   het vervolgens 'n verbeterde glasstuurkajuit en gerekenariseerde
+   vlugbeheerstelsel wat aan systuurstange gekoppel is.^[11] Die
+   verbeterde stuurkajuit spog met agt 15-by-20 cm vloeikristalskerms wat
+   almal fisies identies en omruilbaar is. Dit bestaan uit die primêre
+   vlugskerm, twee navigasieskerms, een enjinparameterskerm, een
+   stelselskerm en twee veelfunksieskerms. Hierdie veelfunksieskerms is 'n
+   nuwe toevoeging tot die A380 en verskaf 'n maklik bruikbare koppelvlak
+   vir die vlugbeheerstelsel en vervang drie veelfunksiebeheer- en
+   skermeenhede. Dit sluit in QWERTY-sleutelborde en spoorvolgballe wat
+   gekoppel is aan 'n grafiese "mik-en-kliek" navigasiestelsel.^[12]
+
+[wysig] Motore
+
+   'n Rolls-Royce Trent 900 motor op die vlerk van 'n Airbus A380.
+   'n Rolls-Royce Trent 900 motor op die vlerk van 'n Airbus A380.
+
+   Die A380 kan deur óf Rolls-Royce Trent 900 óf Engine Alliance GP7200
+   turbinewaaierenjins aangedryf word. Beide is afgelei van hulle
+   voorgangers, die Trent 800, GE90 en PW4000. Die Trent 900-kern is 'n
+   volgens skaal ontwerpte weergawe van die Trent 500, maar sluit die
+   geswenkte waaiertegnologie van die mislukte Trent 8104 in.^[13] Die
+   GP7200 het 'n GE90-afgeleide kern en PW4090-afgeleide waaier en
+   lae-druk turbine-masjinerie.^[14] Geraasvermindering was 'n leidende
+   vereiste vir die A380 wat veral enjinontwerp geaffekteer het.^[15]
+   Beide enjintipes sal na verwagting die vliegtuig instaat stel om te
+   voldoen aan die streng QC/2 opstyggeraasperke wat deur Londen se
+   Heathrow-lughawe gestel word: dié lughawe word as 'n sleutelbestemming
+   vir die A380 gesien.^[16]
+
+[wysig] Gevorderde materiale
+
+   Die Airbus A380-projek was 'n geleentheid vir 'n aantal laboratoria en
+   universiteite om gevorderde tegnologiese navorsing te onderneem met die
+   uiteindelik doel om die gewig van die vliegtuig te verminder terwyl
+   maksimum veiligheid verseker word en die omgewing in ag geneem word.
+
+   Die navorsing is veral gedoen op saamgestelde materiaal en avionika.
+   Die vliegtuig maak gebruik van saamgestelde materiaal, soos Glare
+   ("GLAss-REinforced") uit veselglas en aluminium van die Universiteit
+   van Delft. 'n Geleidende saamgestelde materiaal, met 'n geïntegreerde
+   brons net, word vir die aanlê van beligting gebruik en verseker
+   onvlambaarheid van die brandstof in die vlerke. 'n Allooi met
+   vormgeheue word vir kompartementpanele gebruik. Die materiaal is in
+   staat daartoe om hulle vorm te herwin na 'n stamp. "Intelligente"
+   materiaal toegerus met geïntegreerde sensors word vir die meting van
+   druk of temperatuur gebruik. Koolstofvesel word gebruik vir die
+   sentrale draagvlak wat die twee vlerke aanmekaar verbind. Dit is gemaak
+   van koolstofvesel met tussenliggende modules wat beter trekspanning
+   verskaf as dié van standaard vesels en 'n gewigsbesparing van 1,5 ton
+   moontlik maak. Die enjinhuls word ook uit monolitiese koolstof gemaak.
+   'n Wateroplosbare verf wat dus sonder oplosmiddel (1 mikrometer dikte
+   verteenwoordig 70 kg verf) aangewend kan word, word gebruik. Dit is
+   ligter, maar bevat steeds chroom, die enigste manier om korrosie van
+   aluminium te verhoed. Die verf is moontlik gemaak te danke aan
+   navorsing deur die fisika-laboratorium vir polimere aan die
+   Paul-Sabatier Universiteit in Toulouse.
+
+[wysig] Avionika
+
+   Die A380 maak gebruik van 'n Geïntegreerde Modulêre
+   Avionika-argitektuur (IMA), wat vir die eerste keer in gevorderde
+   militêre vliegtuie soos die F-22 Raptor en die Eurofighter Typhoon
+   gebruik is. Die is gegrond op algemeen beskikbare kommersiële
+   tegnologie. 'n Menigte toegewyde enkeldoel-avionika rekenaars word in
+   die ontwerp vervang met toegewyde sagteware, wat in
+   aanboord-verwerkermodules en -bedieners gehuisves word. Dit verminder
+   die aantal onderdele, verskaf groter buigsaamheid sonder om
+   doelgemaakte avionika te vereis en verminder koste deur kommersieel
+   beskikbare rekenaarvermoë te gebruik.^[12] Tesame met IMA is die A380
+   avionika hoogs genetwerk. Die data-kommunikasienetwerke gebruik
+   Avionika Volle-Dupleks-Geskakelde-Ethernet, volgens die ARINC
+   664-standaard. Die datanetwerke is geskakelde, volle-dupleks,
+   ster-topologie en is gegrond op 100baseTX fast-Ethernet.^[17] Dit
+   verminder die hoeveelheid bedrading wat benodig word en minimaliseer
+   vertraging. ^[18] Die Netwerkstelselbediener (Network Systems Server
+   (NSS)) is die hart van die A380 se papierlose stuurkajuit. Dit
+   elimineer die lywige handleidings en kaarte wat tradisioneel deur
+   vlieëniers gebruik word. Die NSS het genoegsame interne robuustheid om
+   weg te doen met aanboord reserwe papierdokumente. Die A380 se netwerk-
+   en bedienerstelsel stoor data en bied elektroniese dokumentasie wat 'n
+   vereiste toerustinglys, navigasiekaarte, verrigtingberekeninge, en 'n
+   vliegtuiglogboek verskaf. Dit is alles vir die vlieënier toeganklik
+   deur twee addisionele 27 cm (11 inch) diagonaal vloeikristalskerms,
+   elkeen met sy eie sleutelbordbeheer en beheerde lopertoestel gemonteer
+   in die opvoubare tafel voor elke vlieënier.^[18]
+
+[wysig] Stelsels
+
+   Die vierde A380 vlieg verby die Bristol Filton-lughawe in Engeland.
+   Die vierde A380 vlieg verby die Bristol Filton-lughawe in Engeland.
+
+   Elektroniese vlugbeheeraandrywers word vir die eerste keer in die A380
+   in siviele hoedanigheid gebruik. Dit rugsteun die primêre hidroliese
+   vlugbeheeraandryweres. Tydens sekere bewegings vul hulle die primêre
+   aandrywers aan. Hulle het selfstandige hidrouliese en elektriese
+   kragtoevoere. Hulle dien ook as elektro-hidrostatiese aandrywers (EHA)
+   in die rolroer en hyser, en as elektriese rugsteun hidrostatiese
+   aandrywers (EBHA) vir die rigtingsroer en sommige van die
+   plunderaars.^[19]
+
+   Die vliegtuig se 350 35 MPa (5,000 psi) hidrouliese stelsel is 'n
+   verbetering op die tipiese 210 MPa (3,000 psi) stelsel wat sedert die
+   1940's op ander kommersiële vliegtuie gebruik word. Hoër druk
+   hidroulika, wat vir die eerste keer in militêre vleigtuie gebruik is,
+   verminder die grootte van hidrouliese pypleiding, aandrywers en ander
+   komponente wat lei tot algehele gewig vermindering. Die 350 MPa druk
+   word opgewek deur agt ontkoppelbare hidrouliese pompe. Pype word tipies
+   uit titanium gemaak en die stelsel sluit beide brandstof en
+   lugverkoelde hitteruilers in. Die hidrouliese stelsel-argitektuur
+   verskil ook beduidend van dié van ander passasiersvleigtuie.
+   Selfstandige elektriese hidrouliese kragvoereenhede, in plaas van 'n
+   sekondêre hidrouliese stelsel, dien as rugsteun vir die primêre
+   stelsels. Dit spaar gewig en verminder onderhoud.
+
+   Die A380 gebruik vier 150 kVA wisselbare-frekwensie elektriese
+   opwekkers waarmee die konstante spoed drywe vervang word ter wille van
+   beter betroubaarheid. Die A380 gebruik aluminium kragkabels in plaas
+   van koper vir groter gewigbesparing as gevolg van die aantal kabels wat
+   in so 'n groot en ingewikkelde vliegtuig gebruik word. Die elektriese
+   kragstelsel is ten volle gerekenariseer en baie relês (kontaktors en
+   brekers) is deur vastetoestand-toestelle vervang vir beter verrigting
+   en verbeterde betroubaarheid.^[19]
+
+   Die A380 het 'n gloeilamplose beligtingstelsel: LED's word in die
+   passasierskajuit, stuurkajuit, vragluik en romp gebruik. Die
+   passasierskajuit se beligting gebruik programmeerbare veelspektrum
+   LED's^[20] wat 'n kajuit atmosfeer kan skep wat daglig, nag of
+   skakerings tussenin simuleer. Aan die buitekant van die vliegtuig word
+   hoë-druk ontladingslampe vir beligting gebruik om helderder, witter en
+   beter gehalte beligting moontlik te maak. Hierdie twee tegnologieë bied
+   beter helderheid en dienslewe as tradisonele gloeilampe.
+
+   Die A380 is aanvanklik sonder omgekeerde oornamers beplan omdat Airbus
+   geglo het dat dit genoegsame remvermoeë gehad het. Die FAA het egter
+   nie saam gestem nie en Airbus het gekies om slegs die binneste twee
+   motore daarmee uit te rus. Die twee buitenste motors het nie oornamers
+   nie wat die hoeveelheid puin wat tydens landing opgeblaas word,
+   verminder. Die A380 sluit elektries aangedrewe omgekeerde oornamers in,
+   wat lei tot beter betroubaarheid as pneumatiese of hidrouliese
+   ekwivalente en wat tot gewigsbesparing lei.
+
+[wysig] Passasiersgeriewe
+
+   Aanvanklike publisiteit het klem gelê op die gemak en ruimte van die
+   A380 se kajuit,^[21] wat ruimte bied vir fasiliteite soos ontspanareas,
+   kroeë, heffingsvrye winkels en skoonheidsalons. Een van die A380
+   kliënte wat waarskynlik van vindingryke geriewe gebruik sal maak is
+   Virgin Atlantic Airways, wat reeds 'n kroeg in die Besigheidsklas van
+   sy vliegtuie het en ook planne aangekondig het wat casino's,
+   dubbelbeddens, 'n gimnasium en storte op die lugredery se A380's
+   insluit.^[22]^[23] Die A380 sal meer en wyer sitplekke verskaf, laer
+   sitplek-afstand koste en beter geriewe. Dit het ook 50% minder kajuit
+   geraas as 'n 747 en 'n laer kajuit-hoogte van 5000 voet; beide
+   eienskappe wat na verwagting tot verminderde vlugtamheid sal lei .
+
+   Teen 555 passasiers verteenwoordig die A380 se passasierskapasiteit 'n
+   35% verbetering op die 747-400 in 'n standaard drie-klas konfigurasie
+   te same met 50% meer kajuitvolume, wat meer spasie per passasier
+   verskaf. In ekonomie-alleen konfigurasie, of as huurvliegtuig, kan die
+   aantal passasiers tot 853 styg; die maksimum dra-kapasiteit waarvoor
+   dit gesertifiseer is.^[24]
+
+[wysig] Lughaweaanpasbaarheid
+
+   Airbus 380 op Frankfort lughawe met drie brûe na die terminaal
+   Airbus 380 op Frankfort lughawe met drie brûe na die terminaal
+
+   Die A380 is ontwerp om in 'n vierkantige lughawehekke van 80 × 80 m te
+   pas,^[25] en kan land of opstyg op enige aanloopbaan wat 'n Boeing 747
+   kan akkomodeer. As gevolg van die A380 se laer landingspoed, gebruik
+   dit minder aanloopbaan as 'n 747.^[verwysing benodig] Lughawens wat die
+   A380 in kommersiële diens gebruik mag egter wel aanpassings van die
+   infrastruktuur benodig.^[26] Die groot vlerkwydte kan rolbane en
+   laaiblad veranderings benodig, om veilige skeidings afstande te
+   handhaaf wanneer twee vleigtuie bymekaar verby rol. Rolbaanskouers kan
+   moontlik geteer of plavei moet word om die waarskynlikheid van
+   vreemdevoorwerpskade, veroorsaak deur of aan die buitenste motore wat
+   meer as 25 m van die middellyn van die vliegtuig hang, te beperk. Alle
+   rolbane en brûe moet instaat wees om die A380 se maksimum gewig te
+   ondersteun. Die terminaalhek moet groot genoeg wees dat die A380 se
+   vlerke nie hekke langsaan versper nie en kan ook meervoudige
+   stralerwegbrûe na beide dekke verskaf.^[27] Dit sal ook nodig wees om
+   diensvoertuie te bekom wat hysers het wat die boonste dek kan
+   bereik,^[28] so wel as trekkers wat daartoe instaat is om die A380 se
+   maksimum aanloopbaangewig te hanteer.^[29] Die A380 toetsvliegtuie het
+   deelgeneem aan 'n veldtog om lughaweaanpasbaarheid te toets, om die
+   aanpassings wat reeds by verskeie groot lughawens gemaak is, te
+   bevestig.^[30]^[31] Die A380 is nou goedgekeur vir gebruik op
+   gewone-wydte aanloopbane (45m) deur beide die FAA en EASA.^[32]
+
+[wysig] Geskiedenis
+
+[wysig] Geskiedkundige agtergrond en die rol van die Europese Unie
+
+   A380 in die kleure van die Emirate
+   A380 in die kleure van die Emirate
+
+   In 1988, op 'n stadium toe die Boeing 747 die onbestrede leier van
+   groot vliegtuie was, het Airbus se idee om 'n dinktenk te onderneem oor
+   die haalbaarheid van 'n baie groot vliegtuig, onder die kodenaam A3XX
+   of ASX-600, belaglik geklink. Maar in 'n aanvanklike wêreldwye besoek
+   aan lugrederye is die span baie gunstig ontvang. Die idee om 'n
+   Europese "lugmonster" te skep wat in staat is om met die Boeing 747 mee
+   te ding en 'n alternatief vir lugpassasiers te skep, het potensiële
+   kliënte gelok.
+
+   Die Europese Unie het 'n belangrike rol gespeel in die sukses van die
+   projek; die Unie het dit ondersteun ter wille van die skep van 'n groot
+   mark vir Europese lugvaart, om die mededingendheid van Europese
+   maatskappye te bevorder en om navorsing te ondersteun. Deur die skep
+   van 'n enkele Europese lugruimte en die toestaan van groter vryheid aan
+   lugrederye, is hulle bevry van die onderskeie nasionale owerhede en is
+   hulle vrye keuse gegun oor watter roetes hulle wil bedien, die bepaling
+   van toepaslike kapasiteit, asook in hulle bemarkingsbeleid en tariewe
+   wat slegs van ekonomiese en finansiële oorwegings hoef af te hang.
+
+   Tussen 1992 en 2002 het die aantal lugrederye met 25% gestyg, die
+   aantal lugroetes wat bedien word is byna verdubbel, groot verbeterings
+   in produktiwiteit is behaal (gemiddeld 90% vir groot maatskappye) en
+   tariewe het met die verskyning van nuwe 'n maatskappy dramaties geval.
+   Hierdie fantasties groei, die verhoogde verkeer, en die opeenhopings by
+   hoof lughawens, het die toestande geskep waarin Europese maatskappye se
+   bestelling van groot vliegtuie vermenigvuldig het.
+
+[wysig] Openbare bekendstelling
+
+   Eerste bekendstelling van die A380
+   Eerste bekendstelling van die A380
+
+   Die amptelike bekendstelling van die A380 het plaasgevind op 18
+   Januarie 2005 in die Jean-Luc Lagardère-saal in Toulouse voor 'n skare
+   van meer as 5 000 toeskouers.
+
+   Die gebeurtenis, wat ook deur 'n groot aantal televisiestasies gedek
+   is, is bygewoon deur verteenwoordigers van die vier hoof lande wat aan
+   die projek deelneem:
+     * die President van Frankryk Jacques Chirac;
+     * die Eerste Minister van die Verenigde Koninkryk, Tony Blair;
+     * die Kanselier van Duitsland, Gerhard Schröder, en
+     * en die Eerste Minister van Spanje, José Luis Rodríguez
+       Zapatero.^[33]
+
+   Daar was ook verteenwoordigers van die 14 klientmaatskappye en
+   persoonlikhede in die lugvaart en lugvervoer bedryf.
+
+   Die seremonie het vir twee ure die 35 jaar van Airbus se geskiedenis en
+   die simbool van Europese sukses wat dit verteenwoordig ten toon gestel
+   en die nuwe vliegtuig bekendgestel.
+   Eerste voorstelling van die A380
+   Eerste voorstelling van die A380
+
+   Die nuwe kleure van die Airbus-reeks is ook vir die eerste keer aan die
+   publiek bekendgestel. Dit is nie meer gegrond op die reënboogkleure
+   kenmerkend van Airbus sedert die vrystelling van die eerste A310 nie,
+   maar is hoofsaaklik blou. Die naam van die vervaardiger is in
+   donkerblou geverf en aan die kant van die romp, die naam van die
+   vliegtuig is ook in ligblou geverf. Die hele stert en 'n deel van die
+   romp is blou en bevat ronde motiewe in 'n blou skakerings wat sfere
+   verteenwoordig.
+
+[wysig] Eerste vlug
+
+    (video) Opstyg van die Airbus A380 (inligting)
+            Die eerste opstyging van die A380 van die Toulouse Blagnaclughawe in
+            Toulouse
+            Probleem met die vertoon van die video ? Sien mediahulp.
+
+   Eerste vlug van die A380
+   Eerste vlug van die A380
+
+   Die eerste vlug van die A380, met die reeksnommer MSN001, het
+   plaasgevind op 27 April 2005, toe dit omstreeks 10:29 by die Toulouse
+   Blagnaclughawe in Toulouse, Frankryk, opgestyg het.^[34]
+   Ingenieurskajuit aanboord die A380 MSN0001
+   Ingenieurskajuit aanboord die A380 MSN0001
+
+   'n Paar dae voor die nooiensvlug is die MSN001 vliegtuig oorgeplaas van
+   die monteerfabriek by Jean-Luc Lagardère na die aanloopbaan van die
+   lughawe vir die eerste statiese proewe en die eerste rollende toetse.
+   Die enjins is geleidelik al hoe harder aangesit tot hulle die maksimum
+   krag bereik het, terwyl die vliegtuig stilgestaan het met remme aan.
+   Die A380 het vervolgens 'n reeks al hoe kragtiger versnellings en
+   remtoetse uitgevoer ^[35].
+
+   Die vliegtuig is vir sy eerste vlug uitgerus met vier Trent 900 motors
+   van Rolls Royce plc. Dit het 'n bemanning bestaande uit ses mense
+   vervoer: twee Franse vlieëniers (Claude Lelaie en Jacques Rosay), 'n
+   Franse navigasiewerktuigkundige (Gérard Desbois) en drie ingenieurs :
+   Manfred Birnfeld (Duits), Fernando Alonso (Spaans) en Jacky Joye
+   (Brits). Die vliegtuig het ontbreek aan sitplekke in die kajuit, maar
+   is gevul met waterballasse wat veronderstel was om die gewig van
+   passasiers te simuleer. Die ballasse kon vol of leeg gemaak word om
+   sodoende die verspreiding van gewig in die kajuit te varieer om die
+   stabiliteit van die vliegtuig te behaal en die doeltreffendheid te
+   toets. Die vliegtuig het ook twintig ton beheertoerusting vervoer vir
+   die uitvoer van 'n reeks toetse gedurende die vlug.^[36] Tydens
+   opstyging, en met slegs 75% lading, het die vliegtuig met 'n massa van
+   421 ton die wêreldrekord vir die swaarste masjien om op te styg
+   gebreek.^[37]
+
+   Omtrent vier tot vyf minute voor die enjins aangesteek is en toe die
+   A380 reeds op die aanloopbaan gereed gestaan het, het 'n klein
+   "Corvette"-spuitvliegtuig van die loopbaan opgestyg van aanloopbaan "32
+   droite" ("32 regs") en na 'n groot sirkelvormige skeervlug inlyn en
+   agter die A380 in beweeg om dit te kan volg. Die vliegtuig het 'n paar
+   honderd meter agter die A380 geland en het daarin geslaag om die
+   versnelling van die A380 op die aanloopbaan en die opstyg daarvan te
+   verfilm. Tydens die vlug van 3 ure en 51 minute kon die bemanning, teen
+   'n maksimum hoogte van ongeveer 3000 meter (10 000 voet), die flappe,
+   die vlugbeheerstelsel, en die balans van die vliegtuig toets, waarby
+   passasiers en vrag deur ballasse (gevul met tonne water) in die romp
+   gesimuleer is.
+
+   Die vliegtuig het die skare van 40 000 toeskouers vermaak deur 'n
+   verbyvlug oor die Concorde-aanloopbaan op 'n hoogte van 100 m te
+   voltooi.
+   Eerste landing van die A380.
+   Eerste landing van die A380.
+
+   Kronologie van die eerste vlug:^[38]
+     * 08h45 : bemanning van ses aanboord, Claude Lelaie en Jacques Rosay
+       in bevel.
+     * 09h15 : toemaak van die deure.
+     * 10h00 : rol tot by die einde van die aanloopbaan.
+     * 10h26 : opstyg van die Corvette-metgesel. Nadat die Corvette tydens
+       die skeervlug loodreg met die aanloopbaan is, word die krag van
+       MSN001 versterk.
+     * 10h29 : opstyging.
+     * 14h22 : nadat 'n mediese helikopter in plek gelaat is en die
+       uitvoer van 'n lus teen lae hoogte, vind die landing by
+       Toulouse-Blagnaclughawe plaas aan die einde van die eerste
+       proefvlug wat drie ure en 53 minute geduur het.
+     * 14h45 : persseremonie.
+     * 16h15 : terugkeer van die vliegtuig na Abreuvoir, die proefsone
+       waar die vliegtuie in 'n sirkel geparkeer word.
+
+[wysig] Toetse en sertifikasie
+
+   Die A380 by die Salon du Bourget.
+   Die A380 by die Salon du Bourget.
+
+   Die eerste A380 wat gebou is, het nooit gevlieg nie. Die prototipe, wat
+   ES genoem is vir "essai statique" (statiese toets), sou "gemartel word
+   totdat dit breek", volgens Charles Champion, hoof van die program op
+   daardie stadium. Die toets van die ES Airbus-reeks word in die algemeen
+   deur CEAT (Centre d'essais aéronautique de Toulouse) in die
+   Toulouse-woonbuurte uitgevoer.
+
+   Die monumentale vliegtuigloods wat "Jean-Luc Lagardère" gedoop is, waar
+   die A380 aanmekaar gesit word, is een van die grootstes ter wêreld met
+   'n lengte van 490 meter, wydte van 250 meter en hoogte van 46 meter.
+   Dit bestaan uit 8 monteerstasies vir 'n A380. Opsigself het dit 'n
+   verbsyterende konstruksie geverg, meer as 32 000 ton staal (vier keer
+   die gewig van die Eiffeltoring) en 250 000 kubieke meter beton.
+   Die onderste dek van 'n A380 in Australië tydens die Wêreldreis wat
+   deel gevorm het van die toetsfase. Let op die ballasse aan die sykante.
+   Die onderste dek van 'n A380 in Australië tydens die Wêreldreis wat
+   deel gevorm het van die toetsfase. Let op die ballasse aan die sykante.
+
+   Die nooiensvlug van 27 April 2005 het die aanvang van 'n proefveldtog
+   van aanvanklike toetse wat 15 maande sou duur en 2 500 ure se
+   vlugtoetse op 'n totaal van 5 vliegtuie aangedui. Die toetsveldtog het
+   dit moontlik gemaak om die A380 deur die Europese Agentskap vir die
+   veiligheid van lugvaart en die Amerikaanse Federal Aviation
+   Administration te sertifiseer.
+
+   Die eerste bekendstelling van die A380 aan die algemene publiek het
+   plaasgevind by die Paryse lugskou in die Salon du Bourget in Junie
+   2005. Die vorige Airbus wat ontwikkel is, en wat ook die langste
+   vliegtuig ter wêreld is, die A340, is in die saal vertoon waar dit 'n
+   rekord aantal 480 000 besoekers gelok het.^[39]
+
+   In die middel van November 2005 het die A380 'n demonstrasie- en
+   promosiereis aan Suidoos-Asië en Australië onderneem. Die vliegtuig kon
+   by die lughawens van Singapoer, Brisbane, Sydney en Kuala Lumpur gesien
+   word. Tydens die reis, wat gelyktydig bedoel was om die vliegtuig oor
+   lang afstande te toets, het die vliegtuig agtereenvolgens die kleure
+   van Singapore Airlines, Qantas en Malaysia Airlines gedra. Op 19
+   November het die A380 deelgeneem aan die Dubaise lugskou (Dubai Air
+   Show), waar dit in die kleure van die Emirates lugredery geverf was.
+
+   Airbus het aanvanklik 'n toetsperiode van 15 maande na die eerste vlug
+   voorsien, maar na die eerste vlugte het dit duidelik geword dat
+   sertifikasie nie voor die einde van 2006 bekom sou word nie, wat sou
+   lei tot 'n vertraging in aflewering van ten minste ses maande.
+   Eerste verbyvlug in Bristol voor die vertoning daarvan by
+   Heathrow-lughawe.
+   Eerste verbyvlug in Bristol voor die vertoning daarvan by
+   Heathrow-lughawe.
+     * 10 Januarie 2006 :Eerste oorkruising van die Atlantiese Oseaan om
+       in Medellín in Kolombië te land en verrigting teen hoë hoogtes te
+       toets.
+
+     * 6 Februarie 2006 :Eerste vlug in Noord-Amerika, vir toetse in baie
+       koue omstandighede, by Iqaluit (verre noorde van Kanada).^[40]
+       Dieselfde A380 is daarna na Singapoer gevlieg vir die Asian
+       Aerospace 2006-lugskou.
+
+     * 26 Maart 2006, ontruimingsoefening van 'n A380, Hamburgse lughawe
+       in Duitsland: 853 Passasiers en 20 bemanningslede het daarin
+       geslaag om in minder as 90 sekondes die vliegtuig te ontruim deur
+       slegs 8 van die 16 nooduitgange te gebruik.^[41]
+
+     * 29 Maart 2006: Sertifikasie deur die Agence européenne de la
+       sécurité aérienne en die Federal Aviation Administration bepaal dat
+       daar aan die nodige ontruimingsbepalings voldoen is.^[42]
+
+     * 18 Mei 2006: Eerste landing in Londen by Heathrow-lughawe. Die
+       aankoms van die vliegtuig by die lughawe, die nommer een in 2006 in
+       terme van die aantal passasiers wat deur die lughawe gaan, was
+       daarop gemik om te demonstreer dat die aanloopbaan en die terminale
+       in staat is om dit te hanteer.
+
+   Eerste tentoonstelling van die A380 by die Paryse lugskou (Salon
+   Aéronautique du Bourget) op 17 Junie 2005.
+   Eerste tentoonstelling van die A380 by die Paryse lugskou (Salon
+   Aéronautique du Bourget) op 17 Junie 2005.
+     * 25 Augustus 2006: Eerste toetsvlug van die A380 MSN 9, uitgerus met
+       die GP7200 motore van Engine Alliance. Die vliegtuig is die vyfde
+       en laaste wat by die toetsvloot sou aansluitn^[43]
+
+     * 4 September 2006, vervoer van die die eerste passasiers: 474
+       Betaalde vrywilligers getrek uit 15&npsp;000 het aanboord gestap en
+       teen 9:58 vir die eerste van 'n reeks van vier vlugte met
+       passasiers, wat daarop gemik was om die gemak en ergonomie van die
+       vliegtuig te toets, opgestyg.^[44]
+
+     * 30 November 2006: Einde van die toetsfase na 'n "wêreldtoer",
+       waartydens een van die prototipes die amptelike lede van die
+       sertifikasieowerhede aanboord gehad het.^[45]
+
+     * 12 Desember 2006: Amptelike sertifikasie deur die Agence Européenne
+       de la Sécurité Aérienne (AESA) en die Federal Aviation
+       Administration (FAA) by 'n seremonie by Airbus se kantore in
+       Toulouse.^[46]
+
+[wysig] Belangrike datums
+
+   Instapkaartjie vir 'n A380 vlug van Washington, DC na Frankfurt.
+   Instapkaartjie vir 'n A380 vlug van Washington, DC na Frankfurt.
+
+   Kronologie van die Airbus A380-program ^[47] ^[48] ^[49] :
+     * Begin van die 1990's: Begin van samesprekings aangaande die
+       ontwikkeling van 'n nuwe reuse vliegtuig wat die Boeing 747 die
+       stryd sou kon aansê vir baie groot vliegtuie.
+     * Junie 1994: Begin van die projek.
+     * Julie 2000: Emirates word die eerste maatskappy om die A380 te
+       bestel.
+     * 19 Desember 2000: Na die vyftigste bestelling van die vliegtuig,
+       loods Airbus amptelik die A3XX-program wat later die naam A380 kry.
+     * 16 Januarie 2001: FedEx Express word met die bestelling van 10
+       A380-800F, wat tussen 2008 en 2011 afgelewer sal word, die eerste
+       kliënt van die vragvliegtuigweergawe van die A380.
+     * 16 Julie 2001: Singapore Airlines plaas die eerste ferm bestelling
+       vir 10 A380 vliegtuie wat aanvanklik in die begin van die eerste
+       kwartaal van 2006 afgelewer sou word.
+     * 5 November 2003: Die eerste vlerk van die A380, wat 30 ton weeg en
+       45 m lank, 11 m wyd en 3 m dik is, verlaat die Airbus-fabriek by
+       Broughton in Wallis.
+     * 7 Mei 2004: Inhuldiging van die monteerfabriek in Toulouse deur die
+       Eerste Minister van Frankryk, Jean-Pierre Raffarin, in die
+       monumentale vliegtuigloods wat "Jean-Luc Lagardère" gedoop is, een
+       van die heel grootstes ter wêreld.
+     * 17 Mei 2004: Begin van toetse van die Rolls-Royce Trent 900-motore
+       op 'n toetsbank van 'n A340.
+     * Junie 2004: Montering van prototipe nr. 2.
+     * 18 Januarie 2005: Amptelike openbare bekendstelling in die
+       teenwoordigheid van die Franse staatshoof in Toulouse.
+     * 27 April 2005: Eerste vlug van 'n A380 toegerus met die Rolls-Royce
+       Trent 900 by die lughawe van Toulouse.
+     * Einde 2005: Drie eksemplare van die vliegtuig het reeds gevlieg.
+       Reis na Asië en Oseanië.
+     * 29 Oktober 2005: Eerste landing van 'n A380 by 'n groot Europese
+       lughawe by Frankfurt in Duitsland.
+     * 11 November 2005: Eerste landing van 'n A380 in Asië by die
+       Changi-lughawe van Singapoer.
+     * 10 Januarie 2006: Eerste landing van 'n A380 in Amerika by die
+       internasionale José María Córdova-lughawe van Medellín in Kolombië.
+     * 25 Augustus 2006: Eerste toetsvlug van 'n A380 toegerus met Engine
+       Alliance GP7200-motors.
+     * 4 September 2006: Eerste vlug van 'n A380 met passasiers.
+     * November 2006: Finale fase van sertifikasie met 'n "wêreldreis" van
+       die vliegtuig om ter selfde tyd die vliegtuig en sy ontvangs by
+       lughawens te toets.
+     * 12 Desember 2006: Ontvangs van navigasiesertifikaat na meer as 800
+       vlugte en 2600 vlugure wat met vyf prototipes uitgevoer is.
+     * 1 Junie 2007: Eerste landing van 'n A380 by
+       Roissy-Charles-de-Gaulle-lughawe.
+
+   Beplan:
+     * Oktober 2007: Aflewering aan die eerste kliënt, Singapore Airlines,
+       en indiensstelling.
+     * Noordelike Lente 2009: Ingebruikneming deur Air France.
+
+[wysig] Opleiding
+
+   Die A380 maak gebruik van een van die grootste aanloopbane in Europa,
+   by Châteauroux-Déols-lughawe, vir vlieëniers om ondervinding op te
+   doen. Die vliegtuig kom in die laaste paar dae van Mei 2007 gereeld na
+   Indië vir 'n reeks "touch and go"-oefeninge.
+
+   'n A380 het ook 'n eerste verskyning by die Paris-Vatry-lughawe in
+   Marne gemaak op 26 Junie 2007. Die vraglughawe het 'n aanloopbaan van
+   3860 meter lank en 60 meter wyd, geskik vir die opleiding van die
+   belangrikste lugrederye vir alle tipes vliegtuie.
+
+[wysig] Produksie
+
+   Die A380 vervoerder Ville de Bordeaux.
+   Die A380 vervoerder Ville de Bordeaux.
+
+   Belangrike strukturele onderdele van die A380 word in Frankryk,
+   Duitsland, Spanje en die Verenigde Koninkryk vervaardig. As gevolg van
+   hulle grootte word hulle per land of water na die monteerfabriek in
+   Toulouse in Frankryk gebring eerder as deur die A300-600ST
+   Beluga-vliegtuig wat vir ander Airbus-modelle gebruik word. Onderdele
+   van die A380 word verskaf deur verskaffers oral in die wêreld; die vyf
+   grootste bydraers is, volgens waarde, Rolls-Royce, SAFRAN, United
+   Technologies, General Electric, en Goodrich.^[50]
+
+   Die voorste en agterste dele van die romp word op 'n Airbus
+   ry-op-ry-af-veerboot, Ville de Bordeaux, in Hamburg in die noorde van
+   Duitsland gelaai, vanwaar dit verskeep word na die Verenigde
+   Koninkryk.^[51] Die vlerke wat by Filton in Bristol en Broughton in
+   Noord-Wallis vervaardig word, word per vragskuit na Mostynkaai vervoer
+   waar die skip dit by sy vrag voeg. In Sint-Nazaire, in westelike
+   Frankryk, ruil die skip die rompdele uit Hamburg vir groter gemonteerde
+   dele wat ook die neusgedeelte insluit. Die skip word in Bordeaux
+   ontlaai. Daarna laai die skip die buik- en stertgedeeltes by
+   Construcciones Aeronáuticas SA in Cadiz in suidelike Spanje op en lewer
+   dit ook in Bordeaux af. Vandaar word die A380 dele per vragskuit na
+   Langon vervoer en deur oorgrootte padkonvooie na die monteerfabriek in
+   Toulouse geneem. Nuwe, wyer paaie, kanaalstelsels en vragskuite is
+   ontwikkel om om die A380 dele af te lewer. Na montering word die
+   vliegtuig na Hamburg gevlieg waar dit bemeubel en geverf word. Dit neem
+   3 600 liter (950 gallon) verf om die 3 100 m² (33,000 ft²) buitekant
+   van 'n A380 te dek.
+
+   Airbus het die produksieaanleg en toevoerketting vir 'n produksietempo
+   van vier A380's per maand ontwerp.^[51]
+
+[wysig] Bestellings
+
+   Vyftien lugrederye het reeds die A380 bestel, insluitend 'n bestelling
+   van vliegtuigverhuurder, ILFC. Die totale aantal bestellings vir die
+   A380 staan tans op 174, waarvan 165 bevestig is.^[52] Bestellings vir
+   die vragmodel het 27 bereik, maar na nul gekwyn na
+   produksievertragings. Airbus verwag om 750 vliegtuie te verkoop en skat
+   dat hulle sal 'n winsdrempel van nul sal bereik teen 420 eenhede,
+   vermeerder van 270 as gevolg van die vertragings en vallende
+   wisselkoers van die VSA dollar.^[53] In April 2007 het Airbus se
+   hoofuitvoerendebeampte, Louis Gallois, aangekondig dat hulle bo die
+   winsdrempel gestyg het, maar geweier om 'n nuwe aantal te spesifiseer.
+   Industriële analiste verwag tussen 400 en 880 verkope teen 2025.^[50]
+   In 2006 was die gelyste prys vir 'n A380 VS$ 296 tot 316 miljoen,
+   afhangende van die toerusting wat geïnstalleer is.^[54]
+
+   CAPTION: Bestellings gerangskik volgens kliënt
+
+   Lugredery EIS Tipe Enjin
+   A380-800 A380-800F Opsies EA RR
+   Vlag van Frankryk Air France 2009 12 2 *
+   Vlag van Volksrepubliek van Sjina China Southern 2008 5 *
+   Vlag van Verenigde Arabiese Emirate Emirates ^[55] 2008 55 *
+   Vlag van Verenigde Arabiese Emirate Etihad Airways 2013 4 *
+   Vlag van Verenigde State ILFC 2013 10 4  4
+   Vlag van Indië Kingfisher Airlines 2010 5 5
+   Vlag van Suid-Korea Korean Air 2008 5 3 *
+   Vlag van Duitsland Lufthansa ^[56] 2008 15 10 *
+   Vlag van Maleisië Malaysia Airlines 2008 6 *
+   Vlag van Australië Qantas ^[57] 2008 20 4
+   Vlag van Katar Qatar Airways 2010 5 2
+   Vlag van Singapoer Singapore Airlines ^[58] 2007 19 6
+   Vlag van Thailand Thai Airways 2010 6 *
+   Vlag van Verenigde Koninkryk Virgin Atlantic 2013^[59] 6 6
+   Ongeïdentifiseerde BBP kliënt 1
+   Sub-totals 174 0 42 82 81
+   Total 174  (ferm: 165) 163
+
+   CAPTION: Bestellings chronologies gerangskik
+
+   Aankondiging
+   Datum Bevestiging
+   Datum Lugredery EIS Tipe Enjin
+   A380-800 A380-800F Options EA RR
+   30 April 2000 4 November 2001 Vlag van Verenigde Arabiese Emirate
+   Emirates 2008 5 2 *
+   24 Julie 2000 18 Junie 2001 Vlag van Frankryk Air France 2009 10 4 *
+   25 Julie 2000 17 Junie 2001 Vlag van Verenigde State ILFC 5 5 4
+   29 September 2000 12 Julie 2001 Vlag van Singapoer Singapore Airlines
+   ^[60] 2007 10 15 *
+   29 November 2000 6 Maart 2001 Vlag van Australië Qantas 2008 12 12 *
+   15 Desember 2000 28 April 2001 Vlag van Verenigde Koninkryk Virgin
+   Atlantic 2013^[59] 6 6 *
+   16 Januarie 2001 12 Julie 2002 Vlag van Verenigde State FedEx ^[61]
+   2010 10 10 *
+   27 Februarie 2001 8 Desember 2003 Vlag van Katar Qatar Airways 2010 2 2
+   4 November 2001 4 November 2001 Vlag van Verenigde Arabiese Emirate
+   Emirates 2008 15 *
+   6 Desember 2001 20 Desember 2001 Vlag van Duitsland Lufthansa 2009 15
+   10 *
+   10 Januarie 2003 11 Desember 2003 Vlag van Maleisië Malaysia Airlines
+   ^[62] 2008 6 *
+   16 Junie 2003 16 Junie 2003 Vlag van Verenigde Arabiese Emirate
+   Emirates 2008 21 *
+   27 Augustus 2004 28 Desember 2004 Vlag van Thailand Thai Airways 2010 6
+   *
+   10 Januarie 2005 6 Desember 2005 Vlag van Verenigde State UPS ^[63]
+   2010 10 10 *
+   18 Januarie 2005 23 Oktober 2003 Vlag van Suid-Korea Korean Air^[64]
+   2008 5 3 *
+   31 Januarie 2005 20 Desember 2004 Vlag van Verenigde Arabiese Emirate
+   Etihad Airways ^[65] 2008 4 *
+   31 Januarie 2005 1 Mei 2005 Vlag van Volksrepubliek van Sjina China
+   Southern^[66] 2008 5 *
+   15 Junie 2005 15 Junie 2005 Vlag van Indië Kingfisher Airlines 2010 5 5
+   Mei 2006 April, 2006 Vlag van Verenigde Arabiese Emirate Emirates 2008
+   2 -2 *
+   23 Julie 2006 20 Desember 2006 Vlag van Singapoer Singapore Airlines
+   ^[67] 2007 9 -9
+   29 Oktober 2006 21 Desember 2006 Vlag van Australië Qantas ^[68] 2008 8
+   -8
+   7 November 2006 31 Desember 2006 Vlag van Verenigde State FedEx ^[69]
+   n/a -10 -10
+   4 Desember 2006 31 Desember 2006 Vlag van Verenigde State ILFC ^[70]
+   2013 5 -5
+   16 Februarie 2007 Unidentified VIP customer ^[71] 2008 ? 1
+   2 Maart 2007 Vlag van Verenigde State UPS ^[72] n/a -10 -10
+   7 Mei 2007 7 Mei 2007 Vlag van Verenigde Arabiese Emirate Emirates
+   ^[73] 2008 4
+   24 Mei 2007 18 Junie 2007 Vlag van Frankryk Air France ^[74] 2009 2 -2
+   18 Junie 2007 18 Junie 2007 Vlag van Katar Qatar Airways^[75] 2010 3
+   18 Junie 2007 Vlag van Verenigde Arabiese Emirate Emirates ^[76] 2008 8
+   Sub-Totals: 174 0 42 82 81
+   Totale 174  (ferm: 165) 163
+
+     Inskrywing wat in pienk gekleur is, is aangekondig maar is nog nie
+                             gekontrakteer nie.
+
+[wysig] Verwysings
+
+    1. ^ "A380, the 21st century flagship, successfully completes its
+       first flight", Airbus S.A.S., April 27 2005.
+    2. ^ A380 FAQ, question 4
+    3. ^ ^3,0 ^3,1 "A380 Specifications." Airbus S.A.S. URL besoek op
+       2006-09-16.
+    4. ^ "A380 Freighter Specifications." Airbus S.A.S. URL besoek op
+       2006-09-16.
+    5. ^ Die eerste en tweede grootste vlieguie is die Hughes H-4 Hercules
+       of "Spruce Goose" en die Antonov An-225, onderskeidelik.
+    6. ^ L'Airbus A380 jugé indésirable à Atlanta
+    7. ^ Les ailes volantes : une solution pour améliorer le trafic aérien
+       de demain Article de l'Office national d'études et de recherches
+       aérospatiales
+    8. ^ L'A380 à l'assaut du ciel Dépêche de Radio France du 27 avril
+       2005.
+    9. ^ Cabin Showroom sur le site officiel d'Airbus
+   10. ^ (fr) Les géant des airs se dévoile Schéma publié par Le Figaro.
+   11. ^ "Cockpit." Lufthansa.
+   12. ^ ^12,0 ^12,1 "A380 flight deck." Airbus S.A.S. URL besoek op
+       2006-09-16.
+   13. ^ "Trent 900 engine." Rolls-Royce. URL besoek op 16 September 2006.
+   14. ^ "GP7200 engine features." Engine Alliance. URL besoek op 16
+       September 2006.
+   15. ^ "Environment." Lufthansa.
+   16. ^ Cite error: Invalid <ref> tag; no text was provided for refs
+       named norris_wagner_book
+   17. ^ "Networking." Lufthansa.
+   18. ^ ^18,0 ^18,1 Adams, Charlotte, "Test cards for the Airbus A380",
+       Aviation Today, 1 July 2002. URL besoek op 2006-09-26.
+   19. ^ ^19,0 ^19,1 Adams, Charlotte, "A380: ‘more electric’ aircraft",
+       Aviation Today, 1 October 2001. URL besoek op 2006-09-26.
+   20. ^ "Cabin Interior, Mood Lightning." Diehl Aerospace, Germany. URL
+       besoek op 2007-05-14.
+   21. ^ "Airbus Cabin Showroom." Airbus S.A.S.. URL besoek op 2007-05-14.
+   22. ^ "Virgin eyes gyms, casino, double beds on A380 jet"
+   23. ^ "Could the A380 Become Tomorrow's 'Cruise Ship of the Sky'?: A
+       Peek at the Airbus Giant"
+   24. ^ Cite error: Invalid <ref> tag; no text was provided for refs
+       named evacuation_test
+   25. ^ "A380 Airplane Characteristics for Airport Planning." (.pdf)
+       Airbus S.A.S.: March 05, 2007. URL besoek op 2007-04-30.
+   26. ^ "Maintenance hangar." Lufthansa.
+   27. ^ "Boarding Procedures." Lufthansa.
+   28. ^ "Catering." Lufthansa.
+   29. ^ "Aircraft movements." Lufthansa.
+   30. ^ "Successful landing – the A380 in Frankfurt", Lufthansa, October
+       29 2005.
+   31. ^ "A380 in Munich." Airliners.net: April 8 2007.
+   32. ^ "Airbus A380 cleared to operate on standard-width runways."
+       Flightglobal.com: July 31 2007.
+   33. ^ (fr) Airbus A380 : Jacques Chirac et Jean-Pierre Raffarin saluent
+       une grande réussite européenne Communiqué de presse de l'Hôtel
+       Matignon du 18 janvier 2005
+   34. ^ (en) A380, world’s largest commercial aircraft, successfully
+       takes to the skies Communiqué de presse d'Airbus du 27 avril 2005
+   35. ^ (fr) Le premier essai en vol de l'A380 attendu mercredi Article
+       du Nouvel Observateur du 25 avril 2005
+   36. ^ (en) Superjumbo Has Fuel Economy Of A Diesel Car sur le site de
+       du UK Alumni Network
+   37. ^ (fr) L’A380 le plus gros avion commercial au monde, décolle pour
+       son premier vol Communiqué de presse d'EADS du 27 avril 2005
+   38. ^ (fr) A.380 - La saga du super-jumbo européen Dossier de France 3
+       Sud
+   39. ^ (fr) Salon du Bourget - Statistiques 2003/2005
+   40. ^ (fr) Airbus A380 : des milliers d'heures d'essais Article du
+       Figaro Économie du 24 avril 2006
+   41. ^ (fr) Essai d’évacuation de l’A380 réussi Communiqué de presse
+       d'EADS du 26 mars 2006
+   42. ^ (fr) Les autorités approuvent les essais réussis d’évacuation
+       A380 Dépêche d'EADS du 29 mars 2006
+   43. ^ (fr) L’A380 dote de réacteurs Engine Alliance décolle pour son
+       premier vol Communiqué de presse d'EADS du 25 août 2006
+   44. ^ (fr) L’Airbus A380 décolle de Toulouse pour son premier vol
+       passagers Communiqué de presse d'EADS du 4 septembre 2006
+   45. ^ (en)A380 Wraps Up Technical Route Proving After A Final Trip Over
+       Both Poles Communiqué de presse d'EADS du 30 novembre 2006
+   46. ^ (fr)L’Airbus A380 obtient la certification de type de l’AESA et
+       de la FAA Communiqué de presse d'EADS du 12 décembre 2006
+   47. ^ (en) Timeline - from research to first flight Chronologie sur le
+       site airbusa380.com
+   48. ^ (en) Timeline - Airbus A380 'superjumbo' Article de BBC News du
+       18 mai 2006
+   49. ^ (en) Airbus 'superjumbo': Timeline Article de CNN du 27 avril
+       2005
+   50. ^ ^50,0 ^50,1 Babka, Scott, "EADS: the A380 Debate", Morgan
+       Stanley, 5 September 2006. URL besoek op 2006-09-13.
+   51. ^ ^51,0 ^51,1 "Towards Toulouse", Flight International, 20 May
+       2003. URL besoek op 2006-09-18.
+   52. ^ "Airbus orders & deliveries." Airbus S.A.S: 31 January 2007. URL
+       besoek op 2007-02-21.
+   53. ^ Cite error: Invalid <ref> tag; no text was provided for refs
+       named eads_airbus_forecast_20061019
+   54. ^ "Airbus raises price of A380 plane", BBC News, 23 June 2006. URL
+       besoek op 2006-10-19.
+   55. ^ "The Emirates Story." emirates.com.
+   56. ^ "Lufthansa A380 Portal." Lufthansa.
+   57. ^ "Qantas and the A380." qantas.com.au.
+   58. ^ "First To Fly A380." a380.singaporeair.com.
+   59. ^ ^59,0 ^59,1 Goldstein, Steve, "Virgin Atlantic to delay A380
+       deliveries until 2013", Dow Jones MarketWatch, 26 October 2006. URL
+       besoek op 2006-10-26.
+   60. ^ "Singapore Airlines (SIA) announced today an US$8.6 billion order
+       for 25 super-jumbo A3XX very large aircraft (VLA).."
+       a380.singaporeair.com: September 29 2000.
+   61. ^ [1]
+   62. ^ [2]
+   63. ^ [3]
+   64. ^ [4]
+   65. ^ [5]
+   66. ^ [6]
+   67. ^ [7]
+   68. ^ [8]
+   69. ^ [9]
+   70. ^ [10]
+   71. ^ [11]
+   72. ^ [12]
+   73. ^ "Emirates Airlines Reaffirms Commitment To A380 And Orders
+       Additional Four." eads.com: May 7 2007.
+   74. ^ "Air France To Order Two Additional A380s And 18 A320 Family
+       Aircraft." eads.com: 18 Junie 2007.
+   75. ^ "Qatar Airways Confirms Order For 80 A350XWBs And Adds Three
+       A380s." eads.com: 18 Junie 2007.
+   76. ^ "Emirates Airline Agrees To Buy Eight Additional Airbus A380s."
+       eads.com: 18 Junie 2007.
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorieë: Artikels met stellings wat verwysings ontbreek • Lugvaart
+

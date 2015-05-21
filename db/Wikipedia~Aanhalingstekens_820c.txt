@@ -1,0 +1,28 @@
+Wikipedia:Aanhalingstekens
+
+
+   In Afrikaans word dubbelaanhalingstekens gebruik (" ") om aan te haal.
+   Wanneer daar 'n aanhaling binne 'n ander aanhaling is, word
+   enkelaanhalingstekens daarvoor gebruik. Byvoorbeeld:
+Hy het gesê: "Ek is onskuldig!"
+Sy het gesê: "Ek is moeg vir om altyd te hoor: 'hulle is besig'".
+
+[wysig] Slegs gewone aanhalingstekens
+
+   Woordverwerkers voeg soms krulaanhalingstekens (sogenaamde smart
+   quotes) in teks in plaas van reguit aanhalingstekens. Alhoewel hierdie
+   in sekere gevalle moontlik wenslik is vir tipografiese redes, beteken
+   dit gewoonlik dat die 'n se apostroof gewoonlik verkeerdom gekrul is.
+   Hierdie aanhalingstekens sal moontlik ook soekfunksionaliteit
+   beïnvloed. Bydraers moet dus seker maak dat hulle hierdie outomatiese
+   omskakeling van hulle woordverwerkers afsit indien hulle verkies om
+   teks te tik in die woordverwerker.
+
+   Gebruikers wat 'n bash-omgewing beskikbaar het (soos byvoorbeeld op
+   Linux), kan moontlik van die volgende opdraggie gebruik maak om vinnig
+   'n tekslêer skoon te maak van sommige van die dinge wat woordverwerkers
+   soms invoeg. Dit moet nog verbeter word om beter van die koeëltjies
+   ontslae te raak:
+#!/bin/sh
+cat "$1"|sed -e "y/’‘“”/''\"\"/" -e "s/\n\n•\t/\n\*\* /" -e "s/•\t/\* /"
+

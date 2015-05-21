@@ -1,0 +1,70 @@
+Radio-aktiewe verval
+
+
+   Radio-aktiewe verval is die proses waarmee 'n onstabiele atoomkern sy
+   energie verloor deur straling in die vorm van partikels of
+   elektromagnetiese golwe. Hierdie verval of energieverlies veroorsaak
+   dat 'n atoom van een soort, die moedernuklied, omgeskakel word na 'n
+   atoom van 'n ander soort, die dogternuklied. 'n Koolstof-14 atoom gee
+   byvoorbeeld straling af om 'n stikstof-14 atoom te vorm. Op atoomvlak
+   is hierdie 'n lukrake proses in die opsig dat dit onmoontlik is om te
+   voorspel wanneer 'n spesifieke atoom sal verval, maar gegewe 'n groot
+   aantal soortgelyke atome, is die gemiddelde vervaltempo wel
+   voorspelbaar.
+
+   Die SI-eenheid van radio-aktiewe verval is die becquerel (Bq). Een Bq
+   word gedefinieer as een transformasie per sekonde. Aangesien 'n monster
+   met 'n redelike hoeveelheid radio-aktiewe materiaal baie atome bevat,
+   is 'n Bq 'n baie klein mate van aktiwiteit en word veelvoude soos TBq
+   (terabecquerel) of GBq (gigabecquerel) dikwels gebruik. 'n Ander
+   eenheid van radio-aktiwiteit is die curie, Ci, wat oorspronklik
+   gedefinieer is as die aktiwiteit van een gram suiwer radium, isotoop
+   Ra-226. Tans is dit gelykstaande aan die aktiwiteit van enige
+   radionuklied wat teen 'n tempo van 3.7 × 10^10 Bq verval. Die gebruik
+   van die Ci word tans deur die SI ontmoedig.
+
+[wysig] Verduideliking
+
+   Die neutrone en protone waaruit die kern bestaan asook ander partikels
+   wat hulle mag nader, word deur verskeie interaksies beïnvloed. Die
+   sterk kernkragte, wat nie op 'n makroskopiese skaal waargeneem kan word
+   nie, is die kragtigste oor subatomiese afstande. Die elektrostatiese
+   kragte is ook beduidend, terwyl die swak kernkragte verantwoordelik is
+   vir beta-verval.
+
+   Die wisselwerkinge van hierdie kragte is eenvoudig. Sommige
+   samestellings van die partikels in 'n kern het die eienskap dat as
+   hulle net so effens sou skuif, hulle 'n laer energie toestand aanneem
+   (met die gevolg dat die ekstra energie elders heen gaan). 'n Mens kan
+   dit vergelyk met 'n sneeubedekte veld op 'n berg: alhoewel wrywing
+   tussen die sneeukristalle die sneeu se gewig kan ondersteun is die
+   stelsel in wese onstabiel ten opsigte van 'n laer potensiële
+   energietoestand en 'n versteuring kan die pad na 'n toestand van groter
+   entropie in die hand werk. 'n Sneeustorting kan dus maklik voorkom. Die
+   totale energie verander nie tydens die proses nie, maar omdat entropie
+   altyd groter word sal 'n sneeustorting slegs in een rigting plaasvind.
+   Die einde van hierdie "rigting" word in kernfisika na verwys as die
+   "grondtoestand".
+
+   So 'n ineenstorting ('n vervalgebeurtenis) vereis 'n spesifieke
+   aktiveringsenergie. In die geval van 'n sneeustorting word die energie
+   tipies veskaf deur 'n versteuring buite die stelsel, al kan sulke
+   versteurings soms buitengewoon klein wees. In die geval van 'n
+   opgewekte atoomkern, kan die versteuring kom vanaf kwantum
+   vakuumfluktuasies. 'n Kern (of enige opgewekte stelsel in
+   kwantummeganika) is onstabiel en kan dus spontaan stabiliseer om 'n
+   minder opgewekte toestand aan te neem. Hierdie proses word aangedryf
+   deur die entropie: die energie verander nie, maar aan die einde van die
+   proses, is die totale energie meer verdun in 'n gegewe volume in die
+   ruimte. Die gevolglike transformasie verander die struktuur van die
+   kern. So 'n reaksie is dus 'n kernreaksie, in teenstelling met chemiese
+   reaksies wat ook deur entropie aangedryf ord maar slegs veranderinge in
+   die buitenste elektrone van atome behels eerder as in die kern self.
+
+   Sommige kernreaksies behels wel die invloed van eksterne energiebronne
+   in die vorm van botsings met partikels van buite die kern. Hierdie
+   reaksies word egter nie as verval beskou nie maar is eerder voorbeelde
+   van 'n geïnduseerde kernreaksie. Kernsplytsing en kernversmelting is
+   algemene voorbeelde van geïnduseerde kernreaksies.
+   Kategorie: Fisika
+

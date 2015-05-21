@@ -1,0 +1,26 @@
+Kamertemperatuur
+
+
+   Kamertemperatuur, in laboratoriumverslae verwys gewoonlik na 'n
+   temperatuur rofweg tussen 18 tot 25 °C. Wanneer 'n navorser die
+   temperatuur van sy eksperiment nie meer akkuraat as kamertemperatuur
+   beskryf nie, impliseer dit dat hy die aanname gemaak het dat 'n
+   temperatuurverskil van 'n paar grade nie 'n betekenisvolle invloed gaan
+   hê op die verskynsel of vraag wat ondersoek word nie. Navorsers oefen
+   tipies nie noue beheer uit op die temperatuur van 'n kamertemperatuur
+   eksperiment nie.
+
+   'n Voordeel vir navorsers wat kamertemperatuur eksperimente uitvoer is
+   dat kamertemperatuur gewoonlik redelik naby is aan die
+   standaardtoestande waarteen die meeste materiaaleienskappe en fisiese
+   konstantes gewoonlik reeds bepaal is. 'n Navorser kan dus maklik die
+   bestaande tabelle met sulke data raadpleeg om voorspellings te maak oor
+   die verskeie aspekte van sy eksperiment, soos byvoorbeeld oor hoe
+   vinnig 'n chemiese reaksie waarskynlik sal plaasvind.
+
+[wysig] Sien ook
+
+     * Temperatuur
+
+   Kategorieë: Termodinamika • Chemie • Fisika
+

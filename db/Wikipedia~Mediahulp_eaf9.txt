@@ -1,0 +1,43 @@
+Wikipedia:Mediahulp
+
+
+   Media-inleiding
+   Oudio en video
+   MIDI
+
+Media-lêers in Wikipedia
+
+   Sommige Wikipedia-artikels bevat klank- en video-inhoud
+   Sommige Wikipedia-artikels bevat klank- en video-inhoud
+
+   Sommige Wikipedia-artikels bevat klank- en video-inhoud. Die doel van
+   hierdie bladsy is om te verduidelik hoe om hierdie lêers te gebruik
+   sodat u die klank en video deur u eie rekenaar kan speel.
+
+   Wikipedia se medialêers kan op amper alle persoonlike rekenaars gespeel
+   word. U moet egter die nodige harde- en sagteware hê. Indien u rekenaar
+   die lêers nie outomaties afspeel wanneer u op dit kliek nie, beteken
+   dit dat u nie oor die nodige hardeware beskik nie, of dat u spesifieke
+   sagteware benodig wat weet hoe om die lêer se formaat te hanteer. Daar
+   is talle gratis sagteware op die Internet wat u tot hierdie doel kan
+   benut.
+
+   Klanklêers op Wikipedia gebruik oor die algemeen die
+   Vorbis-oudioformaat, terwyl videoleêrs gewoonlik die Theora-formaat
+   gebruik. Die formate, ook bekend as Ogg-formate, is soortgelyk aan die
+   ander formate wat gebruik word om digitale klank en video af te speel,
+   soos byvoorbeeld MP3 en MPEG. Die verskil is dat hierdie Ogg-formate
+   egter heeltemal gratis is en nie gepantenteer is nie. Rekenaars met
+   Microsoft Windows ondersteun egter nie hierdie formate sonder
+   addisionele sagteware wat gebruik word om dit af te speel nie (sien
+   onder, asb.).
+
+   Musiekleêrs maak nou en dan gebruik van die MIDI-formaat (.MID- of
+   .MIDI-uitbreiding). MIDI kan oor die algemeen afgespeel word sonder die
+   installering van nuwe sagteware, aangesien die meeste rekenaars 'n
+   mediaspeler en klankkaart het wat in staat is om MIDI-lêers te speel.
+   Aanwysings vir die installering van nuwe sagteware >>
+
+   As u wil weet hoe u klank- en video-inhoud kan omsit in die gebruiklike
+   formaat, sien gerus Wikipedia:Media.
+

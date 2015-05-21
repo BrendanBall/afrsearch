@@ -1,0 +1,284 @@
+EFF
+
+
+   EFF Kenteken
+   EFF Kenteken
+   Die EFF gebruik die bloulint as simbool vir die stryd ter verdediging
+   van vryheid van spraak.
+   Die EFF gebruik die bloulint as simbool vir die stryd ter verdediging
+   van vryheid van spraak.
+
+   Die EFF (Electronic Frontier Foundation) is 'n organisasie sonder
+   winsbejag in die V.S.A wat hom beywer tot die behoud van vryheid van
+   spraak soos vervat in die Eerste Amendement van die die Verenigde State
+   se grondwet in die konteks van die hedendaagse digitale wêreld. Die
+   hoofdoel van die organisasie is om die pers, beleidsmakers en die
+   algemene publiek oor burgerregtekwessies wat verband hou met tegnologie
+   in te lig en tree ook op as verdediger van daardie regte. Die EFF steun
+   op lidmate se skenkings en is gesetel in San Francisco, Kalifornië,
+   maar het ook personeel in Toronto, Ontario en Washington, D.C..
+
+   Die EFF neem aksie op verskeie maniere:
+     * Verskaffing van fondse vir verdediging in die howe
+     * Om indiwidue en nuwe tegnologieë te beskerm teen die effek van
+       dreigemente van wetlike vervolging wat volgens die organisasie
+       sonder behoorlike gronde is
+     * verskaf riglyne vir die regering en howe
+     * die reël van politieke- en massaposveldtogte
+     * ondersteuning van nuwe tegnologieë wat hulle glo persoonlike
+       vryhede beskerm
+     * die onderhou van 'n databasis en webwerf met verwante nuus en
+       inligting
+     * monitering en die uitdaag van wetgewing wat hulle glo inbreuk sal
+       maak op persoonlike vryhede en billike gebruik
+     * die saamstel van 'n lys van gevalle wat hulle sien as
+       patentmisbruik met die oogmerk om dié eise wat sonder meriete is te
+       verslaan
+
+   Inhoud
+
+        * 1 Geskiedenis
+             + 1.1 Boeke en verwysings
+        * 2 Hoofondersteuners
+        * 3 Kritiek
+        * 4 Geskiedenis, mylpale en sake
+        * 5 Verwysings
+        * 6 Publikasies
+        * 7 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Mitch Kapor, stigterslid van die EFF
+   Mitch Kapor, stigterslid van die EFF
+
+   Die EFF is deur Mitch Kapor, John Gilmore en John Perry Barlow in 1990
+   gestig. Die stigters het mekaar almal op 'n aanlyn forum ontmoet.
+
+   Die skepping van die organisasie is gemotiveer deur die soek deursoek
+   en beslaglegging op die eiendom van Steve Jackson Games deur die
+   Verenigde State se geheime diens vroeg in 1990. Verskeie ander
+   strooptogte is deur die federale regering se taakspan genaamd Operasie
+   Sundevil uitgevoer rondom die tydperk, maar Steve Games se geval was
+   die EFF se eerste hoë profiel geval gewees en die spil waarom dinge
+   gedraai het toe die EFF burgerregte op rekenaars en die internet begin
+   bevorder het. Die EFF se tweede groot saak was dié van Bernstein teen
+   die Verenigde State en is gelei deur Cindy Cohn. In hierdie geval het
+   'n programmeerder en professor Daniel Bernstein 'n saak teen die
+   Amerikaanse regering aanhangig gemaak om toestemming te kry om sy
+   koderingsagteware genaamd Snuffle en die meegaande beskrywing van hoe
+   dit werk te publiseer. Meer onlangs was die organisasie betrokke by die
+   verdediging van Edward Felten, Jon Johansen en Dmitry Sklyarov.
+
+[wysig] Boeke en verwysings
+
+   John Gilmore, stigterslid van die EFF
+   John Gilmore, stigterslid van die EFF
+
+   Boeke wat die EFF se geskiedenis in diepte behandel vanuit 'n beleids-
+   en wetlike oogpunt sluit in:
+     * Robert B. Gelman & Stanton McCandlish's Protecting Yourself Online:
+       The Definitive Resource on Safety, Freedom & Privacy in Cyberspace.
+     * Mike Godwin se Cyber Rights: Defending Free Speech in the Digital
+       Age.
+     * Verskeie ander boeke uit die 1990s (Bruce Sterling se The Hacker
+       Crackdown, ens.) behandel ook die EFF se aktiwiteite tot 'n mate.
+       Hul meer onlangse werk op die gebied van billike gebruik en
+       intellektuele eiendom wetgewing word beter op hul webwerf en
+       joernale gedokumenteer.
+
+   'n Ander verwysing kan ook hier gevind word:
+     * Electronic Frontier Foundation bulks up, renews focus on
+       litigation. 'n Artikel wat die EFF se geskiedenis hersien met
+       besonderhede oor die leierskapsoordrag na Shari Steele in die jaar
+       2000 en die gepaardgaande strategie veranderinge.
+
+[wysig] Hoofondersteuners
+
+     * Op 18 Februarie, 2004, het die EFF aangekondig [1] dat dit 'n $1.2
+       miljoen uit die boedel van Leonard Zubkoff ontvang het. Hulle het
+       onderneem om $1 miljoen van hierdie geld te gebruik om 'n fonds te
+       stig ten behoewe van Digitale Burgerregte.
+     * Die EFF ontvang dikwels gratis regshulp van Prof. Eben Moglen.
+     * Lawrence Lessig: EFF raadslid en professor te Stanford
+     * Raadslede: Brad Templeton (Voorsitter), John Perry Barlow, John
+       Gilmore, David Farber, Joe Kraus, Lawrence Lessig, Pamela Samuelson
+       en Brewster Kahle.
+
+[wysig] Kritiek
+
+   In sommige kringe word geglo dat die EFF hoër prioriteit aan
+   grootskaalse veranderinge aan wetgewing ondersteun (soos die wettiging
+   van moontlik ongemagtigde handel in lêers oor eweknie netwerke) as om
+   die misbruik van die wet te keer (soos in die geval van patentmisbruik
+   en DMCA klagtes).
+
+   Die EFF se suksesse ter verdediging van Skylink en OPG teen misbruik
+   van DMCA-wetgewing in die V.S.A asook hul projek om patente te daag
+   demonstreer 'n daadwerklike poging om misbruik van wetgewing te
+   voorkom.
+
+   Sommige mense in gemeenskappe wat elektroniese gemorspos teenstaan
+   kritiseer die EFF dat hulle amptelik sekere tegnieke teenstaan wat
+   gemik is om gemorspos te verhoed. Die EFF se redenasie is dat die
+   besluit oor wat gemorspos verteenwoordig altyd by die ontvanger moet lê
+   en nie by tussengangers soos Internet Diensverskaffers nie en dat daar
+   doeltreffende gemorspos filters aan die eindgebruiker beskikbaar is.
+
+[wysig] Geskiedenis, mylpale en sake
+
+     * 1990: Stigting van die organisasie en die aanvoorwerk gelê vir die
+       suksesvolle verdediging van Steve Jackson Games in 'n Federale Hof
+       in Amerika om die Verenigde State se geheime diens te vervolg vir
+       die onwettige strooptog op hul kantore en die beslaglegging op hul
+       rekenaars.
+     * 1990 Mike Godwin sluit by die organisasie aan as eerte raadgewende
+       personeellid.
+
+   1991 Esther Dyson en Jerry Berman sluit by die EFF Raad aan.
+     * 1991 Steve Jackson Games maak 'n saak in die Federale hof teen die
+       geheime diens van die V.S.A aanhangig.
+     * 1992 Die EFF maak hul eerste EFF Pioneer Toekenning by die tweede
+       Computers, Freedom, and Privacy konferensie in Washington, DC
+     * 1992 Cliff Figallo aangestel as die nuwe direkteur van
+       EFF-Cambridge
+     * 1992 Desember - Jerry Berman aangestel as Waarnemende Uitvoerende
+       Direkteur
+     * 1993 Steve Jackson Games wen hul saak teen die geheime diens.
+     * 1993 "Big Dummy's guide to the Internet" 'n Gids vir die private
+       gebruik van die internet word aanlyn beskikbaar gemaak om gratis
+       afgelaai te kan word.
+     * 1993 Oktober - Stanton McCandlish sluit by die organisasie aan as
+       aanlyn aktivis.
+     * 1994 Drew Taubman benoem as Uitvoerende Direkteur.
+     * 1994 Die Center for Democracy and Technology word deur Jerry Berman
+       gestig.
+     * 1995 Die Bernstein teen die Verenigde State hofsaak.
+     * 1995 Die EFF verskuif na San Francisco
+     * 1995-1996 Die EFF begin sy "Blue Ribbon Veldtog" in reaksie op die
+       Communications Decency Act
+     * 1996 Die EFF is medestigters van TRUSTe, die eerste Privaatheidseël
+       maatskappy saam met CommerceNet, 'n nywerheidskonsortium sonder
+       winsbejag.
+     * In 1998, bou die EFF Deep Crack, 'n masjien wat 'n DES-gekodeerde
+       boodskap na slegs 56-ure ontsyfer het en wen daarmee RSA Security
+       se DES Uitdaging.
+     * In 1999 loods EFF en Anonymizer die Kosovo Privaatheidsprojek, 'n
+       anonieme en veilige epos en websnuffeldiens wat deur Alex Fowler en
+       Patrick Ball bedink is om mense in Kosovo, Serbië en andere te
+       beskerm wat oor die Oorlog in Kosovo berig het teen wraakaanvalle
+       van Serbiese amptenare.
+     * Professor Edward Felten: DMCA word gebruik om sy navorsing oor die
+       ontsyfering van die Secure Digital Music Initiative (SDMI)
+       uitdaging te sensor.
+     * November 2002: Die 2600: The Hacker Quarterly Tydskrif saak,
+       Universal teen Reimerdes. Die EFF verloor sy appél voor die
+       Appelhof in die V.S.A.
+     * November 2002: Die 2600: The Hacker Quarterly Tydskrif saak, 2600
+       Tydskrif word verhoed om skakels na die DeCSS kode te publiseer
+       onder die bepalings van die DMCA-wetgewing.
+     * Ondersteun pogings om 'n databasis daar te stel oor die misbruik
+       van intellektuele eiendom wetgewing en om moontlike slagoffers in
+       te lig.
+     * Desember 2003: RIAA teen Verizon, Die EFF ondersteun Verizon in 'n
+       suksesvolle teenstaan van 'n laer hof se beslissing wat bepaal dat
+       die maatskappy die identiteit van 'n Verizon kliënt moet bekendmaak
+       wat daarvan beskuldig is dat hy kopiereg geskend het deur lêers te
+       deel op 'n eweknie netwerk met KaZaA sagteware. Die Appelhof het
+       met Verizon en die EFF saamgestem en bepaal dat die spesiale
+       dagvaardiging bepalings van die DMCA wetgewing van toepassing is op
+       materiaal wat op 'n internet diensverskaffer se rekenaaar gestoor
+       is en nie op materiaal wat op 'n indiwidu se eie rekenaar gestoor
+       is nie.
+     * 2004: DirecTV teen Treworgy. Die EFF help om die eienaar van "smart
+       card" tegnologie Mike Treworgy te verdedig nadat DirecTV 'n
+       hofgeding teen hom aanhangig gemaak het op gronde daarvan dat hy
+       hardeware aangeskaf het wat gebruik kon word om die maatskappy se
+       satelietseine te onderskep. Treworgy het sy saak gewen en die
+       Appelhof het beslis dat DirecTV nie gedinge aanhangig kan maak teen
+       mense vir die blote besit van smart-card tegnologie nie. In
+       afsonderlike onderhandelinge met DirecTV het die EFF daarin geslaag
+       om die maatskappy te kry om sy "skuldig-by-aankoop" strategie te
+       laat vaar.
+     * 19 April 19, 2004: Word die Patent Busting Projek geloods om
+       patente wat deur die organisasie gesien word as misbruik van die
+       wetgewing om vindingrikheid in nie-kommersiële toepassings en klein
+       ondernemings te onderdruk of daarop gemik is om vryheid van spraak
+       te onderdruk.
+     * Mei 2004 ACLU teen Ashcroft. Ondersteun die ACLU se teenstaan van
+       die grondwetlikheid van wetgewing wat die FBI in staat stel om
+       internet diensverskaffers te dwing om kommunikasie rekords te hou
+       sonder om juridiese oorsig te vereis. In September 2004, is die
+       wetgewing geskrap.
+     * Augustus 2004: Chamberlain teen Skylink. Die EFF staan Skylink by
+       in hul verdedeging by die Appélhof van die V.S.A. Chamberlain het
+       die bepalings van DMCA wetgewing probeer afdwing om te verhoed dat
+       Skylink 'n universele afstandbeheer verkoop wat ook met Chamberlain
+       se motorhuisdeure kon werk. Die hof het Chamberlain se eise van die
+       hand gewys en daarop gewys dat as die hof Chamberlain se
+       interpretasie van die DMCA-wetgewing sou aanvaar dit baie wettige
+       gebruike van sagteware binne elektroniese en rekenaarprodukte sou
+       bedreig.
+     * 19 August, 2004: 'n Nederlaag [2] in die MGM teen Grokster[3] saak.
+       Fred von Lohmann van die EFF was die hoof regsverteenwoordiger vir
+       Streamcast Networks. Die EFF het aanvanklik hulle hofsaak gewen
+       deur te betoog dat tegnologie wat betekenisvolle wettige
+       toepassings het, nie verantwoordelik gehou kan word vir
+       kopieregmisbruike deur die gebruikers van sulke tegnologie nie. Die
+       hooggeregshof het egter die bevinding omgekeer en bevind dat die
+       verdediging verantwoordelik is vir die kopieregskendings.
+     * 6 Oktober, 2004: In samewerking met 8 ander openbare belangegroepe
+       word 'n vertoog saamgestel [4] waarin die Federal Communications
+       Commission se gesag om die broadcast flag mandaat uit te voer
+       teengestaan word.
+     * 15 Oktober, 2004: Suksesvolle verteenwoordiging van die ISP Online
+       Policy Group (OPG) en twee Swarthmore College studente wat groot
+       sekuriteitsflaters in die Diebold Verkiesingsmasjiene gepubliseer
+       het. Diebold is daarvan beskuldig dat hulle die eerste maatskappy
+       was wat seksie 512 (f) van die DMCA-wet oortree het deur iemand met
+       vervolging te dreig terwyl hulle terdeë daarvan bewus was dat 'n
+       oortreding nie plaasgevind het nie.
+     * 2004: JibJab Media teen Ludlow Music, die EFF het JibJab die
+       skeppers van 'n parodie animasie waar hulle gebruik maak van Woody
+       Guthrie se "This Land Is Your Land"—en bewyse ontdek dat die
+       volksliedjie reeds in die publieke domein is.
+     * November 2004: Dien 'n vertoog in wat die Federal Communications
+       Commission se voorstel teenstaan om die Communications Assistance
+       for Law Enforcement Act wetgewing uit te brei na breëband Internet
+       dienskverskaffers en VOIP stelsels.
+     * Desember 2004: Begin om die Tor anonimiteitsnetwerk te bevorder en
+       te ondersteun, 'n tweede generasie Uieskilnetwerk wat mense in
+       staat stel om anoniem te kommunikeer.
+     * Junie 2005: Reik 'n regsgids uit vir Webjoernaalskrywers, wat
+       ontwerp is om 'n basiese gids te wees oor hoe om wetlike aspekte as
+       joernaalskrywer aan te spreek en om hulle bewus te maak van hulle
+       regte.
+     * Oktober 2005: Doen 'n ondersoek en dokumenteer die wyse waarop die
+       Xerox DocuColor drukker se serienommer, sowel as die datum en tyd
+       van die drukstuk op 'n herhaalde 15 by 8 kol patroon op die geel
+       kanaal van gedrukte blaaie geënkodeer word. Die EFF werk daaraan om
+       ander drukkers ook met terugwaartse ingenieurswese te ontsyfer.
+     * November 2005: EFF saam twee ander regsfirmas, maak 'n saak
+       aanhangig teen Sony BMG Music Entertainment, en eis dat die
+       maatskappy die skade wat aangerig is deur First4Internet XCP en
+       SunnComm MediaMax sagteware herstel wat hulle op 24 miljoen musiek
+       CD's ingesluit het.
+     * Januarie 2006 (Hepting teen AT&T): EFF maak 'n saak aanhangig teen
+       AT&T waarin hulle beweer at AT&T die NSA moontlik toegelaat het om
+       al sy kliënte op die internet af te luister asook oor die VOIP
+       kommunikasie.
+
+[wysig] Verwysings
+
+[wysig] Publikasies
+
+     * EFFector
+     * Legal Guide for Bloggers
+
+[wysig] Eksterne skakels
+
+     * Electronic Frontier Foundation se amptelike webwerf
+     * "Technopolitics", oorspronklik gepubliseer in die Australiaanse
+       tydskrif 21C, en vertel van die EFF se vroeë geskiedenis.
+
+   Kategorie: Regte
+

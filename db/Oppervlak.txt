@@ -1,0 +1,31 @@
+Oppervlak
+
+
+          Hierdie artikel behandel die topologiese begrip. Sien gerus
+          Oppervlakte vir die meetkundige begrip.
+
+   In wiskunde, en veral topologie, is 'n oppervlak 'n twee-dimensionele
+   spruit. Die bekendste voorbeelde is dié wat grense van soliede
+   voorwerpe in gewone drie-dimensionele Euklidiese ruimte is. Daar is ook
+   meer eksotiese oppervlakke, wat so "verwring" is, dat hulle glad nie in
+   drie-dimensionele ruimte veranker kan word nie.
+
+   Om na 'n oppervlak as "twee-dimensioneel" te verwys, beteken dit dat
+   daar, by elke punt, 'n gekoördineerde deel is waarop 'n
+   twee-dimensionele koördinaatstelsel gedefinieer kan word. Byvoorbeeld:
+   die oppervlak van die aarde is (ideaalgesproke) 'n twee-dimensionele
+   sfeer en breedte- en lengteliggings verskaf koördinate op hierdie
+   oppervlak. Dit geld nie by die Internasionale Datumlyn en die pole nie,
+   hiér is daar geen gedefinieerde lengteligging nie. Hierdie voorbeeld
+   wys dat dit nie moontlik is om enige gekoördineerde deel te verleng om
+   op die hele oppervlak van toepassing te wees nie: net soos spruite van
+   ander dimensies, word 'n oppervlak gewoonlik saamgestel deur verskeie
+   koördinaatstelsels aaneen te voeg.
+
+   Oppervlakke word gebruik in fisika, ingenieurswese, rekenaargrafika en
+   baie ander vakgebiede, hoofsaaklik waar hulle die oppervlakke van
+   fisiese voorwerpe voorstel. Byvoorbeeld: wanneer die lugdinamiese
+   eienskappe van 'n vliegtuig geanaliseer word, is die belangrikste
+   oorweging die vloei van lug oor die vliegtuig se oppervlak.
+   Kategorie: Topologie
+

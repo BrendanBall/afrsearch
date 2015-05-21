@@ -1,0 +1,37 @@
+Objekgeoriënteerde programmering
+
+
+   Objekgeoriënteerde programmering (OOP) is 'n paradigma of
+   verwysingsraamwerk in rekenaarwetenskap waarvolgens sagtewarekomponente
+   as 'n stel voorwerpe (objekte) gemodelleer word wat interaktief
+   (reageer met mekaar) is. Dit word gewoonlik geïmplementeer deur gebruik
+   te maak van 'n objekgeoriënteerde programmeringstaal.
+
+   Voor OOP-tale ontwikkel is, was meeste programmeringstale prosedureel
+   (bv. die taal C). In prosedurele tale lê die klem op aksies (funksies)
+   wat take kan verrig deur data te verwerk. Data en aksie is apart.
+   Hierdie benadering bemoeilik die ontwikkeling van sagteware omdat daar
+   nie oor entiteite wat met mekaar kan reageer gedink kan word nie, maar
+   eerder in terme van data en die aksies wat hierop uitgevoer kan word.
+   Hierteenoor voer OOP aan dat die data en funksies deel van dieselfde
+   eenheid of objek moet wees.
+
+   Sleutelbegrippe in objek-oriëntasie:
+
+          Abstraksie (Abstraction)
+          Oorerwing (Inheritance)
+          Enkapsulasie (Encapsulation)
+          Polimorfisme (Polymorphism)
+
+   Die eerste OOP-taal is in 1966 deur Ole-Johan Dahl en Kristen Nygaard
+   van die Norwegian Computing Center geskep. Simula is hoofsaaklik
+   gebruik om rekenaarsimulasies te skep, bv. hoe aansteeklike siektes oor
+   'n gebied versprei of hoe lugverkeer 'n blokkade oor 'n lughawe mag
+   skep. In 1972 het Alan Kay van die Xerox Palo Alto
+   Navorsingslaboratorium SmallTalk geskep. Hy het later bekendheid
+   verwerf vir die skepping van die voorloper van die alombekende Windows.
+   C++ is deur Bjarne Stroustrup van AT&T-laboratoriums in Kalifornië, VSA
+   geskep. Hy het gevoel dat C reeds baie voordele inhou en het dit
+   uitgebrei.
+   Kategorie: Rekenaarwetenskap
+

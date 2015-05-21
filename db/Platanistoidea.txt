@@ -1,0 +1,80 @@
+Platanistoidea
+
+
+                    Rivier dolfyne
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Cetacea
+      Suborde:     Odontoceti
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  Platanistoidea
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Families
+   See text
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+[wysig] Rivier dolfyne
+
+   Rivier Dolfyne is vier spesies dolfyne wat in varswater voorkom. Hulle
+   word geklassifiseerd in die familie Plantaniistoidea. Drie van die
+   spesies kom in riviere voor.
+
+[wysig] Ekologie
+
+   Rivier dolfyne is die mees bedreigde van alle dolfyn spesies weens
+   faktore wat jag en die besoedeling van habitat insluit. Somige rivier
+   dolfyne beskik oor slegte visie en en sodoende kom in gevaar met mens
+   gemaakte voorwerpe soos nette.
+
+[wysig] Klassifikasie
+
+   In die onlangse klassifikasie (Rice 1998) is daar tans vier families
+   van rivier dolfyne, alhoewel by die einde van die dekade sal Lipotidae
+   al klaar uitgewis wees sedert Desember 2006 is die familie
+   geklassifiseerd as voorlopig uitgewis
+
+   Superfamilie Familie Plantanistidae Ganges en Indus Rivier Dolfyn
+   Familie Iniidae Amesoon Rivier Dolfyn (Boto) Familie Lipotidae Sjinese
+   Rivier Dolfyn Familie Pontoporiidae La Plata Dolfyn
+   Kategorie: Diere
+

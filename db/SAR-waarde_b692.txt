@@ -1,0 +1,35 @@
+SAR-waarde
+
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+   SAR-waarde (Engels: SAR = Specific Absorption Rate), is die spesifieke
+   absorbsiekoers en word gemeet im W/kg of m^2s ^− 3..
+
+   Die SAR-waarde is die fisise groote en die maatstaf vir die absorbsie
+   van elektromagnetiese velde in biologiese Weefsel.
+
+   Die absorbsie van elektromagnetiese velde het altyd 'n opwarming
+   (termiese effek) van weefsel tot gevolg. Afhanklik van die veldsterkte
+   en frekwensie kan ook 'n effek soos bv. 'n aksieimpuls veroorsaak word.
+   Hierdie effek kan op verskeie wyses opgemerk word, maar berus in die
+   eintlike oorsaak altyd op 'n opwarming.
+
+[wysig] Vasstelling van die Spesifieke Absorbsiekoers
+
+   Die spesifieke absorbsiekoers kan bereken word deur
+    1. die veldsterkte in die weefsel: \mathrm{SAR} = \frac{\sigma|\vec
+       E|^2}{\rho}
+    2. die stromdigtheid in die weefsel: \mathrm{SAR} =
+       \frac{J^2}{\rho\sigma}
+    3. die temperatuurverhoging in die weefsel: \mathrm{SAR} =
+       c_i\frac{dT}{dt}
+
+[wysig] Eksterne skakels
+
+     * SAR Values (engels)
+     * SAR waardes (duits)
+
+   Kategorie: Saadjies
+

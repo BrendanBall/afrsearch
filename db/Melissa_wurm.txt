@@ -1,0 +1,33 @@
+Melissa wurm
+
+
+   Die Melissa Wurm, ook bekend as "Mailissa", "Simpsons", "Kwyjibo", of
+   "Kwejeebo", is 'n rekenaarwurm wat ook funksioneer as 'n makrovirus.
+
+[wysig] Geskiedenis
+
+   Die wurm is die eerste keer gevind op 26 Maart, 1999. Melissa het
+   wêreldwyd een van die berugste rekenaarwurms geword. Dit het tot gevolg
+   dat E-posstelsels verstop raak met e-pos wat deur die virus versprei
+   word sodat die pos-stelsels ophou funksioneer.
+
+   Melissa was die eerste keer versprei in die Usenet besprekingsgroep
+   alt.sex. Die virus was binne 'n lêer genoem "List.DOC", wat wagwoorde
+   bevat vir toegang tot 80 pornografiese webwerwe. Die wurm se
+   oorspronklike vorm is gestuur via e-pos aan baie mense.
+
+   Melissa is geskryf deur David L. Smith in Eatontown, New Jersey, en hy
+   het die virus vernoem na 'n skoot danseres wat hy ontmoet het in
+   Florida. Die skepper van die virus het homself Kwyjibo genoem, maar was
+   dieselfde as die makrovirusskrywers VicodinES en Alt-F11 wat 'n aantal
+   Word-lêers besit het met dieselfde Globale Unieke Identifiseerder
+   (Engels: Globally Unique Identifier) (GUID), 'n serie-nommer wat vroeër
+   gegenereer was met die netwerkkaart MAC address van 'n rekenaar. Smith
+   is gevonnis tot 20 maande tronkstraf in 'n federale tronk en $5000.
+
+[wysig] Eksterne skakels en bronne
+
+     * F-Secure se Melissa-bladsy
+
+   Kategorie: Rekenaar
+

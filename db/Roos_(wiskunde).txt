@@ -1,0 +1,98 @@
+Roos (wiskunde)
+
+
+   Roos met k = 7 blare
+   Roos met k = 7 blare
+   Roos met 8 blare (k=4).
+   Roos met 8 blare (k=4).
+   Roos krommes gedefinieer deur r = sinkθ, vir verskeie waardes van
+   k=n/d.
+   Roos krommes gedefinieer deur r = sinkθ, vir verskeie waardes van
+   k=n/d.
+
+   In wiskunde is 'n roos of rhodonea kromme 'n sinusoïed wat in
+   poolkoördinate afgetrek is. Tot met soortgelykheid kan al hierdie
+   krommes uitgedruk word deur 'n poolvergelyking van die vorm
+
+          \!\,r=\cos(k\theta).
+
+   As k 'n heelgetal is sal die kromme 'n roos met *2k blomblare is as k
+   ewe is, en
+     * k blomblare as k onewe is.
+
+   As k ewe is sal die hele grafiek een keer afgetrek word presies een
+   keer soos die waarde van θ verander van 0 tot 2π. As k onewe is, sal
+   dit gebeur in die interval tussen 0 en π. (Meer algemeen sal dit gebeur
+   op enige interval van lengte 2π vir k ewe, en π vir k onewe.)
+
+   As k is rasionaal is, dan is die kromme geslote en het dit 'n eindige
+   lengte. As k irrasionaal is, dan is dit nie geslote nie en het dit
+   oneindige lengte. Verder vorm die grafiek van die roos in hierdie
+   geval'n digte versameling (i.e., dit kom arbitrêr na aan elke punt in
+   die eenheidskyf).
+
+   Aangesien
+
+          \sin(k \theta) = \cos\left( k \theta - \frac{\pi}{2} \right) =
+          \cos\left( k \left( \theta-\frac{\pi}{2k} \right) \right)
+
+   vir alle θ, is die krommes gegee deur die poolvergelykings
+
+          \,r=\sin(k\theta) en \,r = \cos(k\theta)
+
+   identies behalwe vir 'n rotasie van π/2k radiale.
+
+   Rhodonea krommes is deur die Italiaanse wiskundige Guido Grandi genoem
+   tussen 1723 en 1728.^[1]
+
+   Inhoud
+
+        * 1 Oppervlak
+        * 2 Kyk ook
+        * 3 Verwysings
+        * 4 Eksterne skakels
+
+[wysig] Oppervlak
+
+   'n Roos waarvan die poolvergelyking van die vorm
+
+          r=a \cos (k\theta)\,
+
+   is, waar k 'n postiewe heelgetal is, het oppervlak
+
+          \frac{1}{2}\int_{0}^{2\pi}(a\cos (k\theta))^2\,d\theta = \frac
+          {a^2}{2} \left(\pi + \frac{\sin(4k\pi)}{4k}\right) = \frac{\pi
+          a^2}{2}
+
+   as k ewe is, en
+
+          \frac{1}{2}\int_{0}^{\pi}(a\cos (k\theta))^2\,d\theta = \frac
+          {a^2}{2} \left(\frac{\pi}{2} + \frac{\sin(2k\pi)}{4k}\right) =
+          \frac{\pi a^2}{4}
+
+   as k onewe is.
+
+   Dieselfde geld vir rose met poolvergelykings van die vorm
+
+          r=a \sin (k\theta)\,
+
+   aangesien grafieke van hierdie net stywe rotasies is van die rose wat
+   deur die cosinus gedefinieer word.
+
+[wysig] Kyk ook
+
+     * Lissajouskromme
+     * kwadrifolium - a rooskromme met k=2.
+
+[wysig] Verwysings
+
+    1. ^ O'Connor, John J; Edmund F. Robertson "Rhodonea". MacTutor
+       History of Mathematics archive.
+
+[wysig] Eksterne skakels
+
+     * Weisstein, Eric W., Rose at MathWorld.
+     * Miniprogram om 'n roos met k parameter te skep
+
+   Kategorie: Krommes
+

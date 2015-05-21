@@ -1,0 +1,168 @@
+Stroombreker
+
+
+   'n Tweepool miniatuurstroombreker
+   'n Tweepool miniatuurstroombreker
+
+   'n Stroombreker is 'n outomatiese elektriese skakelaar wat ontwerp is
+   om 'n elektriese stroombaan teen skade te beskerm as gevolg van
+   oorbelading of 'n kortsluiting. Anders as 'n smeltdraad
+   (sekeringsdraad) wat slegs een keer kan werk en dan vervang moet word,
+   kan 'n stroombreker herset word (hetsy handmatig of outomaties) om
+   normale werking te hervat. Stroombrekers word in verskeie groottes
+   vervaardig en wissel van kleiner toestelle wat gebruik word om
+   indiwiduele huisoudelike toestelle te beskerm tot groot skakeltuig wat
+   ontwerp word om hoë-spanning stroombane te beskerm wat groot stesde van
+   elektrisiteit voorsien.
+
+   Inhoud
+
+        * 1 Werking
+        * 2 Lae-spanning termomagnetiese stroombreker
+        * 3 Aangeslane stroom
+        * 4 Gemeenskaplike klinkskakelaars
+        * 5 Soorte stroombrekers
+
+[wysig] Werking
+
+   Magnetiese stroombrekers word gebou met 'n solenoïede (elektromagneet)
+   waarvan die trekkrag toeneem soos die stroom toeneem. Die stroombreker
+   se kontakte word deur 'n knip toegehou en as die stroom in die
+   solenoïede die aangeslane stroom oorskry laat die solenoïede die knip
+   oopspring deur die werking van 'n veer. Sommige soorte magnetiese
+   stroombrekers sluit 'n hidrouliese tydsvertragingsfunksie in waar die
+   solenoïed se kern in 'n buis wat 'n viskose vloeistof bevat geleë is.
+   Die vertraging wat sodoende bewerkstellig word laat kort stroomstuwings
+   toe wat dikwels gepaard gaan met die aanskakel van 'n elektriese motor
+   en soortgelyke toerusting. 'n Kortsluitstroom sal voldoende krag
+   voorsien om die kern deur die vloeistof te trek en die magnetiese
+   stoombaan te sluit sodat die knip losgelaat kan word. Die
+   omgewingstemperatuur het 'n invloed op die tydsvertraging maar nie op
+   die aangeslane klinkstroom nie.
+
+   Termiese stroombrekers gebruik 'n bimetaalstrokie wat buig soos 'n
+   stroom dit verhit en word op soortgelyke wyse by die skakelaar ingebou
+   dat dit die knip kan losmaak wanneer die verlangde stroom bereik word.
+   Hierdie soort stroombreker word dikwels gebruik in beheerstroombane van
+   elektriese motors. Termiese stroombrekers bevat dikwels 'n element om
+   die effek van die omgewingstemperatuur op die skakelaar se aangeslane
+   klinkstroom te verminder.
+
+   Termomagnetiese stroombrekers, wat in die meeste elektriese
+   distribusieborde gevind word, sluit beide tegnieke in met die
+   elektromagneet wat oombliklik reageer op groot stroomstuwings (soos
+   kortsluitings) en die bimetaalstrokie wat reageer op minder ernstige
+   maar langer termyn oorbeladingstoestande.
+
+   Stroombrekers vir groter strome word gewoonlik gerangskik met
+   loodstoestelle wat 'n foutstroom opspoor en die klinkmeganisme in
+   werking stel.
+
+   Onder kortsluittoestande kan 'n stroom baie keer groter wees as die
+   normale stroom. Wanneer elektriese kontakte oopmaak om 'n baan te breek
+   waarin 'n baie groot stroom vloei, bestaan daar 'n neiging vir 'n
+   vonkboog om te vorm tussen die kontakte wat die vloei van die stroom
+   vir 'n tyd lank kan laat aanhou vloei. Stroombrekers moet daarom
+   verskeie kenmerke insluit om die vonkboog te verdeel en te blus. In
+   luggeïsoleerde- en miniatuurstroombrekers word 'n geutstruktuur wat
+   dikwels bestaan uit 'n stel metaal- of keramiekplate wat die vonkboog
+   verkoel gebruik saam met blusklosse wat daarop gemik is om die vonk in
+   die geut in te lei. Groter stroombrekers soos dié wat gebruik word in
+   elektrisiteitsverspreidingstelsels kan 'n vakuum of inerte gas, soos
+   swaelheksafluoried gebruik of kontakte hê wat in olie gedompel is om
+   die vonkboog te onderdruk.
+
+   Die maksimum kortsluitstroom wat 'n stroombreker kan onderbreek word
+   deur toetsing vasgestel. Die gebruik van 'n stroombreker in 'n
+   stroombaan waarvan die kortsluitstroom groter is as die stroombreker se
+   onderbrekingskapasiteit kan daartoe lei dat die stroombreker nie die
+   moontlike fout veilig kan onderbreek nie. In die slegste geval kan 'n
+   stroombreker dalk die fout suksesvol onderbreek maar ontplof wanneer
+   dit herset word en moontlik selfs personeel wat daarmee werk beseer.
+
+   Klein stroombrekers word óf direk in toerusting geïnstalleer óf kan in
+   'n paneel gerangskik word. Stroombrekers vir hoë strome word dikwels in
+   skakeltuigkabinette gestoor. Hoë-spanningsbrekers kan ook vrystaande
+   buitemuurse toerusting wees of 'n komponent wees van 'n gasgeīsoleerde
+   skakeltuigopstelling.
+
+[wysig] Lae-spanning termomagnetiese stroombreker
+
+   Hieronder word die werkende dele van 'n 10 ampere Europese DIN-spoor
+   gemonteerde termomagnetiese miniatuurstroombaanbreker getoon.
+   Stroombrekers soos hierdie word algemeen aangetref in huishoudelike
+   toepassings en kommersiële elektriese verspreidingsborde in Europa
+   asook Suid-Afrika.
+   Foto van die binnekant van 'n stroombreker
+    1. Aandrywer hefboom - wat gebruik word om die skakelaar handmatig te
+       klink of te herset. Dit dui ook die status van die stroombreker aan
+       (Aan of Af/geklink). Die meeste stroombrekers word ontwerp sodat
+       hulle kan klink selfs al word die hefboom in die aan posisie gehou.
+    2. Aandrywermeganisme - druk die kontakte teen mekaar of hou hulle
+       uitmekaar.
+    3. Kontakte - Laat die stroom toe om te vloei wanneer hulle aanmekaar
+       raak en onderbreek die stroom wanneer hulle uitmekaar gehou word.
+    4. Terminale
+    5. Bimetaalstrook
+    6. Kalibrasieskroef - laat die vervaardiger toe om die klinkstroom
+       presies in te stel nadat die toestel aanmekaar gesit is.
+    7. Solenoïed
+    8. Vonkboogverdeler / vonkblusser
+
+[wysig] Aangeslane stroom
+
+   Die IEC 60898-1 Internasionale Standaard en Europese Standaard EN
+   60898-1 definieer die aangeslane stroom I[n] van 'n stroombreker vir
+   huishoudelike toepassings as die stroom wat 'n breker ontwerp is om
+   onafgebroke te dra (by 'n omgewingstemperatuur van 30 °C). Die mees
+   algemene aanslagwaardes vir stroombrekers (in Suid-Afrika) is 10 A, 15
+   A, 20 A, 30 A, 40 A en 60 A.
+
+[wysig] Gemeenskaplike klinkskakelaars
+
+   Algemene driepoolskakelaar vir die kragtoevoer na 'n drie fase toestel.
+   Die breker het 'n 2 A aanslag
+   Algemene driepoolskakelaar vir die kragtoevoer na 'n drie fase toestel.
+   Die breker het 'n 2 A aanslag
+
+   Wanneer 'n stroomvertakking voorsien word met meer as een lewendige
+   geleier, word elke lewendige geleier beskerm deur 'n stroombreker op
+   daardie pool. Om te verseker dat alle lewendige geleiers se stroom
+   onderbreek word as enige van die pole klink, moet 'n gemeenskaplike
+   klink stroombreker gebruik word. Hierdie skakelaars kan twee of drie
+   klinkmeganismes binne een omhulsel bevat, óf in die geval van kleiner
+   stroombrekers kan die hefbome van elke pool se breker ekstern aanmekaar
+   verbind word.
+
+   Tweepool gemeenskaplike klinkbrekers is algemeen op 120/240 Volt
+   stelsels waar 240 Volt ladings (wat groter toestelle soos oonde of
+   verdere distribusieborde kan insluit) twee lewendige drade insluit.
+   Driepool gemeenskaplike klinkskakelaars word tipies gebruik om driefase
+   krag na groot elektriese motors of verdere distribusieborde te voer.
+
+[wysig] Soorte stroombrekers
+
+   Die voorste paneel van 'n 1250 A lugstroombreker wat deur ABB
+   vervaardig word. Die stroombreker kan uit sy omhulsel verwyder word vir
+   onderhoud. Klinkeienskappe kan verstel word deur DIP-skakelaars op die
+   voorste paneel.
+   Die voorste paneel van 'n 1250 A lugstroombreker wat deur ABB
+   vervaardig word. Die stroombreker kan uit sy omhulsel verwyder word vir
+   onderhoud. Klinkeienskappe kan verstel word deur DIP-skakelaars op die
+   voorste paneel.
+
+   Daar berskaan 'n verskeidenheid tegnologieë wat in stroombrekers
+   ingebou word en hulle kan nie altyd in duidelik onderskeibare kategorie
+   geplaas kan word nie. Soorte wat algemeen gevind kan word in
+   huishoudelike, kommersiële en ligte nywerheidstoepassings by laer
+   spannings (minder as 1000 V) sluit in:
+     * Miniatuurstroombrekers—met 'n aangeslane stroomsterkte van nie meer
+       as 100 A nie. Klinkeienskappe is normaalweg nie verstelbaar nie.
+       Werking berus gewoonlik op termiese- of termomagnetiese beginsels.
+       Stroombrekers hierbo uitgebeeld val tipies in hierdie kategorie.
+     * Gegote omhulsel stroombrekers;— aangeslane stroom tot op 1000 A.
+       Berus gewoonlik op termiese of termomagnetiese werking.
+       Klinkeienskappe kan soms verstelbaar wees.
+
+   Kategorie: Elektrisiteit
+

@@ -1,0 +1,33 @@
+Omwentelinge per minuut
+
+
+   Omwentelinge per minuut (afgekort opm of min^-1) en dikwels na verwys
+   as toere is 'n eenheid van frekwensie wat gewoonlik gebruik word om
+   omwentelingsnelheid te meet, veral in die geval van omwentelinge rondom
+   'n vaste as. Dit verteenwoordig die aantal volle draaie wat 'n voorwerp
+   in 'n minuut maak.
+
+[wysig] Voorbeelde
+
+     * Gramafoonplaat het tipies teen 16, 33⅓, 45 of 78 opm gedraai.
+     * Oudio CD draai teen snelhede van ongeveer 500 opm wanneer die
+       binneste databaan gelees word tot 180 opm wanneer die bane aan die
+       buitenste rand gelees word.
+     * Die minuutwyser van 'n analoë horlosie draai teen 1 opm.
+     * 'n Wasmasjien se balie draai teen 600 tot 1600 opm tydens 'n
+       spinsiklus.
+     * 'n Motorvoertuig se enjin se omwentelinge wissel tussen 700 en 7000
+       opm.
+     * 'n binnebrand vliegtuigenjin draai tussen 2000 en 3000 opm.
+     * 'n Renmotor enjin kan teen veel hoër toere draai, so hoog as 19 000
+       opm in Formule Een.
+     * Gasturbienes roteer teen tienduisende opm.
+     * 'n Rekenaar se hardeskyf se toere wissel tussen 3600, 5400 of 7200
+       opm in IDE tipes en tussen 10 000 en 15 000 in sommige SATA en SCSI
+       skywe.
+     * 'n 52xCD-ROM skyf kan 'n kompakskyf teen 10 350 toere laat draai.
+     * 'n Zippe-tipe sentrifuge vir die verryking van uraan draai teen 90
+       000 opm of vinniger.
+
+   Kategorie: Eenhede
+

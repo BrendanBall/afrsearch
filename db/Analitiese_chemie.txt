@@ -1,0 +1,93 @@
+Analitiese chemie
+
+
+   Analitiese Chemie is die analise van materiaalmonsters om 'n beter
+   begrip te verkry oor hul chemiese samestelling en struktuur.
+
+   Inhoud
+
+        * 1 Vertakkinge
+        * 2 Tegnieke
+        * 3 Metodes
+        * 4 Sien ook
+
+[wysig] Vertakkinge
+
+   Analitiese chemie kan in twee hoof groepe verdeel word:
+    1. Kwalitatiewe analise:
+         1. Kwalitatiewe anorganiese analise wat daarop gemik is om vas te
+            stel of 'n gegewe element of anorganiese verbinding in 'n
+            monster teenwoordig is.
+         2. Kwalitatiewe organiese analise wat daarop gemik is om vas te
+            stel of 'n gegewe funksionele groep of organiese verbinding in
+            'n monster teenwoordig is.
+    2. Kwantitatiewe analise is daarop gemik om vas te stel hoeveel van 'n
+       gegewe element of verbinding in 'n monster teenwoordig is.
+
+   Moderne analitiese chemie is hoofsaaklik kwantitatief van aard.
+   Kwantitatiewe analise kan verder verdeel word in verskillende
+   studiegebiede. Die materiaal kan geanaliseer word om die hoeveelheid
+   van 'n element in 'n monster teenwoordig, vas te stel of die
+   hoeveelheid van 'n element wat in 'n spesifieke chemiese verbinding
+   teenwoordig is, te bepaal. Laasgenoemde is van besonderse belang in
+   biologiese stelsels; die molekules van lewe bevat koolstof, waterstof,
+   suurstof, stikstof en ander elemente in komplekse strukture.
+
+[wysig] Tegnieke
+
+   Daar is 'n verbysterende aantal tegnieke beskikbaar om chemiese
+   verbindings te skei en te meet.
+     * Skeiding van chemikalieë met die doel om die gewig of volume van 'n
+       finale produk te meet. Dit is 'n moeisame proses wat veral vroeër
+       jare toegepas is.
+     * Analise van stowwe met spektroskopiese toerusting. Deur die meting
+       van die absorpsie van lig deur 'n oplossing of 'n gas, kan die
+       verskillende hoeveelhede chemiese spesies teenwoordig bereken word,
+       dikwels sonder om hulle van mekaar te skei. Nuwer metodes sluit in
+       atoomabsorpsie spektroskopie (AAS), kernspinresonansie en neutron
+       aktiveringsanalise.
+     * Baie tegnieke kombineer twee of meer analitiese metodes. Voorbeelde
+       hiervan sluit [[Induktief-gekoppelde Plasma – Massa spektrometrie),
+       waar die vervlugtiging van 'n monster plaasvind in die eerste stap
+       en die meet van die konsentrasie wat dan in die tweede stap
+       plaasvind. Die eerste stap kan ook soms 'n skeidingtegniek insluit
+       soos byvoorbeeld chromatografie en die tweede dan 'n verklikker- of
+       meetinstrument.
+     * Tegnieke wat vervlugtiging insluit het ten doel om vrye atome van
+       die elemente wat die monster uitmaak te lewer, waarvan die
+       konsentrasie dan gemeet kan word deur die mate waartoe hulle lig
+       van 'n kenmerkende spektraalfrekwensie uitstraal of absorbeer.
+       Hierdie metodes het die nadeel dat hulle kompleks is en die vereis
+       dat die monster en die spesies daarin vernietig word. Hierdie
+       tegnieke sluit in atoomabsorpsie spekstroskopie en IGP-MS / IGP-AES
+       (Induktief gekoppelde plasma met of 'n massaspekrometer of
+       atoomstralingspektrometer as meetinstrument).
+
+[wysig] Metodes
+
+   Analitiese metodes is afhanklik daarvan dat sorgvuldige aandag aan
+   sindelikheid, monstervoorbereiding en akkuraatheid en presisie geskenk
+   word.
+
+   Baie praktisyns hou dus as voorbeeld hulle glasware in suur om
+   kontaminasie te verhoed, die monsters word herhaaldelik getoets en
+   toerusting word gewas in spesiaal gesuiwerde oplosmiddels.
+
+   'n Standaard analitiese metode vir konsentrasie behels die skepping van
+   'n kalibrasie kurwe.
+
+   As die konsentrasie van 'n element of verbinding in 'n monster bo die
+   meetbestek van die tegniek val, kan dit eenvoudig verdun word in 'n
+   suiwer oplosmiddel. As de hoeveelheid in die monster onder die
+   meetbestek van die meetinstrument val, kan die metode van byvoeging
+   gebruik word. Met hierdie metode word 'n bekende hoeveelheid van van
+   die element onder oorweging bygevoeg en die verskil tussen die
+   konsentrasie bygevoeg en die konsentrasie waargeneem is dan die
+   hoeveelheid wat werklik in die monster voorgekom het.
+
+[wysig] Sien ook
+
+     * Belangrike publikasies in analitiese chemie
+
+   Kategorieë: Chemie • Analitiese Chemie
+

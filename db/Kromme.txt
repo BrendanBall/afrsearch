@@ -1,0 +1,54 @@
+Kromme
+
+
+   'n Voorbeeld van 'n (eenvoudige, geslote) kromme: 'n superellips.
+   'n Voorbeeld van 'n (eenvoudige, geslote) kromme: 'n superellips.
+
+   In wiskunde is 'n kromme 'n begrip wat poog om die intuïtiewe idee van
+   'n meetkundige eendimensionele en kontinue voorwerp te vervang. 'n
+   Eenvoudige voorbeeld hiervan is die sirkel. In die alledaagse gebruik
+   van die term "krom" is 'n reguitlyn nie 'n kromme nie, maar in wiskunde
+   sluit krommes reguitlyne en lynsegmente in. 'n Groot aantal krommes is
+   reeds in meetkunde bestudeer.
+
+   Dit is moeilik om 'n eksakte definisie wat ter selfde tyd heel algemeen
+   is vir 'n kromme te verskaf en verskillende takke van meetkunde pak dit
+   op verskillend maniere aan. In elementêre meetkunde word die konsep van
+   'n kromme nie duidelik gedefinieer nie en word dit soms gedefinieer as
+   'n "lengte sonder wydte" of as 'n "grens van 'n oppervlak". By gebrek
+   aan 'n algemene definisie beskou elementêre meetkunde dus spesifieke
+   krommes soos die reguitlyn, veelhoeke, die sirkel en so voorts.
+   Elementêre meetkunde het dan ook die eienskappe van sekere krommes soos
+   die keëlsnitte, sekere algebraïese krommes en transendentale krommes in
+   heelwat diepte bestudeer, met die gebruik van spesifieke metodes vir
+   elke geval.^[1]
+
+   In analitiese meetkunde word 'n kromme in 'n vlak gedefinieer as 'n
+   versameling punte in 'n vlak waarvan die koördinate 'n vergelyking
+   F(x,y) = 0 bevredig. Beperkings moet toegepas word op die funksie sodat
+   die vergelyking 'n oneindige aantal oplossings kan hê, maar dat die
+   versameling oplossings nie "die 'n deel van die vlak vul" nie. In takke
+   van wiskunde waarin die metodes van funksieteorie oorheers soos analise
+   en differensiaal meetkunde word 'n natuurlike definisie van 'n kromme
+   verskaf deur die spesifikasie daarvan deur parametriese vergelykings.
+   'n Meer algemene definisie van 'n kromme in 'n vlak is in die 1870's
+   deur Georg Cantor verskaf met die skep van die teorie van
+   puntversamelings. In topologie is 'n konsep van 'n kromme in 1921 deur
+   die Russiese wiskundige Pavel Samuilovich Urysohn ingevoer wat selfs
+   meer algemeen is waarin 'n kromme gedefinieer word as: "'n
+   Eendimensionele kontinuum, dit wil sê, 'n verbonde kompak metriese
+   ruimte waarvan elek punt 'n arbitrêr klein omgewing met 'n grens van
+   dimensie nul het".^[1]^[2]
+
+[wysig] Verwysings
+
+    1. ^ ^1,0 ^1,1 Encyclopaedia of Mathematics, Line (curve), besoek op 2
+       Maart 2008
+    2. ^ Wolfram MathWorld, Curve, Besoek op 2 Maart 2008
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorieë: Wiskunde saadjies • Curves • Metric geometry • Topology •
+   General topology
+

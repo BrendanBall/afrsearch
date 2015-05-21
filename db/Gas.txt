@@ -1,0 +1,79 @@
+Gas
+
+
+   Gas is een van die toestande van materie, wat bestaan uit vrylik
+   bewegende atome of molekule wat nie 'n bepaalde vorm of 'n bepaalde
+   volume het nie. In vergelyking met die vloeistof- en vastetoestand van
+   materie het 'n gas 'n laer digtheid en viskositeit. Die volume van 'n
+   gas sal verander met veranderinge in die temperatuur en druk soos by
+   benadering beskryf word deur die ideale gaswet. 'n Gas het ook verder
+   die eienskap dat dit geredelik sal diffundeer en sal uitsit om die
+   ruimte van enige houer te vul.
+
+   Die woord gas is deur die Vlaamse chemikus, Jan Baptist van Helmont,
+   voorgestel as 'n Hollandse fonetiese weergawe van die Griekse woord
+   "chaos".^[1]
+
+[wysig] Fisiese eienskappe
+
+   Die atome of molekules waaruit 'n gas bestaan beweeg basies vryelik
+   (meer so as in 'n vloeistof en 'n vastestof), met geen betekenisvolle
+   kragte wat hulle bymekaar hou of uitmekaar stoot nie. Die enigste
+   interaksies is die seldsame lukrake botsings wat plaasvind. Die
+   partikels beweeg in willekeurige rigtings teen 'n hoë snelheid. Die
+   snelheid waarteen die partikels beweeg is afhanklik van die temperatuur
+   en word deur die Maxwell-Boltzmann verspreiding bepaal. Die gasfase kan
+   daarom as 'n volledige wanordelike toestand beskryf word. Die
+   termodinamiese toestand van 'n gas word bepaal deur 'n gas se volume,
+   temperatuur en druk. Hierdie veranderlikes word met mekaar in verband
+   gebring deur die gaswette, wat bepaal dat die druk in 'n ideale gas
+   direk eweredig is aan die temperatuur en die aantal molekules, maar
+   omgekeerd eweredig is aan dié volume daarvan.
+
+   Soos vloeistowwe en plasma is gasse vry bewegende vloeiers: Hulle het
+   die vermoë om te vloei en keer nie terug na hul oorspronklike toestand
+   na vervorming nie al het hul wel 'n viskositeit. Anders as vloeistowwe
+   sal 'n gas in 'n vakuum uitsit om die hele ruimte van 'n houer te
+   beslaan. Neem kennis dat dit slegs van toepassing is in
+   vakuumtoestande. As 'n mens byvoorbeeld koolstofdioksied vanaf 'n
+   brandblusser op 'n vloer uitspuit sal die gas nie die hele kamer vul
+   nie maar op die vloer langs bly omdat die gas digter is as die
+   omliggende lug in die kamer.^[2]
+
+   Die kinetiese energie van die molekule in 'n gas is buiten plasma die
+   hoogste van al die toestande van materie. Gas partikels is normaalweg
+   van mekaar geskei, anders as die partikels in 'n vloeistof wat nouer
+   met mekaar in verbinding is.
+
+[wysig] Soorte gasse
+
+   Daar word dikwels in die natuurwetenskappe soos fisika, chemie en
+   termodinamika verwys na 'n ideale gas, 'n teoretiese toestand wat
+   werklike gasse se gedrag onder sekere omstandighede goed benader.
+
+   Ander gasse wat in die alledaagse lewe aangetref word:
+    1. Lug wat ons inasem.
+    2. Die koolwaterstofgasse wat gebruik word vir verhitting, beligting
+       en energie-oordrag:
+
+     * Natuurlike gas
+     * Vloeibare petroleumgas soos butaan en propaan
+     * Sintesegas
+
+    1. Chemiese oorlogvoeringsgasse soos onder andere mosterdgas
+    2. Gasse vir narkose soos laggas of stikstofoksied
+    3. Spoorgasse
+    4. edelgasse
+
+   Elf chemiese elemente kom in die gasvorm voor by normale temperature en
+   drukke: Waterstof, Helium, Stikstof, Suurstof, Fluoor, Neon, Chloor,
+   Argon, Krypton, Xenon en Radon.
+
+[wysig] Verwysings
+
+    1. ^ http://www.etymonline.com/index.php?term=gas
+    2. ^ Beatty, William J. "Recurring science misconceptions in K-6
+       textbooks". Nagegaan op 08-06-2007.
+
+   Kategorie: Fisika
+

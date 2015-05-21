@@ -1,0 +1,59 @@
+Binêre getallestelsel
+
+
+   'n Binêre getallestelsel is enige getallestelsel wat geënkodeer word as
+   'n reeks binêre syfers. Dié syfers word gewoonlik voorgestel as 1
+   ('waar') en 0 ('vals'), alhoewel dit suiwer uit konvensie is en daar
+   ander konvensies is wat dié waardes omruil of heeltemal anders
+   voorstel. Binêre getallestelsels is uitstekend gepas vir digitale
+   gebruike, en feitlik elke rekenaarstelsel maak gebruik daarvan.
+
+[wysig] Die binêre getallestelsel
+
+   Die desimale syfersisteem, wat algemeen gebruik word, bestaan uit die
+   tien syfers (of simbole) 0 tot 9. Ons sê dat die desimale
+   getallestelsel op 'basis tien' gebou is. 'n Binêre getallestelsel
+   bestaan net uit twee simbole naamlik 0 en 1. Dus is die binêre getalle
+   op 'basis twee' gebou.
+
+   Binêre getalle word op dieselfde manier as desimale getalle voorgestel
+   in dat kombinasies van die twee binêre simbole gebruik word om groter
+   getalle voor te stel. Met desimale getalle gebruik ons basis tien, dus:
+ 76=70+6=(7 \times 10)+(6 \times 1)=(7 \times 10^1)+(6 \times 10^0)
+
+   As ons nou die proses op 'n binêre getal toepas, kry ons:
+ 101_{2}=(1 \times 2^2)+(0 \times 2^1)+(1 \times 2^0)=(1 \times 4)+(0)+(1 \times
+ 1)=4+1=5
+
+   Binêre getalle word ook gewoonlik met 'n twee as onderskrif voorgestel
+   om dit van desimale getalle te onderskei.
+
+[wysig] Bisse, grepe en woorde
+
+   'n Bis, 'n binêre syfer, (Engels "bit") is die mees basiese vorm van
+   inligting in binêre stelsels en het twee statusse: 'Aan' en 'Af'.
+   Hierdie statusse word deur 'n verskeidenheid metodes voorgestel -
+   gewoonlik word 'n sein by enige waarde onder 'n sekere afsnypunt as
+   'af' gelees en enige waarde bo dit, as 'aan'.
+
+   Bisse word byna altyd ingedeel in groepe van 8, wat as a greep (byte)
+   bekend staan. Dit is soms nuttig om te werk met groepe van 4 bisse, wat
+   peusels (nibbles) genoem word. Wanneer met groter getalle gewerk word,
+   soos in moderne rekenaars, is 'n stel van twee grepe (16 bisse) wat 'n
+   woord (word) genoem word, vier grepe (32 bisse) wat 'n dubbelwoord
+   genoem word en selfs agt grepe (64 bisse) meer dikwels gebruik om
+   getalle voor te stel en dus meer effektiewe rekenaars te verkry.
+
+   Op 'n meer wiskundige wyse kan die grootste getal van 'n greep soos
+   volg uitgedruk word:
+ y=2^x\,
+
+   waar y die grootste getal is wat deur die aantal databisse, 'x', verkry
+   kan word. Die '2' in die vergelyking is die twee moontlike statusse van
+   'n databis. Die grootste getal is dus die maksimum aantal moontlike
+   kombinasies wat gemaak kan word deur x aantal bisse. Die binêre
+   getallestelsel is dieselfde vir 8- 16- en 32-bis getalle (of enige
+   aantal databisse). Die aantal kombinasies wat 'n 16-bis getal kan maak
+   is bloot groter as 'n 8-bis getal.
+   Kategorieë: Getallestelsels • Rekenaar
+

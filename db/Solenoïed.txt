@@ -1,0 +1,25 @@
+Solenoïed
+
+
+   Magnetiese veld deur 'n solenoïed opgewek
+   Magnetiese veld deur 'n solenoïed opgewek
+
+   'n Solenoïed is 'n draadspoel. In fisika verwys die term solenoïed na
+   'n draadspoel wat dikwels om 'n metaalkern gewikkel is en 'n magnetiese
+   veld laat ontstaan wanneer 'n elektriese stroom daardeur vloei.
+   Solenoïede is belangrik omdat hulle beheerde magnetiese velde kan skep
+   en as elektromagnete gebruik kan word. Die begrip solenoïed verwys
+   spesifiek na 'n magneet wat ontwerp is om 'n eenvormige magnetiese veld
+   in 'n volume in ruimte te skep.
+
+   In ingenieurswese kan die begrip solenoïed ook verwys na 'n
+   verskeidenheid oorvormer-toestelle wat energie na lineêre beweging
+   omskakel. Die begrip word dikwels gebruik om na 'n solenoïed aangedrewe
+   klep te verwys, wat 'n geïntegreerde toestel is met 'n elektromeganiese
+   solenoïed wat of 'n hidrouliese- of pneumatiese klep aan te dryf of 'n
+   skakelaar wat 'n spesifieke soort relê is wat 'n elektromeganiese
+   solenoïed gebruik om 'n elektriese skakelaar aan te dryf; die aansitter
+   solenoïede in motorvoertuie is 'n voorbeeld van 'n lineêre solenoïed
+   wat die knormoer aan die vliegwielrat verbind tydens die aansitproses.
+   Kategorie: Elektromeganiese toestelle
+

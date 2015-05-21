@@ -1,0 +1,135 @@
+Skaal van Pauling
+
+
+                         CAPTION: Skaal van Pauling
+
+            2,1
+             H                                                 -
+                                                               He
+            1,0
+            Li 1,5
+               Be                               2,0
+                                                 B 2,5
+                                                    C 3,0
+                                                       N 3,5
+                                                          O 4,0
+                                                             F -
+                                                               Ne
+            0,9
+            Na 1,2
+               Mg                               1,5
+                                                Al 1,8
+                                                   Si 2,1
+                                                       P 2,5
+                                                          S 3,0
+                                                            Cl -
+                                                               Ar
+            0,8
+             K 1,0
+               Ca 1,3
+                  Sc 1,5
+                     Ti 1,6
+                         V 1,6
+                           Cr 1,5
+                              Mn 1,8
+                                 Fe 1,8
+                                    Co 1,8
+                                       Ni 1,9
+                                          Cu 1,6
+                                             Zn 1,6
+                                                Ga 1,8
+                                                   Ge 2,0
+                                                      As 2,4
+                                                         Se 2,8
+                                                            Br -
+                                                               Kr
+            0,8
+            Rb 1,0
+               Sr 1,3
+                   Y 1,4
+                     Zr 1,6
+                        Nb 1,8
+                           Mo 1,9
+                              Tc 2,2
+                                 Ru 2,2
+                                    Rh 2,2
+                                       Pd 1,9
+                                          Ag 1,7
+                                             Cd 1,7
+                                                In 1,8
+                                                   Sn 1,8
+                                                      Sb 1,9
+                                                         Te 2,5
+                                                             I -
+                                                               Xe
+            0,7
+            Cs 0,9
+               Ba    1,3
+                     Hf 1,5
+                        Ta 1,7
+                            W 1,9
+                              Re 2,2
+                                 Os 2,2
+                                    Ir 2,2
+                                       Pt 2,4
+                                          Au 1,9
+                                             Hg 1,8
+                                                Tl 1,8
+                                                   Pb 1,9
+                                                      Bi 2,0
+                                                         Po 2,2
+                                                            At -
+                                                               Rn
+            0,7
+            Fr 0,9
+               Ra     ?
+                     Rf  ?
+                        Db  ?
+                           Sg  ?
+                              Bh  ?
+                                 Hs  ?
+                                    Mt  ?
+                                       Ds  ?
+                                          Rg  ?
+                                             Uub
+
+                1,1
+                La 1,1
+                   Ce 1,1
+                      Pr 1,2
+                         Nd  ?
+                            Pm 1,2
+                               Sm  ?
+                                  Eu 1,1
+                                     Gd 1,2
+                                        Tb ?
+                                           Dy 1,2
+                                              Ho 1,2
+                                                 Er 1,2
+                                                    Tm 1,1
+                                                       Yb ?
+                                                          Lu
+                1,1
+                Ac 1,3
+                   Th 1,5
+                      Pa 1,7
+                          U 1,3
+                            Np 1,3
+                               Pu 1,3
+                                  Am  ?
+                                     Cm  ?
+                                        Bk ?
+                                           Cf  ?
+                                              Es  ?
+                                                 Fm  ?
+                                                    Md  ?
+                                                       No ?
+                                                          Lr
+
+   Legende:
+
+   0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2 3,4
+   3,6 3,8 4,0
+
+   Kategorie: Chemie
+

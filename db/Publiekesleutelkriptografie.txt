@@ -1,0 +1,312 @@
+Publiekesleutelkriptografie
+
+
+   'n Lukrake nommer word gebruik deur die sleutel generasie funksie om
+   die private/publieke sleutelpaar te skep.
+   'n Lukrake nommer word gebruik deur die sleutel generasie funksie om
+   die private/publieke sleutelpaar te skep.
+   Enige iemand kan 'n boodskap bevielig deur dit te enkripteer deur
+   gebruik te maak van die publieke sleutel maar slegs die eienaar van die
+   private sleutel kan die boodskap dekripteer. Die private sleutel moet
+   dus geheim gehou word om die vertroulikheid te verseker.
+   Enige iemand kan 'n boodskap bevielig deur dit te enkripteer deur
+   gebruik te maak van die publieke sleutel maar slegs die eienaar van die
+   private sleutel kan die boodskap dekripteer. Die private sleutel moet
+   dus geheim gehou word om die vertroulikheid te verseker.
+
+   Publiekesleutelkriptografie (PSK), wat ook bekend staan as
+   asimmetriesekriptografie, is 'n vorm van kriptografie waar 'n gebruiker
+   'n kriptografiese sleutelpaar het, naamlik 'n publieke sleutel en 'n
+   private sleutel. Die idee is dat die private sleutel ten alle tye
+   geheim gehou word en dus slegs aan een entiteit (soos 'n gebruiker)
+   behoort en slegs daardie entiteit het toegang tot die private sleutel.
+   Die publieke sleutel, aan die ander kant, kan vrylik versprei word maar
+   tipies slegs aan die relevant partye. Hierdie twee sleutels is
+   wiskundig verwant aan mekaar maar die private sleutel kan nie op enige
+   praktiese manier afgelei word van die publieke sleutel nie. 'n
+   Boodskap, of enige data, wat deur die private sleutel enkripteer word
+   kan slegs d.m.v. die publieke sleutel van die paar dekripteer word en
+   andersom.
+
+   Geheimesleutelkriptografie, wat ook bekend staan as
+   simmetriesekriptografie, maak gebruik van slegs een geheime sleutel vir
+   beide enkripsie en dekripsie.
+
+   Die twee hoof takke van publiekesleutelkriptografie is:
+     * Publiekesleutel enkripsie - 'n boodskap wat geënkripteer word deur
+       die publieke sleutel van die ontvanger kan deur geen ander entiteit
+       gedekripteer word nie maar slegs deur die ontvanger wat wel die
+       private sleutel van die paar besit. Dit verseker vertroulikheid.
+     * Digitale handtekening - 'n boodskap wat geteken is deur die private
+       sleutel van die versender kan geverifieer word deur enige entiteit
+       wat die publieke sleutel van die sleutelpaar beskikbaar het om
+       sodoende te bewys dat die versender die boodskap gestuur het en dat
+       daar nie aan gepeuter is nie. Dit verseker geldigheid.
+
+   'n Vergelyking wat gebruik word om publiekesleutelenkripsie voor te
+   stel is dié van 'n posbus met 'n posgleufie wat deur die publiek
+   toeganklik is. Die ligging (dus die straatadres) is in wese die
+   publieke sleutel. Enige mens wat die adres ken kan daarheen gaan en 'n
+   boodskap in die gleufie gooi maar slegs die eienaar van die sleutel kan
+   die posbus oopsluit om die boodskap te lees.
+
+   Die vergelyking van 'n digitale handtekening is dié waar 'n koevert
+   geseël word deur 'n persoonlike wasseël te gebruik. Alhoewel die brief
+   deur enigiemand oopgemaak kan word identifiseer die seël die versender
+   van die posstuk.
+
+   'n Sentrale probleem van publiekesleutelkriptografie is om te bewys dat
+   die publieke sleutel geldig is en dat daar nie aan die sleutel gepeuter
+   is, of dat die sleutel nie vervang is deur 'n derde party nie. Die mees
+   algemene metode is die skep van 'n publiekesleutelinfrastruktuur (PSI)
+   waar een of meer derde partye, wat bekend staan as 'n
+   sertifiseringsoutoriteit, die eienaarskap van 'n sleutelpaar
+   sertifiseer.
+
+   Wanneer die kom by enkripsie is publiekesleutel-tegnieke heelwat meer
+   berekeningsintensief as simmetriese algoritmes. In die praktyk word
+   geheime (simmetriese) sleutels gebruik tesame met
+   publiekesleutelkriptografie om doeltreffendheidsredes. Vir enkripsie
+   gebruik die versender 'n geheimesleutel-algoritme om 'n boodskap te
+   enkripteer met 'n lukraakgegenereerde sleutel aangesien hierdie
+   operasie baie vinniger is as die publiekesleutel-tegniek. Die lukrake
+   sleutel word dan met die ontvanger se publieke sleutel geënkripteer. Om
+   die boodskap digitaal te teken word die boodskap gehuts deur 'n
+   kriptografiese hutsfunksie te gebruik. Die hutswaarde word dan
+   geënkripteer weereens deur die publieke sleutel van die ontvanger.
+   Sodra die ontvanger die boodskap kry word hierdie proses agteruit
+   herhaal. Die huts waarde word gedekripteer om te vergelyk met die huts
+   waarde wat deur die ontvanger bereken is. Sodoende kan die ontvanger
+   gerus wees dat daar nie aan die boodskap gepeuter is nie. Die boodskap
+   kan dan ook slegs deur die ontvanger gedekripteer word.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Sekuriteit
+        * 3 Praktiese oorwegings
+             + 3.1 Posdiensvergelyking
+             + 3.2 Algoritmes - twee sleutels verbind aan mekaar
+             + 3.3 Tekortkominge
+             + 3.4 Koste van berekenings
+             + 3.5 Assosieer sleutels met identiteite
+             + 3.6 Verwantskap aan reële gebeurtenisse
+                  o 3.6.1 Sleutelopskorting
+                  o 3.6.2 Verspreiding van nuwe sleutel
+                  o 3.6.3 Verspreiding van opskorting
+                  o 3.6.4 Herstel van 'n gelekte sleutel
+        * 4 Voorbeelde
+        * 5 Notas
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Vir die grootste deel van die geskiedenis van kriptografie moes 'n
+   sleutel absoluut geheim gehou word en sou daar voor gebruik van so
+   sleutel ooreengekom word oor die sleutel deur gebruik te maak van 'n
+   sekure metode wat gewoonlik nie kriptografiese was nie. 'n Voorbeeld
+   van so metode is deur persoonlik met die ander party te ontmoet of om
+   gebruik te maak van 'n koerier wat deur albei partye vertrou word. Daar
+   is natuurlik verskeie redes waarom dit in die praktyk moeilik is om op
+   sulke wyses sleutels te versprei. Publiekesleutelkriptografie is
+   ontwerp vir die spesifieke doel om sleutels uit te ruil oor 'n openbare
+   kommunikasiestelsel sonder om vooraf ooreen te kom oor die gedeelde
+   sleutel wat gebruik gaan word.
+
+   Die eerste asimetriesesleutel-algoritme is ontwerp deur James H. Ellis,
+   Clifford Cocks, en Malcolm Williamson in die vroeë 1970's toe hulle in
+   diens was van die Government Communications Headquarters (GCHQ) in die
+   Verenigde Koninkryk. Hierdie ontwerpe het later bekend gestaan as
+   Diffie-Hellman sleuteluitruiling, en 'n spesiale toepassing van RSA.
+   Die GCHQ-kriptograwe het verwys na die meganisme as "nie-geheime
+   enkripsie". Hierdie ontwikkeling is nie op daardie tydstip bekend
+   gemaak nie en die feit dat so iets ontwikkel is, is geheim gehou tot
+   1997.
+
+   'n Asimetriesesleutel-kriptostelsel is in 1976 gepubliseer deur
+   Whitfield Diffie en Martin Hellman. Hulle is sterk beïnvloed deur Ralph
+   Merkle se werk oor publiekesleutelverspreiding en het met hierdie
+   publikasie 'n metode beskikbaar gestel vir 'n publieke sleutel
+   ooreenkoms. Hierdie metode van eksponensiële sleuteluitruiling was die
+   eerste praktiese metode om 'n gedeelde geheime sleutel daar te stel oor
+   'n onsekure kommunikasiekanaal sonder om eers 'n vooraf gedeelde
+   geheime sleutel te gebruik. Merkle se publiekesleutelooreenkoms het
+   later bekend gestaan as Merkle's Puzzles en is in 1978 gepubliseer.
+
+   'n Veralgemening van Cocks se metode is herontwerp in 1977 deur Rivest,
+   Shamir and Adleman, almal op daardie stadium by MIT. Hierdie werk is
+   gepubliseer in 1978 en die algoritme het die toepaslike afkorting van
+   RSA, wat die eerste letter van elke outeur se van is, gekry. RSA maak
+   gebruik van eksponensiale modulo, wat 'n produk is van twee groot
+   priemgetalle, om enkripsie en dekripsie te doen vir beide
+   publiekesleutel-enkripsie en publiekesleutel- digitale handtekening.
+   Die sekuriteit verbonde aan RSA hou verband met die moeilikheidsgraad
+   by die faktorisering van groot heelgetalle, 'n probleem waarvoor daar
+   geen doeltreffende, of prakties vinnig genoeg, metode is nie.
+
+   Sedert die 1970's is daar reeds 'n groot verskeidenheid tegnieke vir
+   enkripsie, digitale handtekeninge, sleutelooreenkomste, ens. wat
+   ontwikkel is in die arena van publiekesleutelkriptografie.
+
+[wysig] Sekuriteit
+
+   Sekere enkripsiealgoritmes kan beskou word as veilig, of sekuur, deur
+   die moeilikheidsgraad verbonde aan die berekening van 'n wiskundige
+   probleem soos die faktorisering van die produk van twee groot
+   priemgetalle of die berekening van diskrete logaritmes. Neem kennis dat
+   die term sekuur 'n presiese wiskundige betekenis hier het en dat daar
+   verskeie betekenisvolle definisies kan bestaan aangaande wat sekuur
+   beteken binne die raamwerk van 'n betrokke enkripsieskema. Die korrekte
+   definisie is afhanklik van die konteks waarin die skema ontplooi gaan
+   word.
+
+   Geen publiekesleutel-enkripsieskema kan sekuur bly teen afluisteraars
+   met oneindige berekeningskrag nie. Sekuriteit kan dus slegs gewaarborg
+   word wanneer teenstanders oor beperkte berekeningskrag beskik en dus so
+   ook slegs vir 'n beperkte aantal jare; b.v. "hierdie skema sal nie in
+   1000 jaar ontsyfer kan word deur 'n persoonlike rekenaar nie".
+
+   Die mees voor-die-hand-liggende gebruik van publiekesleutelkriptografie
+   is vertroulikheid; 'n boodskap wat deur 'n versender geënkripteer word
+   met die gebruik van die ontvanger se publieke sleutel kan slegs deur
+   die ontvanger gedekripteer word met die gebruik van die ontvanger se
+   private sleutel. So 'n boodskap kan dus nie deur enige derde party
+   gelees word nie en verseker dus die vertroulikheid van die boodskap.
+
+   Publieke sleutel digitale handtekeninge kan gebruik word vir
+   geldigheidsvasstelling en nie-ontkenning. Byvoorbeeld, 'n gebruiker kan
+   'n boodskap enkripteer deur gebruik te maak van 'n private sleutel en
+   dit stuur. Indien 'n ander gebruiker die boodskap kan dekripteer deur
+   gebruik te maak van die publieke sleutel van die sender se sleutelpaar
+   beteken dit dat slegs die eerste gebruiker die boodskap kon enkripteer
+   en dus is die boodskap sonder twyfel deur daardie gebruiker gestuur. In
+   die praktyk kan die versender 'n hutswaarde bereken vir die boodskap en
+   dít enkripteer met die private sleutel. Die ontvanger kan dan die
+   integriteit van die boodskap toets deur die geënkripteerde hutswaarde
+   te dekripteer en te vergelyk met sy eie hutswaarde wat bereken is deur
+   dieselfde hutsalgoritme te gebruik. Indien die hutswaardes nie
+   ooreenstem nie beteken dit dat daar aan die boodskap, wat deur die
+   versender geteken is, gepeuter is of die sender is nie die persoon wat
+   beweer word nie.
+
+   Om geldigheidsvasstelling, nie-ontkenning en vertroulikheid te verseker
+   kan die versender eers die boodskap enkripteer deur sy eie private
+   sleutel te gebruik en dan weer deur die publieke sleutel van die
+   ontvanger te gebruik. Die ontvanger dekripteer dan die boodskap eers
+   met sy private sleutel en dan met die publieke sleutel van die
+   versender. Twee sletuelpare word dus in so operasie gebruik.
+
+[wysig] Praktiese oorwegings
+
+[wysig] Posdiensvergelyking
+
+   Hansie en Grietjie wil geheime boodskappe uitruil deur gebruik te maak
+   van die publieke posdiens. So Griejtie wil 'n geheime boodskap stuur
+   aan Hansie en dan wil Hansie sy geheime terugvoer gee.
+
+   'n Simmetriesesleutel-stelsel kan ingespan word. Hansie sowel as
+   Grietjie het 'n identiese sleutel vir 'n slot. Hulle sal dus bymekaar
+   moet kom om die sleutel uit te ruil of die sleutel stuur d.m.v. die
+   posdiens of 'n koerierdiens; in welke geval dit moontlik is dat die
+   sleutel gedupliseer kan woord deur hierdie tussengangers. Grietjie
+   skryf haar boodskap en plaas dit in 'n boks en sluit dit met die slot.
+   Die boks word dan oor die posdiens gestuur en die boodskap is veilig.
+   Hansie ontvang die boks en gebruik sy identiese sleutel om die slot oop
+   te sluit en hy het toegang tot die boodskap. Hansie kan op sy beurt sy
+   terugvoer skryf en dit weer in die boks plaas en sluit en dan hanteer
+   die openbare posdiens weer die versending.
+
+   Dan is daar die asimmetriese sleutel stelsel waar Hansie en Grietjie
+   elk hul eie slot het. Om mee te begin vra Grietjie vir Hansie om sy oop
+   slot aan haar te stuur oor die pos. Hansie hou dus sy sleutel by hom.
+   hansie plaas dan haar boodskap in die boks en sluit die boks met Hansie
+   se slot. Sy stuur dan die geslote boks aan Hansie waar hy dit op sy
+   beurt oop sluit met sy sleutel en die boodskap lees. Om te antwoord het
+   Hansie weer Grietjie se oop slot nodig om aan haar 'n geheime boodskap
+   te stuur.
+
+   Die voordeel van 'n asimmetriese stelsel is dat Hansie en Grietjie
+   nooit hul sleutels aan mekaar hoef te stuur nie. Dit verhoed dat 'n
+   derde party soos 'n korrupte poswerker 'n duplikaat van die sleutel
+   maak terwyl dit gestuur word om sodoende te spioeneer op alle
+   boodskappe tussen die twee in die toekoms. In die geval van die
+   publieke sleutel hoef Hansie en Grietjie nie die posdiens te veel te
+   vertrou nie. Indien Hansie toelaat dat iemand sy private sleutel
+   dupliseer, of dit word gesteel, kan die houer van die duplikaat
+   Grietjie se boodskappe lees. Boodskappe van Grietjie aan ander partye
+   is nog veilig aangesien sy in elke geval die betrokke party se slot sou
+   gebruik.
+
+[wysig] Algoritmes - twee sleutels verbind aan mekaar
+
+   'n Sleutelpaar bestaan dus uit 'n private sleutel en 'n publieke
+   sleutel. In ons voorbeeld tot dus ver is die slot die publieke sleutel
+   en die sleutel om die slot mee te open die private sleutel. In 'n
+   sekure asimetriese kriptografiese stelsel is dit nie moontlik om die
+   private sleutel vanaf die publieke sleutel af te lei nie, of andersom.
+   So 'n stesel word publieke sleutel enkripsie genoem aangesien 'n
+   enkripsie sleutel versprei kan word sonder om die sekuriteit van
+   boodskap wat deur hierdie sleutel geënkripteer is in gedrang te bring.
+
+   Indien ons die bostaande vergelyking gebruik kan Hansie dalk die planne
+   versprei oor hoe om 'n slot (die publieke sleutel) te bou maar dit is
+   ook nie moontlik om die sleutel (die private sleutel) vir die betrokke
+   slot te bou nie. Dan kan sekure boodskappe aan Hansie gestuur word en
+   hy gebruik dan sy private sleutel om dit te besigtig.
+
+   Die teendeel is ook waar. Indien 'n boodskap deur die private sleutel
+   geënkripteer is kan dit slegs deur die publieke sleutel gedekripteer
+   word. Dit is handig in situasies waar vertoulikheid nie die hoofdoel is
+   nie maar eerder integriteit, geldigheid, of deursigtigheid soos in die
+   geval van digitale handtekeninge.
+
+[wysig] Tekortkominge
+
+   Daar is altyd die moontlikheid dat iemand Hansie of Grietjie se slotte
+   kan oopsteek. Daar is geen publieke sleutel skema wat 100% onomseilbaar
+   is nie omdat almal uitgewerk kan word deur brutekrag sleutel soektog
+   aanvalle. Sulke aanvalle is onprakties wanneer die berekeningskrag wat
+   benodig word om sukses te behaal (iets wat Claude Shannon werkfaktor
+   noem) buite die bereik van die potensiële aanvallers is. Die werkfaktor
+   kan verhoog word deur eenvoudig 'n langer sleutel te kies. Daar is
+   ander tipes aanvalle wat meer doeltreffend is en van hulle is bekend
+   daarvoor dat hulle goed werk teen spesifieke algoritmes. RSA en ElGamal
+   enkripsie is twee voorbeelde van algoritmes wat meer doeltreffende
+   onsyferingsmetodes het as die brute krag opsie.
+
+   In die praktyk kan hierdie tekortkominge oorbrug word deur sleutel
+   groottes van genoegsame lengte te kies dat die tyd en geld verbonde aan
+   die breek van die sleutel net nie die moeite wer is vir die aanvaller
+   nie. Byvoorbeeld: indien die skatting om 'n sleutel te ontleed dui
+   daarop dat dit een duisend jaar sal duur en hierdie sleutel word
+   gebruik om kredietkaartinligting sekuur te berg sal die inligting
+   veilig wees aangesien die tyd wat dit sal neem om die sleutel te
+   ontleed, om by die inligting uit te kom, langer sal duur as wat die
+   inligting nuttig is. Tipies is die sleutel lengtes wat gebruik word vir
+   publiekesleutelenkripsie heelwat langer as vir simetriese metodes.
+
+[wysig] Koste van berekenings
+
+[wysig] Assosieer sleutels met identiteite
+
+[wysig] Verwantskap aan reële gebeurtenisse
+
+[wysig] Sleutelopskorting
+
+[wysig] Verspreiding van nuwe sleutel
+
+[wysig] Verspreiding van opskorting
+
+[wysig] Herstel van 'n gelekte sleutel
+
+[wysig] Voorbeelde
+
+[wysig] Notas
+
+[wysig] Verwysings
+
+[wysig] Eksterne skakels
+
+   Kategorieë: Kriptografie • Toegepaste wiskunde
+

@@ -1,0 +1,38 @@
+Elektriese geleier
+
+
+   In wetenskap en ingenieurswese is geleiers materiale wat bewegende
+   elektriese ladings bevat. Wanneer 'n elektriese potensiaalverskil oor
+   twee afsonderlike punte opgestel word in 'n geleier, word die ladings
+   gedwing om te beweeg en ontstaan 'n elektriese stroom tussen daardie
+   twee punte in ooreenstemming met Ohm se wet. Alhoewel baie geleiers
+   metaalagtig is, bestaan daar baie geleiers wat nie-metale is en sluit
+   onder andere alle plasmas in. Raadpleeg die artikel oor elektriese
+   geleiding vir meer inligting oor die fisiese meganisme betrokke by die
+   vloei van ladings in materiale.
+
+   Onder normale omstandighede bied alle materiale 'n mate van weerstand
+   teen die vloei van ladings en daarom word warmte vrygestel in die
+   proses. Die korrekte ontwerp van 'n elektriese geleier sluit 'n raming
+   in van die temperatuur waarteen die geleier verwag word om te werk
+   sonder dat dit beskadig word, asook die verwagte hoeveelheid stroom wat
+   dit gaan dra. Die beweging van ladings veroorsaak ook 'n
+   elektromagnetiese veld rondom die geleier wat 'n radiale meganiese
+   drukkrag op die geleier uitoefen. 'n Geleier van 'n gegewe materiaal en
+   volume (lengte x deursnee-oppervlak) het geen werklike beperking op die
+   stroom wat dit sonder skade kan dra nie, solank die hitte wat deur die
+   weerstandsverliese ontwikkel word verwyder word en die geleier die
+   radiale kragte kan weerstaan. Hierdie effek is veral krities in
+   gedrukte stroombane, waar geleiers relatief klein is en die hitte wat
+   sodoende ontwikkel word baie geredelik daartoe kan lei dat die bane
+   smelt.
+
+   Nie-geleidende materiale laat nie ladings daarbinne beweeg nie en word
+   isolatore genoem. 'n Materiaal wat 'n elektriese geleier is hoef nie
+   noodwendig 'n termiese geleier te wees nie, alhoewel 'n metaal
+   gewoonlik beide 'n elektriese- en termiese geleier kan wees. Elektries
+   geleidende materiale word gewoonlik geklassifiseer volgens hulle
+   elektriese weerstand; wat wissel van baie hoog tot geen weerstand, dan
+   is daar halfgeleiers, gewone metaalgeleiers asook supergeleiers.
+   Kategorie: Elektrisiteit
+

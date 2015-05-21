@@ -1,0 +1,574 @@
+Wallies
+
+
+   Tweetalige padtekens in Wallis
+   Tweetalige padtekens in Wallis
+
+   Wallies (Wallies: y Gymraeg) behoort tot die Eiland-Keltiese tak van
+   die Keltiese tale. Wallies word deur moedertaal sprekers in die
+   westelike deel van Brittanje bekend as Wallis (Wallies: Cymru), en in
+   die Chubut Vallei, 'n Walliese immigrante gemeenskap in Patagonië in
+   Argentinië, gepraat. Daar is ook sprekers in oor die hele wêreld
+   vernaamlik in Engeland, die VSA en Australië. In 2001 is dit deur
+   20,5 % van die bevolking in Wallis gepraat, 'n styging van 2% sedert
+   1991.
+
+   Die taal moet nie verwar word met die Kymriese dialekte, die Engelse
+   (en dus Germaanse) dialekte wat in Wallis gepraat word nie.
+
+   Die Engelse woord Welsh is afkomstig van die Oud-Engelse woord wealisc,
+   die byvoeglike naamwoord vir wealh, wat in Oud-Engels beteken het
+   "vreemdeling, buitelander".^[1]
+
+   Wallies kom vir iemand wat die taal nie ken nie as volstrek onlogies en
+   onuitspreekbaar voor. Die Walliese grammatika en uitspraak is egter
+   juis baie konsekwent. Die op twee na langste pleknaam ter wêreld is in
+   Wallies: Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.
+   Dit is 'n samestelling wat staan vir: die kerk van die heilige Maria in
+   die holte van wit haselneutbome naby die draaikolk by Sint Tysilio se
+   rooi grot.
+
+   Literêre tekste in Wallies bestaan sedert 1100. Tans is daar 'n
+   bloeiende literatuur in Wallies.
+
+                                         Let wel: Hierdie bladsy bevat IFA
+                                             fonetiese simbole in Unicode.
+                                                       Kyk IFA in Unicode.
+
+   Inhoud
+
+        * 1 Status
+        * 2 Geskiedenis en ontwikkeling
+        * 3 Grammatika
+             + 3.1 Fonologie
+             + 3.2 Morfologie
+                  o 3.2.1 Aanvanklike konsonant mutasie
+                  o 3.2.2 Die lidwoord
+                  o 3.2.3 Selfstandige naamwoorde
+                  o 3.2.4 Byvoeglike naamwoorde
+                  o 3.2.5 Voornaamwoorde
+                  o 3.2.6 Werkwoorde
+                  o 3.2.7 Voorsetsels
+             + 3.3 Ander eienskappe van Walliese grammatika
+        * 4 Dialekte
+        * 5 Walliese in die onderwys en opvoeding
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Status
+
+   Die 2001 sensus het die aantal Walliese sprekers in Wallis op 20,5% ('n
+   styging van 2% op die 18,5% in 1991), uit 'n bevolking van ongeveer 3
+   miljoen; dieselfde sensus dui ook aan dat 25% van die inwoners buite
+   Wallis gebore is. Die aantal sprekers in die res van Brittanje is
+   onseker, maar getalle is hoog in groot stede langs die grens tussen
+   Engeland en Wallis.
+
+   Selfs onder Wallies-sprekers, is baie min inwoners van Wallis
+   enkeltalig in Wallies. 'n Groot aantal Wallies-sprekers is egter
+   gemakliker daarmee om hulle in Wallies uit te druk as in Engels. 'n
+   Spreker se taalkeuse kan afhang van die konteks of onderwerp. (in
+   linguïstiek bekend as kodeskakeling).
+
+   Alhoewel Wallies 'n minderheidstaal is en dus bedreig word deur die
+   oorheersing van Engels, het ondersteuning vir die taal in die tweede
+   helfte van die 20ste eeu, tesame met die opkoms van nasionalistiese
+   politiese organisasies soos die politieke party Plaid Cymru en
+   Cymdeithas yr Iaith Gymraeg (die Walliese taalvereniging), gegroei.
+
+   As eerste taal word Wallies veral in die meer landelike noorde en weste
+   van Wallis aangetref, veral in Gwynedd, Denbighshire, Merioneth,
+   Anglesey (Ynys Môn), Carmarthenshire, Noord-Pembrokeshire, Ceredigion,
+   en dele van westelike Glamorgan. Eerstetaalsprekers en ander mense, wat
+   die taal vlot kan praat, word egter ook elders in Wallis aangetref.
+
+   Wallies is beslis 'n lewendige taal. Dit word daagliks deur duisende
+   sprekers as omgangstaal gebruik en Wallies is sigbaar orals in Wallis.
+   Die Walliese Taalwet 1993 en die regering van Wallis Wet 1998 maak
+   daarvoor voorsiening dat Wallies en Engels op gelyke voet behandel moet
+   word. Openbare liggame word verplig om 'n Walliese taalskema voor te
+   berei en te implementeer. Lokale owerhede en die Walliese volksraad
+   gebruik Wallies as amptelike taal en publiseer amptelike literatuur en
+   publisiteit in Walliese weergawes (byvoorbeeld briewe aan ouers van
+   skole, biblioteeksinligting en stadsraadsinligting) en alle padtekens
+   in Wallis moet in Engels en Wallies gegee word, insluitend die Walliese
+   weergawe van plekname (alhoewel sommige onlangse vertalings van Engelse
+   name is).
+
+   Wallies het ook 'n noemenswaardige teenwoordigheid op die Internet,
+   maar dit leun strek na openbare liggame: die verhouding van soekenjin
+   treftempo's vir Walliese woorde teenoor hulle Engelse ekwivalente neig
+   na ongeveer 0.1% vir formele terme soos addysg/ondrewys,
+   cymdeithas/samelewing of llywodraeth/regering, maar na slegs ongeveer
+   0.01% vir alledaagse terme soos buwch/koei, eirlaw/ysreen of
+   cyllell/mes.
+
+   Die VK regering het die Europese verdrag vir streeks- en
+   minderheidstale ten opsigte van Wallies bekragtig.
+
+   Die taal se belangrikheid het aansienlik gestyg sedert die daarstel van
+   'n televisiekanaal S4C, wat eksklusief in Wallies uitsaai, in November
+   1982. Die hoof-aandnuus, wat deur die BBC verskaf word, kan aangetref
+   word by [1] (Real Media).
+
+   Gegee die Britse regering se planne (Desember 2001) om te verseker dat
+   alle immigrante Engels magtig moet wees, sal daar gewag moet word om te
+   sien of Wallies as 'n spesiale geval beskou gaan word. Op die oomblik
+   is kennis van of Wallies, Engels of Scots Gaelies voldoende vir
+   naturalisasie-doeleindes, en daar word geglo dat die beleid gehandhaaf
+   sal word in enige veranderings in die wet.
+
+[wysig] Geskiedenis en ontwikkeling
+
+   Die oudste bekende bronne, wat as Wallies geïdentifiseer is, dateer uit
+   sover as die 6de eeu terug. Die taal uit hierdie tydperk word ook
+   Vroeg-Wallies genoem. Hiervan het weinig oorgebly. Van die 9de tot die
+   11de eeu word Oud-Wallies gepraat. Dit was die taal van die wette van
+   Hywel Dda, en die digkuns van beide Wallis en Skotland. Soos die
+   Anglo-Saksiese kolonisasie van Groot-Brittanje gevorder het, is die
+   Keltiese sprekers in Wallis geskei van dié in noordelike Engeland, wat
+   Cumbries gepraat het en dié in die suid-weste, wat die taal gepraat
+   het, wat tot Kornies ontwikkel het, en so veroorsaak dat die tale
+   gedivergeer het.
+
+   Van die 12de tot die 14de eeu kan 'n mens praat van Middel-Wallies (of
+   Cymraeg Canol), waarvan meer oorbly as uit enige ander tydperk. Dit is
+   die taal van byna alle oorlewende vroeë manuskripte van die Mabinogion,
+   alhoewel die verhale self beslis baie ouer is. Middel-Wallies is
+   redelik verstaanbaar, alhoewel met 'n bietjie moeite, vir 'n moderne
+   Wallies-spreker.
+
+   Moderne Wallies kan in twee tydperke verdeel word. Van die 14e tot die
+   16e eeu word 'n Vroeg-Modern-Wallies, wat deur Dafydd ap Gwilym gebruik
+   is, en daarna 'n Laat-Modern-Wallies gepraat, wat begin met die
+   bybelvertaling van William Morgan in 1588. Soos met die Engelse
+   eweknie, die Koning James Weergawe, het die Bybel 'n stabiliserende
+   involed op die taal gehad en het die hedendaagse taal nog steeds die
+   selfde Laat Moderne etiket van Morgan se taal. Uiteraard het daar
+   daarna nog klein veranderinge met die taal gebeur, soos altyd in
+   lewende tale.
+
+[wysig] Grammatika
+
+[wysig] Fonologie
+
+   Letter(s) IFA     Naam
+   a         a       â
+   b         b       bi
+   c         k       ec
+   ch        x       ech
+   d         d       di
+   dd        ð       edd
+   e         ɛ       ê
+   f         v       ef
+   ff        f       eff
+   g         g       eg
+   ng        ŋ       eng
+   h         h       hets
+   i         ɪ       î
+   l         l       el
+   ll        ɬ       ell
+   m         m       em
+   n         n       en
+   o         ɔ       ô
+   p         p       pi
+   ph        f       ffi, yff
+   r         r       ri
+   rh        r̥      rhi
+   s         s       es
+   t         t       ti
+   th        θ       eth
+   u         ɨ, i    û
+   w         ʊ       ŵ
+   y         ɨ, i, ə ŷ
+     * h dui [ʰ] in mh, nh, en ngh aan.
+     * ph word slegs as 'n produk van aspiraat mutasie.
+     * y dui [ə] in eenlettergrepige woorde of nie-finale lettergrepe aan,
+       maar [ɨ] of [i] orals anders.
+     * u en y word gewoonlik uitgespreek[ɨ] in Noord-Wallis en [i] in
+       Suid-Wallis.
+     * si dui [ʃ] aan as dit deur 'n vokaal gevolg word.
+
+   Vokale kom ook in lang variante voor; die word baiekeer met 'n kappie
+   aangedui.
+   Letter IFA
+   â      aː
+   ê      eː
+   î      iː
+   ô      oː
+   û      ɨː, iː
+   ŵ      uː
+   ŷ      ɨː, iː
+
+   Wallies het ook diftonge:
+   Letters IFA
+   ae      a[DEL: ɪ :DEL]
+   ai      aɪ
+   au      aɪ maar in meervoud einde a, e
+   aw      aʊ
+   ei      əɪ
+   eu      ə[DEL: ɪ :DEL] , əɪ
+   ew      ɛʊ
+   ey      ə[DEL: ɪ :DEL] , əɪ
+   oe      ɔ[DEL: ɪ :DEL]
+   oi      ɔ[DEL: ɪ :DEL]
+   ou      ɔ[DEL: ɪ :DEL] , ɔɪ
+   ow      ɔ[DEL: ɪ :DEL]
+   uw      [DEL: ɪ :DEL] ʊ, [DEL: ɪ :DEL] ʊ
+   wy      ʊ[DEL: ɪ :DEL]
+   yw      [DEL: ɪ :DEL] ʊ, [DEL: ɪ :DEL] ʊ
+     * Die uitspraak aan die linkerkant word in Noord-Wallis gebruik, die
+       regterkantste uitspraak in Suid-Wallis.
+
+   Die volgende word net in leenwoorde gebruik:
+   Letter IFA
+   j      /dʒ/
+   ts     /tʃ/
+
+   Die klem val in gesproke Wallies amper altyd op die tweede laaste
+   lettergreep van 'n woord; die paar uitsonderings word aangedui deur 'n
+   akuutaksent (´), e.g. ffarwél.
+
+   'n Deelteken (¨) op 'n vokaal dui aan dat dit ten volle uitgespreek
+   word en nie as deel van 'n diftong nie, e.g. copïo (om 'n kopie te
+   maak) – uitgespreek [kɔˈpiːɔ], nie *[ˈkɔpjɔ] nie.
+
+   Wallies gebruik ook die grafis (dalende aksent) om vokale as kort te
+   merk, as die vokaal normaalweg lank uitgespreek sou word, e.g. pas
+   [paːs] n hoes', pàs [pas] n pas/permit'; mwg [muːg] 'a smoke', mẁg
+   [mʊg] n beker' [2].
+
+   Die klemplasing kan veroorsaak dat verwante woorde en konsepte (selfs
+   meervoude) heel verskillend kan klink, omdat lettergrepe aan die einde
+   van die woord gelas word en die klem dienooreenkomstig skuif e.g.:
+     * Ysgrif — [ˈəsgriv] - 'n artikel of storie <!—or essay-->
+     * Ysgrifen — [əsˈgriven] – skryf
+     * Ysgrifeniadau — [əsgriveˈnjada] - geskrifte
+     * Ysgrifenedig — [əsgriveˈnedig] - geskrewe
+     * Ysgrifennu — [əsgriˈvenɨ] - om te skryf
+     * Ysgrifennydd — [əsgriˈvenɨð] - 'n sekretaris
+     * Ysgrifennyddes — [əsgriveˈnəðes] – 'n sekretaresse
+     * Ysgrifenyddion — [əsgriveˈnəðjon] – sekretarisse of sekretaresses
+
+   (Let op hoe die toevoeging van 'n lettergreep aan ysgrifennydd om
+   ysgrifennyddes te vrom verander die uitspraak van die tweede "y". Dit
+   is omdat die uitsprak van "y" daarvan afhang of dit die finale
+   lettergreep is of nie.)
+
+   Die verband tussen die Walliese woord ysgrif en die Latynse woord
+   scribo 'Ek skryf', waarvan dit afgelei is, is redelik duidelik, as
+   diachroniese klankverskuiwing in ag geneem word.
+
+[wysig] Morfologie
+
+[wysig] Aanvanklike konsonant mutasie
+
+   Aanvanklike konsonant mutasie is 'n taal verskynsel wat in alle
+   Keltiese tale aangstref word.
+
+   Die eerste letter van 'n woord in Wallies verander afhangend van die
+   grammatikale konteks (soos wanneer die voorwerp direk op die onderwerp
+   volg), of wanneer dit deur seker woorde, e. g. i, yn, en a voorafgegaan
+   word. Wallies het drie mutasies: die sagte mutasie, die nasale mutasie,
+   en die aspiratiewe mutasie:
+   Wortel Sag Nasaal Aspiraat
+   p      b   mh     ph
+   b      f   m
+   t      d   nh     th
+   d      dd  n
+   c      g   ngh    ch
+   g      Ø*  ng
+   m      f
+   ll     l
+   rh     r
+
+   'n Leë sel dui aan dat die letter nie geaffekteer word nie.
+
+   By voorbeeld, die woord vir klip is carreg, maar "die klip" is y garreg
+   (sagte mutasie), "my klip" is fy ngharreg (nasale mutasie) en "haar
+   klip" is ei charreg (aspiratiewe mutasie). Die voorbeelde toon gebruik
+   in die standaard taal aan; die sagte mutasie is stadigaan besig om die
+   nasale en aspiratiewe mutasies te vervang aangesien die meganismes
+   waarop die mutasies gegrond is nie meer verstaan word nie. Deesdae word
+   die aspiratiewe mutasies eintlik net uitgevoer in omgangstaal vir
+   woorde wat met C begin en is dit in sommige gebiede heeltemal onbekend.
+   Die nasale mutasie word tans net in twee gevalle gebruik en word ook
+   deur die sagte mutasie vervang.
+
+   *Die sagte nutasie vir g is die eenvoudige skrap van die aanvanklike
+   klank. Byvoorbeeld, gardd "tuin" word yr ardd "die tuin".
+
+[wysig] Die lidwoord
+
+   Wallies het nie 'n onbepaalde lidwoord nie. Die bepaalde lidwoord, wat
+   die woord voorafgaan wat dit verander, en gebruik verskil in die geheel
+   baie min van Afrikaans, dit het die vorme y, yr, en 'r. Die reëls wat
+   die gebruik bepaal is:
+     * As die woord met 'n vokaal begin word, yr gebruik, e.g. yr ardd.
+     * As die vorige woord op 'n vokaal eindig, word 'r gebruik,
+       onafhanklik van die aard van die woord wat daarop volg, e.g. mae'r
+       gath tu allan. Die reël kry voorkeu oor die ander twee.
+     * In alle ander gevalle word, y gebruik, e.g. y bachgen.
+
+   Die lidwoord gee aanleiding tot die sagte nutasie as dit saam met
+   vroulike selfstandige naamwoorde in die enkelvoud gebruik word, e.g.
+   tywysoges '(a) prinses' maar y dywysoges 'die prinses'.
+
+[wysig] Selfstandige naamwoorde
+
+   Soos meeste ander Indo-Europese tale (maar nie Afrikaans en Engels
+   nie), behoort alle selfstandige naamwoorde tot 'n grammatikale geslag.
+   In Wallies is daar twee geslagte: manlik en vroulik. Behalwe vir
+   selfstandige naamwoorde waarvan die geslag duidelik is uit die
+   betekenis (b.v. mam 'moeder' is vroulik), is daar geen patroon nie en
+   moet geslag maar saam met die woord geleer word..
+
+   In Wallies is daar twee grammatikale getalle. Daar is enkel/meervoud
+   selfstandige naamwoorde wat ooreenkom met die enkelvoud/meervoud in
+   Afrikaans. Meervoude is onvoorspelbaar en word op verskeie maniere
+   gevorm. Sommige selfstandige naamwoorde word gevorm deur 'n woordeinde
+   (gewoonlik -au), b.v.. tad en tadau. Ander vorm die meervoud deur die
+   vokaal te verander b.v. bachgen en bechgyn. In ander gevalle word 'n
+   kombinasie van die twee meervoudsvorme gebruik b.v. chwaer en
+   chwiorydd.
+
+   Die ander getalstelsel is die kollektief/eenheid stelsel. Die
+   selfstandige naamwoorde in die stelsel vorm die enkelvoud deur die
+   woordeinde -yn (vir manlike woorde) or -en (vir vroulike woorde) in die
+   meervoud toe te voeg. Meeste selfstandige naamwoorde wat tot die
+   stelsel behoort word in groepe aangetref, by voorbeeld, plant 'kinders'
+   en plentyn n kind', of coed 'woud' en coeden n boom'. In woordeboeke
+   word die meervoud baiekeer eerste gegee.
+
+   Genitiewe verwantskappe word uitgedruk deur apposisie
+   (naasmekaarstelling). Die genitief in Wallies word gevorm deur twee
+   naamwoordfrases langsmekaar te plaas, die besitter tweede. So Afrikaans
+   "Die kat se moeder", of "moeder van die kat", stem ooreen met die
+   Wallies mam y gath — letterlik, "moeder die kat"; "die man se kar se
+   vensters" is ffenestri car y dyn — letterlik, "vensters kar die man".
+   In Wallies neem die ding wat besit word nooit 'n lidwoord nie.
+
+[wysig] Byvoeglike naamwoorde
+
+   In Wallies volg byvoeglike naamwoorde gewoonlik die selfstandige
+   naamwoord wat hulle beskryf, terwyl sommige soos hen, pob, en holl dit
+   voorafgaan. Meeste byvoeglike naamwoorde word nie verbuig nie. Daar is
+   egter 'n paar wat manlik/vroulik onderskeid of enkelvoud/meervoud
+   behou. Na vroulike enkelvoud selfstandige naamwoorde ondergaan
+   byvoeglike naamwoorde sagte mutasie.
+
+   Byvoeglike naamwoord trappe van vergelyking is redelik soortgelyk aan
+   die Afrikaanse stelsel. Byvoeglike naamwoorde met een of twee
+   lettergrepe kry die woordeindes -ach '-er' en -a '-est', e. g. bannog
+   'hoog', bannogach 'hoër', bannoga 'hoogste.' Byvoeglike naamwoord met
+   meer as twee lettergrepe gebruik die woorde mwy 'meer' en mwya 'mees',
+   b.v. teimladwy 'sensitief', mwy teimladwy 'meer sensitiewe', mwya
+   teimladwy 'mees sensitiewe'. Byvoeglike naamwoorde met twee lettergrepe
+   kan in enige van die twee rigting gaan.
+
+   Die besitlike byvoeglike naamwoorde in Wallies is:
+                         Enkelvoud Meervoud
+      Eerste Persoon     fy (n)    ein
+      Tweede Persoon     dy (s)    eich
+   Derde Persoon Manlik  ei (s)       eu
+                 Vroulik ei (a)
+
+   Die besitlike byvoeglike naamwoorde gaan die selfstandige naamwoord wat
+   hulle beskryf vooraf, wat baiekeer gevolg word deur die ooreenkomstige
+   vorm van die persoonlike voornaamwoord b.v. fy mara i 'my brood', dy
+   fara di 'Jou brood', ei fara fe 'sy brood', ens.
+
+   Die demonstratiewe byvoeglike voornaamwoorde is 'ma 'hierdie' en 'na
+   'daardie'. Hulle volg die selfstandige naamwoord wat hulle beskryf, wat
+   ook die lidwoord neem. By voorbeeld, y llyfr 'die boek', y llyfr 'ma
+   'hierdie boek', y llyfr 'na 'Daardie boek'.
+
+[wysig] Voornaamwoorde
+
+   Die Walliese voornaamwoorde is:
+                         Enkelvoud Meervoud
+      Eerste Persoon     i         ni
+      Tweede Persoon     ti, di    chi
+   Derde Persoon Manlik  e, o        nhw
+                 Vroulik hi
+
+[wysig] Werkwoorde
+
+   In Wallies word die meeste tydsvorme met behulp van 'n hulpwerkwoord
+   gevorm, gewoonlik bod 'om te wees.' Dit word onreëlmatig vervoeg:
+   Deklaratief (Ek is) Interrogatief (Is ek?) Negatief (Ek is nie)
+   Enkelvoud Meervoud Enkelvoud Meervoud Enkelvoud Meervoud
+   Teenwoordig Eerste Persoon dw dyn ydw? ydyn? dw dyn
+   Tweede Persoon (r)wyt dych wyt? ydych? dwyt dych
+   Derde Persoon mae maen ydy? ydyn? dydy dydyn
+   Verlede Eerste Persoon bues buon fues? fuon? fues fuon
+   Tweede Persoon buest buoch fuest? fuoch? fuest fuoch
+   Derde Persoon buodd buon fuodd? fuon? fuodd fuon
+   Imperfek Eerste Persoon roeddwn roedden oeddwn? oedden? doeddwn doedden
+   Tweede Persoon roeddet roeddech oeddet? oeddech? doeddet doeddech
+   Derde Persoon roedd roeddyn oedd? oeddyn? doedd doeddyn
+   Toekoms Eerste Persoon bydda byddwn fydda? fyddwn? fydda fyddwn
+   Tweede Persoon byddi byddwch fyddi? fyddwch? fyddi fyddwch
+   Derde Persoon bydd byddan fydd? fyddan? fydd fyddan
+     * ddim (nie) word na die voornaamwoord gevoeg vir negatiewe vorms van
+       bod.
+     * Daar is baie dialektiese variasies van die werkwoord.
+     * Omgangstaal imperfektydvorms is o'n i, o't ti, oedd e/hi, o'n ni,
+       o'ch chi en o'n nhw. Dit word vir verklarende, vraende en negatiewe
+       vorms gebruik. .
+     * Wallies is ongewoon in die sin dat dit geen vaste woorde vir ja en
+       nee nie. Die relevant deel van die werkwoord bod word in plek
+       daarvan gebruik b.v.: Ydych chi'n hoffi coffi? (Hou jy van koffie)
+       dan volg of Dw (Ek is = Ek doen = Ja) of Dw ddim (Ek is nie = Ek
+       doen nie = Nee)
+
+[wysig] Voorsetsels
+
+   In Wallies verander die voorsetsel baiekeer van vorm as dit deur 'n
+   voornaamwoord gevolg word. Dit staan as verboë voorsetsel bekend.
+   Meeste soos dan, volg dieselfde basiese patroon:
+                         Enkelvoud  Meervoud
+      Eerste Persoon     dana i     danon ni
+      Tweede Persoon     danat ti   danoch chi
+   Derde Persoon Manlik  dano fe/fo danyn nhw
+                 Vroulik dani hi
+
+   Daar is soms dialektiese variasie veral in die eerste en tweede persoon
+   enkelvoud vrome. In sommige plekke kan mens dano i, danot ti, of danach
+   chi hoor.
+
+   Meeste voorsetsels veroorsaak sagte mutasie.
+
+[wysig] Ander eienskappe van Walliese grammatika
+
+     * Besitlikes as voorwerp voorname. Die Wallies vir "Ek hou van
+       Rhodri" is "Dw i'n hoffi Rhodri" ("I am liking Rhodri"), maar "Ek
+       hou van hom" is "dw i'n ei hoffi fe" - letterlik, "Ek is syne
+       houend van hom"; "Ek hou van jou" is "dw i'n dy hoffi di" ("Ek is
+       jou houende van jou"), ens.
+     * Aansienlike gebruik van hulpwerkwoorde. Terwyl 'n taal soos Engels
+       werkwoorde direk kan gebruik (e.g. I go = Ek Gaan) of met behulp
+       van 'n hulpwerkwoord (I am going, waar to be in die geval as
+       hulpwerkwoord gebruik word), neig Wallies sterk na die tweede
+       gebruik. In die teenwoordigetyd word alle werkwoorde met die
+       hulpwerkwoord bod (to be = om te wees) gebruik, so dwi'n mynd is
+       letterlik I am going, maar beteken eenvoudig I go = Ek gaan. In die
+       verlede tyd en toekomende tyd, is daar verboë vorms van alle
+       werkwoorde, maar dit is algemeen om in spreektaal die
+       werkwoordelike naamwoord (berfenw, rofweg ekwivalent met die
+       infinitief in ander tale) saam met die verboë vorm van gwneud (om
+       te doen) te gebruik, so Ek het gegaan kan mi es i of mi wnes i fynd
+       wees, en Ek sal gaan kan mi á i of mi wna i fynd wees. Daar is ook
+       'n toekomende tyd vorm wat die hulpwerkwoord bod gebruik om fydda
+       i'n mynd te gee (rofweg I will be going) en 'n imperfek tyd (a
+       continuous/habitual past tense) wat ook bod gebruik, met roeddwn
+       i'n mynd wat beteken I used to go/I was going.
+     * Affirmatiewe Merkers. Mi (meestal Nooord) en Fe (meestal Suid) word
+       baiekeer voor verboë werkwoorde geplaas as dit dekleratief
+       (verklarend) is. Dit is gewoonlik 'n omganstaal vorm en word selde
+       in geskrewe of formele Wallies gesien. .
+
+[wysig] Dialekte
+
+   Soos enige lewende taal het Wallies 'n aantal verskillende dialekte.
+
+   Dit is baie duidelik in die gesproke vorm en tot 'n mindere mate in die
+   geskrewe vorm. 'n Nuttig, dog effens oorvereenvoudigde, klassifikasie
+   in Noord-Walliese en Suid-Walliese vorms (of "Gog" en "Hwntw" gegrond
+   op die woord vir Noord, gogledd, en die Suid-Walliese woord vir hulle
+   daardie kant = "them over there"). Die verskil in die twee dialekte
+   sluit woordeskat, uitspraak en grammatika in, alhoewel die verskil in
+   laasgenoemde aspek, om die waarheid te sê, baie gering is.
+
+   'n Voorbeeld van die verskil tussen Noord- en Suid-Walliese gebruik sou
+   die vraag "Wil jy 'n koppie tee hê?". In die Noorde sou dit tipies wees
+   "Dach chi isio panad?", terwyl dit in die Suide meer waarskynlik "Dych
+   chi'n moyn dishgled?" sou wees. 'n Voorbeeld van uitspraak verskil
+   tussen die Noorde en die Suide is die geneigdheid van die Suidelike
+   dialekte om die letter "s" met 'n slepende tong ("lispel") uit te
+   spreek, b.v. mis, 'n maand, sou neig om as mies in die noorde
+   uitgespreek te word en as miesj in die suide.
+
+   Die verskille tussen dialekte in moderne gesproke Wallies is egter
+   klein in vergelyking met die tussen die gesproke en geskrewe taal.
+   Laasgenoemde is heelwat meer formeel en is die taal van die Walliese
+   vertaling van onder andere die Bybel, (Die Beibl Cymraeg Newydd — Nuwe
+   Walliese Bybel — is aansienlik minder formeel as die tradisionele 1588
+   Bybel). Alhoewel die vraag "wil jy 'n koppie tee hê?" waarskynlik nie
+   in geskrewe Wallies sal voorkom nie, sou dit as "a oes arnoch eisiau
+   cwpanaid o de?", geskryf word met die gesproke vorm "Dach chi eisiau
+   panad o de?".
+
+   Onder die eienskappe van die geskrewe taal, teenoor die gesproke taal,
+   is groter steun op werkwoordverbuiging, 'n verskuiwing in die gebruik
+   van sommige van die tydsvorme, 'n vermindering in uitdruklike gebruik
+   van voornaamwoorde (aangesien die inligting gewoonlik oorgedra word in
+   die werkwoord/voorsetsel-verbuigings) en 'n aansienlik verminderde
+   geneigdheid om Engelse leenwoorde vir eie Walliese woorde te gebruik.
+
+   Bretons en Kornies is naby verwante tale.
+
+[wysig] Walliese in die onderwys en opvoeding
+
+   Wallies word op groot skaal in onderwys gebruik en baie Walliese
+   universiteite is tweetalig, vernaamlik die Universiteit van Wallis,
+   Bangor.
+
+   Volgense die Nasionale leerplan (The National Curriculum), moet
+   skoliere in Wallis Wallies neem tot 16-jarige ouderdom. Volgense die
+   Walliese taalraad [3], woon meer as 'n kwart van die kinders in Wallis
+   skole by wat oorwegend Wallies as voertaal gebruik. Die res neem
+   Wallies as 'n tweede taal in Engelsmedium-skole. Spesialis-onderwysers
+   in Wallies, genaamd Athrawon Bro ondersteun die leer van Wallies in die
+   Nasionale leerplan.
+
+[wysig] Verwysings
+
+    1. ^ Charles Barber. 2000. The English Language: A Historical
+       Introduction. Cambridge: Cambridge University Press.
+
+[wysig] Eksterne skakels
+
+     * Clwb Malu Cachu, Webwerf vir Walliese leerders
+     * Moontlike bron vir vedrdere navorsing oor Wallies in Engels
+     * Die gwybodiadur (letterlik: 'informationary') bied breedvoerige
+       inligting oor alle aspekte van die Walliese taal aan
+     * Wallies–Engelse Woordeboek
+     * http://www.cymru.ac.uk/geiriadur/ Diebepalende historiese
+       woordeboek van Wallies: Geiriadur Prifysgol Cymru (Universiteit van
+       Wallis Woordeboek van die Walliese taal) Onafgehandelde werk aan
+       die Tweede Uitgawe] sluit 'n embrioniese Internet weergawe in by
+       [4]
+     * Universiteit van Wallis Sentrum vir gevorderde Wallies en Keltiese
+       Studies
+     * BBC LearnWelsh
+     * Walliese Taalkunde
+     * 'n Walliese kursus
+     * Ethnologue verslag oor Wallies
+
+   Wikipedia
+   Sien gerus Wikipedia se uitgawe in Wallies
+
+   Vir woordeboekinligting, sien die bladsy Wallies op WikiWoordeboek
+   Commons:Category
+   Wikimedia Commons het meer media verwant aan:
+   Welsh language
+
+               Indo-Europese tale: Kentum-tale: Keltiese tale
+                            Eiland-Keltiese tale
+       Goidelies: Iers-Gaelies | Skots-Gaelies (Skotland • Kanada) |
+                    Manx-Gaelies | Galweegse-Gaelies †
+    Britonies: Wallies | Kornies | Bretons | Cumbries † | Piekties †
+                           Vasteland-Keltiese tale
+    Vasteland-Keltiese tale: Gallies †: | Leponties † | Galaties †
+                               Keltiberies †
+                                Gemengde Tale
+                     Gemengde Tale: Shelta | Bungee †
+                              ^† Uitgestorwe
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorieë: Bladsye wat IFA bevat • Natuurlike taal • Eiland-Keltiese
+   taal • Wallis • Tale van die Verenigde Koninkryk
+

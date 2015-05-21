@@ -1,0 +1,184 @@
+Skandium
+
+
+
+                       kalsium – skandium – titaan
+           Sc
+            Y
+
+             Skandium in die periodieke tabel
+
+                                                   Volledige tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal Skandium, Sc, 21
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 3, 4 , d
+                                     Digtheid, Hardheid 2985 kg/m^3 , onb.
+                                                     Voorkoms silwerig-wit
+                                                           Atoomeienskappe
+                                                  Atoomgewig 44.955910 ame
+                                           Atoomradius (ber.) 160 (184) pm
+                                                   Kovalente radius 144 pm
+                                          Vanderwaalsradius geen inligting
+                                        Elektronkonfigurasie [Ar]3d^1 4s^2
+                                        e^− e per energievlak 2, 8, 9, 2
+                                 Oksidasietoestande (Oksied) 3 (swak basis
+                                              Kristalstruktuur Heksagonaal
+                                                        Fisiese eienskappe
+                                            Toestand van materie vastestof
+                                             Smeltpunt 1814 K (841.85 °C)
+                                             Kookpunt 3103 K (1483.85 °C)
+                                      Molêre volume 15.00 ×10^-6 m^3/mol
+                                            Verdampingswarmte 314.2 kJ/mol
+                                               Smeltingswarmte 14.1 kJ/mol
+                                              Dampdruk 22.1 Pa teen 1812 K
+                                                 Spoed van klank geen data
+                                                                   Diverse
+                                  Elektronegatiwiteit 1.36 (Pauling skaal)
+                                  Spesifieke warmtekapasiteit 568 J/(kg*K)
+                           Elektriese geleidingsvermoë 1.77 10^6/(m·ohm)
+                                   Termiese geleidingsvermoë 15.8 W/(m*K)
+                                    1^ste ionisasiepotensiaal 633.1 kJ/mol
+                                    2^de ionisasiepotensiaal 1235.0 kJ/mol
+                                    3^de ionisasiepotensiaal 2388.6 kJ/mol
+                                    4^de ionisasiepotensiaal 7090.6 kJ/mol
+                                      5^de ionisasiepotensiaal 8843 kJ/mol
+                                     6^de ionisasiepotensiaal 10679 kJ/mol
+                                     7^de ionisasiepotensiaal 13310 kJ/mol
+                                    8^ste ionisasiepotensiaal 15250 kJ/mol
+                                     9^de ionisasiepotensiaal 17370 kJ/mol
+                                    10^de ionisasiepotensiaal 21726 kJ/mol
+                                                     Mees stabiele isotope
+
+                                  iso   NV  halfleeftyd VM   VE MeV
+                                                            [nie SI]  VP
+                                 ^45Sc 100% Sc is stabiel met 24 neutrone
+                                 ^46Sc sin. 83.79 dae   β^- 2.367    ^46Ti
+
+                       SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Skandium is 'n chemiese element in die periodieke tabel met die simbool
+   Sc en atoomgetal van 21. Skandium is 'n sagte, silwerwit
+   oorgangselement en kom in skaars minerale in Skandinawië voor en word
+   soms saam met Yttrium en die lantaniede as 'n seldsame aarde
+   geklassifiseer.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Voorsorgmaatreëls
+        * 7 Verwysings
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Skandium is 'n seldsame, sagte silwerige, trivalente, ligte
+   metaalagtige element wat 'n effense gelerige of pienk skynsel ontwikkel
+   wanneer dit aan lug blootgestel word. Hierdie element stem baie ooreen
+   met yttrium en seldsameaard-metale en minder met aluminium en titaan
+   (wat nader aan dit op die periodieke tabel verskyn). Die mees algemene
+   oksidasietoestand van skandium is +3 en die metaal word nie aangeval
+   deur 'n 1:1 HNO[3] en 48 % HF mengsel nie.
+
+[wysig] Aanwendings
+
+   Ongeveer 20 kg (as Sc[2]O[3]) skandium word jaarliks in die Verenigde
+   State verbruik om hoë-intensiteit lampe te vervaardig. Skandiumjodied
+   wat by kwikdamplampe gevoeg word skep 'n hoogs doeltreffende kunsmatige
+   ligbron wat na aan sonlig lyk en sodoende 'n getroue kleuroordrag met
+   TV-kameras lewer. Ongeveer 80 kg skandium word jaarliks wêreldwyd in
+   gloeilampe gebruik. Die radio-aktiewe isotoop Sc-46 word in raffinadery
+   krakers as 'n spoormiddel gebruik. Die hoof toepassing op 'n volume
+   basis beskou is vir aluminium-skandium legerings vir die
+   lugvaartnywerheid en vir sport-toerusting (fietse, bofbalkolwe ens.)
+   wat staatmaak op hoë werkverrigting materiale. Wanneer skandium by
+   aluminium gevoeg word verbeter dit die sterkte (beide by kamer en
+   verhoogde temperature), die smeebaarheid, die verouderingseienskappe en
+   veroorsaak dit 'n fyner grein deur die vorming van die Al[3]Sc fase.
+   Verder verminder dit stollingskraking tydens sweis van hoë sterkte
+   Al-legerings.
+
+[wysig] Geskiedenis
+
+   Dmitri Mendeleev het sy periodiese wet, in 1869, gebruik om van die
+   eienskappe van drie onbekende elemente te voorspel insluitende een wat
+   hy ekaboor genoem het.
+
+   Lars Frederick Nilson en sy span, het skynbaar onbewus van daardie
+   voorspellings na 'n seldsame aard metale gesoek in 1879; deur gebruik
+   te maak van spektrum analise het hy 'n nuwe element ontdek in die
+   minerale euxeniet en godoliniet. Hy het dit Skandium genoem vanaf die
+   Scandia, die Latynse benaming vir Skandinawië en deur ongeveer 10
+   kilogram euxeniet saam met ander seldsame-aardes te verwerk het hy
+   ongeveer 2 gram baie suiwer skandiumoksied (Sc[2]O[3]) voorberei.
+
+   Per Teodor Cleve het die gevolgtrekking gemaak dat skandium goed met
+   die voorspelde ekaboor ooreenkom en Mendeleyev in Augustus daarvan in
+   kennis gestel.
+
+   Metalliese skandium is vir die eerste keer in 1937 met behulp van
+   elektrolise van 'n gesmelte eutektiese mengsel bestaande uit kalium,
+   litium en skandiumchloried by 700 tot 800°C. Wolframdraad in 'n poel
+   van vloeibare sink is as die elektrodes in 'n grafietkroesie gebruik.
+   Die eerste pond 99% suiwer skandium metaal is egter eers in 1960
+   vervaardig.
+
+[wysig] Verspreiding
+
+   Seldsame minerale vanuit Skandinawië en Madagaskar soos thortveitiet,
+   euxeniet en gadoliniet is die enigste bekende bronne van die element
+   (wat nooit as die vrye metaal voorkom nie).
+
+   Element 21 is die element wat die 23ste mees volop element in die son
+   en soortgelyke sterre is maar op aarde is dit slegs die 50ste mees
+   volop element. Skandium kom wyd verspreid oor die aarde se oppervlak
+   voor en kom in spoorhoeveelhede in meer as 800 minerale voor. Daar word
+   geglo dat die blou kleur van die akwamaryn variëteit van beril aan die
+   skandium daarin toegeskryf kan word. Dit maak 'n belangrike deel van
+   die seldsame mineraal thortveitiet uit en word in residue gevind van
+   die ontginningsproses van wolfram uit Zinnwald wolframiet.
+
+   Thortveitiet is die primêre bron van skandium met uraanmeulens se
+   uitskot as 'n ander belangrike bron. Suiwer skandium word kommersieël
+   vervaardig deur die skandiumfluoried met kalsium metaal te reduseer.
+
+[wysig] Isotope
+
+   Skandium wat in die natuur voorkom bestaan uit 1 stabiele isotoop
+   Sc-45. 13 radio-isotope is al geëien waarvan Sc-46 die mees stabiele is
+   met 'n halfleeftyd van 83.79 dae, Sc-47 met 'n halfleeftyd van 3.3492
+   dae en Sc-48 met 'n halfleeftyd van 43.67 ure. Die oorblywende
+   radio-aktiewe isotope het halfleeftyd van minder as 4 ure en die
+   meerderheid hiervan se halfleeftye is korter as 2 minute. Die element
+   het ook 5 meta-toestande met Sc-44 die mees stabiele daarvan (t[½] 58.6
+   uur).
+
+   Die isotope van skandium wissel in atoommassa van 39.978 ame (Sc-40)
+   tot 53.963 ame (Sc-54). Die primêre vervalmodus voor die enigste
+   stabiele isotoop, Sc-45, is elektronvangs en die primêre modus daarna
+   is beta-emmissie. Die primêre vervalprodukte voor Sc-45 is isotope van
+   element 20 (kalsium) en die primêre produkte daarna is isotope van
+   element 22 (titaan).
+
+[wysig] Voorsorgmaatreëls
+
+   Verpoeierde Skandium metaal is brandbaar en verteenwoordig 'n
+   brandgevaar.
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory – Scandium
+     * Engelse wikipedia artikel
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Scandium
+     * EnvironmentalChemistry.com – Scandium
+
+   Kategorieë: Chemiese elemente • Oorgangsmetale
+

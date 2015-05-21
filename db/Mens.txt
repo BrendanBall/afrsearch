@@ -1,0 +1,177 @@
+Mens
+
+
+                         Mens
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Primates
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hominidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Homo
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     H. sapiens
+     Subspesie:    H. s. sapiens
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   'n Mens, of menslike wese, is 'n primaat van die soogdiergenus Homo en
+   die spesie, Homo sapiens. (Die frase is vanaf Latyn, en beteken "wyse
+   man" of "wetende man"). ^[1] Die mens het 'n hoogsontwikkelde brein,
+   wat tot abstrakte denke, taal en selfondersoek in staat is. Hierdie
+   vermoë, tesame met die spesie se regop postuur, wat die boonste
+   ledemate bevry om voorwerpe te kan manipuleer, het die spesie meer as
+   enige ander soort, in staat gestel om gereedskap te gebruik.
+
+   Inhoud
+
+        * 1 Lewensiklus
+        * 2 Habitat en verspreiding
+        * 3 Voedsel
+        * 4 Gedrag
+        * 5 Verwysings
+
+[wysig] Lewensiklus
+
+   Aansig van 'n fetus in die baarmoeder. Die skets is deur Leonardo da
+   Vinci.
+   Aansig van 'n fetus in die baarmoeder. Die skets is deur Leonardo da
+   Vinci.
+
+   Die menslike lewensiklus is soortgelyk aan dié van ander soogdiere wat
+   embriologies deur middel van 'n plasenta ontwikkel. Ná bevrugting —
+   gewoonlik binne-in die liggaam van die vrou, deur middel van die
+   deponering van manlike sperm gedurende seks — ontwikkel die eiersel
+   vanaf 'n sigoot in die baarmoeder tot 'n embrio, en dan tot 'n fetus.
+   Agt-en-dertig weke later word die fetus as volgroeide baba gebore,
+   gewoonlik vaginaal, en haal die nuwe organisme vir die eerste keer
+   onafhanklik asem. In vergelyking met ander soortgelyke spesies, is die
+   geboorte lank en pynlik; met besering en selfs sterfte van die baba en
+   moeder nie ongewoon nie, veral as dit sonder moderne tegnologiese en
+   obstetriese prosedures geskied. Die baba (gewoonlik tussen drie en vier
+   kilogram swaar, en 50 tot 60 sentimeter lank) is hulpeloos by geboorte.
+
+   Die menslike lewensiklus kan verdeel word in die babajare, kinderjare,
+   adolessensie, jong volwassendheid, volwassendheid en bejaardheid.
+   Adolessensie, of seksuele volwassenheid, word teen 12 tot 15 jaar oud
+   bereik, met fisiese verdere groei in die jong vrou tot ongeveer agtien
+   jaar in ouderdom, en in die jong man tot ouderdom 21.
+
+   Die lewensverwagting van die mens verskil dramaties, afhangende van in
+   watter verskillende deel van die wêreld die persoon leef. Verskeie
+   sosio-ekonomiese faktore soos die beskikbaarheid van tegnologie, die
+   voorkoms van armoede, die opleidingsvlak, en risikofaktore soos VIGS
+   speel hierby 'n rol.
+
+[wysig] Habitat en verspreiding
+
+   'n Kaart van die vroeë menslike migrasiepatrone, uitgewerk volgens die
+   inligting verkry vanuit mitokondriale DNS. (Die arktiese area is die
+   middel van die kaart en die syfers verteenwoordig die aantal duisend
+   jaar voor vandag.)
+   'n Kaart van die vroeë menslike migrasiepatrone, uitgewerk volgens die
+   inligting verkry vanuit mitokondriale DNS. (Die arktiese area is die
+   middel van die kaart en die syfers verteenwoordig die aantal duisend
+   jaar voor vandag.)
+
+   Tegnologie het die mens in staat gestel om by alle klimaatsoorte aan te
+   pas en al die kontinente te bewoon, alhoewel grootskaalse en
+   langtermynbewoning van Antarktika, die oseaandieptes en die ruimte nog
+   nie moontlik is nie.
+
+   Die bevolkingsgetal van die wêreld is meer as ses en 'n half biljoen.
+   Die meeste (61%) woon in Asië, gevolg deur die Amerika's (14%), Afrika
+   (13%) en Europa (12%). Oseanië het 0,5%. (Sien ook die lys van lande
+   volgens bevolking en die lys van lande volgens bevolkingsdigtheid.) In
+   die tydperk vanaf 1800 tot 2000 het die menslike bevolking van een na
+   ses biljoen vermeerder. Bykans 40% van die menslike bevolking woon in
+   stede, en die persentasie stedelinge styg voortdurend.
+
+[wysig] Voedsel
+
+   'n Vrugtemark
+   'n Vrugtemark
+
+   Die mens is 'n omnivoor. Oorspronklik het die mens kos verkry deur
+   middel van jag-en-bymekaarmaakmetodes; met kos soos vrugte, graan,
+   wortels en sampioene wat versamel is; en wildsvleis wat gejag is. Die
+   landboukunde is bemeester omtrent tienduisend jaar gelede, wat 'n baie
+   groot verskil in eetgewoontes meegebring het; en daarmee saam
+   bevolkingsgroei, die ontwikkeling van stede, en 'n verhoogde voorkoms
+   van siekte. Vandag is plaaslike en eksotiese kosse, weens geweldige
+   verbeterings in kosproduksie, -bewaring, -storing en -vervoer, feitlik
+   oraloor die wêreld beskikbaar.
+
+[wysig] Gedrag
+
+   Die atoombomontploffings bokant Hiroshima en Nagasaki was die eintlike
+   einde van die Tweede Wêreldoorlog en het die onmiddelike dood van 120
+   000 mense tot gevolg gehad.
+   Die atoombomontploffings bokant Hiroshima en Nagasaki was die eintlike
+   einde van die Tweede Wêreldoorlog en het die onmiddelike dood van 120
+   000 mense tot gevolg gehad.
+
+   Die mens as spesie organiseer homself in 'n samelewing; vanaf die
+   huwelik tot die gesin, en woonbuurt tot land. Voorts word gedrag ook
+   bepaal deur kultuurnorme.
+
+   Menslike gedrag word dikwels arbitrêr verdeel in werksgedrag,
+   verhoudingsgedrag en ontspanningsgedrag, (met die beoefening van sport,
+   kuns, geloof, stokperdjies en kuier as sommige onderafdelings van
+   laasgenoemde).
+
+   Verskillende eenhede van die samelewing is betrokke by onderlinge
+   handeldryf met mekaar.
+
+   Gedrag kan afwykend wees, binne 'n wye spektrum vanaf 'n struweling, of
+   geringe misdaad, tot oorlog.
+
+[wysig] Verwysings
+
+    1. ^ Taksonomie van die lewende primate, Minnesota Staatsuniversiteit
+       Mankato, soos verkry op 4 April, 2005.
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Soogdiere
+

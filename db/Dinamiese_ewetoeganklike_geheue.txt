@@ -1,0 +1,258 @@
+Dinamiese ewetoeganklike geheue
+
+
+   Dinamiese ewetoeganklike geheue (Engels:Dynamic Random Access Memory of
+   DRAM) is 'n soort ewetoeganklike geheue wat elke bis data in 'n
+   afsonderlike kapasitor stoor. Aangesien kapasitors mettertyd hul
+   elektriese lading verloor gaan die inligting uiteindelik verlore as die
+   kapasitore nie periodies herlaai word nie. Hierdie herlaai vereiste
+   maak dat hierdie soort geheue dinamies genoem word teenoor ander
+   geheuesoorte wat staties (SRAM) is. Die voordeel bo SRAM is die
+   eenvoudiger samestelling: slegs een transistor en een kapasitor word
+   vereis per bis in vergelyking met die ses transistors per bis van SRAM.
+   Dit maak dit moontlik vir DRAM om 'n baie hoër digtheid te bereik.
+   Aangesien DRAM sy data verloor wanneer die kragtoevoer verwyder word,
+   val dit in die klas van vlugtige geheuetoestelle.
+
+   Werking van 'n DRAM leesbewerking, vir 'n eenvoudige 4 by 4
+   rangskikking.
+   Werking van 'n DRAM leesbewerking, vir 'n eenvoudige 4 by 4
+   rangskikking.
+
+   Werking van 'n DRAM skryfbewerking, vir 'n eenvoudige 4 by 4
+   rangskikking.
+   Werking van 'n DRAM skryfbewerking, vir 'n eenvoudige 4 by 4
+   rangskikking.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Beginsel van werking
+        * 3 Foute en foutregstelling
+        * 4 Variasies
+             + 4.1 FPM DRAM
+             + 4.2 Video DRAM
+             + 4.3 Window RAM (WRAM)
+             + 4.4 Extended Data Out (EDO) DRAM
+             + 4.5 Burst EDO (BEDO) DRAM
+             + 4.6 Multibank DRAM (MDRAM)
+        * 5 Eksterne skakels
+
+[wysig] Geskiedenis
+
+   Die eerste DRAM sel is deur Robert Dennard, 'n navorser by IBM se
+   Thomas J. Watson navorsingssentrum, uitgevind. Hierdie sel het soos die
+   meeste DRAM selle gewerk deurdat data verfris moet word om die lading
+   te herstel; die data is vernietig na 'n leesbewerking en moes herskryf
+   word. Alhoewel DRAM selle vandag oraloor te vinde is, was Dennard een
+   van min mense wat geglo het dat 'n doeltreffende DRAM sel ontwikkel kon
+   word.
+
+[wysig] Beginsel van werking
+
+   DRAM word gewoonlik in 'n vierkantige matriks van een kapasitor en een
+   transistor per sel gerangskik. Die illustrasie hierbo toon 'n
+   eenvoudige voorbeeld met slegs 4 by 4 selle (moderne DRAM kan bestaan
+   uit duisende selle in lengte sowel as breedte). 'n Leesbewerking gebeur
+   as volg: die ry waarin die gekose sel hom bevind word geaktiveer deur
+   al die transistors aan te skakel en die kapasitore van daardie ry aan
+   sensorlyne te verbind. Die sensorlyne loop tot by die seinversterkers,
+   wat kan onderskei tussen 'n gestoorde 0 of 'n 1. Die versterkte waarde
+   vanaf die betrokke kolom word dan geselekteer en aan die uitset
+   verbind. Aan die einde van 'n leessiklus moet die rywaardes op die
+   kapasitors, wat tydens die leesbewerking ontlaai is, weer herstel word.
+   Hierdie skryfbewerking word gedoen deur die ry te aktiveer en die
+   waardes wat geskryf moet word aan die sensorlyne te verbind, wat
+   daartoe lei dat die kapasitore weer na hul verlangde waardes herlaai
+   word. Tydens 'n skryfbewerking na 'n spesifieke sel word die hele ry
+   uitgelees, een waarde verander en word die hele ry weer teruggeskryf,
+   soos aangetoon in die beeld aan die regterkant.
+
+   Tipies spesifiseer vervaardigers dat elke ry ongeveer elke 64 ms of
+   minder verfris moet word alvorens die JEDEC standaard. Herlaailogika
+   word tipies met DRAMs gebruik om die periodiese verfrissing te
+   outomatiseer. Dit maak die stroombaan meer ingewikkeld maar die
+   goedkoper prys en hoër kapasiteit van DRAM bo SRAM vergoed gewoonlik
+   vir hierdie nadeel. Sommige stelsel verfris elke ry in 'n nou kring wat
+   elke 64 ms plaasvind. Ander stelsels verfris een ry op 'n slag -- 'n
+   stelsel met 2^13 = 8192 rye sal byvoorbeeld 'n herlaaitempo van een ry
+   elke 7.8 µs (64ms /8192 rye) verg. Beide stelsels vereis 'n soort
+   teller om tred te hou van watter ry die volgende is wat herlaai moet
+   word. Sommige DRAM skywe sluit daardie teller in; ander soorte gebruik
+   'n eksterne herlaailogika wat daardie teller huisves. (onder sommige
+   toestande kan die meeste data in DRAM herwin word selfs al was die DRAM
+   nie vir etlike minute lank verfris nie [1].)
+
+[wysig] Foute en foutregstelling
+
+   Sommige navorsing het aangetoon dat die meerderheid willekeurige
+   ("sagte") foute in DRAM skywe voorkom as gevolg van kosmiese straling
+   wat die inhoud van een of meer geheueselle kan beïnvloed of storings
+   kan veroorsaak in die stroombane wat gebruik word om na hulle te
+   lees/skryf. Daar word gespekuleer dat met die toenemend hoër digthede
+   en laer spannings die invloed van die soort straling meer dikwels kan
+   voorkom. Aan die ander kant word daar gereken dat die kleiner selle
+   moeiliker teikens sal wees vir die soort strale en dat nuwer
+   tegnologieë soos SOI die indiwiduele selle minder vatbaar kan maak en
+   dus hierdie neiging sal teenwerk.
+
+   Die probleme van storings kan teëgewerk word deur DRAM modules te
+   gebruik wat ekstra geheuebisse en geheuebeheerders bevat om hierdie
+   bisse te benut. Hierdie ekstra bisse word gebruik om pariteit te stoor
+   of om 'n foutregstellende kode te gebruik. Pariteit maak dit moontlik
+   om 'n enkelbisfout op te spoor. Die mees algemene foutregstellende
+   kode, die Hamming kode, maak dit moontlik om 'n enkelbis fout reg te
+   stel (in die gewone konfigurasie met 'n ekstra pariteitsbis) en om
+   dubbelbisfoute op te spoor. Die meeste moderne mikrobeheerders
+   ondersteun deesdae oor die algemeen foutsporing en regstelling in hul
+   geheue.
+
+   Geheuebeheerders in die meeste moderne persoonlike rekenaars kan tipies
+   'n enkelbisfout per 64 bis "woord" (die eenheid waarteen busse data
+   oordra]]) regstel en dubbelbisfoute per 64 bis woord opspoor (maar nie
+   regstel nie). Die BIOS van sommige rekenaars en bedryfstelsels soos
+   Linux laat ook die tel van opgespoorde- en reggestelde foute toe, deels
+   om falende geheuemodules op te spoor alvorens 'n katastrofiese faling
+   voorkom. Ongelukkig word baie geheuemodules deesdae vir persoonlike
+   rekenaars voorsien wat nie voorsiening maak vir pariteitsbisse nie.
+   Foutsporing en regstelling berus hoofsaaklik op die aanname dat die
+   falings in elke bis onafhanklik is en dat gelyktydige foute dus
+   onwaarskynlik is. Hierdie aanname was akkuraat vir een bis wye busse
+   van ouer geheueskywe maar is minder waar vir huidige geheuemodules waar
+   die geheuebus baie bisse breed is. Hierdie swakheid word oor die
+   algemeen nie aangespreek nie buiten in die geval van Chipkill.
+
+[wysig] Variasies
+
+[wysig] FPM DRAM
+
+   Fast Page Mode DRAM of FPM DRAM werk op die beginsel dat 'n ry van die
+   DRAM "oop" gehou word sodat opeenvolgende lees- en skryfbewerkinge
+   binne in 'n ry nie vertraag word deur die vooraflaai en die
+   voorbereiding vir toegang nie. Dit verhoog die werkverrigting van die
+   stelsel wanneer sarsies data gelees of geskryf word.
+
+   Statiese kolom is 'n variasie van page mode waar die kolom se adres nie
+   ingesein hoef te word nie.
+
+   Nibble mode is 'n ander variant waar toegang tot vier opeenvolgende
+   liggings binne 'n ry verkry kan word.
+
+[wysig] Video DRAM
+
+   Video DRAM of VRAM is 'n dubbelpoort weergawe van DRAM wat voorheen
+   gebruik is vir grafiese aansluiters. Dit is nou bykans verouderd en is
+   grootliks vervang met SDRAM en SGRAM. VRAM het twee paaie (of poorte)
+   na sy geheuematriks waartoe daar gelyktydig toegang verkry kan word.
+
+   Die eerste poort, die DRAM poort, word op dieselfde wyse oopgemaak as
+   gewone DRAM. Die tweede poort, die video poort, is 'n lees-alleen poort
+   en is daaraan toegewy om 'n vinnige stroom data na die skerm te lewer.
+   Om die videopoort te gebruik moet die beheerder eers die DRAM poort
+   gebruik om 'n ry van die geheuematriks wat vertoon moet word selekteer.
+   Die VRAM kopiëer dan dan die hele ry na 'n interne skuifregister. Die
+   beheerder kan dan voortgaan om die DRAM poort te gebruik om voorwerpe
+   op die skerm te teken.
+
+   Intussen voer die beheerder 'n klok wat die skuifklok genoem word na
+   die VRAM se videopoort. Elke skuifklokpuls veroorsaak dat die VRAM die
+   volgende item data vanaf die skuifregister na die videopoort lewer in
+   streng adres volgorde. Vir eenvoud word die grafiese aansluiter
+   gewoonlik so ontwerp dat die inhoud van 'n ry en daarom die inhoud van
+   die skuifregister ooreenstem met 'n volledige horisontale lyn op die
+   skerm.
+
+[wysig] Window RAM (WRAM)
+
+   Window RAM of WRAM is 'n verouderde tipe halfgeleier rekenaargeheue wat
+   ontwerp was om VRAM te vervang. Dit is deur Samsung ontwikkel en ook
+   deur Micron Technology bemark, maar het 'n kort markleeftyd gehad
+   voordat dit met SDRAM en SGRAM vervang is.
+
+   WRAM het 'n dubbelpoort dinamiese struktuur soortgelyk aan VRAM gehad,
+   met een parallelle poort en een serie poort, maar het ekstra eienskappe
+   gehad om vinnige blokkopiëring en blokopvullings moontlik te maak
+   (sogenaamde window verwerkings). Dit het dikwels teen 50 MHz geloop.
+   Dit het 'n 32-bis breë gasheer poort gehad om optimale data-oordrag in
+   PCI en VESA Local Bus stelsels te verseker. Tipiese WRAM was 50%
+   vinniger as VRAM maar het steeds 20% goedkoper gekos.
+
+[wysig] Extended Data Out (EDO) DRAM
+
+   EDO DRAM is soortgelyk aan Fast Page Mode DRAM met die bykomende
+   eienskap dat dit 'n nuwe toegangssiklus aan die gang gesit kan word
+   terwyl die data-uitset van die vorige siklus nog aktief is. Dit laat 'n
+   sekere mate van oorvleueling tydens die bedryf toe (pipelining) en laat
+   'n ietwat hoër spoed toe. Dit was 5% vinniger as FPM DRAM, wat dit
+   begin vervang het in 1993.
+
+   Enkelsiklus EDO het die vermoë om 'n volledige geheuetransaksie in 'n
+   enkele kloksiklus te voltooi. Andersins neem elke opeenvolgende
+   geheuetoegangsbewerking binne die selfde bladsy twee kloksiklusse in
+   plaas van drie wanneer die bladsy eers geselekteer is. EDO se spoed en
+   vermoëns het dit in staat gestel om die vlak 2 kasgeheue van persoonlie
+   rekenaars te vervang. Enkelsiklus EDO DRAM het baie gewild geword op
+   videokaarte teen die einde van die 1990's. Dit was baie
+   kostedoeltreffend dog byna net so doeltreffend as die baie duurder
+   VRAM.
+
+[wysig] Burst EDO (BEDO) DRAM
+
+   'n Ewolusionêre ontwikkeling van bogenoemde variant was die Burst EDO
+   DRAM wat soveel as vier geheue-adresse in een sarsie kon verwerk wat 'n
+   addisionele drie kloksiklusse meer as optimaal ontwerpte EDO-geheue
+   bespaar het. Dit is gedoen deur 'n adresteller op die skyf te plaas om
+   tred te hou van die volgende adres. BEDO het ook 'n pyplyn stadium
+   bygevoeg wat dit moontlik gemaak het om die bladtoegangsiklus in twee
+   komponente te verdeel. Tydens 'n leesbewerking het die eerste komponent
+   die data vanaf die eerste geheuematriks na die tweede stadium ingelees.
+   Die tweede komponent het die databus vanaf hierdie stadium teen die
+   geskikte vlak van logika aangedryf. Aangesien data reeds in die
+   uitsetbuffer gelaai was, is vinniger toegangstye verkry (soveel as 50%
+   vir groot blokke data) as die tradisionele EDO.
+
+   Ten spyte daarvan dat BEDO DRAM soveel addisionele optimisering bo dié
+   van EDO bereik het, het die mark ten tye van die beskikbaarstelling
+   reeds betekenisvolle skuiwe ten gunste van sinkrone DRAM of SDRAM
+   gemaak , al was BEDO DRAM tegnies beter as SDRAM.
+
+[wysig] Multibank DRAM (MDRAM)
+
+   Multibank DRAM gebruik die invlegtegniek vir hoofgeheue vir tweede vlak
+   kasgeheue om 'n goedkoper en vinniger alternatief tot SRAM te bied. Die
+   skyf skei die geheuekapasiteit in klein blokke van 256 kilogrepe (kG)
+   en laat bewerkings op twee verskillende banke tydens 'n enkele
+   kloksiklus toe.
+
+   Hierdie geheue is primêr in grafiese kaarte met Tseng Labs ET6x00 skywe
+   gebruik en is deur MoSys vervaardig. Borde wat op hierdie skywe
+   gebaseer is het dikwels die ongewone geheuegrootte konfigurasie van
+   2.25 MG gebruik vanweë MDRAM se vermoë om makliker in verskillende
+   groottes geïmplementeer te kon word. Hierdie grootte het dan ook die
+   gewilde 24-bis kleur teen 'n resolusie van 1024X768, 'n baie gewilde
+   skermresolusie op daardie tydstip, moontlik gemaak.
+
+[wysig] Eksterne skakels
+
+     * Basic DRAM operation, 'n artikel met interresante geskiedkundige
+       grafieke met tendense oor selgroottes en DRAM digtheid -- dit gaan
+       egter slegs tot en met 1995.
+     * Back to Basics - Memory, part 3
+     * Verduidelik die voordele van Chipkill-Correct Foutregstelling vir
+       PR Bedieners se Hoofgeheue
+     * Tezzaron Semiconductor Soft Error White Paper 'n 1994 oorsig oor
+       die literatuur rondom die metings van die tempo waarteen
+       geheuefoute voorkom.
+     * Soft errors' impact on system reliability - Ritesh Mastipuram and
+       Edwin C Wee, Cypress Semiconductor, 2004
+     * Scaling and Technology Issues for Soft Error Rates - A Johnston -
+       4th Annual Research Conference on Reliability Stanford University,
+       October 2000
+     * Challenges and future directions for the scaling of dynamic
+       random-access memory (DRAM) - J. A. Mandelman, R. H. Dennard, G. B.
+       Bronner, J. K. DeBrosse, R. Divakaruni, Y. Li, and C. J. Radens,
+       IBM 2002
+     * http://arstechnica.com/paedia/r/ram_guide/ram_guide.part1-2.html
+
+   Kategorie: Rekenaar
+

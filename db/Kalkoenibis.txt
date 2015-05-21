@@ -1,0 +1,97 @@
+Kalkoenibis
+
+
+                 Kalkoenibis
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Threskiornithidae
+     Subfamilie:   Threskionithinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Geronticus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. calvus
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+              Geronticus calvus
+   (Boddaert, 1783)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die kalkoenibis
+   Verspreiding van die kalkoenibis
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die kalkoenibis is 'n groot (lengte 78cm) glansende voël met
+   kenmerkende glansende, blou-swart vere.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+             + 5.1 Suid-Afrikaanse voëls
+
+[wysig] Identifikasie
+
+   Die voël vertoon glansende met (blou-swart) vere. Kop is kaal en rooi
+   van kleur en met rooi bene.
+
+[wysig] Habitat
+
+   Veld met kort en afgebrande gras.
+
+[wysig] Verspreiding
+
+   Kom voor in die oostelike suidelike Afrika.
+
+[wysig] Geluid
+
+[wysig] Ander name
+
+     * Engels: Southern Bald Ibis
+     * Wetenskaplike naam: Geronticus calvus
+
+[wysig] Suid-Afrikaanse voëls
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Ibisse en lepelaars
+

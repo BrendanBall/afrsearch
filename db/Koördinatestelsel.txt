@@ -1,0 +1,148 @@
+Koördinatestelsel
+
+
+   Die Cartesiese koördinatestelsel.
+   Die Cartesiese koördinatestelsel.
+
+   In wiskunde en toepassing is 'n koördinatestelsel, of
+   koördinaatstelsel, 'n stelsel om 'n tupel van getalle aan elk van die
+   punte in 'n n-dimensionele ruimte toe te ken. "Getalle" beteken in baie
+   gevalle reële getalle, maar kan ook, afhangende van die konteks,
+   komplekse getalle of elemente van een of ander ander veld beteken.
+   Indien die ruimte of variëteit gekrom is, mag dit nie moontlik wees om
+   'n konsekwente koördinatestelsel vir die hele ruimte verskaf. In die
+   geval word 'n versameling van koördinatestelsels, wat kaarte genoem
+   word, gebruik om 'n atlas saam te stel wat die hele ruimte dek.
+
+   As die ruimte een of ander addisionele algebraïese struktuur het, sal
+   die koördinate ook onder ringe of groepe transformeer; 'n besonder
+   beroemde voorbeeld in die geval is die Lie groepe.
+
+   Alhoewel enige spesifieke koördinatestelsel nuttig is vir numeriese
+   berekeninge in 'n gegewe ruimte, word die ruimte beskou as iets wat
+   onafhanklik van enige besonder koördinaat keuse bestaan. Volgens
+   konvensie is die oorsprong van die koördinatestelsel in Cartesiese
+   koördinate die punt (0, 0, ..., 0), wat aan enige punt in die
+   Euklidiese ruimte toegeken kan word.
+
+   In sommige koördinatestelsel word sommige punte geassosieer met
+   veelvuldige koördinaat tupels, b.v. die oorsprong in die
+   poolkoördinatestelsel: r = 0 maar θ kan enige hoek wees.
+
+   Inhoud
+
+        * 1 Voorbeelde
+        * 2 Transformasies
+        * 3 Stelsels wat algemeen gebruik word
+        * 4 Sterrekundige stelsels
+        * 5 Minder algemene koördinatestelsels
+
+[wysig] Voorbeelde
+
+   'n Voorbeeld van 'n koördinatestelsel is om 'n punt P in die Euklidiese
+   ruimte R^n te beskryf met 'n n-tupel
+
+          P = (r[1], ..., r[n])
+
+   van reële getalle
+
+          r[1], ..., r[n].
+
+   Hierdie getalle r[1], ..., r[n] word diekoördinate van die punt P
+   genoem.
+
+   As 'n deelversameling S van 'n Euklidiese ruimte word kontinu afgebeeld
+   op 'n ander topologiese ruimte, dit definieer koördinate in die
+   afbeelding van S. Dit kan 'n parametrisering van die afbeelding genoem
+   word aangesien dit getalle toeken aan die punte. Die ooreenkoms is
+   uniek slegs as die afbeelding bijektief is.
+
+   Die stelsel waarvolgens lengte - en breedtegraad aan geografiese
+   liggings toegeken word is 'n koördinatestelsel. In die geval is die
+   parametrisering nie uniek by die Noord- en Suidpole.
+
+[wysig] Transformasies
+
+   'n Koördinaattransformasie is 'n omskakeling van een stelsel na 'n
+   ander, om die selfde stelsel te beskryf.
+
+   Twee koördinaattransformasies kan met elke bijeksie van die ruimte na
+   ditself geassosieer word:
+     * sodat die nuwe koördinate van die afbeelding van elke punt
+       dieselfde is as die ou koördinate van die oorspronklike punt (die
+       formules vir die afbeelding is die omgekeerde van die van die
+       koördinaattransformasie)
+     * sodat die ou koördinate van die afbeeelding van elke punt dieselfde
+       is as die nuwe koördinate van die oorspronklike punt (die formules
+       vir die afbeelding is die as die van die koördinaattransformasie)
+
+   Byvoorbeeld, in 1D, as die afbeelding 'n translasie van 3 na regs is,
+   skuif die eerste die oorsprong van 0 na 3, sodat die koördinaat van
+   elke punt 3 minder word, terwyl die tweede die oorsprong van 0 na -3
+   skuif, sodat die koördinaat van elke punt 3 meer word.
+
+[wysig] Stelsels wat algemeen gebruik word
+
+   Van die koördinatestelsels sluit in:
+     * Die Cartesiese koördinatestelsel (wat ook die "regheokige
+       koördinatestelsel" genoem word), wat, vir driedimensionele plat
+       ruimte, gebruik drie getalle wat afstande voorstel.
+     * Curvilinear koördinate is 'n veralgemening van koördinatestelsels
+       in die algemeen; die stelsel is gegrond op die interseksie van
+       krommes.
+     * Die Poolkoördinatestelsels:
+          + Sirkulêre koördinatestelsel (alegemeen bekend as die
+            Poolkoördinatestelsel) stel 'n punt in 'n vlak voor deur 'n
+            hoek en 'n afstand van die oorsprong.
+          + Silindriese koördinatestelsel stel 'n punt in ruimte voor deur
+            'n hoek, 'n afstand van die oorsprong-as en 'n hoogte.
+          + Sferiese koördinatestelsel stel 'n punt in ruimte voor met
+            twee hoeke en 'n afstand van die oorsprong.
+               o Geografiese koördinatestelsel
+     * Plücker koördinate is 'n metdoe om lyne in 3D Euklidiese ruimte
+       voor te stel deur ses-tupel van getalle te gebruik as homogene
+       koördinate.
+     * Veralgemeende koördinate word in die Lagrangiese behandeling van
+       meganika gebruik.
+     * Kanoniese koördinate word in die Hamiltoniese behandeling van
+       meganika gebruik.
+     * Intrinsieke koördinate beskryf 'n punt op 'n kromme met die lengte
+       van die kromme tot by die punt en die hoek van die raaklyn an die
+       punt vorm die x-as.
+     * Parallelle koördinate visualiseer 'n punt in n-dimensionele ruimte
+       as 'n polielyn wat punte op n vertikale lyne verbind.
+
+[wysig] Sterrekundige stelsels
+
+     * Celestial koördinatestelsel
+          + Horisontale koördinatestelsel
+          + Ekwatoriale koördinatestelsel - gegrond op Aarderotasie
+          + Meridianale koördinatestelsel
+          + Virginale koördinatestelsel
+          + Ekliptiese koördinatestelsel - gegrond op Sonnestelsel rotasie
+          + Galactic koördinatestelsel - gegrond op Melkweg rotasie
+     * ekstragalactic koördinatestelsels
+          + supergalactic koördinatestelsel - gegrond op 'n vlak van
+            plaaslike supercluster van sterrestelsels
+          + comoving koördinate - geldig tot by die deeltjie horison
+
+[wysig] Minder algemene koördinatestelsels
+
+   Die onderstaande koördinatestelsels het spesiale gebruike. Hulle het
+   almal eienskappe van ortogonale koördinatestelsels, dit is die
+   koördinaatoppervlak ontmoet teen regte hoeke.
+     * Ellipties silindriese koördinate
+     * Ellipsoïede koördinate
+     * Prolate sferoïediese koördinate
+     * Oblate sferoïediese koördinate
+     * Koniese koördinate
+     * Paraboliese silindriese koördinate
+     * Paraboliese koördinate (driedimensioneel)
+     * Paraboloïdale koördinate
+     * Bipolêre silindriese koördinate
+     * Toroïdale koördinate
+     * Bisferiese koördinate
+     * Bihoekige koördinate
+
+   Kategorie: Koördinatestelsels
+

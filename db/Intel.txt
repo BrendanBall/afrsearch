@@ -1,0 +1,57 @@
+Intel
+
+
+   Intel is 'n VSA-gebaseerde multinasionale korporasie wat bekend is vir
+   die ontwerp en vervaardiging van mikroverwerkers en spesialiseer in
+   geintegreerde stroombane. Intel vervaardig ook netwerkkaarte,
+   moederborde, en ander rekenaarkomponente.
+
+   Die maatskappy is gestig in 1968 deur Gordon E. Moore en Robert Noyce.
+   Die vierde werknemer was Andrew Grove, wat die maatskapy bestuur het
+   vanaf sy aankoms in 1960 tot sy aftrede in 1990, en dit gebou het tot
+   een van die grootste en suksesvolste besighede in die wêreld.
+
+   Moore en Noyce wou die maatskapy 'Moore Noyce' noem, maar die naam was
+   reeds geneem deur 'n hotelgroep, en het besluit op die akroniem
+   INTegrated ELectronics.
+
+   Die maatskappy het begin as 'n vervaardiger van geheue voordat hulle
+   oorgeskakel het na verwerkers. Andrew Grove het hierdie oorgang beskryf
+   in die boek Only the Paranoid Survive.
+
+   Gedurende die 1990s was Intel se Intel Architecture Labs (IAL)
+   verantwoordelik vir baie van die nuwighede op die terrein van
+   Persoonlike Rekenaar-hardeware, onder andere die PCI-bus, Universal
+   Serial Bus (USB) en die tans-dominerende argitektuur vir
+   multi-verwerker-bedieners. IAL se sagteware het gemengde sukses gehad;
+   hulle video- en grafikasagteware was belangrik vir die ontwikkeling van
+   sagteware-gedrewe digitale video, maar hulle pogings is later
+   hoofsaaklik oorskadu deur kompetisie van Microsoft. Hierdie stryd
+   tussen Intel en Microsoft het aan die lig gekom in getuienis by die
+   Microsoft antitrust-verhoor.
+
+   Intel se oorheersing in die x86-mikroverwerkermark het oor die jare tot
+   verskeie aanklagte van antitrust-oortredings gelei, waaronder
+   FTC-ondersoeke in beide die laat 1980s en in 1999, asook siviele
+   regsgedinge soos die hofsaak deur Digital Equipment Corporation (DEC)
+   in 1997 en 'n patentsaak deur Intergraph. Min van die hofsake het op
+   enigiets uitgekom.
+
+   Die enigste groot mededinger vir Intel in die x86-verwerkermark is
+   Advanced Micro Devices (AMD), met wie Intel ooreenkomste vir
+   kruis-lisensiëring het sedert 1976: hulle kan mekaar se gepatenteerde
+   tegnologiese uitvindings gratis gebruik. Kleiner mededingers bestaan,
+   soos Transmeta wat verwerkers vir draagbare toerusting vervaardig wat
+   min krag gebruik.
+
+[wysig] Sien ook
+
+     * Pentium 4
+
+[wysig] Eksterne skakels
+
+     * Intel se webwerf
+     * Intel Technology
+
+   Kategorieë: Firmas • Rekenaar
+

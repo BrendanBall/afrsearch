@@ -1,0 +1,147 @@
+Eerste Germaanse klankverskuiwing
+
+
+   Klankverskuiwinge in die Germaanse tale
+   Eerste Germaanse klankverskuiwing
+   Wet van Grimm
+   Wet van Verner
+   Tweede Germaanse klankverskuiwing
+   Ingveonismes
+   Sjabloon:Ed
+
+   Met die eerste Germaanse klankverschuiving (ook die Wet van Grimm
+   genoem) word 'n onderskeid tussen die Germaanse tale en
+   Proto-Indo-Europees beskryf. Die klankverskuiwing word in omtrent 1822
+   beslissend deur Jakob Grimm uitgewerk.
+
+   Die wet van Grimm beskryf 'n reeks ooreenkomste tussen sommige
+   plofklanke en frikatiewe van die Germaanse tale en plofklanke van ander
+   Indo-Europese tale (Grimm gebruik meestal Latyn en Grieks as ander
+   Indo-Europese tale). Tans word die wet van Grimm omskryf as die
+   ontwikkeling van plofklanke uit Proto-Indo-Europees (PIE, die
+   gesamentlike voorouer van byna alle Indiese en Europese tale) na
+   Proto-Germaans (PGm, die gesamentlike voorouer van alle Germaanse
+   tale). Die verskuiwing bestaan uit drie dele (hier ter wille van
+   duidelikheid vereenvoudig weergegee):
+     * Proto-Indo-Europese stemlose plofklanke verander in stemlose
+       frikatiewe:
+
+                   PIE        PGm
+                *p, *t, *k *f, *þ, *x
+
+                Nota 1: *þ staan vir "th" soos in Engels thick, *x vir die
+                Nederlandse ch-klank)
+                Nota 2: Hier en in ander dele van die wet van Grimm bly
+                die plek waar uispreekplek (plek waar die klank gevorm
+                word) ongeveer dieselfde. Die bilabiale (d.w.s. tussen
+                beide lippe) plofklank *p word ook 'n bilabiale frikatief
+                *f, ens.
+
+     * Proto-Indo-Europese stemhebbende plofklanke word stemloos:
+
+                   PIE        PGm
+                *b, *d, *g *p, *t, *k
+
+     * Proto-Indo-Europese stemhebbende geaspireerde (d.w.s. 'met 'n
+       bietje meer lug uitgespreek') plofklanke verloor hulle aspirasie en
+       word ongeaspireerde stemhebbende plofklanke:
+
+                      PIE           PGm
+                *b^h, *d^h, *g^h *b, *d, *g
+
+   Die mees beeldende voorbeelde van hierdie klankwet word hier toegepas:
+   Fase Verandering Germaanse (verskuifde) voorbeelde Nie-Germaanse
+   (onverskuifde) kognate
+   1 *p→f Engels: foot, Afrikaans, Nederlands: voet, Duits: Fuß, Goties:
+   fōtus, Yslands: fótur, Deens: fod, Norweegs, Sweeds: fot Antieke
+   Grieks: πούς (pūs), Latyn: pēs, Sanskrit: pāda Litaus: pėda
+   *t→þ Engels: third, Oudhoogduits: thritto, Goties: þridja, Yslands:
+   þriðji Antiek Grieks: τρίτος (tritos), Latyn: tertius, Gaelies treas,
+   Sanskrit: tri, Litaus: trys
+   *k→h Engels: hound, Afrikaans, Nederlands: hond, Duits: Hund, Goties:
+   hunds, Yslands, Faroërs: hundur, Deens, Noorweegs, Sweeds: hund Antiek
+   Grieks: κύων (kýōn), Latyn: canis, Gaelies cú
+   *kʷ→hw Engels: what, Goties: ƕa ("hwa"), Afrikaans, Nederlands: wat,
+   Yslands hvað, Deens hvad Latyn: quod, Gaelies ciod, Sanskrit ka-, kiṃ
+   2 *b→p Engels: peg Latyn: baculum
+   *d→t Engels: ten, Afrikaans, Nederlands: tien, Goties: taíhun, Yslands:
+   tíu, Deens, Noorweegs: ti, Sweeds: tio Latyn: decem, Gaelies deich,
+   Litaus: dešim, Sanskrit: daśan
+   *g→k Engels: cold, Afrikaans, Nederlands: koud, Duits: kalt, Yslands:
+   kaldur, Deens: kold, Sweeds: kall Latyn: gelū
+   *gʷ→kw Engels: quick, Goties: qius, Yslands: kvikur, Sweeds: kvick
+   Latyn: vivus 'lewendig', Grieks: βίος (bios) 'lewe', Gaelies beò
+   'lewend', Litaus: gyvas, guvus
+   3 *bʰ→b Engels: brother, Afrikaans, Nederlands: broeder, Duits: Bruder,
+   oties: broþar, Yslands: bróðir, Deens, Sweeds: broder Antiek Grieks:
+   φρατήρ (phrātēr), Sanskrit: (bhrātā) Litaus: brolis Oudkerkslawies
+   bratru
+   *dʰ→d Engels: door, Fries: doar, Afrikaans, Nederlands: deur, Goties:
+   daúr, Yslands: dyr, Deens, Noorweegs: dør, Sweeds: dörr Antiek Grieks:
+   θύρα (thýra), Sanskrit: dwār, Litaus: durys
+   *gʰ→g Engels: goose, Fries: goes, Afrikaans, Nederlands: gans, Duits:
+   Gans, Yslands: gæs, Faroërs: gás, Deens, Noorweegs, Sweeds: gås Antiek
+   Grieks: χήν (khēn)
+   *gʷʰ→gw Engels: wife, Proto-Germaans: wiban (van ou gwiban),
+   Oudsaksies, Oudfries: wif, Oudnoors: vif, Deens, Sweeds: viv,
+   Nederlands: wijf, Oudhoogduits: wib, Duits: Weib Tochaars B: kwípe,
+   Tochaars A: kip
+     * Let wel: Sommige taalkundiges twyfel aan die oorsprong van die
+       woord "wife". Die gangbare wortel daarvan is Proto-Indo-Europees
+       *ghwíbh-.
+
+   Hierdie "klankwet" is opvallend reëlmatig. Elke fase bevat een enkele
+   verandering wat gelykelik van toepassing is op die labiale (=
+   'liprondinge') {p, b, bʰ, f) en hulle gelykwaardige dentale (t, d, dʰ,
+   þ), velare (k, g, gʰ, h) en geronde velare (kʷ, gʷ, gʷʰ, hw). Die
+   eerste fase het die taal se foneemregister sonder stemlose plosiewe
+   gelaat, die tweede fase het die gapings opgevul maar het 'n nuwe een
+   geskep, en dit het so voortgegaan totdat die kettingverskuiwing sy
+   rondte gedoen het.
+
+   Hierdie Germaanse "klankwette", gekombineer met klankverskuiwinge wat
+   vir ander Indo-Europese tale ontdek is, maak dit moontlik om die
+   ooreenkomstige klank in verskillende Indo-Europese tale te bepaal.
+
+   Die Germaanse *b- (die streep dui aan: woordbeginnend; die * dui aan
+   dat dit Proto-Indo-Europees is en derhalwe hipoteties, aangesien daar
+   geen geskrewe bronne gevind is) kom byvoorbeeld meestal ooreen met die
+   Latynse *f-, die Griekse p^h-, die Sanskritse b^h-, die Slawiese,
+   Baltiese of Keltiese b-, et cetera, terwyl die Germaanse *f- meestal
+   ooreenkom met die Latynse, Griekse, Sanskritse, Slawiese en Baltiese p-
+   en met niks (geen aanvanklike medeklinker) in Kelties. Die eerste stel
+   ooreenkomste kom ooreen met die Indo-Europese *b^h- en die laatste stet
+   met die Proto-Indo-Europese *p- (verskuiwing in die Germaanse tale,
+   verdwyn in die Keltiese tale en behou in die ander groepe hier genoem).
+
+   Daar is enkele uitsonderinge op die wet van Grimm wat in die bostaande
+   voorbeelde buite rekening gelaat is wat reeds deur Grimm beskryf is en
+   later deur ander taalkundiges uitgewerk is. Die mees ooglopende
+   uitsonderinge op die wet van Grimm word deur die Deense taalkundige
+   Karl Verner verklaar. Die wet wat die uitsonderinge beskryf staan
+   bekend as die wet van Verner (1875).
+
+[wysig] Die wet van Verner
+
+   Volgens die wet van Grimm sou die Proto-Indo-Europese stemlose
+   plofklanke p, *t en *k ooreen moet kom met die Proto-Germaanse *f, *þ
+   (th-klank) en *x (ch-klank). In die meeste gevalle klop dit met die
+   praktyk, maar in sommige spesifieke gevalle blyk dit dat die
+   Proto-Indo-Europese *p, *t or *k ooreenkom met 'n stemhebbende variant
+   van die klanke (*b, *d en *g) in Germaans.
+
+   Verner bevind dat as die Proto-Germaanse stemlose frikatiewe *f, *þ en
+   *x onmiddellik vooraf gegaan word deur 'n klemtoonlose lettergreep, dit
+   stemhebbend word en onderskeidelik *b, *d of *g word. Verner ondersoek
+   of die verskynsel meer dikwels voorkom en vind dat dieselfde geld vir
+   die *s, wat verskuif na *z.
+
+   'n Klassieke voorbeeld van PIE *t > PGm *d is die woord vir 'vader'.
+   Proto-Indo-Europees gee *pH2te:r (H2 staan vir 'n soort 'a' en die
+   dubbelpunt vir 'n lang klank) en Proto-Germaans gee *fade:r (in plaas
+   van die *faþe:r wat die wet van Grimm voorspel).
+
+   Dit is onduidelik of die Wet van Grimm voor of na die Wet van Verner
+   plaasgevind het.
+   Kategorieë: Fonologie • Historiese taalkunde • Germaanse tale
+

@@ -1,0 +1,84 @@
+Argemone mexicana
+
+
+                       argemone
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   (Argemone mexicana)
+   (Argemone mexicana)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magnoliophyta
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Magnoliopsida
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Papaverales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Papavaceae
+     Subfamilie:   Papaveroideae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Argemone
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Spesies
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Geelblom–bloudissel (Lat.Argemone mexicana L.)
+
+[wysig] Ander name
+
+     * Engelse naam: Prickly poppy
+     * Indië naam: Satyanashi
+     * Duits naam: Stachelmohn
+
+[wysig] Vergif
+
+   Sanguinarin, Protopin Alkaloiden
+     * Das M, Ansari KM, Dhawan A, Shukla Y, Khanna SK. 2005. Correlation
+       of DNA damage in epidemic dropsy patients to carcinogenic potential
+       of argemone oil and isolated sanguinarine alkaloid in mice.Int. J.
+       Cancer. 117:709-717.
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Argemone mexicana
+
+[wysig] Link
+
+     * Ownbey GB. 1961. "The genus Argemone in South America and Hawaii".
+       Brittonia 13, 91
+
+   Kategorie: Plante
+

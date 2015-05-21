@@ -1,0 +1,90 @@
+Kroonarend
+
+
+                 Kroonarend
+   Onbedreigd
+   Tydperk: {{{fossil_range}}}
+         Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Falconiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Stephanoaetus
+                   Sclater, 1922
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     S. coronatus
+     Subspesie:    {{{subspecies}}}
+   [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+               Binomiale naam
+           Stephanoaetus coronatus
+   (Linnaeus, 1766)
+               Trinomiale naam
+               {{{trinomial}}}
+                Tipe Spesies
+             {{{type_species}}}
+           {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die kroonarend.
+   Verspreiding van die kroonarend.
+                  Sinonieme
+   {{{synonyms}}}
+
+   Die kroonarend (Stephanoaetus coronatus), is n groot, kragtige roofvoël
+   (80-90 cm) van die genus Stephanoaetus. Die kroonarend is bewoner van
+   tropiese Afrika, suid van die Sahara en word in Suid-Afrika in die
+   oostelike landstreke aangestref.
+
+   Kroonarende woon hoofsaaklik in digte woude en hul stapelvoedsel is ape
+   (veral die van die Cholorcebus-genus) en ander medium-grootte
+   soogdiere, soos dassies en klein bokkies. Alhoewel 98% van hul dieet
+   uit soogdiere bestaan, sal kroonarende ook nou en dan voëls en
+   akkedisse eet.
+
+[wysig] Ander name
+
+     * Engels: African Crowned Eagle
+     * Wetenskaplike naam: Stephanoaetus coronatus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * The 2006 IUCN Red List of Threatened Species. Bevat inligting
+       omtrent die bedreigingstatus van die Kroonarend [1].
+     * Gibbon, Guy; Maclean, Gordon & van der Merve, Steven (1997):
+       Roberts' Multimedia Birds of Southern Africa 2.1 (CD-ROM). Southern
+       African Birding cc.
+
+   Kategorie: Voëls
+

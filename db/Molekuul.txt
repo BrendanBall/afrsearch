@@ -1,0 +1,71 @@
+Molekuul
+
+
+   'n Molekuul (ook molekule; meervoud: molekule of molekules) is die
+   kleinste partikel van 'n suiwer chemiese verbinding wat steeds sy
+   chemiese samestelling en eienskappe kan behou. 'n Molekuul bestaan uit
+   meer as een atoom wat aanmekaar gebind is deur gedeelde elektrone in 'n
+   kovalente verbinding. Dit mag betsaan uit atome van dieselfde chemiese
+   element, soos in suurstofgas (O[2]), of uit atome van verskillende
+   elemente, soos in water (H[2]O).
+
+   'n Stof wat uit molekule bestaan word 'n molekulêre stof genoem.
+
+   Figuur 1. 3D (links en middel) en 'n 2D (regs) voorstellings van die
+   terpenoïde, atisaan. In die 3D model aan die linkerkant, koolstof atome
+   word verteenwoordig deur grys sfere, wit sfere verteenwoordig waterstof
+   atome en die silinders verteenwoordig die verbindings. Die model is
+   oortrek met 'n "net" voorstelling van die molekulêre oppervlak, gekleur
+   met areas van positiewe (rooi) en nagatiewe (blou) elektriese ladings.
+   In die 3D model (middel), verteenwoordig die ligte blou sfere koolstof
+   atome, die wit sfere die waterstof atome en die silinders daartussen
+   enkelverbindings.
+   Figuur 1. 3D (links en middel) en 'n 2D (regs) voorstellings van die
+   terpenoïde, atisaan. In die 3D model aan die linkerkant, koolstof atome
+   word verteenwoordig deur grys sfere, wit sfere verteenwoordig waterstof
+   atome en die silinders verteenwoordig die verbindings. Die model is
+   oortrek met 'n "net" voorstelling van die molekulêre oppervlak, gekleur
+   met areas van positiewe (rooi) en nagatiewe (blou) elektriese ladings.
+   In die 3D model (middel), verteenwoordig die ligte blou sfere koolstof
+   atome, die wit sfere die waterstof atome en die silinders daartussen
+   enkelverbindings.
+
+   Die meeste molekule is te klein om met die blote oog waar te neem, maar
+   daar is uitsonderings. 'n Voorbeeld van 'n makroskopiese molekuul is
+   DNS, wat 'n makromolekuul genoem word.
+
+   'n Eienskap van molekule is die heelgetalverhouding van die elemente
+   wat die verbinding uitmaak, ook genoem die empiriese formule. As
+   voorbeeld bestaan water altyd uit 'n 2:1 verhouding van waterstof tot
+   suurstof, en etielalkohol of etanol altyd uit koolstof, waterstof en
+   suurstof in 'n 2:6:1 verhouding. Die verhouding bepaal egter nie die
+   uniekheid van die molekuul nie – dimetiel eter het byvoorbeeld
+   dieselfde elementverhouding as etanol. Molekule met dieselfde aantal
+   atome in verskillende rangskikkings word isomere genoem.
+
+   Die chemiese formule reflekteer die presiese aantal atome waaruit 'n
+   molekuul bestaan. Die molekulêre massa word bereken vanuit die chemiese
+   formule en word volgens konvensie uitgedruk in eenhede wat gelykstaande
+   is aan 'n 1/12 van die massa van die ^12C isotoop atoom.
+
+   Molekule het vaste meetkundige ewewigte – verbindinglengtes en hoeke –
+   wat bepaal word deur die wette van kwantum meganika. 'n Suiwer stof
+   bestaan uit molekule met dieselfde meetkundige struktuur. Die chemiese
+   formule en die struktuur van 'n molekuul is die twee belangrike faktore
+   wat sy eienskappe bepaal, in in besonder sy reaktiwiteit. Isomere het
+   dieselfde chemiese formule maar het verskillende eienskappe vanweë
+   hulle verskillende strukture. Stereo-isomere is besondere soort isomere
+   waarvan die fisiese en chemiese eienskappe baie met mekaar kan
+   ooreenstem maar ook baie kan verskil ten opsigte van hul biochemiese
+   aktiwiteite.
+
+[wysig] Verwante artikels
+
+     * molekulêre meetkunde
+     * molekulêre orbitaal
+     * kovalente verbinding
+     * polêre molekules
+     * nie-polêre molekules
+
+   Kategorieë: Chemie • Fisika
+

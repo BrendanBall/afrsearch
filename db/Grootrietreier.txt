@@ -1,0 +1,122 @@
+Grootrietreier
+
+
+                    Grootrietreier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Botaurus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. stellaris
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Botaurus stellaris
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Grootrietreier of Roerdomp, is 'n seldsame standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronne
+
+[wysig] Identifikasie
+
+   Lyk soos 'n onvolwasse Gewone Nagreier, maar is heelwat groter en
+   bonkiger, duideliker gestreep en het 'n swart mus en geel of rooibruin
+   oë. Sy vlerkspan is heelwat groter as die Gewone Nagreier s'n, 100-130
+   cm, en in vlug steek sy pote heeltemal by sy stert verby.
+
+   64-81 cm
+
+[wysig] Habitat
+
+   'n Uiters skugter alleenloper in tydelike vloedvlaktes, standhoudende
+   moerasse en rivierlope in grasveld; skuil in rietplate en soortgelyke
+   digte plantegroei. Op die grond hou hulle gewoonlik in riete op soek na
+   amfibiese diere, en vis. As hy skrik, staan hy doodstil met sy snawel
+   boontoe gerig en daarom word hy nie maklik raakgesien nie. Hy word ook
+   nie maklik opgejaag nie. Hulle is gewoonlik die aktiefste gedurende
+   sonsopkoms en -ondergang.
+
+[wysig] Verspreiding
+
+   Kom voor in die Okavangodelta en die noordelike deel van Mosambiek,
+   asook in Suid-Afrika op 'n paar geïsoleerde plekke in Noord-Wes
+   Provinsie, Limpopo Provinsie en Mapumalanga. Hulle getalle is besig om
+   te verminder in die gematigde streke van Europa en Asië. Hulle kom voor
+   in die meer gematigde westelike- en suidelike streke maar migreer
+   suidwaarts na vriesvrye gebiede in die winter.
+
+[wysig] Geluid
+
+   Roep "skwark" as hy opvlieg; in die nesmaaktyd (somer) is sy lae
+   dreunende geroep bedags en snags hoorbaar. Die geluid kan die beste
+   vergelyk word met iemand wat op 'n hol boomstomp slaan. Om wyfies te
+   lok, maak hy egter 'n hoë, skerp geluid.
+
+[wysig] Ander name
+
+     * Ander Afrikaanse name: Roerdomp
+     * Engelse naam: Bittern of Great Bittern
+     * Duitse naam: Rohrdommel
+     * Wetenskaplike naam: Botaurus stellaris
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronne
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Reiers
+

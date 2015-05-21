@@ -1,0 +1,84 @@
+Otter
+
+
+                              Otters
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Rivierotters
+   Rivierotters
+                    Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Mustelidae
+     Subfamilie:   Lutrinae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+              [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                          Binomiale naam
+                          {{{binomial}}}
+                          Trinomiale naam
+                          {{{trinomial}}}
+                           Tipe Spesies
+                        {{{type_species}}}
+                              Genera
+   Amblonyx, Aonyx, Enhydra, Lontra, Lutra, Lutrogale, Pteronura
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                             Sinonieme
+   {{{synonyms}}}
+
+   Otters (Lutrinae) is amfibiese vleisetende soogdiere. The otter
+   subfamilie Lutrinae is deel van die familie Mustelidae, en kom amper
+   wêreldwyd voor.
+
+[wysig] Fisiese karaktereienskappe
+
+   Otters het lang, dun liggame met kort ledemate en pote met webbe. Alle
+   otters behalwe die seeotter het lang gespierde sterte.
+
+   Hulle het 'n sagte onderpels wat bedek word deur lang haar laag bedek
+   word. Hierdie laag hare hou die otter droog en warm.
+
+[wysig] Eksterne skakels
+
+   Sjabloon:Wikispecies
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Lutrinae
+     * The Somerset Otter Group
+     * The Otter Trust
+     * International Otter Survival Fund
+     * Otternet
+     * North American River Otter
+
+   Kategorie: Marteragtiges
+

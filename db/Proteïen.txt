@@ -1,0 +1,337 @@
+Proteïen
+
+
+   'n Voorstelling van die driedimensionele struktuur van mioglobien wat
+   die gekleurde alpha helikse vertoon. Dit is die eerste proteïen waarvan
+   die struktuur deur X-straal-kristallografie bepaal is deur Max Perutz
+   en Sir John Cowdery Kendrew in 1958, wat daartoe gelei het dat die
+   Nobelprys vir Chemie aan hulle toegken is.
+   'n Voorstelling van die driedimensionele struktuur van mioglobien wat
+   die gekleurde alpha helikse vertoon. Dit is die eerste proteïen waarvan
+   die struktuur deur X-straal-kristallografie bepaal is deur Max Perutz
+   en Sir John Cowdery Kendrew in 1958, wat daartoe gelei het dat die
+   Nobelprys vir Chemie aan hulle toegken is.
+
+   'n Proteïen (in Grieks πρωτεϊνη = eerste draad) is 'n komplekse,
+   hoë-molekulêre-massa organiese verbinding wat bestaan uit aminosure
+   verbind deur peptiedbindings. Proteïene is noodsaaklik vir die
+   struktuur en funksie van alle lewende selle en virusse. Baie proteïene
+   is ensieme of subeenhede van ensieme. Ander proteïene vervul
+   strukturele of meganiese rolle, soos die wat (dwars)verbindings van die
+   cytoskeletvorm en as biologiese ondersteuning dien vir die meganiese
+   integriteit en weefselseinfunksies. Ander funksies wat deur proteïene
+   vervul word sluit in immuunreaksie en die stoor en vervoer van verskeie
+   ligande. In voeding, dien proteïene as die bron van aminosure vir
+   organismes wat nie self die aminosure kan vervaardig nie.
+
+   Proteïene is een van die klasse van bio-makromolekule, saam met
+   polisakariede, vette, en nukleïensure, wat die hoofbestanddele van
+   lewende dinge is. Hulle is van die mees aktief bestudeerde molekules in
+   biochemie, en is in 1838 deur Jöns Jakob Berzelius ontdek.
+
+   Byna alle natuurlike proteïene word deur DNA gekodeer. DNA word
+   getranskribeer om RNA te lewer, wat dien as die sjabloon vir translasie
+   deur ribosome.
+
+   Inhoud
+
+        * 1 Struktuur
+        * 2 Funksies
+             + 2.1 Meganismes van proteïen regulering
+        * 3 Diversiteit
+        * 4 Met proteïene werk
+        * 5 Proteïene en voeding
+        * 6 Geskiedenis
+        * 7 Verwysings
+        * 8 Kyk ook
+        * 9 Eksterne skakels
+
+[wysig] Struktuur
+
+   Proteïenstruktuur
+   Proteïenstruktuur
+
+   Proteïene is aminosuurkettings wat in unieke 3-dimensionele strukture
+   gevou is. Die vorm waarin 'n proteïen natuurlik vou staan bekend as die
+   natuurlike toestand van die proteïen, wat bepaal word deur die volgorde
+   van aminosure in die proteïen. Biochemici verwys na vier afsonderlike
+   aspekte van 'n proteïen se struktuur:
+     * Primêre struktuur: die aminosuurvolgorde
+     * Sekondêrestruktuur: sub-strukture met bepaalde patrone — alpha
+       heliks and beta plaat — of segmente van die ketting wat geen
+       stabiele vorm aan neem nie. Sekondêre strukture word lokaal bepaal,
+       wat beteken dat daar baie verskillende sekondêre eienskappe in 'n
+       enkele proteïenmolekule teenwoordig kan wees.
+     * Tersiêre struktuur: die algehele vorm van 'n enkele
+       proteïenmolekule; die ruimtelike verwantskap van die sekondêre
+       strukturele eienskappe tot mekaar.
+     * Kwaternêre struktuur: die vorm of struktuur wat ontstaan uit die
+       vereniging van meer as een proteïen molekule, gewoonlik genaamd
+       subeenheid proteïene subeenhede in hierdie konteks, wat funksioneer
+       as deel van die groter samestelling of proteïenkompleks.
+
+   Benewens hierdie struktuurvlakke, kan proteïene tussen verslkeie
+   soortgelyke strukture wissel om hulle biologie funksie te vervul. In
+   die konteks van hierdie funksionele herrangskikkings, word daar
+   gewoonlik na hierdie tersiêre of kwaternêre strukture verwys
+   as"konformasies," en oorgange tussen hulle word konformasie
+   veranderings genoem.
+
+   Die primêre struktuur word deur kovalente peptiedbindings, wat tydens
+   die translasieproses gemaak word, aanmekaar gehou. Die sekondêre
+   strukture word aanmekaar gehou deur waterstofbindings. Die tersiêre
+   struktuur word hoofsaaklik aanmekaar gehou deur hidrofobiese
+   interaksies maar waterstofbindings, ioniese interaksies, en disulfide
+   bonds is gewoonlik ook betrokke.
+
+   Die proses waarvolgens die hoër strukture vorm word proteïenvou genoem
+   en is 'n gevolg van die primêre struktuur. Die meganisme van
+   proteïenvou word tans nog nie nie volledig verstaan nie. Alhoewel enige
+   unhieke polipeptiede meer as een stabiele voukonformasie kan hê, elke
+   konformasie het sy eie biologiese aktiwiteit en slegs een konformasie
+   word as die aktiewe of natuurlike konformasie beskou.
+
+   Die twee eindpunte van 'n amunosuurketting word die carboksie terminus
+   (C-terminus) en die amino terminus (N-terminus) genoem opgrond van die
+   aard van die vry groep op elke punt.
+
+[wysig] Funksies
+
+   Proteïene is betrokke by so te sê elke fundksie wat in die sel verrig
+   word, insluitend regulasie van ander selfunksies soos seintransduksie
+   en metabolisme. Byvoorbeeld, proteïen katabolisme vereis ensieme
+   genaamd proteaseë en ander ensieme soos glycosidase.
+
+[wysig] Meganismes van proteïen regulering
+
+   Verskeie molekules en ione kan aan spesifieke plekke op proteïene bind.
+   Hierdie plekke word bindplekke genoem. Hulle vertoon chemiese
+   spesifisiteit. Die deeltjie wat bind word die ligand genoem. Die
+   sterkste van die ligand-proteïen binding is 'n eienskap van die
+   bindplek wat bekend staan as affiniteit.
+
+   Aangesien proteïne betrokke is by byna alle funksies wat deur 'n sel
+   verrig word, steun meganismes vir beheer van hierdie funksies dus op
+   die beheer van proteïen aktiwiteit. Regulering kan 'n proteïen se vorm
+   of konsentrasie behels. Sommige vorms van regulering sluit in:
+     * Allosteriese modulasie: As die binding van 'n ligand op een plek op
+       'n proteïen die binding van 'n ligand op 'n ander plek affekteer.
+     * Kovalente modulasie: As die kovalente verandering van 'n proteïen
+       die binding van 'n ligand of een of ander ander aspek van 'n
+       proteïen se funksie affekteer
+
+[wysig] Diversiteit
+
+   Proteïene is normaalweg groot molekules met molekulêremassas van tot
+   3 000 000 (die spierproteïen titien het 'n enkele aminosuurketting
+   27 000 subeenhede lank). Sulke lang aminosuurkettings word byna altyd
+   as proteïne beskou, maar korter stringe van aminosure word
+   "polipeptiedes," "peptiedes" of selde, "oligopeptiedes" genoem. Die
+   onderskeid is ongedefinieer, alhoewel "polipeptiede" gewoonlik na 'n
+   aminosuurketting verwys wat 'n tersiêre struktuur ontbreek en meer
+   waarskynlik as 'n hormoon (soos insulien), optree eerder as 'n ensiem
+   (wat steun op sy tersiêre struktuur vir funksionaliteit).
+
+   Proteïene word gewoonlik geklassifiseer as oplosbaar, filamentous of
+   membraan-geassoseer (kyk integrale membraanproteïen). Byna al die
+   biologiese kataliste bekend as ensieme is oplosbare proteïene (met die
+   onlangse noemenswaardige uitsondering van die ontdekking van ribozymes,
+   RNA molekules met die katalitiese eienskappe van ensieme.) teenliggame,
+   die basis vir die adaptive immuunstelsel, is 'n ander voorbeeld van
+   oplosbare proteïne. Membraan-geassoseerde proteïene sluit in uitruilers
+   en ioonkanale, wat hulle substrate van een plek na 'n ander beweeg maar
+   dit nie verander nie; ontvangers, wat nie hulle substrate verander nie
+   maar eenvoudig vorm verwissel wanneer gebind word. Filamentous
+   proteïene vorm die cytoskelet van selle en groot dele van die struktuur
+   van diere, voorbeelde sluit in: tubulien, aktien, kollageen en
+   keratien, wat almal belangrike onderdele van vel, hare, en kraakbeen
+   is. 'n Ander spesiale klas van proteïene bestaan uit motorproteïene
+   soos myosin, kinesin, en dynein. Hierdie proteïene is "molekulêre
+   motors," wat fisiese krag opwek wat organelle, selle, en hele spiere
+   kan beweeg.
+   Molekulêre oppervlak van verskeie proteïene wat hulle vergelykende
+   grootte aandui. Van links na regs: Teenliggaam (IgG), Hemoglobien,
+   Insulien ('n hormoon), Adenylate Kinase ('n ensiem), en Glutamien
+   Synthetase ('n ensiem).
+   Molekulêre oppervlak van verskeie proteïene wat hulle vergelykende
+   grootte aandui. Van links na regs: Teenliggaam (IgG), Hemoglobien,
+   Insulien ('n hormoon), Adenylate Kinase ('n ensiem), en Glutamien
+   Synthetase ('n ensiem).
+
+[wysig] Met proteïene werk
+
+   Kristal van Malic Ensiem wat in die ruimte vervaardig is na vele
+   onsuksesvolle pogings op aarde. Dit is 'n belangrike teikenproteïen vir
+   medisyneontwerp
+   Kristal van Malic Ensiem wat in die ruimte vervaardig is na vele
+   onsuksesvolle pogings op aarde. Dit is 'n belangrike teikenproteïen vir
+   medisyneontwerp
+
+   Proteïene is sensitief ten opsigte van hulle omgewing. Hulle kan
+   moontlik slegs in hulle natuurlike toestand aktief wees, oor 'n klein
+   pH gebied, en onder oplossing omstandighede met 'n minimum hoeveelheid
+   elektroliete. 'n Proteïen in sy natuurlike toestand word baie keer
+   beskryf as gevou. 'n Proteïen wat nie in sy natuurlike toestand is nie
+   word beskryf as gedenatureer. Gedenatureer proteïne het oor die
+   algemeen geen goed-gedefinieerde sekondêre struktuur nie. Baie
+   proteïene denatureer en sal nie in oplossing bly in gedistilleerde
+   water nie.
+
+   Een van die merkwaardigste ontdekkings van die 20ste eeu was dat die
+   natuurlike en gedenatureerde toestande in baie proteïene wisselbaar
+   (omruilbaar) is, dat deur versigtige beheer van oplossing omstandighede
+   (byvoorbeeld, dialiseer 'n denaturerende chemiese stof), 'n
+   gedenatureerde proteïen na sy natuurlike vorm omskep kan word. Die
+   vraag oor hoe proteïene by hulle natuurlike staat uitkom is 'n
+   belangrike studieveld in biochemie, genaamd die studie van proteïenvou.
+
+   Deur genetiese ingryping, kan navorsers die volgorde en dus die
+   struktuur, "targeting", gevoeligheid teenoor regulasie en ander
+   eienskappe van 'n proteïen verander. Die genetiese rangskikking van van
+   verskillende proteïne kan saam gelas word om "chimeriese" proteïne wat
+   eienskappe van beide het te maak. Hierdie vorm van ingryping of
+   manupulasie verteenwoordig een van die hoof gereedskapstukke van sel-
+   en molekulêrebioloë om die werking van 'n sel te verander en die
+   werking daarvan te verken. 'n Ander proteïnnavorsingsveld poog om deur
+   genetiese ingryping proteïne daar te stel met geheel en al nuwe
+   funksies, 'n veld bekend as proteïenmanipulasie.
+
+   Proteïen-proteïen interaksies kan gesif word vir gebruik van
+   twee-hibried sifting.
+
+[wysig] Proteïene en voeding
+
+   Proteïene is 'n belangrike makrovoedingstof in die menslike dieet, dit
+   verskaf die liggaam se behoeftes aan stikstof en aminosure. Die
+   presiese hoeveelheid voedselproteïene wat benodig word om die behoeftes
+   te bevredig kan baie varieer afhangende van ouderdom, geslag, vlak van
+   fisiese aktiwiteit en mediese toestand. 0,75g per kilogram van
+   liggaamsgewig vir 'n sedentêre manlike persoon word egter gereeld as
+   daaglikse vereiste gemeld. Proteïne word in meeste kos aangetref maar
+   kom veral voor in peulgewasse, neute, vleis, en suiwelprodukte. Tydens
+   gebruik, word baie proteïene deur proteïen katabolisme tot ammonia
+   omskep wat as gevolg van die toksisiteit daarvan in of urea of uriese
+   suur (in sommige diere) omskep word wat dan in urine afgeskei word.
+   Proteïne is die hoof komponent van spiere, senings, ensieme, vel, hare,
+   oë, en 'n reuse verskeidenheid van ander organe en prosesse.
+
+   Die gehalte van proteïen inname is belangrik omdat verskillende
+   proteïene essensiële aminosure in verskillende verhoudings verskaf.
+   Gegee genoegsame inname van stikstof, kan die menslike liggaam 10 van
+   die 18 aminosure uit glukose vervaardig. Die oorblywende 8 aminosure
+   (threonine, valine, tryptophan, isoleucine, leucine, lysine,
+   phenylalanine, en methionine) kan nie deur die liggaam vervaardig word
+   nie en moet uit dieet bronne verkry word. Hulle word dus essensiële
+   aminosure genoem. Proteïne wat gelyke hoeveelhede van al die essensiële
+   aminosure bevat in betreklik ruim hoeveelhede word baie keer as
+   "volledig" beskryf. Ondanks die uitlokkende etiket hoef 'n goeie
+   voedsame dieet nie op sogenaamde "volledige" proteïene te berus nie
+   aangesien nie-volledige proteïene in komplementêre kombinasies
+   geredelik die hele spektrum van essensiële aminosure kan voorsien. Die
+   hedendaagse metode vir die gradering van die volledigheid van 'n
+   proteïen staan bekend as die PDCAAS (Protein Digestibility Corrected
+   Amino Acid Score).
+
+   Proteïen tekort kan lei tot simptome soos moegheid, insulienweerstand,
+   haarverlies, verlies van haarpigment (haar wat swart behoort te wees
+   word rooierig), spiermasssaverlies (proteïene herstel spierweefsel),
+   lae liggaamstemperatuur, en hormoononreëlmatighede. Verskeie proteïen
+   tekorte, slegs aangetref in tye van hongersnood, is fataal.
+
+   Oortollige proteïen inname kan ook probleme veroorsaak, soos oorreaksie
+   van die immuunstelsel, lewer disfunksie as gevolg van verhoogde giftige
+   oorbyfsels, beenverlies as gevolg van verhoogde suurvlakke in die bloed
+   en laminitis (voet probleme) in perde. Die aanname dat hoë
+   proteïendiete sleg is vir bene spruit daaruit dat kalsium uitskeiding
+   verhoog wanneer proteïen inname styg. Daar is egter onlangs gewys dat
+   opname van kalsium deur die spyskanaal ook verhoog en so lank kalsium
+   inname instand gehou word, hoë proteïen inname voordele vir been in
+   ouer vrou kan hê. Sjabloon:Verw.
+
+   Proteïne kan baie keer 'n rol speel by allergieë en allergiese reaksies
+   tot sekere voedselsoorte. Dit gebeur omdat die struktuur van elke
+   proteïen vorm effens verskil, en sommige kan 'n reaksie van die
+   immuunstelsel ontlok terwyl ander heeltemal veilig is. Baie mense is
+   allergies vir casein, die proteïen in melk; gluten, die proteïen in
+   koring en ander graankosse; die spesifieke proteïene wat in
+   grondboontjies; of in shellfish of ander seekosaangetref word. Dit is
+   uiters ongewoon vir dieselfde persoon om negatief te reageer op meer as
+   twee verskillende tipes proteïene.
+
+[wysig] Geskiedenis
+
+   Die eerste verwysing na die woord proteïen, wat betken van eerste rang,
+   is van 'n brief gestuur deurJöns Jakob Berzelius aan Gerhardus Johannes
+   Mulder op 10 Julie 1838, waar hy geskryf het:
+
+          «Le nom protéine que je vous propose pour l’oxyde organique de
+          la fibrine et de l’albumine, je voulais le dériver de πρωτειοξ,
+          parce qu’il paraît être la substance primitive ou principale de
+          la nutrition animale.»
+
+   Vertaal as:
+
+          "Die naam proteïen wat ek voorstel vir die organiese oksied van
+          fibrin en albumin, wou ek van [die Griekse woord] πρωτειοξ
+          aflei, omdat dit blyk dat dit die primitiewe of hoof onderdeel
+          van diervoeding is."
+
+   Ondersoek aangaande proteïne en hulle eienskappe vind reeds sedert die
+   1800 plaas toe wetenskaplikes die eerste tekens van die, op daardie
+   tydstip, onbekende klas van organiese verbindings begin waarneem het.
+
+[wysig] Verwysings
+
+    1. ^  Vermeerderde spysknaal absorbering van kalsium is berrig in
+       "Dietary protein, calcium metabolism, and skeletal homeostasis
+       revisited" deur J. E. Kerstetter, K. O. O'Brien and K. L. Insogna
+       (2003) volume 78 pages 584S-592S. 'n Gebrek aan die impak van hoë
+       proteïen inname op been is berrig in "The impact of dietary protein
+       on calcium absorption and kinetic measures of bone turnover in
+       women" by J. E. Kerstetter, K. O. O'Brien, D. M. Caseria, D. E.
+       Wall and K. L. Insogna in J Clin Endocrinol Metab (2005) volume 90
+       pages 26-31, Sjabloon:Entrez Pubmed. Onlangse kliniese studie
+       resultate wat dui op voordele vir been van 'n hoë proteïen dieet as
+       kalsium inname gehandhaaf word: "Protein consumption is an
+       important predictor of lower limb bone mass in elderly women" by A.
+       Devine, I. M. Dick, A. F. Islam, S. S. Dhaliwal and R. L. Prince
+       RL. in Am J Clin Nutr (2005) volume 81 pages 423-428,
+       Sjabloon:Entrez Pubmed.
+
+[wysig] Kyk ook
+
+     * Biochemie
+     * Kristallografie
+     * Gedenatureerde proteïen
+     * Intein
+     * Peptide
+     * Prion
+     * Proteinoid
+     * Proteïenstruktuurvoorspelling
+     * Proteïen targeting
+     * Proteome
+     * Ribosome
+     * Standaard kurwe
+     * Strukturele genomika
+
+   Sjabloon:Proteïen onderwerpe
+
+[wysig] Eksterne skakels
+
+     * UniProt the Universal Protein Resource
+     * Human Protein Atlas
+     * Proteins: Biogenesis to Degradation - The Virtual Library of
+       Biochemistry and Cell Biology
+     * MIT's Laboratory for Protein Molecular Self-Assembly
+     * Numerous publications on synthetic biomimetic protein-based
+       biomaterials
+     * Protein Research: Western Blot Protocols, Troubleshooting and
+       Theory
+     * The Protein Databank: The single worldwide repository for the
+       processing and distribution of 3-D biological macromolecular
+       structure data.
+     * Amino acid metabolism
+     * Protein Images
+
+   Kategorieë: Proteïene • Biochemie • Voeding
+

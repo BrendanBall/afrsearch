@@ -1,0 +1,80 @@
+Gadiformes
+
+
+                      Gadiformes
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+   Tusk (Brosme brosme) (op Faroëse posseël)
+   Tusk (Brosme brosme) (op Faroëse posseël)
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Actinopterygii
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gadiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     {{{familia}}}
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                       Families
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Gadiformes, Skelvisagtiges of Kabeljouagtiges, is 'n orde van
+   straalgevinde beenvisse wat ook as die Anacanthini bekendstaan wat die
+   kabeljou en verwante visse insluit. Baie belengrike eetvisse is in die
+   orde.
+
+   Alegemene kenemerke sluit die posisie van die bekkenvinne (indien
+   teenwoordig), onder die agter anterior die borsvinne. Die vinne is
+   werwellooss, en die gasblaas het nie 'n pneumatiese buis nie.
+
+[wysig] Verwysing
+
+     * D.M. Cohen, T. Inada, T. Iwamoto and N. Scialabba, FAO species
+       catalogue. Vol. 10. Gadiform fishes of the world (Order
+       Gadiformes). An annotated and illustrated catalogue of cods, hakes,
+       grenadiers and other gadiform fishes known to date. FAO Fisheries
+       Synopsis 10 (125) (1990)
+
+[wysig] Eksterne skakel
+
+     * FishBase page for Gadiformes
+
+   Kategorie: Gadiformes
+

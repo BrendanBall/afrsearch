@@ -1,0 +1,191 @@
+Kripton
+
+
+
+   36                       broom ← kripton → rubidium
+   Ar
+   ↑
+   Kr
+   ↓
+   Xe
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                      Naam, Simbool, Getal kripton, Kr, 36
+                                                  Chemiese reeks edelgasse
+                                             Groep, Periode, Blok 18, 4, p
+                                                        Voorkoms kleurloos
+                                               Atoommassa 83.798 (2) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^6
+                                            Elektrone per skil 2, 8, 18, 8
+                                                        Fisiese Eienskappe
+                                                              Toestand gas
+                                             Digtheid (0 °C, 101.325 kPa)
+                                                                 3.749 g/L
+                                                        Smeltpunt 115.79 K
+                                                             (-157.36 °C)
+                                                         Kookpunt 119.93 K
+                                                             (-153.22 °C)
+                                          Kritieke punt 209.41 K, 5.50 MPa
+                                               Smeltingswarmte 1.64 kJ/mol
+                                             Verdampingswarmte 9.08 kJ/mol
+                               Warmtekapasiteit (25 °C) 20.786 J/(mol·K)
+
+   CAPTION: Dampdruk {{{kommentaar}}}
+
+                                           P/Pa   1  10 100 1 k 10 k 100 k
+                                         teen T/K 59 65 74  84   99   120
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                      Oksidasietoestande 2
+                              Elektronegatiwiteit 3.00 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                (meer) 1ste: 1350.8 kJ/mol
+                                                        2de: 2350.4 kJ/mol
+                                                         3rde: 3565 kJ/mol
+                                                  Atoomradius (ber.) 88 pm
+                                                   Kovalente radius 110 pm
+                                               Van der Waals radius 202 pm
+                                                                   Diverse
+                                     Magnetiese rangskikking nie-magneties
+                         Termiese geleidingsvermoë (300 K) 9.43 mW/(m·K)
+                                     Spoed van klank (gas, 23 °C) 220 m/s
+                                      Spoed van klank (vloeistof) 1120 m/s
+                                              CAS-registernommer 7439-90-9
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van krypton
+
+                              iso   NV   halfleeftyd VM    VE (MeV)   VP
+                             ^78Kr 0.35% 2.3×10^20 j ε ε -           ^78Se
+                             ^79Kr sin   35.04 h     ε   -           ^79Br
+                                                     β^+ 0.604       ^79Br
+                                                     γ   0.26, 0.39,
+                                                         0.60        -
+                             ^80Kr 2.25% Kr is stabiel met 44 neutrone
+                             ^81Kr sin   2.29×10^5 j ε   -           ^81Br
+                                                     γ   0.281       -
+                             ^82Kr 11.6% Kr is stabiel met 46 neutrone
+                             ^83Kr 11.5% Kr is stabiel met 47 neutrone
+                             ^84Kr 57%   Kr is stabiel met 48 neutrone
+                             ^85Kr sin   10.756 j    β^- 0.687       ^85Rb
+                             ^86Kr 17.3% Kr is stabiel met 50 neutrone
+
+                                                                Verwysings
+
+   Kripton is 'n chemiese element in die periodieke tabel met die simbool
+   Kr en atoomgetal van 36. Kripton is 'n kleurlose edelgas wat in
+   spoorhoeveelhede in die atmosfeer voorkom en word ontgin deur die
+   distillasie van vervloeide lug. Dit word dikwels saam met ander skaars
+   gasse gebruik in fluoresserende lampe. Kripton is vir alle praktiese
+   doeleindes inert maar daar is al verbindings met fluoor bekend. Kripton
+   vorm ook klatrate met water wanneer atome daarvan in die
+   waterkristalnetwerk vasgevang word.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Geskiedenis
+        * 3 Verspreiding
+        * 4 Verbindings
+        * 5 Isotope
+        * 6 Kriptonfluoriedlaser
+        * 7 Eksterne skakels
+        * 8 Verwysings
+
+[wysig] Kenmerkende eienskappe
+
+   Kripton word 'n edelgas genoem vanweë sy lae chemiese reaktiwiteit en
+   word gekenmerk deur sy heldergroen en oranje spektrum. Dit is een van
+   die produkte van die kernfisie van uraan. Kripton in sy vastestofvorm
+   is 'n wit, kristallyne materiaal met 'n kubies vlakgesentreerde
+   kristalstruktuur wat 'n algemene eienskap is van die edelgasse.
+
+[wysig] Geskiedenis
+
+   Kripton (vanaf Grieks κρυπτός wat "versteek") beteken is 'n die
+   Verenigde Koninkryk in 1898 deur William Ramsay en Morris Travers
+   ontdek in die oorblywende fraksie nadat hulle bykans al die komponente
+   van vloeibare lug laat verdamp het. In 1960 is 'n internasionale
+   ooreenkoms bereik wat die meter gedefinieer het in terme van die lig
+   wat vanaf 'n kripton isotoop uitgestraal word. Hierdie ooreenkoms het
+   die ou standaard meter wat in uit 'n platinum-iridiumlegering
+   vervaardig is en in Parys bewaar is vervang. In Oktober van 1983 is die
+   kripton standaard deur die Internasionale Buro vir Gewigte en Mates
+   vervang. 'n Meter word nou gedefinieer deur die afstand wat lig aflê in
+   'n vakuum in 'n 1/299 792 458 deel van 'n sekonde.
+
+[wysig] Verspreiding
+
+   Die konsentrasie van hierdie gas in die atmosfeer is ongeveer 1 dpm.
+   Dit kan uit lug herwin word deur fraksionele distillasie.
+
+[wysig] Verbindings
+
+   Soos die ander edelgasse word kripton as 'n chemiese inerte element
+   beskou. Studies wat egter sedert die 1960's gedoen is toon dat daar wel
+   verbindings van kripton bestaan. Kriptondifluoried is in
+   gramhoeveelhede vervaardig en kan op verskeie maniere vervaardig word.
+   Ander fluoriede en 'n sout van kripton oksosuur is ook gevind. ArKr+ en
+   KrH+ molekulêre ione is al ondersoek en daar bestaan bewyse dat KrXe of
+   KrXe+ bestaan.
+
+   Navorsers by die Universiteit van Helsinki in Finland het onlangs HKrCN
+   en HKrCCH (kriptonhidried-sianied en hidrokripto-asetileen)
+   gesintetiseer; hulle is stabiel tot en met 40 K [1].
+
+[wysig] Isotope
+
+   Kripton kom natuurlik in vyf verskillende stabiele isotope en een
+   effens Radio-aktiewe isotoop. Kripton se kenmerkende spektrum word
+   maklik verkry met baie skerp lyne. Kr-81 is die produk van atmosferiese
+   reaksies met ander natuurlike isotope van Kripton. Dit is radio-aktief
+   met 'n halfleeftyd van 250 000 jaar. Soos xenon is kripton baie vlugtig
+   naby oppervlakwaters en is Kr-81 dus al gebruik om die ouderdom van
+   grondwaters vas te stel.
+
+   Kr-85 is 'n inerte radio-aktiewe edelgas met 'n halfleeftyd van 10.76
+   jaar, wat ontstaan as gevolg van die kernfissie van uraan en plutonium.
+   Bronne van die materiaal sluit in kernbomtoetse, kernreaktore en die
+   vrystelling van Kr-85 tydens die herverwerking van brandstofstawe van
+   kernreaktore.
+
+   Daar bestaan 'n waarneembare verskil in konsentrasies van Kr-85 in die
+   noordelike halfrond en in die suidelike halfrond. Die konsentrasie by
+   die Noordpool is ongeveer 30% hoër as by die Suidpool vanweë die feit
+   dat die meeste Kr-85 in die noordelike halfrond vervaardig word en die
+   vermenging tussen die noordelike- en suidelike halfronde relatief
+   stadig is.
+
+[wysig] Kriptonfluoriedlaser
+
+   Een groot gebruik van kripton is die kriptonfluoriedlaser. Sekere
+   hoeveelhede energie word bygevoeg om kripton gas te forseer om met
+   fluoorgas te reageer om kriptonfluoried te vorm (KrF[2]).
+
+   Die verbinding ontbind sodra die verskaffing van energie gestaak word.
+   Tydens die ontbindingsproses word die oortollige chemiese energie wat
+   in die verbinding gestoor is, uitgestraal in die vorm van sterk
+   laserenergie.
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Krypton
+     * WebElements.com – se artikel oor Kripton
+     * Artikel oor Kriptonfluoriedlasers
+     * 'n Wiki oor Berekeningschemie
+
+[wysig] Verwysings
+
+     * "Chemical Elements: From Carbon to Krypton" By: David Newton &
+       Lawrence W. Baker
+     * "Krypton 85: a Review of the Literature and an Analysis of
+       Radiation Hazards" By: William P. Kirk
+
+   Kategorie: Chemiese elemente
+

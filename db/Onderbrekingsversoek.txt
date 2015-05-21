@@ -1,0 +1,40 @@
+Onderbrekingsversoek
+
+
+   In rekenaarwetenskap is 'n onderbrekingsversoek (Engels: Interrupt
+   request of IRQ) 'n term wat gebruik word om te verwys na die bewerking
+   waar die buslyne onderbreek word deur 'n sein of dan die
+   onderbrekingsinsetlyne van 'n programmeerbare onderbrekingsbestuurder
+   (Engels: Programmable Interrupt Controller of PIC). Onderbrekingslyne
+   word dikwels geïdentifiseer met 'n indeks wat geskryf word in die
+   formaat IRQ gevolg deur 'n nommer.
+
+   Op die Intel 8259 reeks PIC's is daar agt onderbrekingsinsette wat
+   gewoonlik na verwys word as IRQ0 tot IRQ7. In x86 gebaseerde
+   rekenaarstelsels wat twee van hierdie PIC's gebruik word die
+   gekombineerde stel lyne na verwys as IRQ0 tot IRQ15.
+
+   Nuwer x86 stelsels integreer 'n APIC wat ooreenstem met die Intel
+   APIC-argitektuur. Hierdie APICs ondersteun 'n programmeringskoppelvlak
+   vir soveel as 255 fisiese hardeware IRQ-lyne per APIC, met 'n tipiese
+   stelsel wat ondersteuning vir slegs sowat 24 hardeware lyne bied.
+
+   Sien Intel 8259 vir 'n lys van hardeware IRQ-lyne in x86-stelsels.
+
+[wysig] Sien ook
+
+     * Gevorderde programmeerbare onderbrekingsbestuurder
+     * Programmeerbare onderbrekingsbestuurder
+     * Intel 8259
+
+[wysig] Verwysings
+
+     * Gilluwe, Frank van. The Undocumented PC, Second Edition,
+       Addision-Wesley Developers Press, 1997. ISBN 0-201-47950-8
+     * Shanley, Tom. ISA System Architecture, Third Edition,
+       Addison-Wesley Publishing Company, 1995. ISBN 0201409968
+     * Solari, Edward. PCI & PCI-X Hardware and Software Architecture &
+       Design, Sixth Edition, Research Tech Inc., 2004. ISBN 0976086506
+
+   Kategorie: Rekenaar
+

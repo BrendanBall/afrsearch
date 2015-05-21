@@ -1,0 +1,192 @@
+Wikipedia:Wikiprojek Elemente
+
+
+
+   79                         Platinum ← Goud → Kwik
+   Ag
+   ↑
+   Au
+   ↓
+   Rg
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                         Naam, Simbool, Getal Goud, Au, 79
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 11, 6, d
+                                                       Voorkoms metaalgeel
+                                                Atoommassa 196.96655 g/mol
+                                Elektronkonfigurasie [Xe] 4f^14 5d^10 6s^1
+                                    Elektrone per skil 2, 8, 18, 32, 18, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                          Digtheid (naby k.t.) 19.3 g/cm³
+                                 Vloeistof digtheid teen s.p. 17.31 g/cm³
+                                                       Smeltpunt 1337.33 K
+                                                             (1064.18 °C)
+                                                           Kookpunt 3129 K
+                                                                (2856 °C)
+                                              Smeltingswarmte 12.55 kJ/mol
+                                              Verdampingswarmte 324 kJ/mol
+                               Warmtekapasiteit (25 °C) 25.418 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1646 1814 2021 2281 2620 3078
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                   Oksidasietoestande 3, 1
+                                                      (amfoteriese oksied)
+                              Elektronegatiwiteit 2.54 (Skaal van Pauling)
+                                    Ionisasie energieë 1ste: 890.1 kJ/mol
+                                                          2de: 1980 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 174 pm
+                                                   Kovalente radius 144 pm
+                                               Van der Waals radius 166 pm
+                                                                   Diverse
+                                      Magnetiese rangskikking diamagneties
+                                Elektriese weerstand (20 °C) 22.14 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 318 W/(m·K)
+                              Termiese uitsetting (25 °C) 14.2 µm/(m·K)
+                         Spoed van klank (dun staaf) (k.t.) (hardgetrokke)
+                                                                  2030 m/s
+                                                   Young se modulus 78 GPa
+                                                       Skuifmodulus 27 GPa
+                                                      Massamodulus 220 GPa
+                                                    Poissonverhouding 0.44
+                                                      Mohs se hardheid 2.5
+                                                  Vickers hardheid 216 MPa
+                                                 Brinell hardheid 2450 MPa
+                                              CAS-registernommer 7440-57-5
+                                                        Vernaamste isotope
+
+                   CAPTION: Hoofartikel: Isotope van goud
+
+                                iso    NV  halfleeftyd VM  VE (MeV)   VP
+                               ^195Au sin  186.10 d    ε   0.227    ^195Pt
+                               ^196Au sin  6.183 d     ε   1.506    ^196Pt
+                                                       β^- 0.686    ^196Hg
+                               ^197Au 100% Au is stabiel met 118 neutrone
+                               ^198Au sin  2.69517 d   β^- 1.372    ^198Hg
+                               ^199Au sin  3.169 d     β^- 0.453    ^199Hg
+
+                                                                Verwysings
+
+   Die inligtingstabel bestaan uit 'n reeks sjablone wat die geskikte rye
+   in die tabel skep.
+     * {{Elementboks_opskrif}} — maak die tabel oop; skep die tabelbeeld
+       skakel en ander navigasie goeters; Eerste opskrif "Algemeen"; naam,
+       simbool, nommer
+     __________________________________________________________________
+
+     * {{Elementboks_reeks}} — eenveudige sleutel/inhoud
+     * {{Elementboks_groepperiodeblok}} — drie parameters; skep skakels
+       groep_X_element, periode_X_element en X_blok
+     * {{Elementboks_voorkoms}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_voorkoms_beeld}} — sluit die standaard beeldskakel in
+       (los die spasie na die beeldnaam uit)
+     * {{Elementboks_atoommassa_gpm}} — sluit eenheid gram per mol in
+     * {{Elementboks_ekonfig}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_eperskil}} — eenvoudige sleutel/inhoud
+     __________________________________________________________________
+
+     * {{Elementboks_afdeling_fisieseiensk}} — opskrif met kleur
+       parameters
+     * {{Elementboks_fase}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_digtheid_gpcm3nkt}} — sluit eenhede in gram per
+       kubieke sentimeter; toestand naby kamer temperatuur
+     * {{Elementboks_digtheid_gplstd}} vir gasse, sluit die eenheid gram
+       per liter in; Standaard temperatuur en druk toestand.
+     * {{Elementboks_digtheidvl_gpcm3sp}} — sluit eenhede gram per kubieke
+       sentimeter in; toestand by smeltpunt
+     * {{Elementboks_smeltpunt}} — drie paramaters; sluit eenhede kelvin,
+       grade Celsius in
+     * {{Elementboks_kookpunt}} — drie paramaters; sluit eenhede kelvin,
+       grade Celsius in
+     * {{Elementboks_kritiekepunt}} — twee parameters; sluit eenhede
+       kelvin en MPa in.
+     * {{Elementboks_smeltwarm_kjpmol}} — sluit eenhede kilojoule per mol
+       in
+     * {{Elementboks_verdampwarm_kjpmol}} — sluit eenhede kilojoule per
+       mol in
+     * {{Elementboks_warmtekap_jpmolkat25}} — sluit eenheid joule per mol
+       per kelvin in; toestand by 25°
+     * {{Elementboks_dampdruk_katpa}} — ingevoegde sub-tabel; ses
+       parameters plus kommentaar
+     __________________________________________________________________
+
+     * {{Elementboks_afdeling_atoomeiensk}} — opskrif met kleur parameters
+     * {{Elementboks_kristalstruktuur}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_oksiedtoest}} — simple eenvoudige sleutel/inhoud
+     * {{Elementboks_elektroneg_pauling}} — sluit pauling skaal in
+     * {{Elementboks_ioonenergie1}} — een ry en parameter; sluit eenheid
+       kilojoule per mol in
+     * {{Elementboks_ioonenergie2}} — een ry en parameter; sluit eenheid
+       kilojoule per mol in
+     * {{Elementboks_ioonenergie3}} — een ry en parameter; sluit eenheid
+       kilojoule per mol in
+     * {{Elementboks_ioonenergie4}} — een ry en parameter; sluit eenheid
+       kilojoule per mol in
+     * {{Elementboks_atoomradius_pm}} — sluit eenheid picometer in.
+     * {{Elementboks_atoomradiusber_pm}} — sluit eenheid picometer in;
+       toestand "bereken"
+     * {{Elementboks_kovalenteradius_pm}} — sluit eenheid picometer in
+     * {{Elementboks_vanderwaalsradius_pm}} — sluit eenheid picometer in
+     __________________________________________________________________
+
+     * {{Elementboks_afdeling_diverse}} — opskrif met kleur parameters
+     * {{Elementboks_magneties}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_eweerstand_ohmm}} — sluit eenheid ohm-meter in (laat
+       spasie uit om voorvoegsel in te sluit)
+     * {{Elementboks_eweerstand_ohmmteen0}} — sluit eenheid ohm-meter in
+       (laat spasie uit om voorvoegsel in te sluit); toestand by 0 °C
+     * {{Elementboks_eweerstand_ohmmteen20}} — sluit eenheid ohm-meter in
+       (laat spasie uit om voorvoegsel in te sluit); toestand teen 20 °C
+     * {{Elementboks_termiesegeleiding_wpmkteen300k}} — sluit eenheid watt
+       per meter kelvin in; toestand by 300 K
+     * {{Elementboks_termieseuitsetting_umpmk}} — sluit die eenheid
+       mikrometer per meter Kelvin in
+     * {{Elementboks_termieseuitsetting_umpmkteen25}} — sluit die eenheid
+       mikrometer per meter Kelvin in; toestand by 25 °C
+     * {{Elementboks_spoedvanklank_mps}} — sluit die eenheid meter per
+       sekonde in
+     * {{Elementboks_spoedvanklank_staafmpsteen20}} — sluit die eenheid
+       meter per sekonde in; toestand in dun staaf by 20 °C
+     * {{Elementboks_spoedvanklank_staafteenkamert}} — sluit die eenheid
+       meter per sekonde in; toestand in dun staaf by kamer temperatuur
+     * {{Elementboks_youngsemodulus_gpa}} — sluit die eenheid gigapascal
+       in
+     * {{Elementboks_skuifmodulus_gpa}} — sluit die eenheid gigapascal in
+     * {{Elementboks_massamodulus_gpa}} — sluit die eenheid gigapascal in
+     * {{Elementboks_poissonverhouding}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_mohsehardheid}} — eenvoudige sleutel/inhoud
+     * {{Elementboks_vickershardheid_mpa}} — sluit die eenheid megapascal
+       in
+     * {{Elementboks_brinellhardheid_mpa}} — sluit die eenheid megapascal
+       in
+     * {{Elementboks_cas_nommer}} — eenvoudige sleutel/inhoud
+     __________________________________________________________________
+
+     * {{Elementboks_isotope_begin}} — maak isotoop sub-tabel oop; sluit
+       opskrif in
+     * {{Elementboks_isotope_verval}} — vervalbeskrywing vir isotope met
+       'n enkele vervalmodus
+     * {{Elementboks_isotope_verval2}} — vervalbeskrywing vir isotope met
+       twee vervalmodusse
+     * {{Elementboks_isotope_verval3}} — vervalbeskrywing vir isotope met
+       drie vervalmodusse
+     * {{Elementboks_isotope_verval4}} — vervalbeskrywing vir isotope met
+       vier vervalmodusse
+     * {{Elementboks_isotope_stabiel}} — stabiele inskrywingsry; X is
+       stabiel met Y neutrone
+     * {{Elementboks_isotope_eindig}} — sluit die isotooptabel
+     __________________________________________________________________
+
+     * {{Elementboks_voetskrif}} — onderste reël; sluit die tabel
+
+   Kategorie: Wikiprojek Natuurwetenskap
+

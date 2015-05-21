@@ -1,0 +1,49 @@
+Induktansie
+
+
+   Induktansie (of elektriese induktansie) is 'n maatstaf van die
+   hoeveelheid magnetiese vloed wat deur 'n elektriese stroom opgewek
+   word. The term is deur Oliver Heaviside in Februarie 1886 geskep. Die
+   SI-eenheid van induktansie is henry (simbool: H), in eerbewys aan
+   Joseph Henry. Die simbool L word vir induktansie gebruik.
+
+   Induktansie het die volgende verhouding:
+
+          L= \frac{\Phi}{i}
+
+   waar
+
+          L die induktansie in henry is,
+          i die stroom in ampère is,
+          F die magnetiese vloed in weber is.
+
+   Streng gesproke is hierdie vergelyking slegs vir self-induktansie
+   geldig aangesien die magnetiese veld deur dieselfde geleier geskep word
+   wat the stroom dra.
+
+   Waneer 'n geleier in 'n spoel met N draaie gewind word om dieselfde as
+   (om 'n solenoïed te vorm) sal die stroom wat benodig word om die
+   magnetiese vloed te produseer met 'n faktor N verminder in vergelyking
+   met 'n enkel winding. Dus is die induktansie van 'n spoel met N
+   windings:
+
+          L= \frac{\lambda}{i} = N\frac{\Phi}{i}
+
+   waar
+
+          L die induktansie in henry is,
+          i die stroom in ampère is,
+          λ die vloed koppeling is.
+
+[wysig] Sien ook
+
+     * Induktor
+     * Transformator
+
+[wysig] Voetskrif
+
+          Hierdie artikel is 'n gedeeltelike vertaling van die Engelse
+          Wikipedia artikel en:Inductance.
+
+   Kategorie: Elektronika
+

@@ -1,0 +1,70 @@
+Kleinbloureier
+
+
+                        Kleinbloureier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+                 Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Egretta
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     E. caerulea
+     Subspesie:    {{{subspecies}}}
+           [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                        Binomiale naam
+                       Egretta caerulea
+   (Linnaeus, 1758)
+                       Trinomiale naam
+                       {{{trinomial}}}
+                         Tipe Spesies
+                      {{{type_species}}}
+                   {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Die verspreiding van die kleinbloureier in Suider-Afrika
+   Die verspreiding van die kleinbloureier in Suider-Afrika
+                          Sinonieme
+   {{{synonyms}}}
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Egretta caerulea
+     * Engels: Little Blue Heron
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Reiers
+

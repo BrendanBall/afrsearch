@@ -1,0 +1,326 @@
+Binnebrandenjin
+
+
+   'n Binnebrandenjin oftewel die suier binnebrandenjin is enige enjin wat
+   funksioneer deur brandstof binne in die enjin te verbrand. Daarteenoor
+   kry mens ook buitebrandenjins soos die stoomenjin en die Stirling
+   enjins, wat brandstof aan die buitekant van die enjin laat brand.
+   Stralerenjins en gasturbines gebruik ook interne verbranding maar die
+   term 'binnebrandenjin' verwys normaalweg na enjins waar die verbranding
+   met tussenposes plaasvind en waar daar resiprokerende masjinerie
+   teenwoordig is.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Aanwending
+        * 3 Onderdele
+        * 4 Werking
+        * 5 Klassifikasie
+             + 5.1 Enjinsiklus
+             + 5.2 Brandstoftipe
+             + 5.3 Silinders
+             + 5.4 Ontstekingstelsel
+             + 5.5 Enjinuitleg
+             + 5.6 Enjinkapasiteit
+             + 5.7 Ander Klassifikasies
+        * 6 Werkverrigting
+
+[wysig] Geskiedenis
+
+   Francois Issac de Rivaz het die eerste binnebrandenjin in 1807 gebou.
+   Die enjin was egter onprakties vanweë die gebruik van 'n mengsel van
+   Waterstof en Suurstof as brandstof en as gevolg van gebrekkige
+   kraglewering.
+
+   Die eerste patent vir 'n binnebrandenjin is toegeken deur die Verenigde
+   State se patente kantoor aan Samuel Morey in 1826. Dit is een van die
+   X-Patente wat vernietig is in 'n brand in Julie 1836 en is eers weer in
+   2004 opgespoor.
+
+   In 1858, het Jean Lenoir die eerste praktiese binnebrandenjin
+   uitgevind. Dit het op steenkoolgas staatgemaak wat in die silinder
+   ingesuig is aan die begin van elke slag en dan ontsteek is om die suier
+   na die ander kant van die silinder te stoot. Die proses is dan herhaal
+   aan die ander kant van die silinder wat die enjin 'n dubbelslag enjin
+   gemaak het.
+
+   In 1867, het Nikolaus Otto die eerste vierslagbinnebrandenjin gebou.
+   Die enjin was meer doeltreffend as die ontwerp van Lenoir en is
+   suksesvol bemark vir industriële doeleindes. Die ontwerp is later
+   verbeter deur Gottlieb Daimler wat gefokus het op die praktiese gebruik
+   van die tegnologie in motorvoertuie met die noemenswaardige byvoeging
+   van 'n petrolvergasser. In 1890, het Wilhelm Maybach die eerste
+   viersilinderbinnebrandenjin gebou. Beide Maybach en Daimler was
+   aanvanklik werknemers by Otto se maatskappy maar het die maatskappy
+   verlaat in 1882 om hulle eie maatskappy te stig.
+
+   In dieselfde tydperk is die tweeslagbinnebrandenjin vervolmaak. In 1867
+   het Sir Dougald Clerk die eerste tweeslagbinnebrandenjin uitgevind. Die
+   ontwerp is later vereenvoudig deur Joseph Day in 1891.
+
+[wysig] Aanwending
+
+   Binnebrandenjins word algemeen aangewend vir beweeglike
+   aandrywingstelsels. Hulle verskyn in voertuie, motorfietse en bote, 'n
+   wye verskeidenheid vliegtuie en lokomotiewe. straalvliegtuie het egter
+   die binnebrandenjin met straler enjins vervang. Binnebrandenjins word
+   ook baie gebruik vir ander industriële toepassings.
+
+   Die elektriese enjin kan meeding met die binnebrandenjin vir baie
+   aanwendings van beweegbare aandrywing. In die toekoms mag die
+   elektriese enjin ook kan meeding vir voertuig aandrywing. Huidiglik is
+   die koste van batterye en die gebrek aan bekostigbare aanboord
+   elektriese opwekking die grootste struikelblokke tot hul gebruik in
+   motorvoertuie.
+
+[wysig] Onderdele
+
+   'n illustrasie van die verskeie onderdele van 'n vierslag-enjin.
+   'n illustrasie van die verskeie onderdele van 'n vierslag-enjin.
+
+   Die onderdele van 'n enjin wissel afhangende van die enjintipe. Vir 'n
+   vierslagenjin, sluit die beduidende onderdele die kruk-as, een of meer
+   nokaste (magenta en blou) en die suierklep in. 'n Tweeslagenjin kan
+   slegs 'n uitlaat en inlaat hê vir gasse in plaas van 'n klepstelsel. In
+   beide tipe enjins, is daar een of meer silinders (grys en groen) en vir
+   elke silinder is daar 'n vonkprop (donkergrys), 'n suier (geel) en 'n
+   draaimeganisme (pers). 'n Enkele beweging van die silinder deur die
+   suier in 'n opwaartse of afwaartse rigting staan bekend as die slag.
+   Die afwaartse slag wat plaasvind direk na die brandstof-lugmengsel
+   ontplof het, staan bekend as die kragslag.
+
+[wysig] Werking
+
+   Alle binnebrandenjins is afhanklik van die chemiese prosesse genaamd
+   verbranding en ontploffing, wat in wese die reaksie van brandstof met
+   suurstof behels. Sien ook: Stoichiometrie.
+
+   Die mees algemene brandstowwe in gebruik vandag bestaan uit
+   koolwaterstowwe en word verkry uit petroleum. Dit sluit in brandstowwe
+   bekend as diesel, petrol en vloeibare petroleumgas. Baie huldig die
+   teorie dat waterstof sulke brandstowwe in die toekoms mag vervang. Die
+   voordeel verbonde aan waterstof is dat die verbranding daarvan slegs
+   water produseer (die hoof nadeel van die gebruik van waterstof is dat
+   daar tans geen metode bestaan om waterstof doeltreffend te produseer in
+   groot genoeg hoeveelhede om binnebrandenjins op groot skaal te kan
+   aandryf nie). In teenstelling met waterstof lewer die verbranding van
+   koolwaterstowwe ook koolsuurgas - 'n groot bydraer to aardverwarming.
+
+   Alle binnebrandenjins is afhanklik, wat ookal die keuse van brandstof,
+   op die effek van beheerde ontploffings, waar die vergaste brandstof
+   reageer met suurstof. Die ontploffingsprodukte (warm gasse) het meer
+   kinetiese energie as die oorspronklike saamgeperste brandstof-lug
+   mengsel (wat 'n groter chemiese energie gehad het). Die kinetiese
+   energie manifesteer homself as 'n hoë temperatuur en druk wat
+   omgeskakel kan word in werk. In 'n resiprokerende enjin, druk die
+   hoëdruk gas, binne in die silinder, die suier afwaarts. Deur die druk
+   af te laat na die kragslag (deur die uitlaatklep oop te maak of deur
+   die gasuitlaat aan die gas bloot te stel in geval van tweeslag enjins)
+   kan die suier weer terugkeer na sy hoogste posisie in die silinder. Die
+   suier kan dan voortgaan na die volgende fase in die siklus (wat wissel
+   afhangende van die tipe enjin). Enige hitte van die ontploffing wat nie
+   na werk omgeskakel is nie is 'n afvalproduk en word vanuit die enjin
+   verwyder deur lug of vloeistofverkoelingstelsels.
+
+   Alle binnebrandenjins moet 'n ontstekingsmeganisme hê om die
+   verbranding aan die gang te sit. Die meeste enjins gebruik of 'n
+   elektriese of 'n drukverhitte ontstekingsmeganisme.
+
+   Elektriese onstekingstelsels gebruik gewoonlik 'n loodsuurbattery en 'n
+   induksieklos om 'n hoë spanning elektriese vonk te lewer om die
+   brandstof-lug mengsel in die enjin se silinder te ontsteek. Die battery
+   kan herlaai word tydens bedryf deur van 'n alternator wat deur die
+   enjin aangedryf word, gebruik te maak. Drukverhitte ontstekingstelsels
+   gebruik die hitte in die lug wat opgewek word tydens die
+   saampersingsproses om die brandstof te ontsteek wanneer dit ingespuit
+   word.
+
+[wysig] Klassifikasie
+
+   Daar is 'n wye verskeidenheid binnebrandenjins na aanleiding van hulle
+   vele aanwendings. Soortgelyk is daar 'n wye verskeidenheid maniere om
+   binnebrandenjins te klassifiseer waarvan sommiges hieronder gelys word.
+
+[wysig] Enjinsiklus
+
+   Enjins wat gebaseer word op die tweeslagsiklus het twee slae vir elke
+   kragslag en word gebruik in grassnyers, bromponies, buiteboordenjins en
+   sommige motorfietse. Hulle maak oor die algemeen meer geraas, is minder
+   doeltreffend en kleiner as die vierslag-eweknieë. Enjins wat gebaseer
+   is op die vierslagsiklus of Otto siklus het een kragslag vir elke vier
+   slagte en word gebruik in motorvoertuie, groter bote en vliegtuie. Daar
+   is 'n aantal variasies op die siklusse waarvan die meer vernaamste
+   voorbeelde die Atkinson en Miller siklusse is. Diesel enjins word
+   dikwels beskou as 'n vierslagsiklus met 'n drukverhitte
+   ontstekingstelsel maar die Diesel siklus word dikwels onderskei van die
+   normale Otto siklus.
+
+[wysig] Brandstoftipe
+
+   Dieselenjins is dikwels swaarder, rasiger maar meer kragtig teen laer
+   toere as die petrolenjins. Hulle is ook meer brandstofdoeltreffend in
+   sommige omstandighede en word dikwels in swaarvoertuie, skepe en
+   sommige lokomotiewe gebruik.
+
+   Petrolenjins word in die meeste ander voertuie gebruik insluitende die
+   meeste motorvoertuie, motorfietse en bromponies. Petrol- en Diesel-
+   enjins produseer beduidende emmisies. Daar is ook enjins wat loop op
+   waterstof, vloeibare petroleumgas (VPG) en biodiesel.
+
+[wysig] Silinders
+
+   Binnebrandenjins kan enige aantal silinders bevat, met getalle tussen
+   een en twintig die algemeenste. Meer silinders lei tot groter wringkrag
+   maar onvermeidelik tot groter enjins en groter brandstofverbruik.
+     * Die meeste motorvoertuie se enjins het vier tot agt silinders, met
+       sommige hoë werkverrigtingenjins wat tot tien of twaalf kan hê, en
+       sommige klein motors en lorries wat slegs twee of drie het. In die
+       verlede het party roterige motors soos die DKW en die SAAB 92
+       tweesilinder tweeslag enjins gehad.
+     * Radiale vliegtuigenjins, nou verouderd, het van vyf to agt en
+       twintig silinders gehad.
+     * Motorfietse het tipies van een tot vier silinders met 'n klein
+       hoeveelheid hoë werkverrigtingsmodelle wat tot ses silinders het.
+     * Klein toestelle soos kettingsae en huishoudelike grassnyers het
+       tipies net een silinder alhoewel tweesilinder kettingsae tog
+       bestaan.
+
+[wysig] Ontstekingstelsel
+
+   Binnebrandenjins kan geklassifiseer word deur hulle ontstekingstelsels.
+   Vandag gebruik die meeste enjins 'n elektriese of drukverhitte stelsel
+   vir ontsteking. Buitevlam- en warmbuisstelsels is egter ook in die
+   verlede gebruik.
+
+[wysig] Enjinuitleg
+
+   Binnebrandenjins kan geklassifiseer word volgens hulle uitleg wat hulle
+   fisiese grootte en gladheid (met gladder enjins word bedoel minder
+   vibrasies) bepaal. Sommige uitlegte sluit in reguit inlyn of inlyn
+   uitleg, die meer kompakte V-uitleg en die wyer maar gladder plat of
+   boxer-uitleg. Vliegtuigenjins kan ook 'n radiale uitleg aanneem wat
+   effektiewe verkoeling in die hand werk. Meer uitsonderlike
+   konfigurasies soos die "H", "X"-, of "W-uitlegte is al ook ingespan.
+
+   Veelvuldige krukas-uitlegte het nie noodwendig 'n silinderkop nodig
+   nie, maar kan in plaas daarvan 'n suier aan elke kant van die silinder
+   hê, die sogenaamde teenoorgestelde suier ontwerp. Die ontwerp is
+   gebruik in die Junkers Jumo 205 dieselaangedrewe vliegtuigenjin, wat
+   twee kruk-asse gebruik het, een aan elke kant van 'n enkele span
+   silinders, dan is daar ook die merkwaardige Napier Deltic
+   driehoekuitleg met 'n kruk-as op elke hoek. Veelvuldige krukas-masjiene
+   is ook gebruik in enkelspanlokomotief-enjins en word nog steeds gebruik
+   vir skeepsvaartenjins, vir aandrywing asook vir hulpgenarators. Die
+   Gnome Rotary enjin wat in verskeie vroeë vliegtuie gebruik is, het 'n
+   span silinders gehad wat radiaal rondom 'n vaste kruk-as uitgelê is.
+
+[wysig] Enjinkapasiteit
+
+   'n Enjin se kapasiteit is die verplasing of veegvolume deur die suiers
+   van die enjin. Dit word algemeen gemeet in liters vir groter enjins en
+   in kubieke sentimeters vir kleiner enjins. Enjins met groter
+   kapasiteite is gewoonlik kragtiger en lewer 'n groter wringkrag by laer
+   toere (opm'e) maar verbruik ook meer brandstof.
+
+   'n Enjin se kapasiteit kan, buiten om meer silinders by te voeg om twee
+   ander maniere vergroot word. Die eerste is om die slaglengte te
+   vergroot en die tweede is om die suierdiameter te vergroot. In ieder
+   geval mag dit nodig wees om verdere verstellings te maak tot die
+   brandstofinlaat om die enjin se optimale werkverrigting te verseker.
+
+   'n Enjin se genoteerde kapasiteit kan dikwels meer 'n kwessie van
+   bemarking as van ingenieurswese wees. Die Morris Minor 1000, die Morris
+   1100 en die Austin-Healy Sprite Merk II het almal enjins van dieselfde
+   slaglengte en binnemaat gehad volgens hulle spesifikasies en was
+   afkomstig van dieselfde vervaardiger. Die enjin kapasiteite was egter
+   genoteer as 1000cc, 1100cc en 1098cc respektiewelik in die
+   verkoopsliteratuur en op die voertuie se kentekens.
+
+[wysig] Ander Klassifikasies
+
+   Alle binnebrandenjins is warmte-enjins en daarom het hulle 'n bogrens
+   tot die doeltreffendheid wat hulle kan bereik. Die doeltreffendheid
+   word gedefinieer deur die teoretiese Carnot warmte-enjin. 'n Paar
+   binnebrandenjins wat draaiende in plaas van lineêre suierbeweging
+   gebruik staan bekend as die Wankelenjin, Orbitale enjins of as
+   kwasiturbines.
+
+[wysig] Werkverrigting
+
+   Die hoof maatstaf van 'n binnebrandenjin is die wringkrag wat dit lewer
+   teen enige gegewe spoed. Die spoed van die enjin beteken hier die
+   aantal omwentelinge per minuut wat die enjin maak. Die SI-eenheid vir
+   hoeksnelheid is radiale per sekonde en 'n omskakeling vanaf
+   omwentelinge per minuut kan met die volgende formule verkry word:
+
+   \omega=\frac{2\pi}{60}\Omega
+
+   waar ω die enjin se spoed in radiale per sekonde is, en waar
+
+   Ω die enjin se spoed in omwentelinge per minuut is.
+
+   Die verhouding tussen die enjin se wringkrag en spoed kan met die
+   volgende vergelyking bepaal word:
+
+   T=I\frac{d\omega}{dt}
+
+   waar T die enjin se wringkrag in Newton meter is, I die draaimomentum
+   van die enjin is en ω die spoed van die enjin in omwentelinge per
+   minuut is.
+
+   As 'n soliede silinder aan die enjin vasgemaak word sal die draaimoment
+   van die silinder eenvoudig 'n funksie wees van sy deursnee en massa.
+   Deur van dié feit en die bogenoemde vergelyking gebruik te maak, is dit
+   moontlik om 'n toestel te bou wat die enjin se wringkrag kan meet - so
+   'n toestel word 'n dinamometer genoem.
+
+   Nadat die enjin se wringkrag gemeet is kan die enjin se kraglewering
+   bereken word met die volgende vergelyking:
+
+   P = Tω
+
+   waar P die enjin se kraglewering in watts is, T die enjin se wringkrag
+   in Newton meter is, en ω die spoed van die enjin in radiale per sekonde
+   is.
+
+   Deur van 'n eenvoudige omskakelingsfaktor (ongeveer 0.75 kW = 1 Britse
+   perdekrag) gebruik te maak kan die kraglewering ook in perdekrag
+   uitgedruk word.
+
+   Kraglewering is 'n nuttige maatstaf vanuit 'n ingenieursoogpunt omdat
+   dit die werktempo wat moontlik is, aandui, alhoewel motorgeesdriftiges
+   sal sê dat dit wringkrag is wat 'n bestuurder "voel". Die rede hiervoor
+   is dat met identiese ladings die wringkrag eweredig is aan versnelling.
+   Dit is moontlik om die werkverrigting van 'n enjin deur
+   enjinverstelling te verbeter. Daar moet egter in ag geneem word dat die
+   ingenieurs 'n balans tref in die tussen die ekonomiese oorwegings,
+   fisiese gewigbeperkinge, vibrasievereistes asook
+   brandstofdoeltreffendheid tydens ontwerp.
+
+   Dit is ook belangrik om kennis te neem dat die wringkrag van 'n enjin
+   vergroot kan word deur spoed op te offer deur gebruik te maak van
+   ratverhoudings. Die kraglewering behoort teoreties dieselfde te bly
+   maar in werklikheid word van die krag verloor deur die wrywing tussen
+   die ratte).
+
+   'n Aanduiding van 'n enjin se werkverrigting kan verkry word deur die
+   enjin se wringkrag teenoor sy snelheid te plot - dit staan bekend as 'n
+   dinografiek. 'n Voorbeeld grafiek vir die 2.7 liter 6-silinder enjin
+   wat in die 2004 Porsche Boxster gebruik word is hieronder aangeheg.
+   Neem kennis dat 'n enjinontwerper die piek van die wringkragkurwe
+   omtrent enige plek kan plaas waar hy verkies, afhangende van die enjin
+   se aanwending. A breë, plat wringkragkurwe is ideaal. Ander toepassings
+   soos enjins vir vliegtuie, bote, pompe en genarators het dikwels 'n
+   maksimum wringkrag by 'n baie laer spoed en het 'n skerper kurwe sodat
+   kragewering oor 'n nouer band van bedryfsnelhede gemaksimeer kan word.
+   Die silinderprofiel is hoofsaaklik verantwoordelik vir die vorm van die
+   kragkurwe.
+
+                          beeld:Boxsterdyno af.png
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorieë: Suier enjins • Voertuigtegnologie
+

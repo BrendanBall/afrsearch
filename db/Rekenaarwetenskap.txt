@@ -1,0 +1,287 @@
+Rekenaarwetenskap
+
+
+   Rekenaarwetenskap is die studie van berekening en inligtingverwerking,
+   asook die implementering daarvan in inligtingstegnologie, in beide
+   hardeware (apparatuur) en sagteware (programmatuur). In die praktyk
+   omvat dit 'n wye aantal velde - van die abstrakte studie van
+   algoritmes, en formele grammatikas tot meer konkrete onderwerpe soos
+   programmeertale, bedryfstelsels, rekenaarnetwerke, databasisse en
+   beheerstelsels. As 'n wetenskaplike dissipline, sluit dit aan by
+   wiskunde, fisika en elektronika, maar verskil heelwat en is 'n
+   disipline in eie reg.
+
+   Rekenaarwetenskaplikes bestudeer wat programme kan of nie kan doen nie
+   (onderwerpe soos berekenbaarheid en kunsmatige intelligensie is ter
+   sprake), hoe programme sekere take effektief kan doen, hoe programme
+   verskillende tipes inligting moet stoor en terugkry, en hoe programme
+   en mense met mekaar kommunikeer.
+
+          Rekenaarwetenskap gaan net so veel oor rekenaars as wat
+          sterrekunde oor teleskope gaan.
+
+                - toegeskryf aan Edsger Dijkstra
+
+          Computer science is not as old as physics; it lags by a couple
+          of hundred years. However, this does not mean that there is
+          significantly less on the computer scientist's plate than on the
+          physicist's: younger it may be, but it has had a far more
+          intense upbringing!
+
+                - Richard Feynman
+
+   Die Church-Turing-stelling sê dat alle bekende algemene rekentoestelle
+   in wese ekwivalent is in wat hulle doen, alhoewel hulle verskil wat
+   tyd- en ruimtedoeltreffendheid betref. Meeste navorsing in
+   rekenaarwetenskap het te doen met von Neumann-rekenaars of
+   Turing-masjiene (rekenaars wat een klein, deterministiese taak op 'n
+   slag doen). Hierdie modelle stem ooreen met meeste werklike rekenaars
+   wat gebruik word vandag. Rekenaarwetenskaplikes bestudeer ook ander
+   masjiene, soos paralelle- en kwantumrekenaars.
+
+   Rekenaarwetenskap het sy wortels in elektroniese ingenieurswese,
+   wiskunde en linguistiek. In die laaste paar dekades van die 20ste eeu
+   is rekenaarwetenskap begin erken as 'n dissipline in eie reg en het eie
+   metodes en terminologie ontwikkel.
+
+   By universiteite is rekenaarwetenskap aanvanklik gedoseer vanuit die
+   wiskundedepartemente, maar deesdae het meeste universiteite aparte
+   departemente vir rekenaarwetenskap en/of informatika.
+
+   Die grootste eerbewys in rekenaarwetenskap is die Turing-toekenning.
+
+   Inhoud
+
+        * 1 Verwante terreine
+        * 2 Vakgebiede van groot belang vir rekenaarwetenskap
+             + 2.1 Wiskundige fondasies
+             + 2.2 Teoretiese rekenaarwetenskap
+             + 2.3 Hardeware
+             + 2.4 Rekenaarstelsel organisasie
+             + 2.5 Sagteware
+             + 2.6 Data en inligtingstelsels
+             + 2.7 Metodologieë
+             + 2.8 Rekenaartoepassings
+             + 2.9 Rekenaarmilieu
+        * 3 Geskiedenis
+        * 4 Rekenaarwetenskap-pioniers
+        * 5 Sien ook
+        * 6 Eksterne skakels
+        * 7 Bron
+
+[wysig] Verwante terreine
+
+   Rekenaarwetenskap is na-verwant aan verskeie ander dissiplines. Hierdie
+   dissiplines oorvleuel heelwat, alhoewel belangrike verskille bestaan.
+     * Inligtingswetenskap is die studie van data en inligting, hoe om dit
+       te interpreteer, analiseer, stoor en oor te dra.
+       Inligtingswetenskap het begin as die grondslag van die
+       wetenskaplike analise van kommunikasie en databasisse.
+     * Programmering beklemtoon die ontwerp en skryf van programme in
+       rekenaartale en vertaling na masjienkode.
+     * Sagteware-ingenieurswese beklemtoon bestuur van analise, ontwerp,
+       bou en toets van programme.
+     * Inligtingstelsels is die toepassing van berekening om die
+       aktiwiteite van 'n organisasie te ondersteun: werking, installering
+       en onderhoud van die rekenaars, sagteware en data.
+     * Bestuursinligtingstelsels (BIS, en:MIS) is die subterrein van
+       inligtingstelsels wat finansiële en personeelbestuur beklemtoon.
+     * Wiskunde deel baie tegnieke en onderwerpe met rekenaarwetenskap,
+       maar is meer algemeen. In 'n sekere sin is rekenaarwetenskap die
+       wiskunde van berekening.
+     * Rekenaar-ingenieurswese is die analise, ontwerp en bou van
+       rekenaarhardeware.
+     * Inligtingsekerheid is die analise en implementering van
+       inligtingstelselsekuriteit, insluitend kriptografie.
+
+[wysig] Vakgebiede van groot belang vir rekenaarwetenskap
+
+[wysig] Wiskundige fondasies
+
+     * Boolse algebra
+     * Diskrete wiskunde
+     * Grafiekteorie
+     * Inligtingsteorie
+     * Simboliese logika
+     * Waarskynlikheidsleer en Statistiek
+
+[wysig] Teoretiese rekenaarwetenskap
+
+     * Algoritmiese inligtingsteorie
+     * Berekenbaarheid
+     * Kriptografie
+     * Formele semantiek
+     * Teorie van berekening
+          + analise van algoritmes en probleme se kompleksiteit
+          + Logika's en die betekenis van programme
+          + Logika and formele tale
+     * Tiperingsteorie ?? (eng:Type theory)
+
+[wysig] Hardeware
+
+   (sien ook elektroniese ingenieurswese)
+     * Beheerstrukture en mikroprogrammering
+     * Geheuestrukture
+     * toeer/afvoer en datakommunikasie
+     * Logika-ontwerp
+     * Geïntegreerde stroombane
+          + BGSI-ontwerp (en: (Very-large-scale integration) VLSI-design)
+     * Werkverrigting en betroubaarheid
+
+[wysig] Rekenaarstelsel organisasie
+
+   (sien ook elektroniese ingenieurswese)
+     * Rekenaarargitektuur
+     * Rekenaarnetwerke
+          + Verspreide verwerking
+     * Werkverrigting van stelsels
+     * Rekenaarstelsel-implementering
+
+[wysig] Sagteware
+
+     * Rekenaarprogrammering en tegnieke
+          + Parallele programmering
+          + Programspesifisering
+          + Programverifikasie ?? (en:Program verification)
+     * Sagteware-ingenieurswese
+          + Sagteware-optimering
+          + Sagteware-meting ?? (en:Software metrics)
+          + Sagtewarekonfigurasiebestuur ?? (en:Software Configuration
+            Management)
+          + Gestruktureerde programmering
+          + Objek oriëntasie
+          + Ontwerpspatrone ?? (en:Design patterns)
+          + Vrye sagteware (en:Free software) en Oopbronsagteware
+     * Programmeertale
+     * Bedryfstelsels
+     * Vertalers
+          + Leksikale ontleding
+          + Sintaktiese ontleding
+          + Semantiese ontleding
+
+[wysig] Data en inligtingstelsels
+
+     * Datastrukture
+     * Datavoorstelling
+     * Data-enkripsie
+     * Datasamepersing
+     * Ingligtingsteorie
+     * Lêers
+          + Lêerformate
+     * Inligtingstelsels
+          + Databasisse
+          + Inligtingberging en verkreiging
+          + Inligtingkoppelvlakke en voorstelling
+
+[wysig] Metodologieë
+
+     * Simboliese en algabraïse manipulasie
+     * Kunsmatige intelligensie
+     * Rekenaargrafika
+     * Beeldverwerking en rekenaar-sig (en: computer vision)
+     * Patroonherkenning
+          + Handskrifherkenning
+          + Spraakherkenning
+     * Simulasie en Modelering
+     * Dokument- en teksverwerking
+     * Digitale seinverwerking
+
+[wysig] Rekenaartoepassings
+
+     * Administratiewe dataverwerking
+     * Wiskundige sagteware
+          + Numeriese analise
+          + Geoutomatiseerde stelling-bewyse (en:Automated theorem
+            proving)
+          + Rekenaralgebra
+     * Fisiese wetenskappe en Ingenieurswese
+          + Berekenings-chemie
+          + Berekeningsfisika
+     * Lewens- en Mediese wetenskap
+          + Bio-informatika
+          + Berekeningsbiologie
+          + Mediese informatika
+     * Sosiale en gedragswetenskappe
+     * Geesteswetenskappe
+     * Rekenaargesteunde ingenieurswese
+     * Robotika
+     * Mens-rekanaar-interaksie
+          + Spraaksintese
+          + Bruikbaarheids-ingenieurswese
+
+[wysig] Rekenaarmilieu
+
+     * Rekenaarindustrie
+     * Geskiedenis van rekenaarhardeware
+     * Rekenaars en opvoeding
+     * Rekenaars en gemeenskap
+          + Rekenaargesteunde samewerking
+     * Regsaspekte van rekenaars
+     * Bestuur van rekenaar- en inligtingstelsels
+     *  ??(en:Personal computing)
+     * Rekenaar- en inligtingsekerheid
+
+[wysig] Geskiedenis
+
+     * Rekenaargeskiedenis
+
+[wysig] Rekenaarwetenskap-pioniers
+
+     * Gottfried Wilhelm Leibniz die universele genie van die baroktyd,
+       wat die binêrestelsel uitgevind het, die Leibnizrekenaar[1] -
+       alhoewel hy destyds nie eers geweet het waarvoor mens dit kan
+       gebruik nie, maar besef het dat dit baie nuttig sal kan wees. Daar
+       is ook 'n boek oor hom gestryf, 'Rekene met nulle en eene', (Duits:
+       Rechnen mit Null und Eins).
+     * Charles Babbage
+     * John Backus, uitvinder van FORTRAN, die eerste praktiese
+       hoë-vlakprogrammeertaal en die Backus-Naur-vorm om formele
+       taak-sintaks mee te beskryf.
+     * James W. Cooley en John W. Tukey vir die Fast Fourier Transform en
+       die impak op wetenskaplike navorsing.
+     * Ole-Johan Dahl en Kristen Nygaard, uitvinders van die
+       proto-objek-georiënteerde taal SIMULA.
+     * Edsger Dijkstra vir algoritmes, Goto considered harmful,
+       nougesetheid en pedagogiek.
+     * Admiraal Grace Murray Hopper vir pionierswerk in die 1940s, een van
+       die eerstes wat die noodsaaklikheid van hoërvlak programmeertale
+       herken. Sy skryf die eerste vertaler. Haar idees beïnloed die
+       COBOL-taal grootliks.
+     * Kenneth Iverson, uitvinder van APL, vir sy bydrae tot interaktiewe
+       programme. ??(en:interactive computing)
+     * William Kahan vir die IEEE-dryfpunt-standaard. (eerder by
+       hardeware-ingenieurswese?)
+     * Donald Knuth vir die The Art of Computer Programming-reeks.
+     * Ada Lovelace, beroemd as die wêreld se eerste
+       rekenaarprogrammeerder.
+     * John von Neumann vir die ontwerp van die von Neumann-argitektuur
+       waarop meeste hedendaagse rekenaars gebasseer is.
+     * Claude E. Shannon vir inligtingsteorie.
+     * Alan Turing vir berekenbaarheidsleer, en het die Pilot ACE ontwerp
+     * James H. Wilkinson vir die tegniek van "backward error analysis" en
+       vooruitgang in die gebied van matriksberekeninge. Wilkenson was ook
+       'n belangrike rolspeler in die ontwikkeling van die Pilot ACE, die
+       eerste Britse rekenaar, in die laat 1940s.
+     * Konrad Zuse, bouer van 'n binêre rekenaar in die 1930s, waarvoor hy
+       na bewering (as eerste) 'n teoretiese hoëvlak programmeertaal,
+       Plankalkül ontwerp het.
+
+   Sien ook die lys van rekenaarwetenskaplikes vir nog vername persone.
+
+[wysig] Sien ook
+
+     * Internet
+     * Multimedia
+     * Oorsprong van rekenaarterme (Engels)
+
+[wysig] Eksterne skakels
+
+     * Die "Jargon-lêer"
+     * Women and Computer Science, deur Ellen Spertus
+
+[wysig] Bron
+
+   Hierdie artikel is grootendeels 'n vertaling van die ooreenstemmende
+   Engelse artikel in die Engelse wikipedia.
+   Kategorie: Rekenaarwetenskap
+

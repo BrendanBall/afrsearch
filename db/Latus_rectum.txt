@@ -1,0 +1,42 @@
+Latus rectum
+
+
+   Semi-latus rectum in die geval van 'n ellips
+   Semi-latus rectum in die geval van 'n ellips
+
+   In wiskunde is die latus rectum van 'n keëlsnit die koord parallel aan
+   die direktriks wat deur die enkele brandpunte, of een van die twee
+   brandpunte. As 'n uitbreiding van die begrip word die lengte van die
+   latus rectum ook die latus rectum genoem en word dit geskryf as
+   \scriptstyle 2\ell\, . "Latus rectum" is 'n samestelling van die Latyn
+   latus, wat 'sy' beteken en rectum wat 'reguit' beteken.^[1]
+
+   Half the latus rectum is called the semilatus rectum
+
+   Die semi-latus rectum is helfte van die latus rectum en soos in die
+   vorige geval word na die lengte van die semi-latus rectum as semi-latus
+   rectum verwys wat geskryf word as \scriptstyle\ell\, .
+   keëlsnit vergelyking semi-latus rectum \left (\scriptstyle\ell \right )
+   latus rectum \left ( \scriptstyle 2\ell \right )\,
+   sirkel x^2+y^2=r^2 \, r \, 2r \,
+   ellips \frac{x^2}{a^2}+\frac{y^2}{b^2}=1 \frac{b^2}{a} \frac{2b^2}{a}
+   parabool y^2=4ax \, 2a \, 4a \,
+   hiperbool \frac{x^2}{a^2}-\frac{y^2}{b^2}=1 \frac{b^2}{a}
+   \frac{2b^2}{a}
+
+   Die semi-latus rectum verskyn in die vergelyking van 'n keëlsnit in
+   poolkoördinate:
+
+          r=\frac{\ell}{1+\varepsilon \cos(\phi)}
+
+[wysig] Verwysings
+
+    1. ^ Wolfram Mathworld, Latus Rectum, Besoek 2 Maart 2008
+
+[wysig] Eksterne skakels
+
+     * Weisstein, Eric W., Conic Section Directrix op MathWorld.
+     * Weisstein, Eric W., Latus Rectum op MathWorld.
+
+   Kategorie: Keëlsnitte
+

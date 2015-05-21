@@ -1,0 +1,30 @@
+Uitlaatgas
+
+
+   Die uitlaatgas van 'n motor is die resultaat van die
+   verbrandingsreaksie in 'n enjin se verbrandingskamer.
+
+   Die uitlaatgasse bestaan gewoonlik uit die volgende:
+    1. Koolwaterstowwe, wat die gevolg is van onvolledige verbranding van
+       die brandstof, gewoonlik Petrol of Diesel.
+    2. Stikstofoksiede wat ontstaan wanneer die stikstof in die lug met
+       suurstof reageer by baie hoë temperature en drukke. Hierdie
+       verbindings lewer 'n betekenisvolle bydrae tot rookmis en suurreën.
+    3. Koolstofmonoksied wat ook die gevolg is van onvolledige
+       verbranding. Die gas verminder die bloed se vermoë om suurstof te
+       vervoer en is giftig en kan selfs teen laer konsentrasies gevaarlik
+       wees vir mense met hartkwale.
+    4. Koolstofdioksied wat die gevolg is van volledige verbranding van
+       die koolstof in die brandstof en kom ook algemeen in die atmosfeer
+       voor. Dit is noodsaaklik vir plantlewe en het geen onmiddelike
+       nadelige impak op mens en dier nie maar word as besoedeling beskou
+       omdat te hoë konsentrasies uiteindelik kan aanleiding gee tot 'n
+       kweekhuis verskynsel in die aarde se atmosfeer.
+    5. Swaeloksiede word ook gevorm as gevolg van die swaelinhoud in die
+       brandstof. Swaeloksiede maak 'n groot bydrae tot suurreën.
+
+[wysig] Verwysings
+
+   Engelstalige artikel oor die beheer van motorvoertuie se uitlaatgasse
+   Kategorie: Voertuigtegnologie
+

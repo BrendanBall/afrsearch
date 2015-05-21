@@ -1,0 +1,79 @@
+Cassini ovaal
+
+
+   'n Paar Cassini ovale. Die brandpunte is (-1, 0) en (1, 0). Die krommes
+   is gemerk met die waarde van b2.
+   'n Paar Cassini ovale. Die brandpunte is (-1, 0) en (1, 0). Die krommes
+   is gemerk met die waarde van b^2.
+
+   In wiskunde is 'n Cassini ovaal 'n versameling (of lokus) van punte in
+   die vlak sodat elke punt p op die ovaal 'n spesiale verhouding het met
+   twee ander vaste punte q[1] en q[2]: die produk van die afstand van p
+   na q[1] en die afstand van p na q[2] is konstant. Dit wil së as die
+   funksie dist(a,b) gedefinieer word om die afstand van 'n punt a na 'n
+   punt b te wees, dan bevredig al die punteop 'n Cassini ovaal die
+   vergelyking
+
+          \mbox{dist}(q_1, p)\mbox{dist}(q_2, p)=b^2\,
+
+   waar b 'n konstante is.
+
+   Die punte q[1] en q[2] word die brandpunte van die ovaal genoem.
+
+   Cassini ovale is vernoem na die sterrekundige Giovanni Domenico
+   Cassini.
+
+[wysig] Vergelykings en vorm
+
+   Veronderstel q[1] is die punt (a,0), en q[2] is die punt (-a,0). Dan
+   bevredig die punte op die kromme die vergelyking
+
+                ((x − a)^2 + y^2)((x + a)^2 + y^2) = b^4
+
+   Ekwivalente vergelykings sluit in
+
+                (x^2 + y^2)^2 − 2a^2(x^2 − y^2) + a^4 = b^4
+
+   en
+
+                (x^2 + y^2 + a^2)^2 − 4a^2x^2 = b^4
+
+   Die ekwivalente Poolvergelyking is
+
+                r^4 − 2a^2r^2cos2θ = b^4 − a^4
+
+   Die vorm van die ovaal hang af van die verhouding b/a. As b/a groter is
+   as 1 is die lokus 'n enkele verbinde lus. As b/a kleiner is as 1
+   bestaan die lokus uit twee onverbinde lusse. As b/a gelyk is aan 1 is
+   die lokus 'n lemniskaat.
+
+   As a = b is dir kromme rasioneel, maar in die algemeen het die kromme
+   'n paar dubbele punte by oneindigheid in die kompleks afgebeelde vlak,
+   by x = ±i, y = 1, z = 0 en geen ander singulariteite nie, en is dit 'n
+   algebraïese vlakkromme van genus een, en daarom birasionaal ekwivalent
+   aan 'n elliptiese kromme.
+
+   As geherskalleer word deur x met ax te vervan en y met ay word 'n
+   een-parameter familie verkry
+
+          (x^2+y^2+1)^2-4x^2=b^4 \,
+
+   wat j-invariant het
+
+          j = 16 \frac{(b^8-16b^4+16)^3}{b^{16}(1-b^4)}.
+
+   Let daarop dat die definisie van die kromme analoog is aan die van die
+   ellips, waarin die som
+
+          \mbox{dist}(q_1, p)+\mbox{dist}(q_2, p)\,
+
+   eerder as die produk konstant is.
+
+[wysig] Eksterne skakelss
+
+     * MacTutor beskrywing
+     * Weisstein, Eric W., Cassini Ovals op MathWorld.
+     * 2Dcurves.com beskrywing
+
+   Kategorieë: Krommes • Algebraïese krommes • Spiric snydings
+

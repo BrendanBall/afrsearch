@@ -1,0 +1,72 @@
+Koord (meetkunde)
+
+
+   'n Koord van 'n kromme is 'n Meetkundige lynsegment waarvan beide die
+   eindpunte op die kromme lê. 'n Snylyn of Sekans is die verlenging van
+   'n koord.
+   Die rooi lyn is 'n Koord, die blou lyn is 'n Snylyn of Sekans.
+   Die rooi lyn is 'n Koord, die blou lyn is 'n Snylyn of Sekans.
+
+[wysig] Koorde van 'n sirkel
+
+   Van die eieinskappe van koorde van 'n sirkel is as volg:
+    1. Koorde is ewe ver van die middelpunt, as en slegs as hulle lengtes
+       gelyk is.
+    2. 'n Koord se loodregte middellyn gaan deur die middelpunt van die
+       sirkel.
+    3. As die lyn verlengings (sekanslyne) van koorde AB en CD by punt P
+       sny, dan is hulle lengtes AP·PB = CP·PD bevredig (mag van 'n punt
+       teorema).
+
+[wysig] koorde in trigonometrie
+
+   Koorde is ekstensief gebruik in die vroeë ontwikkeling van
+   trigonometrie. Die eerste bekende trigonometriese tabel, saamgestel
+   deur Hipparchus, het die waardes van Koordfunksies vir elke 7.5 grade
+   uitgewerk.
+
+   Die koordfunksie word meetkundig deur die figuur na links gedefinieer.
+   Die koord van 'n hoek is die lengte van die koord tussen twee punte op
+   'n eenheidsirkel verdeel deur daardie hoek. Deur een van die hoeke as
+   nul te neem, kan dit maklik in verband gebring word met die moderne
+   sinus funksie:
+
+   \mbox{crd}\ \theta = \sqrt{(1-\cos \theta)^2+\sin^2 \theta} =
+   \sqrt{2-2\cos \theta} = 2 \sqrt{\frac{1-\cos \theta}{2}} = 2 \sin
+   \frac{\theta}{2}
+
+   Die laaste stap gebruik die halwe-hoek formule. Net soos moderne
+   trigonometrie geskoei is op die sinusfunksie, was antieke trigonometrie
+   geskoei op die koordfunksie. Hipparchus het glo twaalf volumes werk oor
+   koorde geskryf. Die koordfunksie bevredig baie identiteite analoog aan
+   die modernes:
+   Name Sinus-gebaseer Koord-gebaseer
+   Pythagoras sin^2θ + cos^2θ = 1 \mbox{crd}^2 \theta + \mbox{crd}^2
+   (180^{\circ} - \theta) = 1
+   Half-hoek \sin\frac{\theta}{2} = \pm\sqrt{\frac{1-\cos \theta}{2}}
+   \mbox{crd}\ \frac{\theta}{2} = \pm \sqrt{2-\mbox{crd}(180^{\circ} -
+   \theta)}
+
+   Die halwe-hoek-identiteit versnel die skep van koordtabelle geweldig.
+   Antieke koordtabelle het tipies 'n groot waarde vir die radius van die
+   sirkel gebruik, en die koorde vir die sirkel opgeskryf. Dit is dan 'n
+   eenvoudige saak om te skaleer na om die koord vir 'n eenheidsirkel te
+   bepaal. Volgens G. J. Toomer het Hipparchus 'n sirekel met radius 3438'
+   (=3438/60=57.3) gebruik. Die waarde is geweldig naby die waarde van 180
+   / π (=57.29577951...). Een voordeel van die keuse vir die radius is dat
+   hy die benaderde koord van 'n klein hoek baie akkuraat kon bepaal. In
+   moderne terme het dit 'n eenvoudige lineêre benadering moontlik gemaak:
+
+          \frac{3438}{60} \mbox{crd}\ \theta = 2 \frac{3438}{60} \sin
+          \frac{\theta}{2} \approx 2 \frac{3438}{60} \frac{\pi}{180}
+          \frac{\theta}{2} = \left(\frac{3438}{60} \frac{\pi}{180}\right)
+          \theta \approx \theta
+
+[wysig] Eksterne skakels
+
+     * History of Trigonometry Outline
+     * Trigonometric functions, wat op geskiedenis fokus
+     * Chord (of a circle) Met interaktiewe animasie
+
+   Kategorieë: Krommes • Trigonometrie
+

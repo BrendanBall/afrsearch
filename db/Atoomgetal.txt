@@ -1,0 +1,44 @@
+Atoomgetal
+
+
+   Die atoomgetal (Z) is 'n term wat in chemie en fisika gebruik word om
+   die aantal protone wat in die kern van 'n atoom voorkom, aan te dui. In
+   'n atoom met 'n neutrale lading is die aantal elektrone tipies gelyk
+   aan die atoomgetal.
+
+   Die atoomgetal het aanvanklik verwys na die nommer wat die element se
+   plek in die periodieke tabel aangedui het. Toe Mendelejev die bekende
+   chemiese elemente gegroepeer het na aanleiding van ooreenkomste in
+   hulle chemiese gedrag, is daar opgemerk dat die plasing van elemente in
+   streng volgorde volgens hulle atoommassa's gelei het tot verkeerde
+   plasings. Jodium en tellurium verskyn oënskynlik in die verkeerde
+   volgorde as hulle in die tabel volgens hul atoommassas gelys word en
+   pas beter in die tabel as hulle plekke omgeruil word. Wanneer hulle in
+   die volgorde geplaas word waar hulle chemiese eienskappe beter
+   ooreengestem het dit duidelik geword dat hulle nommers in die tabel
+   ooreengestem het met hul atoomgetalle soos in die eerste paragraaf
+   gedefinieer. Die getal is proporsioneel tot die massa van die atoom,
+   maar het soos deur bostaande afwyking geïllustreer, 'n ander eienskap
+   as die massa gereflekteer.
+
+   Die afwykings in hierdie volgorde is uiteindelik deur Henry Gwyn
+   Jeffreys Moseley na aanleiding van sy navorsing in 1913 verduidelik.
+   Moseley het 'n streng verwantskap ontdek tussen die
+   x-straaldiffraksiespektra van die elemente en hulle korrekte plasing in
+   die periodieke tabel. Dit het later duidelik geword dat die atoomgetal
+   ooreengestem het met die elektriese lading van die kern; met ander
+   woorde die aantal protone. Dit is hierdie lading wat aan elemente hulle
+   chemiese eienskappe verleen eerder as hul atoommassas.
+
+   Die atoomgetal is nou verwant aan die massagetal (maar hulle moet nie
+   met mekaar verwar word nie) wat die aantal protone en neutrone in die
+   kern van 'n atoom is. Die massagetal word dikwels na die naam van die
+   element geskryf, bv. koolstof-14 (gebruik in koolstofdatering).
+
+[wysig] Sien ook
+
+     * periodieke tabel
+     * lys van elemente volgens getal
+
+   Kategorieë: Chemiese eienskappe • Kernfisika
+

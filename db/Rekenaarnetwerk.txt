@@ -1,0 +1,57 @@
+Rekenaarnetwerk
+
+
+   Blou RJ-45 verbindingskoord wat tipies gebruik word om netwerktoestelle
+   aanmekaar te verbind
+   Blou RJ-45 verbindingskoord wat tipies gebruik word om netwerktoestelle
+   aanmekaar te verbind
+
+   'n Rekenaarnetwerk bestaan uit baie rekenaars en randtoestelle wat
+   aanmekaar verbind word deur 'n telekommunikasie-stelsel ten einde
+   kommunikasie en die deel van hulpbronne te bewerkstellig.
+
+   Inhoud
+
+        * 1 Basiese onderdele van rekenaarnetwerke
+             + 1.1 Rekenaars
+             + 1.2 Drukkers
+             + 1.3 Dun kliënte
+             + 1.4 Ander toestelle
+
+[wysig] Basiese onderdele van rekenaarnetwerke
+
+[wysig] Rekenaars
+
+   Baie van die onderdele van 'n gemiddelde netwerk bestaan uit
+   indiwiduele rekenaars wat of werkstasies (wat persoonlike rekenaars
+   insluit) of bedieners kan wees. Die werkstasies kan wissel van
+   eenvoudige masjiene met slegs basiese funksionaliteit tot rekenaars met
+   baie geheue, vinnige verwerkers, groot hardeskywe en hoë-vlak grafiese
+   verwerkingsvermoëns.
+
+   Die rekenaarbedieners kan wissel van veeldoelmasjiene tot doelgerigte
+   masjiene soos onder andere lêer-, drukker-, pos-, faks-, telefonie-,
+   instaan-, Afstandstoegang-, Toepassings-, Web- en rugsteunbedieners.
+
+[wysig] Drukkers
+
+   Baie drukkers het die ingeboude vermoë om deel van 'n netwerk te wees
+   sonder dat dit direk aan 'n ander rekenaar of toestel gekoppel hoef te
+   wees.
+
+[wysig] Dun kliënte
+
+   Hierdie tipe rekenaars is basies rekenaartoestelle wat veel minder
+   verwerkings- en stoorvermoë het as 'n tipiese werkstasie en word
+   gewoonlik gebruik vir eenvoudige data-invoer en soms hardloop die
+   programmatuur geheel en al op die bediener.
+
+[wysig] Ander toestelle
+
+   Daar bestaan ook baie ander toestelle wat gebruik word om 'n netwerk te
+   bou en te bestuur. Sulke hardeware sluit in Netwerkskakelaars,
+   Brandmure wat in hardeware geïmplementeer is asook roetebepalers. Vele
+   ander toestelle word ook dikwels direk aan netwerke verbind soos
+   byvoorbeeld sekuriteits- en web-kameras.
+   Kategorie: Rekenaarnetwerke
+

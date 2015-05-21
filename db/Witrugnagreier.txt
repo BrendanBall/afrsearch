@@ -1,0 +1,113 @@
+Witrugnagreier
+
+
+                    Witrugnagreier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gorsachius
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. leuconotus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Gorsachius leuconotus
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+
+                            Nycticorax leuconotus
+
+   Die witrugnagreier is 'n skaars standvoël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Hy word aan sy swart laksmansmus, geel gesigvel, geel pote en roesbruin
+   veredrag uitgeken. Die wit pluime word deur volwassenes en jonges
+   gedra.
+
+   53 cm
+
+[wysig] Habitat
+
+   Kom een-een of in pare ylverspreid langs stil riviere en damme voor.
+   Skugter; skuil bedags in digte oewerplantegroei en kom net snags te
+   voorskyn.
+
+[wysig] Verspreiding
+
+   In Suidelike Afrika kom hulle voor vanaf Knysna, al langs die kusstrook
+   wat ooswaarts en noord-ooswaarts strek, oor KwaZulu-Natal, Mpumalanga,
+   Limpopo Provinsie, Mosambiek en Zimbabwe, asook Noord-Wes Provinsie en
+   dele van Namibië , maar die grootste hoeveelheid in pypsteel van die
+   Okavangodelta in Noord-Botswana. Daar is ook afgesonderde groepies
+   langs die kus in die Wes-Kaap en die benede- Garieprivier.
+
+[wysig] Geluid
+
+   As hy opgejaag word, maak hy 'n padda-agtige "kraak".
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Gorsachius leuconotus
+     * Engelse naam: "White-backed Night Heron"
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826.
+
+   Kategorie: Reiers
+

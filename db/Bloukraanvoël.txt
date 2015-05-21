@@ -1,0 +1,138 @@
+Bloukraanvoël
+
+
+                    Bloukraanvoël
+   Status: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gruiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gruidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Anthropoides
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. paradiseus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+               Anthropoides paradiseus
+   (Lichtenstein,AAH, 1793)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die bloukraanvoël is 'n skaars, endemiese, bedreigde standvoël en is
+   ook Suid-Afrika se nasionale voël.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+        * 8 Eksterne skakels
+
+[wysig] Identifikasie
+
+   'n Grondlopende, eiesoortige blougrys voël met lang pote, 'n dik kop
+   met wit kroon, 'n pienk bek, en lang vlerkpluime wat soos 'n stert lyk
+   en wat feitlik tot op die grond strek. Die pluime ontbreek by jonges.
+
+   105 cm
+
+[wysig] Habitat
+
+   Hou in pare of swerms in die Karoo, heuwelagtige grasveld, klam
+   valleie, landerye en langs mere op soek na saad en insekte. Verkies
+   taamlik hoogliggende streke en swerf rond wanneer hulle nie nes maak
+   nie.
+
+[wysig] Verspreiding
+
+   'n Groep bloukraanvoëls in die Bontebok Nasionale Park in Suid-Afrika
+   'n Groep bloukraanvoëls in die Bontebok Nasionale Park in Suid-Afrika
+
+   Van die 15 verskillende kraanvoëls het die bloukraanvoël die ylste
+   verspreiding. Hoewel die bloukraanvoël algemeen voorgekom het in hulle
+   historiese gebiede en die populasie tussen 10,000 en 20,000 was, het
+   daar 'n skieike afname in hulle getalle begin plaasvind sedert 1980, en
+   hulle is tans as 'n bedreigde spesie geklassifiseerd. Die afgelope twee
+   dekades het die bloukraanvoël hoofsaaklik verdwyn in die Oos-Kaap,
+   Lesotho, en Swaziland. Die populasie in die Noordvrystaat,
+   KwaZulu-Natal, Limpopo, Gauteng, Mpumalanga en die Noord-Wesprovinsie
+   het met tot soveel as 90% afgeneem. Die oorgrote meerderheid van die
+   oorblywende populasie is in die oostelike en suidelike dele van
+   Suid-Afrika met 'n klein afgesonderde groepie by die Etoshapan in
+   noordelike Namibië. Soms word afgesonderde broeipare in die buurlande,
+   Namibië, Botswana, Zimbabwe en Mosambiek aangetref. Die hoofoorsaak van
+   die drastiese afname van bloukraanvoëlgetalle in Suid-Afrika word
+   toegeskryf aan die land se bevolkingsgroei, die aanplantings van
+   plantasies op grasvelde, die gebruik van gifstowwe in die landbou,
+   asook die gebruik of misbruik van gifstowwe wat vir ander spesies
+   uitgesit word. Die Suid-Afrikaanse regering beskerm die bloukraanvoël
+   deur wetgewing. Ander bewaringsmetodes word ook aangewend, soos
+   byvoorbeeld opleiding, navorsing, omgewingsbestuur en die werwing van
+   hulp deur private grondeienaars.
+
+[wysig] Geluid
+
+   Uiter 'n harde, ratelende, nasale "krraaaarrrk".
+
+[wysig] Ander name
+
+     * Engels: Blue Crane, Stanley Crane of Paradise Crane.
+     * Nederlands: Paradijskraanvogel
+     * Wetenskaplike klassifikasie: Anthropoides paradiseus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klassifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naamindeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+   Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+[wysig] Eksterne skakels
+
+     * International Crane Foundation's Blue Crane webwerf
+
+   Kategorie: Kraanvoëls
+

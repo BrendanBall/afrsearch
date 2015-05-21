@@ -1,0 +1,196 @@
+Kettinglyn
+
+
+   In wiskunde is die kettinglyn die vorm wat 'n hangende buigbare ketting
+   of kabel aanneem as dit onderworpe is aan 'n eenvormige swaartekrag
+   wanneer beide punte daarvan ondersteun word en 'n entjie van mekaar is.
+   Die ketting is die stylste by die twee hangpunte aangesien die deel van
+   die ketting elk die helfte van die ketting se gewig dra. Aan die
+   onderpunt van die kettinglyn is die helling van die ketting nul omdat
+   die ketting daar net aan horisontale kragte onderworpe is.
+   Kettinglyne vir verskillende parameterwaardes
+   Kettinglyne vir verskillende parameterwaardes
+
+   Die woord catenaria is afgelei van die Latynse woord catena, wat
+   "ketting" beteken. Die kromme staan ook bekend as die alysoid,
+   funikulêr, en chainette. Galileo het beweer dat die kromme van 'n
+   ketting wat onder gravitasie hang 'n parabool sou wees, maar dit deur
+   Jungius in 'n werk wat in 1669 gepubliseer is weerlê. In 1691 het
+   Leibniz, Christiaan Huygens, en Johann Bernoulli die vergelyking
+   afgelei in reaksie op 'n uitdaging deur Jakob Bernoulli. Huygens het
+   die term 'catenaria' vir die eerste keer in 'n brief aan Leibniz in
+   1690 gebruik, en David Gregory het in 1690 'n verhandeling oor die
+   kettinglyn geskryf. Die Engelse woor 'catenary' word gewoonlik
+   toegeskryf aan Thomas Jefferson [1].
+
+   As 'n mens 'n parabool langs 'n reguit lyn rol trek die parabool se
+   brandpunt 'n kettinlyn af. Soos in 1744 deur Euler bewys is, is dit ook
+   die kromme wat wanneer dit om die x-as geroteer word die oppervlak, die
+   katenoïed gee met die minimum oppervlak vir die gegewe bounding sirkel.
+
+   Vierkantige wiele kan perfek glad rol as die pad eweredig gespasieerde
+   hobbels in die vorm van 'n reeks omgekeerde kettinglyne het. Die wiele
+   kan enige ewesydige veelkant wees, maar mens moet die regte kettinglyn
+   gebruik wat ooreenkom met die vorm en dimensies van die wiel.
+
+   Die intrinsieke vergelyking van die kettinglynvorm word gegee deur die
+   hiperboliese funksie en eksponensiële ekwivalent
+
+          y = a \cdot \cosh \left ({x \over a} \right ) = {a \over 2}
+          \cdot \left (e^{x/a} + e^{-x/a} \right ).
+
+   Inhoud
+
+        * 1 Hangbrûe
+        * 2 Die omgekeerde kettinglynboog
+        * 3 Sleeptoue
+             + 3.1 Kritiese Hoek Tou
+        * 4 Verwysings
+        * 5 Eksterne skakels
+
+[wysig] Hangbrûe
+
+   Die verskil tussen 'n parabool (blou) en 'n kettinglyn (rooi)
+   Die verskil tussen 'n parabool (blou) en 'n kettinglyn (rooi)
+   Ponte Hercilio Luz, Florianópolis, Brasilië. Hangbrûe volg 'n
+   paraboliese-, nie 'n kettinglynvrom nie
+   Ponte Hercilio Luz, Florianópolis, Brasilië. Hangbrûe volg 'n
+   paraboliese-, nie 'n kettinglynvrom nie
+
+   Vryhangende kettings en kabels volg die kromme van die bostaande
+   hiperboliese funksie maar hangbrûe se kettings of kabels, wat op
+   eenvormige interval aan die brugdek verbind is met vertikale kabels
+   volg 'n paraboliese kromme amper soos Galileo aanvanklik beweer het
+   [2].
+
+   Die eienskappe van hangende kabels het die interessante gevolg dat
+   wanneer 'n hangbrug opgerig word, die kabels aanvanklik in die vorm van
+   'n kettinglyn hang, voor die kabel aan die dek daaronder vasgemaak
+   word, en dan vervorm na 'n paraboliese kromme soos kabels daaraan geheg
+   word en die brugdek daaraan begin hang.
+
+[wysig] Die omgekeerde kettinglynboog
+
+   Die kettinglyn is die ideale vorm vir 'n boog wat geen ander las dra
+   nie. As dit van individuele individuele elemente, waarvan die kontak
+   oppervlaktes loodreg op die boogkromme is, gemaak word sal geen
+   beduidende skuifkrag by die lasse teenwoordig wees nie en die drukkrag
+   na die grond toe sal direk langs die booglyn loop.
+   Kettinglyn boë in Gaudí se Casa Milá.
+   Kettinglyn boë in Gaudí se Casa Milá.
+
+   Die Katalaanse argitek Antoni Gaudí het van kettinglynvorme gebruik
+   gemaak in meeste van sy werk insluitend die Sagrada Familia katedraal.
+   Om die ideale oplossing vir die gewelflyne te vind het hy omgekeerde
+   skaalmodelle van menige koepels gemaak deur gespande lyne te gebruik om
+   verskeie vlakke van samepersing voor te stel.
+
+   Die Gatewayboog in Sint Louis, Missouri, VSA het 'n omgekeerde
+   kettinglyn vorm. Dit is 630 voet wyd en 630 voet hoog. Die presiese
+   formule
+
+          y = -127.7 \; \textrm{ft} \cdot \cosh({x / 127.7 \;
+          \textrm{ft}}) + 757.7 \; \textrm{ft}
+
+   word binne die boog vertoon.
+   Die Gatewayboog in Sint Louis, 'n omgekeerde kettinglyn
+   Die Gatewayboog in Sint Louis, 'n omgekeerde kettinglyn
+
+   In struktuuringenieurswese is 'n kettinglyndop 'n strukturele vorm uit
+   beton wat 'n kettinglynvorm het. Die profiel van die dop word verkry
+   deur 'n buigsame materiaal tehang,en dit dan in 'n stywe raamwerk te
+   verander waarin beton gegiet kan word en dan, gewoonlik omgekeerd, soos
+   benodig te gebruik.
+
+   'n Pottebakersoond kan met vuurstene in die vorm van 'n kettinglyn
+   gebou word. Die stene wat met vuurklei in plaas van sement gemessel
+   word, word op 'n tydelik kettinglynvorm gebou wat dan verwyder word
+   wanneer die oond voltooi is. Die oondvorm het die voordeel dat dit nie
+   met die tydsaam as gevolg van die herhaalde verhitting- en
+   verkoelingsiklusse self afbreek nie — meeste ander vorms soos 'n
+   vertikale silinder moet met staal bande aan mekaar gehou word.
+
+[wysig] Sleeptoue
+
+   A vakwerkboogbrug wat 'n omgekeerde kettinglynboog gebruik
+   A vakwerkboogbrug wat 'n omgekeerde kettinglynboog gebruik
+
+   Sleurkragte affekteer die kettinglynvorm van 'n kabel in ewewig wat
+   gesleep word wat aanleiding gee tot meer algemene vorms. 'n Kabel met
+   radius a en spesifieke gravitasie σ, en gesleep teen v in 'n medium
+   (byvoorbeeld lug of water) met digtheid ρ[0], sal 'n (x,y) posisie hê
+   wat deur die volgende vergelyking beskryf word (Dowling 1988):
+
+          \frac{{dT}}{{ds}}=-\rho _{0}\left( {\sigma -1}\right) \pi
+          a^{2}g\sin \phi -\rho _{0}v^{2}\pi aC_{T}\cos \phi ;
+
+          T\frac{{d\phi }}{{ds}}=-\rho _{0}\left( {\sigma -1}\right) \pi
+          a^{2}g\cos \phi +\rho _{0}av^{2}\left[ {C_{D}\sin \phi +\pi
+          C_{N}}\right] \sin \phi ;
+
+          \frac{{dx}}{{ds}}=\cos \phi ;
+
+          \frac{{dy}}{{ds}}=-\sin \phi .
+
+   Hier is T die spanning, φ die invalshoek, g = 9.81m / s^2, en s is die
+   kabelhelling. Daar is drie sleurkoëffisiente: die normaal
+   sleurkoëffisient C[D] ( \approx 1.5 vir 'n gladde silindriese kabel);
+   die raaklynige sleurkoëffisient C[T] ( \approx 0.0025 ), en C[N] ( =
+   0.75C[T]).
+
+   Die vergelykingstelsel het vier vergelykings en vier onbekendes: T, φ,
+   x en y, en word tipies numeries opgelos.
+
+[wysig] Kritiese Hoek Tou
+
+   Kritiese hoek tou kom voor as die invalshoek nie verander nie. In
+   praktyk is kritiese hoek tou algemeen en kom voor ver van beduidende
+   puntkragte.
+
+   Stel van \frac{{d\phi }}{{ds}}=0 lei tot 'n vergelyking vir die
+   kritiese hoek:
+
+          \rho _{0}\left( {\sigma -1}\right) \pi a^{2}g\cos \phi =\rho
+          _{0}av^{2}\left[ {C_{D}\sin \phi +\pi C_{N}}\right] \sin \phi .
+
+   As πC[N] < < C[D]sinφ, word die formule vir die kritiese hoek
+
+          \rho _{0}\left( {\sigma -1}\right) \pi a^{2}g\cos \phi =\rho
+          _{0}av^{2}{ C_{D}\sin }^{2}{\phi ;}
+
+   of
+
+          \left( {\sigma -1}\right) \pi ag\cos \phi =v^{2}{C_{D}\sin
+          }^{2}{\phi =}v^{2} {C_{D}}\left( 1-\cos ^{2}\phi \right) ;
+
+   of
+
+          \cos ^{2}\phi +\frac{\left( {\sigma -1}\right) \pi
+          ag}{v^{2}{C_{D}}}\cos \phi -1=0;
+
+   wat lei tot die praktiese formule
+
+          \cos \phi =-\frac{\left( {\sigma -1}\right) \pi
+          ag}{2v^{2}{C_{D}}}+\sqrt{1+ \frac{\left( {\sigma -1}\right)
+          ^{2}\pi ^{2}a^{2}g^{2}}{4v^{4}{C_{D}^{2}}}}.
+
+   Die sleurkoëffisiënt van 'n stroombelynde kabel is meer ingewikkeld en
+   behels die gebruik van laai funksies wat die verandering in sleur as 'n
+   funksie van die invalshoek in ag geneem.
+
+[wysig] Verwysings
+
+   A.P. Dowling, The dynamics of towed flexible cylinders. Part 2.
+   Negatively buoyant elements (1988). Journal of Fluid Mechanics, 187,
+   533-571.
+
+[wysig] Eksterne skakels
+
+     * Hanging With Galileo – wiskundige afleiding van die formule vir
+       ondersteunde en vryhangende kettings; interaktiewe grafiese
+       demonstrasie van parabolies teenoor hiperboliese gevalle.
+     * Kettinglyn Demonstrasie Eksperiment
+     * Horisontale Verveorbandrangskikking
+
+   Kategorie: Krommes
+

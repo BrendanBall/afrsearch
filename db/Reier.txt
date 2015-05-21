@@ -1,0 +1,113 @@
+Reier
+
+
+                        Reiers
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+                   Leach, 1820
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      {{{genus}}}
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                        Genera
+
+                                  Sien teks
+
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Reiers is voëls wat tot die familie Ardeidae behoort en het lang
+   snawels, nekke en pote. Reiers kom by water voor. In broeidrag het
+   talle reiersoorte lang, haaragtige pluime op die rug en/of onderbors,
+   terwyl ander heeljaar lang pluime op die agterkop dra. Reiers vlieg met
+   die nek tussen die skouers ingetrek en verskil só van ooievaars, ibisse
+   en kraanvoëls. Hulle stygsweef selde. Talle reiersoorte is skugter
+   alleenlopers, terwyl ander in groepe hou en meer opvallend is. Hulle
+   gaan geredelík in bome sít en maak in bome, tussen riete óf selfs op
+   die grond nes. Reiers se kras, skor geroep word veral gehoor wanneer
+   hulle opvlieg.
+
+   Inhoud
+
+        * 1 Spesies
+             + 1.1 Reiers wat in Suid-Afrika voorkom
+        * 2 Sien ook
+        * 3 Bronnelys
+
+[wysig] Spesies
+
+[wysig] Reiers wat in Suid-Afrika voorkom
+
+     * Bloureier
+     * Dwergrietreier
+     * Geelbekwitreier
+     * Gewone Nagreier
+     * Groenrugreier
+     * Grootrietreier of Roerdomp
+     * Grootwitreier
+     * Kleinbloureier
+     * Kleinrietreier of Woudapie
+     * Kleinwitreier
+     * Malgassiese Ralreier
+     * Ralreier
+     * Reusereier
+     * Rooireier
+     * Rooikeelreier
+     * Rooipensreier
+     * Swartreier
+     * Swartkopreier
+     * Veereier of Bosluisvoël
+     * Witrug Nagreier
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Reiers
+

@@ -1,0 +1,306 @@
+Nikkel
+
+
+
+   28                         kobalt ← nikkel → koper
+    -
+   ↑
+   Ni
+   ↓
+   Pd
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                       Naam, Simbool, Getal nikkel, Ni, 28
+                                             Chemiese reeks oorgangsmetale
+                                             Groep, Periode, Blok 10, 4, d
+                                                 Voorkoms glansende metaal
+                                               Atoommassa 58.6934(2) g/mol
+                                       Elektronkonfigurasie [Ar] 3d^8 4s^2
+                                            Elektrone per skil 2, 8, 16, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 8.908 g/cm³
+                                  Vloeistof digtheid teen s.p. 7.81 g/cm³
+                                                          Smeltpunt 1728 K
+                                                                (1455 °C)
+                                                           Kookpunt 3186 K
+                                                                (2913 °C)
+                                              Smeltingswarmte 17.48 kJ/mol
+                                            Verdampingswarmte 377.5 kJ/mol
+                                Warmtekapasiteit (25 °C) 26.07 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 1783 1950 2154 2410 2741 3184
+
+                                                           Atoomeienskappe
+                                   Kristalstruktuur kubies vlakgesentreerd
+                                                   Oksidasietoestande 2, 3
+                                                       (swak basis oksied)
+                              Elektronegatiwiteit 1.91 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 737.1 kJ/mol
+                                                        2de: 1753.0 kJ/mol
+                                                         3rde: 3395 kJ/mol
+                                                        Atoomradius 135 pm
+                                                 Atoomradius (ber.) 149 pm
+                                                   Kovalente radius 121 pm
+                                               Van der Waals radius 163 pm
+                                                                   Diverse
+                                    Magnetiese rangskikking ferromagneties
+                                 Elektriese weerstand (20 °C) 69.3 nΩ·m
+                          Termiese geleidingsvermoë (300 K) 90.9 W/(m·K)
+                              Termiese uitsetting (25 °C) 13.4 µm/(m·K)
+                               Spoed van klank (dun staaf) (k.t.) 4900 m/s
+                                                  Young se modulus 200 GPa
+                                                       Skuifmodulus 76 GPa
+                                                      Massamodulus 180 GPa
+                                                    Poissonverhouding 0.31
+                                                      Mohs se hardheid 4.0
+                                                  Vickers hardheid 638 MPa
+                                                  Brinell hardheid 700 MPa
+                                              CAS-registernommer 7440-02-0
+                                                        Vernaamste isotope
+
+                  CAPTION: Hoofartikel: Isotope van nikkel
+
+                           iso    NV    halfleeftyd VM    VE (MeV)    VP
+                          ^56Ni sin     6.075 d     ε   -            ^56Co
+                                                    γ   0.158, 0.811 -
+                          ^58Ni 68.077% Ni is stabiel met 30 neutrone
+                          ^59Ni sin     76000 j     ε   -            ^59Co
+                          ^60Ni 26.233% Ni is stabiel met 32 neutrone
+                          ^61Ni 1.14%   Ni is stabiel met 33 neutrone
+                          ^62Ni 3.634%  Ni is stabiel met 34 neutrone
+                          ^63Ni sin     100.1 j     β^- 0.0669       ^63Cu
+                          ^64Ni 0.926%  Ni is stabiel met 36 neutrone
+
+                                                                Verwysings
+
+   Nikkel is 'n metaalagtige chemiese element in die periodieke tabel met
+   die simbool Ni en atoomgetal van 28.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Aanwendings
+        * 3 Geskiedenis
+        * 4 Biologiese rol
+        * 5 Verspreiding
+        * 6 Ontginning en suiwering
+        * 7 Verbindings
+        * 8 Isotope
+        * 9 Voorsorgmaatreëls
+        * 10 Verwysings
+        * 11 Notas
+        * 12 Eksterne skakel
+
+[wysig] Kenmerkende eienskappe
+
+   Nikkel is 'n silwerwit metaal wat 'n hoë glans aanneem wanneer dit
+   gepoleer word. Dit behoort tot die ystergroep, is hard en smee- en
+   pletbaar. Dit kom gewoonlik in verbinding met swael in milleriet, met
+   arseen in die mineraal nikkoliet en met arseen sowel as swael in
+   nikkelglans.
+
+   Vanweë sy duursaamheid in lug en sy weerstand tot oksidasie word Nikkel
+   word gebruik vir kleiner muntstukke, die platering van yster en
+   geelkoper ens., vir die vervaardiging van chemise apparatuur en in
+   sekere legerings. Dit is magtenies en word dikwels saam met kobalt
+   gevind. Beide hierdie materiale kom ook in meteorietiese yster voor.
+   Die hoof gebruike van Nikkel is in legerings.
+
+   Die mees algemene oksidasietoestand van nikkel is +2, maar 0, +1 en +3
+   Nikkelkomplekse word ook aangetref.
+
+[wysig] Aanwendings
+
+   Ongeveer 65 persent van die Nikkel wat in die Westerse Wêreld verbruik
+   word, is in die vorm van austenietiese vlekvrye staal. 'n Verdere 12
+   persent word gebruik in superlegerings. Die oorblywende 23% van die
+   verbruik word verdeel tussen legeringstaal, herlaaibare batterye,
+   kataliste en ander chemikalieë, munte, gietery produkte en platering.
+   Die grootste verbruiker van nikkel is Japan wat ongeveer 169 600 ton
+   per jaar verbruik (2005).
+
+   Gebruike sluit in:
+     * Vlekvrye staal en ander korrosie-bestande legerings.
+     * Nikkelstaal wat gebruik word vir pantserplate en diefstal bestande
+       brandkluise.
+     * Die legering bekend as Alnico word in magnete gebruik.
+     * Mu-metaal het 'n besondere hoë magnetiese deurdringingsvermoë en
+       word gebruik om magnetiese velde af te skerm.
+     * Monel is 'n koper-nikkel legering wat 'n hoë weerstand tot korrosie
+       het en word gebruik in skeepskroewe, kombuisgereedskap en pypwerk
+       in die chemiese nywerheid.
+     * Smart wire of vormgeheue legerings word in robotika aangewend.
+     * Herlaaibare Batterye soos nikkelmetaalhidried-batterye en
+       nikkelkadmium-batterye.
+     * Muntstukke. In die Verenigde State en Kanada word nikkel in die
+       vyf-Sent munt gebruik.
+     * Word gebruik in elektroplatering.
+     * Word gebruik om kroesies vir laboratoriumgebruik te vervaardig.
+     * Fyn verdeelde nikkel dien as 'n katalis vir hidrogenasie van
+       onversadigde olies.
+
+[wysig] Geskiedenis
+
+   Die gebruik van nikkel dateer reeds uit antieke tye en kan so ver as
+   die jaar 3500 v.C. teruggespoor word. Bronse uit die hedendaagse Sirië
+   het 'n nikkel inhoud van soveel as twee persent gehad. Daar bestaan
+   verder ook Sjinese geskrifte wat aan die hand doen dat wit koper in die
+   Ooste gebruik is tussen 1400 en 1700 v.C. Omdat die ertse van nikkel
+   egter maklik verwar is met die ertse van silwer is dit nie moontlik om
+   met sekerheid te kan sê tot watter mate dit in die antieke tye
+   doelbewus gebruik is nie.
+
+   Minerale wat nikkel bevat (bv. kupfernikkel of vals koper) het waarde
+   gehad in die groen kleur wat dit aan glas verleen het. In 1751 het
+   Baron Axel Frederick Cronstedt probeer om koper uit kupfernikkel (nou
+   nikkoliet genoem) te onttrek en het in plaas daarvan 'n wit metaal
+   verkry wat hy nikkel genoem het.
+
+   Die eerste nikkel muntstuk van die suiwer metaal is in 1881 vervaardig.
+
+[wysig] Biologiese rol
+
+   Baie maar nie alle hidrogenase bevat nikkel saam met yster-sulfaat
+   komplekse. Nikkelkerne is 'n algemene element va hidrogenase waarvan
+   die doel is om te oksideer eerder as om waterstof vry te stel. Die
+   nikkelkern kom voor asof dit veranderinge in oksidasietoestand
+   ondergaan en bewys is al voorgelê dat die nikkelkern dalk die aktiewe
+   dele van hierdie ensieme is.
+
+   'n Nikkel-tetrapirrool koensiem, Co-F430, is teenwoordig in die metiel
+   CoM reduktase en in metanogeniese bakterieë. Die tetrapirrool is 'n
+   intermediêre struktuur tussen profirien en korrien. Veranderings in
+   redokstoestand tesame met verandering in nikkel koördinasie, is
+   onlangse waargeneem.
+
+   Daar is ook 'n nikkelbevattende koolstofmonoksied dehidrogenase. Min is
+   bekend oor die struktuur van die nikkelkompleks. Uit onlangse studies
+   op kuikens en rotte wil dit voorkom asof nikkel 'n noodsaaklike rol in
+   korrekte lewerfunksie speel.
+
+[wysig] Verspreiding
+
+   Die meerderheid nikkel wat gemyn word is afkomstig van twee soorte
+   ertsneerslae. Die eerste is lateriete waar die hoofsaaklikste
+   ertsminerale limoniet: (Fe,Ni)O(OH) en garnieriet ('n hidreerde nikkel
+   silikaat): (Ni,Mg)[3]Si[2]O[5](OH). Die tweede is magmatiese
+   sulfiedneerslae waar die hoofertsmineraal pentlandiet: (Ni,Fe))[9]S[8]
+   is.
+
+   Die Sudbury omgewing van Ontario, Kanada vervaardig omtrent 30 persent
+   van die wêreld se nikkelvoorsiening. Die Sudbury neerslag is geleë in
+   'n gebied waar daar bewyse is van 'n massiewe meteorietimpak tydens die
+   vroeëre geologiese geskiedenis van die Aarde. Ander neerslae kan elders
+   in Kanada gevind word asook in Rusland, New Caledonia, Australië, Kuba
+   en Indonesië. Die neerslae in tropiese gebiede is tipies lateriete wat
+   ontstaan het as gevolg van die intense verwering van vulkaniese rotse
+   en die daaropvolgende konsentrasie van die nikkel bevattende oksied en
+   silikaat minerale.
+
+   Op grond van geofisiese bewyse word daar gespekuleer dat die meeste
+   nikkel op Aarde in die Aardkors gekonsentreer is.
+
+[wysig] Ontginning en suiwering
+
+   Nikkel kan deur middel van ekstraktiewe metallurgie ontgin word.
+   Oksiehidroksied ertse word hidrometallurgies behandel en sulfiedertse
+   word pirometallurgies of hidrometallurgies behandel. Sulfiederts
+   konsentrate word vervaardig deur van die skuimflotasie gebruik te maak.
+
+   Nikkel word vanuit sy ertse ontgin deur van konvensionele rooster en
+   reduksieprosesse gebruik te maak wat 'n metaal van >95% suiwerheid
+   oplewer. Finale suiwering tot >99.99% word bereik deur die Nikkel met
+   koolstofmonoksied te laat reageer om Nikkelkarboniel te vorm. Die
+   produk gas word in 'n groot verhitte kamer ingelaat waar derduisende
+   klein nikkelsfere voortdurend in beweging gehou word. Die
+   Nikkelkarboniel ontbind en slaan suiwer nikkel op die nikkelsfere neer.
+   Die koolstofmonoksied wat vrygestel word, word dan weer hersirkuleer.
+
+   Die grootste nikkelprodusent is Rusland waar daar jaarliks ongeveer 267
+   000 ton nikkel ontgin word. Australië en Kanada is die tweede en derde
+   grootste vervaardigers met 207 en 189.3 duisend ton per jaar
+   respektiewelik.
+
+[wysig] Verbindings
+
+     * Kamasiet is 'n legering van yster en nikkel wat natuurlik voorkom.
+       Gewoonlik in die verhoudings 90:10 tot 95:5, daar kan egter ander
+       onsuiwerhede soos kobalt en koolstof ook teenwoordig wees. Kamasiet
+       kom voor in nikkel-yster legerings.
+
+[wysig] Isotope
+
+   Nikkel in die natuur bestaan uit 5 stabiele isotope; 58-Ni, 60-Ni,
+   61-Ni, 62-Ni en 64-Ni met 58-Ni wat die meeste voorkom (68.077%). 18
+   radio-isotope is al geëien met die mees stabiele daarvan 59-Ni met 'n
+   halfleeftyd van 76 000 jaar, 63-Ni met 'n halfleeftyd van 100.1 jaar en
+   56-Ni met 'n halfleeftyd van 6.077 dae. Al die oorblywende
+   radio-aktiewe isotope het halfleeftye van minder as 60 uur en die
+   oorgrote meerderheid daarvan het halfleeftye van minder as 30 sekondes.
+   Hierdie element het ook 1 meta-toestand.
+
+   Nikkel-56 word in groot hoeveelhede in tipe Ia Supernovas gevorm. Die
+   vorm van die ligkurwe van hierdie supernovas stem ooreen met die verval
+   van nikkel-56 na kobalt-56 en daarna na yster-56.
+
+   Nikkel-59 is 'n langlewende kosmogeniese radionuklied met 'n
+   halfleeftyd van 76 000 jaar. ^59Ni vind baie toepassings in
+   isotoopgeologie. ^59Ni is al gebruik om die die aardouderdom van
+   meteoriete te bepaal en om die natuurlike verspreiding van elemente in
+   buiteruimse stof, ys en sediment te bepaal. Nikkel-60 is die
+   dogterproduk van die uitgestorwe radionuklied ^60Fe (halfleeftyd = 1.5
+   Miljoer jaar). Omdat die uitgestorwe radionuklied ^60Fe so 'n lang
+   halfleeftyd het, sou die teenwoordigheid daarvan in die materiale van
+   die sonnestelsel teen konsentrasies wat hoog genoeg is, waarneembare
+   variasies in die isotoopsamestelling van ^60Ni gehad het. Die
+   natuurlike verspreiding van ^60Ni in buiteruimse materiaal mag dus dalk
+   heelwat insig verskaf tot die ontstaan van die sonnestelsel en die
+   vroeëre geskiedenis daarvan.
+
+   Die isotope van Nikkel wissel in atoommassa van 48 ame (^48Ni) tot 78
+   ame (^78Ni). Nikkel-78 se halfleeftyd was onlangs gemeet as 110
+   millisekondes en daar word geglo dat dit 'n belangrike isotoop is
+   betrokke by supernova nukleosintese van elemente swaarder as yster.[1]
+
+[wysig] Voorsorgmaatreëls
+
+   Blootstelling aan nikkelmetaal en oplosbare verbindings daarvan behoort
+   nie 0.05 mg/cm³ in nikkelekwivalente per 40 uur week te oorskry nie.
+   Daar word vermoed dat Nikkelsulfied-damp en -stof kankerwekkend kan
+   wees asook 'n verskeidenheid ander nikkelverbindings.
+
+   Nikkelkarboniel, [Ni(CO)[4]], is 'n uiters giftige gas. Die toksisiteit
+   van metaalkarboniele is 'n funksie van die giftigheid van 'n metaal
+   asook die karboniel se vermoë om baie giftige koolstofmonoksiedgas af
+   te gee. Dit is ook plofbaar in lug.
+
+   Sensitiewe indiwidue mag allergiese reaksies toon wanneer die metaal
+   met hul vel in aanraking kom. Die hoeveelheid nikkel in produkte wat
+   met die menslike vel in aanraking kom word deur die Europese Unie
+   gereguleer.
+
+[wysig] Verwysings
+
+     * Los Alamos Nasionale Laboratorium – Nikkel
+
+[wysig] Notas
+
+     * Produksie en verbruiksyfers is afkomstig van, The Economist: Pocket
+       World in Figures 2005, Profile Books (2005), ISBN 1-86197-799-9
+
+[wysig] Eksterne skakel
+
+     * WebElements.com – Ni
+     * Artikel in Nature oor nikkel wat deur euro-munte afgeskei word
+     * London Metaalbeurs
+     * IARC Monograph "Nickel and Nickel compounds"
+
+   Kategorie: Chemiese elemente
+

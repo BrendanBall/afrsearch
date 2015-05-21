@@ -1,0 +1,75 @@
+Minitel
+
+
+   Minitel 1, die eerste terminaal wat in 1982 ingevoer is
+   Minitel 1, die eerste terminaal wat in 1982 ingevoer is
+
+   Minitel is 'n Franse voorloper van die huidige Internet, wat as 'n
+   videoteks-gebaseerde aanlyndiens sedert die jaar 1982 deur die Franse
+   poskantoor PTT (Poste, Téléphone et Télécommunications; later France
+   Télécom) aangebied word.
+
+   Die diens bied aanlynwinkels, die moontlikheid om treinkaartjies te
+   bespreek, effektekoerse na te gaan, die telefoongids te raadpleeg en
+   ook die eerste geselshoekies.
+   Xtel, 'n emulasie van die Minitel-sagteware vir rekenaars
+   Xtel, 'n emulasie van die Minitel-sagteware vir rekenaars
+
+   Minitel word 'n groot sukses in Frankryk, veral nadat die poskantoor
+   die besluit neem om die intekenare van die diens met gratis hardeware
+   te voorsien. Sowat nege miljoen eenhede is tot 1999 aan ondernemings en
+   privaatpersone verskaf, en volgens ramings van France Télécom is daar
+   meer as 25 miljoen gebruikers, of bykans die helfte van Frankryk se
+   bevolking van sestig miljoen mense.
+
+   Die gewildheid van Minitel verswak in Frankryk aanvanklik die neiging
+   om na die nuwe Internet oor te skakel. Die intekenare beskik oor 'n
+   goedkope stelsel wat die aankoop van dure rekenaars oorbodig maak.
+   Minitel ken ook geen kompatibiliteitsprobleme ten opsigte van harde- en
+   sagteware nie en is 'n veilige stelsel vir aanlyntransaksies met
+   kredietkaarte- en ander sensitiewe gegewens.
+
+[wysig] Tegnologie
+
+   Minitel is 'n passiewe terminaal wat net uit 'n sleutelboord en 'n
+   skerm bestaan en gevolglik ook geen verwerker nodig het nie.
+
+   Die ingeboude V.23-modem verskaf oor die telefoonlyn toegang tot alle
+   Minitel-dienste; gegewens kan teen 'n snelheid van 1 200 bis per
+   sekonde afgelaai en teen 75 bis per sekonde opgelaai word. Die gegewens
+   kan egter nie gestoor word nie.
+
+   Teks word volgens die videoteks-modus in ag skakerings van grys
+   vertoon; daarbenewens kan ook grafiese voorstellings gebruik en beelde
+   bygevoeg word.
+
+[wysig] Minitel in ander lande
+
+   'n Duitse BTX-toestel
+   'n Duitse BTX-toestel
+
+   Die Minitel-aanlyndiens wek al vroeg belangstelling in ander lande.
+     * Belgacom se Belgiese diens het 'n groot sukses geword, totdat dit
+       uiteindelik deur breëbanddienste vervang is.
+     * In Suid-Afrika is Minitel deur Telkom gebruik om sy videoteksdiens
+       Beltel, wat in 1986 ingestel is, by die publiek meer gewild te
+       maak. Beltel was 'n elektroniese kommunikasiestelsel, wat die
+       bestaande telefoonnet gebruik het om toegang tot databanke en
+       rekenaardienste te verleen. Beltel is in 1999 gestaak.
+     * Die Ierse Telecom Éireann (die huidige Eircom) het Minitel in 1992
+       ingevoer, alhoewel dit uiteindelik by verbruikers minder gewild
+       geraak het as in Frankryk.
+     * Die Kanadese AlexTel-tegnologie, wat in die vroeë negentigerjare
+       deur Bell Canada ontwikkel is, het eweneens op die Franse Minitel
+       gebaseer. Bell bied die diens op sy plaaslike markte in Ontario en
+       Québec aan, tog bly dit in wese beperk tot 'n aantal projekte in
+       Montréal en ander gebiede.
+     * Die Duitse ekwivalent Bildschirmtext (Btx) is net soos Minitel in
+       die tagtigerjare ontwikkel. Die monopolie van die destydse Duitse
+       posdiens Deutsche Bundespost het tot hoë pryse vir onder meer
+       dekodeerders gelei en sodoende baie jare lank die markdeurdringing
+       beperk. Uiteindelik het verbruikers rekenaargesteunde dienste bo
+       Btx verkies.
+
+   Kategorie: Frankryk
+

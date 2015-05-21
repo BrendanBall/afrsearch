@@ -1,0 +1,258 @@
+Stikstof
+
+
+
+                                      koolstof   stikstof   suurstof
+
+                                      N
+                                      P
+
+
+                                             Volledige tabel
+
+                                   Algemeen
+         Naam, Simbool, Nommer                               Stikstof, N, 7
+                Chemiese reeks                                   nie-metale
+          Groep, Periode, Blok                               15 (VA), 2 , p
+            Digtheid, Hardheid                      1.2506 kg/m^3(273K), NA
+                      Voorkoms                  kleurloos
+                               Atoomeienskappe
+                    Atoommassa                                  14.0067 ame
+        Atoomradius (bereken.)                                   65 (56) pm
+              Kovalente radius                                        75 pm
+           van der Waalsradius                                       155 pm
+          Elektronkonfigurasie                                 [He]2s^22p^3
+           e^- per energievlak                                         2, 5
+   Oksidasietoestande (Oksied)                        ±3,5,4,2 (sterk suur)
+              Kristalstruktuur                                  heksagonaal
+                              Fisiese eienskappe
+          Toestand van materie                                          gas
+                     Smeltpunt                           63.14 K (- 210 °C)
+                      Kookpunt                          77.35 K (-195.8 °C)
+                 Molêre volume                         13.54 ×10^-6 m^3/mol
+             Verdampingswarmte                                2.7928 kJ/mol
+               Smeltingswarmte                                0.3604 kJ/mol
+                      Dampdruk                              ND Pa teen __ K
+               Spoed van klank                        334 m/s teen 298.15 K
+                                   Algemeen
+           Elektronegatiwiteit                          3.04 (Paulingskaal)
+   Spesifieke warmtekapasiteit                                1040 J/(kg*K)
+   Elektriese geleidingsvermoë                              ND 10^6/(m·ohm)
+     Termiese geleidingsvermoë                              0.02598 W/(m*K)
+      1^e ionisasie potensiaal                                1402.3 kJ/mol
+     2^de ionisasie potensiaal                                  2856 kJ/mol
+     3^de ionisasie potensiaal                                4578.1 kJ/mol
+     4^de ionisasie potensiaal                                7475.0 kJ/mol
+     5^de ionisasie potensiaal                                9444.9 kJ/mol
+     6^de ionisasie potensiaal                               53266.6 kJ/mol
+    7^nde ionisasie potensiaal                                 64360 kJ/mol
+                            Mees stabiele isotope
+
+
+   iso    NV    halfleeftyd   VM    VE MeV  VP
+   ^13N {sin.}  9.965 m     e vangs 2.220  ^13C
+   ^14N 99.634% N is stabiel met 7 neutrone
+   ^15N 0.366%  N is stabiel met 8 neutrone
+
+             SI eenhede & STD word gebruik tensy anders vermeld.
+
+   Stikstof (Latyn: Nitrogenium), is die chemiese element in die
+   periodieke tabel met die simbool N en atoomgetal van 7. Dit is
+   normaalweg 'n kleurlose, reuklose, smaaklose en meestal onaktiewe
+   diatomiese nie-metaal gas. Stikstof beslaan ongeveer 78 persent van die
+   Aarde se atmosfeer en is 'n bousteen van alle lewende weefsels.
+   Stikstof vorm baie belangrike verbindings soos ammoniak, salpetersuur
+   en sianiede.
+
+   Inhoud
+
+        * 1 Kenmerkende eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Voorkoms
+        * 5 Verbindings
+        * 6 Biologiese rol
+        * 7 Isotope
+        * 8 Voorsorgmaatreëls
+        * 9 Sien ook
+        * 10 Verwysings
+        * 11 Eksterne skakels
+
+[wysig] Kenmerkende eienskappe
+
+   Stikstof is 'n nie-metaal met 'n elektronnegatiwiteit van 3.0. Dit het
+   vyf elektrone in sy buitenste skil en kom dus in die trivalente vorm
+   voor in die meeste verbindings. Suiwer stikstof is 'n onreaktiewe
+   kleurlose diatomiese gas by kamertemperatuur en beslaan ongeveer 78.08%
+   van die Aarde se atmosfeer. Dit kondenseer by 77 K en vries teen 63 K.
+   Vloeibare stikstof is 'n algemene kriogeen.
+
+[wysig] Gebruike
+
+   Die grootste enkele kommersiële gebruik van stikstof is as 'n komponent
+   in die vervaardiging van ammoniak deur middel van die Haber proses.
+   Ammoniak word op sy beurt gebruik vir kunsmis vervaardiging en om
+   salpetersuur te vervaardig.
+
+   Stikstofgas word baie keer gebruik as `n plaasvervanger vir suurstof,
+   waneer oksidasie verkieslik nie moet plaasvind nie;
+     * Om die varsheid van verpakte kosse te bewaar
+     * In normale ligte, as `n goedkope altenatief vir argon
+     * Bo-op vloeibare plofstof as `n veiligheidsmiddel
+     * Die vervaardiging van elektroniese komponente soos diode en
+       tranistor
+     * In weermags vliegtuie om die gevaar van `n brand te verminder
+     * In die maak van vlekvrye staal
+
+   Vloeibare stikstof word gebruik as verkoelingsmiddel vir die vir die
+   dompelvries en vervoer van voedselprodukte, vir die bewaring van lyke
+   en voortplantingselle (sperm en eier), en vir die stabiele stoor van
+   biologiese monsters. Dit word ook gebruik in die studie van kriogenie
+   en dikwels in demonstrasies in wetenskaplike opvoeding. Vloeibare
+   stikstof word geproduseer deur distillasie vanuit vloeibare lug.
+
+   Die soute van saltpetersuur sluit 'n paar belangrike verbindings in
+   soos byvoorbeeld kaliumnitraat of salpeter en ammoniumnitraat.
+   Eersgenoemde verbinding is 'n bestandeel van buskruit en laasgenoemde
+   van kunsmis. Genitreerde organiese verbindings soos nitrogliserien en
+   trinitrotolueen is dikwels plofstowwe.
+
+   Salpetersuur word gebruik as 'n oksideermiddel in vloeibare brandstof
+   aangedrewe vuurpyle. Hidrasien en derivate vind ook gebruik as
+   vuurpylbrandstof.
+
+[wysig] Geskiedenis
+
+   Die ontdekking van Stikstof word algemeen toegeskryf aan Daniel
+   Rutherford in 1772. Die feit dat daar 'n bestandeel van lug was wat nie
+   verbranding onderhou het nie is welbekend gewees aan die laat 18de
+   eeuse chemici. Stikstof is ook terselftertyd deur Carl Wilhelm Scheele,
+   Henry Cavendish en Joseph Priestley bestudeer.
+
+   Verbindings van stikstof was bekend in die Middeleeue. Die alchemiste
+   het salpetersuur as aqua fortis geken. Die mengsel van salpeter- en
+   soutsuur het bekend gestaan as aqua regia, wat bekend was vir sy vermoë
+   om goud op te los.
+
+[wysig] Voorkoms
+
+   Stikstof is die grootste enkele bestandeel van die aarde se atmosfeer
+   (78.1% op 'n volumebasis en 75.5% op 'n massabasis) en word vir
+   industriële doeleindes herwin deur die fraksionele distillasie van
+   vloeibare lug.
+
+   Stowwe wat hierdie element bevat is in die buiteruim waargeneem.
+   Stikstof-14 word geskep tydens die kernfusie proses in sterre. Stikstof
+   maak 'n groot deel uit van diere reste (byvoorbeeld ghwano) gewoonlik
+   in die vorm van ureum, uriensuur en verbindings van hierdie stikstof
+   bevattende verbindings.
+
+   Dit is al 'n geruime tyd bekend dat molekulêre stikstof in Titaan se
+   atmosfeer voorkom en is in interstellêre ruimte deur David Knauth en
+   mede-werkers opgespoor deur van die Far Ultraviolet Spectroscopic
+   Explorer gebruik te maak.
+
+[wysig] Verbindings
+
+   Die mees algemene hidried van stikstof is ammoniak (NH[3]) met
+   hidrasien (N[2]H[4]) as 'n ander bekende dog skaarsser hidried.
+   Ammoniak is meer alkalies as water en los daarin op om ammonium ione
+   (NH[4]^+) te vorm. Vloeibare ammoniak is effe amfiproties en vorm
+   ammonium en amied ione (NH[2]^-); beide amied en nitried (N^3-) soute
+   is bekend, maar hulle ontbind in water. Enkel en dubbel gesubstitueerde
+   verbindings van ammoniak word amiene genoem. Groter kettings, ringe en
+   strukture van stikstof hidriede is ook bekend maar is onstabiel.
+
+   Ander klasse van stikstof anione is aziede (N[3]^-), wat lineÃªr is en
+   iso-elektronies ten opsigte van koolstofdioksied. 'n Ander molekuul met
+   dieselfde struktuur is distikstofmonoksied (N[2]O), meer algemeen
+   bekend as laggas. Hierdie is een van verskeie oksied verbindings,
+   waarvan die mees prominente een stikstofmonoksied (NO) en
+   stikstofdioksied (NO[2]), wat beide 'n ongepaarde elektron bevat.
+   Laasgenoemde toon 'n geneigdheid om te dimeriseer en is 'n belangrik
+   bestandeel van rookmis.
+
+   Die ander oksiede, distikstoftrioksied (N[2]O[3]) en
+   distikstofpentoksied (N[2]O[5]), is egter redelik onstabiel en
+   plofbaar. Die ooreenstemmende sure is nitroësuur (HNO[2]) en
+   salpetersuur (HNO[3]), terwyl die ooreenstemmende soute nitriete en
+   nitrate genoem word. Salpetersuur is een van die weinig sure wat
+   sterker is as hidronium.
+
+[wysig] Biologiese rol
+
+   Stikstof is 'n noodsaaklike bousteen van aminosure en nukleoonsure wat
+   stikstof onmisbaar maak vir lewe om te bestaan
+
+   Molekulêre stikstof in die lug kan nie direk deur plante, diere of
+   mense gebruik word nie. Dit moet eers omgeskakel word na `n ander vorm,
+   soos ammonium of nitraat. Persipitasie bevat gewoonlik groot
+   hoeveelhede nitrate, as gevolg van donderweer of ander elektriese
+   aktiwiteite in die lug. Die grootste hoeveelheid stikstof wat die aarde
+   se oppervlak bereik is hoofsaaklik in die vorm van nitrate. Nitrate in
+   die grond word dan ook by voorkeur deur plante se wortels geabsorbeer
+   in vergelyking met die ammonium in die grond. Peulgewasse soos die
+   soyaboonplant kan stikstof direk uit die atmosfeer verkry omdat hulle
+   wortels knolletjies het waar mikrobes gehuisves word. Die mikrobes kan
+   die omskakeling na ammoniak bewerkstellig in 'n proses wat bekend staan
+   as stikstof vaslegging. Die peulplant skakel daarna die ammoniak na
+   stikstofoksiede en aminosure om waaruit proteïne vervaardig word.
+
+   Stikstof verbindings is een van die boustene in diere biologie.
+   Aminosure van plante, wat stikstof bevat, speel `n belangrike rol in
+   diere, omdat dit help by die vervaardiging van proteine en
+   nukleoonsure.
+
+[wysig] Isotope
+
+   Daar bestaan twee stabiele isotope: N-14 en N-15. Die mees algemene
+   isotoop by verre is N-14 (99.634%), wat geproduseer word in die
+   KSS-siklus (Koolstof-Stikstof-Suurstof-siklus) in sterre. Die
+   oorblywende isotoop is N-15. Van die tien isotope wat sinteties
+   voorberei word het een 'n halfleeftyd van nege minute en die
+   oorblywende isotope se halfleeftye is almal in die ordegrootte van
+   sekondes of minder. Biologies bevorderde reaksies (d.w.s. Assimilasie,
+   nitrifisering en denitrifisering) het 'n sterk invloed op die dinamika
+   van stikstof in die grond. Hierdie reaksies is byna altyd geneig om
+   N-15 verryking in die grond en 'n daarmee gepaardgaande verarming in
+   die biologiese produk teweeg te bring.
+
+[wysig] Voorsorgmaatreëls
+
+   Stikstof los in `n mens se bloedstroom op en `n ligaams-vette. `n
+   Vinnige verandering in druk (veral by duikers wat te vinnig steig) kan
+   tot `n moontlik dodelike kondisie lei. Dit gebeur as die stikstof
+   borrels in die bloedstoom, senuwees, gewrigte en ander areas vorm.
+
+   Direkte vel kontak met vloeibare stikstof vir slegs `n paar sekondes
+   kan tot verkluiming lei. Dit hang egter as van die tipe stikstof, en
+   die tipe manier waarop die kontak plaasvind. As `n stikstof-deurweekte
+   materiaal, soos katoen, in aanraking kom met die vel, is die gevolge
+   erger as waneer die die stikstof direk op die vel gemors word. As die
+   stikstof direk op die vel val, word die vel beskerm deur die
+   leidenfrost effek.
+
+   Nitraat kunsmis in die afloop van landerye af is 'n groot bron van
+   grondwater- en rivierbesoedeling. Siano (-CN) bevattende verbindings
+   vorm uiters giftige soute en is dodelik vir baie diere en vir alle
+   soogdiere.
+
+[wysig] Sien ook
+
+     * Voedingstowwe
+     * Stikstofsiklus
+     * NOx
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory ndash; Nitrogen
+
+[wysig] Eksterne skakels
+
+     * WebElements.com – Nitrogen
+     * EnvironmentalChemistry.com – Nitrogen
+     * It's Elemental – Nitrogen
+     * Schenectady County Community College – Nitrogen
+
+   Kategorie: Chemiese elemente
+

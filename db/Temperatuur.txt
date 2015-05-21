@@ -1,0 +1,58 @@
+Temperatuur
+
+
+   Die temperatuur van 'n ideale monatomiese gas is 'n mate wat verband
+   hou met die gemiddelde kinetiese energie van sy bewegende atome. In
+   hierdie animasie word die grootte van helium-atome op skaal getoon
+   relatief tot wat hulle spasiëring sou wees by 1950 atmosfeer druk. Die
+   gemiddelde snelheid van die atome by kamertemperatuur word hier
+   triljoenvoudig vertraag.
+   Die temperatuur van 'n ideale monatomiese gas is 'n mate wat verband
+   hou met die gemiddelde kinetiese energie van sy bewegende atome. In
+   hierdie animasie word die grootte van helium-atome op skaal getoon
+   relatief tot wat hulle spasiëring sou wees by 1950 atmosfeer druk. Die
+   gemiddelde snelheid van die atome by kamertemperatuur word hier
+   triljoenvoudig vertraag.
+
+   Temperatuur is 'n fisiese eienskap van 'n fisiese stelsel wat
+   onderliggend is aan die algemene begrip van warmte en koue; iets wat
+   warmer is het gewoonlik 'n hoër temperatuur. Temperatuur is een van die
+   belangrikste groothede in die studie van termodinamika. Op 'n
+   mikroskopiese vlak kan temperatuur gedefinieer word as die gemiddelde
+   energie van die mikroskopiese bewegings van 'n enkele partikel in 'n
+   stelsel vir elke vryheidsgraad. Op die makroskopiese skaal is
+   temperatuur die unieke fisiese eienskap wat die rigting van warmtevloei
+   tussen twee liggame in termiese verbinding met mekaar bepaal. As geen
+   warmtevloei plaasvind nie, het die twee voorwerpe dieselfde
+   temperatuur; andersins sal warmte vloei vanaf die warmer voorwerp na
+   die kouer voorwerp. Hierdie twee basiese beginsels staan bekend as die
+   nulde wet van termodinamika en die tweede wet van termodinamika
+   onderskeidelik.
+
+[wysig] Temperatuurskale
+
+   Die drie mees algemene temperatuurskale wat tans in gebruik is:
+     * Kelvin-skaal
+     * Celsius-skaal
+     * Fahrenheit-skaal
+
+   Die Kelvin-skaal word gedefinieer met 0^oK as absolute nul. Dit is ook
+   die temperatuur waar geen meer energie uit die stelsel geneem kan word
+   nie.
+
+   Die omskakeling tussen die Kelvin- en Celsius-skaal kan met die
+   volgende formule gedoen word:
+
+          \mathrm{K = [^\circ C] \left(\frac{1 \, K}{1\, ^\circ C}\right)
+          + 273.15\, K}
+
+   en die omskakeling tussen Fahrenheit en Celsius kan met die
+   vergelyking:
+
+          \mathrm{\ \!^\circ C = \frac{5\, ^\circ C}{9\, ^\circ F}( ^\circ
+          F - 32\ ^\circ )}
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Fisika
+

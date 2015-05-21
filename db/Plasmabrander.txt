@@ -1,0 +1,29 @@
+Plasmabrander
+
+
+   'n Plasmabrander is 'n toestel wat 'n plasmavloei in 'n spesifieke
+   rigting bewerkstellig. Die plasmastraal kan gebruik word vir:
+     * Plasmasnywerk
+     * Plasmasproei
+     * Plasmaboog afvalverbranding
+
+   'n Plasmabrander werk deur 'n elektriese boog deur 'n gas te ontlaai
+   wat deur 'n beperkte opening gespuit word. Induktief gekoppelde
+   plasmabranders wat radiofrekwensie opwekking gebruik word hoofsaaklik
+   in die halfgeleier- en optiese veselbedrywe gebruik. Daar is ook nuwe
+   ontwikkelinge waar die plasma met mikrogolwe opgewek word en daar
+   sodoende weggedoen kan word met elektrodes. Anders as 'n gewone brander
+   hoef die gas nie 'n brandstof te wees nie en kan dit uit enige gas soos
+   lug, argon, stikstof, suurstof ensovoorts wees. Streng gesproke is
+   enige brander wat met brandstof aangedryf word ook 'n plasmabrander
+   aangesien die vlamme uit 'n plasma bestaan. 'n Plasmabrander word egter
+   onderskei van gewone branders in die opsig dat die plasma nie deur die
+   termiese energie van verbranding opgewek word nie.
+
+[wysig] Verwysings
+
+     * Webwerf met inligting oor die werking van 'n plasmasnyer
+     * Beskrywing van mikrogolf plasmabrander
+
+   Kategorie: Tegnologie
+

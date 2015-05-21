@@ -1,0 +1,65 @@
+Kameelperd
+
+
+                   Kameelperd
+   Bedreigingstatus: Van beskerming afhanklik
+   Tydperk: {{{fossil_range}}}
+          Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Artiodactyla
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Giraffidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Giraffa
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. camelopardalis
+     Subspesie:    {{{subspecies}}}
+    [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                 Binomiale naam
+             Giraffa camelopardalis
+   Linnaeus, 1758
+                Trinomiale naam
+                {{{trinomial}}}
+                  Tipe Spesies
+               {{{type_species}}}
+            {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die kameelperd
+   Verspreiding van die kameelperd
+                   Sinonieme
+   {{{synonyms}}}
+
+   Die kameelperd, Giraffa camelopardalis, is 'n soogdier van die familie
+   Giraffidae.
+
+   Die kameelperd se pels het donker vlekke. Na 'n draagtydperk van 14 tot
+   15 maande word een kalf gebore.
+   Vir woordeboekinligting, sien die bladsy kameelperd op WikiWoordeboek
+   Kategorie: Kameelperde
+

@@ -1,0 +1,246 @@
+Molibdeen
+
+
+
+   42                     niobium ← molibdeen → tegnesium
+   Cr
+   ↑
+   Mo
+   ↓
+   W
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal molibdeen, Mo, 42
+                                             Chemiese reeks oorgangsmetale
+                                              Groep, Periode, Blok 6, 5, d
+                                                       Voorkoms metaalgrys
+                                                Atoommassa 95.94 (2) g/mol
+                                       Elektronkonfigurasie [Kr] 4d^5 5s^1
+                                        Elektrone per skil 2, 8, 18, 13, 1
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                         Digtheid (naby k.t.) 10.28 g/cm³
+                                  Vloeistof digtheid teen s.p. 9.33 g/cm³
+                                                          Smeltpunt 2896 K
+                                                                (2623 °C)
+                                                           Kookpunt 4912 K
+                                                                (4639 °C)
+                                              Smeltingswarmte 37.48 kJ/mol
+                                              Verdampingswarmte 617 kJ/mol
+                                Warmtekapasiteit (25 °C) 24.06 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                     P/Pa    1    10  100  1 k  10 k 100 k
+                                   teen T/K 2742 2994 3312 3707 4212 4879
+
+                                                           Atoomeienskappe
+                                Kristalstruktuur kubies liggaamgesentreerd
+                                          Oksidasietoestande 2, 3, 4, 5, 6
+                                                       (sterk suur oksied)
+                              Elektronegatiwiteit 2.16 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 684.3 kJ/mol
+                                                          2de: 1560 kJ/mol
+                                                         3rde: 2618 kJ/mol
+                                                        Atoomradius 145 pm
+                                                 Atoomradius (ber.) 190 pm
+                                                   Kovalente radius 145 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                 Elektriese weerstand (20 °C) 53.4 nΩ·m
+                           Termiese geleidingsvermoë (300 K) 138 W/(m·K)
+                               Termiese uitsetting (25 °C) 4.8 µm/(m·K)
+                               Spoed van klank (dun staaf) (k.t.) 5400 m/s
+                                                  Young se modulus 329 GPa
+                                                       Skuifmodulus 20 GPa
+                                                      Massamodulus 230 GPa
+                                                    Poissonverhouding 0.31
+                                                      Mohs se hardheid 5.5
+                                                 Vickers hardheid 1530 MPa
+                                                 Brinell hardheid 1500 MPa
+                                              CAS-registernommer 7439-98-7
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van Molibdeen
+
+                       iso     NV   halfleeftyd   VM     VE (MeV)     VP
+                      ^92Mo  14.84% Mo is stabiel met 50 neutrone
+                      ^93Mo  sin    4×10^3 j    e      -            ^93Nb
+                      ^94Mo  9.25%  Mo is stabiel met 52 neutrone
+                      ^95Mo  15.92% Mo is stabiel met 53 neutrone
+                      ^96Mo  16.68% Mo is stabiel met 54 neutrone
+                      ^97Mo  9.55%  Mo is stabiel met 55 neutrone
+                      ^98Mo  24.13% Mo is stabiel met 56 neutrone
+                      ^99Mo  sin    65.94 h     ß^-    0.436, 1.214 ^99Tc
+                                                ?      0.74, 0.36,
+                                                       0.14         -
+                      ^100Mo 9.63%  7.8×10^18 j ß^-ß^- 3.04         ^100Ru
+
+                                                                Verwysings
+
+   Molibdeen is 'n chemiese element in die periodieke tabel met die
+   simbool Mo en atoomgetal van 42. Dit het die derde hoogste smeltpunt
+   van enige element en word om hierdie rede dikwels gebruik in
+   hoë-sterkte legerings. Molibdeen word in spoorhoeveelhede in plante en
+   diere aangetref. In sommige diere kan 'n oormaat molibdeen giftig wees.
+   Molibdeen is in 1778 deur Carl Wilhelm Scheele ontdek en is later in
+   1781 deur Peter Jacob Hjelm geïsoleer.
+
+   Inhoud
+
+        * 1 Kenmerkende Eienskappe
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Biologiese rol
+             + 5.1 Koper-molibdeen antagonisme
+        * 6 Isotope
+        * 7 Voorsorgmaatreëls
+        * 8 Eksterne skakels
+
+[wysig] Kenmerkende Eienskappe
+
+   Molibdeen is 'n oorgangsmetaal met 'n elektronegatiwiteit van 1.8 op
+   die Paulingskaal en 'n atoommassa van 95.9 g/mol.^[1] Dit reageer nie
+   met suurstof of water by kamertemperatuur nie. By hoë temperature word
+   molibdeentrioksied gevorm tydens die reaksie 2Mo + 3O[2] → 2MoO[3]^[2]
+   In sy suiwer vorm is molibdeen 'n baie harde silwerwit metaal, dit is
+   egter meer pletbaar as wolfram. Dit het 'n smeltpunt van 2623°C en
+   slegs tantaal en wolfram het hoër smeltpunte.^[3]^[4] Molibdeen het die
+   laagste termiese uitsetting van enige metaal in kommersiële gebruik.
+
+   Molibdeen het met ingang 4 Mei 2007 'n waarde van ongeveer $65 000
+   gehad. Die prys van Molibdeen was tussen die jare 1997 tot 2002 rondom
+   $10 000 per ton en het 'n hoogtepunt van $103 000 per ton in Junie 2005
+   bereik.^[5]
+
+[wysig] Gebruike
+
+   Die vermoë van molibdeen om uiterste temperature te kan weerstaan
+   sonder om betekenisvol uit te sit of sagter te word maak dit nuttig vir
+   gebruik in toepassings waar intense hitte betrokke is, insluitend
+   vliegtuigonderdele, elektriese kontakte, industriële motors en
+   filamente.^[6] Die meeste hoë-sterkte staal-legerings bevat tussen
+   0.25% tot 8% molibdeen. Molibdeen word ook dikwels as plaasvervanger
+   vir wolfram gebruik te wyte aan sy laer digtheid en stabieler prys.
+
+   Molibdeen kan gebruik word as legeringsbymiddel en as vuurbestande
+   bedekking vir ander metale. Al is molibdeen se smeltpunt 2623°C,
+   oksideer molibdeen baie vinnig by temperature bo 760°C wat dit meer
+   geskik maak vir gebruik in vakuumomgewings. Molibdeendisulfied (MoS[2])
+   word gebruik as 'n smeermiddel en korrosieweermiddel. Dit vorm sterk
+   films op metaalagtige oppervlakke en het 'n baie hoë weerstand tot baie
+   hoë temperature en drukke. Natriummolibdaat is 'n helder oranje pigment
+   wat gebruik word in keramieke en plasieke.
+
+[wysig] Geskiedenis
+
+   Molibdeniet die erts waaruit molibdeen tans hoofsaaklik onttrek word
+   was dikwels in die verlede verwar met grafiet. Later het mense dit met
+   looderts verwar. In 1754 het Beng Qvist die mineraal geanaliseer en
+   bepaal dat die erts nie lood bevat het nie. Eers in 1778 het die
+   Sweedse skeikundige besef dat die mineraal 'n nuwe element bevat het.
+   Peter Jacob Hjelm het molibdeen in 1781 vir die eerste keer suksesvol
+   geïsoleer deur koolstof en lynsaadolie te gebruik.
+
+   In die Tweede Wêreldoorlog is sommige Britse tenks deur 'n 75 mm
+   mangaanplaat beskerm. Die beskerming was egter ondoeltreffend en is toe
+   later vervang met 25 mm molibdeen plaat.
+
+[wysig] Verspreiding
+
+   Molibdeenproduksie in 2005
+   Molibdeenproduksie in 2005
+
+   Die wêreld se grootste vervaardigers van molibdeen materiale is die
+   V.S.A, Kanada, Chili, Rusland en Sjina. Al word molibdeen in minerale
+   soos wulfeniet (PbMoO[4]) en poweliet (CaMoO[4]) aangetref is die
+   hoofbron van molibdeen steeds molibdeniet (MoS[2]). Molibdeen word
+   ontgin as hooferts en kan ook as byproduk van koper en
+   wolframontginning verkry word.
+
+   Molibdeen is die element met die 42^ste grootste verspreiding in die
+   heelal en die 25^ste in die Aarde se oseane met 'n gemiddelde
+   konsentrasie van 10.8 mt/km³. Die Russiese Luna 24 sendings het 'n
+   enkele molibdeendraende korrel in 'n piroxeenfragment ontdek wat vanaf
+   die Mare Crisium op die Maan verkry is.
+
+[wysig] Biologiese rol
+
+   In 'n menslike liggaaam wat ongeveer 70 kg weeg is daar ongeveer 9.3 mg
+   molibdeen. Dit kom in groter konsentrasies in die lewer en niere voor
+   en in laer konsentrasies in die rugwerwels voor. Molibdeen kom ook voor
+   in de menslike tandemalje en mag moontlik 'n rol speel in die
+   voorkoming van tandverrotting. Vark, lam en bieflewer bevat ongeveer
+   1.5 dele molibdeen per miljoen. Ander betekenisvolle bronne van
+   molibdeen sluit bone, eiers, sonneblomsade, koringmeel, lensies en
+   graanvlokke.
+
+   Die gemiddelde aanbevole daaglikse molibdeen inname is 0.3 mg. 'n
+   Daaglikse inname van hoër as 0.4 mg kan giftig wees. 'n
+   Molibdeentekort, veroorsaak deur 'n inname van minder as 0.05 mg/dag,
+   kan vertraagde groei veroorsaak, 'n verlaagde aptyt en kan ook
+   voortplanting belemmer. Natriumwolfram is 'n kompeterende inhibitor van
+   molibdeen. Dieëtkundige wolfram verminder die konsentrasie van
+   molibdeen in weefsels. Alhoewel molibdeen verbindings met verskeie
+   organiese molekules vorm, insluitende koolhidrate en aminosure, word
+   dit as MoO[4]^2- deur die liggaam vervoer. Molibdeen is teenwoordig in
+   ongeveer 20 ensieme, insluitende aldehiedoksidase, sulfietoksidase en
+   xantienoksidasie. In sommige diere word die oksidasie van xantien na
+   uriensuur ('n proses van purienkatabolisme) deur xantienoksidase, 'n
+   molibdeenbevattende ensiem, gekataliseer. Die aktiwiteit van
+   xantienoksidase is direk eweredig aan die konsentrasie van molibdeen in
+   die liggaam. 'n Uiters hoë konsentrasie keer egter die proses om en kan
+   as inhibitor optree vir beide purienkatabolisme en ander prosesse.
+   Molibdeenkonsentrasies beïnvloed ook proteïensintese, metabolisme en
+   groei.
+
+[wysig] Koper-molibdeen antagonisme
+
+   Hoë hoeveelhede molibdeen kan inmeng met die liggaam se opname van
+   koper. Dit verhoed dat die plasmaproteïene met die koper bind en dit
+   verhoog die hoeveelheid koper wat deur die uriene uitgeskei word.
+
+   Herkouers wat groot hoeveelhede molibdeen inneem ontwikkel simptome wat
+   diaree, vertraagde groei, bloedarmoede en akromotrigia. Hierdie
+   simptome kan verlig word deur die toediening van meer koper, hetsy in
+   die voeding of deur inspuiting. Die toestand word vererger deur
+   oormatige inname van swael.
+
+[wysig] Isotope
+
+   Daar bestaan 35 bekende isotope van molibdeen waarvan die atoommassa
+   wissel van 83 tot 117, asook vier metastabiele kernisomere. Sewe
+   isotope kom natuurlik voor met atoommassas van 92, 94, 95, 96, 97, 98
+   en 100. Van hierde sewe isotope wat natuurlik voorkom is vyf stabiel
+   met atoommassas van 94 tot 98. Alle onstabiele isotope van molibdeen
+   verval na isotope van niobium, tegnesium en rutenium.
+
+   Molibdeen-92 en molibdeen-100 is die enigste onstabiele isotope wat
+   natuurlik aangetref word. Molibdeen-100 het 'n halfleeftyd van ongeveer
+   1×10^19 j en ondergaan dubbele beta-verval na rutenium-100.
+   Molibdeen-98 is die mees algemene isotoop en maak 24.14% van alle
+   molibdeen uit. Molibdeenisotope met massagetalle van 111 tot 117 het
+   almal halfleeftye van ongeveer .15 μs.
+
+[wysig] Voorsorgmaatreëls
+
+   Molibdeenstof en -dampe wat deur mynbou- en metaalwerkbedrywighede
+   geskep word is nie giftig nie. Daar is geen langtermyngevolge verbonde
+   aan blootstelling tot molibdeen nie; voortdurende blootstelling kan
+   egter lei tot oog- en velirritasie. Die direkte inaseming of inname van
+   molibdeen behoort egter vermy te word. In die V.S.A bepaal regulasies
+   'n maksimum toelaatbare blootstelling aan molibdeen van 5 mg/m^3 in 'n
+   8-uur tydperk. Kroniese blootstelling van 60 tot 600 mg Mo/m^3 kan
+   simptome insluit soos moegheid, hoofpyne en gewrigspyne.
+
+[wysig] Eksterne skakels
+
+     * WebElements.com — Artikel oor Molibdeen
+     * International Molybdenum Association — omgewingsdata
+
+   Kategorie: Chemiese elemente
+

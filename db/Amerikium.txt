@@ -1,0 +1,178 @@
+Amerikium
+
+
+
+    95                       plutonium ← americium → curium
+    Eu
+   ↑
+   Am
+   ↓
+   (Uqp)
+
+                                                                periodieke tabel
+
+                                                                  Algemeen
+                                    Naam, Simbool, Getal americium, Am, 95
+                                                  Chemiese reeks actinides
+                                            Groep, Periode, Blok nvt, 7, f
+                                                     Voorkoms silwerig wit
+                                                    Atoommassa (243) g/mol
+                                       Elektronkonfigurasie [Rn] 5f^7 7s^2
+                                 Elektrone per skil 2, 8, 18, 32, 25, 8, 2
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                            Digtheid (naby k.t.) 12 g/cm³
+                                                          Smeltpunt 1449 K
+                                                                (1176 °C)
+                                                           Kookpunt 2880 K
+                                                                (2607 °C)
+                                              Smeltingswarmte 14,39 kJ/mol
+                                 Warmtekapasiteit (25 °C) 62.7 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                       P/Pa    1    10  100 1 k 10 k 100 k
+                                     teen T/K 1239 1356
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                             Oksidasietoestande 6, 5, 4, 3
+                                                        (amphoteric oxide)
+                               Elektronegatiwiteit 1.3 (Skaal van Pauling)
+                                      ionisasie energieë 1ste: 578 kJ/mol
+                                                        Atoomradius 175 pm
+                                                                   Diverse
+                                           Magnetiese rangskikking no data
+                            Termiese geleidingsvermoë (300 K) 10 W/(m·K)
+                                              CAS-registernommer 7440-35-9
+                                                        Vernaamste isotope
+
+           CAPTION: Hoofartikel: [[Isotope van {{{isotopevan}}}]]
+
+                                  iso   NV  halfleeftyd VM VE (MeV)   VP
+                                ^241Am  sin 432,2 y     SF -        -
+                                                        α  5,638    ^237Np
+                                ^242mAm sin 141 y       IT 0,049    -
+                                                        α  5,637    ^238Np
+                                                        SF -        -
+                                ^243Am  syn 7370 y      SF -        -
+                                                        α  5,438    ^239Np
+
+                                                                Verwysings
+
+   Amerikium (IFA: /ˌaməˈrɪkiəm/) of Amerisium, is 'n sintetiese element
+   in die periodieke tabel met die simbool Am en atoomgetal 95. 'n
+   Radioaktiewe metaal element, americium is 'n actinide wat verkry is
+   deur plutonium met neutrone te bembardeer en was die die vierde
+   transuraniese element om aontdek te word. Dit is na die Amerikas
+   vernoem aanloog na die vernoeming van europium na Europa.
+
+   Inhoud
+
+        * 1 Merkbare eienskappe
+        * 2 Toepassings
+        * 3 Geskiedenis
+        * 4 Isotope
+        * 5 Chemie
+        * 6 Verwysings
+        * 7 Eksterne skakels
+
+[wysig] Merkbare eienskappe
+
+   Suiwer amerikium het 'n wit en silwerige glinstering, teen
+   kamertemperatuur verdof dit stadig in droë lug. Dit is meer silwerig as
+   plutonium en neptunium en skynbaar meer smeebaar as neptunium of uraan.
+   Alfauitstraling van ^241Am is ongeveer drie keer soveel as die van
+   radium. Gram hoeveelhede van ^241Am stel intense gammastrale uit wat
+   ernstige blootstelling probleme skep vir enige iemand wat die element
+   hanteer.
+
+   Amerikium is ook splytbaar; die kritieke massa vir 'n sfeer van ^241Am
+   is ongeveer 60 kilogram. Dit is onwaarskynlik dat Amerikium as
+   wapenmateriaal gebruik sou word aangesien die kritieke massa daarvan
+   heelwat groter is as die van die makliker bekombare Plutonium of
+   Uranaan isotope. [1]
+
+[wysig] Toepassings
+
+   Hierdie element kan in kilogram hoeveelhede vervaardig word en het 'n
+   paar gebruike (meestal ^241Am aangesien dit makliker is om betreklik
+   suiwer monsters van die isotoop te vervaardig). Amerikium word in huise
+   en kantore aangetref waar sekere tipes rookdetektor 'n baie klein
+   hoeveelheid (omtrent 0,2 mikrogram) van ^241Am as 'n bron van
+   ioniseringstraling. ^241Am is gebruik as 'n draagbare gammastraal bron
+   vir gebruik in radiografie. Die element is ook gebruik om glas dikte te
+   oordeel om te help om plat glas te skep. ^242Am is a neutronuitstraler
+   en word gebruik in neutronradiografie. Die isitoop is egter baie duur
+   om te vervaardig in bruikbare hoeveelhede.
+
+[wysig] Geskiedenis
+
+   Amerikium is laat in 1944 deur Glenn T. Seaborg, Leon O. Morgan, Ralph
+   A. James, en Albert Ghiorso by die oorlogstyd Metallurgiese
+   Laboratorium by die Universiteit van Chicago (nou bekend as die Argonne
+   National Laboratory) vir die eerste keer gesintetiseer. Die span het
+   die isotoop ^241Am geskep deur ^239Pu in 'n kernreaktor aan
+   opeenvolgende neutronvangreaksies te onderwerp. Dit het ^240Pu en toe
+   ^241Pu geskep wat weer na ^241Am verval het deur betaverval. Seaborg is
+   patent 3 156 523 vir "Element 95 and Method of Producing Said Element"
+   toegeken. Die ontdekking van amerikium en curium is vir die eerste keer
+   in 1945 informeel op 'n kindervasvrae program aangekondig. [2]
+
+[wysig] Isotope
+
+   Amerikium monster
+   Amerikium monster
+
+   18 radioisotope van amerikium is gekarakteriseer waarvan die stabielste
+   ^243Am met 'n halfleeftyd van 7370 jaar is en ^241Am met 'n halflewe
+   van 432,2 jaar. Die res van die radioaktiewe isotope het halflewes van
+   minder as 51 ure, en die meeste hiervan het halflewes van minder as 100
+   minute. Die element het ook agt metastate, waarvan die stabielste
+   ^242mAm (t[½] 141 jaar) is. Die isotope van amerikium wissel in
+   atoommassa van 231,046 ame (^231Am) tot 249.078 ame (^249Am).
+
+[wysig] Chemie
+
+   In waterige stelsels is die mees algemene oksidasietoestand +3, dit is
+   baie moeiliker om Am(III) na Am(IV) te oksideer as wat dit is om
+   dieselfde oksidasie vir Pu(III) te doen.
+
+   Tans is die solvent extraction chemie van amerikium belangrik aangesien
+   wetenskaplikes in verskeie dele van die wêreld daaraan werk om die
+   medium termyn radiotoksisiteit van die afval produkte van die
+   herprosessering van gebruikte kernbrandstof te verminder.
+
+   Anders as uraan vorm amerikium nie gerdelik 'n dioksied americyl kern
+   (AmO[2])[3] nie, omdat dit baie moeilik is om amerikium bo die +3
+   oksidasietoestand te oksideer as dit in 'n waterige oplossing is. In
+   die natuur kan die americyl kern kombineer met karbonaat sowel as ander
+   suurstof moieties (OH^-, NO[2]^-, NO[3]^-, en SO[4]^-2) om gelaaide
+   komplekse te vorm wat geneig is om geredelik mobiel te wees met lae
+   affiniteit aan grond.
+     * AmO[2](OH)^+1
+     * AmO[2](OH)[2]^+2
+     * AmO[2](CO[3])[1]^+1
+     * AmO[2](CO[3])[2]^-1
+     * AmO[2](CO[3])[3]^-3
+
+[wysig] Verwysings
+
+     * Los Alamos National Laboratory - Americium
+     * Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford
+       University Press; 1998) ISBN 0-19-508083-1
+     * It's Elemental - Americium
+     * ATSDR - Public Health Statement: Americium
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Americium
+
+   Sjabloon:Wiktionary
+     * WebElements.com - Americium (ook as 'n verwysing gebruik)
+
+   Kategorieë: Chemiese elemente • Aktiniedes • Americium verbindings
+

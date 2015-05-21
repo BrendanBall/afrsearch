@@ -1,0 +1,55 @@
+Musical Instrument Digital Interface
+
+
+   Hierdie artikel is geskep deur 'n anderstalige gebruiker en moet
+   nagegaan word vir spelling, sinsbou en woordkeuse. Indien die artikel
+   nie binne die volgende twee weke versorg word nie, mag dit vir
+   verwydering kwalifiseer.
+
+   MIDI staan vir Musical Instrumend Digital Interface, wat soveel beteken
+   as 'n digitale koppelvlak tussen (elektroniese/digitale)
+   musiek-instrumente.
+
+   Daarvolgens is die standaard vasgelê. MIDI gaan heelwat dieper as net
+   klank, daar is ook bevele vir die kontrole van instrumente en ander
+   eksterne kontrole funksies om bv. lampe aan en af te skakel, wat goed
+   sal kan saamwerk by 'n musiek skou. Die GM = General MIDI standaard is
+   die basiese een, met ander wat later daarop uitgebrei het. Sekere
+   firmas het hulle eie private standaard afwandelings en uitbreidings
+   begin bekendstel. Yamaha bv. het die XG standaard uitgebring, 'n
+   uitgebreide standaard wat heelwat meer dinamika kan oplewer en selfs 'n
+   stereo effek kan gee. Dit klink al amper so goed as 'n MP3-leêr, maar
+   met die verskriklike voordeel van 'n baie klein MIDI-leêrs! Die
+   XG-standaard is terug-aanpasbaar met die GM standaard.
+
+[wysig] Tegnologie en Sisteem
+
+   MIDI is die heel kleinste manier om musiek te stoor (vergelyk dit maar
+   met note op papier), omdat daar slegs die veranderings gestoor word.
+   Selfs al duur die klank 'n hele uur, sal die inligting wat gestoor
+   (moet) word dieselfde lengte hê as 'n klank wat slegs 1/8 noot van duur
+   is. Dit is nie die inligting wat gestoor word, maar slegs die
+   karakteristiek (die beskrywing van die klank wat die klankkaart
+   uiteindelik moet genereer), van hoe die klank saamgestel en
+   'vervaardig' moet word.
+
+   Dit beteken die tiepe instrument / die noot se hoogte / die noot se
+   lengte en sy volume.
+
+   Laater het nog ander parameters bygekom, soos hoe hard die noot gespeel
+   moet word en klankhoogdeveranderings nadat die klank al gespeel is -
+   met ander woorde 'n klankverandering wat PITCH BEND genoem word.
+
+   Party nuwer tegnologie is terug-aanpasbaar. Dit beteken dat 'n ouer
+   klankkaart sekere nuwe musiek wat vir 'n later standaard vervaardig is
+   nog steeds kan speel, maar slegs die nuwer inligting nie kan verwerk
+   nie. Dus kan 'n MIDI-Leêr met Yamaha XG uitbreiding gewoonweg op meeste
+   klankkaarte gespeel word, maar sonder die ekstra effek wat dit op 'n
+   XG-aanpasbaare klankkaart die geval sou gewees het.
+
+   Daar is 'n alternatief - wat baie stoorplek kos! Die MIDI-leêrs sal met
+   'n nuwerige klankkaart in 'n MP3-leêr moet omskep word. Daarna kan dit
+   dan ook op CD spelers met MP3-opsie en meeste DVD-spelers, sowel as ook
+   op ou rekenaars met verouderde klankkaarte terug gespeel word.
+   Kategorieë: Gaan taal na • Rekenaar
+

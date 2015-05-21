@@ -1,0 +1,86 @@
+Reuleaux-driehoek
+
+
+   Die Reuleaux-driehoek is 'n konstante wydte kromme gegrond op 'n
+   ewesydige driehoek. Die afstand van enige punt op 'n sy tot by die
+   teenoorstaande sy is gelyk.
+   Die Reuleaux-driehoek is 'n konstante wydte kromme gegrond op 'n
+   ewesydige driehoek. Die afstand van enige punt op 'n sy tot by die
+   teenoorstaande sy is gelyk.
+
+   'n Reuleaux-veelhoek is 'n veelhoek wat 'n kromme met konstante wydte
+   is - dit wil sê, 'n kromme waarin alle deursneë die selfde lengte het.
+   Die mees bekende weergawe is die Reuleaux-driehoek. Beide is vernoem na
+   Franz Reuleaux, 'n 19de eeuse Duitse ingenieur wat pionierswerk gedoen
+   het op maniere hoe masjiene een soort beweging kan omskakel na 'n ander
+   soort, hoewel dit voor sy tyd bekend was.
+
+   Die Reuleaux-driehoek is die eenvoudigste nie-triviale voorbeeld van 'n
+   kromme met konstante wydte - 'n kromme waar die afstand tussen twee
+   teenoorstaande parallelle raaklyne aan die rand daarvan dieselfde is,
+   onafhanklik van die rigting van die twee parallelle lyne.
+
+   Om 'n Reuleaux-driehoek te teken, begin met 'n ewesydige driehoek.
+   Plaas die skerp punt van 'n passer by een hoek en trek die (klein) boog
+   tussen die twee ander hoeke. Doen dieselfde met die middel van die
+   passer op die ander twee hoeke. Vee die oorspronklike driehoek uit. Die
+   resultaat is 'n kromme met konstante wydte. Ekwivalentgewys, gegee 'n
+   ewesydige driehoek T met sy lengte s, neem die grens van die snyding
+   van die skywe met radius s gesentreer op die hoeke van T.
+
+   Volgens die Blaschke-Lebesgue-stelling, het die Reuleaux-driehoek die
+   kleinste oppervlak van enige kromme van enige gegewe konstante wydte.
+
+   Die Reuleaux-driehoek kan veralgemeen word tot reguliere veelhoek met
+   2n + 1 sye. Kyk ook die Britse Twintig Pennie en Vyftig pennie
+   muntstukke.
+
+   Inhoud
+
+        * 1 Trivia
+        * 2 Drie-dimensionele weergawe
+        * 3 Eksterne skakels
+        * 4 Sien ook
+
+[wysig] Trivia
+
+     * Omdat al die deursneë die selfde lengte het, is die
+       Reuleaux-driehoek - in werklikheid alle Reuleaux-veelhoeke - die
+       nie-triviale antwoord tot die Mensa-agtige vraag "Watter vorm kan
+       jy 'n mangatdeksel maak sodat dit nie deur die gat kan val nie?"
+       Die ooglopende antwoord is 'n sirkel.
+     * Die rotor van die Wankel-enjin is 'n Reuleaux-driehoek.
+     * Alhoewel 'n Reuleaux-driehoek glad en maklik rol, is dit nie 'n
+       goeie wiel nie omdat dit nie 'n vaste rotasiemiddelpunt het nie.
+       Terwyl 'n voorwerp bo-op rollers waarvan die deursnit
+       Reuleaux-driehoeke is (soos waar stompe as rollers gebruik word,
+       maar gevorm soos Reuleaux-driehoeke) glad en plat sal rol, sal 'n
+       as geheg aan wiele in die vorm van Reuleaux-driehoeke op en af bons
+       teen drie keer per omwenteling.
+     * Die bestaan van Reuleaux-veelhoeke is 'n goeie demonstrasie van
+       waarom mens nie deursneemetings kan gebruik om te bevestig dat 'n
+       voorwerp 'n sirkulêre deursnit het nie.
+
+[wysig] Drie-dimensionele weergawe
+
+   'n Reuleaux-tetraëder
+   'n Reuleaux-tetraëder
+
+   Die snyding van die balle met radius s gesentreer op die hoeke van 'n
+   reguliere tetraëder met sylengte s word die Reuleaux-tetraëder genoem,
+   maar is nie 'n oppervlak met konstante wydte nie. Dit kan egter op twee
+   maniere in so 'n vorm omskep word.
+
+[wysig] Eksterne skakels
+
+     * Mathworld-artikel oor die Reuleaux-driehoek
+     * Reuleaux triangle by die Cornell biblioteek
+     * Vorm met konstante wydte by cut-the-knot
+
+[wysig] Sien ook
+
+     * Kakeya-naald
+     * Wankel-enjin
+
+   Kategorie: Veelhoeke
+

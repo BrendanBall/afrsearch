@@ -1,0 +1,21 @@
+MediaWikibespreking:Tooltip-ca-move
+
+
+   Voorstel: Skuif hierdie bladsy — Adriaan (S★B) 11:41, 19 Augustus 2007
+   (UTC)
+
+          Gedaan. Anrie 08:56, 21 Augustus 2007 (UTC)
+
+                Ek sien hierdie vertoon nog steeds die Engelse boodskap
+                (dis ook hoekom ek nog nie die ander vervang het nie,
+                Adriaan, ek wil eers sien dat die wel iets verander). Ek
+                wonder of die instellings by MediaWiki:Monobook.js nie
+                miskien ryvoorrang het nie. Ek sou graag die spesifieke
+                boodskap daar wou vertaal as 'n toets. Anrie 13:12, 21
+                Augustus 2007 (UTC)
+
+                      Dit blyk inderdaad die geval te wees. Ek sal die
+                      bladsy vanaand nog vertaal - op die oomblik net baie
+                      besig met leerwerk. Hoop dit is in die haak so.
+                      Anrie 13:24, 21 Augustus 2007 (UTC)
+

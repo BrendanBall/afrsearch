@@ -1,0 +1,22 @@
+Outomatiese vertaling
+
+
+   Outomatiese vertaling, waarna soms verwys word met die akroniem MT, is
+   ’n sub-veld van rekenaarlinguistiek wat die gebruik van
+   rekenaarsagteware ondersoek om teks of spraak uit een natuurlike taal
+   na ’n ander te vertaal. Op ’n basiese vlak, verrig MT eenvoudige
+   vervanging van woorde in een natuurlike taal met woorde in ’n ander.
+   Met die gebruik van liggaam tegnieke, mag meer komplekse vertalings
+   probeer word, wat toelaat vir beter hantering van verskille in
+   linguïstiese tipologie, frase uitkenning, en vertaling van idioom,
+   asook die afsondering van onreëlmatighede.
+
+[wysig] Sien ook: (eksterne skakels)
+
+     * Google translate
+     * Apertium
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Outomatiese vertaling
+

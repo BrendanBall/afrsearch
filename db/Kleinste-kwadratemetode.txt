@@ -1,0 +1,90 @@
+Kleinste-kwadratemetode
+
+
+   Die kleinste-kwadratemetode is 'n rekenkundige metode om die beste
+   passing vir 'n kromme op 'n gegewe stel datapunte in 'n vlak te bepaal.
+   Die metode verleen sy naam aan die kriterium wat gebruik word om
+   hierdie beste passing te bepaal, dit wil sê die passing word gemeet aan
+   die totaal van die som van die kwadratiese afwykings (in 'n vertikale
+   sin) vanaf die kromme.
+
+   Die metode is onafhanklik van mekaar deur Karl Friedrich Gauss en
+   Adrien Marie Legendre ontwikkel. In 1801 het Gauss die
+   kleinste-kwadratemetode gebruik om 'n skatting van die baan van die pas
+   ontdekte planetoïde, Ceres te maak. Hy het noukeurig voorspel waar en
+   wanneer Ceres weer sou verskyn.
+
+   Die kleinste-kwadratemetode in sy eenvoudigste, oorspronklike vorm is
+   'n metode om by 'n gegewe stel punte in die xy-vlak, wat veronderstel
+   is om (min of meer) op 'n regte lyn te lê, die bes passende lyn te
+   bepaal. Die beste passing beteken dat die som van die gekwadreerde
+   afwykings in die vertikale sin ten opsigte van die lyn so klein as
+   moontlik is.
+
+   As ons die i-de meetpunt voorstel deur (x[i],y[i]) en die verlangde lyn
+   voorstel met:
+
+          y = a + bx,
+
+   dan word die afwyking vir die d[i] vir die punt gegee deur:
+
+          d[i] = y[i] − (a + bx[i]).
+
+   Beeld:Linreg.PNG
+
+   Die som van die kwadrate van alle afwykings is
+
+          \sum_{i=1}^{n}{d_i^2}=\sum_{i=1}^{n}\left(y_i -(a+bx_i)\right)^2
+          .
+
+   Dit kom dan daarop neer dat by die gegewe punte die parameters a en b
+   so te bepaal dat die bostaande som op sy kleinste ('n minimum) is. Dit
+   lei tot die sogenaamde normaalvergelykings vir a en b:
+
+          a \cdot n + b \sum{x}= \sum{y}
+          a \sum{x} + b \sum{x^2} = \sum{xy} ,
+
+   waarvan die oplossing as volg uitgedruk kan word
+
+          b=\frac{n\sum xy - \sum x\sum y}{n\sum x^2 - \sum x\sum x}
+
+   en
+
+          a=\frac 1n\sum y -\frac 1n b\sum x=\bar{y}-b\bar{x} .
+
+[wysig] Veralgemening
+
+   Die kleinste-kwadratemetode is 'n metode om 'n model te pas op 'n
+   aantal gemete waardes. Die parameters van die model waarvoor dit geld
+   dat die kwadrate van die afwykings van die gemete waardes ten opsigte
+   van die model minimaal is, word gesoek.
+
+   As die model slegs onafhanklike parameters het, wat elkeen slegs in die
+   eerste mag voorkom, kan 'n mens die kleinste-kwadratemetode toepas en
+   met 'n enkele bewerking die optimale parameters verkry. Hierdie variant
+   staan bekend as 'n lineêre kleinste-kwadratemetode. Let wel dat dit nie
+   noodwendig beteken dat die model 'n regte lyn verteenwoordig nie! Baie
+   ingewikkelde modelle kan met lineêre metodes opgelos word.
+
+   As die model wel hoër magte bevat of daar bestaan korrelasies tussen
+   die parameters, kan daar deur middel van 'n iteratiewe prosedure
+   dikwels ook 'n goeie model bepaal word. Hiervoor moet 'n mens 'n aantal
+   kere 'n berekening uitvoer waar die lokale afgeleide van die
+   modelfunksie gebruik word. 'n Mens moet egter wel 'n idee hê van waar
+   'n mens behoort te eindig, anders kan 'n mens moontlik die verkeerde
+   (suboptimale) minimum bereik.
+
+[wysig] Lineêre regressie
+
+   Die kleinste-kwadratemethode vind onder meer toepassing by lineêre
+   regressie.
+
+   'n Vergelykbare rekenmetode waaby alle waardes nie vooraf bekend hoef
+   te wees nie is die Kalman-filter.
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Nederlandse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Wiskunde
+

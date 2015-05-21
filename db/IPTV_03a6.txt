@@ -1,0 +1,28 @@
+IPTV
+
+
+   IPTV, 'n afkorting van Internet Protocol Television, verwys na die
+   digitale verspreiding van televisieprogramme en rolprente oor 'n
+   digitale datanet. Hiervoor word gebruik gemaak van die
+   Internet-protokol (IP).
+
+   Die verspreiding van digitale video-gegewens vereis 'n hoë
+   oordragsnelheid van tussen 6 en 16 Mbis/s vir HDTV-programme,
+   afhangende van die kodering. IPTV-dienste baseer dus op
+   hoëspoed-breëbandverbindings soos ADSL2, kabelmodems of VDSL en
+   nuut-ontwikkelde metodes van datakompressie soos VC1 en H.264.
+
+   Tans is daar drie verskillende soorte IPTV:
+     * TV-uitsaaidienste,
+     * Video-op-aanvraag-dienste en
+     * internet-TV (waarmee gestoorde video's afgelaai en afgespeel kan
+       word).
+
+   Die Internet-protokol is nie beperk op die internet self nie en verwys
+   net na die metode wat vir die verspreiding van video-gegewens gebruik
+   word; IPTV-dienste kan ook deur glasvesel-, kabeltelevisie- en
+   selfoonnetwerke versprei word. IPTV word onder meer deur sy
+   interaktiwiteit gekenmerk: Aangesien IPTV in 'n soort aanlyn-omgewing
+   aangebied word, is bykomende dienste beskikbaar.
+   Kategorie: Televisie
+

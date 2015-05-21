@@ -1,0 +1,135 @@
+Haselaar
+
+
+                       Haselaar
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Plantae (Plante)
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     Magnoliophyta (Bedeksadiges)
+       Phylum:     {{{phylum}}}
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Magnoliopsida (Tweesaadlobbiges)
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Fagales
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Betulaceae (Berkefamilie)
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Corylus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     {{{species}}}
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                    {{{binomial}}}
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                   Corylus avellana
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die haselaar (Corylus avellana) is 'n genaturaliseerde struik in
+   wes-Europa.
+
+   Inhoud
+
+        * 1 Algemene inligting
+        * 2 Ekonomiese aanwending
+        * 3 Ekologiese belang
+        * 4 Etimologiese betekenis
+        * 5 Kultivars
+             + 5.1 Aanbevole kultivars
+        * 6 Siektes
+
+[wysig] Algemene inligting
+
+   Die haselaar is soos die forsythia 'n "naakbloeier"; bloeisels verskyn
+   voor blare en is afhanklik van windbestuiwing. Manlike en vroulike
+   bloeiwyses sit apart. Manlike blommetjies is reeds in die somer
+   aanwesig in die blaaroksels. Hulle begin net na midsomer oopgaan.
+   Vroulike blommetjies drie tot vier in 'n klein knoppie bymekaar.
+   Wanneer hule oopgaan is slegs die rooi style met stempels te sien. Die
+   haselaar word tot 6m hoog en kan tien jaar neem om vrugte te dra.
+   Geënte struike word egter beskikbaar gestel wat reeds na drie jaar
+   vrugte dra.
+
+[wysig] Ekonomiese aanwending
+
+   Daar is diverse haselneutkultivars vir produksie van groot neute
+   geskep. Hierdie kultivars is geoptimaliseer vir neutproduksie en vir
+   neute met min vliesbedekking en is voortgebring uit kruisteling van
+   diverse Corylus-soorte. Die klein neutjies van die haselaar smaak egter
+   beter.
+   Haselneute
+   Haselneute
+
+[wysig] Ekologiese belang
+
+   Haselneute word deur voëls soos die gaai versprei. Die sade kom op aan
+   bosrande. Verder versprei die haselaar homself deur worteluitlopers. 'n
+   Ondersoek deur Frans Vera het aangetoon dat die haselaar se
+   verspreiding ooreenkom het 'n omgewing wat ooreenkom met die nis van
+   groot weidiere. Die haselaar gedy ook op 'n minder vrugbare bodem.
+
+[wysig] Etimologiese betekenis
+
+   Hasel kom van die Angelsakserse haes. Dit beteken 'beveel' aangesien
+   die haselaarsstaf vroeër 'n teken van gesag was. Corylus is afgelei van
+   die Griekse korys wat helm beteken, 'n beskrywing van die vrughuls.
+
+[wysig] Kultivars
+
+   Corylus avellana 'Contorta'
+   Corylus avellana 'Contorta'
+     * Corylus avellana - Haselaar
+          + Corylus avellana 'Contorta' (Kronkelhaselaar, Krulhaselaar)
+          + Corylus avellana 'Pendula' (Treurhaselaar)
+
+[wysig] Aanbevole kultivars
+
+   Die volgende kultivars word as 'n reël in wes-Europa aangeplant:
+     * Camponica
+     * Gunslebert
+     * Gustav's Zeller
+     * Lang Tidlig Zeller
+     * Morell
+     * Negret
+     * Pauetet
+     * Tonda di Giffoni
+
+[wysig] Siektes
+
+   Die haselneutknopmyt veroorsaak dat die knoppe baie dik opswel en
+   afsterf. Die boom word ook beskadig deur die haselneutboorder. Hierdie
+   kewer lê eiertjies in die jong haselneute waar die larwes die vrugvlees
+   opvreet. Die blaarsnuitkewer vreet die blaar en rol dit op.
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Corylus avellana
+   Kategorie: Bome
+

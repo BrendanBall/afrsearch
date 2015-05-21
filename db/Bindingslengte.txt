@@ -1,0 +1,27 @@
+Bindingslengte
+
+
+   Bindingslengte is die gemiddelde afstand tussen die kerne van twee
+   atome wat chemies gebind het. Wanneer twee atome bind, oorvleuel hul
+   orbitale (mees waarskynlike bewegingsruimtes van elektrone). 'n Atoom
+   bestaan uit 'n klein sentrale kern met 'n negatiefgelaaide elektronwolk
+   om die kern. Indien die aantrekkingskragte tussen die atome sterk is,
+   beweeg die atome en dus ook hul kerne naby aan mekaar en is die
+   bindingslengte baie kort. Met swakkeer aantrekkingskragte tussen die
+   atome, is die bindingslengte langer, wat beteken dat die atome se kerne
+   verder weg is. Bindingslengte neem toe met toename in atoomgrootte.
+   Kleiner atome kan nader aan mekaar beweeg met 'n gevolglike korter
+   bindingslengte. Omdat die waterstofatoom die kleinste atoom is, is die
+   H-H binding die kortse binding bekend. Bindingslengte verskaf ook
+   inligting oor die atome wat by binding betrokke is en of die binding 'n
+   enkel-, dubbel- of drievoudige binding is.
+
+   Atome wat in 'n molekuul gebind is, vibreer asof hulle met 'n veer aan
+   mekaar gebind is, wat variasie in fisiese bindingslengte teweeg bring.
+   Die bindingslengte word egter as die gemiddelide lengte geneem.
+   Bindingslengte is klein en word gevolglik uitgedruk in terme van
+   pikometer (pm) waar 1 pm = 10^-12 m.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Chemie
+

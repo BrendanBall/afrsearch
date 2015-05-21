@@ -1,0 +1,59 @@
+Pols-oksimeter
+
+
+   'n Draagbare oksimeter (vir noodgevalle)
+   'n Draagbare oksimeter (vir noodgevalle)
+   Meet die suurstof deur 'n optiese metode, deur die vingernael
+   Meet die suurstof deur 'n optiese metode, deur die vingernael
+
+   'n Pols-oksimeter is 'n mediese apparaat wat die hoeveelheid suurstof
+   in 'n mens se bloed indirek meet. Dit word dikwels aangeheg aan 'n
+   mediese monitor sodat mediese personeel die pasiënt se bloedoksigenasie
+   ten alle tye kan lees.
+
+   Die mees algemene tipe monitor meet die hoeveelheid versadiging van die
+   bloed se hemoglobien. Dit het gewoonlik 'n paar klein liguitstralende
+   diodes (Engels: light emitting diode -- LED) geplaas teenoor 'n
+   fotodiode op 'n sensor, wat aan 'n liggaamsdeel wat ligdeurskynend is,
+   geknip word (meestal 'n vingerpunt of oorlobbetjie). Die een LED is
+   rooi, met 'n golflengte van 660 nm, en die ander is infrarooi, met 'n
+   golflengte van 910 nm. Die absorpsie van ligstrale op elkeen van die
+   twee golflengtes verskil betekenisvol vir beide oksihemoglobien en die
+   gedeoksigeneerde vorm daarvan, en met behulp van die verskil tussen die
+   absorpsie van die rooi en infrarooi lig kan die
+   oksi/deoksihemoglobienverhouding dus bepaal word. Omdat die hoeveelheid
+   bloed in die kapillêre sisteem van die bloeddruk afhang, wat op sy
+   beurt verskil op grond van die hartklopsiklus, kan die polstempo ook
+   daarmee gemeet word.
+
+   Tipies meet 'n bloedsuurstofmeter in persentasie van normaal, met
+   aanvaarbare reikwydte tussen 95 en 100 persent.
+
+   Hierdie monitors is van kritiese belang in noodmedisyne, vir pasiënte
+   met asemhalings- of hartprobleme, en ook vir vlieëniers wat werk in
+   kajuite sonder lugdrukbeheer bokant 10 000 voet, aangesien hulle
+   aanvullende suurstof benodig.
+
+   Die nuutste generasie pols-oksimeters gebruik gevorderde digitale
+   seinprosessering om akkurate meting te voorsien selfs in gevalle van
+   probleme soos pasiëntbeweging, lae perfusie, helder agtergrondslig en
+   elektriese stoornisse. Die heel nuutse modelle (2005 en later) kan
+   selfs ook koolstofmonoksiedvlakke monitor.
+
+[wysig] Sien ook
+
+     * Arteriële bloedgas
+     * Mediese instrument
+     * Mediese monitor
+     * Pols-oksimetrie
+
+[wysig] Ekstere skakel
+
+     * Hoe 'n Pols-oksimeter werk (en)
+
+   Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse
+   Wikipedia vertaal.
+
+   Klik vir info oor hierdie sjabloon.
+   Kategorie: Geneeskunde
+

@@ -1,0 +1,81 @@
+MediaWikibespreking:Common.css
+
+
+   Aanpassings aan die kode het verreikende effekte. Waar word sulke
+   verandering in die Afrikaanse Wikipedia bespreek? Wynand.winterbach
+   09:38, 15 Oktober 2007 (UTC)
+
+          Ah! Ek sien dat net administreerders hierdie bladsy inelkgeval
+          kan aanpas.
+
+                Jy kan enige veranderings wat jy wil aanbring steeds hier
+                bespreek - indien dit goedgekeur word kan 'n
+                administrateur dit dan aanbring. Anrie 09:46, 15 Oktober
+                2007 (UTC)
+
+                      Soos bespreek in my kommentaar by die Geselshoekie,
+                      versoek ek dat die volgende kode by hierdie CSS-lêer
+                      gevoeg word (ingetrek vanaf
+                      Gebruiker:Wynand.winterbach:Sandput)
+                      (Wynand.winterbach 10:45, 15 Oktober 2007 (UTC)):
+
+/* Artikel boodskap boks sjabloon style */
+table.abkas {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background: #fbfbfb;
+  border: 1px solid #aaa;
+  border-left: 10px solid #1e90ff;       /* Verstek "kennisgewing" blou */
+}
+
+table.abkas th, table.abkas td {         /* Die liggaam van die boodskap se sel(
+le) */
+  padding: 0.25em 0.5em;                 /* 0.5em links/regs */
+}
+
+table.abkas td.abkas-beeld {             /* Die linker beeldsel */
+  width: 52px;
+  padding: 2px 0px 2px 0.5em;            /* 0.5em links, 0px regs */
+  text-align: center;
+}
+
+table.abkas td.abkas-beeldregs {         /* Die regter beeldsel */
+  width: 52px;
+  padding: 2px 4px 2px 0px;              /* 0px links, 4px regs */
+  text-align: center;
+}
+
+table.abkas-kennisgewing {
+  border-left: 10px solid #1e90ff;       /* Blou */
+/* border-right: 10px solid #1e90ff; */  /* As jy twee blou balke wil hê */
+}
+
+table.abkas-verwyder,
+table.abkas-ernstig {
+  border-left: 10px solid #b22222;       /* Rooi */
+}
+
+table.abkas-inhoud {
+  border-left: 10px solid #f28500;       /* Oranje */
+}
+
+table.abkas-styl {
+  border-left: 10px solid #f4c430;       /* Geel */
+}
+
+table.abkas-inmekaarsmelt {
+  border-left: 10px solid #9932cc;       /* Pers */
+}
+
+table.abkas-beskerming {
+  border-left: 10px solid #bba;          /* Grys */
+}
+
+table.abkas.abkas-klein {                /* Klein drywende boks variant */
+    float: right;
+    clear: right;
+    margin: 0 0 0 1em;
+    width: 25%;
+}
+

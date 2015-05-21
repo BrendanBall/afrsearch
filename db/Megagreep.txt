@@ -1,0 +1,75 @@
+Megagreep
+
+
+   v • d • e
+   Hoeveelhede van grepe
+   SI-voorvoegsels Binêre voorvoegsels
+   Simbool
+   (naam) Standaard-
+   gebruik Historiese
+   gebruik Simbool
+   (naam) Waarde
+   kG (kilogreep) 1000^1=10^3 1024^1 KiG (kibigreep) 2^10
+   MG (megagreep) 1000^2=10^6 1024^2 MiG (mebigreep) 2^20
+   GG (gigagreep) 1000^3=10^9 1024^3 GiG (gibigreep) 2^30
+   TG (teragreep) 1000^4=10^12 1024^4 TiG (tebigreep) 2^40
+   PG (petagreep) 1000^5=10^15 1024^5 PiG (pebigreep) 2^50
+   EG (exagreep) 1000^6=10^18 1024^6 EiG (exbigreep) 2^60
+   ZG (zettagreep) 1000^7=10^21 1024^7 ZiG (zebigreep) 2^70
+   YG (yottagreep) 1000^8=10^24 1024^8 YiG (yobigreep) 2^80
+
+   'n Megagreep is 'n eenheid van inligting of rekenaarberging wat
+   gelykstaande is aan óf 1000² grepe of 1024² grepe, afhangende van die
+   konteks waarin dit gebruik word. In baie rare gevalle word die term
+   gebruik om 1000×1024 voor te stel. Megabyte word algemeen verkort na
+   MB. Hierdie simbool moet egter nie verwar word met Mb nie, want Mb is
+   die simbool vir megabit en nie megabyte nie. Die term megabyte is in
+   1970 vir die eerste keer gebruik. ^[1]
+
+   Inhoud
+
+        * 1 Definisie
+        * 2 Sien ook
+        * 3 Eksterne skakels
+        * 4 Verwysings
+
+[wysig] Definisie
+
+   Die term "megagreep" is dubbelsinnig omdat dit algemeen gebruik word en
+   twee waardes het, naamlik 1000² grepe of 1024² grepe. Die verwarring
+   het aanvanklik begin toe daar ander benamings vir verskillende magte
+   van die greep gebruik moes word, maar daar toe nog geen amptelike terme
+   daarvoor was nie. 1024 (2¹º) is byvoorbeeld nagenoeg gelyk aan 1000
+   (10³), en daarom is name van die SI-eenhede wat rofweg ooreengestem het
+   met die eenhede wat eintlik bedoel is, gebruik. Juis om hierdie rede
+   het regerings- en ander organisasies hierdie probleem aangespreek deur
+   mense aan te moedig om die term megagreep slegs te gebruik wanneer daar
+   na 1000² grepe verwys word, en "mebigreep" wanneer daar na 1024² grepe
+   verwys word. Hierdie verandering is al deur vele sagtewareprojekte in
+   hul produkte aangebring, maar baie lêerbestuurdersprogramme gebruik nog
+   "megagrepe" om die lêergroottes mee uit te druk.
+
+[wysig] Sien ook
+
+     * binêre voorvoegsel
+     * kilogreep
+     * Gigagreep
+     * Mebigreep
+     * Megabit
+     * orders of magnitude (data)
+
+[wysig] Eksterne skakels
+
+     * Historiese notas oor die koste van hardeskyfstoorspasie
+     * die megagreep (gevestigde definisie in Networking and Storage
+       Industries; van whatis.com)
+     * Internasionale Electrotegniese Komissie definisies
+     * IEC voorvoegsels en simbole vir binêre multiples
+
+[wysig] Verwysings
+
+    1. ^ "Megabyte."Webster's Ninth New Collegiate Dictionary. 9th ed.
+       1983.
+
+   Kategorieë: Rekenaar • Fisiese groothede
+

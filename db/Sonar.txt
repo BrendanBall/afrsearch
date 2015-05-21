@@ -1,0 +1,83 @@
+Sonar
+
+
+   'n Vissoeksonar
+   'n Vissoeksonar
+
+   Sonar (vanaf die Engelse "Sound Navigation And Ranging") is 'n tegniek
+   wat onderwaterse klankgeleiding gebruik om te navigeer of om voorwerpe
+   onder water op te spoor.
+
+   Inhoud
+
+        * 1 Geskiedenis
+        * 2 Aktiewe versus passiewe sonar
+             + 2.1 Passiewe sonar
+             + 2.2 Aktiewe sonar
+        * 3 Sonar en seesoogdiere
+        * 4 Faktore wat sonar beïnvloed
+        * 5 Sien ook
+        * 6 Bron
+
+[wysig] Geskiedenis
+
+   In 1906, het Lewis Nixon, 'n vlootargitek van die VSA die eerste
+   passiewe sonarluisterapparaat, wat ysberge kon opspoor, uitgevind. Met
+   die uitbreek van die Eerste Wêreldoorlog het dit belangrik geword om
+   duikbote op te spoor, en navorsing oor en belangstelling in sonar het
+   verskerp. In 1915 het Paul Langevin, ‘n Franse ingenieur die aktiewe
+   sonarluisterapparaat ontwerp, wat dit kon doen.
+
+   Beide die VSA en Brittanje het aktiewe sonarapparaat gehad teen 1918.
+
+[wysig] Aktiewe versus passiewe sonar
+
+[wysig] Passiewe sonar
+
+   Passiewe sonar word gebruik om te luister, maar dit saai nie self uit
+   nie. Dit word meestal in militêre verband gebruik, en soms in die
+   toepassing van sommige wetenskappe.
+
+[wysig] Aktiewe sonar
+
+   Aktiewe sonar genereer 'n klankpols, en luister dan vir 'n eggo van die
+   pols. Die afstand tussen die voorwerp en die sonar word bereken met die
+   tydsverloop tussen die uitsaaiing van die pols en die ontvangs van die
+   eggo.
+
+   Die kleinste nuttige sonar het omtrent die grootte en voorkoms van 'n
+   waterdigte flitslig. Om dit te gebruik, druk 'n mens die flitsgedeelte
+   van die sonar in die water, druk 'n knoppie en lees die afstand.
+   Wanneer aktiewe sonar gebruik word om die afstand na die seebodem toe
+   te meet, word dit eggosondering genoem.
+
+[wysig] Sonar en seesoogdiere
+
+   Sekere seesoogdiere, soos die walvis en die dolfyn, gebruik metodes wat
+   met sonar ooreenstem om hulle prooi en vyand op te spoor.
+
+[wysig] Faktore wat sonar beïnvloed
+
+   Die digtheid van die water beïnvloed sonar. Hoe digter die water, hoe
+   vinniger trek die klank. Faktore wat die digtheid van die water
+   beïnvloed is hitte, die hoeveelheid opgeloste molekules in die water,
+   en druk (Hoe dieper, hoe hoër die druk; en hoe kouer hoe hoër die
+   digtheid). Dus is die snelheid van klank laer in varswater as in
+   seewater). Die oseeantemperatuur wissel na gelang van die diepte, maar
+   op die diepte van tussen 30 en 100 meter is daar dikwels 'n skerp
+   verandering, wat die warmtehelling genoem word. Dit skei die warmer
+   oppervlakswater van die koue, onbeweeglike water in die res van die
+   dieptes van die oseean. As gevolg daarvan kan dit die interpretering
+   van sonar erg bemoeilik, want 'n klank met sy oorsprong aan die een
+   kant van die warmtehelling word gebuig, of gerefrakteerd, soos wat dit
+   deur die warmtehelling beweeg.
+
+[wysig] Sien ook
+
+     * Radar
+
+[wysig] Bron
+
+   'n Verkorte vertaling van die artikel Sonar op die Engelse Wikipedia.
+   Kategorieë: Klank • Tegnologie
+

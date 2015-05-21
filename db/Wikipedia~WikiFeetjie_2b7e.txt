@@ -1,0 +1,26 @@
+Wikipedia:WikiFeetjie
+
+
+   WikiFeetjie is 'n term wat gebruik word vir gebruikers wat dinge doen
+   om Wikipedia mooi te maak en artikels te organiseer. Hulle doen wat
+   hulle kan om die styl te verbeter en kleur en beelde by artikels te
+   voeg. Sommige WikiFeetjies voeg ook nuwe artikels by of dra by tot die
+   inhoud, terwyl ander dit nie doen nie.
+
+   WikiFeetjies word beskou as vriendelike wesentjies, net soos
+   WikiDwergies maar beslis baie anders as WikiGremlins or WikiTrolle.
+
+   'n Lys van Wikipediane wat hulleself as WikiFeetjies beskou kan gevind
+   word by Kategorie:Gebruik wikipedia/wikifeetjies.
+
+   As jy wil, kan jy jou WikiFeetjiekwaliteite bekend maak op jou
+   gebruikersbladsy deur hierdie blok daar in te voeg:
+{{Gebruiker wikipedia/WikiFeetjie}}
+
+   As jy verkies om nie gebruikersblokke te gebruik nie, kan jy steeds jou
+   gebruikersbladsy in die WikiFeetjiekategorie laat lys deur die volgende
+   aan die einde van jou gebruikersblad te plaas:
+[[Kategorie:Gebruiker Wikipedia/wikifeetjies|{{subst:PAGENAME}}]]
+
+   Kategorie: Gebruiker Wikipedia/wikifeetjies
+

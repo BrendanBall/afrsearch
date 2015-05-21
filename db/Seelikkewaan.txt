@@ -1,0 +1,152 @@
+Seelikkewaan
+
+
+                     Seelikkewaan
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Sauropsida
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Squamata
+      Suborde:     Sauria
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Iguanidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Amblyrhynchus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. cristatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+               Amblyrhynchus cristatus
+   (Bell, 1825)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die seelikkewaan (Amblyrhynchus cristatus) is 'n likkewaan wat die
+   unieke eienskap onder moderne likkewane besit om onder water te kan
+   oorleef en kos te soek. Die likkewane word slegs in die
+   Galapagos-eilande gevind, maar het na al die eilande in die eilandgroep
+   versprei. Hulle woon hoofsaaklik op die rotsagtige strande van
+   Galapagos, maar kan soms ook in die moerasse en manglietstrande gevind
+   word.
+
+   Inhoud
+
+        * 1 Beskrywing
+        * 2 Gedrag
+        * 3 Bronnelys
+        * 4 Aantekeninge
+
+[wysig] Beskrywing
+
+   Tydens sy besoek aan die eilande, het Charles Darwin die likkewane se
+   voorkoms walglik gevind, en die volgende oor hulle geskryf:
+
+          Die swart Lawarotse word besoek deur groot (2-3 voet) mees
+          akelige, lomp Likkewane. Hulle is so swart soos die poreuse
+          rotse waaroor hulle kruip & soekende na hulle prooi van die See.
+          Ek noem hulle 'kwajongens van die duisternis'. Hulle pas
+          verseker goed by die land wat hulle bewoon.^[1]
+
+   Seelikkewane is egter nie altyd swart nie: die jonger likkewane het 'n
+   ligter dorsale streep en sommige van die volwassenes is grys, eerder as
+   swart. Die rede vir die donker kleure is die spesie se behoefte om
+   hitte so spoedig moontlik te absorbeer, ten einde die periode van
+   letargie ná 'n tydperk in die water te verkort. Hulle eet amper
+   uitsluitlik seewier, maar dit bevat egter meer sout as wat die reptiele
+   nodig het. Seelikkewane het dus spesiale neuskliere waarmee hulle die
+   oortollige sout kan uitnies terwyl hulle in die son lê en bak;
+   gevolglik lyk hulle gesigte ook soms wit. Volwasse mannetjies se kleur
+   verskil van seisoen tot seisoen. Tydens die paarseisoen is die
+   mannetjies op die suidelike eilande die kleurvolste, met rooi en
+   blougroen kleure. Die mannetjies op die eiland Santa Cruz is in hierdie
+   seisoen baksteenrooi en swart, terwyl die mannetjies op
+   Fernandina-eiland baksteenrooi en 'n dowwe groen is.
+
+   'n Ander verskil tussen die likkewane is hulle grote, wat verskil van
+   eiland tot eiland. Die likkewane op Fernandina- en Isabela-eiland is
+   die grootste likkewane wat in die Galapagos aangetref word. Die
+   kleinste likkewane word op die Genovesa-eiland aangetref.
+
+   Volwasse mannetjies is omtrent 1,3 m, terwyl die vroutjies aansienlik
+   kleiner is, met 'n gemiddelde lengte van 0,6 m. Die mannetjies kan tot
+   1,5 kg weeg.
+
+[wysig] Gedrag
+
+   'n Seelikkewaan swem in die water by Fernandina-eiland.
+   'n Seelikkewaan swem in die water by Fernandina-eiland.
+
+   Seelikkewane is koudbloedig en kan dus slegs 'n beperkte tyd onder
+   water spandeer, waar hulle hulle kos vandaan kry. Hoe dieper hulle
+   duik, hoe kouer is die water en hoe korter is die tyd wat hulle
+   onderwater kan spandeer (wanneer hulle al hulle liggaamshitte verloor,
+   verstyf hulle spiere en kan hulle nie meer beweeg nie). Deur in die
+   vlak water (tot 15 m diep) om die eiland te swem, kan hulle
+   afsonderlike duike van tot 'n halfuur onderneem. Die meeste duike duur
+   egter slegs 'n paar minute in uiters vlak water (tot 5 m diep).^[2] Na
+   die duike keer hulle terug na hulle gebied om in die son te bak en weer
+   warm te word. Wanneer hulle koud is, kan die seelikkewaan nie effektief
+   beweeg nie en is hy 'n maklike teiken vir hulle natuurlike vyande.
+   Hulle word dus uiters aggressief vóór hulle opwarm: siende dat hulle
+   nie in die periode kan weghardloop nie, sal hulle probeer om hulle
+   aanvallers te byt. Die mannetjies word ook hoogs verdedigend tydens die
+   broeiseisoen. Die mannetjies versamel groot groepe vroutjies waarmee
+   hulle sal paar en beskerm die vroutjies teen ander manlike likkewane.
+
+[wysig] Bronnelys
+
+     * Nelson, K., Snell, H. & Wikelski, M. 2004. Amblyrhynchus cristatus.
+       In: IUCN 2007. 2007 IUCN Red List of Threatened Species.
+       <www.iucnredlist.org>. Laaste besoek op 25 September 2007.</ref>
+     * Rothman, Robert, Marine Iguana Galapagos Pages. Rochester Institute
+       of Technology. Retrieved 16 August 2006.
+
+[wysig] Aantekeninge
+
+    1. ^ Die oorspronklike Engelse teks: "The black Lava rocks on the
+       beach are frequented by large (2-3 ft) most disgusting clumsy
+       Lizards. They are as black as the porous rocks over which they
+       crawl & seek their prey from the Sea. I call them 'imps of
+       darkness'. They assuredly well become the land they inhabit."
+    2. ^ Volgens Dr. Robert Rothman, van Galapagos Pages duur tipiese
+       duike slegs 'n paar minute in dieptes van minder as 5 meter, maar
+       Darwin het gerapporteer dat 'n bemanningslid 'n likkewaan vir 'n
+       uur onder die water gehou het, waarna dit steeds gelewe het.
+       Volgens die World Conservation Union kan volwasse mannetjies tot
+       twintig meter diep gevind word.
+
+   Kategorie: Reptiele
+

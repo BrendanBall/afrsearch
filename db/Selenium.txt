@@ -1,0 +1,276 @@
+Selenium
+
+
+
+   34                        arseen ← selenium → broom
+    S
+   ↑
+   Se
+   ↓
+   Te
+
+                                                             periodieke tabel
+
+                                                                  Algemeen
+                                     Naam, Simbool, Getal selenium, Se, 34
+                                                 Chemiese reeks nie-metale
+                                             Groep, Periode, Blok 16, 4, p
+                                                Voorkoms grys, metaalglans
+                                                Atoommassa 78.96 (3) g/mol
+                                 Elektronkonfigurasie [Ar] 3d^10 4s^2 4p^4
+                                            Elektrone per skil 2, 8, 18, 6
+                                                        Fisiese Eienskappe
+                                                        Toestand vastestof
+                                   Digtheid (naby k.t.) (grys) 4.81 g/cm³
+                                  Digtheid (naby k.t.) (alpha) 4.39 g/cm³
+                               Digtheid (naby k.t.) (vitreous) 4.28 g/cm³
+                                  Vloeistof digtheid teen s.p. 3.99 g/cm³
+                                                           Smeltpunt 494 K
+                                                                 (221 °C)
+                                                            Kookpunt 958 K
+                                                                 (685 °C)
+                                            Kritieke punt 1766 K, 27.2 MPa
+                                        Smeltingswarmte (grys) 6.69 kJ/mol
+                                            Verdampingswarmte 95.48 kJ/mol
+                               Warmtekapasiteit (25 °C) 25.363 J/(mol·K)
+
+   CAPTION: Dampdruk
+
+                                         P/Pa    1  10  100 1 k 10 k 100 k
+                                       teen T/K 500 552 617 704 813   958
+
+                                                           Atoomeienskappe
+                                              Kristalstruktuur heksagonaal
+                                              Oksidasietoestande ±2, 4, 6
+                                                       (sterk suur oksied)
+                              Elektronegatiwiteit 2.55 (Skaal van Pauling)
+                                                       Ionisasie energieë
+                                                 (meer) 1ste: 941.0 kJ/mol
+                                                          2de: 2045 kJ/mol
+                                                       3rde: 2973.7 kJ/mol
+                                                        Atoomradius 115 pm
+                                                 Atoomradius (ber.) 103 pm
+                                                   Kovalente radius 116 pm
+                                               Van der Waals radius 190 pm
+                                                                   Diverse
+                                         Magnetiese rangskikking geen data
+                                Termiese geleidingsvermoë (300 K) (amorf)
+                                                            0.519 W/(m·K)
+                                      Termiese uitsetting (25 °C) (amorf)
+                                                             37 µm/(m·K)
+                             Spoed van klank (dun staaf) (20 °C) 3350 m/s
+                                                   Young se modulus 10 GPa
+                                                      Skuifmodulus 3.7 GPa
+                                                      Massamodulus 8.3 GPa
+                                                    Poissonverhouding 0.33
+                                                      Mohs se hardheid 2.0
+                                                  Brinell hardheid 736 MPa
+                                              CAS-registernommer 7782-49-2
+                                                        Vernaamste isotope
+
+                 CAPTION: Hoofartikel: Isotope van selenium
+
+                       iso    NV   halfleeftyd    VM      VE (MeV)    VP
+                      ^72Se sin    8.4 d        ε      -             ^72As
+                                                γ      0.046         -
+                      ^74Se 0.87%  Se is stabiel met 40 neutrone
+                      ^75Se sin    119.779 d    ε      -             ^75As
+                                                γ      0.264, 0.136,
+                                                       0.279         -
+                      ^76Se 9.36%  Se is stabiel met 42 neutrone
+                      ^77Se 7.63%  Se is stabiel met 43 neutrone
+                      ^78Se 23.78% Se is stabiel met 44 neutrone
+                      ^79Se sin    1.13×10^6 j  β^-    0.151         ^79Br
+                      ^80Se 49.61% Se is stabiel met 46 neutrone
+                      ^82Se 8.73%  1.08×10^20 j β^-β^- 2.995         ^82Kr
+
+                                                                Verwysings
+
+   Selenium is 'n chemiese element in die periodieke tabel met die simbool
+   Se en atoomgetal van 34. Dit is 'n toksiese nie-metaal wat chemies
+   verwant is aan swael en tellurium. Dit kan in verskeie vorme voorkom
+   maar een van hulle is 'n stabiele grys metaalagtige vorm wat
+   elektrisiteit beter in die teenwoordigheid van lig as in die donker kan
+   gelei en word in fotoselle gebruik. Die element word gevind in
+   sulfiedertse soos piriet.
+
+   Inhoud
+
+        * 1 Vervaardiging
+        * 2 Gebruike
+        * 3 Geskiedenis
+        * 4 Verspreiding
+        * 5 Isotope
+        * 6 Selenium en gesondheid
+             + 6.1 Giftigheid
+             + 6.2 Seleniumtekort
+        * 7 Verbindings
+        * 8 Verwysings
+        * 9 Eksterne skakels
+
+[wysig] Vervaardiging
+
+   Selenium is 'n algemene byproduk van koperraffinering of die
+   vervaardiging van swaelsuur^[1]^[2]^[3]. Die suiwering van selenium
+   word dikwels bemoeilik deur die teenwoordigheid van ander verbindings
+   en elemente. Die algemeenste proses begin gewoonlik met die oksidasie
+   met natriumkarbonaat om natriumseleniet te lewer. Die natriumseleniet
+   word dan aangesuur met swaelsuur wat selenoëēsuur lewer. Swaeldioksied
+   word dan deur die selenoësuur geborrel om die elementêre selenium te
+   lewer.
+
+[wysig] Gebruike
+
+     * Word gebruik in fotoselle, ligmeters en sonselle vanweë sy
+       fotovoltaïse en fotogeleidende eienskappe.
+     * Word in gelykrigters gebruik.
+     * Word gebruik om kleur in glas te verwyder aangesien dit die groen
+       kleur van ysterbevattende onsuiwerhede teenwerk.
+     * Word gebruik om 'n rooi kleur aan glasse en emaljes te verleen.
+     * Word gebruik om die skuurweerstand van gevulkaniseerde rubber te
+       verbeter.
+     * Word in fotokopiëring aangewend.
+     * Word in fotografie gebruik.
+
+[wysig] Geskiedenis
+
+   Selenium (Grieks σελήνη selene wat "Maan" beteken) is in 1817 deur Jöns
+   Jakob Berzelius ontdek. Die groei in seleniumverbruik het egter eers
+   veel later plaasgevind met die ontwikkeling van nuwe gebruike daarvan,
+   insluitende toepassings in rubbersamestelling, staallegerings en
+   seleniumgelykrigters. Teen 1970 is seleniumgelykrigters grootliks met
+   silikongelykrigters vervang maar is steeds as fotogeleier in gewone
+   papierkopieërders gebruik en is tot vandag toe nog een van die grootste
+   gebruike vir selenium. Tydens die 1980's het fotogeleiertoepassings
+   begin afneem met die vervaardiging van meer en meer organies gebaseerde
+   fotogeleiers. In 1996 het navorsing 'n positiewe verband met selenium
+   aanvullings en die voorkoming van kanker in mense bevestig, maar die
+   wydverspreide gebruik van selenium in hierdie verband het nie die
+   verbruik van selenium noemenswaardig vermeerder nie vanweë die klein
+   dosisse wat benodig word. Sedert die laat 1990's is selenium as
+   legering in geelkopers vir loodgietwerk gebruik om aan die geen lood
+   vereiste van nuwe omgewingstandaarde te voldoen.
+
+[wysig] Verspreiding
+
+   Selenium kom in verskeie anorganiese vorme voor, insluitende elementêre
+   selenium, selenied, selenaat en seleniet. Selenium kam ook voor in
+   organiese stowwe soos dimetielselenied, selenometioon en selenosistien.
+
+   Selenium word meestal vervaardig vanuit selenied in baie sulfiedertse,
+   soos dié van koper, silwer of lood. Dit word as byproduk van die
+   verwerking van hierdie ertse verkry, vanaf die anodemodder van
+   koperraffinaderye en die modder vanuit die loodkamers van
+   swaelsuuraanlegte. Hierdie modders kan op verskeie maniere verwerk word
+   om suiwer selenium te verkry.
+
+   Natuurlike bronne van selenium sluit in sekere seleniumryke sand en
+   selenium wat deur sekere giftige plante bioverryk is.
+
+[wysig] Isotope
+
+   Selenium het ten minste 29 isotope, waarvan 5 stabiel is en 6
+   kernisomere.
+
+[wysig] Selenium en gesondheid
+
+   Alhoewel selenium in groot dosisse giftig is, is selenium 'n
+   noodsaaklike spoorelement in alle bekende lewensvorme. Dit 's 'n
+   komponent van die ongewone aminosure selenosistien en selenometionien.
+   In mense is selenium 'n spoorelement wat funksioneer as 'n kofaktor vir
+   die reduksie van anti-oksidant ensieme soos glutatioonperoksidase en
+   tioredoksienreduktase. Dit speel ook 'n rol in die werking van die
+   skildklier deur as 'n kofaktor vir deiodenase van skildklierhormoon op
+   te tree^[4]. Dieetkundige selenium word aangetref in graankosse, vleis,
+   vis en eiers. Die aanbevole dieetkundige innamme vir volwassenes is 55
+   mikrogram per dag. Lewer en Brasiliaanse neute (paraneut) is veral ryk
+   aan selenium. 'n Lys van seleniumryke voedsels is op die internet
+   beskikbaar^[5].
+
+[wysig] Giftigheid
+
+   Al is selenium 'n noodsaaklike spoorelement is dit giftig indien te
+   veel daarvan ingeneem word. Die inname van meer as die toelaatbare vlak
+   van 400 mikrogram per dag kan aanleiding gee tot selenosis^[6].
+   Simptome van selenose sluit in 'n asem wat na knoffel ruik, afwykings
+   in die spysverteringskanaal, haarverlies, los naels, moegheid,
+   prikkelbaarheid en neurologiese skade. Uiterste gevalle van selenose
+   kan lei tot lewerversaking , longontsteking en die dood^[7].
+
+   Elementêre selenium en die meeste metaalagtige seleniede se giftigheid
+   is relatief laag as gevolg van hulle biobeskikbaarheid. In teenstelling
+   is selenaat en seleniet uiters giftig en die werking daarvan is
+   soortgelyk aan dié van arseen. Waterstofselenied is 'n uiters giftige,
+   korrosiewe gas^[8]. Selenium kom ook voor in organiese verbindings soos
+   dimetielselenied, selenometionien en selenosistien wat almal 'n hoë
+   biobeskikbaarheid het wat slegs in hoë dosisse giftig is.
+
+   Seleniumverfigtiging as gevolg van landbou aflope kan ook
+   geboorte-afwykings in voëls tot gevolg hê.
+
+[wysig] Seleniumtekort
+
+   Seleniumtekorte is 'n relatief rare verskynsel by mense met 'n gesonde
+   dieet. Dit kom voor by pasiënte met ernstige afwykings in
+   dermkanaalfunksie, of diegene wat totale binne-aarse voeding ontvang.
+   Mense wat afhanklik is van voedsels wat in seleniumarme grond verbou
+   word kan ook die siekte opdoen. Die aanbevole dieetkundige dosis vir
+   volwassenes is 55 mikrogram per dag.
+
+   Seleniumtekorte kan lei tot Keshan se siekte wat moontlik noodlottig
+   kan wees asook Kashin-Beck se siekte^[9]. Die hoofsimptome van Keshan
+   se siekte is miokardiese nekrose, wat lei tot die verswakking van die
+   hartspier. Kashin-Beck se siekte lei tot atrofie (wegkwyn), verval en
+   nekrose van kraakbeenweefsels. Keshan se siekte maak die liggaam ook
+   meer vatbaar vir siektes wat veroorsaak word deur gebrekkige voeding,
+   biochemiese oorsake of aansteeklike siektes.
+
+   Hierdie siektes kom die meeste voor in sekere dele van Sjina waar die
+   grond uiters arm is in selenium. Studies in die Jiangsu provinsie van
+   Sjina dui aan dat 'n afname in die voorkoms van die siekte plaasvind
+   wanneer selenium aanvullings geneem word. Seleniumtekorte is ook al
+   verbind met kropswelling, kretinisme en herhaalde miskraam in
+   mense^[10].
+
+[wysig] Verbindings
+
+     * Waterstofselenied (H[2]Se)
+     * Seleniumdioksied (SeO[2])
+     * Seleniumsuur (H[2]SeO[4])
+     * Selenoësuur (H[2]SeO[3])
+     * Seleniumsulfiede: Se[4]S[4], SeS[2], Se[2]S[6]
+     * Natriumseleniet (Na[2]SeO[3])
+     * Sinkselenied (ZnSe)
+
+[wysig] Verwysings
+
+    1. ^ Agentskap vir die Registrasie van Giftige stowwe en siektes in
+       die V.S.A toksikologiese profiel van Selenium
+    2. ^ Los Alamos National Laboratory - Data oor Selenium
+    3. ^ Webelements.com artikel oor Selenium
+    4. ^ Artikel oor die voedingswaarde van Selenium by die Linus Pauling
+       Instituut
+    5. ^ Data oor voedsels wat selenium bevat
+    6. ^ Inligting oor die gesondheidsrisikos van selenium
+    7. ^ Hoofstuk oor die toksikologie van selenium van die ATSDR
+       inligtingsblad vir selenium.
+    8. ^ Gids oor die hantering van Waterstofselenied in die Kanadese
+       Departement van vervoer se Gidsboek oor die hantering en vervoer
+       van gevaarlike stowwe
+    9. ^ Sien verwysing no. 7
+   10. ^ Sien verwysing no. 7
+
+[wysig] Eksterne skakels
+
+   Commons
+   Multimedia oor hierdie onderwerp is te vinde op Wikimedia Commons onder
+   die titel:
+   Selenium
+     * Los Alamos National Labs Chemie-afdeling se artikel oor Selenium
+     * WebElements.com - Artikel oor Selenium
+     * Die V.S.A se National Institutes of Health blad oor Selenium
+     * ATSDR - Toksikologiese profiel: Selenium
+     * Peter van der Krogt se werf oor die elemente
+
+   Kategorie: Chemiese elemente
+

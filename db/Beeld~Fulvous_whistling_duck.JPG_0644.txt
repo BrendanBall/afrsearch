@@ -1,0 +1,128 @@
+Beeld:Fulvous whistling duck.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:Fulvous whistling duck.JPG
+   Grootte van hierdie voorskou: 546 × 600 pixels
+   Volle resolusie (2 098 × 2 304 pixel, file size: 2,15 MG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+   Moved
+
+         This image was moved to Wikimedia Commons from en.wikipedia using a bot
+         script. All source information is still present. It requires review
+         because CommonSense could not categorise the image during transfer.
+         Additionally, there may be errors in any or all of the information
+         fields; information on this image should not be considered reliable and
+         the image should not be used until it has been reviewed and any needed
+         corrections have been made. Once the review has been completed, this
+         template should be removed. For details, see below.
+   Description
+   English: en:Fulvous Whistling Duck (Dendrocygna bicolor).
+   Source
+
+   Originally created and uploaded to the English Wikipedia by Duncan
+   Wright, using the same filename.
+   Date
+
+   2006-02-10
+   Author
+
+   Duncan Wright, aka Sabine's Sunbird
+   Permission
+   (Reusing this image)
+
+   GFDL-SELF-WITH-DISCLAIMERS; Released under the GNU Free Documentation
+   License.
+
+[edit] License information
+
+
+      Sabine's Sunbird at the English language Wikipedia, the copyright
+     holder of this work, has published or hereby publishes it under the
+                             following license:
+
+
+   GNU head Permission is granted to copy, distribute and/or modify this
+   document under the terms of the GNU Free Documentation License, Version
+   1.2 or any later version published by the Free Software Foundation;
+   with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+   Texts.
+
+   Subject to disclaimers.
+     __________________________________________________________________
+
+   Asturianu | Български | Català | Deutsch | English | Español |
+   Français | Gaeilge | Italiano | 한국어 | 日本語 | Polski | Português |
+   Română | Türkçe | +/-
+
+   Note: This tag is is intended for images that were released on the
+   English Wikipedia using either GFDL or GFDL-self with disclaimers. For
+   images without disclaimers please use {{GFDL-user-en-no-disclaimers}}
+   instead.
+
+[edit] Original upload log
+
+   The original description page is/was here. All following user names
+   refer to en.wikipedia.
+     * 2006-02-10 17:37 Sabine's Sunbird 2098×2304×8 (2250099 bytes)
+       [[Fulvous Whistling Duck]] *Image taken by [[User:Sabine's
+       Sunbird|Duncan Wright]]
+     * Transfer to Commons was made by Anrie.
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 14:20, 26 Maart 2008 2 098×2 304 (2,15 MG) File Upload Bot
+   (Magnus Manske) ( {{BotMoveToCommons|en.wikipedia}} {{Information
+   |Description={{en|en:Fulvous Whistling Duck *Image taken by Duncan
+   Wright}} |Source=Transferred from [http://en.wikipedia.org
+   en.wikipedia] |Date=2006-02-10 (original uplo)
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Fluiteend
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        Canon
+             Camera model           Canon EOS DIGITAL REBEL XT
+            Beligtingstyd           1/400 sek (0.0025)
+               F-getal              f/8
+   Date and time of data generation 23:05, 10 Februarie 2006
+          Lens focal length         195 mm
+      File change date and time     23:05, 10 Februarie 2006
+         Y and C positioning        2
+           Exposure Program         Normal program
+           ISO speed rating         400
+             Exif version           2.21
+     Date and time of digitizing    23:05, 10 Februarie 2006
+            Shutter speed           8.6438598632812
+               Aperture             6
+            Exposure bias           0
+            Metering mode           Pattern
+                Flash               16
+             Kleurruimte            sRGB
+       Focal plane X resolution     3954.233409611
+       Focal plane Y resolution     3958.7628865979
+     Focal plane resolution unit    duim
+       Custom image processing      Normal process
+            Exposure mode           Auto exposure
+            White Balance           Auto white balance
+          Scene capture type        Standard
+

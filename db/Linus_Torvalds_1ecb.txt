@@ -1,0 +1,31 @@
+Linus Torvalds
+
+
+   Linus Benedict Torvalds (geb. 28 Desember 1969 in Helsinki, Finland) is
+   die aanstigter van die vrye Linux bedryfstelselkern. Hy is tans steeds
+   die hoofkoördineerder vir die ontwikkeling van Linux. Met die
+   ontwikkeling van Linux het hy 'n groot rol gespeel om die vrye
+   sagteware-beweging in die openbare oog te plaas.
+
+[wysig] Lewensloop
+
+   Linus Torvalds is gebore in Helsinki waar hy tot die Sweedssprekende
+   minderheid in Finland behoort het. Hy woon sedert 2006 in die Verenigde
+   State.
+
+   In 1991 het hy die beskikbaarheid van sy bedryfstelselkern wat
+   soortgelyk was aan Free Minix aangekondig. Sy bedryfstelselkern was 'n
+   aanvulling tot die GNU-projek, wat op daardie tydstip slegs 'n kern
+   ontbreek het - daarvoor was die Hurd kern in beplanning gewees.
+
+   Minder as vyf persent van die huidige kode van Linux is deur hom
+   geskryf maar Torvalds word steeds deur die Linux
+   ontwikkelaarsgemeenskap beskou as die mees geskikte persoon om
+   beslissings te fel oor welke sagteware uiteindelik by Linux ingesluit
+   sal word. Sodoende word daar verhoed dat 'n nuwe vertakte projek van
+   Linux versprei word, wat wel wettig moontlik is aangesien Linux onder
+   die voorwaardes van die GNU Algemene Publieke Lisensie versprei word.
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Rekenaarprogrammeerders
+

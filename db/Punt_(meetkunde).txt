@@ -1,0 +1,59 @@
+Punt (meetkunde)
+
+
+   In Meetkunde is 'n punt 'n 0-dimensionele wiskundige voorwerp wat in 'n
+   n-dimensionele ruimte deur n koördinate gespesifiseer kan word. Dit
+   definieer dus 'n presiese ligging in ruimte en het geen volume,
+   oppervlak of lengte nie. Punte word as 'n basiese element in die taal
+   van meetkunde, fisika, vektorgrafika en talle ander velde gebruik. Die
+   basiese meetkundige strukture in hoër dimensies – die lyn, vlak, ruimte
+   en hiperruimte – word deur oneindige aantal punte wat op spesifieke
+   maniere gerangskik is gebou.^[1]
+
+   Die begrip van 'n punt het in Euclidiese meetkunde ontstaan. Euclides
+   het die punt gedefinieer as "dit wat geen deel het nie", wat beteken
+   het dat dit geen lengthd, wydte, diepte of enige ander
+   hoër-dimensionele waarde het nie. In tweedimensionele ruimte word 'n
+   punt voorgestel deur 'n geordende paar (a[1],a[2]) getalle, waar a[1]
+   gewoonlik die pont se afbeelding op die x-as aandui en a[2] die
+   afbeelding op die y-axis. Vir hoer dimensies word 'n punt deur
+   geordende versameling van n elemente, (a[1], a[2], ..., a[n])
+   voorgestel waar n die dimensie van die ruimte is.
+
+   Euclides het baie sleutel idees oor punte gepostuleer en aangevoer. Sy
+   eerste postulaat was dat dit moontlik is om 'n reguitlyn van enige punt
+   na enige ander punt te trek. Dit word in moderne versamelingteorie in
+   twee dimensies bevestig deur die versameling F = \{\,x, \frac{y_2 -
+   y_1}{x_2 - x_1}(x - x_1) + y_1 : x \in [x_1, x_2]\,\} , met
+   hoër-dimensionele analoë wat vir enige gegewe aantal dimensies bestaan.
+   Euclides het soms implisiet feite aangeneem wat nie van die aksiomas
+   afgelei is gemaak (byvoorbeeld oor die ordening van punte op lyne, en
+   soms oor die bestaan van punte afsonderlik van 'n oneindige lys punte).
+   Die tradisionele aksiomatisasie van punt was nie heeltemaal volledig en
+   beslissend nie.
+
+   Let daarop dat daar ook benaderings tot meetkunde bestaan, soos
+   Whitehead se punt-vrye meetkunde, waarin die punte nie primitiewe
+   begrippe is nie. Die begrip van "gebied" is primitief en die punte word
+   gedefinieer deur toepaslike "abstraksie prosesse" van die gebiede.
+
+   In topologie is 'n punt eenvoudig 'n element van die onderliggende
+   versameling van 'n topologiese ruimte. Soortgelyke gebruike geld vir
+   soortgelyke strukture soos uniform ruimtes, metriese ruimtes, en so
+   voorts.
+
+[wysig] Eksterne skakels
+
+     * Definisie van Punt met interaktiewe miniprogram
+     * Punte definisie bladsye met interaktiewe animasies
+     * Sjabloon:Planetmath verwysings
+
+[wysig] Verwysings
+
+    1. ^ WolframMathWorld, Point, besoek op 23 Februarie 2008
+
+    Hierdie artikel omtrent 'n Wiskunde-verwante onderwerp is tans slegs
+   'n saadjie. Jy is welkom om by te dra tot die Afrikaanse Wikipedia deur
+   dit uit te brei.
+   Kategorie: Wiskunde saadjies
+

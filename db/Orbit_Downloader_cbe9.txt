@@ -1,0 +1,37 @@
+Orbit Downloader
+
+
+   OrbitDownloader is 'n gratissagteware program (Engels: freeware) wat
+   omtrent enige lêertipe kan aflaai. Die program kan ook onder Linux werk
+   op die Wine-skakelvlak, wat dit moontlik maak om Windows programme
+   onder Linux te laat loop. Orbit Downloader word gedurig verbeter en
+   verder ontwikkel. Dit besit 'n ingeboude Greper (Grabber: Grab++) wat
+   addisioneel aangeskakel kan word om agtergrondmonitering te doen en
+   selfs geïntegreerde (embedded) Flash Video-lêers van webwerwe soos
+   YouTube, Dailymotion, Metacafe ens. te kan aflaai. Daar is ook 'n forum
+   om rugsteun te verkry, foute te rapporteer en om wense vir verdere
+   ontwikkelings voor te stel.
+
+   Orbit Downloader ondersteun die volgende protokolle:
+     * HTTP
+     * HTTPS
+     * FTP
+     * Metalink
+     * RTSP (Real-Time Streaming Protocol)
+     * PNM (hernoem PNM tot RTSP)
+     * MMS (Microsoft Media Services)
+     * NSS (hernoem NetShow Services tot MMS)
+     * RTMP
+
+   Orbit Downloader werk met die meeste van die groter webblaaiers soos
+   Opera, Mozilla Firefox, Microsoft Internet Explorer, Maxthon en
+   Netscape.
+
+[wysig] Externe skakels:
+
+     * Orbit Downloader Tuisblad
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Sagteware
+

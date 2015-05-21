@@ -1,0 +1,42 @@
+TRIZ
+
+
+   TRIZ is 'n geromaniseerde akroniem uit die Russies wat "Teorie van
+   vindingryke probleemoplossing" of "Teorie van die oplos van
+   uitvindingsprobleme" beteken. Dit is ontwikkel deur die Sowjet
+   ingenieur en navorser, Genrich Altshuller en sy kollegas waar hulle in
+   1946 aan die tegnieke begin werk het.
+
+   TRIZ is 'n metodologie, stel gereedskap, kennisbank en modelgebaseerde
+   tegnologie vir die skep van vindingryke idees en oplossing vir
+   probleemoplossing. TRIZ verskaf die gereedskap en metodes wat gebruik
+   kan word om probleme te formuleer, om stelsels te analiseer, om
+   foutanalise te doen en patrone te herken tydens die ewolusie van 'n
+   stelsel. TRIZ het in kontras met ander soortgelyke tegnieke soos
+   dinkskrums 'n vasgestelde algoritmiese benadering tot die uitvind van
+   nuwe stelsels en die verfyning van ouer stelsels.
+
+[wysig] Geskiedenis
+
+   Vanaf kindsbeen het Altshuller sy talente as uitvinder getoon. Hy was
+   slegs 15 jaar oud toe hy sy eerste sertifikaat van outeurskap van die
+   uitvinding van 'n onderwatertoestel gekry het.^[1]
+
+[wysig] Voetnotas
+
+    1. ^ Die VSSR het nie patente aan hulle burgers toegeken nie aangesien
+       die privaatbesit van eiendom teen die wet was. In pleks daarvan het
+       hulle sertifikate van outeurskap uitgereik ter erkenning van die
+       feit dat die persoon die outeur van 'n uitvinding was.
+
+[wysig] Eksterne skakels
+
+     * TRIZ in the Process Industry - Toru Nakagawa, Dec. 17, 2001
+     * Die Amptelike Werf van die G.S. Altshuller stigting
+     * Die Europese TRIZ Vereniging
+     * TRIZ journal
+     * Anti TRIZ-journal 'n kritiek op die TRIZ-journal deur persone wat
+       voorheen noue bande met Altshuller gehad het.
+
+   Kategorie: Kreatiewe denke
+

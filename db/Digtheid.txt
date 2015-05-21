@@ -1,0 +1,123 @@
+Digtheid
+
+
+          Hierdie artikel bespreek die digtheid van 'n stof. Vir ander
+          gebruike van die woord digtheid, sien Digtheid (verklaring).
+
+   Digtheid dui op die hoeveelheid stof per volume of op die aantal items
+   per volume of oppervlakte. Die digtheid van 'n stof (simbool: ρ -
+   Grieks: rho) is 'n mate van massa per eenheid volume. Hoe hoër 'n
+   voorwerp se digtheid, hoe hoër is sy massa per volume. Die gemiddelde
+   digtheid van 'n voorwerp is gelyk aan sy totale massa gedeel deur sy
+   totale volume. 'n Meer digte voorwerp (soos yster) het minder volume as
+   'n gelyke massa van 'n minder digte stof (soos water).
+
+   Die SI eenheid van digtheid is kilogram per kubieke meter (kg/m^3)
+
+          \rho = \frac{m}{V}
+
+   met
+
+   ρ die voorwerp se digtheid (gemeet in kilogram per kubieke meter)
+
+   m die voorwerp se totale massa (gemeet in kilogram)
+
+   V die voorwerp se totale volume (gemeet in kubieke meter)
+
+   Inhoud
+
+        * 1 Ander eenhede
+        * 2 Digthede van stowwe
+        * 3 Relatiewe digtheid
+        * 4 Sien ook
+
+[wysig] Ander eenhede
+
+   Die verouderde g/cm³ (gram per kubieke sentimeter) of kg/L (kilogram
+   per liter) mates kom steeds voor.
+
+          1 kg/dm^3 = 1000 g/1000cm^3 = 1 kg/l.
+
+   In Empiriese eenhede word digtheid gemeet in pond/kubieke voet.
+
+   Voorheen was massa en volume verbind deur die gram as die massa van een
+   kubieke sentimeter water teen 3,98 °C te definieer, wat beteken het dat
+   water 'n digtheid van 1 kg/liter gehad het. Dit het probleme geskep
+   weens die kans van massaverlies as gevolg van verdamping, asook
+   digtheidsveranderinge as gevolg van temperatuurveranderinge. Om hierdie
+   rede is 'n alternatiewe definisie van die meter en kilogram ontwikkel
+   wat meer getrou in 'n laboratorium herhaal kan word. Weens die nuwe
+   definisies van meter en kilogram is die digtheid van water by 3.98 °C
+   baie naby aan presies 1 kg/liter. 'n Kubieke meter water weeg dus een
+   metrieke ton.
+
+[wysig] Digthede van stowwe
+
+   Die hoogste bekende digtheid is heel moontlik te vinde in
+   neutronstermaterie. Die singulariteit in die middel van 'n swartkolk
+   het geen volume volgens algemene relatiwiteitsteorie, so die digtheid
+   daarvan is ongedefinieerd.
+
+   Die mees digte stof wat natuurlik op Aarde voorkom is Iridium, teen
+   ongeveer 22,650 kg/m³.
+
+   'n Tabel van digthede van verskeie stowwe:
+       Stof     Digtheid in kg/m³
+   Iridium      22,650
+   Osmium       22,610
+   Platinum     21,450
+   Goud         19,300
+   Uraan        19,050
+   Kwik         13,580
+   Palladium    12,023
+   Lood         11,340
+   Silwer       10,490
+   Koper        8,920
+   Yster        7,870
+   Tin          7,310
+   Diamant      3,500
+   Aluminium    2,700
+   Magnesium    1,740
+   Seewater     1,025
+   Water        1,000
+   Etielalkohol 790
+   Petrol       730
+   Aerogel      3
+   Lug          1,2
+
+   Let op die lae digtheid van aluminium in vergelyking met die meeste
+   ander metale; juis om hierdie rede is vliegtuie in die verlede hiervan
+   gemaak. Let ook daarop dat lug 'n nie-nul, alhoewel klein, digheid het.
+   Aerogel is die wêreld se ligste vaste stof.
+
+   Tabel - digtheid van lug ρ, Spoed van klank in lug c,
+   akoestiese impedansie Z teenoor temperatuur °C
+           Effek van temperatuur
+   °C   c in m/s ρ in kg/m^3 Z in N·s/m^3
+   - 10 325,4    1,341       436,5
+   - 5  328,5    1,316       432,4
+   0    331,5    1,293       428,3
+   + 5  334,5    1,269       424,5
+   + 10 337,5    1,247       420,7
+   + 15 340,5    1,225       417,0
+   + 20 343,4    1,204       413,5
+   + 25 346,3    1,184       410,0
+   + 30 349,2    1,164       406,6
+
+[wysig] Relatiewe digtheid
+
+   Relatiewe digtheid, voorheen bekend as spesifieke gewig, is 'n
+   dimensielose hoeveelheid gedefinieer as die digtheid van 'n stof gedeel
+   deur die digtheid van water by standaard temperatuur en druk. Per
+   definisie, daarom, is die relatiewe digtheid (of RD) van water 1, en
+   die RD van osmium omtrent 22.
+
+[wysig] Sien ook
+
+     * ISO 31: volumetriese massa
+     * Dord
+     * Standaard temperatuur en druk
+     * Relatiewe digtheid
+
+   Kategorie: Wetenskap
+

@@ -1,0 +1,94 @@
+Datavleg (Internet)
+
+
+   Datavleg (Engels: mashup) is 'n webwerf waarin dié inhoud daarvan
+   geskep word deur die integrasie van inligting vanuit meer as een bron.
+   Die resultaat kan 'n nuwe en vindingryke webgebaseerde diens
+   verteenwoordig.
+
+   Inhoud
+
+        * 1 Oorsig
+        * 2 Datavleggenres
+             + 2.1 Kaartdatavleg
+             + 2.2 Video- en fotodatavleg
+             + 2.3 Soek en koop datavleg
+             + 2.4 Nuusdatavleg
+
+[wysig] Oorsig
+
+   'n Datavlegtoepassing is 'n voorbeeld van die toekomstige Web 2.0 wat
+   deur sommige waarnemers beskou word as 'n voorbeeld van die rigting
+   waarin die web gaan ontwikkel in die toekoms. Dit is ook 'n voorbeeld
+   van interaktiewe webtoepassings wat gebasseer is op inhoud van eksterne
+   datavelde om totaal nuwe dienste te skep.
+
+   Hierdie tipe dienste is besig om 'n toenemend gewilde verskynsel op die
+   web te word. Datavleg se gewildheid word toegeskryf aan interaktiewe
+   gebruikersdeelname en die unieke samevoeging van derdepartydata.
+
+   'n Rigiede beskrywing en definisie van datavleg is nie op hierdie
+   stadium moontlik nie aangesien dit 'n dinamiese en vinnig ontwikkelende
+   veld verteenwoordig. Die oorsprong van die term in Engels (mashup) gee
+   ook insig in die agtergrond van dié term. Dit word geleen van
+   pop-musiek waar 'n mashup beskou word as 'n nuwe liedjie wat geskep
+   word deur die vermenging van vokale en instrumentele snitte van twee
+   verskillende liedjies (gewoonlik ook van verskillende musiekgenres).
+   Soos die vervlegte liedjies, word datavleg daargestel deur die
+   inoverende samestelling van inhoud (gewoonlik van nie verwante data),
+   saamgestel vir menslike (eerder as rekenaar-) verbruik.
+
+[wysig] Datavleggenres
+
+[wysig] Kaartdatavleg
+
+   Bemagtig deur inligtingstegnologie is mense besig om groot hoeveelhede
+   data te versamel wat verbind kan word met spesifieke plekke. Sodanige
+   diverse data kan grafies op kaarte voorgestel word. Een van die
+   grootste kataliste vir datavleg was Google se bekendstelling van Google
+   Maps-programmeringskoppelvlak (API). Dit het dit vir webontwikkelaars
+   (insluitende stokpertjie beoefenaars) moontlik gemaak om alle tipes
+   data (enigiets van kernongelukke tot Boston se CowParade-koeie) op
+   kaarte voort te stel. Dit is gevolg deur bekendstelling van
+   koppelvlakke deur Microsoft (Virtual Earth), Yahoo (Yahoo Maps), en AOL
+   (MapQuest).
+
+[wysig] Video- en fotodatavleg
+
+   Die ontstaan van webwerwe wat foto's en sosiale netwerke huisves soos
+   Flickr met koppelvlakke wat die deel van foto’s moontlik maak, het tot
+   'n verskeidenheid van datavlegtoepassings gelei. Aangesien
+   inhoudverskaffers metadata assosieer met die beelde (soos wie die foto
+   geneem het, waar en wanneer dit geneem is en so meer) kan ontwerpers
+   foto’s vervleg met ander inligting wat verbind kan word met die
+   metadata. 'n Datavlegtoepassing mag byvoorbeeld die lirieke van 'n
+   liedjie of gedig analiseer en 'n mosaïek of collage van relevante
+   foto's skep of 'n sosiale netwerk vertoon gebaseer op 'n foto se
+   metadata (soos voorwep, datumstempel, en ander metadata). Nog 'n
+   voorbeeld kan wees indien inset van 'n webwerf (soos 'n nuus webwerf,
+   soos CNN) geneem word en die teks in foto's omgeskakel word deur
+   metedata van foto’s te vergelyk met woorde gebruik in die nuus.
+
+[wysig] Soek en koop datavleg
+
+   Soek en koop datavlegtoepassings bestaan reeds voor die term datavleg
+   (mashup) geskep is. Voor die bestaan van Web-koppelvlakke het
+   vergelykende aankoop instrumente soos BizRate, PriceGrabber, MySimon,
+   en Google's Froogle gebruik gemaak van besigheid tot besigheid (b2b)
+   tegnologië of skermskraaptegnologie om vergelykende prysdata weer te
+   gee. Ten einde soek en koop datavleg te fasiliteer het
+   verbruikerswebwerwe soos eBay en Amazon hul API's vrygestel sodat
+   inhoud makliker in sulke programmering benut kan word.
+
+[wysig] Nuusdatavleg
+
+   Nuus voorsieners (soos die New York Times, BBC, of Reuters) gebruik
+   sindikasietegnologie soos RSS en Atom sedert 2002 om
+   nuusverspreidingtoevoere oor verskeie onderwerpe daar te stel.
+   Gesindikeerde toevoer datavlegdienste stel gebruikers instaat om
+   verpersoonlike "koerante" te skep wat die gebruiker se spesifieke
+   behoeftes aanspreek. 'n Voorbeeld is Diggdot.us wat toevoere kombineer
+   van tegnologie georienteerde nuus bronne Digg.com, Slashdot.org, en
+   del.icio.us.
+   Kategorie: Webwerwe
+

@@ -1,0 +1,20 @@
+Beheermodus
+
+
+   In rekenaarterminologie verwys die beheermodus na 'n hardeware
+   verstelde vlag wat verander kan word deur kode wat in stelselvlak
+   sagteware uitgevoer word. Stelselvlak take of -rygkode (thread) sal
+   hierdie vlag stel terwyl hulle besig is, terwyl toepassings in die
+   gebruikersruimte dit nie sal doen nie. Hierdie vlag bepaal of dit
+   moontlik sal wees om masjienkode verwerkings soos om
+   onderbrekingsversoeke te versper. 'n Program wat in beheermodus
+   uitgevoer word moet betroubaar wees aangesien dit die hele
+   rekenaarstelsel kan laat faal.
+
+   Soos deur foldoc.org opgesom word is die beheermodus "'n Uitvoermodus
+   op sommige verwerkers wat die uitvoer van alle instruksies ontsper,
+   insluitend bevoorregte instruksies. Dit kan ook toegang verleen tot 'n
+   afsonderlike adresspasie, tot sagteware vir geheuebestuur en tot ander
+   bybehore. Dit is die modus waarin die bedryfstelsel gewoonlik loop."
+   Kategorie: Sagteware
+

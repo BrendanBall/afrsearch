@@ -1,0 +1,61 @@
+Energie-omsetting
+
+
+   In fisika en ingenieurswese, is energie-omsetting enige proses waar
+   energie van een vorm na 'n ander omgeskakel word. Energie wat in
+   fossielbrandstowwe, sonstraling of kernbrandstowwe gevind word moet na
+   ander vorme van energie omgeskakel word om vir die mens van nut te kan
+   wees soos in elektrisiteit, aandrywing, verhitting of verkoeling.
+   Masjiene word gebruik om energie van een vorm na 'n ander om te sit.
+   Die doeltreffendheid van 'n masjien is 'n maatstaf van hoe goed dit die
+   een vorm na die ander kan omskakel.
+
+   Energie word omgesit sodat deur ander masjiene gebruik kan word of om
+   'n energiediens aan die samelewing kan verskaf. 'n Binnebrandmotor sit
+   chemiese energie in die petrol om na meganiese aandrywingsenergie wat
+   die kar laat beweeg. 'n Sonsel sit die son se straling om na elektriese
+   energie wat gebruik kan word om 'n gloeilamp of 'n rekenaar te maak
+   werk.
+
+   Die stoomenjin is 'n tipiese voorbeeld van die
+   energie-omsettingsproses. In 'n stoomenjin word brandende steenkool
+   gebruik om die water (die vloeier) te verhit, wat dan as stoom uitsit
+   en 'n suier laat beweeg. Die water word dan verkoel en weereens
+   teruggeneem na waar die warm kole dit kan verhit om sodoende 'n siklus
+   aan die gang te sit wat die stoomenjin aan die gang hou. Die stoomenjin
+   maak gebruik van die energie wat vervat is in die temperatuurverskil
+   tussen die warm en koue water om die suier te maak beweeg. Die
+   omsetting is nooit perfek nie en van die energie in die brandende
+   steenkool gaan verlore as hitte. Die bedryf van die stoomenjin kan
+   omskryf word vanaf 'n energie oogpunt deur die masjiensiklusse in
+   termodinamika of vanuit 'n vloeieroogpunt deur stromingsleer en vanuit
+   'n warmtevloei oogpunt deur die wetenskap van warmte-oordrag.
+
+[wysig] Energie-omsettingsmasjiene
+
+   Daar bestaan 'n groot verskeidenheid masjiene wat energie van een vorm
+   na 'n ander omsit:
+     * Brandstofselle,
+     * Geotermiese kragsentrales,
+     * Warmte-enjins soos die binnebrandmotor wat in karre gebruik word of
+       die stoomenjin,
+     * Hidro-elektriese damme,
+     * Staalenjins,
+     * Kernreaktore,
+     * Kernfusie reaktore,
+     * Oseaniese termiese energie omsetting,
+     * Sonselle,
+     * Sonskoorsteen,
+     * Golfkrag omsetters,
+     * Windmeulens
+
+[wysig] Sien ook
+
+     * Ekonomie van energie
+     * Stoor van energie
+     * Hernubare energie
+     * Eksergie
+     * Kwaliteit van energie
+
+   Kategorieë: Energie-omsetting • Termodinamika
+

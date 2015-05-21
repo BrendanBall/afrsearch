@@ -1,0 +1,53 @@
+IP-adres
+
+
+   'n IP-adres is 'n unieke nommer, soortgelyk aan 'n telefoonnommer, wat
+   deur masjiene (gewoonlik rekenaars) gebruik word om na ander masjiene
+   te verwys wanneer inligting oor die Internet versend moet word; die
+   Internet Protokol bestuur hierdie kommunikasie.
+
+   'n Voorbeeld van 'n IP-adres is 207.142.131.236. Omdat mense moeilik
+   sulke nommers onthou, is 'n gepaardgaande stelsel ontwerp om name (soos
+   www.wikipedia.org) na hierdie nommers om te skakel, bekend as die DNS
+   (Domain Name System).
+
+   Inhoud
+
+        * 1 IP-weergawes
+             + 1.1 IPv4
+             + 1.2 IPv6
+        * 2 Eksterne skakels
+
+[wysig] IP-weergawes
+
+   Daar is twee weergawes van die Internet Protokol wat hoofsaaklik in
+   gebruik is, elk met sy eie definisie en voorstelling van 'n IP-adres.
+
+[wysig] IPv4
+
+   IPv4 (Internet Protokol weergawe 4) gebruik 32 bisse (4 grepe) om die
+   adres te stoor, wat 'n totaal van 4 294 967 296 (2^32) verskillende
+   adresse gee. 'n Aantal van hierdie adresse word egter gereserveer vir
+   ander doeleindes, soos by voorbeeld, vir gebruik in privaat netwerke.
+
+   Voorbeeld: 207.142.131.236
+
+[wysig] IPv6
+
+   IPv6 (Internet Protokol weergawe 6) gebruik 128 bisse (16 grepe) om die
+   adres te stoor, wat, teoreties, 'n totaal van 2^128 unieke adresse kan
+   voorsien.
+
+   Voorbeeld: 2001:0db8:85a3:08d3:1319:8a2e:0370:7334
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+
+[wysig] Eksterne skakels
+
+     * Wys mens se IP-adres
+     * Wys mens IP-adres en ander inligting
+     * IP-adres en ander DNS inligting
+
+   Kategorieë: Saadjies • Rekenaarnetwerke • Internet •
+   Internetargitektuur
+

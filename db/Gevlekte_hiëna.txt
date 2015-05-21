@@ -1,0 +1,94 @@
+Gevlekte hiëna
+
+
+                Gevlekte hiëna
+   Bedreigingstatus: van beskerming afhanklik
+   Tydperk: {{{fossil_range}}}
+          Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Hyaenidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Crocuta
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     C. crocuta
+     Subspesie:    {{{subspecies}}}
+    [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                 Binomiale naam
+                Crocuta crocuta
+   (Erxleben, 1777)
+                Trinomiale naam
+                {{{trinomial}}}
+                  Tipe Spesies
+               {{{type_species}}}
+            {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   Verspreiding van die gevlekte hiëna
+   Verspreiding van die gevlekte hiëna
+                   Sinonieme
+   {{{synonyms}}}
+
+   Die gevlekte hiëna (Crocuta crocuta) is 'n soogdier uit die orde
+   Carnivora. Hulle is medium-grote karnivore wat inheems aan Afrika is.
+   Gevlekte hiënas is die enigste oorlewende spesie in die genus Crocuta.
+   Hulle lyk op hondagtige diere (bv. wolwe, honde, ens.), maar dié diere
+   behoort tot 'n geheel ander familie.
+   Twee gevlekte hiënas deel 'n rooibok wat hulle by 'n jagluiperd gesteel
+   het.
+   Twee gevlekte hiënas deel 'n rooibok wat hulle by 'n jagluiperd gesteel
+   het.
+
+   Gevlekte hiënas is bekend vir hulle krysende geblawwery, wat soms met
+   die histeriese lag van 'n mens vergelyk word. Hulle word dikwels
+   foutiewelik as aasdiere beskryf, maar is egter kragtige jagters en die
+   oorgrote meerderheid van hul dieet bestaan uit prooi wat hulle self
+   vang.
+
+   'n Gemiddelde volwasse hiëna weeg ongeveer 60 kg en bereik 'n hoogte
+   van ± 75 cm; dit is ook die grootste van al die hiëna-soorte. Alhoewel
+   dit 'n nagdier is, kan dit ook dikwels gedurende die nag waargeneem
+   word. Die gevlekte hiëna het 'n loopsnelheid van 15 km/h, maar kan
+   versnel tot 50 km/h wanneer hy hardloop.
+
+   'n Wyfie is vir drie maande dragtig en kan telkens geboorte skenk aan
+   twee tot drie kleintjies. Gevlekte hiënas het 'n moontlike lewensduur
+   van 25 jaar.
+
+[wysig] Bronnelys
+
+     * Hyaena Specialist Group (1996). Crocuta crocuta. 2006 IUCN Red List
+       of Threatened Species. IUCN 2006. Verkry op 10 Maart 2008.
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+
+   Kategorie: Hiënas
+

@@ -1,0 +1,122 @@
+Rooi (kleur)
+
+
+   #FF0000
+
+   Rooi is 'n kleur wat lê by die laagste frekwensies van lig wat deur die
+   menslike oog onderskei kan word. Rooi lig het 'n golflengte van
+   ongeveer 700 nm.
+
+   Suurstofhoudende bloed is rooi weens die hemoglobien wat daarin bevat
+   is. Rooi lig word eerste deur seewater geabsorbeer, sodat baie visse en
+   ander ongewerwelde seediere wat helderrooi vir mense voorkom, in
+   werklikheid swart in hulle natuurlike omgewing voorkom.
+
+   Rooi is 'n bytellende primêre kleur, komplementêr tot siaan. Dit was
+   eers beskou as 'n aftrekkende primêre kleur, en word steeds soms so
+   beskryf in nie-wetenskaplike literatuur. Dit is wel nou bekend dat die
+   kleure siaan, magenta en geel nader aan die ware primêre kleure is wat
+   deur die oog onderskei kan word, en word in moderne kleurdrukwerk
+   gebruik. In die RGB kleurmodel wat deur TV-stelle en rekenaarskerms
+   gebruik word is rooi een van die drie kanale, genaamd R.
+
+   Laer frekwensies word infrarooi, of verre rooi, genoem.
+
+   'n Rooi filter wat in swart-en-wit fotografie gebruik word, verskerp
+   die kontras in meeste tonele. Byvoorbeeld, wanneer dit saam met 'n
+   polariseerder gebruik word, kan dit die lug swart maak. Filmtipes wat
+   die effek van infrarooi film naboots (soos Ilford se SFX 200), doen dit
+   deur baie meer sensitief te wees vir rooi as die ander kleure.
+
+   Inhoud
+
+        * 1 Gebruik, simboliek, volksmond-uitdrukkings
+        * 2 Kleurkoördinate
+        * 3 Variasies
+        * 4 See also
+
+[wysig] Gebruik, simboliek, volksmond-uitdrukkings
+
+     * Rooi gryp mense se aandag, en word gereeld as 'n teken van gevaar
+       gesien: daarom word dit in waarskuwingstekens gebruik.
+          + Die rooi kleur word soms gebruik om kwaadheid aan te dui, soos
+            in om rooi te sien.
+          + Die kleur van bloed het gelei tot die verbintenis van rooi met
+            die god van oorlog, Mars, en daarom is die rooierige planeet
+            Mars ook na hom vernoem.
+          + Rooi word gebruik om "stop" in verkeerstekens en -seine aan te
+            dui.
+          + In motorwedrenne word 'n rooi vlag gebruik om alle motors
+            onmiddelik tot stilstand te bring.
+          + Rooi, tesame met geel en oranje, word geag dat dit honger
+            aanvuur, en daarom die gebruik daarvan in die kentekens van
+            baie voedselmakers.
+     * Rooi is die kleur van liefde, beide in die rooi harte van 'n
+       valentyn, en in 'n "rooiliggebied".
+     * Rooi is een van die Kersfeeskleure.
+     * Beginnende met die Revolusie van 1848 is "Sosialistiese" rooi
+       gebruik as 'n kleur van Europese opstandiges, soos Garibaldi se
+       camicie rosse ("rooihemde") in die Italiaanse Risorgimento, en is
+       opgeneem deur die Linkse en algemeen radikale groepe, terwyl die
+       wit van die legitimistiese Borbon-partylede met voor-Eerste
+       Wêreldoorlogse konserwatiewes geassosieer geraak het.
+          + Byvoorbeeld, die Russiese Burgeroorlog en die Burgeroorlog in
+            Finland is geveg tussen die "Rooies" en "Wittes".
+          + Die vereenselwing van Kommunisme met "Sosialistiese" rooi (en
+            met rooi as die hoofkleur van die Sowiëtunie-vlag) het gelei
+            tot Koue Oorlogse uitdrukkings soos "die Rooi Bedreiging" en
+            "Rooi China" (wat onderskei was van "Vrye China", oftewel
+            Taiwan).
+
+   Chinese trourok
+   Chinese trourok
+     * In Chinese simboliek is rooi die kleur van goeie geluk, en word
+       gebruik vir versiering en trouklere. Geld in Chinese samelewings
+       word tradisioneel in rooi pakkies gegee. Mao Zedong was ook soms
+       verwys na as 'n "rooi son".
+     * Rooi ink word ook gebruik om skuld aan te dui, sowel as verliese op
+       'n balansstaat; vandaar die frase om "in die rooi" te wees, wat
+       gewoonlik ekonomiese verliese aandui.
+     * In Noord-Amerikaanse aandelemarkte word rooi gebruik om 'n val in
+       aandelepryse aan te dui. In Oos-Asiese aandelemarkte word rooi
+       gebruik om 'n styging in aandelepryse aan te dui.
+
+[wysig] Kleurkoördinate
+
+   Volgens verskeie kleurskemas word rooi as volg voorgestel:
+      Model       Koördinate
+   Hex triplet #FF0000
+   RGB         (255, 0, 0)
+   CMYK        (0, 255, 255, 0)
+   HSV         (0, 100, 100)
+
+[wysig] Variasies
+
+     * Skarlaken - 'n rooi wat na rooi-oranje neig, en geen blou bevat
+       nie.
+     * Vermiljoen - 'n vurige rooi wat na effe meer na rooi-oranje neig as
+       skarlaken, en wat van sinnaber, die kunsmatige rooi kwiksulfide was
+       as pigment gebruik word, voorberei word.
+     * Karmosyn - 'n rooi wat geen geel bevat nie, en na rooi-violet neig.
+     * Venesiaanse Rooi (ook bekend as Indiese Rooi en Indiaanse Rooi) -
+       'n bruinerige rooi wat van ystersulfied voorberei word.
+     * Brandweerwarooi - 'n helderrooi wat gereeld op noodvoertuie gebruik
+       word.
+     * Roos is 'n reeks kleure aan die blou kant van rooi.
+     * Perske is 'n reeks kleure aan die geel kant van rooi wat algemeen
+       na 'n ligte skakering neig.
+
+                         Elektromagnetiese Spektrum
+
+    Radiogolf | Mikrogolf | Infrarooi | Optiese spektrum | Ultraviolet |
+                           X-straal | Gammastraal
+     __________________________________________________________________
+
+        Sigbaar: Rooi | Oranje | Geel | Groen | Siaan | Blou | Violet
+
+[wysig] See also
+
+     * Lys van kleure
+
+   Kategorieë: Kleure • Optiese spektrum
+

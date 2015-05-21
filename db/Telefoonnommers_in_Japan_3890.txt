@@ -1,0 +1,242 @@
+Telefoonnommers in Japan
+
+
+          "+81 stuur hierheen aan.
+
+   Skakelkode 81
+
+   Inhoud
+
+        * 1 Skakel voorsyfers
+        * 2 Tipe nommers
+        * 3 Lengte van nommers
+        * 4 Nooddienste
+        * 5 Operateur dienste
+        * 6 Gids dienste
+        * 7 Spesiale dienste
+        * 8 Langafstand draer keuse (Myline)
+        * 9 Nie-geografiese gebiedskodes
+        * 10 Uit bedryf gestelde ebiedskodes
+        * 11 Gebiedskodes (市外局番 "shigai-kyokuban") van sekere hoof stede
+        * 12 Sien ook
+
+[wysig] Skakel voorsyfers
+
+ 0   Nasionale gebiedskode voorsyfer
+ 00  Draer kiesing voorsyfer
+ 010 Internasionale skakel voorsyfer
+ 184 Voorsyfer om oproeper ID te weerhou
+ 186 Voorsyfer om oproeper ID te voorsien
+
+[wysig] Tipe nommers
+
+ 1xx    Spesiaale nommers
+ 00xx   Draer kiesing kodes
+ 0x     1-syfer geografiese gebiedskodes
+ 0xx    2-syfer geografiese gebiedskodes
+ 0xxx   3-syfer geografiese gebiedskodes
+ 0xxxx  4-syfer geografiese gebiedskodes
+ 0xxxxx 5-syfer geografiese gebiedskodes
+ 0x0    2-syfer nie-geografiese gebiedskodes (excluding 010)
+ 0xx0   3-syfer nie-geografiese gebiedskodes (01x0, 0570, 0800, 0910, 0990)
+
+   Neem kennis, dat vir internasionale oproepe na Japan, die eerste '0'
+   syfer nie gebruik moet word nie. Dus, by voorbeeld, om 090 1111 1111 te
+   skakel van die VSA, moet jy 011-81-90-1111-1111 gebruik.
+
+[wysig] Lengte van nommers
+
+ Spesiaalel nommers is 3 syfers lank
+ Geografiese nommers is 10 syfers lank, insluitende die voorste nul
+ 0x0 Nie-geografiese nommers is 11 syfers lank, insluitende die voorste nul
+ 0xx0 Nie-geografiese nommers is 10 syfers lank, insluitende die voorste nul
+
+[wysig] Nooddienste
+
+ 110  Polisie
+ 118  Maritieme nood
+ 119  Brandweer
+ 171  Aardbewing bystand
+
+[wysig] Operateur dienste
+
+ 100  NTT operateur
+ 106  Operateur ondersteunde kollekteeroproep diens
+ 108  Geoutomatiseerde kollekteeroproep diens
+ 113  NTT tegniese fout blitslyn
+ 116  NTT kliënte diens en algemene navrae
+
+   NTT = Nippon Telegraph and Telephone)
+
+[wysig] Gids dienste
+
+ 104  NTT nasionale gids navrae
+ 0057 KDDI internasionale gids navrae
+
+[wysig] Spesiale dienste
+
+ 114  Geoutomatiseerde nommer-besig toets
+ 115  Telegram diens
+ 117  Pratende horlosie
+ 136  Inliging oor laaste inkomend oproep
+ 177  Weer voorspelling
+
+[wysig] Langafstand draer keuse (Myline)
+
+   Met die uitsondering van 001, is al die kiesing kodes 4 syfers lank.
+   Hulle word voor die nommer geskakel om die spesifieke draer te kies.
+ 001   KDDI (international)
+ 0033  NTT Communications
+ 0036  NTT East
+ 0037  Fusion Communications
+ 0039  NTT West
+ 0041  Japan Telecom (international)
+ 0056  KDDI (international)
+ 0061  Japan Telecom (international)
+ 0071  Verizon Japan
+ 0077  KDDI (national)
+ 0080  T-Systems
+ 0081  Fusion Communications
+ 0088  Japan Telecom (national)
+ 0089  T-Systems
+
+[wysig] Nie-geografiese gebiedskodes
+
+ 0120 NTT Freedial, tollfree services
+ 0130 Automated information services
+ 0140 Disaster relief wireless communications
+ 0160 Disaster relief satellite communications
+ 0170 NTT Dengon Dial, chat line services
+ 0180 NTT Telegong, TV/Radio show feedback dial-in
+ 0180 NTT Teledome, automated information services
+ 0190 NTT Angel Line, automated directory services via PC/modem
+ 0190 NTT Annai Jozu, automated directory services via telephone
+ 0800 Other tollfree services
+ 020  Paging services
+ 030  Mobile telephony services (legacy systems, PDC, J-CDMA, UMTS)
+ 040  Mobile telephony services (legacy systems, PDC, J-CDMA, UMTS)
+ 050  IP telephony service (via internet service providers)
+ 0570 Navi Dial, non-geographic wireline
+ 060  Universal personal number services
+ 070  Mobile telephony and data services (PHS)
+ 080  Mobile telephony and data services (PDC, J-CDMA, UMTS)
+ 090  Mobile telephony and data services (PDC, J-CDMA, UMTS)
+ 0910 Private circuit access, local rate services
+ 0990 NTT DialQ2, premium rate services
+
+[wysig] Uit bedryf gestelde ebiedskodes
+
+ 0150 Voorheen gebruik vir maritieme radio kommunikasie
+ 0450 Voorheen gebruik vir maritieme radio kommunikasie
+ 0750 Voorheen gebruik vir maritieme radio kommunikasie
+
+[wysig] Gebiedskodes (市外局番 "shigai-kyokuban") van sekere hoof stede
+
+ 011  Sapporo
+ 017  (volgende syfer 7) Aomori
+ 018  (volgende syfer 8) Akita
+ 019  (volgende syfer 6) Morioka
+ 022  Sendai
+ 023  (volgende syfer 6) Yamagata
+ 024  (volgende syfer 5) Fukushima
+ 024  (volgende syfer 9) Koriyama
+ 0242 Aizu Wakamatsu
+ 025  Niigata
+ 026  Nagano
+ 027  (volgende syfer 2) Maebashi
+ 027  (volgende syfer 3) Takasaki
+ 028  (volgende syfer 6) Utsunomiya
+ 03   Tokyo
+ 043  (volgende syfer 2 of 3) Chiba
+ 044  Kawasaki
+ 045  Yokohama
+ 046  (volgende syfer 2) Atsugi
+ 0468 Yokosuka
+ 048  Saitama (formed in 2001 by the merger of three cities)
+ 049  Kawagoe
+ 052  Nagoya
+ 053  Hamamatsu
+ 054  Shizuoka
+ 055  Kofu
+ 058  Gifu
+ 059  Tsu
+ 06   Osaka
+ 072  Sakai
+ 073  Wakayama
+ 0742 Nara
+ 075  Kyoto
+ 076  (volgende syfer 2)Kanazawa
+ 0761 Komatsu
+ 076  (volgende syfer 4)Toyama
+ 0766 Takaoka
+ 0776 Fukui
+ 078  Kobe
+ 0792 Himeji
+ 082  Hiroshima
+ 0827 Iwakuni
+ 083  Yamaguchi
+ 0852 Matsue
+ 086  Okayama
+ 087  (volgende syfer 8) Takamatsu
+ 088  (volgende syfer 6) Tokushima
+ 088  (volgende syfer 8) Kochi
+ 089  (volgende syfer 9) Matsuyama
+ 092  Fukuoka
+ 093  Kitakyushu
+ 0942 Kurume
+ 095  (volgende syfer 8) Nagasaki
+ 0952 Saga
+ 0956 Sasebo
+ 096  Kumamoto
+ 097  Oita
+ 098  Naha
+ 0985 Miyazaki
+ 099  Kagoshima
+
+   Geografiese nommers is 10 syfers lank insluitende voorste 0 en die
+   gebiedskode. Gevolglik, dig bevolkde gebiede het korter gebiedskodes,
+   terwyl minder dig bevolkde gebiede langer gebiedskodes het. By
+   voorbeeld:
+ 06 xxxx xxxx (Osaka)
+ 075 xxx xxxx (Kyoto)
+ 0742 xx xxxx (Nara)
+ 04992 x xxxx (Niijima island, Tokyo pref.)
+ 082486  xxxx (Takano, Hiroshima pref.)
+
+   Gebiedskodes verminder van die noorde na die suide; Sapporo in Hokkaido
+   (die noordelikste prefektuur ) het 011, en Setouchi-cho's 09973 is ver
+   na die suide in Kagoshima. Toe die telefoon sisteem uitgedink was, was
+   Okinawa nog steeds onder VSA okkupasie, so toe dit teruggegee was aan
+   Japan in 1972, is die telefoon nommers ingedruk tussen Miyazaki (098x)
+   en Kagoshima (099x), en begin met 0988, 0989, en 0980.
+
+   Tydens die 1990s, toe planne beraam was om middel-groote stede en dorpe
+   te amalgameer in groter munisipaliteite, is telefoon nommersisteme
+   vooraf saamgesmelt. By voorbeeld,
+  07442 x xxxx Kashihara (Nara prefektuur)
+  07444 x xxxx Sakurai
+  074452 xxxx Takatori
+  074454 xxxx Asuka
+  ens.
+
+   word:
+  0744 2x xxxx Kashihara
+  0744 4x xxxx Sakurai
+  0744 52 xxxx Takatori
+  0744 54 xxxx Asuka
+  ens.
+
+   Baie van hierdie dorpe het egter geweier om saam te smelt, en het
+   oproepers met meer nommers gelos wanneer plaaslike oproepe geskakel
+   word. Dit is gedeeltelik gebalanseer deur nie 'n gebiedskode te skakel
+   vir 'n buur stad nie.
+
+[wysig] Sien ook
+
+     * [Telephone numbering plan]
+     * Lys skakelkodes in Japan
+     * Telephone information page of the Japan National Tourist
+       Organisation (JNTO) [1]
+
+   Kategorieë: Telefoon nommers volgens land • Telefoon nommers in Japan
+

@@ -1,0 +1,134 @@
+Polsende straalmotor
+
+
+   'n Polsende straalmotor (of polsstraalmotor) is 'n eenvoudige soort
+   binnebrandmotor waar die verbranding in polsende slae gebeur. Die
+   gevolglike straal gas wat aan die agterkant van die motor uitgewerp
+   word veroorsaak 'n voorwaartse stuwing in ooreenstemming met Newton se
+   derde wet.
+
+   'n Tipiese polsstraalmotor bestaan uit 'n luginlaat wat voorsien is van
+   'n eenrigtingklep, 'n verbrandingskamer en 'n akoestiese resonante
+   uitlaatpyp. Die klepreëling word verrig deur gebruik te maak van
+   bladkleppe of in kleplose polsstraalmotors deur middel van
+   aerodinamika. Brandstof in die vorm van 'n gas of 'n vloeistofsproei
+   word of met die lug in die inlaatkamer vermeng of daar ingespuit.
+   Wanneer die enjin eers aan die gang kom is slegs die brandstoftoevoer
+   nodig en is die meganisme selfonderhoudend. 'n Toestel om lugvloei te
+   forseer en 'n ontstekingsmeganisme word egter aanvanklik benodig om die
+   enjin aan die gang te kry.
+
+[wysig] Geskiedenis
+
+   Die eerste polsende straalmotor is deur Martin Wiberg (1826 - 1905) in
+   Swede ontwikkel.
+
+   Polsstraalmotors word gekenmerk deur sy uiters eenvoudige samestelling,
+   lae boukoste, lae brandstofdoeltreffendheid en baie hoë geraasvlakke.
+   Die hoë geraasvlakke maak hulle ongeskik vir die meeste toepassings
+   buiten krygstoepassings. Polsstralers is al gebruik om eksperimentele
+   helikopters aan te dryf deur die enjins aan die punte van die
+   rotorlemme vas te maak. Tydens die Tweede Wêreldoorlog 'n ontwerp, die
+   Focke-Wulf Fw Triebflugel voorgestel, maar die tuig is uiteindelik
+   nooit gebou nie. Die voordeel van hierde helikopter ontwerp is dat dit
+   nie die reaktiewe wringkrag op die tuig uitoefen nie, 'n stertrotor en
+   die daarmee gepaardgaande ratkas is dus nie nodig nie, wat die
+   vliegtuig baie eenvoudiger maak. Polsende straalmotors is ook al
+   gebruik vir die bou van die draadgekoppelde asook radiobeheerde
+   modelvliegtuie. Só 'n draadgekoppelde modelvliegtuig het in die vroeë
+   vyftigs 'n spoedrekord opgestel van 299 km/h.
+
+   Die grootste krygstoepassings tot op datum was die gebruik van die
+   motor in die V-1 vlieënde bom, die enjin se kenmerkende dreunklank het
+   dit die byname "buzz bomb" of "doodlebug" onder engelssprekendes
+   besorg. Die V-1 was 'n Duitse kruisermissiel wat tydens die Tweede
+   Wêreldoorlog gebruik is, veral tydens die bombardement van Londen (Die
+   Blitz) vanaf middel 1944. Die polsstraalmotors wat goedkoop en maklik
+   was om te vervaardig, was 'n voor die hand liggende keuse vir die
+   ontwerpers van die V-1, gegewe die materiaaltekorte waaronder die
+   Duitse oorlogsmasjien tydens daardie stadium van die oorlog gebuk
+   gegaan het. Moderne kruisermissiele gebruik gewoonlik nie
+   polsstraalmotors nie maar ware vuurpyl- of gasturbiene-enjins.
+
+[wysig] Werking
+
+   Skematiese diagram van 'n polsstraalmotor. Die eerste deel van die
+   siklus: luginlaat (1), brandstofvermenging (2). Tweede deel: die klep
+   (3) maak toe en die lug-brandstofmengsel word ontsteek (4) wat die tuig
+   aandryf.
+   Skematiese diagram van 'n polsstraalmotor. Die eerste deel van die
+   siklus: luginlaat (1), brandstofvermenging (2). Tweede deel: die klep
+   (3) maak toe en die lug-brandstofmengsel word ontsteek (4) wat die tuig
+   aandryf.
+
+   Die verbrandingsiklus bestaan uit ses fases: Ontsteking, Verbranding,
+   Uitlaat, Induksie, Kompressie en (in sommige gevalle)
+   Brandstofinspuiting.
+
+   Tydens die ontstekingsfase in die verbrandingskamer ontstaan 'n hoëdruk
+   as gevolg van die verbranding van die lug-brandstofmengsel. Die
+   hoëdrukgas kan nie deur die eenrigting inlaatklep uitgaan nie en word
+   dus aan die agterkant by die uitlaatpyp uitgewerp.
+
+   Die traagheidsreaksie van hierdie gasvloei veroorsaak die voorwaartse
+   stukrag wat die vliegtuig aandryf. Die traagheid van die uitlaatgas
+   veroorsaak 'n lae druk in die verbrandingskamer. Hierdie druk is laer
+   as die inlaatruk opstroom van die inlaatklep wat veroorsaak dat die
+   induksiefase van die siklus aan die gang gesit word.
+
+   In die meeste eenvoudige polsstraalmotors vind die inlaat deur 'n
+   venturi plaas wat tot gevolg het dat die brandstof ook ingesuig word.
+   In meer komplekse ontwerpe kan die brandstof direk in die
+   verbrandingskamer ingespuit word. Wanneer die induksiefase afgehandel
+   is veroorsaak 'n weerkaatsende hoëdrukgolf vanaf die uitlaatpyp dat die
+   lading saamgepers word, wat dan ontsteek word deur die oorblywende
+   hitte van die vorige siklus.
+
+   Daar bestaan twee soorte polsstraalmotors. Die eerste een word deur 'n
+   reeks eenrigtingkleppe voorsien waardeur die inkomende lug gaan.
+   Wanneer die lug-brandstofmengsel ontsteek word, slaan die kleppe toe
+   wat beteken dat die warm gasse die enjin slegs in een rigting kan
+   verlaat en sodoende 'n voorwaartse stukrag veroorsaak.
+
+   Die tweede soort polsstraalmotor het geen kleppe nie. Die enjin maak
+   staat op aerodinamika om die vloei van die gasse in een rigting te
+   beperk. Hierdie tweede soort polsstraler het dus geen bewegende dele
+   nie en is in die opsig soortgelyk aan die stustraalmotor (engels:
+   ramjet).
+
+   By hierdie tweede soort straalmotor wys die inlaat en uitlaatpype
+   gewoonlik in dieselfde rigting. Hierdie ontwerp vereis dus 'n enjin wat
+   in 'n U-vorm gebuig is (Die Lockwood-Hiller) ontwerp. Wanneer die
+   lug-brandstofmengsel in dié enjin ontbrand sal die warm gasse by beide
+   die inlaat en uitlaak buis uit ontsnap, aangesien die aerodinamiese
+   kleppe "lek". Indien beide buise nie in dieselfde rigting sou wys nie
+   sou die stukrag minder wees aangesien die traagheidsreaksie in beide
+   rigtings sou plaasvind wat mekaar gedeeltelik sal uitkanselleer. Die
+   oorspronklike idee was afkomstig vanuit die Franse navorsingsgroep
+   SNECMA wat aandrywingsmetodes ondersoek. Die voordeel van 'n
+   aerodinamies beheerde polsstraalmotor is sy eenvoud. Aangesien daar
+   geen bewegende dele is wat kan verweer nie, is hulle makliker om te
+   onderhou en te bou. Dit is egter baie moeiliker om hulle te optimiseer.
+
+   Die siklusfrekwensie is hoofsaaklik afhanklik van die lengte van die
+   enjin. Vir 'n klein modelgrootte enjin kan die frekwensie tipies rondom
+   die 250 polse per sekonde wees — terwyl dit vir 'n groter enjin, soos
+   die een wat gebruik was in die V1 bomme, nader aan 45 polse per sekonde
+   is.
+
+   Polsstraalmotors word vandag steeds gebruik in onbemande vliegtuie,
+   modelvliegtuie, misgenerators en huishoudelike verwarmers. Sekere mense
+   eksperimenteer steeds in 'n poging om die ontwerpe te verbeter. Die
+   enjins is baie moeilik om in bemande vliegtuie in te bou vanweë hul hoë
+   brandstofgebruik, -geraasvlakke en -vibrasies.
+
+[wysig] Eksterne skakels
+
+     * - 'n Internasionale werf wat hom wei aan polsstraalmotors,
+       insluitend ontwerpplanne en eksperimente. Sluit 'n baie aktiewe
+       forum in, waaraan entoesiastiese kenners ook deelneem.
+     * - 'n Entoesias se webwerf
+     * - Modelvliegtuig polsstraalmotor.
+
+   Kategorie: Voertuigtegnologie
+

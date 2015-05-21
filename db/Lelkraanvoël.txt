@@ -1,0 +1,123 @@
+Lelkraanvoël
+
+
+                    Lelkraanvoël
+   Bedreigingstatus: Kwesbaar
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Gruiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Gruidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Bugeranus
+                   Gloger, 1842
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     B. carunculatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                Bugeranus carunculatus
+   (Gmelin, 1789)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Lelkraanvoël (Bugeranus carunculatus) is 'n grondlopende voël in
+   die familie Gruidae, en die enigste lid van die genus Bugeranus
+   (Gloger, 1842).
+
+   Dit is die grootste en skaarsste van die kraanvoëlspesies in Afrika en
+   is kwesbaar vir bedreiging.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+        * 6 Sien ook
+        * 7 Bronnelys
+        * 8 Eksterne skakels
+
+[wysig] Identifikasie
+
+   'n Baie groot kraanvoël met 'n algemene lengte van 120 cm en
+   kenmerkende lelle wat weerskante van die ken af hang, maar by jonges
+   ontbreek.
+
+[wysig] Habitat
+
+   Pare en groepies kom yl versprei in vleie, moerasse, aan die oewers van
+   groot mere en in hoogliggende grasveld voor. Die grootste aantal boer
+   in die vleilande van Botswana. Loop dikwels in vlak water en kos soek.
+   Is uiters lugtig en laat 'n mens nie toe om naby te kom nie.
+
+[wysig] Verspreiding
+
+   Kom voor in Oos- en Suidelike-Afrika, moeras- en vleigebiede in
+   Botswana, sentraal Zimbabwe en noord-oostelike dele van Namibië.
+
+   Hoewel hulle redelik algemeen in sekere dele van Suider-Afrika voorkom,
+   het hierdie kraanvoël se getalle in Suid-Afrika self baie afgeneem; die
+   spesíe word in die Republiek as bedreig beskou.
+
+[wysig] Geluid
+
+   Is meestal stil, maar uiter soms 'n harde, uitgerekte, klokhelder
+   "horuk".
+
+[wysig] Ander name
+
+     * Engelse naam: Wattled Crane
+     * Wetenskaplike naam: Bugeranus carunculatus
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+
+[wysig] Eksterne skakels
+
+     * International Crane Foundation's Wattled Crane page
+
+   Kategorie: Kraanvoëls
+

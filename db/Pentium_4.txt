@@ -1,0 +1,23 @@
+Pentium 4
+
+
+   Die Pentium 4 is 'n sewende-generasie x86-argitektuur mikroverwerker
+   deur Intel, die eerste totaal nuwe SVE-ontwerp (Engels: CPU design)
+   sedert die Pentium Pro van 1995.
+
+   Die oorspronklike Pentium 4, kodenaam "Willamette", se verwerkingspoed
+   was 1.4 en 1.5 GHz en is vrygestel in November 2000. In teenstelling
+   met die Pentium II, die Pentium III, en die verskeie Celeron
+   verwerkers, is niks oorgeneem van die Pentium Pro ontwerp nie. Elke
+   eienskap is van nuuts af aan ontwerp.
+
+   Dit was vir baie 'n verrassing toe die Pentium 4 nie op die ou
+   P6-ontwerp verbeter het in enigeen van die twee sleutelmaatstawe van
+   werkverrigting nie: heelgetalprosesseringspoed en
+   dryfpuntwerkverrigting. Dit het eerder die tradisionele werkverrigting
+   opgeoffer om hoë klokspoed en SSE-werkverrigting te wen.
+
+   Die Pentium 4 is ook beskikbaar in 'n laer prestasie Celeron weergawe
+   en 'n hoër prestasie Xeon weergawe.
+   Kategorie: Rekenaar
+

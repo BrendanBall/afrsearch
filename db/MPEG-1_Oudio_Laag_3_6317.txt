@@ -1,0 +1,86 @@
+MPEG-1 Oudio Laag 3
+
+
+   MPEG-1 Oudio Laag 3 (MP3), (engels: MPEG-1 Audio Layer 3) is 'n
+   lêerformat vir die verliesvrye oudiodatakompressie. MP3 gebruik die
+   prinsiep waar slegs die gedeelte opgeneem en gestoor word wat die mens
+   ook kan hoor. Daardeur word 'n datakompressie moontlik, wat die
+   oudiokwaliteit min of glad nie beïnvloed nie. Die formaat is 'n
+   indirekte voorganger van AAC (Advanced Audio Coding)
+   (proprietêr/privaat) of Vorbis (vry/gratis) wat 'n beter kwaliteit en
+   funksionaliteit oplewer. ^[1].
+
+   Inhoud
+
+        * 1 Sampling Rate
+        * 2 Wenke
+             + 2.1 Kwaliteit
+             + 2.2 Toetsopnames
+             + 2.3 Duimreël vir MP3-opnames
+        * 3 Eksterne skakels
+
+[wysig] Sampling Rate
+
+   In vergelyking met die data wat op 'n OudioCD gestoor is, gebruik 'n
+   lêer wat in MP3 geënkodeer is om en by 10% van die stoorplek. (Dit geld
+   vir kwaliteit wat 'n sampling rate van 128kbps bied.)
+
+[wysig] Wenke
+
+   Die opneem van jou eie MP3 / mp3PRO musiek en spraak lêers is redlik
+   maklik vandag.
+
+[wysig] Kwaliteit
+
+   Die kwaliteit is direk afhanklik van die sampling rate (bergingsspoed),
+   die bisse wat gestoor word per sekonde. Hoe meer inligting per sekonde
+   gestoor word hoe beter is die reproduseerbaarheid (reproduksie) van die
+   klank.
+
+[wysig] Toetsopnames
+
+   Maak 'n reeks opnames met verskillende sampling rates en vergelyk die
+   resulterende kwaliteit daarvan, voor jy begin om opnames op 'n
+   grootskaal te maak. Jy sal dalk daarnaa uitvind dat die gewenste
+   verkouding tussen stoorplek en kwaliteit kon beter gekies gewees het.
+
+[wysig] Duimreël vir MP3-opnames
+
+   Die mees algemene standaard vir die MP3-formaat wat tans vir
+   musiekopnames gebruik word is 128kbps. (Dit bied die geskikste
+   gerhouding tussen kwaliteit en stoorplek en is goed om opnames vanaf
+   oudio-CD of ander brone te maak.) - Dit sal sowat 10% van die stoorplek
+   van 'n CD-opname van die selfde lengte gebruik en dus dal 'n tien taal
+   aan MP3-snitte op 'n CD-ROM gestoor kan word. (Vir beter kwaliteit kan
+   192kbps en 256kbps gebruik word. Hoër oplossings - tot 320kbps is
+   moontlik, maar eintlik mors van stoorplek omdat die kwaliteitsverskille
+   skaars waargeneem kan word.) Indien hy 'n CD-speler in die kar het,
+   waar die geraas in elkegeval redlik hoog is, sal dit dalk goed wees om
+   'n laer kwaliteit teenoor langer speeltyd te oorweeg. Hiervoor sal jy
+   die oudiomateriaal met 'n oplossing van laer as 128kbps (dalk 56kbps,
+   64kbps of 96 kbps) op te neem en die speelduur amper te kan verdubbel
+   (by 64kbps - omdat dit 50% van 128kbps is).
+
+   Vir spraakopnames is dit moontlik om so laag as 56kbps te gaan om
+   verlengde speeltyd te verkry en die stoorplek effektiev te benut. Om
+   vêrder plak te bespaar kan pleks in Stereo ook in Mono opgeneem word,
+   wat nog 'n 50% plekbesparing gee en slegs een kanaal opneem, pleks van
+   twee (links en regs) - tensy die Stereo-Effek gewens of nodig is.
+
+   Indien jy beoog om 'n CD=speler vir die huis aanteskaf, gee eder 'n
+   paar Rand meer uit en koop een wat ook MP3's kan terugspeel, of nog
+   beter- kyk vir DVD-speler. Die meste DVD-spelers vandag ondersteun al
+   verskeie formate, soos: MP3 (en miskien al mp3PRO ?), WMA ens. Indien
+   daar een is wat MPEG-4 / DivX / XviD kan terugspeel, sal dit goed wees
+   vir hoë-kompressie videos, en word dit aanbeveel.
+
+[wysig] Eksterne skakels
+
+     * Fraunhofer IIS (engels)
+     * The Story of MP3 — Hoe MP3 uitgevind is deur die Fraunhofer IIS
+       (Instutuut vir geïntergreerde skakelkringe)
+     * Lys van relevante patente
+     * Thomson Licensing FAQ Thomson Lisensieëring (Vrae & Antworde)
+
+   Kategorie: Klanktegnologie
+

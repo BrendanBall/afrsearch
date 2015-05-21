@@ -1,0 +1,96 @@
+Transformator
+
+
+   Transformator 25KV.
+   Transformator 25KV.
+
+   'n Transformator is 'n statiese elektriese toestel (d.w.s. geen
+   bewegende onderdele) wat deur middel van elektromagnetiese koppeling
+   energie oordra van een stroombaan na 'n ander. 'n Transformator bestaan
+   uit twee of meer spoele wat in meeste gevalle om 'n magnetiese kern
+   gewikkel is. Die magnetiese kern konsentreer die magnetiese vloed in
+   die spoele. 'n Wisselstroom in een van die spoele, die primêre spoel,
+   induseer 'n wisselende magnetiese vloed in die kern op. Hierdie vloed
+   induseer dan 'n spanning op in die ander, sekondêre, spoele.
+
+   Transformators word gebruik vir omskakeling tussen hoë en lae
+   spannings, om impedansie te verander, en om elektriese isolasie te bied
+   tussen stroombane.
+
+   Inhoud
+
+        * 1 Basiese beginsels
+             + 1.1 Koppeling deur wedersydse induksie
+             + 1.2 Eenvoudige analise
+        * 2 Sien ook
+
+[wysig] Basiese beginsels
+
+[wysig] Koppeling deur wedersydse induksie
+
+   'n Eenvoudige transformator bestaan uit twee geleiers wat in 'n spoel
+   gedraai word. Een van die spoel windings word die primêre spoel genoem
+   en die ander spoel winding word die sekondêre winding genoem. Die
+   geleiers word met 'n dun lagie isolator bedek om kortsluiting tussen
+   die windings te voorkom. Wanneer 'n tydvarieërende stroom deur die
+   primêre windings vloei, word 'n tydvarieërende magnetiese vloed om
+   beide van die spoele gevorm. Die tydvarieërende magnetiese veld
+   induseer 'n spanningsval oor die sekondêre spoel. Hierdie effek word
+   wedersydse induksie genoem.
+
+[wysig] Eenvoudige analise
+
+   Wanneer 'n tyd varieërende spanning v[P], oor die primêre winding van
+   N_P\, draaie geplaas word, word 'n tyd varieërende stroom in die spoel
+   geïnduseer. Die tyd varieërende stroom induseer 'n magneto-motoriese
+   krag (MMK). Net soos 'n elektromotoriese krag (EMK) die stroom deur 'n
+   elekriese stroombaan dryf, so ook probeer die MMK die magnetiese vloed
+   dryf in 'n magnetiese stroombaan. Die primêre MMF induseer 'n
+   varieërende magnetiese vloed \Phi_P\, in die transformator kern. Met 'n
+   oopbaan sekondêre winding word 'n teen EMK in teenstelling met v[P]
+   geïnduseer. In verband met Faraday se wet van induktansie word die
+   spanning oor die spoele geïnduseer in verhouding met die verandering in
+   magnetiese vloed:
+
+          {v_P} = {N_P} \frac {d \Phi_P}{dt}      and      {v_S} = {N_S}
+          \frac {d \Phi_S}{dt}
+
+   waar
+     * v[P] en v[S] die spanningsval oor onderskeidelik die primêre en
+       sekondêre spoel is,
+     * N[P] en N[S] die aantal windings in onderskeidelik die primêre en
+       sekondêre spoel is,
+     * dΦ[P] / dt and dΦ[S] / dt die tyd afgeleide vloed geïnduseer in
+       onderskeidelik die primêre en sekondêre spoel.
+
+   As daar geen verliese tussen die primêre en sekondêre vloed is nie is
+   die transformator koppeling perfek, dan sal \Phi_P = \Phi_S\, . Vervang
+   dit in die bogenoemde vergelyking dan sal:
+
+          \frac{v_P}{v_S}=\frac{N_P}{N_S}
+
+   waar
+     * v[P] en v[S] die spanningsval oor onderskeidelik die primêre en
+       sekondêre spoel is,
+     * N[P] en N[S] die aantal windings in onderskeidelik die primêre en
+       sekondêre spoel is.
+
+   Vir 'n ideale transformator sal die verhouding tussen die primêre
+   spanning en sekondêre spanning gelyk wees aan die verhouding tussen die
+   primêre en sekondêre spoel windings. Anders gestel, die spanning per
+   spoel winding is dieselfde in beide windings. Die verhouding tussen die
+   primêre en sekondêre stroom is omgekeerd eweredig aan die winding
+   verhouding. Dit lei tot die mees algemeenste gebruik van
+   transformators, om tussen hoë en lae spanning on te skakel.
+
+[wysig] Sien ook
+
+     * Kapasitor
+     * Resistor
+     * Elektrisiteit
+     * Elektronika
+     * Induktor
+     * Induktansie
+
+   Kategorie: Elektronika
+

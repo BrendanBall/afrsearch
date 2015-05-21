@@ -1,0 +1,77 @@
+Beeld:Campanile venise.JPG
+
+
+     * Beeld
+     * Lêergeskiedenis
+     * Prentskakels
+     * Metadata
+
+   Beeld:Campanile venise.JPG
+   Grootte van hierdie voorskou: 362 × 599 pixels
+   Volle resolusie (500 × 827 pixel, file size: 57 KG, MIME type:
+   image/jpeg)
+   Hierdie is 'n bydrae vanuit die Wikimedia Commons, 'n versameling vrye
+   inhoud wat deur die Wikimedia Foundation ondersteun en gedra word. Sien
+   die ooreenstemmende beskrywingsblad op die Commons vir meer inligting
+   oor hierdie spesifieke bydrae.
+   The description on its lêer beskrywingsbladsy on the shared repository
+   is shown below.
+
+   This image was copied from wikipedia:fr. The original description was:
+     * Description: Campanile fr:Venise
+     * Auteur: Arnaud Gaillard (arnaud () amarys.com)
+     * Source: Photo de l'auteur
+     * Note: Prise le 2 avril 2004
+     * License:
+
+   Creative Commons License
+   Creative Commons Attribution icon Creative Commons Share Alike icon
+   This file is licensed under Creative Commons
+   Attribution ShareAlike 1.0 License
+
+   date/time username resolution size edit summary
+
+Lêergeskiedenis
+
+   Klik op die datum/tyd om te sien hoe die lêer destyds gelyk het.
+   Datum/Tyd Dimensies Gebruiker Opmerking
+   huidig 21:11, 6 Augustus 2006 500×827 (57 KG) Loveless (This image was
+   copied from wikipedia:fr. The original description was:
+   *'''Description''': Campanile fr:Venise *'''Auteur''': Arnaud Gaillard
+   (arnaud () amarys.com) *'''Source''': Photo de l'auteur *'''Note''':
+   Prise le 2 avril 2004 *'''License''': )
+
+Prentskakels
+
+   Die volgende bladsye gebruik hierdie prent:
+     * Campanile
+
+Metadata
+
+   This file contains additional information, probably added from the
+   digital camera or scanner used to create or digitize it. If the file
+   has been modified from its original state, some details may not fully
+   reflect the modified file.
+         Camera manufacturer        Canon
+             Camera model           Canon EOS 300D DIGITAL
+            Beligtingstyd           1/250 sek (0.004)
+               F-getal              f/10
+   Date and time of data generation 11:30, 2 April 2004
+          Lens focal length         18 mm
+              Oriëntasie            Normal
+        Horisontale resolusie       180 dpi
+         Vertikale resolusie        180 dpi
+      File change date and time     11:30, 2 April 2004
+         Y and C positioning        1
+           ISO speed rating         100
+             Exif version           2.2
+     Date and time of digitizing    11:30, 2 April 2004
+            Shutter speed           7.9657897949219
+               Aperture             6.6438598632812
+            Exposure bias           0
+                Flash               0
+             Kleurruimte            sRGB
+       Focal plane X resolution     3442.0168067227
+       Focal plane Y resolution     3443.9461883408
+     Focal plane resolution unit    duim
+

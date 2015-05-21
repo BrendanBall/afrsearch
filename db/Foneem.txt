@@ -1,0 +1,50 @@
+Foneem
+
+
+   In menslike taal is 'n foneem die kleinste onderskeibare strukturele
+   eenheid wat betekenis oor dra.^[1] Foneme is nie die fisiese segmente
+   self nie, maar, in teoretiese terme, kognitiewe abstraksies daarvan.
+
+   'n Voorbeeld van 'n foneem is die /t/ klank in die woorde top, stand,
+   water, en kat. (In transkripsie, word foneme soos hier tussen
+   skuinsstrepe geskryf.) Hierdie voorbeelde van /t/ word as dieselfde
+   klank beskou al word hulle in elkeen van die woorde effens anders
+   uitgespreek, al is die verskille moontlik nie onderskeibaar selfs vir
+   eerste taal sprekers nie. Foneme kan dus verskeie herkenbaar
+   verskillende spraakklanke,, gemaand fone, omvat. In die voorbeeld word
+   die /t/ in top geaspireer, [tʰ], terwyl die /t/ in stand nie
+   geasprireer word nie, [t] (In transkripsie word spraakklanke wat nie
+   foneme is nie in hakkies geskryf). In baie tale soos Koreaans en Spaans
+   is hierdie fone verskillende foneme: Byvoorbeeld, /tal/ is "maan" in
+   Koreaans, terwyl /tʰata/ is "om te brand". In Spaans is daar geen
+   geaspireerde [tʰ], maar die foon in Amerikaanse Englels writer is
+   soortgelyk aan die Spaanse r /ɾ/ in kontras met die Spaanse /t/.
+
+   Fone wat tot dieslefde foneem behoort soos [t] en [tʰ] vir die
+   Afrikaanse /t/, word allofone genoem. 'n algemene toets om te bepaal of
+   twee fone allofone of aparte foneme is berus daarop om minimale pare te
+   vind: woorde wat slegs ten opsigte van die fone onder beskouing
+   verskil. Byvoorbeeld, die woorde top en dop illustreer dat [t] en [d]
+   verskillende foneme is in Afrikaans, terwyl die gebrek aan kontras
+   (/tʰata/ word byvoorbeeld as [tʰada] uitgespreek) aandui dat dit in die
+   taal allofone van 'n foneem /t/ is.
+
+   In gebare tale word die basiese elemente van gebare en plek cheremes
+   (of cheiremes) genoem, maar algemene gebruik het dit verander na
+   foneem. Toonfoneme word soms toneme genoem en tydfoneme chroneme.
+
+   Sommige taalkundiges (soos Roman Jakobson) beskou foneme as verder
+   afbreekbaar in eienskappe, sulke eienskappe verteenwoordig volgens die
+   teorieë die ware minimale boublokke van taal. Eienskappe oorvleuel
+   mekaar in tyd, soos wat suprasegmentale foneme in gesproke taal en
+   talle foneme in gebare taal ook doen.
+
+[wysig] Verwysings
+
+    1. ^ SIL International, Glossary of linguistic terms, What is a
+       clitic? (Grammar), besoek op 30 Maart 2008
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorie: Saadjies
+

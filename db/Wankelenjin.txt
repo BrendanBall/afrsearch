@@ -1,0 +1,218 @@
+Wankelenjin
+
+
+   Wankelenjin in die Duitse Museum
+   Wankelenjin in die Duitse Museum
+
+   Die Wankelenjin is 'n tipe binnebrandenjin wat deur Duitse ingenieur
+   Felix Wankel uitgevind is, en gebruik 'n roterende suier in plaas van
+   resiprokerende suiers. Die ontwerp beloof gladde
+   hoë-omwenteling-per-minuut krag van 'n kompakte, liggewig enjin.
+   Wankelenjins word egter gekritiseer vir swak brandstofverbruik en
+   oormatige uitlaatgasse.
+
+   Inhoud
+
+        * 1 Werking
+        * 2 Voordele
+        * 3 Nadele
+        * 4 Geskiedenis
+        * 5 Roterende verbrandingsmotor teenoor roterende enjins
+        * 6 Eksterne skakels
+
+   Die enjin is in die 1960's deur NSU Motorenwerke AG (NSU), wat later
+   deel van Audi geword het, en Mazda bekend gestel. Alhoewel baie
+   vervaardigers die ontwerp gelisensieer het, en Mercedes-Benz dit in
+   hulle C-111 konsepmotor gebruik het, het slegs Mazda groot getalle
+   Wankelenjins vervaardig. Sedert 2005 is die enjin slegs beskikbaar in
+   die Mazda RX-8.
+
+[wysig] Werking
+
+   Die Wankelsiklus. "A" dui een van die drie kruine van die rotor aan.
+   "B" dui die uitmiddelpuntige as aan, wat drie keer draai vir elke
+   omwenteling van die rotor.
+   Die Wankelsiklus. "A" dui een van die drie kruine van die rotor aan.
+   "B" dui die uitmiddelpuntige as aan, wat drie keer draai vir elke
+   omwenteling van die rotor.
+
+   In die Wankelenjin, word die vier slae van 'n tipiese Otto-siklus-enjin
+   agtereenvolgend rondom 'n ovaal gerangskik in teenstelling met die
+   resiprokerende beweging van 'n suierenjin. In die basiese
+   enkelrotor-Wankelenjin word 'n driesydige rotor (Reuleaux-driehoek)
+   deur 'n enkele ovaal (tegniese term epitrogoïed) vormige omhulsel
+   omring. Die rotor draai en beweeg met 'n wankelende beweging in die
+   omhulsel. Die kante van die rotor seël teen die voor- en agterkant van
+   die omhulsel en die drie hoeke seël teen die binne omtrek van die
+   omhulsel en verdeel dit dan sodoende in drie verbrandingskamers.
+
+   Wanneer die rotor draai veroorsaak sy beweging en vorm asook die vorm
+   van die omhulsel, dat die elke kant van die rotor op sy beurt nader en
+   verder van die omhulsel se wand beweeg. Dit veroorsaak saampersing en
+   uitsetting van die verbrandingskamers soortgelyk aan die slae van 'n
+   resiprokerende enjin. Die tipiese vierslagsiklus enjin lewer egter net
+   een verbranding- of kragslag vir elke twee omwentelinge, d.w.s. een
+   halwe kragslag per omwenteling per silinder. Elke verbrandingskamer in
+   'n Wankelenjin lewer een kragslag per omwenteling, d.w.s. drie kragslae
+   per rotoromwenteling. Aangesien die Wankel se leweringsas gerat is om
+   teen drie keer die rotorsnelheid te draai, word dit een verbrandingslag
+   per as omwenteling, wat dubbel die aantal is van die vierslag
+   suierenjin en dieselfde as 'n tweeslagsiklus enjin. Die kraglewering
+   van 'n Wankelenjin is dan ook oor die algemeen hoër as die van 'n
+   vierslagenjin vir dieselfde enjinverplasing met dieselfde mate van
+   verstelling en meer as 'n enjin met dieselfde fisiese grootte. In
+   internasionale motorwedrenne beskou die FIA 'n Wankelenjin as
+   ekwivalent aan 'n vierslag enjin met dubbel die verplasing; terwyl
+   ander sportliggame besluit het op 'n veelvoud van 1.8.
+
+[wysig] Voordele
+
+   Wankelenjins het verskeie groot voordele bo
+   resiprokerende-suier-ontwerpe bo en behalwe die hoër lewering vir
+   dieselfde verplasing en fisiese grootte. Hulle is aansienlik
+   eenvoudiger en bevat heelwat minder bewegende dele. Aangesien die
+   asemhaling van die verbrandingskamer teweeg gebring word deur eenvoudig
+   'n snit in die omhulsel se wand te maak is daar geen kleppe nie. Verder
+   is die rotor direk aan die as gerat en is suierstange, 'n krukas en
+   balanserende gewigte nie nodig nie. Deur met hierdie onderdele weg te
+   doen word die enjin baie ligter gemaak. Die Wankel weeg tipies die
+   helfte van 'n enjin met gelyke kraglewering. Die wegdoen van die
+   resiprokerende massa van die suiers en die gevolglike spanning op die
+   onderdele as gevolg van die herhalende versnelling en vertraging met
+   die meegaande hoër vibrasies veroorsaak nie net 'n gladder kragvloei
+   nie, maar maak ook dat dit moontlik vir die enjin om teen hoër
+   omwentelinge per minuut te draai en lewer daardeur meer krag.
+
+   Verder is die vervaardigingskoste laer vanweë die eenvoud en kleiner
+   grootte.
+
+   'n Ander voordeel is dat die vorm van die Wankel se verbrandingskamers
+   en die turbulensie wat veroorsaak word deur die bewegende rotor die
+   vorming van gelokaliseerde warm punte verhoed. Dit bring mee dat die
+   enjin, brandstof met 'n lae oktaangetal kan gebruik sonder dat vroeë
+   ontsteking of enjinklop plaasvind.
+
+[wysig] Nadele
+
+   Die ontwerp van die Wankelenjin met sy vele glyende seëls en omhulsel,
+   wat tipies bestaan uit 'n toebroodjie van gietyster- en aluminiumdele
+   wat teen verskillende grade uitsit en krimp wanneer hulle aan
+   verkoelings- en verhittingsiklusse blootgestel word, het dikwels gely
+   tot verlies aan seëlvermoë. Die seël tussen die rotor en wand asook
+   tussen die verskillende dele van die omhulsel, het gereeld gefaal.
+   Verdere ingenieurswerk deur Mazda het die probleme onder beheer gebring
+   maar ongelukkig is hulle toe gekonfronteer met die verhoogde kommer oor
+   koolwaterstofemissies asook die stygende kostes van petrol, wat die
+   twee grootste hindernisse was, waar die Wankelenjin swak presteer het.
+
+   Net soos die vorm van die Wankelenjin se verbrandingskamer vroeë
+   ontsteking verhoed, het dit ook onvolledige verbranding van die
+   lug-brandstof mengsel in die hand gewerk, met die koolwaterstowwe wat
+   dan net so onverbrand deur die uitlaatpyp na die atmosfeer vrygelaat
+   is. Terwyl ander suierenjin vervaardigers hulle na duur katalitiese
+   omsetters moes wend om die onverbrande koolwaterstowwe ten volle te
+   oksideer, kon Mazda die probleem oplos deur paradoksaal die mengsel te
+   verryk en dit dan in 'n 'termiese reaktor' (basies net 'n vergrote
+   uitlaatkamer in die uitlaat verdeelpyp. Die skoon uitlaat kon dus
+   verkry word ten koste van 'n verhoogde brandstofverbruik.
+
+   Ongelukkig vir Mazda het die bekendstelling van hierdie oplossing
+   saamgeval met die skerp styging in brandstofpryse wêreldwyd. Die laer
+   brandstofdoeltreffendheid van hulle enjins het veroorsaak dat hulle
+   verkope skerp gedaal het.
+
+   'n Verdere nadeel van die Wankelenjin is dat dit moeilik is om meer as
+   twee rotors in 'n enjin te akkomodeer. Die komplekse vorm van die
+   rotor, omhulsel en leweringsas en die manier waarop hulle
+   aanmekaargesit word vereis dat enjins met meer as twee rotors 'n
+   leweringsas het wat uit veelvuldige seksies gemaak moet word. Die
+   tegniek is al suksesvol gebruik met renmotors maar die voordeel van
+   groter eenvoud en laer koste word daarmee uitgekanselleer.
+
+[wysig] Geskiedenis
+
+   NSU Wankel Spider 1964 - 1967
+   NSU Wankel Spider 1964 - 1967
+   Citroën M35
+   Citroën M35
+   Mazda RX7
+   Mazda RX7
+
+   Wankel het eerste die roterende enjin in 1924 bedink en in 1929
+   uiteindelik 'n patent daarvoor ontvang. Hy het gedurende die 1940's aan
+   verbeteringe in die ontwerp gewerk. Die ontwikkeling van die ontwerp
+   van roterende enjins gedurende die 1950's en 1960's het aansienlike
+   inspanning geverg. Hulle het veral belangstelling gewek vanweë hulle
+   gladde, stil werking en hul betroubaarheid wat 'n gevolg van hul
+   eenvoud was.
+
+   In Brittanje, het Norton Motorcycles 'n Wankel- roterende enjin vir
+   motorfietse ontwerp, wat by die Norton Commander ingesluit is; Suzuki
+   het ook 'n produksiemotorfiets met 'n Wankelenjin bekend gestel naamlik
+   die RE-5. John Deere in die V.S.A. het 'n groot navorsingsveldtog van
+   stapel gestuur en het 'n weergawe ontwikkel wat 'n verskeidenheid
+   brandstowwe kon gebruik sonder om die enjin te verander. Die ontwerp is
+   voorgestel as kragbron vir verskeie V.S.A. mariene gevegsvoertuie in
+   die laat tagtigs.
+
+   Buiten sporadiese gebruik van ander vervaardigers soos NSU met hulle Ro
+   80 model en Citroën met die M35 en GS Birotor, en mislukte pogings deur
+   General Motors en Mercedes Benz om Wankelenjin-aangedrewe motorvoertuie
+   te ontwerp, was die Japannese maatskappy Mazda die enigste maatskappy
+   wat die enjin op groot skaal in hul voertuie gebruik het.
+
+   Na vele jare se ontwikkeling het Mazda hul eerste motors met
+   Wankelenjins vrygestel in die vroeë 1970's. Kliënte was gaande oor die
+   motors veral oor hul gladde werking. Mazda het later die Wankelenjin
+   uitgelaat uit die meeste van hulle ontwerpe maar dit wel behou in hulle
+   RX-7 sportmotor tot laat in die 1990's. In 2003 het Mazda die roterende
+   enjin hervrygestel met die bekendstelling van die nuwe RX-8. In die
+   wedrenwêreld het Mazda baie sukses behaal met beide hul twee- en
+   vierrotor-enjins. Privaat renjaers het ook baie sukses behaal met
+   fabrieksvervaardigde asook veranderde Mazda Wankelenjin-motors.
+
+   Die Wankel se uitstekende krag tot gewig verhouding maak dit besonders
+   geskik vir vliegtuigenjins. Daar was intense belangstelling in die
+   enjins vir hierdie doeleinde in die 1950's toe die ontwerp bekendheid
+   begin verwerf het, maar terselfdertyd het die industrie begin oorskakel
+   na straler-enjins wat baie mense geglo het die enigste kragbron vir
+   vliegtuie binne 'n dekade sou wees. Toe dit later blyk dat die
+   straler-enjin veels te duur is vir alle toepassings het die
+   lugvaartwêreld heel anders daar uitgesien en was daar baie min geld
+   beskikbaar vir nuwe enjinontwerpe. Belangstelling in die enjins vir
+   vliegtuie het nietemin nog steeds bly voortbestaan.
+
+   Wankelenjins het 'n herlewing in die afgelope paar jaar ervaar. Geen
+   van hulle voordele is verloor ten opsigte van ander enjins nie en die
+   ontwikkeling van beter materiale het gehelp om die seëlprobleem op die
+   rotorpunte op te los. Hulle word toenemend aangetref in rolle waar
+   hulle kompaktheid en stille werking belangrik is, soos in onbemande
+   vliegtuie. Die enjins wat aanvanklik vir dié onbemande vliegtuie
+   ontwerp is, vind ook deesdae hul pad na ander toepassings soos
+   persoonlike watervaartuie en nutskragbronne vir vliegtuie.
+
+   Buiten vir die gebruik in binnebrandenjins, is die basiese
+   Wankelontwerpe ook al ingespan vir lugkompressors, en aanjaers vir
+   binnebrandenjins, maar in hierdie gevalle is die basiese voordeel van
+   die Wankelontwerp bo dié vierslag-binnebrandenjin nie van toepassing
+   nie.
+
+[wysig] Roterende verbrandingsmotor teenoor roterende enjins
+
+   Die Wankel is 'n spesifieke tipe roterende verbrandingsmotor waarvan
+   daar baie ander ontwerpe al uitgedink is [1], met elkeen wat 'n konsep
+   bevat oor hoe om die resiprokerende beweging van die suier te vermy.
+   Partymaal word daar verkeerdelik na dié enjins en spesifiek na die
+   Wankelenjin as roterende enjins verwys.
+
+[wysig] Eksterne skakels
+
+     * Hoe Wankelenjins werk
+     * Wankel- roterende verbrandingsenjins
+     * Enjin-animasies: Wankelenjin
+
+
+   Hierdie artikel is gekies as 'n voorbladartikel. Klik gerus hier vir
+   meer inligting.
+   Kategorie: Voertuigtegnologie
+

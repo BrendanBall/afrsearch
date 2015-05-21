@@ -1,0 +1,186 @@
+Hiperbool
+
+
+   'n Grafiek van 'n hiperbool.
+   'n Grafiek van 'n hiperbool.
+
+   In wiskunde is 'n hiperbool (Grieks ὑπερβολή letterlik 'oorterffing')
+   is 'n soort keëlsnit wat gedefinieer word as die snyding tussen 'n
+   regtesirkelkeëloppervlak en 'n vlak wat deur beide helftes van 'n
+   dubbelkeël gaan. Dit kan ook gedefinieer word as die lokus van punte in
+   'n vlak waar die verskil in afstand na twee vaste punte (die
+   brandpunte) konstant is.
+
+   'n Eenvoudige bewys dat die bogenoemde twee beskrywings ekwivalent aan
+   mekaar is kan met Dandelinsfere gedoen word.
+
+   Algebraïes is 'n hiperbool 'n kromme in die Cartesiese vlak gedefinieer
+   deur 'n vergelyking met die vrom
+
+          Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0
+
+   sodat B^2 > 4AC, waar al die koëffisiënte reël is, en waar meer as een
+   oplossing, gedefinieer deur 'n paar punte (x, y) op die hiperbool,
+   bestaan.
+
+   Inhoud
+
+        * 1 Definisies
+        * 2 Vergelykings
+             + 2.1 Cartesies
+             + 2.2 Poolkoördinate
+             + 2.3 Parametries
+        * 3 Hiperboloïed
+        * 4 Kyk ook
+        * 5 Verwysings
+        * 6 Eksterne skakels
+
+[wysig] Definisies
+
+   'n Hiperbool kan ook gedefinieer word as die lokus van punte waarvoor
+   die verhouding van die afstande na een brandpunt en na 'n lyn (genaamd
+   die direktriks) 'n nie-veranderlike groter as 1 is. Die
+   nie-veranderlike is die eksentrisiteit van die hiperbool. Die
+   brandpunte lê op die transversale as en hulle middelpunt is die
+   middelpunt van die hiperbool.
+
+   'n Hiperbool bestaan uit twee onverbinde krommes genaamd arms wat die
+   brandpunte skei. Op afstande ver van die brandpunte begin die hiperbool
+   twee lyne wat die asimptote bekend staan benader.
+
+   'n Hiperbool het die eienskap dat 'n straal wat by een brandpunt
+   ontstaan op so 'n manier weerkaats word dat dit voorkom asof dit by die
+   ander brandpunt ontstaan het.
+
+   An ambigenale hiperbool is een van die drie tweede orde hiperbole wat
+   een van sy oneindige bene binne die hoek wat deur die asimptote gevrom
+   word, en die ander daar buite. ^[1]
+   Toegevoegde eenheidsreghoekige hiperbole
+   Toegevoegde eenheidsreghoekige hiperbole
+
+   'n Spesiale geval van die hiperbool is die gelyksydige of reghoekige
+   hiperbool, waarin die asimptote teen regtehoeke kruis. Die reghoekige
+   hiperbool met koördinaatasse as asimptote word gegee deur die
+   vergelyking xy=c, waar c 'n onveranderlike waarde is.
+
+   Net soos die sinus en kosinus funksies parametriese vergelykings vir
+   die ellips gee, gee die hiperboliese sinus en hiperboliese kosinus 'n
+   parametriese vergelyking vir die hiperbool.
+
+   As mens die x en y in die hiperbool vergelyking omruil word die
+   toegevoegde hiperbool verkry. 'n Hiperbool en sy teogevoegde het
+   dieselfde asimptote.
+
+[wysig] Vergelykings
+
+[wysig] Cartesies
+
+   Oos-wes opening hiperbool:
+
+          \frac{\left( x-h \right)^2}{a^2} - \frac{\left( y-k
+          \right)^2}{b^2} = 1
+
+   Noord-suid opening hiperbool:
+
+          \frac{\left( y-k \right)^2}{b^2} - \frac{\left( x-h
+          \right)^2}{a^2} = 1
+
+   In beide formules is (h,k) die middelpunt van die hiperbool, a is die
+   semi-hoofas (helfte van die afstand tussen die twee takke), en b is die
+   semi-kleinas. Let daarop dat b groter as a kan wees.
+
+   Die eksentrisiteit word gegee deur
+
+          e = \sqrt{1+\frac{b^2}{a^2}}
+
+   Die brandpunt vir 'n oos-wes opening hiperbool word gegee deur
+
+          \left(h\pm c, k\right)
+
+   en vir 'n noord-suid opening hiperbool word gegee deur
+
+          \left( h, k\pm c\right) where c is given by c^2 = a^2 + b^2
+
+   Vir regheokige hiperbole met die koördinaatasse parallel aan hulle
+   asimptote:
+
+          (x-h)(y-k) = c \,
+
+[wysig] Poolkoördinate
+
+   Oos-wes opening hiperbool:
+
+          r^2 =a\sec 2t \,
+
+   Noord-suid opening hiperbool:
+
+          r^2 =-a\sec 2t \,
+
+   Noordoos-suidwes opening hiperbool:
+
+          r^2 =a\csc 2t \,
+
+   Noordwes-suidoos opening hiperbool:
+
+          r^2 =-a\csc 2t \,
+
+   Reghoekige Hiperbool:
+
+          y=k/x\,
+
+   In alle formules die middelpunt by die pool, en is a die semi-hoof- en
+   semi-kortas.
+
+[wysig] Parametries
+
+   Oos-wes opening hiperbool:
+
+          x = a\sec \theta + h\,
+          y = b\tan \theta + k\,
+
+   Noord-suid opening hiperbool:
+
+          x = a\tan \theta + h\,
+          y = b\sec \theta + k\,
+
+   In beide formules is (h,k) die middelpunt van die hiperbool, a is die
+   semi-hoofas, en b is die semi-kortas.
+
+[wysig] Hiperboloïed
+
+   Hiperboloïed van een vlak
+   Hiperboloïed van een vlak
+   Hiperboloïed van twee vlakke
+   Hiperboloïed van twee vlakke
+
+   'n Driedimensionele vorm gegrond op die hiperbool, 'n
+   omwentelingshiperboloïed, kan verkry word deur 'n hiperbool om sy
+   transversale of brandpuntas as te roteer.
+
+[wysig] Kyk ook
+
+     * Ellips
+     * Parabool
+     * Sirkel
+     * Dandelinsfere
+     * Hiperboliese sektor
+     * Hiperboliese hoek
+     * Hiperboliese funksie
+     * Hiperboliese trajek
+     * Hiperboloïed
+     * Hiperboliese struktuur
+     * Multilateration
+
+[wysig] Verwysings
+
+    1. ^ 1828 Webster's Dictionary, public domain.
+
+[wysig] Eksterne skakels
+
+     * Sjabloon:Planetmath reference
+     * Sjabloon:Planetmath reference
+     * Sjabloon:Planetmath reference
+     * Mathworld - Hyperbola
+
+   Kategorieë: Keëlsnitte • Krommes
+

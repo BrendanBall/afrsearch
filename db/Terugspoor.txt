@@ -1,0 +1,32 @@
+Terugspoor
+
+
+   Terugspoor (Engels: Trackback) is protokol waarvolgens webjoernaal A 'n
+   sein uitstuur na webjoernaal B. Op hierdie manier weet lesers van
+   webjoernaal B dat daar op webjoernaal A 'n moontlike interessante
+   artikel geplaas is. Terugspoor is dus 'n manier van reageer op 'n
+   artikel op 'n ander webjoernaal, anders as deur die gewone
+   kommentaarpaneel. Die sein wat webjoernaal A na webjoernaal B stuur,
+   word ook 'n terugspoor-pieng genoem. Terugspoor vereis dat beide
+   webjoernaal A en webjoernaal B die terugspoor funksie moes aktiveer ten
+   einde die kommunikasie te bewerkstellig. Terugspoor vereis nie dat
+   webwerf A fisies geskakel moet wees na webwerf B nie.
+
+   Die terugspoor spesifikasies is ontwikkel deur Six Apart wat dit die
+   eerste keer geïmplementeer het in hul MovableType webjoernaalsagteware
+   in 2002. Sedertdien is dit is dit geïmplimenteer in die meeste
+   webjoernaalsagteware. Six Apart het in Februarie 2006 'n werkgroep
+   begin met die doel om dit moontlik as 'n internet standaard deur die
+   Internet Engineering Task Force (IETF) te laat goedkeur. Een prominente
+   webjoernaaldiens wat nie terugspoor bedien nie is Blogger. (Blogger het
+   nou terugskakels wat baie soortgelyk is aan die terugspoor protokol van
+   Movable Type.)
+
+[wysig] Eksterne skakels
+
+     * Wat is 'n terugspoor (Trackback)? deur Tom Coates in Engels
+     * Wat is 'n terugspoor? Beskrywing en diagram deur Doug Karr in
+       Engels
+
+   Kategorie: Internet
+

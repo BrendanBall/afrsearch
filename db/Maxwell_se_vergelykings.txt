@@ -1,0 +1,26 @@
+Maxwell se vergelykings
+
+
+   Die wette wat deur Maxwell se vergelykings verteenwoordig word is
+   verbasend algemeen. Die vergelykings is egter verleidelik eenvoudig en
+   in differensiële vorm kan hulle as volg uitgedruk word:
+
+   \nabla \times \mathbf{E} = -\frac{\partial \mu_0 \mathbf{H}} {\partial
+   t}
+
+   \nabla \times \mathbf{H} = \mathbf{J}+\frac{\partial \epsilon_0
+   \mathbf{E}} {\partial t}
+
+   \nabla \cdot \epsilon_0 \mathbf{E} = \rho
+
+   \nabla \cdot \mu_0 \mathbf{H} = 0
+
+[wysig] Verwysings
+
+     * Herman A. Haus en James R. Melcher. Electromagnetic Fields and
+       Energy. bl.65-83, Prentice Hall Inc., 1989.
+
+   Hierdie artikel is 'n saadjie. Voel vry om Wikipedia te help deur dit
+   uit te brei.
+   Kategorieë: Saadjies • Fisika
+

@@ -1,0 +1,287 @@
+Wikipedia:Redigeringsinstruksies
+
+
+          Hierdie bladsy bevat van die basiese en sommige gevorderde
+          redigeringsinstruksies. Sien gerus die nuutste Engelse
+          instruksies by meta indien u belangstel.
+
+   Indien u slegs wil leer hoe om 'n nuwe bladsy te skep, sien gerus
+   Wikipedia:Hoe om 'n nuwe bladsy te skep. Hierdie bladsy bevat basiese
+   én gevorderde redigeringsinstruksies: gereedskap wat u gaan nodig kry
+   indien u bladsye hier by Wikipedia wil wysig of skep. Om 'n bladsy te
+   wysig, hoef u slegs op die "wysig"-oortjie bo-aan 'n bladsy te klik.
+   Daar bestaan ook wysigingskakels vir onderafdelings van artikels. As u
+   op so 'n skakel klik, verskyn die teks van die bladsy in 'n venster
+   waar u dit kan wysig - net soos in 'n eenvoudige tekswysiger Klik gerus
+   hier om teks wat tans in die Sandput is te wysig. U kan heerlik
+   voorttik en dan op "stoor" klik wanneer u klaar is (u kan ook natuurlik
+   'n voorskou van die bladsy sien voor u dit stoor). Op hierdie bladsy is
+   'n paar voorbeelde van instruksies wat u deur gewone teks kan weergee
+   en wat die Wiki-sagteware op 'n bepaalde manier uitvoer. Om dit
+   eenvoudig te stel: as u die teks intik wat in die regterkantse kolom
+   verskyn, dan kry u die effek wat in die linkerkantse kolom vertoon. U
+   kan hierdie almal uittoets in die Sandput: daar kan u eksperimenteer na
+   hartelus.
+
+   Inhoud
+
+        * 1 Allerlei
+        * 2 Afdelings, paragrawe, lyste en lyne
+        * 3 Nuwe afdeling
+             + 3.1 Onderafdeling
+        * 4 Interne/eksterne skakels; beelde
+        * 5 Karakters
+        * 6 Beelde
+        * 7 Tabelle
+        * 8 Sien gerus
+
+Allerlei
+
+   Handtekening
+
+   (slegs by besprekings)
+~~~~
+
+   Kursiewe teks
+''Kursiewe teks''
+
+   Vet teks
+'''Vet teks'''
+
+   Vet teks wat ook kursief is
+'''''Vet teks wat ook kursief is'''''
+
+Afdelings, paragrawe, lyste en lyne
+
+   Begin nuwe afdeling met opskrifmerkers:
+
+Nuwe afdeling
+
+Onderafdeling
+
+==Nuwe afdeling==
+===Onderafdeling===
+
+   'n Enkele nuwe lyn het geen effek nie, maar 'n leë lyn begin 'n nuwe
+   paragraaf.
+'n Enkele nuwe lyn
+het geen effek nie,
+maar 'n leë lyn
+begin 'n nuwe paragraaf.
+
+   Lyne kan onderbreek word
+
+   sonder om 'n nuwe paragraaf te begin.
+Lyne kan onderbreek word<br>
+sonder om 'n nuwe paragraaf te begin.
+
+     * Lyste is 'n goeie manier:
+          + om inligting te organiseer
+          + en netjies te laat lyk
+
+* Lyste is 'n goeie manier:
+** om inligting te organiseer
+** en netjies te laat lyk
+
+    1. Genommerde lyste is maklik om te volg,
+    2. georganiseerd
+         1. en verstaanbaar.
+
+# Genommerde lyste is maklik om te volg
+# georganiseerd
+## en verstaanbaar.
+
+   Definisielyste
+          lyste met definisie
+
+   term om te definieer
+          term se definisie
+
+; Definisielyste : lyste met definisie
+; term om te definieer : term se definisie
+
+   Om die twee soorte lyste te meng, moet HTML gebruik word:
+     * 'n Genommerde lys:
+         1. Eerste item
+         2. Tweede item
+     * Nog 'n lys
+         1. Derde item
+         2. Vierde item
+
+<ul><li>'n Genommerde lys:
+<ol><li>Eerste item
+<li>Tweede item
+</ol><li>Nog 'n lys
+<ol><li>Derde item
+<li>Vierde item
+</ol></ul>
+
+          Lyne kan
+
+                meermale
+
+                      ingekeep word
+
+:Lyne kan
+::meermale
+:::ingekeep word
+
+                          Teks kan gesentreer word.
+
+<center>Teks kan gesentreer word.</center>
+
+   'n Horisontale skeidingslyn: bo-aan
+     __________________________________________________________________
+
+   en onderaan.
+'n Horisontale skeidingslyn: bo-aan
+----
+en onderaan.
+
+Interne/eksterne skakels; beelde
+
+   Skakel na Wikipedia:Instruksies.
+
+   (Die eerste letter van die teikenblad verkry outomaties 'n hoofletter..
+   Spasies word in 'n onderstreepkarakter ("_") verander.
+   U kan 'n blad begin deur 'n skakel daarheen te skep en dan op die
+   skakel te kliek.
+   Sien gerus die titelriglyne.)
+Skakel na [[Wikipedia:Instruksies]].
+
+   Dieselfde teikenblad, maar 'n ander
+
+   naam: Hoe om te redigeer.
+   Teikenbladsye kan slegs letters en spasies bevat.
+Dieselfde teikenblad, maar 'n ander
+naam: [[Wikipedia:Instruksies|Hoe om te redigeer]].
+
+   Geskiedenis van Kaapstad is 'n bladsy wat
+
+   nog nie bestaan nie.
+   U kan dit begin deur op die rooi skakel te kliek.
+   Na u 'n bladsy geskep het kan u na die titel "soek"
+   en seker maak dat ander bladsye korrek daarheen skakel.
+[[Geskiedenis van Kaapstad]] is 'n bladsy wat
+nog nie bestaan nie.
+
+   Skakel na 'n ander blad se subbladsy: Wikipedia:Geselshoekie/Argief
+Skakel: [[Wikipedia:Geselshoekie/Argief]]
+
+   Stuur een artikel na 'n ander aan
+
+   deur die volgende teks in die eerste lyn te plaas
+#REDIRECT [[Suid-Afrika]]
+
+   Eksterne skakel:
+
+   Wikimedia Commons (Verwyder enige lynbreuke in eksterne skakels.)
+Eksterne skakel:
+[http://commons.wikimedia.org/wiki/Main_Page Wikimedia
+Commons]
+
+   Of gee slegs die URL:
+
+   http://commons.wikimedia.org/wiki/Main_Page.
+   ('n Goeie idee vir as 'n bladsy uitgedruk word.)
+Of gee slegs die URL:
+http://commons.wikimedia.org/wiki/Main_Page.
+
+Karakters
+
+   Benadruk, met mening,
+
+   as u sterk oor iets voel.
+   Ook te gebruik in formules: F = m a.
+''Benadruk'', '''met mening''',
+'''''as u sterk oor iets voel'''''.
+Ook te gebruik in formules:
+'''F''' = ''m'' '''a'''.
+
+   Kleurvolle lettertipes
+<font color=red>Kleurvolle lettertipes</font>
+
+   'n Tikmasjien lettertipe vir tegniese terbs.
+<tt>tegniese terbs</tt>
+
+   U kan teks [DEL: doodtrek :DEL]
+
+   en teks onderstreep.
+U kan teks <strike>doodtrek</strike>
+en <u>teks onderstreep</u>
+
+   Die umlaut en aksente:
+
+   À Á Â Ã Ä Å Æ
+   Ç È É Ê Ë Ì Í
+   Î Ï Ñ Ò Ó Ô Õ
+   Ö Ø Ù Ú Û Ü ß
+   à á â ã ä å æ
+   ç è é ê ë ì í
+   î ï ñ ò ó ô õ
+   ö ø ù ú û ü ÿ
+&Agrave; &Aacute; &Acirc; &Atilde; &Auml; &Aring; &AElig;
+&Ccedil; &Egrave; &Eacute; &Ecirc; &Euml; &Igrave; &Iacute;
+&Icirc; &Iuml; &Ntilde; &Ograve; &Oacute; &Ocirc; &Otilde;
+&Ouml; &Oslash; &Ugrave; &Uacute; &Ucirc; &Uuml; &szlig;
+&agrave; &aacute; &acirc; &atilde; &auml; &aring; &aelig;
+&ccedil; &egrave; &eacute; &ecirc; &euml; &igrave; &iacute;
+&icirc; &iuml; &ntilde; &ograve; &oacute; &ocirc; &otilde;
+&ouml; &oslash; &ugrave; &uacute; &ucirc; &uuml; &yuml;
+
+   Ekstra skryftekens: ¿ ¡ « » § ¶
+
+   † ‡ •
+&iquest; &iexcl; &laquo; &raquo; &sect; &para;
+&dagger; &Dagger; &bull;
+
+   Ander karakters: ™ © ® ¢ € ¥ £ ¤
+&trade; &copy; &reg; &cent; &euro; &yen; &pound; &curren;
+
+   Subscript: x[2] Superscript: x^2
+Subscript: x<sub>2</sub> Superscript: x<sup>2</sup>
+
+   Griekse karakters: α β γ δ
+
+   ε ζ η
+   θ ι κ λ μ ν ξ
+   π ρ σ ς τ υ φ
+   χ ψ ω
+   Γ Δ Θ Λ Ξ Π Σ
+   Φ Ψ Ω
+&alpha; &beta; &gamma; &delta; &epsilon; &zeta; &eta;
+&theta; &iota; &kappa; &lambda; &mu; &nu; &xi;
+&pi; &rho;  &sigma; &sigmaf; &tau; &upsilon; &phi;
+&chi; &psi; &omega;
+&Gamma; &Delta; &Theta; &Lambda; &Xi; &Pi; &Sigma;
+&Phi; &Psi; &Omega;
+
+   Wiskundige karakters
+
+   ∫ ∑ ∏ √ ± ∞
+   ≈ ∝ ≡ ≠ ≤ ≥ →
+   × · ÷ ∂ ′ ″ ∇
+   ‰ ° ∴ ℵ
+   ø ∈ ∋ ∩ ∪ ⊂ ⊃ ⊆ ⊇
+   ¬ ∧ ∨ ∃ ∀ ⇒ ⇔
+&int; &sum; &prod; &radic; &plusmn; &infin;
+&asymp; &prop; &equiv; &ne; &le; &ge; &rarr;
+&times; &middot; &divide; &part; &prime; &Prime; &nabla;
+&permil; &deg; &there4; &alefsym;
+&oslash; &isin; &ni; &cap; &cup; &sub; &sup; &sube; &supe;
+&not; &and; &or; &exist; &forall; &rArr; &hArr;
+
+Beelde
+
+   Sien Wikipedia:Beelde en Wikipedia:Uitgebreide beeldsintaks
+   Beeld:Wikipedia-logo-af.png
+[[Beeld:Wikipedia-logo-af.png]]
+
+Tabelle
+
+   Sien Hulp:Gebruik van tabelle
+
+Sien gerus
+
+     * Wikipedia:Hulp
+

@@ -1,0 +1,100 @@
+Europese wielewaal
+
+
+                  Europese wielewaal
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Passeriformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Oriolidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Oriolus
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     O. oriolus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                   Oriolus oriolus
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Europese wielewaal is 'n redelik algemene tot skaars somerbesoeker.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Geluid
+        * 5 Ander name
+             + 5.1 Bronne
+
+[wysig] Identifikasie
+
+   Die mannetjie se swart vlerke onderskei hom van die Afrikaanse
+   Wielewaal se mannetjie; die wyfies en jonges lyk eenders. Daar is altyd
+   meer wyfies en jonges as mannetjies.
+
+   24 cm in lengte.
+
+[wysig] Habitat
+
+   Hou een-een in breëblaar-boomveld, gemengde bosveld, oewerbos en
+   verskeie ander dig beboste habitats, insluitend uitheemse bome.
+
+[wysig] Verspreiding
+
+   Kom yl versprei oor groot dele van die binneland voor.
+
+[wysig] Geluid
+
+   Uiter 'n welluidende "wieela-wioee", wat selde gehoor word, asook die
+   skor alarmroep van al die wielewale.
+
+[wysig] Ander name
+
+   Engelse naam: European Golden Oriole Wetenskaplike naam: Oriolus
+   oriolus
+
+[wysig] Bronne
+
+     * Newman se Voëls van Suider-Afrika, ISBN 1868729826
+
+   Kategorie: Wielewale
+

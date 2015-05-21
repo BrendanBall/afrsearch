@@ -1,0 +1,107 @@
+Draaijakkals
+
+
+                     Draaijakkals
+   Bedreigingstatus: Veilig
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Mammalia
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Carnivora
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Canidae
+     Subfamilie:   Caninae
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Otocyon
+                   Müller, 1835
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     O. megalotis
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Otocyon megalotis
+   (Desmarest, 1822)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die draaijakkals (Otocyon megalotis), ook bekend as die bakoorjakkals
+   (vanweë sy groot ore), is 'n klein, skadelose dier wat in Oos- en
+   Suid-Afrika voorkom. Dit is die enigste spesie in die genus Otocyon.
+   Die naam "draaijakkels" dui op die dier se gewoonte om op sy spoor
+   terug te draai. As gevolg van die draaijakkels se gebit, word dit soms
+   ook as 'n selfstandige subfamilie beskou (Otocyoninae).
+
+   Draaijakkalse het 'n grysbruin pels en groot, breë ore wat binne-in wit
+   is. 'n Gemiddelde volwasse draaijakkals het 'n massa van 5 kg, 'n
+   lengte van ± 80 cm en 'n hoogte van ± 35 cm. Sy ore is ongeveer 13 cm
+   lank en goed ontwikkel is om by die woestynklimaat aan te pas. Die
+   oppervlak van die ore is goed beaar en bevorder die verwerking van
+   oortollige hitte.
+   Twee draaijakkalse in die veld.
+   Twee draaijakkalse in die veld.
+
+   Draaijakkalse lewe van insekte en ander goggas, muise en ander
+   knaagdiere en wilde vrugte. Hulle sal ook soms klein voëltjies vang of
+   voëleiers eet. Sy gebit lyk ook meer op dié van 'n inseketer as dié van
+   'n roofdier. Draaijakkelse het tussen 40 en 46 relatief klein tande.
+
+   Hulle kom in droë streke voor en is meestal snags aktief. Draaijakkalse
+   woon alleen, in pare (met hulle kleintjies) of selfs in klein groepe.
+   Die wyfie is vir 3 maande dragtig en skenk telkens aan 3 tot 5
+   kleintjies geboorte. Beide ouers help om die kleintjies groot te maak.
+
+[wysig] Subspesies
+
+     * Otocyon megalotis megalotis - Suid-Zambië, Botswana, Namibië en
+       Suid-Afrika
+     * Otocyon megalotis virgatus - Tanzanië, Kenia
+     * Otocyon megalotis canescens - Ethiopië, Somalië
+
+[wysig] Bronnelys
+
+     * Soogdiere van die Krugerwildtuin en ander Nasionale Parke (1979).
+       Saamgestel deur Die Nasionale Parkeraad. 'n Publikasie van die Raad
+       van Kuratore vir Nasionale Parke van die Republiek van Suid-Afrika.
+       ISBN 0 86953 027 5.
+     * Clark, H.O., Jr. 2005. Otocyon megalotis. Mammalian Species.
+       766:1-5.
+     * Nel & Maas (2004): Otocyon megalotis by die IUCN se Red List vir
+       bedreigde spesies.
+     * Hondagtiges in Wêreldspektrum, volume 11. 1983 Ensiklopedie
+       Afrikana: (EDMS) BPK.
+     * Vosse in Wêreldspektrum, volume 29. 1983 Ensiklopedie Afrikana:
+       (EDMS) BPK.
+
+   Kategorie: Hondagtiges
+

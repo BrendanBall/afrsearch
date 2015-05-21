@@ -1,0 +1,36 @@
+Abstraksie (rekenaarwetenskap)
+
+
+   Abstraksie in rekenaarwetenskap is die proses waarop die oortollige
+   kenmerke en gedagtes oor 'n spesifieke onderwerp gestroop word sodat
+   slegs die noodsaaklike eienskappe wat direk van toepassing is op die
+   probleem onder oorweging op daardie tydstip oorbly.
+
+   Om die begrip 'n bietjie meer toe te lig met 'n alledaagse voorbeeld
+   kan 'n mens dink aan 'n geval waar een persoon vir 'n ander vra om vir
+   hom 'n poskaart te stuur as hy by sy bestemming aankom. Dit is nie
+   nodig vir die twee persone om aan 'n spesifieke soort poskaart te dink
+   nie. Altwee partye verstaan goed wat 'n poskaart is in breë terme as 'n
+   versameling voorwerpe wat gewoonlik 'n prentjie/foto aan die een kant
+   het en 'n plek vir 'n adres en 'n nota op die keersy. Die besonderhede
+   is nie belangrik nie. 'n Abstraksie kan dus gesien word as 'n begrip of
+   idee wat nie met 'n spesifieke geval verband hou nie.
+
+   Abstraksie maak dit moontlik om komplekse probleme makliker op te los.
+   Gewoonlik word daar van verskeie lae of vlakke van abstraksie gebruik
+   gemaak. Eerstens word die probleem eers in breë trekke beskou en
+   sodoende kan 'n duideliker beeld gevorm word van hoe die probleem
+   aangepak behoort te word. Indien 'n mens dadelik deur die fynere
+   besonderhede van implementering oorweldig sou word, sou dit veel
+   moeiliker wees om die probleem op te los.
+
+[wysig] Sien ook
+
+     * Abstraksielaag
+
+[wysig] Verwysings
+
+   Computer Science: From Abstraction to Invention, Jennifer Burg and Stan
+   Thomas, Wake Forest University.
+   Kategorie: Sagteware
+

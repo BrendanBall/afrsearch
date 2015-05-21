@@ -1,0 +1,27 @@
+Programmeertaal
+
+
+   'n Programmeertaal is 'n sistematiese metode waarmee mense berekenings
+   kan beskryf vir mense of rekenaars. Programmeertale bestaan omdat ander
+   vorme van uitdrukking, soos natuurlike tale, nie baie geskik is om
+   berekening mee te beskryf nie. Berekeninge wat in programmeertale
+   uitgedruk word, word programme genoem en die opstel van 'n program word
+   programmering genoem.
+
+   Om 'n program te kan uitvoer op 'n rekenaar, kan dit vertaal word na 'n
+   uitvoerbare program, of dit kan geïnterpreteer word. Programmeertale
+   word ook soms beskryf volgens die mate waartoe dit hoëvlak en/of
+   laevlak opdragte en konstrukte behartig.
+
+   Die sintaks en grammatika van 'n programmeertaal word gewoonlik streng
+   uiteengesit, sodat dit nie dubbelsinnig is vir 'n vertaler of
+   interpreteerder nie.
+
+[wysig] Sien ook
+
+     * Lys van programmeertale
+     * Die artikel hier (Engels) is onder oorweging om die amptelike
+       engelse artikel te vervang.
+
+   Kategorie: Programmeertale
+

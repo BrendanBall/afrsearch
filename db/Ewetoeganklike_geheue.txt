@@ -1,0 +1,42 @@
+Ewetoeganklike geheue
+
+
+   'n Voorbeeld van vlugtige ewetoeganklike geheue: DRAM-modules wat
+   hoofsaaklik as hoofgeheue in persoonlike rekenaars, werkstasies en
+   rekenaarbedieners gebruik word.
+   'n Voorbeeld van vlugtige ewetoeganklike geheue: DRAM-modules wat
+   hoofsaaklik as hoofgeheue in persoonlike rekenaars, werkstasies en
+   rekenaarbedieners gebruik word.
+
+   Ewetoeganklike geheue (Algemeen bekend as RAM) is 'n soort
+   rekenaarstoortoestel. Tans neem dit die vorm aan van 'n geïntegreerde
+   stroombaan wat die stoor van data moontlik maak sodat dit in enige
+   volgorde en in 'n eweredige tydsinterval gelees kan word ongeag van die
+   fisiese ligging van die data op die medium. Dit is in teenstelling met
+   ander stoormeganismes soos magnetiese bande, magnetiese skywe en
+   optiese skywe wat op die fisiese beweging van die medium of die
+   skryfkop staatmaak. In hierdie toestelle neem die beweging langer as
+   die data-oordrag self en hang die herwinningstyd af van waar die data
+   fisies op die medium geleë is.
+
+   Die begrip word hoofsaaklik verbind met vlugtige soorte geheue (soos
+   DRAM modules) waar die inligting verlore gaan as die krag afgeskakel
+   word. Baie ander soorte geheue kan egter ook as ewetoeganklike geheue
+   beskou word, insluitende die meeste ROM en 'n soorte flitsgeheue wat
+   bekend staan as NOR-Flash.
+
+[wysig] Geskiedenis
+
+   Die eerste soort ewetoeganklike geheue was die magnetiese kerngeheue
+   wat in 1951 ontwikkel is en in alle rekenaars gebruik is tot en met die
+   ontwikkeling die statiese ewetoeganklike geheue op geïntegreerde
+   stroombane in die laat 1960's en vroeë 1970's. Voor die ontwikkeling an
+   die magnetiese kerngeheue het rekenaars relês of vakuumbuise gebruik om
+   geheuefunksies te verrig.
+
+[wysig] Eksterne skakels
+
+     * How RAM Works – Artikel deur Jeff Tyson en Dave Coustan
+
+   Kategorie: Rekenaar
+

@@ -1,0 +1,120 @@
+Grootwitreier
+
+
+                    Grootwitreier
+   Status: Nie-bedreigd
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Ciconiiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Ardeidae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Ardea
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     A. alba
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                      Ardea alba
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+                      Sinonieme
+   Casmerodius albus; Egretta alba
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die Grootwitreier (Ardea alba) is, soos sy naam aandui, 'n groot wit
+   voël wat aan die reierfamilie behoort. Die grootwitreier is ook bekend
+   as Egretta alba (Linnaeus, 1758) of Ardea alba.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Verspreiding
+        * 4 Ander name
+        * 5 Galery
+        * 6 Sien ook
+        * 7 Bronnelys
+
+[wysig] Identifikasie
+
+   Die grootwitreier is 'n redelike groot voël en kan so lank as 101cm
+   lank word en weeg gewoonlik tussen 1 - 1,5kg. Al die voël se vere is
+   wit.
+
+[wysig] Habitat
+
+   Grootwitreiers nes in bome en broei in kolonies naby groot mere met
+   rietbeddings of ander moerasagtige gebiede. Hulle neste is groot en
+   word met stokke gebou en kan tot 100 cm in lengte wees.
+
+[wysig] Verspreiding
+
+   Die voël word in die meeste tropiese en warm-klimaatgebiede aangetref.
+   Dié wêreldwye verspreiding beteken dat die Grootwitreier die wydste
+   verspreide van al die reierspesies is. Op die Noord-Amerikaanse
+   kontinent word die voël so hoog as Suid-Kanada aangetref, en in die
+   suide en middeldele van Europa. Verder kom die Grootwitreier ook in
+   Afrika voor en Asië voor.
+
+   Grootwitreiers is gedeeltelike trekvoëls: voëls in die Noordelike
+   halfrond migreer Suid in die winter.
+
+[wysig] Ander name
+
+     * Wetenskaplike naam: Ardea alba, Egretta Alba en Casmerodius albus
+     * Engelse naam: Great (white) Egret
+
+[wysig] Galery
+
+   Kaippally's Egretta Alba.JPG
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klasifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+[wysig] Bronnelys
+
+     * Newman se Voëls van Suider-Afrika. ISBN 1868729826
+     * Handbook of the Birds of Europe, the Middle East, and North Africa:
+       The Birds of the Western Palearctic
+     * Die Integrated Taxonomic Information System se inskrywing oor die
+       grootwitreier.
+     * Peterson, Roger T. Peterson Field Guides: Eastern Birds. 4th ed.
+       New York: Houghton Mifflin. 102.
+
+   Kategorie: Reiers
+

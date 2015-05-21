@@ -1,0 +1,130 @@
+Baardaasvoël
+
+
+            Lammervanger of baardaasvoël
+   {{{status}}}
+   Tydperk: {{{fossil_range}}}
+             Wetenskaplike klassifikasie
+
+       Domein:     {{{domain}}}
+   Superkoninkryk: {{{superregnum}}}
+     Koninkryk:    Animalia
+    Subkoninkryk:  {{{subregnum}}}
+    Superdivisie:  {{{superdivisio}}}
+    Superphylum:   {{{superphylum}}}
+      Divisie:     {{{divisio}}}
+       Phylum:     Chordata
+     Subdivisie:   {{{subdivisio}}}
+     Subphylum:    {{{subphylum}}}
+    Infraphylum:   {{{infraphylum}}}
+    Mikrophylum:   {{{microphylum}}}
+     Nanophylum:   {{{nanophylum}}}
+     Superklas:    {{{superclassis}}}
+        Klas:      Aves
+      Subklas:     {{{subclassis}}}
+     Infraklas:    {{{infraclassis}}}
+     Superorde:    {{{superordo}}}
+        Orde:      Falconiformes
+      Suborde:     {{{subordo}}}
+     Infraorder:   {{{infraordo}}}
+    Superfamilie:  {{{superfamilia}}}
+      Familie:     Accipitridae
+     Subfamilie:   {{{subfamilia}}}
+     Superstam:    {{{supertribus}}}
+        Stam:      {{{tribus}}}
+      Substam:     {{{subtribus}}}
+       Genus:      Gypaetus
+                   Storr, 1784
+      Subgenus:    {{{subgenus}}}
+       Seksie:     {{{sectio}}}
+       Reeks:      {{{series}}}
+       Spesie:     G. barbatus
+     Subspesie:    {{{subspecies}}}
+       [[{{{diversity_link}}}|Verskeidenheid]]
+   {{{diversity}}}
+                    Binomiale naam
+                  Gypaetus barbatus
+   (Linnaeus, 1758)
+                   Trinomiale naam
+                   {{{trinomial}}}
+                     Tipe Spesies
+                  {{{type_species}}}
+               {{{subdivision_ranks}}}
+   {{{subdivision}}}
+   [[Image:{{{range_map}}}|{{{range_map_width}}}|]]
+                      Sinonieme
+   {{{synonyms}}}
+
+   Die lammervanger of baardaasvoël, G. barbatus is 'n ou-wêreldse
+   aasvoël, die enigste lid van die genus Gypaetus. Dit is bedreigde
+   spesie in Suider-Afrika.
+
+   Soos ander aasvoëls, is die spesie 'n aasvreter wat die karkasse van
+   dooie diere vreet. Dit laat val bene uit die lug om die murg in die
+   hande te kry as die been breek. Soortgelyk word lewende skilpaaie ook
+   uit die lug laat val om hulle te laat oopbars.
+   'n Lammevanger
+   'n Lammevanger
+
+   Volgens legende is die Griekse toneelskrywer Aischylos oorlede na 'n
+   skilpad deur 'n lammervanger op sy kop laat val het, wat gedink het dis
+   'n klip.
+
+   Inhoud
+
+        * 1 Identifikasie
+        * 2 Habitat
+        * 3 Voortplanting
+        * 4 Verspreiding
+        * 5 Geluid
+        * 6 Ander name
+        * 7 Galery
+        * 8 Sien ook
+
+[wysig] Identifikasie
+
+   Die algemene baardaasvoël is ongeveer 110cm lank en het lang, smal,
+   gepunte vlerke met 'n lang v-stert, asook donker vere op die bokant en
+   bruin-kleurige onderkant. Die baardaasvoël het 'n swart masker op sy
+   gesig wat aan die onderkant 'n baard vorm. Anders as meeste aasvoëls
+   het 'n baardaasvoël nie 'n bles kop nie.
+
+[wysig] Habitat
+
+   Baardaasvoëls verkies hoë berge of kranse of ander bergagtige gebiede
+   met 'n hoogte van 500m tot 4000m (meestal 2000m) bo seespiël.
+
+[wysig] Voortplanting
+
+   Die voëls broei op krans-lyste; hulle paar van mid-Desember tot
+   mid-Februarie en lê een tot twee eiers. Die eiers neem tussen 53 en 58
+   dae om uit te broei. Die nuutgebore voëltjies spandeer 106 tot 130 dae
+   in die nes, waarna hulle op hulle eie wegvlieg.
+
+[wysig] Verspreiding
+
+   Baardaasvoëls kom voor in Suidelike Europa, Afrika, Indië en Tibet. In
+   Suider-Afrika is hulle beperk tot die Drakensberge.
+
+[wysig] Geluid
+
+   'n Uiters stil voël, maar is wel in staat tot 'n baie skerp
+   fluit-geluid, wat veral tydens die paarseisoen gehoor word.
+
+[wysig] Ander name
+
+     * Ander Afrikaanse name: Lammergeier
+     * Nederlands: Lammergier
+     * Engels: Lammergeier / Bearded Vulture
+     * Wetenskaplike naam: Gypaetus barbatus
+
+[wysig] Galery
+
+[wysig] Sien ook
+
+     * Alfabetiese lys van Suid-Afrikaanse voëls
+     * Klassifikasie-indeks van Suid-Afrikaanse voëls
+     * Wetenskaplike naam-indeks van Suid-Afrikaanse voëls
+
+   Kategorie: Voëls
+

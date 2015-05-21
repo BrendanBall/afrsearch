@@ -1,0 +1,80 @@
+Frekwensie
+
+
+   Sinusgolwe van verskeie frekwensies; die onderste golwe het hoër
+   frekwensies dan die aan die bo-kant.
+   Sinusgolwe van verskeie frekwensies; die onderste golwe het hoër
+   frekwensies dan die aan die bo-kant.
+
+   Frekwensie word gemeet as die aantal voortdurende herhalings van 'n
+   handeling of gebeurtenis per eenheid tyd. Dit word ook gedefinieer as
+   die mate van verandering in fase van 'n sinusvormige golfvorm.
+
+[wysig] Meting
+
+   Die frekwensie van 'n gebeurtenis word bepaal deur die aantal
+   voorkomste van die gebeurtenis te tel binne 'n bepaalde tydperk en dan
+   dit te deel deur die tydsduur. Dit kan ook bepaal word deur die
+   tydsduur van 'n bepaalde hoeveelheid gebeurtenisse te neem. Net soos
+   voorheen word die aantal gebeurtenisse gedeel deur die tydsduur om die
+   frekwensie te bereken.
+
+   Die SI-eenheid van frekwensie is hertz (Hz). Dit is vernoem na die
+   Duitse fisikus Heinrich Rudolf Hertz. 1 Hz beteken dat die gebeurtenis
+   een keer per sekonde herhaal, 2 Hz beteken dat die gebeurtenis twee
+   keer per sekonde herhaal. Ander eenhede wat gebruik word om frekwensie
+   te meet sluit revolusies per minuut (rpm) in. Hartklop en musiektempo
+   word in polsslae per minuut gemeet. Soms word hoekfrekwensie eerder
+   gebruik. Dit word in radiale per sekonde (rad/s) gemeet.
+
+   'n Alternatiewe metode om frekwensie te bereken is om die tydsduur
+   tussen twee opeenvolgende gebeurtenisse te meet (die periode) en dan
+   die frekwensie te bereken as die omgekeerde van die tyd:
+
+          f = \frac{1}{T}
+
+   waar
+
+          T die periode is en
+          f die frekwensie is.
+
+   Die is akkurater om 'n aantal periodes te neem en die gemiddeld te
+   bereken.
+
+[wysig] Frekwensie van golwe
+
+   Frekwensie het 'n omgekeerd eweredige verhouding met golflengte. Die
+   frekwensie van 'n golf is gelyk aan die spoed van die golf gedeel deur
+   die golflengte van die golf.
+
+          f = \frac{v}{\lambda}
+
+   waar
+
+          v die spoed van die golf is,
+          λ die golflengte van die golf is en
+          f die frekwensie van die golf is.
+
+   In die spesiale geval waar elektromagnetiese golwe in 'n vakuum beweeg
+   word die spoed van die golf v met die spoed van lig in 'n vakuum c
+   vervang. Dus word die frekwensie bereken as:
+
+          f = \frac{c}{\lambda}
+
+   waar
+
+          c die spoed van lig in 'n vakuum is,
+          λ die golflengte van die golf is en
+          f die frekwensie van die golf is.
+
+   Wanneer 'n golf van een medium na 'n ander beweeg bly die frekwensie
+   konstant, maar die golflengte en spoed van die golf verander.
+
+[wysig] Sien ook
+
+     * Hoekfrekwensie
+     * Frekwensieomskakeling
+     * Toon (musiek)
+
+   Kategorie: Elektronika
+

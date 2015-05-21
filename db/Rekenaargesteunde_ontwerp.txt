@@ -1,0 +1,86 @@
+Rekenaargesteunde ontwerp
+
+
+   Rekenaargesteunde ontwerp (RGO) is die gebruik van 'n wye
+   verskeidenheid rekenaargebaseerde hulpmiddelle om ingenieurs, argitekte
+   en ander professionele ontwerpers te steun in hul ontwerpaktiwiteite.
+   Dit is die hoof meetkundige hulpmiddel tydens bestuur van 'n produk se
+   lewenssiklus en behels programmatuur en soms spesiale hardeware.
+   Bestaande pakette wissel van 2 dimensionele vektorgebaseerde
+   tekenstelsels tot 3 dimensionele parametriese oppervlaktes en
+   ruimtemeetkundige modellering.
+
+[wysig] Inleiding
+
+   Rekenaargesteunde ontwerp word gebruik om produkte te ontwikkel wat kan
+   bestaan uit goedere wat deur verbruikers gebruik word of goedere wat
+   gebruik word in die vervaardiging van ander produkte. Rekenaargesteunde
+   ontwerp word ook gebruik in die ontwerp van gereedskap en masjinerie
+   wat gebruik word in die vervaardiging van ander komponente. RGO word
+   ook gebruik tydens die tegniese tekening en ontwerp van alle soorte
+   geboue, vanaf klein wooneenhede tot die grootste kommersiële en
+   nywerheidsgeboue (hospitale en fabrieke).
+
+   RGO word regdeur die ingenieurswese proses vanaf konsepontwerp, uitleg
+   en die gedetaïlleerde ingenieursanalise van komponente tot en met die
+   beskrywing van die vervaardigingsmetodes ingespan.
+
+[wysig] Gebruiksvelde
+
+     * Argitektuur, Nywerheidsontwerp, Ingenieurswese, Tuinbou en
+       Konstruksie
+     * Bou-ingenieurswese
+     * Meganiese rekenaargesteunde ontwerp (Engels MCAD)
+          + Voertuigontwerp
+          + Lugvaartkundige ontwerp
+          + Verbruikersgoedere
+          + Masjinerie
+          + Skeepsbou
+     * Elektroniese en Elektriese rekenaargesteunde ontwerp (Engels ECAD)
+     * Beplanning van vervaardigingsprosesse
+     * Digitale stroombaanontwerp
+     * Tekstiel- en kledingbedrywe
+
+[wysig] Argitektuur
+
+   Programmatuur kan resultate in 'n verskeidenheid formate lewer, maar
+   tipies word 'n grafies gebaseerde resultaat gelewer wat dan gebruik kan
+   word om sketse vir goedkeuring van 'n konsep te lewer en dan ook
+   uiteindelik die uiteindelike werkstekeninge. 'n Voorbeeld sou 'n
+   strukturele ontwerpspaket wees wat gebruik word om die integriteit van
+   'n staalraamgebou te ondersoek deur die nodige berekeninge te doen om
+   die grootte, sterkte en plasing van komponente te bepaal en die impak
+   van eksterne faktore soos windbelading te evalueer. Die uitset wat
+   gelewer word vanaf so 'n paket is dikwels 'n lys van
+   materiaalbenodighede en sketse wat deur 'n tegniese tekeningpaket
+   verfyn kan word vir die lewer van konstruksietekeninge.
+
+   Rekenaargesteunde tekeninge, verwys normaalweg na die tegniese
+   tekeningkomponent van die projek, waar 'n rekenaar die tradisionele
+   tekenbord vervang. Die inset tot hierdie deel van die ontwerp-proses
+   kan die vorm aanneem van gespesialiseerde berekeningspakette, reeds
+   bestaande tekeninge van komponente, grafiese beelde soos kaarte, fotos
+   en ander media of soms selfs handsketse deur die ontwerper self. Die
+   persoon wat dan die RGO-sagteware bestuur se taak is dan om die insette
+   saam te voeg om tekeninge en spesifikasies te lewer wat op hul beurt
+   weer gebruik kan word om 'n raming te maak van materiaalhoeveelhede
+   benodig en totale projekkoste en dan ook die uiteindelike
+   gedetaïlleerde tekeninge op te stel om die struktuur te bou.
+
+   Die spektrum van argitektoniese en ingenieursprojekte waar
+   rekenaargesteunde tekenwerk betrokke is, is wyd uiteenlopend en sluit
+   in argitektoniese-, meganiese-, elektriese-, strukturele-, hidroliese-,
+   binnenshuise ontwerp-, tuinbou- en siviele konstruksieprojekte in.
+   Rekenaargesteunde ontwerpprogrammatuur kan ook gebruik word om insette
+   te lewer tot die ander vorme van ontwerpkommunikasie soos 3D
+   visualisering, modelbou, animasie voorstellings om maar 'n paar te
+   noem.
+
+   Rekenaargesteunde tekeningprogrammatuur is ook 'n basiese hulpmiddel in
+   ander dissiplines wat verwant is aan argitektuur, byvoorbeeld in
+   Siviele ingenieurswese, by landskapsargitektuur, in padbou,
+   dreineringstelselsontwerp, in kartografie, die opstel van
+   landmetertekeninge vir die beskrywing van grondplanne vir wetlike
+   doeleindes ensomeer.
+   Kategorie: Rekenaar
+

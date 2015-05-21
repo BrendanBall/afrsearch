@@ -1,0 +1,118 @@
+Eksentrisiteit (wiskunde)
+
+
+   Alle tipes keëlsnitte, gerangskik volgens stygende eksentrisiteit. Let
+   daarop dat kromming afneem met eksentrisiteit, en dat nie een van die
+   krommes mekaar sny nie.
+   Alle tipes keëlsnitte, gerangskik volgens stygende eksentrisiteit. Let
+   daarop dat kromming afneem met eksentrisiteit, en dat nie een van die
+   krommes mekaar sny nie.
+
+   In wiskunde is die eksentrisiteit, aangedui met e of \varepsilon , 'n
+   parameter geassosieer met elke keëlsnit. Dit kan gesien word as 'n
+   meting van hoeveel die keëlsnit van die sirkelvorm afwyk.
+
+   In besdonder,
+     * Die eksentrisiteit van 'n sirkel is nul.
+     * Die eksentrisiteit van 'n ellips wat nie 'n sirkel is nie is groter
+       as nul maar kleiner as 1.
+     * Die eksentrisiteit van 'n parabool is 1.
+     * Die eksentrisiteit van 'n hiperbool is groter a 1 maar minder as
+       oneindig.
+
+   Verder is twee keëlsnitte soortgelyk as en slegs as hulle dieselfde
+   eksentrisiteit het.
+
+   Inhoud
+
+        * 1 Definisies
+        * 2 Alternatiewe Name
+        * 3 Notasie
+        * 4 Waardes
+        * 5 Ellipse
+        * 6 Kwadratiese oppervlaktes
+        * 7 Fisiese sterrekunde
+        * 8 Eksterne skakels
+
+[wysig] Definisies
+
+   Vir elke keëlsnit bestaan daar 'n vaste punt F, 'n lyn L en 'n
+   nie-negatiewe getal e sodat die keëlsnit bestaan uit alle punte waarvan
+   die afstand F gelyk is aan e maal hulle afstand na L. e word die
+   eksentrisiteit van die keëlsnit genoem.
+
+   Die lineêre eksentrisiteit van 'n keëlsnit, aangedui met c of e, is die
+   afstand tussen die middel daarvan en die brandpunt (of een van die twee
+   brandpunte) daarvan.
+
+[wysig] Alternatiewe Name
+
+   Die eksentrisiteit word soms die eerste eksentrisiteit genoem om dit te
+   onderskei van die tweede eksentrisiteit en derde eksentrisiteit wat vir
+   ellipse gedefinieer word. Die eksentrisiteit word ook soms die
+   numeriese eksentrisiteit genoem.
+
+   In die geval van ellipse en hiperbole word die lineêre eksentrisiteit
+   soms half-brandpuntskeiding genoem.
+
+[wysig] Notasie
+
+   Twee notasionele konvensie wat algemeen gebruik word:
+    1. e vir die eksentrisiteit en c vir die lineêre eksentrisiteit.
+    2. \varepsilon vir die eksentrisiteit en e vir die lineêre
+       eksentrisiteit.
+
+   eersgenoemde konvensie word in die res van hierdie artikel gebruik.
+
+[wysig] Waardes
+
+   keëlsnit vergelyking eksentrisiteit (e) lineêre eksentrisiteit (c)
+   sirkel x^2 + y^2 = r^2 0 0
+   ellips \frac{x^2}{a^2}+\frac{y^2}{b^2}=1 \frac{\sqrt{a^2-b^2}}{a}
+   \sqrt{a^2-b^2}
+   parabool y^2 = 4ax 1 a
+   hiperbool \frac{x^2}{a^2}-\frac{y^2}{b^2}=1 \frac{\sqrt{a^2+b^2}}{a}
+   \sqrt{a^2+b^2}
+
+[wysig] Ellipse
+
+   Vir enige ellips, laat a die lengte van die semi-hoofas en b die lengte
+   van die semi-kleinas daarvan is.
+
+   'n Aantal verwante addisionele word slegs vir ellipse gedefinieer:
+   naam simbool waarde terme van a en b waarde in term van o\!\varepsilon
+   eerste eksentrisiteit e \frac{\sqrt{a^2-b^2}}{a} \sin(o\!\varepsilon)
+   tweede eksentrisiteit e' \frac{\sqrt{a^2-b^2}}{b} \tan(o\!\varepsilon)
+   derde eksentrisiteit e'' \frac{\sqrt{a^2-b^2}}{\sqrt{a^2+b^2}}
+   \frac{\sin(o\!\varepsilon)}{\sqrt{2-\sin(o\!\varepsilon)^2}}
+   Hoekeksentrisiteit o\!\varepsilon \arccos\left(\frac{b}{a}\right)
+   o\!\varepsilon
+
+[wysig] Kwadratiese oppervlaktes
+
+   Die eksentrisiteit van 'n driedimensionele kwadratiese oppervlak is die
+   eksentrisiteit van 'n snit daardeur. Byvoorbeeld in 'n drieassige
+   ellipsoïed, is die meridionale eksentrisiteit die eksentrisiteit van
+   die ellips gevorm deur 'n snit wat beide die langste en die kortste
+   asse insluit (waarvan een die poolas sal wees), en die ekwatoriale
+   eksentrisiteit is die eksentrisiteit van die ellips wat gevorm word
+   deur 'n snit deur die middel, loodreg tot die poolas (i.e. in die
+   ekwatoriale vlak).
+
+[wysig] Fisiese sterrekunde
+
+   In fisiese sterrekunde, vir gebonde wentelbane in 'n sferiese
+   potensiaal, word bogenoemde definisie informeel veralgemeen. As die
+   aposentrum afstand na aan die perisentrum afstand is, word gesê dat die
+   wentelbaan lae eksentrisiteit het; as dit baie verskillend is, word
+   gesê dat die baan eksentries is of eksentrisiteit naby eenheid het.
+   Hierdie definisie kom ooreen met die wiskundige definisie van
+   eksentrisiteit vir ellipse, in Kepleriaanse, i.e., 1 / r potensiale.
+
+[wysig] Eksterne skakels
+
+     * MathWorld: Eccentricity
+
+   Sjabloon:Wentelbane
+   Kategorie: Keëlsnitte
+

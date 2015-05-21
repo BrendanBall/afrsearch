@@ -1,0 +1,61 @@
+Wikipedia:Neutrale Standpuntdispuut
+
+
+   Artikels wat na hierdie bladsy geskakel is, is die onderwerp van 'n
+   Neutrale Standpuntdispuut. Dit beteken dat, in die opinie van die
+   persoon wat hierdie skakel bygelas het, die spesifieke artikel nie aan
+   die Neutrale Standpuntstandaarde voldoen nie. Sien Wat skakel hierheen
+   vir 'n lys artikels wat in só 'n duspuut is. Om 'n bladsy by die lys te
+   voeg, plaas {{NS}} bo-aan, wat uitbrei na:
+
+          Stop! Die neutraliteit of onpartydigheid van hierdie artikel is
+          onder dispuut. Sien asseblief die besprekingsblad.
+
+   (verander: Template:NS)
+
+   Let asseblief: Die kennisgewing hier bo is bedoel om aan te dui dat 'n
+   bespreking van die dispuut aan die gang is, en dat die inhoud van die
+   artikel dus aan dit verander is. As jy die boonste waarskuwing by 'n
+   artikel plaas wat jy voel onpartydig of nie neutraal is nie, voeg
+   asseblief ten minste 'n nota op die bladsy se besprekingsblad waar jy
+   jou redes uiteensit.
+
+   'n Alternatiwe NS waarskuwing is {{Lang NS}}, wat uitbrei na:
+
+          Stop! Die neutraliteit of onpartydigheid van hierdie artikel is
+          onder dispuut. Help ons deur relevante gedeeltes en terme in die
+          besprekingsblad uit te lig.
+
+   (verander: Template:Lang NS)
+
+   Hierdie alternatiewe frasering gee die leser raad oor hoe om
+   konstruktief die bespreking oor die dispuut te betree, wat uiteindelik
+   sal lei tot die kennisgewing se verwydering.
+
+   'n Derde verwante waarskuwing is {{NS skoonmaak}}:
+
+          Stop! Hierdie artikel behoort skoongemaak te word, omdat die
+          bewoording nie voldoen aan 'n Neutrale Standpunt nie; die
+          neutraliteit van die artikel is wel nie noodwendig in dispuut
+          nie.
+
+   (edit: Template:NS skoonmaak)
+
+   Gebruik hierdie waarskuwing wanneer daar geen bespreking van 'n dispuut
+   op die besprekingsblad is nie, maar die artikel blyk nie te voldoen aan
+   die NS-riglyne nie. Jy behoort te verduidelik wat verkeerd met die
+   bewoording is op die artikel se besprekingsblad.
+
+[wysig] Wat is NS?
+
+   Neutrale Standpunt. 'n NS (neutrale, onpartydige) artikel is 'n artikel
+   wat geskryf is sonder om 'n standpunt in te neem oor die kwessie. Dit
+   is veral belangrik vir die ensiklopedie se behandeling van
+   opspraakwekkende kwessies, waar daar gereeld baie verskillende menings
+   en kritiek bestaan oor die onderwerk. In 'n neutrale voorstelling word
+   die verskillende standpunte as sulks voorgestel, nie as feit nie.
+
+   Sien Wikipedia se Wikipedia:Neutrale standpuntbladsy vir 'n volledige
+   behandeling van die onderwerp.
+   Kategorieë: Neutrale Standpuntdispute • Wikipedia skoonmaak
+

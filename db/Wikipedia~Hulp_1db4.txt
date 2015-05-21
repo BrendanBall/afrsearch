@@ -1,0 +1,425 @@
+Wikipedia:Hulp
+
+
+   Wikipedia is 'n groot plek wat mens soms nogal deurmekaar kan maak.
+   "Waar kry ek...?" "Waar kan ek...?" "Hoe moet ek...?" Hierdie bladsy
+   poog om al daardie vrae te beantwoord. Maak gerus ook 'n draai by die
+   Gebruikersportaal of, indien u steeds nie 'n antwoord op u vraag kry
+   nie, vra dit gerus in die Geselshoekie.
+
+   Inhoud
+
+        * 1 Oor (die) Wikipedia
+             + 1.1 Wat is 'n Wiki?
+             + 1.2 Hoe lank bestaan Wikipedia al?
+             + 1.3 Wie is die eienaar van Wikipedia?
+             + 1.4 Wie is die eienaar van die tekste op Wikipedia?
+             + 1.5 Wie vorm die redaksie van Wikipedia?
+             + 1.6 As enige persoon 'n artikel mag wysig, hoe betroubaar is
+               Wikipedia dan?
+             + 1.7 Hoe kan ek Wikipedia help bekendstel?
+        * 2 Bydrae aan de Wikipedia
+             + 2.1 Bo-aan die bladsye staan daar 'n knoppie wat sê "wysig":
+               mag ek dan sommer wysigings aan 'n bladsy aanbring?
+             + 2.2 Hoekom is sommige woorde rooi en ander blou?
+             + 2.3 Hoe begin ek 'n nuwe bladsy?
+             + 2.4 Hoe maak ek opskrifte, nuwe afdelings, ens.?
+             + 2.5 Is daar riglyne beskikbaar?
+             + 2.6 Hoe weet ek of ek bronmateriaal na Wikipedia mag kopieer?
+               Daar staan so 'n streng waarskuwing aan die onderkant van die
+               wysigingsbladsy: "Deur enigiets hier te plaas, beloof u dat u
+               dit self geskryf het, of vertaal het vanaf 'n teks onder die
+               GFDL, of dat dit gekopieer is vanuit "publieke domein"-bronne:
+               dit sluit nie meeste webbladsye in nie". Geld dit ook in my
+               geval?
+             + 2.7 Hoekom is daar geen advertensies of pop-ups op Wikipedia
+               nie?
+        * 3 Hoe kan/moet ek...?
+             + 3.1 Hoe kan ek 'n bladsy verwyder (byvoorbeeld een wat ek self
+               geskryf het)?
+             + 3.2 Hoe verander ek die titel van 'n bestaande bladsy?
+             + 3.3 Hoe kan ek op die hoogte bly van al die veranderings op
+               sommige bladsye, sonder om elke keer die geskiedenis van elke
+               afsonderlike bladsy na te gaan?
+             + 3.4 Is dit moontlik om al my bydraes op een slag te besigtig?
+             + 3.5 Hoe werk die soekfunksie aan die linkerkant van die
+               bladsy?
+             + 3.6 Waar kan ek rapporteer as iets fout gaan met Wikipedia?
+             + 3.7 Hoe kan versoek dat 'n artikel oor 'n spesifieke onderwerp
+               geskep word?
+             + 3.8 Ek sien dikwels dat woorde in vreemde tale en veral ook
+               die interwiki-skakels aan die linkerkant nie korrek vertoon
+               nie. Hoe maak ek dit reg?
+             + 3.9 Hoe sit ek beelde in artikels?
+             + 3.10 Hoe verander/verwyder ek my gebruikersnaam of
+               gebruikersrekening?
+        * 4 Ander vrae
+             + 4.1 Waar kan ek vrae stel oor die inhoud of uitleg van 'n
+               bladsy?
+             + 4.2 Kan een of ander nar nie dus alles op Wikipedia sommer
+               maar net uitvee nie?
+             + 4.3 Hoe kan ek vandalisme op 'n leë bladsy herstel?
+             + 4.4 Wat gebeur as twee mense terselfdertyd aan dieselfde
+               bladsy werk en dan die bladsy wil stoor?
+             + 4.5 Wat is 'n klein wysiging?
+             + 4.6 Ek het spesiale toestemming gekry om 'n kopie van 'n foto
+               of 'n artikel op Wikipedia te sit. Kan ek dit dan maar doen?
+             + 4.7 Kan ek skakels na eksterne webbladsye byvoeg, sonder om
+               die inhoud na Wikipedia op te laai?
+             + 4.8 Wat is die nut van 'n geregistreerde gebruikersrekening?
+        * 5 Die antwoord op my vraag was nie op hierdie bladsy nie. Wat moet
+          ek nou doen?
+
+[wysig] Oor (die) Wikipedia
+
+[wysig] Wat is 'n Wiki?
+
+   A. Sien Wat is 'n wiki?
+
+[wysig] Hoe lank bestaan Wikipedia al?
+
+   A. Sedert 15 Januarie 2001. 'n Vroeë weergawe van die Wikipedia het vir
+   'n paar dae bestaan by Nupedia.com (vanaf 10 Januarie). Die Afrikaanse
+   Wikipedia is in Desember 2001 geskep.
+
+[wysig] Wie is die eienaar van Wikipedia?
+
+   A. Die Wikimedia Stigting is in beheer van al die Wikimedia-projekte
+   (waaronder ook Wikipedia) en hulle is ook die eienaars van die
+   bedieners waar op Wikipedia gehuisves word.
+
+[wysig] Wie is die eienaar van die tekste op Wikipedia?
+
+   A. Die tekste op Wikipedia, waaronder artikels, hulpbladsye, ens., word
+   vrygestel onder die GNU-lisensie vir vrye dokumentasie (GFDL). Dit
+   beteken dat die eienaar van enige teks die skrywer daarvan is, maar dat
+   so 'n skrywer op weinige outeursregte aanspraak het. Solank gebruikers
+   van Wikipedia hulle by hierdie lisensie hou (die belangrikste vereiste
+   is dat enige verspreiding of hergebruik steeds onder dieselfde lisensie
+   moet gebeur), kan enige persoon met die tekste doen wat hulle wil. Let
+   wel: wanneer teks eers onder die GNU-lisensie vrygestel is, mag dié
+   lisensie nie herroep word nie.
+
+[wysig] Wie vorm die redaksie van Wikipedia?
+
+   A. Medewerkers (gebruikers) wat baie bydra en die administrateurs word
+   dikwels deur die buitewêreld as Wikipedia se redaksie gesien, maar dit
+   is nie 'n feitelik akkurate waarneming nie. Wikipedia het nie 'n
+   redaksie in die tradisionele sin van die woord nie. In prinsiep kan
+   enige persoon 'n artikel skep, wysig of dophou (om te kontroleer vir
+   akkuraatheid van feite, neutrale standpunt en moontlike vandalisme).
+   Dus vorm enige persoon wat 'n bydrae lewer (maak nie saak hoe klein
+   nie) deel van die redaksie, alhoewel hierdie woord self nooit by
+   Wikipedia gebruik word nie.
+
+[wysig] As enige persoon 'n artikel mag wysig, hoe betroubaar is Wikipedia
+dan?
+
+   A. 'n Vrye Wikipedia wat deur enige iemand gewys kan word is die
+   hoofkonsep van Wikipedia. Sonder hierdie konsep sou Wikipedia nooit kon
+   bestaan nie. Dit is terselfdertyd Wikipedia se sterktste punt en sy
+   swakste punt. Enige persoon wat 'n fout sien kan dit verbeter. Daar is
+   'n ook 'n aktiewe gemeenskap wat aktief waak oor ander gebruikers se
+   wysigings. Verder is daar ook gebruikers wat hulle spesifiek toelê op
+   vandalismebestryding. (Herhalende vandaliste word geblokkeer.)
+   Uiteindelik kan daar egter geen enkele waarborg gegee word oor die
+   artikels in die ensiklopedie nie.
+
+   Dit is egter nie uniek aan Wikipedia nie: selfs in die hoog-geagde
+   Encyclopædia Britannica word daar gewaarsku dat daar geen waarborg van
+   die inhoud is nie [1].
+
+[wysig] Hoe kan ek Wikipedia help bekendstel?
+
+   A. 'n Goeie vraag. 'n Goeie idee is om 'n skakel hierheen op u eie
+   webblad te plaas (en moontlik aan u kennisse te vra om dieselfde te
+   doen). U kan berigte plaas in die koerante of op kennisgewingborde van
+   universiteite of skole en ander onderwysinstellings. U kan eienaars van
+   ander webwerwe vra om 'n skakel na Wikipedia op hulle bladsye te plaas.
+   Indien u kennisse het wat geleerdes is in 'n vakgebied, kan u hulle vra
+   om dié kennis met die wêreld te deel in die betrokke artikel.
+
+[wysig] Bydrae aan de Wikipedia
+
+[wysig] Bo-aan die bladsye staan daar 'n knoppie wat sê "wysig": mag ek dan
+sommer wysigings aan 'n bladsy aanbring?
+
+   A. Ja, sekerlik! Dit is die sentrale idee agter Wikipedia. Deurdat
+   enige persoon bladsye mag wysig en verander, kan enige iemand hulle
+   kennis met die res van die wêreld deel. Indien 'n persoon onsin skryf,
+   word dit meestal vinnig ontdek deur 'n ander bydraer en gou
+   gekorrigeer.
+
+[wysig] Hoekom is sommige woorde rooi en ander blou?
+
+   A. 'n Rooi of blou-gekleurde woord is 'n skakel ("link") na 'n ander
+   bladsy. Rooi woorde is skakels na artikels wat nog nie bestaan nie,
+   terwyl 'n blou woord na 'n reeds-bestaande artikel lei.
+
+[wysig] Hoe begin ek 'n nuwe bladsy?
+
+   A. Sien gerus Hoe om 'n nuwe bladsy te skep.
+
+[wysig] Hoe maak ek opskrifte, nuwe afdelings, ens.?
+
+   A. Sien gerus Wikipedia:Redigeer vir die basiese instruksies, of
+   Wikipedia:Instruksies vir meer uitgebreide hulp.
+
+[wysig] Is daar riglyne beskikbaar?
+
+   A. Sien gerus die Wikipedia:Gebruikersportaal vir skakels na al die
+   verskeie riglyne, onder andere ons beleid oor oorspronklike navorsing
+   en die titels van artikels. Indien u nie die riglyne kan vind waarna u
+   soek nie, vra gerus in die Geselshoekie: ervare gebruikers kan vinnig
+   'n skakel na die gewenste bladsy verskaf, of die riglyne kan geskep
+   word indien dit nie bestaan nie.
+
+[wysig] Hoe weet ek of ek bronmateriaal na Wikipedia mag kopieer? Daar staan
+so 'n streng waarskuwing aan die onderkant van die wysigingsbladsy: "Deur
+enigiets hier te plaas, beloof u dat u dit self geskryf het, of vertaal het
+vanaf 'n teks onder die GFDL, of dat dit gekopieer is vanuit "publieke
+domein"-bronne: dit sluit nie meeste webbladsye in nie". Geld dit ook in my
+geval?
+
+   A1. Die inhoud van Wikipedia val onder die GNU-Vrye dokumentlisensie.
+   Kortom: tensy die materiaal wat u wil kopieer (1) in die publieke
+   domein is (geheel en al vry van outeur- of kopiereg) of (2) net soos
+   Wikipedia onder 'n vrye lisensie val, kan u dit waarskynlik nie gebruik
+   nie. Indien u enige twyfel het moet u dit nie kopieer nie. Raadpleeg
+   eerder met ander gebruikers in die Geselshoekie, hulle kan moontlik
+   help om die lisensie van 'n werk uit te klaar.
+
+   A2. Outeursreg en kopiereg het betrekking op letterkundige tekste,
+   foto's en ander kreatiewe werke. In prinsiep moet mens die toestemming
+   van die kopiereghouer hê voor sulke werke na Wikipedia gekopieer mag
+   word. Daar is egter uitsonderings op die reël:
+     * Blote feite kan uiteraard sonder meer oorgeplaas word, of in u eie
+       woorde geskryf word.
+     * Dikwels is geskiedkundige materiaal deel van die publieke domein,
+       deurdat die kopiereg/outeursreg verstreke is. Sulke materiaal mag
+       vryelik gebruik word.
+     * Vir sommige materiaal geld daar geen kopiereg of outeursreg nie, of
+       is dit slegs beperk van toepassing. Dit geld, byvoorbeeld, vir
+       werke deur NASA of ander afdelings van die Amerikaanse regering.
+
+   Dit is 'n wanbegrip dat kopiereg (©) uitdruklik gemeld moet word vir 'n
+   werk om outeursregte te geniet. Enige kreatiewe werk skep vanself sy
+   eie kopiereg die oomblik wat die werk geskep word en dit word nie
+   uitdruklik gemeld te word nie.
+
+   Indien u teks regstreeks kopieer of 'n beeld na Wikipedia oplaai is dit
+   uiters belangrik om die bron van die teks of beeld by te voeg. So kan
+   ander dit nagaan om seker te maak dat dit wel vryelik beskikbaar is.
+   Indien regstreeks gekopieerde teks of 'n beeld nié van 'n bron voorsien
+   word nie, kan dit gemerk word as 'n kopieregskending en mettertyd
+   verwyder word.
+
+[wysig] Hoekom is daar geen advertensies of pop-ups op Wikipedia nie?
+
+   A. Daar is baie redes hiervoor; hier volg 'n paar:
+
+         1. Omdat reklame by 'n artikel die objektiwiteit en neutraliteit
+            daarvan ongeloofwaardig sal maak.
+         2. Omdat die opbrengste van reklame tans so laag is dat dit nie
+            die moetie werd is nie.
+         3. Ons poog om 'n ernstige ensiklopedie te skep en het geen
+            belang in kommersiële wins nie.
+         4. Indien dit 'n kommersiële werf was, sou dit baie moeiliker
+            gewees het om mense te kry wat hulle teks en beelde verniet
+            aan die ensiklopedie beskikbaar sou stel.
+         5. Dit is nie nodig nie - die Wikimedia-stigting ontvang donasies
+            van regoor die wêreld wat enige kostes dek.
+         6. Omdat daar 'n plek moet wees waar neutrale inligting
+            belangriker geag word as kommersiële wins.
+
+[wysig] Hoe kan/moet ek...?
+
+[wysig] Hoe kan ek 'n bladsy verwyder (byvoorbeeld een wat ek self geskryf
+het)?
+
+   A1. Leer uit ander se foute: wees versigtig met die skep van 'n nuwe
+   artikel. Maak eers seker dat 'n soortgelyke artikel nie miskien onder
+   'n ander naam beskikbaar is nie, voordat u 'n nuwe artikel begin.
+   Dikwels kan sommige onderwerpe eerder by reeds-bestaande artikels
+   gevoeg word, eerder as om 'n nuwe artikel te begin. (Byvoorbeeld,
+   inligting oor rugbyposisies hoort eerder tuis by die artikel, rugby, as
+   by 'n nuwe artikel oor rugbyposisies.)
+
+   A2. Bladsye wat egter geen nuttige inligting bevat nie, bv. vandalisme
+   of slegs advertensieskakels, mag vir spoedige verwydering kwalifiseer.
+
+   A3. Indien u op 'n artikel afkom wat wel sinvolle inligting bevat, maar
+   u glo dat die bladsy nie geskik is vir Wikipedia nie, kan u die vir
+   verwydering nomineer.
+
+[wysig] Hoe verander ek die titel van 'n bestaande bladsy?
+
+   A. Indien die huidige van 'n titel nie korrek is nie (bv. 'n spelfout),
+   kan die artikel na die regte naam geskuif word deur eenvoudige die
+   "skuif"-knop bo-aan die bladsy van die artikel te gebruik.
+
+[wysig] Hoe kan ek op die hoogte bly van al die veranderings op sommige
+bladsye, sonder om elke keer die geskiedenis van elke afsonderlike bladsy na
+te gaan?
+
+   A. U kan u gunsteling artikels by u dophoulys voeg, deur op "hou dop"
+   aan die bokant van elke bladsy te kliek.
+
+   Vir die nuutste wysigings dwarsdeur die ensiklopedie, kan u ook die
+   spesiale bladsy, Onlangse wysigings, raadpleeg.
+
+[wysig] Is dit moontlik om al my bydraes op een slag te besigtig?
+
+   A. Ja. Heel bo-aan elke bladsy is daar 'n opsie wat lees "my bydraes".
+   Deur die daarop te kliek kan u al die bydraes sien wat u by Wikipedia
+   gemaak het.
+
+[wysig] Hoe werk die soekfunksie aan die linkerkant van die bladsy?
+
+   A. Indien u 'n sleutelwoord intik (bv. "Maan" of "Parys") en u kliek op
+   "Gaan", sal u geneem word na die artikel met dié spesifieke titel.
+   Indien geen so artikel bestaan nie, verkry u 'n lys met artikels waarin
+   hierdie term voorkom. U het dan ook die opsie om die artikel te skep,
+   bo-aan die bladsy, waar staan, "Vir navraag".
+
+   Indien u op die "Soek"-knoppie kliek, sal u steeds 'n lys met artikels
+   kry waarin die sleutelwoord verskyn, selfs al bestaan daar 'n artikel
+   met dié titel.
+
+[wysig] Waar kan ek rapporteer as iets fout gaan met Wikipedia?
+
+   A. Rapporteer dit asseblief so vinnig as moontlik in die Geselshoekie.
+
+[wysig] Hoe kan versoek dat 'n artikel oor 'n spesifieke onderwerp geskep
+word?
+
+   A. Meld u versoek by Wikipedia:Versoeke artikels.
+
+[wysig] Ek sien dikwels dat woorde in vreemde tale en veral ook die
+interwiki-skakels aan die linkerkant nie korrek vertoon nie. Hoe maak ek dit
+reg?
+
+   A. U rekenaar is tien teen een nie in staat om die lettertipe ("font")
+   te vertoon nie. Dit sal dus eers korrek vertoon wanneer die spesifieke
+   lettertipe geïnstalleer is.
+
+[wysig] Hoe sit ek beelde in artikels?
+
+   A. Sien gerus die Wikimedia Commons vir 'n versameling beelde wat direk
+   by enige van die Wikimedia-stigting se projekte gebruik kan word. U kan
+   ook u eie beelde oplaai, maar dit word verkieslik na die Wikimedia
+   Commons gedoen sodat die beelde deur al die ander projekte ook gebruik
+   kan word. Indien u 'n beeld hier wil oplaai, maak seker dat u vertroud
+   is met ons beleid rakende beelde.
+
+   Sien gerus Wikipedia:Beelde en Wikipedia:Uitgebreide beeldsintaks vir
+   meer inligting oor hoe en waar u 'n beeld tot 'n artikel kan toevoeg.
+
+[wysig] Hoe verander/verwyder ek my gebruikersnaam of gebruikersrekening?
+
+   A1. 'n Burokraat kan die naam van 'n gebruiker se gebruikersrekening
+   verander, m.a.w. indien u eerder "Jan" wil wees, in plaas van
+   "Janneman". Sien hierdie outomatiese lys van burokrate by die
+   Afrikaanse Wikipedia. U kan enige een van hulle op hulle
+   besprekingsbladsye kontak en vra om u naam te verander.
+
+   A2. Het is op hierdie oomblik nie tegnies moontlik om 'n gebruikersnaam
+   of rekening te verwyder nie.
+
+[wysig] Ander vrae
+
+[wysig] Waar kan ek vrae stel oor die inhoud of uitleg van 'n bladsy?
+
+   A. Op die besprekingsbladsy! Bo-aan elke bladsy is daar 'n knoppie wat
+   heet "bespreking". Kliek gerus daarop om na die besprekingsbladsy van
+   'n artikel te gaan. (Indien die woord rooi vertoon, beteken dit slegs
+   dat niemand nog 'n bespreking oor die bladsy begin het nie.)
+
+   (Ook hierdie bladsy het 'n besprekingsbladsy.)
+
+[wysig] Kan een of ander nar nie dus alles op Wikipedia sommer maar net
+uitvee nie?
+
+   A. Nee, nie werklik nie. Slegs administrateurs besit oor die gereedskap
+   om 'n bladsy vir goed te verwyder (maar selfs dan kan hulle aksies
+   ongedaan gemaak word). Dit is wel so dat vandalisme (of onervare
+   gebruikers) 'n bladsy kan leeg maak, d.w.s. die inhoud daarvan
+   verwyder, maar dit kan maklik ongedaan gemaak word (sien onder vir meer
+   inligting). Persone wat bladsye herhaaldelik so' vandaliseer kan deur
+   administrateurs geblok word, sodat hulle nie meer bladsye by Wikipedia
+   kan wysig nie.
+
+[wysig] Hoe kan ek vandalisme op 'n leë bladsy herstel?
+
+   A. Dit is heel eenvoudig: kliek gewoonweg op die "geskiedenis" van die
+   artikel (bo-aan die bladsy, in die middel). Daar kom dan 'n geskiedenis
+   van al die weergawes van die betrokke artikel te voorskyn. Die bladsy
+   bevat 'n lys van al die weergawes van die bladsy: 'n nuwe weergawe word
+   geskep deur wysigings aan die bladsy aan te bring en dan op "Stoor
+   bladsy" te kliek. Soek na die onlangsste korrekte weergawe en kliek dan
+   op "wysig" en dan op "Stoor bladsy". U sal 'n boodskap kry wat u
+   waarsku dat u besig is om 'n ouer weergawe van die bladsy te wysig; u
+   kan dit gewoonweg ignoreer. Onthou om in die wysigingsopsomming te meld
+   dat u die artikel "terugrol" en hoekom u dit doen!
+
+[wysig] Wat gebeur as twee mense terselfdertyd aan dieselfde bladsy werk en
+dan die bladsy wil stoor?
+
+   A. Die persoon wat sy bladsy eerste stoor sal niks merk nie. Die tweede
+   persoon sal egter 'n boodskap kry dat daar 'n "wysigingskonflik" is -
+   nie 'n aangename gebeurtenis nie. U wysigings sal dan in 'n tweede
+   wysigingsvenster onder-aan die bladsy verskyn: u moet dan u wysigings
+   kopieer na die eerste, boonste wysigingsvenster, voordat u op "Stoor
+   bladsy" kliek.
+
+[wysig] Wat is 'n klein wysiging?
+
+   A. Als u naas u wysigingsopsomming die vakkie "Klein wysiging" merk,
+   dan sal beteken dit dat die wysiging wat u aangebring het nie die
+   inhoud van die bladsy verander het nie. Dit geld voor kleinighede soos
+   die korrigering van spel- en tikfoute, die korrigering van 'n skakel of
+   iets dergeliks. Sulke wysigings word dan ook as "klein" aangetoon by
+   die bladsy, Onlangse wysigings en u dophoulys. So weet ander gebruikers
+   dat hulle nie so 'n wysiging na hoef te gaan nie, aangesien dit nie
+   werklik die inhoud van die artikel verander het nie. Die toevoeging van
+   nuwe inligting, hoe min ook, is egter nie 'n klein wysiging nie.
+
+[wysig] Ek het spesiale toestemming gekry om 'n kopie van 'n foto of 'n
+artikel op Wikipedia te sit. Kan ek dit dan maar doen?
+
+   A. Ja en nee. Indien die foto of teks onder 'n vrye lisensie vrygestel
+   is, mag u dit inderdaad doen. Indien die toestemming u egter toelaat om
+   die beeld/teks in Wikipedia te gebruik (en nêrens anders nie), kan ons
+   dit nie hier aanvaar nie.
+
+   Indien u byvoorbeeld 'n foto wil oplaai wat deur 'n kennis van u geneem
+   is, moet hy sy toestemming aan u per e-pos stuur. 'n Kopie van die
+   e-pos, wat sy naam en e-posadres duidelik toon, kan dan geplaas word by
+   Wikipedia:Bronne en moet die naam van die beeldlêer meld en onder watse
+   vrye lisensie dit vrygestel word.
+
+[wysig] Kan ek skakels na eksterne webbladsye byvoeg, sonder om die inhoud na
+Wikipedia op te laai?
+
+   A. Eksterne skakels is aanvaarbaar, maar let wel: Wikipedia is nie 'n
+   versameling van eksterne skakels nie. Indien 'n artikel te veel, of
+   nie-gepaste skakels het, kan enige persoon die skakels hersien en
+   sommige verwyder. Skakels na erkende instellings wat betroubare bronne
+   is op die gebied van die artikel se onderwerp is aanvaarbaar. Geen
+   skakels na advertensiewerwe of persoonlike webwerwe nie, asseblief!
+
+[wysig] Wat is die nut van 'n geregistreerde gebruikersrekening?
+
+   A. 'n Geregistreerde gebruikersrekening is nie verplig nie, maar u kan
+   allerlei voorkeure instel indien u oor een beskik. Dié voorkeure word
+   dan gestoor tussen u besoeke aan Wikipedia. Ook kan u dan 'n
+   gebruikersnaam kies, wat in plaas van u IP-adres wys wanneer u 'n
+   wysigings maak.
+
+[wysig] Die antwoord op my vraag was nie op hierdie bladsy nie. Wat moet ek
+nou doen?
+
+   A. Stel gerus enige vrae wat u mag hê in die Geselshoekie. Afhangende
+   van die aktiwiteit van die ander gebruikers kan u u antwoord binne 'n
+   dag of twee, of selfs binne 'n paar uur hê.
+

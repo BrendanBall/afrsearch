@@ -1,0 +1,52 @@
+Elektronmikroskopie
+
+
+   'n Beeld van 'n mier vanaf 'n skandering-elektromikroskoop
+   'n Beeld van 'n mier vanaf 'n skandering-elektromikroskoop
+
+   In die 1930's het Ernst Ruska die eerste elektronmikroskoop gebou deur
+   gebruik te maak van elektromagnetiese lense om die elektronbundel te
+   fokus^[1].
+
+   Transmissie-elektronmikroskopie (TEM) is 'n regstreekse manier om
+   makromolekulêre struktuur te bepaal. Dit het in die 1990's
+   naby-atoomresolusie vir proteïenstrukture bereik. Die elektronkanon-,
+   elektronlens- en elektronkamerastelsels word saam met die dun monsters
+   in 'n vakuumkolom geplaas. Aangesien die elektrone wat vanaf die
+   monster verstrooi word deur die objektieflens herenig word om 'n
+   vergrote beeld te vorm, word die fase-inligting behou. Dus is geen
+   bykomende eksperimente nodige om fase-inligting te verkry, soos in die
+   geval van X-straalkristallografie nie. Die elektrongolflengte is
+   ongeveer 0,5 nm, maar beperkings op elektronlensgehalte noodsaak die
+   gebruik van klein openings wat die mikroskoopresolusie tot 10 nm
+   beperk. Hierdie resolusie kan verkry word van moderne TEM'e van dun
+   monsters wat sterk verstrooi en sensitief is vir elektronbundelskade.
+   In die 1950's is die membraantopologie van selstrukture soos die
+   mitochondrion eers op beeld vasgelê in dun snitte van vaste,
+   gedehidreerde en ingebedde biologiese weefsel. Die snitte is met swaar
+   metaalsoute gekleur om die proteïen- en lipiedstrukture sigbaar te
+   maak. In die 1960's is van negatiewe verkleuring gebruik gemaak. Dit is
+   'n eenvoudige en uiters doeltreffende manier om die algehele vorm en
+   simmetrie van makromolekulêre komplekse te beskou. Aan die begin van
+   die 1960's, en deur die loop van die 1970's en die 1980's, is die
+   belangrikste beeldprosesseringsmetodes vir biologiese strukture,
+   simmetrie-analise en die driedimensionele heropbou van ikosaëdriese
+   virusse en heliese vesels gevestig. In die 1990's is krio-TEM ontwikkel
+   in 'n belangrike instrument vir strukturele biologie.
+   Naby-atoomresolusie is bereik vir tweedimensionele kristalle van die
+   membraanproteïene bakteriorhodopsin en tubulien. Gesofistikeerde
+   metodes vir die herstel van versteurings is ontwikkel vir beelde van
+   tweedimensionele kristalle en heliese samestellings. Die snelste
+   ontwikkeling was die verhoging in resolusie verkrygbaar met
+   enkeldeeltjies (ongeveer 70 nm vir hepatitis-B-kerndeeltjies), wat
+   alfaheliese sekondêre strukture geskei het. Hierdie vooruitgang is te
+   danke aan verbeterings in die hoëresolusie-kontras van swak verstrooide
+   monsters wat verkry is deur veldemissiekanonmikroskope te gebruik,
+   verbeterings in rekenaarverwerking en veel groter datastelle.
+
+[wysig] Bronne
+
+    1. ^ Ernst Ruska Nobel Prize autobiography
+
+   Kategorieë: Tegnologie • Fisika
+

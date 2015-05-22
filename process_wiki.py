@@ -43,12 +43,11 @@ def scrub(min_lines=20):
 			"September",
 			"Oktober",
 			"November",
-			"Desember"
+			"Desember",
+			"Wikipedia~"
 			]
 
 	for fname in os.listdir("output"):
-		delete = False
-
 		# remove image pages
 		for ext in image_ext:
 			if ext in fname:

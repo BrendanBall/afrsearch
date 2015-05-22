@@ -1,10 +1,10 @@
-{% extends "layout.html" %}
-{% block body %}
 
-<h1>Result</h1>
+<h1>Results</h1>
 
-<pre>
-	{{top_result}}
-</pre>
+<ul id="results">
+	{% for item in results %}
+	<li><a href="/doc?filename={{ item.name }}">{{ item.name }}</a></li>
+	{% endfor %}
+</ul>
 
-{% endblock %}	
+

@@ -8,4 +8,7 @@
 	<input type="submit" />
 </form>
 
+{% if results is defined %}
+	{% include "results.html" %}
+{% endif %}
 {% endblock %}	

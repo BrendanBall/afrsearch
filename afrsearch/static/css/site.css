@@ -1,22 +1,54 @@
-h1 {
-	color: blue;
+body {
+	font-size: 14pt;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#content {
+	width: 450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 *:focus {
     outline: 0;
 }
 
-#search input[type="text"] {
-	background: url(/static/images/search-white.png) no-repeat 10px 6px #444;
-	border: 0 none;
-	font: bold 12px Arial,Helvetica,Sans-serif;
+#search-icon {
+	position: relative;
+	z-index: 99;
+	left: 1.5em;
+	font-size: 30pt;
+}
+
+#search {
+	margin-left: -50px;
+	margin-top: 100px;
+	white-space: nowrap;
+}
+
+#search input[type="text"], .fa-search {
+	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3); 
 	color: #d7d7d7;
-	width: 250px;
-	padding: 6px 15px 6px 35px;
+}
+
+#search input[type="text"] {
+	background: #444;
+	padding: 6px 15px 6px 70px;
+	border: 0 none;
+	font: bold 40px Arial,Helvetica,Sans-serif;
+	width: 450px;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
-	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3); 
 	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
 	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
 	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
@@ -27,5 +59,5 @@ h1 {
 }
 
 #search input[type="text"]:focus {
-	width: 300px;
+	width: 450px;
 }

@@ -4,10 +4,13 @@
 	<meta charset="utf-8">
 	<link rel="shortcut icon" type="image/png" href="/static/images/google_favicon_128.png"/>
 	<link rel="stylesheet" href="/static/css/site.css"> 
+	<link rel="stylesheet" href="/static/css/font-awesome.min.css"> 
 	<title>{{ title }} {{ query }}</title>
 </head>
 <body>
-{% block body %}{% endblock %}
+	<div id="content">
+		{% block body %}{% endblock %}
+	</div>
 </body>
 </html>
 

@@ -21,9 +21,7 @@ def search():
 
 	for result in results:
 		result["name"] = os.path.basename(result["id"])
-	print results
 	return render_template("index.html", title="Results", results=results)
-
 
 @app.route("/doc", methods=["GET"])
 def document():
@@ -32,8 +30,6 @@ def document():
 	with open(path, "rb") as f:
 		file_contents = f.read().decode("utf-8")	
 	return render_template("result.html", title="Results", document=file_contents)
-
-
 
 @app.route("/static/<path:path>", methods=["GET"])
 def staticfiles(path):

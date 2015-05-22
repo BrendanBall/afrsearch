@@ -15,9 +15,13 @@ def index():
 def search():
 	solr_opt["q"] = request.args["query"]
 	response = requests.get(solr_url, params=solr_opt)
-	results = json.loads(response.content)
-	return response.content
-	# return render_template("index.html", title="Search", query=request.args["query"])
+	results = response.json()
+	top_result_id = results["response"]["docs"][0]["id"]
+
+	with open(top_result_id, "rb") as f:
+		file_contents = f.read().decode("utf-8")
+
+	return render_template("result.html", title="Results", top_result=file_contents)
 
 @app.route("/static/<path:path>", methods=["GET"])
 def staticfiles(path):

@@ -16,11 +16,12 @@ def index():
 @app.route("/search", methods=["GET"])
 def search():
 	solr_opt["q"] = request.args["query"]
-	response = requests.get(solr_url, params=solr_opt)
-	results = response.json()
+	response = requests.get(solr_url, params=solr_opt).json()
+	results = response["response"]["docs"]
 
 	for result in results:
 		result["name"] = os.path.basename(result["id"])
+	print results
 	return render_template("index.html", title="Results", results=results)
 
 

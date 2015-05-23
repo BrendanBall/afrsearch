@@ -8,7 +8,7 @@ $(document).ready(function() {
     for(var index = 0; index< alph.length; index++){
 
 
-        for(var i=0; i<90; i+=30){
+        for(var i=0; i<3000; i+=30){
             baseUrl = "http://woordelys.co.za/?alph=" + alph[index] + "&alph_offset="+i;
             $.ajax({
                 url: baseUrl,
@@ -91,7 +91,7 @@ $(document).ready(function() {
                                 insert_index = (words[w].indexOf(ge_word.substr(4)));
 
                                 if(insert_index >-1){
-                                    words[w] = words[w].substr(0, text_index)  + " " + words[w].substr(0, insert_index)+ ge_word.substr(2)  + words[w].substr(text_index);
+                                    words[w] = words[w].substr(0, text_index)  + ", " + words[w].substr(0, insert_index)+ ge_word.substr(2)  + words[w].substr(text_index);
                                 }
                                 
 
@@ -130,7 +130,7 @@ $(document).ready(function() {
                                 insert_index = (words[w].indexOf(ge_word.substr(0, ge_word.length -2)));
 
                                 if(insert_index >-1){
-                                    words[w] = words[w].substr(0, text_index)  + " " + words[w].substr(0, insert_index)+ ge_word  + words[w].substr(insert_index + ge_word.length -2);
+                                    words[w] = words[w].substr(0, text_index)  + ", " + words[w].substr(0, insert_index)+ ge_word  + words[w].substr(insert_index + ge_word.length -2);
                                 }
                                 
                                 
@@ -171,7 +171,7 @@ $(document).ready(function() {
                                 dash_index = (words[w].indexOf("-"+matches[x]));
 
                                 words[w] = words[w].substr(0, dash_index) + words[w].substr(dash_index+matches[x].length+1);
-                                words[w] = words[w].substr(0, text_index)  + " " + words[w].substr(0, text_index -1)+ matches[x]  + words[w].substr(text_index);
+                                words[w] = words[w].substr(0, text_index)  + ", " + words[w].substr(0, text_index -1)+ matches[x]  + words[w].substr(text_index);
 
                             }
                             //combine all words seperated by comma's

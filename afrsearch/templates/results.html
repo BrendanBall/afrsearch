@@ -1,7 +1,15 @@
+
+<span>Total number of results found: {{ results.numResults }}</span>
+
 <ol id="results">
-	{% for item in results %}
-	<li><a href="/doc?filename={{ item.name }}">{{ item.name }}</a></li>
+	{% for item in results.results %}
+	<li><a href="/doc?filename={{ item }}">{{ item }}</a></li>
 	{% endfor %}
 </ol>
 
 
+<ol id="results">
+	{% for i in range(results.pages) %}
+	<li><a href="/search?query={{ query }}&page={{ i }}">{{ i }}</a></li>
+	{% endfor %}
+</ol>

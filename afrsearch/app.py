@@ -20,9 +20,26 @@ def search():
 	page = 0
 	if "page" in request.args:
 		page = eval(request.args["page"])
-	results = solar_request(request.args["query"], page)
+	results = solar_request(stem(request.args["query"]), page)
 	return render_template("index.html", title="Results", results=results, query=request.args["query"])
 
+def stem(query):
+	new_query = query
+	with open("stem.txt", "rb") as f:
+		raw = f.read().decode("utf-8")
+	lines = raw.split("\n")
+	for line in lines:
+		for word in line.split(","):
+			if query == word.strip():
+				line.replace(query, "")
+				new_query +=" %s" % line
+	
+	if not query == new_query:
+		print "Stemmed '%s' to '%s'" % (query, new_query)
+	return new_query
+
+
+	
 
 def solar_request(search_query, page):
 	solr_opt["q"] = search_query

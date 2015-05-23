@@ -12,10 +12,8 @@ a:hover {
 }
 
 #content {
-	width: 450px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin-top: 100px;
+	margin-left: 100px;
 }
 
 *:focus {
@@ -25,13 +23,12 @@ a:hover {
 #search-icon {
 	position: relative;
 	z-index: 99;
-	left: 1.5em;
+	left: 60px;
 	font-size: 30pt;
 }
 
 #search {
 	margin-left: -50px;
-	margin-top: 100px;
 	white-space: nowrap;
 }
 

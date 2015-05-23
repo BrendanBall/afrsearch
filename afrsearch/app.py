@@ -27,7 +27,6 @@ def search():
 def solar_request(search_query, page):
 	solr_opt["q"] = search_query
 	solr_opt["start"] = page * results_per_page
-	print(solr_opt["start"])
 	response = requests.get(solr_url, params=solr_opt).json()
 	results = response["response"]["docs"]
 	filenames = []

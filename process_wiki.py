@@ -14,7 +14,7 @@ def find_files(base):
 def process_files(files):
 	for in_file in files:
 		basename = in_file[in_file.rfind("/"):]
-		basename = basename[:basename.rfind(".")]+".txt"
+		basename = basename[:basename.rfind(".")]
 		print "Processing %s" % in_file
 		with open("output/%s" % basename, "w") as out_file:
 			process(in_file, out_file)
@@ -44,7 +44,8 @@ def scrub(min_lines=20):
 			"Oktober",
 			"November",
 			"Desember",
-			"Wikipedia~"
+			"Wikipedia~",
+			"Beeld"
 			]
 
 	for fname in os.listdir("output"):

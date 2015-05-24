@@ -7,7 +7,7 @@ from flask import Flask, send_from_directory, render_template, request
 
 app = Flask(__name__)
 
-results_per_page = 15
+results_per_page = 10
 solr_url = "http://localhost:8983/solr/af-search/select"
 solr_opt = {"wt": "json", "rows": results_per_page}
 documentDb = "db/"
@@ -60,8 +60,7 @@ def solar_request(search_query, page):
 
 	for result in results:
 		filename = os.path.basename(result["id"])
-		# summary = document_summary(filename)
-		summary = ""
+		summary = document_summary(filename)
 		documents.append({"filename": filename, "summary": summary})
 	pages = int(math.ceil(numResults / float(results_per_page)))
 

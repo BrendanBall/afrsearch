@@ -7,6 +7,14 @@ a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 }
 
+.summary {
+	width: 400px;
+}
+
+#results li {
+	margin-bottom: 10px
+}
+
 a:hover {
 	text-decoration: underline;
 }
@@ -75,5 +83,6 @@ a:hover {
 }
 
 #page-numbers .current-page {
-	color: blue;
+	color: #4444ff;
+	text-decoration: underline;
 }

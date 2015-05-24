@@ -5,8 +5,10 @@
 
 <ol id="results" start="{{ results.start }}">
 	{% for item in results.documents %}
+
 	<li><a href="/doc?filename={{ item.filename }}">{{ item.filename }}</a>
-	<span>{{item.summary}}</span>
+	<br>
+	<div class="summary">{{item.summary}}</div>
 	</li>
 	{% endfor %}
 </ol>

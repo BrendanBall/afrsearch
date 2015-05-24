@@ -1,16 +1,104 @@
-# Licensed to the Apache Software Foundation (ASF) under one or more
-# contributor license agreements.  See the NOTICE file distributed with
-# this work for additional information regarding copyright ownership.
-# The ASF licenses this file to You under the Apache License, Version 2.0
-# (the "License"); you may not use this file except in compliance with
-# the License.  You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
+'n
+In
+aan
+af
+agter
+al
+ander
+anders
+as
+behalwe
+behalwe vir
+benewens
+binne
+binnein
+binnekant van
+bo op
+buite
+by
+daai / daardie
+daar
+daardie
+dan
+dat
+deur
 die
+dieselfde
+dit
+doen
+ek
+elke
+gedurende
+gehad
+haar
+het
+hierbo
+hierdie
+hom
+iets
+in
+in plaas van
+in teenstelling met
+is
+jou
+kan
+keer
+kon
+langs
+langs aan
+maar
+met
+my
+na
+naby
+naby aan
+namens
+neer
+nou
+om
+omdat
+onder
+ons
+ook
+oor
+op
+per
+plus
+rondom
+sal
+sedert
+so
+so ver as
+sonder
+soos
+sou
+sowel as
+teen
+teenoor
+teenoorgestelde
+ten spyte van
+terwyl
+todat
+tot
+totdat
+tussen
+uit
+van
+veel
+ver van
+verder
+vir
+volgende
+volgens
+voor
+voordat
+waar
+wanneer
+was
+wat
+weens
+weens / omdat
+weer
+wil
+words	twee woorde
+wou

@@ -14,7 +14,7 @@ documentDb = "db/"
 
 @app.route("/", methods=["GET"])
 def index():
-    return render_template("index.html", title="Search")
+    return render_template("index.html", title="Soek")
 
 @app.route("/search", methods=["GET"])
 def search():
@@ -23,7 +23,7 @@ def search():
 		page = eval(request.args["page"])
 	stemmed = stem(request.args["query"])
 	results = solar_request(stemmed, page)
-	return render_template("index.html", title="Results", results=results, stemmed=stemmed, query=request.args["query"], page=page)
+	return render_template("index.html", title="Soek", results=results, stemmed=stemmed, query=request.args["query"], page=page)
 
 def stem(query):
 	new_query = ""
@@ -73,7 +73,7 @@ def document():
 	path = os.path.join(documentDb, filename)
 	with open(path, "rb") as f:
 		file_contents = f.read().decode("utf-8")	
-	return render_template("result.html", title="Results", document=file_contents)
+	return render_template("result.html", title="Dokument", document=file_contents)
 
 @app.route("/static/<path:path>", methods=["GET"])
 def staticfiles(path):

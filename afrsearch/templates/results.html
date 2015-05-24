@@ -1,6 +1,6 @@
 
 <div id="results-info">
-	{{ results.numResults }} results for query "{{ stemmed }}"
+	{{ results.numResults }} resultate vir navraag "{{ stemmed }}"
 </div>
 
 <ol id="results" start="{{ results.start }}">
@@ -16,7 +16,7 @@
 
 
 <ol id="page-numbers">
-	<li>Page</li>
+	<li>Bladsy</li>
 	{% for i in range(results.pages) %}
 	{% if i == page %}
 	<li><a class="current-page" href="/search?query={{ query }}&page={{ i }}">{{ i + 1}}</a></li>

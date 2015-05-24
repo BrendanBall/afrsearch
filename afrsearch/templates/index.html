@@ -1,12 +1,14 @@
 {% extends "layout.html" %}
 {% block body %}
 
-<form id="search" action="/search" method="GET">
-	<span id="search-icon"><i class="fa fa-search"></i></span>
-	<input name="query" type="text" size="40" placeholder="Search" />
-</form>
+<div id="content">
+	<form id="search" action="/search" method="GET">
+		<span id="search-icon"><i class="fa fa-search"></i></span>
+		<input name="query" type="text" size="40" placeholder="Soek" />
+	</form>
 
-{% if results is defined %}
+	{% if results is defined %}
 	{% include "results.html" %}
-{% endif %}
+	{% endif %}
+</div>
 {% endblock %}	

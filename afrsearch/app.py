@@ -36,14 +36,15 @@ def stem(query):
 	
 	#if not query == new_query:
 	#	print "Stemmed '%s' to '%s'" % (query, new_query)
+	new_query.replace(",", "")
 	return new_query
 
 
 def document_summary(filename):
 	path = os.path.join(documentDb, filename)
 	with open(path, "rb") as f:
-		file_contents = f.read(100).decode("utf-8")	
-	return file_contents + "..."
+		file_contents = f.read().decode("utf-8")	
+	return file_contents[0:100] + "..."
 	
 
 def solar_request(search_query, page):

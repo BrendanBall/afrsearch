@@ -3,12 +3,16 @@ body {
 }
 
 a:link, a:visited, a:hover, a:active {
-	color: #000;
+	color: #0000FF;
 	text-decoration: none;
 }
 
 a:hover {
 	text-decoration: underline;
+}
+
+#results-info {
+	margin-top: 20px;
 }
 
 #content {

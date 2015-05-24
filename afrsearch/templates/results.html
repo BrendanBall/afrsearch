@@ -1,5 +1,7 @@
 
-<span>Total number of results found: {{ results.numResults }} </span>
+<div id="results-info">
+	{{ results.numResults }} results for query "{{ stemmed }}"
+</div>
 
 <ol id="results" start="{{ results.start }}">
 	{% for item in results.documents %}

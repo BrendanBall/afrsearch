@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import math
 import requests
 from flask import Flask, send_from_directory, render_template, request
@@ -20,11 +21,12 @@ def search():
 	page = 0
 	if "page" in request.args:
 		page = eval(request.args["page"])
-	results = solar_request(stem(request.args["query"]), page)
-	return render_template("index.html", title="Results", results=results, query=request.args["query"], page=page)
+	stemmed = stem(request.args["query"])
+	results = solar_request(stemmed, page)
+	return render_template("index.html", title="Results", results=results, stemmed=stemmed, query=request.args["query"], page=page)
 
 def stem(query):
-	new_query = query
+	new_query = ""
 	with open("stem.txt", "rb") as f:
 		raw = f.read().decode("utf-8")
 	lines = raw.split("\n")
@@ -34,9 +36,10 @@ def stem(query):
 				line.replace(query, "")
 				new_query +=" %s" % line
 	
-	#if not query == new_query:
-	#	print "Stemmed '%s' to '%s'" % (query, new_query)
-	new_query.replace(",", "")
+	new_query = new_query.replace(",", "")
+	new_query = query + re.sub(r"\b%s\b" % query , "", new_query)
+	if not query == new_query:
+		print "Stemmed '%s' to '%s'" % (query, new_query)
 	return new_query
 
 

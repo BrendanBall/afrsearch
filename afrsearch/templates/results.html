@@ -2,8 +2,10 @@
 <span>Total number of results found: {{ results.numResults }} </span>
 
 <ol id="results" start="{{ results.start }}">
-	{% for item in results.filenames %}
-	<li><a href="/doc?filename={{ item }}">{{ item }}</a></li>
+	{% for item in results.documents %}
+	<li><a href="/doc?filename={{ item.filename }}">{{ item.filename }}</a>
+	<span>{{item.summary}}</span>
+	</li>
 	{% endfor %}
 </ol>
 

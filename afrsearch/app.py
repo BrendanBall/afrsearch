@@ -39,6 +39,11 @@ def stem(query):
 	return new_query
 
 
+def document_summary(filename):
+	path = os.path.join(documentDb, filename)
+	with open(path, "rb") as f:
+		file_contents = f.read(100).decode("utf-8")	
+	return file_contents + "..."
 	
 
 def solar_request(search_query, page):
@@ -46,14 +51,16 @@ def solar_request(search_query, page):
 	solr_opt["start"] = page * results_per_page
 	response = requests.get(solr_url, params=solr_opt).json()
 	results = response["response"]["docs"]
-	filenames = []
+	documents = []
 	numResults = response["response"]["numFound"]
 
 	for result in results:
-		filenames.append(os.path.basename(result["id"]))
+		filename = os.path.basename(result["id"])
+		summary = document_summary(filename)
+		documents.append({"filename": filename, "summary": summary})
 	pages = int(math.ceil(numResults / float(results_per_page)))
 
-	return {"numResults": numResults, "filenames": filenames, "pages": pages, "start": solr_opt["start"] + 1}
+	return {"numResults": numResults, "documents": documents, "pages": pages, "start": solr_opt["start"] + 1}
 	 
 
 @app.route("/doc", methods=["GET"])

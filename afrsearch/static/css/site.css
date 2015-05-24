@@ -58,3 +58,18 @@ a:hover {
 #search input[type="text"]:focus {
 	width: 450px;
 }
+
+#page-numbers {
+	float: left;
+	list-style: none;
+	padding-left: 10px;
+
+}
+
+#page-numbers li {
+	display: inline;
+}
+
+#page-numbers .current-page {
+	color: blue;
+}

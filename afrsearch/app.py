@@ -6,10 +6,10 @@ from flask import Flask, send_from_directory, render_template, request
 
 app = Flask(__name__)
 
+results_per_page = 15
 solr_url = "http://localhost:8983/solr/af-search/select"
-solr_opt = {"wt": "json"}
+solr_opt = {"wt": "json", "rows": results_per_page}
 documentDb = "db/"
-results_per_page = 10
 
 @app.route("/", methods=["GET"])
 def index():
@@ -21,7 +21,7 @@ def search():
 	if "page" in request.args:
 		page = eval(request.args["page"])
 	results = solar_request(stem(request.args["query"]), page)
-	return render_template("index.html", title="Results", results=results, query=request.args["query"])
+	return render_template("index.html", title="Results", results=results, query=request.args["query"], page=page)
 
 def stem(query):
 	new_query = query
@@ -34,8 +34,8 @@ def stem(query):
 				line.replace(query, "")
 				new_query +=" %s" % line
 	
-	if not query == new_query:
-		print "Stemmed '%s' to '%s'" % (query, new_query)
+	#if not query == new_query:
+	#	print "Stemmed '%s' to '%s'" % (query, new_query)
 	return new_query
 
 
@@ -53,7 +53,7 @@ def solar_request(search_query, page):
 		filenames.append(os.path.basename(result["id"]))
 	pages = int(math.ceil(numResults / float(results_per_page)))
 
-	return {"numResults": numResults, "results": filenames, "pages": pages}
+	return {"numResults": numResults, "filenames": filenames, "pages": pages, "start": solr_opt["start"] + 1}
 	 
 
 @app.route("/doc", methods=["GET"])

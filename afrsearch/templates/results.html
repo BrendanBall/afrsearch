@@ -1,15 +1,24 @@
 
-<span>Total number of results found: {{ results.numResults }}</span>
+<span>Total number of results found: {{ results.numResults }} </span>
 
-<ol id="results">
-	{% for item in results.results %}
+<ol id="results" start="{{ results.start }}">
+	{% for item in results.filenames %}
 	<li><a href="/doc?filename={{ item }}">{{ item }}</a></li>
 	{% endfor %}
 </ol>
 
 
-<ol id="results">
+
+<ol id="page-numbers">
+	<li>Page</li>
 	{% for i in range(results.pages) %}
-	<li><a href="/search?query={{ query }}&page={{ i }}">{{ i }}</a></li>
+	{% if i == page %}
+	<li><a class="current-page" href="/search?query={{ query }}&page={{ i }}">{{ i + 1}}</a></li>
+	{% else %}
+
+	<li><a href="/search?query={{ query }}&page={{ i }}">{{ i + 1}}</a></li>
+
+	{% endif %}
 	{% endfor %}
+	
 </ol>

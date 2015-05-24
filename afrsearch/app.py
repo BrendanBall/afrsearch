@@ -56,7 +56,8 @@ def solar_request(search_query, page):
 
 	for result in results:
 		filename = os.path.basename(result["id"])
-		summary = document_summary(filename)
+		# summary = document_summary(filename)
+		summary = ""
 		documents.append({"filename": filename, "summary": summary})
 	pages = int(math.ceil(numResults / float(results_per_page)))
 

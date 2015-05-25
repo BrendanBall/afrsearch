@@ -16,7 +16,7 @@ binnekant van
 bo op
 buite
 by
-daai
+daai / daardie
 daar
 daardie
 dan
@@ -98,6 +98,7 @@ wanneer
 was
 wat
 weens
+weens / omdat
 weer
 wil
 words	twee woorde

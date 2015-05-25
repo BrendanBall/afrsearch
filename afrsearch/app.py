@@ -21,9 +21,14 @@ def search():
 	page = 0
 	if "page" in request.args:
 		page = eval(request.args["page"])
-	stemmed = stem(request.args["query"])
+	stemmed = ""
+	stopwords = get_stopwords()
+	for w in request.args["query"].lower().split(" "):
+		if w in stopwords:
+			continue
+		stemmed += stem(w)+" "
 	results = solar_request(stemmed, page)
-	return render_template("index.html", title="Results", results=results, stemmed=stemmed, query=request.args["query"], page=page)
+	return render_template("index.html", title="Results", results=results, stemmed=stemmed, query=request.args["query"].lower(), page=page)
 
 def stem(query):
 	new_query = ""
@@ -38,10 +43,12 @@ def stem(query):
 	
 	new_query = new_query.replace(",", "")
 	new_query = query + re.sub(r"\b%s\b" % query , "", new_query)
-	if not query == new_query:
-		print "Stemmed '%s' to '%s'" % (query, new_query)
 	return new_query
 
+def get_stopwords():
+	with open("stopwords.txt", "rb") as f:
+		lines = f.read().decode("utf-8").splitlines()
+	return lines
 
 def document_summary(filename):
 	path = os.path.join(documentDb, filename)
